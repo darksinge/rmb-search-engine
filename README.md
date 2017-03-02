@@ -3,10 +3,14 @@
 ## Project Proposal
 
 1-2 page proposal - brief descriptive title of your project.
+
+#### Introduction
+
+  While politics is important to many people, getting involved in understanding the legislature can be a hard task for a normal Utahn. We seek to make it a little less difficult by giving Utahns a new way to look at the bills going through the state legislature this year. Our goal is to help people understand the type of legislature going through, how their representitives are voting, and how it will affect Utah.
  
 #### What is exactly the function of your tool? That is, what will it do? 
  
- Have another resource to access Utah's legislative bills with social-media (emoticons for user response) type features to help users learn more about bills. It will also make it easier for Utahns to sort through the large volume of bills that are passed each year by grouping them by similarity.
+ Have another resource to access Utah's legislative bills with social-media type features, like emoticons for user response and comments, to help users learn more about bills. It will also make it easier for Utahns to sort through the large volume of bills that are passed each year by grouping them by similarity.
 
 #### Why would we need such a tool and who would you expect to use it and benefit from it? 
  
@@ -14,7 +18,7 @@
 
 #### Does this kind of tools already exist? If similar tools exist, how is your tool different from them? Would people care about the   difference? How hard is it to build such a tool? What is the challenge?
 
-... While Utah does publish online information about each bill that is discussed in both the House and Senate, they are organized in an unintuitive way that makes it difficult for civic-minded Utahns to get a big picture of what is going on in Utah politics.  
+... While Utah does publish online information about each bill that is discussed in both the House and Senate, they are organized in an unintuitive way that makes it difficult for civic-minded Utahns to get a big picture of what is going on in Utah politics. Disscussions about these bills can happen other places, like Facebook, Twitter, and news site comment boards, having a place dedicated for the disscussion of these bills would be unique. We want to make this site engaging for users and simple to navigate and understand. Making the basic functions that we want for this site may not be too hard, but making a good and robust UI will be the greater challange.
 
 #### How do you plan to build it? You should mention the data you will use and the core algorithm that you will implement.
 
@@ -38,5 +42,5 @@ Another feature we hope to implement is an online interface that will present da
 
 
 #### How will you demonstrate the usefulness of your tool?
-...
+... To prove the usefulness of our tool in general, we can invite people to use it. To prove it in class, we can invite the class to use it during our final presentaion.
 
