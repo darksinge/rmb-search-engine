@@ -21,6 +21,7 @@
 We'll use data obtained from government websites that host current and past legislative bills. One of our main goals will be to create a clustering algorithm that will allow us to see which bills are more closely related to each other. We'll also gather data on the different representatives in our state government to perform analytics to accurately predict if a given piece of legislation will pass or fail.
 
 Our core algorithms will be:
+
 1. K-means to classify the bills into clusters
 2. Search using tf-idf sorting
 
