@@ -1,46 +1,47 @@
-# Utah Legislature IR Project
+## IR Utah Legislation Project
 
-## Project Proposal
+Craig Blackburn, Whitney DeSpain, Bradley Robinson
 
-1-2 page proposal - brief descriptive title of your project.
+## 1    Introduction
 
-#### Introduction
+While politics is important to many people, getting involved and understandinglegislature can be a hard task for the average person.  We seek to make it lessdifficult by giving Utahans a new way to look at bills going through our statelegislature.  Our goal is to develop a software tool that automates the processof presenting relevant and engaging legislative data.
 
-  While politics is important to many people, getting involved in understanding the legislature can be a hard task for a normal Utahn. We seek to make it a little less difficult by giving Utahns a new way to look at the bills going through the state legislature this year. Our goal is to help people understand the type of legislature going through, how their representitives are voting, and how it will affect Utah.
+## 2    Utah Legislation Classification Tool
+
+### 2.1 Tool Function
+
+Our tool will make it easier for Utahan’s to sort through the large volume ofbills that are presented each year by classifying bills of similarity.It will also provide social-media features such as commenting, user responses,and an up/down-voting system.  This will help Utah citizens learn, understand,and become more involved with bills presented to the Utah legislature while si-multaneously providing additional data to improve classification and determinerelevance of bills.
+
+### 2.2 User Audience and Benefits of Tool
+
+Utah legislation is confusing and can be difficult to understand.  Hundreds ofbills are presented to the Utah State legislature every year.  Our tool would helppeople  become  more  involved  as  citizens  by  providing  accessible  informationin an concise intuitive way.  The current search tool available onle.utah.govis confusing and difficult to navigate, especially for someone who is unfamiliarwith the functions of state legislation.
+
+### 2.3 Project Challenges and Differences of Existing Tools
+
+The challenge of this project will be developing the underlying algorithms thatwill allow our website to classify and present useful and relevant information to end users.
+
+While the state of Utah publishes information online about each bill that is discussed in both the House and Senate, they are organized in an unintuitive way that makes it difficult for civic-minded Utahan’s to get a big picture of what is going on in state government.  Discussions about these bills can happen other places such as Facebook, Twitter, and news site comment boards.  However, a website dedicated to the discussion of these bills that presents information that's easy to understand would be unique.
+
+### 2.4    Project Development & Algorithms
  
-#### What is exactly the function of your tool? That is, what will it do? 
+We will use data obtained from government websites (le.utah.gov) that host current  and  past  legislative  bills.   One  of  our  main  goals  will  be  to  create  a clustering algorithm that will allow us to see which bills are more closely related to each other and then group them accordingly on the website. 
+
+We’ll  also  gather  data  on  voting  behavior  of  representatives  in  our  state government to perform analytics that accurately predict if a given piece of legislation will pass or fail. 
+
+To help accomplish these design goals, we will use algorithms such as,
+ * K-Means to classify the bills into clusters.
+ * Search using tf-idf sorting.
+ * Vector Space Classification (e.g., Rocchio, kNN) to determine similarityof bills.
  
- Have another resource to access Utah's legislative bills with social-media type features, like emoticons for user response and comments, to help users learn more about bills. It will also make it easier for Utahns to sort through the large volume of bills that are passed each year by grouping them by similarity.
-
-#### Why would we need such a tool and who would you expect to use it and benefit from it? 
+Implementation of a website will provide an interface to present data to usersin a meaningful format.  We can gather data from comments, a voting system, user  behavior,  and  user  feedback  with  the  addition  of  a  social  media  feature to improve the accuracy and relevance of our clustering and search algorithm results.
  
- Utah politics can seem inaccessible and there are a lot of bills that get passed, this would help people who want to be involved to access information in a more intuitive way.
+### 2.5    Resources
 
-#### Does this kind of tools already exist? If similar tools exist, how is your tool different from them? Would people care about the   difference? How hard is it to build such a tool? What is the challenge?
+Possible resources we can use in our project
 
-... While Utah does publish online information about each bill that is discussed in both the House and Senate, they are organized in an unintuitive way that makes it difficult for civic-minded Utahns to get a big picture of what is going on in Utah politics. Disscussions about these bills can happen other places, like Facebook, Twitter, and news site comment boards, having a place dedicated for the disscussion of these bills would be unique. We want to make this site engaging for users and simple to navigate and understand. Making the basic functions that we want for this site may not be too hard, but making a good and robust UI will be the greater challange.
-
-#### How do you plan to build it? You should mention the data you will use and the core algorithm that you will implement.
-
-We will use data obtained from government websites (le.utah.gov) that host current and past legislative bills. One of our main goals will be to create a clustering algorithm that will allow us to see which bills are more closely related to each other and then group them accordingly on the website. We'll also gather data on the different representatives in our state government to perform analytics to accurately predict if a given piece of legislation will pass or fail.
-
-Our core algorithms will be:
-
-1. K-means to classify the bills into clusters
-2. Search using tf-idf sorting
-
-Another feature we hope to implement is an online interface that will present data to users in a meaningful format that is clear and easy to understand via a web interface. After adding this social media aspect of the project, we can gather data from comments, a voting system, user behavior, and user feedback to improve the accuracy and relevance of our clustering and search algorithm results.
-
-#### What existing resources can you use?
-
-* The BeautifulSoup4 and Scrapy Python libraries to crawl and organize the data that is publicly available on the legislative web site.
-* A database such as SQL to store and access the data.
-* NLTK and SKLearn to process text data and create K-Means.
-* A visualization library (Matplotlib or D3) to help users see interesting relationships about legislators in Utah and voting over the years.
-* Existing algorithms to build an inverted index, tokenize terms, and support advanced searches (and, or, not, inclusive, exclusive, permuterm, parametric queries, etc.)
-* Web frameworks (NodeJS) to build a website that can display our findings and research
-
-
-#### How will you demonstrate the usefulness of your tool?
-... To prove the usefulness of our tool in general, we can invite people to use it. To prove it in class, we can invite the class to use it during our final presentaion.
-
+* data collection: TheBeautifulSoup4andScrapy Pythonlibraries to crawland organize publicly available data on the legislative website.
+* data storage: A MySQL database to store and access data.
+* text processing: NLTK and SKLearn to  process  text  data  and  create  K-Means.
+* presentation: A  visualization  library  (Matplotlib  or  D3)  to  help  users see interesting relationships about legislators in Utah and voting over the years.
+* search queries: Existing  algorithms  to  build  an  inverted  index,  tokenize terms, and support advanced searches (and, or, not, inclusive, exclusive, permuterm, parametric queries, etc.)
+* web interface: NodeJS runtime environment to build a website that displays our findings and research.
