@@ -128,8 +128,8 @@ def get_session(year, house):
 
 def main():
     # TODO: Expand this to 2011
-    for year in range(2011, 2018):
-        get_session(year, 'H')
+    for year in range(2016, 2017):
+        #get_session(year, 'H')
         get_session(year, 'S')
 
 
