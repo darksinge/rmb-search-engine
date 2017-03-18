@@ -1,0 +1,810 @@
+Sponsors: []Modifications: ; and(11)  failing to provide a prescription drug price list for prescription drugs as required inSection 
+
+58-17a-621
+
+.    58-17a-621.(1)  Any pharmacy in the state that receives reimbursement for its pharmaceuticalservices from Medicaid or the Utah Medical Assistance Program established in Section
+
+26-18-10
+
+ shall provide an accurate and current list of prescription drug prices at the dispensinglocation to any recipient, pharmacy patient, or consumer.(2)  The prescription drug price list shall be readily available to the recipient, pharmacypatient, or consumer upon request and maintained in a looseleaf binder.(3)  The pharmacy shall provide accurate data in the price list on:(a)  a quarterly basis for the 150 most frequently dispensed prescription drugs; and(b)  a monthly basis for the 25 most frequently dispensed prescription drugs.(4)  This section does not apply to an inpatient pharmacy located in a hospital orlong-term care facility licensed under Title 26, Chapter 21, Health Care Facility Licensing andInspection Act, when the prescription drug is dispensed to any inpatient of that facility.If this H.B. 350 and S.B.114, Amendments to Prescribing, Preparation, and Dispensingof Prescription Drugs, both pass, it is the intent of the Legislature that the Office of LegislativeResearch and General Counsel, in preparing the Utah Code database for publication, shall:(1)  insert the following language as Subsection 
+
+58-17b-502
+
+(15):"(15)  failing to provide a prescription drug price list for prescription drugs as requiredby Section 
+
+58-17b-622
+
+.";(2)  delete the "and" after Subsection 
+
+58-17b-502
+
+(13) and insert "and" after Subsection
+
+58-17b-502
+
+(14); and(3)  renumber Section 
+
+58-17a-621
+
+ in H.B. 350 to Section 
+
+58-17b-622
+
+.Full text:
+
+
+
+Utah State Legislature
+
+
+
+
+
+
+
+
+
+
+
+
+Legislators
+
+By Session (1896-Current)
+Alphabetical (Historical)
+Find by Address/Map
+More
+
+
+Bills
+
+Bills/Bill Requests
+Passed Bills
+2017 Bills
+
+Keyword Search
+Reading Calendars
+Tracking Service
+More
+
+
+Committees
+
+All Committees
+Appropriations
+Commissions
+
+Independent Legislative Ethics Commission
+Interim
+Standing
+Subcommittees
+Task Forces
+Bills In Committees
+
+
+Utah Code / Constitution
+
+
+Title/Chapter/Section
+Keyword Search 
+
+Utah Constitution
+Laws of Utah 1851-ongoing
+Utah Territorial Laws 
+More
+
+
+Senate
+
+Main Page 
+About The Senate 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Extraordinary Sessions 
+Reading Calendars 
+Past Floor Debates 
+Senate Journals 
+
+
+House
+
+Main Page
+About the House 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Reading Calendars 
+Past Floor Debates 
+Journals 
+Conflict of Interest Forms 
+
+
+Legislative Guide 
+
+Legislative Guide
+Civic Programs
+GRAMA (Records Requests)
+
+
+Publications
+
+Search Publications
+Appropriations
+Audits
+Bagels & Briefings
+Briefing Papers
+Digest of Legislation
+Legislative Drafting Manual
+
+Journals
+
+Interim Highlights
+
+Legislative Rules
+GRAMA (Records Requests)
+Public Email
+State Organization Charts
+YouTube Channel
+Requests for Proposals and Legal Notices
+More
+
+
+Legislative Histories
+
+Legislative History Resources
+How to Research
+Bill Drafting/Research Files (1990-Ongoing)
+
+Working Bills (1896-1989)
+Interim Committee Histories (1990-Ongoing) 
+Journals
+Past House Floor Debates
+Past Senate Floor Debates
+More
+
+
+Staff Offices
+
+All Legislative Offices
+Auditor General
+Fiscal Analyst
+Printing
+Research and General Counsel
+Staff Awards
+Job Opportunities
+More
+
+
+Links of Interest
+
+Utah Administrative Rules
+Courts
+Utah State Capitol
+State of Utah
+Federal Legislation
+More
+
+
+
+
+
+
+ 
+
+Download Zipped Introduced WordPerfect HB0350.ZIP
+[Status][Bill Documents][Fiscal Note][Bills Directory]
+
+
+H.B. 350
+
+
+
+
+
+            
+1
+
+    
+ CONSUMER ACCESS TO PRESCRIPTION
+
+            
+2
+
+    
+ DRUG PRICING DATA
+
+
+
+            
+3
+
+    
+2004 GENERAL SESSION
+
+            
+4
+
+    
+STATE OF UTAH
+
+            
+5
+
+    
+
+
+ Sponsor: David Ure
+
+
+
+            
+6
+
+    
+
+            
+7
+
+    
+ LONG TITLE
+            
+8
+
+    
+ General Description:
+            
+9
+
+    
+    This bill amends the Pharmacy Practice Act, requiring any pharmacy who receives
+            
+10
+
+    
+reimbursement from Medicaid or the Utah Medical Assistance Program to provide a list
+            
+11
+
+    
+of prescription drug prices for consumer review at the dispensing location and requires
+            
+12
+
+    
+the pharmacy to update the price list.  It designates noncompliance to be unprofessional
+            
+13
+
+    
+conduct and grounds for revocation of licensure and makes technical changes.
+            
+14
+
+    
+ Highlighted Provisions:
+            
+15
+
+    
+    This bill:
+            
+16
+
+    
+    .    requires certain pharmacies to provide data on prescription drug prices;
+            
+17
+
+    
+    .    requires the price list to be kept current on a quarterly and monthly basis;
+            
+18
+
+    
+    .    requires ready access by the recipient, patient, or consumer to the price list at the
+            
+19
+
+    
+dispensing location;
+            
+20
+
+    
+    .    designates noncompliance to be unprofessional conduct; and
+            
+21
+
+    
+    .    makes technical changes.
+            
+22
+
+    
+ Monies Appropriated in this Bill:
+            
+23
+
+    
+    None
+            
+24
+
+    
+ Other Special Clauses:
+            
+25
+
+    
+    This bill provides a coordination clause.
+            
+26
+
+    
+ Utah Code Sections Affected:
+            
+27
+
+    
+AMENDS:
+
+            
+28
+
+
+    
+     58-17a-502, as last amended by Chapter 184, Laws of Utah 2002
+            
+29
+
+    
+ENACTS:
+            
+30
+
+    
+     58-17a-621, Utah Code Annotated 1953
+            
+31
+
+    
+
+            
+32
+
+    
+Be it enacted by the Legislature of the state of Utah:
+            
+33
+
+    
+    Section 1.  
+Section  
+58-17a-502
+
+ is amended to read:
+            
+34
+
+    
+     58-17a-502.  Unprofessional conduct.
+            
+35
+
+    
+    "Unprofessional conduct" includes:
+            
+36
+
+    
+    (1)  willfully deceiving or attempting to deceive the division, the board, or their agents
+            
+37
+
+    
+as to any relevant matter regarding compliance under this chapter;
+            
+38
+
+    
+    (2) (a)  paying rebates to practitioners or any other health care providers, or entering
+            
+39
+
+    
+into any agreement with a medical practitioner or any other person for the payment or
+            
+40
+
+    
+acceptance of compensation or its economic equivalent for recommending of the professional
+            
+41
+
+    
+services of either party, except as allowed under Subsection (2)(b); and
+            
+42
+
+    
+    (b)  price discounts conditional upon volume purchases are not prohibited under
+            
+43
+
+    
+Subsection (2)(a);
+            
+44
+
+    
+    (3)  misbranding or adulteration of any drug or device or the sale, distribution, or
+            
+45
+
+    
+dispensing of any misbranded or adulterated drug or device;
+            
+46
+
+    
+    (4)  engaging in the sale or purchase of drugs or devices that are samples or packages
+            
+47
+
+    
+bearing the inscription "sample" or "not for resale" or similar words or phrases;
+            
+48
+
+    
+    (5)  accepting back and redistributing of any unused drug, or a part of it, after it has left
+            
+49
+
+    
+the premises of any pharmacy, unless the drug is in the original sealed unit dose package or
+            
+50
+
+    
+manufacturer's sealed container;
+            
+51
+
+    
+    (6)  being employed as a pharmacist, pharmacy intern, or pharmacy technician, or
+            
+52
+
+    
+sharing or receiving compensation in any form arising out of an act incidental to professional
+            
+53
+
+    
+activities in the course of which any person requires him to engage in any aspects of the
+            
+54
+
+    
+practice of pharmacy in violation of this chapter;
+            
+55
+
+    
+    (7)  violation of Federal Title II, P.L. 91, Controlled Substances Act, or Title 58,
+            
+56
+
+    
+Chapter 37, Utah Controlled Substances Act, or rules and regulations adopted under either of
+            
+57
+
+    
+them;
+            
+58
+
+    
+    (8)  requiring or permitting pharmacy interns or technicians to engage in activities
+
+            
+59
+
+
+    
+outside the scope of practice for their respective license classifications as defined in this
+            
+60
+
+    
+chapter and division rules made in collaboration with the board, or beyond an individual's
+            
+61
+
+    
+scope of training and ability;
+            
+62
+
+    
+    (9)  administering without:
+            
+63
+
+    
+    (a)  appropriate training as defined by rule;
+            
+64
+
+    
+    (b)  written guidelines or protocols of a practitioner or in conflict with such guidelines
+            
+65
+
+    
+or protocols; or
+            
+66
+
+    
+    (c)  a lawful order, when one is required by law; [and]
+            
+67
+
+    
+    (10)  disclosing confidential patient information in violation of the provisions of the
+            
+68
+
+    
+Health Insurance Portability and Accountability Act of 1996 or other applicable law[.]; and
+            
+69
+
+    
+    (11)  failing to provide a prescription drug price list for prescription drugs as required in
+            
+70
+
+    
+Section 
+
+58-17a-621
+
+.
+            
+71
+
+    
+    Section 2.  
+Section  
+58-17a-621
+
+ is enacted to read:
+            
+72
+
+    
+     58-17a-621.  Prescription drug price list.
+            
+73
+
+    
+    (1)  Any pharmacy in the state that receives reimbursement for its pharmaceutical
+            
+74
+
+    
+services from Medicaid or the Utah Medical Assistance Program established in Section
+            
+75
+
+    
+
+
+26-18-10
+
+ shall provide an accurate and current list of prescription drug prices at the dispensing
+            
+76
+
+    
+location to any recipient, pharmacy patient, or consumer.
+            
+77
+
+    
+    (2)  The prescription drug price list shall be readily available to the recipient, pharmacy
+            
+78
+
+    
+patient, or consumer upon request and maintained in a looseleaf binder.
+            
+79
+
+    
+    (3)  The pharmacy shall provide accurate data in the price list on:
+            
+80
+
+    
+    (a)  a quarterly basis for the 150 most frequently dispensed prescription drugs; and
+            
+81
+
+    
+    (b)  a monthly basis for the 25 most frequently dispensed prescription drugs.
+            
+82
+
+    
+    (4)  This section does not apply to an inpatient pharmacy located in a hospital or
+            
+83
+
+    
+long-term care facility licensed under Title 26, Chapter 21, Health Care Facility Licensing and
+            
+84
+
+    
+Inspection Act, when the prescription drug is dispensed to any inpatient of that facility.
+            
+85
+
+    
+    Section 3.   Coordinating H.B. 350 with S.B. 114.
+            
+86
+
+    
+    If this H.B. 350 and S.B.114, Amendments to Prescribing, Preparation, and Dispensing
+            
+87
+
+    
+of Prescription Drugs, both pass, it is the intent of the Legislature that the Office of Legislative
+            
+88
+
+    
+Research and General Counsel, in preparing the Utah Code database for publication, shall:
+            
+89
+
+    
+    (1)  insert the following language as Subsection 
+
+58-17b-502
+
+(15):
+
+            
+90
+
+
+    
+    "(15)  failing to provide a prescription drug price list for prescription drugs as required
+            
+91
+
+    
+by Section 
+
+58-17b-622
+
+.";
+            
+92
+
+    
+    (2)  delete the "and" after Subsection 
+
+58-17b-502
+
+(13) and insert "and" after Subsection
+            
+93
+
+    
+
+
+58-17b-502
+
+(14); and
+            
+94
+
+    
+    (3)  renumber Section 
+
+58-17a-621
+
+ in H.B. 350 to Section 
+
+58-17b-622
+
+.
+
+
+
+
+ Legislative Review Note
+    as of   2-10-04  2:23 PM
+
+A limited legal review of this legislation raises no obvious constitutional or statutory concerns.
+
+ Office of Legislative Research and General Counsel
+[Bill Documents][Bills Directory]
+
+
+
+
+
+
+
+
+
+Who represents me?
+
+
+
+
+
+Remember my Legislators
+
+
+
+
+
+State Senate
+		350 North State, Suite 320
+		PO Box 145115
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1035
+		Fax: (801) 326-1475
+
+
+
+House of Representatives
+		350 North State, Suite 350
+		PO Box 145030
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1029
+		Fax: (801) 326-1544
+
+
+
+
+
+
+
+
+
+
+Home
+Mobile Site
+Site Map
+Calendar
+Code / Constitution
+House
+Senate
+
+Terms of Use/Privacy Policy
+
+ADA
+Utah.gov
+
+
+
+
+
+
+

@@ -1,0 +1,975 @@
+Sponsors: []Modifications: (2)(3)(4)  Title 63, Chapter 38f, Part 4, Enterprise Zone Act, is repealed July 1, 2008.(5) (a)  Title 63, Chapter 38f, Part 11, Recycling Market Development Zone Act, isrepealed July 1, 2010.(b)  Sections 
+
+59-7-610
+
+ and 
+
+59-10-108.7
+
+ regarding tax credits for certain persons inrecycling market development zones, are repealed for taxable years beginning on or afterJanuary 1, 2011.(c)  Notwithstanding Subsection (5)(b), a person may not claim a tax credit underSection 
+
+59-7-610
+
+ or 
+
+59-10-108.7
+
+:(i)  for the purchase price of machinery or equipment described in Section 
+
+59-7-610
+
+ or
+
+59-10-108.7
+
+, if the machinery or equipment is purchased on or after July 1, 2010; or(ii)  for an expenditure described in Subsection 
+
+59-7-610
+
+(1)(b) or 
+
+59-10-108.7
+
+(1)(b), ifthe expenditure is made on or after July 1, 2010.(d)  Notwithstanding Subsections (5)(b) and (c), a person may carry forward a tax creditin accordance with Section 
+
+59-7-610
+
+ or 
+
+59-10-108.7
+
+ if:(i)  the person is entitled to a tax credit under Section 
+
+59-7-610
+
+ or 
+
+59-10-108.7
+
+; and(ii) (A)  for the purchase price of machinery or equipment described in Section
+
+59-7-610
+
+ or 
+
+59-10-108.7
+
+, the machinery or equipment is purchased on or before June 30, 2010;or(B)  for an expenditure described in Subsection 
+
+59-7-610
+
+(1)(b) or 
+
+59-10-108.7
+
+(1)(b),the expenditure is made on or before June 30, 2010.(6)(7)(8)(9)(10)(11)Full text:
+
+
+
+Utah State Legislature
+
+
+
+
+
+
+
+
+
+
+
+
+Legislators
+
+By Session (1896-Current)
+Alphabetical (Historical)
+Find by Address/Map
+More
+
+
+Bills
+
+Bills/Bill Requests
+Passed Bills
+2017 Bills
+
+Keyword Search
+Reading Calendars
+Tracking Service
+More
+
+
+Committees
+
+All Committees
+Appropriations
+Commissions
+
+Independent Legislative Ethics Commission
+Interim
+Standing
+Subcommittees
+Task Forces
+Bills In Committees
+
+
+Utah Code / Constitution
+
+
+Title/Chapter/Section
+Keyword Search 
+
+Utah Constitution
+Laws of Utah 1851-ongoing
+Utah Territorial Laws 
+More
+
+
+Senate
+
+Main Page 
+About The Senate 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Extraordinary Sessions 
+Reading Calendars 
+Past Floor Debates 
+Senate Journals 
+
+
+House
+
+Main Page
+About the House 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Reading Calendars 
+Past Floor Debates 
+Journals 
+Conflict of Interest Forms 
+
+
+Legislative Guide 
+
+Legislative Guide
+Civic Programs
+GRAMA (Records Requests)
+
+
+Publications
+
+Search Publications
+Appropriations
+Audits
+Bagels & Briefings
+Briefing Papers
+Digest of Legislation
+Legislative Drafting Manual
+
+Journals
+
+Interim Highlights
+
+Legislative Rules
+GRAMA (Records Requests)
+Public Email
+State Organization Charts
+YouTube Channel
+Requests for Proposals and Legal Notices
+More
+
+
+Legislative Histories
+
+Legislative History Resources
+How to Research
+Bill Drafting/Research Files (1990-Ongoing)
+
+Working Bills (1896-1989)
+Interim Committee Histories (1990-Ongoing) 
+Journals
+Past House Floor Debates
+Past Senate Floor Debates
+More
+
+
+Staff Offices
+
+All Legislative Offices
+Auditor General
+Fiscal Analyst
+Printing
+Research and General Counsel
+Staff Awards
+Job Opportunities
+More
+
+
+Links of Interest
+
+Utah Administrative Rules
+Courts
+Utah State Capitol
+State of Utah
+Federal Legislation
+More
+
+
+
+
+
+
+ 
+
+Download Zipped Introduced WordPerfect HB0071.ZIP
+[Status][Bill Documents][Fiscal Note][Bills Directory]
+
+
+H.B. 71
+
+
+
+
+
+            
+1
+
+    
+ ECONOMIC DEVELOPMENT - SUNSET
+
+            
+2
+
+    
+ MODIFICATIONS
+
+
+
+            
+3
+
+    
+2006 GENERAL SESSION
+
+            
+4
+
+    
+STATE OF UTAH
+
+            
+5
+
+    
+
+
+ Chief Sponsor:  Peggy Wallace
+
+
+
+            
+6
+
+    
+
+
+
+Senate Sponsor: 
+
+
+
+
+
+
+  Scott K. Jenkins
+
+
+
+
+
+            
+7
+
+    
+
+            
+8
+
+    
+ LONG TITLE
+            
+9
+
+    
+ General Description:
+            
+10
+
+    
+    This bill repeals the sunset review provision of the Utah Venture Capital Enhancement
+            
+11
+
+    
+Act.
+            
+12
+
+    
+ Highlighted Provisions:
+            
+13
+
+    
+    This bill:
+            
+14
+
+    
+    .    repeals the sunset review provision of the Utah Venture Capital Enhancement Act;
+            
+15
+
+    
+and
+            
+16
+
+    
+     .    makes certain technical changes to other economic development sunset provisions.
+            
+17
+
+    
+ Monies Appropriated in this Bill:
+            
+18
+
+    
+    None
+            
+19
+
+    
+ Other Special Clauses:
+            
+20
+
+    
+    None
+            
+21
+
+    
+ Utah Code Sections Affected:
+            
+22
+
+    
+AMENDS:
+            
+23
+
+    
+     63-55-209, as last amended by Chapters 37 and 90, Laws of Utah 2004
+            
+24
+
+    
+     63-55-263, as last amended by Chapters 71, 86, 157, 258, 259 and 279, Laws of Utah
+            
+25
+
+    
+2005
+            
+26
+
+    
+
+            
+27
+
+    
+Be it enacted by the Legislature of the state of Utah:
+
+
+            
+28
+
+
+    
+    Section 1.  
+Section  
+63-55-209
+
+ is amended to read:
+            
+29
+
+    
+     63-55-209.  Repeal dates, Title 9.
+            
+30
+
+    
+    (1)  Title 9, Chapter 1, Part 8, Commission on National and Community Service Act, is
+            
+31
+
+    
+repealed July 1, 2014.
+            
+32
+
+    
+    [(2)  Title 9, Chapter 2, Part 4, Enterprise Zone Act, is repealed July 1, 2008.]
+            
+33
+
+    
+    [(3) (a)  Title 9, Chapter 2, Part 16, Recycling Market Development Zone Act, is
+            
+34
+
+    
+repealed July 1, 2010.]
+            
+35
+
+    
+    [(b)  Sections 
+
+59-7-610
+
+ and 
+
+59-10-108.7
+
+, regarding tax credits for certain persons in
+            
+36
+
+    
+recycling market development zones, are repealed for taxable years beginning on or after
+            
+37
+
+    
+January 1, 2011.]
+            
+38
+
+    
+    [(c)  Notwithstanding Subsection (3)(b), a person may not claim a tax credit under
+            
+39
+
+    
+Section 
+
+59-7-610
+
+ or 
+
+59-10-108.7
+
+:]
+            
+40
+
+    
+    [(i)  for the purchase price of machinery or equipment described in Section 
+
+59-7-610
+
+ or
+            
+41
+
+    
+
+
+59-10-108.7
+
+ if the machinery or equipment is purchased on or after July 1, 2010; or]
+            
+42
+
+    
+    [(ii)  for an expenditure described in Subsection 
+
+59-7-610
+
+(1)(b) or 
+
+59-10-108.7
+
+(1)(b), if
+            
+43
+
+    
+the expenditure is made on or after July 1, 2010.]
+            
+44
+
+    
+    [(d)  Notwithstanding Subsections (3)(b) and (c), a person may carry forward a tax
+            
+45
+
+    
+credit in accordance with Section 
+
+59-7-610
+
+ or 
+
+59-10-108.7
+
+ if:]
+            
+46
+
+    
+    [(i)  the person is entitled to a tax credit under Section 
+
+59-7-610
+
+ or 
+
+59-10-108.7
+
+; and]
+            
+47
+
+    
+    [(ii) (A)  for the purchase price of machinery or equipment described in Section
+            
+48
+
+    
+
+
+59-7-610
+
+ or 
+
+59-10-108.7
+
+, the machinery or equipment is purchased on or before June 30, 2010;
+            
+49
+
+    
+or]
+            
+50
+
+    
+    [(B)  for an expenditure described in Subsection 
+
+59-7-610
+
+(1)(b) or 
+
+59-10-108.7
+
+(1)(b),
+            
+51
+
+    
+the expenditure is made on or before June 30, 2010.]
+            
+52
+
+    
+    [(4)  Title 9, Chapter 2, Part 19, Utah Venture Capital Enhancement Act, is repealed
+            
+53
+
+    
+July 1, 2008.]
+            
+54
+
+    
+    [(5)] (2)  Title 9, Chapter 3, Part 3, Heber Valley Historic Railroad Authority, is
+            
+55
+
+    
+repealed July 1, 2009.
+            
+56
+
+    
+    [(6)] (3)  Title 9, Chapter 4, Part 9, Utah Housing Corporation Act, is repealed July 1,
+            
+57
+
+    
+2006.
+            
+58
+
+    
+    Section 2.  
+Section  
+63-55-263
+
+ is amended to read:
+
+
+            
+59
+
+
+    
+     63-55-263.  Repeal dates, Titles 63 to 63E.
+            
+60
+
+    
+    (1)  Title 63, Chapter 25a, Part 3, Sentencing Commission, is repealed January 1, 2012.
+            
+61
+
+    
+    (2)  The Crime Victims' Reparations Board, created in Section 
+
+63-25a-404
+
+, is repealed
+            
+62
+
+    
+July 1, 2007.
+            
+63
+
+    
+    (3)  The Resource Development Coordinating Committee, created in Section
+            
+64
+
+    
+
+63-38d-501
+
+, is repealed July 1, 2015.
+            
+65
+
+    
+    (4)  Title 63, Chapter 38f, Part 4, Enterprise Zone Act, is repealed July 1, 2008.
+            
+66
+
+    
+    (5) (a)  Title 63, Chapter 38f, Part 11, Recycling Market Development Zone Act, is
+            
+67
+
+    
+repealed July 1, 2010.
+            
+68
+
+    
+    (b)  Sections 
+
+59-7-610
+
+ and 
+
+59-10-108.7
+
+ regarding tax credits for certain persons in
+            
+69
+
+    
+recycling market development zones, are repealed for taxable years beginning on or after
+            
+70
+
+    
+January 1, 2011.
+            
+71
+
+    
+    (c)  Notwithstanding Subsection (5)(b), a person may not claim a tax credit under
+            
+72
+
+    
+Section 
+
+59-7-610
+
+ or 
+
+59-10-108.7
+
+:
+            
+73
+
+    
+    (i)  for the purchase price of machinery or equipment described in Section 
+
+59-7-610
+
+ or
+            
+74
+
+    
+
+
+59-10-108.7
+
+, if the machinery or equipment is purchased on or after July 1, 2010; or
+            
+75
+
+    
+    (ii)  for an expenditure described in Subsection 
+
+59-7-610
+
+(1)(b) or 
+
+59-10-108.7
+
+(1)(b), if
+            
+76
+
+    
+the expenditure is made on or after July 1, 2010.
+            
+77
+
+    
+    (d)  Notwithstanding Subsections (5)(b) and (c), a person may carry forward a tax credit
+            
+78
+
+    
+in accordance with Section 
+
+59-7-610
+
+ or 
+
+59-10-108.7
+
+ if:
+            
+79
+
+    
+    (i)  the person is entitled to a tax credit under Section 
+
+59-7-610
+
+ or 
+
+59-10-108.7
+
+; and
+            
+80
+
+    
+    (ii) (A)  for the purchase price of machinery or equipment described in Section
+            
+81
+
+    
+
+
+59-7-610
+
+ or 
+
+59-10-108.7
+
+, the machinery or equipment is purchased on or before June 30, 2010;
+            
+82
+
+    
+or
+            
+83
+
+    
+    (B)  for an expenditure described in Subsection 
+
+59-7-610
+
+(1)(b) or 
+
+59-10-108.7
+
+(1)(b),
+            
+84
+
+    
+the expenditure is made on or before June 30, 2010.
+            
+85
+
+    
+    [(4)] (6)  Title 63, Chapter 47, Utah Commission for Women and Families, is repealed
+            
+86
+
+    
+July 1, 2006.
+            
+87
+
+    
+    [(5)] (7)  Title 63, Chapter 75, Families, Agencies, and Communities Together for
+            
+88
+
+    
+Children and Youth At Risk Act, is repealed July 1, 2006.
+            
+89
+
+    
+    [(6)] (8)  Title 63, Chapter 88, Navajo Trust Fund, is repealed July 1, 2008.
+
+            
+90
+
+
+    
+    [(7)] (9)  Title 63, Chapter 99, Utah Commission on Aging, is repealed July 1, 2007.
+            
+91
+
+    
+    [(8)] (10)  Sections 
+
+63A-4-204
+
+ and 
+
+63A-4-205
+
+, authorizing the Risk Management Fund
+            
+92
+
+    
+to provide coverage to nonstate entities, are repealed July 1, 2006.
+            
+93
+
+    
+    [(9)] (11)  Section 
+
+63C-8-106
+
+, Rural residency training program, is repealed July 1,
+            
+94
+
+    
+2015.
+
+
+
+
+ Legislative Review Note
+    as of  12-5-05  8:43 AM
+
+Based on a limited legal review, this legislation has not been determined to have a high
+probability of being held unconstitutional.
+
+ Office of Legislative Research and General Counsel
+[Bill Documents][Bills Directory]
+
+
+
+
+
+
+
+
+
+Who represents me?
+
+
+
+
+
+Remember my Legislators
+
+
+
+
+
+State Senate
+		350 North State, Suite 320
+		PO Box 145115
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1035
+		Fax: (801) 326-1475
+
+
+
+House of Representatives
+		350 North State, Suite 350
+		PO Box 145030
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1029
+		Fax: (801) 326-1544
+
+
+
+
+
+
+
+
+
+
+Home
+Mobile Site
+Site Map
+Calendar
+Code / Constitution
+House
+Senate
+
+Terms of Use/Privacy Policy
+
+ADA
+Utah.gov
+
+
+
+
+
+
+

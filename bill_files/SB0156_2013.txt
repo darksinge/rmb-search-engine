@@ -1,0 +1,688 @@
+Sponsors: []Modifications: jail release agreement orjail release:(i)before; and(ii)  may be denied bail by the court under Subsection 
+
+77-36-2.5
+
+(8) or (12).Full text:
+
+
+
+Utah State Legislature
+
+
+
+
+
+
+
+
+
+
+
+
+Legislators
+
+By Session (1896-Current)
+Alphabetical (Historical)
+Find by Address/Map
+More
+
+
+Bills
+
+Bills/Bill Requests
+Passed Bills
+2017 Bills
+
+Keyword Search
+Reading Calendars
+Tracking Service
+More
+
+
+Committees
+
+All Committees
+Appropriations
+Commissions
+
+Independent Legislative Ethics Commission
+Interim
+Standing
+Subcommittees
+Task Forces
+Bills In Committees
+
+
+Utah Code / Constitution
+
+
+Title/Chapter/Section
+Keyword Search 
+
+Utah Constitution
+Laws of Utah 1851-ongoing
+Utah Territorial Laws 
+More
+
+
+Senate
+
+Main Page 
+About The Senate 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Extraordinary Sessions 
+Reading Calendars 
+Past Floor Debates 
+Senate Journals 
+
+
+House
+
+Main Page
+About the House 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Reading Calendars 
+Past Floor Debates 
+Journals 
+Conflict of Interest Forms 
+
+
+Legislative Guide 
+
+Legislative Guide
+Civic Programs
+GRAMA (Records Requests)
+
+
+Publications
+
+Search Publications
+Appropriations
+Audits
+Bagels & Briefings
+Briefing Papers
+Digest of Legislation
+Legislative Drafting Manual
+
+Journals
+
+Interim Highlights
+
+Legislative Rules
+GRAMA (Records Requests)
+Public Email
+State Organization Charts
+YouTube Channel
+Requests for Proposals and Legal Notices
+More
+
+
+Legislative Histories
+
+Legislative History Resources
+How to Research
+Bill Drafting/Research Files (1990-Ongoing)
+
+Working Bills (1896-1989)
+Interim Committee Histories (1990-Ongoing) 
+Journals
+Past House Floor Debates
+Past Senate Floor Debates
+More
+
+
+Staff Offices
+
+All Legislative Offices
+Auditor General
+Fiscal Analyst
+Printing
+Research and General Counsel
+Staff Awards
+Job Opportunities
+More
+
+
+Links of Interest
+
+Utah Administrative Rules
+Courts
+Utah State Capitol
+State of Utah
+Federal Legislation
+More
+
+
+
+
+
+
+ 
+
+Download Zipped Enrolled WordPerfect SB0156.ZIP
+[Introduced][Status][Bill Documents][Fiscal Note][Bills Directory]
+
+
+S.B. 156 Enrolled
+
+
+
+
+
+            
+1
+
+    
+ JAIL RELEASE AMENDMENTS
+
+
+
+            
+2
+
+    
+2013 GENERAL SESSION
+
+            
+3
+
+    
+STATE OF UTAH
+
+            
+4
+
+    
+
+
+ Chief Sponsor:  J. Stuart Adams
+
+
+
+            
+5
+
+    
+
+
+
+House Sponsor:  
+
+
+
+
+
+
+Stephen G. Handy
+
+
+
+
+
+            
+6
+
+    
+
+            
+7
+
+    
+ LONG TITLE
+            
+8
+
+    
+ General Description:
+            
+9
+
+    
+    This bill modifies Title 77, Chapter 20, Bail.
+            
+10
+
+    
+ Highlighted Provisions:
+            
+11
+
+    
+    This bill:
+            
+12
+
+    
+    .    clarifies that a person arrested for violation of a jail release agreement or jail release
+            
+13
+
+    
+order:
+            
+14
+
+    
+        .    may not be released before the accused's first judicial appearance; and
+            
+15
+
+    
+        .    may be denied bail under Section 
+
+77-20-2.5
+
+; and
+            
+16
+
+    
+    .    makes technical changes.
+            
+17
+
+    
+ Money Appropriated in this Bill:
+            
+18
+
+    
+    None
+            
+19
+
+    
+ Other Special Clauses:
+            
+20
+
+    
+    None
+            
+21
+
+    
+ Utah Code Sections Affected:
+            
+22
+
+    
+AMENDS:
+            
+23
+
+    
+     77-20-1, as last amended by Laws of Utah 2008, Chapter 373
+            
+24
+
+    
+
+            
+25
+
+    
+Be it enacted by the Legislature of the state of Utah:
+            
+26
+
+    
+    Section 1.  
+Section  
+77-20-1
+
+ is amended to read:
+            
+27
+
+    
+     77-20-1.  Right to bail -- Denial of bail -- Hearing.
+            
+28
+
+    
+    (1)  A person charged with or arrested for a criminal offense shall be admitted to bail as
+            
+29
+
+    
+a matter of right, except if the person is charged with a:
+
+            
+30
+
+
+    
+    (a)  capital felony, when the court finds there is substantial evidence to support the
+            
+31
+
+    
+charge;
+            
+32
+
+    
+    (b)  felony committed while on probation or parole, or while free on bail awaiting trial
+            
+33
+
+    
+on a previous felony charge, when the court finds there is substantial evidence to support the
+            
+34
+
+    
+current felony charge;
+            
+35
+
+    
+    (c)  felony when there is substantial evidence to support the charge and the court finds
+            
+36
+
+    
+by clear and convincing evidence that the person would constitute a substantial danger to any
+            
+37
+
+    
+other person or to the community, or is likely to flee the jurisdiction of the court, if released on
+            
+38
+
+    
+bail; or
+            
+39
+
+    
+    (d)  felony when the court finds there is substantial evidence to support the charge and
+            
+40
+
+    
+it finds by clear and convincing evidence that the person violated a material condition of
+            
+41
+
+    
+release while previously on bail.
+            
+42
+
+    
+    (2)  Any person who may be admitted to bail may be released either on the person's own
+            
+43
+
+    
+recognizance or upon posting bail, on condition that the person appear in court for future court
+            
+44
+
+    
+proceedings in the case, and on any other conditions imposed in the discretion of the magistrate
+            
+45
+
+    
+or court that will reasonably:
+            
+46
+
+    
+    (a)  ensure the appearance of the accused;
+            
+47
+
+    
+    (b)  ensure the integrity of the court process;
+            
+48
+
+    
+    (c)  prevent direct or indirect contact with witnesses or victims by the accused, if
+            
+49
+
+    
+appropriate; and
+            
+50
+
+    
+    (d)  ensure the safety of the public.
+            
+51
+
+    
+    (3) (a)  The initial order denying or fixing the amount of bail shall be issued by the
+            
+52
+
+    
+magistrate or court issuing the warrant of arrest or by the magistrate or court presiding over the
+            
+53
+
+    
+accused's first judicial appearance.
+            
+54
+
+    
+    (b)  A person arrested for a violation of a [criminal protective] jail release agreement or
+            
+55
+
+    
+jail release order issued pursuant to Section 
+
+77-36-2.5
+
+:
+            
+56
+
+    
+    (i)  may not be released [prior to] before the accused's first judicial appearance[.]; and
+            
+57
+
+    
+    (ii)  may be denied bail by the court under Subsection 
+
+77-36-2.5
+
+(8) or (12).
+
+            
+58
+
+
+    
+    (4)  The magistrate or court may rely upon information contained in:
+            
+59
+
+    
+    (a)  the indictment or information;
+            
+60
+
+    
+    (b)  any sworn probable cause statement;
+            
+61
+
+    
+    (c)  information provided by any pretrial services agency; or
+            
+62
+
+    
+    (d)  any other reliable record or source.
+            
+63
+
+    
+    (5) (a)  A motion to modify the initial order may be made by a party at any time upon
+            
+64
+
+    
+notice to the opposing party sufficient to permit the opposing party to prepare for hearing and
+            
+65
+
+    
+to permit any victim to be notified and be present.
+            
+66
+
+    
+    (b)  Hearing on a motion to modify may be held in conjunction with a preliminary
+            
+67
+
+    
+hearing or any other pretrial hearing.
+            
+68
+
+    
+    (c)  The magistrate or court may rely on information as provided in Subsection (4) and
+            
+69
+
+    
+may base its ruling on evidence provided at the hearing so long as each party is provided an
+            
+70
+
+    
+opportunity to present additional evidence or information relevant to bail.
+            
+71
+
+    
+    (6)  Subsequent motions to modify bail orders may be made only upon a showing that
+            
+72
+
+    
+there has been a material change in circumstances.
+            
+73
+
+    
+    (7)  An appeal may be taken from an order of any court denying bail to the Supreme
+            
+74
+
+    
+Court, which shall review the determination under Subsection (1).
+            
+75
+
+    
+    (8)  For purposes of this section, any arrest or charge for a violation of Section
+            
+76
+
+    
+
+76-5-202
+
+, Aggravated murder, is a capital felony unless:
+            
+77
+
+    
+    (a)  the prosecutor files a notice of intent to not seek the death penalty; or
+            
+78
+
+    
+    (b)  the time for filing a notice to seek the death penalty has expired and the prosecutor
+            
+79
+
+    
+has not filed a notice to seek the death penalty.
+[Bill Documents][Bills Directory]
+
+
+
+
+
+
+
+
+
+Who represents me?
+
+
+
+
+
+Remember my Legislators
+
+
+
+
+
+State Senate
+		350 North State, Suite 320
+		PO Box 145115
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1035
+		Fax: (801) 326-1475
+
+
+
+House of Representatives
+		350 North State, Suite 350
+		PO Box 145030
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1029
+		Fax: (801) 326-1544
+
+
+
+
+
+
+
+
+
+
+Home
+Mobile Site
+Site Map
+Calendar
+Code / Constitution
+House
+Senate
+
+Terms of Use/Privacy Policy
+
+ADA
+Utah.gov
+
+
+
+
+
+
+

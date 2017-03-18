@@ -1,0 +1,716 @@
+Sponsors: []Modifications: ; and(bb)  implement and enforce Chapter 40, Disclosure of Ingredients in Cigarette andTobacco Products Act.    26-40-101.This chapter shall be known as the "Disclosure of Ingredients in Cigarette and TobaccoProducts Act."    26-40-102.(1)  "Cigarette" is as defined in Section 59-14-102.(2)  "Manufacturer" means a person engaged in the business of producing cigarettes ortobacco products.(3)  "Tobacco products" is as defined in Section 59-14-102.    26-40-103.(1)  Each manufacturer shall file with the department an annual report for each cigaretteor tobacco product distributed in this state, identifying:(a)  any of the following substances present in detectable levels in an unburned state and,if the cigarette or tobacco product is typically burned when consumed, in a burned state:(i)  ammonia or any compound of ammonia;(ii)  arsenic;(iii)  cadmium;(iv)  formaldehyde;(v)  lead; and(b)  a nicotine yield rating for the cigarette or tobacco product established under Section26-40-104.(2)  Nothing in Subsection (1) requires a manufacturer to disclose the specific formula,pattern, method, technique, or process for producing a cigarette or tobacco product.(3)  The department shall establish by rule the time for filing an annual report under thissection and the form of the report.    26-40-104.(1)  Each manufacturer shall assign a nicotine yield rating to each cigarette or tobaccoproduct distributed in this state in accordance with standards adopted by the department by rule.(2)  Department standards shall be developed so that the nicotine yield rating reflects, asaccurately as possible, nicotine intake for an average consumer of the cigarette or tobacco product.    26-40-105.Information included in a report filed under this chapter is a public record and may bedisclosed in accordance with Section 63-2-201 and disseminated generally by the department.    26-40-106.A district court, on petition of the department and on a finding by the court that amanufacturer has failed to file a timely and complete report as required by Section 26-40-103, mayby injunction:(1)  prohibit the sale or distribution in this state of a cigarette or tobacco productmanufactured by the manufacturer; or(2)  grant other injunctive relief warranted by the facts.:(i);(ii)  is subject to disclosure or dissemination under Section 26-40-105;(iii)  has been approved for release afterhas balancedFull text:
+
+
+
+Utah State Legislature
+
+
+
+
+
+
+
+
+
+
+
+
+Legislators
+
+By Session (1896-Current)
+Alphabetical (Historical)
+Find by Address/Map
+More
+
+
+Bills
+
+Bills/Bill Requests
+Passed Bills
+2017 Bills
+
+Keyword Search
+Reading Calendars
+Tracking Service
+More
+
+
+Committees
+
+All Committees
+Appropriations
+Commissions
+
+Independent Legislative Ethics Commission
+Interim
+Standing
+Subcommittees
+Task Forces
+Bills In Committees
+
+
+Utah Code / Constitution
+
+
+Title/Chapter/Section
+Keyword Search 
+
+Utah Constitution
+Laws of Utah 1851-ongoing
+Utah Territorial Laws 
+More
+
+
+Senate
+
+Main Page 
+About The Senate 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Extraordinary Sessions 
+Reading Calendars 
+Past Floor Debates 
+Senate Journals 
+
+
+House
+
+Main Page
+About the House 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Reading Calendars 
+Past Floor Debates 
+Journals 
+Conflict of Interest Forms 
+
+
+Legislative Guide 
+
+Legislative Guide
+Civic Programs
+GRAMA (Records Requests)
+
+
+Publications
+
+Search Publications
+Appropriations
+Audits
+Bagels & Briefings
+Briefing Papers
+Digest of Legislation
+Legislative Drafting Manual
+
+Journals
+
+Interim Highlights
+
+Legislative Rules
+GRAMA (Records Requests)
+Public Email
+State Organization Charts
+YouTube Channel
+Requests for Proposals and Legal Notices
+More
+
+
+Legislative Histories
+
+Legislative History Resources
+How to Research
+Bill Drafting/Research Files (1990-Ongoing)
+
+Working Bills (1896-1989)
+Interim Committee Histories (1990-Ongoing) 
+Journals
+Past House Floor Debates
+Past Senate Floor Debates
+More
+
+
+Staff Offices
+
+All Legislative Offices
+Auditor General
+Fiscal Analyst
+Printing
+Research and General Counsel
+Staff Awards
+Job Opportunities
+More
+
+
+Links of Interest
+
+Utah Administrative Rules
+Courts
+Utah State Capitol
+State of Utah
+Federal Legislation
+More
+
+
+
+
+
+
+ 
+
+Download Zipped Introduced WP 6.1 HB0032.ZIP 13,552 Bytes
+[Status][Bill Documents][Fiscal Note][Bills Directory]
+
+
+H.B. 32
+
+
+
+
+
+
+
+
+
+1     DISCLOSURE OF TOBACCO INGREDIENTS
+
+
+
+
+2    1998 GENERAL SESSION
+
+
+3    STATE OF UTAH
+
+
+4     Sponsor:  Jordan  Tanner
+
+
+5    AN ACT RELATING TO HEALTH; REQUIRING A MANUFACTURER TO SUBMIT AN
+
+6    ANNUAL REPORT TO THE DEPARTMENT OF HEALTH DISCLOSING SPECIFIED
+
+7    INGREDIENTS AND THE NICOTINE YIELD RATING FOR EACH CIGARETTE OR
+
+8    TOBACCO PRODUCT DISTRIBUTED IN THE STATE; PERMITTING THE
+
+9    DEPARTMENT OF HEALTH TO DISCLOSE AND DISSEMINATE INFORMATION
+
+10    INCLUDED IN A REPORT TO THE PUBLIC; AND AUTHORIZING INJUNCTIVE RELIEF
+
+11    AGAINST A MANUFACTURER WHO FAILS TO SUBMIT A TIMELY AND COMPLETE
+
+12    REPORT.
+
+13    This act affects sections of Utah Code Annotated 1953 as follows:
+
+14    AMENDS:
+
+15         26-1-30, as last amended by Chapters 196 and 375, Laws of Utah 1997
+
+16         63-2-308, as last amended by Chapter 280, Laws of Utah 1992
+
+17    ENACTS:
+
+18         26-40-101, Utah Code Annotated 1953
+
+19         26-40-102, Utah Code Annotated 1953
+
+20         26-40-103, Utah Code Annotated 1953
+
+21         26-40-104, Utah Code Annotated 1953
+
+22         26-40-105, Utah Code Annotated 1953
+
+23         26-40-106, Utah Code Annotated 1953
+
+24    Be it enacted by the Legislature of the state of Utah:
+
+25        Section 1.  Section  26-1-30 is amended to read:
+
+26         26-1-30.  Powers and duties of department.
+
+27        (1)  The department shall:
+
+
+1        (a)  enter into cooperative agreements with the Department of Environmental Quality to
+
+2    delineate specific responsibilities to assure that assessment and management of risk to human
+
+3    health from the environment are properly administered; and
+
+4        (b)  consult with the Department of Environmental Quality and enter into cooperative
+
+5    agreements, as needed, to ensure efficient use of resources and effective response to potential
+
+6    health and safety threats from the environment, and to prevent gaps in protection from potential
+
+7    risks from the environment to specific individuals or population groups.
+
+8        (2)  In addition to all other powers and duties of the department, it shall have and exercise
+
+9    the following powers and duties:
+
+10        (a)  promote and protect the health and wellness of the people within the state;
+
+11        (b)  establish, maintain, and enforce rules necessary or desirable to carry out the provisions
+
+12    and purposes of this title to promote and protect the public health or to prevent disease and illness;
+
+13        (c)  investigate and control the causes of epidemic, infectious, communicable, and other
+
+14    diseases affecting the public health;
+
+15        (d)  provide for the detection, reporting, prevention, and control of communicable,
+
+16    infectious, acute, chronic, or any other disease or health hazard that the department considers to
+
+17    be dangerous, important, or likely to affect the public health;
+
+18        (e)  collect and report information on causes of injury, sickness, death, and disability and
+
+19    the risk factors that contribute to the causes of injury, sickness, death, and disability within the
+
+20    state;
+
+21        (f)  collect, prepare, publish, and disseminate information to inform the public concerning
+
+22    the health and wellness of the population, specific hazards, and risks that may affect the health and
+
+23    wellness of the population and specific activities which may promote and protect the health and
+
+24    wellness of the population;
+
+25        (g)  establish and operate programs necessary or desirable for the promotion or protection
+
+26    of the public health and the control of disease or which may be necessary to ameliorate the major
+
+27    causes of injury, sickness, death, and disability in the state, except that the programs shall not be
+
+28    established if adequate programs exist in the private sector;
+
+29        (h)  establish, maintain, and enforce isolation and quarantine, and for this purpose only,
+
+30    exercise physical control over property and individuals as the department finds necessary for the
+
+31    protection of the public health;
+
+- 2 -
+
+
+1        (i)  close theaters, schools, and other public places and forbid gatherings of people when
+
+2    necessary to protect the public health;
+
+3        (j)  abate nuisances when necessary to eliminate sources of filth and infectious and
+
+4    communicable diseases affecting the public health;
+
+5        (k)  make necessary sanitary and health investigations and inspections in cooperation with
+
+6    local health departments as to any matters affecting the public health;
+
+7        (l)  establish laboratory services necessary to support public health programs and medical
+
+8    services in the state;
+
+9        (m)  establish and enforce standards for laboratory services which are provided by any
+
+10    laboratory in the state when the purpose of the services is to protect the public health;
+
+11        (n)  cooperate with the Labor Commission to conduct studies of occupational health
+
+12    hazards and occupational diseases arising in and out of employment in industry, and make
+
+13    recommendations for elimination or reduction of the hazards;
+
+14        (o)  cooperate with the local health departments, the Department of Corrections, the
+
+15    Administrative Office of the Courts, the Division of Youth Corrections, and the Crime Victims
+
+16    Reparations Board to conduct testing for HIV infection of convicted sexual offenders and any
+
+17    victims of a sexual offense;
+
+18        (p)  investigate the cause of maternal and infant mortality;
+
+19        (q)  establish, maintain, and enforce a procedure requiring the blood of adult pedestrians
+
+20    and drivers of motor vehicles killed in highway accidents be examined for the presence and
+
+21    concentration of alcohol;
+
+22        (r)  provide the commissioner of public safety with monthly statistics reflecting the results
+
+23    of the examinations provided for in Subsection (2)(q) and provide safeguards so that information
+
+24    derived from the examinations is not used for a purpose other than the compilation of statistics
+
+25    authorized in this subsection;
+
+26        (s)  establish qualifications for individuals permitted to draw blood pursuant to Section
+
+27    41-6-44.10, and to issue permits to individuals it finds qualified, which permits may be terminated
+
+28    or revoked by the department;
+
+29        (t)  establish a uniform public health program throughout the state which includes
+
+30    continuous service, employment of qualified employees, and a basic program of disease control,
+
+31    vital and health statistics, sanitation, public health nursing, and other preventive health programs
+
+- 3 -
+
+
+1    necessary or desirable for the protection of public health;
+
+2        (u)  adopt rules and enforce minimum sanitary standards for the operation and maintenance
+
+3    of:
+
+4        (i)  orphanages;
+
+5        (ii)  boarding homes;
+
+6        (iii)  summer camps for children;
+
+7        (iv)  lodging houses;
+
+8        (v) hotels;
+
+9        (vi)  restaurants and all other places where food is handled for commercial purposes, sold,
+
+10    or served to the public;
+
+11        (vii)  tourist and trailer camps;
+
+12        (viii)  service stations;
+
+13        (ix)  public conveyances and stations;
+
+14        (x)  public and private schools;
+
+15        (xi) factories;
+
+16        (xii)  private sanatoria;
+
+17        (xiii)  barber shops;
+
+18        (xiv)  beauty shops;
+
+19        (xv)  physicians' offices;
+
+20        (xvi)  dentists' offices;
+
+21        (xvii)  workshops;
+
+22        (xviii)  industrial, labor, or construction camps;
+
+23        (xix)  recreational resorts and camps;
+
+24        (xx)  swimming pools, public baths, and bathing beaches;
+
+25        (xxi)  state, county, or municipal institutions, including hospitals and other buildings,
+
+26    centers, and places used for public gatherings; and
+
+27        (xxii)  of any other facilities in public buildings and on public grounds;
+
+28        (v)  conduct health planning for the state;
+
+29        (w)  monitor the costs of health care in the state and foster price competition in the health
+
+30    care delivery system;
+
+31        (x)  adopt rules for the licensure of health facilities within the state pursuant to Title 26,
+
+- 4 -
+
+
+1    Chapter 21, Health Care Facility Licensure and Inspection Act;
+
+2        (y)  serve as the collecting agent, on behalf of the state, for the nursing facility assessment
+
+3    fee imposed under Title 26, Chapter 35, Nursing Facility Assessment Act, and the temporary
+
+4    provider assessment imposed under Chapter 36, Utah Medicaid Hospital Provider Temporary
+
+5    Assessment Act, and adopt rules for the enforcement and administration of the assessments
+
+6    consistent with Chapters 35 and 36;
+
+7        (z)  monitor and report to the Health Policy Commission created in Title 63C, Chapter 3,
+
+8    Health Policy Commission, on the development of managed health care plans in rural areas of the
+
+9    state, including the effect of the managed health care plans on costs, access, and availability of
+
+10    providers located in the rural communities of the state; [and]
+
+11        (aa)  license the provision of child care[.]; and
+
+12        (bb)  implement and enforce Chapter 40, Disclosure of Ingredients in Cigarette and
+
+13    Tobacco Products Act.
+
+14        Section 2.  Section  26-40-101 is enacted to read:
+
+15     CHAPTER 40.  DISCLOSURE OF INGREDIENTS IN CIGARETTE
+
+
+16      AND TOBACCO PRODUCTS ACT
+
+
+17         26-40-101.  Title.
+
+18        This chapter shall be known as the "Disclosure of Ingredients in Cigarette and Tobacco
+
+19    Products Act."
+
+20        Section 3.  Section  26-40-102 is enacted to read:
+
+21         26-40-102.  Definitions.
+
+22        (1)  "Cigarette" is as defined in Section 59-14-102.
+
+23        (2)  "Manufacturer" means a person engaged in the business of producing cigarettes or
+
+24    tobacco products.
+
+25        (3)  "Tobacco products" is as defined in Section 59-14-102.
+
+26        Section 4.  Section  26-40-103 is enacted to read:
+
+27         26-40-103.  Annual report of specified ingredients to department.
+
+28        (1)  Each manufacturer shall file with the department an annual report for each cigarette
+
+29    or tobacco product distributed in this state, identifying:
+
+30        (a)  any of the following substances present in detectable levels in an unburned state and,
+
+31    if the cigarette or tobacco product is typically burned when consumed, in a burned state:
+
+- 5 -
+
+
+1        (i)  ammonia or any compound of ammonia;
+
+2        (ii)  arsenic;
+
+3         (iii)  cadmium;
+
+4        (iv)  formaldehyde;
+
+5        (v)  lead; and
+
+6        (b)  a nicotine yield rating for the cigarette or tobacco product established under Section
+
+7    26-40-104.
+
+8        (2)  Nothing in Subsection (1) requires a manufacturer to disclose the specific formula,
+
+9    pattern, method, technique, or process for producing a cigarette or tobacco product.
+
+10        (3)  The department shall establish by rule the time for filing an annual report under this
+
+11    section and the form of the report.
+
+12        Section 5.  Section  26-40-104 is enacted to read:
+
+13         26-40-104.  Nicotine yield rating.
+
+14        (1)  Each manufacturer shall assign a nicotine yield rating to each cigarette or tobacco
+
+15    product distributed in this state in accordance with standards adopted by the department by rule.
+
+16        (2)  Department standards shall be developed so that the nicotine yield rating reflects, as
+
+17    accurately as possible, nicotine intake for an average consumer of the cigarette or tobacco product.
+
+18        Section 6.  Section  26-40-105 is enacted to read:
+
+19         26-40-105.  Disclosure of information.
+
+20        Information included in a report filed under this chapter is a public record and may be
+
+21    disclosed in accordance with Section 63-2-201 and disseminated generally by the department.
+
+22        Section 7.  Section  26-40-106 is enacted to read:
+
+23         26-40-106.  Injunction.
+
+24        A district court, on petition of the department and on a finding by the court that a
+
+25    manufacturer has failed to file a timely and complete report as required by Section 26-40-103, may
+
+26    by injunction:
+
+27        (1)  prohibit the sale or distribution in this state of a cigarette or tobacco product
+
+28    manufactured by the manufacturer; or
+
+29        (2)  grant other injunctive relief warranted by the facts.
+
+30        Section 8.  Section  63-2-308 is amended to read:
+
+31         63-2-308.  Business confidentiality claims.  
+
+- 6 -
+
+
+1        (1) (a)  Any person who provides to a governmental entity a record that he believes should
+
+2    be protected under Subsection 63-2-304 (1) or (2) shall provide with the record a written claim of
+
+3    business confidentiality and a concise statement of reasons supporting the claim of business
+
+4    confidentiality.
+
+5        (b)  The claimant shall be notified by the governmental entity if a record claimed to be
+
+6    protected under Subsection 63-2-304 (1) or (2):
+
+7        (i)  is classified public;
+
+8        (ii)  is subject to disclosure or dissemination under Section 26-40-105; or [if]
+
+9        (iii)  has been approved for release after the governmental entity [determines that the record
+
+10    should be released after balancing] has balanced interests under Subsection 63-2-201(5)(b) or
+
+11    Subsection 63-2-401(6).
+
+12        (2)  Except as provided by court order, the governmental entity may not disclose records
+
+13    claimed to be protected under Subsection 63-2-304 (1) or (2) but which it determines should be
+
+14    classified public until the period in which to bring an appeal expires or the end of the appeals
+
+15    process, including judicial appeal.  This subsection does not apply where the claimant, after notice,
+
+16    has waived the claim by not appealing or intervening before the records committee.
+
+17        (3)  Disclosure or acquisition of information under this chapter does not constitute
+
+18    misappropriation under Subsection 13-24-2 (2). 
+
+
+
+
+ Legislative Review Note
+    as of  12-22-97  12:48 PM
+
+
+This bill raises the following constitutional or statutory concerns:
+
+    This bill is patterned after disclosure laws enacted in other states.  The disclosure law of
+one state, Massachusetts, has been challenged in court on the grounds that it:  (1) is preempted by
+federal law; (2) results in the taking of a trade secret without just compensation in violation of state
+and federal constitutions; and (3) imposes an unconstitutional burden on interstate commerce. 
+This bill, if challenged on similar grounds, would likely be upheld.
+    The preemption challenge has been litigated and rejected in the Massachusetts Federal
+District Court and  the First Circuit Court of Appeals.  Phillip Morris, Inc. v. Massachusetts, 1997
+U.S. Dist. Lexis 2091 (Mass. D. C. 1997), aff'd, 122 F.3d 58 (1st Cir. 1997).  While this ruling
+may not be conclusively binding on a Utah Federal District Court or the Tenth Circuit Court of
+Appeals if this bill were challenged on preemption grounds, it is directly on point and creates
+
+- 7 -
+
+favorable precedence.
+    The trade secret and interstate commerce challenges to Massachusetts' disclosure law have
+not been fully resolved, although the district court has issued an order preventing the enforcement
+of the law until full resolution occurs.  Even without the benefit of a court decision directly on
+point, it seems likely that this bill would successfully withstand a challenge on either ground if an
+action were brought.
+    First, the bill would likely withstand a trade secret challenge because disclosure is limited
+to a nicotine yield rating and five known tobacco ingredients.  More importantly, no disclosure is
+required for any unknown tobacco ingredient, which a manufacturer may have a financial interest
+in keeping secret from competitors, or for any formula, pattern, method, technique, or process for
+producing a cigarette or tobacco product.  See generally, Carson Products Company v. Califano,
+594 F.2d 453 (5th Cir. 1979); Northwest Coalition for Alternatives to Pesticides v. Browner, 941
+F. Supp. 197 (D.D.C. 1996); Mobay Chemical Corp. v. Costle, 517 F. Supp. 254 (W.D. Pa. 1981).
+    Second, the bill would likely withstand an interstate commerce challenge because the
+regulation of tobacco products comes within the State's general health and safety powers, the bill
+is not a protectionist measure aimed at discriminating against interstate commerce, and disclosure,
+by itself, is not a unique or unreasonably heavy burden on interstate commerce.  See generally
+Manufacturers Ass'n of Tri-County v. Knepper, 623 F. Supp. 1066 (M.D. Pa. 1985), aff'd in part
+and rev'd on other grounds, 801 F.2d 130 (3d Cir. 1986), cert. denied, 484 U.S. 815 (1987); Ohio
+Manufacturers Ass'n v. City of Akron, 628 F. Supp. 623 (N.D. Ohio 1986) rev'd on other grounds,
+801 F.2d 824 (6th Cir. 1986), cert. denied, 484 U.S. 801 (1987);  Ferndale Laboratories, Inc. v.
+Cavendish, 79 F.3d 488 (6th Cir. 1996); Mon-Shor Management, Inc. v. Family Media, Inc., 584
+F. Supp. 186, 189-92 (S.D.N.Y. 1984).
+
+- 8 -
+[Bill Documents][Bills Directory]
+
+
+
+
+
+
+
+
+
+Who represents me?
+
+
+
+
+
+Remember my Legislators
+
+
+
+
+
+State Senate
+		350 North State, Suite 320
+		PO Box 145115
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1035
+		Fax: (801) 326-1475
+
+
+
+House of Representatives
+		350 North State, Suite 350
+		PO Box 145030
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1029
+		Fax: (801) 326-1544
+
+
+
+
+
+
+
+
+
+
+Home
+Mobile Site
+Site Map
+Calendar
+Code / Constitution
+House
+Senate
+
+Terms of Use/Privacy Policy
+
+ADA
+Utah.gov
+
+
+
+
+
+
+

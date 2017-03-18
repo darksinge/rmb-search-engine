@@ -1,0 +1,640 @@
+Sponsors: []Modifications:     16-6a-119.(1)  As used in this section:(a)  "Judicial lien" means one or more of the following:(i)  a judgment lien; or(ii)  other lien obtained by a judicial or equitable process or proceeding.(b)  "Water right" means:(i)  a right to use water evidenced by a means identified in Section 
+
+73-1-10
+
+; or(ii)  a right to use water under an approved application:(A)  to appropriate;(B)  for a change of use; or(C)  for the exchange of water.(c)  "Water rights and related assets" means a water right or title to:(i)  a water conveyance facility; or(ii)  other asset of a mutual benefit corporation necessary to divert or distribute water toits members.(2)  Except as provided in Subsection (3), a court may not do the following with regardto a judicial lien recorded on or after May 12, 2009 against the water rights and related assetsof a mutual benefit corporation earlier than 180 days after the day on which the judicial lien isrecorded or takes effect:(a)  execute the judicial lien;(b)  impose a levy as a result of the judicial lien; or(c)  force the sale, transfer, or change in ownership of the water rights and related assetspursuant to the judicial lien.(3)  This section does not apply to a judicial lien related to a cause of action broughtagainst a mutual benefit corporation by a shareholder under Section 
+
+73-3-3.5
+
+.    38-5-2.(1)  As used in this section:(a)  "Judicial lien" is defined in Section 
+
+16-6a-119
+
+.(b)  "Mutual benefit corporation" is defined in Section 
+
+16-6a-102
+
+.(c)  "Water rights and related assets" is defined in Section 
+
+16-6a-119
+
+.(2)  A judicial lien recorded on or after May 12, 2009 against the water rights andrelated assets of a mutual benefit corporation is subject to Section 
+
+16-6a-119
+
+.Full text:
+
+
+
+Utah State Legislature
+
+
+
+
+
+
+
+
+
+
+
+
+Legislators
+
+By Session (1896-Current)
+Alphabetical (Historical)
+Find by Address/Map
+More
+
+
+Bills
+
+Bills/Bill Requests
+Passed Bills
+2017 Bills
+
+Keyword Search
+Reading Calendars
+Tracking Service
+More
+
+
+Committees
+
+All Committees
+Appropriations
+Commissions
+
+Independent Legislative Ethics Commission
+Interim
+Standing
+Subcommittees
+Task Forces
+Bills In Committees
+
+
+Utah Code / Constitution
+
+
+Title/Chapter/Section
+Keyword Search 
+
+Utah Constitution
+Laws of Utah 1851-ongoing
+Utah Territorial Laws 
+More
+
+
+Senate
+
+Main Page 
+About The Senate 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Extraordinary Sessions 
+Reading Calendars 
+Past Floor Debates 
+Senate Journals 
+
+
+House
+
+Main Page
+About the House 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Reading Calendars 
+Past Floor Debates 
+Journals 
+Conflict of Interest Forms 
+
+
+Legislative Guide 
+
+Legislative Guide
+Civic Programs
+GRAMA (Records Requests)
+
+
+Publications
+
+Search Publications
+Appropriations
+Audits
+Bagels & Briefings
+Briefing Papers
+Digest of Legislation
+Legislative Drafting Manual
+
+Journals
+
+Interim Highlights
+
+Legislative Rules
+GRAMA (Records Requests)
+Public Email
+State Organization Charts
+YouTube Channel
+Requests for Proposals and Legal Notices
+More
+
+
+Legislative Histories
+
+Legislative History Resources
+How to Research
+Bill Drafting/Research Files (1990-Ongoing)
+
+Working Bills (1896-1989)
+Interim Committee Histories (1990-Ongoing) 
+Journals
+Past House Floor Debates
+Past Senate Floor Debates
+More
+
+
+Staff Offices
+
+All Legislative Offices
+Auditor General
+Fiscal Analyst
+Printing
+Research and General Counsel
+Staff Awards
+Job Opportunities
+More
+
+
+Links of Interest
+
+Utah Administrative Rules
+Courts
+Utah State Capitol
+State of Utah
+Federal Legislation
+More
+
+
+
+
+
+
+ 
+
+Download Zipped Introduced WordPerfect HB0085.ZIP
+[Status][Bill Documents][Fiscal Note][Bills Directory]
+
+
+H.B. 85
+
+
+
+
+
+            
+1
+
+    
+ MUTUAL BENEFIT CORPORATION -
+
+            
+2
+
+    
+ JUDICIAL LIENS
+
+
+
+            
+3
+
+    
+2009 GENERAL SESSION
+
+            
+4
+
+    
+STATE OF UTAH
+
+            
+5
+
+    
+
+
+ Chief Sponsor:  Patrick Painter
+
+
+
+            
+6
+
+    
+
+
+
+Senate Sponsor: 
+
+
+
+
+
+
+  David P. Hinkins
+
+
+
+
+
+            
+7
+
+    
+
+            
+8
+
+    
+ LONG TITLE
+            
+9
+
+    
+ General Description:
+            
+10
+
+    
+    This bill modifies the Utah Revised Nonprofit Corporations Act and lien provisions to
+            
+11
+
+    
+address the execution of a judicial lien against the water rights and related assets of a
+            
+12
+
+    
+mutual benefit corporation.
+            
+13
+
+    
+ Highlighted Provisions:
+            
+14
+
+    
+    This bill:
+            
+15
+
+    
+    .    defines terms; and
+            
+16
+
+    
+    .    imposes limitations on executing a judicial lien.
+            
+17
+
+    
+ Monies Appropriated in this Bill:
+            
+18
+
+    
+    None
+            
+19
+
+    
+ Other Special Clauses:
+            
+20
+
+    
+    None
+            
+21
+
+    
+ Utah Code Sections Affected:
+            
+22
+
+    
+ENACTS:
+            
+23
+
+    
+     16-6a-119, Utah Code Annotated 1953
+            
+24
+
+    
+     38-5-2, Utah Code Annotated 1953
+            
+25
+
+    
+
+            
+26
+
+    
+Be it enacted by the Legislature of the state of Utah:
+            
+27
+
+    
+    Section 1.  
+Section  
+16-6a-119
+
+ is enacted to read:
+
+            
+28
+
+
+    
+     16-6a-119.  Execution against a mutual benefit corporation.
+            
+29
+
+    
+    (1)  As used in this section:
+            
+30
+
+    
+    (a)  "Judicial lien" means one or more of the following:
+            
+31
+
+    
+    (i)  a judgment lien; or
+            
+32
+
+    
+    (ii)  other lien obtained by a judicial or equitable process or proceeding.
+            
+33
+
+    
+    (b)  "Water right" means:
+            
+34
+
+    
+    (i)  a right to use water evidenced by a means identified in Section 
+
+73-1-10
+
+; or
+            
+35
+
+    
+    (ii)  a right to use water under an approved application:
+            
+36
+
+    
+    (A)  to appropriate;
+            
+37
+
+    
+    (B)  for a change of use; or
+            
+38
+
+    
+    (C)  for the exchange of water.
+            
+39
+
+    
+    (c)  "Water rights and related assets" means a water right or title to:
+            
+40
+
+    
+    (i)  a water conveyance facility; or
+            
+41
+
+    
+    (ii)  other asset of a mutual benefit corporation necessary to divert or distribute water to
+            
+42
+
+    
+its members.
+            
+43
+
+    
+    (2)  Except as provided in Subsection (3), a court may not do the following with regard
+            
+44
+
+    
+to a judicial lien recorded on or after May 12, 2009 against the water rights and related assets
+            
+45
+
+    
+of a mutual benefit corporation earlier than 180 days after the day on which the judicial lien is
+            
+46
+
+    
+recorded or takes effect:
+            
+47
+
+    
+    (a)  execute the judicial lien;
+            
+48
+
+    
+    (b)  impose a levy as a result of the judicial lien; or
+            
+49
+
+    
+    (c)  force the sale, transfer, or change in ownership of the water rights and related assets
+            
+50
+
+    
+pursuant to the judicial lien.
+            
+51
+
+    
+    (3)  This section does not apply to a judicial lien related to a cause of action brought
+            
+52
+
+    
+against a mutual benefit corporation by a shareholder under Section 
+
+73-3-3.5
+
+.
+            
+53
+
+    
+    Section 2.  
+Section  
+38-5-2
+
+ is enacted to read:
+            
+54
+
+    
+     38-5-2.  Judicial lien against water rights and related assets of a mutual benefit
+            
+55
+
+    
+ corporation.
+            
+56
+
+    
+    (1)  As used in this section:
+            
+57
+
+    
+    (a)  "Judicial lien" is defined in Section 
+
+16-6a-119
+
+.
+            
+58
+
+    
+    (b)  "Mutual benefit corporation" is defined in Section 
+
+16-6a-102
+
+.
+
+            
+59
+
+
+    
+    (c)  "Water rights and related assets" is defined in Section 
+
+16-6a-119
+
+.
+            
+60
+
+    
+    (2)  A judicial lien recorded on or after May 12, 2009 against the water rights and
+            
+61
+
+    
+related assets of a mutual benefit corporation is subject to Section 
+
+16-6a-119
+
+.
+
+
+
+
+ Legislative Review Note
+    as of  12-22-08  1:10 PM
+
+ Office of Legislative Research and General Counsel
+[Bill Documents][Bills Directory]
+
+
+
+
+
+
+
+
+
+Who represents me?
+
+
+
+
+
+Remember my Legislators
+
+
+
+
+
+State Senate
+		350 North State, Suite 320
+		PO Box 145115
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1035
+		Fax: (801) 326-1475
+
+
+
+House of Representatives
+		350 North State, Suite 350
+		PO Box 145030
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1029
+		Fax: (801) 326-1544
+
+
+
+
+
+
+
+
+
+
+Home
+Mobile Site
+Site Map
+Calendar
+Code / Constitution
+House
+Senate
+
+Terms of Use/Privacy Policy
+
+ADA
+Utah.gov
+
+
+
+
+
+
+

@@ -1,0 +1,8366 @@
+Sponsors: []Modifications: .(47)(55)(69)(b)  with present intent to adopt or accept a record, to attach to or logically associatewith the record an electronic sound, symbol, or process.(a)(b)  "Certificate of title" includes another record maintained as an alternative to acertificate of title by the governmental unit that issues certificates of title if a statute permits thesecurity interest in question to be indicated on the record as a condition or result of the securityinterest's obtaining priority over the rights of a lien creditor with respect to the collateral.formed or(68)  "Public organic record" means a record that is available to the public forinspection and is:(a)  a record consisting of the record initially filed with or issued by a state or theUnited States to form or organize an organization and any record filed with or issued by thestate or the United States which amends or restates the initial record;(b)  an organic record of a business trust consisting of the record initially filed with astate and any record filed with the state which amends or restates the initial record, if a statuteof the state governing business trusts requires that the record be filed with the state; or(c)  a record consisting of legislation enacted by the legislature of a state or theCongress of the United States which forms or organizes an organization, any record amendingthe legislation, and any record filed with or issued by the state or the United States whichamends or restates the name of the organization.(69)(70)(71) (a)formed orby the filing of a public organic record with, the issuance of a public organic record by, or theenactment of legislation by the state or the United States.(b)  "Registered organization" includes a business trust that is formed or organizedunder the law of a single state if a statute of the state governing business trusts requires that thebusiness trust's organic record be filed with the state.(72)(73)(74)(75)(75)(76)(77)(78)(79)(80)(81)(1)a system employed byevidencing the transfer of interests in the chattel paper reliably establishes the secured party asthe person to whom the chattel paper was assigned.(2)  A system satisfies Subsection (1) if(a)(2)(d), (e), and(f)(b)(c)(d)amendmentsconsent(e)(f)amendment, including by designating its main office, home office, or other comparableofficeaof title(8)  The following rules apply to collateral to which a security interest attaches withinfour months after the debtor changes its location to another jurisdiction:(a)  A financing statement filed before the change pursuant to the law of the jurisdictiondesignated in Subsection 
+
+70A-9a-301
+
+(1) or 
+
+70A-9a-305
+
+(3) is effective to perfect a securityinterest in the collateral if the financing statement would have been effective to perfect asecurity interest in the collateral had the debtor not changed its location.(b)  If a security interest perfected by a financing statement that is effective underSubsection (8)(a) becomes perfected under the law of the other jurisdiction before the earlier ofthe time the financing statement would have been ineffective under the law of the jurisdictiondesignated in Subsection 
+
+70A-9a-301
+
+(1) or 
+
+70A-9a-305
+
+(3) or the expiration of the four-monthperiod, it remains perfected thereafter.  If the security interest does not become perfected underthe law of the other jurisdiction before the earlier time or event, it becomes unperfected and isdeemed never to have been perfected as against a purchaser of the collateral for value.(9)  If a financing statement naming an original debtor is filed pursuant to the law of thejurisdiction designated in Subsection 
+
+70A-9a-301
+
+(1) or 
+
+70A-9a-305
+
+(3) and the new debtor islocated in another jurisdiction, the following rules apply:(a)  The financing statement is effective to perfect a security interest in collateralacquired by the new debtor before, and within four months after, the new debtor becomesbound under Subsection 
+
+70A-9a-203
+
+(4), if the financing statement would have been effectiveto perfect a security interest in the collateral had the collateral been acquired by the originaldebtor.(b)  A security interest perfected by the financing statement and which becomesperfected under the law of the other jurisdiction before the earlier of the time the financingstatement would have been ineffective under the law of the jurisdiction designated inSubsection 
+
+70A-9a-301
+
+(1) or 
+
+70A-9a-305
+
+(3) or the expiration of the four-month periodremains perfected thereafter.  A security interest that is perfected by the financing statement butwhich does not become perfected under the law of the other jurisdiction before the earlier timeor event becomes unperfected and is deemed never to have been perfected as against apurchaser of the collateral for value.certificated securitycollateral other than tangible chattel paper, tangible documents, goods,instruments, orthat isin collateral in which the new debtor has or acquires rights and is perfected solelywould be ineffective to perfect the security interestbut for the application of Subsection 
+
+70A-9a-316
+
+(9)(a) or Section 
+
+70A-9a-508
+
+suchdescribed in Subsection (1), other than a sale pursuant to a disposition under Section 
+
+70A-9a-610
+
+ or an acceptance ofcollateral under Section 
+
+70A-9a-620
+
+, other than a sale pursuant to a disposition under Section 
+
+70A-9a-610
+
+ or an acceptance ofcollateral under Section 
+
+70A-9a-620
+
+, but:(i)  the record need not indicate(ii)  the record sufficiently provides the name of a debtor who is an individual if itprovides the individual name of the debtor or the surname and first personal name of thedebtor, even if the debtor is an individual to whom Subsection 
+
+70A-9a-503
+
+(1)(d) applies; andexcept as otherwise provided in Subsection (1)(c),or the collateral is held in a trust that is a registered organizationthat is stated to be the registered organization's name on the public organic recordmost recently filed with or issued or enacted by the registered organization'spurports to state, amend, orrestate the registered organization's namesubject to Subsection (6), if the collateral isbeing administered by the personal representative of a decedent, as the name of the debtor,, in a separate part of thefinancing statement,collateral is being administered by apersonal representative(c)  if the collateral is held in a trust that is not a registered organization, only if thefinancing statement:(i)  provides, as the name of the debtor:(A)  if the organic record of the trust specifies a name for the trust, the name specified;or(B)  if the organic record of the trust does not specify a name for the trust, the name ofthe settlor or testator; and(ii)  in a separate part of the financing statement:(A)  if the name provided in accordance with Subsection (1)(c)(i)(A), indicates thecollateral is held in a trust; or(B)  if the name is provided in accordance with Subsection (1)(c)(i)(B), providesadditional information sufficient to distinguish the trust from other trusts having one or more ofthe same settlors or the same testator and indicates that the collateral is held in a trust, unlessthe additional information so indicates;(d)  subject to Subsection (7), if the debtor is an individual to whom the state DriverLicense Division of the Department of Public Safety has issued a driver license that has notexpired, or if the debtor does not have an unexpired driver license, an individual to whom thestate Driver License Division of the Department of Public Safety has issued an unexpiredidentification card, only if the financing statement provides the name of the individual which isindicated on the driver license or identification card;(e)  if the debtor is an individual to whom Subsection (1)(d) does not apply, only if thefinancing statement provides the individual name of the debtor or the surname and firstpersonal name of the debtor; and(f)the financing statement, in a manner that each nameprovided would be sufficient if the person named were the debtor(f)(6)  The name of the decedent indicated on the order appointing the personalrepresentative of the decedent issued by the court having jurisdiction over the collateral issufficient as the "name of the decedent" under Subsection (1)(b).(7)  If this state has issued to an individual more than one driver license or identificationcard of a kind described in Subsection (1)(d), the one that was issued most recently is the oneto which Subsection (1)(d) refers.(8)  In this section, the "name of the settlor or testator" means:(a)  if the settlor is a registered organization, the name that is stated to be the settlor'sname on the public organic record most recently filed with or issued or enacted by the settlor'sjurisdiction of organization which purports to state, amend, or restate the settlor's name; or(b)  in the other cases, the name of the settlor or testator indicated in the trust's organicrecord.theprovides for a debtor becomes insufficient as the name of the debtor under Subsection
+
+70A-9a-503
+
+(1) so that the financing statement becomesfiled financingstatement becomes seriously misleadingfiled financing statementbecomes seriously misleadingfinancing statement became seriously misleadinginitialor (4)informationsurnameorname provided as the name of thethe name of(4)  A filing office may refuse to accept a record for filing, and if it does so, filing doesnot occur with respect to the record, because:(a)  the debtor is an individual and the debtor's name contains unusually placed andapparently unnecessary punctuation, symbols, or other nonalphabetic characters;(b)  the record, in the collateral description or elsewhere, including an attachment,discloses personally identifying information such as a Social Security number, driver licensenumber, identification card number, bank account number, credit or debit card account number,date of birth, or place of birth; or(c)  the debtor is an individual and the record indicates that the debtor is a transmittingutility.(5)or (4)an informationAn informationunder Subsection (1)(b)  indicate that it is an information statement; and(3)  A person may file in the filing office an information statement with respect to arecord filed there if the person is a secured party of record with respect to the financingstatement to which the record relates and believes that the person that filed the record was notentitled to do so under Subsection 
+
+70A-9a-509
+
+(4).(4)  An information statement under Subsection (3) must:(a)  identify the record to which it relates by the file number assigned to the initialfinancing statement to which the record relates;(b)  indicate that it is an information statement; and(c)  provide the basis for the person's belief that the person that filed the record was notentitled to do so under Subsection 
+
+70A-9a-509
+
+(4).(5)an informationor (4)2010or (4)2010or (4)with respect to the obligation secured by the mortgage    70A-9a-801.(1)  Except as otherwise provided in this part, the bill applies to a transaction or lienwithin its scope, even if the transaction or lien was entered into or created before July 1, 2013.(2)  This bill does not affect an action, case, or proceeding commenced before July 1,2013.    70A-9a-802.(1)  A security interest that is a perfected security interest immediately before July 1,2013, is a perfected security interest under this chapter as amended by this bill if, when this billtakes effect, the applicable requirements for attachment and perfection under this chapter asamended by this bill are satisfied without further action.(2)  Except as otherwise provided in Section 
+
+70A-9a-805
+
+, if immediately before July 1,2013, a security interest is a perfected security interest, but the applicable requirements forperfection under this chapter as amended by this bill are not satisfied when this bill takes effect,the security interest remains perfected thereafter only if the applicable requirements forperfection under this chapter as amended by this bill are satisfied within one year after July 1,2013.    70A-9a-803.A security interest that is an unperfected security interest immediately before this billtakes effect becomes a perfected security interest:(1)  without further action, when this bill takes effect if the applicable requirements forperfection under this chapter as amended by this bill are satisfied before or at that time; or(2)  when the applicable requirements for perfection are satisfied if the requirements aresatisfied after that time.    70A-9a-804.(1)  The filing of a financing statement before this bill takes effect is effective to perfecta security interest to the extent the filing would satisfy the applicable requirements forperfection under this chapter as amended by this bill.(2)  This bill does not render ineffective an effective financing statement that, beforethis bill takes effect, is filed and satisfies the applicable requirements for perfection under thelaw of the jurisdiction governing perfection as provided in this chapter as it existed beforeamendment.  However, except as otherwise provided in Subsections (3) and (4) and Section
+
+70A-9a-805
+
+, the financing statement ceases to be effective:(a)  if the financing statement is filed in this state, at the time the financing statementwould have ceased to be effective had this bill not taken effect; or(b)  if the financing statement is filed in another jurisdiction, at the earlier of:(i)  the time the financing statement would have ceased to be effective under the law ofthat jurisdiction; or(ii)  June 30, 2018.(3)  The filing of a continuation statement after this bill takes effect does not continuethe effectiveness of a financing statement filed before this bill takes effect.  However, upon thetimely filing of a continuation statement after this bill takes effect and in accordance with thelaw of the jurisdiction governing perfection as provided in this chapter as amended by this bill,the effectiveness of a financing statement filed in the same office in that jurisdiction before thisbill takes effect continues for the period provided by the law of that jurisdiction.(4)  Subsection (2)(b)(ii) applies to a financing statement that, before this bill takeseffect, is filed against a transmitting utility and satisfies the applicable requirements forperfection under the law of the jurisdiction governing perfection as provided in this chapter asit existed before amendment, only to the extent that this chapter as amended by this billprovides that the law of a jurisdiction other than the jurisdiction in which the financingstatement is filed governs perfection of a security interest in collateral covered by the financingstatement.(5)  A financing statement that includes a financing statement filed before this bill takeseffect and a continuation statement filed after this bill takes effect is effective only to the extentthat it satisfies the requirements of Part 5, Filing, as amended by this bill for an initial financingstatement.  A financing statement that indicates that the debtor is a decedent's estate indicatesthat the collateral is being administered by a personal representative within the meaning ofSubsection 
+
+70A-9a-503
+
+(1)(b) as amended by this bill.  A financing statement that indicates thatthe debtor is a trust or is a trustee acting with respect to property held in trust indicates that thecollateral is held in a trust within the meaning of Subsection 
+
+70A-9a-503
+
+(1)(c) as amended bythis bill.    70A-9a-805.(1)  The filing of an initial financing statement in the office specified in Section
+
+70A-9a-501
+
+ continues the effectiveness of a financing statement filed before this bill takeseffect if:(a)  the filing of an initial financing statement in that office would be effective toperfect a security interest under this chapter as amended by this bill;(b)  the pre-effective-date financing statement was filed in an office in another state;and(c)  the initial financing statement satisfies Subsection (3).(2)  The filing of an initial financing statement under Subsection (1) continues theeffectiveness of the pre-effective-date financing statement:(a)  if the initial financing statement is filed before this bill takes effect, for the periodprovided in unamended Section 
+
+70A-9a-515
+
+ with respect to an initial financing statement; and(b)  if the initial financing statement is filed after this bill takes effect, for the periodprovided in Section 
+
+70A-9a-515
+
+ as amended by this bill with respect to an initial financingstatement.(3)  To be effective for purposes of Subsection (1), an initial financing statement must:(a)  satisfy the requirements of Part 5, Filing, as amended by this bill for an initialfinancing statement;(b)  identify the pre-effective-date financing statement by indicating the office in whichthe financing statement was filed and providing the dates of filing and file numbers, if any, ofthe financing statement and of the most recent continuation statement filed with respect to thefinancing statement; and(c)  indicate that the pre-effective-date financing statement remains effective.    70A-9a-806.(1)  In this section, "pre-effective-date financing statement" means a financingstatement filed before this bill takes effect.(2)  After this bill takes effect, a person may add or delete collateral covered by,continue or terminate the effectiveness of, or otherwise amend the information provided in, apre-effective-date financing statement only in accordance with the law of the jurisdictiongoverning perfection as provided in this chapter as amended by this bill.  However, theeffectiveness of a pre-effective-date financing statement also may be terminated in accordancewith the law of the jurisdiction in which the financing statement is filed.(3)  Except as otherwise provided in Subsection (4), if the law of this state governsperfection of a security interest, the information in a pre-effective-date financing statement maybe amended after this bill takes effect only if:(a)  the pre-effective-date financing statement and an amendment are filed in the officespecified in Section 
+
+70A-9a-501
+
+;(b)  an amendment is filed in the office specified in Section 
+
+70A-9a-501
+
+ concurrentlywith, or after the filing in that office of, an initial financing statement that satisfies Subsection
+
+70A-9a-805
+
+(3); or(c)  an initial financing statement that provides the information as amended and satisfiesSubsection 
+
+70A-9a-805
+
+(3) is filed in the office specified in Section 
+
+70A-9a-501
+
+.(4)  If the law of this state governs perfection of a security interest, the effectiveness ofa pre-effective-date financing statement may be continued only under Subsections
+
+70A-9a-804
+
+(3) and (5) or Section 
+
+70A-9a-805
+
+.(5)  Whether or not the law of this state governs perfection of a security interest, theeffectiveness of a pre-effective-date financing statement filed in this state may be terminatedafter this bill takes effect by filing a termination statement in the office in which thepre-effective-date financing statement is filed, unless an initial financing statement thatsatisfies Subsection 
+
+70A-9a-805
+
+(3) has been filed in the office specified by the law of thejurisdiction governing perfection as provided in this chapter as amended by this bill as theoffice in which to file a financing statement.    70A-9a-807.A person may file an initial financing statement or a continuation statement under thispart if:(1)  the secured party of record authorizes the filing; and(2)  the filing is necessary under this part:(a)  to continue the effectiveness of a financing statement filed before this bill takeseffect; or(b)  to perfect or continue the perfection of a security interest.    70A-9a-808.This bill determines the priority of conflicting claims to collateral.  However, if therelative priorities of the claims were established before this bill takes effect, this chapter as itexisted before amendment determines priority.This bill takes effect on July 1, 2013.The Legislature intends that the Office of Legislative Research and General Counsel, inpreparing the Utah Code database for publication, replace the language in Sections 
+
+70A-9a-801
+
+through 
+
+70A-9a-808
+
+, from "this bill" with the bill's designated chapter number in the Laws ofUtah.Full text:
+
+
+
+Utah State Legislature
+
+
+
+
+
+
+
+
+
+
+
+
+Legislators
+
+By Session (1896-Current)
+Alphabetical (Historical)
+Find by Address/Map
+More
+
+
+Bills
+
+Bills/Bill Requests
+Passed Bills
+2017 Bills
+
+Keyword Search
+Reading Calendars
+Tracking Service
+More
+
+
+Committees
+
+All Committees
+Appropriations
+Commissions
+
+Independent Legislative Ethics Commission
+Interim
+Standing
+Subcommittees
+Task Forces
+Bills In Committees
+
+
+Utah Code / Constitution
+
+
+Title/Chapter/Section
+Keyword Search 
+
+Utah Constitution
+Laws of Utah 1851-ongoing
+Utah Territorial Laws 
+More
+
+
+Senate
+
+Main Page 
+About The Senate 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Extraordinary Sessions 
+Reading Calendars 
+Past Floor Debates 
+Senate Journals 
+
+
+House
+
+Main Page
+About the House 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Reading Calendars 
+Past Floor Debates 
+Journals 
+Conflict of Interest Forms 
+
+
+Legislative Guide 
+
+Legislative Guide
+Civic Programs
+GRAMA (Records Requests)
+
+
+Publications
+
+Search Publications
+Appropriations
+Audits
+Bagels & Briefings
+Briefing Papers
+Digest of Legislation
+Legislative Drafting Manual
+
+Journals
+
+Interim Highlights
+
+Legislative Rules
+GRAMA (Records Requests)
+Public Email
+State Organization Charts
+YouTube Channel
+Requests for Proposals and Legal Notices
+More
+
+
+Legislative Histories
+
+Legislative History Resources
+How to Research
+Bill Drafting/Research Files (1990-Ongoing)
+
+Working Bills (1896-1989)
+Interim Committee Histories (1990-Ongoing) 
+Journals
+Past House Floor Debates
+Past Senate Floor Debates
+More
+
+
+Staff Offices
+
+All Legislative Offices
+Auditor General
+Fiscal Analyst
+Printing
+Research and General Counsel
+Staff Awards
+Job Opportunities
+More
+
+
+Links of Interest
+
+Utah Administrative Rules
+Courts
+Utah State Capitol
+State of Utah
+Federal Legislation
+More
+
+
+
+
+
+
+ 
+
+Download Zipped Enrolled WordPerfect SB0041.ZIP
+[Introduced][Amended][Status][Bill Documents][Fiscal Note][Bills Directory]
+
+
+S.B. 41 Enrolled
+
+
+
+
+
+            
+1
+
+    
+ UNIFORM COMMERCIAL CODE AMENDMENTS
+
+
+
+            
+2
+
+    
+2013 GENERAL SESSION
+
+            
+3
+
+    
+STATE OF UTAH
+
+            
+4
+
+    
+
+
+ Chief Sponsor:  Lyle W. Hillyard
+
+
+
+            
+5
+
+    
+
+
+
+House Sponsor:  
+
+
+
+
+
+
+Derek E. Brown
+
+
+
+
+
+            
+6
+
+    
+
+            
+7
+
+    
+ LONG TITLE
+            
+8
+
+    
+ General Description:
+            
+9
+
+    
+    This bill modifies the Uniform Commercial Code to address secured transactions and
+            
+10
+
+    
+repeal outdated language.
+            
+11
+
+    
+ Highlighted Provisions:
+            
+12
+
+    
+    This bill:
+            
+13
+
+    
+    .    modifies definition provisions;
+            
+14
+
+    
+    .    addresses control of electronic chattel paper;
+            
+15
+
+    
+    .    modifies provision addressing location of debtor;
+            
+16
+
+    
+    .    addresses certificate of title;
+            
+17
+
+    
+    .    provides for rules that apply when there is a change in governing law;
+            
+18
+
+    
+    .    addresses interests that take priority over or take free of security interest or
+            
+19
+
+    
+agricultural lien;
+            
+20
+
+    
+    .    modifies provisions related to priority of security interests created by new debtor;
+            
+21
+
+    
+    .    addresses the application of statute to the sale of a payment intangible or promissory
+            
+22
+
+    
+note;
+            
+23
+
+    
+    .    addresses contents of financing statements;
+            
+24
+
+    
+    .    modifies provisions related to name of debtor and secured party;
+            
+25
+
+    
+    .    addresses effect of certain events on effectiveness of financing statement;
+            
+26
+
+    
+    .    clarifies filings by a transmitting utility;
+            
+27
+
+    
+    .    modifies provisions related to what constitutes a filing and the effectiveness of a
+            
+28
+
+    
+filing;
+            
+29
+
+    
+    .    addresses claims concerning inaccurate or wrongfully filed records;
+
+            
+30
+
+
+    
+    .    updates the reference to revisions incorporated into chapter;
+            
+31
+
+    
+    .    addresses collection and enforcement by secured party;
+            
+32
+
+    
+    .    enacts transition provisions for 2010 amendments;
+            
+33
+
+    
+    .    repeals Chapter 11, Corrected Uniform Commercial Code - Effective Date and
+            
+34
+
+    
+Transition Provisions; and
+            
+35
+
+    
+    .    makes technical and conforming changes.
+            
+36
+
+    
+ Money Appropriated in this Bill:
+            
+37
+
+    
+    None
+            
+38
+
+    
+ Other Special Clauses:
+            
+39
+
+    
+    This bill takes effect on July 1, 2013.
+            
+40
+
+    
+    This bill provides revisor instructions.
+            
+41
+
+    
+ Utah Code Sections Affected:
+            
+42
+
+    
+AMENDS:
+            
+43
+
+    
+     70A-2a-103, as last amended by Laws of Utah 2007, Chapter 272
+            
+44
+
+    
+     70A-9a-102, as last amended by Laws of Utah 2006, Chapter 42
+            
+45
+
+    
+     70A-9a-105, as enacted by Laws of Utah 2000, Chapter 252
+            
+46
+
+    
+     70A-9a-307, as enacted by Laws of Utah 2000, Chapter 252
+            
+47
+
+    
+     70A-9a-311, as enacted by Laws of Utah 2000, Chapter 252
+            
+48
+
+    
+     70A-9a-316, as enacted by Laws of Utah 2000, Chapter 252
+            
+49
+
+    
+     70A-9a-317, as last amended by Laws of Utah 2006, Chapter 42
+            
+50
+
+    
+     70A-9a-326, as enacted by Laws of Utah 2000, Chapter 252
+            
+51
+
+    
+     70A-9a-406, as enacted by Laws of Utah 2000, Chapter 252
+            
+52
+
+    
+     70A-9a-408, as enacted by Laws of Utah 2000, Chapter 252
+            
+53
+
+    
+     70A-9a-502, as enacted by Laws of Utah 2000, Chapter 252
+            
+54
+
+    
+     70A-9a-503, as enacted by Laws of Utah 2000, Chapter 252
+            
+55
+
+    
+     70A-9a-507, as enacted by Laws of Utah 2000, Chapter 252
+            
+56
+
+    
+     70A-9a-515, as enacted by Laws of Utah 2000, Chapter 252
+            
+57
+
+    
+     70A-9a-516, as enacted by Laws of Utah 2000, Chapter 252
+
+            
+58
+
+
+    
+     70A-9a-518, as enacted by Laws of Utah 2000, Chapter 252
+            
+59
+
+    
+     70A-9a-520, as last amended by Laws of Utah 2002, Chapter 291
+            
+60
+
+    
+     70A-9a-521, as enacted by Laws of Utah 2000, Chapter 252
+            
+61
+
+    
+     70A-9a-607, as enacted by Laws of Utah 2000, Chapter 252
+            
+62
+
+    
+ENACTS:
+            
+63
+
+    
+     70A-9a-801, Utah Code Annotated 1953
+            
+64
+
+    
+     70A-9a-802, Utah Code Annotated 1953
+            
+65
+
+    
+     70A-9a-803, Utah Code Annotated 1953
+            
+66
+
+    
+     70A-9a-804, Utah Code Annotated 1953
+            
+67
+
+    
+     70A-9a-805, Utah Code Annotated 1953
+            
+68
+
+    
+     70A-9a-806, Utah Code Annotated 1953
+            
+69
+
+    
+     70A-9a-807, Utah Code Annotated 1953
+            
+70
+
+    
+     70A-9a-808, Utah Code Annotated 1953
+            
+71
+
+    
+REPEALS:
+            
+72
+
+    
+     70A-11-101, as enacted by Laws of Utah 1977, Chapter 272
+            
+73
+
+    
+     70A-11-102, as enacted by Laws of Utah 1977, Chapter 272
+            
+74
+
+    
+     70A-11-103, as enacted by Laws of Utah 1977, Chapter 272
+            
+75
+
+    
+     70A-11-104, as enacted by Laws of Utah 1977, Chapter 272
+            
+76
+
+    
+     70A-11-105, as last amended by Laws of Utah 2003, Chapter 131
+            
+77
+
+    
+     70A-11-106, as last amended by Laws of Utah 2003, Chapter 131
+            
+78
+
+    
+     70A-11-107, as enacted by Laws of Utah 1977, Chapter 272
+            
+79
+
+    
+     70A-11-108, as enacted by Laws of Utah 1977, Chapter 272
+            
+80
+
+    
+
+            
+81
+
+    
+Be it enacted by the Legislature of the state of Utah:
+            
+82
+
+    
+    Section 1.  
+Section  
+70A-2a-103
+
+ is amended to read:
+            
+83
+
+    
+     70A-2a-103.  Definitions -- Index of definitions.
+            
+84
+
+    
+    (1)  In this chapter, unless the context otherwise requires:
+            
+85
+
+    
+    (a)  "Buyer in ordinary course of business" means a person, who in good faith and
+
+            
+86
+
+
+    
+without knowledge that the sale to him is in violation of the ownership rights or security
+            
+87
+
+    
+interest or leasehold interest of a third party in the goods, buys in ordinary course from a person
+            
+88
+
+    
+in the business of selling goods of that kind, but does not include a pawnbroker.  "Buying" may
+            
+89
+
+    
+be for cash or by exchange of other property or on secured or unsecured credit and includes
+            
+90
+
+    
+acquiring goods or documents of title under a preexisting contract for sale, but does not include
+            
+91
+
+    
+a transfer in bulk, or as security for, or in total or partial satisfaction of a money debt.
+            
+92
+
+    
+    (b)  "Cancellation" occurs when either party puts an end to the lease contract for default
+            
+93
+
+    
+by the other party.
+            
+94
+
+    
+    (c)  "Commercial unit" means a unit of goods which by commercial usage is a single
+            
+95
+
+    
+whole for purposes of lease, and the division of which materially impairs its character or value
+            
+96
+
+    
+on the market or in use.  A commercial unit may be a single article, such as a machine, or a set
+            
+97
+
+    
+of articles, such as a suite of furniture or a line of machinery, or a quantity, such as a gross or
+            
+98
+
+    
+carload, or any other unit treated in use or in the relevant market as a single whole.
+            
+99
+
+    
+    (d)  "Conforming goods or performance under a lease contract" means goods or
+            
+100
+
+    
+performance that are in accordance with the obligations under the lease contract.
+            
+101
+
+    
+    (e)  "Consumer lease" means a lease that a lessor, regularly engaged in the business of
+            
+102
+
+    
+leasing or selling, makes to a lessee, who is an individual and who takes under the lease
+            
+103
+
+    
+primarily for a personal, family, or household purpose.
+            
+104
+
+    
+    (f)  "Fault" means wrongful act, omission, breach, or default.
+            
+105
+
+    
+    (g)  "Finance lease" means a lease in which:
+            
+106
+
+    
+    (i)  the lessor does not select, manufacture, or supply the goods;
+            
+107
+
+    
+    (ii)  the lessor acquires the goods or the right to possession and use of the goods in
+            
+108
+
+    
+connection with the lease; and
+            
+109
+
+    
+    (iii)  one of the following occurs:
+            
+110
+
+    
+    (A)  the lessee receives a copy of the contract by which the lessor acquired the goods or
+            
+111
+
+    
+the right to possession and use of the goods before signing the lease contract;
+            
+112
+
+    
+    (B)  the lessee's approval of the contract by which the lessor acquired the goods or the
+            
+113
+
+    
+right to possession and use of the goods is a condition to effectiveness of the lease contract;
+
+            
+114
+
+
+    
+    (C)  the lessee, before signing the lease contract, receives an accurate and complete
+            
+115
+
+    
+statement designating the promises and warranties, and any disclaimers of warranties,
+            
+116
+
+    
+limitations, or modifications of remedies, or liquidated damages, including those of a third
+            
+117
+
+    
+party, such as the manufacturer of the goods, provided to the lessor by the person supplying the
+            
+118
+
+    
+goods in connection with or as part of the contract by which the lessor acquired the goods or
+            
+119
+
+    
+the right to possession and use of the goods; or
+            
+120
+
+    
+    (D)  if the lease is not a consumer lease, the lessor, before the lessee signs the lease
+            
+121
+
+    
+contract, informs the lessee in writing:
+            
+122
+
+    
+    (I)  of the identity of the person supplying the goods to the lessor, unless the lessee has
+            
+123
+
+    
+selected that person and directed the lessor to acquire the goods or the right to possession and
+            
+124
+
+    
+use of the goods from that person;
+            
+125
+
+    
+    (II)  that the lessee is entitled under this chapter to the promises and warranties,
+            
+126
+
+    
+including those of any third party, provided to the lessor by the person supplying the goods in
+            
+127
+
+    
+connection with or as part of the contract by which the lessor acquired the goods or the right to
+            
+128
+
+    
+possession and use of the goods; and
+            
+129
+
+    
+    (III)  that the lessee may communicate with the person supplying the goods to the lessor
+            
+130
+
+    
+and receive an accurate and complete statement of those promises and warranties, including
+            
+131
+
+    
+any disclaimers and limitations of them or of remedies.
+            
+132
+
+    
+    (h)  "Goods" means all things that are movable at the time of identification to the lease
+            
+133
+
+    
+contract, or are fixtures.  The term does not include money, documents, instruments, accounts,
+            
+134
+
+    
+chattel paper, general intangibles, or minerals or the like, including oil and gas, before
+            
+135
+
+    
+extraction.  The term also includes the unborn young of animals.
+            
+136
+
+    
+    (i)  "Installment lease contract" means a lease contract that authorizes or requires the
+            
+137
+
+    
+delivery of goods in separate lots to be separately accepted, even though the lease contract
+            
+138
+
+    
+contains a clause stating "each delivery is a separate lease" or its equivalent.
+            
+139
+
+    
+    (j)  "Lease" means a transfer of the right to possession and use of goods for a term, in
+            
+140
+
+    
+return for consideration.  Unless the context clearly indicates otherwise, the term includes a
+            
+141
+
+    
+sublease.  But a sale, including a sale on approval or a sale or return, or retention or creation of
+
+            
+142
+
+
+    
+a security interest is not a lease.
+            
+143
+
+    
+    (k)  "Lease agreement" with respect to the lease, means the bargain of the lessor and the
+            
+144
+
+    
+lessee in fact as found in their language or by implication from other circumstances including
+            
+145
+
+    
+course of dealing or usage of trade or course of performance as provided in this chapter. 
+            
+146
+
+    
+Unless the context clearly indicates otherwise, the term includes a sublease agreement.
+            
+147
+
+    
+    (l)  "Lease contract" means the total legal obligation that results from the lease
+            
+148
+
+    
+agreement as affected by this chapter and any other applicable rules of law.  Unless the context
+            
+149
+
+    
+clearly indicates otherwise, the term includes a sublease contract.
+            
+150
+
+    
+    (m)  "Leasehold interest" means the interest of the lessor or the lessee under a lease
+            
+151
+
+    
+contract.
+            
+152
+
+    
+    (n)  "Lessee" means a person who acquires the right to possession and use of goods
+            
+153
+
+    
+under a lease.  Unless the context clearly indicates otherwise, the term includes a sublessee.
+            
+154
+
+    
+    (o)  "Lessee in ordinary course of business" means a person who in good faith and
+            
+155
+
+    
+without knowledge that the lease to him is in violation of the ownership rights, security
+            
+156
+
+    
+interest, or leasehold interest of a third party in the goods, leases in ordinary course from a
+            
+157
+
+    
+person in the business of selling or leasing goods of that kind, but does not include a
+            
+158
+
+    
+pawnbroker.  "Leasing" may be for cash or by exchange of other property, or on secured or
+            
+159
+
+    
+unsecured credit, and includes acquiring goods or documents of title under a preexisting lease
+            
+160
+
+    
+contract.  "Leasing" does not include a transfer in bulk or as security for or in total or partial
+            
+161
+
+    
+satisfaction of a money debt.
+            
+162
+
+    
+    (p)  "Lessor" means a person who transfers the right to possession and use of goods
+            
+163
+
+    
+under a lease.  Unless the context clearly indicates otherwise, the term includes a sublessor.
+            
+164
+
+    
+    (q)  "Lessor's residual interest" means the lessor's interest in the goods after expiration,
+            
+165
+
+    
+termination, or cancellation of the lease contract.
+            
+166
+
+    
+    (r)  "Lien" means a charge against or interest in goods to secure payment of a debt or
+            
+167
+
+    
+performance of an obligation, but the term does not include a security interest.
+            
+168
+
+    
+    (s)  "Lot" means a parcel or single article that is the subject matter of a separate lease or
+            
+169
+
+    
+delivery, whether or not it is sufficient to perform the lease contract.
+
+            
+170
+
+
+    
+    (t)  "Merchant lessee" means a lessee that is a merchant with respect to goods of the
+            
+171
+
+    
+kind subject to the lease.
+            
+172
+
+    
+    (u)  "Present value" means the amount as of a date certain of one or more sums payable
+            
+173
+
+    
+in the future, discounted to the date certain.  The discount is determined by the interest rate
+            
+174
+
+    
+specified by the parties if the rate was not manifestly unreasonable at the time the transaction
+            
+175
+
+    
+was entered into; otherwise, the discount is determined by a commercially reasonable rate that
+            
+176
+
+    
+takes into account the facts and circumstances of each case at the time the transaction was
+            
+177
+
+    
+entered into.
+            
+178
+
+    
+    (v)  "Purchase" includes taking by sale, lease, mortgage, security interest, pledge, gift,
+            
+179
+
+    
+or any other voluntary transaction creating an interest in goods.
+            
+180
+
+    
+    (w)  "Sublease" means a lease of goods, the right to possession and use of which was
+            
+181
+
+    
+acquired by the lessor as a lessee under an existing lease.
+            
+182
+
+    
+    (x)  "Supplier" means a person from whom a lessor buys or leases goods to be leased
+            
+183
+
+    
+under a finance lease.
+            
+184
+
+    
+    (y)  "Supply contract" means a contract under which a lessor buys or leases goods to be
+            
+185
+
+    
+leased.
+            
+186
+
+    
+    (z)  "Termination" occurs when either party, pursuant to a power created by agreement
+            
+187
+
+    
+or law, puts an end to the lease contract otherwise than for default.
+            
+188
+
+    
+    (2)  Other definitions applying to this chapter and the sections in which they appear are:
+            
+189
+
+    
+    (a)  "Accessions," Section 
+
+70A-2a-310
+
+.
+            
+190
+
+    
+    (b)  "Construction mortgage," Section 
+
+70A-2a-309
+
+.
+            
+191
+
+    
+    (c)  "Encumbrance," Section 
+
+70A-2a-309
+
+.
+            
+192
+
+    
+    (d)  "Fixtures," Section 
+
+70A-2a-309
+
+.
+            
+193
+
+    
+    (e)  "Fixture filing," Section 
+
+70A-2a-309
+
+.
+            
+194
+
+    
+    (f)  "Purchase money lease," Section 
+
+70A-2a-309
+
+.
+            
+195
+
+    
+    (3)  The following definitions in other chapters apply to this chapter:
+            
+196
+
+    
+    (a)  "Account," Subsection 
+
+70A-9a-102
+
+(2).
+            
+197
+
+    
+    (b)  "Between merchants," Section 
+
+70A-2-104
+
+.
+
+            
+198
+
+
+    
+    (c)  "Buyer," Section 
+
+70A-2-103
+
+.
+            
+199
+
+    
+    (d)  "Chattel paper," Subsection 
+
+70A-9a-102
+
+(11).
+            
+200
+
+    
+    (e)  "Consumer goods," Subsection 
+
+70A-9a-102
+
+(23).
+            
+201
+
+    
+    (f)  "Document," Subsection 
+
+70A-9a-102
+
+(30).
+            
+202
+
+    
+    (g)  "Entrusting," Section 
+
+70A-2-403
+
+.
+            
+203
+
+    
+    (h)  "General intangible," Subsection 
+
+70A-9a-102
+
+(42).
+            
+204
+
+    
+    (i)  "Good faith," Section 
+
+70A-2-103
+
+[;].
+            
+205
+
+    
+    (j)  "Instrument," Subsection 
+
+70A-9a-102
+
+[(46)](47).
+            
+206
+
+    
+    (k)  "Merchant," Section 
+
+70A-2-104
+
+.
+            
+207
+
+    
+    (l)  "Mortgage," Subsection 
+
+70A-9a-102
+
+[(54)](55).
+            
+208
+
+    
+    (m)  "Pursuant to commitment," Subsection 
+
+70A-9a-102
+
+[(67)](69).
+            
+209
+
+    
+    (n)  "Receipt," Section 
+
+70A-2-103
+
+.
+            
+210
+
+    
+    (o)  "Sale," Section 
+
+70A-2-106
+
+.
+            
+211
+
+    
+    (p)  "Sale on approval," Section 
+
+70A-2-326
+
+.
+            
+212
+
+    
+    (q)  "Sale or return," Section 
+
+70A-2-326
+
+.
+            
+213
+
+    
+    (r)  "Seller," Section 
+
+70A-2-103
+
+.
+            
+214
+
+    
+    (4)  In addition, Title 70A, Chapter 1a, Uniform Commercial Code - General
+            
+215
+
+    
+Provisions, contains general definitions and principles of construction and interpretation
+            
+216
+
+    
+applicable throughout this chapter.
+            
+217
+
+    
+    Section 2.  
+Section  
+70A-9a-102
+
+ is amended to read:
+            
+218
+
+    
+     70A-9a-102.  Definitions and index of definitions.
+            
+219
+
+    
+    In this chapter:
+            
+220
+
+    
+    (1)  "Accession" means goods that are physically united with other goods in such a
+            
+221
+
+    
+manner that the identity of the original goods is not lost.
+            
+222
+
+    
+    (2) (a)  "Account," except as used in "account for," means a right to payment of a
+            
+223
+
+    
+monetary obligation, whether or not earned by performance:
+            
+224
+
+    
+    (i)  for property that has been or is to be sold, leased, licensed, assigned, or otherwise
+            
+225
+
+    
+disposed of;
+
+            
+226
+
+
+    
+    (ii)  for services rendered or to be rendered;
+            
+227
+
+    
+    (iii)  for a policy of insurance issued or to be issued;
+            
+228
+
+    
+    (iv)  for a secondary obligation incurred or to be incurred;
+            
+229
+
+    
+    (v)  for energy provided or to be provided;
+            
+230
+
+    
+    (vi)  for the use or hire of a vessel under a charter or other contract;
+            
+231
+
+    
+    (vii)  arising out of the use of a credit or charge card or information contained on or for
+            
+232
+
+    
+use with the card; or
+            
+233
+
+    
+    (viii)  as winnings in a lottery or other game of chance operated or sponsored by a state,
+            
+234
+
+    
+governmental unit of a state, or person licensed or authorized to operate the game by a state or
+            
+235
+
+    
+governmental unit of a state.
+            
+236
+
+    
+    (b)  "Account" includes health-care-insurance receivables.
+            
+237
+
+    
+    (c)  "Account" does not include:
+            
+238
+
+    
+    (i)  rights to payment evidenced by chattel paper or an instrument;
+            
+239
+
+    
+    (ii)  commercial tort claims;
+            
+240
+
+    
+    (iii)  deposit accounts;
+            
+241
+
+    
+    (iv)  investment property;
+            
+242
+
+    
+    (v)  letter-of-credit rights or letters of credit; or
+            
+243
+
+    
+    (vi)  rights to payment for money or funds advanced or sold, other than rights arising
+            
+244
+
+    
+out of the use of a credit or charge card or information contained on or for use with the card.
+            
+245
+
+    
+    (3) (a)  "Account debtor" means a person obligated on an account, chattel paper, or
+            
+246
+
+    
+general intangible.
+            
+247
+
+    
+    (b)  "Account debtor" does not include persons obligated to pay a negotiable
+            
+248
+
+    
+instrument, even if the instrument constitutes part of chattel paper.
+            
+249
+
+    
+    (4)  "Accounting," except as used in "accounting for," means a record:
+            
+250
+
+    
+    (a)  authenticated by a secured party;
+            
+251
+
+    
+    (b)  indicating the aggregate unpaid secured obligations as of a date not more than 35
+            
+252
+
+    
+days earlier or 35 days later than the date of the record; and
+            
+253
+
+    
+    (c)  identifying the components of the obligations in reasonable detail.
+
+            
+254
+
+
+    
+    (5)  "Agricultural lien" means an interest, other than a security interest, in farm
+            
+255
+
+    
+products:
+            
+256
+
+    
+    (a)  which secures payment or performance of an obligation for:
+            
+257
+
+    
+    (i)  goods or services furnished in connection with a debtor's farming operation; or
+            
+258
+
+    
+    (ii)  rent on real property leased by a debtor in connection with its farming operation;
+            
+259
+
+    
+    (b)  which is created by statute in favor of a person that:
+            
+260
+
+    
+    (i)  in the ordinary course of its business furnished goods or services to a debtor in
+            
+261
+
+    
+connection with a debtor's farming operation; or
+            
+262
+
+    
+    (ii)  leased real property to a debtor in connection with the debtor's farming operation;
+            
+263
+
+    
+and
+            
+264
+
+    
+    (c)  whose effectiveness does not depend on the person's possession of the personal
+            
+265
+
+    
+property.
+            
+266
+
+    
+    (6)  "As-extracted collateral" means:
+            
+267
+
+    
+    (a)  oil, gas, or other minerals that are subject to a security interest that:
+            
+268
+
+    
+    (i)  is created by a debtor having an interest in the minerals before extraction; and
+            
+269
+
+    
+    (ii)  attaches to the minerals as extracted; or
+            
+270
+
+    
+    (b)  accounts arising out of the sale at the wellhead or minehead of oil, gas, or other
+            
+271
+
+    
+minerals in which the debtor had an interest before extraction.
+            
+272
+
+    
+    (7)  "Authenticate" means:
+            
+273
+
+    
+    (a)  to sign; or
+            
+274
+
+    
+    [(b)  to execute or otherwise adopt a symbol, or encrypt or similarly process a record in
+            
+275
+
+    
+whole or in part, with the present intent of the authenticating person to identify the person and
+            
+276
+
+    
+adopt or accept a record.]
+            
+277
+
+    
+    (b)  with present intent to adopt or accept a record, to attach to or logically associate
+            
+278
+
+    
+with the record an electronic sound, symbol, or process.
+            
+279
+
+    
+    (8) (a)  "Bank" means an organization that is engaged in the business of banking.
+            
+280
+
+    
+    (b)  "Bank" includes:
+            
+281
+
+    
+    (i)  a depository institution as defined in Section 
+
+7-1-103
+
+; and
+
+            
+282
+
+
+    
+    (ii)  a trust company.
+            
+283
+
+    
+    (9)  "Cash proceeds" means proceeds that are money, checks, deposit accounts, or the
+            
+284
+
+    
+like.
+            
+285
+
+    
+    (10) (a)  "Certificate of title" means a certificate of title with respect to which a statute
+            
+286
+
+    
+provides for the security interest in question to be indicated on the certificate as a condition or
+            
+287
+
+    
+result of the security interest's obtaining priority over the rights of a lien creditor with respect to
+            
+288
+
+    
+the collateral.
+            
+289
+
+    
+    (b)  "Certificate of title" includes another record maintained as an alternative to a
+            
+290
+
+    
+certificate of title by the governmental unit that issues certificates of title if a statute permits the
+            
+291
+
+    
+security interest in question to be indicated on the record as a condition or result of the security
+            
+292
+
+    
+interest's obtaining priority over the rights of a lien creditor with respect to the collateral.
+            
+293
+
+    
+    (11) (a)  "Chattel paper" means a record or records that evidence both a monetary
+            
+294
+
+    
+obligation and a security interest in specific goods, a security interest in specific goods and
+            
+295
+
+    
+software used in the goods, a security interest in specific goods and license of software used in
+            
+296
+
+    
+the goods, a lease of specific goods, or a lease of specific goods and license of software used in
+            
+297
+
+    
+the goods.  In this Subsection (11), "monetary obligation" means a monetary obligation secured
+            
+298
+
+    
+by the goods or owed under a lease of the goods and includes a monetary obligation with
+            
+299
+
+    
+respect to software used in the goods.
+            
+300
+
+    
+    (b)  "Chattel paper" does not include:
+            
+301
+
+    
+    (i)  charters or other contracts involving the use or hire of a vessel; or
+            
+302
+
+    
+    (ii)  records that evidence a right to payment arising out of the use of a credit or charge
+            
+303
+
+    
+card or information contained or for use with the card.
+            
+304
+
+    
+    (c)  If a transaction is evidenced by records that include an instrument or series of
+            
+305
+
+    
+instruments, the group of records taken together constitutes chattel paper.
+            
+306
+
+    
+    (12)  "Collateral" means the property subject to a security interest or agricultural lien. 
+            
+307
+
+    
+"Collateral" includes:
+            
+308
+
+    
+    (a)  proceeds to which a security interest attaches;
+            
+309
+
+    
+    (b)  accounts, chattel paper, payment intangibles, and promissory notes that have been
+
+            
+310
+
+
+    
+sold; and
+            
+311
+
+    
+    (c)  goods that are the subject of a consignment.
+            
+312
+
+    
+    (13)  "Commercial tort claim" means a claim arising in tort with respect to which:
+            
+313
+
+    
+    (a)  the claimant is an organization; or
+            
+314
+
+    
+    (b)  the claimant is an individual and the claim:
+            
+315
+
+    
+    (i)  arose in the course of the claimant's business or profession; and
+            
+316
+
+    
+    (ii)  does not include damages arising out of personal injury to or the death of an
+            
+317
+
+    
+individual.
+            
+318
+
+    
+    (14)  "Commodity account" means an account maintained by a commodity intermediary
+            
+319
+
+    
+in which a commodity contract is carried for a commodity customer.
+            
+320
+
+    
+    (15)  "Commodity contract" means a commodity futures contract, an option on a
+            
+321
+
+    
+commodity futures contract, a commodity option, or another contract if the contract or option
+            
+322
+
+    
+is:
+            
+323
+
+    
+    (a)  traded on or subject to the rules of a board of trade that has been designated as a
+            
+324
+
+    
+contract market for such a contract pursuant to federal commodities laws; or
+            
+325
+
+    
+    (b)  traded on a foreign commodity board of trade, exchange, or market, and is carried
+            
+326
+
+    
+on the books of a commodity intermediary for a commodity customer.
+            
+327
+
+    
+    (16)  "Commodity customer" means a person for which a commodity intermediary
+            
+328
+
+    
+carries a commodity contract on its books.
+            
+329
+
+    
+    (17)  "Commodity intermediary" means a person that:
+            
+330
+
+    
+    (a)  is registered as a futures commission merchant under federal commodities law; or
+            
+331
+
+    
+    (b)  in the ordinary course of its business provides clearance or settlement services for a
+            
+332
+
+    
+board of trade that has been designated as a contract market pursuant to federal commodities
+            
+333
+
+    
+law.
+            
+334
+
+    
+    (18)  "Communicate" means:
+            
+335
+
+    
+    (a)  to send a written or other tangible record;
+            
+336
+
+    
+    (b)  to transmit a record by any means agreed upon by the persons sending and
+            
+337
+
+    
+receiving the record; or
+
+            
+338
+
+
+    
+    (c)  in the case of transmission of a record to or by a filing office, to transmit a record
+            
+339
+
+    
+by any means prescribed by filing-office rule.
+            
+340
+
+    
+    (19)  "Consignee" means a merchant to which goods are delivered in a consignment.
+            
+341
+
+    
+    (20)  "Consignment" means a transaction, regardless of its form, in which a person
+            
+342
+
+    
+delivers goods to a merchant for the purpose of sale and:
+            
+343
+
+    
+    (a)  the merchant:
+            
+344
+
+    
+    (i)  deals in goods of that kind under a name other than the name of the person making
+            
+345
+
+    
+delivery;
+            
+346
+
+    
+    (ii)  is not an auctioneer; and
+            
+347
+
+    
+    (iii)  is not generally known by its creditors to be substantially engaged in selling the
+            
+348
+
+    
+goods of others;
+            
+349
+
+    
+    (b)  with respect to each delivery, the aggregate value of the goods is $1,000 or more at
+            
+350
+
+    
+the time of delivery;
+            
+351
+
+    
+    (c)  the goods are not consumer goods immediately before delivery; and
+            
+352
+
+    
+    (d)  the transaction does not create a security interest that secures an obligation.
+            
+353
+
+    
+    (21)  "Consignor" means a person that delivers goods to a consignee in a consignment.
+            
+354
+
+    
+    (22)  "Consumer debtor" means a debtor in a consumer transaction.
+            
+355
+
+    
+    (23)  "Consumer goods" means goods that are used or bought for use primarily for
+            
+356
+
+    
+personal, family, or household purposes.
+            
+357
+
+    
+    (24)  "Consumer-goods transaction" means a consumer transaction in which:
+            
+358
+
+    
+    (a)  an individual incurs an obligation primarily for personal, family, or household
+            
+359
+
+    
+purposes; and
+            
+360
+
+    
+    (b)  a security interest in consumer goods secures the obligation.
+            
+361
+
+    
+    (25)  "Consumer obligor" means an obligor who is an individual and who incurred the
+            
+362
+
+    
+obligation as part of a transaction entered into primarily for personal, family, or household
+            
+363
+
+    
+purposes.
+            
+364
+
+    
+    (26) (a)  "Consumer transaction" means a transaction in which:
+            
+365
+
+    
+    (i)  an individual incurs an obligation primarily for personal, family, or household
+
+            
+366
+
+
+    
+purposes;
+            
+367
+
+    
+    (ii)  a security interest secures the obligation; and
+            
+368
+
+    
+    (iii)  the collateral is held or acquired primarily for personal, family, or household
+            
+369
+
+    
+purposes.
+            
+370
+
+    
+    (b)  "Consumer transaction" includes consumer-goods transactions.
+            
+371
+
+    
+    (27)  "Continuation statement" means an amendment of a financing statement which:
+            
+372
+
+    
+    (a)  identifies, by its file number, the initial financing statement to which it relates; and
+            
+373
+
+    
+    (b)  indicates that it is a continuation statement for, or that it is filed to continue the
+            
+374
+
+    
+effectiveness of, the identified financing statement.
+            
+375
+
+    
+    (28)  "Debtor" means:
+            
+376
+
+    
+    (a)  a person having an interest, other than a security interest or other lien, in the
+            
+377
+
+    
+collateral, whether or not the person is an obligor;
+            
+378
+
+    
+    (b)  a seller of accounts, chattel paper, payment intangibles, or promissory notes; or
+            
+379
+
+    
+    (c)  a consignee.
+            
+380
+
+    
+    (29) (a)  "Deposit account" means a demand, time, savings, passbook, or similar
+            
+381
+
+    
+account maintained with a bank.
+            
+382
+
+    
+    (b)  "Deposit account" does not include investment property or accounts evidenced by
+            
+383
+
+    
+an instrument.
+            
+384
+
+    
+    (30)  "Document" means a document of title or a receipt of the type described in
+            
+385
+
+    
+Subsection 
+
+70A-7a-201
+
+(2).
+            
+386
+
+    
+    (31)  "Electronic chattel paper" means chattel paper evidenced by a record or records
+            
+387
+
+    
+consisting of information stored in an electronic medium.
+            
+388
+
+    
+    (32)  "Encumbrance" means a right, other than an ownership interest, in real property. 
+            
+389
+
+    
+"Encumbrance" includes mortgages and other liens on real property.
+            
+390
+
+    
+    (33)  "Equipment" means goods other than inventory, farm products, or consumer
+            
+391
+
+    
+goods.
+            
+392
+
+    
+    (34)  "Farm products" means goods, other than standing timber, with respect to which
+            
+393
+
+    
+the debtor is engaged in a farming operation and which are:
+
+            
+394
+
+
+    
+    (a)  crops grown, growing, or to be grown, including:
+            
+395
+
+    
+    (i)  crops produced on trees, vines, and bushes; and
+            
+396
+
+    
+    (ii)  aquatic goods produced in aquacultural operations;
+            
+397
+
+    
+    (b)  livestock, born or unborn, including aquatic goods produced in aquacultural
+            
+398
+
+    
+operations;
+            
+399
+
+    
+    (c)  supplies used or produced in a farming operation; or
+            
+400
+
+    
+    (d)  products of crops or livestock in their unmanufactured states.
+            
+401
+
+    
+    (35)  "Farming operation" means raising, cultivating, propagating, fattening, grazing, or
+            
+402
+
+    
+any other farming, livestock, or aquacultural operation.
+            
+403
+
+    
+    (36)  "File number" means the number assigned to an initial financing statement
+            
+404
+
+    
+pursuant to Subsection 
+
+70A-9a-519
+
+(1).
+            
+405
+
+    
+    (37)  "Filing office" means an office designated in Section 
+
+70A-9a-501
+
+ as the place to
+            
+406
+
+    
+file a financing statement.
+            
+407
+
+    
+    (38)  "Filing-office rule" means a rule adopted pursuant to Section 
+
+70A-9a-526
+
+.
+            
+408
+
+    
+    (39)  "Financing statement" means a record or records composed of an initial financing
+            
+409
+
+    
+statement and any filed record relating to the initial financing statement.
+            
+410
+
+    
+    (40) (a)  "Fixture filing" means the filing of a financing statement covering goods that
+            
+411
+
+    
+are or are to become fixtures and satisfying Subsections 
+
+70A-9a-502
+
+(1) and (2).
+            
+412
+
+    
+    (b)  "Fixture filing" includes the filing of a financing statement covering goods of a
+            
+413
+
+    
+transmitting utility which are or are to become fixtures.
+            
+414
+
+    
+    (41)  "Fixtures" means goods that have become so related to particular real property that
+            
+415
+
+    
+an interest in them arises under real property law.
+            
+416
+
+    
+    (42) (a)  "General intangible" means any personal property, including things in action,
+            
+417
+
+    
+other than accounts, chattel paper, commercial tort claims, deposit accounts, documents, goods,
+            
+418
+
+    
+instruments, investment property, letter-of-credit rights, letters of credit, money, and oil, gas, or
+            
+419
+
+    
+other minerals before extraction.
+            
+420
+
+    
+    (b)  "General intangible" includes payment intangibles and software.
+            
+421
+
+    
+    (43)  "Good faith" means honesty in fact and the observance of reasonable commercial
+
+            
+422
+
+
+    
+standards of fair dealing.
+            
+423
+
+    
+    (44) (a)  "Goods" means all things that are movable when a security interest attaches.
+            
+424
+
+    
+    (b)  "Goods" includes:
+            
+425
+
+    
+    (i)  fixtures;
+            
+426
+
+    
+    (ii)  standing timber that is to be cut and removed under a conveyance or contract for
+            
+427
+
+    
+sale;
+            
+428
+
+    
+    (iii)  the unborn young of animals;
+            
+429
+
+    
+    (iv)  crops grown, growing, or to be grown, even if the crops are produced on trees,
+            
+430
+
+    
+vines, or bushes; and
+            
+431
+
+    
+    (v)  manufactured homes.
+            
+432
+
+    
+    (c)  "Goods" also includes a computer program embedded in goods and any supporting
+            
+433
+
+    
+information provided in connection with a transaction relating to the program if:
+            
+434
+
+    
+    (i)  the program is associated with the goods in such a manner that it customarily is
+            
+435
+
+    
+considered part of the goods; or
+            
+436
+
+    
+    (ii)  by becoming the owner of the goods, a person acquires a right to use the program
+            
+437
+
+    
+in connection with the goods.
+            
+438
+
+    
+    (d)  "Goods" does not include a computer program embedded in goods that consist
+            
+439
+
+    
+solely of the medium in which the program is embedded.
+            
+440
+
+    
+    (e)  "Goods" also does not include accounts, chattel paper, commercial tort claims,
+            
+441
+
+    
+deposit accounts, documents, general intangibles, instruments, investment property,
+            
+442
+
+    
+letter-of-credit rights, letters of credit, money, or oil, gas, or other minerals before extraction.
+            
+443
+
+    
+    (45) (a)  "Governmental unit" means a subdivision, agency, department, county, parish,
+            
+444
+
+    
+municipality, or other unit of the government of the United States, a state, or a foreign country.
+            
+445
+
+    
+    (b)  "Governmental unit" includes an organization having a separate corporate existence
+            
+446
+
+    
+if the organization is eligible to issue debt on which interest is exempt from income taxation
+            
+447
+
+    
+under the laws of the United States.
+            
+448
+
+    
+    (46)  "Health-care-insurance receivable" means an interest in or claim under a policy of
+            
+449
+
+    
+insurance which is a right to payment of a monetary obligation for health-care goods or
+
+            
+450
+
+
+    
+services provided.
+            
+451
+
+    
+    (47) (a)  "Instrument" means a negotiable instrument or any other writing that evidences
+            
+452
+
+    
+a right to the payment of a monetary obligation, is not itself a security agreement or lease, and
+            
+453
+
+    
+is of a type that in ordinary course of business is transferred by delivery with any necessary
+            
+454
+
+    
+indorsement or assignment.
+            
+455
+
+    
+    (b)  "Instrument" does not include:
+            
+456
+
+    
+    (i)  investment property;
+            
+457
+
+    
+    (ii)  letters of credit; or
+            
+458
+
+    
+    (iii)  writings that evidence a right to payment arising out of the use of a credit or charge
+            
+459
+
+    
+card or information contained on or for use with the card.
+            
+460
+
+    
+    (48)  "Inventory" means goods, other than farm products, which:
+            
+461
+
+    
+    (a)  are leased by a person as lessor;
+            
+462
+
+    
+    (b)  are held by a person for sale or lease or to be furnished under a contract of service;
+            
+463
+
+    
+    (c)  are furnished by a person under a contract of service; or
+            
+464
+
+    
+    (d)  consist of raw materials, work in process, or materials used or consumed in a
+            
+465
+
+    
+business.
+            
+466
+
+    
+    (49)  "Investment property" means a security, whether certificated or uncertificated,
+            
+467
+
+    
+security entitlement, securities account, commodity contract, or commodity account.
+            
+468
+
+    
+    (50)  "Jurisdiction of organization," with respect to a registered organization, means the
+            
+469
+
+    
+jurisdiction under whose law the organization is formed or organized.
+            
+470
+
+    
+    (51) (a)  "Letter-of-credit right" means a right to payment or performance under a letter
+            
+471
+
+    
+of credit, whether or not the beneficiary has demanded or is at the time entitled to demand
+            
+472
+
+    
+payment or performance.
+            
+473
+
+    
+    (b)  "Letter-of-credit right" does not include the right of a beneficiary to demand
+            
+474
+
+    
+payment or performance under a letter of credit.
+            
+475
+
+    
+    (52)  "Lien creditor" means:
+            
+476
+
+    
+    (a)  a creditor that has acquired a lien on the property involved by attachment, levy, or
+            
+477
+
+    
+the like;
+
+            
+478
+
+
+    
+    (b)  an assignee for benefit of creditors from the time of assignment;
+            
+479
+
+    
+    (c)  a trustee in bankruptcy from the date of the filing of the petition; or
+            
+480
+
+    
+    (d)  a receiver in equity from the time of appointment.
+            
+481
+
+    
+    (53) (a)  "Manufactured home" means a structure, transportable in one or more sections,
+            
+482
+
+    
+which, in the traveling mode, is eight body feet or more in width or 40 body feet or more in
+            
+483
+
+    
+length, or, when erected on site, is 320 or more square feet, and which is built on a permanent
+            
+484
+
+    
+chassis and designed to be used as a dwelling with or without a permanent foundation when
+            
+485
+
+    
+connected to the required utilities, and includes the plumbing, heating, air-conditioning, and
+            
+486
+
+    
+electrical systems contained therein.
+            
+487
+
+    
+    (b)  "Manufactured home" includes any structure that meets all of the requirements of
+            
+488
+
+    
+this Subsection (53) except the size requirements and with respect to which the manufacturer
+            
+489
+
+    
+voluntarily files a certification required by the United States Secretary of Housing and Urban
+            
+490
+
+    
+Development and complies with the standards established under Title 42 of the United States
+            
+491
+
+    
+Code.
+            
+492
+
+    
+    (54)  "Manufactured-home transaction" means a secured transaction:
+            
+493
+
+    
+    (a)  that creates a purchase-money security interest in a manufactured home, other than
+            
+494
+
+    
+a manufactured home held as inventory; or
+            
+495
+
+    
+    (b)  in which a manufactured home, other than a manufactured home held as inventory,
+            
+496
+
+    
+is the primary collateral.
+            
+497
+
+    
+    (55)  "Mortgage" means a consensual interest in real property, including fixtures, which
+            
+498
+
+    
+secures payment or performance of an obligation.
+            
+499
+
+    
+    (56)  "New debtor" means a person that becomes bound as debtor under Subsection
+            
+500
+
+    
+
+70A-9a-203
+
+(4) by a security agreement previously entered into by another person.
+            
+501
+
+    
+    (57) (a)  "New value" means:
+            
+502
+
+    
+    (i)  money;
+            
+503
+
+    
+    (ii)  money's worth in property, services, or new credit; or
+            
+504
+
+    
+    (iii)  release by a transferee of an interest in property previously transferred to the
+            
+505
+
+    
+transferee.
+
+            
+506
+
+
+    
+    (b)  "New value" does not include an obligation substituted for another obligation.
+            
+507
+
+    
+    (58)  "Noncash proceeds" means proceeds other than cash proceeds.
+            
+508
+
+    
+    (59) (a)  "Obligor" means a person that, with respect to an obligation secured by a
+            
+509
+
+    
+security interest in or an agricultural lien on the collateral:
+            
+510
+
+    
+    (i)  owes payment or other performance of the obligation;
+            
+511
+
+    
+    (ii)  has provided property other than the collateral to secure payment or other
+            
+512
+
+    
+performance of the obligation; or
+            
+513
+
+    
+    (iii)  is otherwise accountable in whole or in part for payment or other performance of
+            
+514
+
+    
+the obligation.
+            
+515
+
+    
+    (b)  "Obligor" does not include issuers or nominated persons under a letter of credit.
+            
+516
+
+    
+    (60)  "Original debtor," except as used in Subsection 
+
+70A-9a-310
+
+(3), means a person
+            
+517
+
+    
+that, as debtor, entered into a security agreement to which a new debtor has become bound
+            
+518
+
+    
+under Subsection 
+
+70A-9a-203
+
+(4).
+            
+519
+
+    
+    (61)  "Payment intangible" means a general intangible under which the account debtor's
+            
+520
+
+    
+principal obligation is a monetary obligation.
+            
+521
+
+    
+    (62)  "Person related to," with respect to an individual, means:
+            
+522
+
+    
+    (a)  the spouse of the individual;
+            
+523
+
+    
+    (b)  a brother, brother-in-law, sister, or sister-in-law of the individual;
+            
+524
+
+    
+    (c)  an ancestor or lineal descendant of the individual or the individual's spouse; or
+            
+525
+
+    
+    (d)  any other relative, by blood or marriage, of the individual or the individual's spouse
+            
+526
+
+    
+who shares the same home with the individual.
+            
+527
+
+    
+    (63)  "Person related to," with respect to an organization, means:
+            
+528
+
+    
+    (a)  a person directly or indirectly controlling, controlled by, or under common control
+            
+529
+
+    
+with the organization;
+            
+530
+
+    
+    (b)  an officer or director of, or a person performing similar functions with respect to,
+            
+531
+
+    
+the organization;
+            
+532
+
+    
+    (c)  an officer or director of, or a person performing similar functions with respect to, a
+            
+533
+
+    
+person described in Subsection (63)(a);
+
+            
+534
+
+
+    
+    (d)  the spouse of an individual described in Subsection (63)(a), (b), or (c); or
+            
+535
+
+    
+    (e)  an individual who is related by blood or marriage to an individual described in
+            
+536
+
+    
+Subsection (63)(a), (b), (c), or (d) and shares the same home with the individual.
+            
+537
+
+    
+    (64)  "Proceeds," except as used in Subsection 
+
+70A-9a-609
+
+(2), means the following
+            
+538
+
+    
+property:
+            
+539
+
+    
+    (a)  whatever is acquired upon the sale, lease, license, exchange, or other disposition of
+            
+540
+
+    
+collateral;
+            
+541
+
+    
+    (b)  whatever is collected on, or distributed on account of, collateral;
+            
+542
+
+    
+    (c)  rights arising out of collateral;
+            
+543
+
+    
+    (d)  to the extent of the value of collateral, claims arising out of the loss,
+            
+544
+
+    
+nonconformity, or interference with the use of, defects or infringement of rights in, or damage
+            
+545
+
+    
+to, the collateral; or
+            
+546
+
+    
+    (e)  to the extent of the value of collateral and to the extent payable to the debtor or the
+            
+547
+
+    
+secured party, insurance payable by reason of the loss or nonconformity of, defects or
+            
+548
+
+    
+infringement of rights in, or damage to, the collateral.
+            
+549
+
+    
+    (65)  "Promissory note" means an instrument that evidences a promise to pay a
+            
+550
+
+    
+monetary obligation, does not evidence an order to pay, and does not contain an
+            
+551
+
+    
+acknowledgment by a bank that the bank has received for deposit a sum of money or funds.
+            
+552
+
+    
+    (66)  "Proposal" means a record authenticated by a secured party which includes the
+            
+553
+
+    
+terms on which the secured party is willing to accept collateral in full or partial satisfaction of
+            
+554
+
+    
+the obligation it secures pursuant to Sections 
+
+70A-9a-620
+
+, 
+
+70A-9a-621
+
+, and 
+
+70A-9a-622
+
+.
+            
+555
+
+    
+    (67)  "Public-finance transaction" means a secured transaction in connection with
+            
+556
+
+    
+which:
+            
+557
+
+    
+    (a)  debt securities are issued;
+            
+558
+
+    
+    (b)  all or a portion of the securities issued have an initial stated maturity of at least 20
+            
+559
+
+    
+years; and
+            
+560
+
+    
+    (c)  the debtor, obligor, secured party, account debtor or other person obligated on
+            
+561
+
+    
+collateral, assignor or assignee of a secured obligation, or assignor or assignee of a security
+
+            
+562
+
+
+    
+interest is a state or a governmental unit of a state.
+            
+563
+
+    
+    (68)  "Public organic record" means a record that is available to the public for
+            
+564
+
+    
+inspection and is:
+            
+565
+
+    
+    (a)  a record consisting of the record initially filed with or issued by a state or the
+            
+566
+
+    
+United States to form or organize an organization and any record filed with or issued by the
+            
+567
+
+    
+state or the United States which amends or restates the initial record;
+            
+568
+
+    
+    (b)  an organic record of a business trust consisting of the record initially filed with a
+            
+569
+
+    
+state and any record filed with the state which amends or restates the initial record, if a statute
+            
+570
+
+    
+of the state governing business trusts requires that the record be filed with the state; or
+            
+571
+
+    
+    (c)  a record consisting of legislation enacted by the legislature of a state or the
+            
+572
+
+    
+Congress of the United States which forms or organizes an organization, any record amending
+            
+573
+
+    
+the legislation, and any record filed with or issued by the state or the United States which
+            
+574
+
+    
+amends or restates the name of the organization.
+            
+575
+
+    
+    [(68)] (69)  "Pursuant to commitment," with respect to an advance made or other value
+            
+576
+
+    
+given by a secured party, means pursuant to the secured party's obligation, whether or not a
+            
+577
+
+    
+subsequent event of default or other event not within the secured party's control has relieved or
+            
+578
+
+    
+may relieve the secured party from its obligation.
+            
+579
+
+    
+    [(69)] (70)  "Record," except as used in "for record," "of record," "record or legal title,"
+            
+580
+
+    
+and "record owner," means information that is inscribed on a tangible medium or which is
+            
+581
+
+    
+stored in an electronic or other medium and is retrievable in perceivable form.
+            
+582
+
+    
+    [(70)] (71) (a)  "Registered organization" means an organization formed or organized
+            
+583
+
+    
+solely under the law of a single state or the United States [and as to which the state or the
+            
+584
+
+    
+United States must maintain a public record showing the organization to have been organized.]
+            
+585
+
+    
+by the filing of a public organic record with, the issuance of a public organic record by, or the
+            
+586
+
+    
+enactment of legislation by the state or the United States.
+            
+587
+
+    
+    (b)  "Registered organization" includes a business trust that is formed or organized
+            
+588
+
+    
+under the law of a single state if a statute of the state governing business trusts requires that the
+            
+589
+
+    
+business trust's organic record be filed with the state.
+
+            
+590
+
+
+    
+    [(71)] (72)  "Secondary obligor" means an obligor to the extent that:
+            
+591
+
+    
+    (a)  the obligor's obligation is secondary; or
+            
+592
+
+    
+    (b)  the obligor has a right of recourse with respect to an obligation secured by collateral
+            
+593
+
+    
+against the debtor, another obligor, or property of either.
+            
+594
+
+    
+    [(72)] (73)  "Secured party" means:
+            
+595
+
+    
+    (a)  a person in whose favor a security interest is created or provided for under a
+            
+596
+
+    
+security agreement, whether or not any obligation to be secured is outstanding;
+            
+597
+
+    
+    (b)  a person that holds an agricultural lien;
+            
+598
+
+    
+    (c)  a consignor;
+            
+599
+
+    
+    (d)  a person to which accounts, chattel paper, payment intangibles, or promissory notes
+            
+600
+
+    
+have been sold;
+            
+601
+
+    
+    (e)  a trustee, indenture trustee, agent, collateral agent, or other representative in whose
+            
+602
+
+    
+favor a security interest or agricultural lien is created or provided for; or
+            
+603
+
+    
+    (f)  a person that holds a security interest arising under Section 
+
+70A-2-401
+
+, 
+
+70A-2-505
+
+,
+            
+604
+
+    
+
+70A-4-210
+
+, or 
+
+70A-5-118
+
+ or Subsection 
+
+70A-2-711
+
+(3) or 
+
+70A-2a-508
+
+(5).
+            
+605
+
+    
+    [(73)] (74)  "Security agreement" means an agreement that creates or provides for a
+            
+606
+
+    
+security interest.
+            
+607
+
+    
+    [(74)] (75)  "Send," in connection with a record or notification, means:
+            
+608
+
+    
+    (a)  to deposit in the mail, deliver for transmission, or transmit by any other usual
+            
+609
+
+    
+means of communication, with postage or cost of transmission provided for, addressed to any
+            
+610
+
+    
+address reasonable under the circumstances; or
+            
+611
+
+    
+    (b)  to cause the record or notification to be received within the time that it would have
+            
+612
+
+    
+been received if properly sent under Subsection [(74)] (75)(a).
+            
+613
+
+    
+    [(75)] (76) (a)  "Software" means a computer program and any supporting information
+            
+614
+
+    
+provided in connection with a transaction relating to the program.
+            
+615
+
+    
+    (b)  "Software" does not include a computer program that is included in the definition
+            
+616
+
+    
+of goods.
+            
+617
+
+    
+    [(76)] (77)  "State" means a state of the United States, the District of Columbia, Puerto
+
+            
+618
+
+
+    
+Rico, the United States Virgin Islands, or any territory or insular possession subject to the
+            
+619
+
+    
+jurisdiction of the United States.
+            
+620
+
+    
+    [(77)] (78)  "Supporting obligation" means a letter-of-credit right or secondary
+            
+621
+
+    
+obligation that supports the payment or performance of an account, chattel paper, a document,
+            
+622
+
+    
+a general intangible, an instrument, or investment property.
+            
+623
+
+    
+    [(78)] (79)  "Tangible chattel paper" means chattel paper evidenced by a record or
+            
+624
+
+    
+records consisting of information that is inscribed on a tangible medium.
+            
+625
+
+    
+    [(79)] (80)  "Termination statement" means an amendment of a financing statement
+            
+626
+
+    
+which:
+            
+627
+
+    
+    (a)  identifies, by its file number, the initial financing statement to which it relates; and
+            
+628
+
+    
+    (b)  indicates either that it is a termination statement or that the identified financing
+            
+629
+
+    
+statement is no longer effective.
+            
+630
+
+    
+    [(80)] (81)  "Transmitting utility" means a person primarily engaged in the business of:
+            
+631
+
+    
+    (a)  operating a railroad, subway, street railway, or trolley bus;
+            
+632
+
+    
+    (b)  transmitting communications electrically, electromagnetically, or by light;
+            
+633
+
+    
+    (c)  transmitting goods by pipeline or sewer; or
+            
+634
+
+    
+    (d)  transmitting or producing and transmitting electricity, steam, gas, or water.
+            
+635
+
+    
+    Section 3.  
+Section  
+70A-9a-105
+
+ is amended to read:
+            
+636
+
+    
+     70A-9a-105.  Control of electronic chattel paper.
+            
+637
+
+    
+    (1)  A secured party has control of electronic chattel paper if a system employed by
+            
+638
+
+    
+evidencing the transfer of interests in the chattel paper reliably establishes the secured party as
+            
+639
+
+    
+the person to whom the chattel paper was assigned.
+            
+640
+
+    
+    (2)  A system satisfies Subsection (1) if the record or records comprising the chattel
+            
+641
+
+    
+paper are created, stored, and assigned in such a manner that:
+            
+642
+
+    
+    [(1)] (a)  a single authoritative copy of the record or records exists which is unique,
+            
+643
+
+    
+identifiable and, except as otherwise provided in Subsections [(4), (5), and (6)] (2)(d), (e), and
+            
+644
+
+    
+(f), unalterable;
+            
+645
+
+    
+    [(2)] (b)  the authoritative copy identifies the secured party as the assignee of the record
+
+            
+646
+
+
+    
+or records;
+            
+647
+
+    
+    [(3)] (c)  the authoritative copy is communicated to and maintained by the secured party
+            
+648
+
+    
+or its designated custodian;
+            
+649
+
+    
+    [(4)] (d)  copies or [revisions] amendments that add or change an identified assignee of
+            
+650
+
+    
+the authoritative copy can be made only with the [participation] consent of the secured party;
+            
+651
+
+    
+    [(5)] (e)  each copy of the authoritative copy and any copy of a copy is readily
+            
+652
+
+    
+identifiable as a copy that is not the authoritative copy; and
+            
+653
+
+    
+    [(6)] (f)  any [revision] amendment of the authoritative copy is readily identifiable as
+            
+654
+
+    
+[an] authorized or unauthorized [revision].
+            
+655
+
+    
+    Section 4.  
+Section  
+70A-9a-307
+
+ is amended to read:
+            
+656
+
+    
+     70A-9a-307.  Location of debtor.
+            
+657
+
+    
+    (1)  In this section, "place of business" means a place where a debtor conducts its
+            
+658
+
+    
+affairs.
+            
+659
+
+    
+    (2)  Except as otherwise provided in this section, the following rules determine a
+            
+660
+
+    
+debtor's location:
+            
+661
+
+    
+    (a)  A debtor who is an individual is located at the individual's principal residence.
+            
+662
+
+    
+    (b)  A debtor that is an organization and has only one place of business is located at its
+            
+663
+
+    
+place of business.
+            
+664
+
+    
+    (c)  A debtor that is an organization and has more than one place of business is located
+            
+665
+
+    
+at its chief executive office.
+            
+666
+
+    
+    (3)  Subsection (2) applies only if a debtor's residence, place of business, or chief
+            
+667
+
+    
+executive office, as applicable, is located in a jurisdiction whose law generally requires
+            
+668
+
+    
+information concerning the existence of a nonpossessory security interest to be made generally
+            
+669
+
+    
+available in a filing, recording, or registration system as a condition or result of the security
+            
+670
+
+    
+interest's obtaining priority over the rights of a lien creditor with respect to the collateral.  If
+            
+671
+
+    
+Subsection (2) does not apply, the debtor is located in the District of Columbia.
+            
+672
+
+    
+    (4)  A person that ceases to exist, have a residence, or have a place of business
+            
+673
+
+    
+continues to be located in the jurisdiction specified by Subsections (2) and (3).
+
+            
+674
+
+
+    
+    (5)  A registered organization that is organized under the law of a state is located in that
+            
+675
+
+    
+state.
+            
+676
+
+    
+    (6)  Except as otherwise provided in Subsection (9), a registered organization that is
+            
+677
+
+    
+organized under the law of the United States and a branch or agency of a bank that is not
+            
+678
+
+    
+organized under the law of the United States or a state are located:
+            
+679
+
+    
+    (a)  in the state that the law of the United States designates, if the law designates a state
+            
+680
+
+    
+of location;
+            
+681
+
+    
+    (b)  in the state that the registered organization, branch, or agency designates, if the law
+            
+682
+
+    
+of the United States authorizes the registered organization, branch, or agency to designate its
+            
+683
+
+    
+state of location, including by designating its main office, home office, or other comparable
+            
+684
+
+    
+office; or
+            
+685
+
+    
+    (c)  in the District of Columbia, if neither Subsection (6)(a) nor Subsection (6)(b)
+            
+686
+
+    
+applies.
+            
+687
+
+    
+    (7) A registered organization continues to be located in the jurisdiction specified by
+            
+688
+
+    
+Subsection (5) or (6) notwithstanding:
+            
+689
+
+    
+    (a)  the suspension, revocation, forfeiture, or lapse of the registered organization's status
+            
+690
+
+    
+as such in its jurisdiction of organization; or
+            
+691
+
+    
+    (b)  the dissolution, winding up, or cancellation of the existence of the registered
+            
+692
+
+    
+organization.
+            
+693
+
+    
+    (8)  The United States is located in the District of Columbia.
+            
+694
+
+    
+    (9)  A branch or agency of a bank that is not organized under the law of the United
+            
+695
+
+    
+States or a state is located in the state in which the branch or agency is licensed, if all branches
+            
+696
+
+    
+and agencies of the bank are licensed in only one state.
+            
+697
+
+    
+    (10)  A foreign air carrier under the Federal Aviation Act of 1958, as amended, is
+            
+698
+
+    
+located at the designated office of the agent upon which service of process may be made on
+            
+699
+
+    
+behalf of the carrier.
+            
+700
+
+    
+    (11)  This section applies only for purposes of this part.
+            
+701
+
+    
+    Section 5.  
+Section  
+70A-9a-311
+
+ is amended to read:
+
+            
+702
+
+
+    
+     70A-9a-311.  Perfection of security interests in property subject to certain
+            
+703
+
+    
+ statutes, regulations, and treaties.
+            
+704
+
+    
+    (1)  Except as otherwise provided in Subsection (4), the filing of a financing statement
+            
+705
+
+    
+is not necessary or effective to perfect a security interest in property subject to:
+            
+706
+
+    
+    (a)  a statute, regulation, or treaty of the United States whose requirements for a security
+            
+707
+
+    
+interest's obtaining priority over the rights of a lien creditor with respect to the property
+            
+708
+
+    
+preempt Subsection 
+
+70A-9a-310
+
+(1);
+            
+709
+
+    
+    (b)  Section 
+
+41-1a-601
+
+; or
+            
+710
+
+    
+    (c)  a [certificate-of-title] statute of another jurisdiction which provides for a security
+            
+711
+
+    
+interest to be indicated on [the] a certificate of title as a condition or result of the security
+            
+712
+
+    
+interest's obtaining priority over the rights of a lien creditor with respect to the property.
+            
+713
+
+    
+    (2)  Compliance with the requirements of a statute, regulation, or treaty described in
+            
+714
+
+    
+Subsection (1) for obtaining priority over the rights of a lien creditor is equivalent to the filing
+            
+715
+
+    
+of a financing statement under this chapter.  Except as otherwise provided in Subsection (4),
+            
+716
+
+    
+Section 
+
+70A-9a-313
+
+, and Subsections 
+
+70A-9a-316
+
+(4) and (5) for goods covered by a certificate
+            
+717
+
+    
+of title, a security interest in property subject to a statute, regulation, or treaty described in
+            
+718
+
+    
+Subsection (1) may be perfected only by compliance with those requirements, and a security
+            
+719
+
+    
+interest so perfected remains perfected notwithstanding a change in the use or transfer of
+            
+720
+
+    
+possession of the collateral.
+            
+721
+
+    
+    (3)  Except as otherwise provided in Subsection (4) and Subsections 
+
+70A-9a-316
+
+(4) and
+            
+722
+
+    
+(5), duration and renewal of perfection of a security interest perfected by compliance with the
+            
+723
+
+    
+requirements prescribed by a statute, regulation, or treaty described in Subsection (1) are
+            
+724
+
+    
+governed by the statute, regulation, or treaty.  In other respects, the security interest is subject
+            
+725
+
+    
+to this chapter.
+            
+726
+
+    
+    (4) During any period in which collateral subject to a statute specified in Subsection
+            
+727
+
+    
+(1)(b) is inventory held for sale or lease by a person or leased by that person as lessor and that
+            
+728
+
+    
+person is in the business of selling goods of that kind, this section does not apply to a security
+            
+729
+
+    
+interest in that collateral created by that person.
+
+            
+730
+
+
+    
+    Section 6.  
+Section  
+70A-9a-316
+
+ is amended to read:
+            
+731
+
+    
+     70A-9a-316.  Effect of change in governing law.
+            
+732
+
+    
+    (1)  A security interest perfected pursuant to the law of the jurisdiction designated in
+            
+733
+
+    
+Subsection 
+
+70A-9a-301
+
+(1) or 
+
+70A-9a-305
+
+(3) remains perfected until the earliest of:
+            
+734
+
+    
+    (a)  the time perfection would have ceased under the law of that jurisdiction;
+            
+735
+
+    
+    (b)  the expiration of four months after a change of the debtor's location to another
+            
+736
+
+    
+jurisdiction; or
+            
+737
+
+    
+    (c)  the expiration of one year after a transfer of collateral to a person that thereby
+            
+738
+
+    
+becomes a debtor and is located in another jurisdiction.
+            
+739
+
+    
+    (2)  If a security interest described in Subsection (1) becomes perfected under the law of
+            
+740
+
+    
+the other jurisdiction before the earliest time or event described in that subsection, it remains
+            
+741
+
+    
+perfected thereafter.  If the security interest does not become perfected under the law of the
+            
+742
+
+    
+other jurisdiction before the earliest time or event, it becomes unperfected and is deemed never
+            
+743
+
+    
+to have been perfected as against a purchaser of the collateral for value.
+            
+744
+
+    
+    (3)  A possessory security interest in collateral, other than goods covered by a certificate
+            
+745
+
+    
+of title and as-extracted collateral consisting of goods, remains continuously perfected if:
+            
+746
+
+    
+    (a)  the collateral is located in one jurisdiction and subject to a security interest
+            
+747
+
+    
+perfected under the law of that jurisdiction;
+            
+748
+
+    
+    (b)  thereafter the collateral is brought into another jurisdiction; and
+            
+749
+
+    
+    (c)  upon entry into the other jurisdiction, the security interest is perfected under the law
+            
+750
+
+    
+of the other jurisdiction.
+            
+751
+
+    
+    (4)  Except as otherwise provided in Subsection (5), a security interest in goods covered
+            
+752
+
+    
+by a certificate of title which is perfected by any method under the law of another jurisdiction
+            
+753
+
+    
+when the goods become covered by a certificate of title from this state remains perfected until
+            
+754
+
+    
+the security interest would have become unperfected under the law of the other jurisdiction had
+            
+755
+
+    
+the goods not become so covered.
+            
+756
+
+    
+    (5)  A security interest described in Subsection (4) becomes unperfected as against a
+            
+757
+
+    
+purchaser of the goods for value and is deemed never to have been perfected as against a
+
+            
+758
+
+
+    
+purchaser of the goods for value if the applicable requirements for perfection under Subsection
+            
+759
+
+    
+
+70A-9a-311
+
+(2) or Section 
+
+70A-9a-313
+
+ are not satisfied before the earlier of:
+            
+760
+
+    
+    (a)  the time the security interest would have become unperfected under the law of the
+            
+761
+
+    
+other jurisdiction had the goods not become covered by a certificate of title from this state; or
+            
+762
+
+    
+    (b)  the expiration of four months after the goods had become so covered.
+            
+763
+
+    
+    (6)  A security interest in deposit accounts, letter-of-credit rights, or investment
+            
+764
+
+    
+property which is perfected under the law of the bank's jurisdiction, the issuer's jurisdiction, a
+            
+765
+
+    
+nominated person's jurisdiction, the securities intermediary's jurisdiction, or the commodity
+            
+766
+
+    
+intermediary's jurisdiction, as applicable, remains perfected until the earlier of:
+            
+767
+
+    
+    (a)  the time the security interest would have become unperfected under the law of that
+            
+768
+
+    
+jurisdiction; or
+            
+769
+
+    
+    (b)  the expiration of four months after a change of the applicable jurisdiction to another
+            
+770
+
+    
+jurisdiction.
+            
+771
+
+    
+    (7) If a security interest described in Subsection (6) becomes perfected under the law of
+            
+772
+
+    
+the other jurisdiction before the earlier of the time or the end of the period described in that
+            
+773
+
+    
+subsection, it remains perfected thereafter.  If the security interest does not become perfected
+            
+774
+
+    
+under the law of the other jurisdiction before the earlier of that time or the end of that period, it
+            
+775
+
+    
+becomes unperfected and is deemed never to have been perfected as against a purchaser of the
+            
+776
+
+    
+collateral for value.
+            
+777
+
+    
+    (8)  The following rules apply to collateral to which a security interest attaches within
+            
+778
+
+    
+four months after the debtor changes its location to another jurisdiction:
+            
+779
+
+    
+    (a)  A financing statement filed before the change pursuant to the law of the jurisdiction
+            
+780
+
+    
+designated in Subsection 
+
+70A-9a-301
+
+(1) or 
+
+70A-9a-305
+
+(3) is effective to perfect a security
+            
+781
+
+    
+interest in the collateral if the financing statement would have been effective to perfect a
+            
+782
+
+    
+security interest in the collateral had the debtor not changed its location.
+            
+783
+
+    
+    (b)  If a security interest perfected by a financing statement that is effective under
+            
+784
+
+    
+Subsection (8)(a) becomes perfected under the law of the other jurisdiction before the earlier of
+            
+785
+
+    
+the time the financing statement would have been ineffective under the law of the jurisdiction
+
+            
+786
+
+
+    
+designated in Subsection 
+
+70A-9a-301
+
+(1) or 
+
+70A-9a-305
+
+(3) or the expiration of the four-month
+            
+787
+
+    
+period, it remains perfected thereafter.  If the security interest does not become perfected under
+            
+788
+
+    
+the law of the other jurisdiction before the earlier time or event, it becomes unperfected and is
+            
+789
+
+    
+deemed never to have been perfected as against a purchaser of the collateral for value.
+            
+790
+
+    
+    (9)  If a financing statement naming an original debtor is filed pursuant to the law of the
+            
+791
+
+    
+jurisdiction designated in Subsection 
+
+70A-9a-301
+
+(1) or 
+
+70A-9a-305
+
+(3) and the new debtor is
+            
+792
+
+    
+located in another jurisdiction, the following rules apply:
+            
+793
+
+    
+    (a)  The financing statement is effective to perfect a security interest in collateral
+            
+794
+
+    
+acquired by the new debtor before, and within four months after, the new debtor becomes
+            
+795
+
+    
+bound under Subsection 
+
+70A-9a-203
+
+(4), if the financing statement would have been effective
+            
+796
+
+    
+to perfect a security interest in the collateral had the collateral been acquired by the original
+            
+797
+
+    
+debtor.
+            
+798
+
+    
+    (b)  A security interest perfected by the financing statement and which becomes
+            
+799
+
+    
+perfected under the law of the other jurisdiction before the earlier of the time the financing
+            
+800
+
+    
+statement would have been ineffective under the law of the jurisdiction designated in
+            
+801
+
+    
+Subsection 
+
+70A-9a-301
+
+(1) or 
+
+70A-9a-305
+
+(3) or the expiration of the four-month period
+            
+802
+
+    
+remains perfected thereafter.  A security interest that is perfected by the financing statement but
+            
+803
+
+    
+which does not become perfected under the law of the other jurisdiction before the earlier time
+            
+804
+
+    
+or event becomes unperfected and is deemed never to have been perfected as against a
+            
+805
+
+    
+purchaser of the collateral for value.
+            
+806
+
+    
+    Section 7.  
+Section  
+70A-9a-317
+
+ is amended to read:
+            
+807
+
+    
+     70A-9a-317.  Interests that take priority over or take free of security interest or
+            
+808
+
+    
+ agricultural lien.
+            
+809
+
+    
+    (1)  A security interest or agricultural lien is subordinate to the rights of:
+            
+810
+
+    
+    (a)  a person entitled to priority under Section 
+
+70A-9a-322
+
+; and
+            
+811
+
+    
+    (b)  except as otherwise provided in Subsection (5), a person that becomes a lien
+            
+812
+
+    
+creditor before the earlier of the time:
+            
+813
+
+    
+    (i)  the security interest or agricultural lien is perfected; or
+
+            
+814
+
+
+    
+    (ii)  one of the conditions specified in Subsection 
+
+70A-9a-203
+
+(2)(c) is met and a
+            
+815
+
+    
+financing statement covering the collateral is filed.
+            
+816
+
+    
+    (2)  Except as otherwise provided in Subsection (5), a buyer, other than a secured party,
+            
+817
+
+    
+of tangible chattel paper, tangible documents, goods, instruments, or a [security certificate]
+            
+818
+
+    
+certificated security takes free of a security interest or agricultural lien if the buyer gives value
+            
+819
+
+    
+and receives delivery of the collateral without knowledge of the security interest or agricultural
+            
+820
+
+    
+lien and before it is perfected.
+            
+821
+
+    
+    (3)  Except as otherwise provided in Subsection (5), a lessee of goods takes free of a
+            
+822
+
+    
+security interest or agricultural lien if the lessee gives value and receives delivery of the
+            
+823
+
+    
+collateral without knowledge of the security interest or agricultural lien and before it is
+            
+824
+
+    
+perfected.
+            
+825
+
+    
+    (4)  A licensee of a general intangible or a buyer, other than a secured party, of
+            
+826
+
+    
+[accounts, electronic chattel paper, electronic documents, general intangibles, or investment
+            
+827
+
+    
+property other than] collateral other than tangible chattel paper, tangible documents, goods,
+            
+828
+
+    
+instruments, or  a certificated security takes free of a security interest if the licensee or buyer
+            
+829
+
+    
+gives value without knowledge of the security interest and before it is perfected.
+            
+830
+
+    
+    (5)  Except as otherwise provided in Sections 
+
+70A-9a-320
+
+ and 
+
+70A-9a-321
+
+, if a person
+            
+831
+
+    
+files a financing statement with respect to a purchase-money security interest before or within
+            
+832
+
+    
+20 days after the debtor receives delivery of the collateral, the security interest takes priority
+            
+833
+
+    
+over the rights of a buyer, lessee, or lien creditor which arise between the time the security
+            
+834
+
+    
+interest attaches and the time of filing.
+            
+835
+
+    
+    Section 8.  
+Section  
+70A-9a-326
+
+ is amended to read:
+            
+836
+
+    
+     70A-9a-326.  Priority of security interests created by new debtor.
+            
+837
+
+    
+    (1)  Subject to Subsection (2), a security interest that is created by a new debtor [which
+            
+838
+
+    
+is perfected] in collateral in which the new debtor has or acquires rights and is perfected solely
+            
+839
+
+    
+by a filed financing statement that [is effective solely under Section 
+
+70A-9a-508
+
+ in collateral in
+            
+840
+
+    
+which a new debtor has or acquires rights] would be ineffective to perfect the security interest
+            
+841
+
+    
+but for the application of Subsection 
+
+70A-9a-316
+
+(9)(a) or Section 
+
+70A-9a-508
+
+ is subordinate to
+
+            
+842
+
+
+    
+a security interest in the same collateral which is perfected other than by such a filed financing
+            
+843
+
+    
+statement [that is effective solely under Section 
+
+70A-9a-508
+
+].
+            
+844
+
+    
+    (2)  The other provisions of this part determine the priority among conflicting security
+            
+845
+
+    
+interests in the same collateral perfected by filed financing statements [that are effective solely
+            
+846
+
+    
+under Section 
+
+70A-9a-508
+
+] described in Subsection (1).  However, if the security agreements
+            
+847
+
+    
+to which a new debtor became bound as debtor were not entered into by the same original
+            
+848
+
+    
+debtor, the conflicting security interests rank according to priority in time of the new debtor's
+            
+849
+
+    
+having become bound.
+            
+850
+
+    
+    Section 9.  
+Section  
+70A-9a-406
+
+ is amended to read:
+            
+851
+
+    
+     70A-9a-406.  Discharge of account debtor -- Notification of assignment --
+            
+852
+
+    
+ Identification and proof of assignment -- Restrictions on assignment of accounts, chattel
+            
+853
+
+    
+ paper, payment intangibles, and promissory notes ineffective.
+            
+854
+
+    
+    (1)  Subject to Subsections (2) through (9), an account debtor on an account, chattel
+            
+855
+
+    
+paper, or a payment intangible may discharge its obligation by paying the assignor until, but not
+            
+856
+
+    
+after, the account debtor receives a notification, authenticated by the assignor or the assignee,
+            
+857
+
+    
+that the amount due or to become due has been assigned and that payment is to be made to the
+            
+858
+
+    
+assignee.  After receipt of the notification, the account debtor may discharge its obligation by
+            
+859
+
+    
+paying the assignee and may not discharge the obligation by paying the assignor.
+            
+860
+
+    
+    (2)  Subject to Subsection (8), notification is ineffective under Subsection (1):
+            
+861
+
+    
+    (a)  if it does not reasonably identify the rights assigned;
+            
+862
+
+    
+    (b)  to the extent that an agreement between an account debtor and a seller of a payment
+            
+863
+
+    
+intangible limits the account debtor's duty to pay a person other than the seller and the
+            
+864
+
+    
+limitation is effective under law other than this chapter; or
+            
+865
+
+    
+    (c)  at the option of an account debtor, if the notification notifies the account debtor to
+            
+866
+
+    
+make less than the full amount of any installment or other periodic payment to the assignee,
+            
+867
+
+    
+even if:
+            
+868
+
+    
+    (i)  only a portion of the account, chattel paper, or payment intangible has been assigned
+            
+869
+
+    
+to that assignee;
+
+            
+870
+
+
+    
+    (ii)  a portion has been assigned to another assignee; or
+            
+871
+
+    
+    (iii)  the account debtor knows that the assignment to that assignee is limited.
+            
+872
+
+    
+    (3)  Subject to Subsection (8), if requested by the account debtor, an assignee shall
+            
+873
+
+    
+seasonably furnish reasonable proof that the assignment has been made.  Unless the assignee
+            
+874
+
+    
+complies, the account debtor may discharge its obligation by paying the assignor, even if the
+            
+875
+
+    
+account debtor has received a notification under Subsection (1).
+            
+876
+
+    
+    (4)  Except as otherwise provided in Subsection (5) and Sections 
+
+70A-2a-303
+
+ and
+            
+877
+
+    
+
+70A-9a-407
+
+, and subject to Subsection (8), a term in an agreement between an account debtor
+            
+878
+
+    
+and an assignor or in a promissory note is ineffective to the extent that it:
+            
+879
+
+    
+    (a)  prohibits, restricts, or requires the consent of the account debtor or person obligated
+            
+880
+
+    
+on the promissory note to the assignment or transfer of, or the creation, attachment, perfection,
+            
+881
+
+    
+or enforcement of a security interest in, the account, chattel paper, payment intangible, or
+            
+882
+
+    
+promissory note; or
+            
+883
+
+    
+    (b)  provides that the assignment or transfer or the creation, attachment, perfection, or
+            
+884
+
+    
+enforcement of the security interest may give rise to a default, breach, right of recoupment,
+            
+885
+
+    
+claim, defense, termination, right of termination, or remedy under the account, chattel paper,
+            
+886
+
+    
+payment intangible, or promissory note.
+            
+887
+
+    
+    (5)  Subsection (4) does not apply to the sale of a payment intangible or promissory
+            
+888
+
+    
+note, other than a sale pursuant to a disposition under Section 
+
+70A-9a-610
+
+ or an acceptance of
+            
+889
+
+    
+collateral under Section 
+
+70A-9a-620
+
+.
+            
+890
+
+    
+    (6)  Except as otherwise provided in Sections 
+
+70A-2a-303
+
+ and 
+
+70A-9a-407
+
+ and subject
+            
+891
+
+    
+to Subsections (8) and (9), a rule of law, statute, or regulation that prohibits, restricts, or
+            
+892
+
+    
+requires the consent of a government, governmental body or official, or account debtor to the
+            
+893
+
+    
+assignment or transfer of, or creation of a security interest in, an account or chattel paper is
+            
+894
+
+    
+ineffective to the extent that the rule of law, statute, or regulation:
+            
+895
+
+    
+    (a)  prohibits, restricts, or requires the consent of the government, governmental body or
+            
+896
+
+    
+official, or account debtor to the assignment or transfer of, or the creation, attachment,
+            
+897
+
+    
+perfection, or enforcement of a security interest in the account or chattel paper; or
+
+            
+898
+
+
+    
+    (b)  provides that the assignment or transfer or the creation, attachment, perfection, or
+            
+899
+
+    
+enforcement of the security interest may give rise to a default, breach, right of recoupment,
+            
+900
+
+    
+claim, defense, termination, right of termination, or remedy under the account or chattel paper.
+            
+901
+
+    
+    (7)  Subject to Subsection (8), an account debtor may not waive or vary its option under
+            
+902
+
+    
+Subsection (2)(c).
+            
+903
+
+    
+    (8)  This section is subject to law other than this chapter which establishes a different
+            
+904
+
+    
+rule for an account debtor who is an individual and who incurred the obligation primarily for
+            
+905
+
+    
+personal, family, or household purposes.
+            
+906
+
+    
+    (9)  This section does not apply to an assignment of a health-care-insurance receivable.
+            
+907
+
+    
+    Section 10.  
+Section  
+70A-9a-408
+
+ is amended to read:
+            
+908
+
+    
+     70A-9a-408.   Restrictions on assignment of promissory notes,
+            
+909
+
+    
+ health-care-insurance receivables, and certain general intangibles ineffective.
+            
+910
+
+    
+    (1)  Except as otherwise provided in Subsection (2), a term in a promissory note or in
+            
+911
+
+    
+an agreement between an account debtor and a debtor which relates to a health-care-insurance
+            
+912
+
+    
+receivable or a general intangible, including a contract, permit, license, or franchise, and which
+            
+913
+
+    
+term prohibits, restricts, or requires the consent of the person obligated on the promissory note
+            
+914
+
+    
+or the account debtor to, the assignment or transfer of, or creation, attachment, or perfection of
+            
+915
+
+    
+a security interest in, the promissory note, health-care-insurance receivable, or general
+            
+916
+
+    
+intangible, is ineffective to the extent that the term:
+            
+917
+
+    
+    (a)  would impair the creation, attachment, or perfection of a security interest; or
+            
+918
+
+    
+    (b)  provides that the assignment or transfer or the creation, attachment, or perfection of
+            
+919
+
+    
+the security interest may give rise to a default, breach, right of recoupment, claim, defense,
+            
+920
+
+    
+termination, right of termination, or remedy under the promissory note, health-care-insurance
+            
+921
+
+    
+receivable, or general intangible.
+            
+922
+
+    
+    (2)  Subsection (1) applies to a security interest in a payment intangible or promissory
+            
+923
+
+    
+note only if the security interest arises out of a sale of the payment intangible or promissory
+            
+924
+
+    
+note, other than a sale pursuant to a disposition under Section 
+
+70A-9a-610
+
+ or an acceptance of
+            
+925
+
+    
+collateral under Section 
+
+70A-9a-620
+
+.
+
+            
+926
+
+
+    
+    (3)  A rule of law, statute, or regulation that prohibits, restricts, or requires the consent
+            
+927
+
+    
+of a government, governmental body or official, person obligated on a promissory note, or
+            
+928
+
+    
+account debtor to the assignment or transfer of, or creation of a security interest in, a
+            
+929
+
+    
+promissory note, health-care-insurance receivable, or general intangible, including a contract,
+            
+930
+
+    
+permit, license, or franchise between an account debtor and a debtor, is ineffective to the extent
+            
+931
+
+    
+that the rule of law, statute, or regulation:
+            
+932
+
+    
+    (a)  would impair the creation, attachment, or perfection of a security interest; or
+            
+933
+
+    
+    (b)  provides that the assignment or transfer or the creation, attachment, or perfection of
+            
+934
+
+    
+the security interest may give rise to a default, breach, right of recoupment, claim, defense,
+            
+935
+
+    
+termination, right of termination, or remedy under the promissory note, health-care-insurance
+            
+936
+
+    
+receivable, or general intangible.
+            
+937
+
+    
+    (4)  To the extent that a term in a promissory note or in an agreement between an
+            
+938
+
+    
+account debtor and a debtor which relates to a health-care-insurance receivable or general
+            
+939
+
+    
+intangible or a rule of law, statute, or regulation described in Subsection (3) would be effective
+            
+940
+
+    
+under law other than this chapter but is ineffective under Subsection (1) or (3), the creation,
+            
+941
+
+    
+attachment, or perfection of a security interest in the promissory note, health-care-insurance
+            
+942
+
+    
+receivable, or general intangible:
+            
+943
+
+    
+    (a)  is not enforceable against the person obligated on the promissory note or the
+            
+944
+
+    
+account debtor;
+            
+945
+
+    
+    (b)  does not impose a duty or obligation on the person obligated on the promissory
+            
+946
+
+    
+note or the account debtor;
+            
+947
+
+    
+    (c)  does not require the person obligated on the promissory note or the account debtor
+            
+948
+
+    
+to recognize the security interest, pay or render performance to the secured party, or accept
+            
+949
+
+    
+payment or performance from the secured party;
+            
+950
+
+    
+    (d)  does not entitle the secured party to use or assign the debtor's rights under the
+            
+951
+
+    
+promissory note, health-care-insurance receivable, or general intangible, including any related
+            
+952
+
+    
+information or materials furnished to the debtor in the transaction giving rise to the promissory
+            
+953
+
+    
+note, health-care-insurance receivable, or general intangible;
+
+            
+954
+
+
+    
+    (e)  does not entitle the secured party to use, assign, possess, or have access to any trade
+            
+955
+
+    
+secrets or confidential information of the person obligated on the promissory note or the
+            
+956
+
+    
+account debtor; and
+            
+957
+
+    
+    (f)  does not entitle the secured party to enforce the security interest in the promissory
+            
+958
+
+    
+note, health-care-insurance receivable, or general intangible.
+            
+959
+
+    
+    Section 11.  
+Section  
+70A-9a-502
+
+ is amended to read:
+            
+960
+
+    
+     70A-9a-502.  Contents of financing statement -- Record of mortgage as financing
+            
+961
+
+    
+ statement -- Time of filing financing statement.
+            
+962
+
+    
+    (1)  Subject to Subsection (2), a financing statement is sufficient only if it:
+            
+963
+
+    
+    (a)  provides the name of the debtor;
+            
+964
+
+    
+    (b)  provides the name of the secured party or a representative of the secured party; and
+            
+965
+
+    
+    (c)  indicates the collateral covered by the financing statement.
+            
+966
+
+    
+    (2)  Except as otherwise provided in Subsection 
+
+70A-9a-501
+
+(2), to be sufficient, a
+            
+967
+
+    
+financing statement that covers as-extracted collateral or timber to be cut, or which is filed as a
+            
+968
+
+    
+fixture filing and covers goods that are or are to become fixtures, must satisfy Subsection (1)
+            
+969
+
+    
+and also:
+            
+970
+
+    
+    (a)  indicate that it covers this type of collateral;
+            
+971
+
+    
+    (b)  indicate that it is to be filed for record in the real property records;
+            
+972
+
+    
+    (c)  provide a legal description of the real property to which the collateral is related; and
+            
+973
+
+    
+    (d)  if the debtor does not have an interest of record in the real property, provide the
+            
+974
+
+    
+name of a record owner.
+            
+975
+
+    
+    (3)  A record of a mortgage is effective, from the date of recording, as a financing
+            
+976
+
+    
+statement filed as a fixture filing or as a financing statement covering as-extracted collateral or
+            
+977
+
+    
+timber to be cut only if:
+            
+978
+
+    
+    (a)  the record indicates the goods or accounts that it covers;
+            
+979
+
+    
+    (b)  the goods are or are to become fixtures related to the real property described in the
+            
+980
+
+    
+record or the collateral is related to the real property described in the record and is as-extracted
+            
+981
+
+    
+collateral or timber to be cut;
+
+            
+982
+
+
+    
+    (c)  the record satisfies the requirements for a financing statement in this section [other
+            
+983
+
+    
+than an indication], but:
+            
+984
+
+    
+    (i)  the record need not indicate that it is to be filed in the real property records; and
+            
+985
+
+    
+    (ii)  the record sufficiently provides the name of a debtor who is an individual if it
+            
+986
+
+    
+provides the individual name of the debtor or the surname and first personal name of the
+            
+987
+
+    
+debtor, even if the debtor is an individual to whom Subsection 
+
+70A-9a-503
+
+(1)(d) applies; and
+            
+988
+
+    
+    (d)  the record is recorded.
+            
+989
+
+    
+    (4)  A financing statement may be filed before a security agreement is made or a
+            
+990
+
+    
+security interest otherwise attaches.
+            
+991
+
+    
+    (5) (a)  The requirements of Title 57 do not apply to a financing statement filed or
+            
+992
+
+    
+recorded in a filing office described in Subsection 
+
+70A-9a-501
+
+(1)(a) that:
+            
+993
+
+    
+    (i)  covers as-extracted collateral or timber to be cut; or
+            
+994
+
+    
+    (ii) (A)  is filed as a fixture filing; and
+            
+995
+
+    
+    (B)  covers goods that are or are to become fixtures.
+            
+996
+
+    
+    (b)  For purposes of Subsection (5)(a), the requirements of Title 57 include
+            
+997
+
+    
+requirements related to:
+            
+998
+
+    
+    (i)  execution;
+            
+999
+
+    
+    (ii)  acknowledgment;
+            
+1000
+
+    
+    (iii)  certification; and
+            
+1001
+
+    
+    (iv)  originality.
+            
+1002
+
+    
+    Section 12.  
+Section  
+70A-9a-503
+
+ is amended to read:
+            
+1003
+
+    
+     70A-9a-503.   Name of debtor and secured party.
+            
+1004
+
+    
+    (1)  A financing statement sufficiently provides the name of the debtor:
+            
+1005
+
+    
+    (a)  except as otherwise provided in Subsection (1)(c), if the debtor is a registered
+            
+1006
+
+    
+organization or the collateral is held in a trust that is a registered organization, only if the
+            
+1007
+
+    
+financing statement provides the name [of the debtor indicated on the public record of the
+            
+1008
+
+    
+debtor's] that is stated to be the registered organization's name on the public organic record
+            
+1009
+
+    
+most recently filed with or issued or enacted by the registered organization's jurisdiction of
+
+            
+1010
+
+
+    
+organization which [shows the debtor to have been organized] purports to state, amend, or
+            
+1011
+
+    
+restate the registered organization's name;
+            
+1012
+
+    
+    (b)  [if the debtor is a decedent's estate] subject to Subsection (6), if the collateral is
+            
+1013
+
+    
+being administered by the personal representative of a decedent, only if the financing statement
+            
+1014
+
+    
+provides, as the name of the debtor, the name of the decedent and, in a separate part of the
+            
+1015
+
+    
+financing statement, indicates that the [debtor is an estate] collateral is being administered by a
+            
+1016
+
+    
+personal representative;
+            
+1017
+
+    
+    [(c)  if the debtor is a trust or a trustee acting with respect to property held in trust, only
+            
+1018
+
+    
+if the financing statement:]
+            
+1019
+
+    
+    [(i)  provides the name specified for the trust in its organic documents or, if no name is
+            
+1020
+
+    
+specified, provides the name of the settlor and additional information sufficient to distinguish
+            
+1021
+
+    
+the debtor from other trusts having one or more of the same settlors; and]
+            
+1022
+
+    
+    [(ii)  indicates, in the debtor's name or otherwise, that the debtor is a trust or is a trustee
+            
+1023
+
+    
+acting with respect to property held in trust; and]
+            
+1024
+
+    
+    (c)  if the collateral is held in a trust that is not a registered organization, only if the
+            
+1025
+
+    
+financing statement:
+            
+1026
+
+    
+    (i)  provides, as the name of the debtor:
+            
+1027
+
+    
+    (A)  if the organic record of the trust specifies a name for the trust, the name specified;
+            
+1028
+
+    
+or
+            
+1029
+
+    
+    (B)  if the organic record of the trust does not specify a name for the trust, the name of
+            
+1030
+
+    
+the settlor or testator; and
+            
+1031
+
+    
+    (ii)  in a separate part of the financing statement:
+            
+1032
+
+    
+    (A)  if the name provided in accordance with Subsection (1)(c)(i)(A), indicates the
+            
+1033
+
+    
+collateral is held in a trust; or
+            
+1034
+
+    
+    (B)  if the name is provided in accordance with Subsection (1)(c)(i)(B), provides
+            
+1035
+
+    
+additional information sufficient to distinguish the trust from other trusts having one or more of
+            
+1036
+
+    
+the same settlors or the same testator and indicates that the collateral is held in a trust, unless
+            
+1037
+
+    
+the additional information so indicates;
+
+            
+1038
+
+
+    
+    (d)  subject to Subsection (7), if the debtor is an individual to whom the state Driver
+            
+1039
+
+    
+License Division of the Department of Public Safety has issued a driver license that has not
+            
+1040
+
+    
+expired, or if the debtor does not have an unexpired driver license, an individual to whom the
+            
+1041
+
+    
+state Driver License Division of the Department of Public Safety has issued an unexpired
+            
+1042
+
+    
+identification card, only if the financing statement provides the name of the individual which is
+            
+1043
+
+    
+indicated on the driver license or identification card;
+            
+1044
+
+    
+    (e)  if the debtor is an individual to whom Subsection (1)(d) does not apply, only if the
+            
+1045
+
+    
+financing statement provides the individual name of the debtor or the surname and first
+            
+1046
+
+    
+personal name of the debtor; and
+            
+1047
+
+    
+    [(d)] (f)  in other cases:
+            
+1048
+
+    
+    (i)  if the debtor has a name, only if [it] the financing statement provides the [individual
+            
+1049
+
+    
+or] organizational name of the debtor; and
+            
+1050
+
+    
+    (ii)  if the debtor does not have a name, only if it provides the names of the partners,
+            
+1051
+
+    
+members, associates, or other persons comprising the debtor, in a manner that each name
+            
+1052
+
+    
+provided would be sufficient if the person named were the debtor.
+            
+1053
+
+    
+    (2)  A financing statement that provides the name of the debtor in accordance with
+            
+1054
+
+    
+Subsection (1) is not rendered ineffective by the absence of:
+            
+1055
+
+    
+    (a)  a trade name or other name of the debtor; or
+            
+1056
+
+    
+    (b)  unless required under Subsection (1)[(d)](f)(ii), names of partners, members,
+            
+1057
+
+    
+associates, or other persons comprising the debtor.
+            
+1058
+
+    
+    (3)  A financing statement that provides only the debtor's trade name does not
+            
+1059
+
+    
+sufficiently provide the name of the debtor.
+            
+1060
+
+    
+    (4)  Failure to indicate the representative capacity of a secured party or representative of
+            
+1061
+
+    
+a secured party does not affect the sufficiency of a financing statement.
+            
+1062
+
+    
+    (5)  A financing statement may provide the name of more than one debtor and the name
+            
+1063
+
+    
+of more than one secured party.
+            
+1064
+
+    
+    (6)  The name of the decedent indicated on the order appointing the personal
+            
+1065
+
+    
+representative of the decedent issued by the court having jurisdiction over the collateral is
+
+            
+1066
+
+
+    
+sufficient as the "name of the decedent" under Subsection (1)(b).
+            
+1067
+
+    
+    (7)  If this state has issued to an individual more than one driver license or identification
+            
+1068
+
+    
+card of a kind described in Subsection (1)(d), the one that was issued most recently is the one
+            
+1069
+
+    
+to which Subsection (1)(d) refers.
+            
+1070
+
+    
+    (8)  In this section, the "name of the settlor or testator" means:
+            
+1071
+
+    
+    (a)  if the settlor is a registered organization, the name that is stated to be the settlor's
+            
+1072
+
+    
+name on the public organic record most recently filed with or issued or enacted by the settlor's
+            
+1073
+
+    
+jurisdiction of organization which purports to state, amend, or restate the settlor's name; or
+            
+1074
+
+    
+    (b)  in the other cases, the name of the settlor or testator indicated in the trust's organic
+            
+1075
+
+    
+record.
+            
+1076
+
+    
+    Section 13.  
+Section  
+70A-9a-507
+
+ is amended to read:
+            
+1077
+
+    
+     70A-9a-507.  Effect of certain events on effectiveness of financing statement.
+            
+1078
+
+    
+    (1)  A filed financing statement remains effective with respect to collateral that is sold,
+            
+1079
+
+    
+exchanged, leased, licensed, or otherwise disposed of and in which a security interest or
+            
+1080
+
+    
+agricultural lien continues, even if the secured party knows of or consents to the disposition.
+            
+1081
+
+    
+    (2)  Except as otherwise provided in Subsection (3) and Section 
+
+70A-9a-508
+
+, a
+            
+1082
+
+    
+financing statement is not rendered ineffective if, after the financing statement is filed, the
+            
+1083
+
+    
+information provided in the financing statement becomes seriously misleading under Section
+            
+1084
+
+    
+
+70A-9a-506
+
+.
+            
+1085
+
+    
+    (3)  If [a debtor so changes its] the name that a filed financing statement [becomes]
+            
+1086
+
+    
+provides for a debtor becomes insufficient as the name of the debtor under Subsection
+            
+1087
+
+    
+
+
+70A-9a-503
+
+(1) so that the financing statement becomes seriously misleading under Section
+            
+1088
+
+    
+
+70A-9a-506
+
+:
+            
+1089
+
+    
+    (a)  the financing statement is effective to perfect a security interest in collateral
+            
+1090
+
+    
+acquired by the debtor before, or within four months after, the [change] filed financing
+            
+1091
+
+    
+statement becomes seriously misleading; and
+            
+1092
+
+    
+    (b)  the financing statement is not effective to perfect a security interest in collateral
+            
+1093
+
+    
+acquired by the debtor more than four months after the [change] filed financing statement
+
+            
+1094
+
+
+    
+becomes seriously misleading, unless an amendment to the financing statement which renders
+            
+1095
+
+    
+the financing statement not seriously misleading is filed within four months after the [change]
+            
+1096
+
+    
+financing statement became seriously misleading.
+            
+1097
+
+    
+    Section 14.  
+Section  
+70A-9a-515
+
+ is amended to read:
+            
+1098
+
+    
+     70A-9a-515.   Duration and effectiveness of financing statement -- Effect of lapsed
+            
+1099
+
+    
+ financing statement.
+            
+1100
+
+    
+    (1)  Except as otherwise provided in Subsections (2), (5), (6), and (7), a filed financing
+            
+1101
+
+    
+statement is effective for a period of five years after the date of filing.
+            
+1102
+
+    
+    (2)  Except as otherwise provided in Subsections (5), (6), and (7), an initial financing
+            
+1103
+
+    
+statement filed in connection with a public-finance transaction or manufactured-home
+            
+1104
+
+    
+transaction is effective for a period of 30 years after the date of filing if it indicates that it is
+            
+1105
+
+    
+filed in connection with a public-finance transaction or manufactured-home transaction.
+            
+1106
+
+    
+    (3)  The effectiveness of a filed financing statement lapses on the expiration of the
+            
+1107
+
+    
+period of its effectiveness unless before the lapse a continuation statement is filed pursuant to
+            
+1108
+
+    
+Subsection (4).  Upon lapse, a financing statement ceases to be effective and any security
+            
+1109
+
+    
+interest or agricultural lien that was perfected by the financing statement becomes unperfected,
+            
+1110
+
+    
+unless the security interest is perfected otherwise.  If the security interest or agricultural lien
+            
+1111
+
+    
+becomes unperfected upon lapse, it is deemed never to have been perfected as against a
+            
+1112
+
+    
+purchaser of the collateral for value.
+            
+1113
+
+    
+    (4)  A continuation statement may be filed only within six months before the expiration
+            
+1114
+
+    
+of the five-year period specified in Subsection (1) or the 30-year period specified in Subsection
+            
+1115
+
+    
+(2), whichever is applicable.
+            
+1116
+
+    
+    (5) Except as otherwise provided in Section 
+
+70A-9a-510
+
+, upon timely filing of a
+            
+1117
+
+    
+continuation statement, the effectiveness of the initial financing statement continues for a
+            
+1118
+
+    
+period of five years commencing on the day on which the financing statement would have
+            
+1119
+
+    
+become ineffective in the absence of the filing.  Upon the expiration of the five-year period, the
+            
+1120
+
+    
+financing statement lapses in the same manner as provided in Subsection (3), unless, before the
+            
+1121
+
+    
+lapse, another continuation statement is filed pursuant to Subsection (4).  Succeeding
+
+            
+1122
+
+
+    
+continuation statements may be filed in the same manner to continue the effectiveness of the
+            
+1123
+
+    
+initial financing statement.
+            
+1124
+
+    
+    (6)  If a debtor is a transmitting utility and a filed initial financing statement so
+            
+1125
+
+    
+indicates, the financing statement is effective until a termination statement is filed.
+            
+1126
+
+    
+    (7)  A record of a mortgage that is effective as a financing statement filed as a fixture
+            
+1127
+
+    
+filing under Subsection 
+
+70A-9a-502
+
+(3) remains effective as a financing statement filed as a
+            
+1128
+
+    
+fixture filing until the mortgage is released or satisfied of record or its effectiveness otherwise
+            
+1129
+
+    
+terminates as to the real property.
+            
+1130
+
+    
+    Section 15.  
+Section  
+70A-9a-516
+
+ is amended to read:
+            
+1131
+
+    
+     70A-9a-516.  What constitutes filing -- Effectiveness of filing.
+            
+1132
+
+    
+    (1)  Except as otherwise provided in Subsection (2) or (4), communication of a record
+            
+1133
+
+    
+to a filing office and tender of the filing fee or acceptance of the record by the filing office
+            
+1134
+
+    
+constitutes filing.
+            
+1135
+
+    
+    (2)  Filing does not occur with respect to a record that a filing office refuses to accept
+            
+1136
+
+    
+because:
+            
+1137
+
+    
+    (a)  the record is not communicated by a method or medium of communication
+            
+1138
+
+    
+authorized by the filing office;
+            
+1139
+
+    
+    (b)  an amount equal to or greater than the applicable filing fee is not tendered;
+            
+1140
+
+    
+    (c)  the filing office is unable to index the record because:
+            
+1141
+
+    
+    (i)  in the case of an initial financing statement, the record does not provide a name for
+            
+1142
+
+    
+the debtor;
+            
+1143
+
+    
+    (ii)  in the case of an amendment or [correction] information statement, the record:
+            
+1144
+
+    
+    (A)  does not identify the initial financing statement as required by Section 
+
+70A-9a-512
+
+
+            
+1145
+
+    
+or 
+
+70A-9a-518
+
+, as applicable; or
+            
+1146
+
+    
+    (B)  identifies an initial financing statement whose effectiveness has lapsed under
+            
+1147
+
+    
+Section 
+
+70A-9a-515
+
+;
+            
+1148
+
+    
+    (iii)  in the case of an initial financing statement that provides the name of a debtor
+            
+1149
+
+    
+identified as an individual or an amendment that provides a name of a debtor identified as an
+
+            
+1150
+
+
+    
+individual which was not previously provided in the financing statement to which the record
+            
+1151
+
+    
+relates, the record does not identify the debtor's [last name] surname; or
+            
+1152
+
+    
+    (iv)  in the case of a record filed or recorded in the filing office described in Subsection
+            
+1153
+
+    
+
+70A-9a-501
+
+(1)(a), the record does not provide a sufficient description of the real property to
+            
+1154
+
+    
+which it relates;
+            
+1155
+
+    
+    (d)  in the case of an initial financing statement or an amendment that adds a secured
+            
+1156
+
+    
+party of record, the record does not provide a name and mailing address for the secured party of
+            
+1157
+
+    
+record;
+            
+1158
+
+    
+    (e)  in the case of an initial financing statement or an amendment that provides a name
+            
+1159
+
+    
+of a debtor which was not previously provided in the financing statement to which the
+            
+1160
+
+    
+amendment relates, the record does not:
+            
+1161
+
+    
+    (i)  provide a mailing address for the debtor; or
+            
+1162
+
+    
+    (ii)  indicate whether the name provided as the name of the debtor is the name of an
+            
+1163
+
+    
+individual or an organization; [or]
+            
+1164
+
+    
+    [(iii)  if the financing statement indicates that the debtor is an organization, provide:]
+            
+1165
+
+    
+    [(A)  a type of organization for the debtor;]
+            
+1166
+
+    
+    [(B)  a jurisdiction of organization for the debtor; or]
+            
+1167
+
+    
+    [(C)  an organizational identification number for the debtor or indicate that the debtor
+            
+1168
+
+    
+has none;]
+            
+1169
+
+    
+    (f)  in the case of an assignment reflected in an initial financing statement under
+            
+1170
+
+    
+Subsection 
+
+70A-9a-514
+
+(1) or an amendment filed under Subsection 
+
+70A-9a-514
+
+(2), the record
+            
+1171
+
+    
+does not provide a name and mailing address for the assignee; or
+            
+1172
+
+    
+    (g)  in the case of a continuation statement, the record is not filed within the six-month
+            
+1173
+
+    
+period prescribed by Subsection 
+
+70A-9a-515
+
+(4).
+            
+1174
+
+    
+    (3) For purposes of Subsection (2):
+            
+1175
+
+    
+    (a)  a record does not provide information if the filing office is unable to read or
+            
+1176
+
+    
+decipher the information; and
+            
+1177
+
+    
+    (b)  a record that does not indicate that it is an amendment or identify an initial
+
+            
+1178
+
+
+    
+financing statement to which it relates, as required by Section 
+
+70A-9a-512
+
+, 
+
+70A-9a-514
+
+, or
+            
+1179
+
+    
+
+70A-9a-518
+
+, is an initial financing statement.
+            
+1180
+
+    
+    (4)  A filing office may refuse to accept a record for filing, and if it does so, filing does
+            
+1181
+
+    
+not occur with respect to the record, because:
+            
+1182
+
+    
+    (a)  the debtor is an individual and the debtor's name contains unusually placed and
+            
+1183
+
+    
+apparently unnecessary punctuation, symbols, or other nonalphabetic characters;
+            
+1184
+
+    
+    (b)  the record, in the collateral description or elsewhere, including an attachment,
+            
+1185
+
+    
+discloses personally identifying information such as a Social Security number, driver license
+            
+1186
+
+    
+number, identification card number, bank account number, credit or debit card account number,
+            
+1187
+
+    
+date of birth, or place of birth; or
+            
+1188
+
+    
+    (c)  the debtor is an individual and the record indicates that the debtor is a transmitting
+            
+1189
+
+    
+utility.
+            
+1190
+
+    
+    [(4)] (5)  A record that is communicated to the filing office with tender of the filing fee,
+            
+1191
+
+    
+but which the filing office refuses to accept for a reason other than one set forth in Subsection
+            
+1192
+
+    
+(2) or (4), is effective as a filed record except as against a purchaser of the collateral which
+            
+1193
+
+    
+gives value in reasonable reliance upon the absence of the record from the files.
+            
+1194
+
+    
+    Section 16.  
+Section  
+70A-9a-518
+
+ is amended to read:
+            
+1195
+
+    
+     70A-9a-518.  Claim concerning inaccurate or wrongfully filed record.
+            
+1196
+
+    
+    (1)  A person may file in the filing office [a correction] an information statement with
+            
+1197
+
+    
+respect to a record indexed there under the person's name if the person believes that the record
+            
+1198
+
+    
+is inaccurate or was wrongfully filed.
+            
+1199
+
+    
+    (2)  [A correction] An information statement under Subsection (1) must:
+            
+1200
+
+    
+    (a)  identify the record to which it relates by[: (i)] the file number assigned to the initial
+            
+1201
+
+    
+financing statement to which the record relates; [and]
+            
+1202
+
+    
+    [(ii)  if the correction statement relates to a record filed or recorded in a filing office
+            
+1203
+
+    
+described in Subsection 
+
+70A-9a-501
+
+(1)(a):]
+            
+1204
+
+    
+    [(A) (I)  the entry number of the initial financing statement; or]
+            
+1205
+
+    
+    [(II)  the book and page where that the initial financing statement was filed or recorded;
+
+            
+1206
+
+
+    
+and]
+            
+1207
+
+    
+    [(B)  the information specified in Subsection 
+
+70A-9a-502
+
+(2);]
+            
+1208
+
+    
+    [(b)  indicate that it is a correction statement; and]
+            
+1209
+
+    
+    (b)  indicate that it is an information statement; and
+            
+1210
+
+    
+    (c)  provide the basis for the person's belief that the record is inaccurate and indicate the
+            
+1211
+
+    
+manner in which the person believes the record should be amended to cure any inaccuracy or
+            
+1212
+
+    
+provide the basis for the person's belief that the record was wrongfully filed.
+            
+1213
+
+    
+    (3)  A person may file in the filing office an information statement with respect to a
+            
+1214
+
+    
+record filed there if the person is a secured party of record with respect to the financing
+            
+1215
+
+    
+statement to which the record relates and believes that the person that filed the record was not
+            
+1216
+
+    
+entitled to do so under Subsection 
+
+70A-9a-509
+
+(4).
+            
+1217
+
+    
+    (4)  An information statement under Subsection (3) must:
+            
+1218
+
+    
+    (a)  identify the record to which it relates by the file number assigned to the initial
+            
+1219
+
+    
+financing statement to which the record relates;
+            
+1220
+
+    
+    (b)  indicate that it is an information statement; and
+            
+1221
+
+    
+    (c)  provide the basis for the person's belief that the person that filed the record was not
+            
+1222
+
+    
+entitled to do so under Subsection 
+
+70A-9a-509
+
+(4).
+            
+1223
+
+    
+    [(3)] (5) The filing of [a correction] an information statement does not affect the
+            
+1224
+
+    
+effectiveness of an initial financing statement or other filed record.
+            
+1225
+
+    
+    Section 17.  
+Section  
+70A-9a-520
+
+ is amended to read:
+            
+1226
+
+    
+     70A-9a-520.   Acceptance and refusal to accept record.
+            
+1227
+
+    
+    (1)  A filing office shall refuse to accept a record for filing for a reason set forth in
+            
+1228
+
+    
+Subsection 
+
+70A-9a-516
+
+(2) or (4) and may refuse to accept a record for filing only for a reason
+            
+1229
+
+    
+set forth in Subsection 
+
+70A-9a-516
+
+(2).
+            
+1230
+
+    
+    (2)  If a filing office refuses to accept a record for filing, it shall communicate to the
+            
+1231
+
+    
+person that presented the record the fact of and reason for the refusal and the date and time the
+            
+1232
+
+    
+record would have been filed had the filing office accepted it.  The communication must be
+            
+1233
+
+    
+made at the time and in the manner prescribed by filing-office rule but, in the case of a filing
+
+            
+1234
+
+
+    
+office described in Subsection 
+
+70A-9a-501
+
+(1)(b), in no event more than two business days after
+            
+1235
+
+    
+the filing office receives the record.
+            
+1236
+
+    
+    (3)  A filed financing statement satisfying Subsections 
+
+70A-9a-502
+
+(1) and (2) is
+            
+1237
+
+    
+effective, even if the filing office is required to refuse to accept it for filing under Subsection
+            
+1238
+
+    
+(1).  However, Section 
+
+70A-9a-338
+
+ applies to a filed financing statement providing information
+            
+1239
+
+    
+described in Subsection 
+
+70A-9a-516
+
+(2)(e) which is incorrect at the time the financing
+            
+1240
+
+    
+statement is filed.
+            
+1241
+
+    
+    (4)  If a record communicated to a filing office provides information that relates to more
+            
+1242
+
+    
+than one debtor, this part applies as to each debtor separately.
+            
+1243
+
+    
+    (5)  This section does not apply to a filing office described in Subsection
+            
+1244
+
+    
+
+70A-9a-501
+
+(1)(a).
+            
+1245
+
+    
+    Section 18.  
+Section  
+70A-9a-521
+
+ is amended to read:
+            
+1246
+
+    
+     70A-9a-521.   Uniform form of written financing statement and amendment.
+            
+1247
+
+    
+    (1)  A filing office that accepts written records may not refuse to accept a written initial
+            
+1248
+
+    
+financing statement in the form and format set forth in the final official text of the [1999] 2010
+            
+1249
+
+    
+revisions to Article 9 of the Uniform Commercial Code promulgated by The American Law
+            
+1250
+
+    
+Institute and the National Conference of Commissioners on Uniform State Laws, except for a
+            
+1251
+
+    
+reason set forth in Subsection 
+
+70A-9a-516
+
+(2) or (4).
+            
+1252
+
+    
+    (2)  A filing office that accepts written records may not refuse to accept a written record
+            
+1253
+
+    
+in the form and format set forth in the final official text of the [1999] 2010 revisions to Article
+            
+1254
+
+    
+9 of the Uniform Commercial Code promulgated by The American Law Institute and the
+            
+1255
+
+    
+National Conference of Commissioners on Uniform State Laws, except for a reason set forth in
+            
+1256
+
+    
+Subsection 
+
+70A-9a-516
+
+(2) or (4).
+            
+1257
+
+    
+    Section 19.  
+Section  
+70A-9a-607
+
+ is amended to read:
+            
+1258
+
+    
+     70A-9a-607.  Collection and enforcement by secured party.
+            
+1259
+
+    
+    (1)  If so agreed, and in any event after default, a secured party:
+            
+1260
+
+    
+    (a)  may notify an account debtor or other person obligated on collateral to make
+            
+1261
+
+    
+payment or otherwise render performance to or for the benefit of the secured party;
+
+            
+1262
+
+
+    
+    (b)  may take any proceeds to which the secured party is entitled under Section
+            
+1263
+
+    
+
+70A-9a-315
+
+;
+            
+1264
+
+    
+    (c)  may enforce the obligations of an account debtor or other person obligated on
+            
+1265
+
+    
+collateral and exercise the rights of the debtor with respect to the obligation of the account
+            
+1266
+
+    
+debtor or other person obligated on collateral to make payment or otherwise render
+            
+1267
+
+    
+performance to the debtor, and with respect to any property that secures the obligations of the
+            
+1268
+
+    
+account debtor or other person obligated on the collateral;
+            
+1269
+
+    
+    (d)  if it holds a security interest in a deposit account perfected by control under
+            
+1270
+
+    
+Subsection 
+
+70A-9a-104
+
+(1)(a), may apply the balance of the deposit account to the obligation
+            
+1271
+
+    
+secured by the deposit account; and
+            
+1272
+
+    
+    (e)  if it holds a security interest in a deposit account perfected by control under
+            
+1273
+
+    
+Subsection 
+
+70A-9a-104
+
+(1)(b) or (c), may instruct the bank to pay the balance of the deposit
+            
+1274
+
+    
+account to or for the benefit of the secured party.
+            
+1275
+
+    
+    (2)  If necessary to enable a secured party to exercise under Subsection (1)(c) the right
+            
+1276
+
+    
+of a debtor to enforce a mortgage nonjudicially, the secured party may record in the office in
+            
+1277
+
+    
+which a record of the mortgage is recorded:
+            
+1278
+
+    
+    (a)  a copy of the security agreement that creates or provides for a security interest in the
+            
+1279
+
+    
+obligation secured by the mortgage; and
+            
+1280
+
+    
+    (b)  the secured party's sworn affidavit in recordable form stating that:
+            
+1281
+
+    
+    (i)  a default has occurred with respect to the obligation secured by the mortgage; and
+            
+1282
+
+    
+    (ii)  the secured party is entitled to enforce the mortgage nonjudicially.
+            
+1283
+
+    
+    (3)  A secured party shall proceed in a commercially reasonable manner if the secured
+            
+1284
+
+    
+party:
+            
+1285
+
+    
+    (a)  undertakes to collect from or enforce an obligation of an account debtor or other
+            
+1286
+
+    
+person obligated on collateral; and
+            
+1287
+
+    
+    (b)  is entitled to charge back uncollected collateral or otherwise to full or limited
+            
+1288
+
+    
+recourse against the debtor or a secondary obligor.
+            
+1289
+
+    
+    (4)  A secured party may deduct from the collections made pursuant to Subsection (3)
+
+            
+1290
+
+
+    
+reasonable expenses of collection and enforcement, including reasonable attorney's fees and
+            
+1291
+
+    
+legal expenses incurred by the secured party.
+            
+1292
+
+    
+    (5)  This section does not determine whether an account debtor, bank, or other person
+            
+1293
+
+    
+obligated on collateral owes a duty to a secured party.
+            
+1294
+
+    
+    Section 20.  
+Section  
+70A-9a-801
+
+ is enacted to read:
+            
+1295
+
+    
+ Part 8.  Transition Provisions for 2010 Amendments
+
+            
+1296
+
+    
+     70A-9a-801.  Savings clause.
+            
+1297
+
+    
+    (1)  Except as otherwise provided in this part, the bill applies to a transaction or lien
+            
+1298
+
+    
+within its scope, even if the transaction or lien was entered into or created before July 1, 2013.
+            
+1299
+
+    
+    (2)  This bill does not affect an action, case, or proceeding commenced before July 1,
+            
+1300
+
+    
+2013.
+            
+1301
+
+    
+    Section 21.  
+Section  
+70A-9a-802
+
+ is enacted to read:
+            
+1302
+
+    
+     70A-9a-802.  Security interest perfected before effective date.
+            
+1303
+
+    
+    (1)  A security interest that is a perfected security interest immediately before July 1,
+            
+1304
+
+    
+2013, is a perfected security interest under this chapter as amended by this bill if, when this bill
+            
+1305
+
+    
+takes effect, the applicable requirements for attachment and perfection under this chapter as
+            
+1306
+
+    
+amended by this bill are satisfied without further action.
+            
+1307
+
+    
+    (2)  Except as otherwise provided in Section 
+
+70A-9a-805
+
+, if immediately before July 1,
+            
+1308
+
+    
+2013, a security interest is a perfected security interest, but the applicable requirements for
+            
+1309
+
+    
+perfection under this chapter as amended by this bill are not satisfied when this bill takes effect,
+            
+1310
+
+    
+the security interest remains perfected thereafter only if the applicable requirements for
+            
+1311
+
+    
+perfection under this chapter as amended by this bill are satisfied within one year after July 1,
+            
+1312
+
+    
+2013.
+            
+1313
+
+    
+    Section 22.  
+Section  
+70A-9a-803
+
+ is enacted to read:
+            
+1314
+
+    
+     70A-9a-803.  Security interest unperfected before effective date.
+            
+1315
+
+    
+    A security interest that is an unperfected security interest immediately before this bill
+            
+1316
+
+    
+takes effect becomes a perfected security interest:
+            
+1317
+
+    
+    (1)  without further action, when this bill takes effect if the applicable requirements for
+
+            
+1318
+
+
+    
+perfection under this chapter as amended by this bill are satisfied before or at that time; or
+            
+1319
+
+    
+    (2)  when the applicable requirements for perfection are satisfied if the requirements are
+            
+1320
+
+    
+satisfied after that time.
+            
+1321
+
+    
+    Section 23.  
+Section  
+70A-9a-804
+
+ is enacted to read:
+            
+1322
+
+    
+     70A-9a-804.  Effectiveness of action taken before effective date.
+            
+1323
+
+    
+    (1)  The filing of a financing statement before this bill takes effect is effective to perfect
+            
+1324
+
+    
+a security interest to the extent the filing would satisfy the applicable requirements for
+            
+1325
+
+    
+perfection under this chapter as amended by this bill.
+            
+1326
+
+    
+    (2)  This bill does not render ineffective an effective financing statement that, before
+            
+1327
+
+    
+this bill takes effect, is filed and satisfies the applicable requirements for perfection under the
+            
+1328
+
+    
+law of the jurisdiction governing perfection as provided in this chapter as it existed before
+            
+1329
+
+    
+amendment.  However, except as otherwise provided in Subsections (3) and (4) and Section
+            
+1330
+
+    
+
+
+70A-9a-805
+
+, the financing statement ceases to be effective:
+            
+1331
+
+    
+    (a)  if the financing statement is filed in this state, at the time the financing statement
+            
+1332
+
+    
+would have ceased to be effective had this bill not taken effect; or
+            
+1333
+
+    
+    (b)  if the financing statement is filed in another jurisdiction, at the earlier of:
+            
+1334
+
+    
+    (i)  the time the financing statement would have ceased to be effective under the law of
+            
+1335
+
+    
+that jurisdiction; or
+            
+1336
+
+    
+    (ii)  June 30, 2018.
+            
+1337
+
+    
+    (3)  The filing of a continuation statement after this bill takes effect does not continue
+            
+1338
+
+    
+the effectiveness of a financing statement filed before this bill takes effect.  However, upon the
+            
+1339
+
+    
+timely filing of a continuation statement after this bill takes effect and in accordance with the
+            
+1340
+
+    
+law of the jurisdiction governing perfection as provided in this chapter as amended by this bill,
+            
+1341
+
+    
+the effectiveness of a financing statement filed in the same office in that jurisdiction before this
+            
+1342
+
+    
+bill takes effect continues for the period provided by the law of that jurisdiction.
+            
+1343
+
+    
+    (4)  Subsection (2)(b)(ii) applies to a financing statement that, before this bill takes
+            
+1344
+
+    
+effect, is filed against a transmitting utility and satisfies the applicable requirements for
+            
+1345
+
+    
+perfection under the law of the jurisdiction governing perfection as provided in this chapter as
+
+            
+1346
+
+
+    
+it existed before amendment, only to the extent that this chapter as amended by this bill
+            
+1347
+
+    
+provides that the law of a jurisdiction other than the jurisdiction in which the financing
+            
+1348
+
+    
+statement is filed governs perfection of a security interest in collateral covered by the financing
+            
+1349
+
+    
+statement.
+            
+1350
+
+    
+    (5)  A financing statement that includes a financing statement filed before this bill takes
+            
+1351
+
+    
+effect and a continuation statement filed after this bill takes effect is effective only to the extent
+            
+1352
+
+    
+that it satisfies the requirements of Part 5, Filing, as amended by this bill for an initial financing
+            
+1353
+
+    
+statement.  A financing statement that indicates that the debtor is a decedent's estate indicates
+            
+1354
+
+    
+that the collateral is being administered by a personal representative within the meaning of
+            
+1355
+
+    
+Subsection 
+
+70A-9a-503
+
+(1)(b) as amended by this bill.  A financing statement that indicates that
+            
+1356
+
+    
+the debtor is a trust or is a trustee acting with respect to property held in trust indicates that the
+            
+1357
+
+    
+collateral is held in a trust within the meaning of Subsection 
+
+70A-9a-503
+
+(1)(c) as amended by
+            
+1358
+
+    
+this bill.
+            
+1359
+
+    
+    Section 24.  
+Section  
+70A-9a-805
+
+ is enacted to read:
+            
+1360
+
+    
+     70A-9a-805.  When initial financing statement suffices to continue effectiveness of
+            
+1361
+
+    
+ financing statement.
+            
+1362
+
+    
+    (1)  The filing of an initial financing statement in the office specified in Section
+            
+1363
+
+    
+
+
+70A-9a-501
+
+ continues the effectiveness of a financing statement filed before this bill takes
+            
+1364
+
+    
+effect if:
+            
+1365
+
+    
+    (a)  the filing of an initial financing statement in that office would be effective to
+            
+1366
+
+    
+perfect a security interest under this chapter as amended by this bill;
+            
+1367
+
+    
+    (b)  the pre-effective-date financing statement was filed in an office in another state;
+            
+1368
+
+    
+and
+            
+1369
+
+    
+    (c)  the initial financing statement satisfies Subsection (3).
+            
+1370
+
+    
+    (2)  The filing of an initial financing statement under Subsection (1) continues the
+            
+1371
+
+    
+effectiveness of the pre-effective-date financing statement:
+            
+1372
+
+    
+    (a)  if the initial financing statement is filed before this bill takes effect, for the period
+            
+1373
+
+    
+provided in unamended Section 
+
+70A-9a-515
+
+ with respect to an initial financing statement; and
+
+            
+1374
+
+
+    
+    (b)  if the initial financing statement is filed after this bill takes effect, for the period
+            
+1375
+
+    
+provided in Section 
+
+70A-9a-515
+
+ as amended by this bill with respect to an initial financing
+            
+1376
+
+    
+statement.
+            
+1377
+
+    
+    (3)  To be effective for purposes of Subsection (1), an initial financing statement must:
+            
+1378
+
+    
+    (a)  satisfy the requirements of Part 5, Filing, as amended by this bill for an initial
+            
+1379
+
+    
+financing statement;
+            
+1380
+
+    
+    (b)  identify the pre-effective-date financing statement by indicating the office in which
+            
+1381
+
+    
+the financing statement was filed and providing the dates of filing and file numbers, if any, of
+            
+1382
+
+    
+the financing statement and of the most recent continuation statement filed with respect to the
+            
+1383
+
+    
+financing statement; and
+            
+1384
+
+    
+    (c)  indicate that the pre-effective-date financing statement remains effective.
+            
+1385
+
+    
+    Section 25.  
+Section  
+70A-9a-806
+
+ is enacted to read:
+            
+1386
+
+    
+     70A-9a-806.  Amendment of pre-effective-date financing statement.
+            
+1387
+
+    
+    (1)  In this section, "pre-effective-date financing statement" means a financing
+            
+1388
+
+    
+statement filed before this bill takes effect.
+            
+1389
+
+    
+    (2)  After this bill takes effect, a person may add or delete collateral covered by,
+            
+1390
+
+    
+continue or terminate the effectiveness of, or otherwise amend the information provided in, a
+            
+1391
+
+    
+pre-effective-date financing statement only in accordance with the law of the jurisdiction
+            
+1392
+
+    
+governing perfection as provided in this chapter as amended by this bill.  However, the
+            
+1393
+
+    
+effectiveness of a pre-effective-date financing statement also may be terminated in accordance
+            
+1394
+
+    
+with the law of the jurisdiction in which the financing statement is filed.
+            
+1395
+
+    
+    (3)  Except as otherwise provided in Subsection (4), if the law of this state governs
+            
+1396
+
+    
+perfection of a security interest, the information in a pre-effective-date financing statement may
+            
+1397
+
+    
+be amended after this bill takes effect only if:
+            
+1398
+
+    
+    (a)  the pre-effective-date financing statement and an amendment are filed in the office
+            
+1399
+
+    
+specified in Section 
+
+70A-9a-501
+
+;
+            
+1400
+
+    
+    (b)  an amendment is filed in the office specified in Section 
+
+70A-9a-501
+
+ concurrently
+            
+1401
+
+    
+with, or after the filing in that office of, an initial financing statement that satisfies Subsection
+
+            
+1402
+
+
+    
+
+
+70A-9a-805
+
+(3); or
+            
+1403
+
+    
+    (c)  an initial financing statement that provides the information as amended and satisfies
+            
+1404
+
+    
+Subsection 
+
+70A-9a-805
+
+(3) is filed in the office specified in Section 
+
+70A-9a-501
+
+.
+            
+1405
+
+    
+    (4)  If the law of this state governs perfection of a security interest, the effectiveness of
+            
+1406
+
+    
+a pre-effective-date financing statement may be continued only under Subsections
+            
+1407
+
+    
+
+
+70A-9a-804
+
+(3) and (5) or Section 
+
+70A-9a-805
+
+.
+            
+1408
+
+    
+    (5)  Whether or not the law of this state governs perfection of a security interest, the
+            
+1409
+
+    
+effectiveness of a pre-effective-date financing statement filed in this state may be terminated
+            
+1410
+
+    
+after this bill takes effect by filing a termination statement in the office in which the
+            
+1411
+
+    
+pre-effective-date financing statement is filed, unless an initial financing statement that
+            
+1412
+
+    
+satisfies Subsection 
+
+70A-9a-805
+
+(3) has been filed in the office specified by the law of the
+            
+1413
+
+    
+jurisdiction governing perfection as provided in this chapter as amended by this bill as the
+            
+1414
+
+    
+office in which to file a financing statement.
+            
+1415
+
+    
+    Section 26.  
+Section  
+70A-9a-807
+
+ is enacted to read:
+            
+1416
+
+    
+     70A-9a-807.  Person entitled to file initial financing statement or continuation
+            
+1417
+
+    
+ statement.
+            
+1418
+
+    
+    A person may file an initial financing statement or a continuation statement under this
+            
+1419
+
+    
+part if:
+            
+1420
+
+    
+    (1)  the secured party of record authorizes the filing; and
+            
+1421
+
+    
+    (2)  the filing is necessary under this part:
+            
+1422
+
+    
+    (a)  to continue the effectiveness of a financing statement filed before this bill takes
+            
+1423
+
+    
+effect; or
+            
+1424
+
+    
+    (b)  to perfect or continue the perfection of a security interest.
+            
+1425
+
+    
+    Section 27.  
+Section  
+70A-9a-808
+
+ is enacted to read:
+            
+1426
+
+    
+     70A-9a-808.  Priority.
+            
+1427
+
+    
+    This bill determines the priority of conflicting claims to collateral.  However, if the
+            
+1428
+
+    
+relative priorities of the claims were established before this bill takes effect, this chapter as it
+            
+1429
+
+    
+existed before amendment determines priority.
+
+            
+1430
+
+
+    
+    Section 28.  Repealer.
+            
+1431
+
+    
+    This bill repeals:
+            
+1432
+
+    
+    Section  70A-11-101,  Effective date.
+            
+1433
+
+    
+    Section  70A-11-102,  Preservation of old transition provision.
+            
+1434
+
+    
+    Section  70A-11-103,  Transition to corrected Uniform Commercial Code -- General
+            
+1435
+
+    
+ rule.
+            
+1436
+
+    
+    Section  70A-11-104,  Transition provision on change of requirement of filing.
+            
+1437
+
+    
+    Section  70A-11-105,  Transition provision on change of place of filing.
+            
+1438
+
+    
+    Section  70A-11-106,  Required refilings.
+            
+1439
+
+    
+    Section  70A-11-107,  Transition provisions as to priorities.
+            
+1440
+
+    
+    Section  70A-11-108,  Presumption that rule of law continues unchanged.
+            
+1441
+
+    
+    Section 29.   Effective date.
+            
+1442
+
+    
+    This bill takes effect on July 1, 2013.
+            
+1443
+
+    
+    Section 30.   Revisor instructions.
+            
+1444
+
+    
+    The Legislature intends that the Office of Legislative Research and General Counsel, in
+            
+1445
+
+    
+preparing the Utah Code database for publication, replace the language in Sections 
+
+70A-9a-801
+
+
+            
+1446
+
+    
+through 
+
+70A-9a-808
+
+, from "this bill" with the bill's designated chapter number in the Laws of
+            
+1447
+
+    
+Utah.
+[Bill Documents][Bills Directory]
+
+
+
+
+
+
+
+
+
+Who represents me?
+
+
+
+
+
+Remember my Legislators
+
+
+
+
+
+State Senate
+		350 North State, Suite 320
+		PO Box 145115
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1035
+		Fax: (801) 326-1475
+
+
+
+House of Representatives
+		350 North State, Suite 350
+		PO Box 145030
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1029
+		Fax: (801) 326-1544
+
+
+
+
+
+
+
+
+
+
+Home
+Mobile Site
+Site Map
+Calendar
+Code / Constitution
+House
+Senate
+
+Terms of Use/Privacy Policy
+
+ADA
+Utah.gov
+
+
+
+
+
+
+

@@ -1,0 +1,751 @@
+Sponsors: []Modifications: For a taxable year, allfor a taxable yearusing one of the following methods as provided in this section; and(c)  for a taxpayer that makes an election authorized by Subsection (4):(i)  the numerator of the fraction is the sales factor as calculated under Section
+
+59-7-317
+
+; and(ii)  the denominator of the fraction is one.theyearbut beginning on or before December 31,2006,the method described in(i)that taxable year(ii)  Subject to Subsection (3)(b)(i), if for a taxable year a taxpayer carries forward orcarries back any amount under this chapter, the taxpayer shall calculate the fraction forapportioning business income under this section using the same method described inSubsection (2) that the taxpayer used for the taxable year that the taxpayer earned or incurredthe amount that is carried forward or carried back.(4) (a)  For purposes of Subsection (2) and subject to Subsection (4)(b), for taxableyears beginning on or after January 1, 2007, a taxpayer may elect to calculate the fraction forapportioning business income under this section in accordance with the method described inSubsection (2)(c).(b) (i)  If a taxpayer makes the election described in Subsection (4)(a), the taxpayer maynot revoke the election for a period of five taxable years.(ii)  Subject to Subsection (4)(b)(i), if for a taxable year a taxpayer carries forward orcarries back any amount under this chapter, the taxpayer shall calculate the fraction forapportioning business income under this section using the same method described inSubsection (2) that the taxpayer used for the taxable year that the taxpayer earned or incurredthe amount that is carried forward or carried back.(c)  In accordance with Title 63, Chapter 46a, Utah Administrative Rulemaking Act, thecommission may make rules providing procedures for a taxpayer to make the electiondescribed in Subsection (4)(a).Full text:
+
+
+
+Utah State Legislature
+
+
+
+
+
+
+
+
+
+
+
+
+Legislators
+
+By Session (1896-Current)
+Alphabetical (Historical)
+Find by Address/Map
+More
+
+
+Bills
+
+Bills/Bill Requests
+Passed Bills
+2017 Bills
+
+Keyword Search
+Reading Calendars
+Tracking Service
+More
+
+
+Committees
+
+All Committees
+Appropriations
+Commissions
+
+Independent Legislative Ethics Commission
+Interim
+Standing
+Subcommittees
+Task Forces
+Bills In Committees
+
+
+Utah Code / Constitution
+
+
+Title/Chapter/Section
+Keyword Search 
+
+Utah Constitution
+Laws of Utah 1851-ongoing
+Utah Territorial Laws 
+More
+
+
+Senate
+
+Main Page 
+About The Senate 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Extraordinary Sessions 
+Reading Calendars 
+Past Floor Debates 
+Senate Journals 
+
+
+House
+
+Main Page
+About the House 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Reading Calendars 
+Past Floor Debates 
+Journals 
+Conflict of Interest Forms 
+
+
+Legislative Guide 
+
+Legislative Guide
+Civic Programs
+GRAMA (Records Requests)
+
+
+Publications
+
+Search Publications
+Appropriations
+Audits
+Bagels & Briefings
+Briefing Papers
+Digest of Legislation
+Legislative Drafting Manual
+
+Journals
+
+Interim Highlights
+
+Legislative Rules
+GRAMA (Records Requests)
+Public Email
+State Organization Charts
+YouTube Channel
+Requests for Proposals and Legal Notices
+More
+
+
+Legislative Histories
+
+Legislative History Resources
+How to Research
+Bill Drafting/Research Files (1990-Ongoing)
+
+Working Bills (1896-1989)
+Interim Committee Histories (1990-Ongoing) 
+Journals
+Past House Floor Debates
+Past Senate Floor Debates
+More
+
+
+Staff Offices
+
+All Legislative Offices
+Auditor General
+Fiscal Analyst
+Printing
+Research and General Counsel
+Staff Awards
+Job Opportunities
+More
+
+
+Links of Interest
+
+Utah Administrative Rules
+Courts
+Utah State Capitol
+State of Utah
+Federal Legislation
+More
+
+
+
+
+
+
+ 
+
+Download Zipped Introduced WordPerfect HB0053.ZIP
+[Status][Bill Documents][Fiscal Note][Bills Directory]
+
+
+H.B. 53
+
+
+
+
+
+            
+1
+
+    
+ APPORTIONMENT OF BUSINESS INCOME TO
+
+            
+2
+
+    
+ UTAH
+
+
+
+            
+3
+
+    
+2006 GENERAL SESSION
+
+            
+4
+
+    
+STATE OF UTAH
+
+            
+5
+
+    
+
+ Chief Sponsor:  Wayne A. Harper
+
+
+            
+6
+
+    
+
+
+Senate Sponsor:  
+
+
+
+
+____________
+
+
+
+
+            
+7
+
+    
+
+            
+8
+
+    
+ LONG TITLE
+            
+9
+
+    
+ General Description:
+            
+10
+
+    
+    This bill amends the Corporate Franchise and Income Taxes chapter relating to the
+            
+11
+
+    
+apportionment of business income.
+            
+12
+
+    
+ Highlighted Provisions:
+            
+13
+
+    
+    This bill:
+            
+14
+
+    
+    .    allows a taxpayer to elect for a one taxable year period to calculate the
+            
+15
+
+    
+apportionment of business income on the basis of a fraction that double weights the
+            
+16
+
+    
+sales factor;
+            
+17
+
+    
+    .    allows a taxpayer to elect for taxable years beginning on or after January 1, 2007, to
+            
+18
+
+    
+calculate the apportionment of business income on the basis of a single sales factor;
+            
+19
+
+    
+    .    addresses a taxpayer's ability to revoke an election to use a particular method for
+            
+20
+
+    
+apportioning business income to the state;
+            
+21
+
+    
+    .    addresses the apportionment of business income if an amount is carried forward or
+            
+22
+
+    
+carried back;
+            
+23
+
+    
+    .    grants rulemaking authority to the State Tax Commission; and
+            
+24
+
+    
+    .    makes technical changes.
+            
+25
+
+    
+ Monies Appropriated in this Bill:
+            
+26
+
+    
+    None
+            
+27
+
+    
+ Other Special Clauses:
+
+            
+28
+
+
+    
+    None
+            
+29
+
+    
+ Utah Code Sections Affected:
+            
+30
+
+    
+AMENDS:
+            
+31
+
+    
+     59-7-311, as last amended by Chapter 225, Laws of Utah 2005
+            
+32
+
+    
+
+            
+33
+
+    
+Be it enacted by the Legislature of the state of Utah:
+            
+34
+
+    
+    Section 1.  
+Section  
+59-7-311
+
+ is amended to read:
+            
+35
+
+    
+     59-7-311.  Method of apportionment of business income.
+            
+36
+
+    
+    (1)  [All] For a taxable year, all business income shall be apportioned to this state by
+            
+37
+
+    
+multiplying the business income by a fraction calculated as provided in Subsection (2).
+            
+38
+
+    
+    (2)  The fraction described in Subsection (1) for a taxable year is calculated [as follows]
+            
+39
+
+    
+using one of the following methods as provided in this section:
+            
+40
+
+    
+    (a)  for a taxpayer that does not make an election authorized by Subsection (3):
+            
+41
+
+    
+    (i)  the numerator of the fraction is the sum of:
+            
+42
+
+    
+    (A)  the property factor as calculated under Section 
+
+59-7-312
+
+;
+            
+43
+
+    
+    (B)  the payroll factor as calculated under Section 
+
+59-7-315
+
+; and
+            
+44
+
+    
+    (C)  the sales factor as calculated under Section 
+
+59-7-317
+
+; and
+            
+45
+
+    
+    (ii)  the denominator of the fraction is three; [and]
+            
+46
+
+    
+    (b)  for a taxpayer that makes an election authorized by Subsection (3):
+            
+47
+
+    
+    (i)  the numerator of the fraction is the sum of:
+            
+48
+
+    
+    (A)  the property factor as calculated under Section 
+
+59-7-312
+
+;
+            
+49
+
+    
+    (B)  the payroll factor as calculated under Section 
+
+59-7-315
+
+; and
+            
+50
+
+    
+    (C)  the product of:
+            
+51
+
+    
+    (I)  the sales factor as calculated under Section 
+
+59-7-317
+
+; and
+            
+52
+
+    
+    (II)  two; and
+            
+53
+
+    
+    (ii)  the denominator of the fraction is four[.]; and
+            
+54
+
+    
+    (c)  for a taxpayer that makes an election authorized by Subsection (4):
+            
+55
+
+    
+    (i)  the numerator of the fraction is the sales factor as calculated under Section
+            
+56
+
+    
+
+
+59-7-317
+
+; and
+            
+57
+
+    
+    (ii)  the denominator of the fraction is one.
+            
+58
+
+    
+    (3) (a)  For purposes of Subsection (2) and subject to Subsection (3)(b), for the taxable
+
+            
+59
+
+
+    
+[years] year beginning on or after January 1, 2006, but beginning on or before December 31,
+            
+60
+
+    
+2006, a taxpayer may elect to calculate the fraction for apportioning business income under this
+            
+61
+
+    
+section in accordance with the method described in Subsection (2)(b).
+            
+62
+
+    
+    (b) (i)  If a taxpayer makes the election described in Subsection (3)(a), the taxpayer may
+            
+63
+
+    
+not revoke the election for [a period of five taxable years] that taxable year.
+            
+64
+
+    
+    (ii)  Subject to Subsection (3)(b)(i), if for a taxable year a taxpayer carries forward or
+            
+65
+
+    
+carries back any amount under this chapter, the taxpayer shall calculate the fraction for
+            
+66
+
+    
+apportioning business income under this section using the same method described in
+            
+67
+
+    
+Subsection (2) that the taxpayer used for the taxable year that the taxpayer earned or incurred
+            
+68
+
+    
+the amount that is carried forward or carried back.
+            
+69
+
+    
+    (c)  In accordance with Title 63, Chapter 46a, Utah Administrative Rulemaking Act, the
+            
+70
+
+    
+commission may make rules providing procedures for a taxpayer to make the election
+            
+71
+
+    
+described in Subsection (3)(a).
+            
+72
+
+    
+    (4) (a)  For purposes of Subsection (2) and subject to Subsection (4)(b), for taxable
+            
+73
+
+    
+years beginning on or after January 1, 2007, a taxpayer may elect to calculate the fraction for
+            
+74
+
+    
+apportioning business income under this section in accordance with the method described in
+            
+75
+
+    
+Subsection (2)(c).
+            
+76
+
+    
+    (b) (i)  If a taxpayer makes the election described in Subsection (4)(a), the taxpayer may
+            
+77
+
+    
+not revoke the election for a period of five taxable years.
+            
+78
+
+    
+    (ii)  Subject to Subsection (4)(b)(i), if for a taxable year a taxpayer carries forward or
+            
+79
+
+    
+carries back any amount under this chapter, the taxpayer shall calculate the fraction for
+            
+80
+
+    
+apportioning business income under this section using the same method described in
+            
+81
+
+    
+Subsection (2) that the taxpayer used for the taxable year that the taxpayer earned or incurred
+            
+82
+
+    
+the amount that is carried forward or carried back.
+            
+83
+
+    
+    (c)  In accordance with Title 63, Chapter 46a, Utah Administrative Rulemaking Act, the
+            
+84
+
+    
+commission may make rules providing procedures for a taxpayer to make the election
+            
+85
+
+    
+described in Subsection (4)(a).
+
+
+
+
+
+ Legislative Review Note
+    as of  11-16-05  7:00 AM
+
+Based on a limited legal review, this legislation has not been determined to have a high
+probability of being held unconstitutional.
+
+ Office of Legislative Research and General Counsel
+
+
+ Interim Committee Note
+    as of 12-20-05 9:59 AM
+
+The Revenue and Taxation Interim Committee recommended this bill.
+
+ Mixed Membership Committee Note
+    as of 12-20-05 9:59 AM
+
+The Tax Reform Task Force recommended this bill.
+    Membership:        13 legislators    2 non-legislators
+    Legislative Vote:    8 voting for    0 voting against    5 absent
+[Bill Documents][Bills Directory]
+
+
+
+
+
+
+
+
+
+Who represents me?
+
+
+
+
+
+Remember my Legislators
+
+
+
+
+
+State Senate
+		350 North State, Suite 320
+		PO Box 145115
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1035
+		Fax: (801) 326-1475
+
+
+
+House of Representatives
+		350 North State, Suite 350
+		PO Box 145030
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1029
+		Fax: (801) 326-1544
+
+
+
+
+
+
+
+
+
+
+Home
+Mobile Site
+Site Map
+Calendar
+Code / Constitution
+House
+Senate
+
+Terms of Use/Privacy Policy
+
+ADA
+Utah.gov
+
+
+
+
+
+
+

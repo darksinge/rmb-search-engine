@@ -1,0 +1,538 @@
+Sponsors: []Modifications: (1)  As used in Sections 78-27-45 through 78-27-50:(a)  "governmental entity" means:(i)  the state, including all departments, institutions, boards, divisions, bureaus, offices,commissions, committees, and elected officials; and(ii)  any political subdivision of the state, including any county, city, town, school district,public transit district, redevelopment agency, special improvement, or taxing district;(b)  "nonprotected record" means a record maintained by the financial institution tofacilitate the conduct of its business regarding a person or account, including:(i)  the existence of an account and the account number; and(ii)  the opening and closing dates of an account;(c)  "protected record" means a record not defined as a nonprotected record; and(d)  "record" means information that is:(i)  prepared, owned, received, or retained by a financial institution;(ii) (A)  inscribed on a tangible medium; or(B)  stored in an electronic or other medium; and(iii)  retrievable in perceivable form.(2)  Except as provided in Section 78-27-50, an individualagovernmental entitythat constitutes a record:(a)named or referenced within the record;(b)record(3)(a)  Ifthegovernmental entity that obtained the order shall give(b)required by Subsection (1)(a):(i)that;(ii)  a copy ofthe order;(iii)(a):(i);(ii)(b)  Notwithstanding Subsection (2)(a), if the,(1)with the order(2)ongovernmental entity(1)that produces,Sections 78-27-45 through78-27-50, or in compliance with an order of a court of competent jurisdictiongovernmental entity(2)ruleSections 78-27-45 through 78-27-50 dowhen:(a)  a;(b)  a;(c)  a;(d)  a;(e)  a;(f)  a;(g);(h);(i);(j);(k); or(l)  the state auditor(2)  If a governmental entity listed in Subsection (1) seeks a record, the entity shall obtainthe record as follows:(a)  if the record is a nonprotected record, by request in writing from a representative of thegovernmental entity that is conducting the official investigation; or(b)  if the record is a protected record, by obtaining a subpoena or other legal process:(i)  ordered by a court of competent jurisdiction; and(ii)   served upon the financial institution.(3)  A financial institution may not give notice to any person named or referenced withinthe record disclosed pursuant to Subsection (1)(a).(4)  A protected record obtained under this section shall be subject to reimbursement fromthe agency conducting the official investigation for costs reasonably incurred by the financialinstitution in accordance with Section 78-27-48.    78-27-50.5.A financial institution is not liable to any person named or referenced within a record forany disclosure that is the result of a subpoena, order, or request made pursuant to Sections78-27-45 through 78-27-50 if the financial institution reasonably believes that the subpoena, order,or request is properly made under Sections 78-27-45 through 78-27-50.Full text:
+
+
+
+Utah State Legislature
+
+
+
+
+
+
+
+
+
+
+
+
+Legislators
+
+By Session (1896-Current)
+Alphabetical (Historical)
+Find by Address/Map
+More
+
+
+Bills
+
+Bills/Bill Requests
+Passed Bills
+2017 Bills
+
+Keyword Search
+Reading Calendars
+Tracking Service
+More
+
+
+Committees
+
+All Committees
+Appropriations
+Commissions
+
+Independent Legislative Ethics Commission
+Interim
+Standing
+Subcommittees
+Task Forces
+Bills In Committees
+
+
+Utah Code / Constitution
+
+
+Title/Chapter/Section
+Keyword Search 
+
+Utah Constitution
+Laws of Utah 1851-ongoing
+Utah Territorial Laws 
+More
+
+
+Senate
+
+Main Page 
+About The Senate 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Extraordinary Sessions 
+Reading Calendars 
+Past Floor Debates 
+Senate Journals 
+
+
+House
+
+Main Page
+About the House 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Reading Calendars 
+Past Floor Debates 
+Journals 
+Conflict of Interest Forms 
+
+
+Legislative Guide 
+
+Legislative Guide
+Civic Programs
+GRAMA (Records Requests)
+
+
+Publications
+
+Search Publications
+Appropriations
+Audits
+Bagels & Briefings
+Briefing Papers
+Digest of Legislation
+Legislative Drafting Manual
+
+Journals
+
+Interim Highlights
+
+Legislative Rules
+GRAMA (Records Requests)
+Public Email
+State Organization Charts
+YouTube Channel
+Requests for Proposals and Legal Notices
+More
+
+
+Legislative Histories
+
+Legislative History Resources
+How to Research
+Bill Drafting/Research Files (1990-Ongoing)
+
+Working Bills (1896-1989)
+Interim Committee Histories (1990-Ongoing) 
+Journals
+Past House Floor Debates
+Past Senate Floor Debates
+More
+
+
+Staff Offices
+
+All Legislative Offices
+Auditor General
+Fiscal Analyst
+Printing
+Research and General Counsel
+Staff Awards
+Job Opportunities
+More
+
+
+Links of Interest
+
+Utah Administrative Rules
+Courts
+Utah State Capitol
+State of Utah
+Federal Legislation
+More
+
+
+
+
+
+
+ 
+
+Download Zipped Introduced WP 6.1 HB0332.ZIP 10,326 Bytes
+[Status][Bill Documents][Fiscal Note][Bills Directory]
+
+
+H.B. 332
+
+
+
+
+
+1     FINANCIAL RECORDS PRIVACY
+
+
+
+
+2    1998 GENERAL SESSION
+
+
+3    STATE OF UTAH
+
+
+4     Sponsor: John W. Hickman
+
+
+5    AN ACT RELATING TO THE JUDICIAL CODE; AMENDING PROVISIONS RELATED TO
+
+6    A GOVERNMENTAL ENTITY OBTAINING FINANCIAL INFORMATION; DEFINING
+
+7    TERMS; ADDRESSING LIABILITIES OF FINANCIAL INSTITUTIONS; AND MAKING
+
+8    TECHNICAL CORRECTIONS.
+
+9    This act affects sections of Utah Code Annotated 1953 as follows:
+
+10    AMENDS:
+
+11         78-27-45, as last amended by Chapter 241, Laws of Utah 1989
+
+12         78-27-46, as enacted by Chapter 143, Laws of Utah 1977
+
+13         78-27-47, as enacted by Chapter 143, Laws of Utah 1977
+
+14         78-27-48, as enacted by Chapter 143, Laws of Utah 1977
+
+15         78-27-50, as last amended by Chapter 316, Laws of Utah 1994
+
+16    ENACTS:
+
+17         78-27-50.5, Utah Code Annotated 1953
+
+18    Be it enacted by the Legislature of the state of Utah:
+
+19        Section 1.  Section  78-27-45 is amended to read:
+
+20         78-27-45.  Financial information privacy -- Written consent or court order for
+
+21     disclosure by financial institution -- Exception.  
+
+22        (1)  As used in Sections 78-27-45 through 78-27-50:
+
+23        (a)  "governmental entity" means:
+
+24        (i)  the state, including all departments, institutions, boards, divisions, bureaus, offices,
+
+25    commissions, committees, and elected officials; and
+
+26        (ii)  any political subdivision of the state, including any county, city, town, school district,
+
+27    public transit district, redevelopment agency, special improvement, or taxing district;
+
+
+1        (b)  "nonprotected record" means a record maintained by the financial institution to
+
+2    facilitate the conduct of its business regarding a person or account, including:
+
+3        (i)  the existence of an account and the account number; and
+
+4        (ii)  the opening and closing dates of an account;
+
+5        (c)  "protected record" means a record not defined as a nonprotected record; and
+
+6        (d)  "record" means information that is:
+
+7        (i)  prepared, owned, received, or retained by a financial institution;
+
+8        (ii) (A)  inscribed on a tangible medium; or
+
+9        (B)  stored in an electronic or other medium; and
+
+10        (iii)  retrievable in perceivable form.
+
+11        [(1)  A person] (2)  Except as provided in Section 78-27-50, an individual acting in behalf
+
+12    of [the state, or any agency, office, department, bureau, or political subdivision of the state] a
+
+13    governmental entity may not request or obtain by subpoena or otherwise information from a state
+
+14    or federally chartered financial institution [regarding the financial transactions or other records]
+
+15    that constitutes a record reflecting the financial condition of any person without first obtaining:
+
+16        (a)  written permission from the person [whose financial transactions or other records of
+
+17    financial condition are] named or referenced within the record to be examined[,]; or [obtaining]
+
+18        (b)  an order from a court of competent jurisdiction permitting access to the [information]
+
+19    record.
+
+20        [(2)] (3)  This section does not apply to:
+
+21        (a)  reviews made by the commissioner of financial institutions to determine whether a
+
+22    financial institution is operating in accordance with law; or
+
+23        (b)  reports filed as required by Section 76-10-1906.
+
+24        [(3)  As used in this section, "person" includes an individual, corporation, partnership, or
+
+25    association.]
+
+26        Section 2.  Section  78-27-46 is amended to read:
+
+27         78-27-46.  Financial information privacy -- Notice to person about whom information
+
+28     sought.
+
+29        (1) [In the event] (a)  If a court order is obtained pursuant to Section 78-27-45, the
+
+30    governmental entity that obtained the order shall give notice [thereof shall be given] to the person
+
+31    about whom information is sought within three days of the day on which service of the order is
+
+- 2 -
+
+
+1    made upon the financial institution, but no later than seven days before the day fixed in the order
+
+2    as the day upon which the records are to be produced or examined.
+
+3        (b)  The notice required by Subsection (1)(a) shall be accompanied by:
+
+4        (i)  a copy of the order [which] that has been served upon the financial institution [and];
+
+5        (ii)  a copy of the motion or application upon which [it] the order is based; and [shall be
+
+6    accompanied by]
+
+7        (iii)  a statement setting forth the rights of the person under Section 78-27-47.
+
+8        (2) (a)  The notice shall be sufficient if, on or before the third day after issuance of the
+
+9    order, notice is:
+
+10        (i)  served in the manner provided in Rule 4(e), Utah Rules of Civil Procedure, upon the
+
+11    person entitled to notice[,]; or [is]
+
+12        (ii)  mailed by certified or registered mail to the last-known address of the person. [In the
+
+13    event the]
+
+14        (b)  Notwithstanding Subsection (2)(a), if the person entitled to notice is deceased or under
+
+15    legal disability, notice shall be served upon or mailed to the last-known address of such person's
+
+16    executor, administrator, guardian, or other fiduciary. 
+
+17        Section 3.  Section  78-27-47 is amended to read:
+
+18         78-27-47.  Financial information privacy -- Intervention to challenge or stay order
+
+19     -- Burden on governmental entity.
+
+20        (1)  Notwithstanding any other law or rule of law, any person who is entitled to notice of
+
+21    a court order under Section 78-27-46 shall have the right to intervene in any proceeding with
+
+22    respect to enforcement of the order to challenge the issuance of the order or to stay compliance
+
+23    [therewith] with the order.
+
+24        (2)  Upon intervention, the burden shall be [upon] on the [state, agency, officer,
+
+25    department, bureau or political subdivision] governmental entity obtaining the order to show that
+
+26    there is reasonable cause for the issuance of the order [and that the information sought may further
+
+27    the investigation].
+
+28        Section 4.  Section  78-27-48 is amended to read:
+
+29         78-27-48.  Financial information privacy -- Reimbursement of financial institution
+
+30     for costs of obtaining information.
+
+31        (1)  Any financial institution [which produced] that produces records pursuant to
+
+- 3 -
+
+
+1    permission [or], in compliance with an order obtained under [this act] Sections 78-27-45 through
+
+2    78-27-50, or in compliance with an order of a court of competent jurisdiction shall be entitled to
+
+3    reimbursement by the [party or parties] governmental entity seeking the information, for costs
+
+4    reasonably and directly incurred in searching for, reproducing, or transporting books, papers,
+
+5    records, or other data required to be produced.
+
+6        (2)  The commissioner of financial institutions shall by [regulation] rule establish the rates
+
+7    and conditions under which reimbursement shall be made.
+
+8        Section 5.  Section  78-27-50 is amended to read:
+
+9         78-27-50.  Financial information privacy -- Inapplicable to certain official
+
+10     investigations.
+
+11        (1)  [This chapter shall] Sections 78-27-45 through 78-27-50 do not apply [where] when
+
+12    an examination of records is a part of an official investigation by [any]:
+
+13        (a)  a local police[,];
+
+14        (b)  a sheriff[,];
+
+15        (c)  a peace officer[,];
+
+16        (d)  a city attorney[,];
+
+17        (e)  a county attorney[,];
+
+18        (f)  a district attorney[,];
+
+19        (g)  the attorney general[,];
+
+20        (h)  the Department of Public Safety[,];
+
+21        (i)  the Office of Recovery Services of the Department of Human Services[,];
+
+22        (j)  the Insurance Department[, or]; 
+
+23        (k)  the Department of Commerce; or
+
+24        (l)  the state auditor.
+
+25        [(2)  Any financial institution or its agent or employee making a disclosure of financial
+
+26    records pursuant to any court order, subpoena, administrative subpoena, or other legal process, is
+
+27    not liable to the customer for disclosure.]
+
+28        (2)  If a governmental entity listed in Subsection (1) seeks a record, the entity shall obtain
+
+29    the record as follows:
+
+30        (a)  if the record is a nonprotected record, by request in writing from a representative of the
+
+31    governmental entity that is conducting the official investigation; or
+
+- 4 -
+
+
+1        (b)  if the record is a protected record, by obtaining a subpoena or other legal process:
+
+2        (i)  ordered by a court of competent jurisdiction; and
+
+3        (ii)   served upon the financial institution.
+
+4        (3)  A financial institution may not give notice to any person named or referenced within
+
+5    the record disclosed pursuant to Subsection (1)(a).
+
+6        (4)  A protected record obtained under this section shall be subject to reimbursement from
+
+7    the agency conducting the official investigation for costs reasonably incurred by the financial
+
+8    institution in accordance with Section 78-27-48.
+
+9        Section 6.  Section  78-27-50.5 is enacted to read:
+
+10         78-27-50.5.  Liability of financial institutions.
+
+11        A financial institution is not liable to any person named or referenced within a record for
+
+12    any disclosure that is the result of a subpoena, order, or request made pursuant to Sections
+
+13    78-27-45 through 78-27-50 if the financial institution reasonably believes that the subpoena, order,
+
+14    or request is properly made under Sections 78-27-45 through 78-27-50.
+
+
+
+
+ Legislative Review Note
+    as of   1-27-98  8:37 AM
+
+
+A limited legal review of this bill raises no obvious constitutional or statutory concerns.
+
+ Office of Legislative Research and General Counsel
+
+
+- 5 -
+[Bill Documents][Bills Directory]
+
+
+
+
+
+
+
+
+
+Who represents me?
+
+
+
+
+
+Remember my Legislators
+
+
+
+
+
+State Senate
+		350 North State, Suite 320
+		PO Box 145115
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1035
+		Fax: (801) 326-1475
+
+
+
+House of Representatives
+		350 North State, Suite 350
+		PO Box 145030
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1029
+		Fax: (801) 326-1544
+
+
+
+
+
+
+
+
+
+
+Home
+Mobile Site
+Site Map
+Calendar
+Code / Constitution
+House
+Senate
+
+Terms of Use/Privacy Policy
+
+ADA
+Utah.gov
+
+
+
+
+
+
+

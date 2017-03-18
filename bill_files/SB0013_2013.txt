@@ -1,0 +1,641 @@
+Sponsors: []Modifications: An ignition interlock systemin the state of Utahan ignition interlock systemin the state of UtahFull text:
+
+
+
+Utah State Legislature
+
+
+
+
+
+
+
+
+
+
+
+
+Legislators
+
+By Session (1896-Current)
+Alphabetical (Historical)
+Find by Address/Map
+More
+
+
+Bills
+
+Bills/Bill Requests
+Passed Bills
+2017 Bills
+
+Keyword Search
+Reading Calendars
+Tracking Service
+More
+
+
+Committees
+
+All Committees
+Appropriations
+Commissions
+
+Independent Legislative Ethics Commission
+Interim
+Standing
+Subcommittees
+Task Forces
+Bills In Committees
+
+
+Utah Code / Constitution
+
+
+Title/Chapter/Section
+Keyword Search 
+
+Utah Constitution
+Laws of Utah 1851-ongoing
+Utah Territorial Laws 
+More
+
+
+Senate
+
+Main Page 
+About The Senate 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Extraordinary Sessions 
+Reading Calendars 
+Past Floor Debates 
+Senate Journals 
+
+
+House
+
+Main Page
+About the House 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Reading Calendars 
+Past Floor Debates 
+Journals 
+Conflict of Interest Forms 
+
+
+Legislative Guide 
+
+Legislative Guide
+Civic Programs
+GRAMA (Records Requests)
+
+
+Publications
+
+Search Publications
+Appropriations
+Audits
+Bagels & Briefings
+Briefing Papers
+Digest of Legislation
+Legislative Drafting Manual
+
+Journals
+
+Interim Highlights
+
+Legislative Rules
+GRAMA (Records Requests)
+Public Email
+State Organization Charts
+YouTube Channel
+Requests for Proposals and Legal Notices
+More
+
+
+Legislative Histories
+
+Legislative History Resources
+How to Research
+Bill Drafting/Research Files (1990-Ongoing)
+
+Working Bills (1896-1989)
+Interim Committee Histories (1990-Ongoing) 
+Journals
+Past House Floor Debates
+Past Senate Floor Debates
+More
+
+
+Staff Offices
+
+All Legislative Offices
+Auditor General
+Fiscal Analyst
+Printing
+Research and General Counsel
+Staff Awards
+Job Opportunities
+More
+
+
+Links of Interest
+
+Utah Administrative Rules
+Courts
+Utah State Capitol
+State of Utah
+Federal Legislation
+More
+
+
+
+
+
+
+ 
+
+Download Zipped Enrolled WordPerfect SB0013.ZIP
+[Introduced][Status][Bill Documents][Fiscal Note][Bills Directory]
+
+
+S.B. 13 Enrolled
+
+
+
+
+
+            
+1
+
+    
+ AMENDMENTS TO IGNITION INTERLOCK PROGRAM
+
+
+
+            
+2
+
+    
+2013 GENERAL SESSION
+
+            
+3
+
+    
+STATE OF UTAH
+
+            
+4
+
+    
+
+
+ Chief Sponsor:  Daniel W. Thatcher
+
+
+
+            
+5
+
+    
+
+
+
+House Sponsor:  
+
+
+
+
+
+
+Johnny  Anderson
+
+
+
+
+
+            
+6
+
+    
+
+            
+7
+
+    
+ LONG TITLE
+            
+8
+
+    
+ General Description:
+            
+9
+
+    
+    This bill modifies the Uniform Driver License Act by amending provisions relating to
+            
+10
+
+    
+the ignition interlock program.
+            
+11
+
+    
+ Highlighted Provisions:
+            
+12
+
+    
+    This bill:
+            
+13
+
+    
+    .    provides that the Driver License Division may only clear the suspension for an
+            
+14
+
+    
+ignition interlock violation if the division electronically verifies that the person does
+            
+15
+
+    
+not have a vehicle registered in the person's name in the state of Utah, rather than a
+            
+16
+
+    
+vehicle registered in any state; and
+            
+17
+
+    
+    .    makes technical changes.
+            
+18
+
+    
+ Money Appropriated in this Bill:
+            
+19
+
+    
+    None
+            
+20
+
+    
+ Other Special Clauses:
+            
+21
+
+    
+    None
+            
+22
+
+    
+ Utah Code Sections Affected:
+            
+23
+
+    
+AMENDS:
+            
+24
+
+    
+     53-3-1007, as enacted by Laws of Utah 2011, Chapter 421
+            
+25
+
+    
+
+            
+26
+
+    
+Be it enacted by the Legislature of the state of Utah:
+            
+27
+
+    
+    Section 1.  
+Section  
+53-3-1007
+
+ is amended to read:
+            
+28
+
+    
+     53-3-1007.  Ignition interlock system provider -- Notification to the division upon
+            
+29
+
+    
+ installation or removal of an ignition interlock system -- License suspension or revocation
+
+            
+30
+
+
+    
+ for failure to install or remove.
+            
+31
+
+    
+    (1)  An ignition interlock system provider who installs an ignition interlock system on a
+            
+32
+
+    
+person's vehicle shall:
+            
+33
+
+    
+    (a)  provide proof of installation to the person; and
+            
+34
+
+    
+    (b)  electronically notify the division of installation of an ignition interlock system on
+            
+35
+
+    
+the person's vehicle.
+            
+36
+
+    
+    (2)  [A] An ignition interlock system provider shall electronically notify the division if a
+            
+37
+
+    
+person has removed an ignition interlock system from the person's vehicle.
+            
+38
+
+    
+    (3)  If an individual is an interlock restricted driver, the division shall:
+            
+39
+
+    
+    (a)  suspend the person's driving privilege for the duration of the restriction period as
+            
+40
+
+    
+defined in Section 
+
+41-6a-518.2
+
+;
+            
+41
+
+    
+    (b)  notify the person of the suspension period in place and the requirements for
+            
+42
+
+    
+reinstatement of the driving privilege with respect to the ignition interlock restriction
+            
+43
+
+    
+suspension; and
+            
+44
+
+    
+    (c)  clear the suspension upon:
+            
+45
+
+    
+    (i)  receipt of payment of the fee or fees specified in Section 
+
+53-3-105
+
+; and
+            
+46
+
+    
+    (ii) (A)  receipt of electronic notification from an ignition interlock system provider
+            
+47
+
+    
+showing proof of the installation of an ignition interlock system on the person's vehicle; or
+            
+48
+
+    
+    (B)  electronically verifying that the person does not have a vehicle registered in the
+            
+49
+
+    
+person's name in the state of Utah.
+            
+50
+
+    
+    (4)  By following the emergency procedures in Title 63G, Chapter 4, Administrative
+            
+51
+
+    
+Procedures Act, the division shall suspend the license of any person without hearing and
+            
+52
+
+    
+without receiving a record of the person's conviction of crime seven days after receiving
+            
+53
+
+    
+electronic notification from [a] an ignition interlock system provider that a person has removed
+            
+54
+
+    
+an ignition interlock system from the person's vehicle if the person is an interlock restricted
+            
+55
+
+    
+driver until:
+            
+56
+
+    
+    (a)  the division:
+            
+57
+
+    
+    (i)  receives payment of the fee or fees specified in Section 
+
+53-3-105
+
+; and
+
+            
+58
+
+
+    
+    (ii) (A)  receives electronic notification from an ignition interlock system provider
+            
+59
+
+    
+showing new proof of the installation of an ignition interlock system; or
+            
+60
+
+    
+    (B)  electronically verifies that the person does not have a vehicle registered in the
+            
+61
+
+    
+person's name in the state of Utah; or
+            
+62
+
+    
+    (b)  the person's interlock restricted period has expired.
+            
+63
+
+    
+    (5)  In accordance with Title 63G, Chapter 3, Utah Administrative Rulemaking Act, the
+            
+64
+
+    
+division shall make rules establishing:
+            
+65
+
+    
+    (a)  procedures for certification and regulation of ignition interlock system providers;
+            
+66
+
+    
+    (b)  acceptable documentation for proof of the installation of an ignition interlock
+            
+67
+
+    
+device;
+            
+68
+
+    
+    (c)  procedures for an ignition interlock system provider to electronically notify the
+            
+69
+
+    
+division; and
+            
+70
+
+    
+    (d)  policies and procedures for the administration of the ignition interlock system
+            
+71
+
+    
+program created under this section.
+[Bill Documents][Bills Directory]
+
+
+
+
+
+
+
+
+
+Who represents me?
+
+
+
+
+
+Remember my Legislators
+
+
+
+
+
+State Senate
+		350 North State, Suite 320
+		PO Box 145115
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1035
+		Fax: (801) 326-1475
+
+
+
+House of Representatives
+		350 North State, Suite 350
+		PO Box 145030
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1029
+		Fax: (801) 326-1544
+
+
+
+
+
+
+
+
+
+
+Home
+Mobile Site
+Site Map
+Calendar
+Code / Constitution
+House
+Senate
+
+Terms of Use/Privacy Policy
+
+ADA
+Utah.gov
+
+
+
+
+
+
+

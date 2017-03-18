@@ -1,0 +1,3018 @@
+Sponsors: []Modifications: (z)(aa)(bb)(cc)orFull text:
+
+
+
+Utah State Legislature
+
+
+
+
+
+
+
+
+
+
+
+
+Legislators
+
+By Session (1896-Current)
+Alphabetical (Historical)
+Find by Address/Map
+More
+
+
+Bills
+
+Bills/Bill Requests
+Passed Bills
+2017 Bills
+
+Keyword Search
+Reading Calendars
+Tracking Service
+More
+
+
+Committees
+
+All Committees
+Appropriations
+Commissions
+
+Independent Legislative Ethics Commission
+Interim
+Standing
+Subcommittees
+Task Forces
+Bills In Committees
+
+
+Utah Code / Constitution
+
+
+Title/Chapter/Section
+Keyword Search 
+
+Utah Constitution
+Laws of Utah 1851-ongoing
+Utah Territorial Laws 
+More
+
+
+Senate
+
+Main Page 
+About The Senate 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Extraordinary Sessions 
+Reading Calendars 
+Past Floor Debates 
+Senate Journals 
+
+
+House
+
+Main Page
+About the House 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Reading Calendars 
+Past Floor Debates 
+Journals 
+Conflict of Interest Forms 
+
+
+Legislative Guide 
+
+Legislative Guide
+Civic Programs
+GRAMA (Records Requests)
+
+
+Publications
+
+Search Publications
+Appropriations
+Audits
+Bagels & Briefings
+Briefing Papers
+Digest of Legislation
+Legislative Drafting Manual
+
+Journals
+
+Interim Highlights
+
+Legislative Rules
+GRAMA (Records Requests)
+Public Email
+State Organization Charts
+YouTube Channel
+Requests for Proposals and Legal Notices
+More
+
+
+Legislative Histories
+
+Legislative History Resources
+How to Research
+Bill Drafting/Research Files (1990-Ongoing)
+
+Working Bills (1896-1989)
+Interim Committee Histories (1990-Ongoing) 
+Journals
+Past House Floor Debates
+Past Senate Floor Debates
+More
+
+
+Staff Offices
+
+All Legislative Offices
+Auditor General
+Fiscal Analyst
+Printing
+Research and General Counsel
+Staff Awards
+Job Opportunities
+More
+
+
+Links of Interest
+
+Utah Administrative Rules
+Courts
+Utah State Capitol
+State of Utah
+Federal Legislation
+More
+
+
+
+
+
+
+ 
+
+Download Zipped Enrolled WordPerfect SB0277.ZIP
+[Introduced][Status][Bill Documents][Fiscal Note][Bills Directory]
+
+
+S.B. 277 Enrolled
+
+
+
+
+
+            
+1
+
+    
+ SECURITIES LAW AMENDMENTS
+
+
+
+            
+2
+
+    
+2007 GENERAL SESSION
+
+            
+3
+
+    
+STATE OF UTAH
+
+            
+4
+
+    
+
+
+ Chief Sponsor:  Curtis S. Bramble
+
+
+
+            
+5
+
+    
+
+
+
+House Sponsor:  
+
+
+
+
+
+
+Stephen H. Urquhart
+
+
+
+
+
+            
+6
+
+    
+
+            
+7
+
+    
+ LONG TITLE
+            
+8
+
+    
+ General Description:
+            
+9
+
+    
+    This bill modifies the Utah Uniform Securities Act.
+            
+10
+
+    
+ Highlighted Provisions:
+            
+11
+
+    
+    This bill:
+            
+12
+
+    
+    .    removes the requirement that a broker-dealer notify the division of the failure to
+            
+13
+
+    
+settle certain securities transactions occurring on or after October 1, 2006;
+            
+14
+
+    
+    .    addresses liability for failure to file the notice including waiver of penalties or
+            
+15
+
+    
+amounts owed for reasonable cause;
+            
+16
+
+    
+    .    addresses liability for certain persons if the broker-dealer fails to give the required
+            
+17
+
+    
+notice;
+            
+18
+
+    
+    .    modifies definitions;
+            
+19
+
+    
+    .    addresses causes of action created by the Utah Uniform Securities Act; and
+            
+20
+
+    
+    .    makes technical and conforming changes.
+            
+21
+
+    
+ Monies Appropriated in this Bill:
+            
+22
+
+    
+    None
+            
+23
+
+    
+ Other Special Clauses:
+            
+24
+
+    
+    None
+            
+25
+
+    
+ Utah Code Sections Affected:
+            
+26
+
+    
+AMENDS:
+            
+27
+
+    
+     61-1-5, as last amended by Chapter 4, Laws of Utah 2006, Third Special Session
+            
+28
+
+    
+     61-1-13, as last amended by Chapter 4, Laws of Utah 2006, Third Special Session
+            
+29
+
+    
+     61-1-22, as last amended by Chapter 4, Laws of Utah 2006, Third Special Session
+
+            
+30
+
+
+    
+
+            
+31
+
+    
+Be it enacted by the Legislature of the state of Utah:
+            
+32
+
+    
+    Section 1.  
+Section  
+61-1-5
+
+ is amended to read:
+            
+33
+
+    
+     61-1-5.  Postlicensing provisions.
+            
+34
+
+    
+    (1) (a)  Every licensed broker-dealer and investment adviser shall make and keep such
+            
+35
+
+    
+accounts, correspondence, memoranda, papers, books, and other records as the division by rule
+            
+36
+
+    
+prescribes, except as provided in:
+            
+37
+
+    
+    (i)  Section 15 of the Securities Exchange Act of 1934 in the case of a broker-dealer;
+            
+38
+
+    
+and
+            
+39
+
+    
+    (ii)  Section 222 of the Investment Advisers Act of 1940 in the case of an investment
+            
+40
+
+    
+adviser.
+            
+41
+
+    
+    (b)  All required records regarding an investment adviser shall be preserved for the
+            
+42
+
+    
+period as the division prescribes by rule or order.
+            
+43
+
+    
+    (2) (a)  Every licensed broker-dealer shall, within 24 hours after demand, furnish to any
+            
+44
+
+    
+customer or principal for whom the broker-dealer has executed any order for the purchase or
+            
+45
+
+    
+sale of any securities, either for immediate or future delivery, a written statement showing:
+            
+46
+
+    
+    (i)  the time when the securities were bought and sold;
+            
+47
+
+    
+    (ii)  the place where the securities were bought and sold; and
+            
+48
+
+    
+    (iii)  the price at which the securities were bought and sold.
+            
+49
+
+    
+    (b)  With respect to investment advisers, the division may require that certain
+            
+50
+
+    
+information be furnished or disseminated as necessary or appropriate in the public interest or
+            
+51
+
+    
+for the protection of investors and advisory clients.
+            
+52
+
+    
+    (c)  To the extent determined by the director, information furnished to clients or
+            
+53
+
+    
+prospective clients of an investment adviser who would be in compliance with the Investment
+            
+54
+
+    
+Advisers Act of 1940 and the rules under the Investment Advisers Act of 1940 may be
+            
+55
+
+    
+considered to satisfy this requirement.
+            
+56
+
+    
+    [(d) (i)  A licensed broker-dealer is subject to this Subsection (2)(d) if:]
+            
+57
+
+    
+    [(A)  the licensed broker-dealer is selling or purchasing for:]
+
+            
+58
+
+
+    
+    [(I)  a customer; or]
+            
+59
+
+    
+    [(II)  its own account;]
+            
+60
+
+    
+    [(B)  a trade fails to settle by delivery of securities of like kind and quality;]
+            
+61
+
+    
+    [(C)  the trade is in a threshold security of an issuer:]
+            
+62
+
+    
+    [(I)  domiciled in this state; or]
+            
+63
+
+    
+    [(II)  with its principal office located in this state; and]
+            
+64
+
+    
+    [(D)  the failure to settle described in this Subsection (2)(d) occurs on or after October
+            
+65
+
+    
+1, 2006.]
+            
+66
+
+    
+    [(ii)  If the conditions of Subsection (2)(d)(i) are met, the licensed broker-dealer shall
+            
+67
+
+    
+notify the division:]
+            
+68
+
+    
+    [(A)  within 24 hours of the failure to settle;]
+            
+69
+
+    
+    [(B)  in writing or by a means that the division shall specify by rule made in accordance
+            
+70
+
+    
+with Title 63, Chapter 46a, Utah Administrative Rulemaking Act; and]
+            
+71
+
+    
+    [(C)  of:]
+            
+72
+
+    
+    [(I)  the name of the company whose shares were the subject of the settlement failure;]
+            
+73
+
+    
+    [(II)  the date of the trade that failed to settle;]
+            
+74
+
+    
+    [(III)  the amount of the shares not delivered to settle the trade; and]
+            
+75
+
+    
+    [(IV) (Aa)  in the case of a selling broker-dealer, the identity of the broker-dealer's
+            
+76
+
+    
+customer account or broker-dealer account for which the sell transaction is executed; or]
+            
+77
+
+    
+    [(Bb)  in the case of a broker-dealer purchasing the securities, the identity of the
+            
+78
+
+    
+account that failed to deliver the security in settlement of the trade.]
+            
+79
+
+    
+    [(iii)  The division shall make the information disclosed under Subsection (2)(d)(ii)
+            
+80
+
+    
+available to the public.]
+            
+81
+
+    
+    [(iv) (A)  Subject to Subsection (2)(d)(iv)(C), a broker-dealer who materially fails to
+            
+82
+
+    
+provide the notice required by Subsection (2)(d)(ii) is liable to the company whose securities
+            
+83
+
+    
+were the subject of the settlement failure in the amount of:]
+            
+84
+
+    
+    [(I)  if the failure is for at least one business day but not more than five business days,
+            
+85
+
+    
+$10,000 for each business day the broker-dealer fails to provide the required notice; or]
+
+            
+86
+
+
+    
+    [(II)  if the failure is for six or more business days, the greater of:]
+            
+87
+
+    
+    [(Aa)  $10,000 for each business day; or]
+            
+88
+
+    
+    [(Bb)  the sum of the sales price for each securities share in the subject trade that has
+            
+89
+
+    
+not been delivered in settlement.]
+            
+90
+
+    
+    [(B)  Subject to Subsection (2)(d)(iv)(C), the company described in this Subsection
+            
+91
+
+    
+(2)(d)(iv) may sue at law or in equity to enforce the payment of:]
+            
+92
+
+    
+    [(I)  the amount described in Subsection (2)(d)(iv)(A);]
+            
+93
+
+    
+    [(II)  interest at 12% per year from the day on which the broker-dealer fails to provide
+            
+94
+
+    
+the notice required by Subsection (2)(d)(ii);]
+            
+95
+
+    
+    [(III)  costs; and]
+            
+96
+
+    
+    [(IV)  reasonable attorney's fees.]
+            
+97
+
+    
+    [(C)  The court in an action brought under this Subsection (2)(d)(iv) may waive the
+            
+98
+
+    
+amounts owed under this Subsection (2)(d)(iv), upon a showing by the licensed broker-dealer
+            
+99
+
+    
+who is subject to this Subsection (2)(d) or any person listed in Subsection (2)(d)(v) of
+            
+100
+
+    
+reasonable cause including for any exception provided in Regulation SHO, 17 C.F.R. 242.200
+            
+101
+
+    
+et seq.]
+            
+102
+
+    
+    [(v)  Each of the following is liable jointly and severally with and to the same extent as
+            
+103
+
+    
+a broker-dealer is liable under Subsection (2)(d)(iv):]
+            
+104
+
+    
+    [(A)  a principal of the broker-dealer;]
+            
+105
+
+    
+    [(B)  a person who directly or indirectly controls the broker-dealer;]
+            
+106
+
+    
+    [(C)  a partner, officer, or director of the broker-dealer;]
+            
+107
+
+    
+    [(D)  a person occupying a similar status or performing a similar function to a partner,
+            
+108
+
+    
+officer, or director of the broker-dealer; and]
+            
+109
+
+    
+    [(E)  an employee of the broker-dealer who:]
+            
+110
+
+    
+    [(I)  has a duty to assure the filing of the notice required by Subsection (2)(d)(ii); and]
+            
+111
+
+    
+    [(II)  recklessly fails in that duty.]
+            
+112
+
+    
+    [(vi)  An action may not be maintained to enforce any liability under Subsection
+            
+113
+
+    
+(2)(d)(iv) or (v) unless it is brought before the sooner of the expiration of:]
+
+            
+114
+
+
+    
+    [(A)  four years after the day on which the broker-dealer fails to provide the notice
+            
+115
+
+    
+required by Subsection (2)(d)(ii); or]
+            
+116
+
+    
+    [(B)  two years after the day on which the company bringing the enforcement action
+            
+117
+
+    
+discovers the facts constituting the violation of Subsection (2)(d)(ii).]
+            
+118
+
+    
+    [(vii)  The rights and remedies provided in this Subsection (2)(d) are in addition to any
+            
+119
+
+    
+other rights or remedies that may exist at law or in equity.]
+            
+120
+
+    
+    [(viii)  With regard to any enforcement action the division may take to enforce this
+            
+121
+
+    
+Subsection (2)(d), the division may waive any penalty or amounts owed upon a showing by the
+            
+122
+
+    
+licensed broker-dealer who is subject to this Subsection (2)(d) or any person listed in
+            
+123
+
+    
+Subsection (2)(d)(v) of reasonable cause including for any exception provided in Regulation
+            
+124
+
+    
+SHO, 17 C.F.R. 242.200 et seq.]
+            
+125
+
+    
+    (3)  Every licensed broker-dealer and investment adviser shall file financial reports as
+            
+126
+
+    
+the division by rule prescribes, except as provided in:
+            
+127
+
+    
+    (a)  Section 15 of the Securities Exchange Act of 1934 in the case of a broker-dealer;
+            
+128
+
+    
+and
+            
+129
+
+    
+    (b)  Section 222 of the Investment Advisers Act of 1940 in the case of an investment
+            
+130
+
+    
+adviser.
+            
+131
+
+    
+    (4)  If the information contained in any document filed with the division is or becomes
+            
+132
+
+    
+inaccurate or incomplete in any material respect, the licensee or federal covered adviser shall
+            
+133
+
+    
+promptly file a correcting amendment if the document is filed with respect to a licensee, or
+            
+134
+
+    
+when such amendment is required to be filed with the Securities and Exchange Commission if
+            
+135
+
+    
+the document is filed with respect to a federal covered adviser, unless notification of the
+            
+136
+
+    
+correction has been given under Section 
+
+61-1-3
+
+.
+            
+137
+
+    
+    (5) (a)  All the records referred to in Subsection (1) are subject at any time or from time
+            
+138
+
+    
+to time to reasonable periodic, special, or other examinations by representatives of the division,
+            
+139
+
+    
+within or without this state, as the division considers necessary or appropriate in the public
+            
+140
+
+    
+interest or for the protection of investors.
+            
+141
+
+    
+    (b)  For the purpose of avoiding unnecessary duplication of examination, the division
+
+            
+142
+
+
+    
+may cooperate with:
+            
+143
+
+    
+    (i)  the securities administrators of other states;
+            
+144
+
+    
+    (ii)  the Securities and Exchange Commission; and
+            
+145
+
+    
+    (iii)  national securities exchanges or national securities associations registered under
+            
+146
+
+    
+the Securities Exchange Act of 1934.
+            
+147
+
+    
+    Section 2.  
+Section  
+61-1-13
+
+ is amended to read:
+            
+148
+
+    
+     61-1-13.  Definitions.
+            
+149
+
+    
+    (1)  As used in this chapter:
+            
+150
+
+    
+    (a)  "Affiliate" means a person that, directly or indirectly, through one or more
+            
+151
+
+    
+intermediaries, controls or is controlled by, or is under common control with a person
+            
+152
+
+    
+specified.
+            
+153
+
+    
+    (b) (i)  "Agent" means any individual other than a broker-dealer who represents a
+            
+154
+
+    
+broker-dealer or issuer in effecting or attempting to effect purchases or sales of securities.
+            
+155
+
+    
+    (ii)  "Agent" does not include an individual who represents:
+            
+156
+
+    
+    (A)  an issuer, who receives no commission or other remuneration, directly or
+            
+157
+
+    
+indirectly, for effecting or attempting to effect purchases or sales of securities in this state, and
+            
+158
+
+    
+who  effects transactions:
+            
+159
+
+    
+    (I) in securities exempted by Subsection 
+
+61-1-14
+
+(1)(a), (b), (c), (i), or (j);
+            
+160
+
+    
+    (II) exempted by Subsection 
+
+61-1-14
+
+(2);
+            
+161
+
+    
+    (III) in a covered security as described in Sections 18(b)(3) and 18(b)(4)(D) of the
+            
+162
+
+    
+Securities Act of 1933; or
+            
+163
+
+    
+    (IV) with existing employees, partners, officers, or directors of the issuer; or
+            
+164
+
+    
+    (B)  a broker-dealer in effecting transactions in this state limited to those transactions
+            
+165
+
+    
+described in Section 15(h)(2) of the Securities Exchange Act of 1934.
+            
+166
+
+    
+    (iii)  A partner, officer, or director of a broker-dealer or issuer, or a person occupying a
+            
+167
+
+    
+similar status or performing similar functions, is an agent only if the partner, officer, director,
+            
+168
+
+    
+or person otherwise comes within the definition of "agent."
+            
+169
+
+    
+    (iv)  "Agent" does not include a person described in Subsection (3).
+
+            
+170
+
+
+    
+    (c) (i)  "Broker-dealer" means any person engaged in the business of effecting
+            
+171
+
+    
+transactions in securities for the account of others or for the person's own account.
+            
+172
+
+    
+    (ii)  "Broker-dealer" does not include:
+            
+173
+
+    
+    (A)  an agent;
+            
+174
+
+    
+    (B)  an issuer;
+            
+175
+
+    
+    (C)  a bank, savings institution, or trust company;
+            
+176
+
+    
+    (D)  a person who has no place of business in this state if:
+            
+177
+
+    
+    (I)  the person effects transactions in this state exclusively with or through:
+            
+178
+
+    
+    (Aa)  the issuers of the securities involved in the transactions;
+            
+179
+
+    
+    (Bb)  other broker-dealers; or
+            
+180
+
+    
+    (Cc)  banks, savings institutions, trust companies, insurance companies, investment
+            
+181
+
+    
+companies as defined in the Investment Company Act of 1940, pension or profit-sharing trusts,
+            
+182
+
+    
+or other financial institutions or institutional buyers, whether acting for themselves or as
+            
+183
+
+    
+trustees; or
+            
+184
+
+    
+    (II)  during any period of 12 consecutive months the person does not direct more than
+            
+185
+
+    
+15 offers to sell or buy into this state in any manner to persons other than those specified in
+            
+186
+
+    
+Subsection (1)(c)(ii)(D)(I), whether or not the offeror or any of the offerees is then present in
+            
+187
+
+    
+this state;
+            
+188
+
+    
+    (E)  a general partner who organizes and effects transactions in securities of three or
+            
+189
+
+    
+fewer limited partnerships, of which the person is the general partner, in any period of 12
+            
+190
+
+    
+consecutive months;
+            
+191
+
+    
+    (F)  a person whose participation in transactions in securities is confined to those
+            
+192
+
+    
+transactions made by or through a broker-dealer licensed in this state;
+            
+193
+
+    
+    (G)  a person who is a real estate broker licensed in this state and who effects
+            
+194
+
+    
+transactions in a bond or other evidence of indebtedness secured by a real or chattel mortgage
+            
+195
+
+    
+or deed of trust, or by an agreement for the sale of real estate or chattels, if the entire mortgage,
+            
+196
+
+    
+deed or trust, or agreement, together with all the bonds or other evidences of indebtedness
+            
+197
+
+    
+secured thereby, is offered and sold as a unit;
+
+            
+198
+
+
+    
+    (H)  a person effecting transactions in commodity contracts or commodity options;
+            
+199
+
+    
+    (I)  a person described in Subsection (3); or
+            
+200
+
+    
+    (J)  other persons as the division, by rule or order, may designate, consistent with the
+            
+201
+
+    
+public interest and protection of investors, as not within the intent of this Subsection (1)(c).
+            
+202
+
+    
+    (d)  "Buy" or "purchase" means every contract for purchase of, contract to buy, or
+            
+203
+
+    
+acquisition of a security or interest in a security for value.
+            
+204
+
+    
+    (e)  "Commodity" means, except as otherwise specified by the division by rule:
+            
+205
+
+    
+    (i)  any agricultural, grain, or livestock product or byproduct, except real property or
+            
+206
+
+    
+any timber, agricultural, or livestock product grown or raised on real property and offered or
+            
+207
+
+    
+sold by the owner or lessee of the real property;
+            
+208
+
+    
+    (ii)  any metal or mineral, including a precious metal, except a numismatic coin whose
+            
+209
+
+    
+fair market value is at least 15% greater than the value of the metal it contains;
+            
+210
+
+    
+    (iii)  any gem or gemstone, whether characterized as precious, semi-precious, or
+            
+211
+
+    
+otherwise;
+            
+212
+
+    
+    (iv)  any fuel, whether liquid, gaseous, or otherwise;
+            
+213
+
+    
+    (v)  any foreign currency; and
+            
+214
+
+    
+    (vi)  all other goods, articles, products, or items of any kind, except any work of art
+            
+215
+
+    
+offered or sold by art dealers, at public auction or offered or sold through a private sale by the
+            
+216
+
+    
+owner of the work.
+            
+217
+
+    
+    (f) (i)  "Commodity contract" means any account, agreement, or contract for the
+            
+218
+
+    
+purchase or sale, primarily for speculation or investment purposes and not for use or
+            
+219
+
+    
+consumption by the offeree or purchaser, of one or more commodities, whether for immediate
+            
+220
+
+    
+or subsequent delivery or whether delivery is intended by the parties, and whether characterized
+            
+221
+
+    
+as a cash contract, deferred shipment or deferred delivery contract, forward contract, futures
+            
+222
+
+    
+contract, installment or margin contract, leverage contract, or otherwise.
+            
+223
+
+    
+    (ii)  Any commodity contract offered or sold shall, in the absence of evidence to the
+            
+224
+
+    
+contrary, be presumed to be offered or sold for speculation or investment purposes.
+            
+225
+
+    
+    (iii) (A)  A commodity contract shall not include any contract or agreement which
+
+            
+226
+
+
+    
+requires, and under which the purchaser receives, within 28 calendar days from the payment in
+            
+227
+
+    
+good funds any portion of the purchase price, physical delivery of the total amount of each
+            
+228
+
+    
+commodity to be purchased under the contract or agreement.
+            
+229
+
+    
+    (B)  The purchaser is not considered to have received physical delivery of the total
+            
+230
+
+    
+amount of each commodity to be purchased under the contract or agreement when the
+            
+231
+
+    
+commodity or commodities are held as collateral for a loan or are subject to a lien of any
+            
+232
+
+    
+person when the loan or lien arises in connection with the purchase of each commodity or
+            
+233
+
+    
+commodities.
+            
+234
+
+    
+    (g) (i)  "Commodity option" means any account, agreement, or contract giving a party
+            
+235
+
+    
+to the option the right but not the obligation to purchase or sell one or more commodities or
+            
+236
+
+    
+one or more commodity contracts, or both whether characterized as an option, privilege,
+            
+237
+
+    
+indemnity, bid, offer, put, call, advance guaranty, decline guaranty, or otherwise.
+            
+238
+
+    
+    (ii)  "Commodity option" does not include an option traded on a national securities
+            
+239
+
+    
+exchange registered:
+            
+240
+
+    
+    (A)  with the United States Securities and Exchange Commission; or
+            
+241
+
+    
+    (B)  on a board of trade designated as a contract market by the Commodity Futures
+            
+242
+
+    
+Trading Commission.
+            
+243
+
+    
+    (h)  "Director" means the director of the Division of Securities charged with the
+            
+244
+
+    
+administration and enforcement of this chapter.
+            
+245
+
+    
+    (i)  "Division" means the Division of Securities established by Section 
+
+61-1-18
+
+.
+            
+246
+
+    
+    (j)  "Executive director" means the executive director of the Department of Commerce.
+            
+247
+
+    
+    (k)  "Federal covered adviser" means a person who:
+            
+248
+
+    
+    (i)  is registered under Section 203 of the Investment Advisers Act of 1940; or
+            
+249
+
+    
+    (ii)  is excluded from the definition of "investment adviser" under Section 202(a)(11) of
+            
+250
+
+    
+the Investment Advisers Act of 1940.
+            
+251
+
+    
+    (l)  "Federal covered security" means any security that is a covered security under
+            
+252
+
+    
+Section 18(b) of the Securities Act of 1933 or rules or regulations promulgated under Section
+            
+253
+
+    
+18(b) of the Securities Act of 1933.
+
+            
+254
+
+
+    
+    (m)  "Fraud," "deceit," and "defraud" are not limited to their common-law meanings.
+            
+255
+
+    
+    (n)  "Guaranteed" means guaranteed as to payment of principal or interest as to debt
+            
+256
+
+    
+securities, or dividends as to equity securities.
+            
+257
+
+    
+    (o) (i)  "Investment adviser" means any person who:
+            
+258
+
+    
+    (A)  for compensation, engages in the business of advising others, either directly or
+            
+259
+
+    
+through publications or writings, as to the value of securities or as to the advisability of
+            
+260
+
+    
+investing in, purchasing, or selling securities; or
+            
+261
+
+    
+    (B)  for compensation and as a part of a regular business, issues or promulgates
+            
+262
+
+    
+analyses or reports concerning securities.
+            
+263
+
+    
+    (ii)  "Investment adviser" includes financial planners and other persons who:
+            
+264
+
+    
+    (A)  as an integral component of other financially related services, provide the
+            
+265
+
+    
+investment advisory services described in Subsection (1)(o)(i) to others for compensation and
+            
+266
+
+    
+as part of a business; or
+            
+267
+
+    
+    (B)  hold themselves out as providing the investment advisory services described in
+            
+268
+
+    
+Subsection (1)(o)(i) to others for compensation.
+            
+269
+
+    
+    (iii)  "Investment adviser" does not include:
+            
+270
+
+    
+    (A)  an investment adviser representative;
+            
+271
+
+    
+    (B)  a bank, savings institution, or trust company;
+            
+272
+
+    
+    (C)  a lawyer, accountant, engineer, or teacher whose performance of these services is
+            
+273
+
+    
+solely incidental to the practice of his profession;
+            
+274
+
+    
+    (D)  a broker-dealer or its agent whose performance of these services is solely
+            
+275
+
+    
+incidental to the conduct of its business as a broker-dealer and who receives no special
+            
+276
+
+    
+compensation for the services;
+            
+277
+
+    
+    (E)  a publisher of any bona fide newspaper, news column, news letter, news magazine,
+            
+278
+
+    
+or business or financial publication or service, of general, regular, and paid circulation, whether
+            
+279
+
+    
+communicated in hard copy form, or by electronic means, or otherwise, that does not consist of
+            
+280
+
+    
+the rendering of advice on the basis of the specific investment situation of each client;
+            
+281
+
+    
+    (F)  any person who is a federal covered adviser;
+
+            
+282
+
+
+    
+    (G)  a person described in Subsection (3); or
+            
+283
+
+    
+    (H)  such other persons not within the intent of this Subsection (1)(o) as the division
+            
+284
+
+    
+may by rule or order designate.
+            
+285
+
+    
+    (p) (i)  "Investment adviser representative" means any partner, officer, director of, or a
+            
+286
+
+    
+person occupying a similar status or performing similar functions, or other individual, except
+            
+287
+
+    
+clerical or ministerial personnel, who:
+            
+288
+
+    
+    (A) (I)  is employed by or associated with an investment adviser who is licensed or
+            
+289
+
+    
+required to be licensed under this chapter; or
+            
+290
+
+    
+    (II)  has a place of business located in this state and is employed by or associated with a
+            
+291
+
+    
+federal covered adviser; and
+            
+292
+
+    
+    (B)  does any of the following:
+            
+293
+
+    
+    (I)  makes any recommendations or otherwise renders advice regarding securities;
+            
+294
+
+    
+    (II)  manages accounts or portfolios of clients;
+            
+295
+
+    
+    (III)  determines which recommendation or advice regarding securities should be given;
+            
+296
+
+    
+    (IV)  solicits, offers, or negotiates for the sale of or sells investment advisory services;
+            
+297
+
+    
+or
+            
+298
+
+    
+    (V)  supervises employees who perform any of the acts described in this Subsection
+            
+299
+
+    
+(1)(p)(i)(B).
+            
+300
+
+    
+    (ii)  "Investment advisor representative" does not include a person described in
+            
+301
+
+    
+Subsection (3).
+            
+302
+
+    
+    (q) (i)  "Issuer" means any person who issues or proposes to issue any security or has
+            
+303
+
+    
+outstanding a security that it has issued.
+            
+304
+
+    
+    (ii)  With respect to a preorganization certificate or subscription, "issuer" means the
+            
+305
+
+    
+promoter or the promoters of the person to be organized.
+            
+306
+
+    
+    (iii)  "Issuer" means the person or persons performing the acts and assuming duties of a
+            
+307
+
+    
+depositor or manager under the provisions of the trust or other agreement or instrument under
+            
+308
+
+    
+which the security is issued with respect to:
+            
+309
+
+    
+    (A)  interests in trusts, including collateral trust certificates, voting trust certificates, and
+
+            
+310
+
+
+    
+certificates of deposit for securities; or
+            
+311
+
+    
+    (B)  shares in an investment company without a board of directors.
+            
+312
+
+    
+    (iv)  With respect to an equipment trust certificate, a conditional sales contract, or
+            
+313
+
+    
+similar securities serving the same purpose, "issuer" means the person by whom the equipment
+            
+314
+
+    
+or property is to be used.
+            
+315
+
+    
+    (v)  With respect to interests in partnerships, general or limited, "issuer" means the
+            
+316
+
+    
+partnership itself and not the general partner or partners.
+            
+317
+
+    
+    (vi)  With respect to certificates of interest or participation in oil, gas, or mining titles or
+            
+318
+
+    
+leases or in payment out of production under the titles or leases, "issuer" means the owner of
+            
+319
+
+    
+the title or lease or right of production, whether whole or fractional, who creates fractional
+            
+320
+
+    
+interests therein for the purpose of sale.
+            
+321
+
+    
+    (r)  "Nonissuer" means not directly or indirectly for the benefit of the issuer.
+            
+322
+
+    
+    (s)  "Person" means:
+            
+323
+
+    
+    (i)  an individual;
+            
+324
+
+    
+    (ii)  a corporation;
+            
+325
+
+    
+    (iii)  a partnership;
+            
+326
+
+    
+    (iv)  a limited liability company;
+            
+327
+
+    
+    (v)  an association;
+            
+328
+
+    
+    (vi)  a joint-stock company;
+            
+329
+
+    
+    (vii)  a joint venture;
+            
+330
+
+    
+    (viii)  a trust where the interests of the beneficiaries are evidenced by a security;
+            
+331
+
+    
+    (ix)  an unincorporated organization;
+            
+332
+
+    
+    (x)  a government; or
+            
+333
+
+    
+    (xi)  a political subdivision of a government.
+            
+334
+
+    
+    (t)  "Precious metal" means the following, whether in coin, bullion, or other form:
+            
+335
+
+    
+    (i)  silver;
+            
+336
+
+    
+    (ii)  gold;
+            
+337
+
+    
+    (iii)  platinum;
+
+            
+338
+
+
+    
+    (iv)  palladium;
+            
+339
+
+    
+    (v)  copper; and
+            
+340
+
+    
+    (vi)  such other substances as the division may specify by rule.
+            
+341
+
+    
+    (u)  "Promoter" means any person who, acting alone or in concert with one or more
+            
+342
+
+    
+persons, takes initiative in founding or organizing the business or enterprise of a person.
+            
+343
+
+    
+    (v) (i)  "Sale" or "sell" includes every contract for sale of, contract to sell, or disposition
+            
+344
+
+    
+of, a security or interest in a security for value.
+            
+345
+
+    
+    (ii)  "Offer" or "offer to sell" includes every attempt or offer to dispose of, or
+            
+346
+
+    
+solicitation of an offer to buy, a security or interest in a security for value.
+            
+347
+
+    
+    (iii)  The following are examples of the definitions in Subsection (1)(v)(i) or (ii):
+            
+348
+
+    
+    (A)  any security given or delivered with or as a bonus on account of any purchase of a
+            
+349
+
+    
+security or any other thing, is part of the subject of the purchase, and has been offered and sold
+            
+350
+
+    
+for value;
+            
+351
+
+    
+    (B)  a purported gift of assessable stock is an offer or sale as is each assessment levied
+            
+352
+
+    
+on the stock;
+            
+353
+
+    
+    (C)  an offer or sale of a security that is convertible into, or entitles its holder to acquire
+            
+354
+
+    
+or subscribe to another security of the same or another issuer is an offer or sale of that security,
+            
+355
+
+    
+and also an offer of the other security, whether the right to convert or acquire is exercisable
+            
+356
+
+    
+immediately or in the future;
+            
+357
+
+    
+    (D)  any conversion or exchange of one security for another shall constitute an offer or
+            
+358
+
+    
+sale of the security received in a conversion or exchange, and the offer to buy or the purchase
+            
+359
+
+    
+of the security converted or exchanged;
+            
+360
+
+    
+    (E)  securities distributed as a dividend wherein the person receiving the dividend
+            
+361
+
+    
+surrenders the right, or the alternative right, to receive a cash or property dividend is an offer or
+            
+362
+
+    
+sale;
+            
+363
+
+    
+    (F)  a dividend of a security of another issuer is an offer or sale; or
+            
+364
+
+    
+    (G)  the issuance of a security under a merger, consolidation, reorganization,
+            
+365
+
+    
+recapitalization, reclassification, or acquisition of assets shall constitute the offer or sale of the
+
+            
+366
+
+
+    
+security issued as well as the offer to buy or the purchase of any security surrendered in
+            
+367
+
+    
+connection therewith, unless the sole purpose of the transaction is to change the issuer's
+            
+368
+
+    
+domicile.
+            
+369
+
+    
+    (iv)  The terms defined in Subsections (1)(v)(i) and (ii) do not include:
+            
+370
+
+    
+    (A)  a good faith gift;
+            
+371
+
+    
+    (B)  a transfer by death;
+            
+372
+
+    
+    (C)  a transfer by termination of a trust or of a beneficial interest in a trust;
+            
+373
+
+    
+    (D)  a security dividend not within Subsection (1)(v)(iii)(E) or (F);
+            
+374
+
+    
+    (E)  a securities split or reverse split; or
+            
+375
+
+    
+    (F)  any act incident to a judicially approved reorganization in which a security is issued
+            
+376
+
+    
+in exchange for one or more outstanding securities, claims, or property interests, or partly in
+            
+377
+
+    
+such exchange and partly for cash.
+            
+378
+
+    
+    (w)  "Securities Act of 1933," "Securities Exchange Act of 1934," "Public Utility
+            
+379
+
+    
+Holding Company Act of 1935," and "Investment Company Act of 1940" mean the federal
+            
+380
+
+    
+statutes of those names as amended before or after the effective date of this chapter.
+            
+381
+
+    
+    (x) (i)  "Security" means any:
+            
+382
+
+    
+    (A)  note;
+            
+383
+
+    
+    (B)  stock;
+            
+384
+
+    
+    (C)  treasury stock;
+            
+385
+
+    
+    (D)  bond;
+            
+386
+
+    
+    (E)  debenture;
+            
+387
+
+    
+    (F)  evidence of indebtedness;
+            
+388
+
+    
+    (G)  certificate of interest or participation in any profit-sharing agreement;
+            
+389
+
+    
+    (H)  collateral-trust certificate;
+            
+390
+
+    
+    (I)  preorganization certificate or subscription;
+            
+391
+
+    
+    (J)  transferable share;
+            
+392
+
+    
+    (K)  investment contract;
+            
+393
+
+    
+    (L)  burial certificate or burial contract;
+
+            
+394
+
+
+    
+    (M)  voting-trust certificate;
+            
+395
+
+    
+    (N)  certificate of deposit for a security;
+            
+396
+
+    
+    (O)  certificate of interest or participation in an oil, gas, or mining title or lease or in
+            
+397
+
+    
+payments out of production under such a title or lease;
+            
+398
+
+    
+    (P)  commodity contract or commodity option;
+            
+399
+
+    
+    (Q)  interest in a limited liability company;
+            
+400
+
+    
+    (R)  viatical settlement interest; or
+            
+401
+
+    
+    (S)  in general, any interest or instrument commonly known as a "security," or any
+            
+402
+
+    
+certificate of interest or participation in, temporary or interim certificate for, receipt for,
+            
+403
+
+    
+guarantee of, or warrant or right to subscribe to or purchase any of the foregoing.
+            
+404
+
+    
+    (ii)  "Security" does not include any:
+            
+405
+
+    
+    (A)  insurance or endowment policy or annuity contract under which an insurance
+            
+406
+
+    
+company promises to pay money in a lump sum or periodically for life or some other specified
+            
+407
+
+    
+period;
+            
+408
+
+    
+    (B)  interest in a limited liability company in which the limited liability company is
+            
+409
+
+    
+formed as part of an estate plan where all of the members are related by blood or marriage,
+            
+410
+
+    
+there are five or fewer members, or the person claiming this exception can prove that all of the
+            
+411
+
+    
+members are actively engaged in the management of the limited liability company; or
+            
+412
+
+    
+    (C) (I)  a whole long-term estate in real property;
+            
+413
+
+    
+    (II)  an  undivided fractionalized long-term estate in real property that consists of ten or
+            
+414
+
+    
+fewer owners; or
+            
+415
+
+    
+    (III)  an undivided fractionalized long-term estate in real property that consists of more
+            
+416
+
+    
+than ten owners if, when the real property estate is subject to a management agreement:
+            
+417
+
+    
+    (Aa)  the management agreement permits a simple majority of owners of the real
+            
+418
+
+    
+property estate to not renew or to terminate the management agreement at the earlier of the end
+            
+419
+
+    
+of the management agreement's current term, or 180 days after the day on which the owners
+            
+420
+
+    
+give notice of termination to the manager;
+            
+421
+
+    
+    (Bb)  the management agreement prohibits, directly or indirectly, the lending of the
+
+            
+422
+
+
+    
+proceeds earned from the real property estate or the use or pledge of its assets to any person or
+            
+423
+
+    
+entity affiliated with or under common control of the manager; and
+            
+424
+
+    
+    (Cc)  the management agreement complies with any other requirement imposed by rule
+            
+425
+
+    
+by the Real Estate Commission under Section 
+
+61-2-26
+
+.
+            
+426
+
+    
+     (iii)  For purposes of Subsection (1)(x)(ii)(B), evidence that members vote or have the
+            
+427
+
+    
+right to vote, or the right to information concerning the business and affairs of the limited
+            
+428
+
+    
+liability company, or the right to participate in management, shall not establish, without more,
+            
+429
+
+    
+that all members are actively engaged in the management of the limited liability company.
+            
+430
+
+    
+    (y)  "State" means any state, territory, or possession of the United States, the District of
+            
+431
+
+    
+Columbia, and Puerto Rico.
+            
+432
+
+    
+    [(z)  "Threshold security" means a security that is a threshold security under Regulation
+            
+433
+
+    
+SHO, 17 C.F.R. 242.200 et seq.]
+            
+434
+
+    
+    [(aa)] (z) (i)  "Undivided fractionalized long-term estate" means an ownership interest
+            
+435
+
+    
+in real property by two or more persons that is a:
+            
+436
+
+    
+    (A)  tenancy in common; or
+            
+437
+
+    
+    (B)  any other legal form of undivided estate in real property including:
+            
+438
+
+    
+    (I)  a fee estate;
+            
+439
+
+    
+    (II)  a life estate; or
+            
+440
+
+    
+    (III)  other long-term estate.
+            
+441
+
+    
+    (ii)  "Undivided fractionalized long-term estate" does not include a joint tenancy.
+            
+442
+
+    
+    [(bb)] (aa) (i)  "Viatical settlement interest" means the entire interest or any fractional
+            
+443
+
+    
+interest in any of the following that is the subject of a viatical settlement:
+            
+444
+
+    
+    (A)  a life insurance policy; or
+            
+445
+
+    
+    (B)  the death benefit under a life insurance policy.
+            
+446
+
+    
+    (ii)  "Viatical settlement interest" does not include the initial purchase from the viator
+            
+447
+
+    
+by a provider of viatical settlements.
+            
+448
+
+    
+    [(cc)] (bb)  "Whole long-term estate" means a person or persons through joint tenancy
+            
+449
+
+    
+owns real property through:
+
+            
+450
+
+
+    
+    (i)  a fee estate;
+            
+451
+
+    
+    (ii)  a life estate; or
+            
+452
+
+    
+    (iii)  other long-term estate.
+            
+453
+
+    
+    [(dd)] (cc)  "Working days" means 8 a.m. to 5 p.m., Monday through Friday, exclusive
+            
+454
+
+    
+of legal holidays listed in Section 
+
+63-13-2
+
+.
+            
+455
+
+    
+    (2)  A term not defined in this section shall have the meaning as established by division
+            
+456
+
+    
+rule.  The meaning of a term neither defined in this section nor by rule of the division shall be
+            
+457
+
+    
+the meaning commonly accepted in the business community.
+            
+458
+
+    
+    (3) (a)  This Subsection (3) applies to:
+            
+459
+
+    
+    (i)  the offer or sale of a real property estate exempted from the definition of security
+            
+460
+
+    
+under Subsection (1)(x)(ii)(C); or
+            
+461
+
+    
+    (ii)  the offer or sale of an undivided fractionalized long-term estate that is the offer of a
+            
+462
+
+    
+security.
+            
+463
+
+    
+    (b)  A person who, directly or indirectly receives compensation in connection with the
+            
+464
+
+    
+offer or sale as provided in this Subsection (3) of a real property estate is not an agent,
+            
+465
+
+    
+broker-dealer, investment adviser, or investor adviser representative under this chapter if that
+            
+466
+
+    
+person is licensed under Chapter 2, Division of Real Estate, as:
+            
+467
+
+    
+    (i)  a principal real estate broker;
+            
+468
+
+    
+    (ii)  an associate real estate broker; or
+            
+469
+
+    
+    (iii)  a real estate sales agent.
+            
+470
+
+    
+    (4)  The list of real property estates excluded from the definition of securities under
+            
+471
+
+    
+Subsection (1)(x)(ii)(C) is not an exclusive list of real property estates or interests that are not a
+            
+472
+
+    
+security.
+            
+473
+
+    
+    Section 3.  
+Section  
+61-1-22
+
+ is amended to read:
+            
+474
+
+    
+     61-1-22.  Sales and purchases in violation -- Remedies -- Limitation of actions.
+            
+475
+
+    
+    (1) (a)  A person who offers or sells a security in violation of Subsection 
+
+61-1-3
+
+(1),
+            
+476
+
+    
+Section 
+
+61-1-7
+
+, Subsection 
+
+61-1-17
+
+(2), any rule or order under Section 
+
+61-1-15
+
+, which requires
+            
+477
+
+    
+the affirmative approval of sales literature before it is used, any condition imposed under
+
+            
+478
+
+
+    
+Subsection 
+
+61-1-10
+
+(4) or 
+
+61-1-11
+
+(7), or offers, sells, or purchases a security in violation of
+            
+479
+
+    
+Subsection 
+
+61-1-1
+
+(2) is liable to the person selling the security to or buying the security from
+            
+480
+
+    
+him, who may sue either at law or in equity to recover the consideration paid for the security,
+            
+481
+
+    
+together with interest at 12% per year from the date of payment, costs, and reasonable
+            
+482
+
+    
+attorney's fees, less the amount of any income received on the security, upon the tender of the
+            
+483
+
+    
+security or for damages if he no longer owns the security.
+            
+484
+
+    
+    (b)  Damages are the amount that would be recoverable upon a tender less the value of
+            
+485
+
+    
+the security when the buyer disposed of it and interest at 12% per year from the date of
+            
+486
+
+    
+disposition.
+            
+487
+
+    
+    (2)  The court in a suit brought under Subsection (1) may award an amount equal to
+            
+488
+
+    
+three times the consideration paid for the security, together with interest, costs, and attorney's
+            
+489
+
+    
+fees, less any amounts, all as specified in Subsection (1) upon a showing that the violation was
+            
+490
+
+    
+reckless or intentional.
+            
+491
+
+    
+    (3)  A person who offers or sells a security in violation of Subsection 
+
+61-1-1
+
+(2) is not
+            
+492
+
+    
+liable under Subsection (1)(a) if the purchaser knew of the untruth or omission, or the seller did
+            
+493
+
+    
+not know and in the exercise of reasonable care could not have known of the untrue statement
+            
+494
+
+    
+or misleading omission.
+            
+495
+
+    
+    (4) (a)  Every person who directly or indirectly controls a seller or buyer liable under
+            
+496
+
+    
+Subsection (1), every partner, officer, or director of such a seller or buyer, every person
+            
+497
+
+    
+occupying a similar status or performing similar functions, every employee of such a seller or
+            
+498
+
+    
+buyer who materially aids in the sale or purchase, and every broker-dealer or agent who
+            
+499
+
+    
+materially aids in the sale are also liable jointly and severally with and to the same extent as the
+            
+500
+
+    
+seller or purchaser, unless the nonseller or nonpurchaser who is so liable sustains the burden of
+            
+501
+
+    
+proof that he did not know, and in exercise of reasonable care could not have known, of the
+            
+502
+
+    
+existence of the facts by reason of which the liability is alleged to exist.
+            
+503
+
+    
+    (b)  There is contribution as in cases of contract among the several persons so liable.
+            
+504
+
+    
+    (5)  Any tender specified in this section may be made at any time before entry of
+            
+505
+
+    
+judgment.
+
+            
+506
+
+
+    
+    (6)  A cause of action under this section survives the death of any person who might
+            
+507
+
+    
+have been a plaintiff or defendant.
+            
+508
+
+    
+    (7) (a)  No action shall be maintained to enforce any liability under this section unless
+            
+509
+
+    
+brought before the expiration of four years after the act or transaction constituting the violation
+            
+510
+
+    
+or the expiration of two years after the discovery by the plaintiff of the facts constituting the
+            
+511
+
+    
+violation, whichever expires first.
+            
+512
+
+    
+    (b)  No person may sue under this section if:
+            
+513
+
+    
+    (i)  the buyer or seller received a written offer, before suit and at a time when he owned
+            
+514
+
+    
+the security, to refund the consideration paid together with interest at 12% per year from the
+            
+515
+
+    
+date of payment, less the amount of any income received on the security, and he failed to
+            
+516
+
+    
+accept the offer within 30 days of its receipt; or
+            
+517
+
+    
+    (ii)  the buyer or seller received such an offer before suit and at a time when he did not
+            
+518
+
+    
+own the security, unless he rejected the offer in writing within 30 days of its receipt.
+            
+519
+
+    
+    (8)  No person who has made or engaged in the performance of any contract in violation
+            
+520
+
+    
+of this chapter or any rule or order hereunder, or who has acquired any purported right under
+            
+521
+
+    
+any such contract with knowledge of the facts by reason of which its making or performance
+            
+522
+
+    
+was in violation, may base any suit on the contract.
+            
+523
+
+    
+    (9)  A condition, stipulation, or provision binding a person acquiring a security to waive
+            
+524
+
+    
+compliance with this chapter or a rule or order hereunder is void.
+            
+525
+
+    
+    (10) (a)  The rights and remedies provided by this chapter are in addition to any other
+            
+526
+
+    
+rights or remedies that may exist at law or in equity.
+            
+527
+
+    
+    (b)  This chapter does not create any cause of action not specified in this section[,] or
+            
+528
+
+    
+Subsection 
+
+61-1-4
+
+(6)[, or Subsection 
+
+61-1-5
+
+(2)].
+[Bill Documents][Bills Directory]
+
+
+
+
+
+
+
+
+
+Who represents me?
+
+
+
+
+
+Remember my Legislators
+
+
+
+
+
+State Senate
+		350 North State, Suite 320
+		PO Box 145115
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1035
+		Fax: (801) 326-1475
+
+
+
+House of Representatives
+		350 North State, Suite 350
+		PO Box 145030
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1029
+		Fax: (801) 326-1544
+
+
+
+
+
+
+
+
+
+
+Home
+Mobile Site
+Site Map
+Calendar
+Code / Constitution
+House
+Senate
+
+Terms of Use/Privacy Policy
+
+ADA
+Utah.gov
+
+
+
+
+
+
+

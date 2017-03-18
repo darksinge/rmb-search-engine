@@ -1,0 +1,841 @@
+Sponsors: []Modifications: (e)  "Federal adjusted gross income" is as defined in Section 62, Internal Revenue Code.(f)(g)(h)(i)(j)(k)(l)(m)(n)(1)(2)(3) (a)  For taxable years beginning on or after January 1, 1999, the commission shallincrease or decrease:(i)  the individual income tax brackets under Subsections (1) and (2) in a percentage equalto the percentage difference between the consumer price index for the preceding calendar year andthe consumer price index for calendar year 1997; and(ii)  to the extent necessary to reflect the increase or decrease in the individual income taxbrackets under Subsection (3)(a)(i), the amount of tax under Subsections (1) and (2) prior to addingin the portion of the tax calculated as a percentage of state taxable income.(b)  The commission may not increase or decrease the rate percentages provided inSubsections (1) and (2).(c)  For purposes of Subsection (3)(a)(i), the commission shall calculate the consumer priceindex as provided in Section (1)(f)(4) and (1)(f)(5), Internal Revenue Code.(i)  for a taxpayer having a federal adjusted gross income of greater than $100,000 inthe taxable year for which the taxpayer files a return,exemptionunder Section 151,or(ii)  for a taxpayer having a federal adjusted gross income of $100,000 or less in the taxableyear for which the taxpayer files a return, 10 % of the personal exemption calculated under Section151, Internal Revenue Code;Part 3, DefinitionsPart 3, DefinitionsThis act has retrospective operation for taxable years beginning on or after January 1, 1998.Full text:
+
+
+
+Utah State Legislature
+
+
+
+
+
+
+
+
+
+
+
+
+Legislators
+
+By Session (1896-Current)
+Alphabetical (Historical)
+Find by Address/Map
+More
+
+
+Bills
+
+Bills/Bill Requests
+Passed Bills
+2017 Bills
+
+Keyword Search
+Reading Calendars
+Tracking Service
+More
+
+
+Committees
+
+All Committees
+Appropriations
+Commissions
+
+Independent Legislative Ethics Commission
+Interim
+Standing
+Subcommittees
+Task Forces
+Bills In Committees
+
+
+Utah Code / Constitution
+
+
+Title/Chapter/Section
+Keyword Search 
+
+Utah Constitution
+Laws of Utah 1851-ongoing
+Utah Territorial Laws 
+More
+
+
+Senate
+
+Main Page 
+About The Senate 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Extraordinary Sessions 
+Reading Calendars 
+Past Floor Debates 
+Senate Journals 
+
+
+House
+
+Main Page
+About the House 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Reading Calendars 
+Past Floor Debates 
+Journals 
+Conflict of Interest Forms 
+
+
+Legislative Guide 
+
+Legislative Guide
+Civic Programs
+GRAMA (Records Requests)
+
+
+Publications
+
+Search Publications
+Appropriations
+Audits
+Bagels & Briefings
+Briefing Papers
+Digest of Legislation
+Legislative Drafting Manual
+
+Journals
+
+Interim Highlights
+
+Legislative Rules
+GRAMA (Records Requests)
+Public Email
+State Organization Charts
+YouTube Channel
+Requests for Proposals and Legal Notices
+More
+
+
+Legislative Histories
+
+Legislative History Resources
+How to Research
+Bill Drafting/Research Files (1990-Ongoing)
+
+Working Bills (1896-1989)
+Interim Committee Histories (1990-Ongoing) 
+Journals
+Past House Floor Debates
+Past Senate Floor Debates
+More
+
+
+Staff Offices
+
+All Legislative Offices
+Auditor General
+Fiscal Analyst
+Printing
+Research and General Counsel
+Staff Awards
+Job Opportunities
+More
+
+
+Links of Interest
+
+Utah Administrative Rules
+Courts
+Utah State Capitol
+State of Utah
+Federal Legislation
+More
+
+
+
+
+
+
+ 
+
+Download Zipped Introduced WP 6.1 HB0066.ZIP 16,158 Bytes
+[Status][Bill Documents][Fiscal Note][Bills Directory]
+
+
+H.B. 66
+
+
+
+
+
+
+
+
+
+1     INCOME TAX - AMENDMENTS
+
+
+
+
+2    1998 GENERAL SESSION
+
+
+3    STATE OF UTAH
+
+
+4     Sponsor: David M. Jones
+
+
+5    AN ACT RELATING TO INCOME TAX; DEFINING FEDERAL ADJUSTED GROSS
+
+6    INCOME; REDUCING FOR CERTAIN TAXPAYERS THE AMOUNT OF THE FEDERAL
+
+7    PERSONAL EXEMPTION ADDED TO FEDERAL TAXABLE INCOME; ADJUSTING
+
+8    INCOME TAX BRACKETS FOR INFLATION; MAKING TECHNICAL CHANGES; AND
+
+9    PROVIDING FOR RETROSPECTIVE OPERATION.
+
+10    This act affects sections of Utah Code Annotated 1953 as follows:
+
+11    AMENDS:
+
+12         59-10-103, as last amended by Chapter 345, Laws of Utah 1995
+
+13         59-10-104, as last amended by Chapter 333, Laws of Utah 1996
+
+14         59-10-114, as last amended by Chapter 56, Laws of Utah 1997
+
+15    Be it enacted by the Legislature of the state of Utah:
+
+16        Section 1.  Section  59-10-103 is amended to read:
+
+17         59-10-103.  Definitions.  
+
+18        (1)  As used in this chapter:
+
+19        (a)  "Adult with a disability" means a person over 21 years of age who is eligible for
+
+20    services under Title 62A, Chapter 5, Services to People with Disabilities.
+
+21        (b)  "Corporation" includes associations, joint stock companies, and insurance companies.
+
+22        (c)  "Dependent child with a disability" means a person 21 years of age or younger who is:
+
+23        (i)  diagnosed by a school district representative under rules adopted by the State Board of
+
+24    Education as having a disability classified as autism, deafness, developmental delay (preschool),
+
+25    dual sensory impairment (deaf/blind), hearing impairment, intellectual disability, multidisability,
+
+26    orthopedic impairment, other health impairment, traumatic brain injury, or visual impairment, who
+
+27    is not receiving residential services from the Division of Services for People with Disabilities or
+
+
+1    the schools for the deaf and blind, but is enrolled in a school district's special education program
+
+2    funded under Section 53A-17a-111, or in the schools for the deaf and blind; or
+
+3        (ii)  identified under guidelines of the Department of Health as qualified for Early
+
+4    Intervention or Infant Development Services.
+
+5        (d)  "Employer," "employee," and "wages" are defined as provided in Section 59-10-401.
+
+6        (e)  "Federal adjusted gross income" is as defined in Section 62, Internal Revenue Code.
+
+7        [(e)] (f)  "Fiduciary" means a guardian, trustee, executor, administrator, receiver,
+
+8    conservator, or any person acting in any fiduciary capacity for any individual.
+
+9        [(f)] (g)  "Individual" means a natural person and includes aliens and minors.
+
+10        [(g)] (h)  "Nonresident individual" means an individual who is not a resident of this state.
+
+11        [(h)] (i)  "Nonresident trust" or "nonresident estate" means a trust or estate which is not a
+
+12    resident estate or trust.
+
+13        [(i)] (j) (i)  "Partnership" includes a syndicate, group, pool, joint venture, or other
+
+14    unincorporated organization, through or by means of which any business, financial operation, or
+
+15    venture is carried on, and which is not, within the meaning of this chapter, a trust or estate or a
+
+16    corporation.
+
+17        (ii)  "Partnership" does not include any organization not included under the definition of
+
+18    "partnership" contained in Section 761, Internal Revenue Code.
+
+19        (iii)  "Partner" includes a member in such a syndicate, group, pool, joint venture, or
+
+20    organization.
+
+21        [(j)] (k)  "Resident individual" means:
+
+22        (i)  an individual who is domiciled in this state for any period of time during the taxable
+
+23    year, but only for the duration of such period; or
+
+24        (ii)  an individual who is not domiciled in this state but maintains a permanent place of
+
+25    abode in this state and spends in the aggregate 183 or more days of the taxable year in this state. 
+
+26    For purposes of this Subsection (ii), a fraction of a calendar day shall be counted as a whole day.
+
+27        [(k)] (l) (i)  "Resident estate" or "resident trust" means:
+
+28        (A)  an estate of a decedent who at his death was domiciled in this state;
+
+29        (B)  a trust, or a portion of a trust, consisting of property transferred by will of a decedent
+
+30    who at his death was domiciled in this state; or
+
+31        (C)  a trust administered in this state.
+
+- 2 -
+
+
+1        (ii)  For purposes of this chapter, a trust shall be considered to be administered in this state
+
+2    if:
+
+3        (A)  the place of business where the fiduciary transacts a major portion of its administration
+
+4    of the trust is in this state; or
+
+5        (B)  the usual place of business of the fiduciary is in this state.
+
+6        (iii)  Where there are two or more fiduciaries, the residency status of the trust shall be
+
+7    determined by the situs of the corporate or professional fiduciary with primary responsibility for
+
+8    the administration of the trust as defined in the trust instrument.
+
+9        (iv)  The commission may, by rule, provide additional guidelines to determine the
+
+10    residency status of a trust.
+
+11        [(l)] (m)  "Taxable income" and "state taxable income" are defined as provided in Sections
+
+12    59-10-111, 59-10-112, 59-10-116, 59-10-201.1, and 59-10-204.
+
+13        [(m)] (n)  "Taxpayer" means any individual, estate, or trust or beneficiary of an estate or
+
+14    trust, whose income is subject in whole or part to the tax imposed by this chapter.
+
+15        (2)  Any term used in this chapter has the same meaning as when used in comparable
+
+16    context in the laws of the United States relating to federal income taxes unless a different meaning
+
+17    is clearly required.  Any reference to the Internal Revenue Code or to the laws of the United States
+
+18    shall mean the Internal Revenue Code or other provisions of the laws of the United States relating
+
+19    to federal income taxes which are in effect for the taxable year.  Any reference to a specific section
+
+20    of the Internal Revenue Code or other provision of the laws of the United States relating to federal
+
+21    income taxes shall include any corresponding or comparable provisions of the Internal Revenue
+
+22    Code as hereafter amended, redesignated, or reenacted. 
+
+23        Section 2.  Section  59-10-104 is amended to read:
+
+24         59-10-104.  Tax basis -- Rates.
+
+25        [(1)  For taxable years beginning on or after January 1, 1996, but beginning before January
+
+26    1, 1997, a tax is imposed on the state taxable income, as defined in Section 59-10-112, of every
+
+27    resident individual as follows:]
+
+28        [(a)  For an individual, other than a husband and wife or head of household required to use
+
+29    the tax table under Subsection (1)(b), the tax under this section is imposed in accordance with the
+
+30    following table:]
+
+31    [If the state taxable income is:                The tax is:]
+
+- 3 -
+
+
+1    [Less than or equal to $750                2.55% of the state taxable income]
+
+2    [Greater than $750 but less than or equal        $19, plus 3.5% of state taxable income]
+
+3        [to $1,500                        greater than $750]
+
+4    [Greater than $1,500 but less than or equal        $45, plus 4.4% of state taxable income]
+
+5        [to $2,250                        greater than $1,500]
+
+6    [Greater than $2,250 but less than or equal        $78, plus 5.35% of state taxable income]
+
+7        [to $3,000                        greater than $2,250]
+
+8    [Greater than $3,000 but less than or equal        $119, plus 6% of state taxable income]
+
+9        [to $3,750                        greater than $3,000]
+
+10    [Greater than $3,750                    $164, plus 7% of state taxable income]
+
+11                                    [greater than $3,750]
+
+12        [(b)  For a husband and wife filing a single return jointly, or a head of household as defined
+
+13    in Section 2(b), Internal Revenue Code, filing a single return, the tax under this section is imposed
+
+14    in accordance with the following table:]
+
+15    [If the state taxable income is:                The tax is:]
+
+16    [Less than or equal to $1,500                2.55% of the state taxable income]
+
+17    [Greater than $1,500 but less than or equal        $38, plus 3.5% of state taxable income]
+
+18        [to $3,000                        greater than $1,500]
+
+19    [Greater than $3,000 but less than or equal        $91, plus 4.4% of state taxable income]
+
+20        [to $4,500                        greater than $3,000]
+
+21    [Greater than $4,500 but less than or equal        $157, plus 5.35% of state taxable income]
+
+22        [to $6,000                        greater than $4,500]
+
+23    [Greater than $6,000 but less than or equal        $237, plus 6% of state taxable income]
+
+24        [to $7,500                        greater than $6,000]
+
+25    [Greater than $7,500                    $327, plus 7% of state taxable income]
+
+26                                    [greater than $7,500]
+
+27        [(2)]  For taxable years beginning on or after January 1, 1997, a  tax is imposed on the state
+
+28    taxable income, as defined in Section 59-10-112, of every resident individual as follows:
+
+29        [(a)] (1)  For an individual, other than a husband and wife or head of household required
+
+30    to use the tax table under Subsection (2)(b), the tax under this section is imposed in accordance
+
+31    with the following table:
+
+- 4 -
+
+
+1    If the state taxable income is:                The tax is:
+
+2    Less than or equal to $750                2.3% of the state taxable income
+
+3    Greater than $750 but less than or equal        $17, plus 3.3% of state taxable income
+
+4        to $1,500                        greater than $750
+
+5    Greater than $1,500 but less than or equal        $42, plus 4.2% of state taxable income
+
+6        to $2,250                        greater than $1,500
+
+7    Greater than $2,250 but less than or equal        $74, plus 5.2% of state taxable income
+
+8        to $3,000                        greater than $2,250
+
+9    Greater than $3,000 but less than or equal        $113, plus 6% of state taxable income
+
+10        to $3,750                        greater than $3,000
+
+11    Greater than $3,750                    $158, plus 7% of state taxable income
+
+12                                    greater than $3,750
+
+13        [(b)] (2)  For a husband and wife filing a single return jointly, or a head of household as
+
+14    defined in Section 2(b), Internal Revenue Code, filing a single return, the tax under this section
+
+15    is imposed in accordance with the following table:
+
+16    If the state taxable income is:                The tax is:
+
+17    Less than or equal to $1,500                2.3% of the state taxable income
+
+18    Greater than $1,500 but less than or equal        $35, plus 3.3% of state taxable income
+
+19        to $3,000                        greater than $1,500
+
+20    Greater than $3,000 but less than or equal        $84, plus 4.2% of state taxable income
+
+21        to $4,500                        greater than $3,000
+
+22    Greater than $4,500 but less than or equal        $147, plus 5.2% of state taxable income
+
+23        to $6,000                        greater than $4,500
+
+24    Greater than $6,000 but less than or equal        $225, plus 6% of state taxable income
+
+25        to $7,500                        greater than $6,000
+
+26    Greater than $7,500                    $315, plus 7% of state taxable income
+
+27                                    greater than $7,500
+
+28        (3) (a)  For taxable years beginning on or after January 1, 1999, the commission shall
+
+29    increase or decrease:
+
+30        (i)  the individual income tax brackets under Subsections (1) and (2) in a percentage equal
+
+31    to the percentage difference between the consumer price index for the preceding calendar year and
+
+- 5 -
+
+
+1    the consumer price index for calendar year 1997; and
+
+2        (ii)  to the extent necessary to reflect the increase or decrease in the individual income tax
+
+3    brackets under Subsection (3)(a)(i), the amount of tax under Subsections (1) and (2) prior to adding
+
+4    in the portion of the tax calculated as a percentage of state taxable income.
+
+5        (b)  The commission may not increase or decrease the rate percentages provided in
+
+6    Subsections (1) and (2).
+
+7        (c)  For purposes of Subsection (3)(a)(i), the commission shall calculate the consumer price
+
+8    index as provided in Section (1)(f)(4) and (1)(f)(5), Internal Revenue Code.
+
+9        Section 3.  Section  59-10-114 is amended to read:
+
+10         59-10-114.  Additions to and subtractions from federal taxable income of an
+
+11     individual.
+
+12        (1)  There shall be added to federal taxable income of a resident or nonresident individual:
+
+13        (a)  the amount of any income tax imposed by this or any predecessor Utah individual
+
+14    income tax law and the amount of any income tax imposed by the laws of another state, the
+
+15    District of Columbia, or a possession of the United States, to the extent deducted from federal
+
+16    adjusted gross income, as defined by Section 62, Internal Revenue Code, in determining federal
+
+17    taxable income;
+
+18        (b)  a lump sum distribution allowable as a deduction under Section 402(e)(3), Internal
+
+19    Revenue Code, to the extent deductible under Section 62(a)(8), Internal Revenue Code, in
+
+20    determining federal adjusted gross income;
+
+21        (c) (i)  for a taxpayer having a federal adjusted gross income of greater than $100,000 in
+
+22    the taxable year for which the taxpayer files a return, 25% of the personal [exemptions, as defined
+
+23    and] exemption calculated [in the] under Section 151, Internal Revenue Code; or
+
+24        (ii)  for a taxpayer having a federal adjusted gross income of $100,000 or less in the taxable
+
+25    year for which the taxpayer files a return, 10 % of the personal exemption calculated under Section
+
+26    151, Internal Revenue Code;
+
+27        (d)  a withdrawal from a medical care savings account and any penalty imposed in the
+
+28    taxable year if:
+
+29        (i)  the taxpayer did not deduct or include the amounts on his federal tax return pursuant
+
+30    to Section 220, Internal Revenue Code; and
+
+31        (ii)  the withdrawal is subject to Subsections 31A-32-105(1) and (2); and
+
+- 6 -
+
+
+1        (e)  the amount refunded to a participant under Title 53B, Chapter 8a, Higher Education
+
+2    Savings Incentive Program, in the year in which the amount is refunded.
+
+3        (2)  There shall be subtracted from federal taxable income of a resident or nonresident
+
+4    individual:
+
+5        (a)  the interest or dividends on obligations or securities of the United States and its
+
+6    possessions or of any authority, commission, or instrumentality of the United States, to the extent
+
+7    includable in gross income for federal income tax purposes but exempt from state income taxes
+
+8    under the laws of the United States, but the amount subtracted under this subsection shall be
+
+9    reduced by any interest on indebtedness incurred or continued to purchase or carry the obligations
+
+10    or securities described in this subsection, and by any expenses incurred in the production of
+
+11    interest or dividend income described in this subsection to the extent that such expenses, including
+
+12    amortizable bond premiums, are deductible in determining federal taxable income;
+
+13        (b)  1/2 of the net amount of any income tax paid or payable to the United States after all
+
+14    allowable credits, as reported on the United States individual income tax return of the taxpayer for
+
+15    the same taxable year;
+
+16        (c)  the amount of adoption expenses which, for purposes of this subsection, means any
+
+17    actual medical and hospital expenses of the mother of the adopted child which are incident to the
+
+18    child's birth and any welfare agency, child placement service, legal, and other fees or costs relating
+
+19    to the adoption;
+
+20        (d)  amounts received by taxpayers under age 65 as retirement income which, for purposes
+
+21    of this section, means pensions and annuities, paid from an annuity contract purchased by an
+
+22    employer under a plan which meets the requirements of Section 404 (a)(2), Internal Revenue Code,
+
+23    or purchased by an employee under a plan which meets the requirements of Section 408, Internal
+
+24    Revenue Code, or paid by the United States, a state, or political subdivision thereof, or the District
+
+25    of Columbia, to the employee involved or the surviving spouse;
+
+26        (e)  for each taxpayer age 65 or over before the close of the taxable year, a $7,500 personal
+
+27    retirement exemption;
+
+28        (f)  75% of the amount of the personal exemption, as defined and calculated in the Internal
+
+29    Revenue Code, for each dependent child with a disability and adult with a disability who is
+
+30    claimed as a dependent on a taxpayer's return;
+
+31        (g)  any amount included in federal taxable income that was received pursuant to any
+
+- 7 -
+
+
+1    federal law enacted in 1988 to provide reparation payments, as damages for human suffering, to
+
+2    United States citizens and resident aliens of Japanese ancestry who were interned during World
+
+3    War II;
+
+4        (h)  subject to the limitations of Subsection (3)(e), 60% of the amounts paid by the taxpayer
+
+5    during the taxable year for health care insurance, as defined in Title 31A, Chapter 1, [Insurance
+
+6    Code] Part 3, Definitions, for the taxpayer, the taxpayer's spouse, and the taxpayer's dependents
+
+7    to the extent the amounts paid for health insurance were not deductible under Sections 125, 162,
+
+8    or 213, Internal Revenue Code, in determining federal taxable income;
+
+9        (i)  except as otherwise provided in this subsection, the amount of a contribution made in
+
+10    the tax year on behalf of the taxpayer to a medical care savings account and interest earned on a
+
+11    contribution to a medical care savings account established pursuant to Title 31A, Chapter 32,
+
+12    Medical Care Savings Account Act, to the extent the contribution is accepted by the account
+
+13    administrator as provided in the Medical Care Savings Account Act, and if the taxpayer did not
+
+14    deduct or include amounts on his federal tax return pursuant to Section 220, Internal Revenue
+
+15    Code.  A contribution deductible under this subsection may not exceed either of the following:
+
+16        (i)  the maximum contribution allowed under the Medical Care Savings Account Act for
+
+17    the tax year multiplied by two for taxpayers who file a joint return, if neither spouse is covered by
+
+18    health care insurance as defined in Section 31A-1-301 or self-funded plan that covers the other
+
+19    spouse, and each spouse has a medical care savings account; or
+
+20        (ii)  the maximum contribution allowed under the Medical Care Savings Account Act for
+
+21    the tax year for taxpayers:
+
+22        (A)  who do not file a joint return; or
+
+23        (B)  who file a joint return, but do not qualify under Subsection (2)(i)(i); and
+
+24        (j)  the amount included in federal taxable income that was derived from money paid by
+
+25    the taxpayer to the program fund and investment income earned on those payments under Title
+
+26    53B, Chapter 8a, Higher Education Savings Incentive Program.
+
+27        (3) (a)  For purposes of Subsection (2)(d), the amount of retirement income subtracted for
+
+28    taxpayers under 65 shall be the lesser of the amount included in federal taxable income, or $4,800,
+
+29    except that:
+
+30        (i)  for married taxpayers filing joint returns, for each $1 of adjusted gross income earned
+
+31    over $32,000, the amount of the retirement income exemption that may be subtracted shall be
+
+- 8 -
+
+
+1    reduced by 50 cents;
+
+2        (ii)  for married taxpayers filing separate returns, for each $1 of adjusted gross income
+
+3    earned over $16,000, the amount of the retirement income exemption that may be subtracted shall
+
+4    be reduced by 50 cents; and
+
+5        (iii)  for individual taxpayers, for each $1 of adjusted gross income earned over $25,000,
+
+6    the amount of the retirement income exemption that may be subtracted shall be reduced by 50
+
+7    cents.
+
+8        (b)  For purposes of Subsection (2)(e), the amount of the personal retirement exemption
+
+9    shall be further reduced according to the following schedule:
+
+10        (i)  for married taxpayers filing joint returns, for each $1 of adjusted gross income earned
+
+11    over $32,000, the amount of the personal retirement exemption shall be reduced by 50 cents;
+
+12        (ii)  for married taxpayers filing separate returns, for each $1 of adjusted gross income
+
+13    earned over $16,000, the amount of the personal retirement exemption shall be reduced by 50
+
+14    cents; and
+
+15        (iii)  for individual taxpayers, for each $1 of adjusted gross income earned over $25,000,
+
+16    the amount of the personal retirement exemption shall be reduced by 50 cents.
+
+17        (c)  For purposes of Subsections (3)(a) and (b), adjusted gross income shall be calculated
+
+18    by adding to federal adjusted gross income any interest income not otherwise included in federal
+
+19    adjusted gross income.
+
+20        (d)  For purposes of determining ownership of items of retirement income common law
+
+21    doctrine will be applied in all cases even though some items may have originated from service or
+
+22    investments in a community property state.  Amounts received by the spouse of a living retiree
+
+23    because of the retiree's having been employed in a community property state are not deductible
+
+24    as retirement income of such spouse.
+
+25        (e)  For purposes of Subsection (2)(h), a subtraction for an amount paid for health care
+
+26    insurance as defined in Title 31A, Chapter 1, [Insurance Code]  Part 3, Definitions, is not allowed:
+
+27        (i)  for an amount that is reimbursed or funded in whole or in part by the federal
+
+28    government, the state, or an agency or instrumentality of the federal government or the state; and
+
+29        (ii)  for a taxpayer who is eligible to participate in a health plan maintained and funded in
+
+30    whole or in part by the taxpayer's employer or the taxpayer's spouse's employer.
+
+31        Section 4.   Retrospective operation.
+
+- 9 -
+
+
+1        This act has retrospective operation for taxable years beginning on or after January 1, 1998.
+
+
+
+
+ Legislative Review Note
+    as of   1-12-98  8:27 AM
+
+
+A limited legal review of this bill raises no obvious constitutional or statutory concerns.
+
+ Office of Legislative Research and General Counsel
+
+
+- 10 -
+[Bill Documents][Bills Directory]
+
+
+
+
+
+
+
+
+
+Who represents me?
+
+
+
+
+
+Remember my Legislators
+
+
+
+
+
+State Senate
+		350 North State, Suite 320
+		PO Box 145115
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1035
+		Fax: (801) 326-1475
+
+
+
+House of Representatives
+		350 North State, Suite 350
+		PO Box 145030
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1029
+		Fax: (801) 326-1544
+
+
+
+
+
+
+
+
+
+
+Home
+Mobile Site
+Site Map
+Calendar
+Code / Constitution
+House
+Senate
+
+Terms of Use/Privacy Policy
+
+ADA
+Utah.gov
+
+
+
+
+
+
+

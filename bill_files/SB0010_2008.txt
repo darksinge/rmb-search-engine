@@ -1,0 +1,564 @@
+Sponsors: []Modifications:     77-23-301.(1)  An inmate who is eligible for release on parole shall, as a condition of parole, signan agreement as described in Subsection (2) that the inmate, while on parole, is subject tosearch or seizure of the inmate's person, property, place of temporary or permanent residence,vehicle, or personal effects while on parole:(a)  by a parole officer at any time, with or without a search warrant, and with orwithout cause; and(b)  by a law enforcement officer at any time, with or without a search warrant, and withor without cause, but subject to Subsection (3).(2) (a)  The terms of the agreement under Subsection (1) shall be stated in clear andunambiguous language.(b)  The agreement shall be signed by the parolee, indicating the parolee's understandingof the terms of searches as allowed by Subsection (1).(3) (a)  In order for a law enforcement officer to conduct a search of a parolee'sresidence under Subsection (1) or a seizure pursuant to the search, the law enforcement officershall have obtained prior approval from a parole officer or shall have a warrant for the search.(b)  If a law enforcement officer conducts a search of a parolee's person, personaleffects, or vehicle pursuant to a stop, the law enforcement officer shall notify a parole officer assoon as reasonably possible after conducting the search.(4)  A search conducted under this section may not be for the purpose of harassment.(5)  Any inmate who does not agree in writing to be subject to search or seizure underSubsection (1) may not be paroled until the inmate enters into the agreement under Subsection(1).(6)  This section applies only to an inmate who is eligible for release on parole on orafter May 5, 2008.Full text:
+
+
+
+Utah State Legislature
+
+
+
+
+
+
+
+
+
+
+
+
+Legislators
+
+By Session (1896-Current)
+Alphabetical (Historical)
+Find by Address/Map
+More
+
+
+Bills
+
+Bills/Bill Requests
+Passed Bills
+2017 Bills
+
+Keyword Search
+Reading Calendars
+Tracking Service
+More
+
+
+Committees
+
+All Committees
+Appropriations
+Commissions
+
+Independent Legislative Ethics Commission
+Interim
+Standing
+Subcommittees
+Task Forces
+Bills In Committees
+
+
+Utah Code / Constitution
+
+
+Title/Chapter/Section
+Keyword Search 
+
+Utah Constitution
+Laws of Utah 1851-ongoing
+Utah Territorial Laws 
+More
+
+
+Senate
+
+Main Page 
+About The Senate 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Extraordinary Sessions 
+Reading Calendars 
+Past Floor Debates 
+Senate Journals 
+
+
+House
+
+Main Page
+About the House 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Reading Calendars 
+Past Floor Debates 
+Journals 
+Conflict of Interest Forms 
+
+
+Legislative Guide 
+
+Legislative Guide
+Civic Programs
+GRAMA (Records Requests)
+
+
+Publications
+
+Search Publications
+Appropriations
+Audits
+Bagels & Briefings
+Briefing Papers
+Digest of Legislation
+Legislative Drafting Manual
+
+Journals
+
+Interim Highlights
+
+Legislative Rules
+GRAMA (Records Requests)
+Public Email
+State Organization Charts
+YouTube Channel
+Requests for Proposals and Legal Notices
+More
+
+
+Legislative Histories
+
+Legislative History Resources
+How to Research
+Bill Drafting/Research Files (1990-Ongoing)
+
+Working Bills (1896-1989)
+Interim Committee Histories (1990-Ongoing) 
+Journals
+Past House Floor Debates
+Past Senate Floor Debates
+More
+
+
+Staff Offices
+
+All Legislative Offices
+Auditor General
+Fiscal Analyst
+Printing
+Research and General Counsel
+Staff Awards
+Job Opportunities
+More
+
+
+Links of Interest
+
+Utah Administrative Rules
+Courts
+Utah State Capitol
+State of Utah
+Federal Legislation
+More
+
+
+
+
+
+
+ 
+
+Download Zipped Enrolled WordPerfect SB0010.ZIP
+[Introduced][Amended][Status][Bill Documents][Fiscal Note][Bills Directory]
+
+
+S.B. 10 Enrolled
+
+
+
+
+
+            
+1
+
+    
+ SEARCH WARRANT PROCEDURE AMENDMENTS
+
+
+
+            
+2
+
+    
+2008 GENERAL SESSION
+
+            
+3
+
+    
+STATE OF UTAH
+
+            
+4
+
+    
+
+
+ Chief Sponsor:  Jon J. Greiner
+
+
+
+            
+5
+
+    
+
+
+
+House Sponsor:  
+
+
+
+
+
+
+Curtis  Oda
+
+
+
+
+
+            
+6
+
+    
+
+            
+7
+
+    
+ LONG TITLE
+            
+8
+
+    
+ General Description:
+            
+9
+
+    
+    This bill modifies Title 77, Chapter 23, Search and Administrative Warrants, to
+            
+10
+
+    
+implement the process of warrantless search and seizure of parolees by parole officers or
+            
+11
+
+    
+by law enforcement officers regarding evidence of a parole violation or a criminal law
+            
+12
+
+    
+violation.
+            
+13
+
+    
+ Highlighted Provisions:
+            
+14
+
+    
+    This bill:
+            
+15
+
+    
+    .    requires that an inmate eligible for parole must sign an agreement that the inmate is
+            
+16
+
+    
+subject as a parolee to search or seizure for parole violations at any time and with or
+            
+17
+
+    
+without a search warrant, in order to be placed on parole;
+            
+18
+
+    
+    .    specifies when a law enforcement officer may conduct, with or without a warrant, a
+            
+19
+
+    
+search or seizure regarding a parolee, including requirements that the law
+            
+20
+
+    
+enforcement officer obtain prior approval from a parole officer or provide prompt
+            
+21
+
+    
+notification to the parole officer; and
+            
+22
+
+    
+    .    prohibits searches for the purpose of harassment.
+            
+23
+
+    
+ Monies Appropriated in this Bill:
+            
+24
+
+    
+    None
+            
+25
+
+    
+ Other Special Clauses:
+            
+26
+
+    
+    None
+            
+27
+
+    
+ Utah Code Sections Affected:
+            
+28
+
+    
+ENACTS:
+            
+29
+
+    
+     77-23-301, Utah Code Annotated 1953
+
+            
+30
+
+
+    
+
+            
+31
+
+    
+Be it enacted by the Legislature of the state of Utah:
+            
+32
+
+    
+    Section 1.  
+Section  
+77-23-301
+
+ is enacted to read:
+            
+33
+
+    
+     77-23-301.  Warrantless searches regarding persons on parole.
+            
+34
+
+    
+    (1)  An inmate who is eligible for release on parole shall, as a condition of parole, sign
+            
+35
+
+    
+an agreement as described in Subsection (2) that the inmate, while on parole, is subject to
+            
+36
+
+    
+search or seizure of the inmate's person, property, place of temporary or permanent residence,
+            
+37
+
+    
+vehicle, or personal effects while on parole:
+            
+38
+
+    
+    (a)  by a parole officer at any time, with or without a search warrant, and with or
+            
+39
+
+    
+without cause; and
+            
+40
+
+    
+    (b)  by a law enforcement officer at any time, with or without a search warrant, and with
+            
+41
+
+    
+or without cause, but subject to Subsection (3).
+            
+42
+
+    
+    (2) (a)  The terms of the agreement under Subsection (1) shall be stated in clear and
+            
+43
+
+    
+unambiguous language.
+            
+44
+
+    
+    (b)  The agreement shall be signed by the parolee, indicating the parolee's understanding
+            
+45
+
+    
+of the terms of searches as allowed by Subsection (1).
+            
+46
+
+    
+    (3) (a)  In order for a law enforcement officer to conduct a search of a parolee's
+            
+47
+
+    
+residence under Subsection (1) or a seizure pursuant to the search, the law enforcement officer
+            
+48
+
+    
+shall have obtained prior approval from a parole officer or shall have a warrant for the search.
+            
+49
+
+    
+    (b)  If a law enforcement officer conducts a search of a parolee's person, personal
+            
+50
+
+    
+effects, or vehicle pursuant to a stop, the law enforcement officer shall notify a parole officer as
+            
+51
+
+    
+soon as reasonably possible after conducting the search.
+            
+52
+
+    
+    (4)  A search conducted under this section may not be for the purpose of harassment.
+            
+53
+
+    
+    (5)  Any inmate who does not agree in writing to be subject to search or seizure under
+            
+54
+
+    
+Subsection (1) may not be paroled until the inmate enters into the agreement under Subsection
+            
+55
+
+    
+(1).
+            
+56
+
+    
+    (6)  This section applies only to an inmate who is eligible for release on parole on or
+            
+57
+
+    
+after May 5, 2008.
+
+            
+58
+
+
+    
+
+[Bill Documents][Bills Directory]
+
+
+
+
+
+
+
+
+
+Who represents me?
+
+
+
+
+
+Remember my Legislators
+
+
+
+
+
+State Senate
+		350 North State, Suite 320
+		PO Box 145115
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1035
+		Fax: (801) 326-1475
+
+
+
+House of Representatives
+		350 North State, Suite 350
+		PO Box 145030
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1029
+		Fax: (801) 326-1544
+
+
+
+
+
+
+
+
+
+
+Home
+Mobile Site
+Site Map
+Calendar
+Code / Constitution
+House
+Senate
+
+Terms of Use/Privacy Policy
+
+ADA
+Utah.gov
+
+
+
+
+
+
+

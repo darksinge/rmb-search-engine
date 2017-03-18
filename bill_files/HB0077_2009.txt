@@ -1,0 +1,668 @@
+Sponsors: []Modifications: or 
+
+59-10-1025
+
+,    59-10-1025.(1)  Except as provided in Section 
+
+59-10-1002.2
+
+ and subject to Subsections (2) through(4), a claimant may claim a nonrefundable tax credit equal to the product of:(a)  the amount included in adjusted gross income as the taxable amount of SocialSecurity benefits on the claimant's federal individual income tax return for the taxable year; and(b)  5%.(2)  A claimant may not claim a tax credit under this section for any amount of adjustedgross income for which the claimant claims a tax credit under Section 
+
+59-10-1019
+
+.(3)  The maximum amount of a tax credit a claimant may claim on a return for a taxableyear, regardless of filing status, is the amount determined under Subsection (1).(4)  A claimant may not carry forward or carry back a tax credit under this section.This bill has retrospective operation for a taxable year beginning on or after January 1,2009.Full text:
+
+
+
+Utah State Legislature
+
+
+
+
+
+
+
+
+
+
+
+
+Legislators
+
+By Session (1896-Current)
+Alphabetical (Historical)
+Find by Address/Map
+More
+
+
+Bills
+
+Bills/Bill Requests
+Passed Bills
+2017 Bills
+
+Keyword Search
+Reading Calendars
+Tracking Service
+More
+
+
+Committees
+
+All Committees
+Appropriations
+Commissions
+
+Independent Legislative Ethics Commission
+Interim
+Standing
+Subcommittees
+Task Forces
+Bills In Committees
+
+
+Utah Code / Constitution
+
+
+Title/Chapter/Section
+Keyword Search 
+
+Utah Constitution
+Laws of Utah 1851-ongoing
+Utah Territorial Laws 
+More
+
+
+Senate
+
+Main Page 
+About The Senate 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Extraordinary Sessions 
+Reading Calendars 
+Past Floor Debates 
+Senate Journals 
+
+
+House
+
+Main Page
+About the House 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Reading Calendars 
+Past Floor Debates 
+Journals 
+Conflict of Interest Forms 
+
+
+Legislative Guide 
+
+Legislative Guide
+Civic Programs
+GRAMA (Records Requests)
+
+
+Publications
+
+Search Publications
+Appropriations
+Audits
+Bagels & Briefings
+Briefing Papers
+Digest of Legislation
+Legislative Drafting Manual
+
+Journals
+
+Interim Highlights
+
+Legislative Rules
+GRAMA (Records Requests)
+Public Email
+State Organization Charts
+YouTube Channel
+Requests for Proposals and Legal Notices
+More
+
+
+Legislative Histories
+
+Legislative History Resources
+How to Research
+Bill Drafting/Research Files (1990-Ongoing)
+
+Working Bills (1896-1989)
+Interim Committee Histories (1990-Ongoing) 
+Journals
+Past House Floor Debates
+Past Senate Floor Debates
+More
+
+
+Staff Offices
+
+All Legislative Offices
+Auditor General
+Fiscal Analyst
+Printing
+Research and General Counsel
+Staff Awards
+Job Opportunities
+More
+
+
+Links of Interest
+
+Utah Administrative Rules
+Courts
+Utah State Capitol
+State of Utah
+Federal Legislation
+More
+
+
+
+
+
+
+ 
+
+Download Zipped Introduced WordPerfect HB0077.ZIP
+[Status][Bill Documents][Fiscal Note][Bills Directory]
+
+
+H.B. 77
+
+
+
+
+
+            
+1
+
+    
+ INCOME TAX CREDIT FOR TAXABLE
+
+            
+2
+
+    
+ SOCIAL SECURITY BENEFITS
+
+
+
+            
+3
+
+    
+2009 GENERAL SESSION
+
+            
+4
+
+    
+STATE OF UTAH
+
+            
+5
+
+    
+
+
+ Chief Sponsor:  Steven R. Mascaro
+
+
+
+            
+6
+
+    
+
+
+
+Senate Sponsor:  
+
+
+
+
+
+
+____________
+
+
+
+
+
+            
+7
+
+    
+
+            
+8
+
+    
+ LONG TITLE
+            
+9
+
+    
+ General Description:
+            
+10
+
+    
+    This bill amends the Nonrefundable Tax Credit Act to enact a tax credit.
+            
+11
+
+    
+ Highlighted Provisions:
+            
+12
+
+    
+    This bill:
+            
+13
+
+    
+    .    enacts a nonrefundable tax credit for taxable Social Security benefits;
+            
+14
+
+    
+    .    provides that the tax credit is subject to apportionment for a nonresident individual
+            
+15
+
+    
+or a part-year resident individual; and
+            
+16
+
+    
+    .    makes technical changes.
+            
+17
+
+    
+ Monies Appropriated in this Bill:
+            
+18
+
+    
+    None
+            
+19
+
+    
+ Other Special Clauses:
+            
+20
+
+    
+    This bill has retrospective operation for a taxable year beginning on or after January 1,
+            
+21
+
+    
+2009.
+            
+22
+
+    
+ Utah Code Sections Affected:
+            
+23
+
+    
+AMENDS:
+            
+24
+
+    
+     59-10-1002.2, as renumbered and amended by Laws of Utah 2008, Chapter 389
+            
+25
+
+    
+ENACTS:
+            
+26
+
+    
+     59-10-1025, Utah Code Annotated 1953
+            
+27
+
+    
+
+
+            
+28
+
+
+    
+Be it enacted by the Legislature of the state of Utah:
+            
+29
+
+    
+    Section 1.  
+Section  
+59-10-1002.2
+
+ is amended to read:
+            
+30
+
+    
+     59-10-1002.2.  Apportionment of tax credits.
+            
+31
+
+    
+    (1)  A nonresident individual or a part-year resident individual that claims a tax credit
+            
+32
+
+    
+in accordance with Section 
+
+59-10-1017
+
+, 
+
+59-10-1018
+
+, 
+
+59-10-1019
+
+, 
+
+59-10-1021
+
+, 
+
+59-10-1022
+
+,
+            
+33
+
+    
+
+59-10-1023
+
+, [or] 
+
+59-10-1024
+
+, or 
+
+59-10-1025
+
+, may only claim an apportioned amount of the tax
+            
+34
+
+    
+credit equal to:
+            
+35
+
+    
+    (a)  for a nonresident individual, the product of:
+            
+36
+
+    
+    (i)  the state income tax percentage for the nonresident individual; and
+            
+37
+
+    
+    (ii)  the amount of the tax credit that the nonresident individual would have been
+            
+38
+
+    
+allowed to claim but for the apportionment requirements of this section; or
+            
+39
+
+    
+    (b)  for a part-year resident individual, the product of:
+            
+40
+
+    
+    (i)  the state income tax percentage for the part-year resident individual; and
+            
+41
+
+    
+    (ii)  the amount of the tax credit that the part-year resident individual would have been
+            
+42
+
+    
+allowed to claim but for the apportionment requirements of this section.
+            
+43
+
+    
+    (2)  A nonresident estate or trust that claims a tax credit in accordance with Section
+            
+44
+
+    
+
+59-10-1017
+
+, 
+
+59-10-1020
+
+, 
+
+59-10-1022
+
+, or 
+
+59-10-1024
+
+, may only claim an apportioned amount
+            
+45
+
+    
+of the tax credit equal to the product of:
+            
+46
+
+    
+    (a)  the state income tax percentage for the nonresident estate or trust; and
+            
+47
+
+    
+    (b)  the amount of the tax credit that the nonresident estate or trust would have been
+            
+48
+
+    
+allowed to claim but for the apportionment requirements of this section.
+            
+49
+
+    
+    Section 2.  
+Section  
+59-10-1025
+
+ is enacted to read:
+            
+50
+
+    
+     59-10-1025.  Nonrefundable tax credit for taxable Social Security benefits.
+            
+51
+
+    
+    (1)  Except as provided in Section 
+
+59-10-1002.2
+
+ and subject to Subsections (2) through
+            
+52
+
+    
+(4), a claimant may claim a nonrefundable tax credit equal to the product of:
+            
+53
+
+    
+    (a)  the amount included in adjusted gross income as the taxable amount of Social
+            
+54
+
+    
+Security benefits on the claimant's federal individual income tax return for the taxable year; and
+            
+55
+
+    
+    (b)  5%.
+            
+56
+
+    
+    (2)  A claimant may not claim a tax credit under this section for any amount of adjusted
+            
+57
+
+    
+gross income for which the claimant claims a tax credit under Section 
+
+59-10-1019
+
+.
+            
+58
+
+    
+    (3)  The maximum amount of a tax credit a claimant may claim on a return for a taxable
+
+            
+59
+
+
+    
+year, regardless of filing status, is the amount determined under Subsection (1).
+            
+60
+
+    
+    (4)  A claimant may not carry forward or carry back a tax credit under this section.
+            
+61
+
+    
+    Section 3.   Retrospective operation.
+            
+62
+
+    
+    This bill has retrospective operation for a taxable year beginning on or after January 1,
+            
+63
+
+    
+2009.
+
+
+
+
+ Legislative Review Note
+    as of   9-30-08  11:16 AM
+
+ Office of Legislative Research and General Counsel
+[Bill Documents][Bills Directory]
+
+
+
+
+
+
+
+
+
+Who represents me?
+
+
+
+
+
+Remember my Legislators
+
+
+
+
+
+State Senate
+		350 North State, Suite 320
+		PO Box 145115
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1035
+		Fax: (801) 326-1475
+
+
+
+House of Representatives
+		350 North State, Suite 350
+		PO Box 145030
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1029
+		Fax: (801) 326-1544
+
+
+
+
+
+
+
+
+
+
+Home
+Mobile Site
+Site Map
+Calendar
+Code / Constitution
+House
+Senate
+
+Terms of Use/Privacy Policy
+
+ADA
+Utah.gov
+
+
+
+
+
+
+

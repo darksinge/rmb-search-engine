@@ -1,0 +1,2014 @@
+Sponsors: []Modifications: for usein converting material into biomass energy, as defined in Section 
+
+59-12-102
+
+, and transportingthat energy by separate apparatus to the point of use or storagegeothermalelectricity, direct-use geothermal,thatthat(g)  "Direct-use geothermal system" means a system of apparatus and equipmentenabling the direct use of thermal energy, generally between 100 and 300 Fahrenheit, that iscontained in the earth to meet energy needs, including heating a building, an industrial process,and aquaculture.(h)  "Geothermal electricity" means energy contained in heat that continuously flowsoutward from the earth that is used as a sole source of energy to produce electricity.(i)(j)(k)that(l)biomass,direct-use geothermal,(m)that(n)(o)2006201120062011before2006201120062011may makethatfor usein converting material into biomass energy, as defined in Section 
+
+59-12-102
+
+, and transportingthat energy by separate apparatus to the point of use or storagegeothermalelectricity, direct-use geothermal,thatthat(g)  "Direct-use geothermal system" means a system of apparatus and equipmentenabling the direct use of thermal energy, generally between 100 and 300 Fahrenheit, that iscontained in the earth to meet energy needs, including heating a building, an industrial process,and aquaculture.(h)(i)(j)that(k)biomass,direct-use geothermal,(l)that(m)(n)20062011before20062011that2006201120062011before20062011may makethatFull text:
+
+
+
+Utah State Legislature
+
+
+
+
+
+
+
+
+
+
+
+
+Legislators
+
+By Session (1896-Current)
+Alphabetical (Historical)
+Find by Address/Map
+More
+
+
+Bills
+
+Bills/Bill Requests
+Passed Bills
+2017 Bills
+
+Keyword Search
+Reading Calendars
+Tracking Service
+More
+
+
+Committees
+
+All Committees
+Appropriations
+Commissions
+
+Independent Legislative Ethics Commission
+Interim
+Standing
+Subcommittees
+Task Forces
+Bills In Committees
+
+
+Utah Code / Constitution
+
+
+Title/Chapter/Section
+Keyword Search 
+
+Utah Constitution
+Laws of Utah 1851-ongoing
+Utah Territorial Laws 
+More
+
+
+Senate
+
+Main Page 
+About The Senate 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Extraordinary Sessions 
+Reading Calendars 
+Past Floor Debates 
+Senate Journals 
+
+
+House
+
+Main Page
+About the House 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Reading Calendars 
+Past Floor Debates 
+Journals 
+Conflict of Interest Forms 
+
+
+Legislative Guide 
+
+Legislative Guide
+Civic Programs
+GRAMA (Records Requests)
+
+
+Publications
+
+Search Publications
+Appropriations
+Audits
+Bagels & Briefings
+Briefing Papers
+Digest of Legislation
+Legislative Drafting Manual
+
+Journals
+
+Interim Highlights
+
+Legislative Rules
+GRAMA (Records Requests)
+Public Email
+State Organization Charts
+YouTube Channel
+Requests for Proposals and Legal Notices
+More
+
+
+Legislative Histories
+
+Legislative History Resources
+How to Research
+Bill Drafting/Research Files (1990-Ongoing)
+
+Working Bills (1896-1989)
+Interim Committee Histories (1990-Ongoing) 
+Journals
+Past House Floor Debates
+Past Senate Floor Debates
+More
+
+
+Staff Offices
+
+All Legislative Offices
+Auditor General
+Fiscal Analyst
+Printing
+Research and General Counsel
+Staff Awards
+Job Opportunities
+More
+
+
+Links of Interest
+
+Utah Administrative Rules
+Courts
+Utah State Capitol
+State of Utah
+Federal Legislation
+More
+
+
+
+
+
+
+ 
+
+Download Zipped Introduced WordPerfect HB0042.ZIP
+[Status][Bill Documents][Fiscal Note][Bills Directory]
+
+
+H.B. 42
+
+
+
+
+
+            
+1
+
+    
+ RENEWABLE ENERGY TAX CREDIT
+
+
+
+            
+2
+
+    
+2006 GENERAL SESSION
+
+            
+3
+
+    
+STATE OF UTAH
+
+            
+4
+
+    
+
+
+ Chief Sponsor:  Sheryl L. Allen
+
+
+
+            
+5
+
+    
+
+
+
+Senate Sponsor:  
+
+
+
+
+
+
+____________
+
+
+
+
+
+            
+6
+
+    
+
+            
+7
+
+    
+ LONG TITLE
+            
+8
+
+    
+ General Description:
+            
+9
+
+    
+    This bill addresses the renewable energy tax credit's continuing application.
+            
+10
+
+    
+ Highlighted Provisions:
+            
+11
+
+    
+    This bill:
+            
+12
+
+    
+    .    defines terms;
+            
+13
+
+    
+    .    extends the availability of the renewable energy tax credit until 2011;
+            
+14
+
+    
+    .    expands the renewable energy tax credit to include direct-use geothermal and
+            
+15
+
+    
+geothermal electricity; and
+            
+16
+
+    
+    .    makes technical changes.
+            
+17
+
+    
+ Monies Appropriated in this Bill:
+            
+18
+
+    
+    None
+            
+19
+
+    
+ Other Special Clauses:
+            
+20
+
+    
+    None
+            
+21
+
+    
+ Utah Code Sections Affected:
+            
+22
+
+    
+AMENDS:
+            
+23
+
+    
+     59-7-614, as last amended by Chapters 217, 244 and 294, Laws of Utah 2005
+            
+24
+
+    
+     59-10-134, as last amended by Chapters 217, 244 and 294, Laws of Utah 2005
+            
+25
+
+    
+
+            
+26
+
+    
+Be it enacted by the Legislature of the state of Utah:
+            
+27
+
+    
+    Section 1.  
+Section  
+59-7-614
+
+ is amended to read:
+
+
+            
+28
+
+
+    
+     59-7-614.  Renewable energy systems tax credit -- Definitions -- Limitations --
+            
+29
+
+    
+ State tax credit in addition to allowable federal credits -- Certification -- Rulemaking
+            
+30
+
+    
+ authority -- Reimbursement of Uniform School Fund.
+            
+31
+
+    
+    (1)  As used in this section:
+            
+32
+
+    
+    (a)  "Active solar system":
+            
+33
+
+    
+    (i)  means a system of equipment capable of collecting and converting incident solar
+            
+34
+
+    
+radiation into thermal, mechanical, or electrical energy, and transferring these forms of energy
+            
+35
+
+    
+by a separate apparatus to storage or to the point of use; and
+            
+36
+
+    
+    (ii)  includes water heating, space heating or cooling, and electrical or mechanical
+            
+37
+
+    
+energy generation.
+            
+38
+
+    
+    (b)  "Biomass system" means any system of apparatus and equipment [capable of
+            
+39
+
+    
+converting organic plant, wood, or waste products into electrical and thermal energy and
+            
+40
+
+    
+transferring these forms of energy by a separate apparatus to the point of use or storage] for use
+            
+41
+
+    
+in converting material into biomass energy, as defined in Section 
+
+59-12-102
+
+, and transporting
+            
+42
+
+    
+that energy by separate apparatus to the point of use or storage.
+            
+43
+
+    
+    (c)  "Business entity" means any sole proprietorship, estate, trust, partnership,
+            
+44
+
+    
+association, corporation, cooperative, or other entity under which business is conducted or
+            
+45
+
+    
+transacted.
+            
+46
+
+    
+    (d)  "Commercial energy system" means any active solar, passive solar, geothermal
+            
+47
+
+    
+electricity, direct-use geothermal, wind, hydroenergy, or biomass system used to supply energy
+            
+48
+
+    
+to a commercial unit or as a commercial enterprise.
+            
+49
+
+    
+    (e)  "Commercial enterprise" means a business entity whose purpose is to produce
+            
+50
+
+    
+electrical, mechanical, or thermal energy for sale from a commercial energy system.
+            
+51
+
+    
+    (f) (i)  "Commercial unit" means any building or structure [which] that a business entity
+            
+52
+
+    
+uses to transact its business except as provided in Subsection (1)(f)(ii); and
+            
+53
+
+    
+    (ii) (A)  in the case of an active solar system used for agricultural water pumping or a
+            
+54
+
+    
+wind system, each individual energy generating device shall be a commercial unit; and
+            
+55
+
+    
+    (B)  if an energy system is the building or structure [which] that a business entity uses
+            
+56
+
+    
+to transact its business, a commercial unit is the complete energy system itself.
+            
+57
+
+    
+    (g)  "Direct-use geothermal system" means a system of apparatus and equipment
+            
+58
+
+    
+enabling the direct use of thermal energy, generally between 100 and 300 Fahrenheit, that is
+
+            
+59
+
+
+    
+contained in the earth to meet energy needs, including heating a building, an industrial process,
+            
+60
+
+    
+and aquaculture.
+            
+61
+
+    
+    (h)  "Geothermal electricity" means energy contained in heat that continuously flows
+            
+62
+
+    
+outward from the earth that is used as a sole source of energy to produce electricity.
+            
+63
+
+    
+    [(g)] (i)  "Hydroenergy system" means a system of apparatus and equipment capable of
+            
+64
+
+    
+intercepting and converting kinetic water energy into electrical or mechanical energy and
+            
+65
+
+    
+transferring this form of energy by separate apparatus to the point of use or storage.
+            
+66
+
+    
+    [(h)] (j)  "Individual taxpayer" means any person who is a taxpayer as defined in
+            
+67
+
+    
+Section 
+
+59-10-103
+
+ and an individual as defined in Section 
+
+59-10-103
+
+.
+            
+68
+
+    
+    [(i)] (k)  "Passive solar system":
+            
+69
+
+    
+    (i)  means a direct thermal system [which] that utilizes the structure of a building and its
+            
+70
+
+    
+operable components to provide for collection, storage, and distribution of heating or cooling
+            
+71
+
+    
+during the appropriate times of the year by utilizing the climate resources available at the site;
+            
+72
+
+    
+and
+            
+73
+
+    
+    (ii)  includes those portions and components of a building that are expressly designed
+            
+74
+
+    
+and required for the collection, storage, and distribution of solar energy.
+            
+75
+
+    
+    [(j)] (l)  "Residential energy system" means any active solar, passive solar, biomass,
+            
+76
+
+    
+direct-use geothermal, wind, or hydroenergy system used to supply energy to or for any
+            
+77
+
+    
+residential unit.
+            
+78
+
+    
+    [(k)] (m)  "Residential unit" means any house, condominium, apartment, or similar
+            
+79
+
+    
+dwelling unit [which] that serves as a dwelling for a person, group of persons, or a family but
+            
+80
+
+    
+does not include property subject to a fee under:
+            
+81
+
+    
+    (i)  Section 
+
+59-2-404
+
+;
+            
+82
+
+    
+    (ii)  Section 
+
+59-2-405
+
+;
+            
+83
+
+    
+    (iii)  Section 
+
+59-2-405.1
+
+;
+            
+84
+
+    
+    (iv)  Section 
+
+59-2-405.2
+
+; or
+            
+85
+
+    
+    (v)  Section 
+
+59-2-405.3
+
+.
+            
+86
+
+    
+    [(l)] (n)  "Utah Geological Survey" means the Utah Geological Survey established in
+            
+87
+
+    
+Section 
+
+63-73-5
+
+.
+            
+88
+
+    
+    [(m)] (o)  "Wind system" means a system of apparatus and equipment capable of
+            
+89
+
+    
+intercepting and converting wind energy into mechanical or electrical energy and transferring
+
+            
+90
+
+
+    
+these forms of energy by a separate apparatus to the point of use or storage.
+            
+91
+
+    
+    (2) (a) (i)  For taxable years beginning on or after January 1, [2001] 2006, but beginning
+            
+92
+
+    
+on or before December 31, [2006] 2011, a business entity that purchases and completes or
+            
+93
+
+    
+participates in the financing of a residential energy system to supply all or part of the energy
+            
+94
+
+    
+required for a residential unit owned or used by the business entity and situated in Utah is
+            
+95
+
+    
+entitled to a tax credit as provided in this Subsection (2)(a).
+            
+96
+
+    
+    (ii) (A)  A business entity is entitled to a tax credit equal to 25% of the costs of a
+            
+97
+
+    
+residential energy system installed with respect to each residential unit it owns or uses,
+            
+98
+
+    
+including installation costs, against any tax due under this chapter for the taxable year in which
+            
+99
+
+    
+the energy system is completed and placed in service.
+            
+100
+
+    
+    (B)  The total amount of the credit under this Subsection (2)(a) may not exceed $2,000
+            
+101
+
+    
+per residential unit.
+            
+102
+
+    
+    (C)  The credit under this Subsection (2)(a) is allowed for any residential energy system
+            
+103
+
+    
+completed and placed in service on or after January 1, [2001] 2006, but on or before December
+            
+104
+
+    
+31, [2006] 2011.
+            
+105
+
+    
+    (iii)  If a business entity sells a residential unit to an individual taxpayer [prior to]
+            
+106
+
+    
+before making a claim for the tax credit under this Subsection (2)(a), the business entity may:
+            
+107
+
+    
+    (A)  assign its right to this tax credit to the individual taxpayer; and
+            
+108
+
+    
+    (B)  if the business entity assigns its right to the tax credit to an individual taxpayer
+            
+109
+
+    
+under Subsection (2)(a)(iii)(A), the individual taxpayer may claim the tax credit as if the
+            
+110
+
+    
+individual taxpayer had completed or participated in the costs of the residential energy system
+            
+111
+
+    
+under Section 
+
+59-10-134
+
+.
+            
+112
+
+    
+    (b) (i)  For taxable years beginning on or after January 1, [2001] 2006, but beginning on
+            
+113
+
+    
+or before December 31, [2006] 2011, a business entity that purchases or participates in the
+            
+114
+
+    
+financing of a commercial energy system is entitled to a tax credit as provided in this
+            
+115
+
+    
+Subsection (2)(b) if:
+            
+116
+
+    
+    (A)  the commercial energy system supplies all or part of the energy required by
+            
+117
+
+    
+commercial units owned or used by the business entity; or
+            
+118
+
+    
+    (B)  the business entity sells all or part of the energy produced by the commercial
+            
+119
+
+    
+energy system as a commercial enterprise.
+            
+120
+
+    
+    (ii) (A)  A business entity is entitled to a tax credit equal to 10% of the costs of any
+
+            
+121
+
+
+    
+commercial energy system installed, including installation costs, against any tax due under this
+            
+122
+
+    
+chapter for the taxable year in which the commercial energy system is completed and placed in
+            
+123
+
+    
+service.
+            
+124
+
+    
+    (B)  The total amount of the credit under this Subsection (2)(b) may not exceed $50,000
+            
+125
+
+    
+per commercial unit.
+            
+126
+
+    
+    (C)  The credit under this Subsection (2)(b) is allowed for any commercial energy
+            
+127
+
+    
+system completed and placed in service on or after January 1, [2001] 2006, but on or before
+            
+128
+
+    
+December 31, [2006] 2011.
+            
+129
+
+    
+    (iii)  A business entity that leases a commercial energy system installed on a
+            
+130
+
+    
+commercial unit is eligible for the tax credit under this Subsection (2)(b) if the lessee can
+            
+131
+
+    
+confirm that the lessor irrevocably elects not to claim the credit.
+            
+132
+
+    
+    (iv)  Only the principal recovery portion of the lease payments, which is the cost
+            
+133
+
+    
+incurred by a business entity in acquiring a commercial energy system, excluding interest
+            
+134
+
+    
+charges and maintenance expenses, is eligible for the tax credit under this Subsection (2)(b).
+            
+135
+
+    
+    (v)  A business entity that leases a commercial energy system is eligible to use the tax
+            
+136
+
+    
+credit under this Subsection (2)(b) for a period no greater than seven years from the initiation
+            
+137
+
+    
+of the lease.
+            
+138
+
+    
+    (c) (i)  A tax credit under this section may be claimed for the taxable year in which the
+            
+139
+
+    
+energy system is completed and placed in service.
+            
+140
+
+    
+    (ii)  Additional energy systems or parts of energy systems may be claimed for
+            
+141
+
+    
+subsequent years.
+            
+142
+
+    
+    (iii)  If the amount of a tax credit under this section exceeds a business entity's tax
+            
+143
+
+    
+liability under this chapter for a taxable year, the amount of the credit exceeding the liability
+            
+144
+
+    
+may be carried over for a period which does not exceed the next four taxable years.
+            
+145
+
+    
+    (3) (a)  The tax credits provided for under Subsection (2) are in addition to any tax
+            
+146
+
+    
+credits provided under the laws or rules and regulations of the United States.
+            
+147
+
+    
+    (b) (i)  The Utah Geological Survey may set standards for residential and commercial
+            
+148
+
+    
+energy systems that cover the safety, reliability, efficiency, leasing, and technical feasibility of
+            
+149
+
+    
+the systems to ensure that the systems eligible for the tax credit use the state's renewable and
+            
+150
+
+    
+nonrenewable energy resources in an appropriate and economic manner.
+            
+151
+
+    
+    (ii)  A tax credit may not be taken under Subsection (2) until the Utah Geological
+
+            
+152
+
+
+    
+Survey has certified that the energy system has been completely installed and is a viable system
+            
+153
+
+    
+for saving or production of energy from renewable resources.
+            
+154
+
+    
+    (c)  The Utah Geological Survey and the commission [are authorized to promulgate]
+            
+155
+
+    
+may make rules in accordance with Title 63, Chapter 46a, Utah Administrative Rulemaking
+            
+156
+
+    
+Act, [which] that are necessary to implement this section.
+            
+157
+
+    
+    (d)  The Uniform School Fund shall be reimbursed by transfers from the General Fund
+            
+158
+
+    
+for any credits taken under this section.
+            
+159
+
+    
+    Section 2.  
+Section  
+59-10-134
+
+ is amended to read:
+            
+160
+
+    
+     59-10-134.  Renewable energy systems tax credit -- Definitions -- Individual tax
+            
+161
+
+    
+ credit -- Limitations -- Business tax credit -- Limitations -- State tax credit in addition to
+            
+162
+
+    
+ allowable federal credits -- Certification -- Rulemaking authority -- Reimbursement of
+            
+163
+
+    
+ Uniform School Fund.
+            
+164
+
+    
+    (1)  As used in this part:
+            
+165
+
+    
+    (a)  "Active solar system":
+            
+166
+
+    
+    (i)  means a system of equipment capable of collecting and converting incident solar
+            
+167
+
+    
+radiation into thermal, mechanical, or electrical energy, and transferring these forms of energy
+            
+168
+
+    
+by a separate apparatus to storage or to the point of use; and
+            
+169
+
+    
+    (ii)  includes water heating, space heating or cooling, and electrical or mechanical
+            
+170
+
+    
+energy generation.
+            
+171
+
+    
+    (b)  "Biomass system" means any system of apparatus and equipment [capable of
+            
+172
+
+    
+converting organic plant, wood, or waste products into electrical and thermal energy and
+            
+173
+
+    
+transferring these forms of energy by a separate apparatus to the point of use or storage] for use
+            
+174
+
+    
+in converting material into biomass energy, as defined in Section 
+
+59-12-102
+
+, and transporting
+            
+175
+
+    
+that energy by separate apparatus to the point of use or storage.
+            
+176
+
+    
+    (c)  "Business entity" means any sole proprietorship, estate, trust, partnership,
+            
+177
+
+    
+association, corporation, cooperative, or other entity under which business is conducted or
+            
+178
+
+    
+transacted.
+            
+179
+
+    
+    (d)  "Commercial energy system" means any active solar, passive solar, geothermal
+            
+180
+
+    
+electricity, direct-use geothermal, wind, hydroenergy, or biomass system used to supply energy
+            
+181
+
+    
+to a commercial unit or as a commercial enterprise.
+            
+182
+
+    
+    (e)  "Commercial enterprise" means a business entity whose purpose is to produce
+
+            
+183
+
+
+    
+electrical, mechanical, or thermal energy for sale from a commercial energy system.
+            
+184
+
+    
+    (f) (i)  "Commercial unit" means any building or structure [which] that a business entity
+            
+185
+
+    
+uses to transact its business, except as provided in Subsection (1)(f)(ii); and
+            
+186
+
+    
+    (ii) (A)  in the case of an active solar system used for agricultural water pumping or a
+            
+187
+
+    
+wind system, each individual energy generating device shall be a commercial unit; and
+            
+188
+
+    
+    (B)  if an energy system is the building or structure [which] that a business entity uses
+            
+189
+
+    
+to transact its business, a commercial unit is the complete energy system itself.
+            
+190
+
+    
+    (g)  "Direct-use geothermal system" means a system of apparatus and equipment
+            
+191
+
+    
+enabling the direct use of thermal energy, generally between 100 and 300 Fahrenheit, that is
+            
+192
+
+    
+contained in the earth to meet energy needs, including heating a building, an industrial process,
+            
+193
+
+    
+and aquaculture.
+            
+194
+
+    
+    [(g)] (h)  "Hydroenergy system" means a system of apparatus and equipment capable of
+            
+195
+
+    
+intercepting and converting kinetic water energy into electrical or mechanical energy and
+            
+196
+
+    
+transferring this form of energy by separate apparatus to the point of use or storage.
+            
+197
+
+    
+    [(h)] (i)  "Individual taxpayer" means any person who is a taxpayer as defined in
+            
+198
+
+    
+Section 
+
+59-10-103
+
+ and an individual as defined in Section 
+
+59-10-103
+
+.
+            
+199
+
+    
+    [(i)] (j)  "Passive solar system":
+            
+200
+
+    
+    (i)  means a direct thermal system [which] that utilizes the structure of a building and its
+            
+201
+
+    
+operable components to provide for collection, storage, and distribution of heating or cooling
+            
+202
+
+    
+during the appropriate times of the year by utilizing the climate resources available at the site;
+            
+203
+
+    
+and
+            
+204
+
+    
+    (ii)  includes those portions and components of a building that are expressly designed
+            
+205
+
+    
+and required for the collection, storage, and distribution of solar energy.
+            
+206
+
+    
+    [(j)] (k)  "Residential energy system" means any active solar, passive solar, biomass,
+            
+207
+
+    
+direct-use geothermal, wind, or hydroenergy system used to supply energy to or for any
+            
+208
+
+    
+residential unit.
+            
+209
+
+    
+    [(k)] (l)  "Residential unit" means any house, condominium, apartment, or similar
+            
+210
+
+    
+dwelling unit [which] that serves as a dwelling for a person, group of persons, or a family but
+            
+211
+
+    
+does not include property subject to a fee under:
+            
+212
+
+    
+    (i)  Section 
+
+59-2-404
+
+;
+            
+213
+
+    
+    (ii)  Section 
+
+59-2-405
+
+;
+
+            
+214
+
+
+    
+    (iii)  Section 
+
+59-2-405.1
+
+;
+            
+215
+
+    
+    (iv)  Section 
+
+59-2-405.2
+
+; or
+            
+216
+
+    
+    (v)  Section 
+
+59-2-405.3
+
+.
+            
+217
+
+    
+    [(l)] (m)  "Utah Geological Survey" means the Utah Geological Survey established in
+            
+218
+
+    
+Section 
+
+63-73-5
+
+.
+            
+219
+
+    
+    [(m)] (n)  "Wind system" means a system of apparatus and equipment capable of
+            
+220
+
+    
+intercepting and converting wind energy into mechanical or electrical energy and transferring
+            
+221
+
+    
+these forms of energy by a separate apparatus to the point of use or storage.
+            
+222
+
+    
+    (2)  For taxable years beginning on or after January 1, [2001] 2006, but beginning on or
+            
+223
+
+    
+before December 31, [2006] 2011, any individual taxpayer may claim a tax credit as provided
+            
+224
+
+    
+in this section if:
+            
+225
+
+    
+    (a)  the individual taxpayer purchases and completes or participates in the financing of a
+            
+226
+
+    
+residential energy system to supply all or part of the energy for the individual taxpayer's
+            
+227
+
+    
+residential unit in the state; or
+            
+228
+
+    
+    (b) (i)  a business entity sells a residential unit to an individual taxpayer [prior to]
+            
+229
+
+    
+before making a claim for a tax credit under Subsection (6) or Section 
+
+59-7-614
+
+; and
+            
+230
+
+    
+    (ii)  the business entity assigns its right to the tax credit to the individual taxpayer as
+            
+231
+
+    
+provided in Subsection (6)(c) or Subsection 
+
+59-7-614
+
+(2)(a)(iii).
+            
+232
+
+    
+    (3) (a)  An individual taxpayer meeting the requirements of Subsection (2) is entitled to
+            
+233
+
+    
+a tax credit equal to 25% of the costs of the energy system, including installation costs, against
+            
+234
+
+    
+any income tax liability of the individual taxpayer under this chapter for the taxable year in
+            
+235
+
+    
+which the residential energy system is completed and placed in service.
+            
+236
+
+    
+    (b)  The total amount of the credit under this section may not exceed $2,000 per
+            
+237
+
+    
+residential unit.
+            
+238
+
+    
+    (c)  The credit under this section is allowed for any residential energy system completed
+            
+239
+
+    
+and placed in service on or after January 1, [2001] 2006, but on or before December 31, [2006]
+            
+240
+
+    
+2011.
+            
+241
+
+    
+    (4) (a)  The tax credit provided for in this section shall be claimed in the return for the
+            
+242
+
+    
+taxable year in which the energy system is completed and placed in service.
+            
+243
+
+    
+    (b)  Additional residential energy systems or parts of residential energy systems may be
+            
+244
+
+    
+similarly claimed in returns for subsequent taxable years as long as the total amount claimed
+
+            
+245
+
+
+    
+does not exceed $2,000 per residential unit.
+            
+246
+
+    
+    (c)  If the amount of the tax credit under this section exceeds the income tax liability of
+            
+247
+
+    
+the individual taxpayer for that taxable year, then the amount not used may be carried over for
+            
+248
+
+    
+a period [which] that does not exceed the next four taxable years.
+            
+249
+
+    
+    (5) (a)  Individual taxpayers who lease a residential energy system installed on a
+            
+250
+
+    
+residential unit are eligible for the residential energy tax credits if the lessee can confirm that
+            
+251
+
+    
+the lessor irrevocably elects not to claim the state tax credit.
+            
+252
+
+    
+    (b)  Only the principal recovery portion of the lease payments, which is the cost
+            
+253
+
+    
+incurred by the taxpayer in acquiring the residential energy system excluding interest charges
+            
+254
+
+    
+and maintenance expenses, is eligible for the tax credits.
+            
+255
+
+    
+    (c)  Individual taxpayers who lease residential energy systems are eligible to use the tax
+            
+256
+
+    
+credits for a period no greater than seven years from the initiation of the lease.
+            
+257
+
+    
+    (6) (a)  A business entity that purchases and completes or participates in the financing
+            
+258
+
+    
+of a residential energy system to supply all or part of the energy required for a residential unit
+            
+259
+
+    
+owned or used by the business entity and situated in Utah is entitled to a tax credit as provided
+            
+260
+
+    
+in this Subsection (6).
+            
+261
+
+    
+    (b) (i)  For taxable years beginning on or after January 1, [2001] 2006, but beginning on
+            
+262
+
+    
+or before December 31, [2006] 2011, a business entity is entitled to a tax credit equal to 25% of
+            
+263
+
+    
+the costs of a residential energy system installed with respect to each residential unit it owns or
+            
+264
+
+    
+uses, including installation costs, against any tax due under this chapter for the taxable year in
+            
+265
+
+    
+which the energy system is completed and placed in service.
+            
+266
+
+    
+    (ii)  The total amount of the credit under this Subsection (6) may not exceed $2,000 per
+            
+267
+
+    
+residential unit.
+            
+268
+
+    
+    (iii)  The credit under this Subsection (6) is allowed for any residential energy system
+            
+269
+
+    
+completed and placed in service on or after January 1, [2001] 2006, but on or before December
+            
+270
+
+    
+31, [2006] 2011.
+            
+271
+
+    
+    (c)  If a business entity sells a residential unit to an individual taxpayer [prior to] before
+            
+272
+
+    
+making a claim for the tax credit under this Subsection (6), the business entity may:
+            
+273
+
+    
+    (i)  assign its right to this tax credit to the individual taxpayer; and
+            
+274
+
+    
+    (ii)  if the business entity assigns its right to the tax credit to an individual taxpayer
+            
+275
+
+    
+under Subsection (6)(c)(i), the individual taxpayer may claim the tax credit as if the individual
+
+            
+276
+
+
+    
+taxpayer had completed or participated in the costs of the residential energy system under this
+            
+277
+
+    
+section.
+            
+278
+
+    
+    (7) (a)  A business entity that purchases or participates in the financing of a commercial
+            
+279
+
+    
+energy system is entitled to a tax credit as provided in this Subsection (7) if:
+            
+280
+
+    
+    (i)  the commercial energy system supplies all or part of the energy required by
+            
+281
+
+    
+commercial units owned or used by the business entity; or
+            
+282
+
+    
+    (ii)  the business entity sells all or part of the energy produced by the commercial
+            
+283
+
+    
+energy system as a commercial enterprise.
+            
+284
+
+    
+    (b) (i)  A business entity is entitled to a tax credit equal to 10% of the costs of any
+            
+285
+
+    
+commercial energy system installed, including installation costs, against any tax due under this
+            
+286
+
+    
+chapter for the taxable year in which the commercial energy system is completed and placed in
+            
+287
+
+    
+service.
+            
+288
+
+    
+    (ii)  The total amount of the credit under this Subsection (7) may not exceed $50,000
+            
+289
+
+    
+per commercial unit.
+            
+290
+
+    
+    (iii)  The credit under this Subsection (7) is allowed for any commercial energy system
+            
+291
+
+    
+completed and placed in service on or after January 1, [2001] 2006, but on or before December
+            
+292
+
+    
+31, [2006] 2011.
+            
+293
+
+    
+    (c)  A business entity that leases a commercial energy system installed on a commercial
+            
+294
+
+    
+unit is eligible for the tax credit under this Subsection (7) if the lessee can confirm that the
+            
+295
+
+    
+lessor irrevocably elects not to claim the credit.
+            
+296
+
+    
+    (d)  Only the principal recovery portion of the lease payments, which is the cost
+            
+297
+
+    
+incurred by a business entity in acquiring a commercial energy system, excluding interest
+            
+298
+
+    
+charges and maintenance expenses, is eligible for the tax credit under this Subsection (7).
+            
+299
+
+    
+    (e)  A business entity that leases a commercial energy system is eligible to use the tax
+            
+300
+
+    
+credit under this Subsection (7) for a period no greater than seven years from the initiation of
+            
+301
+
+    
+the lease.
+            
+302
+
+    
+    (8) (a)  A tax credit under this section may be claimed for the taxable year in which the
+            
+303
+
+    
+energy system is completed and placed in service.
+            
+304
+
+    
+    (b)  Additional energy systems or parts of energy systems may be claimed for
+            
+305
+
+    
+subsequent years.
+            
+306
+
+    
+    (c)  If the amount of a tax credit under this section exceeds a business entity's tax
+
+            
+307
+
+
+    
+liability under this chapter for a taxable year, the amount of the credit exceeding the liability
+            
+308
+
+    
+may be carried over for a period which does not exceed the next four taxable years.
+            
+309
+
+    
+    (9)  The tax credits provided for under this section are in addition to any tax credits
+            
+310
+
+    
+provided under the laws or rules and regulations of the United States.
+            
+311
+
+    
+    (10) (a)  The Utah Geological Survey may set standards for residential and commercial
+            
+312
+
+    
+energy systems that cover the safety, reliability, efficiency, leasing, and technical feasibility of
+            
+313
+
+    
+the systems to ensure that the systems eligible for the tax credit use the state's renewable and
+            
+314
+
+    
+nonrenewable energy resources in an appropriate and economic manner.
+            
+315
+
+    
+    (b)  A tax credit may not be taken under this section until the Utah Geological Survey
+            
+316
+
+    
+has certified that the energy system has been completely installed and is a viable system for
+            
+317
+
+    
+saving or production of energy from renewable resources.
+            
+318
+
+    
+    (11)  The Utah Geological Survey and the commission [are authorized to promulgate]
+            
+319
+
+    
+may make rules in accordance with Title 63, Chapter 46a, Utah Administrative Rulemaking
+            
+320
+
+    
+Act, [which] that are necessary to implement this section.
+            
+321
+
+    
+    (12)  The Uniform School Fund shall be reimbursed by transfers from the General Fund
+            
+322
+
+    
+for any credits taken under this section.
+
+
+
+
+ Legislative Review Note
+    as of  11-10-05  8:51 AM
+
+Based on a limited legal review, this legislation has not been determined to have a high
+probability of being held unconstitutional.
+
+ Office of Legislative Research and General Counsel
+
+
+ Interim Committee Note
+    as of 12-21-05 2:58 PM
+
+The Public Utilities and Technology Interim Committee recommended this bill.
+[Bill Documents][Bills Directory]
+
+
+
+
+
+
+
+
+
+Who represents me?
+
+
+
+
+
+Remember my Legislators
+
+
+
+
+
+State Senate
+		350 North State, Suite 320
+		PO Box 145115
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1035
+		Fax: (801) 326-1475
+
+
+
+House of Representatives
+		350 North State, Suite 350
+		PO Box 145030
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1029
+		Fax: (801) 326-1544
+
+
+
+
+
+
+
+
+
+
+Home
+Mobile Site
+Site Map
+Calendar
+Code / Constitution
+House
+Senate
+
+Terms of Use/Privacy Policy
+
+ADA
+Utah.gov
+
+
+
+
+
+
+

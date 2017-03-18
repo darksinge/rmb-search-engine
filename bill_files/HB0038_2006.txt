@@ -1,0 +1,2168 @@
+Sponsors: []Modifications: ; and(r) (i)  approve, approve in part, approve with conditions, or deny, in writing, anapplication for water reuse under Title 73, Chapter 3c, Wastewater Reuse Act; and(ii)  issue an operating permit for water reuse under Title 73, Chapter 3c, WastewaterReuse Act.    73-3c-101.This chapter is known as the "Wastewater Reuse Act."    73-3c-102.As used in this chapter:(1)  "Domestic wastewater" or "sewage" means:(a)  a combination of the liquid or water-carried wastes from:(i)  structures with installed plumbing facilities; and(ii)  industrial establishments; and(b)  any groundwater, surface water, and storm water that is present with the waste.(2)  "POTW" means a publicly owned treatment works as defined by Section 
+
+19-5-102
+
+.(3)  "Public agency" means a public agency as defined by Section 
+
+11-13-103
+
+ that:(a)  owns or operates a POTW;(b)  collects and transports domestic wastewater;    (c)  holds legal title to a water right;(d)  is delegated the right to the beneficial use or reuse of water by the legal title holderof the water right;(e)  is a water supplier; or(f)  sells wholesale or retail water.(4)  "Return flow requirement" means return flow required under a water right.(5) (a) "Reuse authorization contract" means a contract or contracts among:(i)  a public agency proposing a water reuse project;(ii)  the owner or operator of a POTW that treats domestic wastewater proposed for usein a reuse project;(iii)  the owner of a domestic wastewater collection or transportation system if the reuseproject will divert domestic wastewater directly from that entity's collection or transportationsystem;(iv)  the legal title holder of the water right designated for use in the reuse project,unless the legal title holder of the water right has delegated to another the right to the beneficialuse or reuse of the water;(v)  each water supplier not holding legal title to the water right designated for use inthe reuse project that sells or delivers water under the water right designated for use in thereuse project;(vi)  each entity that will engage in the wholesale or retail sale of water from the waterreuse project; and(vii)  the retail water supplier retailing water that will be replaced by reuse watersupplied under the proposed reuse project.(b)  A reuse authorization contract shall:(i)  provide that a water supplier that is a party to the agreement consents to the use ofreuse water under each water right, in which the water supplier has an interest, that is identifiedfor use in the water reuse project; and(ii)  provide that any proposed water reuse project based on the contract shall beconsistent with the underlying water right.(6)  "Reuse water" means domestic wastewater treated to a standard acceptable underrules made by the Water Quality Board under Section 
+
+19-5-104
+
+.(7)  "Water reuse project" or "project" means a project for the reuse of domesticwastewater that requires approval by the Water Quality Board in accordance with Section
+
+19-5-104
+
+ and the state engineer under Section 
+
+73-3c-302
+
+.(8)  "Water right" means:(a)  a right to use water evidenced by any means identified in Section 
+
+73-1-10
+
+; or(b)  a right to use water under an approved application:(i)  to appropriate;(ii)  for a change of use; or(iii)  for the exchange of water.(9)  "Water supplier" means an entity engaged in the delivery of water for municipalpurposes.    73-3c-201.(1)  A public agency owning or operating a POTW that treats domestic wastewaterconsisting of water supplied under a water right the public agency owns may use, or contractfor the use of, reuse water if:(a)   the water right is administered by the state engineer as a municipal water right;(b)  the reuse is consistent, under Subsection 
+
+73-3c-302
+
+(5), with the underlying waterright; and(c)  the public agency receives approval in accordance with Sections 
+
+73-3c-301
+
+ and
+
+73-3c-302
+
+.(2)  A change application shall be filed in accordance with Section 
+
+73-3-3
+
+ if the publicagency proposes a water reuse that is inconsistent with the underlying water right.    73-3c-202.(1)  A public agency may use or contract for the use of reuse water if:(a)  the domestic wastewater consists of water for which the public agency has a reuseauthorization contract;(b)  the water right is administered by the state engineer as a municipal water right;(c)  the reuse is consistent, under Subsection 
+
+73-3c-302
+
+(5), with the underlying waterright; and(d)  the public agency receives approval in accordance with Sections 
+
+73-3c-301
+
+ and
+
+73-3c-302
+
+.(2)  A change application shall be filed in accordance with Section 
+
+73-3-3
+
+ if the publicagency proposes a water reuse that is inconsistent with the underlying water right.    73-3c-301.(1)  A public agency proposing a water reuse project shall apply to the Water QualityBoard created by Section 
+
+19-1-106
+
+.(2)  The Water Quality Board may make rules, in accordance with Title 63, Chapter46a, Utah Administrative Rulemaking Act, governing the consideration and approval of waterreuse applications and administration of water reuse construction and operating permits.(3)  Rules created under Subsection (2) shall require that water reuse meet standardsand requirements for water quality set by the Water Quality Board in accordance with Title 19,Chapter 5, Water Quality Act.(4)  The Water Quality Board shall issue a written decision for each water reuseapplication.    73-3c-302.(1)  A public agency proposing water reuse shall apply to the state engineer.(2)  An application for water reuse under Subsection (1) shall be made upon formsfurnished by the state engineer and shall include:(a)  the name of the applicant;(b)  a description of the underlying water right;(c)  an evaluation of the underlying water right's diversion, depletion, and return flowrequirements;(d)  the estimated quantity of water to be reused;(e)  the location of the POTW;(f)  the place, purpose, and extent of the proposed water reuse;(g)  an evaluation of depletion from the hydrologic system caused by the water reuse;and(h)  any other information consistent with this chapter that is requested by the stateengineer.(3)  An application under Subsection (1) shall include a copy of a reuse authorizationcontract for water reuse proposed by a public agency for any underlying water right not ownedby the public agency.(4)  In considering an application for water reuse, the state engineer shall comply with:(a)  Section 
+
+73-3-6
+
+;(b)  Section 
+
+73-3-7
+
+;(c)  Section 
+
+73-3-10
+
+; and(d)  Section 
+
+73-3-14
+
+.(5)  In determining whether a proposed water reuse is consistent with the underlyingwater right, the state engineer shall conclude that a proposed water reuse is consistent with theunderlying water right if:(a)  the use of the reuse water does not enlarge the underlying water right; and(b)  any return flow requirement of the underlying water right is satisfied.(6) (a)  The state engineer shall approve a water reuse application if the state engineerconcludes that the proposed water reuse is consistent with the underlying water right.(b)  The state engineer may:(i)  deny an application for water reuse if the proposed water reuse is inconsistent withthe underlying water right; or(ii)  approve the application in part or with conditions to assure consistency with theunderlying water right.(7)  A public agency with an approved reuse application shall submit a report, asdirected by the state engineer, concerning the ongoing water reuse operation.(8)  The state engineer may make rules in accordance with Title 63, Chapter 46a, UtahAdministrative Rulemaking Act, to implement the provisions of this chapter.    73-3c-303.If domestic wastewater inflow to a POTW consists of any unappropriated infiltrationwater, a person may apply to the state engineer to appropriate the unappropriated infiltrationwater to a beneficial use in accordance with Section 
+
+73-3-8
+
+.    73-3c-304.(1)  The point of discharge of water from a POTW may be changed if the Water QualityBoard determines that a change is necessary:(a)  for treatment purposes;(b)  to enhance environmental quality;(c)  to protect public health, safety, or welfare; or(d)  to comply with:(i)  rules created by the Water Quality Board in accordance with Section 
+
+19-5-104
+
+; or(ii)  the POTW's discharge permit.(2)  Before changing the point of discharge from a POTW under Subsection (1), theWater Quality Board shall consult with the state engineer.    73-3c-401.If the use of reuse water is consistent with the underlying water right, the priority of thereuse water is the same as the priority of the underlying water right.Full text:
+
+
+
+Utah State Legislature
+
+
+
+
+
+
+
+
+
+
+
+
+Legislators
+
+By Session (1896-Current)
+Alphabetical (Historical)
+Find by Address/Map
+More
+
+
+Bills
+
+Bills/Bill Requests
+Passed Bills
+2017 Bills
+
+Keyword Search
+Reading Calendars
+Tracking Service
+More
+
+
+Committees
+
+All Committees
+Appropriations
+Commissions
+
+Independent Legislative Ethics Commission
+Interim
+Standing
+Subcommittees
+Task Forces
+Bills In Committees
+
+
+Utah Code / Constitution
+
+
+Title/Chapter/Section
+Keyword Search 
+
+Utah Constitution
+Laws of Utah 1851-ongoing
+Utah Territorial Laws 
+More
+
+
+Senate
+
+Main Page 
+About The Senate 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Extraordinary Sessions 
+Reading Calendars 
+Past Floor Debates 
+Senate Journals 
+
+
+House
+
+Main Page
+About the House 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Reading Calendars 
+Past Floor Debates 
+Journals 
+Conflict of Interest Forms 
+
+
+Legislative Guide 
+
+Legislative Guide
+Civic Programs
+GRAMA (Records Requests)
+
+
+Publications
+
+Search Publications
+Appropriations
+Audits
+Bagels & Briefings
+Briefing Papers
+Digest of Legislation
+Legislative Drafting Manual
+
+Journals
+
+Interim Highlights
+
+Legislative Rules
+GRAMA (Records Requests)
+Public Email
+State Organization Charts
+YouTube Channel
+Requests for Proposals and Legal Notices
+More
+
+
+Legislative Histories
+
+Legislative History Resources
+How to Research
+Bill Drafting/Research Files (1990-Ongoing)
+
+Working Bills (1896-1989)
+Interim Committee Histories (1990-Ongoing) 
+Journals
+Past House Floor Debates
+Past Senate Floor Debates
+More
+
+
+Staff Offices
+
+All Legislative Offices
+Auditor General
+Fiscal Analyst
+Printing
+Research and General Counsel
+Staff Awards
+Job Opportunities
+More
+
+
+Links of Interest
+
+Utah Administrative Rules
+Courts
+Utah State Capitol
+State of Utah
+Federal Legislation
+More
+
+
+
+
+
+
+ 
+
+Download Zipped Introduced WordPerfect HB0038.ZIP
+[Status][Bill Documents][Fiscal Note][Bills Directory]
+
+
+H.B. 38
+
+
+
+
+
+            
+1
+
+    
+ WATER REUSE REQUIREMENTS
+
+
+            
+2
+
+    
+2006 GENERAL SESSION
+
+            
+3
+
+    
+STATE OF UTAH
+
+            
+4
+
+    
+ Chief Sponsor:  Ben C. Ferry
+
+            
+5
+
+    
+
+Senate Sponsor: 
+
+
+  Thomas V. Hatch
+
+
+
+            
+6
+
+    
+
+            
+7
+
+    
+ LONG TITLE
+            
+8
+
+    
+ General Description:
+            
+9
+
+    
+    This bill addresses requirements for water reuse projects.
+            
+10
+
+    
+ Highlighted Provisions:
+            
+11
+
+    
+    This bill:
+            
+12
+
+    
+    .    defines terms;
+            
+13
+
+    
+    .    allows reuse of water by a public agency, including water for which water rights are
+            
+14
+
+    
+not owned by the agency but a reuse authorization contract exists;
+            
+15
+
+    
+    .    establishes a process for approval of a water reuse project;
+            
+16
+
+    
+    .    addresses the effects of a water reuse project; and
+            
+17
+
+    
+    .    makes technical changes.
+            
+18
+
+    
+ Monies Appropriated in this Bill:
+            
+19
+
+    
+    None
+            
+20
+
+    
+ Other Special Clauses:
+            
+21
+
+    
+    None
+            
+22
+
+    
+ Utah Code Sections Affected:
+            
+23
+
+    
+AMENDS:
+            
+24
+
+    
+     19-5-104, as last amended by Chapter 274, Laws of Utah 2001
+            
+25
+
+    
+ENACTS:
+            
+26
+
+    
+     73-3c-101, Utah Code Annotated 1953
+            
+27
+
+    
+     73-3c-102, Utah Code Annotated 1953
+
+            
+28
+
+
+    
+     73-3c-201, Utah Code Annotated 1953
+            
+29
+
+    
+     73-3c-202, Utah Code Annotated 1953
+            
+30
+
+    
+     73-3c-301, Utah Code Annotated 1953
+            
+31
+
+    
+     73-3c-302, Utah Code Annotated 1953
+            
+32
+
+    
+     73-3c-303, Utah Code Annotated 1953
+            
+33
+
+    
+     73-3c-304, Utah Code Annotated 1953
+            
+34
+
+    
+     73-3c-401, Utah Code Annotated 1953
+            
+35
+
+    
+REPEALS:
+            
+36
+
+    
+     73-3c-1, as enacted by Chapter 39, Laws of Utah 1995
+            
+37
+
+    
+     73-3c-2, as enacted by Chapter 39, Laws of Utah 1995
+            
+38
+
+    
+     73-3c-3, as enacted by Chapter 39, Laws of Utah 1995
+            
+39
+
+    
+     73-3c-4, as enacted by Chapter 39, Laws of Utah 1995
+            
+40
+
+    
+     73-3c-5, as enacted by Chapter 39, Laws of Utah 1995
+            
+41
+
+    
+     73-3c-6, as enacted by Chapter 39, Laws of Utah 1995
+            
+42
+
+    
+     73-3c-7, as enacted by Chapter 39, Laws of Utah 1995
+            
+43
+
+    
+     73-3c-8, as enacted by Chapter 39, Laws of Utah 1995
+            
+44
+
+    
+
+            
+45
+
+    
+Be it enacted by the Legislature of the state of Utah:
+            
+46
+
+    
+    Section 1.  
+Section  
+19-5-104
+
+ is amended to read:
+            
+47
+
+    
+     19-5-104.  Powers and duties of board.
+            
+48
+
+    
+    (1)  The board has the following powers and duties, but the board shall give priority to
+            
+49
+
+    
+pollution that results in hazards to the public health:
+            
+50
+
+    
+    (a)  develop programs for the prevention, control, and abatement of new or existing
+            
+51
+
+    
+pollution of the waters of the state;
+            
+52
+
+    
+    (b)  advise, consult, and cooperate with other agencies of the state, the federal
+            
+53
+
+    
+government, other states, and interstate agencies, and with affected groups, political
+            
+54
+
+    
+subdivisions, and industries to further the purposes of this chapter;
+            
+55
+
+    
+    (c)  encourage, participate in, or conduct studies, investigations, research, and
+            
+56
+
+    
+demonstrations relating to water pollution and causes of water pollution as the board finds
+            
+57
+
+    
+necessary to discharge its duties;
+            
+58
+
+    
+    (d)  collect and disseminate information relating to water pollution and the prevention,
+
+            
+59
+
+
+    
+control, and abatement of water pollution;
+            
+60
+
+    
+    (e)  adopt, modify, or repeal standards of quality of the waters of the state and classify
+            
+61
+
+    
+those waters according to their reasonable uses in the interest of the public under conditions the
+            
+62
+
+    
+board may prescribe for the prevention, control, and abatement of pollution;
+            
+63
+
+    
+    (f)  make rules in accordance with Title 63, Chapter 46a, Utah Administrative
+            
+64
+
+    
+Rulemaking Act, taking into account Subsection (2), to:
+            
+65
+
+    
+    (i)  implement the awarding of construction loans to political subdivisions and
+            
+66
+
+    
+municipal authorities under Section 
+
+11-8-2
+
+, including:
+            
+67
+
+    
+    (A)  requirements pertaining to applications for loans;
+            
+68
+
+    
+    (B)  requirements for determination of eligible projects;
+            
+69
+
+    
+    (C)  requirements for determination of the costs upon which loans are based, which
+            
+70
+
+    
+costs may include engineering, financial, legal, and administrative expenses necessary for the
+            
+71
+
+    
+construction, reconstruction, and improvement of sewage treatment plants, including major
+            
+72
+
+    
+interceptors, collection systems, and other facilities appurtenant to the plant;
+            
+73
+
+    
+    (D)  a priority schedule for awarding loans, in which the board may consider in addition
+            
+74
+
+    
+to water pollution control needs any financial needs relevant, including per capita cost, in
+            
+75
+
+    
+making a determination of priority; and
+            
+76
+
+    
+    (E)  requirements for determination of the amount of the loan;
+            
+77
+
+    
+    (ii)  implement the awarding of loans for nonpoint source projects pursuant to Section
+            
+78
+
+    
+
+73-10c-4.5
+
+;
+            
+79
+
+    
+    (iii)  set effluent limitations and standards subject to Section 
+
+19-5-116
+
+;
+            
+80
+
+    
+    (iv)  implement or effectuate the powers and duties of the board; and
+            
+81
+
+    
+    (v)  protect the public health for the design, construction, operation, and maintenance of
+            
+82
+
+    
+underground wastewater disposal systems, liquid scavenger operations, and vault and earthen
+            
+83
+
+    
+pit privies;
+            
+84
+
+    
+    (g)  issue, modify, or revoke orders:
+            
+85
+
+    
+    (i)  prohibiting or abating discharges;
+            
+86
+
+    
+    (ii)  requiring the construction of new treatment works or any parts of them, or requiring
+            
+87
+
+    
+the modification, extension, or alteration of existing treatment works as specified by board rule
+            
+88
+
+    
+or any parts of them, or the adoption of other remedial measures to prevent, control, or abate
+            
+89
+
+    
+pollution;
+
+            
+90
+
+
+    
+    (iii)  setting standards of water quality, classifying waters or evidencing any other
+            
+91
+
+    
+determination by the board under this chapter; and
+            
+92
+
+    
+    (iv)  requiring compliance with this chapter and with rules made under this chapter;
+            
+93
+
+    
+    (h)  review plans, specifications, or other data relative to disposal systems or any part of
+            
+94
+
+    
+disposal systems, and issue construction permits for the installation or modification of
+            
+95
+
+    
+treatment works or any parts of them;
+            
+96
+
+    
+    (i)  after public notice and opportunity for a public hearing, issue, continue in effect,
+            
+97
+
+    
+revoke, modify, or deny discharge permits under reasonable conditions the board may prescribe
+            
+98
+
+    
+to control the management of sewage sludge or to prevent or control the discharge of
+            
+99
+
+    
+pollutants, including effluent limitations for the discharge of wastes into the waters of the state;
+            
+100
+
+    
+    (j)  give reasonable consideration in the exercise of its powers and duties to the
+            
+101
+
+    
+economic impact of water pollution control on industry and agriculture;
+            
+102
+
+    
+    (k)  exercise all incidental powers necessary to carry out the purposes of this chapter,
+            
+103
+
+    
+including delegation to the department of its duties as appropriate to improve administrative
+            
+104
+
+    
+efficiency;
+            
+105
+
+    
+    (l)  meet the requirements of federal law related to water pollution;
+            
+106
+
+    
+    (m)  establish and conduct a continuing planning process for control of water pollution
+            
+107
+
+    
+including the specification and implementation of maximum daily loads of pollutants;
+            
+108
+
+    
+    (n)  make rules governing inspection, monitoring, recordkeeping, and reporting
+            
+109
+
+    
+requirements for underground injections and require permits for them, to protect drinking water
+            
+110
+
+    
+sources, except for wells, pits, and ponds covered by Section 
+
+40-6-5
+
+ regarding gas and oil,
+            
+111
+
+    
+recognizing that underground injection endangers drinking water sources if:
+            
+112
+
+    
+    (i)  injection may result in the presence of any contaminant in underground water which
+            
+113
+
+    
+supplies or can reasonably be expected to supply any public water system, as defined in Section
+            
+114
+
+    
+
+19-4-102
+
+; and
+            
+115
+
+    
+    (ii)  the presence of the contaminant may result in the public water system not
+            
+116
+
+    
+complying with any national primary drinking water standards or may otherwise adversely
+            
+117
+
+    
+affect the health of persons;
+            
+118
+
+    
+    (o)  make rules governing sewage sludge management, including permitting, inspecting,
+            
+119
+
+    
+monitoring, recordkeeping, and reporting requirements;
+            
+120
+
+    
+    (p)  adopt and enforce rules and establish fees to cover the costs of testing for
+
+            
+121
+
+
+    
+certification of operators of treatment works and sewerage systems operated by political
+            
+122
+
+    
+subdivisions; [and]
+            
+123
+
+    
+    (q)  notwithstanding the provisions of Section 
+
+19-4-112
+
+, make rules governing design
+            
+124
+
+    
+and construction of irrigation systems which convey sewage treatment facility effluent of
+            
+125
+
+    
+human origin in pipelines under pressure, unless contained in surface pipes wholly on private
+            
+126
+
+    
+property and for agricultural purposes, and which are constructed after May 4, 1998[.]; and
+            
+127
+
+    
+    (r) (i)  approve, approve in part, approve with conditions, or deny, in writing, an
+            
+128
+
+    
+application for water reuse under Title 73, Chapter 3c, Wastewater Reuse Act; and
+            
+129
+
+    
+    (ii)  issue an operating permit for water reuse under Title 73, Chapter 3c, Wastewater
+            
+130
+
+    
+Reuse Act.
+            
+131
+
+    
+    (2)  In determining eligible project costs and in establishing priorities pursuant to
+            
+132
+
+    
+Subsection (1)(f)(i), the board shall take into consideration the availability of federal grants.
+            
+133
+
+    
+    (3)  In establishing certification rules under Subsection (1)(p), the board shall:
+            
+134
+
+    
+    (a)  base the requirements for certification on the size, treatment process type, and
+            
+135
+
+    
+complexity of the treatment works and sewerage systems operated by political subdivisions;
+            
+136
+
+    
+    (b)  allow operators until three years after the date of adoption of the rules to obtain
+            
+137
+
+    
+initial certification;
+            
+138
+
+    
+    (c)  allow new operators one year from the date they are hired by a treatment plant or
+            
+139
+
+    
+sewerage system or three years after the date of adoption of the rules, whichever occurs later, to
+            
+140
+
+    
+obtain certification;
+            
+141
+
+    
+    (d)  issue certification upon application and without testing, at a grade level comparable
+            
+142
+
+    
+to the grade of current certification to operators who are currently certified under the voluntary
+            
+143
+
+    
+certification plan for wastewater works operators as recognized by the board; and
+            
+144
+
+    
+    (e)  issue a certification upon application and without testing that is valid only at the
+            
+145
+
+    
+treatment works or sewerage system where that operator is currently employed if the operator:
+            
+146
+
+    
+    (i)  is in charge of and responsible for the treatment works or sewerage system on
+            
+147
+
+    
+March 16, 1991;
+            
+148
+
+    
+    (ii)  has been employed at least ten years in the operation of that treatment works or
+            
+149
+
+    
+sewerage system prior to March 16, 1991; and
+            
+150
+
+    
+    (iii)  demonstrates to the board his capability to operate the treatment works or
+            
+151
+
+    
+sewerage system at which he is currently employed by providing employment history and
+
+            
+152
+
+
+    
+references as required by the board.
+            
+153
+
+    
+    Section 2.  
+Section  
+73-3c-101
+
+ is enacted to read:
+            
+154
+
+    
+ CHAPTER 3c.  WASTEWATER REUSE ACT
+
+            
+155
+
+    
+ Part 1.  General Provisions
+
+            
+156
+
+    
+     73-3c-101.  Title.
+            
+157
+
+    
+    This chapter is known as the "Wastewater Reuse Act."
+            
+158
+
+    
+    Section 3.  
+Section  
+73-3c-102
+
+ is enacted to read:
+            
+159
+
+    
+     73-3c-102.  Definitions.
+            
+160
+
+    
+    As used in this chapter:
+            
+161
+
+    
+    (1)  "Domestic wastewater" or "sewage" means:
+            
+162
+
+    
+    (a)  a combination of the liquid or water-carried wastes from:
+            
+163
+
+    
+    (i)  structures with installed plumbing facilities; and
+            
+164
+
+    
+    (ii)  industrial establishments; and
+            
+165
+
+    
+    (b)  any groundwater, surface water, and storm water that is present with the waste.
+            
+166
+
+    
+    (2)  "POTW" means a publicly owned treatment works as defined by Section 
+
+19-5-102
+
+.
+            
+167
+
+    
+    (3)  "Public agency" means a public agency as defined by Section 
+
+11-13-103
+
+ that:
+            
+168
+
+    
+    (a)  owns or operates a POTW;
+            
+169
+
+    
+    (b)  collects and transports domestic wastewater;
+            
+170
+
+    
+    (c)  holds legal title to a water right;
+            
+171
+
+    
+    (d)  is delegated the right to the beneficial use or reuse of water by the legal title holder
+            
+172
+
+    
+of the water right;
+            
+173
+
+    
+    (e)  is a water supplier; or
+            
+174
+
+    
+    (f)  sells wholesale or retail water.
+            
+175
+
+    
+    (4)  "Return flow requirement" means return flow required under a water right.
+            
+176
+
+    
+    (5) (a) "Reuse authorization contract" means a contract or contracts among:
+            
+177
+
+    
+    (i)  a public agency proposing a water reuse project;
+            
+178
+
+    
+    (ii)  the owner or operator of a POTW that treats domestic wastewater proposed for use
+            
+179
+
+    
+in a reuse project;
+            
+180
+
+    
+    (iii)  the owner of a domestic wastewater collection or transportation system if the reuse
+            
+181
+
+    
+project will divert domestic wastewater directly from that entity's collection or transportation
+            
+182
+
+    
+system;
+
+            
+183
+
+
+    
+    (iv)  the legal title holder of the water right designated for use in the reuse project,
+            
+184
+
+    
+unless the legal title holder of the water right has delegated to another the right to the beneficial
+            
+185
+
+    
+use or reuse of the water;
+            
+186
+
+    
+    (v)  each water supplier not holding legal title to the water right designated for use in
+            
+187
+
+    
+the reuse project that sells or delivers water under the water right designated for use in the
+            
+188
+
+    
+reuse project;
+            
+189
+
+    
+    (vi)  each entity that will engage in the wholesale or retail sale of water from the water
+            
+190
+
+    
+reuse project; and
+            
+191
+
+    
+    (vii)  the retail water supplier retailing water that will be replaced by reuse water
+            
+192
+
+    
+supplied under the proposed reuse project.
+            
+193
+
+    
+    (b)  A reuse authorization contract shall:
+            
+194
+
+    
+    (i)  provide that a water supplier that is a party to the agreement consents to the use of
+            
+195
+
+    
+reuse water under each water right, in which the water supplier has an interest, that is identified
+            
+196
+
+    
+for use in the water reuse project; and
+            
+197
+
+    
+    (ii)  provide that any proposed water reuse project based on the contract shall be
+            
+198
+
+    
+consistent with the underlying water right.
+            
+199
+
+    
+    (6)  "Reuse water" means domestic wastewater treated to a standard acceptable under
+            
+200
+
+    
+rules made by the Water Quality Board under Section 
+
+19-5-104
+
+.
+            
+201
+
+    
+    (7)  "Water reuse project" or "project" means a project for the reuse of domestic
+            
+202
+
+    
+wastewater that requires approval by the Water Quality Board in accordance with Section
+            
+203
+
+    
+
+
+19-5-104
+
+ and the state engineer under Section 
+
+73-3c-302
+
+.
+            
+204
+
+    
+    (8)  "Water right" means:
+            
+205
+
+    
+    (a)  a right to use water evidenced by any means identified in Section 
+
+73-1-10
+
+; or
+            
+206
+
+    
+    (b)  a right to use water under an approved application:
+            
+207
+
+    
+    (i)  to appropriate;
+            
+208
+
+    
+    (ii)  for a change of use; or
+            
+209
+
+    
+    (iii)  for the exchange of water.
+            
+210
+
+    
+    (9)  "Water supplier" means an entity engaged in the delivery of water for municipal
+            
+211
+
+    
+purposes.
+            
+212
+
+    
+    Section 4.  
+Section  
+73-3c-201
+
+ is enacted to read:
+            
+213
+
+    
+ Part 2.  Permissible Reuse
+
+
+            
+214
+
+
+    
+     73-3c-201.  Reuse by a public agency owning underlying water right.
+            
+215
+
+    
+    (1)  A public agency owning or operating a POTW that treats domestic wastewater
+            
+216
+
+    
+consisting of water supplied under a water right the public agency owns may use, or contract
+            
+217
+
+    
+for the use of, reuse water if:
+            
+218
+
+    
+    (a)   the water right is administered by the state engineer as a municipal water right;
+            
+219
+
+    
+    (b)  the reuse is consistent, under Subsection 
+
+73-3c-302
+
+(5), with the underlying water
+            
+220
+
+    
+right; and
+            
+221
+
+    
+    (c)  the public agency receives approval in accordance with Sections 
+
+73-3c-301
+
+ and
+            
+222
+
+    
+
+
+73-3c-302
+
+.
+            
+223
+
+    
+    (2)  A change application shall be filed in accordance with Section 
+
+73-3-3
+
+ if the public
+            
+224
+
+    
+agency proposes a water reuse that is inconsistent with the underlying water right.
+            
+225
+
+    
+    Section 5.  
+Section  
+73-3c-202
+
+ is enacted to read:
+            
+226
+
+    
+     73-3c-202.  Reuse by a public agency under a contract authorizing the use of
+            
+227
+
+    
+ water.
+            
+228
+
+    
+    (1)  A public agency may use or contract for the use of reuse water if:
+            
+229
+
+    
+    (a)  the domestic wastewater consists of water for which the public agency has a reuse
+            
+230
+
+    
+authorization contract;
+            
+231
+
+    
+    (b)  the water right is administered by the state engineer as a municipal water right;
+            
+232
+
+    
+    (c)  the reuse is consistent, under Subsection 
+
+73-3c-302
+
+(5), with the underlying water
+            
+233
+
+    
+right; and
+            
+234
+
+    
+    (d)  the public agency receives approval in accordance with Sections 
+
+73-3c-301
+
+ and
+            
+235
+
+    
+
+
+73-3c-302
+
+.
+            
+236
+
+    
+    (2)  A change application shall be filed in accordance with Section 
+
+73-3-3
+
+ if the public
+            
+237
+
+    
+agency proposes a water reuse that is inconsistent with the underlying water right.
+            
+238
+
+    
+    Section 6.  
+Section  
+73-3c-301
+
+ is enacted to read:
+            
+239
+
+    
+ Part 3.  Approval Process
+
+            
+240
+
+    
+     73-3c-301.  Application to the Water Quality Board.
+            
+241
+
+    
+    (1)  A public agency proposing a water reuse project shall apply to the Water Quality
+            
+242
+
+    
+Board created by Section 
+
+19-1-106
+
+.
+            
+243
+
+    
+    (2)  The Water Quality Board may make rules, in accordance with Title 63, Chapter
+            
+244
+
+    
+46a, Utah Administrative Rulemaking Act, governing the consideration and approval of water
+
+            
+245
+
+
+    
+reuse applications and administration of water reuse construction and operating permits.
+            
+246
+
+    
+    (3)  Rules created under Subsection (2) shall require that water reuse meet standards
+            
+247
+
+    
+and requirements for water quality set by the Water Quality Board in accordance with Title 19,
+            
+248
+
+    
+Chapter 5, Water Quality Act.
+            
+249
+
+    
+    (4)  The Water Quality Board shall issue a written decision for each water reuse
+            
+250
+
+    
+application.
+            
+251
+
+    
+    Section 7.  
+Section  
+73-3c-302
+
+ is enacted to read:
+            
+252
+
+    
+     73-3c-302.  Application to the state engineer.
+            
+253
+
+    
+    (1)  A public agency proposing water reuse shall apply to the state engineer.
+            
+254
+
+    
+    (2)  An application for water reuse under Subsection (1) shall be made upon forms
+            
+255
+
+    
+furnished by the state engineer and shall include:
+            
+256
+
+    
+    (a)  the name of the applicant;
+            
+257
+
+    
+    (b)  a description of the underlying water right;
+            
+258
+
+    
+    (c)  an evaluation of the underlying water right's diversion, depletion, and return flow
+            
+259
+
+    
+requirements;
+            
+260
+
+    
+    (d)  the estimated quantity of water to be reused;
+            
+261
+
+    
+    (e)  the location of the POTW;
+            
+262
+
+    
+    (f)  the place, purpose, and extent of the proposed water reuse;
+            
+263
+
+    
+    (g)  an evaluation of depletion from the hydrologic system caused by the water reuse;
+            
+264
+
+    
+and
+            
+265
+
+    
+    (h)  any other information consistent with this chapter that is requested by the state
+            
+266
+
+    
+engineer.
+            
+267
+
+    
+    (3)  An application under Subsection (1) shall include a copy of a reuse authorization
+            
+268
+
+    
+contract for water reuse proposed by a public agency for any underlying water right not owned
+            
+269
+
+    
+by the public agency.
+            
+270
+
+    
+    (4)  In considering an application for water reuse, the state engineer shall comply with:
+            
+271
+
+    
+    (a)  Section 
+
+73-3-6
+
+;
+            
+272
+
+    
+    (b)  Section 
+
+73-3-7
+
+;
+            
+273
+
+    
+    (c)  Section 
+
+73-3-10
+
+; and
+            
+274
+
+    
+    (d)  Section 
+
+73-3-14
+
+.
+            
+275
+
+    
+    (5)  In determining whether a proposed water reuse is consistent with the underlying
+
+            
+276
+
+
+    
+water right, the state engineer shall conclude that a proposed water reuse is consistent with the
+            
+277
+
+    
+underlying water right if:
+            
+278
+
+    
+    (a)  the use of the reuse water does not enlarge the underlying water right; and
+            
+279
+
+    
+    (b)  any return flow requirement of the underlying water right is satisfied.
+            
+280
+
+    
+    (6) (a)  The state engineer shall approve a water reuse application if the state engineer
+            
+281
+
+    
+concludes that the proposed water reuse is consistent with the underlying water right.
+            
+282
+
+    
+    (b)  The state engineer may:
+            
+283
+
+    
+    (i)  deny an application for water reuse if the proposed water reuse is inconsistent with
+            
+284
+
+    
+the underlying water right; or
+            
+285
+
+    
+    (ii)  approve the application in part or with conditions to assure consistency with the
+            
+286
+
+    
+underlying water right.
+            
+287
+
+    
+    (7)  A public agency with an approved reuse application shall submit a report, as
+            
+288
+
+    
+directed by the state engineer, concerning the ongoing water reuse operation.
+            
+289
+
+    
+    (8)  The state engineer may make rules in accordance with Title 63, Chapter 46a, Utah
+            
+290
+
+    
+Administrative Rulemaking Act, to implement the provisions of this chapter.
+            
+291
+
+    
+    Section 8.  
+Section  
+73-3c-303
+
+ is enacted to read:
+            
+292
+
+    
+     73-3c-303.  Inflow of unappropriated water -- Application to appropriate.
+            
+293
+
+    
+    If domestic wastewater inflow to a POTW consists of any unappropriated infiltration
+            
+294
+
+    
+water, a person may apply to the state engineer to appropriate the unappropriated infiltration
+            
+295
+
+    
+water to a beneficial use in accordance with Section 
+
+73-3-8
+
+.
+            
+296
+
+    
+    Section 9.  
+Section  
+73-3c-304
+
+ is enacted to read:
+            
+297
+
+    
+     73-3c-304.  Change in point of discharge.
+            
+298
+
+    
+    (1)  The point of discharge of water from a POTW may be changed if the Water Quality
+            
+299
+
+    
+Board determines that a change is necessary:
+            
+300
+
+    
+    (a)  for treatment purposes;
+            
+301
+
+    
+    (b)  to enhance environmental quality;
+            
+302
+
+    
+    (c)  to protect public health, safety, or welfare; or
+            
+303
+
+    
+    (d)  to comply with:
+            
+304
+
+    
+    (i)  rules created by the Water Quality Board in accordance with Section 
+
+19-5-104
+
+; or
+            
+305
+
+    
+    (ii)  the POTW's discharge permit.
+            
+306
+
+    
+    (2)  Before changing the point of discharge from a POTW under Subsection (1), the
+
+            
+307
+
+
+    
+Water Quality Board shall consult with the state engineer.
+            
+308
+
+    
+    Section 10.  
+Section  
+73-3c-401
+
+ is enacted to read:
+            
+309
+
+    
+ Part 4.  Effect of Reuse
+
+            
+310
+
+    
+     73-3c-401.  Priority of reuse water.
+            
+311
+
+    
+    If the use of reuse water is consistent with the underlying water right, the priority of the
+            
+312
+
+    
+reuse water is the same as the priority of the underlying water right.
+            
+313
+
+    
+    Section 11.  Repealer.
+            
+314
+
+    
+    This bill repeals:
+            
+315
+
+    
+    Section  73-3c-1,  Definitions.
+            
+316
+
+    
+    Section  73-3c-2,  Municipality may use sewage effluent in a manner consistent with
+            
+317
+
+    
+ its water rights -- Change application to be filed for uses inconsistent with water rights.
+            
+318
+
+    
+    Section  73-3c-3,  Agent for use of sewage effluent -- Change application for
+            
+319
+
+    
+ inconsistent uses.
+            
+320
+
+    
+    Section  73-3c-4,  Consideration and approval of change applications to effect the
+            
+321
+
+    
+ use of sewage effluent.
+            
+322
+
+    
+    Section  73-3c-5,  Priority of a use of sewage effluent.
+            
+323
+
+    
+    Section  73-3c-6,  Sewage inflow that consists of unappropriated water --
+            
+324
+
+    
+ Application to appropriate may be made.
+            
+325
+
+    
+    Section  73-3c-7,  Change of point of discharge of sewage effluent.
+            
+326
+
+    
+    Section  73-3c-8,  Notification of a sewage effluent use or change in point of
+            
+327
+
+    
+ discharge -- State engineer to make rules.
+
+
+
+
+ Legislative Review Note
+    as of  11-10-05  9:01 AM
+
+Based on a limited legal review, this legislation has not been determined to have a high
+probability of being held unconstitutional.
+
+ Office of Legislative Research and General Counsel
+
+
+ Interim Committee Note
+    as of 12-20-05 10:59 AM
+
+The Natural Resources, Agriculture, and Environment Interim Committee recommended this
+
+bill.
+
+
+ Legislative Committee Note
+    as of 12-20-05 10:59 AM
+
+The Water Issues Task Force recommended this bill.
+[Bill Documents][Bills Directory]
+
+
+
+
+
+
+
+
+
+Who represents me?
+
+
+
+
+
+Remember my Legislators
+
+
+
+
+
+State Senate
+		350 North State, Suite 320
+		PO Box 145115
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1035
+		Fax: (801) 326-1475
+
+
+
+House of Representatives
+		350 North State, Suite 350
+		PO Box 145030
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1029
+		Fax: (801) 326-1544
+
+
+
+
+
+
+
+
+
+
+Home
+Mobile Site
+Site Map
+Calendar
+Code / Constitution
+House
+Senate
+
+Terms of Use/Privacy Policy
+
+ADA
+Utah.gov
+
+
+
+
+
+
+

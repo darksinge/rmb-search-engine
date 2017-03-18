@@ -1,0 +1,3358 @@
+Sponsors: []Modifications: (7)for premium payment only15A carrier may elect to include a grace period that is longer than 15 days.(a)  The policy is not in force during the grace period.(b)  If the insurer receives payment before the grace period expires, the policy continuesin force with no gap in coverage.    (c)  If the insurer does not receive payment before the grace period expires, the policyshall be terminated as of the last date for which the premium was paid in full.(d)  A grace period is not required if the policyholder has requested that the policy bediscontinued.(7).this(7)(2) (a)  If the Comprehensive Health Insurance Pool as set forth under Title 31A,Chapter 29, is dissolved or discontinued, or if enrollment is capped or suspended, an individualcarrier:(i)  may elect to discontinue offering new individual health benefit plans, except toHIPAA eligibles, but must keep existing individual health benefit plans in effect, except thoseindividual plans that are not renewed under the provisions of Subsection 
+
+31A-30-107
+
+(2) or
+
+31A-30-107.1
+
+(2);(ii)  may elect to continue to offer new individual and small employee health benefitplans; or(iii)  may elect to discontinue all of the covered carriers health benefit plans in theindividual or small group market under the provisions of Subsection 
+
+31A-30-107
+
+(3)(e) or
+
+31A-30-107.1
+
+(3)(e).(b)  A carrier that makes an election under Subsection (2)(a)(i) is:(i)  prohibited from writing new business:(A)  in the individual market in this state; and(B)  for a period of five years beginning on the date of discontinuation;(ii)  may continue to write new business in the small employer market; and(iii)  must provide written notice of the election under Subsection (2)(a)(i) within twocalendar days of the election to the Utah Insurance Department.(c)  The prohibition described in Subsection (2)(b)(i) may be waived if thecommissioner finds that waiver is in the public interest:(i)  to promote competition; or(ii)  to resolve inequity in the marketplace.(d)  A carrier that makes an election under Subsection (2)(a)(iii) is subject to theprovisions of Subsection (1).(3)(4)Subsectionsand  (6)(6) (a)  If enrollment in the Comprehensive Health Insurance Pool as set forth underTitle 31A, Chapter 29, is capped or suspended, an individual carrier may decline to acceptindividuals applying for individual enrollment, other than individuals applying for coverage asset forth in P.L. 104-191, 110 Stat. 1979, Sec. 2741 (a)-(b).(b)  Within two calendar days of taking action under Subsection (6)(a), an individualcarrier will provide written notice to the Utah Insurance Department.(7)(7)(7)Full text:
+
+
+
+Utah State Legislature
+
+
+
+
+
+
+
+
+
+
+
+
+Legislators
+
+By Session (1896-Current)
+Alphabetical (Historical)
+Find by Address/Map
+More
+
+
+Bills
+
+Bills/Bill Requests
+Passed Bills
+2017 Bills
+
+Keyword Search
+Reading Calendars
+Tracking Service
+More
+
+
+Committees
+
+All Committees
+Appropriations
+Commissions
+
+Independent Legislative Ethics Commission
+Interim
+Standing
+Subcommittees
+Task Forces
+Bills In Committees
+
+
+Utah Code / Constitution
+
+
+Title/Chapter/Section
+Keyword Search 
+
+Utah Constitution
+Laws of Utah 1851-ongoing
+Utah Territorial Laws 
+More
+
+
+Senate
+
+Main Page 
+About The Senate 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Extraordinary Sessions 
+Reading Calendars 
+Past Floor Debates 
+Senate Journals 
+
+
+House
+
+Main Page
+About the House 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Reading Calendars 
+Past Floor Debates 
+Journals 
+Conflict of Interest Forms 
+
+
+Legislative Guide 
+
+Legislative Guide
+Civic Programs
+GRAMA (Records Requests)
+
+
+Publications
+
+Search Publications
+Appropriations
+Audits
+Bagels & Briefings
+Briefing Papers
+Digest of Legislation
+Legislative Drafting Manual
+
+Journals
+
+Interim Highlights
+
+Legislative Rules
+GRAMA (Records Requests)
+Public Email
+State Organization Charts
+YouTube Channel
+Requests for Proposals and Legal Notices
+More
+
+
+Legislative Histories
+
+Legislative History Resources
+How to Research
+Bill Drafting/Research Files (1990-Ongoing)
+
+Working Bills (1896-1989)
+Interim Committee Histories (1990-Ongoing) 
+Journals
+Past House Floor Debates
+Past Senate Floor Debates
+More
+
+
+Staff Offices
+
+All Legislative Offices
+Auditor General
+Fiscal Analyst
+Printing
+Research and General Counsel
+Staff Awards
+Job Opportunities
+More
+
+
+Links of Interest
+
+Utah Administrative Rules
+Courts
+Utah State Capitol
+State of Utah
+Federal Legislation
+More
+
+
+
+
+
+
+ 
+
+Download Zipped Introduced WordPerfect HB0106.ZIP
+[Status][Bill Documents][Fiscal Note][Bills Directory]
+
+
+H.B. 106
+
+
+
+
+
+            
+1
+
+    
+ HEALTH INSURANCE ACT AMENDMENTS
+
+
+
+            
+2
+
+    
+2004 GENERAL SESSION
+
+            
+3
+
+    
+STATE OF UTAH
+
+            
+4
+
+    
+
+
+ Sponsor: James A. Dunnigan
+
+
+
+            
+5
+
+    
+
+            
+6
+
+    
+ LONG TITLE
+            
+7
+
+    
+ General Description:
+            
+8
+
+    
+    This bill amends accident and health insurance provisions related to premium grace
+            
+9
+
+    
+periods, conversion policy rating restrictions, and discontinuation of coverage in the
+            
+10
+
+    
+individual and small employer market.
+            
+11
+
+    
+ Highlighted Provisions:
+            
+12
+
+    
+    This bill:
+            
+13
+
+    
+    .    changes the grace period for nonpayment of premium to 15 days;
+            
+14
+
+    
+    .    clarifies coverage during a grace period;
+            
+15
+
+    
+    .    provides that if the Comprehensive Health Insurance Pool is dissolved or
+            
+16
+
+    
+discontinued, or if enrollment is capped or suspended, a covered carrier:
+            
+17
+
+    
+        .    may elect to discontinue offering new individual health benefit plans but then
+            
+18
+
+    
+may not reenter the individual market for five years;
+            
+19
+
+    
+        .    may continue to write business in the small employer market; and
+            
+20
+
+    
+        .    may decline to accept individuals applying for individual enrollment, other than
+            
+21
+
+    
+HIPAA eligible individuals;
+            
+22
+
+    
+    .    repeals the provision that links individual premium rates to the rates established by
+            
+23
+
+    
+the Comprehensive Health Insurance Pool;
+            
+24
+
+    
+    .    amends preexisting conditions waiver provisions for the Comprehensive Health
+            
+25
+
+    
+Insurance Pool; and
+            
+26
+
+    
+    .    makes technical amendments.
+            
+27
+
+    
+ Monies Appropriated in this Bill:
+
+            
+28
+
+
+    
+    None
+            
+29
+
+    
+ Other Special Clauses:
+            
+30
+
+    
+    None
+            
+31
+
+    
+ Utah Code Sections Affected:
+            
+32
+
+    
+AMENDS:
+            
+33
+
+    
+     31A-8-402.3, as last amended by Chapter 252, Laws of Utah 2003
+            
+34
+
+    
+     31A-22-607, as last amended by Chapter 116, Laws of Utah 2001
+            
+35
+
+    
+     31A-22-721, as last amended by Chapter 252, Laws of Utah 2003
+            
+36
+
+    
+     31A-29-113, as last amended by Chapter 168, Laws of Utah 2003
+            
+37
+
+    
+     31A-30-107, as last amended by Chapter 252, Laws of Utah 2003
+            
+38
+
+    
+     31A-30-107.3, as enacted by Chapter 308, Laws of Utah 2002
+            
+39
+
+    
+     31A-30-108, as last amended by Chapter 308, Laws of Utah 2002
+            
+40
+
+    
+REPEALS:
+            
+41
+
+    
+     31A-30-106.6, as enacted by Chapter 265, Laws of Utah 1997
+            
+42
+
+    
+
+            
+43
+
+    
+Be it enacted by the Legislature of the state of Utah:
+            
+44
+
+    
+    Section 1.  
+Section  
+31A-8-402.3
+
+ is amended to read:
+            
+45
+
+    
+     31A-8-402.3.  Discontinuance, nonrenewal, or changes to group health benefit
+            
+46
+
+    
+ plans.
+            
+47
+
+    
+    (1)  Except as otherwise provided in this section, a group health benefit plan for a plan
+            
+48
+
+    
+sponsor is renewable and continues in force:
+            
+49
+
+    
+    (a)  with respect to all eligible employees and dependents; and
+            
+50
+
+    
+    (b)  at the option of the plan sponsor.
+            
+51
+
+    
+    (2)  A health benefit plan for a plan sponsor may be discontinued or nonrenewed:
+            
+52
+
+    
+    (a)  for a network plan, if:
+            
+53
+
+    
+    (i)  there is no longer any enrollee under the group health plan who lives, resides, or
+            
+54
+
+    
+works in:
+            
+55
+
+    
+    (A)  the service area of the insurer; or
+            
+56
+
+    
+    (B)  the area for which the insurer is authorized to do business; and
+            
+57
+
+    
+    (ii)  in the case of the small employer market, the insurer applies the same criteria the
+            
+58
+
+    
+insurer would apply in denying enrollment in the plan under Subsection 
+
+31A-30-108
+
+[(6)] (7);
+
+            
+59
+
+
+    
+or
+            
+60
+
+    
+    (b)  for coverage made available in the small or large employer market only through an
+            
+61
+
+    
+association, if:
+            
+62
+
+    
+    (i)  the employer's membership in the association ceases; and
+            
+63
+
+    
+    (ii)  the coverage is terminated uniformly without regard to any health status-related
+            
+64
+
+    
+factor relating to any covered individual.
+            
+65
+
+    
+    (3)  A health benefit plan for a plan sponsor may be discontinued if:
+            
+66
+
+    
+    (a)  a condition described in Subsection (2) exists;
+            
+67
+
+    
+    (b)  the plan sponsor fails to pay premiums or contributions in accordance with the
+            
+68
+
+    
+terms of the contract;
+            
+69
+
+    
+    (c)  the plan sponsor:
+            
+70
+
+    
+    (i)  performs an act or practice that constitutes fraud; or
+            
+71
+
+    
+    (ii)  makes an intentional misrepresentation of material fact under the terms of the
+            
+72
+
+    
+coverage;
+            
+73
+
+    
+    (d)  the insurer:
+            
+74
+
+    
+    (i)  elects to discontinue offering a particular health benefit product delivered or issued
+            
+75
+
+    
+for delivery in this state; and
+            
+76
+
+    
+    (ii) (A)  provides notice of the discontinuation in writing:
+            
+77
+
+    
+    (I)  to each plan sponsor, employee, or dependent of a plan sponsor or an employee; and
+            
+78
+
+    
+    (II)  at least 90 days before the date the coverage will be discontinued;
+            
+79
+
+    
+    (B)  provides notice of the discontinuation in writing:
+            
+80
+
+    
+    (I)  to the commissioner; and
+            
+81
+
+    
+    (II)  at least three working days prior to the date the notice is sent to the affected plan
+            
+82
+
+    
+sponsors, employees, and dependents of the plan sponsors or employees;
+            
+83
+
+    
+    (C)  offers to each plan sponsor, on a guaranteed issue basis, the option to purchase:
+            
+84
+
+    
+    (I)  all other health benefit products currently being offered by the insurer in the market;
+            
+85
+
+    
+or
+            
+86
+
+    
+    (II)  in the case of a large employer, any other health benefit product currently being
+            
+87
+
+    
+offered in that market; and
+            
+88
+
+    
+    (D)  in exercising the option to discontinue that product and in offering the option of
+            
+89
+
+    
+coverage in this section, acts uniformly without regard to:
+
+            
+90
+
+
+    
+    (I)  the claims experience of a plan sponsor;
+            
+91
+
+    
+    (II)  any health status-related factor relating to any covered participant or beneficiary; or
+            
+92
+
+    
+    (III)  any health status-related factor relating to any new participant or beneficiary who
+            
+93
+
+    
+may become eligible for the coverage; or
+            
+94
+
+    
+    (e)  the insurer:
+            
+95
+
+    
+    (i)  elects to discontinue all of the insurer's health benefit plans in:
+            
+96
+
+    
+    (A)  the small employer market;
+            
+97
+
+    
+    (B)  the large employer market; or
+            
+98
+
+    
+    (C)  both the small employer and large employer markets; and
+            
+99
+
+    
+    (ii) (A)  provides notice of the discontinuation in writing:
+            
+100
+
+    
+    (I)  to each plan sponsor, employee, or dependent of a plan sponsor or an employee; and
+            
+101
+
+    
+    (II)  at least 180 days before the date the coverage will be discontinued;
+            
+102
+
+    
+    (B)  provides notice of the discontinuation in writing:
+            
+103
+
+    
+    (I)  to the commissioner in each state in which an affected insured individual is known
+            
+104
+
+    
+to reside; and
+            
+105
+
+    
+    (II)  at least 30 working days prior to the date the notice is sent to the affected plan
+            
+106
+
+    
+sponsors, employees, and the dependents of the plan sponsors or employees;
+            
+107
+
+    
+    (C)  discontinues and nonrenews all plans issued or delivered for issuance in the
+            
+108
+
+    
+market; and
+            
+109
+
+    
+    (D)  provides a plan of orderly withdrawal as required by Section 
+
+31A-4-115
+
+.
+            
+110
+
+    
+    (4)  A large employer health benefit plan may be discontinued or nonrenewed:
+            
+111
+
+    
+    (a)  if a condition described in Subsection (2) exists; or
+            
+112
+
+    
+    (b)  for noncompliance with the insurer's:
+            
+113
+
+    
+    (i)  minimum participation requirements; or
+            
+114
+
+    
+    (ii)  employer contribution requirements.
+            
+115
+
+    
+    (5)  A small employer health benefit plan may be discontinued or nonrenewed:
+            
+116
+
+    
+    (a)  if a condition described in Subsection (2) exists; or
+            
+117
+
+    
+    (b)  for noncompliance with the insurer's employer contribution requirements.
+            
+118
+
+    
+    (6)  A small employer health benefit plan may be nonrenewed:
+            
+119
+
+    
+    (a)  if a condition described in Subsection (2) exists; or
+            
+120
+
+    
+    (b)  for noncompliance with the insurer's minimum participation requirements.
+
+            
+121
+
+
+    
+    (7) (a)  Except as provided in Subsection (7)(d), an eligible employee may be
+            
+122
+
+    
+discontinued if after issuance of coverage the eligible employee:
+            
+123
+
+    
+    (i)  engages in an act or practice in connection with the coverage that constitutes fraud;
+            
+124
+
+    
+or
+            
+125
+
+    
+    (ii)  makes an intentional misrepresentation of material fact in connection with the
+            
+126
+
+    
+coverage.
+            
+127
+
+    
+    (b) An eligible employee that is discontinued under Subsection (7)(a) may reenroll:
+            
+128
+
+    
+    (i)  12 months after the date of discontinuance; and
+            
+129
+
+    
+    (ii)  if the plan sponsor's coverage is in effect at the time the eligible employee applies
+            
+130
+
+    
+to reenroll.
+            
+131
+
+    
+    (c)  At the time the eligible employee's coverage is discontinued under Subsection
+            
+132
+
+    
+(7)(a), the insurer shall notify the eligible employee of the right to reenroll when coverage is
+            
+133
+
+    
+discontinued.
+            
+134
+
+    
+    (d)  An eligible employee may not be discontinued under this Subsection (7) because of
+            
+135
+
+    
+a fraud or misrepresentation that relates to health status.
+            
+136
+
+    
+    (8)  For purposes of this section, a reference to "plan sponsor" includes a reference to
+            
+137
+
+    
+the employer:
+            
+138
+
+    
+    (a)  with respect to coverage provided to an employer member of the association; and
+            
+139
+
+    
+    (b)  if the health benefit plan is made available by an insurer in the employer market
+            
+140
+
+    
+only through:
+            
+141
+
+    
+    (i)  an association;
+            
+142
+
+    
+    (ii)  a trust; or
+            
+143
+
+    
+    (iii)  a discretionary group.
+            
+144
+
+    
+    (9) An insurer may modify a health benefit plan for a plan sponsor only:
+            
+145
+
+    
+    (a)  at the time of coverage renewal; and
+            
+146
+
+    
+    (b)  if the modification is effective uniformly among all plans with that product.
+            
+147
+
+    
+    Section 2.  
+Section  
+31A-22-607
+
+ is amended to read:
+            
+148
+
+    
+     31A-22-607.  Grace period.
+            
+149
+
+    
+    (1)  Every individual or franchise accident and health insurance policy shall contain
+            
+150
+
+    
+clauses providing for a grace period for premium payment only of at least [seven days for
+            
+151
+
+    
+weekly premium policies, ten] 15 days [for monthly premium policies and 30 days for all other
+
+            
+152
+
+
+    
+policies, for each premium after the first.  During the grace period, the policy continues in
+            
+153
+
+    
+force].  A carrier may elect to include a grace period that is longer than 15 days.
+            
+154
+
+    
+    (a)  The policy is not in force during the grace period.
+            
+155
+
+    
+    (b)  If the insurer receives payment before the grace period expires, the policy continues
+            
+156
+
+    
+in force with no gap in coverage.
+            
+157
+
+    
+    (c)  If the insurer does not receive payment before the grace period expires, the policy
+            
+158
+
+    
+shall be terminated as of the last date for which the premium was paid in full.
+            
+159
+
+    
+    (d)  A grace period is not required if the policyholder has requested that the policy be
+            
+160
+
+    
+discontinued.
+            
+161
+
+    
+    (2)  Every group or blanket accident and health policy shall provide for a grace period
+            
+162
+
+    
+of at least 30 days, unless the policyholder gives written notice of discontinuance prior to the
+            
+163
+
+    
+date of discontinuance, in accordance with the policy terms.  In group or blanket policies, the
+            
+164
+
+    
+policy may provide for payment of a pro rata premium for the period the policy is in effect
+            
+165
+
+    
+during the grace period under this Subsection (2).
+            
+166
+
+    
+    (3)  If the insurer has not guaranteed the insured a right to renew an accident and health
+            
+167
+
+    
+policy, any grace period beyond the expiration or anniversary date may, if provided in the
+            
+168
+
+    
+policy, be cut off by compliance with the notice provision under Subsection 
+
+31A-21-303
+
+(4)(b).
+            
+169
+
+    
+    Section 3.  
+Section  
+31A-22-721
+
+ is amended to read:
+            
+170
+
+    
+     31A-22-721.  A health benefit plan for a plan sponsor -- Discontinuance and
+            
+171
+
+    
+ nonrenewal.
+            
+172
+
+    
+    (1)  Except as otherwise provided in this section, a health benefit plan for a plan
+            
+173
+
+    
+sponsor is renewable and continues in force:
+            
+174
+
+    
+    (a)  with respect to all eligible employees and dependents; and
+            
+175
+
+    
+    (b)  at the option of the plan sponsor.
+            
+176
+
+    
+    (2)  A health benefit plan for a plan sponsor may be discontinued or nonrenewed:
+            
+177
+
+    
+    (a)  for a network plan, if:
+            
+178
+
+    
+    (i)  there is no longer any enrollee under the group health plan who lives, resides, or
+            
+179
+
+    
+works in:
+            
+180
+
+    
+    (A)  the service area of the insurer; or
+            
+181
+
+    
+    (B)  the area for which the insurer is authorized to do business; and
+            
+182
+
+    
+    (ii)  in the case of the small employer market, the insurer applies the same criteria the
+
+            
+183
+
+
+    
+insurer would apply in denying enrollment in the plan under Subsection 
+
+31A-30-108
+
+[(6)] (7);
+            
+184
+
+    
+or
+            
+185
+
+    
+    (b)  for coverage made available in the small or large employer market only through an
+            
+186
+
+    
+association, if:
+            
+187
+
+    
+    (i)  the employer's membership in the association ceases; and
+            
+188
+
+    
+    (ii)  the coverage is terminated uniformly without regard to any health status-related
+            
+189
+
+    
+factor relating to any covered individual.
+            
+190
+
+    
+    (3)  A health benefit plan for a plan sponsor may be discontinued if:
+            
+191
+
+    
+    (a)  a condition described in Subsection (2) exists;
+            
+192
+
+    
+    (b)  the plan sponsor fails to pay premiums or contributions in accordance with the
+            
+193
+
+    
+terms of the contract;
+            
+194
+
+    
+    (c)  the plan sponsor:
+            
+195
+
+    
+    (i)  performs an act or practice that constitutes fraud; or
+            
+196
+
+    
+    (ii)  makes an intentional misrepresentation of material fact under the terms of the
+            
+197
+
+    
+coverage;
+            
+198
+
+    
+    (d)  the insurer:
+            
+199
+
+    
+    (i)  elects to discontinue offering a particular health benefit product delivered or issued
+            
+200
+
+    
+for delivery in this state;
+            
+201
+
+    
+    (ii) (A)  provides notice of the discontinuation in writing:
+            
+202
+
+    
+    (I)  to each plan sponsor, employee, and dependent of a plan sponsor or employee; and
+            
+203
+
+    
+    (II)  at least 90 days before the date the coverage will be discontinued;
+            
+204
+
+    
+    (B)  provides notice of the discontinuation in writing:
+            
+205
+
+    
+    (I)  to the commissioner; and
+            
+206
+
+    
+    (II)  at least three working days prior to the date the notice is sent to the affected plan
+            
+207
+
+    
+sponsors, employees, and dependents of plan sponsors or employees;
+            
+208
+
+    
+    (C)  offers to each plan sponsor, on a guaranteed issue basis, the option to purchase any
+            
+209
+
+    
+other health benefit products currently being offered:
+            
+210
+
+    
+    (I)  by the insurer in the market; or
+            
+211
+
+    
+    (II)  in the case of a large employer, any other health benefit plan currently being
+            
+212
+
+    
+offered in that market; and
+            
+213
+
+    
+    (D)  in exercising the option to discontinue that product and in offering the option of
+
+            
+214
+
+
+    
+coverage in this section, the insurer acts uniformly without regard to:
+            
+215
+
+    
+    (I)  the claims experience of a plan sponsor;
+            
+216
+
+    
+    (II)  any health status-related factor relating to any covered participant or beneficiary; or
+            
+217
+
+    
+    (III)  any health status-related factor relating to a new participant or beneficiary who
+            
+218
+
+    
+may become eligible for coverage; or
+            
+219
+
+    
+    (e)  the insurer:
+            
+220
+
+    
+    (i)  elects to discontinue all of the insurer's health benefit plans:
+            
+221
+
+    
+    (A)  in the small employer market; or
+            
+222
+
+    
+    (B)  the large employer market; or
+            
+223
+
+    
+    (C)  both the small and large employer markets;
+            
+224
+
+    
+    (ii) (A)  provides notice of the discontinuance in writing:
+            
+225
+
+    
+    (I)  to each plan sponsor, employee, or dependent of a plan sponsor or an employee; and
+            
+226
+
+    
+    (II)  at least 180 days before the date the coverage will be discontinued;
+            
+227
+
+    
+    (B)  provides notice of the discontinuation in writing:
+            
+228
+
+    
+    (I)  to the commissioner in each state in which an affected insured individual is known
+            
+229
+
+    
+to reside; and
+            
+230
+
+    
+    (II)  at least 30 business days prior to the date the notice is sent to the affected plan
+            
+231
+
+    
+sponsors, employees, and dependents of a plan sponsor or employee;
+            
+232
+
+    
+    (C)  discontinues and nonrenews all plans issued or delivered for issuance in the
+            
+233
+
+    
+market; and
+            
+234
+
+    
+    (D)  provides a plan of orderly withdrawal as required by Section 
+
+31A-4-115
+
+.
+            
+235
+
+    
+    (4)  A large employer health benefit plan may be discontinued or nonrenewed:
+            
+236
+
+    
+    (a)  if a condition described in Subsection (2) exists; or
+            
+237
+
+    
+    (b)  for noncompliance with the insurer's:
+            
+238
+
+    
+    (i)  minimum participation requirements; or
+            
+239
+
+    
+    (ii)  employer contribution requirements.
+            
+240
+
+    
+    (5)  A small employer health benefit plan may be discontinued or nonrenewed:
+            
+241
+
+    
+    (a)  if a condition described in Subsection (2) exists; or
+            
+242
+
+    
+    (b)  for noncompliance with the insurer's employer contribution requirements.
+            
+243
+
+    
+    (6)  A small employer health benefit plan may be nonrenewed:
+            
+244
+
+    
+    (a)  if a condition described in Subsection (2) exists; or
+
+            
+245
+
+
+    
+    (b)  for noncompliance with the insurer's minimum participation requirements.
+            
+246
+
+    
+    (7) (a)  Except as provided in Subsection (7)(d), an eligible employee may be
+            
+247
+
+    
+discontinued if after issuance of coverage the eligible employee:
+            
+248
+
+    
+    (i)  engages in an act or practice that constitutes fraud in connection with the coverage;
+            
+249
+
+    
+or
+            
+250
+
+    
+    (ii)  makes an intentional misrepresentation of material fact in connection with the
+            
+251
+
+    
+coverage.
+            
+252
+
+    
+    (b)  An eligible employee that is discontinued under Subsection (7)(a) may reenroll:
+            
+253
+
+    
+    (i)  12 months after the date of discontinuance; and
+            
+254
+
+    
+    (ii)  if the plan sponsor's coverage is in effect at the time the eligible employee applies
+            
+255
+
+    
+to reenroll.
+            
+256
+
+    
+    (c)  At the time the eligible employee's coverage is discontinued under Subsection
+            
+257
+
+    
+(7)(a), the insurer shall notify the eligible employee of the right to reenroll when coverage is
+            
+258
+
+    
+discontinued.
+            
+259
+
+    
+    (d)  An eligible employee may not be discontinued under this Subsection (7) because of
+            
+260
+
+    
+a fraud or misrepresentation that relates to health status.
+            
+261
+
+    
+    (8) (a)  Except as provided in Subsection (8)(b), an insurer that elects to discontinue
+            
+262
+
+    
+offering a health benefit plan under Subsection (3)(e) shall be prohibited from writing new
+            
+263
+
+    
+business in such market in this state for a period of five years beginning on the date of
+            
+264
+
+    
+discontinuation of the last coverage that is discontinued.
+            
+265
+
+    
+    (b)  The commissioner may waive the prohibition under Subsection (8)(a) when the
+            
+266
+
+    
+commissioner finds that waiver is in the public interest:
+            
+267
+
+    
+    (i)  to promote competition; or
+            
+268
+
+    
+    (ii)  to resolve inequity in the marketplace.
+            
+269
+
+    
+    (9)  If an insurer is doing business in one established geographic service area of the
+            
+270
+
+    
+state, this section applies only to the insurer's operations in that geographic service area.
+            
+271
+
+    
+    (10)  An insurer may modify a health benefit plan for a plan sponsor only:
+            
+272
+
+    
+    (a)  at the time of coverage renewal; and
+            
+273
+
+    
+    (b)  if the modification is effective uniformly among all plans with a particular product
+            
+274
+
+    
+or service.
+            
+275
+
+    
+    (11)  For purposes of this section, a reference to "plan sponsor" includes a reference to
+
+            
+276
+
+
+    
+the employer:
+            
+277
+
+    
+    (a)  with respect to coverage provided to an employer member of the association; and
+            
+278
+
+    
+    (b)  if the health benefit plan is made available by an insurer in the employer market
+            
+279
+
+    
+only through:
+            
+280
+
+    
+    (i)  an association;
+            
+281
+
+    
+    (ii)  a trust; or
+            
+282
+
+    
+    (iii)  a discretionary group.
+            
+283
+
+    
+    (12) (a)  A small employer that, after purchasing a health benefit plan in the small group
+            
+284
+
+    
+market, employs on average more than 50 eligible employees on each business day in a
+            
+285
+
+    
+calendar year may continue to renew the health benefit plan purchased in the small group
+            
+286
+
+    
+market.
+            
+287
+
+    
+    (b)  A large employer that, after purchasing a health benefit plan in the large group
+            
+288
+
+    
+market, employs on average less than 51 eligible employees on each business day in a calendar
+            
+289
+
+    
+year may continue to renew the health benefit plan purchased in the large group market.
+            
+290
+
+    
+    (13)  An insurer offering employer sponsored health benefit plans shall comply with the
+            
+291
+
+    
+Health Insurance Portability and Accountability Act, P. L. 104-191, 110 Stat. 1962, Sec. 2701
+            
+292
+
+    
+and 2702.
+            
+293
+
+    
+    Section 4.  
+Section  
+31A-29-113
+
+ is amended to read:
+            
+294
+
+    
+     31A-29-113.  Benefits -- Additional types of pool insurance -- Preexisting
+            
+295
+
+    
+ conditions -- Waiver -- Maximum benefits.
+            
+296
+
+    
+    (1) (a)  The pool policy shall pay for eligible medical expenses rendered or furnished
+            
+297
+
+    
+for the diagnoses or treatment of illness or injury that:
+            
+298
+
+    
+    (i)  exceed the deductible and copayment amounts applicable under Section
+            
+299
+
+    
+
+31A-29-114
+
+; and
+            
+300
+
+    
+    (ii)  are not otherwise limited or excluded.
+            
+301
+
+    
+    (b)  Eligible medical expenses are the allowed charges established by the board for the
+            
+302
+
+    
+health care services and items rendered during times for which benefits are extended under the
+            
+303
+
+    
+pool policy.
+            
+304
+
+    
+    (2)  The coverage to be issued by the pool, its schedule of benefits, exclusions, and
+            
+305
+
+    
+other limitations shall be established by the board.
+            
+306
+
+    
+    (3)  The commissioner shall approve the benefit package developed by the board to
+
+            
+307
+
+
+    
+ensure its compliance with this chapter.
+            
+308
+
+    
+    (4)  The pool shall offer at least one benefit plan through a managed care program as
+            
+309
+
+    
+authorized under Section 
+
+31A-29-106
+
+.
+            
+310
+
+    
+    (5)  This chapter may not be construed to prohibit the pool from issuing additional types
+            
+311
+
+    
+of pool policies with different types of benefits which in the opinion of the board may be of
+            
+312
+
+    
+benefit to the citizens of Utah.
+            
+313
+
+    
+    (6)  The board shall design and require an administrator to employ cost containment
+            
+314
+
+    
+measures and requirements including preadmission certification and concurrent inpatient
+            
+315
+
+    
+review for the purpose of making the pool more cost effective.  The provisions of Sections
+            
+316
+
+    
+
+31A-22-617
+
+ and 
+
+31A-22-618
+
+ do not apply to coverage issued under this chapter.
+            
+317
+
+    
+    (7) (a)  A pool policy may contain provisions under which coverage for a preexisting
+            
+318
+
+    
+condition is excluded during a six-month period following the effective date of plan coverage
+            
+319
+
+    
+for a given individual.
+            
+320
+
+    
+    (b)  Subsection (7)(a) does not apply to a HIPAA eligible individual.
+            
+321
+
+    
+    (8)  A pool policy may exclude coverage for pregnancies for ten months following the
+            
+322
+
+    
+effective date of coverage, unless the individual is HIPAA eligible.
+            
+323
+
+    
+    (9) (a)  The pool will waive the preexisting condition exclusion described in Subsection
+            
+324
+
+    
+(7)(a) for an individual that is changing health coverage to the pool, to the extent to which
+            
+325
+
+    
+similar exclusions have been satisfied under any prior health insurance coverage if[: (i)] the
+            
+326
+
+    
+individual applies not later than 63 days following the date of involuntary termination, other
+            
+327
+
+    
+than for nonpayment of premiums, from health coverage[; or].
+            
+328
+
+    
+    [(ii)  the individual's premium rate exceeds the rate of the pool for equal or lesser
+            
+329
+
+    
+coverage provided that the application for pool coverage is made no later than 63 days
+            
+330
+
+    
+following the termination from the prior health insurance coverage.]
+            
+331
+
+    
+    (b)  In accordance with Subsections (7)(b) and (8), the pool may not apply a preexisting
+            
+332
+
+    
+condition exclusion if the individual is HIPAA eligible.
+            
+333
+
+    
+    (c)  If this Subsection (9) applies, coverage in the pool shall be effective from the date
+            
+334
+
+    
+on which the prior coverage was terminated.
+            
+335
+
+    
+    (10)  Covered benefits available from the pool may not exceed a $1,000,000 lifetime
+            
+336
+
+    
+maximum, which includes a per enrollee calendar year maximum established by the board.
+            
+337
+
+    
+    Section 5.  
+Section  
+31A-30-107
+
+ is amended to read:
+
+            
+338
+
+
+    
+     31A-30-107.  Renewal -- Limitations -- Exclusions -- Discontinuance and
+            
+339
+
+    
+ nonrenewal.
+            
+340
+
+    
+    (1)  Except as otherwise provided in this section, a small employer health benefit plan is
+            
+341
+
+    
+renewable and continues in force:
+            
+342
+
+    
+    (a)  with respect to all eligible employees and dependents; and
+            
+343
+
+    
+    (b)  at the option of the plan sponsor.
+            
+344
+
+    
+    (2)  A small employer health benefit plan may be discontinued or nonrenewed:
+            
+345
+
+    
+    (a)  for a network plan, if:
+            
+346
+
+    
+    (i)  there is no longer any enrollee under the group health plan who lives, resides, or
+            
+347
+
+    
+works in:
+            
+348
+
+    
+    (A)  the service area of the covered carrier; or
+            
+349
+
+    
+    (B)  the area for which the covered carrier is authorized to do business; and
+            
+350
+
+    
+    (ii)  in the case of the small employer market, the small employer carrier applies the
+            
+351
+
+    
+same criteria the small employer carrier would apply in denying enrollment in the plan under
+            
+352
+
+    
+Subsection 
+
+31A-30-108
+
+[(6)] (7); or
+            
+353
+
+    
+    (b)  for coverage made available in the small or large employer market only through an
+            
+354
+
+    
+association, if:
+            
+355
+
+    
+    (i)  the employer's membership in the association ceases; and
+            
+356
+
+    
+    (ii)  the coverage is terminated uniformly without regard to any health status-related
+            
+357
+
+    
+factor relating to any covered individual.
+            
+358
+
+    
+    (3)  A small employer health benefit plan may be discontinued if:
+            
+359
+
+    
+    (a)  a condition described in Subsection (2) exists;
+            
+360
+
+    
+    (b)  the plan sponsor fails to pay premiums or contributions in accordance with the
+            
+361
+
+    
+terms of the contract;
+            
+362
+
+    
+    (c)  the plan sponsor:
+            
+363
+
+    
+    (i)  performs an act or practice that constitutes fraud; or
+            
+364
+
+    
+    (ii)  makes an intentional misrepresentation of material fact under the terms of the
+            
+365
+
+    
+coverage;
+            
+366
+
+    
+    (d)  the covered carrier:
+            
+367
+
+    
+    (i)  elects to discontinue offering a particular small employer health benefit product
+            
+368
+
+    
+delivered or issued for delivery in this state; and
+
+            
+369
+
+
+    
+    (ii) (A)  provides notice of the discontinuation in writing:
+            
+370
+
+    
+    (I)  to each plan sponsor, employee, or dependent of a plan sponsor or an employee; and
+            
+371
+
+    
+    (II)  at least 90 days before the date the coverage will be discontinued;
+            
+372
+
+    
+    (B)  provides notice of the discontinuation in writing:
+            
+373
+
+    
+    (I)  to the commissioner; and
+            
+374
+
+    
+    (II)  at least three working days prior to the date the notice is sent to the affected plan
+            
+375
+
+    
+sponsors, employees, and dependents of the plan sponsors or employees;
+            
+376
+
+    
+    (C)  offers to each plan sponsor, on a guaranteed issue basis, the option to purchase all
+            
+377
+
+    
+other small employer health benefit products currently being offered by the small employer
+            
+378
+
+    
+carrier in the market; and
+            
+379
+
+    
+    (D)  in exercising the option to discontinue that product and in offering the option of
+            
+380
+
+    
+coverage in this section, acts uniformly without regard to:
+            
+381
+
+    
+    (I)  the claims experience of a plan sponsor;
+            
+382
+
+    
+    (II)  any health status-related factor relating to any covered participant or beneficiary; or
+            
+383
+
+    
+    (III)  any health status-related factor relating to any new participant or beneficiary who
+            
+384
+
+    
+may become eligible for the coverage; or
+            
+385
+
+    
+    (e)  the covered carrier:
+            
+386
+
+    
+    (i)  elects to discontinue all of the covered carrier's small employer health benefit plans
+            
+387
+
+    
+in:
+            
+388
+
+    
+    (A)  the small employer market;
+            
+389
+
+    
+    (B)  the large employer market; or
+            
+390
+
+    
+    (C)  both the small employer and large employer markets; and
+            
+391
+
+    
+    (ii) (A)  provides notice of the discontinuation in writing:
+            
+392
+
+    
+    (I)  to each plan sponsor, employee, or dependent of a plan sponsor or an employee; and
+            
+393
+
+    
+    (II)  at least 180 days before the date the coverage will be discontinued;
+            
+394
+
+    
+    (B)  provides notice of the discontinuation in writing:
+            
+395
+
+    
+    (I)  to the commissioner in each state in which an affected insured individual is known
+            
+396
+
+    
+to reside; and
+            
+397
+
+    
+    (II)  at least 30 working days prior to the date the notice is sent to the affected plan
+            
+398
+
+    
+sponsors, employees, and the dependents of the plan sponsors or employees;
+            
+399
+
+    
+    (C)  discontinues and nonrenews all plans issued or delivered for issuance in the
+
+            
+400
+
+
+    
+market; and
+            
+401
+
+    
+    (D)  provides a plan of orderly withdrawal as required by Section 
+
+31A-4-115
+
+.
+            
+402
+
+    
+    (4)  A small employer health benefit plan may be discontinued or nonrenewed:
+            
+403
+
+    
+    (a)  if a condition described in Subsection (2) exists; or
+            
+404
+
+    
+    (b)  for noncompliance with the insurer's employer contribution requirements.
+            
+405
+
+    
+    (5)  A small employer health benefit plan may be nonrenewed:
+            
+406
+
+    
+    (a)  if a condition described in Subsection (2) exists; or
+            
+407
+
+    
+    (b)  for noncompliance with the insurer's minimum participation requirements.
+            
+408
+
+    
+    (6) (a)  Except as provided in Subsection (6)(d), an eligible employee may be
+            
+409
+
+    
+discontinued if after issuance of coverage the eligible employee:
+            
+410
+
+    
+    (i)  engages in an act or practice that constitutes fraud in connection with the coverage;
+            
+411
+
+    
+or
+            
+412
+
+    
+    (ii)  makes an intentional misrepresentation of material fact in connection with the
+            
+413
+
+    
+coverage.
+            
+414
+
+    
+    (b)  An eligible employee that is discontinued under Subsection (6)(a) may reenroll:
+            
+415
+
+    
+    (i)  12 months after the date of discontinuance; and
+            
+416
+
+    
+    (ii)  if the plan sponsor's coverage is in effect at the time the eligible employee applies
+            
+417
+
+    
+to reenroll.
+            
+418
+
+    
+    (c)  At the time the eligible employee's coverage is discontinued under Subsection
+            
+419
+
+    
+(6)(a), the covered carrier shall notify the eligible employee of the right to reenroll when
+            
+420
+
+    
+coverage is discontinued.
+            
+421
+
+    
+    (d)  An eligible employee may not be discontinued under this Subsection (6) because of
+            
+422
+
+    
+a fraud or misrepresentation that relates to health status.
+            
+423
+
+    
+    (7)  For purposes of this section, a reference to "plan sponsor" includes a reference to
+            
+424
+
+    
+the employer:
+            
+425
+
+    
+    (a)  with respect to coverage provided to an employer member of the association; and
+            
+426
+
+    
+    (b)  if the small employer health benefit plan is made available by a covered carrier in
+            
+427
+
+    
+the employer market only through:
+            
+428
+
+    
+    (i)  an association;
+            
+429
+
+    
+    (ii)  a trust; or
+            
+430
+
+    
+    (iii)  a discretionary group.
+
+            
+431
+
+
+    
+    (8)  A covered carrier may modify a small employer health benefit plan only:
+            
+432
+
+    
+    (a)  at the time of coverage renewal; and
+            
+433
+
+    
+    (b)  if the modification is effective uniformly among all plans with that product.
+            
+434
+
+    
+    Section 6.  
+Section  
+31A-30-107.3
+
+ is amended to read:
+            
+435
+
+    
+     31A-30-107.3.  Discontinuance and nonrenewal limitations and conditions.
+            
+436
+
+    
+    (1) (a)  A carrier that elects to discontinue offering a health benefit plan under
+            
+437
+
+    
+Subsection 
+
+31A-30-107
+
+(3)(e) or 
+
+31A-30-107.1
+
+(3)(e) is prohibited from writing new business:
+            
+438
+
+    
+    (i)  in the small employer and individual market in this state; and
+            
+439
+
+    
+    (ii)  for a period of five years beginning on the date of discontinuation of the last
+            
+440
+
+    
+coverage that is discontinued.
+            
+441
+
+    
+    (b)  The prohibition described in Subsection (1)(a) may be waived if the commissioner
+            
+442
+
+    
+finds that waiver is in the public interest:
+            
+443
+
+    
+    (i)  to promote competition; or
+            
+444
+
+    
+    (ii)  to resolve inequity in the marketplace.
+            
+445
+
+    
+    (2) (a)  If the Comprehensive Health Insurance Pool as set forth under Title 31A,
+            
+446
+
+    
+Chapter 29, is dissolved or discontinued, or if enrollment is capped or suspended, an individual
+            
+447
+
+    
+carrier:
+            
+448
+
+    
+    (i)  may elect to discontinue offering new individual health benefit plans, except to
+            
+449
+
+    
+HIPAA eligibles, but must keep existing individual health benefit plans in effect, except those
+            
+450
+
+    
+individual plans that are not renewed under the provisions of Subsection 
+
+31A-30-107
+
+(2) or
+            
+451
+
+    
+
+
+31A-30-107.1
+
+(2);
+            
+452
+
+    
+    (ii)  may elect to continue to offer new individual and small employee health benefit
+            
+453
+
+    
+plans; or
+            
+454
+
+    
+    (iii)  may elect to discontinue all of the covered carriers health benefit plans in the
+            
+455
+
+    
+individual or small group market under the provisions of Subsection 
+
+31A-30-107
+
+(3)(e) or
+            
+456
+
+    
+
+
+31A-30-107.1
+
+(3)(e).
+            
+457
+
+    
+    (b)  A carrier that makes an election under Subsection (2)(a)(i) is:
+            
+458
+
+    
+    (i)  prohibited from writing new business:
+            
+459
+
+    
+    (A)  in the individual market in this state; and
+            
+460
+
+    
+    (B)  for a period of five years beginning on the date of discontinuation;
+            
+461
+
+    
+    (ii)  may continue to write new business in the small employer market; and
+
+            
+462
+
+
+    
+    (iii)  must provide written notice of the election under Subsection (2)(a)(i) within two
+            
+463
+
+    
+calendar days of the election to the Utah Insurance Department.
+            
+464
+
+    
+    (c)  The prohibition described in Subsection (2)(b)(i) may be waived if the
+            
+465
+
+    
+commissioner finds that waiver is in the public interest:
+            
+466
+
+    
+    (i)  to promote competition; or
+            
+467
+
+    
+    (ii)  to resolve inequity in the marketplace.
+            
+468
+
+    
+    (d)  A carrier that makes an election under Subsection (2)(a)(iii) is subject to the
+            
+469
+
+    
+provisions of Subsection (1).
+            
+470
+
+    
+    [(2)] (3)  If a carrier is doing business in one established geographic service area of the
+            
+471
+
+    
+state, Sections 
+
+31A-30-107
+
+ and 
+
+31A-30-107.1
+
+ apply only to the carrier's operations in that
+            
+472
+
+    
+geographic service area.
+            
+473
+
+    
+    [(3)] (4)  If a small employer employs less than two employees, a carrier may not
+            
+474
+
+    
+discontinue or not renew the health benefit plan until the first renewal date following the
+            
+475
+
+    
+beginning of a new plan year, even if the carrier knows as of the beginning of the plan year that
+            
+476
+
+    
+the employer no longer has at least two current employees.
+            
+477
+
+    
+    Section 7.  
+Section  
+31A-30-108
+
+ is amended to read:
+            
+478
+
+    
+     31A-30-108.  Eligibility for small employer and individual market.
+            
+479
+
+    
+    (1) (a) Small employer carriers shall accept residents for small group coverage as set
+            
+480
+
+    
+forth in the Health Insurance Portability and Accountability Act, P.L. 104-191, 110 Stat. 1962,
+            
+481
+
+    
+Sec. 2701(f) and 2711(a).
+            
+482
+
+    
+    (b)  Individual carriers shall accept residents for individual coverage pursuant:
+            
+483
+
+    
+    (i)  to P.L. 104-191, 110 Stat. 1979, Sec. 2741(a)-(b); and
+            
+484
+
+    
+    (ii)  Subsection (3).
+            
+485
+
+    
+    (2) (a)  Small employer carriers shall offer to accept all eligible employees and their
+            
+486
+
+    
+dependents at the same level of benefits under any health benefit plan provided to a small
+            
+487
+
+    
+employer.
+            
+488
+
+    
+    (b)  Small employer carriers may:
+            
+489
+
+    
+    (i)  request a small employer to submit a copy of the small employer's quarterly income
+            
+490
+
+    
+tax withholdings to determine whether the employees for whom coverage is provided or
+            
+491
+
+    
+requested are bona fide employees of the small employer; and
+            
+492
+
+    
+    (ii)  deny or terminate coverage if the small employer refuses to provide documentation
+
+            
+493
+
+
+    
+requested under Subsection (2)(b)(i).
+            
+494
+
+    
+    (3)  Except as provided in [Subsection] Subsections (5) and  (6) and Section
+            
+495
+
+    
+
+31A-30-110
+
+, individual carriers shall accept for coverage individuals to whom all of the
+            
+496
+
+    
+following conditions apply:
+            
+497
+
+    
+    (a)  the individual is not covered or eligible for coverage:
+            
+498
+
+    
+    (i) (A)  as an employee of an employer;
+            
+499
+
+    
+    (B)  as a member of an association; or
+            
+500
+
+    
+    (C)  as a member of any other group; and
+            
+501
+
+    
+    (ii)  under:
+            
+502
+
+    
+    (A)  a health benefit plan; or
+            
+503
+
+    
+    (B)  a self-insured arrangement that provides coverage similar to that provided by a
+            
+504
+
+    
+health benefit plan as defined in Section 
+
+31A-1-301
+
+;
+            
+505
+
+    
+    (b)  the individual is not covered and is not eligible for coverage under any public
+            
+506
+
+    
+health benefits arrangement including:
+            
+507
+
+    
+    (i)  the Medicare program established under Title XVIII of the Social Security Act;
+            
+508
+
+    
+    (ii)  the Medicaid program established under Title XIX of the Social Security Act;
+            
+509
+
+    
+    (iii)  any act of Congress or law of this or any other state that provides benefits
+            
+510
+
+    
+comparable to the benefits provided under this chapter; or
+            
+511
+
+    
+    (iv)  coverage under the Comprehensive Health Insurance Pool Act created in Chapter
+            
+512
+
+    
+29, Comprehensive Health Insurance Pool Act;
+            
+513
+
+    
+    (c)  unless the maximum benefit has been reached the individual is not covered or
+            
+514
+
+    
+eligible for coverage under any:
+            
+515
+
+    
+    (i)  Medicare supplement policy;
+            
+516
+
+    
+    (ii)  conversion option;
+            
+517
+
+    
+    (iii)  continuation or extension under COBRA; or
+            
+518
+
+    
+    (iv)  state extension;
+            
+519
+
+    
+    (d)  the individual has not terminated or declined coverage described in Subsection
+            
+520
+
+    
+(3)(a), (b), or (c) within 93 days of application for coverage, unless the individual is eligible for
+            
+521
+
+    
+individual coverage under P.L. 104-191, 110 Stat. 1979, Sec. 2741(b), in which case, the
+            
+522
+
+    
+requirement of this Subsection (3)(d) does not apply; and
+            
+523
+
+    
+    (e)  the individual is certified as ineligible for the Health Insurance Pool if:
+
+            
+524
+
+
+    
+    (i)  the individual applies for coverage with the Comprehensive Health Insurance Pool
+            
+525
+
+    
+within 30 days after being rejected or refused coverage by the covered carrier and reapplies for
+            
+526
+
+    
+coverage with that covered carrier within 30 days after the date of issuance of a certificate
+            
+527
+
+    
+under Subsection 
+
+31A-29-111
+
+(4)(c); or
+            
+528
+
+    
+    (ii)  the individual applies for coverage with any individual carrier within 45 days after:
+            
+529
+
+    
+    (A)  notice of cancellation of coverage under Subsection 
+
+31A-29-115
+
+(1); or
+            
+530
+
+    
+    (B)  the date of issuance of a certificate under Subsection 
+
+31A-29-111
+
+(4)(c) if the
+            
+531
+
+    
+individual applied first for coverage with the Comprehensive Health Insurance Pool.
+            
+532
+
+    
+    (4) (a)  If coverage is obtained under Subsection (3)(e)(i) and the required premium is
+            
+533
+
+    
+paid, the effective date of coverage shall be the first day of the month following the individual's
+            
+534
+
+    
+submission of a completed insurance application to that covered carrier.
+            
+535
+
+    
+    (b)  If coverage is obtained under Subsection (3)(e)(ii) and the required premium is
+            
+536
+
+    
+paid, the effective date of coverage shall be the day following the:
+            
+537
+
+    
+    (i)  cancellation of coverage under Subsection 
+
+31A-29-115
+
+(1); or
+            
+538
+
+    
+    (ii)  submission of a completed insurance application to the Comprehensive Health
+            
+539
+
+    
+Insurance Pool.
+            
+540
+
+    
+    (5) (a)  An individual carrier is not required to accept individuals for coverage under
+            
+541
+
+    
+Subsection (3) if the carrier issues no new individual policies in the state after July 1, 1997.
+            
+542
+
+    
+    (b)  A carrier described in Subsection (5)(a) may not issue new individual policies in
+            
+543
+
+    
+the state for five years from July 1, 1997.
+            
+544
+
+    
+    (c)  Notwithstanding Subsection (5)(b), a carrier may request permission to issue new
+            
+545
+
+    
+policies after July 1, 1999, which may only be granted if:
+            
+546
+
+    
+    (i)  the carrier accepts uninsurables as is required of a carrier entering the market under
+            
+547
+
+    
+Subsection 
+
+31A-30-110
+
+; and
+            
+548
+
+    
+    (ii)  the commissioner finds that the carrier's issuance of new individual policies:
+            
+549
+
+    
+    (A)  is in the best interests of the state; and
+            
+550
+
+    
+    (B)  does not provide an unfair advantage to the carrier.
+            
+551
+
+    
+    (6) (a)  If enrollment in the Comprehensive Health Insurance Pool as set forth under
+            
+552
+
+    
+Title 31A, Chapter 29, is capped or suspended, an individual carrier may decline to accept
+            
+553
+
+    
+individuals applying for individual enrollment, other than individuals applying for coverage as
+            
+554
+
+    
+set forth in P.L. 104-191, 110 Stat. 1979, Sec. 2741 (a)-(b).
+
+            
+555
+
+
+    
+    (b)  Within two calendar days of taking action under Subsection (6)(a), an individual
+            
+556
+
+    
+carrier will provide written notice to the Utah Insurance Department.
+            
+557
+
+    
+    [(6)] (7) (a)  If a small employer carrier offers health benefit plans to small employers
+            
+558
+
+    
+through a network plan, the small employer carrier may:
+            
+559
+
+    
+    (i)  limit the employers that may apply for the coverage to those employers with eligible
+            
+560
+
+    
+employees who live, reside, or work in the service area for the network plan; and
+            
+561
+
+    
+    (ii)  within the service area of the network plan, deny coverage to an employer if the
+            
+562
+
+    
+small employer carrier has demonstrated to the commissioner that the small employer carrier:
+            
+563
+
+    
+    (A)  will not have the capacity to deliver services adequately to enrollees of any
+            
+564
+
+    
+additional groups because of the small employer carrier's obligations to existing group contract
+            
+565
+
+    
+holders and enrollees; and
+            
+566
+
+    
+    (B)  applies this section uniformly to all employers without regard to:
+            
+567
+
+    
+    (I)  the claims experience of an employer, an employer's employee, or a dependent of an
+            
+568
+
+    
+employee; or
+            
+569
+
+    
+    (II)  any health status-related factor relating to an employee or dependent of an
+            
+570
+
+    
+employee.
+            
+571
+
+    
+    (b) (i)  A small employer carrier that denies a health benefit product to an employer in
+            
+572
+
+    
+any service area in accordance with this section may not offer coverage in the small employer
+            
+573
+
+    
+market within the service area to any employer for a period of 180 days after the date the
+            
+574
+
+    
+coverage is denied.
+            
+575
+
+    
+    (ii)  This Subsection [(6)] (7)(b) does not:
+            
+576
+
+    
+    (A)  limit the small employer carrier's ability to renew coverage that is in force; or
+            
+577
+
+    
+    (B)  relieve the small employer carrier of the responsibility to renew coverage that is in
+            
+578
+
+    
+force.
+            
+579
+
+    
+    (c)  Coverage offered within a service area after the 180-day period specified in
+            
+580
+
+    
+Subsection [(6)] (7)(b) is subject to the requirements of this section.
+            
+581
+
+    
+    Section 8.  Repealer.
+            
+582
+
+    
+    This bill repeals:
+            
+583
+
+    
+    Section  31A-30-106.6,  Individual rates.
+
+
+
+
+
+ Legislative Review Note
+    as of   1-22-04  4:02 PM
+
+A limited legal review of this legislation raises no obvious constitutional or statutory concerns.
+
+ Office of Legislative Research and General Counsel
+[Bill Documents][Bills Directory]
+
+
+
+
+
+
+
+
+
+Who represents me?
+
+
+
+
+
+Remember my Legislators
+
+
+
+
+
+State Senate
+		350 North State, Suite 320
+		PO Box 145115
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1035
+		Fax: (801) 326-1475
+
+
+
+House of Representatives
+		350 North State, Suite 350
+		PO Box 145030
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1029
+		Fax: (801) 326-1544
+
+
+
+
+
+
+
+
+
+
+Home
+Mobile Site
+Site Map
+Calendar
+Code / Constitution
+House
+Senate
+
+Terms of Use/Privacy Policy
+
+ADA
+Utah.gov
+
+
+
+
+
+
+

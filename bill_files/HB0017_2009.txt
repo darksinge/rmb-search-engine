@@ -1,0 +1,1034 @@
+Sponsors: []Modifications:     58-1-501.3.(1)  For purposes of this section:(a)  "Drug to treat a sexually transmitted disease" means a drug:(i)  as defined in Section 
+
+58-17b-102
+
+; and(ii)  that is:(A)  an antibiotic; and(B)  prescribed in accordance with guidelines from the Centers for Disease Control andPrevention for patient delivered expedited partner therapy in the management of sexuallytransmitted disease.(b)  "Partner" means a person:(i)  with whom a practitioner does not have a bonafide practitioner-patient relationship;and(ii)  who is identified as, or claims to be a sexual partner of a patient.(c)  "Patient" means a person who:(i)  has a sexually transmitted disease; and(ii)  has a bonafide practitioner-patient relationship with a practitioner.(d)  "Sexually transmitted disease" means:(i)  gonorrhea; or(ii)  chlamydia.(2)  This section does not require a practitioner to prescribe a drug to treat a sexuallytransmitted disease for patient delivered expedited partner therapy.  A practitioner's decision touse expedited partner therapy as allowed by this section is voluntary.(3)  Notwithstanding Sections 
+
+58-1-501
+
+, 
+
+58-17b-501
+
+, and 
+
+58-17b-502
+
+, it is not unlawfulconduct or unprofessional conduct, and it does not violate the provisions of this chapter if:(a)  a practitioner, in accordance with this Subsection (3):(i)  issues a prescription for a drug to treat a sexually transmitted disease to a partner by:(A)  writing "partner of (patient name)" on the prescription order; and(B)  giving the partner's prescription to the patient for subsequent use by the partner; or(ii)  notwithstanding Section 
+
+58-17b-610
+
+, dispenses a drug sample to treat a sexuallytransmitted disease to the patient for the subsequent use of the partner; or(b)  a pharmacist, in accordance with this Subsection (3):(i)  dispenses a prescription drug for the treatment of a sexually transmitted disease to:(A)  a person who:(I)  claims to be a partner; and(II)  presents a prescription for the drug to the pharmacist which is written for theunnamed partner of a named patient;(B)  the patient for the subsequent use by the unnamed partner; or(C)  an agent of the patient or partner.(4) (a)  For purposes of Subsection (3), and notwithstanding Section 
+
+58-17b-602
+
+:(i)  the partner does not have to be identified on the prescription order by informationthat would disclose the identity of the partner; and(ii)  when dispensing a drug to treat a sexually transmitted disease directly to thepartner, the patient's identifying information may, but does not need to, be included on thepartner's drug label.(b)  Information provided by a pharmacist to a patient or the patient's agent forsubsequent use by a partner satisfies the requirements of patient counseling for both the patientand the partner under Section 
+
+58-17b-613
+
+.Except as provided in Section 
+
+58-1-501.3
+
+, thea pharmacistinternthe prescriptionFull text:
+
+
+
+Utah State Legislature
+
+
+
+
+
+
+
+
+
+
+
+
+Legislators
+
+By Session (1896-Current)
+Alphabetical (Historical)
+Find by Address/Map
+More
+
+
+Bills
+
+Bills/Bill Requests
+Passed Bills
+2017 Bills
+
+Keyword Search
+Reading Calendars
+Tracking Service
+More
+
+
+Committees
+
+All Committees
+Appropriations
+Commissions
+
+Independent Legislative Ethics Commission
+Interim
+Standing
+Subcommittees
+Task Forces
+Bills In Committees
+
+
+Utah Code / Constitution
+
+
+Title/Chapter/Section
+Keyword Search 
+
+Utah Constitution
+Laws of Utah 1851-ongoing
+Utah Territorial Laws 
+More
+
+
+Senate
+
+Main Page 
+About The Senate 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Extraordinary Sessions 
+Reading Calendars 
+Past Floor Debates 
+Senate Journals 
+
+
+House
+
+Main Page
+About the House 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Reading Calendars 
+Past Floor Debates 
+Journals 
+Conflict of Interest Forms 
+
+
+Legislative Guide 
+
+Legislative Guide
+Civic Programs
+GRAMA (Records Requests)
+
+
+Publications
+
+Search Publications
+Appropriations
+Audits
+Bagels & Briefings
+Briefing Papers
+Digest of Legislation
+Legislative Drafting Manual
+
+Journals
+
+Interim Highlights
+
+Legislative Rules
+GRAMA (Records Requests)
+Public Email
+State Organization Charts
+YouTube Channel
+Requests for Proposals and Legal Notices
+More
+
+
+Legislative Histories
+
+Legislative History Resources
+How to Research
+Bill Drafting/Research Files (1990-Ongoing)
+
+Working Bills (1896-1989)
+Interim Committee Histories (1990-Ongoing) 
+Journals
+Past House Floor Debates
+Past Senate Floor Debates
+More
+
+
+Staff Offices
+
+All Legislative Offices
+Auditor General
+Fiscal Analyst
+Printing
+Research and General Counsel
+Staff Awards
+Job Opportunities
+More
+
+
+Links of Interest
+
+Utah Administrative Rules
+Courts
+Utah State Capitol
+State of Utah
+Federal Legislation
+More
+
+
+
+
+
+
+ 
+
+Download Zipped Introduced WordPerfect HB0017.ZIP
+[Status][Bill Documents][Fiscal Note][Bills Directory]
+
+
+H.B. 17
+
+
+
+
+
+            
+1
+
+    
+ EXPEDITED PARTNER THERAPY TREATMENT
+
+
+
+            
+2
+
+    
+2009 GENERAL SESSION
+
+            
+3
+
+    
+STATE OF UTAH
+
+            
+4
+
+    
+
+
+ Chief Sponsor:  Jennifer M. Seelig
+
+
+
+            
+5
+
+    
+
+
+
+Senate Sponsor: 
+
+
+
+
+
+
+  Stephen H. Urquhart
+
+
+
+
+
+            
+6
+
+    
+
+            
+7
+
+    
+ LONG TITLE
+            
+8
+
+    
+ Committee Note:
+            
+9
+
+    
+    The Health and Human Services Interim Committee recommended this bill.
+            
+10
+
+    
+ General Description:
+            
+11
+
+    
+    This bill amends the Pharmacy Practice Act in the Division of Occupational and
+            
+12
+
+    
+Professional Licensing Act.
+            
+13
+
+    
+ Highlighted Provisions:
+            
+14
+
+    
+    This bill:
+            
+15
+
+    
+    .    defines terms;
+            
+16
+
+    
+    .    excludes from the definition of unprofessional conduct and unlawful conduct under
+            
+17
+
+    
+the Division of Occupational and Professional Licensing, issuing a prescription for
+            
+18
+
+    
+an antibiotic to an unnamed partner of a person who has any one of certain
+            
+19
+
+    
+designated sexually transmitted diseases;
+            
+20
+
+    
+    .    does not mandate the use of expedited partner therapy;
+            
+21
+
+    
+    .    provides an option for physicians to use expedited partner therapy;
+            
+22
+
+    
+    .    makes conforming changes to the Pharmacy Practices Act; and
+            
+23
+
+    
+    .    makes technical changes.
+            
+24
+
+    
+ Monies Appropriated in this Bill:
+            
+25
+
+    
+    None
+            
+26
+
+    
+ Other Special Clauses:
+            
+27
+
+    
+    None
+
+            
+28
+
+
+    
+ Utah Code Sections Affected:
+            
+29
+
+    
+AMENDS:
+            
+30
+
+    
+     58-17b-602, as last amended by Laws of Utah 2007, Chapter 279
+            
+31
+
+    
+ENACTS:
+            
+32
+
+    
+     58-1-501.3, Utah Code Annotated 1953
+            
+33
+
+    
+
+            
+34
+
+    
+Be it enacted by the Legislature of the state of Utah:
+            
+35
+
+    
+    Section 1.  
+Section  
+58-1-501.3
+
+ is enacted to read:
+            
+36
+
+    
+     58-1-501.3.  Health professional prescribing exceptions for expedited partner
+            
+37
+
+    
+ therapy for sexually transmitted diseases.
+            
+38
+
+    
+    (1)  For purposes of this section:
+            
+39
+
+    
+    (a)  "Drug to treat a sexually transmitted disease" means a drug:
+            
+40
+
+    
+    (i)  as defined in Section 
+
+58-17b-102
+
+; and
+            
+41
+
+    
+    (ii)  that is:
+            
+42
+
+    
+    (A)  an antibiotic; and
+            
+43
+
+    
+    (B)  prescribed in accordance with guidelines from the Centers for Disease Control and
+            
+44
+
+    
+Prevention for patient delivered expedited partner therapy in the management of sexually
+            
+45
+
+    
+transmitted disease.
+            
+46
+
+    
+    (b)  "Partner" means a person:
+            
+47
+
+    
+    (i)  with whom a practitioner does not have a bonafide practitioner-patient relationship;
+            
+48
+
+    
+and
+            
+49
+
+    
+    (ii)  who is identified as, or claims to be a sexual partner of a patient.
+            
+50
+
+    
+    (c)  "Patient" means a person who:
+            
+51
+
+    
+    (i)  has a sexually transmitted disease; and
+            
+52
+
+    
+    (ii)  has a bonafide practitioner-patient relationship with a practitioner.
+            
+53
+
+    
+    (d)  "Sexually transmitted disease" means:
+            
+54
+
+    
+    (i)  gonorrhea; or
+            
+55
+
+    
+    (ii)  chlamydia.
+            
+56
+
+    
+    (2)  This section does not require a practitioner to prescribe a drug to treat a sexually
+            
+57
+
+    
+transmitted disease for patient delivered expedited partner therapy.  A practitioner's decision to
+            
+58
+
+    
+use expedited partner therapy as allowed by this section is voluntary.
+
+            
+59
+
+
+    
+    (3)  Notwithstanding Sections 
+
+58-1-501
+
+, 
+
+58-17b-501
+
+, and 
+
+58-17b-502
+
+, it is not unlawful
+            
+60
+
+    
+conduct or unprofessional conduct, and it does not violate the provisions of this chapter if:
+            
+61
+
+    
+    (a)  a practitioner, in accordance with this Subsection (3):
+            
+62
+
+    
+    (i)  issues a prescription for a drug to treat a sexually transmitted disease to a partner by:
+            
+63
+
+    
+    (A)  writing "partner of (patient name)" on the prescription order; and
+            
+64
+
+    
+    (B)  giving the partner's prescription to the patient for subsequent use by the partner; or
+            
+65
+
+    
+    (ii)  notwithstanding Section 
+
+58-17b-610
+
+, dispenses a drug sample to treat a sexually
+            
+66
+
+    
+transmitted disease to the patient for the subsequent use of the partner; or
+            
+67
+
+    
+    (b)  a pharmacist, in accordance with this Subsection (3):
+            
+68
+
+    
+    (i)  dispenses a prescription drug for the treatment of a sexually transmitted disease to:
+            
+69
+
+    
+    (A)  a person who:
+            
+70
+
+    
+    (I)  claims to be a partner; and
+            
+71
+
+    
+    (II)  presents a prescription for the drug to the pharmacist which is written for the
+            
+72
+
+    
+unnamed partner of a named patient;
+            
+73
+
+    
+    (B)  the patient for the subsequent use by the unnamed partner; or
+            
+74
+
+    
+    (C)  an agent of the patient or partner.
+            
+75
+
+    
+    (4) (a)  For purposes of Subsection (3), and notwithstanding Section 
+
+58-17b-602
+
+:
+            
+76
+
+    
+    (i)  the partner does not have to be identified on the prescription order by information
+            
+77
+
+    
+that would disclose the identity of the partner; and
+            
+78
+
+    
+    (ii)  when dispensing a drug to treat a sexually transmitted disease directly to the
+            
+79
+
+    
+partner, the patient's identifying information may, but does not need to, be included on the
+            
+80
+
+    
+partner's drug label.
+            
+81
+
+    
+    (b)  Information provided by a pharmacist to a patient or the patient's agent for
+            
+82
+
+    
+subsequent use by a partner satisfies the requirements of patient counseling for both the patient
+            
+83
+
+    
+and the partner under Section 
+
+58-17b-613
+
+.
+            
+84
+
+    
+    Section 2.  
+Section  
+58-17b-602
+
+ is amended to read:
+            
+85
+
+    
+     58-17b-602.  Prescription orders -- Information required -- Alteration -- Labels --
+            
+86
+
+    
+ Signatures -- Dispensing in pharmacies.
+            
+87
+
+    
+    (1)  [The] Except as provided in Section 
+
+58-1-501.3
+
+, the minimum information that
+            
+88
+
+    
+shall be included in a prescription order, and that may be defined by rule, is:
+            
+89
+
+    
+    (a)  the prescriber's name, address, and telephone number, and, if the order is for a
+
+            
+90
+
+
+    
+controlled substance, the patient's age and the prescriber's DEA number;
+            
+91
+
+    
+    (b)  the patient's name and address or, in the case of an animal, the name of the owner
+            
+92
+
+    
+and species of the animal;
+            
+93
+
+    
+    (c)  the date of issuance;
+            
+94
+
+    
+    (d)  the name of the medication or device prescribed and dispensing instructions, if
+            
+95
+
+    
+necessary;
+            
+96
+
+    
+    (e)  the directions, if appropriate, for the use of the prescription by the patient or animal
+            
+97
+
+    
+and any refill, special labeling, or other instructions;
+            
+98
+
+    
+    (f)  the prescriber's signature if the prescription order is written;
+            
+99
+
+    
+    (g)  if the order is an electronically transmitted prescription order, the prescribing
+            
+100
+
+    
+practitioner's electronic signature; and
+            
+101
+
+    
+    (h)  if the order is a hard copy prescription order generated from electronic media, the
+            
+102
+
+    
+prescribing practitioner's electronic or manual signature.
+            
+103
+
+    
+    (2)  The requirement of Subsection (1)(a) does not apply to prescription orders
+            
+104
+
+    
+dispensed for inpatients by hospital pharmacies if the prescriber is a current member of the
+            
+105
+
+    
+hospital staff and the prescription order is on file in the patient's medical record.
+            
+106
+
+    
+    (3)  Unless it is for a Schedule II controlled substance, a prescription order may be
+            
+107
+
+    
+dispensed by [pharmacists] a pharmacist or pharmacy [interns] intern upon an oral prescription
+            
+108
+
+    
+of a practitioner only if the oral prescription is promptly reduced to writing.
+            
+109
+
+    
+    (4) (a)  Except as provided under Subsection (4)(b), a pharmacist or pharmacy intern
+            
+110
+
+    
+may not dispense or compound any prescription of a practitioner if [it] the prescription shows
+            
+111
+
+    
+evidence of alteration, erasure, or addition by any person other than the person writing the
+            
+112
+
+    
+prescription.
+            
+113
+
+    
+    (b)  A pharmacist or pharmacy intern dispensing or compounding a prescription may
+            
+114
+
+    
+alter or make additions to the prescription after receiving permission of the prescriber and may
+            
+115
+
+    
+make entries or additions on the prescription required by law or necessitated in the
+            
+116
+
+    
+compounding and dispensing procedures.
+            
+117
+
+    
+    (5)  Each drug dispensed shall have a label securely affixed to the container indicating
+            
+118
+
+    
+the following minimum information:
+            
+119
+
+    
+    (a)  the name, address, and telephone number of the pharmacy;
+            
+120
+
+    
+    (b)  the serial number of the prescription as assigned by the dispensing pharmacy;
+
+            
+121
+
+
+    
+    (c)  the filling date of the prescription or its last dispensing date;
+            
+122
+
+    
+    (d)  the name of the patient, or in the case of an animal, the name of the owner and
+            
+123
+
+    
+species of the animal;
+            
+124
+
+    
+    (e)  the name of the prescriber;
+            
+125
+
+    
+    (f)  the directions for use and cautionary statements, if any, which are contained in the
+            
+126
+
+    
+prescription order or are needed;
+            
+127
+
+    
+    (g)  except as provided in Subsection (6), the trade, generic, or chemical name, amount
+            
+128
+
+    
+dispensed and the strength of dosage form, but if multiple ingredient products with established
+            
+129
+
+    
+proprietary or nonproprietary names are prescribed, those products' names may be used; and
+            
+130
+
+    
+    (h)  the beyond use date.
+            
+131
+
+    
+    (6)  If the prescriber specifically indicates the name of the prescription product should
+            
+132
+
+    
+not appear on the label, then any of the trade, generic, chemical, established proprietary, and
+            
+133
+
+    
+established nonproprietary names and the strength of dosage form may not be included.
+            
+134
+
+    
+    (7)  Except when it is delivered to the ultimate user via the United States Postal Service,
+            
+135
+
+    
+licensed common carrier, or supportive personnel, a prescription drug may be dispensed to the
+            
+136
+
+    
+ultimate user or his agent only at a licensed pharmacy.
+
+
+
+
+ Legislative Review Note
+    as of  11-19-08  3:36 PM
+
+ Office of Legislative Research and General Counsel
+[Bill Documents][Bills Directory]
+
+
+
+
+
+
+
+
+
+Who represents me?
+
+
+
+
+
+Remember my Legislators
+
+
+
+
+
+State Senate
+		350 North State, Suite 320
+		PO Box 145115
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1035
+		Fax: (801) 326-1475
+
+
+
+House of Representatives
+		350 North State, Suite 350
+		PO Box 145030
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1029
+		Fax: (801) 326-1544
+
+
+
+
+
+
+
+
+
+
+Home
+Mobile Site
+Site Map
+Calendar
+Code / Constitution
+House
+Senate
+
+Terms of Use/Privacy Policy
+
+ADA
+Utah.gov
+
+
+
+
+
+
+

@@ -1,0 +1,614 @@
+Sponsors: []Modifications: :(i)or expenseunlesswithin the timeperiods established by the Division of Finance under Subsection (3)(b); and(ii)  are not subject to the requirements of Subsection (3)(c).Full text:
+
+
+
+Utah State Legislature
+
+
+
+
+
+
+
+
+
+
+
+
+Legislators
+
+By Session (1896-Current)
+Alphabetical (Historical)
+Find by Address/Map
+More
+
+
+Bills
+
+Bills/Bill Requests
+Passed Bills
+2017 Bills
+
+Keyword Search
+Reading Calendars
+Tracking Service
+More
+
+
+Committees
+
+All Committees
+Appropriations
+Commissions
+
+Independent Legislative Ethics Commission
+Interim
+Standing
+Subcommittees
+Task Forces
+Bills In Committees
+
+
+Utah Code / Constitution
+
+
+Title/Chapter/Section
+Keyword Search 
+
+Utah Constitution
+Laws of Utah 1851-ongoing
+Utah Territorial Laws 
+More
+
+
+Senate
+
+Main Page 
+About The Senate 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Extraordinary Sessions 
+Reading Calendars 
+Past Floor Debates 
+Senate Journals 
+
+
+House
+
+Main Page
+About the House 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Reading Calendars 
+Past Floor Debates 
+Journals 
+Conflict of Interest Forms 
+
+
+Legislative Guide 
+
+Legislative Guide
+Civic Programs
+GRAMA (Records Requests)
+
+
+Publications
+
+Search Publications
+Appropriations
+Audits
+Bagels & Briefings
+Briefing Papers
+Digest of Legislation
+Legislative Drafting Manual
+
+Journals
+
+Interim Highlights
+
+Legislative Rules
+GRAMA (Records Requests)
+Public Email
+State Organization Charts
+YouTube Channel
+Requests for Proposals and Legal Notices
+More
+
+
+Legislative Histories
+
+Legislative History Resources
+How to Research
+Bill Drafting/Research Files (1990-Ongoing)
+
+Working Bills (1896-1989)
+Interim Committee Histories (1990-Ongoing) 
+Journals
+Past House Floor Debates
+Past Senate Floor Debates
+More
+
+
+Staff Offices
+
+All Legislative Offices
+Auditor General
+Fiscal Analyst
+Printing
+Research and General Counsel
+Staff Awards
+Job Opportunities
+More
+
+
+Links of Interest
+
+Utah Administrative Rules
+Courts
+Utah State Capitol
+State of Utah
+Federal Legislation
+More
+
+
+
+
+
+
+ 
+
+Download Zipped Introduced WordPerfect HB0057.ZIP
+[Status][Bill Documents][Fiscal Note][Bills Directory]
+
+
+H.B. 57
+
+
+
+
+
+            
+1
+
+    
+ AMENDMENTS TO BUDGETARY PROCEDURES
+
+            
+2
+
+    
+ ACT
+
+
+
+            
+3
+
+    
+2004 GENERAL SESSION
+
+            
+4
+
+    
+STATE OF UTAH
+
+            
+5
+
+    
+
+
+ Sponsor: Jack A. Seitz
+
+
+
+            
+6
+
+    
+
+            
+7
+
+    
+ LONG TITLE
+            
+8
+
+    
+ General Description:
+            
+9
+
+    
+    This bill clarifies accounting requirements for certain claims against the state.
+            
+10
+
+    
+ Highlighted Provisions:
+            
+11
+
+    
+    This bill:
+            
+12
+
+    
+    .    prohibits certain medical assistance claims from being an expense or liability to the
+            
+13
+
+    
+state unless they are received by a certain date.
+            
+14
+
+    
+ Monies Appropriated in this Bill:
+            
+15
+
+    
+    None
+            
+16
+
+    
+ Other Special Clauses:
+            
+17
+
+    
+    None
+            
+18
+
+    
+ Utah Code Sections Affected:
+            
+19
+
+    
+AMENDS:
+            
+20
+
+    
+     63-38-8, as last amended by Chapter 256, Laws of Utah 2002
+            
+21
+
+    
+
+            
+22
+
+    
+Be it enacted by the Legislature of the state of Utah:
+            
+23
+
+    
+    Section 1.  
+Section  
+63-38-8
+
+ is amended to read:
+            
+24
+
+    
+     63-38-8.  End of fiscal year -- Unexpended balances -- Funds not to be closed out
+            
+25
+
+    
+ -- Pending claims -- Transfer of amounts from item of appropriation.
+            
+26
+
+    
+    (1)  As used in this section, "transaction control number" means the unique numerical
+            
+27
+
+    
+identifier established by the Department of Health to track each medical claim, which indicates
+
+            
+28
+
+
+    
+the date upon which the claim is entered.
+            
+29
+
+    
+    (2)  On or before August 31 of each fiscal year, the director of the Division of Finance
+            
+30
+
+    
+shall close out to the proper fund or account all remaining unexpended and unencumbered
+            
+31
+
+    
+balances of appropriations made by the Legislature, except:
+            
+32
+
+    
+    (a)  those funds classified under Title 51, Chapter 5, Funds Consolidation Act as:
+            
+33
+
+    
+    (i)  enterprise funds;
+            
+34
+
+    
+    (ii)  internal service funds;
+            
+35
+
+    
+    (iii)  trust and agency funds;
+            
+36
+
+    
+    (iv)  capital projects funds;
+            
+37
+
+    
+    (v)  college and university funds;
+            
+38
+
+    
+    (vi)  debt service funds; and
+            
+39
+
+    
+    (vii)  permanent funds;
+            
+40
+
+    
+    (b)  appropriations made to the Legislature and its committees;
+            
+41
+
+    
+    (c)  restricted special revenue funds, unless specifically directed to close out the fund in
+            
+42
+
+    
+the fund's enabling legislation;
+            
+43
+
+    
+    (d)  acquisition and development funds appropriated to the Division of Parks and
+            
+44
+
+    
+Recreation;
+            
+45
+
+    
+    (e)  funds encumbered to pay purchase orders issued prior to May 1 for capital
+            
+46
+
+    
+equipment if delivery is expected before June 30;
+            
+47
+
+    
+    (f)  unexpended and unencumbered balances of appropriations that meet the
+            
+48
+
+    
+requirements of Section 
+
+63-38-8.1
+
+; and
+            
+49
+
+    
+    (g)  any other appropriations excepted by statute or by an annual appropriations act.
+            
+50
+
+    
+    (3) (a)  Liabilities and related expenses for goods and services received on or before
+            
+51
+
+    
+June 30 shall be recognized as expenses due and payable from appropriations made prior to
+            
+52
+
+    
+June 30.
+            
+53
+
+    
+    (b)  The liability and related expense shall be recognized within time periods
+            
+54
+
+    
+established by the Division of Finance but shall be recognized not later than August 31.
+            
+55
+
+    
+    (c)  Liabilities and expenses not so recognized may be paid from regular departmental
+            
+56
+
+    
+appropriations for the subsequent fiscal year, if these claims do not exceed unexpended and
+            
+57
+
+    
+unencumbered balances of appropriations for the years in which the obligation was incurred.
+            
+58
+
+    
+    (d)  No amounts may be transferred from an item of appropriation of any department,
+
+            
+59
+
+
+    
+institution, or agency into the Capital Projects Fund or any other fund without the prior express
+            
+60
+
+    
+approval of the Legislature.
+            
+61
+
+    
+    (4) (a)  For purposes of this chapter, claims processed under the authority of Title 26,
+            
+62
+
+    
+Chapter 18, Medical Assistance Act[,]:
+            
+63
+
+    
+    (i)  may not be considered a liability or expense to the state for budgetary purposes
+            
+64
+
+    
+[until] unless they are received by the Division of Health Care Financing[.] within the time
+            
+65
+
+    
+periods established by the Division of Finance under Subsection (3)(b); and
+            
+66
+
+    
+    (ii)  are not subject to the requirements of Subsection (3)(c).
+            
+67
+
+    
+    (b)  The transaction control number recorded on each claim invoice by the division is
+            
+68
+
+    
+considered the date of receipt [and is the date that liability is recognized by the state].
+
+
+
+
+ Legislative Review Note
+    as of  12-18-03  8:24 AM
+
+A limited legal review of this legislation raises no obvious constitutional or statutory concerns.
+
+ Office of Legislative Research and General Counsel
+[Bill Documents][Bills Directory]
+
+
+
+
+
+
+
+
+
+Who represents me?
+
+
+
+
+
+Remember my Legislators
+
+
+
+
+
+State Senate
+		350 North State, Suite 320
+		PO Box 145115
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1035
+		Fax: (801) 326-1475
+
+
+
+House of Representatives
+		350 North State, Suite 350
+		PO Box 145030
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1029
+		Fax: (801) 326-1544
+
+
+
+
+
+
+
+
+
+
+Home
+Mobile Site
+Site Map
+Calendar
+Code / Constitution
+House
+Senate
+
+Terms of Use/Privacy Policy
+
+ADA
+Utah.gov
+
+
+
+
+
+
+

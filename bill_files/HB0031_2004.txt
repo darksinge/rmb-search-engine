@@ -1,0 +1,1328 @@
+Sponsors: []Modifications: (7); and(8)  ensure that:(a)  before approving a purchase, lease, or rental not covered by an existing statewidecontract for information technology or telecommunications supplies or services under theprovisions of Section 
+
+63A-6-105
+
+, the director of the Division of Information TechnologyServices has provided in writing to the chief procurement officer that the analysis required bySubsection 
+
+63A-6-105
+
+(7) was completed; and(b)  the oversight authority required by Subsection (8)(a) is not delegated outside theDivision of Purchasing and General Services.Chapter 5, State Building Board - Division ofFacilities Construction and Management(c)(d)(e)(3)adopt policies to implement the needs assessment for information technologypurchases required by Section 
+
+63A-6-105
+
+.(2)  The executive director shall report to the Utah Technology Commission created inSection 
+
+63D-1a-201
+
+ and to the Capital Facilities and Administrative Services LegislativeAppropriations Subcommittee regarding the policy adopted under Subsection (1) and anychanges to that policy.in accordance withSubsection (7)(7)  Before negotiating a purchase, lease, or rental under Subsection (2) for an amountthat exceeds the value established by policy in accordance with Section 
+
+63A-1-110
+
+, the directorshall:(a)  conduct an analysis of the needs of executive branch agencies and subscribers ofservices and the ability of the proposed information technology or telecommunications servicesor supplies to meet those needs; and(b)  for purchases, leases, or rentals not covered by an existing statewide contract,provide in writing to the chief procurement officer in the Division of Purchasing and GeneralServices that:(i)  the analysis required in Subsection (7)(a) was completed; and(ii)  based on the analysis, the proposed purchase, lease, rental, or master contract ofservices, products, or supplies is practical, efficient, and economically beneficial to the stateand the executive branch agency or subscriber of services.Full text:
+
+
+
+Utah State Legislature
+
+
+
+
+
+
+
+
+
+
+
+
+Legislators
+
+By Session (1896-Current)
+Alphabetical (Historical)
+Find by Address/Map
+More
+
+
+Bills
+
+Bills/Bill Requests
+Passed Bills
+2017 Bills
+
+Keyword Search
+Reading Calendars
+Tracking Service
+More
+
+
+Committees
+
+All Committees
+Appropriations
+Commissions
+
+Independent Legislative Ethics Commission
+Interim
+Standing
+Subcommittees
+Task Forces
+Bills In Committees
+
+
+Utah Code / Constitution
+
+
+Title/Chapter/Section
+Keyword Search 
+
+Utah Constitution
+Laws of Utah 1851-ongoing
+Utah Territorial Laws 
+More
+
+
+Senate
+
+Main Page 
+About The Senate 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Extraordinary Sessions 
+Reading Calendars 
+Past Floor Debates 
+Senate Journals 
+
+
+House
+
+Main Page
+About the House 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Reading Calendars 
+Past Floor Debates 
+Journals 
+Conflict of Interest Forms 
+
+
+Legislative Guide 
+
+Legislative Guide
+Civic Programs
+GRAMA (Records Requests)
+
+
+Publications
+
+Search Publications
+Appropriations
+Audits
+Bagels & Briefings
+Briefing Papers
+Digest of Legislation
+Legislative Drafting Manual
+
+Journals
+
+Interim Highlights
+
+Legislative Rules
+GRAMA (Records Requests)
+Public Email
+State Organization Charts
+YouTube Channel
+Requests for Proposals and Legal Notices
+More
+
+
+Legislative Histories
+
+Legislative History Resources
+How to Research
+Bill Drafting/Research Files (1990-Ongoing)
+
+Working Bills (1896-1989)
+Interim Committee Histories (1990-Ongoing) 
+Journals
+Past House Floor Debates
+Past Senate Floor Debates
+More
+
+
+Staff Offices
+
+All Legislative Offices
+Auditor General
+Fiscal Analyst
+Printing
+Research and General Counsel
+Staff Awards
+Job Opportunities
+More
+
+
+Links of Interest
+
+Utah Administrative Rules
+Courts
+Utah State Capitol
+State of Utah
+Federal Legislation
+More
+
+
+
+
+
+
+ 
+
+Download Zipped Introduced WordPerfect HB0031.ZIP
+[Status][Bill Documents][Fiscal Note][Bills Directory]
+
+
+H.B. 31
+
+
+
+
+
+            
+1
+
+    
+ INFORMATION TECHNOLOGY PROCUREMENT
+
+            
+2
+
+    
+ AMENDMENTS
+
+
+
+            
+3
+
+    
+2004 GENERAL SESSION
+
+            
+4
+
+    
+STATE OF UTAH
+
+            
+5
+
+    
+
+
+ Sponsor: David Clark
+
+
+
+            
+6
+
+    
+
+            
+7
+
+    
+ LONG TITLE
+            
+8
+
+    
+ General Description:
+            
+9
+
+    
+    This bill requires the director of the Division of Information Technology Services to
+            
+10
+
+    
+review information technology and telecommunications purchases for the division to
+            
+11
+
+    
+determine if the purchase is practical, efficient, and economically beneficial to the state.
+            
+12
+
+    
+ Highlighted Provisions:
+            
+13
+
+    
+    This bill:
+            
+14
+
+    
+    .    clarifies that the director of the Division of Information Technology Services must
+            
+15
+
+    
+follow the State Procurement Code when making purchases;
+            
+16
+
+    
+    .    requires the director of the Division of Information Technology Services to conduct
+            
+17
+
+    
+a business case analysis before purchasing certain information technology services
+            
+18
+
+    
+or equipment, and to certify that the business case analysis was conducted;
+            
+19
+
+    
+    .    requires the state's chief procurement officer to develop policies to ensure that the
+            
+20
+
+    
+director of the Division of Information Technology Services verifies that a business
+            
+21
+
+    
+case analysis was conducted; and
+            
+22
+
+    
+    .    requires the executive director of the Department of Administrative Services to
+            
+23
+
+    
+develop a policy requiring a business case analysis for certain information
+            
+24
+
+    
+technology purchases and to report that policy to the Legislature.
+            
+25
+
+    
+ Monies Appropriated in this Bill:
+            
+26
+
+    
+    None
+            
+27
+
+    
+ Other Special Clauses:
+
+            
+28
+
+
+    
+    None
+            
+29
+
+    
+ Utah Code Sections Affected
+            
+30
+
+    
+AMENDS:
+            
+31
+
+    
+     63-56-9, as last amended by Chapter 13, Laws of Utah 1998
+            
+32
+
+    
+     63-56-13, as last amended by Chapter 270, Laws of Utah 1998
+            
+33
+
+    
+     63A-1-110, as renumbered and amended by Chapter 212, Laws of Utah 1993
+            
+34
+
+    
+     63A-6-105, as last amended by Chapters 16 and 209, Laws of Utah 2003
+            
+35
+
+    
+
+            
+36
+
+    
+Be it enacted by the Legislature of the state of Utah:
+            
+37
+
+    
+    Section 1.  
+Section  
+63-56-9
+
+ is amended to read:
+            
+38
+
+    
+     63-56-9.  Duties of chief procurement officer.
+            
+39
+
+    
+    Except as otherwise specifically provided in this chapter, the chief procurement officer
+            
+40
+
+    
+serves as the central procurement officer of the state and shall:
+            
+41
+
+    
+    (1)  adopt office policies governing the internal functions of the Division of Purchasing
+            
+42
+
+    
+and General Services;
+            
+43
+
+    
+    (2)  procure or supervise the procurement of all supplies, services, and construction
+            
+44
+
+    
+needed by the state;
+            
+45
+
+    
+    (3)  exercise general supervision and control over all inventories or supplies belonging
+            
+46
+
+    
+to the state;
+            
+47
+
+    
+    (4)  establish and maintain programs for the inspection, testing, and acceptance of
+            
+48
+
+    
+supplies, services, and construction;
+            
+49
+
+    
+    (5)  prepare statistical data concerning the procurement and usage of all supplies,
+            
+50
+
+    
+services, and construction;
+            
+51
+
+    
+    (6)  before June 1, 1990, notify all public procurement units of the requirements of
+            
+52
+
+    
+Section 
+
+63-56-20.7
+
+ regarding purchases of recycled paper and recycled paper products,
+            
+53
+
+    
+recycling requirements, and provide guidelines on the availability of recycled paper and paper
+            
+54
+
+    
+products, including the sources of supply and the potential uses of various grades of recycled
+            
+55
+
+    
+paper; [and]
+            
+56
+
+    
+    (7)  before July 1, 1992:
+            
+57
+
+    
+    (a)  establish standards and specifications for determining which supplies are
+            
+58
+
+    
+considered recycled, based upon his review of current definitions and standards employed by
+
+            
+59
+
+
+    
+national procurement, product recycling, and other relevant organizations and the federal
+            
+60
+
+    
+Environmental Protection Agency;
+            
+61
+
+    
+    (b)  compile and update as necessary the specifications, a list of recycled supplies
+            
+62
+
+    
+available on state contract, and sources where the supplies may be obtained;
+            
+63
+
+    
+    (c)  make the compiled information under Subsection (7)(b) available to:
+            
+64
+
+    
+    (i)  all local government entities under Section 
+
+11-37-101
+
+;
+            
+65
+
+    
+    (ii)  all local health departments under Section 
+
+26A-1-108.7
+
+;
+            
+66
+
+    
+    (iii)  all procurement officers or other persons responsible for purchasing supplies
+            
+67
+
+    
+within the public school system under Title 53A, State System of Public Education;
+            
+68
+
+    
+    (iv)  all procurement officers or other persons responsible for purchasing supplies
+            
+69
+
+    
+within the state system of higher education under Title 53B, State System of Higher Education;
+            
+70
+
+    
+and
+            
+71
+
+    
+    (v)  all procurement officers or other persons responsible for purchasing supplies for all
+            
+72
+
+    
+public procurement units as defined in Section 
+
+63-56-5
+
+; and
+            
+73
+
+    
+    (d)  present a written report to the Natural Resources, Agriculture, and Environment
+            
+74
+
+    
+Interim Committee annually prior to November 30 regarding the purchases of recycled goods
+            
+75
+
+    
+on state contracts during the prior fiscal year[.]; and
+            
+76
+
+    
+    (8)  ensure that:
+            
+77
+
+    
+    (a)  before approving a purchase, lease, or rental not covered by an existing statewide
+            
+78
+
+    
+contract for information technology or telecommunications supplies or services under the
+            
+79
+
+    
+provisions of Section 
+
+63A-6-105
+
+, the director of the Division of Information Technology
+            
+80
+
+    
+Services has provided in writing to the chief procurement officer that the analysis required by
+            
+81
+
+    
+Subsection 
+
+63A-6-105
+
+(7) was completed; and
+            
+82
+
+    
+    (b)  the oversight authority required by Subsection (8)(a) is not delegated outside the
+            
+83
+
+    
+Division of Purchasing and General Services.
+            
+84
+
+    
+    Section 2.  
+Section  
+63-56-13
+
+ is amended to read:
+            
+85
+
+    
+     63-56-13.  Specific statutory authority.
+            
+86
+
+    
+    (1)  The authority to procure certain supplies, services, and construction given the
+            
+87
+
+    
+public procurement units governed by the following provisions shall be retained:
+            
+88
+
+    
+    (a)  Title 53B, State System of Higher Education;
+            
+89
+
+    
+    (b)  Title 63A, [Chapters 5 and 6] Chapter 5, State Building Board - Division of
+
+            
+90
+
+
+    
+Facilities Construction and Management;
+            
+91
+
+    
+    [(c)  Title 64, Chapter 1, General Provisions;]
+            
+92
+
+    
+    [(d)] (c)  Title 67, Chapter 5, Attorney General;
+            
+93
+
+    
+    [(e)] (d)  Title 72, Transportation; and
+            
+94
+
+    
+    [(f)] (e)  Title 78, Chapter 3, District Courts.
+            
+95
+
+    
+    (2)  This authority extends only to supplies, services, and construction to the extent
+            
+96
+
+    
+provided in the cited chapters.  Except as otherwise provided in Sections 
+
+63-56-2
+
+ and 
+
+63-56-3
+
+,
+            
+97
+
+    
+the respective purchasing agencies shall procure supplies, services, and construction in
+            
+98
+
+    
+accordance with this chapter.
+            
+99
+
+    
+    (3) (a)  The Department of Transportation may make rules governing the procurement
+            
+100
+
+    
+of highway construction or improvement.
+            
+101
+
+    
+    (b)  This Subsection (3) supersedes Subsections (1) and (2).
+            
+102
+
+    
+    (4)  The Legislature may procure supplies and services for its own needs.
+            
+103
+
+    
+    Section 3.  
+Section  
+63A-1-110
+
+ is amended to read:
+            
+104
+
+    
+     63A-1-110.  Needs assessment -- Policy.
+            
+105
+
+    
+    (1) [(a)]  The executive director shall [appoint an advisory committee composed of
+            
+106
+
+    
+representatives of user agencies. (b)  The advisory committee shall recommend policies and
+            
+107
+
+    
+practices for the efficient and effective delivery of administrative services. (2)  The executive
+            
+108
+
+    
+director shall, upon the recommendation of the appropriate division directors and the advisory
+            
+109
+
+    
+committee, make rules consistent with state and federal law governing: (a)  administrative
+            
+110
+
+    
+services; and  (b)  the provision and use of administrative services furnished to state agencies
+            
+111
+
+    
+and institutions.] adopt policies to implement the needs assessment for information technology
+            
+112
+
+    
+purchases required by Section 
+
+63A-6-105
+
+.
+            
+113
+
+    
+    (2)  The executive director shall report to the Utah Technology Commission created in
+            
+114
+
+    
+Section 
+
+63D-1a-201
+
+ and to the Capital Facilities and Administrative Services Legislative
+            
+115
+
+    
+Appropriations Subcommittee regarding the policy adopted under Subsection (1) and any
+            
+116
+
+    
+changes to that policy.
+            
+117
+
+    
+    Section 4.  
+Section  
+63A-6-105
+
+ is amended to read:
+            
+118
+
+    
+     63A-6-105.  Duties of director -- Fees -- Rate Committee -- Advisory committee.
+            
+119
+
+    
+    (1)  The director shall:
+            
+120
+
+    
+    (a)  at the lowest practical cost, manage the delivery of efficient and cost-effective
+
+            
+121
+
+
+    
+information technology and telecommunication services for:
+            
+122
+
+    
+    (i)  all executive branch agencies; and
+            
+123
+
+    
+    (ii)  entities that subscribe to the services in accordance with Section 
+
+63A-6-106
+
+; and
+            
+124
+
+    
+    (b)  provide priority service to public safety agencies.
+            
+125
+
+    
+    (2)  The director may negotiate the purchase, lease, or rental of private or public
+            
+126
+
+    
+information technology or telecommunication services or facilities in accordance with
+            
+127
+
+    
+Subsection (7).
+            
+128
+
+    
+    (3)  Where practical, efficient, and economically beneficial, the director shall use
+            
+129
+
+    
+existing private and public information technology or telecommunication resources.
+            
+130
+
+    
+    (4) (a)  In accordance with Section 
+
+63D-1a-303
+
+, the director shall provide the chief
+            
+131
+
+    
+information officer a written analysis of any agency information technology plan provided to
+            
+132
+
+    
+the division.
+            
+133
+
+    
+    (b)  In accordance with Section 
+
+63D-1a-307
+
+, the division shall submit the division's
+            
+134
+
+    
+agency information technology plan for approval by the chief information officer.
+            
+135
+
+    
+    (5) (a)  In accordance with this Subsection (5), the director shall prescribe a schedule of
+            
+136
+
+    
+fees for all services rendered by the division to:
+            
+137
+
+    
+    (i)  an executive branch entity; or
+            
+138
+
+    
+    (ii)  an entity that subscribes to services rendered by the division in accordance with
+            
+139
+
+    
+Section 
+
+63A-6-106
+
+.
+            
+140
+
+    
+    (b)  Each fee included in the schedule of fees required by Subsection (5)(a) shall be:
+            
+141
+
+    
+    (i)  equitable; and
+            
+142
+
+    
+    (ii)  sufficient to recover all the costs of operation, including the cost of capital
+            
+143
+
+    
+equipment and facilities.
+            
+144
+
+    
+    (c)  Before charging a fee to an executive branch agency, the director shall obtain
+            
+145
+
+    
+approval of the schedule of fees described in Subsection (5)(a) from the Rate Committee
+            
+146
+
+    
+created in Subsection (5)(d).
+            
+147
+
+    
+    (d) (i)  There is created a Rate Committee which shall consist of:
+            
+148
+
+    
+    (A)  the executive director;
+            
+149
+
+    
+    (B)  the director of the Division of Finance;
+            
+150
+
+    
+    (C)  the director of the Governor's Office of Planning and Budget;
+            
+151
+
+    
+    (D)  the chief information officer;
+
+            
+152
+
+
+    
+    (E)  a representative of executive branch agencies:
+            
+153
+
+    
+    (I)  appointed by the Rate Committee; and
+            
+154
+
+    
+    (II)  nominated by the governor; and
+            
+155
+
+    
+    (F)  a representative of the executive branch agencies' administrative services managers:
+            
+156
+
+    
+    (I)  appointed by the Rate Committee; and
+            
+157
+
+    
+    (II)  nominated by the agencies' administrative services managers coordination group.
+            
+158
+
+    
+    (ii)  In appointing the agency representatives listed in Subsections (5)(d)(i)(E) and (F),
+            
+159
+
+    
+the Rate Committee shall appoint:
+            
+160
+
+    
+    (A) (I)  one representative from a large agency; and
+            
+161
+
+    
+    (II)  one representative from a small agency; and
+            
+162
+
+    
+    (B)  the representatives described in Subsection (5)(d)(ii)(A) to four-year terms of
+            
+163
+
+    
+office, except that initially one of the appointments shall be for a two-year term in order to
+            
+164
+
+    
+stagger the appointments.
+            
+165
+
+    
+    (iii)  In the event of a vacancy for any reason for a representative described in
+            
+166
+
+    
+Subsection (5)(d)(i)(E) or (F), the entity responsible for nominating the person who is vacating
+            
+167
+
+    
+the position shall provide new nominations to the Rate Committee to fill the unexpired term.
+            
+168
+
+    
+    (e)  Before charging a fee to a subscriber of services other than an executive branch
+            
+169
+
+    
+agency, the director shall provide a copy of the schedule of fees to the commission at least 60
+            
+170
+
+    
+days before the day on which the fee is charged.
+            
+171
+
+    
+    (f)  When modifying a fee, the director shall attempt to provide sufficient notice to the
+            
+172
+
+    
+entities that will be charged the modified fee so that the entities may reflect those fee changes
+            
+173
+
+    
+in the entities' budgets.
+            
+174
+
+    
+    (6) (a)  The director shall create advisory committees composed of representatives of
+            
+175
+
+    
+user agencies.
+            
+176
+
+    
+    (b)  Those advisory committees may recommend policies and practices for the efficient
+            
+177
+
+    
+and effective operation of the division.
+            
+178
+
+    
+    (7)  Before negotiating a purchase, lease, or rental under Subsection (2) for an amount
+            
+179
+
+    
+that exceeds the value established by policy in accordance with Section 
+
+63A-1-110
+
+, the director
+            
+180
+
+    
+shall:
+            
+181
+
+    
+    (a)  conduct an analysis of the needs of executive branch agencies and subscribers of
+            
+182
+
+    
+services and the ability of the proposed information technology or telecommunications services
+
+            
+183
+
+
+    
+or supplies to meet those needs; and
+            
+184
+
+    
+    (b)  for purchases, leases, or rentals not covered by an existing statewide contract,
+            
+185
+
+    
+provide in writing to the chief procurement officer in the Division of Purchasing and General
+            
+186
+
+    
+Services that:
+            
+187
+
+    
+    (i)  the analysis required in Subsection (7)(a) was completed; and
+            
+188
+
+    
+    (ii)  based on the analysis, the proposed purchase, lease, rental, or master contract of
+            
+189
+
+    
+services, products, or supplies is practical, efficient, and economically beneficial to the state
+            
+190
+
+    
+and the executive branch agency or subscriber of services.
+
+
+
+
+ Legislative Review Note
+    as of  11-25-03  12:23 PM
+
+A limited legal review of this legislation raises no obvious constitutional or statutory concerns.
+
+ Office of Legislative Research and General Counsel
+
+
+ Mixed Membership Committee Note
+    as of 12-10-03 3:28 PM
+
+The Utah Technology Commission recommended this bill.
+    Membership:        8 legislators    5 non-legislators
+    Legislative Vote:    7 voting for    0 voting against    1 absent
+[Bill Documents][Bills Directory]
+
+
+
+
+
+
+
+
+
+Who represents me?
+
+
+
+
+
+Remember my Legislators
+
+
+
+
+
+State Senate
+		350 North State, Suite 320
+		PO Box 145115
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1035
+		Fax: (801) 326-1475
+
+
+
+House of Representatives
+		350 North State, Suite 350
+		PO Box 145030
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1029
+		Fax: (801) 326-1544
+
+
+
+
+
+
+
+
+
+
+Home
+Mobile Site
+Site Map
+Calendar
+Code / Constitution
+House
+Senate
+
+Terms of Use/Privacy Policy
+
+ADA
+Utah.gov
+
+
+
+
+
+
+

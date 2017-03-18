@@ -1,0 +1,5321 @@
+Sponsors: []Modifications: (1)  "Affiliated company" means a company that because of common ownership,control, operation, or management is in the same corporate system as:(a)  a parent;(b)  an industrial insured; or(c)  a member organization.(2)  "Alien captive insurance company" means an insurance company:(a)  formed to write insurance business for its parents and affiliates; and(b)  licensed pursuant to the laws of an alien jurisdiction that imposes statutory orregulatory standards:(i)  on companies transacting the business of insurance in the alien jurisdiction; and(ii)  in a form acceptable to the commissioner.(3)(4)(5)(6)alien(7)(8);(f)  a captive reinsurance company; or(g)  a special purpose captive insurance company.(9)  "Captive reinsurance company" means a reinsurance company that is:(a)  formed or licensed pursuant to this chapter;(b)  wholly owned by a qualifying reinsurance parent company; and(c)  a stock corporation.(10)(11)  "Commissioner" means the Insurance Commissioner or the commissioner'sdesignee.(12)  "Consolidated debt to total capital ratio" means the ratio of Subsection (12)(a) to(b).(a)  This Subsection (12)(a) is an amount equal to the sum of all debts and hybridcapital instruments including:(i)  all borrowings from depository institutions;(ii)  all senior debt;(iii)  all subordinated debts;(iv)  all trust preferred shares; and(v)  all other hybrid capital instruments that are not included in the determination ofconsolidated GAAP net worth issued and outstanding.(b)  This Subsection (12)(b) is an amount equal to the sum of:(i)  total capital consisting of all debts and hybrid capital instruments as described inSubsection (12)(a); and(ii)  shareholders' equity determined in accordance with generally accepted accountingprinciples for reporting to the United States Securities and Exchange Commission.(13)  "Consolidated GAAP net worth" means the consolidated shareholders' equitydetermined in accordance with generally accepted accounting principles for reporting to theUnited States Securities and Exchange Commission.(14)(15)  "Department" means the Insurance Department.(16)using(17)(18)(19)(20)(21)(22)(23)(24)(25)  "Qualifying reinsurer parent company" means a reinsurer:(a)  authorized to write reinsurance by this state; and(b)  that has:(i)  a consolidated GAAP net worth of not less than $500,000,000; and(ii)  a consolidated debt to total capital ratio not greater than .50.(26)(27)one or morecells(28)  "Treasury rates" means the United States Treasury strip asked yield as publishedin the Wall Street Journal as of a balance sheet date.:(i)  shall(A)(B); and(ii)  may not be used to pay expenses or claims attributable to a protected cell.(c)  determine any factors a captive insurance company shall provide evidence of underSubsection 
+
+31A-37-202
+
+(4)(c);(d)(e)(f)(g)(h)(i)(j)(k)(k)(k)(3)  The commissioner may issue prohibitory, mandatory, and other orders relating tocaptive insurance companies as necessary to enable the commissioner to secure compliancewith this chapter.or(C)  a combination of Subsections (1)(b)(i)(A) and (B);(iv)  a special purpose captive insurance company may only insure the risk of its parent;(v)(vi)(c)  Notwithstanding Subsection (1)(b)(iv), for risks approved by the commissioner aspecial purpose captive insurance company may provide:(i)  insurance;(ii)  reinsurance; or(iii)  both insurance and reinsurance.commissioner shall:(I)  articles of incorporation orof the corporation;(II):(I);(II);(III);(IV);(V)adopted by ruleNotwithstanding Title 63, Chapter 2, Government Records Access andManagement Act, thea company described in Subsection (1)(c); or(v)  in the case of a special purpose captive insurance company, an amount determinedby the commissioner after giving due consideration to the company's business plan, feasibilitystudy, and pro-formas, including the nature of the risks to be insured.(A)(B)  cash equivalent; or(c)  This Subsection (1) applies to:(i)  a pure captive insurance company;(ii)  a sponsored captive insurance company;(iii)  a special purpose captive insurance company;(iv)  an association captive insurance company incorporated as a stock insurer; or(v)  an industrial insured captive insurance company incorporated as a stock insurer.;and(vii)  in the case of a special purpose captive insurance company, an amount determinedby the commissioner after giving due consideration to the company's business plan, feasibilitystudy, and pro-formas, including the nature of the risks to be insured.A captive insurance company formed as a corporation shall file with theDivision of Corporations and Commercial Code:(i)  the captive insurance company's;(ii);(iii)the Division of Corporations andCommercial Coderequest for a certificatealienalienalienalienalien:(i)the policyholder interest of any nonconsenting policyholder of a mutual insurer insubstantially the same manner and subject to the same rights and conditions as are provided:(i);(ii)shallSectionsand 
+
+31A-37-205
+
+capital andalienif:(i)  the requirements for the merger between a domestic and a foreign insurer underChapter 16, Insurance Holding Companies, are applied to the merger;(ii)alienisa foreignunder Chapter 16, Insurance Holding Companies:(a);(b);or(d)  an insurance holding company that:(i)  controls an insurer licensed pursuant to the laws of any state; and(ii)  is subject to registration pursuant to the holding company system of laws of thestate of domicile of the insurer described in Subsection (1)(d)(i).(a)with respect toeach protected cell:(i):(A); or(B)  under any jurisdiction if the insurance company is a wholly owned subsidiary of aninsurance company licensed pursuant to the laws of any state;(ii)  reinsured by a reinsurer authorized or approved by this state; or(iii)  subject to Subsection (2)(b), secured by a trust fund:(A)  in the United States;(B)  for the benefit of policyholders and claimants; and(C)  funded by an irrevocable letter of credit or other asset acceptable to thecommissioner.(b) (i)  The amount of security provided by the trust fund described in Subsection(2)(a)(iii) may not be less than the reserves associated with the liabilities of the trust fund,including:(A)  reserves for losses;(B)  allocated loss adjustment expenses;(C)  incurred but unreported losses; and(D)  unearned premiums for business written through the participant's protected cell.(ii)  The commissioner may require the sponsored captive insurance company toincrease the funding of a trust established pursuant to this Subsection (2).(iii)  If the form of security in the trust described in Subsection (2)(a)(iii) is a letter ofcredit, the letter of credit must be established, issued, or confirmed by a bank that is:(A)  chartered in this state;(B)  a member of the federal reserve system; or(C)  chartered by another state if that state-chartered bank is acceptable to thecommissioner.(iv)  A trust and trust instrument maintained pursuant to this Subsection (2) shall be in aform and upon terms approved by the commissioner.unless otherwise approved by the commissioner    31A-37-404.(1)  The following may discount its loss and loss adjustment expense reserves attreasury rates applied to the applicable payments projected through the use of the expectedpayment pattern associated with the reserves:(a)  a sponsored captive insurance company; and(b)  a captive reinsurance company.(2) (a)  The following shall annually file with the department an actuarial opinionprovided by an independent actuary on loss and loss adjustment expense reserves:(i)  a sponsored captive insurance company; and(ii)  a captive reinsurance company.(b)  The independent actuary described in Subsection (2)(a) may not be an employee of:(i)  the company filing the actuarial opinion; or(ii)  an affiliate of the company filing the actuarial opinion.(3)  The commissioner may disallow the discounting of reserves by the following if thecompany violates this title:(a)  a sponsored captive insurance company; or(b)  a captive reinsurance company.:(i)by Section 
+
+31A-4-113
+
+; and(ii)  each industrial insured group shall comply with Section 
+
+31A-4-113.5
+
+.alienalienalienalienalienalienalienalienChapters 2, 4, 5, 14, 16, 17, 18, 19a, and 27these chapters apply    31A-37-601.(1)  A captive reinsurance company shall be incorporated as a stock insurer with itscapital:(a)  divided into shares; and(b)  held by the captive reinsurance company's shareholders.(2) (a)  A captive reinsurance company may not have fewer than three incorporators.(b)  At least two of the incorporators of a captive reinsurance company must beresidents of this state.(3) (a)  Before the articles of incorporation are filed with the Division of Corporationsand Commercial Code, the incorporators shall obtain from the commissioner a certificate offinding that the establishment and maintenance of the proposed corporation promotes thegeneral good of this state.(b)  In considering a request for a certificate under Subsection (3)(a), the commissionershall consider:(i)  the character, reputation, financial standing, and purposes of the incorporators;(ii)  the character, reputation, financial responsibility, insurance experience, andbusiness qualifications of the officers and directors; and(iii)  other factors the commissioner considers advisable.(4)  The capital stock of a captive reinsurance company must be issued at par value orgreater.(5)  At least one of the members of the board of directors of a captive reinsurancecompany incorporated in this state must be a resident of this state.    31A-37-602.(1) (a)  If permitted by its articles of incorporation or charter, a captive reinsurancecompany may apply to the commissioner for a license to write reinsurance covering:(i)  property and casualty insurance; or(ii)  reinsurance contracts.(b)  A captive reinsurance company authorized by the commissioner may writereinsurance contracts covering risks in any state.(2)  To conduct business in this state, a captive reinsurance company shall:(a)  obtain from the commissioner a license authorizing it to conduct business as acaptive reinsurance company in this state;(b)  hold at least one board of directors' meeting each year in this state;(c)  maintain its principal place of business in this state; and(d)  appoint a registered agent to accept service of process and act otherwise on itsbehalf in this state.(3)  Before receiving a license, a captive reinsurance company shall file with thecommissioner:(a)  a certified copy of its:(i) (A)  articles of incorporation; or(B)  charter; and(ii)  bylaws;(b)  a statement under oath of its president and secretary showing its financialcondition; and(c)  other documents required by the commissioner.(4)  In addition to the information required by Subsection (3), the applicant captivereinsurance company shall file with the commissioner evidence of:(a)  the amount and liquidity of the captive reinsurance company's assets relative to therisks to be assumed;(b)  the adequacy of the expertise, experience, and character of the person who managesthe captive reinsurance company;(c)  the overall soundness of the captive reinsurance company's plan of operation; and(d)  other overall factors considered relevant by the commissioner in ascertaining if theproposed captive reinsurance company is able to meet its policy obligations.(5) (a)  Notwithstanding Title 63, Chapter 2, Government Records Access andManagement Act, information submitted pursuant to this section is confidential and may not bemade public by the commissioner or an agent or employee of the commissioner without thewritten consent of the company, except that:(i)  information may be discoverable by a party in a civil action or contested case towhich the submitting captive reinsurance company is a party, upon a showing by the partyseeking to discover the information that:(A)  the information sought is relevant to and necessary for the furtherance of the actionor case;(B)  the information sought is unavailable from other nonconfidential sources; and(C)  a subpoena issued by a judicial or administrative law officer of competentjurisdiction has been submitted to the commissioner; and(ii)  the commissioner may disclose the information to the public officer havingjurisdiction over the regulation of insurance in another state if:(A)  the public official agrees in writing to maintain the confidentiality of theinformation; and(B)  the laws of the state in which the public official serves require the information tobe confidential.(b)  This Subsection (5) does not apply to an industrial insured captive reinsurancecompany insuring the risks of an industrial insured group.    31A-37-603.(1) (a)  The commissioner may not issue a license to a captive reinsurance companyunless the company possesses and maintains capital or free surplus of not less than the greaterof:(i)  $300,000,000; or(ii)  10% of the reserves of the captive reinsurance company.(b)  The surplus required by this Subsection (1) may be in the form of:(i)  cash; or(ii)  securities.(2)  The commissioner may prescribe additional capital or surplus based upon the type,volume, and nature of the insurance business transacted.(3) (a)  A captive reinsurance company may not pay a dividend out of, or otherdistribution with respect to capital or surplus without the prior approval of the commissioner.(b)  Approval of an ongoing plan for the payment of dividends or other distributionsshall be conditioned upon the retention at the time of each payment of capital or surplus inexcess of amounts specified by, or determined in accordance with formulas approved by, thecommissioner.    31A-37-604.At least 35% of the assets of a captive reinsurance company shall be managed by anasset manager domiciled in this state.Full text:
+
+
+
+Utah State Legislature
+
+
+
+
+
+
+
+
+
+
+
+
+Legislators
+
+By Session (1896-Current)
+Alphabetical (Historical)
+Find by Address/Map
+More
+
+
+Bills
+
+Bills/Bill Requests
+Passed Bills
+2017 Bills
+
+Keyword Search
+Reading Calendars
+Tracking Service
+More
+
+
+Committees
+
+All Committees
+Appropriations
+Commissions
+
+Independent Legislative Ethics Commission
+Interim
+Standing
+Subcommittees
+Task Forces
+Bills In Committees
+
+
+Utah Code / Constitution
+
+
+Title/Chapter/Section
+Keyword Search 
+
+Utah Constitution
+Laws of Utah 1851-ongoing
+Utah Territorial Laws 
+More
+
+
+Senate
+
+Main Page 
+About The Senate 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Extraordinary Sessions 
+Reading Calendars 
+Past Floor Debates 
+Senate Journals 
+
+
+House
+
+Main Page
+About the House 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Reading Calendars 
+Past Floor Debates 
+Journals 
+Conflict of Interest Forms 
+
+
+Legislative Guide 
+
+Legislative Guide
+Civic Programs
+GRAMA (Records Requests)
+
+
+Publications
+
+Search Publications
+Appropriations
+Audits
+Bagels & Briefings
+Briefing Papers
+Digest of Legislation
+Legislative Drafting Manual
+
+Journals
+
+Interim Highlights
+
+Legislative Rules
+GRAMA (Records Requests)
+Public Email
+State Organization Charts
+YouTube Channel
+Requests for Proposals and Legal Notices
+More
+
+
+Legislative Histories
+
+Legislative History Resources
+How to Research
+Bill Drafting/Research Files (1990-Ongoing)
+
+Working Bills (1896-1989)
+Interim Committee Histories (1990-Ongoing) 
+Journals
+Past House Floor Debates
+Past Senate Floor Debates
+More
+
+
+Staff Offices
+
+All Legislative Offices
+Auditor General
+Fiscal Analyst
+Printing
+Research and General Counsel
+Staff Awards
+Job Opportunities
+More
+
+
+Links of Interest
+
+Utah Administrative Rules
+Courts
+Utah State Capitol
+State of Utah
+Federal Legislation
+More
+
+
+
+
+
+
+ 
+
+Download Zipped Introduced WordPerfect HB0017.ZIP
+[Status][Bill Documents][Fiscal Note][Bills Directory]
+
+
+H.B. 17
+
+
+
+
+
+            
+1
+
+    
+ CAPTIVE INSURANCE COMPANIES ACT
+
+            
+2
+
+    
+ AMENDMENTS
+
+
+
+            
+3
+
+    
+2004 GENERAL SESSION
+
+            
+4
+
+    
+STATE OF UTAH
+
+            
+5
+
+    
+
+
+ Sponsor: James A. Dunnigan
+
+
+
+            
+6
+
+    
+
+            
+7
+
+    
+ LONG TITLE
+            
+8
+
+    
+ General Description:
+            
+9
+
+    
+    This bill modifies the Captive Insurance Companies Act.
+            
+10
+
+    
+ Highlighted Provisions:
+            
+11
+
+    
+    This bill:
+            
+12
+
+    
+    .    amends definitions and references to defined terms;
+            
+13
+
+    
+    .    modifies provisions related to paying expenses or claims of a protected cell;
+            
+14
+
+    
+    .    clarifies rulemaking authority;
+            
+15
+
+    
+    .    authorizes the commissioner to issue orders related to captive insurance companies;
+            
+16
+
+    
+    .    modifies provisions related to permissive areas of insurance;
+            
+17
+
+    
+    .    modifies capital and free surplus requirements;
+            
+18
+
+    
+    .    addresses when an alien insurer may be a party to a merger;
+            
+19
+
+    
+    .    modifies the requirements related to a sponsored captive insurance company;
+            
+20
+
+    
+    .    authorizes the commissioner to approve a sponsored captive insurance company
+            
+21
+
+    
+insuring risks other than a participant's risks;
+            
+22
+
+    
+    .    provides for discounting of loss and loss adjustment expense reserves;
+            
+23
+
+    
+    .    modifies reporting requirements;
+            
+24
+
+    
+    .    addresses applicability of insurance laws to captive insurance companies;
+            
+25
+
+    
+    .    addresses incorporation of a captive reinsurance company;
+            
+26
+
+    
+    .    addresses requirements of a captive reinsurance company;
+            
+27
+
+    
+    .    provides for minimum capitalization or reserve requirements for a captive
+
+            
+28
+
+
+    
+reinsurance company;
+            
+29
+
+    
+    .    proposes requirements for the management of assets of a captive reinsurance
+            
+30
+
+    
+company; and
+            
+31
+
+    
+    .    makes technical changes.
+            
+32
+
+    
+ Monies Appropriated in this Bill:
+            
+33
+
+    
+    None
+            
+34
+
+    
+ Other Special Clauses:
+            
+35
+
+    
+    None
+            
+36
+
+    
+ Utah Code Sections Affected:
+            
+37
+
+    
+AMENDS:
+            
+38
+
+    
+     31A-37-102, as enacted by Chapter 251, Laws of Utah 2003
+            
+39
+
+    
+     31A-37-104, as enacted by Chapter 251, Laws of Utah 2003
+            
+40
+
+    
+     31A-37-106, as enacted by Chapter 251, Laws of Utah 2003
+            
+41
+
+    
+     31A-37-202, as enacted by Chapter 251, Laws of Utah 2003
+            
+42
+
+    
+     31A-37-204, as enacted by Chapter 251, Laws of Utah 2003
+            
+43
+
+    
+     31A-37-205, as enacted by Chapter 251, Laws of Utah 2003
+            
+44
+
+    
+     31A-37-301, as enacted by Chapter 251, Laws of Utah 2003
+            
+45
+
+    
+     31A-37-306, as enacted by Chapter 251, Laws of Utah 2003
+            
+46
+
+    
+     31A-37-402, as enacted by Chapter 251, Laws of Utah 2003
+            
+47
+
+    
+     31A-37-403, as enacted by Chapter 251, Laws of Utah 2003
+            
+48
+
+    
+     31A-37-501, as enacted by Chapter 251, Laws of Utah 2003
+            
+49
+
+    
+     31A-37-504, as enacted by Chapter 251, Laws of Utah 2003
+            
+50
+
+    
+ENACTS:
+            
+51
+
+    
+     31A-37-404, Utah Code Annotated 1953
+            
+52
+
+    
+     31A-37-601, Utah Code Annotated 1953
+            
+53
+
+    
+     31A-37-602, Utah Code Annotated 1953
+            
+54
+
+    
+     31A-37-603, Utah Code Annotated 1953
+            
+55
+
+    
+     31A-37-604, Utah Code Annotated 1953
+            
+56
+
+    
+
+            
+57
+
+    
+Be it enacted by the Legislature of the state of Utah:
+            
+58
+
+    
+    Section 1.  
+Section  
+31A-37-102
+
+ is amended to read:
+
+            
+59
+
+
+    
+     31A-37-102.  Definitions.
+            
+60
+
+    
+    As used in this chapter:
+            
+61
+
+    
+    (1)  "Affiliated company" means a company that because of common ownership,
+            
+62
+
+    
+control, operation, or management is in the same corporate system as:
+            
+63
+
+    
+    (a)  a parent;
+            
+64
+
+    
+    (b)  an industrial insured; or
+            
+65
+
+    
+    (c)  a member organization.
+            
+66
+
+    
+    (2)  "Alien captive insurance company" means an insurance company:
+            
+67
+
+    
+    (a)  formed to write insurance business for its parents and affiliates; and
+            
+68
+
+    
+    (b)  licensed pursuant to the laws of an alien jurisdiction that imposes statutory or
+            
+69
+
+    
+regulatory standards:
+            
+70
+
+    
+    (i)  on companies transacting the business of insurance in the alien jurisdiction; and
+            
+71
+
+    
+    (ii)  in a form acceptable to the commissioner.
+            
+72
+
+    
+    [(1)] (3)  "Association" means a legal association of individuals, corporations,
+            
+73
+
+    
+partnerships, or associations that has been in continuous existence for at least one year if:
+            
+74
+
+    
+    (a)  the association or its member organizations:
+            
+75
+
+    
+    (i)  own, control, or hold with power to vote all of the outstanding voting securities of
+            
+76
+
+    
+an association captive insurance company incorporated as a stock insurer; or
+            
+77
+
+    
+    (ii)  have complete voting control over an association captive insurance company
+            
+78
+
+    
+incorporated as a mutual insurer; or
+            
+79
+
+    
+    (b)  the association's member organizations collectively constitute all of the subscribers
+            
+80
+
+    
+of an association captive insurance company formed as a reciprocal insurer.
+            
+81
+
+    
+    [(2)] (4)  "Association captive insurance company" means a company that insures risks
+            
+82
+
+    
+of the:
+            
+83
+
+    
+    (a)  member organizations of the association; and
+            
+84
+
+    
+    (b)  affiliates of the member organizations of the association.
+            
+85
+
+    
+    [(3)] (5)  "Branch business" means any insurance business transacted by a branch
+            
+86
+
+    
+captive insurance company in this state.
+            
+87
+
+    
+    [(4)] (6)  "Branch captive insurance company" means an [out-of-state] alien captive
+            
+88
+
+    
+insurance company that has obtained a certificate of authority by the commissioner to transact
+            
+89
+
+    
+the business of insurance in this state through a business unit with a principal place of business
+
+            
+90
+
+
+    
+in this state.
+            
+91
+
+    
+    [(5)] (7)  "Branch operations" means any business operations of a branch captive
+            
+92
+
+    
+insurance company in this state.
+            
+93
+
+    
+    [(6)] (8)  "Captive insurance company" means any of the following formed or holding a
+            
+94
+
+    
+certificate of authority under this chapter:
+            
+95
+
+    
+    (a)  a branch captive insurance company;
+            
+96
+
+    
+    (b)  a pure captive insurance company;
+            
+97
+
+    
+    (c)  an association captive insurance company;
+            
+98
+
+    
+    (d)  a sponsored captive insurance company; [or]
+            
+99
+
+    
+    (e)  an industrial insured captive insurance company[.];
+            
+100
+
+    
+    (f)  a captive reinsurance company; or
+            
+101
+
+    
+    (g)  a special purpose captive insurance company.
+            
+102
+
+    
+    (9)  "Captive reinsurance company" means a reinsurance company that is:
+            
+103
+
+    
+    (a)  formed or licensed pursuant to this chapter;
+            
+104
+
+    
+    (b)  wholly owned by a qualifying reinsurance parent company; and
+            
+105
+
+    
+    (c)  a stock corporation.
+            
+106
+
+    
+    [(7)] (10)  "Common ownership and control" means:
+            
+107
+
+    
+    (a)  in the case of stock corporations, the direct or indirect ownership by the same
+            
+108
+
+    
+shareholder or shareholders of 80% or more of the outstanding voting stock of two or more
+            
+109
+
+    
+corporations; and
+            
+110
+
+    
+    (b)  in the case of mutual corporations, the direct or indirect ownership by the same
+            
+111
+
+    
+member or members of 80% or more of the surplus and the voting power of two or more
+            
+112
+
+    
+corporations.
+            
+113
+
+    
+    (11)  "Commissioner" means the Insurance Commissioner or the commissioner's
+            
+114
+
+    
+designee.
+            
+115
+
+    
+    (12)  "Consolidated debt to total capital ratio" means the ratio of Subsection (12)(a) to
+            
+116
+
+    
+(b).
+            
+117
+
+    
+    (a)  This Subsection (12)(a) is an amount equal to the sum of all debts and hybrid
+            
+118
+
+    
+capital instruments including:
+            
+119
+
+    
+    (i)  all borrowings from depository institutions;
+            
+120
+
+    
+    (ii)  all senior debt;
+
+            
+121
+
+
+    
+    (iii)  all subordinated debts;
+            
+122
+
+    
+    (iv)  all trust preferred shares; and
+            
+123
+
+    
+    (v)  all other hybrid capital instruments that are not included in the determination of
+            
+124
+
+    
+consolidated GAAP net worth issued and outstanding.
+            
+125
+
+    
+    (b)  This Subsection (12)(b) is an amount equal to the sum of:
+            
+126
+
+    
+    (i)  total capital consisting of all debts and hybrid capital instruments as described in
+            
+127
+
+    
+Subsection (12)(a); and
+            
+128
+
+    
+    (ii)  shareholders' equity determined in accordance with generally accepted accounting
+            
+129
+
+    
+principles for reporting to the United States Securities and Exchange Commission.
+            
+130
+
+    
+    (13)  "Consolidated GAAP net worth" means the consolidated shareholders' equity
+            
+131
+
+    
+determined in accordance with generally accepted accounting principles for reporting to the
+            
+132
+
+    
+United States Securities and Exchange Commission.
+            
+133
+
+    
+    [(8)] (14)  "Controlled unaffiliated business" means a company:
+            
+134
+
+    
+    (a)  that is not in the corporate system of a parent and affiliates;
+            
+135
+
+    
+    (b)  that has an existing contractual relationship with a parent or affiliate; and
+            
+136
+
+    
+    (c)  whose risks are managed by a pure captive insurance company in accordance with
+            
+137
+
+    
+Section 
+
+31A-37-504
+
+.
+            
+138
+
+    
+    (15)  "Department" means the Insurance Department.
+            
+139
+
+    
+    [(9)] (16)  "Industrial insured" means an insured:
+            
+140
+
+    
+    (a)  that produces insurance:
+            
+141
+
+    
+    (i)  by the services of a full-time employee acting as a risk manager or insurance
+            
+142
+
+    
+manager; or
+            
+143
+
+    
+    (ii)  [utilizing] using the services of a regularly and continuously qualified insurance
+            
+144
+
+    
+consultant;
+            
+145
+
+    
+    (b)  whose aggregate annual premiums for insurance on all risks total at least $25,000;
+            
+146
+
+    
+and
+            
+147
+
+    
+    (c)  that has at least 25 full-time employees.
+            
+148
+
+    
+    [(10)] (17)  "Industrial insured captive insurance company" means a company that
+            
+149
+
+    
+insures risks of:
+            
+150
+
+    
+    (a)  the industrial insureds that comprise the industrial insured group; and
+            
+151
+
+    
+    (b)  the affiliates of the industrial insured group.
+
+            
+152
+
+
+    
+    [(11)] (18)  "Industrial insured group" means:
+            
+153
+
+    
+    (a)  a group of industrial insureds that collectively:
+            
+154
+
+    
+    (i)  own, control, or hold with power to vote all of the outstanding voting securities of
+            
+155
+
+    
+an industrial insured captive insurance company incorporated as a stock insurer; or
+            
+156
+
+    
+    (ii)  have complete voting control over an industrial insured captive insurance company
+            
+157
+
+    
+incorporated as a mutual insurer; or
+            
+158
+
+    
+    (b)  a group that is:
+            
+159
+
+    
+    (i)  created under the Product Liability Risk Retention Act of 1981, 15 U.S.C.  Section
+            
+160
+
+    
+3901 et seq., as amended, as a corporation or other limited liability association; and
+            
+161
+
+    
+    (ii)  taxable under this title as a:
+            
+162
+
+    
+    (A)  stock corporation; or
+            
+163
+
+    
+    (B)  mutual insurer.
+            
+164
+
+    
+    [(12)] (19)  "Member organization" means an individual, corporation, partnership, or
+            
+165
+
+    
+association that belongs to an association.
+            
+166
+
+    
+    [(13)  "Out-of-state captive insurance company" means an insurance company:]
+            
+167
+
+    
+    [(a)  formed to write insurance business for its parents and affiliates; and]
+            
+168
+
+    
+    [(b)  authorized by another state to write insurance business for its parents and
+            
+169
+
+    
+affiliates.]
+            
+170
+
+    
+    [(14)] (20)  "Parent" means a corporation, partnership, or individual that directly or
+            
+171
+
+    
+indirectly owns, controls, or holds with power to vote more than 50% of the outstanding voting
+            
+172
+
+    
+securities of a pure captive insurance company.
+            
+173
+
+    
+    [(15)] (21)  "Participant" means any of the following that are insured by a sponsored
+            
+174
+
+    
+captive insurance company, if the losses of the participant are limited through a participant
+            
+175
+
+    
+contract to the assets of a protected cell:
+            
+176
+
+    
+    (a)  an entity permitted to be a participant under Section 
+
+31A-37-403
+
+; and
+            
+177
+
+    
+    (b)  any affiliate of an entity permitted to be a participant under Section 
+
+31A-37-403
+
+.
+            
+178
+
+    
+    [(16)] (22)  "Participant contract" means a contract by which a sponsored captive
+            
+179
+
+    
+insurance company:
+            
+180
+
+    
+    (a)  insures the risks of a participant; and
+            
+181
+
+    
+    (b)  limits the losses of the participant to the assets of a protected cell.
+            
+182
+
+    
+    [(17)] (23)  "Protected cell" means a separate account established and maintained by a
+
+            
+183
+
+
+    
+sponsored captive insurance company for one participant.
+            
+184
+
+    
+    [(18)] (24)  "Pure captive insurance company" means a company that insures risks of its
+            
+185
+
+    
+parent and affiliates.
+            
+186
+
+    
+    (25)  "Qualifying reinsurer parent company" means a reinsurer:
+            
+187
+
+    
+    (a)  authorized to write reinsurance by this state; and
+            
+188
+
+    
+    (b)  that has:
+            
+189
+
+    
+    (i)  a consolidated GAAP net worth of not less than $500,000,000; and
+            
+190
+
+    
+    (ii)  a consolidated debt to total capital ratio not greater than .50.
+            
+191
+
+    
+    [(19)] (26)  "Sponsor" means an entity that:
+            
+192
+
+    
+    (a)  meets the requirements of Section 
+
+31A-37-402
+
+; and
+            
+193
+
+    
+    (b)  is approved by the commissioner to:
+            
+194
+
+    
+    (i)  provide all or part of the capital and surplus required by applicable law; and
+            
+195
+
+    
+    (ii)  organize and operate a sponsored captive insurance company.
+            
+196
+
+    
+    [(20)] (27)  "Sponsored captive insurance company" means a captive insurance
+            
+197
+
+    
+company:
+            
+198
+
+    
+    (a)  in which the minimum capital and surplus required by applicable law is provided by
+            
+199
+
+    
+sponsors;
+            
+200
+
+    
+    (b)  that is formed or holding a certificate of authority under this chapter;
+            
+201
+
+    
+    (c)  that insures the risks of separate participants through the contract; and
+            
+202
+
+    
+    (d)  that segregates each participant's liability through [a] one or more protected [cell]
+            
+203
+
+    
+cells.
+            
+204
+
+    
+    (28)  "Treasury rates" means the United States Treasury strip asked yield as published
+            
+205
+
+    
+in the Wall Street Journal as of a balance sheet date.
+            
+206
+
+    
+    Section 2.  
+Section  
+31A-37-104
+
+ is amended to read:
+            
+207
+
+    
+     31A-37-104.  Applicability of reorganization, receivership, and injunction
+            
+208
+
+    
+ authority.
+            
+209
+
+    
+    (1)  Except as provided in Subsection (2), the provisions of this title pertaining to
+            
+210
+
+    
+insurance reorganizations, receiverships, and injunctions apply to a captive insurance company
+            
+211
+
+    
+formed or holding a certificate of authority under this chapter.
+            
+212
+
+    
+    (2)  In the case of a sponsored captive insurance company:
+            
+213
+
+    
+    (a)  the assets of the protected cell may not be used to pay any expenses or claims other
+
+            
+214
+
+
+    
+than those attributable to the protected cell; [and]
+            
+215
+
+    
+    (b)  the capital and surplus of the sponsored captive insurance company [must]:
+            
+216
+
+    
+    (i)  shall at all times be available to pay any:
+            
+217
+
+    
+    [(i)] (A)  expenses of the sponsored captive insurance company; or
+            
+218
+
+    
+    [(ii)] (B)  claims against the sponsored captive insurance company[.]; and
+            
+219
+
+    
+    (ii)  may not be used to pay expenses or claims attributable to a protected cell.
+            
+220
+
+    
+    Section 3.  
+Section  
+31A-37-106
+
+ is amended to read:
+            
+221
+
+    
+     31A-37-106.  Authority to make rules -- Authority to issue orders.
+            
+222
+
+    
+    (1)  In accordance with Title 63, Chapter 46a, Utah Administrative Rulemaking Act, the
+            
+223
+
+    
+commissioner may adopt rules to:
+            
+224
+
+    
+    (a)  determine circumstances under which a branch captive insurance company is not
+            
+225
+
+    
+required to be a pure captive insurance company;
+            
+226
+
+    
+    (b)  determine any statement, document, or information a captive insurance company
+            
+227
+
+    
+must provide to the commissioner to obtain a certificate of authority;
+            
+228
+
+    
+    (c)  determine any factors a captive insurance company shall provide evidence of under
+            
+229
+
+    
+Subsection 
+
+31A-37-202
+
+(4)(c);
+            
+230
+
+    
+    [(c)] (d)  prescribe capital requirements for a captive insurance company in addition to
+            
+231
+
+    
+those required under Section 
+
+31A-37-204
+
+ based on the type, volume, and nature of insurance
+            
+232
+
+    
+business transacted by the captive insurance company;
+            
+233
+
+    
+    [(d)] (e)  establish:
+            
+234
+
+    
+    (i)  the amount of capital or surplus required to be retained under Subsection
+            
+235
+
+    
+
+31A-37-205
+
+(4) at the payment of a dividend or other distribution by a captive insurance
+            
+236
+
+    
+company; or
+            
+237
+
+    
+    (ii)  a formula to determine the amount described in Subsection 
+
+31A-37-205
+
+(4);
+            
+238
+
+    
+    [(e)] (f)  waive or modify the requirements for public notice and hearing for any of the
+            
+239
+
+    
+following by a captive insurance company:
+            
+240
+
+    
+    (i)  merger;
+            
+241
+
+    
+    (ii)  consolidation;
+            
+242
+
+    
+    (iii)  conversion;
+            
+243
+
+    
+    (iv)  mutualization; or
+            
+244
+
+    
+    (v)  redomestication;
+
+            
+245
+
+
+    
+    [(f)] (g)  approve the use of alternative reliable methods of valuation and rating for:
+            
+246
+
+    
+    (i)  an association captive insurance company;
+            
+247
+
+    
+    (ii)  a sponsored captive insurance company; or
+            
+248
+
+    
+    (iii)  an industrial insured group;
+            
+249
+
+    
+    [(g)] (h)  prohibit or limit an investment that threatens the solvency or liquidity of:
+            
+250
+
+    
+    (i)  a pure captive insurance company; or
+            
+251
+
+    
+    (ii)  an industrial insured captive insurance company;
+            
+252
+
+    
+    [(h)] (i)  determine the financial reports a sponsored captive insurance company shall
+            
+253
+
+    
+annually file with the commissioner;
+            
+254
+
+    
+    [(i)] (j)  determine the required forms and reports under Section 
+
+31A-37-501
+
+; and
+            
+255
+
+    
+    [(j)] (k)  establish standards to ensure that a parent or affiliate of a pure captive
+            
+256
+
+    
+insurance company is able to exercise control of the risk management function of any
+            
+257
+
+    
+controlled unaffiliated business to be insured by the pure captive insurance company.
+            
+258
+
+    
+    (2)  Notwithstanding Subsection (1)[(j)](k), until the commissioner adopts the rules
+            
+259
+
+    
+authorized under Subsection (1)[(j)](k), the commissioner may by temporary order grant
+            
+260
+
+    
+authority to a pure captive insurance company to insure risks.
+            
+261
+
+    
+    (3)  The commissioner may issue prohibitory, mandatory, and other orders relating to
+            
+262
+
+    
+captive insurance companies as necessary to enable the commissioner to secure compliance
+            
+263
+
+    
+with this chapter.
+            
+264
+
+    
+    Section 4.  
+Section  
+31A-37-202
+
+ is amended to read:
+            
+265
+
+    
+     31A-37-202.  Permissive areas of insurance.
+            
+266
+
+    
+    (1) (a)  Except as provided in Subsection (1)(b), when permitted by its articles of
+            
+267
+
+    
+incorporation or charter, a captive insurance company may apply to the commissioner for a
+            
+268
+
+    
+certificate of authority to do all insurance authorized by this title except workers' compensation
+            
+269
+
+    
+insurance.
+            
+270
+
+    
+    (b)  Notwithstanding Subsection (1)(a):
+            
+271
+
+    
+    (i)  a pure captive insurance company may not insure any risks other than those of its:
+            
+272
+
+    
+    (A)  parent and affiliates; [or]
+            
+273
+
+    
+    (B)  controlled unaffiliated business; or
+            
+274
+
+    
+    (C)  a combination of Subsections (1)(b)(i)(A) and (B);
+            
+275
+
+    
+    (ii)  an association captive insurance company may not insure any risks other than those
+
+            
+276
+
+
+    
+of the:
+            
+277
+
+    
+    (A)  member organizations of its association; and
+            
+278
+
+    
+    (B)  affiliates of the member organizations of its association;
+            
+279
+
+    
+    (iii)  an industrial insured captive insurance company may not insure any risks other
+            
+280
+
+    
+than those of the:
+            
+281
+
+    
+    (A)  industrial insureds that comprise the industrial insured group; and
+            
+282
+
+    
+    (B)  affiliates of the industrial insureds that comprise the industrial insured group;
+            
+283
+
+    
+    (iv)  a special purpose captive insurance company may only insure the risk of its parent;
+            
+284
+
+    
+    [(iv)] (v)  a captive insurance company may not provide personal motor vehicle or
+            
+285
+
+    
+homeowner's insurance coverage or any component of these coverages; and
+            
+286
+
+    
+    [(v)] (vi)  a captive insurance company may not accept or cede reinsurance except as
+            
+287
+
+    
+provided in Section 
+
+31A-37-303
+
+.
+            
+288
+
+    
+    (c)  Notwithstanding Subsection (1)(b)(iv), for risks approved by the commissioner a
+            
+289
+
+    
+special purpose captive insurance company may provide:
+            
+290
+
+    
+    (i)  insurance;
+            
+291
+
+    
+    (ii)  reinsurance; or
+            
+292
+
+    
+    (iii)  both insurance and reinsurance.
+            
+293
+
+    
+    (2)  To conduct insurance business in this state a captive insurance company shall:
+            
+294
+
+    
+    (a)  obtain from the commissioner a certificate of authority authorizing it to conduct
+            
+295
+
+    
+insurance business in this state;
+            
+296
+
+    
+    (b)  hold at least once each year in this state:
+            
+297
+
+    
+    (i)  a board of directors meeting; or
+            
+298
+
+    
+    (ii)  in the case of a reciprocal insurer, a subscriber's advisory committee meeting;
+            
+299
+
+    
+    (c)  maintain in this state:
+            
+300
+
+    
+    (i)  the principal place of business of the captive insurance company; or
+            
+301
+
+    
+    (ii)  in the case of a branch captive insurance company, the principal place of business
+            
+302
+
+    
+for the branch operations of the branch captive insurance company; and
+            
+303
+
+    
+    (d)  except as provided in Subsection (3), appoint a resident registered agent to accept
+            
+304
+
+    
+service of process and to otherwise act on behalf of the captive insurance company in this state.
+            
+305
+
+    
+    (3)  Notwithstanding Subsection (2)(d), in the case of a captive insurance company
+            
+306
+
+    
+formed as a corporation or a reciprocal insurer, whenever the registered agent cannot with
+
+            
+307
+
+
+    
+reasonable diligence be found at the registered office of the captive insurance company, the
+            
+308
+
+    
+[director must] commissioner shall be an agent of the captive insurance company upon whom
+            
+309
+
+    
+any process, notice, or demand may be served.
+            
+310
+
+    
+    (4) (a)  Before receiving a certificate of authority, a captive insurance company:
+            
+311
+
+    
+    (i)  formed as a corporation shall file with the commissioner:
+            
+312
+
+    
+    (A)  a certified copy of:
+            
+313
+
+    
+    (I)  articles of incorporation or the charter of the corporation; and
+            
+314
+
+    
+    (II)  bylaws of the corporation;
+            
+315
+
+    
+    (B)  a statement under oath of the president and secretary of the corporation showing
+            
+316
+
+    
+the financial condition of the corporation; and
+            
+317
+
+    
+    (C)  any other statement or document required by the commissioner under Section
+            
+318
+
+    
+
+31A-37-106
+
+;
+            
+319
+
+    
+    (ii)  formed as a reciprocal shall:
+            
+320
+
+    
+    (A)  file with the commissioner:
+            
+321
+
+    
+    (I)  a certified copy of the power of attorney of the attorney-in-fact of the reciprocal;
+            
+322
+
+    
+    (II)  a certified copy of the subscribers' agreement of the reciprocal;
+            
+323
+
+    
+    (III)  a statement under oath of the attorney-in-fact of the reciprocal showing the
+            
+324
+
+    
+financial condition of the reciprocal; and
+            
+325
+
+    
+    (IV)  any other statement or document required by the commissioner under Section
+            
+326
+
+    
+
+31A-37-106
+
+; and
+            
+327
+
+    
+    (B)  submit to the commissioner for approval a description of the:
+            
+328
+
+    
+    (I)  coverages[,];
+            
+329
+
+    
+    (II)  deductibles[,];
+            
+330
+
+    
+    (III)  coverage limits[,];
+            
+331
+
+    
+    (IV)  rates[,]; and
+            
+332
+
+    
+    (V)  any other information the commissioner requires under Section 
+
+31A-37-106
+
+.
+            
+333
+
+    
+    (b) (i)  If there is a subsequent material change in an item in the description required
+            
+334
+
+    
+under Subsection (4)(a)(ii)(B) for a reciprocal captive insurance company, the reciprocal
+            
+335
+
+    
+captive insurance company shall submit to the commissioner for approval an appropriate
+            
+336
+
+    
+revision to the description required under Subsection (4)(a)(ii)(B).
+            
+337
+
+    
+    (ii)  A reciprocal captive insurance company that is required to submit a revision under
+
+            
+338
+
+
+    
+Subsection (4)(b)(i) may not offer any additional kinds of insurance until the commissioner
+            
+339
+
+    
+approves a revision of the description.
+            
+340
+
+    
+    (iii)  A reciprocal captive insurance company shall inform the commissioner of any
+            
+341
+
+    
+material change in rates within 30 days of the adoption of the change.
+            
+342
+
+    
+    (c)  In addition to the information required by Subsection (4)(a), an applicant captive
+            
+343
+
+    
+insurance company shall file with the commissioner evidence of:
+            
+344
+
+    
+    (i)  the amount and liquidity of the assets of the applicant captive insurance company
+            
+345
+
+    
+relative to the risks to be assumed by the applicant captive insurance company;
+            
+346
+
+    
+    (ii)  the adequacy of the expertise, experience, and character of the person who will
+            
+347
+
+    
+manage the applicant captive insurance company;
+            
+348
+
+    
+    (iii)  the overall soundness of the plan of operation of the applicant captive insurance
+            
+349
+
+    
+company;
+            
+350
+
+    
+    (iv)  the adequacy of the loss prevention programs of the applicant captive insurance
+            
+351
+
+    
+company's parent, member organizations, or industrial insureds, as applicable; and
+            
+352
+
+    
+    (v)  any other factors the commissioner:
+            
+353
+
+    
+    (A)  [requires] adopted by rule under Section 
+
+31A-37-106
+
+; and
+            
+354
+
+    
+    (B)  considers relevant in ascertaining whether the applicant captive insurance company
+            
+355
+
+    
+will be able to meet the policy obligations of the applicant captive insurance company.
+            
+356
+
+    
+    (d)  In addition to the information required by Subsections (4)(a), (b), and (c), an
+            
+357
+
+    
+applicant sponsored captive insurance company shall file with the commissioner:
+            
+358
+
+    
+    (i)  a business plan at the level of detail required by the commissioner under Section
+            
+359
+
+    
+
+31A-37-106
+
+ demonstrating:
+            
+360
+
+    
+    (A)  the manner in which the applicant sponsored captive insurance company will
+            
+361
+
+    
+account for the losses and expenses of each protected cell; and
+            
+362
+
+    
+    (B)  the manner in which the applicant sponsored captive insurance company will report
+            
+363
+
+    
+to the commissioner the financial history, including losses and expenses, of each protected cell;
+            
+364
+
+    
+    (ii)  a statement acknowledging that all financial records of the applicant sponsored
+            
+365
+
+    
+captive insurance company, including records pertaining to any protected cell, shall be made
+            
+366
+
+    
+available for inspection or examination by the commissioner;
+            
+367
+
+    
+    (iii)  any contract or sample contract between the applicant sponsored captive insurance
+            
+368
+
+    
+company and any participant; and
+
+            
+369
+
+
+    
+    (iv)  evidence that expenses will be allocated to each protected cell in an equitable
+            
+370
+
+    
+manner.
+            
+371
+
+    
+    (e)  Information submitted pursuant to this Subsection (4) shall be classified as a
+            
+372
+
+    
+protected record under Title 63, Chapter 2, Government Records Access and Management Act.
+            
+373
+
+    
+    (f)  [The] Notwithstanding Title 63, Chapter 2, Government Records Access and
+            
+374
+
+    
+Management Act, the commissioner may disclose information submitted pursuant to this
+            
+375
+
+    
+Subsection (4) to a public official having jurisdiction over the regulation of insurance in
+            
+376
+
+    
+another state if:
+            
+377
+
+    
+    (i)  the public official receiving the information agrees in writing to maintain the
+            
+378
+
+    
+confidentiality of the information; and
+            
+379
+
+    
+    (ii)  the laws of the state in which the public official serves require the information to be
+            
+380
+
+    
+confidential.
+            
+381
+
+    
+    (g)  [The provisions of] Subsections (4)(e) and (4)(f) do not apply to information
+            
+382
+
+    
+provided by an industrial insured captive insurance company insuring the risks of an industrial
+            
+383
+
+    
+insured group.
+            
+384
+
+    
+    (5) (a)  A captive insurance company shall pay to the department the following
+            
+385
+
+    
+nonrefundable fees established by the department under Sections 
+
+31A-3-103
+
+ and 
+
+63-38-3.2
+
+:
+            
+386
+
+    
+    (i)  a fee for examining, investigating, and processing, by department employees, of an
+            
+387
+
+    
+application for a certificate of authority made by a captive insurance company;
+            
+388
+
+    
+    (ii)  a fee for obtaining a certificate of authority for the year the captive insurance
+            
+389
+
+    
+company is issued a certificate of authority by the department; and
+            
+390
+
+    
+    (iii)  a certificate of authority renewal fee.
+            
+391
+
+    
+    (b)  The commissioner may retain legal, financial, and examination services from
+            
+392
+
+    
+outside the department to perform the services under Subsection (5)(a) and Section
+            
+393
+
+    
+
+31A-37-502
+
+ and charge the reasonable cost of those services against the applicant captive
+            
+394
+
+    
+insurance company.
+            
+395
+
+    
+    (6)  If the commissioner is satisfied that the documents and statements filed by the
+            
+396
+
+    
+applicant captive insurance company comply with the provisions of this chapter, the
+            
+397
+
+    
+commissioner may grant a certificate of authority authorizing the company to do insurance
+            
+398
+
+    
+business in this state.
+            
+399
+
+    
+    (7)  A certificate of authority granted under this section expires annually and must be
+
+            
+400
+
+
+    
+renewed by July 1 of each year.
+            
+401
+
+    
+    Section 5.  
+Section  
+31A-37-204
+
+ is amended to read:
+            
+402
+
+    
+     31A-37-204.  Paid-in capital.
+            
+403
+
+    
+    (1) (a)  The commissioner may not issue a certificate of authority to [a pure captive
+            
+404
+
+    
+insurance company, sponsored captive insurance company, association captive insurance
+            
+405
+
+    
+company incorporated as a stock insurer, or industrial insured captive insurance company
+            
+406
+
+    
+incorporated as a stock insurer] a company described in Subsection (1)(c) unless the company
+            
+407
+
+    
+possesses and thereafter maintains unimpaired paid-in capital of:
+            
+408
+
+    
+    (i)  in the case of a pure captive insurance company, not less than $100,000;
+            
+409
+
+    
+    (ii)  in the case of an association captive insurance company incorporated as a stock
+            
+410
+
+    
+insurer, not less than $400,000;
+            
+411
+
+    
+    (iii)  in the case of an industrial insured captive insurance company incorporated as a
+            
+412
+
+    
+stock insurer, not less than $200,000; [or]
+            
+413
+
+    
+    (iv)  in the case of a sponsored captive insurance company, not less than $500,000[.]; or
+            
+414
+
+    
+    (v)  in the case of a special purpose captive insurance company, an amount determined
+            
+415
+
+    
+by the commissioner after giving due consideration to the company's business plan, feasibility
+            
+416
+
+    
+study, and pro-formas, including the nature of the risks to be insured.
+            
+417
+
+    
+    (b)  The paid-in capital required under this Subsection (1) may be in the form of:
+            
+418
+
+    
+    (i) (A)  cash; or
+            
+419
+
+    
+    (B)  cash equivalent; or
+            
+420
+
+    
+    (ii)  an irrevocable letter of credit:
+            
+421
+
+    
+    (A)  issued by:
+            
+422
+
+    
+    (I)  a bank chartered by this state; or
+            
+423
+
+    
+    (II)  a member bank of the Federal Reserve System; and
+            
+424
+
+    
+    (B)  approved by the commissioner.
+            
+425
+
+    
+    (c)  This Subsection (1) applies to:
+            
+426
+
+    
+    (i)  a pure captive insurance company;
+            
+427
+
+    
+    (ii)  a sponsored captive insurance company;
+            
+428
+
+    
+    (iii)  a special purpose captive insurance company;
+            
+429
+
+    
+    (iv)  an association captive insurance company incorporated as a stock insurer; or
+            
+430
+
+    
+    (v)  an industrial insured captive insurance company incorporated as a stock insurer.
+
+            
+431
+
+
+    
+    (2) (a)  The commissioner may, under Section 
+
+31A-37-106
+
+, prescribe additional capital
+            
+432
+
+    
+based on the type, volume, and nature of insurance business transacted.
+            
+433
+
+    
+    (b)  The capital prescribed by the commissioner under this Subsection (2) may be in the
+            
+434
+
+    
+form of:
+            
+435
+
+    
+    (i)  cash; or
+            
+436
+
+    
+    (ii)  an irrevocable letter of credit issued by:
+            
+437
+
+    
+    (A)  a bank chartered by this state; or
+            
+438
+
+    
+    (B)  a member bank of the Federal Reserve System.
+            
+439
+
+    
+    (3) (a)  Except as provided in Subsection (3)(c), a branch captive insurance company, as
+            
+440
+
+    
+security for the payment of liabilities attributable to branch operations, shall, through its branch
+            
+441
+
+    
+operations, establish and maintain a trust fund:
+            
+442
+
+    
+    (i)  funded by an irrevocable letter of credit or other acceptable asset; and
+            
+443
+
+    
+    (ii)  in the United States for the benefit of:
+            
+444
+
+    
+    (A)  United States policyholders; and
+            
+445
+
+    
+    (B)  United States ceding insurers under:
+            
+446
+
+    
+    (I)  insurance policies issued; or
+            
+447
+
+    
+    (II)  reinsurance contracts issued or assumed.
+            
+448
+
+    
+    (b)  The amount of the security required under this Subsection (3) shall be no less than:
+            
+449
+
+    
+    (i)  the capital and surplus required by this chapter; and
+            
+450
+
+    
+    (ii)  the reserves on the insurance policies or reinsurance contracts, including:
+            
+451
+
+    
+    (A)  reserves for losses;
+            
+452
+
+    
+    (B)  allocated loss adjustment expenses;
+            
+453
+
+    
+    (C)  incurred but not reported losses; and
+            
+454
+
+    
+    (D)  unearned premiums with regard to business written through branch operations.
+            
+455
+
+    
+    (c)  Notwithstanding the other provisions of this Subsection (3), the commissioner may
+            
+456
+
+    
+permit a branch captive insurance company that is required to post security for loss reserves on
+            
+457
+
+    
+branch business by its reinsurer to reduce the funds in the trust account required by this section
+            
+458
+
+    
+by the same amount as the security posted if the security remains posted with the reinsurer.
+            
+459
+
+    
+    (4) (a)  A captive insurance company may not pay the following without the prior
+            
+460
+
+    
+approval of the commissioner:
+            
+461
+
+    
+    (i)  a dividend out of capital or surplus in excess of the limits under Section
+
+            
+462
+
+
+    
+
+16-10a-640
+
+; or
+            
+463
+
+    
+    (ii)  a distribution with respect to capital or surplus in excess of the limits under Section
+            
+464
+
+    
+
+16-10a-640
+
+.
+            
+465
+
+    
+    (b)  The commissioner shall condition approval of an ongoing plan for the payment of
+            
+466
+
+    
+dividends or other distributions on the retention, at the time of each payment, of capital or
+            
+467
+
+    
+surplus in excess of:
+            
+468
+
+    
+    (i)  amounts specified by the commissioner under Section 
+
+31A-37-106
+
+; or
+            
+469
+
+    
+    (ii)  determined in accordance with formulas approved by the commissioner under
+            
+470
+
+    
+Section 
+
+31A-37-106
+
+.
+            
+471
+
+    
+    Section 6.  
+Section  
+31A-37-205
+
+ is amended to read:
+            
+472
+
+    
+     31A-37-205.  Free surplus.
+            
+473
+
+    
+    (1) (a)  Except as provided in Subsection (2), the commissioner may not issue a
+            
+474
+
+    
+certificate of authority to a captive insurance company unless the company possesses and
+            
+475
+
+    
+maintains free surplus of:
+            
+476
+
+    
+    (i)  in the case of a pure captive insurance company, not less that $150,000;
+            
+477
+
+    
+    (ii)  in the case of an association captive insurance company incorporated as a stock
+            
+478
+
+    
+insurer, not less than $350,000;
+            
+479
+
+    
+    (iii)  in the case of an industrial insured captive insurance company incorporated as a
+            
+480
+
+    
+stock insurer, not less than $300,000;
+            
+481
+
+    
+    (iv)  in the case of an association captive insurance company incorporated as a mutual
+            
+482
+
+    
+insurer, not less $750,000;
+            
+483
+
+    
+    (v)  in the case of an industrial insured captive insurance company incorporated as a
+            
+484
+
+    
+mutual insurer, not less than $500,000; [and]
+            
+485
+
+    
+    (vi)  in the case of a sponsored captive insurance company, not less than $500,000[.];
+            
+486
+
+    
+and
+            
+487
+
+    
+    (vii)  in the case of a special purpose captive insurance company, an amount determined
+            
+488
+
+    
+by the commissioner after giving due consideration to the company's business plan, feasibility
+            
+489
+
+    
+study, and pro-formas, including the nature of the risks to be insured.
+            
+490
+
+    
+    (b)  The surplus required under this Subsection (1) may be in the form of:
+            
+491
+
+    
+    (i)  cash; or
+            
+492
+
+    
+    (ii)  an irrevocable letter of credit issued by:
+
+            
+493
+
+
+    
+    (A)  a bank chartered by this state; or
+            
+494
+
+    
+    (B)  a member bank of the Federal Reserve System that is approved by the
+            
+495
+
+    
+commissioner.
+            
+496
+
+    
+    (2)  Notwithstanding the requirements of Subsection (1), a captive insurance company
+            
+497
+
+    
+organized as a reciprocal insurer under this chapter may not be issued a certificate of authority
+            
+498
+
+    
+unless the captive insurance company possesses and maintains free surplus of $1,000,000.
+            
+499
+
+    
+    (3) (a)  The commissioner may prescribe additional surplus based upon the type,
+            
+500
+
+    
+volume, and nature of insurance business transacted.
+            
+501
+
+    
+    (b)  The capital required under this Subsection (3) may be in the form of an irrevocable
+            
+502
+
+    
+letter of credit issued by:
+            
+503
+
+    
+    (i)  a bank chartered by this state; or
+            
+504
+
+    
+    (ii)  a member bank of the Federal Reserve System.
+            
+505
+
+    
+    (4) (a)  Without the prior approval of the commissioner, a captive insurance company
+            
+506
+
+    
+may not pay:
+            
+507
+
+    
+    (i)  a dividend out of capital or surplus in excess of the limits under Section
+            
+508
+
+    
+
+16-10a-640
+
+; or
+            
+509
+
+    
+    (ii)  a distribution with respect to capital or surplus in excess of the limits under Section
+            
+510
+
+    
+
+16-10a-640
+
+.
+            
+511
+
+    
+    (b)  The commissioner shall condition approval of an ongoing plan for the payment of
+            
+512
+
+    
+dividends or other distribution on the retention, at the time of each payment, of capital or
+            
+513
+
+    
+surplus in excess of amounts:
+            
+514
+
+    
+    (i)  specified by the commissioner; or
+            
+515
+
+    
+    (ii)  determined in accordance with formulas approved by the commissioner.
+            
+516
+
+    
+    Section 7.  
+Section  
+31A-37-301
+
+ is amended to read:
+            
+517
+
+    
+     31A-37-301.  Incorporation.
+            
+518
+
+    
+    (1)  A pure captive insurance company or a sponsored captive insurance company shall
+            
+519
+
+    
+be incorporated as a stock insurer with the capital of the pure captive insurance company or
+            
+520
+
+    
+sponsored captive insurance company:
+            
+521
+
+    
+    (a)  divided into shares; and
+            
+522
+
+    
+    (b)  held by the stockholders of the pure captive insurance company or sponsored
+            
+523
+
+    
+captive insurance company.
+
+            
+524
+
+
+    
+    (2)  An association captive insurance company or an industrial insured captive
+            
+525
+
+    
+insurance company may be:
+            
+526
+
+    
+    (a)  incorporated as a stock insurer with the capital of the association captive insurance
+            
+527
+
+    
+company or industrial insured captive insurance company:
+            
+528
+
+    
+    (i)  divided into shares; and
+            
+529
+
+    
+    (ii)  held by the stockholders of the association captive insurance company or industrial
+            
+530
+
+    
+insured captive insurance company;
+            
+531
+
+    
+    (b)  incorporated as a mutual insurer without capital stock, with a governing body
+            
+532
+
+    
+elected by the member organizations of the association captive insurance company or industrial
+            
+533
+
+    
+insured captive insurance company; or
+            
+534
+
+    
+    (c)  organized as a reciprocal.
+            
+535
+
+    
+    (3)  A captive insurance company may not have fewer than three incorporators of whom
+            
+536
+
+    
+not fewer than two must be residents of this state.
+            
+537
+
+    
+    (4) (a)  Before a captive insurance company formed as a corporation files the
+            
+538
+
+    
+corporation's articles of incorporation with the Division of Corporations and Commercial
+            
+539
+
+    
+Code, the incorporators shall obtain from the commissioner a certificate finding that the
+            
+540
+
+    
+establishment and maintenance of the proposed corporation will promote the general good of
+            
+541
+
+    
+the state.
+            
+542
+
+    
+    (b)  In considering a request for a certificate under Subsection (4)(a), the commissioner
+            
+543
+
+    
+shall consider:
+            
+544
+
+    
+    (i)  the character, reputation, financial standing, and purposes of the incorporators;
+            
+545
+
+    
+    (ii)  the character, reputation, financial responsibility, insurance experience, business
+            
+546
+
+    
+qualifications of the officers and directors;
+            
+547
+
+    
+    (iii)  any information in:
+            
+548
+
+    
+    (A)  the application for a certificate of authority; or
+            
+549
+
+    
+    (B)  the department's files; and
+            
+550
+
+    
+    (iv)  other aspects the commissioner considers advisable.
+            
+551
+
+    
+    (5) (a)  [The] A captive insurance company formed as a corporation shall file with the
+            
+552
+
+    
+Division of Corporations and Commercial Code:
+            
+553
+
+    
+    (i)  the captive insurance company's articles of incorporation[,];
+            
+554
+
+    
+    (ii)  the certificate issued pursuant to Subsection (4)[,]; and
+
+            
+555
+
+
+    
+    (iii)  the [organization] fees required by [Subsection 
+
+31A-37-202
+
+(5) shall be filed with
+            
+556
+
+    
+the Division of Corporations and Commercial Code] the Division of Corporations and
+            
+557
+
+    
+Commercial Code.
+            
+558
+
+    
+    (b)  The Division of Corporations and Commercial Code shall file both the articles of
+            
+559
+
+    
+incorporation and the certificate described in Subsection (4) for a captive insurance company
+            
+560
+
+    
+that complies with this section.
+            
+561
+
+    
+    (6) (a)  The organizers of a captive insurance company formed as a reciprocal insurer
+            
+562
+
+    
+shall obtain from the commissioner a certificate finding that the establishment and maintenance
+            
+563
+
+    
+of the proposed association will promote the general good of the state.
+            
+564
+
+    
+    (b)  In considering a [petition] request for a certificate under Subsection (6)(a), the
+            
+565
+
+    
+commissioner shall consider:
+            
+566
+
+    
+    (i)  the character, reputation, financial standing, and purposes of the incorporators;
+            
+567
+
+    
+    (ii)  the character, reputation, financial responsibility, insurance experience, and
+            
+568
+
+    
+business qualifications of the officers and directors;
+            
+569
+
+    
+    (iii)  any information in:
+            
+570
+
+    
+    (A)  the application for a certificate of authority; or
+            
+571
+
+    
+    (B)  the department's files; and
+            
+572
+
+    
+    (iv)  other aspects the commissioner considers advisable.
+            
+573
+
+    
+    (7) (a)  An [out-of-state] alien captive insurance company that has received a certificate
+            
+574
+
+    
+of authority to act as a branch captive insurance company shall obtain from the commissioner a
+            
+575
+
+    
+certificate finding that:
+            
+576
+
+    
+    (i)  the home state of the [out-of-state] alien captive insurance company imposes
+            
+577
+
+    
+statutory or regulatory standards in a form acceptable to the commissioner on companies
+            
+578
+
+    
+transacting the business of insurance in that state; and
+            
+579
+
+    
+    (ii)  after considering the character, reputation, financial responsibility, insurance
+            
+580
+
+    
+experience, and business qualifications of the officers and directors of the [out-of-state] alien
+            
+581
+
+    
+captive insurance company, and other relevant information, the establishment and maintenance
+            
+582
+
+    
+of the branch operations will promote the general good of the state.
+            
+583
+
+    
+    (b)  After the commissioner issues a certificate under Subsection (7)(a) to an
+            
+584
+
+    
+[out-of-state] alien captive insurance company, the [out-of-state] alien captive insurance
+            
+585
+
+    
+company may register to do business in this state.
+
+            
+586
+
+
+    
+    (8)  The capital stock of a captive insurance company incorporated as a stock insurer
+            
+587
+
+    
+may not be issued at less than par value.
+            
+588
+
+    
+    (9)  At least one of the members of the board of directors of a captive insurance
+            
+589
+
+    
+company formed as a corporation shall be a resident of this state.
+            
+590
+
+    
+    (10)  At least one of the members of the subscribers' advisory committee of a captive
+            
+591
+
+    
+insurance company formed as a reciprocal insurer shall be a resident of this state.
+            
+592
+
+    
+    (11) (a)  A captive insurance company formed as a corporation under this chapter has
+            
+593
+
+    
+the privileges and is subject to the provisions of the general corporation law as well as the
+            
+594
+
+    
+applicable provisions contained in this chapter.
+            
+595
+
+    
+    (b)  If a conflict exists between a provision of the general corporation law and a
+            
+596
+
+    
+provision of this chapter, this chapter shall control.
+            
+597
+
+    
+    (c)  Except as provided in Subsection (11)(d), the provisions of this title pertaining to a
+            
+598
+
+    
+merger, consolidation, conversion, mutualization, and redomestication apply in determining the
+            
+599
+
+    
+procedures to be followed by a captive insurance company in carrying out any of the
+            
+600
+
+    
+transactions described in those provisions.
+            
+601
+
+    
+    (d)  Notwithstanding Subsection (11)(c), the commissioner may waive or modify the
+            
+602
+
+    
+requirements for public notice and hearing in accordance with rules adopted under Section
+            
+603
+
+    
+
+31A-37-106
+
+.
+            
+604
+
+    
+    (e)  If a notice of public hearing is required, but no one requests a hearing, the
+            
+605
+
+    
+commissioner may cancel the public hearing.
+            
+606
+
+    
+    (12) (a)  A captive insurance company formed as a reciprocal insurer under this chapter
+            
+607
+
+    
+has the powers set forth in Section 
+
+31A-4-114
+
+ in addition to the applicable provisions of this
+            
+608
+
+    
+chapter.
+            
+609
+
+    
+    (b)  If a conflict exists between the provisions of Section 
+
+31A-4-114
+
+ and the provisions
+            
+610
+
+    
+of this chapter with respect to a captive insurance company, this chapter shall control.
+            
+611
+
+    
+    (c)  To the extent a reciprocal insurer is made subject to other provisions of this title
+            
+612
+
+    
+pursuant to Section 
+
+31A-14-208
+
+, the provisions are not applicable to a reciprocal insurer
+            
+613
+
+    
+formed under this chapter unless the provisions are expressly made applicable to a captive
+            
+614
+
+    
+insurance company under this chapter.
+            
+615
+
+    
+    (d)  In addition to the provisions of this Subsection (12), a captive insurance company
+            
+616
+
+    
+organized as a reciprocal insurer that is an industrial insured group has the privileges of Section
+
+            
+617
+
+
+    
+
+31A-4-114
+
+ in addition to applicable provisions of this title.
+            
+618
+
+    
+    (13)  The articles of incorporation or bylaws of a captive insurance company may not
+            
+619
+
+    
+authorize a quorum of a board of directors to consist of fewer than 1/3 of the fixed or
+            
+620
+
+    
+prescribed number of directors as provided in Section 
+
+16-10a-824
+
+.
+            
+621
+
+    
+    Section 8.  
+Section  
+31A-37-306
+
+ is amended to read:
+            
+622
+
+    
+     31A-37-306.  Conversion.
+            
+623
+
+    
+    (1)  An association captive insurance company or industrial insured group formed as a
+            
+624
+
+    
+stock or mutual corporation may be:
+            
+625
+
+    
+    (a)  converted to a reciprocal insurer in accordance with a plan and [the provisions of]
+            
+626
+
+    
+this section; or
+            
+627
+
+    
+    (b)  merged with and into a reciprocal insurer in accordance with a plan and [the
+            
+628
+
+    
+provisions of] this section.
+            
+629
+
+    
+    (2)  A plan for a conversion or merger under this section:
+            
+630
+
+    
+    (a)  shall be fair and equitable to:
+            
+631
+
+    
+    (i)  the shareholders, in the case of a stock insurer; or
+            
+632
+
+    
+    (ii)  the policyholders, in the case of a mutual insurer; and
+            
+633
+
+    
+    (b)  shall provide for the purchase of:
+            
+634
+
+    
+    (i)  the shares of any nonconsenting shareholder of a stock insurer [of the policyholder
+            
+635
+
+    
+interest of any nonconsenting policyholder of a mutual insurer] in substantially the same
+            
+636
+
+    
+manner and subject to the same rights and conditions as are provided[: (i)] a dissenting
+            
+637
+
+    
+shareholder; or
+            
+638
+
+    
+    (ii)  the policyholder interest of any nonconsenting policyholder of a mutual insurer in
+            
+639
+
+    
+substantially the same manner and subject to the same rights and conditions as are provided a
+            
+640
+
+    
+dissenting policyholder.
+            
+641
+
+    
+    (3)  In the case of a conversion authorized under Subsection (1):
+            
+642
+
+    
+    (a)  the conversion must be accomplished under a reasonable plan and procedure that
+            
+643
+
+    
+are approved by the commissioner;
+            
+644
+
+    
+    (b)  the commissioner may not approve the plan of conversion under this section unless
+            
+645
+
+    
+the plan:
+            
+646
+
+    
+    (i)  satisfies [the provisions of] Subsections (2) and (6);
+            
+647
+
+    
+    (ii)  provides for the conversion of existing stockholder or policyholder interests into
+
+            
+648
+
+
+    
+subscriber interests in the resulting reciprocal insurer, proportionate to stockholder or
+            
+649
+
+    
+policyholder interests in the stock or mutual insurer; and
+            
+650
+
+    
+    (iii)  is approved:
+            
+651
+
+    
+    (A)  in the case of a stock insurer, by a majority of the shares entitled to vote
+            
+652
+
+    
+represented in person or by proxy at a duly called regular or special meeting at which a quorum
+            
+653
+
+    
+is present; or
+            
+654
+
+    
+    (B)  in the case of a mutual insurer, by a majority of the voting interests of
+            
+655
+
+    
+policyholders represented in person or by proxy at a duly called regular or special meeting at
+            
+656
+
+    
+which a quorum is present;
+            
+657
+
+    
+    (c)  the commissioner shall approve a plan of conversion if the commissioner finds that
+            
+658
+
+    
+the conversion will promote the general good of the state in conformity with the standards
+            
+659
+
+    
+under Subsection 
+
+31A-37-301
+
+(4);
+            
+660
+
+    
+    (d)  if the commissioner approves a plan of conversion, the commissioner shall amend
+            
+661
+
+    
+the converting insurer's certificate of authority to reflect conversion to a reciprocal insurer and
+            
+662
+
+    
+issue the amended certificate of authority to the company's attorney-in-fact;
+            
+663
+
+    
+    (e)  upon issuance of an amended certificate of authority of a reciprocal insurer by the
+            
+664
+
+    
+commissioner, the conversion is effective; and
+            
+665
+
+    
+    (f)  upon the effectiveness of the conversion[,]:
+            
+666
+
+    
+    (i)  the corporate existence of the converting insurer shall cease; and
+            
+667
+
+    
+    (ii)  the resulting reciprocal insurer shall notify the Division of Corporations and
+            
+668
+
+    
+Commercial Code of the conversion.
+            
+669
+
+    
+    (4)  A merger authorized under Subsection (1) [must] shall be accomplished
+            
+670
+
+    
+substantially in accordance with the procedures set forth in this title except that, solely for
+            
+671
+
+    
+purposes of the merger:
+            
+672
+
+    
+    (a)  the plan or merger shall satisfy Subsection (2);
+            
+673
+
+    
+    (b)  the subscribers' advisory committee of a reciprocal insurer shall be equivalent to the
+            
+674
+
+    
+board of directors of a stock or mutual insurance company;
+            
+675
+
+    
+    (c)  the subscribers of a reciprocal insurer shall be the equivalent of the policyholders of
+            
+676
+
+    
+a mutual insurance company;
+            
+677
+
+    
+    (d)  if a subscribers' advisory committee does not have a president or secretary, the
+            
+678
+
+    
+officers of the committee having substantially equivalent duties are the president and secretary
+
+            
+679
+
+
+    
+of the committee;
+            
+680
+
+    
+    (e)  the commissioner shall approve the articles of merger if the commissioner finds that
+            
+681
+
+    
+the merger will promote the general good of the state in conformity with the standards under
+            
+682
+
+    
+Subsection 
+
+31A-37-301
+
+(4);
+            
+683
+
+    
+    (f)  notwithstanding [Section ] Sections
+
+31A-37-204
+
+and 
+
+31A-37-205
+
+, the
+            
+684
+
+    
+commissioner may permit the formation, without capital and surplus, of a captive insurance
+            
+685
+
+    
+company organized as a reciprocal insurer, into which an existing captive insurance company
+            
+686
+
+    
+may be merged to facilitate a transaction under this section, if there is no more than one
+            
+687
+
+    
+authorized insurance company surviving the merger; and
+            
+688
+
+    
+    (g)  an [out-of-state] alien insurer may be a party to a merger authorized under
+            
+689
+
+    
+Subsection (1)[,] if:
+            
+690
+
+    
+    (i)  the requirements for the merger between a domestic and a foreign insurer under
+            
+691
+
+    
+Chapter 16, Insurance Holding Companies, are applied to the merger; and
+            
+692
+
+    
+    (ii)  the [out-of-state] alien insurer [shall be] is treated as [an alien] a foreign insurer
+            
+693
+
+    
+under Chapter 16, Insurance Holding Companies.
+            
+694
+
+    
+    (5)  If the commissioner approves the articles of merger under this section[,]:
+            
+695
+
+    
+    (a)  the commissioner shall endorse the commissioner's approval on the articles[,]; and
+            
+696
+
+    
+    (b)  the surviving insurer shall present the name to the Division of Corporations and
+            
+697
+
+    
+Commercial Code.
+            
+698
+
+    
+    (6) (a)  Except as provided in Subsection (6)(b), a conversion authorized under
+            
+699
+
+    
+Subsection (1) must provide for a hearing, of which notice has been given to the insurer, its
+            
+700
+
+    
+directors, officers and stockholders, in the case of a stock insurer, or policyholders, in the case
+            
+701
+
+    
+of a mutual insurer, all of whom have the right to appear at the hearing.
+            
+702
+
+    
+    (b)  Notwithstanding Subsection (6)(a), the commissioner may waive or modify the
+            
+703
+
+    
+requirements for the hearing.
+            
+704
+
+    
+    (c)  If a notice of hearing is required, but no hearing is requested, after notice has been
+            
+705
+
+    
+given under Subsection (6)(a), the commissioner may cancel the hearing.
+            
+706
+
+    
+    Section 9.  
+Section  
+31A-37-402
+
+ is amended to read:
+            
+707
+
+    
+     31A-37-402.  Sponsored captive insurance companies -- Certificate of authority
+            
+708
+
+    
+ mandatory.
+            
+709
+
+    
+    (1)  A sponsor of a sponsored captive insurance company shall be:
+
+            
+710
+
+
+    
+    (a)  an insurer authorized or approved under the laws of any state;
+            
+711
+
+    
+    (b)  a reinsurer authorized or approved under the laws of any state; [or]
+            
+712
+
+    
+    (c)  a captive insurance company holding a certificate of authority under this chapter[.];
+            
+713
+
+    
+or
+            
+714
+
+    
+    (d)  an insurance holding company that:
+            
+715
+
+    
+    (i)  controls an insurer licensed pursuant to the laws of any state; and
+            
+716
+
+    
+    (ii)  is subject to registration pursuant to the holding company system of laws of the
+            
+717
+
+    
+state of domicile of the insurer described in Subsection (1)(d)(i).
+            
+718
+
+    
+    (2) (a)  The business written by a sponsored captive insurance company with respect to
+            
+719
+
+    
+each protected cell shall be fronted by an insurance company:
+            
+720
+
+    
+    (i)  authorized or approved:
+            
+721
+
+    
+    (A)  under the laws of any state[.]; or
+            
+722
+
+    
+    (B)  under any jurisdiction if the insurance company is a wholly owned subsidiary of an
+            
+723
+
+    
+insurance company licensed pursuant to the laws of any state;
+            
+724
+
+    
+    (ii)  reinsured by a reinsurer authorized or approved by this state; or
+            
+725
+
+    
+    (iii)  subject to Subsection (2)(b), secured by a trust fund:
+            
+726
+
+    
+    (A)  in the United States;
+            
+727
+
+    
+    (B)  for the benefit of policyholders and claimants; and
+            
+728
+
+    
+    (C)  funded by an irrevocable letter of credit or other asset acceptable to the
+            
+729
+
+    
+commissioner.
+            
+730
+
+    
+    (b) (i)  The amount of security provided by the trust fund described in Subsection
+            
+731
+
+    
+(2)(a)(iii) may not be less than the reserves associated with the liabilities of the trust fund,
+            
+732
+
+    
+including:
+            
+733
+
+    
+    (A)  reserves for losses;
+            
+734
+
+    
+    (B)  allocated loss adjustment expenses;
+            
+735
+
+    
+    (C)  incurred but unreported losses; and
+            
+736
+
+    
+    (D)  unearned premiums for business written through the participant's protected cell.
+            
+737
+
+    
+    (ii)  The commissioner may require the sponsored captive insurance company to
+            
+738
+
+    
+increase the funding of a trust established pursuant to this Subsection (2).
+            
+739
+
+    
+    (iii)  If the form of security in the trust described in Subsection (2)(a)(iii) is a letter of
+            
+740
+
+    
+credit, the letter of credit must be established, issued, or confirmed by a bank that is:
+
+            
+741
+
+
+    
+    (A)  chartered in this state;
+            
+742
+
+    
+    (B)  a member of the federal reserve system; or
+            
+743
+
+    
+    (C)  chartered by another state if that state-chartered bank is acceptable to the
+            
+744
+
+    
+commissioner.
+            
+745
+
+    
+    (iv)  A trust and trust instrument maintained pursuant to this Subsection (2) shall be in a
+            
+746
+
+    
+form and upon terms approved by the commissioner.
+            
+747
+
+    
+    (3)  A risk retention group may not be either a sponsor or a participant of a sponsored
+            
+748
+
+    
+captive insurance company.
+            
+749
+
+    
+    Section 10.  
+Section  
+31A-37-403
+
+ is amended to read:
+            
+750
+
+    
+     31A-37-403.  Participants in sponsored captive insurance companies.
+            
+751
+
+    
+    (1)  Any of the following may be a participant in a sponsored captive insurance
+            
+752
+
+    
+company holding a certificate of authority under this chapter:
+            
+753
+
+    
+    (a)  an association;
+            
+754
+
+    
+    (b)  a corporation;
+            
+755
+
+    
+    (c)  a limited liability company;
+            
+756
+
+    
+    (d)  a partnership;
+            
+757
+
+    
+    (e)  a trust; or
+            
+758
+
+    
+    (f)  any other business entity.
+            
+759
+
+    
+    (2)  A sponsor may be a participant in a sponsored captive insurance company.
+            
+760
+
+    
+    (3)  A participant need not be:
+            
+761
+
+    
+    (a)  a shareholder of the sponsored captive insurance company; or
+            
+762
+
+    
+    (b)  an affiliate of the sponsored captive insurance company.
+            
+763
+
+    
+    (4)  A participant shall insure only the participant's own risks through a sponsored
+            
+764
+
+    
+captive insurance company unless otherwise approved by the commissioner.
+            
+765
+
+    
+    Section 11.  
+Section  
+31A-37-404
+
+ is enacted to read:
+            
+766
+
+    
+     31A-37-404.  Discounting of loss and loss adjustment expense reserves.
+            
+767
+
+    
+    (1)  The following may discount its loss and loss adjustment expense reserves at
+            
+768
+
+    
+treasury rates applied to the applicable payments projected through the use of the expected
+            
+769
+
+    
+payment pattern associated with the reserves:
+            
+770
+
+    
+    (a)  a sponsored captive insurance company; and
+            
+771
+
+    
+    (b)  a captive reinsurance company.
+
+            
+772
+
+
+    
+    (2) (a)  The following shall annually file with the department an actuarial opinion
+            
+773
+
+    
+provided by an independent actuary on loss and loss adjustment expense reserves:
+            
+774
+
+    
+    (i)  a sponsored captive insurance company; and
+            
+775
+
+    
+    (ii)  a captive reinsurance company.
+            
+776
+
+    
+    (b)  The independent actuary described in Subsection (2)(a) may not be an employee of:
+            
+777
+
+    
+    (i)  the company filing the actuarial opinion; or
+            
+778
+
+    
+    (ii)  an affiliate of the company filing the actuarial opinion.
+            
+779
+
+    
+    (3)  The commissioner may disallow the discounting of reserves by the following if the
+            
+780
+
+    
+company violates this title:
+            
+781
+
+    
+    (a)  a sponsored captive insurance company; or
+            
+782
+
+    
+    (b)  a captive reinsurance company.
+            
+783
+
+    
+    Section 12.  
+Section  
+31A-37-501
+
+ is amended to read:
+            
+784
+
+    
+     31A-37-501.  Reports to commissioner.
+            
+785
+
+    
+    (1)  A captive insurance company is not required to make any report except those
+            
+786
+
+    
+provided in this chapter.
+            
+787
+
+    
+    (2) (a)  Before March 1 of each year, a captive insurance company shall submit to the
+            
+788
+
+    
+commissioner a report of the financial condition of the captive insurance company, verified by
+            
+789
+
+    
+oath of two of the executive officers of the captive insurance company.
+            
+790
+
+    
+    (b)  Except as provided in Sections 
+
+31A-37-204
+
+ and 
+
+31A-37-205
+
+, a captive insurance
+            
+791
+
+    
+company shall report:
+            
+792
+
+    
+    (i)  unless the commissioner approves the use of statutory accounting principles, using
+            
+793
+
+    
+generally accepted accounting principles;
+            
+794
+
+    
+    (ii)  using any useful or necessary modifications or adaptations to accounting principles
+            
+795
+
+    
+required, approved, or accepted by the commissioner for the type of insurance and kinds of
+            
+796
+
+    
+insurers to be reported upon; and
+            
+797
+
+    
+    (iii)  any supplemental or additional information required by the commissioner.
+            
+798
+
+    
+    (c)  Except as otherwise provided[,]:
+            
+799
+
+    
+    (i)   an association captive insurance company and an industrial insured group shall file
+            
+800
+
+    
+the report required [under this section using the form required by the commissioner under
+            
+801
+
+    
+Section 
+
+31A-37-106.
+
+] by Section 
+
+31A-4-113
+
+; and
+            
+802
+
+    
+    (ii)  each industrial insured group shall comply with Section 
+
+31A-4-113.5
+
+.
+
+            
+803
+
+
+    
+    (3) (a)  A pure captive insurance company may make written application to file the
+            
+804
+
+    
+required report on a fiscal year end that is consistent with the fiscal year of the parent company
+            
+805
+
+    
+of the pure captive insurance company.
+            
+806
+
+    
+    (b)  If the commissioner grants an alternative reporting date for a pure captive insurance
+            
+807
+
+    
+company requested under Subsection (3)(a):
+            
+808
+
+    
+    (i)  the annual report is due 60 days after the fiscal year end; and
+            
+809
+
+    
+    (ii)  the pure captive insurance company shall file before March 1 of each year for each
+            
+810
+
+    
+calendar year end, a report required by the commissioner under Section 
+
+31A-37-106
+
+ to provide
+            
+811
+
+    
+sufficient detail to support the premium tax return of the pure captive insurance company.
+            
+812
+
+    
+    (4) (a)  Sixty days after the fiscal year end, a branch captive insurance company shall
+            
+813
+
+    
+file with the commissioner a copy of all reports and statements required to be filed under the
+            
+814
+
+    
+laws of the jurisdiction in which the [out-of-state] alien captive insurance company is formed,
+            
+815
+
+    
+verified by oath by two of its executive officers.
+            
+816
+
+    
+    (b)  If the commissioner is satisfied that the annual report filed by the [out-of-state]
+            
+817
+
+    
+alien captive insurance company in the jurisdiction in which the [out-of-state] alien captive
+            
+818
+
+    
+insurance company is formed provides adequate information concerning the financial condition
+            
+819
+
+    
+of the [out-of-state] alien captive insurance company, the commissioner may waive the
+            
+820
+
+    
+requirement for completion of the annual statement required for a captive insurance company
+            
+821
+
+    
+under this section with respect to business written in the [out-of-state] alien jurisdiction.
+            
+822
+
+    
+    (c)  A waiver by the commissioner under Subsection (4)(b) shall be:
+            
+823
+
+    
+    (i)  in writing; and
+            
+824
+
+    
+    (ii)  subject to public inspection.
+            
+825
+
+    
+    Section 13.  
+Section  
+31A-37-504
+
+ is amended to read:
+            
+826
+
+    
+     31A-37-504.  Business written by a captive insurance company -- Examinations --
+            
+827
+
+    
+ Application of code provisions.
+            
+828
+
+    
+    (1)  This section applies to all business written by a captive insurance company.
+            
+829
+
+    
+    (2)  Notwithstanding this section, the examination for a branch captive insurance
+            
+830
+
+    
+company shall be of branch business and branch operations only, if the branch captive
+            
+831
+
+    
+insurance company:
+            
+832
+
+    
+    (a)  provides annually to the commissioner a certificate of compliance, or an equivalent,
+            
+833
+
+    
+issued by or filed with the licensing authority of the jurisdiction in which the branch captive
+
+            
+834
+
+
+    
+insurance company is formed; and
+            
+835
+
+    
+    (b)  demonstrates to the commissioner's satisfaction that the branch captive insurance
+            
+836
+
+    
+company is operating in sound financial condition in accordance with all applicable laws and
+            
+837
+
+    
+regulations of the jurisdiction in which the branch captive insurance company is formed.
+            
+838
+
+    
+    (3)  As a condition of obtaining a certificate of authority, an [out-of-state] alien captive
+            
+839
+
+    
+insurance company shall grant authority to the commissioner to examine the affairs of the
+            
+840
+
+    
+[out-of-state] alien captive insurance company in the jurisdiction in which the [out-of-state]
+            
+841
+
+    
+alien captive insurance company is formed.
+            
+842
+
+    
+    (4)  To the extent that the provisions of [Sections 
+
+31A-2-203
+
+, 
+
+31A-2-203.5
+
+, 
+
+31A-2-204
+
+,
+            
+843
+
+    
+and 
+
+31A-2-205
+
+] Chapters 2, 4, 5, 14, 16, 17, 18, 19a, and 27 do not contradict [the provisions
+            
+844
+
+    
+of] this section, [this section applies] these chapters apply to captive insurance companies that
+            
+845
+
+    
+have received a certificate of authority under this chapter.
+            
+846
+
+    
+    Section 14.  
+Section  
+31A-37-601
+
+ is enacted to read:
+            
+847
+
+    
+ Part 6.  Captive Reinsurance Companies
+
+            
+848
+
+    
+     31A-37-601.  Incorporation of a captive reinsurance company.
+            
+849
+
+    
+    (1)  A captive reinsurance company shall be incorporated as a stock insurer with its
+            
+850
+
+    
+capital:
+            
+851
+
+    
+    (a)  divided into shares; and
+            
+852
+
+    
+    (b)  held by the captive reinsurance company's shareholders.
+            
+853
+
+    
+    (2) (a)  A captive reinsurance company may not have fewer than three incorporators.
+            
+854
+
+    
+    (b)  At least two of the incorporators of a captive reinsurance company must be
+            
+855
+
+    
+residents of this state.
+            
+856
+
+    
+    (3) (a)  Before the articles of incorporation are filed with the Division of Corporations
+            
+857
+
+    
+and Commercial Code, the incorporators shall obtain from the commissioner a certificate of
+            
+858
+
+    
+finding that the establishment and maintenance of the proposed corporation promotes the
+            
+859
+
+    
+general good of this state.
+            
+860
+
+    
+    (b)  In considering a request for a certificate under Subsection (3)(a), the commissioner
+            
+861
+
+    
+shall consider:
+            
+862
+
+    
+    (i)  the character, reputation, financial standing, and purposes of the incorporators;
+            
+863
+
+    
+    (ii)  the character, reputation, financial responsibility, insurance experience, and
+            
+864
+
+    
+business qualifications of the officers and directors; and
+
+            
+865
+
+
+    
+    (iii)  other factors the commissioner considers advisable.
+            
+866
+
+    
+    (4)  The capital stock of a captive reinsurance company must be issued at par value or
+            
+867
+
+    
+greater.
+            
+868
+
+    
+    (5)  At least one of the members of the board of directors of a captive reinsurance
+            
+869
+
+    
+company incorporated in this state must be a resident of this state.
+            
+870
+
+    
+    Section 15.  
+Section  
+31A-37-602
+
+ is enacted to read:
+            
+871
+
+    
+     31A-37-602.  Requirements of a captive reinsurance company.
+            
+872
+
+    
+    (1) (a)  If permitted by its articles of incorporation or charter, a captive reinsurance
+            
+873
+
+    
+company may apply to the commissioner for a license to write reinsurance covering:
+            
+874
+
+    
+    (i)  property and casualty insurance; or
+            
+875
+
+    
+    (ii)  reinsurance contracts.
+            
+876
+
+    
+    (b)  A captive reinsurance company authorized by the commissioner may write
+            
+877
+
+    
+reinsurance contracts covering risks in any state.
+            
+878
+
+    
+    (2)  To conduct business in this state, a captive reinsurance company shall:
+            
+879
+
+    
+    (a)  obtain from the commissioner a license authorizing it to conduct business as a
+            
+880
+
+    
+captive reinsurance company in this state;
+            
+881
+
+    
+    (b)  hold at least one board of directors' meeting each year in this state;
+            
+882
+
+    
+    (c)  maintain its principal place of business in this state; and
+            
+883
+
+    
+    (d)  appoint a registered agent to accept service of process and act otherwise on its
+            
+884
+
+    
+behalf in this state.
+            
+885
+
+    
+    (3)  Before receiving a license, a captive reinsurance company shall file with the
+            
+886
+
+    
+commissioner:
+            
+887
+
+    
+    (a)  a certified copy of its:
+            
+888
+
+    
+    (i) (A)  articles of incorporation; or
+            
+889
+
+    
+    (B)  charter; and
+            
+890
+
+    
+    (ii)  bylaws;
+            
+891
+
+    
+    (b)  a statement under oath of its president and secretary showing its financial
+            
+892
+
+    
+condition; and
+            
+893
+
+    
+    (c)  other documents required by the commissioner.
+            
+894
+
+    
+    (4)  In addition to the information required by Subsection (3), the applicant captive
+            
+895
+
+    
+reinsurance company shall file with the commissioner evidence of:
+
+            
+896
+
+
+    
+    (a)  the amount and liquidity of the captive reinsurance company's assets relative to the
+            
+897
+
+    
+risks to be assumed;
+            
+898
+
+    
+    (b)  the adequacy of the expertise, experience, and character of the person who manages
+            
+899
+
+    
+the captive reinsurance company;
+            
+900
+
+    
+    (c)  the overall soundness of the captive reinsurance company's plan of operation; and
+            
+901
+
+    
+    (d)  other overall factors considered relevant by the commissioner in ascertaining if the
+            
+902
+
+    
+proposed captive reinsurance company is able to meet its policy obligations.
+            
+903
+
+    
+    (5) (a)  Notwithstanding Title 63, Chapter 2, Government Records Access and
+            
+904
+
+    
+Management Act, information submitted pursuant to this section is confidential and may not be
+            
+905
+
+    
+made public by the commissioner or an agent or employee of the commissioner without the
+            
+906
+
+    
+written consent of the company, except that:
+            
+907
+
+    
+    (i)  information may be discoverable by a party in a civil action or contested case to
+            
+908
+
+    
+which the submitting captive reinsurance company is a party, upon a showing by the party
+            
+909
+
+    
+seeking to discover the information that:
+            
+910
+
+    
+    (A)  the information sought is relevant to and necessary for the furtherance of the action
+            
+911
+
+    
+or case;
+            
+912
+
+    
+    (B)  the information sought is unavailable from other nonconfidential sources; and
+            
+913
+
+    
+    (C)  a subpoena issued by a judicial or administrative law officer of competent
+            
+914
+
+    
+jurisdiction has been submitted to the commissioner; and
+            
+915
+
+    
+    (ii)  the commissioner may disclose the information to the public officer having
+            
+916
+
+    
+jurisdiction over the regulation of insurance in another state if:
+            
+917
+
+    
+    (A)  the public official agrees in writing to maintain the confidentiality of the
+            
+918
+
+    
+information; and
+            
+919
+
+    
+    (B)  the laws of the state in which the public official serves require the information to
+            
+920
+
+    
+be confidential.
+            
+921
+
+    
+    (b)  This Subsection (5) does not apply to an industrial insured captive reinsurance
+            
+922
+
+    
+company insuring the risks of an industrial insured group.
+            
+923
+
+    
+    Section 16.  
+Section  
+31A-37-603
+
+ is enacted to read:
+            
+924
+
+    
+     31A-37-603.  Minimum capitalization or reserves for a captive reinsurance
+            
+925
+
+    
+ company.
+            
+926
+
+    
+    (1) (a)  The commissioner may not issue a license to a captive reinsurance company
+
+            
+927
+
+
+    
+unless the company possesses and maintains capital or free surplus of not less than the greater
+            
+928
+
+    
+of:
+            
+929
+
+    
+    (i)  $300,000,000; or
+            
+930
+
+    
+    (ii)  10% of the reserves of the captive reinsurance company.
+            
+931
+
+    
+    (b)  The surplus required by this Subsection (1) may be in the form of:
+            
+932
+
+    
+    (i)  cash; or
+            
+933
+
+    
+    (ii)  securities.
+            
+934
+
+    
+    (2)  The commissioner may prescribe additional capital or surplus based upon the type,
+            
+935
+
+    
+volume, and nature of the insurance business transacted.
+            
+936
+
+    
+    (3) (a)  A captive reinsurance company may not pay a dividend out of, or other
+            
+937
+
+    
+distribution with respect to capital or surplus without the prior approval of the commissioner.
+            
+938
+
+    
+    (b)  Approval of an ongoing plan for the payment of dividends or other distributions
+            
+939
+
+    
+shall be conditioned upon the retention at the time of each payment of capital or surplus in
+            
+940
+
+    
+excess of amounts specified by, or determined in accordance with formulas approved by, the
+            
+941
+
+    
+commissioner.
+            
+942
+
+    
+    Section 17.  
+Section  
+31A-37-604
+
+ is enacted to read:
+            
+943
+
+    
+     31A-37-604.  Management of assets of a captive reinsurance company.
+            
+944
+
+    
+    At least 35% of the assets of a captive reinsurance company shall be managed by an
+            
+945
+
+    
+asset manager domiciled in this state.
+
+
+
+
+ Legislative Review Note
+    as of  10-29-03  3:07 PM
+
+This bill has certain residency or in-state requirements.  These requirements might raise issues
+under trade agreements and constitutional principles. These requirements might be challenged
+as violating equal protection, substantive due process, or privileges and immunities because it
+limits a person's ability to be a incorporator or director of the corporation based on residency. 
+However, states may impose such requirements if the requirements are narrowly tailored to
+further a substantial state interest.  These requirements might also be challenged under the
+commerce clause because they favor in-state companies.  In this context, the state may impose
+such restrictions if they further a legitimate local purpose that cannot be adequately served by
+means less restrictive on out-of-state interests.
+
+ Office of Legislative Research and General Counsel
+
+
+
+ Interim Committee Note
+
+    as of 12-10-03 10:09 AM
+
+The Business and Labor Interim Committee recommended this bill.
+[Bill Documents][Bills Directory]
+
+
+
+
+
+
+
+
+
+Who represents me?
+
+
+
+
+
+Remember my Legislators
+
+
+
+
+
+State Senate
+		350 North State, Suite 320
+		PO Box 145115
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1035
+		Fax: (801) 326-1475
+
+
+
+House of Representatives
+		350 North State, Suite 350
+		PO Box 145030
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1029
+		Fax: (801) 326-1544
+
+
+
+
+
+
+
+
+
+
+Home
+Mobile Site
+Site Map
+Calendar
+Code / Constitution
+House
+Senate
+
+Terms of Use/Privacy Policy
+
+ADA
+Utah.gov
+
+
+
+
+
+
+

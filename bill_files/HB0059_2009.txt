@@ -1,0 +1,657 @@
+Sponsors: []Modifications:     77-22-2.5.(1)  As used in this section:(a)  "Internet service provider" has the same definition as in Section 
+
+76-10-1230
+
+.(b)  "Prosecutor" has the same definition as in Section 
+
+77-22-2
+
+.(c)  "Sexual offense against a minor" means sexual exploitation of a minor as defined inSection 
+
+76-5a-3
+
+, attempted sexual exploitation of a minor, or a sexual offense or attemptedsexual offense committed against a minor in violation of Title 76, Chapter 5, Part 4, SexualOffenses.(2)  When a prosecutorial agency is investigating a sexual offense against a minor andhas reasonable cause to believe that an Internet protocol address has been used in thecommission of the offense, the prosecutor may issue a subpoena requiring the production of thefollowing information upon providing in the subpoena the Internet service provider's addressand a date and time the address was used by the account holder:(a)  the existence of an account related to the Internet protocol address on the specifieddate and time;(b)  the opening and closing dates of the account;(c)  the name under which the account is held;(d)  the name, address, and telephone number of the account holder;(e)  any other Internet protocol addresses used by the account holder within the past 90days;(f)  any electronic mail addresses used by the account holder; and(g)  the status of the account concerning any unpaid billing or inactivity.(3)  A subpoena issued under this section shall state that the Internet service providershall produce any records under Subsection (2) that are reasonably relevant to the investigationof a sexual offense against a minor.(4)  An Internet service provider that provides information in response to a subpoenaissued under Subsection (3) may charge a fee for providing the information, but not to exceedthe actual cost for providing the information.(5)  The Internet service provider producing the records may not disclose the subpoenato the subscriber.(6) (a)  Every prosecutorial agency that has issued any subpoenas under this sectionshall prepare a written report at the end of each fiscal year listing the number of administrativesubpoenas issued.(b)  The report shall be submitted to the Utah Commission on Criminal and JuvenileJustice.If approved by two-thirds of all the members elected to each house, this bill takes effectupon approval by the governor, or the day following the constitutional time limit of UtahConstitution Article VII, Section 8, without the governor's signature, or in the case of a veto,the date of veto override.Full text:
+
+
+
+Utah State Legislature
+
+
+
+
+
+
+
+
+
+
+
+
+Legislators
+
+By Session (1896-Current)
+Alphabetical (Historical)
+Find by Address/Map
+More
+
+
+Bills
+
+Bills/Bill Requests
+Passed Bills
+2017 Bills
+
+Keyword Search
+Reading Calendars
+Tracking Service
+More
+
+
+Committees
+
+All Committees
+Appropriations
+Commissions
+
+Independent Legislative Ethics Commission
+Interim
+Standing
+Subcommittees
+Task Forces
+Bills In Committees
+
+
+Utah Code / Constitution
+
+
+Title/Chapter/Section
+Keyword Search 
+
+Utah Constitution
+Laws of Utah 1851-ongoing
+Utah Territorial Laws 
+More
+
+
+Senate
+
+Main Page 
+About The Senate 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Extraordinary Sessions 
+Reading Calendars 
+Past Floor Debates 
+Senate Journals 
+
+
+House
+
+Main Page
+About the House 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Reading Calendars 
+Past Floor Debates 
+Journals 
+Conflict of Interest Forms 
+
+
+Legislative Guide 
+
+Legislative Guide
+Civic Programs
+GRAMA (Records Requests)
+
+
+Publications
+
+Search Publications
+Appropriations
+Audits
+Bagels & Briefings
+Briefing Papers
+Digest of Legislation
+Legislative Drafting Manual
+
+Journals
+
+Interim Highlights
+
+Legislative Rules
+GRAMA (Records Requests)
+Public Email
+State Organization Charts
+YouTube Channel
+Requests for Proposals and Legal Notices
+More
+
+
+Legislative Histories
+
+Legislative History Resources
+How to Research
+Bill Drafting/Research Files (1990-Ongoing)
+
+Working Bills (1896-1989)
+Interim Committee Histories (1990-Ongoing) 
+Journals
+Past House Floor Debates
+Past Senate Floor Debates
+More
+
+
+Staff Offices
+
+All Legislative Offices
+Auditor General
+Fiscal Analyst
+Printing
+Research and General Counsel
+Staff Awards
+Job Opportunities
+More
+
+
+Links of Interest
+
+Utah Administrative Rules
+Courts
+Utah State Capitol
+State of Utah
+Federal Legislation
+More
+
+
+
+
+
+
+ 
+
+Download Zipped Introduced WordPerfect HB0059.ZIP
+[Status][Bill Documents][Fiscal Note][Bills Directory]
+
+
+H.B. 59
+
+
+
+
+
+            
+1
+
+    
+ SUBPOENAS FOR RECORDS IN CERTAIN
+
+            
+2
+
+    
+ CRIMINAL INVESTIGATIONS
+
+
+
+            
+3
+
+    
+2009 GENERAL SESSION
+
+            
+4
+
+    
+STATE OF UTAH
+
+            
+5
+
+    
+
+
+ Chief Sponsor:  Bradley M. Daw
+
+
+
+            
+6
+
+    
+
+
+
+Senate Sponsor:  
+
+
+
+
+
+
+____________
+
+
+
+
+
+            
+7
+
+    
+
+            
+8
+
+    
+ LONG TITLE
+            
+9
+
+    
+ Committee Note:
+            
+10
+
+    
+    The Law Enforcement and Criminal Justice Interim Committee recommended this bill.
+            
+11
+
+    
+ General Description:
+            
+12
+
+    
+    This bill modifies the Criminal Code to allow investigative subpoenas of Internet
+            
+13
+
+    
+service providers in the investigation of sexual offenses against minors.
+            
+14
+
+    
+ Highlighted Provisions:
+            
+15
+
+    
+    This bill:
+            
+16
+
+    
+    .    allows prosecutors to issue subpoenas for information regarding the Internet
+            
+17
+
+    
+information related to the investigation of a sexual offense against a minor;
+            
+18
+
+    
+    .    specifies the information that can be subpoenaed;
+            
+19
+
+    
+    .    allows the provider to charge a reasonable fee for providing the information; and
+            
+20
+
+    
+    .    provides definitions.
+            
+21
+
+    
+ Monies Appropriated in this Bill:
+            
+22
+
+    
+    None
+            
+23
+
+    
+ Other Special Clauses:
+            
+24
+
+    
+    This bill provides an immediate effective date.
+            
+25
+
+    
+ Utah Code Sections Affected:
+            
+26
+
+    
+ENACTS:
+            
+27
+
+    
+     77-22-2.5, Utah Code Annotated 1953
+
+            
+28
+
+
+    
+
+            
+29
+
+    
+Be it enacted by the Legislature of the state of Utah:
+            
+30
+
+    
+    Section 1.  
+Section  
+77-22-2.5
+
+ is enacted to read:
+            
+31
+
+    
+     77-22-2.5.  Subpoenas for investigation of Internet sexual offenses against minors.
+            
+32
+
+    
+    (1)  As used in this section:
+            
+33
+
+    
+    (a)  "Internet service provider" has the same definition as in Section 
+
+76-10-1230
+
+.
+            
+34
+
+    
+    (b)  "Prosecutor" has the same definition as in Section 
+
+77-22-2
+
+.
+            
+35
+
+    
+    (c)  "Sexual offense against a minor" means sexual exploitation of a minor as defined in
+            
+36
+
+    
+Section 
+
+76-5a-3
+
+, attempted sexual exploitation of a minor, or a sexual offense or attempted
+            
+37
+
+    
+sexual offense committed against a minor in violation of Title 76, Chapter 5, Part 4, Sexual
+            
+38
+
+    
+Offenses.
+            
+39
+
+    
+    (2)  When a prosecutorial agency is investigating a sexual offense against a minor and
+            
+40
+
+    
+has reasonable cause to believe that an Internet protocol address has been used in the
+            
+41
+
+    
+commission of the offense, the prosecutor may issue a subpoena requiring the production of the
+            
+42
+
+    
+following information upon providing in the subpoena the Internet service provider's address
+            
+43
+
+    
+and a date and time the address was used by the account holder:
+            
+44
+
+    
+    (a)  the existence of an account related to the Internet protocol address on the specified
+            
+45
+
+    
+date and time;
+            
+46
+
+    
+    (b)  the opening and closing dates of the account;
+            
+47
+
+    
+    (c)  the name under which the account is held;
+            
+48
+
+    
+    (d)  the name, address, and telephone number of the account holder;
+            
+49
+
+    
+    (e)  any other Internet protocol addresses used by the account holder within the past 90
+            
+50
+
+    
+days;
+            
+51
+
+    
+    (f)  any electronic mail addresses used by the account holder; and
+            
+52
+
+    
+    (g)  the status of the account concerning any unpaid billing or inactivity.
+            
+53
+
+    
+    (3)  A subpoena issued under this section shall state that the Internet service provider
+            
+54
+
+    
+shall produce any records under Subsection (2) that are reasonably relevant to the investigation
+            
+55
+
+    
+of a sexual offense against a minor.
+            
+56
+
+    
+    (4)  An Internet service provider that provides information in response to a subpoena
+            
+57
+
+    
+issued under Subsection (3) may charge a fee for providing the information, but not to exceed
+            
+58
+
+    
+the actual cost for providing the information.
+
+            
+59
+
+
+    
+    (5)  The Internet service provider producing the records may not disclose the subpoena
+            
+60
+
+    
+to the subscriber.
+            
+61
+
+    
+    (6) (a)  Every prosecutorial agency that has issued any subpoenas under this section
+            
+62
+
+    
+shall prepare a written report at the end of each fiscal year listing the number of administrative
+            
+63
+
+    
+subpoenas issued.
+            
+64
+
+    
+    (b)  The report shall be submitted to the Utah Commission on Criminal and Juvenile
+            
+65
+
+    
+Justice.
+            
+66
+
+    
+    Section 2.   Effective date.
+            
+67
+
+    
+    If approved by two-thirds of all the members elected to each house, this bill takes effect
+            
+68
+
+    
+upon approval by the governor, or the day following the constitutional time limit of Utah
+            
+69
+
+    
+Constitution Article VII, Section 8, without the governor's signature, or in the case of a veto,
+            
+70
+
+    
+the date of veto override.
+
+
+
+
+ Legislative Review Note
+    as of  11-20-08  8:49 AM
+
+ Office of Legislative Research and General Counsel
+[Bill Documents][Bills Directory]
+
+
+
+
+
+
+
+
+
+Who represents me?
+
+
+
+
+
+Remember my Legislators
+
+
+
+
+
+State Senate
+		350 North State, Suite 320
+		PO Box 145115
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1035
+		Fax: (801) 326-1475
+
+
+
+House of Representatives
+		350 North State, Suite 350
+		PO Box 145030
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1029
+		Fax: (801) 326-1544
+
+
+
+
+
+
+
+
+
+
+Home
+Mobile Site
+Site Map
+Calendar
+Code / Constitution
+House
+Senate
+
+Terms of Use/Privacy Policy
+
+ADA
+Utah.gov
+
+
+
+
+
+
+

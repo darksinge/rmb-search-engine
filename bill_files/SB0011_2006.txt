@@ -1,0 +1,2998 @@
+Sponsors: []Modifications: ,Governing Body
+
+10-3-101
+
+
+
+10-3-101
+
+(2)(a)(ii)with the reason for the rejection placed in theblank.with the reason for the rejection placed in theblank., except that when March 1 is a Saturday or Sunday, thecertification deadline shall be extended until 5 p.m. on the following regular business day, except thatwhen May 13 is a Saturday or Sunday, the certification deadline shall be extended until 5 p.m.on the following regular business day, except that when May 13 is a Saturday orSunday, the certification deadline shall be extended until 5 p.m. on the following regularbusiness dayor by 5 p.m. on the followingregular business day if May 16 is a Saturday or Sunday,, except that when May 30 is a Saturday orSunday, the submission deadline shall be extended until 5 p.m. on the following regularbusiness day, or by the following regular business day if September 3 is a Saturdayor Sundayelection
+
+10-3-101
+
+
+
+10-3-101
+
+Full text:
+
+
+
+Utah State Legislature
+
+
+
+
+
+
+
+
+
+
+
+
+Legislators
+
+By Session (1896-Current)
+Alphabetical (Historical)
+Find by Address/Map
+More
+
+
+Bills
+
+Bills/Bill Requests
+Passed Bills
+2017 Bills
+
+Keyword Search
+Reading Calendars
+Tracking Service
+More
+
+
+Committees
+
+All Committees
+Appropriations
+Commissions
+
+Independent Legislative Ethics Commission
+Interim
+Standing
+Subcommittees
+Task Forces
+Bills In Committees
+
+
+Utah Code / Constitution
+
+
+Title/Chapter/Section
+Keyword Search 
+
+Utah Constitution
+Laws of Utah 1851-ongoing
+Utah Territorial Laws 
+More
+
+
+Senate
+
+Main Page 
+About The Senate 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Extraordinary Sessions 
+Reading Calendars 
+Past Floor Debates 
+Senate Journals 
+
+
+House
+
+Main Page
+About the House 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Reading Calendars 
+Past Floor Debates 
+Journals 
+Conflict of Interest Forms 
+
+
+Legislative Guide 
+
+Legislative Guide
+Civic Programs
+GRAMA (Records Requests)
+
+
+Publications
+
+Search Publications
+Appropriations
+Audits
+Bagels & Briefings
+Briefing Papers
+Digest of Legislation
+Legislative Drafting Manual
+
+Journals
+
+Interim Highlights
+
+Legislative Rules
+GRAMA (Records Requests)
+Public Email
+State Organization Charts
+YouTube Channel
+Requests for Proposals and Legal Notices
+More
+
+
+Legislative Histories
+
+Legislative History Resources
+How to Research
+Bill Drafting/Research Files (1990-Ongoing)
+
+Working Bills (1896-1989)
+Interim Committee Histories (1990-Ongoing) 
+Journals
+Past House Floor Debates
+Past Senate Floor Debates
+More
+
+
+Staff Offices
+
+All Legislative Offices
+Auditor General
+Fiscal Analyst
+Printing
+Research and General Counsel
+Staff Awards
+Job Opportunities
+More
+
+
+Links of Interest
+
+Utah Administrative Rules
+Courts
+Utah State Capitol
+State of Utah
+Federal Legislation
+More
+
+
+
+
+
+
+ 
+
+Download Zipped Enrolled WordPerfect SB0011.ZIP
+[Introduced][Status][Bill Documents][Fiscal Note][Bills Directory]
+
+
+S.B. 11 Enrolled
+
+
+
+
+
+            
+1
+
+    
+ ELECTION CODE REVISIONS
+
+
+
+            
+2
+
+    
+2006 GENERAL SESSION
+
+            
+3
+
+    
+STATE OF UTAH
+
+            
+4
+
+    
+
+
+ Chief Sponsor:  Parley G. Hellewell
+
+
+
+            
+5
+
+    
+
+
+
+House Sponsor:  
+
+
+
+
+
+
+Douglas C. Aagard
+
+
+
+
+
+            
+6
+
+    
+
+            
+7
+
+    
+ LONG TITLE
+            
+8
+
+    
+ General Description:
+            
+9
+
+    
+    This bill amends the Election Code and related provisions to correct technical errors
+            
+10
+
+    
+and clarify existing law.
+            
+11
+
+    
+ Highlighted Provisions:
+            
+12
+
+    
+    This bill:
+            
+13
+
+    
+    .    removes obsolete terms;
+            
+14
+
+    
+    .    corrects cross-references;
+            
+15
+
+    
+    .    clarifies what information election judges should enter on defective ballot
+            
+16
+
+    
+envelopes;
+            
+17
+
+    
+    .    clarifies that certain election filing deadlines should be extended when the deadline
+            
+18
+
+    
+falls on a weekend; and 
+            
+19
+
+    
+    .    makes technical corrections.
+            
+20
+
+    
+ Monies Appropriated in this Bill:
+            
+21
+
+    
+    None
+            
+22
+
+    
+ Other Special Clauses:
+            
+23
+
+    
+    None
+            
+24
+
+    
+ Utah Code Sections Affected:
+            
+25
+
+    
+AMENDS:
+            
+26
+
+    
+     20A-1-102, as last amended by Chapter 105, Laws of Utah 2005
+            
+27
+
+    
+     20A-1-506, as enacted by Chapter 1, Laws of Utah 1993
+            
+28
+
+    
+     20A-3-410, as last amended by Chapter 2, Laws of Utah 1994
+            
+29
+
+    
+     20A-9-403, as last amended by Chapter 146, Laws of Utah 2004
+
+            
+30
+
+
+    
+     20A-11-508, as repealed and reenacted by Chapter 355, Laws of Utah 1997
+            
+31
+
+    
+     78-5-134, as last amended by Chapter 71, Laws of Utah 2001
+            
+32
+
+    
+
+            
+33
+
+    
+Be it enacted by the Legislature of the state of Utah:
+            
+34
+
+    
+    Section 1.  
+Section  
+20A-1-102
+
+ is amended to read:
+            
+35
+
+    
+     20A-1-102.  Definitions.
+            
+36
+
+    
+    As used in this title:
+            
+37
+
+    
+    (1)  "Active voter" means a registered voter who has not been classified as an inactive
+            
+38
+
+    
+voter by the county clerk.
+            
+39
+
+    
+    (2)  "Automatic tabulating equipment" means apparatus that automatically examines
+            
+40
+
+    
+and counts votes recorded on paper ballots or ballot cards and tabulates the results.
+            
+41
+
+    
+    (3)  "Ballot" means the cardboard, paper, or other material upon which a voter records
+            
+42
+
+    
+his votes and includes ballot cards, paper ballots, and secrecy envelopes.
+            
+43
+
+    
+    (4)  "Ballot card" means a ballot that can be counted using automatic tabulating
+            
+44
+
+    
+equipment.
+            
+45
+
+    
+    (5)  "Ballot label" means the cards, papers, booklet, pages, or other materials that
+            
+46
+
+    
+contain the names of offices and candidates and statements of ballot propositions to be voted
+            
+47
+
+    
+on and which are used in conjunction with ballot cards.
+            
+48
+
+    
+    (6)  "Ballot proposition" means opinion questions specifically authorized by the
+            
+49
+
+    
+Legislature, constitutional amendments, initiatives, referenda, and judicial retention questions
+            
+50
+
+    
+that are submitted to the voters for their approval or rejection.
+            
+51
+
+    
+    (7)  "Board of canvassers" means the entities established by Sections 
+
+20A-4-301
+
+ and
+            
+52
+
+    
+
+20A-4-306
+
+ to canvass election returns.
+            
+53
+
+    
+    (8)  "Bond election" means an election held for the purpose of approving or rejecting
+            
+54
+
+    
+the proposed issuance of bonds by a government entity.
+            
+55
+
+    
+    (9)  "Book voter registration form" means voter registration forms contained in a bound
+            
+56
+
+    
+book that are used by election officers and registration agents to register persons to vote.
+            
+57
+
+    
+    (10)  "By-mail voter registration form" means a voter registration form designed to be
+
+            
+58
+
+
+    
+completed by the voter and mailed to the election officer.
+            
+59
+
+    
+    (11)  "Canvass" means the review of election returns and the official declaration of
+            
+60
+
+    
+election results by the board of canvassers.
+            
+61
+
+    
+    (12)  "Canvassing judge" means an election judge designated to assist in counting
+            
+62
+
+    
+ballots at the canvass.
+            
+63
+
+    
+    (13)  "Convention" means the political party convention at which party officers and
+            
+64
+
+    
+delegates are selected.
+            
+65
+
+    
+    (14)  "Counting center" means one or more locations selected by the election officer in
+            
+66
+
+    
+charge of the election for the automatic counting of ballots.
+            
+67
+
+    
+    (15)  "Counting judge" means a judge designated to count the ballots during election
+            
+68
+
+    
+day.
+            
+69
+
+    
+    (16)  "Counting poll watcher" means a person selected as provided in Section
+            
+70
+
+    
+
+20A-3-201
+
+ to witness the counting of ballots.
+            
+71
+
+    
+    (17)  "Counting room" means a suitable and convenient private place or room,
+            
+72
+
+    
+immediately adjoining the place where the election is being held, for use by the counting
+            
+73
+
+    
+judges to count ballots during election day.
+            
+74
+
+    
+    (18)  "County executive" has the meaning as provided in Subsection 
+
+68-3-12
+
+(2).
+            
+75
+
+    
+    (19)  "County legislative body" has the meaning as provided in Subsection 
+
+68-3-12
+
+(2).
+            
+76
+
+    
+    (20)  "County officers" means those county officers that are required by law to be
+            
+77
+
+    
+elected.
+            
+78
+
+    
+    (21)  "Election" means a regular general election, a municipal general election, a
+            
+79
+
+    
+statewide special election, a local special election, a regular primary election, a municipal
+            
+80
+
+    
+primary election, and a special district election.
+            
+81
+
+    
+    (22)  "Election Assistance Commission" means the commission established by Public
+            
+82
+
+    
+Law 107-252, the Help America Vote Act of 2002.
+            
+83
+
+    
+    (23)  "Election cycle" means the period beginning on the first day persons are eligible to
+            
+84
+
+    
+file declarations of candidacy and ending when the canvass is completed.
+            
+85
+
+    
+    (24)  "Election judge" means each canvassing judge, counting judge, and receiving
+
+            
+86
+
+
+    
+judge.
+            
+87
+
+    
+    (25)  "Election officer" means:
+            
+88
+
+    
+    (a)  the lieutenant governor, for all statewide ballots;
+            
+89
+
+    
+    (b)  the county clerk or clerks for all county ballots and for certain ballots and elections
+            
+90
+
+    
+as provided in Section 
+
+20A-5-400.5
+
+;
+            
+91
+
+    
+    (c)  the municipal clerk for all municipal ballots and for certain ballots and elections as
+            
+92
+
+    
+provided in Section 
+
+20A-5-400.5
+
+;
+            
+93
+
+    
+    (d)  the special district clerk or chief executive officer for certain ballots and elections
+            
+94
+
+    
+as provided in Section 
+
+20A-5-400.5
+
+; and
+            
+95
+
+    
+    (e)  the business administrator or superintendent of a school district for certain ballots
+            
+96
+
+    
+or elections as provided in Section 
+
+20A-5-400.5
+
+.
+            
+97
+
+    
+    (26)  "Election official" means any election officer, election judge, or satellite registrar.
+            
+98
+
+    
+    (27)  "Election results" means, for bond elections, the count of those votes cast for and
+            
+99
+
+    
+against the bond proposition plus any or all of the election returns that the board of canvassers
+            
+100
+
+    
+may request.
+            
+101
+
+    
+    (28)  "Election returns" includes the pollbook, all affidavits of registration, the military
+            
+102
+
+    
+and overseas absentee voter registration and voting certificates, one of the tally sheets, any
+            
+103
+
+    
+unprocessed absentee ballots, all counted ballots, all excess ballots, all unused ballots, all
+            
+104
+
+    
+spoiled ballots, the ballot disposition form, and the total votes cast form.
+            
+105
+
+    
+    (29)  "Electronic voting system" means a system in which a voting device is used in
+            
+106
+
+    
+conjunction with ballots so that votes recorded by the voter are counted and tabulated by
+            
+107
+
+    
+automatic tabulating equipment.
+            
+108
+
+    
+    (30)  "Inactive voter" means a registered voter who has been sent the notice required by
+            
+109
+
+    
+Section 
+
+20A-2-306
+
+ and who has failed to respond to that notice.
+            
+110
+
+    
+    (31)  "Inspecting poll watcher" means a person selected as provided in this title to
+            
+111
+
+    
+witness the receipt and safe deposit of voted and counted ballots.
+            
+112
+
+    
+    (32)  "Judicial office" means the office filled by any judicial officer.
+            
+113
+
+    
+    (33)  "Judicial officer" means any justice or judge of a court of record or any county
+
+            
+114
+
+
+    
+court judge.
+            
+115
+
+    
+    (34)  "Local election" means a regular municipal election, a local special election, a
+            
+116
+
+    
+special district election, and a bond election.
+            
+117
+
+    
+    (35)  "Local political subdivision" means a county, a municipality, a special district, or
+            
+118
+
+    
+a local school district.
+            
+119
+
+    
+    (36)  "Local special election" means a special election called by the governing body of a
+            
+120
+
+    
+local political subdivision in which all registered voters of the local political subdivision may
+            
+121
+
+    
+vote.
+            
+122
+
+    
+    (37)  "Municipal executive" means:
+            
+123
+
+    
+    (a)  the [city commission,] city council[,] or town council in the traditional management
+            
+124
+
+    
+arrangement established by Title 10, Chapter 3, Part 1, Governing Body;
+            
+125
+
+    
+    (b)  the mayor in the council-mayor optional form of government defined in Section
+            
+126
+
+    
+
+10-3-101
+
+; and
+            
+127
+
+    
+    (c)  the manager in the council-manager optional form of government defined in
+            
+128
+
+    
+Section 
+
+10-3-101
+
+.
+            
+129
+
+    
+    (38)  "Municipal general election" means the election held in municipalities and special
+            
+130
+
+    
+districts on the first Tuesday after the first Monday in November of each odd-numbered year
+            
+131
+
+    
+for the purposes established in Section 
+
+20A-1-202
+
+.
+            
+132
+
+    
+    (39)  "Municipal legislative body" means:
+            
+133
+
+    
+    (a)  the [city commission,] city council[,] or town council in the traditional management
+            
+134
+
+    
+arrangement established by Title 10, Chapter 3, Part 1, Governing Body;
+            
+135
+
+    
+    (b)  the municipal council in the council-mayor optional form of government defined in
+            
+136
+
+    
+Section 
+
+10-3-101
+
+; and
+            
+137
+
+    
+    (c)  the municipal council in the council-manager optional form of government defined
+            
+138
+
+    
+in Section 
+
+10-3-101
+
+.
+            
+139
+
+    
+    (40)  "Municipal officers" means those municipal officers that are required by law to be
+            
+140
+
+    
+elected.
+            
+141
+
+    
+    (41)  "Municipal primary election" means an election held to nominate candidates for
+
+            
+142
+
+
+    
+municipal office.
+            
+143
+
+    
+    (42)  "Official ballot" means the ballots distributed by the election officer to the election
+            
+144
+
+    
+judges to be given to voters to record their votes.
+            
+145
+
+    
+    (43)  "Official endorsement" means:
+            
+146
+
+    
+    (a)  the information on the ballot that identifies:
+            
+147
+
+    
+    (i)  the ballot as an official ballot;
+            
+148
+
+    
+    (ii)  the date of the election; and
+            
+149
+
+    
+    (iii)  the facsimile signature of the election officer; and
+            
+150
+
+    
+    (b)  the information on the ballot stub that identifies:
+            
+151
+
+    
+    (i)  the election judge's initials; and
+            
+152
+
+    
+    (ii)  the ballot number.
+            
+153
+
+    
+    (44)  "Official register" means the book furnished election officials by the election
+            
+154
+
+    
+officer that contains the information required by Section 
+
+20A-5-401
+
+.
+            
+155
+
+    
+    (45)  "Paper ballot" means a paper that contains:
+            
+156
+
+    
+    (a)  the names of offices and candidates and statements of ballot propositions to be
+            
+157
+
+    
+voted on; and
+            
+158
+
+    
+    (b)  spaces for the voter to record his vote for each office and for or against each ballot
+            
+159
+
+    
+proposition.
+            
+160
+
+    
+    (46)  "Political party" means an organization of registered voters that has qualified to
+            
+161
+
+    
+participate in an election by meeting the requirements of Title 20A, Chapter 8, Political Party
+            
+162
+
+    
+Formation and Procedures.
+            
+163
+
+    
+    (47)  "Polling place" means the building where residents of a voting precinct vote or
+            
+164
+
+    
+where absentee voting is conducted.
+            
+165
+
+    
+    (48)  "Position" means a square, circle, rectangle, or other geometric shape on a ballot
+            
+166
+
+    
+in which the voter marks his choice.
+            
+167
+
+    
+    (49)  "Posting list" means a list of registered voters within a voting precinct.
+            
+168
+
+    
+    (50)  "Proof of identity" means some form of photo identification, such as a driver
+            
+169
+
+    
+license or identification card, that establishes a person's identity.
+
+            
+170
+
+
+    
+    (51)  "Proof of residence" means some official document or form, such as a driver
+            
+171
+
+    
+license or utility bill that establishes a person's residence.
+            
+172
+
+    
+    (52)  "Provisional ballot" means a ballot voted provisionally by a person:
+            
+173
+
+    
+    (a)  whose name is not listed on the official register at the polling place; or
+            
+174
+
+    
+    (b)  whose legal right to vote is challenged as provided in this title.
+            
+175
+
+    
+    (53)  "Provisional ballot envelope" means an envelope printed in the form required by
+            
+176
+
+    
+Section 
+
+20A-6-105
+
+ that is used to identify provisional ballots and to provide information to
+            
+177
+
+    
+verify a person's legal right to vote.
+            
+178
+
+    
+    (54)  "Primary convention" means the political party conventions at which nominees for
+            
+179
+
+    
+the regular primary election are selected.
+            
+180
+
+    
+    (55)  "Protective counter" means a separate counter, which cannot be reset, that is built
+            
+181
+
+    
+into a voting machine and records the total number of movements of the operating lever.
+            
+182
+
+    
+    (56)  "Qualify" or "qualified" means to take the oath of office and begin performing the
+            
+183
+
+    
+duties of the position for which the person was elected.
+            
+184
+
+    
+    (57)  "Receiving judge" means the election judge that checks the voter's name in the
+            
+185
+
+    
+official register, provides the voter with a ballot, and removes the ballot stub from the ballot
+            
+186
+
+    
+after the voter has voted.
+            
+187
+
+    
+    (58)  "Registration days" means the days designated in Section 
+
+20A-2-203
+
+ when a voter
+            
+188
+
+    
+may register to vote with a satellite registrar.
+            
+189
+
+    
+    (59)  "Registration form" means a book voter registration form and a by-mail voter
+            
+190
+
+    
+registration form.
+            
+191
+
+    
+    (60) "Regular ballot" means a ballot that is not a provisional ballot.
+            
+192
+
+    
+    (61)  "Regular general election" means the election held throughout the state on the first
+            
+193
+
+    
+Tuesday after the first Monday in November of each even-numbered year for the purposes
+            
+194
+
+    
+established in Section 
+
+20A-1-201
+
+.
+            
+195
+
+    
+    (62)  "Regular primary election" means the election on the fourth Tuesday of June of
+            
+196
+
+    
+each even-numbered year, at which candidates of political parties and nonpolitical groups are
+            
+197
+
+    
+voted for nomination.
+
+            
+198
+
+
+    
+    (63)  "Resident" means a person who resides within a specific voting precinct in Utah.
+            
+199
+
+    
+    (64)  "Sample ballot" means a mock ballot similar in form to the official ballot printed
+            
+200
+
+    
+and distributed as provided in Section 
+
+20A-5-405
+
+.
+            
+201
+
+    
+    (65)  "Satellite registrar" means a person appointed under Section 
+
+20A-5-201
+
+ to register
+            
+202
+
+    
+voters and perform other duties.
+            
+203
+
+    
+    (66)  "Scratch vote" means to mark or punch the straight party ticket and then mark or
+            
+204
+
+    
+punch the ballot for one or more candidates who are members of different political parties.
+            
+205
+
+    
+    (67)  "Secrecy envelope" means the envelope given to a voter along with the ballot into
+            
+206
+
+    
+which the voter places the ballot after he has voted it in order to preserve the secrecy of the
+            
+207
+
+    
+voter's vote.
+            
+208
+
+    
+    (68)  "Special district" means those local government entities created under the
+            
+209
+
+    
+authority of Title 17A.
+            
+210
+
+    
+    (69)  "Special district officers" means those special district officers that are required by
+            
+211
+
+    
+law to be elected.
+            
+212
+
+    
+    (70)  "Special election" means an election held as authorized by Section 
+
+20A-1-204
+
+.
+            
+213
+
+    
+    (71)  "Spoiled ballot" means each ballot that:
+            
+214
+
+    
+    (a)  is spoiled by the voter;
+            
+215
+
+    
+    (b)  is unable to be voted because it was spoiled by the printer or the election judge; or
+            
+216
+
+    
+    (c)  lacks the official endorsement.
+            
+217
+
+    
+    (72)  "Statewide special election" means a special election called by the governor or the
+            
+218
+
+    
+Legislature in which all registered voters in Utah may vote.
+            
+219
+
+    
+    (73)  "Stub" means the detachable part of each ballot.
+            
+220
+
+    
+    (74)  "Substitute ballots" means replacement ballots provided by an election officer to
+            
+221
+
+    
+the election judges when the official ballots are lost or stolen.
+            
+222
+
+    
+    (75)  "Ticket" means each list of candidates for each political party or for each group of
+            
+223
+
+    
+petitioners.
+            
+224
+
+    
+    (76)  "Transfer case" means the sealed box used to transport voted ballots to the
+            
+225
+
+    
+counting center.
+
+            
+226
+
+
+    
+    (77)  "Vacancy" means the absence of a person to serve in any position created by
+            
+227
+
+    
+statute, whether that absence occurs because of death, disability, disqualification, resignation,
+            
+228
+
+    
+or other cause.
+            
+229
+
+    
+    (78)  "Valid write-in candidate" means a candidate who has qualified as a write-in
+            
+230
+
+    
+candidate by following the procedures and requirements of this title.
+            
+231
+
+    
+    (79)  "Voter" means a person who meets the requirements for voting in an election,
+            
+232
+
+    
+meets the requirements of election registration, is registered to vote, and is listed in the official
+            
+233
+
+    
+register book.
+            
+234
+
+    
+    (80)  "Voting area" means the area within six feet of the voting booths, voting
+            
+235
+
+    
+machines, and ballot box.
+            
+236
+
+    
+    (81)  "Voting booth" means the space or compartment within a polling place that is
+            
+237
+
+    
+provided for the preparation of ballots and includes the voting machine enclosure or curtain.
+            
+238
+
+    
+    (82)  "Voting device" means:
+            
+239
+
+    
+    (a)  an apparatus in which ballot cards are used in connection with a punch device for
+            
+240
+
+    
+piercing the ballots by the voter;
+            
+241
+
+    
+    (b)  a device for marking the ballots with ink or another substance; or
+            
+242
+
+    
+    (c)  any other method for recording votes on ballots so that the ballot may be tabulated
+            
+243
+
+    
+by means of automatic tabulating equipment.
+            
+244
+
+    
+    (83)  "Voting machine" means a machine designed for the sole purpose of recording
+            
+245
+
+    
+and tabulating votes cast by voters at an election.
+            
+246
+
+    
+    (84)  "Voting poll watcher" means a person appointed as provided in this title to
+            
+247
+
+    
+witness the distribution of ballots and the voting process.
+            
+248
+
+    
+    (85)  "Voting precinct" means the smallest voting unit established as provided by law
+            
+249
+
+    
+within which qualified voters vote at one polling place.
+            
+250
+
+    
+    (86)  "Watcher" means a voting poll watcher, a counting poll watcher, and an inspecting
+            
+251
+
+    
+poll watcher.
+            
+252
+
+    
+    (87)  "Western States Presidential Primary" means the election established in Title 20A,
+            
+253
+
+    
+Chapter 9, Part 8.
+
+            
+254
+
+
+    
+    (88)  "Write-in ballot" means a ballot containing any write-in votes.
+            
+255
+
+    
+    (89)  "Write-in vote" means a vote cast for a person whose name is not printed on the
+            
+256
+
+    
+ballot according to the procedures established in this title.
+            
+257
+
+    
+    Section 2.  
+Section  
+20A-1-506
+
+ is amended to read:
+            
+258
+
+    
+     20A-1-506.  Judicial vacancies -- Courts not of record.
+            
+259
+
+    
+    (1)  As used in this section:
+            
+260
+
+    
+    (a)  "Appointing authority" means:
+            
+261
+
+    
+    (i)  the chair of the county commission in counties having the county commission form
+            
+262
+
+    
+of county government;
+            
+263
+
+    
+    (ii)  the county executive in counties having the county executive-council form of
+            
+264
+
+    
+government;
+            
+265
+
+    
+    (iii)  the chair of the [city commission,] city council[,] or town council in municipalities
+            
+266
+
+    
+having:
+            
+267
+
+    
+    (A)  the traditional management arrangement established by Title 10, Chapter 3, Part 1,
+            
+268
+
+    
+Governing Body; and
+            
+269
+
+    
+    (B)  the council-manager optional form of government defined in Section [
+
+10-3-1209
+
+]
+            
+270
+
+    
+
+
+10-3-101
+
+; and
+            
+271
+
+    
+    (iv)  the mayor, in the council-mayor optional form of government defined in Section
+            
+272
+
+    
+[
+
+10-3-1209
+
+] 
+
+10-3-101
+
+;
+            
+273
+
+    
+    (b)  "Local legislative body" means:
+            
+274
+
+    
+    (i)  the county commission or county council; and
+            
+275
+
+    
+    (ii)  the [city commission,] city council[,] or town council.
+            
+276
+
+    
+    (2) (a)  If a vacancy occurs in the office of a municipal justice court judge before the
+            
+277
+
+    
+completion of his term of office, the appointing authority may:
+            
+278
+
+    
+    (i)  fill the vacancy by appointment for the unexpired term by following the procedures
+            
+279
+
+    
+and requirements for appointments in Section 
+
+78-5-134
+
+; or
+            
+280
+
+    
+    (ii)  contract with a justice court judge of the county, an adjacent county, or another
+            
+281
+
+    
+municipality within those counties for judicial services.
+
+            
+282
+
+
+    
+    (b)  When the appointing authority chooses to contract under Subsection [(1)] (2)(a)(ii),
+            
+283
+
+    
+it shall ensure that the contract is for the same term as the term of office of the judge whose
+            
+284
+
+    
+services are replaced by the contract.
+            
+285
+
+    
+    (c)  The appointing authority shall notify the Office of the State Court Administrator in
+            
+286
+
+    
+writing of the appointment, resignation, or the contractual agreement for services of a judge
+            
+287
+
+    
+under this section within 30 days after filling the vacancy.
+            
+288
+
+    
+    (3) (a)  If a vacancy occurs in the office of a county justice court judge before the
+            
+289
+
+    
+completion of that judge's term of office, the appointing authority may fill the vacancy by
+            
+290
+
+    
+appointment for the unexpired term by following the procedures and requirements for
+            
+291
+
+    
+appointments in Section 
+
+78-5-134
+
+.
+            
+292
+
+    
+    (b)  The appointing authority shall notify the Office of the State Court Administrator in
+            
+293
+
+    
+writing of any appointment of a county justice court judge under this section within 30 days
+            
+294
+
+    
+after the appointment is made.
+            
+295
+
+    
+    (4) (a)  When a vacancy occurs in the office of a justice court judge, the appointing
+            
+296
+
+    
+authority shall:
+            
+297
+
+    
+    (i)  advertise the vacancy and solicit applications for the vacancy;
+            
+298
+
+    
+    (ii)  appoint the best qualified candidate to office based solely upon fitness for office;
+            
+299
+
+    
+    (iii)  comply with the procedures and requirements of Title 52, Chapter 3, prohibiting
+            
+300
+
+    
+employment of relatives in making appointments to fill the vacancy; and
+            
+301
+
+    
+    (iv)  submit the name of the appointee to the local legislative body.
+            
+302
+
+    
+    (b)  If the local legislative body does not confirm the appointment within 30 days of
+            
+303
+
+    
+submission, the appointing authority may either appoint another of the applicants or reopen the
+            
+304
+
+    
+vacancy by advertisement and solicitations of applications.
+            
+305
+
+    
+    Section 3.  
+Section  
+20A-3-410
+
+ is amended to read:
+            
+306
+
+    
+     20A-3-410.  Duty of election judges.
+            
+307
+
+    
+    (1) (a)  Voting precinct election judges shall open envelopes containing military or
+            
+308
+
+    
+overseas citizen voter ballots that are in their custody on election day at the polling places
+            
+309
+
+    
+during the time the polls are open as provided in this subsection.
+
+            
+310
+
+
+    
+    (b)  The election judges shall:
+            
+311
+
+    
+    (i)  first, open the outer envelope only; and
+            
+312
+
+    
+    (ii)  unless the ballot is a disabled military or overseas citizen voter's ballot, compare
+            
+313
+
+    
+the signature of the military or overseas citizen voter on the application with the signature on
+            
+314
+
+    
+the registration and voting certificate.
+            
+315
+
+    
+    (2) (a)  The judges shall register the military or overseas citizen voter to vote if the
+            
+316
+
+    
+voter is not already registered if the judges find that:
+            
+317
+
+    
+    (i)  the registration and voting certificate appears to be executed in proper form and
+            
+318
+
+    
+contains information qualifying the military or overseas citizen voter to be registered as a voter;
+            
+319
+
+    
+and
+            
+320
+
+    
+    (ii)  the signatures on the certificate and the application correspond, where a
+            
+321
+
+    
+comparison is required.
+            
+322
+
+    
+    (b)  If the election judges determine that the registration and voting certificate is
+            
+323
+
+    
+insufficient or that the signatures do not correspond, they shall:
+            
+324
+
+    
+    (i)  disallow the registration; and
+            
+325
+
+    
+    (ii)  without opening the ballot envelope, mark across the face of the envelope
+            
+326
+
+    
+"Rejected as defective because of __________ ." with the reason for the rejection placed in the
+            
+327
+
+    
+blank.
+            
+328
+
+    
+    (c)  When a military or overseas citizen voter's name is entered upon the registration
+            
+329
+
+    
+books, the voter is considered to be registered and the registration and voting certificate, signed
+            
+330
+
+    
+and sworn to by the military or overseas citizen voter on the back of the ballot envelope,
+            
+331
+
+    
+together with his name upon the registration books, constitute his registration record.
+            
+332
+
+    
+    (d)  Nothing in this title may abridge the right of the military or overseas citizen voter to
+            
+333
+
+    
+be registered as provided in this section.
+            
+334
+
+    
+    (3) (a)  After registering the voter, the judges shall carefully open the ballot envelope so
+            
+335
+
+    
+as not to destroy the information printed on it if they find that:
+            
+336
+
+    
+    (i)  the registration and voting certificate is sufficient; and
+            
+337
+
+    
+    (ii)  the signatures on the certificate and the application correspond, where a
+
+            
+338
+
+
+    
+comparison is required.
+            
+339
+
+    
+    (b)  The election judges shall:
+            
+340
+
+    
+    (i)  remove the ballot from the envelope without unfolding it or permitting it to be
+            
+341
+
+    
+opened or examined;
+            
+342
+
+    
+    (ii)  initial the stub in the same manner as for other ballots;
+            
+343
+
+    
+    (iii)  deposit the ballot in the proper ballot box; and
+            
+344
+
+    
+    (iv)  mark the official register and pollbook to show that the voter has voted.
+            
+345
+
+    
+    (c)  If the election judges determine that the registration and voting certificate is
+            
+346
+
+    
+insufficient or that the signatures do not correspond, they shall:
+            
+347
+
+    
+    (i)  disallow the vote; and
+            
+348
+
+    
+    (ii)  without opening the ballot envelope, mark across the face of the envelope
+            
+349
+
+    
+"Rejected as defective because of __________ ." with the reason for the rejection placed in the
+            
+350
+
+    
+blank.
+            
+351
+
+    
+    (4)  The election judges shall deposit the envelope, when the ballot is voted, and the
+            
+352
+
+    
+envelope with its contents unopened, when the absent vote is rejected, in the ballot box
+            
+353
+
+    
+containing the ballots.
+            
+354
+
+    
+    (5)  The county clerk shall retain and preserve the envelopes in the manner provided by
+            
+355
+
+    
+law for the retention and preservation of official ballots voted at that election.
+            
+356
+
+    
+    Section 4.  
+Section  
+20A-9-403
+
+ is amended to read:
+            
+357
+
+    
+     20A-9-403.  Regular primary elections.
+            
+358
+
+    
+    (1) (a)  The fourth Tuesday of June of each even-numbered year is designated as regular
+            
+359
+
+    
+primary election day.
+            
+360
+
+    
+    (b)  Each registered political party that chooses to use the primary election process to
+            
+361
+
+    
+nominate some or all of its candidates shall comply with the requirements of this section.
+            
+362
+
+    
+    (2) (a)  As a condition for using the state's election system, each registered political
+            
+363
+
+    
+party that wishes to participate in the primary election shall:
+            
+364
+
+    
+    (i)  declare their intent to participate in the primary election;
+            
+365
+
+    
+    (ii)  identify one or more registered political parties whose members may vote for the
+
+            
+366
+
+
+    
+registered political party's candidates and whether or not persons identified as unaffiliated with
+            
+367
+
+    
+a political party may vote for the registered political party's candidates; and
+            
+368
+
+    
+    (iii)  certify that information to the lieutenant governor no later than 5 p.m. on March 1
+            
+369
+
+    
+of each even-numbered year, except that when March 1 is a Saturday or Sunday, the
+            
+370
+
+    
+certification deadline shall be extended until 5 p.m. on the following regular business day.
+            
+371
+
+    
+    (b)  As a condition for using the state's election system, each registered political party
+            
+372
+
+    
+that wishes to participate in the primary election shall:
+            
+373
+
+    
+    (i)  certify the name and office of all of the registered political party's candidates to the
+            
+374
+
+    
+lieutenant governor no later than 5 p.m. on May 13 of each even-numbered year, except that
+            
+375
+
+    
+when May 13 is a Saturday or Sunday, the certification deadline shall be extended until 5 p.m.
+            
+376
+
+    
+on the following regular business day; and
+            
+377
+
+    
+    (ii)  certify the name and office of each of its county candidates to the county clerks by
+            
+378
+
+    
+5 p.m. on May 13 of each even-numbered year, except that when May 13 is a Saturday or
+            
+379
+
+    
+Sunday, the certification deadline shall be extended until 5 p.m. on the following regular
+            
+380
+
+    
+business day.
+            
+381
+
+    
+    (c)  By 5 p.m. on May 16 of each even-numbered year, or by 5 p.m. on the following
+            
+382
+
+    
+regular business day if May 16 is a Saturday or Sunday, the lieutenant governor shall send the
+            
+383
+
+    
+county clerks a certified list of the names of all statewide or multicounty candidates that must
+            
+384
+
+    
+be printed on the primary ballot.
+            
+385
+
+    
+    (d) (i)  Except as provided in Subsection (2)(d)(ii), if a registered political party does
+            
+386
+
+    
+not wish to participate in the primary election, it shall submit the names of its county
+            
+387
+
+    
+candidates to the county clerks and the names of all of its candidates to the lieutenant governor
+            
+388
+
+    
+by 5 p.m. on May 30 of each even-numbered year, except that when May 30 is a Saturday or
+            
+389
+
+    
+Sunday, the submission deadline shall be extended until 5 p.m. on the following regular
+            
+390
+
+    
+business day.
+            
+391
+
+    
+    (ii)  A registered political party's candidates for President and Vice-President of the
+            
+392
+
+    
+United States shall be certified to the lieutenant governor as provided in Subsection
+            
+393
+
+    
+
+20A-9-202
+
+(4).
+
+            
+394
+
+
+    
+    (e)  Each political party shall certify the names of its presidential and vice-presidential
+            
+395
+
+    
+candidates and presidential electors to the lieutenant governor's office by September 3 of each
+            
+396
+
+    
+presidential election year, or by the following regular business day if September 3 is a Saturday
+            
+397
+
+    
+or Sunday.
+            
+398
+
+    
+    (3)  The county clerk shall:
+            
+399
+
+    
+    (a)  review the declarations of candidacy filed by candidates for local boards of
+            
+400
+
+    
+education to determine if more than two candidates have filed for the same seat;
+            
+401
+
+    
+    (b)  place the names of all candidates who have filed a declaration of candidacy for a
+            
+402
+
+    
+local board of education seat on the nonpartisan section of the ballot if more than two
+            
+403
+
+    
+candidates have filed for the same seat; and
+            
+404
+
+    
+    (c)  conduct a lottery to determine the order of the candidates' names on the ballot.
+            
+405
+
+    
+    (4)  After the county clerk receives the certified list from a registered political party, the
+            
+406
+
+    
+county clerk shall post or publish a primary election notice in substantially the following form:
+            
+407
+
+    
+    "Notice is given that a primary election will be held Tuesday, June ____,
+            
+408
+
+    
+________(year), to nominate party candidates for the parties and nonpartisan offices listed on
+            
+409
+
+    
+the primary ballot.  The polling place for voting precinct ____ is ____.  The polls will open at 7
+            
+410
+
+    
+a.m. and continue open until 8 p.m. of the same day.  Attest: county clerk".
+            
+411
+
+    
+    (5) (a)  Candidates receiving the highest number of votes cast for each office at the
+            
+412
+
+    
+regular primary election are nominated by their party or nonpartisan group for that office.
+            
+413
+
+    
+    (b)  If two or more candidates are to be elected to the office at the regular general
+            
+414
+
+    
+election, those party candidates equal in number to positions to be filled who receive the
+            
+415
+
+    
+highest number of votes at the regular primary election are the nominees of their party for those
+            
+416
+
+    
+positions.
+            
+417
+
+    
+    (6) (a)  When a tie vote occurs in any primary election for any national, state, or other
+            
+418
+
+    
+office that represents more than one county, the governor, lieutenant governor, and attorney
+            
+419
+
+    
+general shall, at a public meeting called by the governor and in the presence of the candidates
+            
+420
+
+    
+involved, select the nominee by lot cast in whatever manner the governor determines.
+            
+421
+
+    
+    (b)  When a tie vote occurs in any primary election for any county office, the district
+
+            
+422
+
+
+    
+court judges of the district in which the county is located shall, at a public meeting called by
+            
+423
+
+    
+the judges and in the presence of the candidates involved, select the nominee by lot cast in
+            
+424
+
+    
+whatever manner the judges determine.
+            
+425
+
+    
+    (7)  The expense of providing all ballots, blanks, or other supplies to be used at any
+            
+426
+
+    
+primary election provided for by this section, and all expenses necessarily incurred in the
+            
+427
+
+    
+preparation for or the conduct of that primary election shall be paid out of the treasury of the
+            
+428
+
+    
+county or state, in the same manner as for the regular general elections.
+            
+429
+
+    
+    Section 5.  
+Section  
+20A-11-508
+
+ is amended to read:
+            
+430
+
+    
+     20A-11-508.  Political party reporting requirements -- Criminal penalties.
+            
+431
+
+    
+    (1) (a)  Each registered political party that fails to file the interim reports due September
+            
+432
+
+    
+15 or before the regular general [session] election is guilty of a class B misdemeanor.
+            
+433
+
+    
+    (b)  The lieutenant governor shall report all violations of Subsection (1)(a) to the
+            
+434
+
+    
+attorney general.
+            
+435
+
+    
+    (2)  Within 30 days after a deadline for the filing of a summary report required by this
+            
+436
+
+    
+part, the lieutenant governor shall review each filed report to ensure that:
+            
+437
+
+    
+    (a)  each political party that is required to file a report has filed one; and
+            
+438
+
+    
+    (b)  each report contains the information required by this part.
+            
+439
+
+    
+    (3)  If it appears that any political party has failed to file a report required by law, if it
+            
+440
+
+    
+appears that a filed report does not conform to the law, or if the lieutenant governor has
+            
+441
+
+    
+received a written complaint alleging a violation of the law or the falsity of any report, the
+            
+442
+
+    
+lieutenant governor shall, within five days of discovery of a violation or receipt of a written
+            
+443
+
+    
+complaint, notify the political party of the violation or written complaint and direct the political
+            
+444
+
+    
+party to file a summary report correcting the problem.
+            
+445
+
+    
+    (4) (a)  It is unlawful for any political party to fail to file or amend a summary report
+            
+446
+
+    
+within 14 days after receiving notice from the lieutenant governor under this section.
+            
+447
+
+    
+    (b)  Each political party who violates Subsection (4)(a) is guilty of a class B
+            
+448
+
+    
+misdemeanor.
+            
+449
+
+    
+    (c)  The lieutenant governor shall report all violations of Subsection (4)(a) to the
+
+            
+450
+
+
+    
+attorney general.
+            
+451
+
+    
+    Section 6.  
+Section  
+78-5-134
+
+ is amended to read:
+            
+452
+
+    
+     78-5-134.  Justice court judges to be appointed -- Procedure -- Report to Judicial
+            
+453
+
+    
+ Council -- Retention election -- Vacancy.
+            
+454
+
+    
+    (1)  As used in this section:
+            
+455
+
+    
+    (a)  "Appointing authority" means:
+            
+456
+
+    
+    (i)  the chair of the county commission in counties having the county commission form
+            
+457
+
+    
+of county government;
+            
+458
+
+    
+    (ii)  the county executive in counties having the county executive-council form of
+            
+459
+
+    
+government;
+            
+460
+
+    
+    (iii)  the chair of the [city commission,] city council[,] or town council in municipalities
+            
+461
+
+    
+having the traditional management arrangement established by Title 10, Chapter 3, Part 1,
+            
+462
+
+    
+Governing Body;
+            
+463
+
+    
+    (iv)  the city manager, in the council-manager optional form of government defined in
+            
+464
+
+    
+Section [
+
+10-3-1209
+
+] 
+
+10-3-101
+
+; and
+            
+465
+
+    
+    (v)  the mayor, in the council-mayor optional form of government defined in Section
+            
+466
+
+    
+[
+
+10-3-1209
+
+] 
+
+10-3-101
+
+.
+            
+467
+
+    
+    (b)  "Local legislative body" means:
+            
+468
+
+    
+    (i)  the county commission or county council; and
+            
+469
+
+    
+    (ii)  the [city commission,] city council[,] or town council.
+            
+470
+
+    
+    (2)  Justice court judges shall be appointed by the appointing authority and confirmed
+            
+471
+
+    
+by a majority vote of the local legislative body.
+            
+472
+
+    
+    (3) (a)  After a newly appointed justice court judge has been confirmed, the local
+            
+473
+
+    
+legislative body shall report the confirmed judge's name to the Judicial Council.
+            
+474
+
+    
+    (b)  The Judicial Council shall certify the judge as qualified to hold office upon
+            
+475
+
+    
+successful completion of the orientation program and upon the written opinion of the county or
+            
+476
+
+    
+municipal attorney that the judge meets the statutory qualifications for office.
+            
+477
+
+    
+    (c)  A justice court judge may not perform judicial duties until certified by the Judicial
+
+            
+478
+
+
+    
+Council.
+            
+479
+
+    
+    (4)  Upon the expiration of a county justice court judge's term of office the judge shall
+            
+480
+
+    
+be subject to an unopposed retention election in accordance with the procedures set forth in
+            
+481
+
+    
+Section 
+
+20A-12-201
+
+.
+            
+482
+
+    
+    (5)  Upon the expiration of a municipal justice court judge's term of office a municipal
+            
+483
+
+    
+justice court judge shall be reappointed absent a showing of good cause by the appointing
+            
+484
+
+    
+authority.
+            
+485
+
+    
+    (a)  If an appointing authority asserts good cause to not reappoint a municipal justice
+            
+486
+
+    
+court judge, at the request of the judge, the good cause shall be presented at a formal hearing of
+            
+487
+
+    
+the local legislative body.
+            
+488
+
+    
+    (b)  The local legislative body shall determine by majority vote whether good cause
+            
+489
+
+    
+exists not to reappoint the municipal justice court judge.
+            
+490
+
+    
+    (c)  The decision of the local legislative body is not subject to appeal.
+            
+491
+
+    
+    (d)  In determining whether good cause exists to not reappoint a municipal justice court
+            
+492
+
+    
+judge, the appointing authority and local legislative body shall consider:
+            
+493
+
+    
+    (i)  whether or not the judge has been certified as meeting the evaluation criteria for
+            
+494
+
+    
+judicial performance established by the Judicial Council; and
+            
+495
+
+    
+    (ii)  any other factors considered relevant by the appointing authority.
+            
+496
+
+    
+    (6)  Before reappointment or retention election, each justice court judge shall be
+            
+497
+
+    
+evaluated in accordance with the performance evaluation program established in Subsection
+            
+498
+
+    
+
+78-3-21
+
+(4).
+            
+499
+
+    
+    (7) (a)  At the conclusion of a term of office or when a vacancy occurs in the position of
+            
+500
+
+    
+justice court judge, the appointing authority may contract with a justice court judge in the
+            
+501
+
+    
+county or an adjacent county to serve as justice court judge.
+            
+502
+
+    
+    (b)  The contract shall be for the duration of the justice court judge's term of office.
+            
+503
+
+    
+    (8)  Vacancies in the office of justice court judge shall be filled as provided in Section
+            
+504
+
+    
+
+20A-1-506
+
+.
+[Bill Documents][Bills Directory]
+
+
+
+
+
+
+
+
+
+Who represents me?
+
+
+
+
+
+Remember my Legislators
+
+
+
+
+
+State Senate
+		350 North State, Suite 320
+		PO Box 145115
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1035
+		Fax: (801) 326-1475
+
+
+
+House of Representatives
+		350 North State, Suite 350
+		PO Box 145030
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1029
+		Fax: (801) 326-1544
+
+
+
+
+
+
+
+
+
+
+Home
+Mobile Site
+Site Map
+Calendar
+Code / Constitution
+House
+Senate
+
+Terms of Use/Privacy Policy
+
+ADA
+Utah.gov
+
+
+
+
+
+
+

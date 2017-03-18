@@ -1,0 +1,585 @@
+Sponsors: []Modifications:     78-40-2.5.(1)  As used in this section:(a)  "Claimant" means a person who files a notice.(b)  "Guarantee" means an agreement by a claimant to pay an amount of damages:(i)  specified by the court;(ii)  suffered as a result of the maintenance of a notice;(iii)  to a person with an interest in the real property that is the subject of the notice; and(iv)  if the requirements of Subsection (6) are met.(c)  "Notice" means a notice of the pendency of an action filed under Section 
+
+78-40-2
+
+.(2)  Any time after a notice has been recorded pursuant to Section 
+
+78-40-2
+
+, any of thefollowing may make a motion to the court in which the action is pending to expunge the notice:(a)  a party to the action; or(b)  a person with an interest in the real property affected by the notice.(3)  A court shall order a notice expunged if:(a)  the court receives a motion to expunge under Subsection (2); and(b)  the court finds that the claimant has not established by a preponderance of theevidence the probable validity of the real property claim that is the subject of the notice.(4)  If a court expunges a notice, the claimant may not record another notice withrespect to the same property without approval of the court in which the action is pending.(5)  Upon a motion by any person with an interest in the real property that is the subjectof a notice, a court may require the claimant to give the moving party a guarantee as acondition of maintaining the notice:(a)  any time after a notice has been recorded; and(b)  regardless of whether the court has received an application to expunge underSubsection (2).(6)  A person who receives a guarantee under Subsection (5) may recover an amountnot to exceed the amount of the guarantee upon a showing that:(a)  the claimant did not prevail on the real property claim; and(b)  the person seeking the guarantee suffered damages as a result of the maintenance ofthe notice.(7)  A court shall award costs and attorney fees to a prevailing party on any motionunder this section unless the court finds that:(a)  the nonprevailing party acted with substantial justification; or(b)  other circumstances make the imposition of attorney fees and costs unjust.Full text:
+
+
+
+Utah State Legislature
+
+
+
+
+
+
+
+
+
+
+
+
+Legislators
+
+By Session (1896-Current)
+Alphabetical (Historical)
+Find by Address/Map
+More
+
+
+Bills
+
+Bills/Bill Requests
+Passed Bills
+2017 Bills
+
+Keyword Search
+Reading Calendars
+Tracking Service
+More
+
+
+Committees
+
+All Committees
+Appropriations
+Commissions
+
+Independent Legislative Ethics Commission
+Interim
+Standing
+Subcommittees
+Task Forces
+Bills In Committees
+
+
+Utah Code / Constitution
+
+
+Title/Chapter/Section
+Keyword Search 
+
+Utah Constitution
+Laws of Utah 1851-ongoing
+Utah Territorial Laws 
+More
+
+
+Senate
+
+Main Page 
+About The Senate 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Extraordinary Sessions 
+Reading Calendars 
+Past Floor Debates 
+Senate Journals 
+
+
+House
+
+Main Page
+About the House 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Reading Calendars 
+Past Floor Debates 
+Journals 
+Conflict of Interest Forms 
+
+
+Legislative Guide 
+
+Legislative Guide
+Civic Programs
+GRAMA (Records Requests)
+
+
+Publications
+
+Search Publications
+Appropriations
+Audits
+Bagels & Briefings
+Briefing Papers
+Digest of Legislation
+Legislative Drafting Manual
+
+Journals
+
+Interim Highlights
+
+Legislative Rules
+GRAMA (Records Requests)
+Public Email
+State Organization Charts
+YouTube Channel
+Requests for Proposals and Legal Notices
+More
+
+
+Legislative Histories
+
+Legislative History Resources
+How to Research
+Bill Drafting/Research Files (1990-Ongoing)
+
+Working Bills (1896-1989)
+Interim Committee Histories (1990-Ongoing) 
+Journals
+Past House Floor Debates
+Past Senate Floor Debates
+More
+
+
+Staff Offices
+
+All Legislative Offices
+Auditor General
+Fiscal Analyst
+Printing
+Research and General Counsel
+Staff Awards
+Job Opportunities
+More
+
+
+Links of Interest
+
+Utah Administrative Rules
+Courts
+Utah State Capitol
+State of Utah
+Federal Legislation
+More
+
+
+
+
+
+
+ 
+
+Download Zipped Introduced WordPerfect HB0336.ZIP
+[Status][Bill Documents][Fiscal Note][Bills Directory]
+
+
+H.B. 336
+
+
+
+
+
+            
+1
+
+    
+ CLAIMS ON REAL PROPERTY
+
+
+
+            
+2
+
+    
+2004 GENERAL SESSION
+
+            
+3
+
+    
+STATE OF UTAH
+
+            
+4
+
+    
+
+
+ Sponsor: Gregory H. Hughes
+
+
+
+            
+5
+
+    
+
+            
+6
+
+    
+ LONG TITLE
+            
+7
+
+    
+ General Description:
+            
+8
+
+    
+    This bill modifies provisions of the Judicial Code governing pending actions involving
+            
+9
+
+    
+real property.
+            
+10
+
+    
+ Highlighted Provisions:
+            
+11
+
+    
+    This bill:
+            
+12
+
+    
+    .    allows a notice of the pendency of an action involving real property to be expunged
+            
+13
+
+    
+under certain circumstances; and
+            
+14
+
+    
+    .    allows, under certain circumstances, a person with an interest in real property that is
+            
+15
+
+    
+the subject of a notice of the pendency of an action to recover damages, costs, and
+            
+16
+
+    
+attorney fees.
+            
+17
+
+    
+ Monies Appropriated in this Bill:
+            
+18
+
+    
+    None
+            
+19
+
+    
+ Other Special Clauses:
+            
+20
+
+    
+    None
+            
+21
+
+    
+ Utah Code Sections Affected:
+            
+22
+
+    
+ENACTS:
+            
+23
+
+    
+     78-40-2.5, Utah Code Annotated 1953
+            
+24
+
+    
+
+            
+25
+
+    
+Be it enacted by the Legislature of the state of Utah:
+            
+26
+
+    
+    Section 1.  
+Section  
+78-40-2.5
+
+ is enacted to read:
+            
+27
+
+    
+     78-40-2.5.  Motions related to a notice of the pendency of an action.
+
+            
+28
+
+
+    
+    (1)  As used in this section:
+            
+29
+
+    
+    (a)  "Claimant" means a person who files a notice.
+            
+30
+
+    
+    (b)  "Guarantee" means an agreement by a claimant to pay an amount of damages:
+            
+31
+
+    
+    (i)  specified by the court;
+            
+32
+
+    
+    (ii)  suffered as a result of the maintenance of a notice;
+            
+33
+
+    
+    (iii)  to a person with an interest in the real property that is the subject of the notice; and
+            
+34
+
+    
+    (iv)  if the requirements of Subsection (6) are met.
+            
+35
+
+    
+    (c)  "Notice" means a notice of the pendency of an action filed under Section 
+
+78-40-2
+
+.
+            
+36
+
+    
+    (2)  Any time after a notice has been recorded pursuant to Section 
+
+78-40-2
+
+, any of the
+            
+37
+
+    
+following may make a motion to the court in which the action is pending to expunge the notice:
+            
+38
+
+    
+    (a)  a party to the action; or
+            
+39
+
+    
+    (b)  a person with an interest in the real property affected by the notice.
+            
+40
+
+    
+    (3)  A court shall order a notice expunged if:
+            
+41
+
+    
+    (a)  the court receives a motion to expunge under Subsection (2); and
+            
+42
+
+    
+    (b)  the court finds that the claimant has not established by a preponderance of the
+            
+43
+
+    
+evidence the probable validity of the real property claim that is the subject of the notice.
+            
+44
+
+    
+    (4)  If a court expunges a notice, the claimant may not record another notice with
+            
+45
+
+    
+respect to the same property without approval of the court in which the action is pending.
+            
+46
+
+    
+    (5)  Upon a motion by any person with an interest in the real property that is the subject
+            
+47
+
+    
+of a notice, a court may require the claimant to give the moving party a guarantee as a
+            
+48
+
+    
+condition of maintaining the notice:
+            
+49
+
+    
+    (a)  any time after a notice has been recorded; and
+            
+50
+
+    
+    (b)  regardless of whether the court has received an application to expunge under
+            
+51
+
+    
+Subsection (2).
+            
+52
+
+    
+    (6)  A person who receives a guarantee under Subsection (5) may recover an amount
+            
+53
+
+    
+not to exceed the amount of the guarantee upon a showing that:
+            
+54
+
+    
+    (a)  the claimant did not prevail on the real property claim; and
+            
+55
+
+    
+    (b)  the person seeking the guarantee suffered damages as a result of the maintenance of
+            
+56
+
+    
+the notice.
+            
+57
+
+    
+    (7)  A court shall award costs and attorney fees to a prevailing party on any motion
+            
+58
+
+    
+under this section unless the court finds that:
+
+            
+59
+
+
+    
+    (a)  the nonprevailing party acted with substantial justification; or
+            
+60
+
+    
+    (b)  other circumstances make the imposition of attorney fees and costs unjust.
+
+
+
+
+ Legislative Review Note
+    as of   2-5-04  10:39 AM
+
+A limited legal review of this legislation raises no obvious constitutional or statutory concerns.
+
+ Office of Legislative Research and General Counsel
+[Bill Documents][Bills Directory]
+
+
+
+
+
+
+
+
+
+Who represents me?
+
+
+
+
+
+Remember my Legislators
+
+
+
+
+
+State Senate
+		350 North State, Suite 320
+		PO Box 145115
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1035
+		Fax: (801) 326-1475
+
+
+
+House of Representatives
+		350 North State, Suite 350
+		PO Box 145030
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1029
+		Fax: (801) 326-1544
+
+
+
+
+
+
+
+
+
+
+Home
+Mobile Site
+Site Map
+Calendar
+Code / Constitution
+House
+Senate
+
+Terms of Use/Privacy Policy
+
+ADA
+Utah.gov
+
+
+
+
+
+
+

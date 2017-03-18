@@ -1,0 +1,471 @@
+Sponsors: []Modifications: an electronic filingsystem(c)  The electronic filing system of the program may be facilitated through computerterminals and the Internet.(d)electronic filing system(a)(b)(c)(d)electronic filing system(d)Full text:
+
+
+
+Utah State Legislature
+
+
+
+
+
+
+
+
+
+
+
+
+Legislators
+
+By Session (1896-Current)
+Alphabetical (Historical)
+Find by Address/Map
+More
+
+
+Bills
+
+Bills/Bill Requests
+Passed Bills
+2017 Bills
+
+Keyword Search
+Reading Calendars
+Tracking Service
+More
+
+
+Committees
+
+All Committees
+Appropriations
+Commissions
+
+Independent Legislative Ethics Commission
+Interim
+Standing
+Subcommittees
+Task Forces
+Bills In Committees
+
+
+Utah Code / Constitution
+
+
+Title/Chapter/Section
+Keyword Search 
+
+Utah Constitution
+Laws of Utah 1851-ongoing
+Utah Territorial Laws 
+More
+
+
+Senate
+
+Main Page 
+About The Senate 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Extraordinary Sessions 
+Reading Calendars 
+Past Floor Debates 
+Senate Journals 
+
+
+House
+
+Main Page
+About the House 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Reading Calendars 
+Past Floor Debates 
+Journals 
+Conflict of Interest Forms 
+
+
+Legislative Guide 
+
+Legislative Guide
+Civic Programs
+GRAMA (Records Requests)
+
+
+Publications
+
+Search Publications
+Appropriations
+Audits
+Bagels & Briefings
+Briefing Papers
+Digest of Legislation
+Legislative Drafting Manual
+
+Journals
+
+Interim Highlights
+
+Legislative Rules
+GRAMA (Records Requests)
+Public Email
+State Organization Charts
+YouTube Channel
+Requests for Proposals and Legal Notices
+More
+
+
+Legislative Histories
+
+Legislative History Resources
+How to Research
+Bill Drafting/Research Files (1990-Ongoing)
+
+Working Bills (1896-1989)
+Interim Committee Histories (1990-Ongoing) 
+Journals
+Past House Floor Debates
+Past Senate Floor Debates
+More
+
+
+Staff Offices
+
+All Legislative Offices
+Auditor General
+Fiscal Analyst
+Printing
+Research and General Counsel
+Staff Awards
+Job Opportunities
+More
+
+
+Links of Interest
+
+Utah Administrative Rules
+Courts
+Utah State Capitol
+State of Utah
+Federal Legislation
+More
+
+
+
+
+
+
+ 
+
+Download Zipped Introduced WP 6.1 HB0183.ZIP 7,554 Bytes
+[Status][Bill Documents][Fiscal Note][Bills Directory]
+
+
+H.B. 183
+
+
+
+
+
+
+
+
+
+1     QUICK COURT AMENDMENTS
+
+
+
+
+2    1998 GENERAL SESSION
+
+
+3    STATE OF UTAH
+
+
+4     Sponsor: Sheryl L. Allen
+
+
+5    J. Brent Haymond
+Patrice  Arent
+
+
+
+6    AN ACT RELATING TO JUDICIAL CODE; AMENDING THE UTAH QUICK COURT
+
+7    PROGRAM TO PERMIT ELECTRONIC FILING THROUGH THE INTERNET; AND
+
+8    MAKING TECHNICAL AMENDMENTS.
+
+9    This act affects sections of Utah Code Annotated 1953 as follows:
+
+10    AMENDS:
+
+11         78-28-1, as last amended by Chapter 68, Laws of Utah 1995
+
+12         78-28-2, as last amended by Chapter 243, Laws of Utah 1996
+
+13    Be it enacted by the Legislature of the state of Utah:
+
+14        Section 1.  Section  78-28-1 is amended to read:
+
+15         78-28-1.  Utah Quick Court -- Purpose of program -- Methods to access electronic
+
+16     filing system -- User's fee.  
+
+17        (1) (a)  There is established the Utah Quick Court as a program to be administered by the
+
+18    Administrative Office of the Courts to begin on January 1, 1995, designed to assist the pro se civil
+
+19    litigant in the preparation of pro se court documents through [computer use] an electronic filing
+
+20    system in:
+
+21        (i)  uncontested divorces;
+
+22        (ii)  enforcement of orders in the divorce decree including visitation, child custody, and
+
+23    property division; and
+
+24        (iii)  landlord and tenant actions.
+
+25        (b)  The pro se documents prepared in uncontested divorces shall include a calculation of
+
+26    child support payments if applicable.
+
+27        (c)  The electronic filing system of the program may be facilitated through computer
+
+
+1    terminals and the Internet.
+
+2        [(c)] (d)  The [computer terminal] electronic filing system shall also provide information
+
+3    to users about:
+
+4        (i)  the procedures of the district court;
+
+5        (ii)  the procedures of the small claims court;
+
+6        (iii)  landlord and tenant rights and responsibilities;
+
+7        (iv)  alternative dispute resolution;
+
+8        (v)  child support collection procedures;
+
+9        (vi)  how to collect court judgments; and
+
+10        (vii)  how to settle minor disputes without legal action.
+
+11        (2)  The statewide purpose of the Utah Quick Court program shall be to:
+
+12        (a)  minimize the costs of civil litigation;
+
+13        (b)  improve access to the courts; and
+
+14        (c)  provide for informed use of the courts and the law by pro se litigants.
+
+15        (3)  The computer terminals shall be installed at four judicial districts with locations to be
+
+16    selected by the policy board.
+
+17        (4) (a)  The program shall provide for public access to computer terminals for a $10  fee
+
+18    with the intent that the program shall become self-sufficient.
+
+19        (b)  The fee shall be charged for the preparation of documents under Subsections (1)(a) and
+
+20    (1)(b), but not for information under Subsection (1)(c).
+
+21        (c)  The user fee shall cover the costs of providing the services and maintaining the
+
+22    computer terminals.
+
+23        (d)  Any excess monies generated by user fees shall be returned to the General Fund, not
+
+24    the Administrative Office of the Courts. 
+
+25        Section 2.  Section  78-28-2 is amended to read:
+
+26         78-28-2.  Creation of policy board -- Membership -- Terms -- Chair -- Quorum --
+
+27     Expenses.
+
+28        (1)  There is created a 13 member policy board to be known as the "Utah Quick Court
+
+29    Policy Board" which shall provide technical assistance and practical knowledge to the
+
+30    Administrative Office of the Courts to:
+
+31        (a)  prepare the legal forms and legal documents to be generated by the [computer
+
+- 2 -
+
+
+1    terminals] electronic filing system;
+
+2        (b)  assure that the legal forms and legal documents are in conformity with the rules of
+
+3    procedure and evidence; and
+
+4        (c)  prepare relevant and accurate information on subjects listed in Subsection
+
+5    78-28-1[(c)](d).
+
+6        (2)  The voting membership shall consist of:
+
+7        (a)  two members of the House of Representatives to be designated by the speaker, with
+
+8    one member from each party;
+
+9        (b)  two members of the Senate designated by the president, with one member from each
+
+10    party;
+
+11        (c)  two attorneys actively practicing in domestic relations designated by the Family Law
+
+12    Section of the Utah State Bar;
+
+13        (d)  one attorney actively practicing in civil litigation designated by the Civil Litigation
+
+14    Section of the Utah State Bar;
+
+15        (e)  one court commissioner designated by the chief justice of the Utah Supreme Court;
+
+16        (f)  one district court judge designated by the chief justice of the Utah Supreme Court;
+
+17        (g)  one attorney from Utah Legal Services designated by its director;
+
+18        (h)  one attorney from Legal Aid designated by its director; and
+
+19        (i)  two persons from the Administrative Office of the Courts designated by the state court
+
+20    administrator.
+
+21        (3) (a)  The terms of the members shall be four years and staggered so that approximately
+
+22    half of the board expires every two years.
+
+23        (b)  The board shall meet as needed.
+
+24        (4)  The board shall select one of its members to serve as chair.
+
+25        (5)  A majority of the members of the board constitutes a quorum.
+
+26        (6) (a) (i)  Members who are not government employees shall receive no compensation or
+
+27    benefits for their services, but may receive per diem and expenses incurred in the performance of
+
+28    the member's official duties at the rates established by the Division of Finance under Sections
+
+29    63A-3-106 and 63A-3-107.
+
+30        (ii)  Members may decline to receive per diem and expenses for their service.
+
+31        (b) (i)  State government officer and employee members who do not receive salary, per
+
+- 3 -
+
+
+1    diem, or expenses from their agency for their service may receive per diem and expenses incurred
+
+2    in the performance of their official duties from the board at the rates established by the Division
+
+3    of Finance under Sections 63A-3-106 and 63A-3-107.
+
+4        (ii)  State government officer and employee members may decline to receive per diem and
+
+5    expenses for their service.
+
+6        (c)  Legislators on the committee shall receive compensation and expenses as provided by
+
+7    law and legislative rule.
+
+
+
+
+ Legislative Review Note
+    as of  11-19-97  2:52 PM
+
+
+A limited legal review of this bill raises no obvious constitutional or statutory concerns.
+
+ Office of Legislative Research and General Counsel
+
+
+ Committee Note
+
+
+The Public Utilities and Technology Interim Committee recommended this bill.
+
+- 4 -
+[Bill Documents][Bills Directory]
+
+
+
+
+
+
+
+
+
+Who represents me?
+
+
+
+
+
+Remember my Legislators
+
+
+
+
+
+State Senate
+		350 North State, Suite 320
+		PO Box 145115
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1035
+		Fax: (801) 326-1475
+
+
+
+House of Representatives
+		350 North State, Suite 350
+		PO Box 145030
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1029
+		Fax: (801) 326-1544
+
+
+
+
+
+
+
+
+
+
+Home
+Mobile Site
+Site Map
+Calendar
+Code / Constitution
+House
+Senate
+
+Terms of Use/Privacy Policy
+
+ADA
+Utah.gov
+
+
+
+
+
+
+

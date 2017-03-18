@@ -1,0 +1,828 @@
+Sponsors: []Modifications:     70C-3-104.(1)  In accordance with this section, a creditor may contract with the debtor of aclosed-end consumer contract for a waiver by the debtor of the right to initiate or participate ina class action related to the closed-end consumer contract.(2)  To contract for the waiver described in Subsection (1), the creditor shall disclosethe waiver:(a)  to the debtor;(b)  in the closed-end consumer contract; and(c)  for a closed-end consumer contract entered into on or after August 1, 2006, in:(i)  bold type; or(ii)  all capital letters.credit(a)open-end consumer creditcontract(i)credit(ii)open-end consumer creditopen-end consumer credit contract(b)  A creditor may change an open-end consumer credit contract in accordance withthis section to include arbitration or other alternative dispute resolution mechanism.and:(A)(B)  an arbitration proceeding; or(C)  another alternative dispute resolution proceeding; oropen-end consumer credit contractopen-end consumer credit contract    70C-4-105.(1)  In accordance with this section, a creditor may contract with the debtor of anopen-end consumer credit contract for a waiver by the debtor of the right to initiate orparticipate in a class action related to the open-end consumer credit contract.(2)  To contract for the waiver described in Subsection (1), the creditor shall disclosethe waiver:(a)  to the debtor;(b)  in the open-end consumer credit contract; and(c)  for an open-end consumer credit contract entered into on or after August 1, 2006,in:(i)  bold type; or(ii)  all capital letters.If approved by two-thirds of all the members elected to each house, this bill takes effectupon approval by the governor, or the day following the constitutional time limit of UtahConstitution Article VII, Section 8, without the governor's signature, or in the case of a veto,the date of veto override.Full text:
+
+
+
+Utah State Legislature
+
+
+
+
+
+
+
+
+
+
+
+
+Legislators
+
+By Session (1896-Current)
+Alphabetical (Historical)
+Find by Address/Map
+More
+
+
+Bills
+
+Bills/Bill Requests
+Passed Bills
+2017 Bills
+
+Keyword Search
+Reading Calendars
+Tracking Service
+More
+
+
+Committees
+
+All Committees
+Appropriations
+Commissions
+
+Independent Legislative Ethics Commission
+Interim
+Standing
+Subcommittees
+Task Forces
+Bills In Committees
+
+
+Utah Code / Constitution
+
+
+Title/Chapter/Section
+Keyword Search 
+
+Utah Constitution
+Laws of Utah 1851-ongoing
+Utah Territorial Laws 
+More
+
+
+Senate
+
+Main Page 
+About The Senate 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Extraordinary Sessions 
+Reading Calendars 
+Past Floor Debates 
+Senate Journals 
+
+
+House
+
+Main Page
+About the House 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Reading Calendars 
+Past Floor Debates 
+Journals 
+Conflict of Interest Forms 
+
+
+Legislative Guide 
+
+Legislative Guide
+Civic Programs
+GRAMA (Records Requests)
+
+
+Publications
+
+Search Publications
+Appropriations
+Audits
+Bagels & Briefings
+Briefing Papers
+Digest of Legislation
+Legislative Drafting Manual
+
+Journals
+
+Interim Highlights
+
+Legislative Rules
+GRAMA (Records Requests)
+Public Email
+State Organization Charts
+YouTube Channel
+Requests for Proposals and Legal Notices
+More
+
+
+Legislative Histories
+
+Legislative History Resources
+How to Research
+Bill Drafting/Research Files (1990-Ongoing)
+
+Working Bills (1896-1989)
+Interim Committee Histories (1990-Ongoing) 
+Journals
+Past House Floor Debates
+Past Senate Floor Debates
+More
+
+
+Staff Offices
+
+All Legislative Offices
+Auditor General
+Fiscal Analyst
+Printing
+Research and General Counsel
+Staff Awards
+Job Opportunities
+More
+
+
+Links of Interest
+
+Utah Administrative Rules
+Courts
+Utah State Capitol
+State of Utah
+Federal Legislation
+More
+
+
+
+
+
+
+ 
+
+Download Zipped Enrolled WordPerfect SB0252.ZIP
+[Introduced][Amended][Status][Bill Documents][Fiscal Note][Bills Directory]
+
+
+S.B. 252 Enrolled
+
+
+
+
+
+            
+1
+
+    
+ CONSUMER CREDIT CODE AMENDMENTS
+
+
+
+            
+2
+
+    
+2006 GENERAL SESSION
+
+            
+3
+
+    
+STATE OF UTAH
+
+            
+4
+
+    
+
+
+ Chief Sponsor:  Curtis S. Bramble
+
+
+
+            
+5
+
+    
+
+
+
+House Sponsor:  
+
+
+
+
+
+
+Stephen H. Urquhart
+
+
+
+
+
+            
+6
+
+    
+
+            
+7
+
+    
+ LONG TITLE
+            
+8
+
+    
+ General Description:
+            
+9
+
+    
+    This bill modifies the Utah Consumer Credit Code.
+            
+10
+
+    
+ Highlighted Provisions:
+            
+11
+
+    
+    This bill:
+            
+12
+
+    
+    .    imposes requirements on the waiver of class action rights related to closed-end
+            
+13
+
+    
+consumer contracts and open-end consumer credit contracts;
+            
+14
+
+    
+    .    modifies provisions related to changing an open-end consumer credit contract; and
+            
+15
+
+    
+    .    makes technical changes.
+            
+16
+
+    
+ Monies Appropriated in this Bill:
+            
+17
+
+    
+    None
+            
+18
+
+    
+ Other Special Clauses:
+            
+19
+
+    
+    This bill provides an immediate effective date.
+            
+20
+
+    
+ Utah Code Sections Affected:
+            
+21
+
+    
+AMENDS:
+            
+22
+
+    
+     70C-4-102, as last amended by Chapter 180, Laws of Utah 1999
+            
+23
+
+    
+ENACTS:
+            
+24
+
+    
+     70C-3-104, Utah Code Annotated 1953
+            
+25
+
+    
+     70C-4-105, Utah Code Annotated 1953
+            
+26
+
+    
+
+            
+27
+
+    
+Be it enacted by the Legislature of the state of Utah:
+            
+28
+
+    
+    Section 1.  
+Section  
+70C-3-104
+
+ is enacted to read:
+            
+29
+
+    
+     70C-3-104.  Class actions.
+
+            
+30
+
+
+    
+    (1)  In accordance with this section, a creditor may contract with the debtor of a
+            
+31
+
+    
+closed-end consumer contract for a waiver by the debtor of the right to initiate or participate in
+            
+32
+
+    
+a class action related to the closed-end consumer contract.
+            
+33
+
+    
+    (2)  To contract for the waiver described in Subsection (1), the creditor shall disclose
+            
+34
+
+    
+the waiver:
+            
+35
+
+    
+    (a)  to the debtor;
+            
+36
+
+    
+    (b)  in the closed-end consumer contract; and
+            
+37
+
+    
+    (c)  for a closed-end consumer contract entered into on or after August 1, 2006, in:
+            
+38
+
+    
+    (i)  bold type; or
+            
+39
+
+    
+    (ii)  all capital letters.
+            
+40
+
+    
+    Section 2.  
+Section  
+70C-4-102
+
+ is amended to read:
+            
+41
+
+    
+     70C-4-102.  Change of terms of open-end consumer credit contracts.
+            
+42
+
+    
+    (1)  For purposes of this section, "change" includes to add, delete, or otherwise change a
+            
+43
+
+    
+term of an open-end consumer credit contract.
+            
+44
+
+    
+    (2) (a)  Notwithstanding Section 
+
+25-5-4
+
+, a creditor may change any written term of an
+            
+45
+
+    
+open-end consumer credit contract at any time while the [agreement] open-end consumer credit
+            
+46
+
+    
+contract is in effect and apply the new term to the unpaid balance in the account if:
+            
+47
+
+    
+    [(a)] (i)  the creditor gives all other parties to the open-end consumer credit contract that
+            
+48
+
+    
+may be affected not less than 30 days advance written notice of the change; and
+            
+49
+
+    
+    [(b)] (ii)  the open-end consumer credit contract expressly provides that the creditor
+            
+50
+
+    
+may change terms of the [agreement] open-end consumer credit contract from time to time.
+            
+51
+
+    
+    (b)  A creditor may change an open-end consumer credit contract in accordance with
+            
+52
+
+    
+this section to include arbitration or other alternative dispute resolution mechanism.
+            
+53
+
+    
+    (3)  If the creditor has taken a security interest in any real property of the debtor to
+            
+54
+
+    
+secure payment of the debt, and if the term to be changed affects the method for calculating
+            
+55
+
+    
+minimum payments, or is part of the finance charge, the creditor may apply the new term to an
+            
+56
+
+    
+account balance relating to a credit transaction that occurred prior to the effective date of the
+            
+57
+
+    
+change only if:
+
+            
+58
+
+
+    
+    (a)  the debtor expressly so agrees after notice of the change has been given by the
+            
+59
+
+    
+creditor; or
+            
+60
+
+    
+    (b) (i)  the creditor notifies the debtor that:
+            
+61
+
+    
+    (A)  further extensions of credit will not be permitted unless the debtor agrees that the
+            
+62
+
+    
+new term may be applied to an existing account balance; and
+            
+63
+
+    
+    (B)  any future charges to the account will constitute agreement; and
+            
+64
+
+    
+    (ii)  the debtor makes a charge to the account after receiving notice described in
+            
+65
+
+    
+Subsection (3)(b)(i).
+            
+66
+
+    
+    (4) Notice under this section is not required when:
+            
+67
+
+    
+    (a) the change involves:
+            
+68
+
+    
+    (i)  late payment charges;
+            
+69
+
+    
+    (ii)  charges for documentary evidence;
+            
+70
+
+    
+    (iii)  over-the-limit charges;
+            
+71
+
+    
+    (iv)  a reduction of any component of a finance or other charge;
+            
+72
+
+    
+    (v)  suspension of future credit privileges; or
+            
+73
+
+    
+    (vi)  termination of an account or plan; or
+            
+74
+
+    
+    (b) other than an increase in the periodic rate or other finance charge, the change results
+            
+75
+
+    
+from:
+            
+76
+
+    
+    (i)  an agreement involving:
+            
+77
+
+    
+    (A)  a court proceeding; [or]
+            
+78
+
+    
+    (B)  an arbitration proceeding; or
+            
+79
+
+    
+    (C)  another alternative dispute resolution proceeding; or
+            
+80
+
+    
+    (ii)  the consumer's default or delinquency.
+            
+81
+
+    
+    (5) (a)  The actual unpaid balance of the account at any point in time is not a term of the
+            
+82
+
+    
+[credit agreement] open-end consumer credit contract for purposes of this section.
+            
+83
+
+    
+    (b)  With regard to a variable or adjustable interest rate, a periodic change in the
+            
+84
+
+    
+applicable rate is not a change subject to this section if no term of the [credit agreement]
+            
+85
+
+    
+open-end consumer credit contract pertaining to calculation of the applicable rate is changed.
+
+            
+86
+
+
+    
+    (6) (a)  A creditor may include a notice required by this section of a change to an
+            
+87
+
+    
+open-end consumer credit contract on or in the same envelope as a periodic statement or other
+            
+88
+
+    
+material sent to the borrower by the creditor.
+            
+89
+
+    
+    (b)  Notwithstanding Subsection (6)(a), a creditor is not required to include a notice
+            
+90
+
+    
+required by this section with any other material sent to the borrower.
+            
+91
+
+    
+    Section 3.  
+Section  
+70C-4-105
+
+ is enacted to read:
+            
+92
+
+    
+     70C-4-105.  Class actions.
+            
+93
+
+    
+    (1)  In accordance with this section, a creditor may contract with the debtor of an
+            
+94
+
+    
+open-end consumer credit contract for a waiver by the debtor of the right to initiate or
+            
+95
+
+    
+participate in a class action related to the open-end consumer credit contract.
+            
+96
+
+    
+    (2)  To contract for the waiver described in Subsection (1), the creditor shall disclose
+            
+97
+
+    
+the waiver:
+            
+98
+
+    
+    (a)  to the debtor;
+            
+99
+
+    
+    (b)  in the open-end consumer credit contract; and
+            
+100
+
+    
+    (c)  for an open-end consumer credit contract entered into on or after August 1, 2006,
+            
+101
+
+    
+in:
+            
+102
+
+    
+    (i)  bold type; or
+            
+103
+
+    
+    (ii)  all capital letters.
+            
+104
+
+    
+    Section 4.   Effective date.
+            
+105
+
+    
+    If approved by two-thirds of all the members elected to each house, this bill takes effect
+            
+106
+
+    
+upon approval by the governor, or the day following the constitutional time limit of Utah
+            
+107
+
+    
+Constitution Article VII, Section 8, without the governor's signature, or in the case of a veto,
+            
+108
+
+    
+the date of veto override.
+[Bill Documents][Bills Directory]
+
+
+
+
+
+
+
+
+
+Who represents me?
+
+
+
+
+
+Remember my Legislators
+
+
+
+
+
+State Senate
+		350 North State, Suite 320
+		PO Box 145115
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1035
+		Fax: (801) 326-1475
+
+
+
+House of Representatives
+		350 North State, Suite 350
+		PO Box 145030
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1029
+		Fax: (801) 326-1544
+
+
+
+
+
+
+
+
+
+
+Home
+Mobile Site
+Site Map
+Calendar
+Code / Constitution
+House
+Senate
+
+Terms of Use/Privacy Policy
+
+ADA
+Utah.gov
+
+
+
+
+
+
+

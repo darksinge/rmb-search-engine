@@ -1,0 +1,2337 @@
+Sponsors: []Modifications: is(15)(16)(17)is(18)or.(19)(19)(20)(21)an S(22)(23)(24)(25)(26)(27)(28)(29)(30)(31)(32)(33)(33)(34)is(15)(16)(17)is(18)or.(19)(19)(20)(21)an S(22)(23)(24)(25)(26)(27)(28)(29)(30)(31)(32)(33)(33)(34)(33)(1)  Except as provided in Subsection (2), this bill has retrospective operation fortaxable years beginning on or after January 1, 2004.(2)  The amendments in this bill to Section 59-7-101 (Contingently Effective 05/02/05)take effect as provided in Chapter 327, Section 30, Laws of Utah 2003.Full text:
+
+
+
+Utah State Legislature
+
+
+
+
+
+
+
+
+
+
+
+
+Legislators
+
+By Session (1896-Current)
+Alphabetical (Historical)
+Find by Address/Map
+More
+
+
+Bills
+
+Bills/Bill Requests
+Passed Bills
+2017 Bills
+
+Keyword Search
+Reading Calendars
+Tracking Service
+More
+
+
+Committees
+
+All Committees
+Appropriations
+Commissions
+
+Independent Legislative Ethics Commission
+Interim
+Standing
+Subcommittees
+Task Forces
+Bills In Committees
+
+
+Utah Code / Constitution
+
+
+Title/Chapter/Section
+Keyword Search 
+
+Utah Constitution
+Laws of Utah 1851-ongoing
+Utah Territorial Laws 
+More
+
+
+Senate
+
+Main Page 
+About The Senate 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Extraordinary Sessions 
+Reading Calendars 
+Past Floor Debates 
+Senate Journals 
+
+
+House
+
+Main Page
+About the House 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Reading Calendars 
+Past Floor Debates 
+Journals 
+Conflict of Interest Forms 
+
+
+Legislative Guide 
+
+Legislative Guide
+Civic Programs
+GRAMA (Records Requests)
+
+
+Publications
+
+Search Publications
+Appropriations
+Audits
+Bagels & Briefings
+Briefing Papers
+Digest of Legislation
+Legislative Drafting Manual
+
+Journals
+
+Interim Highlights
+
+Legislative Rules
+GRAMA (Records Requests)
+Public Email
+State Organization Charts
+YouTube Channel
+Requests for Proposals and Legal Notices
+More
+
+
+Legislative Histories
+
+Legislative History Resources
+How to Research
+Bill Drafting/Research Files (1990-Ongoing)
+
+Working Bills (1896-1989)
+Interim Committee Histories (1990-Ongoing) 
+Journals
+Past House Floor Debates
+Past Senate Floor Debates
+More
+
+
+Staff Offices
+
+All Legislative Offices
+Auditor General
+Fiscal Analyst
+Printing
+Research and General Counsel
+Staff Awards
+Job Opportunities
+More
+
+
+Links of Interest
+
+Utah Administrative Rules
+Courts
+Utah State Capitol
+State of Utah
+Federal Legislation
+More
+
+
+
+
+
+
+ 
+
+Download Zipped Introduced WordPerfect HB0191.ZIP
+[Status][Bill Documents][Fiscal Note][Bills Directory]
+
+
+H.B. 191
+
+
+
+
+
+            
+1
+
+    
+ CORPORATE FRANCHISE AND INCOME TAX
+
+            
+2
+
+    
+ AMENDMENTS
+
+
+            
+3
+
+    
+2004 GENERAL SESSION
+
+            
+4
+
+    
+STATE OF UTAH
+
+            
+5
+
+    
+ Sponsor: Gordon E. Snow
+
+            
+6
+
+    
+
+            
+7
+
+    
+ LONG TITLE
+            
+8
+
+    
+ General Description:
+            
+9
+
+    
+    This bill amends the Corporate Franchise and Income Taxes chapter.
+            
+10
+
+    
+ Highlighted Provisions:
+            
+11
+
+    
+    This bill:
+            
+12
+
+    
+    .    amends the definition of "nonresident shareholder" to repeal language providing
+            
+13
+
+    
+that an organization exempt under Section 501, Internal Revenue Code, is a
+            
+14
+
+    
+nonresident shareholder;
+            
+15
+
+    
+    .    amends the definition of "S corporation";
+            
+16
+
+    
+    .    repeals references to foreign sales corporations that have been repealed under
+            
+17
+
+    
+federal law; and
+            
+18
+
+    
+    .    makes technical changes.
+            
+19
+
+    
+ Monies Appropriated in this Bill:
+            
+20
+
+    
+    None
+            
+21
+
+    
+ Other Special Clauses:
+            
+22
+
+    
+    This bill provides an effective date.
+            
+23
+
+    
+ Utah Code Sections Affected:
+            
+24
+
+    
+AMENDS:
+            
+25
+
+    
+     59-7-101 (Contingently Superseded 05/02/05), as last amended by Chapter 110, Laws
+            
+26
+
+    
+of Utah 2003
+            
+27
+
+    
+     59-7-101 (Contingently Effective 05/02/05), as last amended by Chapter 327, Laws of
+
+
+            
+28
+
+
+     
+Utah 2003
+            
+29
+
+    
+     59-7-402, as last amended by Chapter 76, Laws of Utah 2002
+            
+30
+
+    
+REPEALS:
+            
+31
+
+    
+     59-7-106.5, as enacted by Chapter 178, Laws of Utah 1994
+            
+32
+
+    
+
+            
+33
+
+    
+Be it enacted by the Legislature of the state of Utah:
+            
+34
+
+    
+    Section 1.  
+Section  
+59-7-101 (Contingently Superseded 05/02/05)
+
+ is amended to read:
+            
+35
+
+    
+     59-7-101 (Contingently Superseded 05/02/05).  Definitions.
+            
+36
+
+    
+    As used in this chapter:
+            
+37
+
+    
+    (1)  "Adjusted income" means unadjusted income as modified by Sections 
+
+59-7-105
+
+
+            
+38
+
+    
+and 
+
+59-7-106
+
+.
+            
+39
+
+    
+    (2) (a)  "Affiliated group" means one or more chains of corporations that are connected
+            
+40
+
+    
+through stock ownership with a common parent corporation that meet the following
+            
+41
+
+    
+requirements:
+            
+42
+
+    
+    (i)  at least 80% of the stock of each of the corporations in the group, excluding the
+            
+43
+
+    
+common parent corporation, is owned by one or more of the other corporations in the group;
+            
+44
+
+    
+and
+            
+45
+
+    
+    (ii)  the common parent directly owns at least 80% of the stock of at least one of the
+            
+46
+
+    
+corporations in the group.
+            
+47
+
+    
+    (b)  "Affiliated group" does not include corporations that are qualified to do business
+            
+48
+
+    
+but are not otherwise doing business in this state.
+            
+49
+
+    
+    (c)  For purposes of this Subsection (2), "stock" does not include nonvoting stock which
+            
+50
+
+    
+is limited and preferred as to dividends.
+            
+51
+
+    
+    (3)  "Apportionable income" means adjusted income less nonbusiness income net of
+            
+52
+
+    
+related expenses, to the extent included in adjusted income.
+            
+53
+
+    
+    (4)  "Apportioned income" means apportionable income multiplied by the
+            
+54
+
+    
+apportionment fraction as determined in Section 
+
+59-7-311
+
+.
+            
+55
+
+    
+    (5)  "Business income" [means income] is as defined in Section 
+
+59-7-302
+
+.
+            
+56
+
+    
+    (6)  "Corporate return" or "return" includes a combined report.
+            
+57
+
+    
+    (7) (a)  "Common ownership" means the direct or indirect control or ownership of more
+            
+58
+
+    
+than 50% of the outstanding voting stock of:
+
+
+            
+59
+
+
+    
+    (i)  a parent-subsidiary controlled group as defined in Section 1563, Internal Revenue
+            
+60
+
+    
+Code, except that 50% shall be substituted for 80%;
+            
+61
+
+    
+    (ii)  a brother-sister controlled group as defined in Section 1563, Internal Revenue
+            
+62
+
+    
+Code, except that 50% shall be substituted for 80%; or
+            
+63
+
+    
+    (iii)  three or more corporations each of which is a member of a group of corporations
+            
+64
+
+    
+described in Subsection (2)(a)(i) or (2)(a)(ii), and one of which is:
+            
+65
+
+    
+    (A)  a common parent corporation included in a group of corporations described in
+            
+66
+
+    
+Subsection (2)(a)(i); and
+            
+67
+
+    
+    (B)  included in a group of corporations described in Subsection (2)(a)(ii).
+            
+68
+
+    
+    (b)  Ownership of outstanding voting stock shall be determined by Section 1563,
+            
+69
+
+    
+Internal Revenue Code.
+            
+70
+
+    
+    (8)  "Corporation" includes:
+            
+71
+
+    
+    (a)  entities defined as corporations under Sections 7701(a) and 7704, Internal Revenue
+            
+72
+
+    
+Code; and
+            
+73
+
+    
+    (b)  other organizations that are taxed as corporations for federal income tax purposes
+            
+74
+
+    
+under the Internal Revenue Code.
+            
+75
+
+    
+    (9)  "Dividend" means any distribution, including money or other type of property,
+            
+76
+
+    
+made by a corporation to its shareholders out of its earnings or profits accumulated after
+            
+77
+
+    
+December 31, 1930.
+            
+78
+
+    
+    (10) (a)  "Doing business" includes any transaction in the course of its business by a
+            
+79
+
+    
+domestic corporation, or by a foreign corporation qualified to do or doing intrastate business in
+            
+80
+
+    
+this state.
+            
+81
+
+    
+    (b)  Except as provided in Subsection 
+
+59-7-102
+
+(2), "doing business" includes:
+            
+82
+
+    
+    (i)  the right to do business through incorporation or qualification;
+            
+83
+
+    
+    (ii)  the owning, renting, or leasing of real or personal property within this state; and
+            
+84
+
+    
+    (iii)  the participation in joint ventures, working and operating agreements, the
+            
+85
+
+    
+performance of which takes place in this state.
+            
+86
+
+    
+    (11)  "Domestic corporation" means a corporation that is incorporated or organized
+            
+87
+
+    
+under the laws of this state.
+            
+88
+
+    
+    (12) (a)  "Farmers' cooperative" means an association, corporation, or other
+            
+89
+
+    
+organization that is:
+
+            
+90
+
+
+    
+    (i) (A)  an association, corporation, or other organization of:
+            
+91
+
+    
+    (I)  farmers; or
+            
+92
+
+    
+    (II)  fruit growers; or
+            
+93
+
+    
+    (B)  an association, corporation, or other organization that is similar to an association,
+            
+94
+
+    
+corporation, or organization described in Subsection (12)(a)(i)(A); and
+            
+95
+
+    
+    (ii)  organized and operated on a cooperative basis to:
+            
+96
+
+    
+    (A) (I)  market the products of members of the cooperative or the products of other
+            
+97
+
+    
+producers; and
+            
+98
+
+    
+    (II)  return to the members of the cooperative or other producers the proceeds of sales
+            
+99
+
+    
+less necessary marketing expenses on the basis of the quantity of the products of a member or
+            
+100
+
+    
+producer or the value of the products of a member or producer; or
+            
+101
+
+    
+    (B) (I)  purchase supplies and equipment for the use of members of the cooperative or
+            
+102
+
+    
+other persons; and
+            
+103
+
+    
+    (II)  turn over the supplies and equipment described in Subsection (12)(a)(ii)(B)(I) at
+            
+104
+
+    
+actual costs plus necessary expenses to the members of the cooperative or other persons.
+            
+105
+
+    
+    (b) (i)  Subject to Subsection (12)(b)(ii), for purposes of this Subsection (12), the
+            
+106
+
+    
+commission by rule, made in accordance with Title 63, Chapter 46a, Utah Administrative
+            
+107
+
+    
+Rulemaking Act, shall define:
+            
+108
+
+    
+    (A)  the terms:
+            
+109
+
+    
+    (I)  "member"; and
+            
+110
+
+    
+    (II)  "producer"; and
+            
+111
+
+    
+    (B)  what constitutes an association, corporation, or other organization that is similar to
+            
+112
+
+    
+an association, corporation, or organization described in Subsection (12)(a)(i)(A).
+            
+113
+
+    
+    (ii)  The rules made under this Subsection (12)(b) shall be consistent with the filing
+            
+114
+
+    
+requirements under federal law for a farmers' cooperative.
+            
+115
+
+    
+    (13)  "Foreign corporation" means a corporation that is not incorporated or organized
+            
+116
+
+    
+under the laws of this state.
+            
+117
+
+    
+    (14) (a)  "Foreign operating company" means a corporation that:
+            
+118
+
+    
+    (i)  is incorporated in the United States; and
+            
+119
+
+    
+    (ii)  80% or more of whose business activity, as determined under Section 
+
+59-7-401
+
+, is
+            
+120
+
+    
+conducted outside the United States.
+
+            
+121
+
+
+    
+    (b)  "Foreign operating company" does not include a corporation that qualifies for the
+            
+122
+
+    
+Puerto Rico and Possession Tax Credit as provided in Section 936, Internal Revenue Code.
+            
+123
+
+    
+    [(15)  "Foreign sales corporation" means a corporation as defined in Section 922,
+            
+124
+
+    
+Internal Revenue Code.]
+            
+125
+
+    
+    [(16)] (15)  "Income" includes losses.
+            
+126
+
+    
+    [(17)] (16)  "Internal Revenue Code" means Title 26 of the United States Code as
+            
+127
+
+    
+effective during the year in which Utah taxable income is determined.
+            
+128
+
+    
+    [(18)] (17)  "Nonbusiness income" [means income] is as defined in Section 
+
+59-7-302
+
+.
+            
+129
+
+    
+    [(19)] (18)  "Nonresident shareholder" means any shareholder of an S corporation who
+            
+130
+
+    
+on the last day of the taxable year of the S corporation, is:
+            
+131
+
+    
+    (a)  an individual not domiciled in Utah; or
+            
+132
+
+    
+    (b)  a nonresident trust or nonresident estate, as defined in Section 
+
+59-10-103
+
+[; or].
+            
+133
+
+    
+    [(c)  an organization exempt under Section 501, Internal Revenue Code.]
+            
+134
+
+    
+    [(20)] (19)  "Related expenses" means:
+            
+135
+
+    
+    (a)  expenses directly attributable to nonbusiness income; and
+            
+136
+
+    
+    (b)  the portion of interest or other expense indirectly attributable to both nonbusiness
+            
+137
+
+    
+and business income which bears the same ratio to the aggregate amount of such interest or
+            
+138
+
+    
+other expense, determined without regard to this Subsection [(20)] (19), as the average amount
+            
+139
+
+    
+of the asset producing the nonbusiness income bears to the average amount of all assets of the
+            
+140
+
+    
+taxpayer within the taxable year.
+            
+141
+
+    
+    [(21)] (20)  "Resident shareholder" means any shareholder of an S corporation who is
+            
+142
+
+    
+not a nonresident shareholder.
+            
+143
+
+    
+    [(22)] (21)  "S corporation" means [a small business] an S corporation as defined in
+            
+144
+
+    
+Section 1361, Internal Revenue Code.
+            
+145
+
+    
+    [(23)] (22)  "Safe harbor lease" means a lease that qualified as a safe harbor lease under
+            
+146
+
+    
+Section 168, Internal Revenue Code.
+            
+147
+
+    
+    [(24)] (23)  "State of the United States" includes any of the 50 states or the District of
+            
+148
+
+    
+Columbia and "United States" includes the 50 states and the District of Columbia.
+            
+149
+
+    
+    [(25)] (24) (a)  "Taxable year" means the calendar year or the fiscal year ending during
+            
+150
+
+    
+such calendar year upon the basis of which the adjusted income is computed.
+            
+151
+
+    
+    (b)  In the case of a return made for a fractional part of a year under this chapter or
+
+            
+152
+
+
+    
+under rules prescribed by the commission, "taxable year" includes the period for which such
+            
+153
+
+    
+return is made.
+            
+154
+
+    
+    [(26)] (25)  "Taxpayer" means any corporation subject to the tax imposed by this
+            
+155
+
+    
+chapter.
+            
+156
+
+    
+    [(27)] (26)  "Threshold level of business activity" means business activity in the United
+            
+157
+
+    
+States equal to or greater than 20% of the corporation's total business activity as determined
+            
+158
+
+    
+under Section 
+
+59-7-401
+
+.
+            
+159
+
+    
+    [(28)] (27)  "Unadjusted income" means federal taxable income as determined on a
+            
+160
+
+    
+separate return basis before intercompany eliminations as determined by the Internal Revenue
+            
+161
+
+    
+Code, before the net operating loss deduction and special deductions for dividends received.
+            
+162
+
+    
+    [(29)] (28) (a)  "Unitary group" means a group of corporations that:
+            
+163
+
+    
+    (i)  are related through common ownership; and
+            
+164
+
+    
+    (ii)  by a preponderance of the evidence as determined by a court of competent
+            
+165
+
+    
+jurisdiction or the commission, are economically interdependent with one another as
+            
+166
+
+    
+demonstrated by the following factors:
+            
+167
+
+    
+    (A)  centralized management;
+            
+168
+
+    
+    (B)  functional integration; and
+            
+169
+
+    
+    (C)  economies of scale.
+            
+170
+
+    
+    (b)  "Unitary group" does not include S corporations.
+            
+171
+
+    
+    [(30)] (29)  "Utah net loss" means the current year Utah taxable income before Utah net
+            
+172
+
+    
+loss deduction, if determined to be less than zero.
+            
+173
+
+    
+    [(31)] (30)  "Utah net loss deduction" means the amount of Utah net losses from other
+            
+174
+
+    
+taxable years that may be carried back or carried forward to the current taxable year in
+            
+175
+
+    
+accordance with Section 
+
+59-7-110
+
+.
+            
+176
+
+    
+    [(32)] (31) (a)  "Utah taxable income" means Utah taxable income before net loss
+            
+177
+
+    
+deduction less Utah net loss deduction.
+            
+178
+
+    
+    (b)  "Utah taxable income" includes income from tangible or intangible property located
+            
+179
+
+    
+or having situs in this state, regardless of whether carried on in intrastate, interstate, or foreign
+            
+180
+
+    
+commerce.
+            
+181
+
+    
+    [(33)] (32)  "Utah taxable income before net loss deduction" means apportioned income
+            
+182
+
+    
+plus nonbusiness income allocable to Utah net of related expenses.
+
+            
+183
+
+
+    
+    [(34)] (33) (a)  "Water's edge combined report" means a report combining the income
+            
+184
+
+    
+and activities of:
+            
+185
+
+    
+    (i)  all members of a unitary group that are:
+            
+186
+
+    
+    (A)  corporations organized or incorporated in the United States, including those
+            
+187
+
+    
+corporations qualifying for the Puerto Rico and Possession Tax Credit as provided in Section
+            
+188
+
+    
+936, Internal Revenue Code, in accordance with Subsection [(34)] (33)(b); and
+            
+189
+
+    
+    (B)  corporations organized or incorporated outside of the United States meeting the
+            
+190
+
+    
+threshold level of business activity; and
+            
+191
+
+    
+    (ii)  an affiliated group electing to file a water's edge combined report under Subsection
+            
+192
+
+    
+
+59-7-402
+
+(2).
+            
+193
+
+    
+    (b)  There is a rebuttable presumption that a corporation which qualifies for the Puerto
+            
+194
+
+    
+Rico and Possession Tax Credit provided in Section 936, Internal Revenue Code, is part of a
+            
+195
+
+    
+unitary group.
+            
+196
+
+    
+    [(35)] (34)  "Worldwide combined report" means the combination of the income and
+            
+197
+
+    
+activities of all members of a unitary group irrespective of the country in which the
+            
+198
+
+    
+corporations are incorporated or conduct business activity.
+            
+199
+
+    
+    Section 2.  
+Section  
+59-7-101 (Contingently Effective 05/02/05)
+
+ is amended to read:
+            
+200
+
+    
+     59-7-101 (Contingently Effective 05/02/05).  Definitions.
+            
+201
+
+    
+    As used in this chapter:
+            
+202
+
+    
+    (1)  "Adjusted income" means unadjusted income as modified by Sections 
+
+59-7-105
+
+
+            
+203
+
+    
+and 
+
+59-7-106
+
+.
+            
+204
+
+    
+    (2) (a)  "Affiliated group" means one or more chains of corporations that are connected
+            
+205
+
+    
+through stock ownership with a common parent corporation that meet the following
+            
+206
+
+    
+requirements:
+            
+207
+
+    
+    (i)  at least 80% of the stock of each of the corporations in the group, excluding the
+            
+208
+
+    
+common parent corporation, is owned by one or more of the other corporations in the group;
+            
+209
+
+    
+and
+            
+210
+
+    
+    (ii)  the common parent directly owns at least 80% of the stock of at least one of the
+            
+211
+
+    
+corporations in the group.
+            
+212
+
+    
+    (b)  "Affiliated group" does not include corporations that are qualified to do business
+            
+213
+
+    
+but are not otherwise doing business in this state.
+
+            
+214
+
+
+    
+    (c)  For purposes of this Subsection (2), "stock" does not include nonvoting stock which
+            
+215
+
+    
+is limited and preferred as to dividends.
+            
+216
+
+    
+    (3)  "Apportionable income" means adjusted income less nonbusiness income net of
+            
+217
+
+    
+related expenses, to the extent included in adjusted income.
+            
+218
+
+    
+    (4)  "Apportioned income" means apportionable income multiplied by the
+            
+219
+
+    
+apportionment fraction as determined in Section 
+
+59-7-311
+
+.
+            
+220
+
+    
+    (5)  "Business income" [means income] is as defined in Section 
+
+59-7-302
+
+.
+            
+221
+
+    
+    (6)  "Corporate return" or "return" includes a combined report.
+            
+222
+
+    
+    (7) (a)  "Common ownership" means the direct or indirect control or ownership of more
+            
+223
+
+    
+than 50% of the outstanding voting stock of:
+            
+224
+
+    
+    (i)  a parent-subsidiary controlled group as defined in Section 1563, Internal Revenue
+            
+225
+
+    
+Code, except that 50% shall be substituted for 80%;
+            
+226
+
+    
+    (ii)  a brother-sister controlled group as defined in Section 1563, Internal Revenue
+            
+227
+
+    
+Code, except that 50% shall be substituted for 80%; or
+            
+228
+
+    
+    (iii)  three or more corporations each of which is a member of a group of corporations
+            
+229
+
+    
+described in Subsection (2)(a)(i) or (2)(a)(ii), and one of which is:
+            
+230
+
+    
+    (A)  a common parent corporation included in a group of corporations described in
+            
+231
+
+    
+Subsection (2)(a)(i); and
+            
+232
+
+    
+    (B)  included in a group of corporations described in Subsection (2)(a)(ii).
+            
+233
+
+    
+    (b)  Ownership of outstanding voting stock shall be determined by Section 1563,
+            
+234
+
+    
+Internal Revenue Code.
+            
+235
+
+    
+    (8)  "Corporation" includes:
+            
+236
+
+    
+    (a)  entities defined as corporations under Sections 7701(a) and 7704, Internal Revenue
+            
+237
+
+    
+Code; and
+            
+238
+
+    
+    (b)  other organizations that are taxed as corporations for federal income tax purposes
+            
+239
+
+    
+under the Internal Revenue Code.
+            
+240
+
+    
+    (9)  "Dividend" means any distribution, including money or other type of property,
+            
+241
+
+    
+made by a corporation to its shareholders out of its earnings or profits accumulated after
+            
+242
+
+    
+December 31, 1930.
+            
+243
+
+    
+    (10) (a)  "Doing business" includes any transaction in the course of its business by a
+            
+244
+
+    
+domestic corporation, or by a foreign corporation qualified to do or doing intrastate business in
+
+            
+245
+
+
+    
+this state.
+            
+246
+
+    
+    (b)  Except as provided in Subsection 
+
+59-7-102
+
+(2), "doing business" includes:
+            
+247
+
+    
+    (i)  the right to do business through incorporation or qualification;
+            
+248
+
+    
+    (ii)  the owning, renting, or leasing of real or personal property within this state; and
+            
+249
+
+    
+    (iii)  the participation in joint ventures, working and operating agreements, the
+            
+250
+
+    
+performance of which takes place in this state.
+            
+251
+
+    
+    (11)  "Domestic corporation" means a corporation that is incorporated or organized
+            
+252
+
+    
+under the laws of this state.
+            
+253
+
+    
+    (12) (a)  "Farmers' cooperative" means an association, corporation, or other
+            
+254
+
+    
+organization that is:
+            
+255
+
+    
+    (i) (A)  an association, corporation, or other organization of:
+            
+256
+
+    
+    (I)  farmers; or
+            
+257
+
+    
+    (II)  fruit growers; or
+            
+258
+
+    
+    (B)  an association, corporation, or other organization that is similar to an association,
+            
+259
+
+    
+corporation, or organization described in Subsection (12)(a)(i)(A); and
+            
+260
+
+    
+    (ii)  organized and operated on a cooperative basis to:
+            
+261
+
+    
+    (A) (I)  market the products of members of the cooperative or the products of other
+            
+262
+
+    
+producers; and
+            
+263
+
+    
+    (II)  return to the members of the cooperative or other producers the proceeds of sales
+            
+264
+
+    
+less necessary marketing expenses on the basis of the quantity of the products of a member or
+            
+265
+
+    
+producer or the value of the products of a member or producer; or
+            
+266
+
+    
+    (B) (I)  purchase supplies and equipment for the use of members of the cooperative or
+            
+267
+
+    
+other persons; and
+            
+268
+
+    
+    (II)  turn over the supplies and equipment described in Subsection (12)(a)(ii)(B)(I) at
+            
+269
+
+    
+actual costs plus necessary expenses to the members of the cooperative or other persons.
+            
+270
+
+    
+    (b) (i)  Subject to Subsection (12)(b)(ii), for purposes of this Subsection (12), the
+            
+271
+
+    
+commission by rule, made in accordance with Title 63, Chapter 46a, Utah Administrative
+            
+272
+
+    
+Rulemaking Act, shall define:
+            
+273
+
+    
+    (A)  the terms:
+            
+274
+
+    
+    (I)  "member"; and
+            
+275
+
+    
+    (II)  "producer"; and
+
+            
+276
+
+
+    
+    (B)  what constitutes an association, corporation, or other organization that is similar to
+            
+277
+
+    
+an association, corporation, or organization described in Subsection (12)(a)(i)(A).
+            
+278
+
+    
+    (ii)  The rules made under this Subsection (12)(b) shall be consistent with the filing
+            
+279
+
+    
+requirements under federal law for a farmers' cooperative.
+            
+280
+
+    
+    (13)  "Foreign corporation" means a corporation that is not incorporated or organized
+            
+281
+
+    
+under the laws of this state.
+            
+282
+
+    
+    (14) (a)  "Foreign operating company" means a corporation that:
+            
+283
+
+    
+    (i)  is incorporated in the United States; and
+            
+284
+
+    
+    (ii)  80% or more of whose business activity, as determined under Section 
+
+59-7-401
+
+, is
+            
+285
+
+    
+conducted outside the United States.
+            
+286
+
+    
+    (b)  "Foreign operating company" does not include a corporation that qualifies for the
+            
+287
+
+    
+Puerto Rico and Possession Tax Credit as provided in Section 936, Internal Revenue Code.
+            
+288
+
+    
+    [(15)  "Foreign sales corporation" means a corporation as defined in Section 922,
+            
+289
+
+    
+Internal Revenue Code.]
+            
+290
+
+    
+    [(16)] (15)  "Income" includes losses.
+            
+291
+
+    
+    [(17)] (16)  "Internal Revenue Code" means Title 26 of the United States Code as
+            
+292
+
+    
+effective during the year in which Utah taxable income is determined.
+            
+293
+
+    
+    [(18)] (17)  "Nonbusiness income" [means income] is as defined in Section 
+
+59-7-302
+
+.
+            
+294
+
+    
+    [(19)] (18)  "Nonresident shareholder" means any shareholder of an S corporation who
+            
+295
+
+    
+on the last day of the taxable year of the S corporation, is:
+            
+296
+
+    
+    (a)  an individual not domiciled in Utah; or
+            
+297
+
+    
+    (b)  a nonresident trust or nonresident estate, as defined in Section 
+
+59-10-103
+
+[; or].
+            
+298
+
+    
+    [(c)  an organization exempt under Section 501, Internal Revenue Code.]
+            
+299
+
+    
+    [(20)] (19)  "Related expenses" means:
+            
+300
+
+    
+    (a)  expenses directly attributable to nonbusiness income; and
+            
+301
+
+    
+    (b)  the portion of interest or other expense indirectly attributable to both nonbusiness
+            
+302
+
+    
+and business income which bears the same ratio to the aggregate amount of such interest or
+            
+303
+
+    
+other expense, determined without regard to this Subsection [(20)] (19), as the average amount
+            
+304
+
+    
+of the asset producing the nonbusiness income bears to the average amount of all assets of the
+            
+305
+
+    
+taxpayer within the taxable year.
+            
+306
+
+    
+    [(21)] (20)  "Resident shareholder" means any shareholder of an S corporation who is
+
+            
+307
+
+
+    
+not a nonresident shareholder.
+            
+308
+
+    
+    [(22)] (21)  "S corporation" means [a small business] an S corporation as defined in
+            
+309
+
+    
+Section 1361, Internal Revenue Code.
+            
+310
+
+    
+    [(23)] (22)  "Safe harbor lease" means a lease that qualified as a safe harbor lease under
+            
+311
+
+    
+Section 168, Internal Revenue Code.
+            
+312
+
+    
+    [(24)] (23)  "State of the United States" includes any of the 50 states or the District of
+            
+313
+
+    
+Columbia and "United States" includes the 50 states and the District of Columbia.
+            
+314
+
+    
+    [(25)] (24) (a)  "Taxable year" means the calendar year or the fiscal year ending during
+            
+315
+
+    
+such calendar year upon the basis of which the adjusted income is computed.
+            
+316
+
+    
+    (b)  In the case of a return made for a fractional part of a year under this chapter or
+            
+317
+
+    
+under rules prescribed by the commission, "taxable year" includes the period for which such
+            
+318
+
+    
+return is made.
+            
+319
+
+    
+    [(26)] (25)  "Taxpayer" means any corporation subject to the tax imposed by this
+            
+320
+
+    
+chapter.
+            
+321
+
+    
+    [(27)] (26)  "Threshold level of business activity" means business activity in the United
+            
+322
+
+    
+States equal to or greater than 20% of the corporation's total business activity as determined
+            
+323
+
+    
+under Section 
+
+59-7-401
+
+.
+            
+324
+
+    
+    [(28)] (27) Except as provided in Section 
+
+59-7-102
+
+, "unadjusted income" means federal
+            
+325
+
+    
+taxable income as determined on a separate return basis before intercompany eliminations as
+            
+326
+
+    
+determined by the Internal Revenue Code, before the net operating loss deduction and special
+            
+327
+
+    
+deductions for dividends received.
+            
+328
+
+    
+    [(29)] (28) (a)  "Unitary group" means a group of corporations that:
+            
+329
+
+    
+    (i)  are related through common ownership; and
+            
+330
+
+    
+    (ii)  by a preponderance of the evidence as determined by a court of competent
+            
+331
+
+    
+jurisdiction or the commission, are economically interdependent with one another as
+            
+332
+
+    
+demonstrated by the following factors:
+            
+333
+
+    
+    (A)  centralized management;
+            
+334
+
+    
+    (B)  functional integration; and
+            
+335
+
+    
+    (C)  economies of scale.
+            
+336
+
+    
+    (b)  "Unitary group" does not include S corporations.
+            
+337
+
+    
+    [(30)] (29)  "Utah net loss" means the current year Utah taxable income before Utah net
+
+            
+338
+
+
+    
+loss deduction, if determined to be less than zero.
+            
+339
+
+    
+    [(31)] (30)  "Utah net loss deduction" means the amount of Utah net losses from other
+            
+340
+
+    
+taxable years that may be carried back or carried forward to the current taxable year in
+            
+341
+
+    
+accordance with Section 
+
+59-7-110
+
+.
+            
+342
+
+    
+    [(32)] (31) (a)  "Utah taxable income" means Utah taxable income before net loss
+            
+343
+
+    
+deduction less Utah net loss deduction.
+            
+344
+
+    
+    (b)  "Utah taxable income" includes income from tangible or intangible property located
+            
+345
+
+    
+or having situs in this state, regardless of whether carried on in intrastate, interstate, or foreign
+            
+346
+
+    
+commerce.
+            
+347
+
+    
+    [(33)] (32)  "Utah taxable income before net loss deduction" means apportioned income
+            
+348
+
+    
+plus nonbusiness income allocable to Utah net of related expenses.
+            
+349
+
+    
+    [(34)] (33) (a)  "Water's edge combined report" means a report combining the income
+            
+350
+
+    
+and activities of:
+            
+351
+
+    
+    (i)  all members of a unitary group that are:
+            
+352
+
+    
+    (A)  corporations organized or incorporated in the United States, including those
+            
+353
+
+    
+corporations qualifying for the Puerto Rico and Possession Tax Credit as provided in Section
+            
+354
+
+    
+936, Internal Revenue Code, in accordance with Subsection [(34)] (33)(b); and
+            
+355
+
+    
+    (B)  corporations organized or incorporated outside of the United States meeting the
+            
+356
+
+    
+threshold level of business activity; and
+            
+357
+
+    
+    (ii)  an affiliated group electing to file a water's edge combined report under Subsection
+            
+358
+
+    
+
+59-7-402
+
+(2).
+            
+359
+
+    
+    (b)  There is a rebuttable presumption that a corporation which qualifies for the Puerto
+            
+360
+
+    
+Rico and Possession Tax Credit provided in Section 936, Internal Revenue Code, is part of a
+            
+361
+
+    
+unitary group.
+            
+362
+
+    
+    [(35)] (34)  "Worldwide combined report" means the combination of the income and
+            
+363
+
+    
+activities of all members of a unitary group irrespective of the country in which the
+            
+364
+
+    
+corporations are incorporated or conduct business activity.
+            
+365
+
+    
+    Section 3.  
+Section  
+59-7-402
+
+ is amended to read:
+            
+366
+
+    
+     59-7-402.  Water's edge combined report.
+            
+367
+
+    
+    (1)  Except as provided in Section 
+
+59-7-403
+
+, if any corporation listed in Subsection
+            
+368
+
+    
+
+59-7-101
+
+[(34)](33)(a) is doing business in Utah, the unitary group shall file a water's edge
+
+            
+369
+
+
+    
+combined report.
+            
+370
+
+    
+    (2) (a)  A group of corporations that are not otherwise a unitary group may elect to file a
+            
+371
+
+    
+water's edge combined report if each member of the group is:
+            
+372
+
+    
+    (i)  doing business in Utah;
+            
+373
+
+    
+    (ii)  part of the same affiliated group; and
+            
+374
+
+    
+    (iii)  qualified, under Section 1501, Internal Revenue Code, to file a federal
+            
+375
+
+    
+consolidated return.
+            
+376
+
+    
+    (b)  Each corporation within the affiliated group that is doing business in Utah must
+            
+377
+
+    
+consent to filing a combined report.  If an affiliated group elects to file a combined report, each
+            
+378
+
+    
+corporation within the affiliated group that is doing business in Utah must file a combined
+            
+379
+
+    
+report.
+            
+380
+
+    
+    (c)  Corporations that elect to file a water's edge combined report under this section may
+            
+381
+
+    
+not thereafter elect to file a separate return without the consent of the commission.
+            
+382
+
+    
+    Section 4.  Repealer.
+            
+383
+
+    
+    This bill repeals:
+            
+384
+
+    
+    Section  59-7-106.5,  Foreign sales corporations.
+            
+385
+
+    
+    Section 5.   Retrospective operation -- Effective date.
+            
+386
+
+    
+    (1)  Except as provided in Subsection (2), this bill has retrospective operation for
+            
+387
+
+    
+taxable years beginning on or after January 1, 2004.
+            
+388
+
+    
+    (2)  The amendments in this bill to Section 59-7-101 (Contingently Effective 05/02/05)
+            
+389
+
+    
+take effect as provided in Chapter 327, Section 30, Laws of Utah 2003.
+
+
+
+
+ Legislative Review Note
+    as of  12-10-03  2:49 PM
+
+A limited legal review of this legislation raises no obvious constitutional or statutory concerns.
+
+ Office of Legislative Research and General Counsel
+[Bill Documents][Bills Directory]
+
+
+
+
+
+
+
+
+
+Who represents me?
+
+
+
+
+
+Remember my Legislators
+
+
+
+
+
+State Senate
+		350 North State, Suite 320
+		PO Box 145115
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1035
+		Fax: (801) 326-1475
+
+
+
+House of Representatives
+		350 North State, Suite 350
+		PO Box 145030
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1029
+		Fax: (801) 326-1544
+
+
+
+
+
+
+
+
+
+
+Home
+Mobile Site
+Site Map
+Calendar
+Code / Constitution
+House
+Senate
+
+Terms of Use/Privacy Policy
+
+ADA
+Utah.gov
+
+
+
+
+
+
+

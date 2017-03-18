@@ -1,0 +1,1734 @@
+Sponsors: []Modifications:     78-31c-101.This chapter is known as the "Utah Uniform Mediation Act."    78-31c-102.As used in this chapter:(1)  "Mediation" means a process in which a mediator facilitates communication andnegotiation between parties to assist them in reaching a voluntary agreement regarding theirdispute.(2)  "Mediation communication" means conduct or a statement, whether oral, in arecord, verbal, or nonverbal, that occurs during a mediation or is made for purposes ofconsidering, conducting, participating in, initiating, continuing, or reconvening a mediation orretaining a mediator.(3)  "Mediation party" means a person that participates in a mediation and whoseagreement is necessary to resolve the dispute.(4)  "Mediator" means an individual who is neutral and conducts a mediation.(5)  "Nonparty participant" means a person, other than a party or mediator, thatparticipates in a mediation.(6)  "Person" means an individual, corporation, estate, trust, business trust, partnership,limited liability company, association, joint venture, government, governmental subdivision,agency, or instrumentality, public corporation, or any other legal or commercial entity.(7)  "Proceeding" means:(a)  a judicial, administrative, arbitral, or other adjudicative process, including relatedprehearing and posthearing motions, conferences, and discovery; or(b)  a legislative hearing or similar process.(8)  "Record" means information that is inscribed on a tangible medium or that is storedin an electronic or other medium and is retrievable in perceivable form.(9)  "Sign" means:(a)  to execute or adopt a tangible symbol with the present intent to authenticate arecord; or(b)  to attach or logically associate an electronic symbol, sound, or process to or with arecord with the present intent to authenticate a record.    78-31c-103.(1)  Except as otherwise provided in Subsection (2) or (3), this chapter applies to amediation in which:(a)  the mediation parties are required to mediate by statute, court, or administrativeagency rule or referred to mediation by a court, administrative agency, or arbitrator;(b)  the mediation parties and the mediator agree to mediate in a record thatdemonstrates an expectation that mediation communications will be privileged againstdisclosure; or(c)  the mediation parties use as a mediator an individual who holds himself or herselfout as a mediator or the mediation is provided by an entity that holds itself out as providingmediation.(2)  The chapter does not apply to a mediation:(a)  relating to the establishment, negotiation, administration, or termination of acollective bargaining relationship;(b)  relating to a dispute that is pending under or is part of the processes established bya collective bargaining agreement, except that the chapter applies to a mediation arising out ofa dispute that has been filed with an administrative agency or court;(c)  conducted by a judge who might make a ruling on the case; or(d)  conducted under the auspices of:(i)  a primary or secondary school if all the parties are students; or(ii)  a correctional institution for youths if all the parties are residents of that institution.(3)  If the parties agree in advance in a signed record, or a record of proceeding reflectsagreement by the parties, that all or part of a mediation is not privileged, the privileges underSections 
+
+78-31c-104
+
+ through 
+
+78-31c-106
+
+ do not apply to the mediation or part agreed upon. However, Sections 
+
+78-31c-104
+
+ through 
+
+78-31c-106
+
+ apply to a mediation communication madeby a person that has not received actual notice of the agreement before the communication ismade.    78-31c-104.(1)  Except as otherwise provided in Section 
+
+78-31c-106
+
+, a mediation communication isprivileged as provided in Subsection (2) and is not subject to discovery or admissible inevidence in a proceeding unless waived or precluded as provided by Section 
+
+78-31c-105
+
+.(2)  In a proceeding, the following privileges apply:(a)  A mediation party may refuse to disclose, and may prevent any other person fromdisclosing, a mediation communication.(b)  A mediator may refuse to disclose a mediation communication, and may preventany other person from disclosing a mediation communication of the mediator.(c)  A nonparty participant may refuse to disclose, and may prevent any other personfrom disclosing, a mediation communication of the nonparty participant.(3)  Evidence or information that is otherwise admissible or subject to discovery doesnot become inadmissible or protected from discovery solely by reason of its disclosure or use ina mediation.    78-31c-105.(1)  A privilege under Section 
+
+78-31c-104
+
+ may be waived in a record or orally during aproceeding if it is expressly waived by all parties to the mediation, and:(a)  in the case of the privilege of a mediator, it is expressly waived by the mediator;and(b)  in the case of the privilege of a nonparty participant, it is expressly waived by thenonparty participant.(2)  A person that discloses or makes a representation about a mediationcommunication which prejudices another person in a proceeding is precluded from asserting aprivilege under Section 
+
+78-31c-104
+
+, but only to the extent necessary for the person prejudicedto respond to the representation or disclosure.(3)  A person that intentionally uses a mediation to plan, attempt to commit or commit acrime, or to conceal an ongoing crime or ongoing criminal activity is precluded from assertinga privilege under Section 
+
+78-31c-104
+
+.    78-31c-106.(1)  There is no privilege under Section 
+
+78-31c-104
+
+ for a mediation communication thatis:(a)  in an agreement evidenced by a record signed by all parties to the agreement;(b)  available to the public under Title 63, Chapter 2, Government Records Access andManagement Act, or made during a mediation session which is open, or is required by law tobe open, to the public;(c)  a threat or statement of a plan to inflict bodily injury or commit a crime of violence;(d)  intentionally used to plan a crime, attempt to commit or commit a crime, or toconceal an ongoing crime or ongoing criminal activity;(e)  sought or offered to prove or disprove a claim or complaint of professionalmisconduct or malpractice filed against a mediator;(f)  except as otherwise provided in Subsection (3), sought or offered to prove ordisprove a claim or complaint of professional misconduct or malpractice filed against amediation party, nonparty participant, or representative of a party based on conduct occurringduring a mediation; or(g)  subject to the reporting requirements in Section 
+
+62A-3-305
+
+ or 
+
+62A-4a-403
+
+.(2)  There is no privilege under Section 
+
+78-31c-104
+
+ if a court, administrative agency, orarbitrator finds, after a hearing in camera, that the party seeking discovery or the proponent ofthe evidence has shown that:(a)  the evidence is not otherwise available;(b)  there is a need for the evidence that substantially outweighs the interest inprotecting confidentiality; and(c)  the mediation communication is sought or offered in:(i)  a court proceeding involving a felony or misdemeanor; or(ii)  except as otherwise provided in Subsection (3), a proceeding to prove a claim torescind or reform or a defense to avoid liability on a contract arising out of the mediation.(3)  A mediator may not be compelled to provide evidence of a mediationcommunication referred to in Subsection (1)(f) or (2)(c)(ii).(4)  If a mediation communication is not privileged under Subsection (1) or (2), onlythe portion of the communication necessary for the application of the exception fromnondisclosure may be admitted.  Admission of evidence under Subsection (1) or (2) does notrender the evidence, or any other mediation communication, discoverable or admissible for anyother purpose.    78-31c-107.(1)  Except as required in Subsection (2), a mediator may not make a report,assessment, evaluation, recommendation, finding, or other communication regarding amediation to a court, administrative agency, or other authority that may make a ruling on thedispute that is the subject of the mediation.(2)  A mediator may disclose:(a)  whether the mediation occurred or has terminated, whether a settlement wasreached, and attendance;(b)  a mediation communication as permitted under Section 
+
+78-31c-106
+
+; or(c)  a mediation communication evidencing abuse, neglect, abandonment, orexploitation of an individual to a public agency responsible for protecting individuals againstsuch mistreatment.(3)  A communication made in violation of Subsection (1) may not be considered by acourt, administrative agency, or arbitrator.    78-31c-108.Unless subject to Title 52, Chapter 4, Open and Public Meetings Act, and Title 63,Chapter 2, Government Records Access and Management Act, mediation communications areconfidential to the extent agreed by the parties or provided by other law or rule of this state.    78-31c-109.(1)  Before accepting a mediation, an individual who is requested to serve as a mediatorshall:(a)  make an inquiry that is reasonable under the circumstances to determine whetherthere are any known facts that a reasonable individual would consider likely to affect theimpartiality of the mediator, including a financial or personal interest in the outcome of themediation and an existing or past relationship with a mediation party or foreseeable participantin the mediation; and(b)  disclose any known fact to the mediation parties as soon as practical beforeaccepting a mediation.(2)  If a mediator learns any fact described in Subsection (1)(a) after accepting amediation, the mediator shall disclose it as soon as practicable.(3)  At the request of a mediation party, an individual who is requested to serve as amediator shall disclose the mediator's qualifications to mediate a dispute.(4)  Subsections (1), (2), (3), and (6) do not apply to an individual acting as a judge orombudsman.(5)  This chapter does not require that a mediator have a special qualification bybackground or profession.(6)  A mediator must be impartial, unless after disclosure of the facts required inSubsections (1) and (2) to be disclosed, the parties agree otherwise.    78-31c-110.An attorney or other individual designated by a party may accompany the party to, andparticipate in, a mediation.  A waiver of participation given before the mediation may berescinded.    78-31c-111.(1)  In this section:(a)  "International commercial mediation" means an international commercialconciliation as defined in Article 1 of the Model Law.(b)  "Model Law" means the Model Law on International Commercial Conciliationadopted by the United Nations Commission on International Trade Law on 28 June 2002 andrecommended by the United Nations General Assembly in a resolution (A/RES/57/18) dated19 November 2002.(2)  Except as otherwise provided in Subsections (3) and (4), if a mediation is aninternational commercial mediation, the mediation is governed by the Model Law.(3)  Unless the parties agree in accordance with Subsection 
+
+78-31c-103
+
+(3) that all orpart of an international commercial mediation is not privileged, Sections 
+
+78-31c-104
+
+ through
+
+78-31c-106
+
+ and any applicable definitions in Section 
+
+78-31c-102
+
+ of this chapter apply to themediation and nothing in Article 10 of the Model Law derogates from Sections 
+
+78-31c-104
+
+through 
+
+78-31c-106
+
+.(4)  If the parties to an international commercial mediation agree under Article 1,Section (7), of the Model Law that the Model Law does not apply, this chapter applies.    78-31c-112.This chapter modifies, limits, or supersedes the federal Electronic Signatures in Globaland National Commerce Act, 15 U.S.C. Section 7001 et seq., but does not modify, limit, orsupersede Section 101(c) of that act or authorize electronic delivery of any of the noticesdescribed in Section 103(b) of that act.    78-31c-113.In applying and construing this chapter, consideration should be given to the need topromote uniformity of the law with respect to its subject matter among states that enact it.    78-31c-114.(1)  This chapter governs a mediation pursuant to a referral or an agreement to mediatemade on or after May 1, 2006.(2)  Notwithstanding Subsection (1), on or after May 1, 2007, this chapter governs allagreements to mediate whenever made.Full text:
+
+
+
+Utah State Legislature
+
+
+
+
+
+
+
+
+
+
+
+
+Legislators
+
+By Session (1896-Current)
+Alphabetical (Historical)
+Find by Address/Map
+More
+
+
+Bills
+
+Bills/Bill Requests
+Passed Bills
+2017 Bills
+
+Keyword Search
+Reading Calendars
+Tracking Service
+More
+
+
+Committees
+
+All Committees
+Appropriations
+Commissions
+
+Independent Legislative Ethics Commission
+Interim
+Standing
+Subcommittees
+Task Forces
+Bills In Committees
+
+
+Utah Code / Constitution
+
+
+Title/Chapter/Section
+Keyword Search 
+
+Utah Constitution
+Laws of Utah 1851-ongoing
+Utah Territorial Laws 
+More
+
+
+Senate
+
+Main Page 
+About The Senate 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Extraordinary Sessions 
+Reading Calendars 
+Past Floor Debates 
+Senate Journals 
+
+
+House
+
+Main Page
+About the House 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Reading Calendars 
+Past Floor Debates 
+Journals 
+Conflict of Interest Forms 
+
+
+Legislative Guide 
+
+Legislative Guide
+Civic Programs
+GRAMA (Records Requests)
+
+
+Publications
+
+Search Publications
+Appropriations
+Audits
+Bagels & Briefings
+Briefing Papers
+Digest of Legislation
+Legislative Drafting Manual
+
+Journals
+
+Interim Highlights
+
+Legislative Rules
+GRAMA (Records Requests)
+Public Email
+State Organization Charts
+YouTube Channel
+Requests for Proposals and Legal Notices
+More
+
+
+Legislative Histories
+
+Legislative History Resources
+How to Research
+Bill Drafting/Research Files (1990-Ongoing)
+
+Working Bills (1896-1989)
+Interim Committee Histories (1990-Ongoing) 
+Journals
+Past House Floor Debates
+Past Senate Floor Debates
+More
+
+
+Staff Offices
+
+All Legislative Offices
+Auditor General
+Fiscal Analyst
+Printing
+Research and General Counsel
+Staff Awards
+Job Opportunities
+More
+
+
+Links of Interest
+
+Utah Administrative Rules
+Courts
+Utah State Capitol
+State of Utah
+Federal Legislation
+More
+
+
+
+
+
+
+ 
+
+Download Zipped Enrolled WordPerfect SB0061.ZIP
+[Introduced][Status][Bill Documents][Fiscal Note][Bills Directory]
+
+
+S.B. 61 Enrolled
+
+
+
+
+
+            
+1
+
+    
+ UNIFORM MEDIATION ACT
+
+
+
+            
+2
+
+    
+2006 GENERAL SESSION
+
+            
+3
+
+    
+STATE OF UTAH
+
+            
+4
+
+    
+
+
+ Chief Sponsor:  Lyle W. Hillyard
+
+
+
+            
+5
+
+    
+
+
+
+House Sponsor:  
+
+
+
+
+
+
+Lorie D. Fowlke
+
+
+
+
+
+            
+6
+
+    
+
+            
+7
+
+    
+ LONG TITLE
+            
+8
+
+    
+ General Description:
+            
+9
+
+    
+    This bill enacts the Utah Uniform Mediation Act.
+            
+10
+
+    
+ Highlighted Provisions:
+            
+11
+
+    
+    This bill:
+            
+12
+
+    
+    .    enacts the Utah Uniform Mediation Act;
+            
+13
+
+    
+    .    provides definitions;
+            
+14
+
+    
+    .    applies to most mediations;
+            
+15
+
+    
+    .    sets waiver provisions for privileges and communications within mediation;
+            
+16
+
+    
+    .    states mediation information is confidential and not admissible in court, and
+            
+17
+
+    
+specifies exceptions; and
+            
+18
+
+    
+    .    provides for mediator's disclosure of conflicts of interest.
+            
+19
+
+    
+ Monies Appropriated in this Bill:
+            
+20
+
+    
+    None
+            
+21
+
+    
+ Other Special Clauses:
+            
+22
+
+    
+    None
+            
+23
+
+    
+ Utah Code Sections Affected:
+            
+24
+
+    
+ENACTS:
+            
+25
+
+    
+     78-31c-101, Utah Code Annotated 1953
+            
+26
+
+    
+     78-31c-102, Utah Code Annotated 1953
+            
+27
+
+    
+     78-31c-103, Utah Code Annotated 1953
+            
+28
+
+    
+     78-31c-104, Utah Code Annotated 1953
+            
+29
+
+    
+     78-31c-105, Utah Code Annotated 1953
+
+            
+30
+
+
+    
+     78-31c-106, Utah Code Annotated 1953
+            
+31
+
+    
+     78-31c-107, Utah Code Annotated 1953
+            
+32
+
+    
+     78-31c-108, Utah Code Annotated 1953
+            
+33
+
+    
+     78-31c-109, Utah Code Annotated 1953
+            
+34
+
+    
+     78-31c-110, Utah Code Annotated 1953
+            
+35
+
+    
+     78-31c-111, Utah Code Annotated 1953
+            
+36
+
+    
+     78-31c-112, Utah Code Annotated 1953
+            
+37
+
+    
+     78-31c-113, Utah Code Annotated 1953
+            
+38
+
+    
+     78-31c-114, Utah Code Annotated 1953
+            
+39
+
+    
+
+            
+40
+
+    
+Be it enacted by the Legislature of the state of Utah:
+            
+41
+
+    
+    Section 1.  
+Section  
+78-31c-101
+
+ is enacted to read:
+            
+42
+
+    
+ CHAPTER 31c.  UTAH UNIFORM MEDIATION ACT
+
+            
+43
+
+    
+     78-31c-101.  Title.
+            
+44
+
+    
+    This chapter is known as the "Utah Uniform Mediation Act."
+            
+45
+
+    
+    Section 2.  
+Section  
+78-31c-102
+
+ is enacted to read:
+            
+46
+
+    
+     78-31c-102.  Definitions.
+            
+47
+
+    
+    As used in this chapter:
+            
+48
+
+    
+    (1)  "Mediation" means a process in which a mediator facilitates communication and
+            
+49
+
+    
+negotiation between parties to assist them in reaching a voluntary agreement regarding their
+            
+50
+
+    
+dispute.
+            
+51
+
+    
+    (2)  "Mediation communication" means conduct or a statement, whether oral, in a
+            
+52
+
+    
+record, verbal, or nonverbal, that occurs during a mediation or is made for purposes of
+            
+53
+
+    
+considering, conducting, participating in, initiating, continuing, or reconvening a mediation or
+            
+54
+
+    
+retaining a mediator.
+            
+55
+
+    
+    (3)  "Mediation party" means a person that participates in a mediation and whose
+            
+56
+
+    
+agreement is necessary to resolve the dispute.
+            
+57
+
+    
+    (4)  "Mediator" means an individual who is neutral and conducts a mediation.
+
+            
+58
+
+
+    
+    (5)  "Nonparty participant" means a person, other than a party or mediator, that
+            
+59
+
+    
+participates in a mediation.
+            
+60
+
+    
+    (6)  "Person" means an individual, corporation, estate, trust, business trust, partnership,
+            
+61
+
+    
+limited liability company, association, joint venture, government, governmental subdivision,
+            
+62
+
+    
+agency, or instrumentality, public corporation, or any other legal or commercial entity.
+            
+63
+
+    
+    (7)  "Proceeding" means:
+            
+64
+
+    
+    (a)  a judicial, administrative, arbitral, or other adjudicative process, including related
+            
+65
+
+    
+prehearing and posthearing motions, conferences, and discovery; or
+            
+66
+
+    
+    (b)  a legislative hearing or similar process.
+            
+67
+
+    
+    (8)  "Record" means information that is inscribed on a tangible medium or that is stored
+            
+68
+
+    
+in an electronic or other medium and is retrievable in perceivable form.
+            
+69
+
+    
+    (9)  "Sign" means:
+            
+70
+
+    
+    (a)  to execute or adopt a tangible symbol with the present intent to authenticate a
+            
+71
+
+    
+record; or
+            
+72
+
+    
+    (b)  to attach or logically associate an electronic symbol, sound, or process to or with a
+            
+73
+
+    
+record with the present intent to authenticate a record.
+            
+74
+
+    
+    Section 3.  
+Section  
+78-31c-103
+
+ is enacted to read:
+            
+75
+
+    
+     78-31c-103.  Scope.
+            
+76
+
+    
+    (1)  Except as otherwise provided in Subsection (2) or (3), this chapter applies to a
+            
+77
+
+    
+mediation in which:
+            
+78
+
+    
+    (a)  the mediation parties are required to mediate by statute, court, or administrative
+            
+79
+
+    
+agency rule or referred to mediation by a court, administrative agency, or arbitrator;
+            
+80
+
+    
+    (b)  the mediation parties and the mediator agree to mediate in a record that
+            
+81
+
+    
+demonstrates an expectation that mediation communications will be privileged against
+            
+82
+
+    
+disclosure; or
+            
+83
+
+    
+    (c)  the mediation parties use as a mediator an individual who holds himself or herself
+            
+84
+
+    
+out as a mediator or the mediation is provided by an entity that holds itself out as providing
+            
+85
+
+    
+mediation.
+
+            
+86
+
+
+    
+    (2)  The chapter does not apply to a mediation:
+            
+87
+
+    
+    (a)  relating to the establishment, negotiation, administration, or termination of a
+            
+88
+
+    
+collective bargaining relationship;
+            
+89
+
+    
+    (b)  relating to a dispute that is pending under or is part of the processes established by
+            
+90
+
+    
+a collective bargaining agreement, except that the chapter applies to a mediation arising out of
+            
+91
+
+    
+a dispute that has been filed with an administrative agency or court;
+            
+92
+
+    
+    (c)  conducted by a judge who might make a ruling on the case; or
+            
+93
+
+    
+    (d)  conducted under the auspices of:
+            
+94
+
+    
+    (i)  a primary or secondary school if all the parties are students; or
+            
+95
+
+    
+    (ii)  a correctional institution for youths if all the parties are residents of that institution.
+            
+96
+
+    
+    (3)  If the parties agree in advance in a signed record, or a record of proceeding reflects
+            
+97
+
+    
+agreement by the parties, that all or part of a mediation is not privileged, the privileges under
+            
+98
+
+    
+Sections 
+
+78-31c-104
+
+ through 
+
+78-31c-106
+
+ do not apply to the mediation or part agreed upon. 
+            
+99
+
+    
+However, Sections 
+
+78-31c-104
+
+ through 
+
+78-31c-106
+
+ apply to a mediation communication made
+            
+100
+
+    
+by a person that has not received actual notice of the agreement before the communication is
+            
+101
+
+    
+made.
+            
+102
+
+    
+    Section 4.  
+Section  
+78-31c-104
+
+ is enacted to read:
+            
+103
+
+    
+     78-31c-104.  Privilege against disclosure -- Admissibility -- Discovery.
+            
+104
+
+    
+    (1)  Except as otherwise provided in Section 
+
+78-31c-106
+
+, a mediation communication is
+            
+105
+
+    
+privileged as provided in Subsection (2) and is not subject to discovery or admissible in
+            
+106
+
+    
+evidence in a proceeding unless waived or precluded as provided by Section 
+
+78-31c-105
+
+.
+            
+107
+
+    
+    (2)  In a proceeding, the following privileges apply:
+            
+108
+
+    
+    (a)  A mediation party may refuse to disclose, and may prevent any other person from
+            
+109
+
+    
+disclosing, a mediation communication.
+            
+110
+
+    
+    (b)  A mediator may refuse to disclose a mediation communication, and may prevent
+            
+111
+
+    
+any other person from disclosing a mediation communication of the mediator.
+            
+112
+
+    
+    (c)  A nonparty participant may refuse to disclose, and may prevent any other person
+            
+113
+
+    
+from disclosing, a mediation communication of the nonparty participant.
+
+            
+114
+
+
+    
+    (3)  Evidence or information that is otherwise admissible or subject to discovery does
+            
+115
+
+    
+not become inadmissible or protected from discovery solely by reason of its disclosure or use in
+            
+116
+
+    
+a mediation.
+            
+117
+
+    
+    Section 5.  
+Section  
+78-31c-105
+
+ is enacted to read:
+            
+118
+
+    
+     78-31c-105.  Waiver and preclusion of privilege.
+            
+119
+
+    
+    (1)  A privilege under Section 
+
+78-31c-104
+
+ may be waived in a record or orally during a
+            
+120
+
+    
+proceeding if it is expressly waived by all parties to the mediation, and:
+            
+121
+
+    
+    (a)  in the case of the privilege of a mediator, it is expressly waived by the mediator;
+            
+122
+
+    
+and
+            
+123
+
+    
+    (b)  in the case of the privilege of a nonparty participant, it is expressly waived by the
+            
+124
+
+    
+nonparty participant.
+            
+125
+
+    
+    (2)  A person that discloses or makes a representation about a mediation
+            
+126
+
+    
+communication which prejudices another person in a proceeding is precluded from asserting a
+            
+127
+
+    
+privilege under Section 
+
+78-31c-104
+
+, but only to the extent necessary for the person prejudiced
+            
+128
+
+    
+to respond to the representation or disclosure.
+            
+129
+
+    
+    (3)  A person that intentionally uses a mediation to plan, attempt to commit or commit a
+            
+130
+
+    
+crime, or to conceal an ongoing crime or ongoing criminal activity is precluded from asserting
+            
+131
+
+    
+a privilege under Section 
+
+78-31c-104
+
+.
+            
+132
+
+    
+    Section 6.  
+Section  
+78-31c-106
+
+ is enacted to read:
+            
+133
+
+    
+     78-31c-106.  Exceptions to privilege.
+            
+134
+
+    
+    (1)  There is no privilege under Section 
+
+78-31c-104
+
+ for a mediation communication that
+            
+135
+
+    
+is:
+            
+136
+
+    
+    (a)  in an agreement evidenced by a record signed by all parties to the agreement;
+            
+137
+
+    
+    (b)  available to the public under Title 63, Chapter 2, Government Records Access and
+            
+138
+
+    
+Management Act, or made during a mediation session which is open, or is required by law to
+            
+139
+
+    
+be open, to the public;
+            
+140
+
+    
+    (c)  a threat or statement of a plan to inflict bodily injury or commit a crime of violence;
+            
+141
+
+    
+    (d)  intentionally used to plan a crime, attempt to commit or commit a crime, or to
+
+            
+142
+
+
+    
+conceal an ongoing crime or ongoing criminal activity;
+            
+143
+
+    
+    (e)  sought or offered to prove or disprove a claim or complaint of professional
+            
+144
+
+    
+misconduct or malpractice filed against a mediator;
+            
+145
+
+    
+    (f)  except as otherwise provided in Subsection (3), sought or offered to prove or
+            
+146
+
+    
+disprove a claim or complaint of professional misconduct or malpractice filed against a
+            
+147
+
+    
+mediation party, nonparty participant, or representative of a party based on conduct occurring
+            
+148
+
+    
+during a mediation; or
+            
+149
+
+    
+    (g)  subject to the reporting requirements in Section 
+
+62A-3-305
+
+ or 
+
+62A-4a-403
+
+.
+            
+150
+
+    
+    (2)  There is no privilege under Section 
+
+78-31c-104
+
+ if a court, administrative agency, or
+            
+151
+
+    
+arbitrator finds, after a hearing in camera, that the party seeking discovery or the proponent of
+            
+152
+
+    
+the evidence has shown that:
+            
+153
+
+    
+    (a)  the evidence is not otherwise available;
+            
+154
+
+    
+    (b)  there is a need for the evidence that substantially outweighs the interest in
+            
+155
+
+    
+protecting confidentiality; and
+            
+156
+
+    
+    (c)  the mediation communication is sought or offered in:
+            
+157
+
+    
+    (i)  a court proceeding involving a felony or misdemeanor; or
+            
+158
+
+    
+    (ii)  except as otherwise provided in Subsection (3), a proceeding to prove a claim to
+            
+159
+
+    
+rescind or reform or a defense to avoid liability on a contract arising out of the mediation.
+            
+160
+
+    
+    (3)  A mediator may not be compelled to provide evidence of a mediation
+            
+161
+
+    
+communication referred to in Subsection (1)(f) or (2)(c)(ii).
+            
+162
+
+    
+    (4)  If a mediation communication is not privileged under Subsection (1) or (2), only
+            
+163
+
+    
+the portion of the communication necessary for the application of the exception from
+            
+164
+
+    
+nondisclosure may be admitted.  Admission of evidence under Subsection (1) or (2) does not
+            
+165
+
+    
+render the evidence, or any other mediation communication, discoverable or admissible for any
+            
+166
+
+    
+other purpose.
+            
+167
+
+    
+    Section 7.  
+Section  
+78-31c-107
+
+ is enacted to read:
+            
+168
+
+    
+     78-31c-107.  Prohibited mediator reports.
+            
+169
+
+    
+    (1)  Except as required in Subsection (2), a mediator may not make a report,
+
+            
+170
+
+
+    
+assessment, evaluation, recommendation, finding, or other communication regarding a
+            
+171
+
+    
+mediation to a court, administrative agency, or other authority that may make a ruling on the
+            
+172
+
+    
+dispute that is the subject of the mediation.
+            
+173
+
+    
+    (2)  A mediator may disclose:
+            
+174
+
+    
+    (a)  whether the mediation occurred or has terminated, whether a settlement was
+            
+175
+
+    
+reached, and attendance;
+            
+176
+
+    
+    (b)  a mediation communication as permitted under Section 
+
+78-31c-106
+
+; or
+            
+177
+
+    
+    (c)  a mediation communication evidencing abuse, neglect, abandonment, or
+            
+178
+
+    
+exploitation of an individual to a public agency responsible for protecting individuals against
+            
+179
+
+    
+such mistreatment.
+            
+180
+
+    
+    (3)  A communication made in violation of Subsection (1) may not be considered by a
+            
+181
+
+    
+court, administrative agency, or arbitrator.
+            
+182
+
+    
+    Section 8.  
+Section  
+78-31c-108
+
+ is enacted to read:
+            
+183
+
+    
+     78-31c-108.  Confidentiality.
+            
+184
+
+    
+    Unless subject to Title 52, Chapter 4, Open and Public Meetings Act, and Title 63,
+            
+185
+
+    
+Chapter 2, Government Records Access and Management Act, mediation communications are
+            
+186
+
+    
+confidential to the extent agreed by the parties or provided by other law or rule of this state.
+            
+187
+
+    
+    Section 9.  
+Section  
+78-31c-109
+
+ is enacted to read:
+            
+188
+
+    
+     78-31c-109.  Mediator's disclosure of conflicts of interest -- Background.
+            
+189
+
+    
+    (1)  Before accepting a mediation, an individual who is requested to serve as a mediator
+            
+190
+
+    
+shall:
+            
+191
+
+    
+    (a)  make an inquiry that is reasonable under the circumstances to determine whether
+            
+192
+
+    
+there are any known facts that a reasonable individual would consider likely to affect the
+            
+193
+
+    
+impartiality of the mediator, including a financial or personal interest in the outcome of the
+            
+194
+
+    
+mediation and an existing or past relationship with a mediation party or foreseeable participant
+            
+195
+
+    
+in the mediation; and
+            
+196
+
+    
+    (b)  disclose any known fact to the mediation parties as soon as practical before
+            
+197
+
+    
+accepting a mediation.
+
+            
+198
+
+
+    
+    (2)  If a mediator learns any fact described in Subsection (1)(a) after accepting a
+            
+199
+
+    
+mediation, the mediator shall disclose it as soon as practicable.
+            
+200
+
+    
+    (3)  At the request of a mediation party, an individual who is requested to serve as a
+            
+201
+
+    
+mediator shall disclose the mediator's qualifications to mediate a dispute.
+            
+202
+
+    
+    (4)  Subsections (1), (2), (3), and (6) do not apply to an individual acting as a judge or
+            
+203
+
+    
+ombudsman.
+            
+204
+
+    
+    (5)  This chapter does not require that a mediator have a special qualification by
+            
+205
+
+    
+background or profession.
+            
+206
+
+    
+    (6)  A mediator must be impartial, unless after disclosure of the facts required in
+            
+207
+
+    
+Subsections (1) and (2) to be disclosed, the parties agree otherwise.
+            
+208
+
+    
+    Section 10.  
+Section  
+78-31c-110
+
+ is enacted to read:
+            
+209
+
+    
+     78-31c-110.  Participation in mediation.
+            
+210
+
+    
+    An attorney or other individual designated by a party may accompany the party to, and
+            
+211
+
+    
+participate in, a mediation.  A waiver of participation given before the mediation may be
+            
+212
+
+    
+rescinded.
+            
+213
+
+    
+    Section 11.  
+Section  
+78-31c-111
+
+ is enacted to read:
+            
+214
+
+    
+     78-31c-111.  International commercial mediation.
+            
+215
+
+    
+    (1)  In this section:
+            
+216
+
+    
+    (a)  "International commercial mediation" means an international commercial
+            
+217
+
+    
+conciliation as defined in Article 1 of the Model Law.
+            
+218
+
+    
+    (b)  "Model Law" means the Model Law on International Commercial Conciliation
+            
+219
+
+    
+adopted by the United Nations Commission on International Trade Law on 28 June 2002 and
+            
+220
+
+    
+recommended by the United Nations General Assembly in a resolution (A/RES/57/18) dated
+            
+221
+
+    
+19 November 2002.
+            
+222
+
+    
+    (2)  Except as otherwise provided in Subsections (3) and (4), if a mediation is an
+            
+223
+
+    
+international commercial mediation, the mediation is governed by the Model Law.
+            
+224
+
+    
+    (3)  Unless the parties agree in accordance with Subsection 
+
+78-31c-103
+
+(3) that all or
+            
+225
+
+    
+part of an international commercial mediation is not privileged, Sections 
+
+78-31c-104
+
+ through
+
+            
+226
+
+
+    
+
+
+78-31c-106
+
+ and any applicable definitions in Section 
+
+78-31c-102
+
+ of this chapter apply to the
+            
+227
+
+    
+mediation and nothing in Article 10 of the Model Law derogates from Sections 
+
+78-31c-104
+
+
+            
+228
+
+    
+through 
+
+78-31c-106
+
+.
+            
+229
+
+    
+    (4)  If the parties to an international commercial mediation agree under Article 1,
+            
+230
+
+    
+Section (7), of the Model Law that the Model Law does not apply, this chapter applies.
+            
+231
+
+    
+    Section 12.  
+Section  
+78-31c-112
+
+ is enacted to read:
+            
+232
+
+    
+     78-31c-112.  Relation to Electronic Signatures in Global and National Commerce
+            
+233
+
+    
+ Act.
+            
+234
+
+    
+    This chapter modifies, limits, or supersedes the federal Electronic Signatures in Global
+            
+235
+
+    
+and National Commerce Act, 15 U.S.C. Section 7001 et seq., but does not modify, limit, or
+            
+236
+
+    
+supersede Section 101(c) of that act or authorize electronic delivery of any of the notices
+            
+237
+
+    
+described in Section 103(b) of that act.
+            
+238
+
+    
+    Section 13.  
+Section  
+78-31c-113
+
+ is enacted to read:
+            
+239
+
+    
+     78-31c-113.  Uniformity of application and construction.
+            
+240
+
+    
+    In applying and construing this chapter, consideration should be given to the need to
+            
+241
+
+    
+promote uniformity of the law with respect to its subject matter among states that enact it.
+            
+242
+
+    
+    Section 14.  
+Section  
+78-31c-114
+
+ is enacted to read:
+            
+243
+
+    
+     78-31c-114.  Application to existing agreements or referrals.
+            
+244
+
+    
+    (1)  This chapter governs a mediation pursuant to a referral or an agreement to mediate
+            
+245
+
+    
+made on or after May 1, 2006.
+            
+246
+
+    
+    (2)  Notwithstanding Subsection (1), on or after May 1, 2007, this chapter governs all
+            
+247
+
+    
+agreements to mediate whenever made.
+[Bill Documents][Bills Directory]
+
+
+
+
+
+
+
+
+
+Who represents me?
+
+
+
+
+
+Remember my Legislators
+
+
+
+
+
+State Senate
+		350 North State, Suite 320
+		PO Box 145115
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1035
+		Fax: (801) 326-1475
+
+
+
+House of Representatives
+		350 North State, Suite 350
+		PO Box 145030
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1029
+		Fax: (801) 326-1544
+
+
+
+
+
+
+
+
+
+
+Home
+Mobile Site
+Site Map
+Calendar
+Code / Constitution
+House
+Senate
+
+Terms of Use/Privacy Policy
+
+ADA
+Utah.gov
+
+
+
+
+
+
+

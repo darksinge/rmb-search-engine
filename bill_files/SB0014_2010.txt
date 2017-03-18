@@ -1,0 +1,1250 @@
+Sponsors: []Modifications: or.PreventionFull text:
+
+
+
+Utah State Legislature
+
+
+
+
+
+
+
+
+
+
+
+
+Legislators
+
+By Session (1896-Current)
+Alphabetical (Historical)
+Find by Address/Map
+More
+
+
+Bills
+
+Bills/Bill Requests
+Passed Bills
+2017 Bills
+
+Keyword Search
+Reading Calendars
+Tracking Service
+More
+
+
+Committees
+
+All Committees
+Appropriations
+Commissions
+
+Independent Legislative Ethics Commission
+Interim
+Standing
+Subcommittees
+Task Forces
+Bills In Committees
+
+
+Utah Code / Constitution
+
+
+Title/Chapter/Section
+Keyword Search 
+
+Utah Constitution
+Laws of Utah 1851-ongoing
+Utah Territorial Laws 
+More
+
+
+Senate
+
+Main Page 
+About The Senate 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Extraordinary Sessions 
+Reading Calendars 
+Past Floor Debates 
+Senate Journals 
+
+
+House
+
+Main Page
+About the House 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Reading Calendars 
+Past Floor Debates 
+Journals 
+Conflict of Interest Forms 
+
+
+Legislative Guide 
+
+Legislative Guide
+Civic Programs
+GRAMA (Records Requests)
+
+
+Publications
+
+Search Publications
+Appropriations
+Audits
+Bagels & Briefings
+Briefing Papers
+Digest of Legislation
+Legislative Drafting Manual
+
+Journals
+
+Interim Highlights
+
+Legislative Rules
+GRAMA (Records Requests)
+Public Email
+State Organization Charts
+YouTube Channel
+Requests for Proposals and Legal Notices
+More
+
+
+Legislative Histories
+
+Legislative History Resources
+How to Research
+Bill Drafting/Research Files (1990-Ongoing)
+
+Working Bills (1896-1989)
+Interim Committee Histories (1990-Ongoing) 
+Journals
+Past House Floor Debates
+Past Senate Floor Debates
+More
+
+
+Staff Offices
+
+All Legislative Offices
+Auditor General
+Fiscal Analyst
+Printing
+Research and General Counsel
+Staff Awards
+Job Opportunities
+More
+
+
+Links of Interest
+
+Utah Administrative Rules
+Courts
+Utah State Capitol
+State of Utah
+Federal Legislation
+More
+
+
+
+
+
+
+ 
+
+Download Zipped Enrolled WordPerfect SB0014.ZIP
+[Introduced][Status][Bill Documents][Fiscal Note][Bills Directory]
+
+
+S.B. 14 Enrolled
+
+
+
+
+
+            
+1
+
+    
+ BUILDING AND CONSTRUCTION PROJECTS
+
+            
+2
+
+    
+ - TECHNICAL CORRECTIONS
+
+
+
+            
+3
+
+    
+2010 GENERAL SESSION
+
+            
+4
+
+    
+STATE OF UTAH
+
+            
+5
+
+    
+
+
+ Chief Sponsor:  Mark B. Madsen
+
+
+
+            
+6
+
+    
+
+
+
+House Sponsor:  
+
+
+
+
+
+
+Christopher N. Herrod
+
+
+
+
+
+            
+7
+
+    
+Cosponsors:
+            
+8
+
+    
+Patricia W. JonesDaniel R. Liljenquist
+Ralph OkerlundLuz Robles
+            
+9
+
+    
+
+            
+10
+
+    
+ LONG TITLE
+            
+11
+
+    
+ General Description:
+            
+12
+
+    
+    This bill makes technical corrections to building and construction projects provisions
+            
+13
+
+    
+dealing with notices of completion and definitions.
+            
+14
+
+    
+ Highlighted Provisions:
+            
+15
+
+    
+    This bill:
+            
+16
+
+    
+    .    removes duplicative provisions dealing with the filing of a notice of completion of
+            
+17
+
+    
+a construction project; and
+            
+18
+
+    
+    .    makes a conforming change to correctly reference the Fire Prevention Board in the
+            
+19
+
+    
+definitions section of the Uniform Building Standards Act.
+            
+20
+
+    
+ Monies Appropriated in this Bill:
+            
+21
+
+    
+    None
+            
+22
+
+    
+ Other Special Clauses:
+            
+23
+
+    
+    None
+            
+24
+
+    
+ Utah Code Sections Affected:
+            
+25
+
+    
+AMENDS:
+            
+26
+
+    
+     38-1-33, as last amended by Laws of Utah 2009, Chapter 239
+            
+27
+
+    
+     58-56-3, as last amended by Laws of Utah 2009, Chapter 339
+            
+28
+
+    
+
+            
+29
+
+    
+Be it enacted by the Legislature of the state of Utah:
+
+            
+30
+
+
+    
+    Section 1.  
+Section  
+38-1-33
+
+ is amended to read:
+            
+31
+
+    
+     38-1-33.  Notice of completion.
+            
+32
+
+    
+    (1) (a)  Upon final completion of a construction project, and in accordance with
+            
+33
+
+    
+Section 
+
+38-1-40
+
+, the following with a construction project registered with the database may
+            
+34
+
+    
+file a notice of completion with the database:
+            
+35
+
+    
+    (i)  an owner of the construction project;
+            
+36
+
+    
+    (ii)  an original contractor of the construction project;
+            
+37
+
+    
+    (iii)  a lender that has provided financing for the construction project;
+            
+38
+
+    
+    (iv)  a surety that has provided bonding for the construction project; or
+            
+39
+
+    
+    (v)  a title company issuing a title insurance policy on the construction project[;].
+            
+40
+
+    
+    [(vi)  a lender that has provided financing for the construction project;]
+            
+41
+
+    
+    [(vii)  a surety that has provided bonding for the construction project; or]
+            
+42
+
+    
+    [(viii)  a title company issuing a title insurance policy on the construction project.]
+            
+43
+
+    
+    (b)  Notwithstanding Section 
+
+38-1-2
+
+, if a subcontractor performs substantial work after
+            
+44
+
+    
+the applicable dates established by Subsection (1)(a), that subcontractor's subcontract is
+            
+45
+
+    
+considered an original contract for the sole purpose of determining:
+            
+46
+
+    
+    (i)  the subcontractor's time frame to file a notice to hold and claim a lien under
+            
+47
+
+    
+Subsection 
+
+38-1-7
+
+(1); and
+            
+48
+
+    
+    (ii)  the original contractor's time frame to file a notice to hold and claim a lien under
+            
+49
+
+    
+Subsection 
+
+38-1-7
+
+(1) for that subcontractor's work.
+            
+50
+
+    
+    (c)  A notice of completion shall include:
+            
+51
+
+    
+    (i)  the building permit number for the project, or the number assigned to the project by
+            
+52
+
+    
+the designated agent;
+            
+53
+
+    
+    (ii)  the name, address, and telephone number of the person filing the notice of
+            
+54
+
+    
+completion;
+            
+55
+
+    
+    (iii)  the name of the original contractor for the project;
+            
+56
+
+    
+    (iv)  the address of the project or a description of the location of the project;
+            
+57
+
+    
+    (v)  the date on which final completion is alleged to have occurred; and
+
+            
+58
+
+
+    
+    (vi)  the method used to determine final completion.
+            
+59
+
+    
+    (d)  For purposes of this section, final completion of the original contract does not
+            
+60
+
+    
+occur if work remains to be completed for which the owner is holding payment to ensure
+            
+61
+
+    
+completion of the work.
+            
+62
+
+    
+    (e) (i)  Unless a person indicates to the division or designated agent that the person
+            
+63
+
+    
+does not wish to receive a notice under this section, electronic notification of the filing of a
+            
+64
+
+    
+notice of completion or alternate notice as prescribed in Subsection (1)(a), shall be provided
+            
+65
+
+    
+to:
+            
+66
+
+    
+    (A)  each person that filed a notice of commencement for the project;
+            
+67
+
+    
+    (B)  each person that filed preliminary notice for the project; and
+            
+68
+
+    
+    (C)  all interested persons who have requested notices concerning the project.
+            
+69
+
+    
+    (ii)  A person to whom notice is required under this Subsection (1)(e) is responsible
+            
+70
+
+    
+for:
+            
+71
+
+    
+    (A)  providing an e-mail address, mailing address, or telefax number to which a notice
+            
+72
+
+    
+required by this Subsection (1)(e) is to be sent; and
+            
+73
+
+    
+    (B)  the accuracy of any e-mail address, mailing address, or telefax number to which
+            
+74
+
+    
+notice is to be sent.
+            
+75
+
+    
+    (iii)  The designated agent fulfills the notice requirement of Subsection (1)(e)(i) when
+            
+76
+
+    
+it sends the notice to the e-mail address, mailing address, or telefax number provided to the
+            
+77
+
+    
+designated agent, whether or not the notice is actually received.
+            
+78
+
+    
+    (iv)  Upon the filing of a notice of completion, the time periods for filing preliminary
+            
+79
+
+    
+notices stated in Section 
+
+38-1-27
+
+ are modified such that all preliminary notices shall be filed
+            
+80
+
+    
+subsequent to the notice of completion and within 10 days from the day on which the notice of
+            
+81
+
+    
+completion is filed.
+            
+82
+
+    
+    (f)  A subcontract that is considered an original contract for purposes of this section
+            
+83
+
+    
+does not create a requirement for an additional preliminary notice if a preliminary notice has
+            
+84
+
+    
+already been given for the labor, service, equipment, and material furnished to the
+            
+85
+
+    
+subcontractor who performs substantial work.
+
+            
+86
+
+
+    
+    (2) (a)  If a construction project owner, original contractor, subcontractor, or other
+            
+87
+
+    
+interested person believes that a notice of completion has been filed erroneously, that owner,
+            
+88
+
+    
+original contractor, subcontractor, or other interested person can request from the person who
+            
+89
+
+    
+filed the notice of completion evidence establishing the validity of the notice of completion.
+            
+90
+
+    
+    (b)  Within 10 days after the request described in Subsection (2)(a), the person who
+            
+91
+
+    
+filed the notice of completion shall provide the requesting person proof that the notice of
+            
+92
+
+    
+completion is valid.
+            
+93
+
+    
+    (c)  If the person that filed the notice of completion does not provide proof of the
+            
+94
+
+    
+validity of the notice of completion, that person shall immediately cancel the notice of
+            
+95
+
+    
+completion from the database in any manner prescribed by the division pursuant to rule.
+            
+96
+
+    
+    (3)  A person filing a notice of completion by alternate filing is responsible for
+            
+97
+
+    
+verifying and changing any incorrect information in the notice of completion before the
+            
+98
+
+    
+expiration of the time period during which the notice is required to be filed.
+            
+99
+
+    
+    Section 2.  
+Section  
+58-56-3
+
+ is amended to read:
+            
+100
+
+    
+     58-56-3.  Definitions.
+            
+101
+
+    
+    In addition to the definitions in Section 
+
+58-1-102
+
+, as used in this chapter:
+            
+102
+
+    
+    (1) (a)  "Adopted code" means:
+            
+103
+
+    
+    (i) (A)  a new edition of or amendment to an existing code, including the standards and
+            
+104
+
+    
+specifications contained in the code, adopted by the Legislature under Section 
+
+58-56-7
+
+; and
+            
+105
+
+    
+    (B)  administered by the division under Section 
+
+58-56-6
+
+; and
+            
+106
+
+    
+    (ii)  adopted by a nationally recognized code authority, including:
+            
+107
+
+    
+    (A)  a building code;
+            
+108
+
+    
+    (B)  the National Electrical Code promulgated by the National Fire Protection
+            
+109
+
+    
+Association;
+            
+110
+
+    
+    (C)  a residential one and two family dwelling code;
+            
+111
+
+    
+    (D)  a plumbing code;
+            
+112
+
+    
+    (E)  a mechanical code;
+            
+113
+
+    
+    (F)  a fuel gas code;
+
+            
+114
+
+
+    
+    (G)  an energy conservation code; and
+            
+115
+
+    
+    (H)  a manufactured housing installation standard code.
+            
+116
+
+    
+    (b)  "Adopted code" includes:
+            
+117
+
+    
+    (i)  a fire code administered by the Fire Prevention Board under Section 
+
+53-7-204
+
+; and
+            
+118
+
+    
+    (ii)  a code listed in Subsection (1)(a)(ii) that was adopted or amended by the division
+            
+119
+
+    
+and Uniform Building Code Commission or the Fire [Protection] Prevention Board before
+            
+120
+
+    
+May 12, 2009.
+            
+121
+
+    
+    (2) (a) [(i)]  "Approved code" means a code, including the standards and specifications
+            
+122
+
+    
+contained in the code, approved by the division under Section 
+
+58-56-4
+
+ for use by a compliance
+            
+123
+
+    
+agency[;] and [(ii)] administered by the division under Section 
+
+58-56-6
+
+.
+            
+124
+
+    
+    (b)  "Approved code" does not include an adopted code listed under Subsection (1)(b).
+            
+125
+
+    
+    (3)  "Board" means the Fire Prevention Board created in Section 
+
+53-7-203
+
+.
+            
+126
+
+    
+    (4)  "Building" means a structure used or intended for supporting or sheltering any use
+            
+127
+
+    
+or occupancy and any improvements attached to it.
+            
+128
+
+    
+    (5)  "Commission" means the Uniform Building Code Commission created under this
+            
+129
+
+    
+chapter.
+            
+130
+
+    
+    (6)  "Compliance agency" means:
+            
+131
+
+    
+    (a)  an agency of the state or any of its political subdivisions which issues permits for
+            
+132
+
+    
+construction regulated under the codes;
+            
+133
+
+    
+    (b)  any other agency of the state or its political subdivisions specifically empowered to
+            
+134
+
+    
+enforce compliance with the codes; or
+            
+135
+
+    
+    (c)  any other state agency which chooses to enforce codes adopted under this chapter
+            
+136
+
+    
+by authority given the agency under a title other than Title 58, Occupations and Professions.
+            
+137
+
+    
+    (7)  "Factory built housing" means manufactured homes or mobile homes.
+            
+138
+
+    
+    (8) (a)  "Factory built housing set-up contractor" means an individual licensed by the
+            
+139
+
+    
+division to set up or install factory built housing on a temporary or permanent basis.
+            
+140
+
+    
+    (b)  The scope of the work included under the license includes the placement or
+            
+141
+
+    
+securing, or both placement and securing, of the factory built housing on a permanent or
+
+            
+142
+
+
+    
+temporary foundation, securing the units together if required, and connection of the utilities to
+            
+143
+
+    
+the factory built housing unit, but does not include site preparation, construction of a
+            
+144
+
+    
+permanent foundation, and construction of utility services to the near proximity of the factory
+            
+145
+
+    
+built housing unit.
+            
+146
+
+    
+    (c)  If a dealer is not licensed as a factory built housing set-up contractor, that
+            
+147
+
+    
+individual must subcontract the connection services to individuals who are licensed by the
+            
+148
+
+    
+division to perform those specific functions under Title 58, Chapter 55, Utah Construction
+            
+149
+
+    
+Trades Licensing Act.
+            
+150
+
+    
+    (9)  "HUD code" means the National Manufactured Housing Construction and Safety
+            
+151
+
+    
+Standards Act, 42 U.S.C. Sec. 5401 et seq.
+            
+152
+
+    
+    (10)  "Legislative action" means the Legislature's:
+            
+153
+
+    
+    (a)  adoption of a new adopted code;
+            
+154
+
+    
+    (b)  adoption of an amendment to an existing adopted code;
+            
+155
+
+    
+    (c)  repeal of an adopted code; or
+            
+156
+
+    
+    (d)  repeal of a provision of an adopted code.
+            
+157
+
+    
+    (11)  "Local regulator" means each political subdivision of the state which is
+            
+158
+
+    
+empowered to engage in the regulation of construction, alteration, remodeling, building,
+            
+159
+
+    
+repair, and other activities subject to the codes.
+            
+160
+
+    
+    (12) (a)  "Manufactured home" means a transportable factory built housing unit
+            
+161
+
+    
+constructed on or after June 15, 1976, according to the HUD Code, in one or more sections,
+            
+162
+
+    
+which:
+            
+163
+
+    
+    (i)  in the traveling mode, is eight body feet or more in width or 40 body feet or more in
+            
+164
+
+    
+length, or when erected on site, is 400 or more square feet; and
+            
+165
+
+    
+    (ii)  is built on a permanent chassis and designed to be used as a dwelling with or
+            
+166
+
+    
+without a permanent foundation when connected to the required utilities, and includes the
+            
+167
+
+    
+plumbing, heating, air-conditioning, and electrical systems.
+            
+168
+
+    
+    (b)  Manufactured homes constructed on or after June 15, 1976, shall be identifiable by
+            
+169
+
+    
+the manufacturer's data plate bearing the date the unit was manufactured and a HUD label
+
+            
+170
+
+
+    
+attached to the exterior of the home certifying the home was manufactured to HUD standards.
+            
+171
+
+    
+    (13)  "Mobile home" means a transportable factory built housing unit built prior to
+            
+172
+
+    
+June 15, 1976, in accordance with a state mobile home code which existed prior to the HUD
+            
+173
+
+    
+Code.
+            
+174
+
+    
+    (14)  "Modular unit" means a structure built from sections which are manufactured in
+            
+175
+
+    
+accordance with the construction standards adopted pursuant to Section 
+
+58-56-4
+
+ and
+            
+176
+
+    
+transported to a building site, the purpose of which is for human habitation, occupancy, or use.
+            
+177
+
+    
+    (15)  "Opinion" means a written, nonbinding, and advisory statement issued by the
+            
+178
+
+    
+commission concerning an interpretation of the meaning of the codes or the application of the
+            
+179
+
+    
+codes in a specific circumstance issued in response to a specific request by a party to the issue.
+            
+180
+
+    
+    (16)  "State regulator" means an agency of the state which is empowered to engage in
+            
+181
+
+    
+the regulation of construction, alteration, remodeling, building, repair, and other activities
+            
+182
+
+    
+subject to the codes adopted pursuant to this chapter.
+[Bill Documents][Bills Directory]
+
+
+
+
+
+
+
+
+
+Who represents me?
+
+
+
+
+
+Remember my Legislators
+
+
+
+
+
+State Senate
+		350 North State, Suite 320
+		PO Box 145115
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1035
+		Fax: (801) 326-1475
+
+
+
+House of Representatives
+		350 North State, Suite 350
+		PO Box 145030
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1029
+		Fax: (801) 326-1544
+
+
+
+
+
+
+
+
+
+
+Home
+Mobile Site
+Site Map
+Calendar
+Code / Constitution
+House
+Senate
+
+Terms of Use/Privacy Policy
+
+ADA
+Utah.gov
+
+
+
+
+
+
+

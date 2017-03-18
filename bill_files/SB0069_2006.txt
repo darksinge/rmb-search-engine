@@ -1,0 +1,1117 @@
+Sponsors: []Modifications:     13-42-101.This chapter is known as the "Consumer Credit Protection Act."    13-42-102.As used in this chapter:(1) (a)  "Breach of system security" means an unauthorized acquisition of computerizeddata maintained by a person that compromises the security, confidentiality, or integrity ofpersonal information.(b)  "Breach of system security" does not include the acquisition of personalinformation by an employee or agent of the person possessing unencrypted computerized dataunless the personal information is used for an unlawful purpose or disclosed in an unauthorizedmanner.(2)  "Consumer" means a natural person.(3) (a)  "Personal information" means a person's first name or first initial and last name,combined with any one or more of the following data elements relating to that person wheneither the name or date element is unencrypted or not protected by another method that rendersthe data unreadable or unusable:(i)  Social Security number;(ii) (A)  financial account number, or credit or debit card number; and(B)  any required security code, access code, or password that would permit access tothe person's account; or(iii)  driver license number or state identification card number.(b)  "Personal information" does not include information regardless of its source,contained in federal, state, or local government records or in widely distributed media that arelawfully made available to the general public.(4)  "Record" includes materials maintained in any form, including paper andelectronic.    13-42-201.(1)  Any person who conducts business in the state and maintains personal informationshall implement and maintain reasonable procedures to:(a)  prevent unlawful use or disclosure of personal information collected or maintainedin the regular course of business; and(b)  destroy, or arrange for the destruction of, records containing personal informationthat are not to be retained by the person.(2)  The destruction of records under Subsection (1)(b) shall be by:(a)  shredding;(b)  erasing; or(c)  otherwise modifying the personal information to make the informationindecipherable.(3)  This section does not apply to a financial institution as defined by 15 U.S.C.Section 6809.    13-42-202.(1) (a)  A person who owns or licenses computerized data that includes personalinformation concerning a Utah resident shall, when the person becomes aware of a breach ofsystem security, conduct in good faith a reasonable and prompt investigation to determine thelikelihood that personal information has been or will be misused for identity theft or fraudpurposes.(b)  If an investigation under Subsection (1)(a) reveals that the misuse of personalinformation for identity theft or fraud purposes has occurred, or is reasonably likely to occur,the person shall provide notification to each affected Utah resident.(2)  A person required to provide notification under Subsection (1) shall provide thenotification in the most expedient time possible without unreasonable delay:(a)  considering legitimate investigative needs of law enforcement, as provided inSubsection (4)(a);(b)  after determining the scope of the breach of system security; and(c)  after restoring the reasonable integrity of the system.(3) (a)  A person who maintains computerized data that includes personal informationthat the person does not own or license shall notify and cooperate with the owner or licensee ofthe information of any breach of system security immediately following the person's discoveryof the breach if misuse of the personal information occurs or is reasonably likely to occur.(b)  Cooperation under Subsection (3)(a) includes sharing information relevant to thebreach with the owner or licensee of the information.(4) (a)  Notwithstanding Subsection (2), a person may delay providing notificationunder Subsection (1) at the request of a law enforcement agency that determines thatnotification may impede a criminal investigation.(b)  A person who delays providing notification under Subsection (4)(a) shall providenotification in good faith without unreasonable delay in the most expedient time possible afterthe law enforcement agency informs the person that notification will no longer impede thecriminal investigation.(5) (a)  A notification required by this section may be provided:(i)  in writing by first-class mail to the most recent address the person has for theresident;(ii)  electronically, if the person's primary method of communication with the resident isby electronic means, or if provided in accordance with the consumer disclosure provisions of15 U.S.C. Section 7001;(iii)  by telephone, including through the use of automatic dialing technology notprohibited by other law; or(iv)  by publishing notice of the breach of system security in a newspaper of generalcirculation.(b)  If a person maintains the person's own notification procedures as part of aninformation security policy for the treatment of personal information the person is consideredto be in compliance with this chapter's notification requirements if the procedures are otherwiseconsistent with this chapter's timing requirements and the person notifies each affected Utahresident in accordance with the person's information security policy in the event of a breach.(c)  A person who is regulated by state or federal law and maintains procedures for abreach of system security under applicable law established by the primary state or federalregulator is considered to be in compliance with this part if the person notifies each affectedUtah resident in accordance with the other applicable law in the event of a breach.(6)  A waiver of this section is contrary to public policy and is void and unenforceable.    13-42-301.(1)  The attorney general may enforce this chapter's provisions.(2) (a)  Nothing in this chapter creates a private right of action.(b)  Nothing in this chapter affects any private right of action existing under other law,including contract or tort.(3)  A person who violates this chapter's provisions is subject to a civil fine of:(a)  no greater than $2,500 for a violation or series of violations concerning a specificconsumer; and(b)  no greater than $100,000 in the aggregate for related violations concerning morethan one consumer.(4)  In addition to the penalties provided in Subsection (3), the attorney general mayseek injunctive relief to prevent future violations of this chapter in:(a)  the district court located in Salt Lake City; or(b)  the district court for the district in which resides a consumer who is affected by theviolation.(1)  There is appropriated from the General Fund to the attorney general:(a)  as an ongoing appropriation, subject to future budget constraints, $89,400 for fiscalyear 2006-07; and(b)  $23,000 for fiscal year 2006-07 only.(2)  It is the intent of the Legislature that:(a)  the monies appropriated under Subsection (1)(a) be used to fund investigatoryactivities that may lead to an enforcement action by the attorney general under Section
+
+13-42-301
+
+; and(b)  the monies appropriated under Subsection (1)(b) be used to purchase equipmentrequired for investigatory activities that may lead to an enforcement action by the attorneygeneral under Section 
+
+13-42-301
+
+.This bill takes effect on January 1, 2007.Full text:
+
+
+
+Utah State Legislature
+
+
+
+
+
+
+
+
+
+
+
+
+Legislators
+
+By Session (1896-Current)
+Alphabetical (Historical)
+Find by Address/Map
+More
+
+
+Bills
+
+Bills/Bill Requests
+Passed Bills
+2017 Bills
+
+Keyword Search
+Reading Calendars
+Tracking Service
+More
+
+
+Committees
+
+All Committees
+Appropriations
+Commissions
+
+Independent Legislative Ethics Commission
+Interim
+Standing
+Subcommittees
+Task Forces
+Bills In Committees
+
+
+Utah Code / Constitution
+
+
+Title/Chapter/Section
+Keyword Search 
+
+Utah Constitution
+Laws of Utah 1851-ongoing
+Utah Territorial Laws 
+More
+
+
+Senate
+
+Main Page 
+About The Senate 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Extraordinary Sessions 
+Reading Calendars 
+Past Floor Debates 
+Senate Journals 
+
+
+House
+
+Main Page
+About the House 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Reading Calendars 
+Past Floor Debates 
+Journals 
+Conflict of Interest Forms 
+
+
+Legislative Guide 
+
+Legislative Guide
+Civic Programs
+GRAMA (Records Requests)
+
+
+Publications
+
+Search Publications
+Appropriations
+Audits
+Bagels & Briefings
+Briefing Papers
+Digest of Legislation
+Legislative Drafting Manual
+
+Journals
+
+Interim Highlights
+
+Legislative Rules
+GRAMA (Records Requests)
+Public Email
+State Organization Charts
+YouTube Channel
+Requests for Proposals and Legal Notices
+More
+
+
+Legislative Histories
+
+Legislative History Resources
+How to Research
+Bill Drafting/Research Files (1990-Ongoing)
+
+Working Bills (1896-1989)
+Interim Committee Histories (1990-Ongoing) 
+Journals
+Past House Floor Debates
+Past Senate Floor Debates
+More
+
+
+Staff Offices
+
+All Legislative Offices
+Auditor General
+Fiscal Analyst
+Printing
+Research and General Counsel
+Staff Awards
+Job Opportunities
+More
+
+
+Links of Interest
+
+Utah Administrative Rules
+Courts
+Utah State Capitol
+State of Utah
+Federal Legislation
+More
+
+
+
+
+
+
+ 
+
+Download Zipped Enrolled WordPerfect SB0069.ZIP
+[Introduced][Amended][Status][Bill Documents][Fiscal Note][Bills Directory]
+
+
+S.B. 69 Enrolled
+
+
+
+
+
+            
+1
+
+    
+ PROTECTION OF INFORMATION IN
+
+            
+2
+
+    
+ CONSUMER CREDIT DATABASES
+
+
+
+            
+3
+
+    
+2006 GENERAL SESSION
+
+            
+4
+
+    
+STATE OF UTAH
+
+            
+5
+
+    
+
+
+ Chief Sponsor:  Carlene M. Walker
+
+
+
+            
+6
+
+    
+
+
+
+House Sponsor:  
+
+
+
+
+
+
+David  Clark
+
+
+
+
+
+            
+7
+
+    
+
+            
+8
+
+    
+ LONG TITLE
+            
+9
+
+    
+ General Description:
+            
+10
+
+    
+    This bill addresses the integrity of consumer credit databases.
+            
+11
+
+    
+ Highlighted Provisions:
+            
+12
+
+    
+    This bill:
+            
+13
+
+    
+    .    defines terms;
+            
+14
+
+    
+    .    requires a person maintaining personal information in connection with a business to
+            
+15
+
+    
+implement procedures to protect personal information;
+            
+16
+
+    
+    .    requires destruction of certain records;
+            
+17
+
+    
+    .    requires disclosure of breaches of databases containing personal information; and
+            
+18
+
+    
+    .    provides for enforcement by the attorney general.
+            
+19
+
+    
+ Monies Appropriated in this Bill:
+            
+20
+
+    
+    This bill appropriates from the General Fund to the attorney general: 
+            
+21
+
+    
+    .    as an ongoing appropriation subject to future budget constraints, $89,400 for fiscal
+            
+22
+
+    
+year 2006-07; and
+            
+23
+
+    
+    .    $23,000 for fiscal year 2006-07 only.
+            
+24
+
+    
+ Other Special Clauses:
+            
+25
+
+    
+    This bill takes effect on January 1, 2007.
+            
+26
+
+    
+ Utah Code Sections Affected:
+            
+27
+
+    
+ENACTS:
+            
+28
+
+    
+     13-42-101, Utah Code Annotated 1953
+            
+29
+
+    
+     13-42-102, Utah Code Annotated 1953
+
+            
+30
+
+
+    
+     13-42-201, Utah Code Annotated 1953
+            
+31
+
+    
+     13-42-202, Utah Code Annotated 1953
+            
+32
+
+    
+     13-42-301, Utah Code Annotated 1953
+            
+33
+
+    
+
+            
+34
+
+    
+Be it enacted by the Legislature of the state of Utah:
+            
+35
+
+    
+    Section 1.  
+Section  
+13-42-101
+
+ is enacted to read:
+            
+36
+
+    
+ CHAPTER 42.  CONSUMER CREDIT PROTECTION ACT
+
+            
+37
+
+    
+ Part 1.  General Provisions
+
+            
+38
+
+    
+     13-42-101.  Title.
+            
+39
+
+    
+    This chapter is known as the "Consumer Credit Protection Act."
+            
+40
+
+    
+    Section 2.  
+Section  
+13-42-102
+
+ is enacted to read:
+            
+41
+
+    
+     13-42-102.  Definitions.
+            
+42
+
+    
+    As used in this chapter:
+            
+43
+
+    
+    (1) (a)  "Breach of system security" means an unauthorized acquisition of computerized
+            
+44
+
+    
+data maintained by a person that compromises the security, confidentiality, or integrity of
+            
+45
+
+    
+personal information.
+            
+46
+
+    
+    (b)  "Breach of system security" does not include the acquisition of personal
+            
+47
+
+    
+information by an employee or agent of the person possessing unencrypted computerized data
+            
+48
+
+    
+unless the personal information is used for an unlawful purpose or disclosed in an unauthorized
+            
+49
+
+    
+manner.
+            
+50
+
+    
+    (2)  "Consumer" means a natural person.
+            
+51
+
+    
+    (3) (a)  "Personal information" means a person's first name or first initial and last name,
+            
+52
+
+    
+combined with any one or more of the following data elements relating to that person when
+            
+53
+
+    
+either the name or date element is unencrypted or not protected by another method that renders
+            
+54
+
+    
+the data unreadable or unusable:
+            
+55
+
+    
+    (i)  Social Security number;
+            
+56
+
+    
+    (ii) (A)  financial account number, or credit or debit card number; and
+            
+57
+
+    
+    (B)  any required security code, access code, or password that would permit access to
+
+            
+58
+
+
+    
+the person's account; or
+            
+59
+
+    
+    (iii)  driver license number or state identification card number.
+            
+60
+
+    
+    (b)  "Personal information" does not include information regardless of its source,
+            
+61
+
+    
+contained in federal, state, or local government records or in widely distributed media that are
+            
+62
+
+    
+lawfully made available to the general public.
+            
+63
+
+    
+    (4)  "Record" includes materials maintained in any form, including paper and
+            
+64
+
+    
+electronic.
+            
+65
+
+    
+    Section 3.  
+Section  
+13-42-201
+
+ is enacted to read:
+            
+66
+
+    
+ Part 2.  Protection of Personal Information
+
+            
+67
+
+    
+     13-42-201.  Protection of personal information.
+            
+68
+
+    
+    (1)  Any person who conducts business in the state and maintains personal information
+            
+69
+
+    
+shall implement and maintain reasonable procedures to:
+            
+70
+
+    
+    (a)  prevent unlawful use or disclosure of personal information collected or maintained
+            
+71
+
+    
+in the regular course of business; and
+            
+72
+
+    
+    (b)  destroy, or arrange for the destruction of, records containing personal information
+            
+73
+
+    
+that are not to be retained by the person.
+            
+74
+
+    
+    (2)  The destruction of records under Subsection (1)(b) shall be by:
+            
+75
+
+    
+    (a)  shredding;
+            
+76
+
+    
+    (b)  erasing; or
+            
+77
+
+    
+    (c)  otherwise modifying the personal information to make the information
+            
+78
+
+    
+indecipherable.
+            
+79
+
+    
+    (3)  This section does not apply to a financial institution as defined by 15 U.S.C.
+            
+80
+
+    
+Section 6809.
+            
+81
+
+    
+    Section 4.  
+Section  
+13-42-202
+
+ is enacted to read:
+            
+82
+
+    
+     13-42-202.  Personal information -- Disclosure of system security breach.
+            
+83
+
+    
+    (1) (a)  A person who owns or licenses computerized data that includes personal
+            
+84
+
+    
+information concerning a Utah resident shall, when the person becomes aware of a breach of
+            
+85
+
+    
+system security, conduct in good faith a reasonable and prompt investigation to determine the
+
+            
+86
+
+
+    
+likelihood that personal information has been or will be misused for identity theft or fraud
+            
+87
+
+    
+purposes.
+            
+88
+
+    
+    (b)  If an investigation under Subsection (1)(a) reveals that the misuse of personal
+            
+89
+
+    
+information for identity theft or fraud purposes has occurred, or is reasonably likely to occur,
+            
+90
+
+    
+the person shall provide notification to each affected Utah resident.
+            
+91
+
+    
+    (2)  A person required to provide notification under Subsection (1) shall provide the
+            
+92
+
+    
+notification in the most expedient time possible without unreasonable delay:
+            
+93
+
+    
+    (a)  considering legitimate investigative needs of law enforcement, as provided in
+            
+94
+
+    
+Subsection (4)(a);
+            
+95
+
+    
+    (b)  after determining the scope of the breach of system security; and
+            
+96
+
+    
+    (c)  after restoring the reasonable integrity of the system.
+            
+97
+
+    
+    (3) (a)  A person who maintains computerized data that includes personal information
+            
+98
+
+    
+that the person does not own or license shall notify and cooperate with the owner or licensee of
+            
+99
+
+    
+the information of any breach of system security immediately following the person's discovery
+            
+100
+
+    
+of the breach if misuse of the personal information occurs or is reasonably likely to occur.
+            
+101
+
+    
+    (b)  Cooperation under Subsection (3)(a) includes sharing information relevant to the
+            
+102
+
+    
+breach with the owner or licensee of the information.
+            
+103
+
+    
+    (4) (a)  Notwithstanding Subsection (2), a person may delay providing notification
+            
+104
+
+    
+under Subsection (1) at the request of a law enforcement agency that determines that
+            
+105
+
+    
+notification may impede a criminal investigation.
+            
+106
+
+    
+    (b)  A person who delays providing notification under Subsection (4)(a) shall provide
+            
+107
+
+    
+notification in good faith without unreasonable delay in the most expedient time possible after
+            
+108
+
+    
+the law enforcement agency informs the person that notification will no longer impede the
+            
+109
+
+    
+criminal investigation.
+            
+110
+
+    
+    (5) (a)  A notification required by this section may be provided:
+            
+111
+
+    
+    (i)  in writing by first-class mail to the most recent address the person has for the
+            
+112
+
+    
+resident;
+            
+113
+
+    
+    (ii)  electronically, if the person's primary method of communication with the resident is
+
+            
+114
+
+
+    
+by electronic means, or if provided in accordance with the consumer disclosure provisions of
+            
+115
+
+    
+15 U.S.C. Section 7001;
+            
+116
+
+    
+    (iii)  by telephone, including through the use of automatic dialing technology not
+            
+117
+
+    
+prohibited by other law; or
+            
+118
+
+    
+    (iv)  by publishing notice of the breach of system security in a newspaper of general
+            
+119
+
+    
+circulation.
+            
+120
+
+    
+    (b)  If a person maintains the person's own notification procedures as part of an
+            
+121
+
+    
+information security policy for the treatment of personal information the person is considered
+            
+122
+
+    
+to be in compliance with this chapter's notification requirements if the procedures are otherwise
+            
+123
+
+    
+consistent with this chapter's timing requirements and the person notifies each affected Utah
+            
+124
+
+    
+resident in accordance with the person's information security policy in the event of a breach.
+            
+125
+
+    
+    (c)  A person who is regulated by state or federal law and maintains procedures for a
+            
+126
+
+    
+breach of system security under applicable law established by the primary state or federal
+            
+127
+
+    
+regulator is considered to be in compliance with this part if the person notifies each affected
+            
+128
+
+    
+Utah resident in accordance with the other applicable law in the event of a breach.
+            
+129
+
+    
+    (6)  A waiver of this section is contrary to public policy and is void and unenforceable.
+            
+130
+
+    
+    Section 5.  
+Section  
+13-42-301
+
+ is enacted to read:
+            
+131
+
+    
+ Part 3.  Enforcement
+
+            
+132
+
+    
+     13-42-301.  Enforcement.
+            
+133
+
+    
+    (1)  The attorney general may enforce this chapter's provisions.
+            
+134
+
+    
+    (2) (a)  Nothing in this chapter creates a private right of action.
+            
+135
+
+    
+    (b)  Nothing in this chapter affects any private right of action existing under other law,
+            
+136
+
+    
+including contract or tort.
+            
+137
+
+    
+    (3)  A person who violates this chapter's provisions is subject to a civil fine of:
+            
+138
+
+    
+    (a)  no greater than $2,500 for a violation or series of violations concerning a specific
+            
+139
+
+    
+consumer; and
+            
+140
+
+    
+    (b)  no greater than $100,000 in the aggregate for related violations concerning more
+            
+141
+
+    
+than one consumer.
+
+            
+142
+
+
+    
+    (4)  In addition to the penalties provided in Subsection (3), the attorney general may
+            
+143
+
+    
+seek injunctive relief to prevent future violations of this chapter in:
+            
+144
+
+    
+    (a)  the district court located in Salt Lake City; or
+            
+145
+
+    
+    (b)  the district court for the district in which resides a consumer who is affected by the
+            
+146
+
+    
+violation.
+            
+147
+
+    
+    Section 6.   Appropriation.
+            
+148
+
+    
+    (1)  There is appropriated from the General Fund to the attorney general:
+            
+149
+
+    
+    (a)  as an ongoing appropriation, subject to future budget constraints, $89,400 for fiscal
+            
+150
+
+    
+year 2006-07; and
+            
+151
+
+    
+    (b)  $23,000 for fiscal year 2006-07 only.
+            
+152
+
+    
+    (2)  It is the intent of the Legislature that:
+            
+153
+
+    
+    (a)  the monies appropriated under Subsection (1)(a) be used to fund investigatory
+            
+154
+
+    
+activities that may lead to an enforcement action by the attorney general under Section
+            
+155
+
+    
+
+
+13-42-301
+
+; and
+            
+156
+
+    
+    (b)  the monies appropriated under Subsection (1)(b) be used to purchase equipment
+            
+157
+
+    
+required for investigatory activities that may lead to an enforcement action by the attorney
+            
+158
+
+    
+general under Section 
+
+13-42-301
+
+.
+            
+159
+
+    
+    Section 7.   Effective date.
+            
+160
+
+    
+    This bill takes effect on January 1, 2007.
+[Bill Documents][Bills Directory]
+
+
+
+
+
+
+
+
+
+Who represents me?
+
+
+
+
+
+Remember my Legislators
+
+
+
+
+
+State Senate
+		350 North State, Suite 320
+		PO Box 145115
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1035
+		Fax: (801) 326-1475
+
+
+
+House of Representatives
+		350 North State, Suite 350
+		PO Box 145030
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1029
+		Fax: (801) 326-1544
+
+
+
+
+
+
+
+
+
+
+Home
+Mobile Site
+Site Map
+Calendar
+Code / Constitution
+House
+Senate
+
+Terms of Use/Privacy Policy
+
+ADA
+Utah.gov
+
+
+
+
+
+
+

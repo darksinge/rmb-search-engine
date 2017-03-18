@@ -1,0 +1,475 @@
+Sponsors: []Modifications: (2)  "Multicounty district" means a district whose area is located within more than onecounty.(3)(4)(5)(6)  "Transit facility" means a transit vehicle, transit station, depot, passenger loading orunloading zone, parking lot, or other facility leased by or operated by or on behalf of a district andrelated to the public transit services provided by the district, including railway or other right ofway, railway line, and a reasonable area immediately adjacent to a designated stop on the routetraveled by a transit vehicle.(7)  "Transit vehicle" means a passenger bus, coach, railcar, van, or other vehicle operatedas public transportation by a district.    17A-2-1061.(1)  A person may not ride a transit vehicle without payment of the applicable fareestablished by the district.(2)  Each person who violates Subsection (1) is guilty of an infraction.(3)  The governing body of a multicounty district may adopt an ordinance governingparking of vehicles at a transit facility, including the imposition of a fine or civil penalty for aviolation of the ordinance.    17A-2-1062.(1)  The governing body of a multicounty district may employ security officers or contractwith a private firm to supply security officers for the district.(2)  Each security officer under Subsection (1) is a special function officer under Section77-1a-4 and shall be subject to the provisions of that section.(3)  A security officer under this section may:(a)  issue a citation for a violation of Subsection 17A-2-1061(2);(b)  enforce the district's parking ordinance under Subsection 17A-2-1061(3);(c)  detain a person committing a crime at a transit facility until law enforcement authoritiesarrive, if the security officer has probable cause to believe that the person committed a crime; and(d)  help to protect transit facilities and to preserve the security, peace, and safety ofpersons using transit facilities.(4)  A person may not recover damages in an action based on a claim related to a securityofficer's detention of the person if:(a)  the security officer had probable cause to believe that the person had committed acrime at a transit facility; and(b)  the security officer acted reasonably under the circumstances.and includes a transit vehicle, as defined in Subsection 17A-2-1004(7),of a public transit district under Title 17A, Chapter 2, Part 10, Utah Public Transit District Actand includes a transit facility, as defined in Subsection17A-2-1004(6), of a public transit district under Title 17A, Chapter 2, Part 10, Utah Public TransitDistrict ActFull text:
+
+
+
+Utah State Legislature
+
+
+
+
+
+
+
+
+
+
+
+
+Legislators
+
+By Session (1896-Current)
+Alphabetical (Historical)
+Find by Address/Map
+More
+
+
+Bills
+
+Bills/Bill Requests
+Passed Bills
+2017 Bills
+
+Keyword Search
+Reading Calendars
+Tracking Service
+More
+
+
+Committees
+
+All Committees
+Appropriations
+Commissions
+
+Independent Legislative Ethics Commission
+Interim
+Standing
+Subcommittees
+Task Forces
+Bills In Committees
+
+
+Utah Code / Constitution
+
+
+Title/Chapter/Section
+Keyword Search 
+
+Utah Constitution
+Laws of Utah 1851-ongoing
+Utah Territorial Laws 
+More
+
+
+Senate
+
+Main Page 
+About The Senate 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Extraordinary Sessions 
+Reading Calendars 
+Past Floor Debates 
+Senate Journals 
+
+
+House
+
+Main Page
+About the House 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Reading Calendars 
+Past Floor Debates 
+Journals 
+Conflict of Interest Forms 
+
+
+Legislative Guide 
+
+Legislative Guide
+Civic Programs
+GRAMA (Records Requests)
+
+
+Publications
+
+Search Publications
+Appropriations
+Audits
+Bagels & Briefings
+Briefing Papers
+Digest of Legislation
+Legislative Drafting Manual
+
+Journals
+
+Interim Highlights
+
+Legislative Rules
+GRAMA (Records Requests)
+Public Email
+State Organization Charts
+YouTube Channel
+Requests for Proposals and Legal Notices
+More
+
+
+Legislative Histories
+
+Legislative History Resources
+How to Research
+Bill Drafting/Research Files (1990-Ongoing)
+
+Working Bills (1896-1989)
+Interim Committee Histories (1990-Ongoing) 
+Journals
+Past House Floor Debates
+Past Senate Floor Debates
+More
+
+
+Staff Offices
+
+All Legislative Offices
+Auditor General
+Fiscal Analyst
+Printing
+Research and General Counsel
+Staff Awards
+Job Opportunities
+More
+
+
+Links of Interest
+
+Utah Administrative Rules
+Courts
+Utah State Capitol
+State of Utah
+Federal Legislation
+More
+
+
+
+
+
+
+ 
+
+Download Zipped Introduced WP 6.1 HB0426.ZIP 9,825 Bytes
+[Status][Bill Documents][Fiscal Note][Bills Directory]
+
+
+H.B. 426
+
+
+
+
+
+1     TRANSIT DISTRICT AMENDMENTS
+
+
+
+
+2    1998 GENERAL SESSION
+
+
+3    STATE OF UTAH
+
+
+4     Sponsor: Afton B. Bradshaw
+
+
+5    AN ACT RELATING TO SPECIAL DISTRICTS; MODIFYING DEFINITIONS RELATING
+
+6    TO PUBLIC TRANSIT DISTRICT PROVISIONS; IMPOSING A PENALTY FOR FAILURE
+
+7    TO PAY THE TRANSIT DISTRICT FARE; AUTHORIZING MULTICOUNTY TRANSIT
+
+8    DISTRICTS TO ADOPT A PARKING ORDINANCE; AUTHORIZING MULTICOUNTY
+
+9    TRANSIT DISTRICTS TO EMPLOY OR CONTRACT FOR THE SERVICES OF
+
+10    SECURITY OFFICERS; PROVIDING FOR SECURITY OFFICER STATUS AND POWERS;
+
+11    LIMITING DAMAGES IN A CLAIM BASED ON SECURITY OFFICER'S DETENTION OF
+
+12    A PERSON; EXPANDING THE APPLICATION OF BUS PASSENGER SAFETY ACT;
+
+13    AND MAKING TECHNICAL CHANGES.
+
+14    This act affects sections of Utah Code Annotated 1953 as follows:
+
+15    AMENDS:
+
+16         17A-2-1004, as last amended by Chapter 79, Laws of Utah 1996
+
+17         76-10-1503, as enacted by Chapter 72, Laws of Utah 1979
+
+18    ENACTS:
+
+19         17A-2-1061, Utah Code Annotated 1953
+
+20         17A-2-1062, Utah Code Annotated 1953
+
+21    Be it enacted by the Legislature of the state of Utah:
+
+22        Section 1.  Section  17A-2-1004 is amended to read:
+
+23         17A-2-1004.  Definitions.
+
+24        As used in this part:
+
+25        (1)  "District" means a public transit district organized under this part.
+
+26        (2)  "Multicounty district" means a district whose area is located within more than one
+
+27    county.
+
+
+1        [(4)] (3)  "Municipality" means any incorporated city or town.
+
+2        [(3)] (4)  "Public agency" includes the state of Utah and any county, city, town, district, or
+
+3    other public agency or entity created under the laws of this state, the federal government, and any
+
+4    agency thereof.
+
+5        [(2)] (5)  "Public transit" means the transportation of passengers only, and their incidental
+
+6    baggage by means other than chartered bus, sightseeing bus, taxi, or other vehicle not on an
+
+7    individual passenger fare paying basis.  Nothing in this section shall be construed to prohibit the
+
+8    district from leasing its buses to private certified public carriers, or operating transit services
+
+9    requested by a recreational, tourist, or convention bureau provided for under Section 17-31-2 by
+
+10    a governmental entity when the recreational, tourist, or convention bureau certifies that privately
+
+11    owned carriers furnishing like services or operating like equipment within the area served by the
+
+12    bureau have declined to provide the service or do not have the equipment necessary to provide the
+
+13    service.  Nothing in this section shall be construed to prohibit the district from providing school
+
+14    bus services for transportation of pupils and supervisory personnel between homes and school and
+
+15    other related school activities within the area served by the district, or to prohibit the transportation
+
+16    of passengers covered by an elderly or handicapped program within the district where all or part
+
+17    of the transportation services are paid for by public funds.
+
+18        (6)  "Transit facility" means a transit vehicle, transit station, depot, passenger loading or
+
+19    unloading zone, parking lot, or other facility leased by or operated by or on behalf of a district and
+
+20    related to the public transit services provided by the district, including railway or other right of
+
+21    way, railway line, and a reasonable area immediately adjacent to a designated stop on the route
+
+22    traveled by a transit vehicle.
+
+23        (7)  "Transit vehicle" means a passenger bus, coach, railcar, van, or other vehicle operated
+
+24    as public transportation by a district.
+
+25        Section 2.  Section  17A-2-1061 is enacted to read:
+
+26         17A-2-1061.  Failure to pay fare -- Infraction -- Multicounty district may establish
+
+27     and enforce parking ordinance.
+
+28        (1)  A person may not ride a transit vehicle without payment of the applicable fare
+
+29    established by the district.
+
+30        (2)  Each person who violates Subsection (1) is guilty of an infraction.
+
+31        (3)  The governing body of a multicounty district may adopt an ordinance governing
+
+- 2 -
+
+
+1    parking of vehicles at a transit facility, including the imposition of a fine or civil penalty for a
+
+2    violation of the ordinance.
+
+3        Section 3.  Section  17A-2-1062 is enacted to read:
+
+4         17A-2-1062.  Multicounty district may employ or contract for security officers --
+
+5     Security officer status and powers -- Limitation on damages.
+
+6        (1)  The governing body of a multicounty district may employ security officers or contract
+
+7    with a private firm to supply security officers for the district.
+
+8        (2)  Each security officer under Subsection (1) is a special function officer under Section
+
+9    77-1a-4 and shall be subject to the provisions of that section.
+
+10        (3)  A security officer under this section may:
+
+11        (a)  issue a citation for a violation of Subsection 17A-2-1061(2);
+
+12        (b)  enforce the district's parking ordinance under Subsection 17A-2-1061(3);
+
+13        (c)  detain a person committing a crime at a transit facility until law enforcement authorities
+
+14    arrive, if the security officer has probable cause to believe that the person committed a crime; and
+
+15        (d)  help to protect transit facilities and to preserve the security, peace, and safety of
+
+16    persons using transit facilities.
+
+17        (4)  A person may not recover damages in an action based on a claim related to a security
+
+18    officer's detention of the person if:
+
+19        (a)  the security officer had probable cause to believe that the person had committed a
+
+20    crime at a transit facility; and
+
+21        (b)  the security officer acted reasonably under the circumstances.
+
+22        Section 4.  Section  76-10-1503 is amended to read:
+
+23         76-10-1503.  Definitions.  
+
+24        As used in this act:
+
+25        (1)  "Bus" means any passenger bus or coach or other motor vehicle having a seating
+
+26    capacity of 15 or more passengers operated by a bus company for the purpose of carrying
+
+27    passengers or cargo for hire and includes a transit vehicle, as defined in Subsection 17A-2-1004(7),
+
+28    of a public transit district under Title 17A, Chapter 2, Part 10, Utah Public Transit District Act.
+
+29        (2)  "Bus company" or "company" means any person, group of persons or corporation
+
+30    providing for-hire transportation to passengers or cargo by bus upon the highways in the state,
+
+31    including passengers and cargo in interstate or intrastate travel. These terms also include local
+
+- 3 -
+
+
+1    public bodies, public transit districts, municipalities, public corporations, boards and commissions
+
+2    established under the laws of the state providing transportation to passengers or cargo by bus upon
+
+3    the highways in the state, whether or not for hire.
+
+4        (3)  "Charter" means a group of persons, pursuant to a common purpose and under a single
+
+5    contract, and at a fixed charge in accordance with a bus company's tariff, which has acquired the
+
+6    exclusive use of a bus to travel together to a specified destination or destinations.
+
+7        (4)  "Passenger" means any person transported or served by a bus company, including
+
+8    persons accompanying or meeting another being transported, any person shipping or receiving
+
+9    cargo and any person purchasing a ticket or receiving a pass.
+
+10        (5)  "Terminal" means a bus station or depot or any other facility operated or leased by or
+
+11    operated on behalf of a bus company and includes a transit facility, as defined in Subsection
+
+12    17A-2-1004(6), of a public transit district under Title 17A, Chapter 2, Part 10, Utah Public Transit
+
+13    District Act. This term includes a reasonable area immediately adjacent to any designated stop
+
+14    along the route traveled by any bus operated by a bus company and parking lots or areas adjacent
+
+15    to terminals.
+
+
+
+
+ Legislative Review Note
+    as of   2-19-98  10:06 AM
+
+
+A limited legal review of this bill raises no obvious constitutional or statutory concerns.
+
+ Office of Legislative Research and General Counsel
+
+
+- 4 -
+[Bill Documents][Bills Directory]
+
+
+
+
+
+
+
+
+
+Who represents me?
+
+
+
+
+
+Remember my Legislators
+
+
+
+
+
+State Senate
+		350 North State, Suite 320
+		PO Box 145115
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1035
+		Fax: (801) 326-1475
+
+
+
+House of Representatives
+		350 North State, Suite 350
+		PO Box 145030
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1029
+		Fax: (801) 326-1544
+
+
+
+
+
+
+
+
+
+
+Home
+Mobile Site
+Site Map
+Calendar
+Code / Constitution
+House
+Senate
+
+Terms of Use/Privacy Policy
+
+ADA
+Utah.gov
+
+
+
+
+
+
+

@@ -1,0 +1,858 @@
+Sponsors: []Modifications: and interest,except as provided in Section 19-6-410.5and any penalties,; and(v)  any interest accrued on these revenuesAs used in this section, "commission" means the State Tax Commission, as definedunder Section 59-1-101.(2)(4)(3)(4)1/4the first sale or use of petroleum products in the state.(5)(6) (a)  The commission is responsible for the collection of the fee and any penalties andinterest imposed under this section.(b)  The commission shall by rule establish:(i)  the method of payment of the environmental assurance fee;(ii)  the procedure for reimbursement or exemption of owners or operators who do notparticipate in the program, including owners and operators of above ground storage tanks; and(iii)  the procedure for confirming with the department those owners and operators whoqualify for reimbursement or exemption under Subsection (6)(ii).(c)  The commission may retain an amount not to exceed 2.5% of fees collected under thissection for the cost to it of rendering its services.(7)  The person or entity responsible for payment of the fee under this section shall pay thefee to the commission on or before the last day of the month following the month in which the saleoccurs.(8)  The payment under this section shall be accompanied by the form prescribed by thecommission.(9) (a)  The penalties and interest for failure to file the form required under this section orto pay the environmental assurance fee are the same as the penalties and interest under Sections59-1-401 and 59-1-402.(b)  The commission shall deposit penalties and interest collected under this section in thePetroleum Storage Tank Trust Fund.(10)  The commission shall report to the department any person or entity who is delinquentin payment of the fee under this section.; and(d)  on and after July 1, 1998, for any new tank:(i)  which is installed to replace an existing tank at an existing facility, any annualpetroleum storage tank fee paid for the current fiscal year for the existing tank is applicable to thenew tank; and(ii)  installed at a new facility or at an existing facility, which is not a replacement foranother existing tank, the fees are as provided in Subsection (1)(c) of this section(6)(7)(7)(7)the following requirementsand(b)or Section 19-6-410.5 regarding the environmental assurance programparticipation fee,This act takes effect on July 1, 1998.Full text:
+
+
+
+Utah State Legislature
+
+
+
+
+
+
+
+
+
+
+
+
+Legislators
+
+By Session (1896-Current)
+Alphabetical (Historical)
+Find by Address/Map
+More
+
+
+Bills
+
+Bills/Bill Requests
+Passed Bills
+2017 Bills
+
+Keyword Search
+Reading Calendars
+Tracking Service
+More
+
+
+Committees
+
+All Committees
+Appropriations
+Commissions
+
+Independent Legislative Ethics Commission
+Interim
+Standing
+Subcommittees
+Task Forces
+Bills In Committees
+
+
+Utah Code / Constitution
+
+
+Title/Chapter/Section
+Keyword Search 
+
+Utah Constitution
+Laws of Utah 1851-ongoing
+Utah Territorial Laws 
+More
+
+
+Senate
+
+Main Page 
+About The Senate 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Extraordinary Sessions 
+Reading Calendars 
+Past Floor Debates 
+Senate Journals 
+
+
+House
+
+Main Page
+About the House 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Reading Calendars 
+Past Floor Debates 
+Journals 
+Conflict of Interest Forms 
+
+
+Legislative Guide 
+
+Legislative Guide
+Civic Programs
+GRAMA (Records Requests)
+
+
+Publications
+
+Search Publications
+Appropriations
+Audits
+Bagels & Briefings
+Briefing Papers
+Digest of Legislation
+Legislative Drafting Manual
+
+Journals
+
+Interim Highlights
+
+Legislative Rules
+GRAMA (Records Requests)
+Public Email
+State Organization Charts
+YouTube Channel
+Requests for Proposals and Legal Notices
+More
+
+
+Legislative Histories
+
+Legislative History Resources
+How to Research
+Bill Drafting/Research Files (1990-Ongoing)
+
+Working Bills (1896-1989)
+Interim Committee Histories (1990-Ongoing) 
+Journals
+Past House Floor Debates
+Past Senate Floor Debates
+More
+
+
+Staff Offices
+
+All Legislative Offices
+Auditor General
+Fiscal Analyst
+Printing
+Research and General Counsel
+Staff Awards
+Job Opportunities
+More
+
+
+Links of Interest
+
+Utah Administrative Rules
+Courts
+Utah State Capitol
+State of Utah
+Federal Legislation
+More
+
+
+
+
+
+
+ 
+
+Download Zipped Introduced WP 6.1 HB0112.ZIP 16,446 Bytes
+[Status][Bill Documents][Fiscal Note][Bills Directory]
+
+
+H.B. 112
+
+
+
+
+
+1     UNDERGROUND STORAGE TANK ASSURANCE
+
+
+2     AMENDMENTS
+
+
+
+
+3    1998 GENERAL SESSION
+
+
+4    STATE OF UTAH
+
+
+5     Sponsor:  Bill  Wright
+
+
+6    AN ACT RELATING TO ENVIRONMENT; AMENDING THE UNDERGROUND STORAGE
+
+7    TANK ENVIRONMENTAL ASSURANCE FEE; AMENDING POINT OF COLLECTION
+
+8    OF THE FEE AND RELATED PENALTIES; TRANSFERRING COLLECTION
+
+9    RESPONSIBILITY TO THE TAX COMMISSION; SPECIFYING WHERE THE FEE AND
+
+10    PENALTIES ARE DEPOSITED; AMENDING THE FEE FOR TANKS NOT
+
+11    PARTICIPATING IN THE ASSURANCE PROGRAM; ALLOWING STORAGE TANK FEE
+
+12    ON A TANK TO APPLY TO A NEW REPLACEMENT TANK; AND AMENDING
+
+13    REQUIREMENTS REGARDING BACK FEES WHEN A TANK NOT ON THE PROGRAM
+
+14    IS PLACED BACK ON THE PROGRAM; AND PROVIDING AN EFFECTIVE DATE.
+
+15    This act affects sections of Utah Code Annotated 1953 as follows:
+
+16    AMENDS:
+
+17         19-6-405.5, as last amended by Chapter 172, Laws of Utah 1997
+
+18         19-6-409, as last amended by Chapters 172 and 272, Laws of Utah 1997
+
+19         19-6-410.5, as enacted by Chapter 172, Laws of Utah 1997
+
+20         19-6-411, as last amended by Chapters 172 and 272, Laws of Utah 1997
+
+21         19-6-428, as enacted by Chapter 172, Laws of Utah 1997
+
+22         59-1-403, as last amended by Chapter 172, Laws of Utah 1997
+
+23    Be it enacted by the Legislature of the state of Utah:
+
+24        Section 1.  Section  19-6-405.5 is amended to read:
+
+25         19-6-405.5.  Creation of restricted account.
+
+26        (1)  There is created in the General Fund a restricted account known as the Petroleum
+
+27    Storage Tank Restricted Account.
+
+
+1        (2)  All penalties and interest imposed under this part shall be deposited in this account,
+
+2    except as provided in Section 19-6-410.5.  Specified program funds under this part that are
+
+3    unexpended at the end of the fiscal year lapse into this account.
+
+4        (3)  The Legislature shall appropriate the money in the account to the department for the
+
+5    costs of administering the petroleum storage tank program under this part.
+
+6        Section 2.  Section  19-6-409 is amended to read:
+
+7         19-6-409.  Petroleum Storage Tank Trust Fund created -- Source of revenues.
+
+8        (1) (a)  There is created an expendable trust fund entitled the Petroleum Storage Tank Trust
+
+9    Fund.
+
+10        (b)  The sole sources of revenues for the fund are:
+
+11        (i)  petroleum storage tank fees under Section 19-6-411;
+
+12        (ii)  underground storage tank installation company permit fees under Section 19-6-411;
+
+13        (iii)  the environmental assurance fee and any penalties, paid under Section 19-6-410.5;
+
+14    [and]
+
+15        (iv)  costs recovered under this part; and
+
+16        (v)  any interest accrued on these revenues.
+
+17        (c)  Interest earned on fund monies shall be deposited into the fund.
+
+18        (2)  Fund monies may be used to pay:
+
+19        (a)  costs as provided in Section 19-6-419; and
+
+20        (b)  for the administration of the fund and the environmental assurance program and fee
+
+21    under Section 19-6-410.5.
+
+22        (3)  Costs for the administration of the fund and the environmental assurance fee shall be
+
+23    appropriated by the Legislature.
+
+24        (4)  The executive secretary may expend monies from the fund for:
+
+25        (a)  legal and claims adjusting costs incurred by the state in connection with claims,
+
+26    judgments, awards, or settlements for bodily injury or property damage to third parties;
+
+27        (b)  costs incurred by the state risk manager in determining the actuarial soundness of the
+
+28    fund; and
+
+29        (c)  other costs as provided in this part.
+
+30        (5)  For fiscal year 1997-98, money in the Petroleum Storage Tank Trust Fund, up to a
+
+31    maximum of $2,200,000, may be appropriated by the Legislature to the department as nonlapsing
+
+- 2 -
+
+
+1    funds to be applied to the costs of investigation, abatement, and corrective action regarding
+
+2    releases not covered by the fund and not on the national priority list as defined in Section
+
+3    19-6-302.
+
+4        Section 3.  Section  19-6-410.5 is amended to read:
+
+5         19-6-410.5.  Environmental assurance program -- Participant fee.
+
+6        (1)  As used in this section, "commission" means the State Tax Commission, as defined
+
+7    under Section 59-1-101.
+
+8        (2)  There is created an Environmental Assurance Program.  The program shall provide to
+
+9    participating owners and operators, upon payment of the fee imposed under Subsection [(3)] (4),
+
+10    assistance with the costs of investigation, abatement, and corrective action regarding releases at
+
+11    facilities participating in the program, to the extent provided under Section 19-6-419.
+
+12        [(2)] (3)  Participation in the program is voluntary.
+
+13        [(3) (a)] (4)  There is assessed [of all participants in the program the greater of: (i)] an
+
+14    environmental assurance fee of [1/2] 1/4 cent per gallon on [all petroleum delivered to any tank
+
+15    participating in the program; or] the first sale or use of petroleum products in the state.
+
+16        [(ii)  an environmental assurance fee of $250 annually for each tank participating in the
+
+17    program.]
+
+18        [(b)  The department shall deposit revenue from the fee in the Petroleum Storage Tank
+
+19    Trust Fund.]
+
+20        [(c)] (5)  Revenue collected under this section shall be used solely for the purposes under
+
+21    Section 19-6-409.
+
+22        [(4) (a)  The department shall by rule establish procedures and due dates for payment of
+
+23    the fee.]
+
+24        [(b)  The rules shall include provisions that:]
+
+25        [(i)  if the fee is not paid on or before the due date established by rule, the department may
+
+26    impose a late penalty of $60 for each facility for which the fee is overdue;]
+
+27        [(ii)  the fee and the late penalty accrue interest at 12% per annum;]
+
+28        [(iii)  if the fee, the late penalty, and all accrued interest are not received by the department
+
+29    within 60 days of the due date established by rule, the eligibility of the owner or operator to
+
+30    receive payments for claims against the fund lapses; and]
+
+31        [(iv)  in order for the owner or operator to reinstate eligibility to receive payments for
+
+- 3 -
+
+
+1    claims against the fund, the owner or operator shall meet the requirements of Subsection
+
+2    19-6-428(3).]
+
+3        (6) (a)  The commission is responsible for the collection of the fee and any penalties and
+
+4    interest imposed under this section.
+
+5        (b)  The commission shall by rule establish:
+
+6        (i)  the method of payment of the environmental assurance fee;
+
+7        (ii)  the procedure for reimbursement or exemption of owners or operators who do not
+
+8    participate in the program, including owners and operators of above ground storage tanks; and
+
+9        (iii)  the procedure for confirming with the department those owners and operators who
+
+10    qualify for reimbursement or exemption under Subsection (6)(ii).
+
+11        (c)  The commission may retain an amount not to exceed 2.5% of fees collected under this
+
+12    section for the cost to it of rendering its services.
+
+13        (7)  The person or entity responsible for payment of the fee under this section shall pay the
+
+14    fee to the commission on or before the last day of the month following the month in which the sale
+
+15    occurs.
+
+16        (8)  The payment under this section shall be accompanied by the form prescribed by the
+
+17    commission.
+
+18        (9) (a)  The penalties and interest for failure to file the form required under this section or
+
+19    to pay the environmental assurance fee are the same as the penalties and interest under Sections
+
+20    59-1-401 and 59-1-402.
+
+21        (b)  The commission shall deposit penalties and interest collected under this section in the
+
+22    Petroleum Storage Tank Trust Fund.
+
+23        (10)  The commission shall report to the department any person or entity who is delinquent
+
+24    in payment of the fee under this section.
+
+25        Section 4.  Section  19-6-411 is amended to read:
+
+26         19-6-411.  Petroleum storage tank fee for program participants.
+
+27        (1)  In addition to the underground storage tank registration fee paid in Section 19-6-408,
+
+28    the owner or operator of a petroleum storage tank who elects to participate in the environmental
+
+29    assurance program under Section 19-6-410.5 shall also pay an annual petroleum storage tank fee
+
+30    to the department for each facility as follows:
+
+31        (a)  on and after July 1, 1990, through June 30, 1993, an annual fee of:
+
+- 4 -
+
+
+1        (i)  $250 for each tank:
+
+2        (A)  located at a facility engaged in petroleum production, refining, or marketing; or
+
+3        (B)  with an annual monthly throughput of more than 10,000 gallons; and
+
+4        (ii)  $125 for each tank:
+
+5        (A)  not located at a facility engaged in petroleum production, refining, or marketing; and
+
+6        (B)  with an annual monthly throughput of 10,000 gallons or less;
+
+7        (b)  on and after July 1, 1993, through June 30, 1994, an annual fee of:
+
+8        (i)  $150 for each tank:
+
+9        (A)  located at a facility engaged in petroleum production, refining, or marketing; or
+
+10        (B)  with an average monthly throughput of more than 10,000 gallons; and
+
+11        (ii)  $75 for each tank:
+
+12        (A)  not located at a facility engaged in petroleum production, refining, or marketing; and
+
+13        (B)  with an average monthly throughput of 10,000 gallons or less; and
+
+14        (c)  on and after July 1, 1994, an annual fee of:
+
+15        (i)  $50 for each tank in a facility with an annual facility throughput rate of 400,000 gallons
+
+16    or less;
+
+17        (ii)  $150 for each tank in a facility with an annual facility throughput rate of more than
+
+18    400,000 gallons; and
+
+19        (iii)  $150 for each tank in a facility regarding which:
+
+20        (A)  the facility's throughput rate is not reported to the department within 30 days after the
+
+21    date this throughput information is requested by the department; or
+
+22        (B)  the owner or operator elects to pay the fee under this subsection, rather than report
+
+23    under Subsection (1)(c)(i) or (ii); and
+
+24        (d)  on and after July 1, 1998, for any new tank:
+
+25        (i)  which is installed to replace an existing tank at an existing facility, any annual
+
+26    petroleum storage tank fee paid for the current fiscal year for the existing tank is applicable to the
+
+27    new tank; and
+
+28        (ii)  installed at a new facility or at an existing facility, which is not a replacement for
+
+29    another existing tank, the fees are as provided in Subsection (1)(c) of this section.
+
+30        (2) (a)  As a condition of receiving a permit and being eligible for benefits under Section
+
+31    19-6-419 from the Petroleum Storage Tank Trust Fund, each underground storage tank installation
+
+- 5 -
+
+
+1    company shall pay to the department the following fees to be deposited in the fund:
+
+2        (i)  an annual fee of:
+
+3        (A)  $2,000 per underground storage tank installation company if the installation company
+
+4    has installed 15 or fewer underground storage tanks within the 12 months preceding the fee due
+
+5    date; or
+
+6        (B)  $4,000 per underground storage tank installation company if the installation company
+
+7    has installed 16 or more underground storage tanks within the 12 months preceding the fee due
+
+8    date; and
+
+9        (ii)  $200 for each underground storage tank installed in the state, to be paid prior to
+
+10    completion of installation.
+
+11        (b)  The board shall make rules specifying which portions of an underground storage tank
+
+12    installation shall be subject to the permitting fees when less than a full underground storage tank
+
+13    system is installed.
+
+14        (3) (a)  Fees under Subsection (1) are due on or before July 1 annually.
+
+15        (b)  If the department does not receive the fee on or before July 1, the department shall
+
+16    impose a late penalty of $60 per facility.
+
+17        (c) (i)  The fee and the late penalty accrue interest at 12% per annum.
+
+18        (ii)  If the fee, the late penalty, and all accrued interest are not received by the department
+
+19    within 60 days after July 1, the eligibility of the owner or operator to receive payments for claims
+
+20    against the fund lapses on the 61st day after July 1.
+
+21        (iii)  In order for the owner or operator to reinstate eligibility to receive payments for
+
+22    claims against the fund, the owner or operator shall meet the requirements of Subsection
+
+23    19-6-428(3).
+
+24        (4) (a) (i)  Fees under Subsection (2)(a)(i) are due on or before July 1 annually.  If the
+
+25    department does not receive the fees on or before July 1, the department shall impose a late penalty
+
+26    of $60 per installation company.  The fee and the late penalty accrue interest at 12% per annum.
+
+27        (ii)  If the fee, late penalty, and all accrued interest due are not received by the department
+
+28    within 60 days after July 1, the underground storage tank installation company's permit and
+
+29    eligibility to receive payments for claims against the fund lapse on the 61st day after July 1.
+
+30        (b) (i)  Fees under Subsection (2)(a)(ii) are due prior to completion of installation.  If the
+
+31    department does not receive the fees prior to completion of installation, the department shall
+
+- 6 -
+
+
+1    impose a late penalty of $60 per facility.  The fee and the late penalty accrue interest at 12% per
+
+2    annum.
+
+3        (ii)  If the fee, late penalty, and all accrued interest are not received by the department
+
+4    within 60 days after the underground storage tank installation is completed, eligibility to receive
+
+5    payments for claims against the fund for that tank lapse on the 61st day after the tank installation
+
+6    is completed.
+
+7        (c)  The executive secretary may not reissue the underground storage tank installation
+
+8    company permit until the fee, late penalty, and all accrued interest are received by the department.
+
+9        (5)  If the state risk manager determines the fees established in Subsections (1) and (2) and
+
+10    the environmental assurance fee established in Section 19-6-410.5 are insufficient to maintain the
+
+11    fund on an actuarially sound basis, he shall petition the Legislature to increase the petroleum
+
+12    storage tank and underground storage tank installation company permit fees, and the
+
+13    environmental assurance fee to a level that will sustain the fund on an actuarially sound basis.
+
+14        [(6)  The provisions of this subsection take precedence over all other provisions of this
+
+15    section:]
+
+16        [(a)  when a petroleum storage tank is initially registered with the executive secretary, the
+
+17    department shall assess and collect a petroleum storage tank fee of $250 from the owner or
+
+18    operator for that fiscal year; and]
+
+19        [(b)  the department may not assess any other petroleum storage tank fee from the owner
+
+20    or operator for that fiscal year.]
+
+21        [(7)] (6)  The executive secretary may waive all or part of the fees required to be paid on
+
+22    or before May 5, 1997, for a petroleum storage tank under this section if no fuel has been
+
+23    dispensed from the tank on or after July 1, 1991.
+
+24        [(8)] (7) (a)  Each petroleum storage tank or underground storage tank, for which payment
+
+25    of fees has been made and other requirements have been met to qualify for a certificate of
+
+26    compliance under this part, shall be issued a form of identification, as determined by the board
+
+27    under Subsection [(8)] (7)(b).
+
+28        (b)  The board shall make rules providing for the identification, through a tag or other
+
+29    readily identifiable method, of petroleum storage tanks or underground storage tanks under
+
+30    Subsection [(8)] (7)(a) that qualify for a certificate of compliance under this part.
+
+31        Section 5.  Section  19-6-428 is amended to read:
+
+- 7 -
+
+
+1         19-6-428.  Eligibility for participation in the fund.
+
+2        (1)  All owners and operators of existing petroleum storage tanks that are covered by the
+
+3    fund on May 5, 1997, may elect to continue to participate in the program by meeting the
+
+4    requirements of this part, including paying the tank fees and environmental assurance fee as
+
+5    provided in Sections 19-6-410.5 and 19-6-411.
+
+6        (2)  Any new petroleum storage tanks installed after May 5, 1997, or tanks eligible under
+
+7    Section 19-6-415, may elect to participate in the program by complying with the requirements of
+
+8    this part.
+
+9        (3)  All owners and operators of petroleum storage tanks who elect to not participate in the
+
+10    program, including by the use of an alternative financial assurance mechanism, shall comply with
+
+11    [this Subsection (3)] the following requirements in order to subsequently participate in the
+
+12    program:
+
+13        (a)  perform a tank tightness test and site check, including soil and groundwater samples
+
+14    to demonstrate no release of petroleum exists or adequate remediation of releases as required by
+
+15    board rules; and
+
+16        [(b)  remit to DEQ all tank fees and environmental assurance fees which would have been
+
+17    collected, including an amount equal to any interest which would have accrued on those monies
+
+18    on and after May 5, 1997, or from the date of cessation of participation in the program; and]
+
+19        [(c)] (b)  comply with the requirements of this part.
+
+20        Section 6.  Section  59-1-403 is amended to read:
+
+21         59-1-403.  Confidentiality -- Penalty -- Application to property tax.
+
+22        (1)  Any tax commissioner, agent, clerk, or other officer or employee of the commission
+
+23    or any representative, agent, clerk, or other officer or employee of any county, city, or town may
+
+24    not divulge or make known in any manner any information gained by him from any return filed
+
+25    with the commission.  The officials charged with the custody of such returns are not required to
+
+26    produce any of them or evidence of anything contained in them in any action or proceeding in any
+
+27    court, except:
+
+28        (a)  in accordance with judicial order;
+
+29        (b)  on behalf of the commission in any action or proceeding under this title or other law
+
+30    under which persons are required to file returns with the commission;
+
+31        (c)  on behalf of the commission in any action or proceeding to which the commission is
+
+- 8 -
+
+
+1    a party; or
+
+2        (d)  on behalf of any party to any action or proceeding under this title when the report or
+
+3    facts shown thereby are directly involved in such action or proceeding.  In any event, the court
+
+4    may require the production of, and may admit in evidence, any portion of reports or of the facts
+
+5    shown by them, as are specifically pertinent to the action or proceeding.
+
+6        (2)  This section does not prohibit:
+
+7        (a)  a person or his duly authorized representative from receiving a copy of any return or
+
+8    report filed in connection with that person's own tax;
+
+9        (b)  the publication of statistics as long as they are classified to prevent the identification
+
+10    of particular reports or returns;
+
+11        (c)  the inspection by the attorney general or other legal representative of the state of the
+
+12    report or return of any taxpayer:
+
+13        (i)  who brings action to set aside or review the tax based on such report or return;
+
+14        (ii)  against whom an action or proceeding is contemplated or has been instituted under this
+
+15    title; or
+
+16        (iii)  against whom the state has an unsatisfied money judgment.
+
+17        (3) (a)  Notwithstanding Subsection (1) and for purposes of administration, the commission
+
+18    may, by rule, provide for a reciprocal exchange of information with the United States Internal
+
+19    Revenue Service or the revenue service of any other state.
+
+20        (b)  Notwithstanding Subsection (1) and for all taxes except individual income tax and
+
+21    corporate franchise tax, the commission may, by rule, share information gathered from returns and
+
+22    other written statements with the federal government, any other state, any of their political
+
+23    subdivisions, or any political subdivision of this state, except as limited by Sections 59-12-209 and
+
+24    59-12-210, if these political subdivisions or the federal government grant substantially similar
+
+25    privileges to this state.
+
+26        (c)  Notwithstanding Subsection (1) and for all taxes except individual income tax and
+
+27    corporate franchise tax, the commission may, by rule, provide for the issuance of information
+
+28    concerning the identity and other information of taxpayers who have failed to file tax returns or
+
+29    to pay any tax due.
+
+30        (d)  Notwithstanding Subsection (1), the commission shall provide to the Solid and
+
+31    Hazardous Waste Control Board executive secretary, as defined in Section 19-6-102, any records,
+
+- 9 -
+
+
+1    returns, and other information filed with the commission under Title 59, Chapter 13, Motor and
+
+2    Special Fuel Tax Act, or Section 19-6-410.5 regarding the environmental assurance program
+
+3    participation fee, as requested by the executive secretary.
+
+4        (4)  Reports and returns shall be preserved for at least three years and then the commission
+
+5    may destroy them.
+
+6        (5)  Any person who violates this section is guilty of a class A misdemeanor.  If the
+
+7    offender is an officer or employee of the state, he shall be dismissed from office and be
+
+8    disqualified from holding public office in this state for a period of five years thereafter.
+
+9        (6)  This part does not apply to the property tax.
+
+10        Section 7.   Effective date.
+
+11        This act takes effect on July 1, 1998.
+
+
+
+
+ Legislative Review Note
+    as of  1-23-98  11:35 AM
+
+
+A limited legal review of this bill raises no obvious constitutional or statutory concerns.
+
+ Office of Legislative Research and General Counsel
+
+
+- 10 -
+[Bill Documents][Bills Directory]
+
+
+
+
+
+
+
+
+
+Who represents me?
+
+
+
+
+
+Remember my Legislators
+
+
+
+
+
+State Senate
+		350 North State, Suite 320
+		PO Box 145115
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1035
+		Fax: (801) 326-1475
+
+
+
+House of Representatives
+		350 North State, Suite 350
+		PO Box 145030
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1029
+		Fax: (801) 326-1544
+
+
+
+
+
+
+
+
+
+
+Home
+Mobile Site
+Site Map
+Calendar
+Code / Constitution
+House
+Senate
+
+Terms of Use/Privacy Policy
+
+ADA
+Utah.gov
+
+
+
+
+
+
+

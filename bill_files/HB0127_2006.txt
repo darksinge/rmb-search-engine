@@ -1,0 +1,1785 @@
+Sponsors: []Modifications: resulted in    48-2c-606.(1)  An operating agreement may establish or provide for the establishment of one ormore designated series of members, managers, or interests in the company having separaterights, powers, or duties with respect to specified property or obligations of the limited liabilitycompany or profits and losses associated with specified property or obligations.(2)  A series may have a business purpose or investment objective separate from thecompany.(3)  Notwithstanding any other applicable law, a series' debts, liabilities, obligations,and expenses are enforceable against the assets of that series only, and not against the assets ofthe company generally or any other series if:(a)  the operating agreement provides for separate treatment of the series;(b)  separate and distinct records are maintained concerning the series;(c)  the assets associated with the series are held and accounted for separately from theother assets of the company and any other series; and(d)  notice of the limitation on liability of a series is included in the company's articlesof organization.(4)  Unless otherwise provided in the operating agreement, none of the debts, liabilities,obligations, and expenses incurred, contracted for, or otherwise existing with respect to thecompany generally or any other series are enforceable against the assets of a series.    48-2c-607.(1)  Notice in a company's articles of organization of the limitation on liabilities of aseries, as required by Section 
+
+48-2c-606
+
+, is sufficient whether or not the company hasestablished any series at the time the notice is included in the articles of organization.(2)  The notice required by Section 
+
+48-2c-606
+
+ need not reference any specific series.(3)  The filing of the notice required by Section 
+
+48-2c-606
+
+ with the division constitutesnotice of the limitation on liability of a series.    48-2c-608.Notwithstanding Section 
+
+48-2c-601
+
+, a member or manager may agree to be obligatedpersonally for any or all of the debts, obligations, and liabilities of one or more series.    48-2c-609.(1)  An operating agreement may provide for classes or groups of members or managersassociated with a series.(2)  An operating agreement may provide for the future creation of additional classes orgroups of members or managers associated with a series having such relative rights, powers,and duties as may from time to time be established, including rights, powers, and duties seniorto existing classes and groups of members or managers associated with the series.(3)  An operating agreement may provide for the taking of an action without the vote orapproval of any member or manager, or class or group of members or managers, including:(a)  an action to create a class or group of a series of interests in the company that wasnot previously outstanding; and(b)  amending the operating agreement.(4)  An operating agreement may provide that any member or class or group ofmembers associated with a series has no voting rights.(5) (a)  An operating agreement may grant to all or certain identified members ormanagers, or a specified class or group of the members or managers associated with a series,the right to vote separately or with all or any class or group of the members or managersassociated with the series, on any matter.(b)  Voting by members or managers associated with a series may be on a per capita,number, financial interest, class, group, or any other basis.    48-2c-610.(1)  Unless otherwise provided in an operating agreement, the management of a series isvested in the members associated with the series in proportion to the then-current percentage orother interest of members in the profits of the series owned by all of the members associatedwith the series.(2)  The decision of members owning more than 50% of the then-current percentage orother interest in the profits controls.(3)  Notwithstanding Subsection (2), if an operating agreement provides for themanagement of the series in whole or in part by a manager, the management of the series isvested to that extent in the manager, who is chosen in the manner provided in the operatingagreement.(4)  The manager of a series holds the offices and has the responsibilities accorded tothe manager under the operating agreement.(5)  A series may have more than one manager.(6)  Subject to a manager's resignation, a manager ceases to be a manager with respectto a series as provided in the operating agreement.(7)  Except as otherwise provided in an operating agreement, any event under thischapter or in an operating agreement that causes a manager to cease to be a manager withrespect to a series does not, by itself, cause the manager to cease to be a manager of the limitedliability company or with respect to any other series.    48-2c-611.(1)  Subject to an operating agreement, at the time a member associated with a seriesbecomes entitled to receive a distribution with respect to the series, the member has the statusof, and is entitled to all remedies available to, a creditor of the series with respect to thedistribution.(2)  An operating agreement may provide for the establishment of a record date forallocations and distributions concerning a series.(3)  Notwithstanding Section 
+
+48-2c-1005
+
+, a limited liability company may make alimited distribution with respect to a series only.(4)  No distribution may be made by a company under this section with respect to aseries if, after giving effect to the distribution:(a)  the series would not be able to pay its debts as they become due in the usual andregular course of its business; or(b)  the value of the series' total assets would be less than the sum of:(i)  its total liabilities; and(ii)  unless the articles of organization or the operating agreement permit otherwise, theamount that would be needed, if the series were to be dissolved and wound up at the time of thedistribution, to satisfy the preferential rights upon dissolution and winding up of memberswhose preferential rights are superior to the rights of members receiving the distribution.(5)  The company may base a determination that a distribution is not prohibited underSubsection (4) either on:(a)  financial statements prepared on the basis of accounting practices and principlesthat are reasonable in the circumstances; or(b)  a fair valuation or other method that is reasonable in the circumstances.(6)  For purposes of this section, amounts constituting reasonable compensation forpresent or past services or reasonable payments made in the ordinary course of businesspursuant to a bona fide retirement plan or other benefits program do not constitute adistribution.(7)  A member who receives a distribution in violation of this section, and who knew atthe time of the distribution that the distribution violated this section, is liable to the series forthe amount of the distribution.(8)  Subject to Section 
+
+48-2c-1006
+
+, this section does not affect any obligation orliability of a member under an agreement or other applicable law for the amount of adistribution.    48-2c-612.(1)  Unless otherwise provided in the operating agreement, a member ceases to beassociated with a series and to have the power to exercise any rights or powers of a memberwith respect to the series upon the assignment of all of the member's interest in the companywith respect to the series.(2)  Unless otherwise provided in an operating agreement, any event under this chapteror the operating agreement that causes a member to cease to be associated with a series doesnot, by itself:(a)  cause the member to cease to be associated with any other series;(b)  terminate the continued membership of a member in the limited liability company;or(c)  cause the termination of the series, regardless of whether the member is the lastremaining member associated with the series.    48-2c-613.(1)  Subject to Section 
+
+48-2c-1201
+
+, except to the extent otherwise provided in theoperating agreement, a series may be terminated and its affairs wound up without causing thedissolution of the limited liability company.(2)  The termination of a series does not affect the limitation on liabilities of the seriesprovided by Section 
+
+48-2c-606
+
+.(3)  A series is terminated and its affairs shall be wound up upon the dissolution of thelimited liability company under Section 
+
+48-2c-1201
+
+ or otherwise upon the first to occur of thefollowing:(a)  the time specified in the operating agreement;(b)  the happening of events specified in the operating agreement;(c)  unless otherwise provided in the operating agreement, the affirmative vote orwritten consent of:(i) (A)  the members of the limited liability company associated with the series; or(B)  if there is more than one class or group of members associated with the series, byeach class or group of members associated with the series; and(ii) (A)  members associated with the series who own more than 2/3 of the then-currentpercentage or other interest in the profits of the series owned by all of the members associatedwith the series; or(B)  the members in each class or group of the series, as appropriate; or(d)  the termination of the series under Section 
+
+48-2c-614
+
+.    48-2c-614.On application by or for a member or manager associated with a series, the district courtmay decree termination of the series whenever it is not reasonably practicable to carry on thebusiness of the series in conformity with an operating agreement.    48-2c-615.(1)  Notwithstanding Section 
+
+48-2c-1303
+
+, unless otherwise provided in the operatingagreement, the series' affairs may be wound up by the following:(a)  a manager associated with a series who has not wrongfully terminated the series; or(b)  if there is no manager under Subsection (1)(a):(i)  the members associated with the series, or a person approved by the membersassociated with the series, who own more than 50% of the then-current percentage or otherinterest in the profits of the series owned by all of the members associated with the series; or(ii)  if there is more than one class or group of members associated with the series, thenby each class or group of members associated with the series owning more than 50% of thethen-current percentage or other interest in the profits of the series owned by all of themembers in each class or group associated with the series.(2) (a)  The district court may, upon cause shown, wind up the affairs of the series uponapplication of any member associated with the series, the member's personal representative, orthe member's assignee.(b)  If the district court winds up the affairs of a series under Subsection (2)(a), thedistrict court may appoint a liquidating trustee.(3) (a)  A person winding up the affairs of a series may, in the name of the limitedliability company and on behalf of the limited liability company and the series, take any actionwith respect to the series that is allowed by Part 13, Winding Up.(b)  A person winding up the affairs of a series shall comply with Part 13, Winding Up.(c)  The winding up the affairs of a series in accordance with this section does not:(i)  affect the liability of members; or(ii)  impose liability on a liquidating trustee.    48-2c-616.(1)  If a foreign limited liability company that is registering to do business in the state isgoverned by an operating agreement establishing or providing for the establishment of a series,that fact shall be stated on the application for authority to transact business in the state.(2) (a)  A company shall identify on an application for authority to transact business inthe state which of the protections for the series and company found in Section 
+
+48-2c-606
+
+ applyto a series.(b)  If different protections found in Section 
+
+48-2c-606
+
+ apply to different series of acompany, the application for authority to transact business in the state shall identify:(i)  the protections that apply to each existing series; and(ii)  the protections that will apply to any later-created series.Full text:
+
+
+
+Utah State Legislature
+
+
+
+
+
+
+
+
+
+
+
+
+Legislators
+
+By Session (1896-Current)
+Alphabetical (Historical)
+Find by Address/Map
+More
+
+
+Bills
+
+Bills/Bill Requests
+Passed Bills
+2017 Bills
+
+Keyword Search
+Reading Calendars
+Tracking Service
+More
+
+
+Committees
+
+All Committees
+Appropriations
+Commissions
+
+Independent Legislative Ethics Commission
+Interim
+Standing
+Subcommittees
+Task Forces
+Bills In Committees
+
+
+Utah Code / Constitution
+
+
+Title/Chapter/Section
+Keyword Search 
+
+Utah Constitution
+Laws of Utah 1851-ongoing
+Utah Territorial Laws 
+More
+
+
+Senate
+
+Main Page 
+About The Senate 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Extraordinary Sessions 
+Reading Calendars 
+Past Floor Debates 
+Senate Journals 
+
+
+House
+
+Main Page
+About the House 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Reading Calendars 
+Past Floor Debates 
+Journals 
+Conflict of Interest Forms 
+
+
+Legislative Guide 
+
+Legislative Guide
+Civic Programs
+GRAMA (Records Requests)
+
+
+Publications
+
+Search Publications
+Appropriations
+Audits
+Bagels & Briefings
+Briefing Papers
+Digest of Legislation
+Legislative Drafting Manual
+
+Journals
+
+Interim Highlights
+
+Legislative Rules
+GRAMA (Records Requests)
+Public Email
+State Organization Charts
+YouTube Channel
+Requests for Proposals and Legal Notices
+More
+
+
+Legislative Histories
+
+Legislative History Resources
+How to Research
+Bill Drafting/Research Files (1990-Ongoing)
+
+Working Bills (1896-1989)
+Interim Committee Histories (1990-Ongoing) 
+Journals
+Past House Floor Debates
+Past Senate Floor Debates
+More
+
+
+Staff Offices
+
+All Legislative Offices
+Auditor General
+Fiscal Analyst
+Printing
+Research and General Counsel
+Staff Awards
+Job Opportunities
+More
+
+
+Links of Interest
+
+Utah Administrative Rules
+Courts
+Utah State Capitol
+State of Utah
+Federal Legislation
+More
+
+
+
+
+
+
+ 
+
+Download Zipped Introduced WordPerfect HB0127.ZIP
+[Status][Bill Documents][Fiscal Note][Bills Directory]
+
+
+H.B. 127
+
+
+
+
+
+            
+1
+
+    
+ LIMITED LIABILITY COMPANY
+
+            
+2
+
+    
+ AMENDMENTS
+
+
+            
+3
+
+    
+2006 GENERAL SESSION
+
+            
+4
+
+    
+STATE OF UTAH
+
+            
+5
+
+    
+ Chief Sponsor:  J. Stuart Adams
+
+            
+6
+
+    
+
+Senate Sponsor: 
+
+
+  Curtis S. Bramble
+
+
+
+            
+7
+
+    
+
+            
+8
+
+    
+ LONG TITLE
+            
+9
+
+    
+ General Description:
+            
+10
+
+    
+    This bill modifies Title 48, Chapter 2c, Utah Revised Limited Liability Company Act.
+            
+11
+
+    
+ Highlighted Provisions:
+            
+12
+
+    
+    This bill:
+            
+13
+
+    
+    .    allows the creation of a series within a limited liability company;
+            
+14
+
+    
+    .    provides that a series may have a separate business purpose and separate rights and
+            
+15
+
+    
+liabilities from the limited liability company or another series of the company;
+            
+16
+
+    
+    .    describes the requirements for creating a series;
+            
+17
+
+    
+    .    provides a method for making distributions from a series;
+            
+18
+
+    
+    .    outlines methods for termination of a series;
+            
+19
+
+    
+    .    describes the winding up process for a series;
+            
+20
+
+    
+    .    outlines the requirements for a foreign limited liability company, the operating
+            
+21
+
+    
+agreement of which allows the creation of a series, to do business in the state; and
+            
+22
+
+    
+    .    makes technical changes.
+            
+23
+
+    
+ Monies Appropriated in this Bill:
+            
+24
+
+    
+    None
+            
+25
+
+    
+ Other Special Clauses:
+            
+26
+
+    
+    None
+            
+27
+
+    
+ Utah Code Sections Affected:
+
+            
+28
+
+
+    
+AMENDS:
+            
+29
+
+    
+     48-2c-120, as last amended by Chapter 141, Laws of Utah 2005
+            
+30
+
+    
+ENACTS:
+            
+31
+
+    
+     48-2c-606, Utah Code Annotated 1953
+            
+32
+
+    
+     48-2c-607, Utah Code Annotated 1953
+            
+33
+
+    
+     48-2c-608, Utah Code Annotated 1953
+            
+34
+
+    
+     48-2c-609, Utah Code Annotated 1953
+            
+35
+
+    
+     48-2c-610, Utah Code Annotated 1953
+            
+36
+
+    
+     48-2c-611, Utah Code Annotated 1953
+            
+37
+
+    
+     48-2c-612, Utah Code Annotated 1953
+            
+38
+
+    
+     48-2c-613, Utah Code Annotated 1953
+            
+39
+
+    
+     48-2c-614, Utah Code Annotated 1953
+            
+40
+
+    
+     48-2c-615, Utah Code Annotated 1953
+            
+41
+
+    
+     48-2c-616, Utah Code Annotated 1953
+            
+42
+
+    
+
+            
+43
+
+    
+Be it enacted by the Legislature of the state of Utah:
+            
+44
+
+    
+    Section 1.  
+Section  
+48-2c-120
+
+ is amended to read:
+            
+45
+
+    
+     48-2c-120.  Articles of organization and operating agreement.
+            
+46
+
+    
+    (1)  A company's articles of organization or operating agreement may not:
+            
+47
+
+    
+    (a)  restrict a right to inspect and copy records under Section 
+
+48-2c-113
+
+;
+            
+48
+
+    
+    (b)  reduce the duties of members or managers under Section 
+
+48-2c-807
+
+;
+            
+49
+
+    
+    (c)  eliminate the obligation of good faith and fair dealing, except that the members by
+            
+50
+
+    
+written agreement may determine the standards by which the performance of the obligation is
+            
+51
+
+    
+to be measured, if the standards are not manifestly unreasonable;
+            
+52
+
+    
+    (d)  vary any filing requirement under this chapter;
+            
+53
+
+    
+    (e)  vary any requirement under this chapter that a particular action or provision be
+            
+54
+
+    
+reflected in a writing;
+            
+55
+
+    
+    (f)  vary the right to expel a member based on any event specified in Subsection
+            
+56
+
+    
+
+48-2c-710
+
+(3);
+            
+57
+
+    
+    (g)  vary the remedies under Section 
+
+48-2c-1210
+
+ for judicial dissolution of a company;
+            
+58
+
+    
+    (h)  except as allowed by Section 
+
+48-2c-1103
+
+ or any other provision of law, restrict
+
+            
+59
+
+
+    
+rights of, or impose duties on, persons other than the members, their assignees and transferees,
+            
+60
+
+    
+the managers, and the company, without the consent of those persons; or
+            
+61
+
+    
+    (i)  eliminate or limit the personal liability of any person vested with management
+            
+62
+
+    
+authority to the company or its members for damages for any breach of duty in the capacity
+            
+63
+
+    
+where a judgment or other final adjudication adverse to the manager establishes that the
+            
+64
+
+    
+manager's acts or omissions:
+            
+65
+
+    
+    (i)  were in bad faith;
+            
+66
+
+    
+    (ii)  involved gross negligence;
+            
+67
+
+    
+    (iii)  involved willful misconduct; or
+            
+68
+
+    
+    (iv)  [the manager personally gained] resulted in a financial profit or other advantage to
+            
+69
+
+    
+which the manager was not legally entitled.
+            
+70
+
+    
+    (2)  The articles of organization and operating agreement may:
+            
+71
+
+    
+    (a)  vary the requirement under Section 
+
+48-2c-1104
+
+ that, if all of the other members of
+            
+72
+
+    
+the company other than the member proposing to dispose of the member's interest do not
+            
+73
+
+    
+approve of the proposed transfer or assignment by unanimous written consent, the transferee of
+            
+74
+
+    
+the member's interest shall have no right to participate in the management of the business or
+            
+75
+
+    
+affairs of the company or to become a member; and
+            
+76
+
+    
+    (b)  vary the requirement under Section 
+
+48-2c-703
+
+ that, after the filing of the original
+            
+77
+
+    
+articles of organization, a person may be admitted as an additional member only upon the
+            
+78
+
+    
+written consent of all members.
+            
+79
+
+    
+    Section 2.  
+Section  
+48-2c-606
+
+ is enacted to read:
+            
+80
+
+    
+     48-2c-606.  Series of members, managers, or limited liability company interests.
+            
+81
+
+    
+    (1)  An operating agreement may establish or provide for the establishment of one or
+            
+82
+
+    
+more designated series of members, managers, or interests in the company having separate
+            
+83
+
+    
+rights, powers, or duties with respect to specified property or obligations of the limited liability
+            
+84
+
+    
+company or profits and losses associated with specified property or obligations.
+            
+85
+
+    
+    (2)  A series may have a business purpose or investment objective separate from the
+            
+86
+
+    
+company.
+            
+87
+
+    
+    (3)  Notwithstanding any other applicable law, a series' debts, liabilities, obligations,
+            
+88
+
+    
+and expenses are enforceable against the assets of that series only, and not against the assets of
+            
+89
+
+    
+the company generally or any other series if:
+
+            
+90
+
+
+    
+    (a)  the operating agreement provides for separate treatment of the series;
+            
+91
+
+    
+    (b)  separate and distinct records are maintained concerning the series;
+            
+92
+
+    
+    (c)  the assets associated with the series are held and accounted for separately from the
+            
+93
+
+    
+other assets of the company and any other series; and
+            
+94
+
+    
+    (d)  notice of the limitation on liability of a series is included in the company's articles
+            
+95
+
+    
+of organization.
+            
+96
+
+    
+    (4)  Unless otherwise provided in the operating agreement, none of the debts, liabilities,
+            
+97
+
+    
+obligations, and expenses incurred, contracted for, or otherwise existing with respect to the
+            
+98
+
+    
+company generally or any other series are enforceable against the assets of a series.
+            
+99
+
+    
+    Section 3.  
+Section  
+48-2c-607
+
+ is enacted to read:
+            
+100
+
+    
+     48-2c-607.  Notice of series -- Articles of organization.
+            
+101
+
+    
+    (1)  Notice in a company's articles of organization of the limitation on liabilities of a
+            
+102
+
+    
+series, as required by Section 
+
+48-2c-606
+
+, is sufficient whether or not the company has
+            
+103
+
+    
+established any series at the time the notice is included in the articles of organization.
+            
+104
+
+    
+    (2)  The notice required by Section 
+
+48-2c-606
+
+ need not reference any specific series.
+            
+105
+
+    
+    (3)  The filing of the notice required by Section 
+
+48-2c-606
+
+ with the division constitutes
+            
+106
+
+    
+notice of the limitation on liability of a series.
+            
+107
+
+    
+    Section 4.  
+Section  
+48-2c-608
+
+ is enacted to read:
+            
+108
+
+    
+     48-2c-608.  Agreement to be liable.
+            
+109
+
+    
+    Notwithstanding Section 
+
+48-2c-601
+
+, a member or manager may agree to be obligated
+            
+110
+
+    
+personally for any or all of the debts, obligations, and liabilities of one or more series.
+            
+111
+
+    
+    Section 5.  
+Section  
+48-2c-609
+
+ is enacted to read:
+            
+112
+
+    
+     48-2c-609.  Series related provisions in operating agreement.
+            
+113
+
+    
+    (1)  An operating agreement may provide for classes or groups of members or managers
+            
+114
+
+    
+associated with a series.
+            
+115
+
+    
+    (2)  An operating agreement may provide for the future creation of additional classes or
+            
+116
+
+    
+groups of members or managers associated with a series having such relative rights, powers,
+            
+117
+
+    
+and duties as may from time to time be established, including rights, powers, and duties senior
+            
+118
+
+    
+to existing classes and groups of members or managers associated with the series.
+            
+119
+
+    
+    (3)  An operating agreement may provide for the taking of an action without the vote or
+            
+120
+
+    
+approval of any member or manager, or class or group of members or managers, including:
+
+            
+121
+
+
+    
+    (a)  an action to create a class or group of a series of interests in the company that was
+            
+122
+
+    
+not previously outstanding; and
+            
+123
+
+    
+    (b)  amending the operating agreement.
+            
+124
+
+    
+    (4)  An operating agreement may provide that any member or class or group of
+            
+125
+
+    
+members associated with a series has no voting rights.
+            
+126
+
+    
+    (5) (a)  An operating agreement may grant to all or certain identified members or
+            
+127
+
+    
+managers, or a specified class or group of the members or managers associated with a series,
+            
+128
+
+    
+the right to vote separately or with all or any class or group of the members or managers
+            
+129
+
+    
+associated with the series, on any matter.
+            
+130
+
+    
+    (b)  Voting by members or managers associated with a series may be on a per capita,
+            
+131
+
+    
+number, financial interest, class, group, or any other basis.
+            
+132
+
+    
+    Section 6.  
+Section  
+48-2c-610
+
+ is enacted to read:
+            
+133
+
+    
+     48-2c-610.  Management of a series.
+            
+134
+
+    
+    (1)  Unless otherwise provided in an operating agreement, the management of a series is
+            
+135
+
+    
+vested in the members associated with the series in proportion to the then-current percentage or
+            
+136
+
+    
+other interest of members in the profits of the series owned by all of the members associated
+            
+137
+
+    
+with the series.
+            
+138
+
+    
+    (2)  The decision of members owning more than 50% of the then-current percentage or
+            
+139
+
+    
+other interest in the profits controls.
+            
+140
+
+    
+    (3)  Notwithstanding Subsection (2), if an operating agreement provides for the
+            
+141
+
+    
+management of the series in whole or in part by a manager, the management of the series is
+            
+142
+
+    
+vested to that extent in the manager, who is chosen in the manner provided in the operating
+            
+143
+
+    
+agreement.
+            
+144
+
+    
+    (4)  The manager of a series holds the offices and has the responsibilities accorded to
+            
+145
+
+    
+the manager under the operating agreement.
+            
+146
+
+    
+    (5)  A series may have more than one manager.
+            
+147
+
+    
+    (6)  Subject to a manager's resignation, a manager ceases to be a manager with respect
+            
+148
+
+    
+to a series as provided in the operating agreement.
+            
+149
+
+    
+    (7)  Except as otherwise provided in an operating agreement, any event under this
+            
+150
+
+    
+chapter or in an operating agreement that causes a manager to cease to be a manager with
+            
+151
+
+    
+respect to a series does not, by itself, cause the manager to cease to be a manager of the limited
+
+            
+152
+
+
+    
+liability company or with respect to any other series.
+            
+153
+
+    
+    Section 7.  
+Section  
+48-2c-611
+
+ is enacted to read:
+            
+154
+
+    
+     48-2c-611.  Distributions concerning a series.
+            
+155
+
+    
+    (1)  Subject to an operating agreement, at the time a member associated with a series
+            
+156
+
+    
+becomes entitled to receive a distribution with respect to the series, the member has the status
+            
+157
+
+    
+of, and is entitled to all remedies available to, a creditor of the series with respect to the
+            
+158
+
+    
+distribution.
+            
+159
+
+    
+    (2)  An operating agreement may provide for the establishment of a record date for
+            
+160
+
+    
+allocations and distributions concerning a series.
+            
+161
+
+    
+    (3)  Notwithstanding Section 
+
+48-2c-1005
+
+, a limited liability company may make a
+            
+162
+
+    
+limited distribution with respect to a series only.
+            
+163
+
+    
+    (4)  No distribution may be made by a company under this section with respect to a
+            
+164
+
+    
+series if, after giving effect to the distribution:
+            
+165
+
+    
+    (a)  the series would not be able to pay its debts as they become due in the usual and
+            
+166
+
+    
+regular course of its business; or
+            
+167
+
+    
+    (b)  the value of the series' total assets would be less than the sum of:
+            
+168
+
+    
+    (i)  its total liabilities; and
+            
+169
+
+    
+    (ii)  unless the articles of organization or the operating agreement permit otherwise, the
+            
+170
+
+    
+amount that would be needed, if the series were to be dissolved and wound up at the time of the
+            
+171
+
+    
+distribution, to satisfy the preferential rights upon dissolution and winding up of members
+            
+172
+
+    
+whose preferential rights are superior to the rights of members receiving the distribution.
+            
+173
+
+    
+    (5)  The company may base a determination that a distribution is not prohibited under
+            
+174
+
+    
+Subsection (4) either on:
+            
+175
+
+    
+    (a)  financial statements prepared on the basis of accounting practices and principles
+            
+176
+
+    
+that are reasonable in the circumstances; or
+            
+177
+
+    
+    (b)  a fair valuation or other method that is reasonable in the circumstances.
+            
+178
+
+    
+    (6)  For purposes of this section, amounts constituting reasonable compensation for
+            
+179
+
+    
+present or past services or reasonable payments made in the ordinary course of business
+            
+180
+
+    
+pursuant to a bona fide retirement plan or other benefits program do not constitute a
+            
+181
+
+    
+distribution.
+            
+182
+
+    
+    (7)  A member who receives a distribution in violation of this section, and who knew at
+
+            
+183
+
+
+    
+the time of the distribution that the distribution violated this section, is liable to the series for
+            
+184
+
+    
+the amount of the distribution.
+            
+185
+
+    
+    (8)  Subject to Section 
+
+48-2c-1006
+
+, this section does not affect any obligation or
+            
+186
+
+    
+liability of a member under an agreement or other applicable law for the amount of a
+            
+187
+
+    
+distribution.
+            
+188
+
+    
+    Section 8.  
+Section  
+48-2c-612
+
+ is enacted to read:
+            
+189
+
+    
+     48-2c-612.  Member removal from a series -- Effect.
+            
+190
+
+    
+    (1)  Unless otherwise provided in the operating agreement, a member ceases to be
+            
+191
+
+    
+associated with a series and to have the power to exercise any rights or powers of a member
+            
+192
+
+    
+with respect to the series upon the assignment of all of the member's interest in the company
+            
+193
+
+    
+with respect to the series.
+            
+194
+
+    
+    (2)  Unless otherwise provided in an operating agreement, any event under this chapter
+            
+195
+
+    
+or the operating agreement that causes a member to cease to be associated with a series does
+            
+196
+
+    
+not, by itself:
+            
+197
+
+    
+    (a)  cause the member to cease to be associated with any other series;
+            
+198
+
+    
+    (b)  terminate the continued membership of a member in the limited liability company;
+            
+199
+
+    
+or
+            
+200
+
+    
+    (c)  cause the termination of the series, regardless of whether the member is the last
+            
+201
+
+    
+remaining member associated with the series.
+            
+202
+
+    
+    Section 9.  
+Section  
+48-2c-613
+
+ is enacted to read:
+            
+203
+
+    
+     48-2c-613.  Termination of series.
+            
+204
+
+    
+    (1)  Subject to Section 
+
+48-2c-1201
+
+, except to the extent otherwise provided in the
+            
+205
+
+    
+operating agreement, a series may be terminated and its affairs wound up without causing the
+            
+206
+
+    
+dissolution of the limited liability company.
+            
+207
+
+    
+    (2)  The termination of a series does not affect the limitation on liabilities of the series
+            
+208
+
+    
+provided by Section 
+
+48-2c-606
+
+.
+            
+209
+
+    
+    (3)  A series is terminated and its affairs shall be wound up upon the dissolution of the
+            
+210
+
+    
+limited liability company under Section 
+
+48-2c-1201
+
+ or otherwise upon the first to occur of the
+            
+211
+
+    
+following:
+            
+212
+
+    
+    (a)  the time specified in the operating agreement;
+            
+213
+
+    
+    (b)  the happening of events specified in the operating agreement;
+
+            
+214
+
+
+    
+    (c)  unless otherwise provided in the operating agreement, the affirmative vote or
+            
+215
+
+    
+written consent of:
+            
+216
+
+    
+    (i) (A)  the members of the limited liability company associated with the series; or
+            
+217
+
+    
+    (B)  if there is more than one class or group of members associated with the series, by
+            
+218
+
+    
+each class or group of members associated with the series; and
+            
+219
+
+    
+    (ii) (A)  members associated with the series who own more than 2/3 of the then-current
+            
+220
+
+    
+percentage or other interest in the profits of the series owned by all of the members associated
+            
+221
+
+    
+with the series; or
+            
+222
+
+    
+    (B)  the members in each class or group of the series, as appropriate; or
+            
+223
+
+    
+    (d)  the termination of the series under Section 
+
+48-2c-614
+
+.
+            
+224
+
+    
+    Section 10.  
+Section  
+48-2c-614
+
+ is enacted to read:
+            
+225
+
+    
+     48-2c-614.  Court-decreed termination of series.
+            
+226
+
+    
+    On application by or for a member or manager associated with a series, the district court
+            
+227
+
+    
+may decree termination of the series whenever it is not reasonably practicable to carry on the
+            
+228
+
+    
+business of the series in conformity with an operating agreement.
+            
+229
+
+    
+    Section 11.  
+Section  
+48-2c-615
+
+ is enacted to read:
+            
+230
+
+    
+     48-2c-615.  Participation in winding up.
+            
+231
+
+    
+    (1)  Notwithstanding Section 
+
+48-2c-1303
+
+, unless otherwise provided in the operating
+            
+232
+
+    
+agreement, the series' affairs may be wound up by the following:
+            
+233
+
+    
+    (a)  a manager associated with a series who has not wrongfully terminated the series; or
+            
+234
+
+    
+    (b)  if there is no manager under Subsection (1)(a):
+            
+235
+
+    
+    (i)  the members associated with the series, or a person approved by the members
+            
+236
+
+    
+associated with the series, who own more than 50% of the then-current percentage or other
+            
+237
+
+    
+interest in the profits of the series owned by all of the members associated with the series; or
+            
+238
+
+    
+    (ii)  if there is more than one class or group of members associated with the series, then
+            
+239
+
+    
+by each class or group of members associated with the series owning more than 50% of the
+            
+240
+
+    
+then-current percentage or other interest in the profits of the series owned by all of the
+            
+241
+
+    
+members in each class or group associated with the series.
+            
+242
+
+    
+    (2) (a)  The district court may, upon cause shown, wind up the affairs of the series upon
+            
+243
+
+    
+application of any member associated with the series, the member's personal representative, or
+            
+244
+
+    
+the member's assignee.
+
+            
+245
+
+
+    
+    (b)  If the district court winds up the affairs of a series under Subsection (2)(a), the
+            
+246
+
+    
+district court may appoint a liquidating trustee.
+            
+247
+
+    
+    (3) (a)  A person winding up the affairs of a series may, in the name of the limited
+            
+248
+
+    
+liability company and on behalf of the limited liability company and the series, take any action
+            
+249
+
+    
+with respect to the series that is allowed by Part 13, Winding Up.
+            
+250
+
+    
+    (b)  A person winding up the affairs of a series shall comply with Part 13, Winding Up.
+            
+251
+
+    
+    (c)  The winding up the affairs of a series in accordance with this section does not:
+            
+252
+
+    
+    (i)  affect the liability of members; or
+            
+253
+
+    
+    (ii)  impose liability on a liquidating trustee.
+            
+254
+
+    
+    Section 12.  
+Section  
+48-2c-616
+
+ is enacted to read:
+            
+255
+
+    
+     48-2c-616.  Foreign limited liability company -- Series.
+            
+256
+
+    
+    (1)  If a foreign limited liability company that is registering to do business in the state is
+            
+257
+
+    
+governed by an operating agreement establishing or providing for the establishment of a series,
+            
+258
+
+    
+that fact shall be stated on the application for authority to transact business in the state.
+            
+259
+
+    
+    (2) (a)  A company shall identify on an application for authority to transact business in
+            
+260
+
+    
+the state which of the protections for the series and company found in Section 
+
+48-2c-606
+
+ apply
+            
+261
+
+    
+to a series.
+            
+262
+
+    
+    (b)  If different protections found in Section 
+
+48-2c-606
+
+ apply to different series of a
+            
+263
+
+    
+company, the application for authority to transact business in the state shall identify:
+            
+264
+
+    
+    (i)  the protections that apply to each existing series; and
+            
+265
+
+    
+    (ii)  the protections that will apply to any later-created series.
+
+
+
+
+ Legislative Review Note
+    as of   1-18-06  8:12 AM
+
+Based on a limited legal review, this legislation has not been determined to have a high
+probability of being held unconstitutional.
+
+ Office of Legislative Research and General Counsel
+[Bill Documents][Bills Directory]
+
+
+
+
+
+
+
+
+
+Who represents me?
+
+
+
+
+
+Remember my Legislators
+
+
+
+
+
+State Senate
+		350 North State, Suite 320
+		PO Box 145115
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1035
+		Fax: (801) 326-1475
+
+
+
+House of Representatives
+		350 North State, Suite 350
+		PO Box 145030
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1029
+		Fax: (801) 326-1544
+
+
+
+
+
+
+
+
+
+
+Home
+Mobile Site
+Site Map
+Calendar
+Code / Constitution
+House
+Senate
+
+Terms of Use/Privacy Policy
+
+ADA
+Utah.gov
+
+
+
+
+
+
+

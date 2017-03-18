@@ -1,0 +1,979 @@
+Sponsors: []Modifications: this section or Section; or(v)  if the applicant is prohibited from becoming a lobbyist under Title 67, Chapter 24,Lobbying Restrictions Act.    67-24-101.This chapter is known as the "Lobbying Restrictions Act."    67-24-102.As used in this chapter:(1)  "Lobbying" has the same meaning as defined in Section 
+
+36-11-102
+
+.(2)  "Lobbyist" has the same meaning as defined in Section 
+
+36-11-102
+
+.(3)  "State official" means:(a)  a member of the Legislature;(b)  the governor;(c)  the lieutenant governor;(d)  the state auditor;(e)  the state treasurer;(f)  the attorney general;(g)  a member of the governor's cabinet;(h)  the governor's chief of staff;(i)  the governor's deputy chief of staff; and(j)  the governor's general counsel.    67-24-103.(1)  Except as provided in Subsection (2), a former state official may not become alobbyist or engage in lobbying that would require registration as a lobbyist for one calendaryear, beginning on the date the state official leaves office and ending on the one-yearanniversary of that date.(2)  This section does not apply if the former state official:(a)  engages in lobbying on behalf of:(i)  himself; or(ii)  a business with which he is associated, unless the primary activity of the business islobbying or governmental relations; and(b)  does not engage in activities that would require registration as a lobbyist.Full text:
+
+
+
+Utah State Legislature
+
+
+
+
+
+
+
+
+
+
+
+
+Legislators
+
+By Session (1896-Current)
+Alphabetical (Historical)
+Find by Address/Map
+More
+
+
+Bills
+
+Bills/Bill Requests
+Passed Bills
+2017 Bills
+
+Keyword Search
+Reading Calendars
+Tracking Service
+More
+
+
+Committees
+
+All Committees
+Appropriations
+Commissions
+
+Independent Legislative Ethics Commission
+Interim
+Standing
+Subcommittees
+Task Forces
+Bills In Committees
+
+
+Utah Code / Constitution
+
+
+Title/Chapter/Section
+Keyword Search 
+
+Utah Constitution
+Laws of Utah 1851-ongoing
+Utah Territorial Laws 
+More
+
+
+Senate
+
+Main Page 
+About The Senate 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Extraordinary Sessions 
+Reading Calendars 
+Past Floor Debates 
+Senate Journals 
+
+
+House
+
+Main Page
+About the House 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Reading Calendars 
+Past Floor Debates 
+Journals 
+Conflict of Interest Forms 
+
+
+Legislative Guide 
+
+Legislative Guide
+Civic Programs
+GRAMA (Records Requests)
+
+
+Publications
+
+Search Publications
+Appropriations
+Audits
+Bagels & Briefings
+Briefing Papers
+Digest of Legislation
+Legislative Drafting Manual
+
+Journals
+
+Interim Highlights
+
+Legislative Rules
+GRAMA (Records Requests)
+Public Email
+State Organization Charts
+YouTube Channel
+Requests for Proposals and Legal Notices
+More
+
+
+Legislative Histories
+
+Legislative History Resources
+How to Research
+Bill Drafting/Research Files (1990-Ongoing)
+
+Working Bills (1896-1989)
+Interim Committee Histories (1990-Ongoing) 
+Journals
+Past House Floor Debates
+Past Senate Floor Debates
+More
+
+
+Staff Offices
+
+All Legislative Offices
+Auditor General
+Fiscal Analyst
+Printing
+Research and General Counsel
+Staff Awards
+Job Opportunities
+More
+
+
+Links of Interest
+
+Utah Administrative Rules
+Courts
+Utah State Capitol
+State of Utah
+Federal Legislation
+More
+
+
+
+
+
+
+ 
+
+Download Zipped Introduced WordPerfect HB0121.ZIP
+[Status][Bill Documents][Fiscal Note][Bills Directory]
+
+
+H.B. 121
+
+
+
+
+
+            
+1
+
+    
+ REVOLVING DOOR LIMITATIONS FOR
+
+            
+2
+
+    
+ PUBLIC OFFICIALS TO BECOME
+
+            
+3
+
+    
+ LOBBYISTS
+
+
+
+            
+4
+
+    
+2006 GENERAL SESSION
+
+            
+5
+
+    
+STATE OF UTAH
+
+            
+6
+
+    
+
+
+ Chief Sponsor:  Carol Spackman Moss
+
+
+
+            
+7
+
+    
+
+
+
+Senate Sponsor:  
+
+
+
+
+
+
+____________
+
+
+
+
+
+            
+8
+
+    
+
+            
+9
+
+    
+ LONG TITLE
+            
+10
+
+    
+ General Description:
+            
+11
+
+    
+    This bill enacts the Lobbying Restrictions Act, which places restrictions on certain
+            
+12
+
+    
+elected and appointed government officers' ability to act as a lobbyist after leaving
+            
+13
+
+    
+office.
+            
+14
+
+    
+ Highlighted Provisions:
+            
+15
+
+    
+    This bill:
+            
+16
+
+    
+    .    enacts the Lobbying Restrictions Act, which prohibits certain elected and appointed
+            
+17
+
+    
+government officials from acting as a lobbyist for one year after leaving office; and
+            
+18
+
+    
+    .    requires the lieutenant governor to disapprove an application for a lobbyist license
+            
+19
+
+    
+when the applicant does not meet the eligibility requirements.
+            
+20
+
+    
+ Monies Appropriated in this Bill:
+            
+21
+
+    
+    None
+            
+22
+
+    
+ Other Special Clauses:
+            
+23
+
+    
+    None
+            
+24
+
+    
+ Utah Code Sections Affected:
+            
+25
+
+    
+AMENDS:
+            
+26
+
+    
+     36-11-103, as last amended by Chapter 27, Laws of Utah 2003
+            
+27
+
+    
+ENACTS:
+
+            
+28
+
+
+    
+     67-24-101, Utah Code Annotated 1953
+            
+29
+
+    
+     67-24-102, Utah Code Annotated 1953
+            
+30
+
+    
+     67-24-103, Utah Code Annotated 1953
+            
+31
+
+    
+
+            
+32
+
+    
+Be it enacted by the Legislature of the state of Utah:
+            
+33
+
+    
+    Section 1.  
+Section  
+36-11-103
+
+ is amended to read:
+            
+34
+
+    
+     36-11-103.  Licensing requirements.
+            
+35
+
+    
+    (1) (a)  Before engaging in any lobbying, a lobbyist shall obtain a license from the
+            
+36
+
+    
+lieutenant governor by completing the form required by this section.
+            
+37
+
+    
+    (b)  The lieutenant governor shall issue licenses to qualified lobbyists.
+            
+38
+
+    
+    (c)  The lieutenant governor shall prepare a Lobbyist License Application Form that
+            
+39
+
+    
+includes:
+            
+40
+
+    
+    (i)  a place for the lobbyist's name and business address;
+            
+41
+
+    
+    (ii)  a place for the name and business address of each principal for whom the lobbyist
+            
+42
+
+    
+works or is hired as an independent contractor;
+            
+43
+
+    
+    (iii)  a place for the name and address of the person who paid or will pay the lobbyist's
+            
+44
+
+    
+registration fee, if the fee is not paid by the lobbyist;
+            
+45
+
+    
+    (iv)  a place for the lobbyist to disclose any elected or appointed position that the
+            
+46
+
+    
+lobbyist holds in state or local government, if any;
+            
+47
+
+    
+    (v)  a place for the lobbyist to disclose the types of expenditures for which the lobbyist
+            
+48
+
+    
+will be reimbursed; and
+            
+49
+
+    
+    (vi)  a certification to be signed by the lobbyist that certifies that the information
+            
+50
+
+    
+provided in the form is true, accurate, and complete to the best of the lobbyist's knowledge and
+            
+51
+
+    
+belief.
+            
+52
+
+    
+    (2)  Each lobbyist who obtains a license under this section shall update the licensure
+            
+53
+
+    
+information when the lobbyist accepts employment for lobbying by a new client.
+            
+54
+
+    
+    (3) (a)  Except as provided in Subsection (4), the lieutenant governor shall grant a
+            
+55
+
+    
+lobbying license to an applicant who:
+            
+56
+
+    
+    (i)  files an application with the lieutenant governor that contains the information
+            
+57
+
+    
+required by this section; and
+            
+58
+
+    
+    (ii)  pays a $25 filing fee.
+
+            
+59
+
+
+    
+    (b)  A license entitles a person to serve as a lobbyist on behalf of one or more principals
+            
+60
+
+    
+and expires on December 31 of each even-numbered year.
+            
+61
+
+    
+    (4) (a)  The lieutenant governor may disapprove an application for a lobbying license:
+            
+62
+
+    
+    (i)  if the applicant has been convicted of violating Section 
+
+76-8-103
+
+, 
+
+76-8-107
+
+,
+            
+63
+
+    
+
+76-8-108
+
+, or 
+
+76-8-303
+
+ within five years before the date of the lobbying license application;
+            
+64
+
+    
+    (ii)  if the applicant has been convicted of violating Section 
+
+76-8-104
+
+ or 
+
+76-8-304
+
+
+            
+65
+
+    
+within one year before the date of the lobbying license application;
+            
+66
+
+    
+    (iii)  for the term of any suspension imposed under Section 
+
+36-11-401
+
+; [or]
+            
+67
+
+    
+    (iv)  if, within one year before the date of the lobbying license application, the applicant
+            
+68
+
+    
+has been found to have willingly and knowingly:
+            
+69
+
+    
+    (A)  violated [Section 
+
+36-11-103
+
+,] this section or Section
+
+36-11-201
+
+, 
+
+36-11-301
+
+,
+            
+70
+
+    
+
+36-11-302
+
+, 
+
+36-11-303
+
+, 
+
+36-11-304
+
+, 
+
+36-11-305
+
+, or 
+
+36-11-403
+
+; or
+            
+71
+
+    
+    (B)  filed a document required by this chapter that the lobbyist knew contained
+            
+72
+
+    
+materially false information or omitted material information[.]; or
+            
+73
+
+    
+    (v)  if the applicant is prohibited from becoming a lobbyist under Title 67, Chapter 24,
+            
+74
+
+    
+Lobbying Restrictions Act.
+            
+75
+
+    
+    (b)  An applicant may appeal the disapproval in accordance with the procedures
+            
+76
+
+    
+established by the lieutenant governor under this chapter and Title 63, Chapter 46b,
+            
+77
+
+    
+Administrative Procedures Act.
+            
+78
+
+    
+    (5)  The lieutenant governor shall deposit license fees in the General Fund.
+            
+79
+
+    
+    (6)  A principal need not obtain a license under this section, but if the principal makes
+            
+80
+
+    
+expenditures to benefit a public official without using a lobbyist as an agent to confer those
+            
+81
+
+    
+benefits, the principal shall disclose those expenditures as required by Sections 
+
+36-11-201
+
+.
+            
+82
+
+    
+    (7)  Government officers need not obtain a license under this section, but shall disclose
+            
+83
+
+    
+any expenditures made to benefit public officials as required by Sections 
+
+36-11-201
+
+.
+            
+84
+
+    
+    (8)  Surrender, cancellation, or expiration of a lobbyist license does not absolve the
+            
+85
+
+    
+lobbyist of the duty to file the financial reports if the lobbyist is otherwise required to file the
+            
+86
+
+    
+reports by Section 
+
+36-11-201
+
+.
+            
+87
+
+    
+    Section 2.  
+Section  
+67-24-101
+
+ is enacted to read:
+            
+88
+
+    
+ CHAPTER 24.  LOBBYING RESTRICTIONS ACT
+
+            
+89
+
+    
+     67-24-101.  Title.
+
+            
+90
+
+
+    
+    This chapter is known as the "Lobbying Restrictions Act."
+            
+91
+
+    
+    Section 3.  
+Section  
+67-24-102
+
+ is enacted to read:
+            
+92
+
+    
+     67-24-102.  Definitions.
+            
+93
+
+    
+    As used in this chapter:
+            
+94
+
+    
+    (1)  "Lobbying" has the same meaning as defined in Section 
+
+36-11-102
+
+.
+            
+95
+
+    
+    (2)  "Lobbyist" has the same meaning as defined in Section 
+
+36-11-102
+
+.
+            
+96
+
+    
+    (3)  "State official" means:
+            
+97
+
+    
+    (a)  a member of the Legislature;
+            
+98
+
+    
+    (b)  the governor;
+            
+99
+
+    
+    (c)  the lieutenant governor;
+            
+100
+
+    
+    (d)  the state auditor;
+            
+101
+
+    
+    (e)  the state treasurer;
+            
+102
+
+    
+    (f)  the attorney general;    
+            
+103
+
+    
+    (g)  a member of the governor's cabinet;
+            
+104
+
+    
+    (h)  the governor's chief of staff;
+            
+105
+
+    
+    (i)  the governor's deputy chief of staff; and
+            
+106
+
+    
+    (j)  the governor's general counsel.
+            
+107
+
+    
+    Section 4.  
+Section  
+67-24-103
+
+ is enacted to read:
+            
+108
+
+    
+     67-24-103.  Qualified prohibitions on lobbyists -- Time limit -- Exceptions.
+            
+109
+
+    
+    (1)  Except as provided in Subsection (2), a former state official may not become a
+            
+110
+
+    
+lobbyist or engage in lobbying that would require registration as a lobbyist for one calendar
+            
+111
+
+    
+year, beginning on the date the state official leaves office and ending on the one-year
+            
+112
+
+    
+anniversary of that date.
+            
+113
+
+    
+    (2)  This section does not apply if the former state official:
+            
+114
+
+    
+    (a)  engages in lobbying on behalf of:
+            
+115
+
+    
+    (i)  himself; or
+            
+116
+
+    
+    (ii)  a business with which he is associated, unless the primary activity of the business is
+            
+117
+
+    
+lobbying or governmental relations; and
+            
+118
+
+    
+    (b)  does not engage in activities that would require registration as a lobbyist.
+
+
+
+
+
+ Legislative Review Note
+    as of   8-31-05  12:50 PM
+
+Based on a limited legal review, this legislation has not been determined to have a high
+probability of being held unconstitutional.
+
+ Office of Legislative Research and General Counsel
+[Bill Documents][Bills Directory]
+
+
+
+
+
+
+
+
+
+Who represents me?
+
+
+
+
+
+Remember my Legislators
+
+
+
+
+
+State Senate
+		350 North State, Suite 320
+		PO Box 145115
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1035
+		Fax: (801) 326-1475
+
+
+
+House of Representatives
+		350 North State, Suite 350
+		PO Box 145030
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1029
+		Fax: (801) 326-1544
+
+
+
+
+
+
+
+
+
+
+Home
+Mobile Site
+Site Map
+Calendar
+Code / Constitution
+House
+Senate
+
+Terms of Use/Privacy Policy
+
+ADA
+Utah.gov
+
+
+
+
+
+
+

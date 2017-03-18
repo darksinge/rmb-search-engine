@@ -78,13 +78,19 @@ async def search_bills(loop, year, bill_list):
             elif 'SB' in bill:
                 house = 'sbillint'
             else:
-                house = 'hbillint'
+                house = 'sbillint'
             sponsors, changes, bill_text = await parse_bill_page(session, year, bill, house)
+            error_msg = 'The resource you are looking for has been removed, had its name changed, or is temporarily ' \
+                        'unavailable.'
+            if error_msg in bill_text:
+                print('bill: ', bill, ' year: ', year, ' not found')
+                house = house[0] + 'billenr'
+                sponsors, changes, bill_text = await parse_bill_page(session, year, bill, house)
             make_txt_of({'sponsors': sponsors, 'mods': changes, 'full': bill_text}, bill, year)
 
 
 def get_bill_names():
-    files = glob.glob(os.path.join("voting", '*.csv'))
+    files = glob.glob(os.path.join("voting", 'S*.csv'))
     bill_names = {}
     for file in files:
         df = pd.read_csv(file)
@@ -95,13 +101,32 @@ def get_bill_names():
     loop.run_until_complete(f)
 
 
-def go_through_bills():
-    get_bill_names()
+def make_bill_title(num, house):
+    bill = str(num).split()
+    bill_len = len(bill[0])
+    while bill_len < 4:
+        bill.insert(0, '0')
+        bill_len += 1
+    bill.insert(0, house)
+    return ''.join(bill)
+
+
+def go_by_year():
+    year_range = [x for x in range(1997, 2011)]
+    hbs = [make_bill_title(x, 'HB') for x in range(1, 515)]
+    senatebs = [make_bill_title(x, 'SB') for x in range(1, 300)]
+    loop = asyncio.get_event_loop()
+    f = asyncio.wait([search_bills(loop, year, hbs) for year in year_range])
+    loop.run_until_complete(f)
+    #loop2 = asyncio.get_event_loop()
+    #f2 = asyncio.wait([search_bills(loop2, year, senatebs) for year in year_range])
+    #loop.run_until_complete(f2)
 
 
 def main():
-    get_bill_names()
-    go_through_bills()
+    # If you would like to search by going through the data files with the actual names, uncomment:
+    # get_bill_names()
+    go_by_year()
 
 
 if __name__ == '__main__':

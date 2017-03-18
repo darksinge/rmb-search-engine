@@ -1,0 +1,795 @@
+Sponsors: []Modifications: Digital HealthcareDigital HealthcareDigital HealthcareDigital HealthcareFull text:
+
+
+
+Utah State Legislature
+
+
+
+
+
+
+
+
+
+
+
+
+Legislators
+
+By Session (1896-Current)
+Alphabetical (Historical)
+Find by Address/Map
+More
+
+
+Bills
+
+Bills/Bill Requests
+Passed Bills
+2017 Bills
+
+Keyword Search
+Reading Calendars
+Tracking Service
+More
+
+
+Committees
+
+All Committees
+Appropriations
+Commissions
+
+Independent Legislative Ethics Commission
+Interim
+Standing
+Subcommittees
+Task Forces
+Bills In Committees
+
+
+Utah Code / Constitution
+
+
+Title/Chapter/Section
+Keyword Search 
+
+Utah Constitution
+Laws of Utah 1851-ongoing
+Utah Territorial Laws 
+More
+
+
+Senate
+
+Main Page 
+About The Senate 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Extraordinary Sessions 
+Reading Calendars 
+Past Floor Debates 
+Senate Journals 
+
+
+House
+
+Main Page
+About the House 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Reading Calendars 
+Past Floor Debates 
+Journals 
+Conflict of Interest Forms 
+
+
+Legislative Guide 
+
+Legislative Guide
+Civic Programs
+GRAMA (Records Requests)
+
+
+Publications
+
+Search Publications
+Appropriations
+Audits
+Bagels & Briefings
+Briefing Papers
+Digest of Legislation
+Legislative Drafting Manual
+
+Journals
+
+Interim Highlights
+
+Legislative Rules
+GRAMA (Records Requests)
+Public Email
+State Organization Charts
+YouTube Channel
+Requests for Proposals and Legal Notices
+More
+
+
+Legislative Histories
+
+Legislative History Resources
+How to Research
+Bill Drafting/Research Files (1990-Ongoing)
+
+Working Bills (1896-1989)
+Interim Committee Histories (1990-Ongoing) 
+Journals
+Past House Floor Debates
+Past Senate Floor Debates
+More
+
+
+Staff Offices
+
+All Legislative Offices
+Auditor General
+Fiscal Analyst
+Printing
+Research and General Counsel
+Staff Awards
+Job Opportunities
+More
+
+
+Links of Interest
+
+Utah Administrative Rules
+Courts
+Utah State Capitol
+State of Utah
+Federal Legislation
+More
+
+
+
+
+
+
+ 
+
+Download Zipped Introduced WordPerfect HB0029.ZIP
+[Status][Bill Documents][Fiscal Note][Bills Directory]
+
+
+H.B. 29
+
+
+
+
+
+            
+1
+
+    
+ UTAH TELEHEALTH COMMISSION
+
+            
+2
+
+    
+ AMENDMENTS
+
+
+            
+3
+
+    
+2004 GENERAL SESSION
+
+            
+4
+
+    
+STATE OF UTAH
+
+            
+5
+
+    
+ Sponsor: Brad L. Dee
+
+            
+6
+
+    
+
+            
+7
+
+    
+ LONG TITLE
+            
+8
+
+    
+ General Description:
+            
+9
+
+    
+    This bill changes the name of the Utah Telehealth Commission to the Utah Digital
+            
+10
+
+    
+Healthcare Commission to better reflect the role of the commission in the digitization
+            
+11
+
+    
+of medicine.
+            
+12
+
+    
+ Highlighted Provisions:
+            
+13
+
+    
+    This bill:
+            
+14
+
+    
+    .    amends the name of the Utah Telehealth Commission to the Utah Digital Healthcare
+            
+15
+
+    
+Commission.
+            
+16
+
+    
+ Monies Appropriated in this Bill:
+            
+17
+
+    
+    None
+            
+18
+
+    
+ Other Special Clauses:
+            
+19
+
+    
+    None
+            
+20
+
+    
+ Utah Code Sections Affected:
+            
+21
+
+    
+AMENDS:
+            
+22
+
+    
+     26-9f-101, as enacted by Chapter 263, Laws of Utah 2000
+            
+23
+
+    
+     26-9f-102, as enacted by Chapter 263, Laws of Utah 2000
+            
+24
+
+    
+     26-9f-103, as enacted by Chapter 263, Laws of Utah 2000
+            
+25
+
+    
+     63-55-226, as last amended by Chapters 152 and 155, Laws of Utah 2002
+            
+26
+
+    
+
+            
+27
+
+    
+Be it enacted by the Legislature of the state of Utah:
+
+
+            
+28
+
+
+    
+    Section 1.  
+Section  
+26-9f-101
+
+ is amended to read:
+            
+29
+
+    
+ CHAPTER 9f.  UTAH DIGITAL HEALTHCARE COMMISSION ACT
+
+            
+30
+
+    
+     26-9f-101.  Title.
+            
+31
+
+    
+    This chapter is known as the "Utah [Telehealth] Digital Healthcare Commission Act."
+            
+32
+
+    
+    Section 2.  
+Section  
+26-9f-102
+
+ is amended to read:
+            
+33
+
+    
+     26-9f-102.  Definitions.
+            
+34
+
+    
+    As used in this chapter:
+            
+35
+
+    
+    (1)  "Commission" means the Utah [Telehealth] Digital Healthcare Commission created
+            
+36
+
+    
+in Section 
+
+26-9f-103
+
+.
+            
+37
+
+    
+    (2)  "Telehealth" means the electronic transfer or exchange of medically related data for
+            
+38
+
+    
+diagnosis, treatment, consultation, educational, or other related purposes.
+            
+39
+
+    
+    Section 3.  
+Section  
+26-9f-103
+
+ is amended to read:
+            
+40
+
+    
+     26-9f-103.  Utah Digital Healthcare Commission.
+            
+41
+
+    
+    (1)  There is created within the department the Utah [Telehealth] Digital Healthcare
+            
+42
+
+    
+Commission.
+            
+43
+
+    
+    (2)  The governor shall appoint 11 members to the commission with the consent of the
+            
+44
+
+    
+Senate, as follows:
+            
+45
+
+    
+    (a)  a physician who is involved in telehealth;
+            
+46
+
+    
+    (b)  a representative of a licensed health care facility as defined in Section 
+
+26-21-2
+
+;
+            
+47
+
+    
+    (c)  a representative of rural Utah, which may be a person nominated by an advisory
+            
+48
+
+    
+committee on rural health issues created pursuant to Section 
+
+26-1-20
+
+;
+            
+49
+
+    
+    (d)  a member of the public who is not involved with telehealth; and
+            
+50
+
+    
+    (e)  seven members:
+            
+51
+
+    
+    (i)  selected from a list of three nominees for each open position submitted by the
+            
+52
+
+    
+division over health systems improvement; and
+            
+53
+
+    
+    (ii)  who fall into one or more of the following categories:
+            
+54
+
+    
+    (A)  individuals who use telehealth in a public or private institution;
+            
+55
+
+    
+    (B)  individuals who use telehealth in serving medically underserved populations;
+            
+56
+
+    
+    (C)  nonphysician health care providers involved in telehealth;
+            
+57
+
+    
+    (D)  information technology professionals involved in telehealth;
+            
+58
+
+    
+    (E)  representatives of the health insurance industry; and
+
+
+            
+59
+
+
+    
+    (F)  telehealth consumer advocates.
+            
+60
+
+    
+    (3) (a)  The commission shall annually elect a chairperson from its membership.
+            
+61
+
+    
+    (b)  The commission shall hold meetings at least once every three months.  Meetings
+            
+62
+
+    
+may be held from time to time on the call of the chair or a majority of the board members.
+            
+63
+
+    
+    (c)  Six commission members are necessary to constitute a quorum at any meeting and,
+            
+64
+
+    
+if a quorum exists, the action of a majority of members present shall be the action of the
+            
+65
+
+    
+commission.
+            
+66
+
+    
+    (4) (a)  Except as provided in Subsection (4)(b), a commission member shall be
+            
+67
+
+    
+appointed for a three-year term and eligible for two reappointments.
+            
+68
+
+    
+    (b)  Notwithstanding Subsection (4)(a), the governor shall, at the time of appointment
+            
+69
+
+    
+or reappointment, adjust the length of terms to ensure that the terms of commission members
+            
+70
+
+    
+are staggered so that approximately 1/3 of the commission is appointed each year.
+            
+71
+
+    
+    (c)  A commission member shall continue in office until the expiration of the member's
+            
+72
+
+    
+term and until a successor is appointed, which may not exceed 90 days after the formal
+            
+73
+
+    
+expiration of the term.
+            
+74
+
+    
+    (d)  Notwithstanding Subsection (4)(c), a commission member who fails to attend 75%
+            
+75
+
+    
+of the scheduled meetings in a calendar year shall be disqualified from serving.
+            
+76
+
+    
+    (e)  When a vacancy occurs in membership for any reason, the replacement shall be
+            
+77
+
+    
+appointed for the unexpired term.
+            
+78
+
+    
+    (5) (a)  Board members who are not government employees may not receive
+            
+79
+
+    
+compensation or benefits for the services, but may receive per diem and expenses incurred in
+            
+80
+
+    
+the performance of their official duties at rates established by the Division of Finance under
+            
+81
+
+    
+Sections 
+
+63A-3-106
+
+ and 
+
+63A-3-107
+
+.
+            
+82
+
+    
+    (b)  A commission member may decline to receive per diem and expenses for service to
+            
+83
+
+    
+the commission.
+            
+84
+
+    
+    (6)  The department shall provide staff support to the commission.
+            
+85
+
+    
+    (7)  The funding of the commission shall be a separate line item to the department in
+            
+86
+
+    
+the annual appropriations act.
+            
+87
+
+    
+    Section 4.  
+Section  
+63-55-226
+
+ is amended to read:
+            
+88
+
+    
+     63-55-226.  Repeal dates, Title 26.
+            
+89
+
+    
+    (1)  Title 26, Chapter 1, Department of Health Organization, is repealed July 1, 2006.
+
+            
+90
+
+
+    
+    (2)  Title 26, Chapter 4, Utah Medical Examiner Act, is repealed July 1, 2010.
+            
+91
+
+    
+    (3)  Title 26, Chapter 9f, Utah [Telehealth] Digital Healthcare Commission, is repealed
+            
+92
+
+    
+July 1, 2005.
+            
+93
+
+    
+    (4) Title 26, Chapter 10, Family Health Services, is repealed July 1, 2010.
+            
+94
+
+    
+    (5)  Title 26, Chapter 18, Medical Assistance Act, is repealed July 1, 2004.
+            
+95
+
+    
+    (6)  Title 26, Chapter 23b, Detection of Public Health Emergencies Act, is repealed July
+            
+96
+
+    
+1, 2004.
+            
+97
+
+    
+    (7)  Title 26, Chapter 33a, Utah Health Data Authority Act, is repealed July 1, 2004.
+
+
+
+
+ Legislative Review Note
+    as of  11-25-03  12:44 PM
+
+A limited legal review of this legislation raises no obvious constitutional or statutory concerns.
+
+ Office of Legislative Research and General Counsel
+
+
+ Mixed Membership Committee Note
+    as of 12-10-03 1:25 PM
+
+The Utah Technology Commission recommended this bill.
+    Membership:        8 legislators    5 non-legislators
+    Legislative Vote:    7 voting for    0 voting against    1 absent
+[Bill Documents][Bills Directory]
+
+
+
+
+
+
+
+
+
+Who represents me?
+
+
+
+
+
+Remember my Legislators
+
+
+
+
+
+State Senate
+		350 North State, Suite 320
+		PO Box 145115
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1035
+		Fax: (801) 326-1475
+
+
+
+House of Representatives
+		350 North State, Suite 350
+		PO Box 145030
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1029
+		Fax: (801) 326-1544
+
+
+
+
+
+
+
+
+
+
+Home
+Mobile Site
+Site Map
+Calendar
+Code / Constitution
+House
+Senate
+
+Terms of Use/Privacy Policy
+
+ADA
+Utah.gov
+
+
+
+
+
+
+

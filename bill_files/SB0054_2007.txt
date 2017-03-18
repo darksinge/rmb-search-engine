@@ -1,0 +1,781 @@
+Sponsors: []Modifications: (3) (a)  A surety or principal may not make a payment on a surety bond to any claimantuntil six months have expired from the date when the first claim on the bond was filed with thesurety or principal in writing.(b)  After six months have expired following the filing of the first bond claim, thesurety or principal shall:(i)  assess the validity of all claims on the bond; and(ii)  submit a distribution assessment determined in accordance with Subsection (3)(c)regarding the bond proceeds to the claimants of valid claims for approval.(c) (i)  If the total verifiable claims on the bond are less than the bond amount, theneach bond claimant shall be entitled to the full amount of a valid claim.(ii)  If the total verifiable claims exceed the bond amount, then the proceeds shall bedistributed pro rata to the bond claimants of valid claims.(d)  If the distribution assessment under Subsection (3)(b) is not unanimously approvedby the claimants of all valid claims on the bond, the principal or surety shall file an interpleaderaction in the state district court where the defaulting dealer was licensed.(4) (a)(b)  A surety or principal may not be awarded attorney fees that exceed $2,500 for aninterpleader action filed under Subsection (3)(d).(5)(6)Full text:
+
+
+
+Utah State Legislature
+
+
+
+
+
+
+
+
+
+
+
+
+Legislators
+
+By Session (1896-Current)
+Alphabetical (Historical)
+Find by Address/Map
+More
+
+
+Bills
+
+Bills/Bill Requests
+Passed Bills
+2017 Bills
+
+Keyword Search
+Reading Calendars
+Tracking Service
+More
+
+
+Committees
+
+All Committees
+Appropriations
+Commissions
+
+Independent Legislative Ethics Commission
+Interim
+Standing
+Subcommittees
+Task Forces
+Bills In Committees
+
+
+Utah Code / Constitution
+
+
+Title/Chapter/Section
+Keyword Search 
+
+Utah Constitution
+Laws of Utah 1851-ongoing
+Utah Territorial Laws 
+More
+
+
+Senate
+
+Main Page 
+About The Senate 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Extraordinary Sessions 
+Reading Calendars 
+Past Floor Debates 
+Senate Journals 
+
+
+House
+
+Main Page
+About the House 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Reading Calendars 
+Past Floor Debates 
+Journals 
+Conflict of Interest Forms 
+
+
+Legislative Guide 
+
+Legislative Guide
+Civic Programs
+GRAMA (Records Requests)
+
+
+Publications
+
+Search Publications
+Appropriations
+Audits
+Bagels & Briefings
+Briefing Papers
+Digest of Legislation
+Legislative Drafting Manual
+
+Journals
+
+Interim Highlights
+
+Legislative Rules
+GRAMA (Records Requests)
+Public Email
+State Organization Charts
+YouTube Channel
+Requests for Proposals and Legal Notices
+More
+
+
+Legislative Histories
+
+Legislative History Resources
+How to Research
+Bill Drafting/Research Files (1990-Ongoing)
+
+Working Bills (1896-1989)
+Interim Committee Histories (1990-Ongoing) 
+Journals
+Past House Floor Debates
+Past Senate Floor Debates
+More
+
+
+Staff Offices
+
+All Legislative Offices
+Auditor General
+Fiscal Analyst
+Printing
+Research and General Counsel
+Staff Awards
+Job Opportunities
+More
+
+
+Links of Interest
+
+Utah Administrative Rules
+Courts
+Utah State Capitol
+State of Utah
+Federal Legislation
+More
+
+
+
+
+
+
+ 
+
+Download Zipped Enrolled WordPerfect SB0054.ZIP
+[Introduced][Status][Bill Documents][Fiscal Note][Bills Directory]
+
+
+S.B. 54 Enrolled
+
+
+
+
+
+            
+1
+
+    
+ MOTOR VEHICLE DEALER PERFORMANCE
+
+            
+2
+
+    
+ BOND AMENDMENTS
+
+
+
+            
+3
+
+    
+2007 GENERAL SESSION
+
+            
+4
+
+    
+STATE OF UTAH
+
+            
+5
+
+    
+
+
+ Chief Sponsor:  Dan R. Eastman
+
+
+
+            
+6
+
+    
+
+
+
+House Sponsor:  
+
+
+
+
+
+
+Patrick  Painter
+
+
+
+
+
+            
+7
+
+    
+
+            
+8
+
+    
+ LONG TITLE
+            
+9
+
+    
+ General Description:
+            
+10
+
+    
+    This bill modifies the Motor Vehicle Business Regulation Act by amending motor
+            
+11
+
+    
+vehicle dealer bond provisions.
+            
+12
+
+    
+ Highlighted Provisions:
+            
+13
+
+    
+    This bill:
+            
+14
+
+    
+    .    provides that a surety or principal may not make a payment on a surety bond until
+            
+15
+
+    
+six months have expired after the first claim on a bond was filed;
+            
+16
+
+    
+    .    provides that six months after a claim on a bond has been filed, the surety or
+            
+17
+
+    
+principal shall assess the validity of all bond claims and submit a distribution
+            
+18
+
+    
+assessment to all bond claimants;
+            
+19
+
+    
+    .    provides that if the total verifiable bond claims do not exceed the bond amount, the
+            
+20
+
+    
+claimants shall receive the full amount of all valid bond claims;
+            
+21
+
+    
+    .    provides that if the total verifiable bond claims exceed the bond amount, the bond
+            
+22
+
+    
+proceeds shall be distributed pro rata to bond claimants of all valid bond claims;
+            
+23
+
+    
+    .    provides that if a distribution assessment is not unanimously approved by all bond
+            
+24
+
+    
+claimants, the surety or principal shall file an interpleader action in the state district
+            
+25
+
+    
+court where the defaulting dealer is licensed;
+            
+26
+
+    
+    .    provides that a surety or principal may not be awarded attorney fees that exceed
+            
+27
+
+    
+$2,500 for an interpleader action; and
+            
+28
+
+    
+    .    makes technical changes.
+            
+29
+
+    
+ Monies Appropriated in this Bill:
+
+            
+30
+
+
+    
+    None
+            
+31
+
+    
+ Other Special Clauses:
+            
+32
+
+    
+    None
+            
+33
+
+    
+ Utah Code Sections Affected:
+            
+34
+
+    
+AMENDS:
+            
+35
+
+    
+     41-3-205, as last amended by Chapter 90, Laws of Utah 2005
+            
+36
+
+    
+
+            
+37
+
+    
+Be it enacted by the Legislature of the state of Utah:
+            
+38
+
+    
+    Section 1.  
+Section  
+41-3-205
+
+ is amended to read:
+            
+39
+
+    
+     41-3-205.  Licenses -- Bonds required -- Maximum liability -- Action against
+            
+40
+
+    
+ surety -- Loss of bond.
+            
+41
+
+    
+    (1) (a)  Before a dealer's, special equipment dealer's, crusher's, or body shop's license is
+            
+42
+
+    
+issued, the applicant shall file with the administrator a corporate surety bond in the amount of:
+            
+43
+
+    
+    (i)  $50,000 until June 30, 2006, and $75,000 on or after July 1, 2006, for a motor
+            
+44
+
+    
+vehicle dealer's license;
+            
+45
+
+    
+    (ii)  $20,000 until June 30, 2006, and $75,000 on or after July 1, 2006, for a special
+            
+46
+
+    
+equipment dealer's license;
+            
+47
+
+    
+    (iii)  $10,000 for a motorcycle, off-highway vehicle, or small trailer dealer's or crusher's
+            
+48
+
+    
+license; or
+            
+49
+
+    
+    (iv)  $20,000 for a body shop's license.
+            
+50
+
+    
+    (b)  The corporate surety shall be licensed to do business within the state and have a
+            
+51
+
+    
+rating of at least B+ by the A.M. Best Company.
+            
+52
+
+    
+    (c)  The form of the bond:
+            
+53
+
+    
+    (i)  shall be approved by the attorney general;
+            
+54
+
+    
+    (ii)  shall be conditioned upon the  applicant's conducting business as a dealer without:
+            
+55
+
+    
+    (A)  fraud;
+            
+56
+
+    
+    (B)  fraudulent representation; or
+            
+57
+
+    
+    (C)  violating Subsection 
+
+41-3-301
+
+(1) which requires a dealer to submit or deliver a
+
+            
+58
+
+
+    
+certificate of title or manufacturer's certificate of origin; and
+            
+59
+
+    
+    (iii)  may be continuous in form.
+            
+60
+
+    
+    (d)  The total aggregate liability on the bond to all persons making claims, regardless of
+            
+61
+
+    
+the number of claimants or the number of years a bond remains in force, may not exceed the
+            
+62
+
+    
+amount of the bond.
+            
+63
+
+    
+    (2) (a)  A cause of action under Subsection (1) may not be maintained against a surety
+            
+64
+
+    
+unless:
+            
+65
+
+    
+    (i)  a claim is filed in writing with the administrator within one year after the cause of
+            
+66
+
+    
+action arose; and
+            
+67
+
+    
+    (ii)  the action is commenced within two years after the claim was filed with the
+            
+68
+
+    
+administrator.
+            
+69
+
+    
+    (b)  The surety or principal shall notify the administrator if a claim on the bond is
+            
+70
+
+    
+successfully prosecuted or settled against the surety or principal.
+            
+71
+
+    
+    (3) (a)  A surety or principal may not make a payment on a surety bond to any claimant
+            
+72
+
+    
+until six months have expired from the date when the first claim on the bond was filed with the
+            
+73
+
+    
+surety or principal in writing.
+            
+74
+
+    
+    (b)  After six months have expired following the filing of the first bond claim, the
+            
+75
+
+    
+surety or principal shall:
+            
+76
+
+    
+    (i)  assess the validity of all claims on the bond; and
+            
+77
+
+    
+    (ii)  submit a distribution assessment determined in accordance with Subsection (3)(c)
+            
+78
+
+    
+regarding the bond proceeds to the claimants of valid claims for approval.
+            
+79
+
+    
+    (c) (i)  If the total verifiable claims on the bond are less than the bond amount, then
+            
+80
+
+    
+each bond claimant shall be entitled to the full amount of a valid claim.
+            
+81
+
+    
+    (ii)  If the total verifiable claims exceed the bond amount, then the proceeds shall be
+            
+82
+
+    
+distributed pro rata to the bond claimants of valid claims.
+            
+83
+
+    
+    (d)  If the distribution assessment under Subsection (3)(b) is not unanimously approved
+            
+84
+
+    
+by the claimants of all valid claims on the bond, the principal or surety shall file an interpleader
+            
+85
+
+    
+action in the state district court where the defaulting dealer was licensed.
+
+            
+86
+
+
+    
+    [(3)] (4) (a)  A person making a claim on the bond shall be awarded attorneys' fees in
+            
+87
+
+    
+cases successfully prosecuted or settled against the surety or principal if the bond has not been
+            
+88
+
+    
+depleted.
+            
+89
+
+    
+    (b)  A surety or principal may not be awarded attorney fees that exceed $2,500 for an
+            
+90
+
+    
+interpleader action filed under Subsection (3)(d).
+            
+91
+
+    
+    [(4)] (5) (a) (i)  If a dealer, body shop, or  crusher loses possession of the bond required
+            
+92
+
+    
+by this chapter, the dealer, body shop, or crusher license is automatically suspended.
+            
+93
+
+    
+    (ii)  All licenses, pocket cards, temporary permits, and special plates issued to the
+            
+94
+
+    
+licensee shall be immediately returned to the administrator.
+            
+95
+
+    
+    (b)  A dealer, body shop, or  crusher may not continue to use or permit to be used
+            
+96
+
+    
+licenses, pocket cards, temporary permits, or special plates until the required bond is on file
+            
+97
+
+    
+with the administrator and the license has been reinstated.
+            
+98
+
+    
+    [(5)] (6)  A representative or consignee of a dealer is not required to file a bond if the
+            
+99
+
+    
+dealer for whom the representative or consignee acts fully complies with the provisions of this
+            
+100
+
+    
+chapter.
+[Bill Documents][Bills Directory]
+
+
+
+
+
+
+
+
+
+Who represents me?
+
+
+
+
+
+Remember my Legislators
+
+
+
+
+
+State Senate
+		350 North State, Suite 320
+		PO Box 145115
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1035
+		Fax: (801) 326-1475
+
+
+
+House of Representatives
+		350 North State, Suite 350
+		PO Box 145030
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1029
+		Fax: (801) 326-1544
+
+
+
+
+
+
+
+
+
+
+Home
+Mobile Site
+Site Map
+Calendar
+Code / Constitution
+House
+Senate
+
+Terms of Use/Privacy Policy
+
+ADA
+Utah.gov
+
+
+
+
+
+
+

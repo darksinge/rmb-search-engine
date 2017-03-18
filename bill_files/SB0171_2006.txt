@@ -1,0 +1,4831 @@
+Sponsors: []Modifications: inaccordance with Section 
+
+51-4-2
+
+,Court Act of 1996(2) (a)  A party to an action brought under this title or to an action under Title 78,Chapter 45, Uniform Civil Liability for Support Act, Title 78, Chapter 45c, Utah UniformChild Custody Jurisdiction and Enforcement Act, Title 78, Chapter 45f, Uniform InterstateFamily Support Act, Title 78, Chapter 45g, Utah Uniform Parentage Act, or to an action tomodify or enforce a judgment in the action may file a motion to have the file other than thefinal judgment, order, or decree classified as private.(b)  If the court finds that there are substantial interests favoring restricting access thatclearly outweigh the interests favoring access, the court may classify the file, or any partthereof other than the final order, judgment, or decree, as private.  An order classifying part ofthe file as private does not apply to subsequent filings.(c)  The record is private until the judge determines it is possible to release the recordwithout prejudice to the interests that justified the closure.  Any interested person may petitionthe court to permit access to a record classified as private under this section.  The petition shallbe served on the parties to the closure order.Title 78, Chapter 45g, UtahParentageTitle 78, Chapter 45,Title 78, Chapter 45f, UniformInterstate Family(n) (i)  Notwithstanding Subsection (1), the commission shall provide the Office ofRecovery Services within the Department of Human Services any relevant informationobtained from a return filed under Chapter 10, Individual Income Tax Act, regarding a taxpayerwho has become obligated to the Office of Recovery Services.(ii)  The information described in Subsection (3)(n)(i) may be provided by the Office ofRecovery Services to any other state's child support collection agency involved in enforcingthat support obligation.(o) (i)  Notwithstanding Subsection (1), upon request from the state court administrator,the commission shall provide to the state court administrator, the name, address, telephonenumber, county of residence, and Social Security number on resident returns filed underChapter 10, Individual Income Tax Act.(ii)  The state court administrator may use the information described in Subsection(3)(o)(i) only as a source list for the master jury list described in Section 
+
+78-46-10
+
+.
+
+59-1-403
+
+Court Act of 1996Court Act of 1996Court Act of 199645gUtahParentage
+
+59-1-403
+
+(3)(n)Court Act of 1996, Abuse, Neglect, and Dependency Proceedings,,Termination of Parental Rights Act(2)(3)(4)(3)45gUtahParentagefor
+
+41-6a-210
+
+45gUtahParentageCourt Act of 199690 days90 days$25045gUtahParentageFull text:
+
+
+
+Utah State Legislature
+
+
+
+
+
+
+
+
+
+
+
+
+Legislators
+
+By Session (1896-Current)
+Alphabetical (Historical)
+Find by Address/Map
+More
+
+
+Bills
+
+Bills/Bill Requests
+Passed Bills
+2017 Bills
+
+Keyword Search
+Reading Calendars
+Tracking Service
+More
+
+
+Committees
+
+All Committees
+Appropriations
+Commissions
+
+Independent Legislative Ethics Commission
+Interim
+Standing
+Subcommittees
+Task Forces
+Bills In Committees
+
+
+Utah Code / Constitution
+
+
+Title/Chapter/Section
+Keyword Search 
+
+Utah Constitution
+Laws of Utah 1851-ongoing
+Utah Territorial Laws 
+More
+
+
+Senate
+
+Main Page 
+About The Senate 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Extraordinary Sessions 
+Reading Calendars 
+Past Floor Debates 
+Senate Journals 
+
+
+House
+
+Main Page
+About the House 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Reading Calendars 
+Past Floor Debates 
+Journals 
+Conflict of Interest Forms 
+
+
+Legislative Guide 
+
+Legislative Guide
+Civic Programs
+GRAMA (Records Requests)
+
+
+Publications
+
+Search Publications
+Appropriations
+Audits
+Bagels & Briefings
+Briefing Papers
+Digest of Legislation
+Legislative Drafting Manual
+
+Journals
+
+Interim Highlights
+
+Legislative Rules
+GRAMA (Records Requests)
+Public Email
+State Organization Charts
+YouTube Channel
+Requests for Proposals and Legal Notices
+More
+
+
+Legislative Histories
+
+Legislative History Resources
+How to Research
+Bill Drafting/Research Files (1990-Ongoing)
+
+Working Bills (1896-1989)
+Interim Committee Histories (1990-Ongoing) 
+Journals
+Past House Floor Debates
+Past Senate Floor Debates
+More
+
+
+Staff Offices
+
+All Legislative Offices
+Auditor General
+Fiscal Analyst
+Printing
+Research and General Counsel
+Staff Awards
+Job Opportunities
+More
+
+
+Links of Interest
+
+Utah Administrative Rules
+Courts
+Utah State Capitol
+State of Utah
+Federal Legislation
+More
+
+
+
+
+
+
+ 
+
+Download Zipped Enrolled WordPerfect SB0171.ZIP
+[Introduced][Status][Bill Documents][Fiscal Note][Bills Directory]
+
+
+S.B. 171 Enrolled
+
+
+
+
+
+            
+1
+
+    
+ JUDICIARY AMENDMENTS
+
+
+
+            
+2
+
+    
+2006 GENERAL SESSION
+
+            
+3
+
+    
+STATE OF UTAH
+
+            
+4
+
+    
+
+
+ Chief Sponsor:  Lyle W. Hillyard
+
+
+
+            
+5
+
+    
+
+
+
+House Sponsor:  
+
+
+
+
+
+
+Scott L Wyatt
+
+
+
+
+
+            
+6
+
+    
+
+            
+7
+
+    
+ LONG TITLE
+            
+8
+
+    
+ General Description:
+            
+9
+
+    
+    This bill clarifies when certain types of municipal funds are required to be deposited,
+            
+10
+
+    
+makes changes to the sealing of certain court records, allows the tax commission to
+            
+11
+
+    
+share certain information with specific agencies, eliminates the requirements for a
+            
+12
+
+    
+written undertaking, corrects a number of erroneous cross-references, and makes
+            
+13
+
+    
+technical corrections.
+            
+14
+
+    
+ Highlighted Provisions:
+            
+15
+
+    
+    This bill:
+            
+16
+
+    
+    .    clarifies that municipal funds are required to be deposited according to statutory
+            
+17
+
+    
+requirements;
+            
+18
+
+    
+    .    changes the sealing of court records to classifying them as private;
+            
+19
+
+    
+    .    specifies that the tax commission may share specific information with the courts
+            
+20
+
+    
+and the Office of Recovery Services;
+            
+21
+
+    
+    .    deletes the requirement that the Supreme Court approve forms for written
+            
+22
+
+    
+undertakings for bail bonds;
+            
+23
+
+    
+    .    cleans up cross-references to the Juvenile Court Act of 1996 and the Utah Uniform
+            
+24
+
+    
+Parentage Act; and
+            
+25
+
+    
+    .    makes technical corrections.
+            
+26
+
+    
+ Monies Appropriated in this Bill:
+            
+27
+
+    
+    None
+            
+28
+
+    
+ Other Special Clauses:
+            
+29
+
+    
+    None
+
+            
+30
+
+
+    
+ Utah Code Sections Affected:
+            
+31
+
+    
+AMENDS:
+            
+32
+
+    
+     10-3-716, as enacted by Chapter 48, Laws of Utah 1977
+            
+33
+
+    
+     26-2-22, as last amended by Chapter 255, Laws of Utah 2001
+            
+34
+
+    
+     30-3-4, as last amended by Chapters 47 and 157, Laws of Utah 1997
+            
+35
+
+    
+     30-3-15.3, as last amended by Chapter 215, Laws of Utah 1997
+            
+36
+
+    
+     59-1-403, as last amended by Chapter 204, Laws of Utah 2005
+            
+37
+
+    
+     59-10-540, as last amended by Chapter 9, Laws of Utah 2001
+            
+38
+
+    
+     62A-4a-116.6, as last amended by Chapter 210, Laws of Utah 2003
+            
+39
+
+    
+     62A-4a-202.2, as last amended by Chapter 10, Laws of Utah 2001, First Special
+            
+40
+
+    
+Session
+            
+41
+
+    
+     62A-4a-202.6, as last amended by Chapter 58, Laws of Utah 2001
+            
+42
+
+    
+     62A-11-104, as last amended by Chapters 90 and 176, Laws of Utah 2003
+            
+43
+
+    
+     62A-11-328, as enacted by Chapter 1, Laws of Utah 1988
+            
+44
+
+    
+     63A-11-102, as enacted by Chapter 356, Laws of Utah 2004
+            
+45
+
+    
+     77-20-4, as last amended by Chapter 287, Laws of Utah 2003
+            
+46
+
+    
+     78-3a-104, as last amended by Chapter 2, Laws of Utah 2005
+            
+47
+
+    
+     78-3a-105, as last amended by Chapter 356, Laws of Utah 2004
+            
+48
+
+    
+     78-3a-116, as last amended by Chapters 190 and 324, Laws of Utah 2004
+            
+49
+
+    
+     78-3a-502, as last amended by Chapter 212, Laws of Utah 2002
+            
+50
+
+    
+     78-30-4.14, as last amended by Chapter 137, Laws of Utah 2005
+            
+51
+
+    
+REPEALS:
+            
+52
+
+    
+     59-10-545, as last amended by Chapter 183, Laws of Utah 1990
+            
+53
+
+    
+
+            
+54
+
+    
+Be it enacted by the Legislature of the state of Utah:
+            
+55
+
+    
+    Section 1.  
+Section  
+10-3-716
+
+ is amended to read:
+            
+56
+
+    
+     10-3-716.  Fines and forfeitures -- Disposition.
+            
+57
+
+    
+    All fines, penalties, and forfeitures for the violation of any ordinance, when collected,
+
+            
+58
+
+
+    
+shall be paid [into the municipal treasury within seven days after the collection date] in
+            
+59
+
+    
+accordance with Section 
+
+51-4-2
+
+.  A violation of this section constitutes a class C misdemeanor.
+            
+60
+
+    
+The retention or use of any fine, penalty, or forfeiture by any person for personal use or benefit
+            
+61
+
+    
+constitutes a class B misdemeanor, except that if the amount or amounts exceed $1,000 the
+            
+62
+
+    
+offense is a class A misdemeanor as defined in the Utah Criminal Code.
+            
+63
+
+    
+    Section 2.  
+Section  
+26-2-22
+
+ is amended to read:
+            
+64
+
+    
+     26-2-22.  Inspection of vital records.
+            
+65
+
+    
+    (1) (a)  The vital records shall be open to inspection, but only in compliance with the
+            
+66
+
+    
+provisions of this chapter, department rules, and Section 
+
+78-30-18
+
+. It is unlawful for any state
+            
+67
+
+    
+or local officer or employee to disclose data contained in vital records contrary to this chapter
+            
+68
+
+    
+or department rule.
+            
+69
+
+    
+    (b)  A custodian of vital records may permit inspection of a vital record or issue a
+            
+70
+
+    
+certified copy of a record or a part of it when the custodian is satisfied the applicant has
+            
+71
+
+    
+demonstrated a direct, tangible, and legitimate interest.
+            
+72
+
+    
+    (2)  A direct, tangible, and legitimate interest in a vital record is present only if:
+            
+73
+
+    
+    (a)  the request is from the subject, a member of the subject's immediate family, the
+            
+74
+
+    
+guardian of the subject, or a designated legal representative;
+            
+75
+
+    
+    (b)  the request involves a personal or property right of the subject of the record;
+            
+76
+
+    
+    (c)  the request is for official purposes of a state, local, or federal governmental agency;
+            
+77
+
+    
+    (d)  the request is for a statistical or medical research program and prior consent has
+            
+78
+
+    
+been obtained from the state registrar; or
+            
+79
+
+    
+    (e)  the request is a certified copy of an order of a court of record specifying the record
+            
+80
+
+    
+to be examined or copied.
+            
+81
+
+    
+    (3)  For purposes of Subsection (2):
+            
+82
+
+    
+    (a)  "immediate family member" means a spouse, child, parent, sibling, grandparent, or
+            
+83
+
+    
+grandchild;
+            
+84
+
+    
+    (b)  a designated legal representative means an attorney, physician, funeral director,
+            
+85
+
+    
+genealogist, or other agent of the subject or the subject's immediate family who has been
+
+            
+86
+
+
+    
+delegated the authority to access vital records;
+            
+87
+
+    
+    (c)  except as provided in Title 78, Chapter 30, Adoption, a parent, or the immediate
+            
+88
+
+    
+family member of a parent, who does not have legal or physical custody of or visitation or
+            
+89
+
+    
+parent-time rights for a child because of the termination of parental rights pursuant to Title 78,
+            
+90
+
+    
+Chapter 3a, Juvenile [Courts] Court Act of 1996, or by virtue of consenting to or relinquishing
+            
+91
+
+    
+a child for adoption pursuant to Title 78, Chapter 30, Adoption, may not be considered as
+            
+92
+
+    
+having a direct, tangible, and legitimate interest; and
+            
+93
+
+    
+    (d)  a commercial firm or agency requesting names, addresses, or similar information
+            
+94
+
+    
+may not be considered as having a direct, tangible, and legitimate interest.
+            
+95
+
+    
+    (4)  Upon payment of a fee established in accordance with Section 
+
+63-38-3.2
+
+, the
+            
+96
+
+    
+following records shall be available to the public:
+            
+97
+
+    
+    (a)  except as provided in Subsection 
+
+26-2-10
+
+(4)(b), a birth record, excluding
+            
+98
+
+    
+confidential information collected for medical and health use, if 100 years or more have passed
+            
+99
+
+    
+since the date of birth;
+            
+100
+
+    
+    (b)  a death record if 50 years or more have passed since the date of death; and
+            
+101
+
+    
+    (c)  a vital record not subject to Subsection (4)(a) or (b) if 75 years or more have passed
+            
+102
+
+    
+since the date of the event upon which the record is based.
+            
+103
+
+    
+    Section 3.  
+Section  
+30-3-4
+
+ is amended to read:
+            
+104
+
+    
+     30-3-4.  Pleadings -- Findings -- Decree -- Use of affidavit -- Sealing.
+            
+105
+
+    
+    (1) (a)  The complaint shall be in writing and signed by the petitioner or petitioner's
+            
+106
+
+    
+attorney.
+            
+107
+
+    
+    (b)  A decree of divorce may not be granted upon default or otherwise except upon legal
+            
+108
+
+    
+evidence taken in the cause.  If the decree is to be entered upon the default of the respondent,
+            
+109
+
+    
+evidence to support the decree may be submitted upon the affidavit of the petitioner with the
+            
+110
+
+    
+approval of the court.
+            
+111
+
+    
+    (c)  If the petitioner and the respondent have a child or children, a decree of divorce
+            
+112
+
+    
+may not be granted until both parties have attended the mandatory course described in Section
+            
+113
+
+    
+
+30-3-11.3
+
+, and have presented a certificate of course completion to the court.  The court may
+
+            
+114
+
+
+    
+waive this requirement, on its own motion or on the motion of one of the parties, if it
+            
+115
+
+    
+determines course attendance and completion are not necessary, appropriate, feasible, or in the
+            
+116
+
+    
+best interest of the parties.
+            
+117
+
+    
+    (d)  All hearings and trials for divorce shall be held before the court or the court
+            
+118
+
+    
+commissioner as provided by Section 
+
+78-3-31
+
+ and rules of the Judicial Council.  The court or
+            
+119
+
+    
+the commissioner in all divorce cases shall enter the decree upon the evidence or, in the case of
+            
+120
+
+    
+a decree after default of the respondent, upon the petitioner's affidavit.
+            
+121
+
+    
+    [(2)  The file, except the decree of divorce, may be sealed by order of the court upon the
+            
+122
+
+    
+motion of either party.  The sealed portion of the file is available to the public only upon an
+            
+123
+
+    
+order of the court.  The concerned parties, the attorneys of record or attorney filing a notice of
+            
+124
+
+    
+appearance in the action, the Office of Recovery Services if a party to the proceedings has
+            
+125
+
+    
+applied for or is receiving public assistance, or the court have full access to the entire record. 
+            
+126
+
+    
+This sealing does not apply to subsequent filings to enforce or amend the decree.]
+            
+127
+
+    
+    (2) (a)  A party to an action brought under this title or to an action under Title 78,
+            
+128
+
+    
+Chapter 45, Uniform Civil Liability for Support Act, Title 78, Chapter 45c, Utah Uniform
+            
+129
+
+    
+Child Custody Jurisdiction and Enforcement Act, Title 78, Chapter 45f, Uniform Interstate
+            
+130
+
+    
+Family Support Act, Title 78, Chapter 45g, Utah Uniform Parentage Act, or to an action to
+            
+131
+
+    
+modify or enforce a judgment in the action may file a motion to have the file other than the
+            
+132
+
+    
+final judgment, order, or decree classified as private.
+            
+133
+
+    
+    (b)  If the court finds that there are substantial interests favoring restricting access that
+            
+134
+
+    
+clearly outweigh the interests favoring access, the court may classify the file, or any part
+            
+135
+
+    
+thereof other than the final order, judgment, or decree, as private.  An order classifying part of
+            
+136
+
+    
+the file as private does not apply to subsequent filings.
+            
+137
+
+    
+    (c)  The record is private until the judge determines it is possible to release the record
+            
+138
+
+    
+without prejudice to the interests that justified the closure.  Any interested person may petition
+            
+139
+
+    
+the court to permit access to a record classified as private under this section.  The petition shall
+            
+140
+
+    
+be served on the parties to the closure order.
+            
+141
+
+    
+    Section 4.  
+Section  
+30-3-15.3
+
+ is amended to read:
+
+            
+142
+
+
+    
+     30-3-15.3.  Commissioners -- Powers.
+            
+143
+
+    
+    Commissioners shall:
+            
+144
+
+    
+    (1)  secure compliance with court orders;
+            
+145
+
+    
+    (2)  require attendance at the mandatory course as provided in Section 
+
+30-3-11.3
+
+;
+            
+146
+
+    
+    (3)  serve as judge pro tempore, master or referee on:
+            
+147
+
+    
+    (a)  assignment of the court; and
+            
+148
+
+    
+    (b)  with the written consent of the parties:
+            
+149
+
+    
+    (i)  orders to show cause where no contempt is alleged;
+            
+150
+
+    
+    (ii)  default divorces where the parties have had marriage counseling but there has been
+            
+151
+
+    
+no reconciliation;
+            
+152
+
+    
+    (iii)  uncontested actions under [the] Title 78, Chapter 45g, Utah Uniform Parentage
+            
+153
+
+    
+Act [on Paternity];
+            
+154
+
+    
+    (iv)  actions under [the] Title 78, Chapter 45, Uniform Civil Liability for Support Act;
+            
+155
+
+    
+and
+            
+156
+
+    
+    (v)  actions under [the Reciprocal Enforcement of] Title 78, Chapter 45f, Uniform
+            
+157
+
+    
+Interstate Family Support Act; and
+            
+158
+
+    
+    (4)  represent the interest of children in divorce or annulment actions, and the parties in
+            
+159
+
+    
+appropriate cases.
+            
+160
+
+    
+    Section 5.  
+Section  
+59-1-403
+
+ is amended to read:
+            
+161
+
+    
+     59-1-403.  Confidentiality -- Exceptions -- Penalty -- Application to property tax.
+            
+162
+
+    
+    (1) (a)  Except as provided in this section, any of the following may not divulge or
+            
+163
+
+    
+make known in any manner any information gained by that person from any return filed with
+            
+164
+
+    
+the commission:
+            
+165
+
+    
+    (i)  a tax commissioner;
+            
+166
+
+    
+    (ii)  an agent, clerk, or other officer or employee of the commission; or
+            
+167
+
+    
+    (iii)  a representative, agent, clerk, or other officer or employee of any county, city, or
+            
+168
+
+    
+town.
+            
+169
+
+    
+    (b)  Except as provided in Subsection (1)(c), an official charged with the custody of a
+
+            
+170
+
+
+    
+return filed with the commission is not required to produce the return or evidence of anything
+            
+171
+
+    
+contained in the return in any action or proceeding in any court, except:
+            
+172
+
+    
+    (i)  in accordance with judicial order;
+            
+173
+
+    
+    (ii)  on behalf of the commission in any action or proceeding under:
+            
+174
+
+    
+    (A)  this title; or
+            
+175
+
+    
+    (B)  other law under which persons are required to file returns with the commission;
+            
+176
+
+    
+    (iii)  on behalf of the commission in any action or proceeding to which the commission
+            
+177
+
+    
+is a party; or
+            
+178
+
+    
+    (iv)  on behalf of any party to any action or proceeding under this title if the report or
+            
+179
+
+    
+facts shown by the return are directly involved in the action or proceeding.
+            
+180
+
+    
+    (c)  Notwithstanding Subsection (1)(b), a court may require the production of, and may
+            
+181
+
+    
+admit in evidence, any portion of a return or of the facts shown by the return, as are specifically
+            
+182
+
+    
+pertinent to the action or proceeding.
+            
+183
+
+    
+    (2)  This section does not prohibit:
+            
+184
+
+    
+    (a)  a person or that person's duly authorized representative from receiving a copy of
+            
+185
+
+    
+any return or report filed in connection with that person's own tax;
+            
+186
+
+    
+    (b)  the publication of statistics as long as the statistics are classified to prevent the
+            
+187
+
+    
+identification of particular reports or returns; and
+            
+188
+
+    
+    (c)  the inspection by the attorney general or other legal representative of the state of the
+            
+189
+
+    
+report or return of any taxpayer:
+            
+190
+
+    
+    (i)  who brings action to set aside or review a tax based on the report or return;
+            
+191
+
+    
+    (ii)  against whom an action or proceeding is contemplated or has been instituted under
+            
+192
+
+    
+this title; or
+            
+193
+
+    
+    (iii)  against whom the state has an unsatisfied money judgment.
+            
+194
+
+    
+    (3) (a)  Notwithstanding Subsection (1) and for purposes of administration, the
+            
+195
+
+    
+commission may by rule, made in accordance with Title 63, Chapter 46a, Utah Administrative
+            
+196
+
+    
+Rulemaking Act, provide for a reciprocal exchange of information with:
+            
+197
+
+    
+    (i)  the United States Internal Revenue Service; or
+
+            
+198
+
+
+    
+    (ii)  the revenue service of any other state.
+            
+199
+
+    
+    (b)  Notwithstanding Subsection (1) and for all taxes except individual income tax and
+            
+200
+
+    
+corporate franchise tax, the commission may by rule, made in accordance with Title 63,
+            
+201
+
+    
+Chapter 46a, Utah Administrative Rulemaking Act, share information gathered from returns
+            
+202
+
+    
+and other written statements with the federal government, any other state, any of the political
+            
+203
+
+    
+subdivisions of another state, or any political subdivision of this state, except as limited by
+            
+204
+
+    
+Sections 
+
+59-12-209
+
+ and 
+
+59-12-210
+
+, if these political subdivisions or the federal government
+            
+205
+
+    
+grant substantially similar privileges to this state.
+            
+206
+
+    
+    (c)  Notwithstanding Subsection (1) and for all taxes except individual income tax and
+            
+207
+
+    
+corporate franchise tax, the commission may by rule, in accordance with Title 63, Chapter 46a,
+            
+208
+
+    
+Utah Administrative Rulemaking Act, provide for the issuance of information concerning the
+            
+209
+
+    
+identity and other information of taxpayers who have failed to file tax returns or to pay any tax
+            
+210
+
+    
+due.
+            
+211
+
+    
+    (d)  Notwithstanding Subsection (1), the commission shall provide to the Solid and
+            
+212
+
+    
+Hazardous Waste Control Board executive secretary, as defined in Section 
+
+19-6-102
+
+, as
+            
+213
+
+    
+requested by the executive secretary, any records, returns, or other information filed with the
+            
+214
+
+    
+commission under Chapter 13, Motor and Special Fuel Tax Act, or Section 
+
+19-6-410.5
+
+
+            
+215
+
+    
+regarding the environmental assurance program participation fee.
+            
+216
+
+    
+    (e)  Notwithstanding Subsection (1), at the request of any person the commission shall
+            
+217
+
+    
+provide that person sales and purchase volume data reported to the commission on a report,
+            
+218
+
+    
+return, or other information filed with the commission under:
+            
+219
+
+    
+    (i)  Chapter 13, Part 2, Motor Fuel; or
+            
+220
+
+    
+    (ii)  Chapter 13, Part 4, Aviation Fuel.
+            
+221
+
+    
+    (f)  Notwithstanding Subsection (1), upon request from a tobacco product manufacturer,
+            
+222
+
+    
+as defined in Section 
+
+59-22-202
+
+, the commission shall report to the manufacturer:
+            
+223
+
+    
+    (i)  the quantity of cigarettes, as defined in Section 
+
+59-22-202
+
+, produced by the
+            
+224
+
+    
+manufacturer and reported to the commission for the previous calendar year under Section
+            
+225
+
+    
+
+59-14-407
+
+; and
+
+            
+226
+
+
+    
+    (ii)  the quantity of cigarettes, as defined in Section 
+
+59-22-202
+
+, produced by the
+            
+227
+
+    
+manufacturer for which a tax refund was granted during the previous calendar year under
+            
+228
+
+    
+Section 
+
+59-14-401
+
+ and reported to the commission under Subsection 
+
+59-14-401
+
+(1)(a)(v).
+            
+229
+
+    
+    (g)  Notwithstanding Subsection (1), the commission shall notify manufacturers,
+            
+230
+
+    
+distributors, wholesalers, and retail dealers of a tobacco product manufacturer that is prohibited
+            
+231
+
+    
+from selling cigarettes to consumers within the state under Subsection 
+
+59-14-210
+
+(2).
+            
+232
+
+    
+    (h)  Notwithstanding Subsection (1), the commission may:
+            
+233
+
+    
+    (i)  provide to the Division of Consumer Protection within the Department of
+            
+234
+
+    
+Commerce and the attorney general data:
+            
+235
+
+    
+    (A)  reported to the commission under Section 
+
+59-14-212
+
+; or
+            
+236
+
+    
+    (B)  related to a violation under Section 
+
+59-14-211
+
+; and
+            
+237
+
+    
+    (ii)  upon request provide to any person data reported to the commission under
+            
+238
+
+    
+Subsections 
+
+59-14-212
+
+(1)(a) through (c) and Subsection 
+
+59-14-212
+
+(1)(g).
+            
+239
+
+    
+    (i)  Notwithstanding Subsection (1), the commission shall, at the request of a committee
+            
+240
+
+    
+of the Legislature, Office of the Legislative Fiscal Analyst, or Governor's Office of Planning
+            
+241
+
+    
+and Budget, provide to the committee or office the total amount of revenues collected by the
+            
+242
+
+    
+commission under Chapter 24, Radioactive Waste Facility Tax Act, for the time period
+            
+243
+
+    
+specified by the committee or office.
+            
+244
+
+    
+    (j)  Notwithstanding Subsection (1), the commission shall at the request of the
+            
+245
+
+    
+Legislature provide to the Legislature the total amount of sales or uses exempt under
+            
+246
+
+    
+Subsection 
+
+59-12-104
+
+ (50) reported to the commission in accordance with Section 
+
+59-12-105
+
+.
+            
+247
+
+    
+    (k)  Notwithstanding Subsection (1), the commission shall make the directory required
+            
+248
+
+    
+by Section 
+
+59-14-603
+
+ available for public inspection.
+            
+249
+
+    
+    (l)  Notwithstanding Subsection (1), the commission shall comply with the reporting
+            
+250
+
+    
+requirements of Section 
+
+10-1-409
+
+.
+            
+251
+
+    
+    (m)  Notwithstanding Subsection (1), the commission may share information with
+            
+252
+
+    
+federal, state, or local agencies as provided in Subsection 
+
+59-14-606
+
+(3).
+            
+253
+
+    
+    (n) (i)  Notwithstanding Subsection (1), the commission shall provide the Office of
+
+            
+254
+
+
+    
+Recovery Services within the Department of Human Services any relevant information
+            
+255
+
+    
+obtained from a return filed under Chapter 10, Individual Income Tax Act, regarding a taxpayer
+            
+256
+
+    
+who has become obligated to the Office of Recovery Services.
+            
+257
+
+    
+    (ii)  The information described in Subsection (3)(n)(i) may be provided by the Office of
+            
+258
+
+    
+Recovery Services to any other state's child support collection agency involved in enforcing
+            
+259
+
+    
+that support obligation.
+            
+260
+
+    
+    (o) (i)  Notwithstanding Subsection (1), upon request from the state court administrator,
+            
+261
+
+    
+the commission shall provide to the state court administrator, the name, address, telephone
+            
+262
+
+    
+number, county of residence, and Social Security number on resident returns filed under
+            
+263
+
+    
+Chapter 10, Individual Income Tax Act.
+            
+264
+
+    
+    (ii)  The state court administrator may use the information described in Subsection
+            
+265
+
+    
+(3)(o)(i) only as a source list for the master jury list described in Section 
+
+78-46-10
+
+.
+            
+266
+
+    
+    (4) (a)  Reports and returns shall be preserved for at least three years.
+            
+267
+
+    
+    (b)  After the three-year period provided in Subsection (4)(a) the commission may
+            
+268
+
+    
+destroy a report or return.
+            
+269
+
+    
+    (5) (a)  Any person who violates this section is guilty of a class A misdemeanor.
+            
+270
+
+    
+    (b)  If the person described in Subsection (5)(a) is an officer or employee of the state,
+            
+271
+
+    
+the person shall be dismissed from office and be disqualified from holding public office in this
+            
+272
+
+    
+state for a period of five years thereafter.
+            
+273
+
+    
+    (6) Except as provided in Section 
+
+59-1-404
+
+, this part does not apply to the property tax.
+            
+274
+
+    
+    Section 6.  
+Section  
+59-10-540
+
+ is amended to read:
+            
+275
+
+    
+     59-10-540.  Transferees.
+            
+276
+
+    
+    (1)  The liability at law or in equity of a transferee of property of any person liable in
+            
+277
+
+    
+respect of any tax (including additions to tax, penalties or interest) imposed by this chapter,
+            
+278
+
+    
+shall be assessed, paid, and collected in the same manner and subject to the same provisions
+            
+279
+
+    
+and limitations as in the case of the tax to which the liability relates, except that the period of
+            
+280
+
+    
+limitations for assessment against the transferee shall be extended by one year for each
+            
+281
+
+    
+successive transfer, in order of transfer (from the person originally liable to the transferee
+
+            
+282
+
+
+    
+involved), but not by more than three years in the aggregate.   As used in this section,
+            
+283
+
+    
+"transferee" includes donee, heir, legatee, devisee, and distributee.
+            
+284
+
+    
+    (2)  (a)  If, before the expiration of the period of limitations for assessment of liability
+            
+285
+
+    
+of the transferee, a claim has been filed by the commission in any court against the person
+            
+286
+
+    
+originally liable or the last preceding transferee, based upon the liability of the person
+            
+287
+
+    
+originally liable, then the period of limitation for assessment of liability of the transferee shall
+            
+288
+
+    
+in no event expire prior to one year after such claim has been finally allowed, disallowed, or
+            
+289
+
+    
+otherwise disposed of.
+            
+290
+
+    
+    (b)  If, before expiration of the time prescribed in Subsection (1) or (2)(a) for the
+            
+291
+
+    
+assessment of the liability, the commission and the transferee have both consented in writing to
+            
+292
+
+    
+its assessment after such time, the liability may be assessed at any time prior to the expiration
+            
+293
+
+    
+of the period agreed upon.  The period so agreed upon may be extended by subsequent
+            
+294
+
+    
+agreements in writing made before the expiration of the period previously agreed upon.  For the
+            
+295
+
+    
+purpose of determining the period of limitation on credit or refund to the transferee of
+            
+296
+
+    
+overpayments of tax made by such transferee or overpayments of tax made by the transferor as
+            
+297
+
+    
+to which the transferee is legally entitled to credit or refund, such agreement and any extension
+            
+298
+
+    
+thereof are considered an agreement and extension thereof referred to in Section 
+
+59-10-516
+
+.  If
+            
+299
+
+    
+the agreement is executed after the expiration of the period of limitation for assessment against
+            
+300
+
+    
+the original taxpayer, then in applying the limitations under Section 
+
+59-10-529
+
+ on the amount
+            
+301
+
+    
+of the credit or refund, the periods specified in Section 
+
+59-10-529
+
+ shall be increased by the
+            
+302
+
+    
+period from the date of such expiration to the date of the agreement.
+            
+303
+
+    
+    (3)  If any person is deceased, the period of limitation for assessment against him shall
+            
+304
+
+    
+be the period that would be in effect if he had lived.
+            
+305
+
+    
+    (4)  Notwithstanding the provisions of Section [
+
+59-10-545
+
+] 
+
+59-1-403
+
+ (relating to
+            
+306
+
+    
+confidentiality of return information) the commission shall use its powers to make available to
+            
+307
+
+    
+a transferee evidence necessary to enable the transferee to determine the liability of the original
+            
+308
+
+    
+taxpayer and of any preceding transferees, but without undue hardship to the original taxpayer
+            
+309
+
+    
+or preceding transferee.
+
+            
+310
+
+
+    
+    Section 7.  
+Section  
+62A-4a-116.6
+
+ is amended to read:
+            
+311
+
+    
+     62A-4a-116.6.  Notice and opportunity for court hearing for persons listed in
+            
+312
+
+    
+ Licensing Information System.
+            
+313
+
+    
+    (1)  Persons whose names were listed on the Licensing Information System as of May
+            
+314
+
+    
+6, 2002 and who have not been the subject of a court determination with respect to the alleged
+            
+315
+
+    
+incident of abuse or neglect may at any time:
+            
+316
+
+    
+    (a)  request review by the division of their case and removal of their name from the
+            
+317
+
+    
+Licensing Information System pursuant to Subsection (3); or
+            
+318
+
+    
+    (b)  file a petition for an evidentiary hearing and a request for a finding of
+            
+319
+
+    
+unsubstantiated or without merit.
+            
+320
+
+    
+    (2)  Subsection (1) does not apply to an individual who has been the subject of any of
+            
+321
+
+    
+the following court determinations with respect to the alleged incident of abuse or neglect:
+            
+322
+
+    
+    (a)  conviction;
+            
+323
+
+    
+    (b)  adjudication under Title 78, Chapter 3a, Juvenile [Courts] Court Act of 1996;
+            
+324
+
+    
+    (c)  plea of guilty;
+            
+325
+
+    
+    (d)  plea of guilty and mentally ill; or
+            
+326
+
+    
+    (e)  no contest.
+            
+327
+
+    
+    (3)  If an alleged perpetrator listed on the Licensing Information System prior to May 6,
+            
+328
+
+    
+2002 requests removal of their name from the Licensing Information System, the division shall,
+            
+329
+
+    
+within 30 days:
+            
+330
+
+    
+    (a)  review the case to determine whether the incident of alleged abuse or neglect
+            
+331
+
+    
+qualifies as severe or chronic under Subsection 
+
+62A-4a-116.1
+
+(2) and if it does not, remove the
+            
+332
+
+    
+name from the Licensing Information System; or
+            
+333
+
+    
+    (b)  determine whether to file a petition for substantiation.
+            
+334
+
+    
+    (4)  If the division decides to file a petition, that petition must be filed no more than 14
+            
+335
+
+    
+days after the decision.
+            
+336
+
+    
+    (5)  The juvenile court shall act on the petition as provided in Subsection 
+
+78-3a-320
+
+(3).
+            
+337
+
+    
+    (6)  If a person whose name appears on the Licensing Information System prior to May
+
+            
+338
+
+
+    
+6, 2002 files a petition pursuant to Section 
+
+78-3a-320
+
+ during the time that an alleged
+            
+339
+
+    
+perpetrator's application for clearance to work with children or vulnerable adults is pending, the
+            
+340
+
+    
+court shall hear the matter on an expedited basis.
+            
+341
+
+    
+    Section 8.  
+Section  
+62A-4a-202.2
+
+ is amended to read:
+            
+342
+
+    
+     62A-4a-202.2.  Notice to parents upon removal of child -- Locating noncustodial
+            
+343
+
+    
+ parent  -- Written statement of procedural rights and preliminary proceedings.
+            
+344
+
+    
+    (1) (a)  Any peace officer or caseworker who takes a minor into protective custody
+            
+345
+
+    
+pursuant to Section 
+
+62A-4a-202.1
+
+ shall immediately use reasonable efforts to locate and
+            
+346
+
+    
+inform, through the most efficient means available, the parents, including a noncustodial
+            
+347
+
+    
+parent, the guardian, or responsible relative:
+            
+348
+
+    
+    (i)  that the minor has been taken into protective custody;
+            
+349
+
+    
+    (ii)  the reasons for removal and placement in protective custody;
+            
+350
+
+    
+    (iii)  that a written statement is available that explains the parent's procedural rights and
+            
+351
+
+    
+the preliminary stages of the investigation and shelter hearing; and
+            
+352
+
+    
+    (iv)  of a telephone number where the parent may access further information.
+            
+353
+
+    
+    (b)  For purposes of locating and informing the noncustodial parent as required in
+            
+354
+
+    
+Subsection (1)(a), the division shall search for the noncustodial parent through the national
+            
+355
+
+    
+parent locator database if the division is unable to locate the noncustodial parent through other
+            
+356
+
+    
+reasonable efforts.
+            
+357
+
+    
+    (2)  The attorney general's office shall adopt, print, and distribute a form for the written
+            
+358
+
+    
+statement described in Subsection (1) (a)(iii).  The statement shall be made available to the
+            
+359
+
+    
+division and for distribution in schools, health care facilities, local police and sheriff's offices,
+            
+360
+
+    
+the division, and any other appropriate office within the Department of Human Services.  The
+            
+361
+
+    
+notice shall be in simple language and include at least the following information:
+            
+362
+
+    
+    (a)  the conditions under which a minor may be released, hearings that may be required,
+            
+363
+
+    
+and the means by which the parent may access further specific information about a minor's case
+            
+364
+
+    
+and conditions of protective and temporary custody; and
+            
+365
+
+    
+    (b)  the rights of a minor and of the parent or guardian to legal counsel and to appeal.
+
+            
+366
+
+
+    
+    (3)  If a good faith attempt was made by the peace officer or caseworker to notify the
+            
+367
+
+    
+parent or guardian in accordance with the requirements of Subsection (1), failure to notify shall
+            
+368
+
+    
+be considered to be due to circumstances beyond the control of the peace officer or caseworker
+            
+369
+
+    
+and may not be construed to permit a new defense to any juvenile or judicial proceeding or to
+            
+370
+
+    
+interfere with any rights, procedures, or investigations provided for by this chapter or Title 78,
+            
+371
+
+    
+Chapter 3a, Juvenile [Courts] Court Act of 1996.
+            
+372
+
+    
+    Section 9.  
+Section  
+62A-4a-202.6
+
+ is amended to read:
+            
+373
+
+    
+     62A-4a-202.6.  Child protective services investigators within the Office of
+            
+374
+
+    
+ Attorney General -- Authority.
+            
+375
+
+    
+    (1) (a)  Pursuant to Section 
+
+67-5-16
+
+ the attorney general may employ, with the consent
+            
+376
+
+    
+of the division, child protective services investigators to investigate reports of abuse or neglect
+            
+377
+
+    
+of a child that occur while the child is in the custody of the division.
+            
+378
+
+    
+    (b) (i)  Under the direction of the Board of Child and Family Services, the division
+            
+379
+
+    
+shall, in accordance with Subsection 
+
+62A-4a-409
+
+(5), contract with an independent child
+            
+380
+
+    
+protective service investigator to investigate reports of abuse or neglect of a child that occur
+            
+381
+
+    
+while the child is in the custody of the division.
+            
+382
+
+    
+    (ii)  The executive director of the department shall designate an entity within the
+            
+383
+
+    
+department, other than the division, to monitor the contract for the investigators described in
+            
+384
+
+    
+Subsection (1)(b)(i).
+            
+385
+
+    
+    (2)  The investigators described in Subsection (1) may also investigate allegations of
+            
+386
+
+    
+abuse or neglect of a child by a department employee or a licensed substitute care provider.
+            
+387
+
+    
+    (3)  The investigators described in Subsection (1), if not peace officers, shall have the
+            
+388
+
+    
+same rights, duties, and authority of a child protective services investigator employed by the
+            
+389
+
+    
+division to:
+            
+390
+
+    
+    (a)  make a thorough investigation upon receiving either an oral or written report of
+            
+391
+
+    
+alleged abuse or neglect of a child, with the primary purpose of that investigation being the
+            
+392
+
+    
+protection of the child;
+            
+393
+
+    
+    (b)  make an inquiry into the child's home environment, emotional, or mental health, the
+
+            
+394
+
+
+    
+nature and extent of the child's injuries, and the child's physical safety;
+            
+395
+
+    
+    (c)  make a written report of their investigation, including determination regarding
+            
+396
+
+    
+whether the alleged abuse or neglect was substantiated, unsubstantiated, or without merit, and
+            
+397
+
+    
+forward a copy of that report to the division within the time mandates for investigations
+            
+398
+
+    
+established by the division;
+            
+399
+
+    
+    (d)  immediately consult with school authorities to verify the child's status in
+            
+400
+
+    
+accordance with Sections 
+
+53A-11-101
+
+ through 
+
+53A-11-103
+
+ when a report is based upon or
+            
+401
+
+    
+includes an allegation of educational neglect;
+            
+402
+
+    
+    (e)  enter upon public or private premises, using appropriate legal processes, to
+            
+403
+
+    
+investigate reports of alleged child abuse or neglect; and
+            
+404
+
+    
+    (f)  take a child into protective custody, and deliver the child to a law enforcement
+            
+405
+
+    
+officer, or to the division.  Control and jurisdiction over the child shall be determined by the
+            
+406
+
+    
+provisions of Title 62A, Chapter 4a, Part 2, Child Welfare Services, Title 78, Chapter 3a,
+            
+407
+
+    
+Juvenile [Courts] Court Act of 1996, and as otherwise provided by law.
+            
+408
+
+    
+    Section 10.  
+Section  
+62A-11-104
+
+ is amended to read:
+            
+409
+
+    
+     62A-11-104.  Duties of office.
+            
+410
+
+    
+    The office has the following duties:
+            
+411
+
+    
+    (1)  to provide child support services if:
+            
+412
+
+    
+    (a)  the office has received an application for child support services;
+            
+413
+
+    
+    (b)  the state has provided public assistance; or
+            
+414
+
+    
+    (c)  a child lives out of the home in the protective custody, temporary custody, or
+            
+415
+
+    
+custody or care of the state;
+            
+416
+
+    
+    (2)  to carry out the obligations of the department contained in this chapter and in Title
+            
+417
+
+    
+78, Chapters 45, Uniform Civil Liability for Support Act, Chapter [45a] 45g, Utah Uniform
+            
+418
+
+    
+Parentage Act [on Paternity], and Chapter 45f, Uniform Interstate Family Support Act, for the
+            
+419
+
+    
+purpose of collecting child support;
+            
+420
+
+    
+    (3)  to collect money due the department which could act to offset expenditures by the
+            
+421
+
+    
+state;
+
+            
+422
+
+
+    
+    (4)  to cooperate with the federal government in programs designed to recover health
+            
+423
+
+    
+and social service funds;
+            
+424
+
+    
+    (5)  to collect civil or criminal assessments, fines, fees, amounts awarded as restitution,
+            
+425
+
+    
+and reimbursable expenses owed to the state or any of its political subdivisions, if the office
+            
+426
+
+    
+has contracted to provide collection services;
+            
+427
+
+    
+    (6)  to implement income withholding for collection of child support in accordance with
+            
+428
+
+    
+Part 4, Income Withholding in IV-D Cases, of this chapter;
+            
+429
+
+    
+    (7)  to enter into agreements with financial institutions doing business in the state to
+            
+430
+
+    
+develop and operate, in coordination with such financial institutions, a data match system in the
+            
+431
+
+    
+manner provided for in Section 
+
+62A-11-304.5
+
+;
+            
+432
+
+    
+    (8)  to establish and maintain the state case registry in the manner required by the Social
+            
+433
+
+    
+Security Act, 42 U.S.C. Sec. 654a, which shall include a record in each case of:
+            
+434
+
+    
+    (a)  the amount of monthly or other periodic support owed under the order, and other
+            
+435
+
+    
+amounts, including arrearages, interest, late payment penalties, or fees, due or overdue under
+            
+436
+
+    
+the order;
+            
+437
+
+    
+    (b)  any amount described in Subsection (8)(a) that has been collected;
+            
+438
+
+    
+    (c)  the distribution of collected amounts;
+            
+439
+
+    
+    (d)  the birth date of any child for whom the order requires the provision of support; and
+            
+440
+
+    
+    (e)  the amount of any lien imposed with respect to the order pursuant to this part;
+            
+441
+
+    
+    (9)  to contract with the Department of Workforce Services to establish and maintain
+            
+442
+
+    
+the new hire registry created under Section 
+
+35A-7-103
+
+;
+            
+443
+
+    
+    (10)  to determine whether an individual who has applied for or is receiving cash
+            
+444
+
+    
+assistance or Medicaid is cooperating in good faith with the office as required by Section
+            
+445
+
+    
+
+62A-11-307.2
+
+;
+            
+446
+
+    
+    (11)  to finance any costs incurred from collections, fees, General Fund appropriation,
+            
+447
+
+    
+contracts, and federal financial participation; and
+            
+448
+
+    
+    (12)  to provide notice to a noncustodial parent in accordance with Section
+            
+449
+
+    
+
+62A-11-304.4
+
+ of the opportunity to contest the accuracy of allegations by a custodial parent of
+
+            
+450
+
+
+    
+nonpayment of past-due child support, prior to taking action against a noncustodial parent to
+            
+451
+
+    
+collect the alleged past-due support.
+            
+452
+
+    
+    Section 11.  
+Section  
+62A-11-328
+
+ is amended to read:
+            
+453
+
+    
+     62A-11-328.  Information received from State Tax Commission provided to other
+            
+454
+
+    
+ states' child support collection agencies.
+            
+455
+
+    
+    The office shall, upon request, provide to any other state's child support collection
+            
+456
+
+    
+agency the information which it receives from the State Tax Commission under Subsection
+            
+457
+
+    
+[
+
+59-10-545
+
+(2)] 
+
+59-1-403
+
+(3)(n), with regard to a support debt which that agency is involved in
+            
+458
+
+    
+enforcing.
+            
+459
+
+    
+    Section 12.  
+Section  
+63A-11-102
+
+ is amended to read:
+            
+460
+
+    
+     63A-11-102.  Definitions.
+            
+461
+
+    
+    For purposes of this chapter:
+            
+462
+
+    
+    (1)  "Child welfare case" means a proceeding under Title 78, Chapter 3a, Juvenile
+            
+463
+
+    
+[Courts] Court Act of 1996, Part 3, Abuse, Neglect, and Dependency Proceedings, or 4,
+            
+464
+
+    
+Termination of Parental Rights Act.
+            
+465
+
+    
+    (2)  "Contracted parental defense attorney" means an attorney or law firm authorized to
+            
+466
+
+    
+practice law in Utah who is under contract with the office to provide parental defense in child
+            
+467
+
+    
+welfare cases.
+            
+468
+
+    
+    (3)  "Director" means the director of the office.
+            
+469
+
+    
+    (4)  "Fund" means the Child Welfare Parental Defense Fund established in Section
+            
+470
+
+    
+
+63A-11-203
+
+.
+            
+471
+
+    
+    (5)  "Office" means the Office of Child Welfare Parental Defense created in Section
+            
+472
+
+    
+
+63A-11-103
+
+.
+            
+473
+
+    
+    Section 13.  
+Section  
+77-20-4
+
+ is amended to read:
+            
+474
+
+    
+     77-20-4.  Bail to be posted in cash, by credit or debit card, or written undertaking.
+            
+475
+
+    
+    (1)  Bail may be posted:
+            
+476
+
+    
+    (a)  in cash;
+            
+477
+
+    
+    (b)  by written undertaking with or without sureties at the discretion of the magistrate;
+
+            
+478
+
+
+    
+or
+            
+479
+
+    
+    (c)  by credit or debit card, at the discretion of the judge or bail commissioner.
+            
+480
+
+    
+    [(2)  A written undertaking shall substantially conform to any form approved by the
+            
+481
+
+    
+Supreme Court.]
+            
+482
+
+    
+    [(3)] (2)  A bail bond may not be accepted without receiving in writing at the time the
+            
+483
+
+    
+bail is posted the current mailing address and telephone number of the surety.
+            
+484
+
+    
+    [(4)] (3)  Bail posted by debit or credit card, less the fee charged by the financial
+            
+485
+
+    
+institution, shall be tendered to the courts.
+            
+486
+
+    
+    [(5)] (4)  Bail refunded by the court may be refunded by credit to the debit or credit
+            
+487
+
+    
+card, or cash.  The amount refunded shall be the full amount received by the court under
+            
+488
+
+    
+Subsection [(4)] (3), which may be less than the full amount of the bail set by the court.
+            
+489
+
+    
+    Section 14.  
+Section  
+78-3a-104
+
+ is amended to read:
+            
+490
+
+    
+     78-3a-104.  Jurisdiction of juvenile court -- Original -- Exclusive.
+            
+491
+
+    
+    (1)  Except as otherwise provided by law, the juvenile court has exclusive original
+            
+492
+
+    
+jurisdiction in proceedings concerning:
+            
+493
+
+    
+    (a)  a minor who has violated any federal, state, or local law or municipal ordinance or a
+            
+494
+
+    
+person younger than 21 years of age who has violated any law or ordinance before becoming
+            
+495
+
+    
+18 years of age, regardless of where the violation occurred, excluding traffic laws and boating
+            
+496
+
+    
+and ordinances;
+            
+497
+
+    
+    (b)  a person 21 years of age or older who has failed or refused to comply with an order
+            
+498
+
+    
+of the juvenile court to pay a fine or restitution, if the order was imposed prior to the person's
+            
+499
+
+    
+21st birthday; however, the continuing jurisdiction is limited to causing compliance with
+            
+500
+
+    
+existing orders;
+            
+501
+
+    
+    (c)  a minor who is an abused child, neglected child, or dependent child, as those terms
+            
+502
+
+    
+are defined in Section 
+
+78-3a-103
+
+;
+            
+503
+
+    
+    (d)  a protective order for a minor pursuant to the provisions of Title 78, Chapter 3h,
+            
+504
+
+    
+Child Protective Orders, which the juvenile court may transfer to the district court if the
+            
+505
+
+    
+juvenile court has entered an ex parte protective order and finds that:
+
+            
+506
+
+
+    
+    (i)  the petitioner and the respondent are the natural parent, adoptive parent, or step
+            
+507
+
+    
+parent of the child who is the object of the petition;
+            
+508
+
+    
+    (ii)  the district court has a petition pending or an order related to custody or parent-time
+            
+509
+
+    
+entered under Title 30, Chapter 3, Divorce, Title 30, Chapter 6, Cohabitant Abuse Act, or Title
+            
+510
+
+    
+78, Chapter [45a] 45g, Utah Uniform Parentage Act [on Paternity], in which the petitioner and
+            
+511
+
+    
+the respondent are parties; and
+            
+512
+
+    
+    (iii)  the best interests of the child will be better served in the district court;
+            
+513
+
+    
+    (e)  appointment of a guardian of the person or other guardian of a minor who comes
+            
+514
+
+    
+within the court's jurisdiction under other provisions of this section;
+            
+515
+
+    
+    (f)  the termination of the legal parent-child relationship in accordance with Part 4,
+            
+516
+
+    
+Termination of Parental Rights Act, including termination of residual parental rights and
+            
+517
+
+    
+duties;
+            
+518
+
+    
+    (g)  the treatment or commitment of a mentally retarded minor;
+            
+519
+
+    
+    (h)  a minor who is a habitual truant from school;
+            
+520
+
+    
+    (i)  the judicial consent to the marriage of a minor under age 16 upon a determination of
+            
+521
+
+    
+voluntariness or where otherwise required by law, employment, or enlistment of a minor when
+            
+522
+
+    
+consent is required by law;
+            
+523
+
+    
+    (j)  any parent or parents of a minor committed to a secure youth corrections facility, to
+            
+524
+
+    
+order, at the discretion of the court and on the recommendation of a secure youth corrections
+            
+525
+
+    
+facility, the parent or parents of a minor committed to a secure youth corrections facility for a
+            
+526
+
+    
+custodial term, to undergo group rehabilitation therapy under the direction of a secure youth
+            
+527
+
+    
+corrections facility therapist, who has supervision of that parent's or parents' minor, or any
+            
+528
+
+    
+other therapist the court may direct, for a period directed by the court as recommended by a
+            
+529
+
+    
+secure youth corrections facility;
+            
+530
+
+    
+    (k)  a minor under Title 55, Chapter 12, Interstate Compact [on] for Juveniles;
+            
+531
+
+    
+    (l)  the treatment or commitment of a mentally ill child.  The court may commit a child
+            
+532
+
+    
+to the physical custody of a local mental health authority in accordance with the procedures and
+            
+533
+
+    
+requirements of Title 62A, Chapter 15, Part 7, Commitment of Persons Under Age 18 to
+
+            
+534
+
+
+    
+Division of Substance Abuse and Mental Health.  The court may not commit a child directly to
+            
+535
+
+    
+the Utah State Hospital;
+            
+536
+
+    
+    (m)  the commitment of a minor in accordance with Section 
+
+62A-15-301
+
+;
+            
+537
+
+    
+    (n)  de novo review of final agency actions resulting from an informal adjudicative
+            
+538
+
+    
+proceeding as provided in Section 
+
+63-46b-15
+
+; and
+            
+539
+
+    
+    (o)  adoptions conducted in accordance with the procedures described in Title 78,
+            
+540
+
+    
+Chapter 30, Adoption, when the juvenile court has previously entered an order terminating the
+            
+541
+
+    
+rights of a parent and finds that adoption is in the best interest of the minor.
+            
+542
+
+    
+    (2)  In addition to the provisions of Subsection (1)(a) the juvenile court has exclusive
+            
+543
+
+    
+jurisdiction over any traffic or boating offense committed by a minor under 16 years of age and
+            
+544
+
+    
+concurrent jurisdiction over all other traffic or boating offenses committed by a minor 16 years
+            
+545
+
+    
+of age or older, except that the court shall have exclusive jurisdiction over the following
+            
+546
+
+    
+offenses committed by a minor under 18 years of age:
+            
+547
+
+    
+    (a)  Section 
+
+76-5-207
+
+, automobile homicide;
+            
+548
+
+    
+    (b)  Section 
+
+41-6a-502
+
+, operating a vehicle while under the influence of alcohol or
+            
+549
+
+    
+drugs;
+            
+550
+
+    
+    (c)  Section 
+
+41-6a-528
+
+, reckless driving or Section 
+
+73-18-12
+
+, reckless operation;
+            
+551
+
+    
+    (d)  Section 
+
+41-1a-1314
+
+, unauthorized control over a motor vehicle, trailer, or
+            
+552
+
+    
+semitrailer for an extended period of time; and
+            
+553
+
+    
+    (e)  Section [
+
+41-6a-206
+
+] 
+
+41-6a-210
+
+ or 
+
+73-18-20
+
+, fleeing a peace officer.
+            
+554
+
+    
+    (3)  The court also has jurisdiction over traffic and boating offenses that are part of a
+            
+555
+
+    
+single criminal episode filed in a petition that contains an offense over which the court has
+            
+556
+
+    
+jurisdiction.
+            
+557
+
+    
+    (4)  The juvenile court has jurisdiction over an ungovernable or runaway minor who is
+            
+558
+
+    
+referred to it by the Division of Child and Family Services or by public or private agencies that
+            
+559
+
+    
+contract with the division to provide services to that minor where, despite earnest and
+            
+560
+
+    
+persistent efforts by the division or agency, the minor has demonstrated that he:
+            
+561
+
+    
+    (a)  is beyond the control of his parent, guardian, lawful custodian, or school authorities
+
+            
+562
+
+
+    
+to the extent that his behavior or condition endangers his own welfare or the welfare of others;
+            
+563
+
+    
+or
+            
+564
+
+    
+    (b)  has run away from home.
+            
+565
+
+    
+    (5)  This section does not restrict the right of access to the juvenile court by private
+            
+566
+
+    
+agencies or other persons.
+            
+567
+
+    
+    (6)  The juvenile court has jurisdiction of all magistrate functions relative to cases
+            
+568
+
+    
+arising under Section 
+
+78-3a-602
+
+.
+            
+569
+
+    
+    (7)  The juvenile court has jurisdiction to make a finding of substantiated,
+            
+570
+
+    
+unsubstantiated, or without merit, in accordance with Section 
+
+78-3a-320
+
+.
+            
+571
+
+    
+    Section 15.  
+Section  
+78-3a-105
+
+ is amended to read:
+            
+572
+
+    
+     78-3a-105.  Concurrent jurisdiction -- District court and juvenile court.
+            
+573
+
+    
+    (1)  The district court or other court has concurrent jurisdiction with the juvenile court
+            
+574
+
+    
+as follows:
+            
+575
+
+    
+    (a)  when a person who is 18 years of age or older and who is under the continuing
+            
+576
+
+    
+jurisdiction of the juvenile court under Section 
+
+78-3a-118
+
+ violates any federal, state, or local
+            
+577
+
+    
+law or municipal ordinance; and
+            
+578
+
+    
+    (b)  in establishing paternity and ordering testing for the purposes of establishing
+            
+579
+
+    
+paternity, in accordance with Title 78, Chapter [45a] 45g, Utah Uniform Parentage Act [on
+            
+580
+
+    
+Paternity], with regard to proceedings initiated under Part 3, Abuse, Neglect, and Dependency
+            
+581
+
+    
+Proceedings, or Part 4, Termination of Parental Rights Act.
+            
+582
+
+    
+    (2)  The juvenile court has jurisdiction over petitions to modify a minor's birth
+            
+583
+
+    
+certificate if the court otherwise has jurisdiction over the minor.
+            
+584
+
+    
+    (3)  This section does not deprive the district court of jurisdiction to appoint a guardian
+            
+585
+
+    
+for a minor, or to determine the support, custody, and parent-time of a minor upon writ of
+            
+586
+
+    
+habeas corpus or when the question of support, custody, and parent-time is incidental to the
+            
+587
+
+    
+determination of a cause in the district court.
+            
+588
+
+    
+    (4) (a)  Where a support, custody, or parent-time award has been made by a district
+            
+589
+
+    
+court in a divorce action or other proceeding, and the jurisdiction of the district court in the
+
+            
+590
+
+
+    
+case is continuing, the juvenile court may acquire jurisdiction in a case involving the same
+            
+591
+
+    
+minor if the minor is dependent, abused, neglected, or otherwise comes within the jurisdiction
+            
+592
+
+    
+of the juvenile court under Section 
+
+78-3a-104
+
+.
+            
+593
+
+    
+    (b)  The juvenile court may, by order, change the custody, subject to Subsection
+            
+594
+
+    
+
+30-3-10
+
+(4), support, parent-time, and visitation rights previously ordered in the district court as
+            
+595
+
+    
+necessary to implement the order of the juvenile court for the safety and welfare of the minor. 
+            
+596
+
+    
+The juvenile court order remains in effect so long as the jurisdiction of the juvenile court
+            
+597
+
+    
+continues.
+            
+598
+
+    
+    (c)  When a copy of the findings and order of the juvenile court has been filed with the
+            
+599
+
+    
+district court, the findings and order of the juvenile court are binding on the parties to the
+            
+600
+
+    
+divorce action as though entered in the district court.
+            
+601
+
+    
+    (5)  The juvenile court has jurisdiction over questions of custody, support, and
+            
+602
+
+    
+parent-time, of a minor who comes within the court's jurisdiction under this section or Section
+            
+603
+
+    
+
+78-3a-104
+
+.
+            
+604
+
+    
+    Section 16.  
+Section  
+78-3a-116
+
+ is amended to read:
+            
+605
+
+    
+     78-3a-116.  Hearings -- Record -- County attorney or district attorney
+            
+606
+
+    
+ responsibilities -- Attorney general responsibilities -- Disclosure -- Admissibility of
+            
+607
+
+    
+ evidence.
+            
+608
+
+    
+    (1) (a)  A verbatim record of the proceedings shall be taken by an official court reporter
+            
+609
+
+    
+or by means of a mechanical recording device in all cases that might result in deprivation of
+            
+610
+
+    
+custody as defined in this chapter.  In all other cases a verbatim record shall also be made
+            
+611
+
+    
+unless dispensed with by the court.
+            
+612
+
+    
+    (b) (i)  Notwithstanding any other provision, including Title 63, Chapter 2, Government
+            
+613
+
+    
+Records Access and Management Act, a record of a proceeding made under Subsection (1)(a)
+            
+614
+
+    
+shall be released by the court to any person upon a finding on the record for good cause.
+            
+615
+
+    
+    (ii)  Following a petition for a record of a proceeding made under Subsection (1)(a), the
+            
+616
+
+    
+court shall:
+            
+617
+
+    
+    (A)  provide notice to all subjects of the record that a request for release of the record
+
+            
+618
+
+
+    
+has been made; and
+            
+619
+
+    
+    (B)  allow sufficient time for the subjects of the record to respond before making a
+            
+620
+
+    
+finding on the petition.
+            
+621
+
+    
+    (iii)  A record of a proceeding may not be released under this Subsection (1)(b) if the
+            
+622
+
+    
+court's jurisdiction over the subjects of the proceeding ended more than 12 months prior to the
+            
+623
+
+    
+request.
+            
+624
+
+    
+    (iv)  For purposes of this Subsection (1)(b):
+            
+625
+
+    
+    (A)  "record of a proceeding" does not include documentary materials of any type
+            
+626
+
+    
+submitted to the court as part of the proceeding, including items submitted under Subsection
+            
+627
+
+    
+(4)(a); and
+            
+628
+
+    
+    (B)  "subjects of the record" includes the child's guardian ad litem, the child's legal
+            
+629
+
+    
+guardian, the Division of Child and Family Services, and any other party to the proceeding.
+            
+630
+
+    
+    (v)  This Subsection (1)(b) applies:
+            
+631
+
+    
+    (A)  to records of proceedings made on or after November 1, 2003 in districts selected
+            
+632
+
+    
+by the Judicial Council as pilot districts under Subsection 
+
+78-3-21
+
+(15)(a); and
+            
+633
+
+    
+    (B)  to records of proceedings made on or after July 1, 2004 in all other districts.
+            
+634
+
+    
+    (2) (a)  Except as provided in Subsection (2)(b), the county attorney or, if within a
+            
+635
+
+    
+prosecution district, the district attorney shall represent the state in any proceeding in a minor's
+            
+636
+
+    
+case.
+            
+637
+
+    
+    (b)  The attorney general shall enforce all provisions of Title 62A, Chapter 4a, Child
+            
+638
+
+    
+and Family Services, and Title 78, Chapter 3a, Juvenile [Courts] Court Act of 1996, relating to:
+            
+639
+
+    
+    (i)  protection or custody of an abused, neglected, or dependent child; and
+            
+640
+
+    
+    (ii)  petitions for termination of parental rights.
+            
+641
+
+    
+    (c)  The attorney general shall represent the Division of Child and Family Services in
+            
+642
+
+    
+actions involving minors who have not been adjudicated as abused or neglected, but who are
+            
+643
+
+    
+otherwise committed to the custody of that division by the juvenile court, and who are
+            
+644
+
+    
+classified in the division's management information system as having been placed in custody
+            
+645
+
+    
+primarily on the basis of delinquent behavior or a status offense.  Nothing in this Subsection
+
+            
+646
+
+
+    
+(2)(c) may be construed to affect the responsibility of the county attorney or district attorney to
+            
+647
+
+    
+represent the state in those matters, in accordance with the provisions of Subsection (2)(a).
+            
+648
+
+    
+    (3)  The board may adopt special rules of procedure to govern proceedings involving
+            
+649
+
+    
+violations of traffic laws or ordinances, fish and game laws, and boating laws.  However,
+            
+650
+
+    
+proceedings involving offenses under Section 
+
+78-3a-506
+
+ are governed by that section regarding
+            
+651
+
+    
+suspension of driving privileges.
+            
+652
+
+    
+    (4) (a)  For the purposes of determining proper disposition of the minor in dispositional
+            
+653
+
+    
+hearings and establishing the fact of abuse, neglect, or dependency in adjudication hearings and
+            
+654
+
+    
+in hearings upon petitions for termination of parental rights, written reports and other material
+            
+655
+
+    
+relating to the minor's mental, physical, and social history and condition may be received in
+            
+656
+
+    
+evidence and may be considered by the court along with other evidence.  The court may require
+            
+657
+
+    
+that the person who wrote the report or prepared the material appear as a witness if the person
+            
+658
+
+    
+is reasonably available.
+            
+659
+
+    
+    (b)  For the purpose of determining proper disposition of a minor alleged to be or
+            
+660
+
+    
+adjudicated as abused, neglected, or dependent, dispositional reports prepared by Foster Care
+            
+661
+
+    
+Citizen Review Boards pursuant to Section 
+
+78-3g-103
+
+ may be received in evidence and may be
+            
+662
+
+    
+considered by the court along with other evidence.  The court may require any person who
+            
+663
+
+    
+participated in preparing the dispositional report to appear as a witness, if the person is
+            
+664
+
+    
+reasonably available.
+            
+665
+
+    
+    (5) (a)  In an abuse, neglect, or dependency proceeding occurring after the
+            
+666
+
+    
+commencement of a shelter hearing under Section 
+
+78-3a-306
+
+ or the filing of a petition under
+            
+667
+
+    
+Section 
+
+78-3a-305
+
+, each party to the proceeding shall provide in writing to the other parties or
+            
+668
+
+    
+their counsel any information which the party:
+            
+669
+
+    
+    (i)  plans to report to the court at the proceeding; or
+            
+670
+
+    
+    (ii)  could reasonably expect would be requested of the party by the court at the
+            
+671
+
+    
+proceeding.
+            
+672
+
+    
+    (b)  The disclosure required under Subsection (5)(a) shall be made:
+            
+673
+
+    
+    (i)  for dispositional hearings under Sections 
+
+78-3a-310
+
+ and 
+
+78-3a-311
+
+, no less than five
+
+            
+674
+
+
+    
+days before the proceeding;
+            
+675
+
+    
+    (ii)  for proceedings under Title 78, Chapter 3a, Part 4, Termination of Parental Rights
+            
+676
+
+    
+Act, in accordance with Utah Rules of Civil Procedure; and
+            
+677
+
+    
+    (iii)  for all other proceedings, no less than five days before the proceeding.
+            
+678
+
+    
+    (c)  If a party to a proceeding obtains information after the deadline in Subsection
+            
+679
+
+    
+(5)(b), the information is exempt from the disclosure required under Subsection (5)(a) if the
+            
+680
+
+    
+party certifies to the court that the information was obtained after the deadline.
+            
+681
+
+    
+    (d)  Subsection (5)(a) does not apply to:
+            
+682
+
+    
+    (i)  pretrial hearings; and
+            
+683
+
+    
+    (ii)  the frequent, periodic review hearings held in a dependency drug court case to
+            
+684
+
+    
+assess and promote the parent's progress in substance abuse treatment.
+            
+685
+
+    
+    (6)  For the purpose of establishing the fact of abuse, neglect, or dependency, the court
+            
+686
+
+    
+may, in its discretion, consider evidence of statements made by a minor under eight years of
+            
+687
+
+    
+age to a person in a trust relationship.
+            
+688
+
+    
+    Section 17.  
+Section  
+78-3a-502
+
+ is amended to read:
+            
+689
+
+    
+     78-3a-502.  Petition -- Preliminary inquiry -- Nonjudicial adjustments -- Formal
+            
+690
+
+    
+ referral -- Citation -- Failure to appear.
+            
+691
+
+    
+    (1)  Proceedings in minor's cases are commenced by petition.
+            
+692
+
+    
+    (2) (a)  A peace officer or any public official of the state, any county, city, or town
+            
+693
+
+    
+charged with the enforcement of the laws of the state or local jurisdiction shall file a formal
+            
+694
+
+    
+referral with the juvenile court within ten days of the minor's arrest.  If the arrested minor is
+            
+695
+
+    
+taken to a detention facility, the formal referral shall be filed with the juvenile court within 72
+            
+696
+
+    
+hours, excluding weekends and holidays.  There shall be no requirement to file a formal
+            
+697
+
+    
+referral with the juvenile court on an offense that would be a class B misdemeanor or less if
+            
+698
+
+    
+committed by an adult.
+            
+699
+
+    
+    (b)  When the court is informed by a peace officer or other person that a minor is or
+            
+700
+
+    
+appears to be within the court's jurisdiction, the probation department shall make a preliminary
+            
+701
+
+    
+inquiry to determine whether the interests of the public or of the minor require that further
+
+            
+702
+
+
+    
+action be taken.
+            
+703
+
+    
+    (c)  Based on the preliminary inquiry, the court may authorize the filing of or request
+            
+704
+
+    
+that the county attorney or district attorney as provided under Sections 
+
+17-18-1
+
+ and 
+
+17-18-1.7
+
+
+            
+705
+
+    
+file a petition.  In its discretion, the court may, through its probation department, enter into a
+            
+706
+
+    
+written consent agreement with the minor and the minor's parent, guardian, or custodian for the
+            
+707
+
+    
+nonjudicial adjustment of the case if the facts are admitted and establish prima facie
+            
+708
+
+    
+jurisdiction.  Efforts to effect a nonjudicial adjustment may not extend for a period of more
+            
+709
+
+    
+than [two months] 90 days without leave of a judge of the court, who may extend the period for
+            
+710
+
+    
+an additional [two months] 90 days.  [The probation department may not in connection with
+            
+711
+
+    
+any nonjudicial adjustment compel any person to appear at any conference, produce any papers,
+            
+712
+
+    
+or visit any place.]
+            
+713
+
+    
+    (d)  The nonjudicial adjustment of a case may include conditions agreed upon as part of
+            
+714
+
+    
+the nonjudicial closure:
+            
+715
+
+    
+    (i)  payment of a financial penalty of not more than [$100] $250 to the Juvenile Court;
+            
+716
+
+    
+    (ii)  payment of victim restitution;
+            
+717
+
+    
+    (iii)  satisfactory completion of compensatory service;
+            
+718
+
+    
+    (iv)  referral to an appropriate provider for counseling or treatment;
+            
+719
+
+    
+    (v)  attendance at substance abuse programs or counseling programs;
+            
+720
+
+    
+    (vi)  compliance with specified restrictions on activities and associations; and
+            
+721
+
+    
+    (vii)  other reasonable actions that are in the interest of the minor and the community.
+            
+722
+
+    
+    (e)  Proceedings involving offenses under Section 
+
+78-3a-506
+
+ are governed by that
+            
+723
+
+    
+section regarding suspension of driving privileges.
+            
+724
+
+    
+    (f)  A violation of Section 
+
+76-10-105
+
+ that is subject to the jurisdiction of the Juvenile
+            
+725
+
+    
+Court shall include a minimum fine or penalty of $60 and participation in a court-approved
+            
+726
+
+    
+tobacco education program, which may include a participation fee.
+            
+727
+
+    
+    (3)  Except as provided in Section 
+
+78-3a-602
+
+, in the case of a minor 14 years of age or
+            
+728
+
+    
+older, the county attorney, district attorney, or attorney general may commence an action by
+            
+729
+
+    
+filing a criminal information and a motion requesting the juvenile court to waive its jurisdiction
+
+            
+730
+
+
+    
+and certify the minor to the district court.
+            
+731
+
+    
+    (4) (a)  In cases of violations of fish and game laws, boating laws, class B and class C
+            
+732
+
+    
+misdemeanors, other infractions or misdemeanors as designated by general order of the Board
+            
+733
+
+    
+of Juvenile Court Judges, and violations of Section 
+
+76-10-105
+
+ subject to the jurisdiction of the
+            
+734
+
+    
+Juvenile Court, a petition is not required and the issuance of a citation as provided in Section
+            
+735
+
+    
+
+78-3a-503
+
+ is sufficient to invoke the jurisdiction of the court.  A preliminary inquiry is not
+            
+736
+
+    
+required unless requested by the court.
+            
+737
+
+    
+    (b)  Any failure to comply with the time deadline on a formal referral may not be the
+            
+738
+
+    
+basis of dismissing the formal referral.
+            
+739
+
+    
+    Section 18.  
+Section  
+78-30-4.14
+
+ is amended to read:
+            
+740
+
+    
+     78-30-4.14.  Necessary consent to adoption or relinquishment for adoption.
+            
+741
+
+    
+    (1)  Either relinquishment of a child for adoption or consent to adoption of a child is
+            
+742
+
+    
+required from:
+            
+743
+
+    
+    (a)  the adoptee, if he is more than 12 years of age, unless he does not have the mental
+            
+744
+
+    
+capacity to consent;
+            
+745
+
+    
+    (b)  both parents or the surviving parent of an adoptee who was conceived or born
+            
+746
+
+    
+within a marriage, unless the adoptee is 18 years of age or older;
+            
+747
+
+    
+    (c)  the mother of an adoptee born outside of marriage;
+            
+748
+
+    
+    (d)  any biological parent who has been adjudicated to be the child's biological father by
+            
+749
+
+    
+a court of competent jurisdiction prior to the mother's execution of consent to adoption or her
+            
+750
+
+    
+relinquishment of the child for adoption;
+            
+751
+
+    
+    (e)  any biological parent who has executed and filed a voluntary declaration of
+            
+752
+
+    
+paternity with the state registrar of vital statistics within the Department of Health in
+            
+753
+
+    
+accordance with Title 78, Chapter 45e, Voluntary Declaration of Paternity Act, prior to the
+            
+754
+
+    
+mother's execution of consent to adoption or her relinquishment of the child for adoption,
+            
+755
+
+    
+which voluntary declaration of paternity is considered filed when entered into a database that
+            
+756
+
+    
+can be accessed by the Department of Health;
+            
+757
+
+    
+    (f)  an unmarried biological father of an adoptee, only if the requirements and
+
+            
+758
+
+
+    
+conditions of Subsection (2)(a) or (b) have been proven; and
+            
+759
+
+    
+    (g)  the person or agency to whom an adoptee has been relinquished and that is placing
+            
+760
+
+    
+the child for adoption.
+            
+761
+
+    
+    (2)  In accordance with Subsection (1), the consent of an unmarried, biological father is
+            
+762
+
+    
+necessary only if the father has strictly complied with the requirements of this section.
+            
+763
+
+    
+    (a) (i)  With regard to a child who is placed with adoptive parents more than six months
+            
+764
+
+    
+after birth, an unmarried biological father shall have developed a substantial relationship with
+            
+765
+
+    
+the child, taken some measure of responsibility for the child and the child's future, and
+            
+766
+
+    
+demonstrated a full commitment to the responsibilities of parenthood by financial support of
+            
+767
+
+    
+the child, of a fair and reasonable sum and in accordance with the father's ability, when not
+            
+768
+
+    
+prevented from doing so by the person or authorized agency having lawful custody of the child,
+            
+769
+
+    
+and either:
+            
+770
+
+    
+    (A)  visiting the child at least monthly when physically and financially able to do so,
+            
+771
+
+    
+and when not prevented from doing so by the person or authorized agency having lawful
+            
+772
+
+    
+custody of the child; or
+            
+773
+
+    
+    (B)  regular communication with the child or with the person or agency having the care
+            
+774
+
+    
+or custody of the child, when physically and financially unable to visit the child, and when not
+            
+775
+
+    
+prevented from doing so by the person or authorized agency having lawful custody of the child.
+            
+776
+
+    
+    (ii)  The subjective intent of an unmarried biological father, whether expressed or
+            
+777
+
+    
+otherwise, unsupported by evidence of acts specified in this Subsection (2) shall not preclude a
+            
+778
+
+    
+determination that the father failed to meet the requirements of Subsection (2)(a)(i).
+            
+779
+
+    
+    (iii)  An unmarried biological father who openly lived with the child for a period of six
+            
+780
+
+    
+months within the one-year period after the birth of the child and immediately preceding
+            
+781
+
+    
+placement of the child with adoptive parents, and openly held himself out to be the father of the
+            
+782
+
+    
+child during that period, shall be considered to have developed a substantial relationship with
+            
+783
+
+    
+the child and to have otherwise met the requirements of Subsection (2)(a)(i).
+            
+784
+
+    
+    (b)  With regard to a child who is under six months of age at the time he is placed with
+            
+785
+
+    
+adoptive parents, an unmarried biological father shall have manifested a full commitment to his
+
+            
+786
+
+
+    
+parental responsibilities by performing all of the acts described in this Subsection (2) prior to
+            
+787
+
+    
+the time the mother executes her consent for adoption or relinquishes the child for adoption. 
+            
+788
+
+    
+The father shall:
+            
+789
+
+    
+    (i)  initiate proceedings to establish paternity under Title 78, Chapter [45a] 45g, Utah
+            
+790
+
+    
+Uniform Parentage Act [on Paternity], and file with that court a sworn affidavit stating that he
+            
+791
+
+    
+is fully able and willing to have full custody of the child, setting forth his plans for care of the
+            
+792
+
+    
+child, and agreeing to a court order of child support and the payment of expenses incurred in
+            
+793
+
+    
+connection with the mother's pregnancy and the child's birth;
+            
+794
+
+    
+    (ii)  file notice of the commencement of paternity proceedings with the state registrar of
+            
+795
+
+    
+vital statistics within the Department of Health, in a confidential registry established by the
+            
+796
+
+    
+department for that purpose, which notice is considered filed when the notice is entered in the
+            
+797
+
+    
+registry of notices from unmarried biological fathers; and
+            
+798
+
+    
+    (iii)  if he had actual knowledge of the pregnancy, paid a fair and reasonable amount of
+            
+799
+
+    
+the expenses incurred in connection with the mother's pregnancy and the child's birth, in
+            
+800
+
+    
+accordance with his means, and when not prevented from doing so by the person or authorized
+            
+801
+
+    
+agency having lawful custody of the child.
+            
+802
+
+    
+    (3)  An unmarried biological father whose consent is required under Subsection (1) or
+            
+803
+
+    
+(2) may nevertheless lose his right to consent if the court determines, in accordance with the
+            
+804
+
+    
+requirements and procedures of Title 78, Chapter 3a, Part 4, Termination of Parental Rights
+            
+805
+
+    
+Act, that his rights should be terminated, based on the petition of any interested party.
+            
+806
+
+    
+    (4)  If there is no showing that an unmarried biological father has consented to or
+            
+807
+
+    
+waived his rights regarding a proposed adoption, the petitioner shall file with the court a
+            
+808
+
+    
+certificate from the state registrar of vital statistics within the Department of Health, stating
+            
+809
+
+    
+that a diligent search has been made of the registry of notices from unmarried biological fathers
+            
+810
+
+    
+described in Subsection (2)(b)(ii), and that no filing has been found pertaining to the father of
+            
+811
+
+    
+the child in question, or if a filing is found, stating the name of the putative father and the time
+            
+812
+
+    
+and date of filing.  That certificate shall be filed with the court prior to entrance of a final
+            
+813
+
+    
+decree of adoption.
+
+            
+814
+
+
+    
+    (5)  An unmarried biological father who does not fully and strictly comply with each of
+            
+815
+
+    
+the conditions provided in this section, is considered to have waived and surrendered any right
+            
+816
+
+    
+in relation to the child, including the right to notice of any judicial proceeding in connection
+            
+817
+
+    
+with the adoption of the child, and his consent to the adoption of the child is not  required.
+            
+818
+
+    
+    Section 19.  Repealer.
+            
+819
+
+    
+    This bill repeals:
+            
+820
+
+    
+    Section  59-10-545,  Confidentiality of information.
+[Bill Documents][Bills Directory]
+
+
+
+
+
+
+
+
+
+Who represents me?
+
+
+
+
+
+Remember my Legislators
+
+
+
+
+
+State Senate
+		350 North State, Suite 320
+		PO Box 145115
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1035
+		Fax: (801) 326-1475
+
+
+
+House of Representatives
+		350 North State, Suite 350
+		PO Box 145030
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1029
+		Fax: (801) 326-1544
+
+
+
+
+
+
+
+
+
+
+Home
+Mobile Site
+Site Map
+Calendar
+Code / Constitution
+House
+Senate
+
+Terms of Use/Privacy Policy
+
+ADA
+Utah.gov
+
+
+
+
+
+
+

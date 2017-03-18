@@ -1,0 +1,1312 @@
+Sponsors: []Modifications:     57-1-23.5.(1)  As used in this section:(a)  "Unauthorized person" means a person who does not qualify as a trustee underSubsection 
+
+57-1-21
+
+(1)(a)(i) or (iv).(b)  "Unauthorized sale" means the exercise of a power of sale by an unauthorizedperson.(2) (a)  An unauthorized person who conducts an unauthorized sale is liable to thetrustor for the actual damages suffered by the trustor as a result of the unauthorized sale or$2,000, whichever is greater.(b)  In an action under Subsection (2)(a), the court shall award a prevailing plaintiff theplaintiff's costs and attorney fees.    57-1-24.5.(1)  A beneficiary, or the beneficiary's authorized agent, shall deliver or send a notice toa trustor as provided in Subsection (2) if:(a)  the trust property is residential;(b)  a notice of default is filed under Section 
+
+57-1-24
+
+ with respect to the trust property;(c)  during the three-month period described in Subsection 
+
+57-1-24
+
+(3), the beneficiaryor agent agrees to accept reduced payments from the trustor on a temporary basis; and(d)  notwithstanding the reduced payment arrangement, the beneficiary or agent doesnot intend to instruct the trustee to defer giving notice of sale under Section 
+
+57-1-25
+
+ later thanthe earliest time allowed under Subsection 
+
+57-1-24
+
+(3).(2)  A notice under Subsection (1) shall:(a)  be in writing;(b) (i)  be hand delivered to the trustor; or(ii)  be sent by certified mail, return receipt requested, to the trustor at the address of thetrust property;(c)  be delivered or sent on or before the date that is 30 days after the notice of default isfiled or 10 days after the beneficiary or agent agrees to accept reduced payments, whichever islater; and(d)  inform the trustor that, despite the reduced payment arrangement, the beneficiary oragent does not intend to instruct the trustee to defer giving notice of sale under Section 
+
+57-1-25
+
+later than the earliest time allowed under Subsection 
+
+57-1-24
+
+(3).(3)  A beneficiary or agent who sends or delivers notice to a trustor under this sectionshall mail a copy of the notice to the trustee.(4)  The failure of a beneficiary or agent to comply with a requirement of this sectiondoes not affect the validity of a trustee's sale of the trust property.(5) (a)  A beneficiary or agent who fails to send or deliver a notice to a trustor asrequired in this section is liable to the trustor for the actual damages suffered by the trustor as aresult of the failure or $2,000, whichever is greater.(b)  In an action under Subsection (5)(a), the court shall award a prevailing plaintiff theplaintiff's costs and attorney fees.(5)  A trustee qualified under Subsection 
+
+57-1-21
+
+(1)(a)(i) or (iv) who exercises a powerof sale has a duty to the trustor not to defraud, or conspire or scheme to defraud, the trustor.Full text:
+
+
+
+Utah State Legislature
+
+
+
+
+
+
+
+
+
+
+
+
+Legislators
+
+By Session (1896-Current)
+Alphabetical (Historical)
+Find by Address/Map
+More
+
+
+Bills
+
+Bills/Bill Requests
+Passed Bills
+2017 Bills
+
+Keyword Search
+Reading Calendars
+Tracking Service
+More
+
+
+Committees
+
+All Committees
+Appropriations
+Commissions
+
+Independent Legislative Ethics Commission
+Interim
+Standing
+Subcommittees
+Task Forces
+Bills In Committees
+
+
+Utah Code / Constitution
+
+
+Title/Chapter/Section
+Keyword Search 
+
+Utah Constitution
+Laws of Utah 1851-ongoing
+Utah Territorial Laws 
+More
+
+
+Senate
+
+Main Page 
+About The Senate 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Extraordinary Sessions 
+Reading Calendars 
+Past Floor Debates 
+Senate Journals 
+
+
+House
+
+Main Page
+About the House 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Reading Calendars 
+Past Floor Debates 
+Journals 
+Conflict of Interest Forms 
+
+
+Legislative Guide 
+
+Legislative Guide
+Civic Programs
+GRAMA (Records Requests)
+
+
+Publications
+
+Search Publications
+Appropriations
+Audits
+Bagels & Briefings
+Briefing Papers
+Digest of Legislation
+Legislative Drafting Manual
+
+Journals
+
+Interim Highlights
+
+Legislative Rules
+GRAMA (Records Requests)
+Public Email
+State Organization Charts
+YouTube Channel
+Requests for Proposals and Legal Notices
+More
+
+
+Legislative Histories
+
+Legislative History Resources
+How to Research
+Bill Drafting/Research Files (1990-Ongoing)
+
+Working Bills (1896-1989)
+Interim Committee Histories (1990-Ongoing) 
+Journals
+Past House Floor Debates
+Past Senate Floor Debates
+More
+
+
+Staff Offices
+
+All Legislative Offices
+Auditor General
+Fiscal Analyst
+Printing
+Research and General Counsel
+Staff Awards
+Job Opportunities
+More
+
+
+Links of Interest
+
+Utah Administrative Rules
+Courts
+Utah State Capitol
+State of Utah
+Federal Legislation
+More
+
+
+
+
+
+
+ 
+
+Download Zipped Enrolled WordPerfect SB0261.ZIP
+[Introduced][Status][Bill Documents][Fiscal Note][Bills Directory]
+
+
+S.B. 261 Enrolled
+
+
+
+
+
+            
+1
+
+    
+ CHANGES TO TRUST DEED FORECLOSURE PROVISIONS
+
+
+
+            
+2
+
+    
+2011 GENERAL SESSION
+
+            
+3
+
+    
+STATE OF UTAH
+
+            
+4
+
+    
+
+
+ Chief Sponsor:  Curtis S. Bramble
+
+
+
+            
+5
+
+    
+
+
+
+House Sponsor:  
+
+
+
+
+
+
+Brad R. Wilson
+
+
+
+
+
+            
+6
+
+    
+
+            
+7
+
+    
+ LONG TITLE
+            
+8
+
+    
+ General Description:
+            
+9
+
+    
+    This bill modifies provisions relating to trust deed foreclosures.
+            
+10
+
+    
+ Highlighted Provisions:
+            
+11
+
+    
+    This bill:
+            
+12
+
+    
+    .    imposes civil liability on a person who violates specified trustee provisions;
+            
+13
+
+    
+    .    modifies a provision relating to successor trustees;
+            
+14
+
+    
+    .    imposes a duty on a trustee who exercises a power of sale; and
+            
+15
+
+    
+    .    requires a beneficiary or the beneficiary's agent to provide notice to a trustor on a
+            
+16
+
+    
+residential property if the beneficiary or agent does not intend to instruct a trustee to
+            
+17
+
+    
+defer a notice of sale despite a temporary reduced payment arrangement and
+            
+18
+
+    
+imposes civil liability for a failure to do so.
+            
+19
+
+    
+ Money Appropriated in this Bill:
+            
+20
+
+    
+    None
+            
+21
+
+    
+ Other Special Clauses:
+            
+22
+
+    
+    None
+            
+23
+
+    
+ Utah Code Sections Affected:
+            
+24
+
+    
+AMENDS:
+            
+25
+
+    
+     57-1-22, as last amended by Laws of Utah 2002, Chapter 209
+            
+26
+
+    
+     57-1-25, as last amended by Laws of Utah 2010, Chapter 66
+            
+27
+
+    
+ENACTS:
+            
+28
+
+    
+     57-1-23.5, Utah Code Annotated 1953
+            
+29
+
+    
+     57-1-24.5, Utah Code Annotated 1953
+
+            
+30
+
+
+    
+
+            
+31
+
+    
+Be it enacted by the Legislature of the state of Utah:
+            
+32
+
+    
+    Section 1.  
+Section  
+57-1-22
+
+ is amended to read:
+            
+33
+
+    
+     57-1-22.  Successor trustees -- Appointment by beneficiary -- Effect -- Substitution
+            
+34
+
+    
+ of trustee -- Recording -- Form.
+            
+35
+
+    
+    (1) (a)  The beneficiary may appoint a successor trustee at any time by filing for record
+            
+36
+
+    
+in the office of the county recorder of each county in which the trust property or some part of
+            
+37
+
+    
+the trust property is situated, a substitution of trustee.
+            
+38
+
+    
+    (b)  The new trustee shall succeed to all the power, duties, authority, and title of the
+            
+39
+
+    
+trustee named in the deed of trust and of any successor trustee.
+            
+40
+
+    
+    (c)  The beneficiary may, by express provision in the substitution of trustee, ratify and
+            
+41
+
+    
+confirm action taken on the beneficiary's behalf by the new trustee prior to the recording of the
+            
+42
+
+    
+substitution of trustee.
+            
+43
+
+    
+    (2)  The substitution shall:
+            
+44
+
+    
+    (a)  identify the trust deed by stating:
+            
+45
+
+    
+    (i)  the names of the original parties to the trust deed;
+            
+46
+
+    
+    (ii)  the date of recordation; and
+            
+47
+
+    
+    (iii) (A)  the book and page where the trust deed is recorded; or
+            
+48
+
+    
+    (B)  the entry number;
+            
+49
+
+    
+    (b)  include the legal description of the trust property;
+            
+50
+
+    
+    (c)  state the name and address of the new trustee; and
+            
+51
+
+    
+    (d)  be executed and acknowledged by all of the beneficiaries under the trust deed or
+            
+52
+
+    
+their successors in interest.
+            
+53
+
+    
+    (3) (a)  If not previously recorded[,] at the time of recording a notice of default, the
+            
+54
+
+    
+successor trustee shall file for record, in the office of the county recorder of each county in
+            
+55
+
+    
+which the trust property or some part of it is situated, the substitution of trustee.
+            
+56
+
+    
+    (b)  A copy of the substitution of trustee shall be sent in the manner provided in
+            
+57
+
+    
+Subsection 
+
+57-1-26
+
+(2) to any:
+
+            
+58
+
+
+    
+    (i)  person who requests a copy of any notice of default or notice of sale under
+            
+59
+
+    
+Subsection 
+
+57-1-26
+
+(1)(a); and
+            
+60
+
+    
+    (ii)  person who is a party to the trust deed to whom a copy of a notice of default would
+            
+61
+
+    
+be required to be mailed by Subsection 
+
+57-1-26
+
+(3).
+            
+62
+
+    
+    (4)  A substitution of trustee shall be in substantially the following form:
+            
+63
+
+    
+Substitution of Trustee
+
+            
+64
+
+    
+(insert name and address of new trustee)
+
+            
+65
+
+    
+        is hereby appointed successor trustee under the trust deed executed by ____ as
+            
+66
+
+    
+trustor, in which ____ is named beneficiary and ____ as trustee, and filed for record
+            
+67
+
+    
+__________(month\day\year), and recorded in Book ____, Page ____, Records of ____
+            
+68
+
+    
+County, (or filed for record __________(month\day\year), with recorder's entry No. ____, ____
+            
+69
+
+    
+County), Utah.
+            
+70
+
+    
+(Insert legal description)
+
+            
+71
+
+    
+                               
+            
+72
+
+    
+Signature_____________________________
+            
+73
+
+    
+(Certificate of Acknowledgment)
+
+            
+74
+
+    
+    Section 2.  
+Section  
+57-1-23.5
+
+ is enacted to read:
+            
+75
+
+    
+     57-1-23.5.  Civil liability for unauthorized person who exercises power of sale.
+            
+76
+
+    
+    (1)  As used in this section:
+            
+77
+
+    
+    (a)  "Unauthorized person" means a person who does not qualify as a trustee under
+            
+78
+
+    
+Subsection 
+
+57-1-21
+
+(1)(a)(i) or (iv).
+            
+79
+
+    
+    (b)  "Unauthorized sale" means the exercise of a power of sale by an unauthorized
+            
+80
+
+    
+person.
+            
+81
+
+    
+    (2) (a)  An unauthorized person who conducts an unauthorized sale is liable to the
+            
+82
+
+    
+trustor for the actual damages suffered by the trustor as a result of the unauthorized sale or
+            
+83
+
+    
+$2,000, whichever is greater.
+            
+84
+
+    
+    (b)  In an action under Subsection (2)(a), the court shall award a prevailing plaintiff the
+            
+85
+
+    
+plaintiff's costs and attorney fees.
+
+            
+86
+
+
+    
+    Section 3.  
+Section  
+57-1-24.5
+
+ is enacted to read:
+            
+87
+
+    
+     57-1-24.5.  Notice to trustor of intent not to defer notice of sale.
+            
+88
+
+    
+    (1)  A beneficiary, or the beneficiary's authorized agent, shall deliver or send a notice to
+            
+89
+
+    
+a trustor as provided in Subsection (2) if:
+            
+90
+
+    
+    (a)  the trust property is residential;
+            
+91
+
+    
+    (b)  a notice of default is filed under Section 
+
+57-1-24
+
+ with respect to the trust property;
+            
+92
+
+    
+    (c)  during the three-month period described in Subsection 
+
+57-1-24
+
+(3), the beneficiary
+            
+93
+
+    
+or agent agrees to accept reduced payments from the trustor on a temporary basis; and
+            
+94
+
+    
+    (d)  notwithstanding the reduced payment arrangement, the beneficiary or agent does
+            
+95
+
+    
+not intend to instruct the trustee to defer giving notice of sale under Section 
+
+57-1-25
+
+ later than
+            
+96
+
+    
+the earliest time allowed under Subsection 
+
+57-1-24
+
+(3).
+            
+97
+
+    
+    (2)  A notice under Subsection (1) shall:
+            
+98
+
+    
+    (a)  be in writing;
+            
+99
+
+    
+    (b) (i)  be hand delivered to the trustor; or
+            
+100
+
+    
+    (ii)  be sent by certified mail, return receipt requested, to the trustor at the address of the
+            
+101
+
+    
+trust property;
+            
+102
+
+    
+    (c)  be delivered or sent on or before the date that is 30 days after the notice of default is
+            
+103
+
+    
+filed or 10 days after the beneficiary or agent agrees to accept reduced payments, whichever is
+            
+104
+
+    
+later; and
+            
+105
+
+    
+    (d)  inform the trustor that, despite the reduced payment arrangement, the beneficiary or
+            
+106
+
+    
+agent does not intend to instruct the trustee to defer giving notice of sale under Section 
+
+57-1-25
+
+
+            
+107
+
+    
+later than the earliest time allowed under Subsection 
+
+57-1-24
+
+(3).
+            
+108
+
+    
+    (3)  A beneficiary or agent who sends or delivers notice to a trustor under this section
+            
+109
+
+    
+shall mail a copy of the notice to the trustee.
+            
+110
+
+    
+    (4)  The failure of a beneficiary or agent to comply with a requirement of this section
+            
+111
+
+    
+does not affect the validity of a trustee's sale of the trust property.
+            
+112
+
+    
+    (5) (a)  A beneficiary or agent who fails to send or deliver a notice to a trustor as
+            
+113
+
+    
+required in this section is liable to the trustor for the actual damages suffered by the trustor as a
+
+            
+114
+
+
+    
+result of the failure or $2,000, whichever is greater.
+            
+115
+
+    
+    (b)  In an action under Subsection (5)(a), the court shall award a prevailing plaintiff the
+            
+116
+
+    
+plaintiff's costs and attorney fees.
+            
+117
+
+    
+    Section 4.  
+Section  
+57-1-25
+
+ is amended to read:
+            
+118
+
+    
+     57-1-25.  Notice of trustee's sale -- Description of property -- Time and place of
+            
+119
+
+    
+ sale.
+            
+120
+
+    
+    (1)  The trustee shall give written notice of the time and place of sale particularly
+            
+121
+
+    
+describing the property to be sold:
+            
+122
+
+    
+    (a)  by publication of the notice:
+            
+123
+
+    
+    (i) (A)  at least three times;
+            
+124
+
+    
+    (B)  once a week for three consecutive weeks;
+            
+125
+
+    
+    (C)  the last publication to be at least 10 days but not more than 30 days before the date
+            
+126
+
+    
+the sale is scheduled; and
+            
+127
+
+    
+    (D)  in a newspaper having a general circulation in each county in which the property to
+            
+128
+
+    
+be sold, or some part of the property to be sold, is situated; and
+            
+129
+
+    
+    (ii)  in accordance with Section 
+
+45-1-101
+
+ for 30 days before the date the sale is
+            
+130
+
+    
+scheduled; 
+            
+131
+
+    
+    (b)  by posting the notice:
+            
+132
+
+    
+    (i)  at least 20 days before the date the sale is scheduled; and
+            
+133
+
+    
+    (ii) (A)  in some conspicuous place on the property to be sold; and
+            
+134
+
+    
+    (B)  at the office of the county recorder of each county in which the trust property, or
+            
+135
+
+    
+some part of it, is located; and
+            
+136
+
+    
+    (c)  if the stated purpose of the obligation for which the trust deed was given as security
+            
+137
+
+    
+is to finance residential rental property:
+            
+138
+
+    
+    (i)  by posting the notice, including the statement required under Subsection (3)(b):
+            
+139
+
+    
+    (A)  on the primary door of each dwelling unit on the property to be sold, if the property
+            
+140
+
+    
+to be sold has fewer than nine dwelling units; or
+            
+141
+
+    
+    (B)  in at least two conspicuous places on the property to be sold, in addition to the
+
+            
+142
+
+
+    
+posting required under Subsection (1)(b)(ii)(A), if the property to be sold has nine or more
+            
+143
+
+    
+dwelling units; or
+            
+144
+
+    
+    (ii)  by mailing the notice, including the statement required under Subsection (3)(b), to
+            
+145
+
+    
+the occupant of each dwelling unit on the property to be sold.
+            
+146
+
+    
+    (2) (a)  The sale shall be held at the time and place designated in the notice of sale.
+            
+147
+
+    
+    (b)  The time of sale shall be between the hours of 8 a.m. and 5 p.m.
+            
+148
+
+    
+    (c)  The place of sale shall be clearly identified in the notice of sale under Subsection
+            
+149
+
+    
+(1) and shall be at a courthouse serving the county in which the property to be sold, or some
+            
+150
+
+    
+part of the property to be sold, is located.
+            
+151
+
+    
+    (3) (a)  The notice of sale shall be in substantially the following form:
+            
+152
+
+    
+Notice of Trustee's Sale
+
+            
+153
+
+    
+    The following described property will be sold at public auction to the highest bidder,
+            
+154
+
+    
+payable in lawful money of the United States at the time of sale, at (insert location of sale)
+            
+155
+
+    
+________________on __________(month\day\year), at __.m. of said day, for the purpose of
+            
+156
+
+    
+foreclosing a trust deed originally executed by ____ (and ____, his wife,) as trustors, in favor
+            
+157
+
+    
+of ____, covering real property located at ____, and more particularly described as:
+            
+158
+
+    
+(Insert legal description)
+
+            
+159
+
+    
+    The current beneficiary of the trust deed is ______________________ and the record
+            
+160
+
+    
+owners of the property as of the recording of the notice of default are _________________ and
+            
+161
+
+    
+____________________.
+            
+162
+
+    
+Dated __________(month\day\year)._______________
+
+            
+163
+
+    
+Trustee
+
+            
+164
+
+    
+    (b)  If the stated purpose of the obligation for which the trust deed was given as security
+            
+165
+
+    
+is to finance residential rental property, the notice required under Subsection (1)(c) shall
+            
+166
+
+    
+include a statement, in at least 14-point font, substantially as follows:
+            
+167
+
+    
+    "Notice to Tenant
+            
+168
+
+    
+    As stated in the accompanying Notice of Trustee's Sale, this property is scheduled to be
+            
+169
+
+    
+sold at public auction to the highest bidder unless the default in the obligation secured by this
+
+            
+170
+
+
+    
+property is cured.  If the property is sold, you may be allowed under federal law to continue to
+            
+171
+
+    
+occupy your rental unit until your rental agreement expires, or until 90 days after the date you
+            
+172
+
+    
+are served with a notice to vacate, whichever is later.  If your rental or lease agreement expires
+            
+173
+
+    
+after the 90-day period, you may need to provide a copy of your rental or lease agreement to the
+            
+174
+
+    
+new owner to prove your right to remain on the property longer than 90 days after the sale of
+            
+175
+
+    
+the property.
+            
+176
+
+    
+    You must continue to pay your rent and comply with other requirements of your rental
+            
+177
+
+    
+or lease agreement or you will be subject to eviction for violating your rental or lease
+            
+178
+
+    
+agreement.
+            
+179
+
+    
+    The new owner or the new owner's representative will probably contact you after the
+            
+180
+
+    
+property is sold with directions about where to pay rent.
+            
+181
+
+    
+    The new owner of the property may or may not want to offer to enter into a new rental
+            
+182
+
+    
+or lease agreement with you at the expiration of the period described above."
+            
+183
+
+    
+    (4)  The failure to provide notice as required under Subsections (1)(c) and (3)(b) or a
+            
+184
+
+    
+defect in that notice may not be the basis for challenging or invaliding a trustee's sale.
+            
+185
+
+    
+    (5)  A trustee qualified under Subsection 
+
+57-1-21
+
+(1)(a)(i) or (iv) who exercises a power
+            
+186
+
+    
+of sale has a duty to the trustor not to defraud, or conspire or scheme to defraud, the trustor.
+[Bill Documents][Bills Directory]
+
+
+
+
+
+
+
+
+
+Who represents me?
+
+
+
+
+
+Remember my Legislators
+
+
+
+
+
+State Senate
+		350 North State, Suite 320
+		PO Box 145115
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1035
+		Fax: (801) 326-1475
+
+
+
+House of Representatives
+		350 North State, Suite 350
+		PO Box 145030
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1029
+		Fax: (801) 326-1544
+
+
+
+
+
+
+
+
+
+
+Home
+Mobile Site
+Site Map
+Calendar
+Code / Constitution
+House
+Senate
+
+Terms of Use/Privacy Policy
+
+ADA
+Utah.gov
+
+
+
+
+
+
+

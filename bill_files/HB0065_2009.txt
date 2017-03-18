@@ -1,0 +1,7384 @@
+Sponsors: []Modifications: The(j)(k)(l)(l)(m)(m)(n)(o)(o)(o)(o)(o)(o)(o)(o)(p)(p)(o)(o)an estimate of(l)This bill takes effect on July 1, 2009.Full text:
+
+
+
+Utah State Legislature
+
+
+
+
+
+
+
+
+
+
+
+
+Legislators
+
+By Session (1896-Current)
+Alphabetical (Historical)
+Find by Address/Map
+More
+
+
+Bills
+
+Bills/Bill Requests
+Passed Bills
+2017 Bills
+
+Keyword Search
+Reading Calendars
+Tracking Service
+More
+
+
+Committees
+
+All Committees
+Appropriations
+Commissions
+
+Independent Legislative Ethics Commission
+Interim
+Standing
+Subcommittees
+Task Forces
+Bills In Committees
+
+
+Utah Code / Constitution
+
+
+Title/Chapter/Section
+Keyword Search 
+
+Utah Constitution
+Laws of Utah 1851-ongoing
+Utah Territorial Laws 
+More
+
+
+Senate
+
+Main Page 
+About The Senate 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Extraordinary Sessions 
+Reading Calendars 
+Past Floor Debates 
+Senate Journals 
+
+
+House
+
+Main Page
+About the House 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Reading Calendars 
+Past Floor Debates 
+Journals 
+Conflict of Interest Forms 
+
+
+Legislative Guide 
+
+Legislative Guide
+Civic Programs
+GRAMA (Records Requests)
+
+
+Publications
+
+Search Publications
+Appropriations
+Audits
+Bagels & Briefings
+Briefing Papers
+Digest of Legislation
+Legislative Drafting Manual
+
+Journals
+
+Interim Highlights
+
+Legislative Rules
+GRAMA (Records Requests)
+Public Email
+State Organization Charts
+YouTube Channel
+Requests for Proposals and Legal Notices
+More
+
+
+Legislative Histories
+
+Legislative History Resources
+How to Research
+Bill Drafting/Research Files (1990-Ongoing)
+
+Working Bills (1896-1989)
+Interim Committee Histories (1990-Ongoing) 
+Journals
+Past House Floor Debates
+Past Senate Floor Debates
+More
+
+
+Staff Offices
+
+All Legislative Offices
+Auditor General
+Fiscal Analyst
+Printing
+Research and General Counsel
+Staff Awards
+Job Opportunities
+More
+
+
+Links of Interest
+
+Utah Administrative Rules
+Courts
+Utah State Capitol
+State of Utah
+Federal Legislation
+More
+
+
+
+
+
+
+ 
+
+Download Zipped Introduced WordPerfect HB0065.ZIP
+[Status][Bill Documents][Fiscal Note][Bills Directory]
+
+
+H.B. 65
+
+
+
+
+
+            
+1
+
+    
+ REPORTING OF CERTAIN TRANSACTIONS
+
+            
+2
+
+    
+ EXEMPT FROM SALES AND USE TAXES
+
+
+
+            
+3
+
+    
+2009 GENERAL SESSION
+
+            
+4
+
+    
+STATE OF UTAH
+
+            
+5
+
+    
+
+
+ Chief Sponsor:  Julie Fisher
+
+
+
+            
+6
+
+    
+
+
+
+Senate Sponsor: 
+
+
+
+
+
+
+  Curtis S. Bramble
+
+
+
+
+
+            
+7
+
+    
+
+            
+8
+
+    
+ LONG TITLE
+            
+9
+
+    
+ Committee Note:
+            
+10
+
+    
+    The Revenue and Taxation Interim Committee recommended this bill.
+            
+11
+
+    
+ General Description:
+            
+12
+
+    
+    This bill amends the Penalties, Interest, and Confidentiality of Information part and the
+            
+13
+
+    
+Sales and Use Tax Act relating to reporting requirements for certain transactions
+            
+14
+
+    
+exempt from sales and use taxes.
+            
+15
+
+    
+ Highlighted Provisions:
+            
+16
+
+    
+    This bill:
+            
+17
+
+    
+    .    repeals the requirement for an owner or purchaser to report transactions exempt
+            
+18
+
+    
+from state and local sales and use taxes with respect to:
+            
+19
+
+    
+        .    exemptions for certain machinery, equipment, or parts; and
+            
+20
+
+    
+        .    the exemption relating to semiconductors;
+            
+21
+
+    
+    .    repeals penalty provisions relating to the transaction reporting requirements that are
+            
+22
+
+    
+repealed;
+            
+23
+
+    
+    .    repeals the requirement that the State Tax Commission provide to the Legislature
+            
+24
+
+    
+the total amount of sales or uses:
+            
+25
+
+    
+        .    exempt under the exemption relating to semiconductors; and
+            
+26
+
+    
+        .    reported to the commission in accordance with the transaction reporting
+            
+27
+
+    
+requirements that are repealed;
+
+            
+28
+
+
+    
+    .    requires the State Tax Commission to estimate the cost of the exemptions for
+            
+29
+
+    
+certain machinery, equipment, or parts for purposes of reviewing the exemptions
+            
+30
+
+    
+and reporting to the Revenue and Taxation Interim Committee; and
+            
+31
+
+    
+    .    makes technical changes.
+            
+32
+
+    
+ Monies Appropriated in this Bill:
+            
+33
+
+    
+    None
+            
+34
+
+    
+ Other Special Clauses:
+            
+35
+
+    
+    This bill takes effect on July 1, 2009.
+            
+36
+
+    
+ Utah Code Sections Affected:
+            
+37
+
+    
+AMENDS:
+            
+38
+
+    
+     59-1-401, as last amended by Laws of Utah 2008, Chapter 382
+            
+39
+
+    
+     59-1-403, as last amended by Laws of Utah 2008, Chapters 3, 382, and 384
+            
+40
+
+    
+     59-12-104, as last amended by Laws of Utah 2008, Second Special Session, Chapter 2
+            
+41
+
+    
+     62A-11-328, as last amended by Laws of Utah 2007, Chapter 250
+            
+42
+
+    
+REPEALS:
+            
+43
+
+    
+     59-12-105, as last amended by Laws of Utah 2008, Chapter 384
+            
+44
+
+    
+
+            
+45
+
+    
+Be it enacted by the Legislature of the state of Utah:
+            
+46
+
+    
+    Section 1.  
+Section  
+59-1-401
+
+ is amended to read:
+            
+47
+
+    
+     59-1-401.  Definitions -- Offenses and penalties -- Rulemaking authority -- Statute
+            
+48
+
+    
+ of limitations -- Commission authority to waive, reduce, or compromise penalty or
+            
+49
+
+    
+ interest.
+            
+50
+
+    
+    (1)  As used in this section:
+            
+51
+
+    
+    (a) (i)  "Nonqualifying obligation" means a charge, fee, payment, or tax administered by
+            
+52
+
+    
+the commission.
+            
+53
+
+    
+    (ii)  "Nonqualifying obligation" does not include:
+            
+54
+
+    
+    (A)  beginning on the phase I activation date, a phase I obligation; or
+            
+55
+
+    
+    (B)  beginning on the phase II activation date, a phase II obligation.
+            
+56
+
+    
+    (b)  "Phase I activation date" means the earlier of:
+            
+57
+
+    
+    (i)  the day on which the commission's GenTax system is activated to administer all
+            
+58
+
+    
+phase I obligations; or
+
+            
+59
+
+
+    
+    (ii)  May 1, 2008.
+            
+60
+
+    
+    (c)  "Phase I obligation" means:
+            
+61
+
+    
+    (i)  a fee under Section 
+
+19-6-808
+
+;
+            
+62
+
+    
+    (ii)  a tax under Chapter 10, Part 1, Determination and Reporting of Tax Liability and
+            
+63
+
+    
+Information;
+            
+64
+
+    
+    (iii)  a tax under Chapter 10, Part 2, Trusts and Estates;
+            
+65
+
+    
+    (iv)  a tax under Chapter 10, Part 12, Single Rate Individual Income Tax Act; or
+            
+66
+
+    
+    (v)  a tax under Chapter 12, Sales and Use Tax Act.
+            
+67
+
+    
+    (d)  "Phase II activation date" means the earlier of:
+            
+68
+
+    
+    (i)  the day on which the commission's GenTax system is activated to administer all
+            
+69
+
+    
+phase II obligations; or
+            
+70
+
+    
+    (ii)  May 4, 2009.
+            
+71
+
+    
+    (e) (i)  "Phase II obligation" means:
+            
+72
+
+    
+    (A)  a payment under Chapter 6, Mineral Production Tax Withholding;
+            
+73
+
+    
+    (B)  a tax under Chapter 7, Corporate Franchise and Income Taxes;
+            
+74
+
+    
+    (C)  a payment under Chapter 10, Part 4, Withholding of Tax; or
+            
+75
+
+    
+    (D)  a tax paid on a return filed in accordance with Section 
+
+59-10-507
+
+.
+            
+76
+
+    
+    (ii)  "Phase II obligation" does not include a payment of estimated tax under Section
+            
+77
+
+    
+
+59-7-504
+
+.
+            
+78
+
+    
+    (2) (a)  The due date for filing a return is:
+            
+79
+
+    
+    (i)  if the person filing the return is not allowed by law an extension of time for filing
+            
+80
+
+    
+the return, the day on which the return is due as provided by law; or
+            
+81
+
+    
+    (ii)  if the person filing the return is allowed by law an extension of time for filing the
+            
+82
+
+    
+return, the last day of that extension of time.
+            
+83
+
+    
+    (b) (i)  A penalty in the amount described in Subsection (2)(b)(ii) is imposed if:
+            
+84
+
+    
+    (A)  a person is required to file a return with respect to a nonqualifying obligation; and
+            
+85
+
+    
+    (B)  the person described in Subsection (2)(b)(i)(A) files the return after the due date
+            
+86
+
+    
+described in Subsection (2)(a).
+            
+87
+
+    
+    (ii)  For purposes of Subsection (2)(b)(i), the penalty is an amount equal to the greater
+            
+88
+
+    
+of:
+            
+89
+
+    
+    (A)  $20; or
+
+            
+90
+
+
+    
+    (B)  10% of the unpaid nonqualifying obligation due on the return.
+            
+91
+
+    
+    (c) (i)  A penalty in the amount described in Subsection (2)(c)(ii) is imposed if a person:
+            
+92
+
+    
+    (A) (I)  is required to file a return:
+            
+93
+
+    
+    (Aa)  on or after the phase I activation date; and
+            
+94
+
+    
+    (Bb)  with respect to a phase I obligation; and
+            
+95
+
+    
+    (II)  files the return after the due date described in Subsection (2)(a); or
+            
+96
+
+    
+    (B) (I)  is required to file a return:
+            
+97
+
+    
+    (Aa)  on or after the phase II activation date; and
+            
+98
+
+    
+    (Bb)  with respect to a phase II obligation; and
+            
+99
+
+    
+    (II)  files the return after the due date described in Subsection (2)(a).
+            
+100
+
+    
+    (ii)  For purposes of Subsection (2)(c)(i), the penalty is an amount equal to the greater
+            
+101
+
+    
+of:
+            
+102
+
+    
+    (A)  $20; or
+            
+103
+
+    
+    (B) (I)  2% of the unpaid phase I obligation or phase II obligation due on the return if
+            
+104
+
+    
+the return is filed no later than five days after the due date described in Subsection (2)(a);
+            
+105
+
+    
+    (II)  5% of the unpaid phase I obligation or phase II obligation due on the return if the
+            
+106
+
+    
+return is filed more than five days after the due date but no later than 15 days after the due date
+            
+107
+
+    
+described in Subsection (2)(a); or
+            
+108
+
+    
+    (III)  10% of the unpaid phase I obligation or phase II obligation due on the return if the
+            
+109
+
+    
+return is filed more than 15 days after the due date described in Subsection (2)(a).
+            
+110
+
+    
+    (d)  This Subsection (2) does not apply to:
+            
+111
+
+    
+    (i)  an amended return; or
+            
+112
+
+    
+    (ii)  a return with no tax due.
+            
+113
+
+    
+    (3) (a)  If a person fails to pay a tax, fee, or charge due, the person is subject to a penalty
+            
+114
+
+    
+as provided in this Subsection (3).
+            
+115
+
+    
+    (b) (i)  A penalty in the amount described in Subsection (3)(b)(ii) is imposed if:
+            
+116
+
+    
+    (A)  a person files a return with respect to a nonqualifying obligation on or before the
+            
+117
+
+    
+due date for filing a return described in Subsection (2)(a), but fails to pay the nonqualifying
+            
+118
+
+    
+obligation due on the return on or before that due date;
+            
+119
+
+    
+    (B)  a person:
+            
+120
+
+    
+    (I)  is subject to a penalty under Subsection (2)(b); and
+
+            
+121
+
+
+    
+    (II)  fails to pay a nonqualifying obligation due on a return within a 90-day period after
+            
+122
+
+    
+the due date for filing a return described in Subsection (2)(a);
+            
+123
+
+    
+    (C)  a person:
+            
+124
+
+    
+    (I)  is mailed a notice of deficiency; and
+            
+125
+
+    
+    (II)  within a 30-day period after the day on which the notice of deficiency described in
+            
+126
+
+    
+Subsection (3)(b)(i)(C)(I) is mailed:
+            
+127
+
+    
+    (Aa)  does not file a petition for redetermination or a request for agency action; and
+            
+128
+
+    
+    (Bb)  fails to pay a nonqualifying obligation due on a return;
+            
+129
+
+    
+    (D) (I)  the commission:
+            
+130
+
+    
+    (Aa)  issues an order constituting final agency action resulting from a timely filed
+            
+131
+
+    
+petition for redetermination or a timely filed request for agency action; or
+            
+132
+
+    
+    (Bb)  is considered to have denied a request for reconsideration under Subsection
+            
+133
+
+    
+
+63G-4-302
+
+(3)(b) resulting from a timely filed petition for redetermination or a timely filed
+            
+134
+
+    
+request for agency action; and
+            
+135
+
+    
+    (II)  a person fails to pay a nonqualifying obligation due on a return within a 30-day
+            
+136
+
+    
+period after the date the commission:
+            
+137
+
+    
+    (Aa)  issues the order constituting final agency action described in Subsection
+            
+138
+
+    
+(3)(b)(i)(D)(I)(Aa); or
+            
+139
+
+    
+    (Bb)  is considered to have denied the request for reconsideration described in
+            
+140
+
+    
+Subsection (3)(b)(i)(D)(I)(Bb); or
+            
+141
+
+    
+    (E)  a person fails to pay a nonqualifying obligation within a 30-day period after the
+            
+142
+
+    
+date of a final judicial decision resulting from a timely filed petition for judicial review.
+            
+143
+
+    
+    (ii)  For purposes of Subsection (3)(b)(i), the penalty is an amount equal to the greater
+            
+144
+
+    
+of:
+            
+145
+
+    
+    (A)  $20; or
+            
+146
+
+    
+    (B)  10% of the unpaid nonqualifying obligation due on the return.
+            
+147
+
+    
+    (c) (i)  This Subsection (3)(c) applies to a penalty:
+            
+148
+
+    
+    (A)  imposed on or after the phase I activation date with respect to a phase I obligation;
+            
+149
+
+    
+or
+            
+150
+
+    
+    (B)  imposed on or after the phase II activation date with respect to a phase II
+            
+151
+
+    
+obligation.
+
+            
+152
+
+
+    
+    (ii) (A)  The penalty described in Subsection (3)(c)(ii)(B) applies if a person:
+            
+153
+
+    
+    (I)  with respect to a phase I obligation:
+            
+154
+
+    
+    (Aa)  files a return on or before the due date for filing a return described in Subsection
+            
+155
+
+    
+(2)(a); and
+            
+156
+
+    
+    (Bb)  fails to pay the phase I obligation due on the return on or before the due date
+            
+157
+
+    
+described in Subsection (2)(a); or
+            
+158
+
+    
+    (II)  with respect to a phase II obligation:
+            
+159
+
+    
+    (Aa)  files a return on or before the due date for filing a return described in Subsection
+            
+160
+
+    
+(2)(a); and
+            
+161
+
+    
+    (Bb)  fails to pay the phase II obligation due on the return on or before the due date
+            
+162
+
+    
+described in Subsection (2)(a).
+            
+163
+
+    
+    (B)  For purposes of Subsection (3)(c)(ii)(A), the penalty is an amount equal to the
+            
+164
+
+    
+greater of:
+            
+165
+
+    
+    (I)  $20; or
+            
+166
+
+    
+    (II) (Aa)  2% of the unpaid phase I obligation or phase II obligation due on the return if
+            
+167
+
+    
+the phase I obligation or phase II obligation due on the return is paid no later than five days
+            
+168
+
+    
+after the due date for filing a return described in Subsection (2)(a);
+            
+169
+
+    
+    (Bb)  5% of the unpaid phase I obligation or phase II obligation due on the return if the
+            
+170
+
+    
+phase I obligation or phase II obligation due on the return is paid more than five days after the
+            
+171
+
+    
+due date for filing a return described in Subsection (2)(a) but no later than 15 days after that
+            
+172
+
+    
+due date; or
+            
+173
+
+    
+    (Cc)  10% of the unpaid phase I obligation or phase II obligation due on the return if the
+            
+174
+
+    
+phase I obligation or phase II obligation due on the return is paid more than 15 days after the
+            
+175
+
+    
+due date for filing a return described in Subsection (2)(a).
+            
+176
+
+    
+    (iii) (A)  A person is subject to a penalty as provided in Subsection (3)(c)(iii)(B) if the
+            
+177
+
+    
+person:
+            
+178
+
+    
+    (I)  is subject to a penalty under Subsection (2)(c); and
+            
+179
+
+    
+    (II)  fails to pay a phase I obligation or phase II obligation due on a return within a
+            
+180
+
+    
+90-day period after the due date for filing a return described in Subsection (2)(a).
+            
+181
+
+    
+    (B)  For purposes of Subsection (3)(c)(iii)(A), the penalty is an amount equal to the
+            
+182
+
+    
+greater of:
+
+            
+183
+
+
+    
+    (I)  $20; or
+            
+184
+
+    
+    (II) (Aa)  2% of the unpaid phase I obligation or phase II obligation due on the return if
+            
+185
+
+    
+the phase I obligation or phase II obligation due on the return is paid no later than five days
+            
+186
+
+    
+after the last day of the 90-day period described in Subsection (3)(c)(iii)(A)(II);
+            
+187
+
+    
+    (Bb)  5% of the unpaid phase I obligation or phase II obligation due on the return if the
+            
+188
+
+    
+phase I obligation or phase II obligation due on the return is paid more than five days after the
+            
+189
+
+    
+last day of the 90-day period described in Subsection (3)(c)(iii)(A)(II) but no later than 15 days
+            
+190
+
+    
+after the last day of the 90-day period described in Subsection (3)(c)(iii)(A)(II); or
+            
+191
+
+    
+    (Cc)  10% of the unpaid phase I obligation or phase II obligation due on the return if the
+            
+192
+
+    
+phase I obligation or phase II obligation due on the return is paid more than 15 days after the
+            
+193
+
+    
+last day of the 90-day period described in Subsection (3)(c)(iii)(A)(II).
+            
+194
+
+    
+    (iv) (A)  A person is subject to a penalty as provided in Subsection (3)(c)(iv)(B) if the
+            
+195
+
+    
+person:
+            
+196
+
+    
+    (I)  is mailed a notice of deficiency; and
+            
+197
+
+    
+    (II)  within a 30-day period after the day on which the notice of deficiency described in
+            
+198
+
+    
+Subsection (3)(c)(iv)(A)(I) is mailed:
+            
+199
+
+    
+    (Aa)  does not file a petition for redetermination or a request for agency action; and
+            
+200
+
+    
+    (Bb)  fails to pay a phase I obligation or phase II obligation due on a return.
+            
+201
+
+    
+    (B)  For purposes of Subsection (3)(c)(iv)(A), the penalty is an amount equal to the
+            
+202
+
+    
+greater of:
+            
+203
+
+    
+    (I)  $20; or
+            
+204
+
+    
+    (II) (Aa)  2% of the unpaid phase I obligation or phase II obligation due on the return if
+            
+205
+
+    
+the phase I obligation or phase II obligation due on the return is paid no later than five days
+            
+206
+
+    
+after the last day of the 30-day period described in Subsection (3)(c)(iv)(A)(II);
+            
+207
+
+    
+    (Bb)  5% of the unpaid phase I obligation or phase II obligation due on the return if the
+            
+208
+
+    
+phase I obligation or phase II obligation due on the return is paid more than five days after the
+            
+209
+
+    
+last day of the 30-day period described in Subsection (3)(c)(iv)(A)(II) but no later than 15 days
+            
+210
+
+    
+after the last day of the 30-day period described in Subsection (3)(c)(iv)(A)(II); or
+            
+211
+
+    
+    (Cc)  10% of the unpaid phase I obligation or phase II obligation due on the return if the
+            
+212
+
+    
+phase I obligation or phase II obligation due on the return is paid more than 15 days after the
+            
+213
+
+    
+last day of the 30-day period described in Subsection (3)(c)(iv)(A)(II).
+
+            
+214
+
+
+    
+    (v) (A)  A person is subject to a penalty as provided in Subsection (3)(c)(v)(B) if:
+            
+215
+
+    
+    (I)  the commission:
+            
+216
+
+    
+    (Aa)  issues an order constituting final agency action resulting from a timely filed
+            
+217
+
+    
+petition for redetermination or a timely filed request for agency action; or
+            
+218
+
+    
+    (Bb)  is considered to have denied a request for reconsideration under Subsection
+            
+219
+
+    
+
+63G-4-302
+
+(3)(b) resulting from a timely filed petition for redetermination or a timely filed
+            
+220
+
+    
+request for agency action; and
+            
+221
+
+    
+    (II)  the person fails to pay a phase I obligation or phase II obligation due on a return
+            
+222
+
+    
+within a 30-day period after the date the commission:
+            
+223
+
+    
+    (Aa)  issues the order constituting final agency action described in Subsection
+            
+224
+
+    
+(3)(c)(v)(A)(I)(Aa); or
+            
+225
+
+    
+    (Bb)  is considered to have denied the request for reconsideration described in
+            
+226
+
+    
+Subsection (3)(c)(v)(A)(I)(Bb).
+            
+227
+
+    
+    (B)  For purposes of Subsection (3)(c)(v)(A), the penalty is an amount equal to the
+            
+228
+
+    
+greater of:
+            
+229
+
+    
+    (I)  $20; or
+            
+230
+
+    
+    (II) (Aa)  2% of the unpaid phase I obligation or phase II obligation due on the return if
+            
+231
+
+    
+the phase I obligation or phase II obligation due on the return is paid no later than five days
+            
+232
+
+    
+after the last day of the 30-day period described in Subsection (3)(c)(v)(A)(II);
+            
+233
+
+    
+    (Bb)  5% of the unpaid phase I obligation or phase II obligation due on the return if the
+            
+234
+
+    
+phase I obligation or phase II obligation due on the return is paid more than five days after the
+            
+235
+
+    
+last day of the 30-day period described in Subsection (3)(c)(v)(A)(II) but no later than 15 days
+            
+236
+
+    
+after the last day of the 30-day period described in Subsection (3)(c)(v)(A)(II); or
+            
+237
+
+    
+    (Cc)  10% of the unpaid phase I obligation or phase II obligation due on the return if the
+            
+238
+
+    
+phase I obligation or phase II obligation due on the return is paid more than 15 days after the
+            
+239
+
+    
+last day of the 30-day period described in Subsection (3)(c)(v)(A)(II).
+            
+240
+
+    
+    (vi) (A)  A person is subject to a penalty as provided in Subsection (3)(c)(vi)(B) if
+            
+241
+
+    
+within a 30-day period after the date of a final judicial decision resulting from a timely filed
+            
+242
+
+    
+petition for judicial review, the person fails to pay a phase I obligation or phase II obligation.
+            
+243
+
+    
+    (B)  For purposes of Subsection (3)(c)(vi)(A), the penalty is an amount equal to the
+            
+244
+
+    
+greater of:
+
+            
+245
+
+
+    
+    (I)  $20; or
+            
+246
+
+    
+    (II) (Aa)  2% of the unpaid phase I obligation or phase II obligation due on the return if
+            
+247
+
+    
+the phase I obligation or phase II obligation due on the return is paid no later than five days
+            
+248
+
+    
+after the last day of the 30-day period described in Subsection (3)(c)(vi)(A);
+            
+249
+
+    
+    (Bb)  5% of the unpaid phase I obligation or phase II obligation due on the return if the
+            
+250
+
+    
+phase I obligation or phase II obligation due on the return is paid more than five days after the
+            
+251
+
+    
+last day of the 30-day period described in Subsection (3)(c)(vi)(A) but no later than 15 days
+            
+252
+
+    
+after the last day of the 30-day period described in Subsection (3)(c)(vi)(A); or
+            
+253
+
+    
+    (Cc)  10% of the unpaid phase I obligation or phase II obligation due on the return if the
+            
+254
+
+    
+phase I obligation or phase II obligation due on the return is paid more than 15 days after the
+            
+255
+
+    
+last day of the 30-day period described in Subsection (3)(c)(vi)(A).
+            
+256
+
+    
+    (4) (a)  Beginning January 1, 1995, in the case of any underpayment of estimated tax or
+            
+257
+
+    
+quarterly installments required by Sections 
+
+59-5-107
+
+, 
+
+59-5-207
+
+, 
+
+59-7-504
+
+, and 
+
+59-9-104
+
+, there
+            
+258
+
+    
+shall be added a penalty in an amount determined by applying the interest rate provided under
+            
+259
+
+    
+Section 
+
+59-1-402
+
+ plus four percentage points to the amount of the underpayment for the period
+            
+260
+
+    
+of the underpayment.
+            
+261
+
+    
+    (b) (i)  For purposes of Subsection (4)(a), the amount of the underpayment shall be the
+            
+262
+
+    
+excess of the required installment over the amount, if any, of the installment paid on or before
+            
+263
+
+    
+the due date for the installment.
+            
+264
+
+    
+    (ii)  The period of the underpayment shall run from the due date for the installment to
+            
+265
+
+    
+whichever of the following dates is the earlier:
+            
+266
+
+    
+    (A)  the original due date of the tax return, without extensions, for the taxable year; or
+            
+267
+
+    
+    (B)  with respect to any portion of the underpayment, the date on which that portion is
+            
+268
+
+    
+paid.
+            
+269
+
+    
+    (iii)  For purposes of this Subsection (4), a payment of estimated tax shall be credited
+            
+270
+
+    
+against unpaid required installments in the order in which the installments are required to be
+            
+271
+
+    
+paid.
+            
+272
+
+    
+    (5) (a)  Notwithstanding Subsection (2) and except as provided in Subsection (6), a
+            
+273
+
+    
+person allowed by law an extension of time for filing a corporate franchise or income tax return
+            
+274
+
+    
+under Chapter 7, Corporate Franchise and Income Taxes, or an individual income tax return
+            
+275
+
+    
+under Chapter 10, Individual Income Tax Act, is subject to a penalty in the amount described in
+
+            
+276
+
+
+    
+Subsection (5)(b) if, on or before the day on which the return is due as provided by law, not
+            
+277
+
+    
+including the extension of time, the person fails to pay:
+            
+278
+
+    
+    (i)  for a person filing a corporate franchise or income tax return under Chapter 7,
+            
+279
+
+    
+Corporate Franchise and Income Taxes, the payment required by Subsection 
+
+59-7-507
+
+(1)(b); or
+            
+280
+
+    
+    (ii)  for a person filing an individual income tax return under Chapter 10, Individual
+            
+281
+
+    
+Income Tax Act, the payment required by Subsection 
+
+59-10-516
+
+(2).
+            
+282
+
+    
+    (b)  For purposes of Subsection (5)(a), the penalty per month during the period of the
+            
+283
+
+    
+extension of time for filing the return is an amount equal to 2% of the unpaid tax due on the
+            
+284
+
+    
+return.
+            
+285
+
+    
+    (6)  If a person does not file a return within an extension of time allowed by Section
+            
+286
+
+    
+
+59-7-505
+
+ or 
+
+59-10-516
+
+, the person:
+            
+287
+
+    
+    (a)  is not subject to a penalty in the amount described in Subsection (5)(b); and
+            
+288
+
+    
+    (b)  is subject to a penalty in an amount equal to the sum of:
+            
+289
+
+    
+    (i)  a late file penalty in an amount equal to the greater of:
+            
+290
+
+    
+    (A)  $20; or
+            
+291
+
+    
+    (B)  10% of the unpaid tax due on the return; and
+            
+292
+
+    
+    (ii)  a late pay penalty in an amount equal to the greater of:
+            
+293
+
+    
+    (A)  $20; or
+            
+294
+
+    
+    (B)  10% of the unpaid tax due on the return.
+            
+295
+
+    
+    (7) (a)  Additional penalties for underpayments of tax are as provided in this Subsection
+            
+296
+
+    
+(7)(a).
+            
+297
+
+    
+    (i)  Except as provided in Subsection (7)(c), if any underpayment of tax is due to
+            
+298
+
+    
+negligence, the penalty is 10% of the underpayment.
+            
+299
+
+    
+    (ii)  Except as provided in Subsection (7)(d), if any underpayment of tax is due to
+            
+300
+
+    
+intentional disregard of law or rule, the penalty is 15% of the underpayment.
+            
+301
+
+    
+    (iii)  For intent to evade the tax, the penalty is the greater of $500 per period or 50% of
+            
+302
+
+    
+the tax due.
+            
+303
+
+    
+    (iv)  If the underpayment is due to fraud with intent to evade the tax, the penalty is the
+            
+304
+
+    
+greater of $500 per period or 100% of the underpayment.
+            
+305
+
+    
+    (b)  If the commission determines that a person is liable for a penalty imposed under
+            
+306
+
+    
+Subsection (7)(a)(ii), (iii), or (iv), the commission shall notify the taxpayer of the proposed
+
+            
+307
+
+
+    
+penalty.
+            
+308
+
+    
+    (i)  The notice of proposed penalty shall:
+            
+309
+
+    
+    (A)  set forth the basis of the assessment; and
+            
+310
+
+    
+    (B)  be mailed by certified mail, postage prepaid, to the person's last-known address.
+            
+311
+
+    
+    (ii)  Upon receipt of the notice of proposed penalty, the person against whom the
+            
+312
+
+    
+penalty is proposed may:
+            
+313
+
+    
+    (A)  pay the amount of the proposed penalty at the place and time stated in the notice;
+            
+314
+
+    
+or
+            
+315
+
+    
+    (B)  proceed in accordance with the review procedures of Subsection (7)(b)(iii).
+            
+316
+
+    
+    (iii)  Any person against whom a penalty has been proposed in accordance with this
+            
+317
+
+    
+Subsection (7) may contest the proposed penalty by filing a petition for an adjudicative
+            
+318
+
+    
+proceeding with the commission.
+            
+319
+
+    
+    (iv) (A) If the commission determines that a person is liable for a penalty under this
+            
+320
+
+    
+Subsection (7), the commission shall assess the penalty and give notice and demand for
+            
+321
+
+    
+payment.
+            
+322
+
+    
+    (B)  The notice and demand for payment described in Subsection (7)(b)(iv)(A) shall be
+            
+323
+
+    
+mailed by certified mail, postage prepaid, to the person's last-known address.
+            
+324
+
+    
+    (c) A seller that voluntarily collects a tax under Subsection 
+
+59-12-107
+
+(1)(b) is not
+            
+325
+
+    
+subject to the penalty under Subsection (7)(a)(i) if on or after July 1, 2001:
+            
+326
+
+    
+    (i)  a court of competent jurisdiction issues a final unappealable judgment or order
+            
+327
+
+    
+determining that:
+            
+328
+
+    
+    (A)  the seller meets one or more of the criteria described in Subsection
+            
+329
+
+    
+
+59-12-107
+
+(1)(a); and
+            
+330
+
+    
+    (B)  the commission or a county, city, or town may require the seller to collect a tax
+            
+331
+
+    
+under Subsection 
+
+59-12-103
+
+(2)(a) or (b); or
+            
+332
+
+    
+    (ii)  the commission issues a final unappealable administrative order determining that:
+            
+333
+
+    
+    (A)  the seller meets one or more of the criteria described in Subsection
+            
+334
+
+    
+
+59-12-107
+
+(1)(a); and
+            
+335
+
+    
+    (B)  the commission or a county, city, or town may require the seller to collect a tax
+            
+336
+
+    
+under Subsection 
+
+59-12-103
+
+(2)(a) or (b).
+            
+337
+
+    
+    (d) A seller that voluntarily collects a tax under Subsection 
+
+59-12-107
+
+(1)(b) is not
+
+            
+338
+
+
+    
+subject to the penalty under Subsection (7)(a)(ii) if:
+            
+339
+
+    
+    (i) (A)  a court of competent jurisdiction issues a final unappealable judgment or order
+            
+340
+
+    
+determining that:
+            
+341
+
+    
+    (I)  the seller meets one or more of the criteria described in Subsection 
+
+59-12-107
+
+(1)(a);
+            
+342
+
+    
+and
+            
+343
+
+    
+    (II)  the commission or a county, city, or town may require the seller to collect a tax
+            
+344
+
+    
+under Subsection 
+
+59-12-103
+
+(2)(a) or (b); or
+            
+345
+
+    
+    (B)  the commission issues a final unappealable administrative order determining that:
+            
+346
+
+    
+    (I)  the seller meets one or more of the criteria described in Subsection 
+
+59-12-107
+
+(1)(a);
+            
+347
+
+    
+and
+            
+348
+
+    
+    (II)  the commission or a county, city, or town may require the seller to collect a tax
+            
+349
+
+    
+under Subsection 
+
+59-12-103
+
+(2)(a) or (b); and
+            
+350
+
+    
+    (ii)  the seller's intentional disregard of law or rule is warranted by existing law or by a
+            
+351
+
+    
+nonfrivolous argument for the extension, modification, or reversal of existing law or the
+            
+352
+
+    
+establishment of new law.
+            
+353
+
+    
+    (8)  [Except as provided in Section 
+
+59-12-105
+
+, the] The penalty for failure to file an
+            
+354
+
+    
+information return, information report, or a complete supporting schedule is $50 for each
+            
+355
+
+    
+information return, information report, or supporting schedule up to a maximum of $1,000.
+            
+356
+
+    
+    (9)  If any taxpayer, in furtherance of a frivolous position, has a prima facie intent to
+            
+357
+
+    
+delay or impede administration of the tax law and files a purported return that fails to contain
+            
+358
+
+    
+information from which the correctness of reported tax liability can be determined or that
+            
+359
+
+    
+clearly indicates that the tax liability shown must be substantially incorrect, the penalty is $500.
+            
+360
+
+    
+    (10) (a)  A seller that fails to remit a tax, fee, or charge monthly as required by
+            
+361
+
+    
+Subsection 
+
+59-12-108
+
+(1)(a)(ii):
+            
+362
+
+    
+    (i)  is subject to a penalty described in Subsection (2); and
+            
+363
+
+    
+    (ii)  may not retain the percentage of sales and use taxes that would otherwise be
+            
+364
+
+    
+allowable under Subsection 
+
+59-12-108
+
+(2).
+            
+365
+
+    
+    (b)  A seller that fails to remit a tax, fee, or charge by electronic funds transfer as
+            
+366
+
+    
+required by Subsection 
+
+59-12-108
+
+(1)(a)(ii)(B):
+            
+367
+
+    
+    (i)  is subject to a penalty described in Subsection (2); and
+            
+368
+
+    
+    (ii)  may not retain the percentage of sales and use taxes that would otherwise be
+
+            
+369
+
+
+    
+allowable under Subsection 
+
+59-12-108
+
+(2).
+            
+370
+
+    
+    (11) (a)  A person is subject to the penalty provided in Subsection (11)(c) if that person:
+            
+371
+
+    
+    (i)  commits an act described in Subsection (11)(b) with respect to one or more of the
+            
+372
+
+    
+following documents:
+            
+373
+
+    
+    (A)  a return;
+            
+374
+
+    
+    (B)  an affidavit;
+            
+375
+
+    
+    (C)  a claim; or
+            
+376
+
+    
+    (D)  a document similar to Subsections (11)(a)(i)(A) through (C);
+            
+377
+
+    
+    (ii)  knows or has reason to believe that the document described in Subsection (11)(a)(i)
+            
+378
+
+    
+will be used in connection with any material matter administered by the commission; and
+            
+379
+
+    
+    (iii)  knows that the document described in Subsection (11)(a)(i), if used in connection
+            
+380
+
+    
+with any material matter administered by the commission, would result in an understatement of
+            
+381
+
+    
+another person's liability for a tax, fee, or charge administered by the commission.
+            
+382
+
+    
+    (b)  The following acts apply to Subsection (11)(a)(i):
+            
+383
+
+    
+    (i)  preparing any portion of a document described in Subsection (11)(a)(i);
+            
+384
+
+    
+    (ii)  presenting any portion of a document described in Subsection (11)(a)(i);
+            
+385
+
+    
+    (iii)  procuring any portion of a document described in Subsection (11)(a)(i);
+            
+386
+
+    
+    (iv)  advising in the preparation or presentation of any portion of a document described
+            
+387
+
+    
+in Subsection (11)(a)(i);
+            
+388
+
+    
+    (v)  aiding in the preparation or presentation of any portion of a document described in
+            
+389
+
+    
+Subsection (11)(a)(i);
+            
+390
+
+    
+    (vi)  assisting in the preparation or presentation of any portion of a document described
+            
+391
+
+    
+in Subsection (11)(a)(i); or
+            
+392
+
+    
+    (vii)  counseling in the preparation or presentation of any portion of a document
+            
+393
+
+    
+described in Subsection (11)(a)(i).
+            
+394
+
+    
+    (c)  For purposes of Subsection (11)(a), the penalty:
+            
+395
+
+    
+    (i)  shall be imposed by the commission;
+            
+396
+
+    
+    (ii)  is $500 for each document described in Subsection (11)(a)(i) with respect to which
+            
+397
+
+    
+the person described in Subsection (11)(a) meets the requirements of Subsection (11)(a); and
+            
+398
+
+    
+    (iii)  is in addition to any other penalty provided by law.
+            
+399
+
+    
+    (d)  The commission may seek a court order to enjoin a person from engaging in
+
+            
+400
+
+
+    
+conduct that is subject to a penalty under this Subsection (11).
+            
+401
+
+    
+    (e)  In accordance with Title 63G, Chapter 3, Utah Administrative Rulemaking Act, the
+            
+402
+
+    
+commission may make rules prescribing the documents that are similar to Subsections
+            
+403
+
+    
+(11)(a)(i)(A) through (C).
+            
+404
+
+    
+    (12) (a)  As provided in Section 
+
+76-8-1101
+
+, criminal offenses and penalties are as
+            
+405
+
+    
+provided in Subsections (12)(b) through (e).
+            
+406
+
+    
+    (b) (i)  Any person who is required by this title or any laws the commission administers
+            
+407
+
+    
+or regulates to register with or obtain a license or permit from the commission, who operates
+            
+408
+
+    
+without having registered or secured a license or permit, or who operates when the registration,
+            
+409
+
+    
+license, or permit is expired or not current, is guilty of a class B misdemeanor.
+            
+410
+
+    
+    (ii)  Notwithstanding Section 
+
+76-3-301
+
+, for purposes of Subsection (12)(b)(i), the
+            
+411
+
+    
+penalty may not:
+            
+412
+
+    
+    (A)  be less than $500; or
+            
+413
+
+    
+    (B)  exceed $1,000.
+            
+414
+
+    
+    (c) (i)  Any person who, with intent to evade any tax or requirement of this title or any
+            
+415
+
+    
+lawful requirement of the commission, fails to make, render, sign, or verify any return or to
+            
+416
+
+    
+supply any information within the time required by law, or who makes, renders, signs, or
+            
+417
+
+    
+verifies any false or fraudulent return or statement, or who supplies any false or fraudulent
+            
+418
+
+    
+information, is guilty of a third degree felony.
+            
+419
+
+    
+    (ii)  Notwithstanding Section 
+
+76-3-301
+
+, for purposes of Subsection (12)(c)(i), the
+            
+420
+
+    
+penalty may not:
+            
+421
+
+    
+    (A)  be less than $1,000; or
+            
+422
+
+    
+    (B)  exceed $5,000.
+            
+423
+
+    
+    (d) (i)  Any person who intentionally or willfully attempts to evade or defeat any tax or
+            
+424
+
+    
+the payment of a tax is, in addition to other penalties provided by law, guilty of a second degree
+            
+425
+
+    
+felony.
+            
+426
+
+    
+    (ii)  Notwithstanding Section 
+
+76-3-301
+
+, for purposes of Subsection (12)(d)(i), the
+            
+427
+
+    
+penalty may not:
+            
+428
+
+    
+    (A)  be less than $1,500; or
+            
+429
+
+    
+    (B)  exceed $25,000.
+            
+430
+
+    
+    (e) (i)  A person is guilty of a second degree felony if that person commits an act:
+
+            
+431
+
+
+    
+    (A)  described in Subsection (12)(e)(ii) with respect to one or more of the following
+            
+432
+
+    
+documents:
+            
+433
+
+    
+    (I)  a return;
+            
+434
+
+    
+    (II)  an affidavit;
+            
+435
+
+    
+    (III)  a claim; or
+            
+436
+
+    
+    (IV)  a document similar to Subsections (12)(e)(i)(A)(I) through (III); and
+            
+437
+
+    
+    (B)  subject to Subsection (12)(e)(iii), with knowledge that the document described in
+            
+438
+
+    
+Subsection (12)(e)(i)(A):
+            
+439
+
+    
+    (I)  is false or fraudulent as to any material matter; and
+            
+440
+
+    
+    (II)  could be used in connection with any material matter administered by the
+            
+441
+
+    
+commission.
+            
+442
+
+    
+    (ii)  The following acts apply to Subsection (12)(e)(i):
+            
+443
+
+    
+    (A)  preparing any portion of a document described in Subsection (12)(e)(i)(A);
+            
+444
+
+    
+    (B)  presenting any portion of a document described in Subsection (12)(e)(i)(A);
+            
+445
+
+    
+    (C)  procuring any portion of a document described in Subsection (12)(e)(i)(A);
+            
+446
+
+    
+    (D)  advising in the preparation or presentation of any portion of a document described
+            
+447
+
+    
+in Subsection (12)(e)(i)(A);
+            
+448
+
+    
+    (E)  aiding in the preparation or presentation of any portion of a document described in
+            
+449
+
+    
+Subsection (12)(e)(i)(A);
+            
+450
+
+    
+    (F)  assisting in the preparation or presentation of any portion of a document described
+            
+451
+
+    
+in Subsection (12)(e)(i)(A); or
+            
+452
+
+    
+    (G)  counseling in the preparation or presentation of any portion of a document
+            
+453
+
+    
+described in Subsection (12)(e)(i)(A).
+            
+454
+
+    
+    (iii)  This Subsection (12)(e) applies:
+            
+455
+
+    
+    (A)  regardless of whether the person for which the document described in Subsection
+            
+456
+
+    
+(12)(e)(i)(A) is prepared or presented:
+            
+457
+
+    
+    (I)  knew of the falsity of the document described in Subsection (12)(e)(i)(A); or
+            
+458
+
+    
+    (II)  consented to the falsity of the document described in Subsection (12)(e)(i)(A); and
+            
+459
+
+    
+    (B)  in addition to any other penalty provided by law.
+            
+460
+
+    
+    (iv)  Notwithstanding Section 
+
+76-3-301
+
+, for purposes of this Subsection (12)(e), the
+            
+461
+
+    
+penalty may not:
+
+            
+462
+
+
+    
+    (A)  be less than $1,500; or
+            
+463
+
+    
+    (B)  exceed $25,000.
+            
+464
+
+    
+    (v)  The commission may seek a court order to enjoin a person from engaging in
+            
+465
+
+    
+conduct that is subject to a penalty under this Subsection (12)(e).
+            
+466
+
+    
+    (vi)  In accordance with Title 63G, Chapter 3, Utah Administrative Rulemaking Act,
+            
+467
+
+    
+the commission may make rules prescribing the documents that are similar to Subsections
+            
+468
+
+    
+(12)(e)(i)(A)(I) through (III).
+            
+469
+
+    
+    (f)  The statute of limitations for prosecution for a violation of this Subsection (12) is
+            
+470
+
+    
+the later of six years:
+            
+471
+
+    
+    (i)  from the date the tax should have been remitted; or
+            
+472
+
+    
+    (ii)  after the day on which the person commits the criminal offense.
+            
+473
+
+    
+    (13)  Upon making a record of its actions, and upon reasonable cause shown, the
+            
+474
+
+    
+commission may waive, reduce, or compromise any of the penalties or interest imposed under
+            
+475
+
+    
+this part.
+            
+476
+
+    
+    Section 2.  
+Section  
+59-1-403
+
+ is amended to read:
+            
+477
+
+    
+     59-1-403.  Confidentiality -- Exceptions -- Penalty -- Application to property tax.
+            
+478
+
+    
+    (1) (a)  Any of the following may not divulge or make known in any manner any
+            
+479
+
+    
+information gained by that person from any return filed with the commission:
+            
+480
+
+    
+    (i)  a tax commissioner;
+            
+481
+
+    
+    (ii)  an agent, clerk, or other officer or employee of the commission; or
+            
+482
+
+    
+    (iii)  a representative, agent, clerk, or other officer or employee of any county, city, or
+            
+483
+
+    
+town.
+            
+484
+
+    
+    (b)  An official charged with the custody of a return filed with the commission is not
+            
+485
+
+    
+required to produce the return or evidence of anything contained in the return in any action or
+            
+486
+
+    
+proceeding in any court, except:
+            
+487
+
+    
+    (i)  in accordance with judicial order;
+            
+488
+
+    
+    (ii)  on behalf of the commission in any action or proceeding under:
+            
+489
+
+    
+    (A)  this title; or
+            
+490
+
+    
+    (B)  other law under which persons are required to file returns with the commission;
+            
+491
+
+    
+    (iii)  on behalf of the commission in any action or proceeding to which the commission
+            
+492
+
+    
+is a party; or
+
+            
+493
+
+
+    
+    (iv)  on behalf of any party to any action or proceeding under this title if the report or
+            
+494
+
+    
+facts shown by the return are directly involved in the action or proceeding.
+            
+495
+
+    
+    (c)  Notwithstanding Subsection (1)(b), a court may require the production of, and may
+            
+496
+
+    
+admit in evidence, any portion of a return or of the facts shown by the return, as are specifically
+            
+497
+
+    
+pertinent to the action or proceeding.
+            
+498
+
+    
+    (2)  This section does not prohibit:
+            
+499
+
+    
+    (a)  a person or that person's duly authorized representative from receiving a copy of
+            
+500
+
+    
+any return or report filed in connection with that person's own tax;
+            
+501
+
+    
+    (b)  the publication of statistics as long as the statistics are classified to prevent the
+            
+502
+
+    
+identification of particular reports or returns; and
+            
+503
+
+    
+    (c)  the inspection by the attorney general or other legal representative of the state of the
+            
+504
+
+    
+report or return of any taxpayer:
+            
+505
+
+    
+    (i)  who brings action to set aside or review a tax based on the report or return;
+            
+506
+
+    
+    (ii)  against whom an action or proceeding is contemplated or has been instituted under
+            
+507
+
+    
+this title; or
+            
+508
+
+    
+    (iii)  against whom the state has an unsatisfied money judgment.
+            
+509
+
+    
+    (3) (a)  Notwithstanding Subsection (1) and for purposes of administration, the
+            
+510
+
+    
+commission may by rule, made in accordance with Title 63G, Chapter 3, Utah Administrative
+            
+511
+
+    
+Rulemaking Act, provide for a reciprocal exchange of information with:
+            
+512
+
+    
+    (i)  the United States Internal Revenue Service; or
+            
+513
+
+    
+    (ii)  the revenue service of any other state.
+            
+514
+
+    
+    (b)  Notwithstanding Subsection (1) and for all taxes except individual income tax and
+            
+515
+
+    
+corporate franchise tax, the commission may by rule, made in accordance with Title 63G,
+            
+516
+
+    
+Chapter 3, Utah Administrative Rulemaking Act, share information gathered from returns and
+            
+517
+
+    
+other written statements with the federal government, any other state, any of the political
+            
+518
+
+    
+subdivisions of another state, or any political subdivision of this state, except as limited by
+            
+519
+
+    
+Sections 
+
+59-12-209
+
+ and 
+
+59-12-210
+
+, if the political subdivision, other state, or the federal
+            
+520
+
+    
+government grant substantially similar privileges to this state.
+            
+521
+
+    
+    (c)  Notwithstanding Subsection (1) and for all taxes except individual income tax and
+            
+522
+
+    
+corporate franchise tax, the commission may by rule, in accordance with Title 63G, Chapter 3,
+            
+523
+
+    
+Utah Administrative Rulemaking Act, provide for the issuance of information concerning the
+
+            
+524
+
+
+    
+identity and other information of taxpayers who have failed to file tax returns or to pay any tax
+            
+525
+
+    
+due.
+            
+526
+
+    
+    (d)  Notwithstanding Subsection (1), the commission shall provide to the Solid and
+            
+527
+
+    
+Hazardous Waste Control Board executive secretary, as defined in Section 
+
+19-6-102
+
+, as
+            
+528
+
+    
+requested by the executive secretary, any records, returns, or other information filed with the
+            
+529
+
+    
+commission under Chapter 13, Motor and Special Fuel Tax Act, or Section 
+
+19-6-410.5
+
+
+            
+530
+
+    
+regarding the environmental assurance program participation fee.
+            
+531
+
+    
+    (e)  Notwithstanding Subsection (1), at the request of any person the commission shall
+            
+532
+
+    
+provide that person sales and purchase volume data reported to the commission on a report,
+            
+533
+
+    
+return, or other information filed with the commission under:
+            
+534
+
+    
+    (i)  Chapter 13, Part 2, Motor Fuel; or
+            
+535
+
+    
+    (ii)  Chapter 13, Part 4, Aviation Fuel.
+            
+536
+
+    
+    (f)  Notwithstanding Subsection (1), upon request from a tobacco product manufacturer,
+            
+537
+
+    
+as defined in Section 
+
+59-22-202
+
+, the commission shall report to the manufacturer:
+            
+538
+
+    
+    (i)  the quantity of cigarettes, as defined in Section 
+
+59-22-202
+
+, produced by the
+            
+539
+
+    
+manufacturer and reported to the commission for the previous calendar year under Section
+            
+540
+
+    
+
+59-14-407
+
+; and
+            
+541
+
+    
+    (ii)  the quantity of cigarettes, as defined in Section 
+
+59-22-202
+
+, produced by the
+            
+542
+
+    
+manufacturer for which a tax refund was granted during the previous calendar year under
+            
+543
+
+    
+Section 
+
+59-14-401
+
+ and reported to the commission under Subsection 
+
+59-14-401
+
+(1)(a)(v).
+            
+544
+
+    
+    (g)  Notwithstanding Subsection (1), the commission shall notify manufacturers,
+            
+545
+
+    
+distributors, wholesalers, and retail dealers of a tobacco product manufacturer that is prohibited
+            
+546
+
+    
+from selling cigarettes to consumers within the state under Subsection 
+
+59-14-210
+
+(2).
+            
+547
+
+    
+    (h)  Notwithstanding Subsection (1), the commission may:
+            
+548
+
+    
+    (i)  provide to the Division of Consumer Protection within the Department of
+            
+549
+
+    
+Commerce and the attorney general data:
+            
+550
+
+    
+    (A)  reported to the commission under Section 
+
+59-14-212
+
+; or
+            
+551
+
+    
+    (B)  related to a violation under Section 
+
+59-14-211
+
+; and
+            
+552
+
+    
+    (ii)  upon request provide to any person data reported to the commission under
+            
+553
+
+    
+Subsections 
+
+59-14-212
+
+(1)(a) through (c) and Subsection 
+
+59-14-212
+
+(1)(g).
+            
+554
+
+    
+    (i)  Notwithstanding Subsection (1), the commission shall, at the request of a committee
+
+            
+555
+
+
+    
+of the Legislature, Office of the Legislative Fiscal Analyst, or Governor's Office of Planning
+            
+556
+
+    
+and Budget, provide to the committee or office the total amount of revenues collected by the
+            
+557
+
+    
+commission under Chapter 24, Radioactive Waste Facility Tax Act, for the time period
+            
+558
+
+    
+specified by the committee or office.
+            
+559
+
+    
+    [(j)  Notwithstanding Subsection (1), the commission shall at the request of the
+            
+560
+
+    
+Legislature provide to the Legislature the total amount of sales or uses exempt under
+            
+561
+
+    
+Subsection 
+
+59-12-104
+
+(46) reported to the commission in accordance with Section 
+
+59-12-105
+
+.]
+            
+562
+
+    
+    [(k)] (j)  Notwithstanding Subsection (1), the commission shall make the directory
+            
+563
+
+    
+required by Section 
+
+59-14-603
+
+ available for public inspection.
+            
+564
+
+    
+    [(l)] (k)  Notwithstanding Subsection (1), the commission may share information with
+            
+565
+
+    
+federal, state, or local agencies as provided in Subsection 
+
+59-14-606
+
+(3).
+            
+566
+
+    
+    [(m)] (l) (i)  Notwithstanding Subsection (1), the commission shall provide the Office
+            
+567
+
+    
+of Recovery Services within the Department of Human Services any relevant information
+            
+568
+
+    
+obtained from a return filed under Chapter 10, Individual Income Tax Act, regarding a taxpayer
+            
+569
+
+    
+who has become obligated to the Office of Recovery Services.
+            
+570
+
+    
+    (ii)  The information described in Subsection (3)[(m)](l)(i) may be provided by the
+            
+571
+
+    
+Office of Recovery Services to any other state's child support collection agency involved in
+            
+572
+
+    
+enforcing that support obligation.
+            
+573
+
+    
+    [(n)] (m) (i)  Notwithstanding Subsection (1), upon request from the state court
+            
+574
+
+    
+administrator, the commission shall provide to the state court administrator, the name, address,
+            
+575
+
+    
+telephone number, county of residence, and Social Security number on resident returns filed
+            
+576
+
+    
+under Chapter 10, Individual Income Tax Act.
+            
+577
+
+    
+    (ii)  The state court administrator may use the information described in Subsection
+            
+578
+
+    
+(3)[(n)](m)(i) only as a source list for the master jury list described in Section 
+
+78B-1-106
+
+.
+            
+579
+
+    
+    [(o)] (n)  Notwithstanding Subsection (1), the commission shall at the request of a
+            
+580
+
+    
+committee, commission, or task force of the Legislature provide to the committee, commission,
+            
+581
+
+    
+or task force of the Legislature any information relating to a tax imposed under Chapter 9,
+            
+582
+
+    
+Taxation of Admitted Insurers, relating to the study required by Section 
+
+59-9-101
+
+.
+            
+583
+
+    
+    [(p)] (o) (i)  As used in this Subsection (3)[(p)](o), "office" means the:
+            
+584
+
+    
+    (A)  Office of the Legislative Fiscal Analyst; or
+            
+585
+
+    
+    (B)  Office of Legislative Research and General Counsel.
+
+            
+586
+
+
+    
+    (ii)  Notwithstanding Subsection (1) and except as provided in Subsection
+            
+587
+
+    
+(3)[(p)](o)(iii), the commission shall at the request of an office provide to the office all
+            
+588
+
+    
+information:
+            
+589
+
+    
+    (A)  gained by the commission; and
+            
+590
+
+    
+    (B)  required to be attached to or included in returns filed with the commission.
+            
+591
+
+    
+    (iii) (A)  An office may not request and the commission may not provide to an office a
+            
+592
+
+    
+person's:
+            
+593
+
+    
+    (I)  address;
+            
+594
+
+    
+    (II)  name;
+            
+595
+
+    
+    (III)  Social Security number; or
+            
+596
+
+    
+    (IV)  taxpayer identification number.
+            
+597
+
+    
+    (B)  The commission shall in all instances protect the privacy of a person as required by
+            
+598
+
+    
+Subsection (3)[(p)](o)(iii)(A).
+            
+599
+
+    
+    (iv)  An office may provide information received from the commission in accordance
+            
+600
+
+    
+with this Subsection (3)[(p)](o) only:
+            
+601
+
+    
+    (A)  as:
+            
+602
+
+    
+    (I)  a fiscal estimate;
+            
+603
+
+    
+    (II)  fiscal note information; or
+            
+604
+
+    
+    (III)  statistical information; and
+            
+605
+
+    
+    (B)  if the information is classified to prevent the identification of a particular return.
+            
+606
+
+    
+    (v) (A)  A person may not request information from an office under Title 63G, Chapter
+            
+607
+
+    
+2, Government Records Access and Management Act, or this section, if that office received the
+            
+608
+
+    
+information from the commission in accordance with this Subsection (3)[(p)](o).
+            
+609
+
+    
+    (B)  An office may not provide to a person that requests information in accordance with
+            
+610
+
+    
+Subsection (3)[(p)](o)(v)(A) any information other than the information the office provides in
+            
+611
+
+    
+accordance with Subsection (3)[(p)](o)(iv).
+            
+612
+
+    
+    [(q)] (p)  Notwithstanding Subsection (1), the commission may provide to the
+            
+613
+
+    
+governing board of the agreement or a taxing official of another state, the District of Columbia,
+            
+614
+
+    
+the United States, or a territory of the United States:
+            
+615
+
+    
+    (i)  the following relating to an agreement sales and use tax:
+            
+616
+
+    
+    (A)  information contained in a return filed with the commission;
+
+            
+617
+
+
+    
+    (B)  information contained in a report filed with the commission;
+            
+618
+
+    
+    (C)  a schedule related to Subsection (3)[(q)](p)(i)(A) or (B); or
+            
+619
+
+    
+    (D)  a document filed with the commission; or
+            
+620
+
+    
+    (ii)  a report of an audit or investigation made with respect to an agreement sales and
+            
+621
+
+    
+use tax.
+            
+622
+
+    
+    (4) (a)  Reports and returns shall be preserved for at least three years.
+            
+623
+
+    
+    (b)  After the three-year period provided in Subsection (4)(a) the commission may
+            
+624
+
+    
+destroy a report or return.
+            
+625
+
+    
+    (5) (a)  Any person who violates this section is guilty of a class A misdemeanor.
+            
+626
+
+    
+    (b)  If the person described in Subsection (5)(a) is an officer or employee of the state,
+            
+627
+
+    
+the person shall be dismissed from office and be disqualified from holding public office in this
+            
+628
+
+    
+state for a period of five years thereafter.
+            
+629
+
+    
+    (c)  Notwithstanding Subsection (5)(a) or (b), an office that requests information in
+            
+630
+
+    
+accordance with Subsection (3)[(p)](o)(iii) or a person that requests information in accordance
+            
+631
+
+    
+with Subsection (3)[(p)](o)(v):
+            
+632
+
+    
+    (i)  is not guilty of a class A misdemeanor; and
+            
+633
+
+    
+    (ii)  is not subject to:
+            
+634
+
+    
+    (A)  dismissal from office in accordance with Subsection (5)(b); or
+            
+635
+
+    
+    (B)  disqualification from holding public office in accordance with Subsection (5)(b).
+            
+636
+
+    
+    (6)  Except as provided in Section 
+
+59-1-404
+
+, this part does not apply to the property tax.
+            
+637
+
+    
+    Section 3.  
+Section  
+59-12-104
+
+ is amended to read:
+            
+638
+
+    
+     59-12-104.  Exemptions.
+            
+639
+
+    
+    The following sales and uses are exempt from the taxes imposed by this chapter:
+            
+640
+
+    
+    (1)  sales of aviation fuel, motor fuel, and special fuel subject to a Utah state excise tax
+            
+641
+
+    
+under Chapter 13, Motor and Special Fuel Tax Act;
+            
+642
+
+    
+    (2)  sales to the state, its institutions, and its political subdivisions; however, this
+            
+643
+
+    
+exemption does not apply to sales of:
+            
+644
+
+    
+    (a)  construction materials except:
+            
+645
+
+    
+    (i)  construction materials purchased by or on behalf of institutions of the public
+            
+646
+
+    
+education system as defined in Utah Constitution Article X, Section 2, provided the
+            
+647
+
+    
+construction materials are clearly identified and segregated and installed or converted to real
+
+            
+648
+
+
+    
+property which is owned by institutions of the public education system; and
+            
+649
+
+    
+    (ii)  construction materials purchased by the state, its institutions, or its political
+            
+650
+
+    
+subdivisions which are installed or converted to real property by employees of the state, its
+            
+651
+
+    
+institutions, or its political subdivisions; or
+            
+652
+
+    
+    (b)  tangible personal property in connection with the construction, operation,
+            
+653
+
+    
+maintenance, repair, or replacement of a project, as defined in Section 
+
+11-13-103
+
+, or facilities
+            
+654
+
+    
+providing additional project capacity, as defined in Section 
+
+11-13-103
+
+;
+            
+655
+
+    
+    (3) (a)  sales of an item described in Subsection (3)(b) from a vending machine if:
+            
+656
+
+    
+    (i)  the proceeds of each sale do not exceed $1; and
+            
+657
+
+    
+    (ii)  the seller or operator of the vending machine reports an amount equal to 150% of
+            
+658
+
+    
+the cost of the item described in Subsection (3)(b) as goods consumed; and
+            
+659
+
+    
+    (b)  Subsection (3)(a) applies to:
+            
+660
+
+    
+    (i)  food and food ingredients; or
+            
+661
+
+    
+    (ii)  prepared food;
+            
+662
+
+    
+    (4)  sales of the following to a commercial airline carrier for in-flight consumption:
+            
+663
+
+    
+    (a)  food and food ingredients;
+            
+664
+
+    
+    (b)  prepared food; or
+            
+665
+
+    
+    (c)  services related to Subsection (4)(a) or (b);
+            
+666
+
+    
+    (5)  (a) (i)  beginning on July 1, 2008, and ending on September 30, 2008, sales of parts
+            
+667
+
+    
+and equipment:
+            
+668
+
+    
+    (A) (I)  by an establishment described in NAICS Code 336411 or 336412 of the 2002
+            
+669
+
+    
+North American Industry Classification System of the federal Executive Office of the
+            
+670
+
+    
+President, Office of Management and Budget; and
+            
+671
+
+    
+    (II)  for:
+            
+672
+
+    
+    (Aa)  installation in an aircraft, including services relating to the installation of parts or
+            
+673
+
+    
+equipment in the aircraft;
+            
+674
+
+    
+    (Bb)  renovation of an aircraft; or
+            
+675
+
+    
+    (Cc)  repair of an aircraft; or
+            
+676
+
+    
+    (B)  for installation in an aircraft operated by a common carrier in interstate or foreign
+            
+677
+
+    
+commerce; or
+            
+678
+
+    
+    (ii)  beginning on October 1, 2008, sales of parts and equipment for installation in an
+
+            
+679
+
+
+    
+aircraft operated by a common carrier in interstate or foreign commerce; and
+            
+680
+
+    
+    (b)  notwithstanding the time period of Subsection 
+
+59-12-110
+
+(2) for filing for a refund,
+            
+681
+
+    
+a person may claim the exemption allowed by Subsection (5)(a)(i)(B) for a sale by filing for a
+            
+682
+
+    
+refund:
+            
+683
+
+    
+    (i)  if the sale is made on or after July 1, 2008, but on or before September 30, 2008;
+            
+684
+
+    
+    (ii)  as if Subsection (5)(a)(i)(B) were in effect on the day on which the sale is made;
+            
+685
+
+    
+    (iii)  if the person did not claim the exemption allowed by Subsection (5)(a)(i)(B) for
+            
+686
+
+    
+the sale prior to filing for the refund;
+            
+687
+
+    
+    (iv)  for sales and use taxes paid under this chapter on the sale;
+            
+688
+
+    
+    (v)  in accordance with Section 
+
+59-12-110
+
+; and
+            
+689
+
+    
+    (vi)  subject to any extension allowed for filing for a refund under Section 
+
+59-12-110
+
+, if
+            
+690
+
+    
+the person files for the refund on or before September 30, 2011;
+            
+691
+
+    
+    (6)  sales of commercials, motion picture films, prerecorded audio program tapes or
+            
+692
+
+    
+records, and prerecorded video tapes by a producer, distributor, or studio to a motion picture
+            
+693
+
+    
+exhibitor, distributor, or commercial television or radio broadcaster;
+            
+694
+
+    
+    (7) (a)  subject to Subsection (7)(b), sales of cleaning or washing of tangible personal
+            
+695
+
+    
+property if the cleaning or washing of the tangible personal property is not assisted cleaning or
+            
+696
+
+    
+washing of tangible personal property;
+            
+697
+
+    
+    (b)  if a seller that sells at the same business location assisted cleaning or washing of
+            
+698
+
+    
+tangible personal property and cleaning or washing of tangible personal property that is not
+            
+699
+
+    
+assisted cleaning or washing of tangible personal property, the exemption described in
+            
+700
+
+    
+Subsection (7)(a) applies if the seller separately accounts for the sales of the assisted cleaning
+            
+701
+
+    
+or washing of the tangible personal property; and
+            
+702
+
+    
+    (c)  for purposes of Subsection (7)(b) and in accordance with Title 63G, Chapter 3,
+            
+703
+
+    
+Utah Administrative Rulemaking Act, the commission may make rules:
+            
+704
+
+    
+    (i)  governing the circumstances under which sales are at the same business location;
+            
+705
+
+    
+and
+            
+706
+
+    
+    (ii)  establishing the procedures and requirements for a seller to separately account for
+            
+707
+
+    
+sales of assisted cleaning or washing of tangible personal property;
+            
+708
+
+    
+    (8)  sales made to or by religious or charitable institutions in the conduct of their regular
+            
+709
+
+    
+religious or charitable functions and activities, if the requirements of Section 
+
+59-12-104.1
+
+ are
+
+            
+710
+
+
+    
+fulfilled;
+            
+711
+
+    
+    (9)  sales of a vehicle of a type required to be registered under the motor vehicle laws of
+            
+712
+
+    
+this state if the vehicle is:
+            
+713
+
+    
+    (a)  not registered in this state; and
+            
+714
+
+    
+    (b) (i)  not used in this state; or
+            
+715
+
+    
+    (ii)  used in this state:
+            
+716
+
+    
+    (A)  if the vehicle is not used to conduct business, for a time period that does not
+            
+717
+
+    
+exceed the longer of:
+            
+718
+
+    
+    (I)  30 days in any calendar year; or
+            
+719
+
+    
+    (II)  the time period necessary to transport the vehicle to the borders of this state; or
+            
+720
+
+    
+    (B)  if the vehicle is used to conduct business, for the time period necessary to transport
+            
+721
+
+    
+the vehicle to the borders of this state;
+            
+722
+
+    
+    (10) (a)  amounts paid for an item described in Subsection (10)(b) if:
+            
+723
+
+    
+    (i)  the item is intended for human use; and
+            
+724
+
+    
+    (ii) (A)  a prescription was issued for the item; or
+            
+725
+
+    
+    (B)  the item was purchased by a hospital or other medical facility; and
+            
+726
+
+    
+    (b) (i)  Subsection (10)(a) applies to:
+            
+727
+
+    
+    (A)  a drug;
+            
+728
+
+    
+    (B)  a syringe; or
+            
+729
+
+    
+    (C)  a stoma supply; and
+            
+730
+
+    
+    (ii)  in accordance with Title 63G, Chapter 3, Utah Administrative Rulemaking Act, the
+            
+731
+
+    
+commission may by rule define the terms:
+            
+732
+
+    
+    (A)  "syringe"; or
+            
+733
+
+    
+    (B)  "stoma supply";
+            
+734
+
+    
+    (11)  sales or use of property, materials, or services used in the construction of or
+            
+735
+
+    
+incorporated in pollution control facilities allowed by Sections 
+
+19-2-123
+
+ through 
+
+19-2-127
+
+;
+            
+736
+
+    
+    (12) (a)  sales of an item described in Subsection (12)(c) served by:
+            
+737
+
+    
+    (i)  the following if the item described in Subsection (12)(c) is not available to the
+            
+738
+
+    
+general public:
+            
+739
+
+    
+    (A)  a church; or
+            
+740
+
+    
+    (B)  a charitable institution;
+
+            
+741
+
+
+    
+    (ii)  an institution of higher education if:
+            
+742
+
+    
+    (A)  the item described in Subsection (12)(c) is not available to the general public; or
+            
+743
+
+    
+    (B)  the item described in Subsection (12)(c) is prepaid as part of a student meal plan
+            
+744
+
+    
+offered by the institution of higher education; or
+            
+745
+
+    
+    (b)  sales of an item described in Subsection (12)(c) provided for a patient by:
+            
+746
+
+    
+    (i)  a medical facility; or
+            
+747
+
+    
+    (ii)  a nursing facility; and
+            
+748
+
+    
+    (c)  Subsections (12)(a) and (b) apply to:
+            
+749
+
+    
+    (i)  food and food ingredients;
+            
+750
+
+    
+    (ii)  prepared food; or
+            
+751
+
+    
+    (iii)  alcoholic beverages;
+            
+752
+
+    
+    (13) (a)  except as provided in Subsection (13)(b), the sale of tangible personal property
+            
+753
+
+    
+or a product transferred electronically by a person:
+            
+754
+
+    
+    (i)  regardless of the number of transactions involving the sale of that tangible personal
+            
+755
+
+    
+property or product transferred electronically by that person; and
+            
+756
+
+    
+    (ii)  not regularly engaged in the business of selling that type of tangible personal
+            
+757
+
+    
+property or product transferred electronically;
+            
+758
+
+    
+    (b)  this Subsection (13) does not apply if:
+            
+759
+
+    
+    (i)  the sale is one of a series of sales of a character to indicate that the person is
+            
+760
+
+    
+regularly engaged in the business of selling that type of tangible personal property or product
+            
+761
+
+    
+transferred electronically;
+            
+762
+
+    
+    (ii)  the person holds that person out as regularly engaged in the business of selling that
+            
+763
+
+    
+type of tangible personal property or product transferred electronically;
+            
+764
+
+    
+    (iii)  the person sells an item of tangible personal property or product transferred
+            
+765
+
+    
+electronically that the person purchased as a sale that is exempt under Subsection (25); or
+            
+766
+
+    
+     (iv)  the sale is of a vehicle or vessel required to be titled or registered under the laws of
+            
+767
+
+    
+this state in which case the tax is based upon:
+            
+768
+
+    
+    (A)  the bill of sale or other written evidence of value of the vehicle or vessel being
+            
+769
+
+    
+sold; or
+            
+770
+
+    
+    (B)  in the absence of a bill of sale or other written evidence of value, the fair market
+            
+771
+
+    
+value of the vehicle or vessel being sold at the time of the sale as determined by the
+
+            
+772
+
+
+    
+commission; and
+            
+773
+
+    
+    (c)  in accordance with Title 63G, Chapter 3, Utah Administrative Rulemaking Act, the
+            
+774
+
+    
+commission shall make rules establishing the circumstances under which:
+            
+775
+
+    
+    (i)  a person is regularly engaged in the business of selling a type of tangible personal
+            
+776
+
+    
+property or product transferred electronically;
+            
+777
+
+    
+    (ii)  a sale of tangible personal property or a product transferred electronically is one of
+            
+778
+
+    
+a series of sales of a character to indicate that a person is regularly engaged in the business of
+            
+779
+
+    
+selling that type of tangible personal property or product transferred electronically; or
+            
+780
+
+    
+    (iii)  a person holds that person out as regularly engaged in the business of selling a type
+            
+781
+
+    
+of tangible personal property or product transferred electronically;
+            
+782
+
+    
+    (14) (a)  except as provided in Subsection (14)(b), amounts paid or charged on or after
+            
+783
+
+    
+July 1, 2006, for a purchase or lease by a manufacturing facility other than a cogeneration
+            
+784
+
+    
+facility, for the following:
+            
+785
+
+    
+    (i)  machinery and equipment that:
+            
+786
+
+    
+    (A)  is used:
+            
+787
+
+    
+    (I)  for a manufacturing facility other than a manufacturing facility that is a scrap
+            
+788
+
+    
+recycler described in Subsection 
+
+59-12-102
+
+(52)(b):
+            
+789
+
+    
+    (Aa)  in the manufacturing process; and
+            
+790
+
+    
+    (Bb)  to manufacture an item sold as tangible personal property; or
+            
+791
+
+    
+    (II)  for a manufacturing facility that is a scrap recycler described in Subsection
+            
+792
+
+    
+
+59-12-102
+
+(52)(b), to process an item sold as tangible personal property; and
+            
+793
+
+    
+    (B)  has an economic life of three or more years; and
+            
+794
+
+    
+    (ii)  normal operating repair or replacement parts that:
+            
+795
+
+    
+    (A)  have an economic life of three or more years; and
+            
+796
+
+    
+    (B)  are used:
+            
+797
+
+    
+    (I)  for a manufacturing facility in the state other than a manufacturing facility that is a
+            
+798
+
+    
+scrap recycler described in Subsection 
+
+59-12-102
+
+ (52)(b), in the manufacturing process; or
+            
+799
+
+    
+    (II)  for a manufacturing facility in the state that is a scrap recycler described in
+            
+800
+
+    
+Subsection 
+
+59-12-102
+
+ (52)(b), to process an item sold as tangible personal property;
+            
+801
+
+    
+    (b) (i)  amounts paid or charged on or after July 1, 2005, for a purchase or lease by a
+            
+802
+
+    
+manufacturing facility that is a cogeneration facility placed in service on or after May 1, 2006,
+
+            
+803
+
+
+    
+for the following:
+            
+804
+
+    
+    (A)  machinery and equipment that:
+            
+805
+
+    
+    (I)  is used:
+            
+806
+
+    
+    (Aa)  in the manufacturing process; and
+            
+807
+
+    
+    (Bb)  to manufacture an item sold as tangible personal property; and
+            
+808
+
+    
+    (II)  has an economic life of three or more years; and
+            
+809
+
+    
+    (B)  normal operating repair or replacement parts that:
+            
+810
+
+    
+    (I)  are used in the manufacturing process in a manufacturing facility in the state; and
+            
+811
+
+    
+    (II)  have an economic life of three or more years; and
+            
+812
+
+    
+    (ii)  for amounts paid or charged on or after July 1, 2005, but on or before June 30,
+            
+813
+
+    
+2006, for a purchase or lease described in Subsection (14)(b)(i), a cogeneration facility may
+            
+814
+
+    
+claim the exemption allowed by Subsection (14)(b)(i) by filing for a refund:
+            
+815
+
+    
+    (A)  for sales and use taxes paid under this chapter on the purchase or lease payment;
+            
+816
+
+    
+and
+            
+817
+
+    
+    (B)  in accordance with Section 
+
+59-12-110
+
+;
+            
+818
+
+    
+    (c)  amounts paid or charged for a purchase or lease made on or after January 1, 2008,
+            
+819
+
+    
+by an establishment described in NAICS Subsector 212, Mining (except Oil and Gas), or
+            
+820
+
+    
+NAICS Code 213113, Support Activities for Coal Mining, 213114, Support Activities for
+            
+821
+
+    
+Metal Mining, or 213115, Support Activities for Nonmetallic Minerals (except Fuels) Mining,
+            
+822
+
+    
+of the 2002 North American Industry Classification System of the federal Executive Office of
+            
+823
+
+    
+the President, Office of Management and Budget:
+            
+824
+
+    
+    (i)  machinery and equipment that:
+            
+825
+
+    
+    (A)  are used in:
+            
+826
+
+    
+    (I)  the production process, other than the production of real property; or
+            
+827
+
+    
+    (II)  research and development; and
+            
+828
+
+    
+    (B)  have an economic life of three or more years; and
+            
+829
+
+    
+    (ii)  normal operating repair or replacement parts that:
+            
+830
+
+    
+    (A)  have an economic life of three or more years; and
+            
+831
+
+    
+    (B)  are used in:
+            
+832
+
+    
+    (I)  the production process, other than the production of real property, in an
+            
+833
+
+    
+establishment described in this Subsection (14)(c) in the state; or
+
+            
+834
+
+
+    
+    (II)  research and development in an establishment described in this Subsection (14)(c)
+            
+835
+
+    
+in the state;
+            
+836
+
+    
+    (d)  for purposes of this Subsection (14) and in accordance with Title 63G, Chapter 3,
+            
+837
+
+    
+Utah Administrative Rulemaking Act, the commission:
+            
+838
+
+    
+    (i)  shall by rule define the term "establishment"; and
+            
+839
+
+    
+    (ii)  may by rule define what constitutes:
+            
+840
+
+    
+    (A)  processing an item sold as tangible personal property;
+            
+841
+
+    
+    (B)  the production process, other than the production of real property; or
+            
+842
+
+    
+    (C)  research and development; and
+            
+843
+
+    
+    (e)  on or before October 1, 2011, and every five years after October 1, 2011, the
+            
+844
+
+    
+commission shall:
+            
+845
+
+    
+    (i)  review the exemptions described in this Subsection (14) and make
+            
+846
+
+    
+recommendations to the Revenue and Taxation Interim Committee concerning whether the
+            
+847
+
+    
+exemptions should be continued, modified, or repealed; and
+            
+848
+
+    
+    (ii)  include in its report:
+            
+849
+
+    
+    (A)  an estimate of the cost of the exemptions;
+            
+850
+
+    
+    (B)  the purpose and effectiveness of the exemptions; and
+            
+851
+
+    
+    (C)  the benefits of the exemptions to the state;
+            
+852
+
+    
+    (15) (a)  sales of the following if the requirements of Subsection (15)(b) are met:
+            
+853
+
+    
+    (i)  tooling;
+            
+854
+
+    
+    (ii)  special tooling;
+            
+855
+
+    
+    (iii)  support equipment;
+            
+856
+
+    
+    (iv)  special test equipment; or
+            
+857
+
+    
+    (v)  parts used in the repairs or renovations of tooling or equipment described in
+            
+858
+
+    
+Subsections (15)(a)(i) through (iv); and
+            
+859
+
+    
+    (b)  sales of tooling, equipment, or parts described in Subsection (15)(a) are exempt if:
+            
+860
+
+    
+    (i)  the tooling, equipment, or parts are used or consumed exclusively in the
+            
+861
+
+    
+performance of any aerospace or electronics industry contract with the United States
+            
+862
+
+    
+government or any subcontract under that contract; and
+            
+863
+
+    
+    (ii)  under the terms of the contract or subcontract described in Subsection (15)(b)(i),
+            
+864
+
+    
+title to the tooling, equipment, or parts is vested in the United States government as evidenced
+
+            
+865
+
+
+    
+by:
+            
+866
+
+    
+    (A)  a government identification tag placed on the tooling, equipment, or parts; or
+            
+867
+
+    
+    (B)  listing on a government-approved property record if placing a government
+            
+868
+
+    
+identification tag on the tooling, equipment, or parts is impractical;
+            
+869
+
+    
+    (16)  sales of newspapers or newspaper subscriptions;
+            
+870
+
+    
+    (17) (a)  except as provided in Subsection (17)(b), tangible personal property or a
+            
+871
+
+    
+product transferred electronically traded in as full or part payment of the purchase price, except
+            
+872
+
+    
+that for purposes of calculating sales or use tax upon vehicles not sold by a vehicle dealer,
+            
+873
+
+    
+trade-ins are limited to other vehicles only, and the tax is based upon:
+            
+874
+
+    
+    (i)  the bill of sale or other written evidence of value of the vehicle being sold and the
+            
+875
+
+    
+vehicle being traded in; or
+            
+876
+
+    
+    (ii)  in the absence of a bill of sale or other written evidence of value, the then existing
+            
+877
+
+    
+fair market value of the vehicle being sold and the vehicle being traded in, as determined by the
+            
+878
+
+    
+commission; and
+            
+879
+
+    
+    (b)  notwithstanding Subsection (17)(a), Subsection (17)(a) does not apply to the
+            
+880
+
+    
+following items of tangible personal property or products transferred electronically traded in as
+            
+881
+
+    
+full or part payment of the purchase price:
+            
+882
+
+    
+    (i)  money;
+            
+883
+
+    
+    (ii)  electricity;
+            
+884
+
+    
+    (iii)  water;
+            
+885
+
+    
+    (iv)  gas; or
+            
+886
+
+    
+    (v)  steam;
+            
+887
+
+    
+    (18) (a) (i)  except as provided in Subsection (18)(b), sales of tangible personal property
+            
+888
+
+    
+or a product transferred electronically used or consumed primarily and directly in farming
+            
+889
+
+    
+operations, regardless of whether the tangible personal property or product transferred
+            
+890
+
+    
+electronically:
+            
+891
+
+    
+    (A)  becomes part of real estate; or
+            
+892
+
+    
+    (B)  is installed by a:
+            
+893
+
+    
+    (I)  farmer;
+            
+894
+
+    
+    (II)  contractor; or
+            
+895
+
+    
+    (III)  subcontractor; or
+
+            
+896
+
+
+    
+    (ii)  sales of parts used in the repairs or renovations of tangible personal property or a
+            
+897
+
+    
+product transferred electronically if the tangible personal property or product transferred
+            
+898
+
+    
+electronically is exempt under Subsection (18)(a)(i); and
+            
+899
+
+    
+    (b)  notwithstanding Subsection (18)(a), amounts paid or charged for the following are
+            
+900
+
+    
+subject to the taxes imposed by this chapter:
+            
+901
+
+    
+    (i) (A)  subject to Subsection (18)(b)(i)(B), the following if used in a manner that is
+            
+902
+
+    
+incidental to farming:
+            
+903
+
+    
+    (I)  machinery;
+            
+904
+
+    
+    (II)  equipment;
+            
+905
+
+    
+    (III)  materials; or
+            
+906
+
+    
+    (IV)  supplies; and
+            
+907
+
+    
+    (B)  tangible personal property that is considered to be used in a manner that is
+            
+908
+
+    
+incidental to farming includes:
+            
+909
+
+    
+    (I)  hand tools; or
+            
+910
+
+    
+    (II)  maintenance and janitorial equipment and supplies;
+            
+911
+
+    
+    (ii) (A)  subject to Subsection (18)(b)(ii)(B), tangible personal property or a product
+            
+912
+
+    
+transferred electronically if the tangible personal property or product transferred electronically
+            
+913
+
+    
+is used in an activity other than farming; and
+            
+914
+
+    
+    (B)  tangible personal property or a product transferred electronically that is considered
+            
+915
+
+    
+to be used in an activity other than farming includes:
+            
+916
+
+    
+    (I)  office equipment and supplies; or
+            
+917
+
+    
+    (II)  equipment and supplies used in:
+            
+918
+
+    
+    (Aa)  the sale or distribution of farm products;
+            
+919
+
+    
+    (Bb)  research; or
+            
+920
+
+    
+    (Cc)  transportation; or
+            
+921
+
+    
+    (iii)  a vehicle required to be registered by the laws of this state during the period
+            
+922
+
+    
+ending two years after the date of the vehicle's purchase;
+            
+923
+
+    
+    (19)  sales of hay;
+            
+924
+
+    
+    (20)  exclusive sale during the harvest season of seasonal crops, seedling plants, or
+            
+925
+
+    
+garden, farm, or other agricultural produce if the seasonal crops are, seedling plants are, or
+            
+926
+
+    
+garden, farm, or other agricultural produce is sold by:
+
+            
+927
+
+
+    
+    (a)  the producer of the seasonal crops, seedling plants, or garden, farm, or other
+            
+928
+
+    
+agricultural produce;
+            
+929
+
+    
+    (b)  an employee of the producer described in Subsection (20)(a); or
+            
+930
+
+    
+    (c)  a member of the immediate family of the producer described in Subsection (20)(a);
+            
+931
+
+    
+    (21)  purchases made using a coupon as defined in 7 U.S.C. Sec. 2012 that is issued
+            
+932
+
+    
+under the Food Stamp Program, 7 U.S.C. Sec. 2011 et seq.;
+            
+933
+
+    
+    (22)  sales of nonreturnable containers, nonreturnable labels, nonreturnable bags,
+            
+934
+
+    
+nonreturnable shipping cases, and nonreturnable casings to a manufacturer, processor,
+            
+935
+
+    
+wholesaler, or retailer for use in packaging tangible personal property to be sold by that
+            
+936
+
+    
+manufacturer, processor, wholesaler, or retailer;
+            
+937
+
+    
+    (23) a product stored in the state for resale;
+            
+938
+
+    
+    (24) (a)  purchases of a product if:
+            
+939
+
+    
+    (i)  the product is:
+            
+940
+
+    
+    (A)  purchased outside of this state;
+            
+941
+
+    
+    (B)  brought into this state:
+            
+942
+
+    
+    (I)  at any time after the purchase described in Subsection (24)(a)(i)(A); and
+            
+943
+
+    
+    (II)  by a nonresident person who is not living or working in this state at the time of the
+            
+944
+
+    
+purchase;
+            
+945
+
+    
+    (C)  used for the personal use or enjoyment of the nonresident person described in
+            
+946
+
+    
+Subsection (24)(a)(i)(B)(II) while that nonresident person is within the state; and
+            
+947
+
+    
+    (D)  not used in conducting business in this state; and
+            
+948
+
+    
+    (ii)  for:
+            
+949
+
+    
+    (A) a product other than a boat described in Subsection (24)(a)(ii)(B), the first use of
+            
+950
+
+    
+the product for a purpose for which the product is designed occurs outside of this state;
+            
+951
+
+    
+    (B)  a boat, the boat is registered outside of this state; or
+            
+952
+
+    
+    (C)  a vehicle other than a vehicle sold to an authorized carrier, the vehicle is registered
+            
+953
+
+    
+outside of this state;
+            
+954
+
+    
+    (b)  the exemption provided for in Subsection (24)(a) does not apply to:
+            
+955
+
+    
+    (i)  a lease or rental of a product; or
+            
+956
+
+    
+    (ii)  a sale of a vehicle exempt under Subsection (33); and
+            
+957
+
+    
+    (c)  in accordance with Title 63G, Chapter 3, Utah Administrative Rulemaking Act, for
+
+            
+958
+
+
+    
+purposes of Subsection (24)(a), the commission may by rule define what constitutes the
+            
+959
+
+    
+following:
+            
+960
+
+    
+    (i)  conducting business in this state if that phrase has the same meaning in this
+            
+961
+
+    
+Subsection (24) as in Subsection (64);
+            
+962
+
+    
+    (ii)  the first use of a product if that phrase has the same meaning in this Subsection (24)
+            
+963
+
+    
+as in Subsection (64); or
+            
+964
+
+    
+    (iii)  a purpose for which a product is designed if that phrase has the same meaning in
+            
+965
+
+    
+this Subsection (24) as in Subsection (64);
+            
+966
+
+    
+    (25) a product purchased for resale in this state, in the regular course of business, either
+            
+967
+
+    
+in its original form or as an ingredient or component part of a manufactured or compounded
+            
+968
+
+    
+product;
+            
+969
+
+    
+    (26) a product upon which a sales or use tax was paid to some other state, or one of its
+            
+970
+
+    
+subdivisions, except that the state shall be paid any difference between the tax paid and the tax
+            
+971
+
+    
+imposed by this part and Part 2, Local Sales and Use Tax Act, and no adjustment is allowed if
+            
+972
+
+    
+the tax paid was greater than the tax imposed by this part and Part 2, Local Sales and Use Tax
+            
+973
+
+    
+Act;
+            
+974
+
+    
+    (27)  any sale of a service described in Subsections 
+
+59-12-103
+
+(1)(b), (c), and (d) to a
+            
+975
+
+    
+person for use in compounding a service taxable under the subsections;
+            
+976
+
+    
+    (28)  purchases made in accordance with the special supplemental nutrition program for
+            
+977
+
+    
+women, infants, and children established in 42 U.S.C. Sec. 1786;
+            
+978
+
+    
+    (29)  beginning on July 1, 1999, through June 30, 2014, sales or leases of rolls, rollers,
+            
+979
+
+    
+refractory brick, electric motors, or other replacement parts used in the furnaces, mills, or ovens
+            
+980
+
+    
+of a steel mill described in SIC Code 3312 of the 1987 Standard Industrial Classification
+            
+981
+
+    
+Manual of the federal Executive Office of the President, Office of Management and Budget;
+            
+982
+
+    
+    (30)  sales of a boat of a type required to be registered under Title 73, Chapter 18, State
+            
+983
+
+    
+Boating Act, a boat trailer, or an outboard motor if the boat, boat trailer, or outboard motor is:
+            
+984
+
+    
+    (a)  not registered in this state; and
+            
+985
+
+    
+    (b) (i)  not used in this state; or
+            
+986
+
+    
+    (ii)  used in this state:
+            
+987
+
+    
+    (A)  if the boat, boat trailer, or outboard motor is not used to conduct business, for a
+            
+988
+
+    
+time period that does not exceed the longer of:
+
+            
+989
+
+
+    
+    (I)  30 days in any calendar year; or
+            
+990
+
+    
+    (II)  the time period necessary to transport the boat, boat trailer, or outboard motor to
+            
+991
+
+    
+the borders of this state; or
+            
+992
+
+    
+    (B)  if the boat, boat trailer, or outboard motor is used to conduct business, for the time
+            
+993
+
+    
+period necessary to transport the boat, boat trailer, or outboard motor to the borders of this
+            
+994
+
+    
+state;
+            
+995
+
+    
+    (31)  sales of aircraft manufactured in Utah;
+            
+996
+
+    
+    (32)  amounts paid for the purchase of telecommunications service for purposes of
+            
+997
+
+    
+providing telecommunications service;
+            
+998
+
+    
+    (33)  sales, leases, or uses of the following:
+            
+999
+
+    
+    (a)  a vehicle by an authorized carrier; or
+            
+1000
+
+    
+    (b)  tangible personal property that is installed on a vehicle:
+            
+1001
+
+    
+    (i)  sold or leased to or used by an authorized carrier; and
+            
+1002
+
+    
+    (ii)  before the vehicle is placed in service for the first time;
+            
+1003
+
+    
+    (34) (a)  45% of the sales price of any new manufactured home; and
+            
+1004
+
+    
+    (b)  100% of the sales price of any used manufactured home;
+            
+1005
+
+    
+    (35)  sales relating to schools and fundraising sales;
+            
+1006
+
+    
+    (36)  sales or rentals of durable medical equipment if:
+            
+1007
+
+    
+    (a)  a person presents a prescription for the durable medical equipment; and
+            
+1008
+
+    
+    (b)  the durable medical equipment is used for home use only;
+            
+1009
+
+    
+    (37) (a)  sales to a ski resort of electricity to operate a passenger ropeway as defined in
+            
+1010
+
+    
+Section 
+
+72-11-102
+
+; and
+            
+1011
+
+    
+    (b)  the commission shall by rule determine the method for calculating sales exempt
+            
+1012
+
+    
+under Subsection (37)(a) that are not separately metered and accounted for in utility billings;
+            
+1013
+
+    
+    (38)  sales to a ski resort of:
+            
+1014
+
+    
+    (a)  snowmaking equipment;
+            
+1015
+
+    
+    (b)  ski slope grooming equipment;
+            
+1016
+
+    
+    (c)  passenger ropeways as defined in Section 
+
+72-11-102
+
+; or
+            
+1017
+
+    
+    (d)  parts used in the repairs or renovations of equipment or passenger ropeways
+            
+1018
+
+    
+described in Subsections (38)(a) through (c);
+            
+1019
+
+    
+    (39)  sales of natural gas, electricity, heat, coal, fuel oil, or other fuels for industrial use;
+
+            
+1020
+
+
+    
+    (40) (a)  subject to Subsection (40)(b), sales or rentals of the right to use or operate for
+            
+1021
+
+    
+amusement, entertainment, or recreation an unassisted amusement device as defined in Section
+            
+1022
+
+    
+
+59-12-102
+
+;
+            
+1023
+
+    
+    (b)  if a seller that sells or rents at the same business location the right to use or operate
+            
+1024
+
+    
+for amusement, entertainment, or recreation one or more unassisted amusement devices and
+            
+1025
+
+    
+one or more assisted amusement devices, the exemption described in Subsection (40)(a)
+            
+1026
+
+    
+applies if the seller separately accounts for the sales or rentals of the right to use or operate for
+            
+1027
+
+    
+amusement, entertainment, or recreation for the assisted amusement devices; and
+            
+1028
+
+    
+    (c)  for purposes of Subsection (40)(b) and in accordance with Title 63G, Chapter 3,
+            
+1029
+
+    
+Utah Administrative Rulemaking Act, the commission may make rules:
+            
+1030
+
+    
+    (i)  governing the circumstances under which sales are at the same business location;
+            
+1031
+
+    
+and
+            
+1032
+
+    
+    (ii)  establishing the procedures and requirements for a seller to separately account for
+            
+1033
+
+    
+the sales or rentals of the right to use or operate for amusement, entertainment, or recreation for
+            
+1034
+
+    
+assisted amusement devices;
+            
+1035
+
+    
+    (41) (a)  sales of photocopies by:
+            
+1036
+
+    
+    (i)  a governmental entity; or
+            
+1037
+
+    
+    (ii)  an entity within the state system of public education, including:
+            
+1038
+
+    
+    (A)  a school; or
+            
+1039
+
+    
+    (B)  the State Board of Education; or
+            
+1040
+
+    
+    (b)  sales of publications by a governmental entity;
+            
+1041
+
+    
+    (42)  amounts paid for admission to an athletic event at an institution of higher
+            
+1042
+
+    
+education that is subject to the provisions of Title IX of the Education Amendments of 1972,
+            
+1043
+
+    
+20 U.S.C. Sec. 1681 et seq.;
+            
+1044
+
+    
+    (43)  sales of telecommunications service charged to a prepaid telephone calling card;
+            
+1045
+
+    
+    (44) (a)  sales made to or by:
+            
+1046
+
+    
+    (i)  an area agency on aging; or
+            
+1047
+
+    
+    (ii)  a senior citizen center owned by a county, city, or town; or
+            
+1048
+
+    
+    (b)  sales made by a senior citizen center that contracts with an area agency on aging;
+            
+1049
+
+    
+    (45)  sales or leases of semiconductor fabricating, processing, research, or development
+            
+1050
+
+    
+materials regardless of whether the semiconductor fabricating, processing, research, or
+
+            
+1051
+
+
+    
+development materials:
+            
+1052
+
+    
+    (a)  actually come into contact with a semiconductor; or
+            
+1053
+
+    
+    (b)  ultimately become incorporated into real property;
+            
+1054
+
+    
+    (46)  an amount paid by or charged to a purchaser for accommodations and services
+            
+1055
+
+    
+described in Subsection 
+
+59-12-103
+
+(1)(i) to the extent the amount is exempt under Section
+            
+1056
+
+    
+
+59-12-104.2
+
+;
+            
+1057
+
+    
+    (47)  beginning on September 1, 2001, the lease or use of a vehicle issued a temporary
+            
+1058
+
+    
+sports event registration certificate in accordance with Section 
+
+41-3-306
+
+ for the event period
+            
+1059
+
+    
+specified on the temporary sports event registration certificate;
+            
+1060
+
+    
+    (48)  sales or uses of electricity, if the sales or uses are:
+            
+1061
+
+    
+    (a)  made under a tariff adopted by the Public Service Commission of Utah only for
+            
+1062
+
+    
+purchase of electricity produced from a new wind, geothermal, biomass, or solar power energy
+            
+1063
+
+    
+source, as designated in the tariff by the Public Service Commission of Utah; and
+            
+1064
+
+    
+    (b)  for an amount of electricity that is:
+            
+1065
+
+    
+    (i)  unrelated to the amount of electricity used by the person purchasing the electricity
+            
+1066
+
+    
+under the tariff described in Subsection (48)(a); and
+            
+1067
+
+    
+    (ii)  equivalent to the number of kilowatthours specified in the tariff described in
+            
+1068
+
+    
+Subsection (48)(a) that may be purchased under the tariff described in Subsection (48)(a);
+            
+1069
+
+    
+    (49)  sales or rentals of mobility enhancing equipment if a person presents a
+            
+1070
+
+    
+prescription for the mobility enhancing equipment;
+            
+1071
+
+    
+    (50)  sales of water in a:
+            
+1072
+
+    
+    (a)  pipe;
+            
+1073
+
+    
+    (b)  conduit;
+            
+1074
+
+    
+    (c)  ditch; or
+            
+1075
+
+    
+    (d)  reservoir;
+            
+1076
+
+    
+    (51)  sales of currency or coinage that constitute legal tender of the United States or of a
+            
+1077
+
+    
+foreign nation;
+            
+1078
+
+    
+    (52) (a)  sales of an item described in Subsection (52)(b) if the item:
+            
+1079
+
+    
+    (i)  does not constitute legal tender of any nation; and
+            
+1080
+
+    
+    (ii)  has a gold, silver, or platinum content of 80% or more; and
+            
+1081
+
+    
+    (b)  Subsection (52)(a) applies to a gold, silver, or platinum:
+
+            
+1082
+
+
+    
+    (i)  ingot;
+            
+1083
+
+    
+    (ii)  bar;
+            
+1084
+
+    
+    (iii)  medallion; or
+            
+1085
+
+    
+    (iv)  decorative coin;
+            
+1086
+
+    
+    (53)  amounts paid on a sale-leaseback transaction;
+            
+1087
+
+    
+    (54)  sales of a prosthetic device:
+            
+1088
+
+    
+    (a)  for use on or in a human; and
+            
+1089
+
+    
+    (b) (i)  for which a prescription is required; or
+            
+1090
+
+    
+    (ii)  if the prosthetic device is purchased by a hospital or other medical facility;
+            
+1091
+
+    
+    (55) (a)  except as provided in Subsection (55)(b), purchases, leases, or rentals of
+            
+1092
+
+    
+machinery or equipment by an establishment described in Subsection (55)(c) if the machinery
+            
+1093
+
+    
+or equipment is primarily used in the production or postproduction of the following media for
+            
+1094
+
+    
+commercial distribution:
+            
+1095
+
+    
+    (i)  a motion picture;
+            
+1096
+
+    
+    (ii)  a television program;
+            
+1097
+
+    
+    (iii)  a movie made for television;
+            
+1098
+
+    
+    (iv)  a music video;
+            
+1099
+
+    
+    (v)  a commercial;
+            
+1100
+
+    
+    (vi)  a documentary; or
+            
+1101
+
+    
+    (vii)  a medium similar to Subsections (55)(a)(i) through (vi) as determined by the
+            
+1102
+
+    
+commission by administrative rule made in accordance with Subsection (55)(d); or
+            
+1103
+
+    
+    (b)  notwithstanding Subsection (55)(a), purchases, leases, or rentals of machinery or
+            
+1104
+
+    
+equipment by an establishment described in Subsection (55)(c) that is used for the production
+            
+1105
+
+    
+or postproduction of the following are subject to the taxes imposed by this chapter:
+            
+1106
+
+    
+    (i)  a live musical performance;
+            
+1107
+
+    
+    (ii)  a live news program; or
+            
+1108
+
+    
+    (iii)  a live sporting event;
+            
+1109
+
+    
+    (c)  the following establishments listed in the 1997 North American Industry
+            
+1110
+
+    
+Classification System of the federal Executive Office of the President, Office of Management
+            
+1111
+
+    
+and Budget, apply to Subsections (55)(a) and (b):
+            
+1112
+
+    
+    (i)  NAICS Code 512110; or
+
+            
+1113
+
+
+    
+    (ii)  NAICS Code 51219; and
+            
+1114
+
+    
+    (d)  in accordance with Title 63G, Chapter 3, Utah Administrative Rulemaking Act, the
+            
+1115
+
+    
+commission may by rule:
+            
+1116
+
+    
+    (i)  prescribe what constitutes a medium similar to Subsections (55)(a)(i) through (vi);
+            
+1117
+
+    
+or
+            
+1118
+
+    
+    (ii)  define:
+            
+1119
+
+    
+    (A)  "commercial distribution";
+            
+1120
+
+    
+    (B)  "live musical performance";
+            
+1121
+
+    
+    (C)  "live news program"; or
+            
+1122
+
+    
+    (D)  "live sporting event";
+            
+1123
+
+    
+    (56) (a)  leases of seven or more years or purchases made on or after July 1, 2004 but on
+            
+1124
+
+    
+or before June 30, 2019, of machinery or equipment that:
+            
+1125
+
+    
+    (i)  is leased or purchased for or by a facility that:
+            
+1126
+
+    
+    (A)  is a renewable energy production facility;
+            
+1127
+
+    
+    (B)  is located in the state; and
+            
+1128
+
+    
+    (C) (I)  becomes operational on or after July 1, 2004; or
+            
+1129
+
+    
+    (II)  has its generation capacity increased by one or more megawatts on or after July 1,
+            
+1130
+
+    
+2004 as a result of the use of the machinery or equipment;
+            
+1131
+
+    
+    (ii)  has an economic life of five or more years; and
+            
+1132
+
+    
+    (iii)  is used to make the facility or the increase in capacity of the facility described in
+            
+1133
+
+    
+Subsection (56)(a)(i) operational up to the point of interconnection with an existing
+            
+1134
+
+    
+transmission grid including:
+            
+1135
+
+    
+    (A)  a wind turbine;
+            
+1136
+
+    
+    (B)  generating equipment;
+            
+1137
+
+    
+    (C)  a control and monitoring system;
+            
+1138
+
+    
+    (D)  a power line;
+            
+1139
+
+    
+    (E)  substation equipment;
+            
+1140
+
+    
+    (F)  lighting;
+            
+1141
+
+    
+    (G)  fencing;
+            
+1142
+
+    
+    (H)  pipes; or
+            
+1143
+
+    
+    (I)  other equipment used for locating a power line or pole; and
+
+            
+1144
+
+
+    
+    (b)  this Subsection (56) does not apply to:
+            
+1145
+
+    
+    (i)  machinery or equipment used in construction of:
+            
+1146
+
+    
+    (A)  a new renewable energy production facility; or
+            
+1147
+
+    
+    (B)  the increase in the capacity of a renewable energy production facility;
+            
+1148
+
+    
+    (ii)  contracted services required for construction and routine maintenance activities;
+            
+1149
+
+    
+and
+            
+1150
+
+    
+    (iii)  unless the machinery or equipment is used or acquired for an increase in capacity
+            
+1151
+
+    
+of the facility described in Subsection (56)(a)(i)(C)(II), machinery or equipment used or
+            
+1152
+
+    
+acquired after:
+            
+1153
+
+    
+    (A)  the renewable energy production facility described in Subsection (56)(a)(i) is
+            
+1154
+
+    
+operational as described in Subsection (56)(a)(iii); or
+            
+1155
+
+    
+    (B)  the increased capacity described in Subsection (56)(a)(i) is operational as described
+            
+1156
+
+    
+in Subsection (56)(a)(iii);
+            
+1157
+
+    
+    (57) (a)  leases of seven or more years or purchases made on or after July 1, 2004 but on
+            
+1158
+
+    
+or before June 30, 2019, of machinery or equipment that:
+            
+1159
+
+    
+    (i)  is leased or purchased for or by a facility that:
+            
+1160
+
+    
+    (A)  is a waste energy production facility;
+            
+1161
+
+    
+    (B)  is located in the state; and
+            
+1162
+
+    
+    (C) (I)  becomes operational on or after July 1, 2004; or
+            
+1163
+
+    
+    (II)  has its generation capacity increased by one or more megawatts on or after July 1,
+            
+1164
+
+    
+2004 as a result of the use of the machinery or equipment;
+            
+1165
+
+    
+    (ii)  has an economic life of five or more years; and
+            
+1166
+
+    
+    (iii)  is used to make the facility or the increase in capacity of the facility described in
+            
+1167
+
+    
+Subsection (57)(a)(i) operational up to the point of interconnection with an existing
+            
+1168
+
+    
+transmission grid including:
+            
+1169
+
+    
+    (A)  generating equipment;
+            
+1170
+
+    
+    (B)  a control and monitoring system;
+            
+1171
+
+    
+    (C)  a power line;
+            
+1172
+
+    
+    (D)  substation equipment;
+            
+1173
+
+    
+    (E)  lighting;
+            
+1174
+
+    
+    (F)  fencing;
+
+            
+1175
+
+
+    
+    (G)  pipes; or
+            
+1176
+
+    
+    (H)  other equipment used for locating a power line or pole; and
+            
+1177
+
+    
+    (b)  this Subsection (57) does not apply to:
+            
+1178
+
+    
+    (i)  machinery or equipment used in construction of:
+            
+1179
+
+    
+    (A)  a new waste energy facility; or
+            
+1180
+
+    
+    (B)  the increase in the capacity of a waste energy facility;
+            
+1181
+
+    
+    (ii)  contracted services required for construction and routine maintenance activities;
+            
+1182
+
+    
+and
+            
+1183
+
+    
+    (iii)  unless the machinery or equipment is used or acquired for an increase in capacity
+            
+1184
+
+    
+described in Subsection (57)(a)(i)(C)(II), machinery or equipment used or acquired after:
+            
+1185
+
+    
+    (A)  the waste energy facility described in Subsection (57)(a)(i) is operational as
+            
+1186
+
+    
+described in Subsection (57)(a)(iii); or
+            
+1187
+
+    
+    (B)  the increased capacity described in Subsection (57)(a)(i) is operational as described
+            
+1188
+
+    
+in Subsection (57)(a)(iii);
+            
+1189
+
+    
+    (58) (a)  leases of five or more years or purchases made on or after July 1, 2004 but on
+            
+1190
+
+    
+or before June 30, 2019, of machinery or equipment that:
+            
+1191
+
+    
+    (i)  is leased or purchased for or by a facility that:
+            
+1192
+
+    
+    (A)  is located in the state;
+            
+1193
+
+    
+    (B)  produces fuel from biomass energy including:
+            
+1194
+
+    
+    (I)  methanol; or
+            
+1195
+
+    
+    (II)  ethanol; and
+            
+1196
+
+    
+    (C) (I)  becomes operational on or after July 1, 2004; or
+            
+1197
+
+    
+    (II)  has its capacity to produce fuel increase by 25% or more on or after July 1, 2004 as
+            
+1198
+
+    
+a result of the installation of the machinery or equipment;
+            
+1199
+
+    
+    (ii)  has an economic life of five or more years; and
+            
+1200
+
+    
+    (iii)  is installed on the facility described in Subsection (58)(a)(i);
+            
+1201
+
+    
+    (b)  this Subsection (58) does not apply to:
+            
+1202
+
+    
+    (i)  machinery or equipment used in construction of:
+            
+1203
+
+    
+    (A)  a new facility described in Subsection (58)(a)(i); or
+            
+1204
+
+    
+    (B)  the increase in capacity of the facility described in Subsection (58)(a)(i); or
+            
+1205
+
+    
+    (ii)  contracted services required for construction and routine maintenance activities;
+
+            
+1206
+
+
+    
+and
+            
+1207
+
+    
+    (iii)  unless the machinery or equipment is used or acquired for an increase in capacity
+            
+1208
+
+    
+described in Subsection (58)(a)(i)(C)(II), machinery or equipment used or acquired after:
+            
+1209
+
+    
+    (A)  the facility described in Subsection (58)(a)(i) is operational; or
+            
+1210
+
+    
+    (B)  the increased capacity described in Subsection (58)(a)(i) is operational;
+            
+1211
+
+    
+    (59) (a)  subject to Subsection (59)(b) or (c), sales of tangible personal property or a
+            
+1212
+
+    
+product transferred electronically to a person within this state if that tangible personal property
+            
+1213
+
+    
+or product transferred electronically is subsequently shipped outside the state and incorporated
+            
+1214
+
+    
+pursuant to contract into and becomes a part of real property located outside of this state;
+            
+1215
+
+    
+    (b)  the exemption under Subsection (59)(a) is not allowed to the extent that the other
+            
+1216
+
+    
+state or political entity to which the tangible personal property is shipped imposes a sales, use,
+            
+1217
+
+    
+gross receipts, or other similar transaction excise tax on the transaction against which the other
+            
+1218
+
+    
+state or political entity allows a credit for sales and use taxes imposed by this chapter; and
+            
+1219
+
+    
+    (c)  notwithstanding the time period of Subsection 
+
+59-12-110
+
+(2)(b) for filing for a
+            
+1220
+
+    
+refund, a person may claim the exemption allowed by this Subsection (59) for a sale by filing
+            
+1221
+
+    
+for a refund:
+            
+1222
+
+    
+    (i)  if the sale is made on or after July 1, 2004, but on or before June 30, 2008;
+            
+1223
+
+    
+    (ii)  as if this Subsection (59) as in effect on July 1, 2008, were in effect on the day on
+            
+1224
+
+    
+which the sale is made;
+            
+1225
+
+    
+    (iii)  if the person did not claim the exemption allowed by this Subsection (59) for the
+            
+1226
+
+    
+sale prior to filing for the refund;
+            
+1227
+
+    
+    (iv)  for sales and use taxes paid under this chapter on the sale;
+            
+1228
+
+    
+    (v)  in accordance with Section 
+
+59-12-110
+
+; and
+            
+1229
+
+    
+    (vi)  subject to any extension allowed for filing for a refund under Section 
+
+59-12-110
+
+, if
+            
+1230
+
+    
+the person files for the refund on or before June 30, 2011;
+            
+1231
+
+    
+    (60)  purchases:
+            
+1232
+
+    
+    (a)  of one or more of the following items in printed or electronic format:
+            
+1233
+
+    
+    (i)  a list containing information that includes one or more:
+            
+1234
+
+    
+    (A)  names; or
+            
+1235
+
+    
+    (B)  addresses; or
+            
+1236
+
+    
+    (ii)  a database containing information that includes one or more:
+
+            
+1237
+
+
+    
+    (A)  names; or
+            
+1238
+
+    
+    (B)  addresses; and
+            
+1239
+
+    
+    (b)  used to send direct mail;
+            
+1240
+
+    
+    (61)  redemptions or repurchases of a product by a person if that product was:
+            
+1241
+
+    
+    (a)  delivered to a pawnbroker as part of a pawn transaction; and
+            
+1242
+
+    
+    (b)  redeemed or repurchased within the time period established in a written agreement
+            
+1243
+
+    
+between the person and the pawnbroker for redeeming or repurchasing the product;
+            
+1244
+
+    
+    (62) (a)  purchases or leases of an item described in Subsection (62)(b) if the item:
+            
+1245
+
+    
+    (i)  is purchased or leased by, or on behalf of, a telecommunications service provider;
+            
+1246
+
+    
+and
+            
+1247
+
+    
+    (ii)  has a useful economic life of one or more years; and
+            
+1248
+
+    
+    (b)  the following apply to Subsection (62)(a):
+            
+1249
+
+    
+    (i)  telecommunications enabling or facilitating equipment, machinery, or software;
+            
+1250
+
+    
+    (ii)  telecommunications equipment, machinery, or software required for 911 service;
+            
+1251
+
+    
+    (iii)  telecommunications maintenance or repair equipment, machinery, or software;
+            
+1252
+
+    
+    (iv)  telecommunications switching or routing equipment, machinery, or software; or
+            
+1253
+
+    
+    (v)  telecommunications transmission equipment, machinery, or software;
+            
+1254
+
+    
+    (63) (a)  beginning on July 1, 2006, and ending on June 30, 2016, purchases of tangible
+            
+1255
+
+    
+personal property or a product transferred electronically that are used in the research and
+            
+1256
+
+    
+development of coal-to-liquids, oil shale, or tar sands technology; and
+            
+1257
+
+    
+    (b)  in accordance with Title 63G, Chapter 3, Utah Administrative Rulemaking Act, the
+            
+1258
+
+    
+commission may, for purposes of Subsection (63)(a), make rules defining what constitutes
+            
+1259
+
+    
+purchases of tangible personal property or a product transferred electronically that are used in
+            
+1260
+
+    
+the research and development of coal-to-liquids, oil shale, and tar sands technology;
+            
+1261
+
+    
+    (64) (a)  purchases of tangible personal property or a product transferred electronically
+            
+1262
+
+    
+if:
+            
+1263
+
+    
+    (i)  the tangible personal property or product transferred electronically is:
+            
+1264
+
+    
+    (A)  purchased outside of this state;
+            
+1265
+
+    
+    (B)  brought into this state at any time after the purchase described in Subsection
+            
+1266
+
+    
+(64)(a)(i)(A); and
+            
+1267
+
+    
+    (C)  used in conducting business in this state; and
+
+            
+1268
+
+
+    
+    (ii)  for:
+            
+1269
+
+    
+    (A)  tangible personal property or a product transferred electronically other than the
+            
+1270
+
+    
+tangible personal property described in Subsection (64)(a)(ii)(B), the first use of the property
+            
+1271
+
+    
+for a purpose for which the property is designed occurs outside of this state; or
+            
+1272
+
+    
+    (B)  a vehicle other than a vehicle sold to an authorized carrier, the vehicle is registered
+            
+1273
+
+    
+outside of this state;
+            
+1274
+
+    
+    (b)  the exemption provided for in Subsection (64)(a) does not apply to:
+            
+1275
+
+    
+    (i)  a lease or rental of tangible personal property or a product transferred electronically;
+            
+1276
+
+    
+or
+            
+1277
+
+    
+    (ii)  a sale of a vehicle exempt under Subsection (33); and
+            
+1278
+
+    
+    (c)  in accordance with Title 63G, Chapter 3, Utah Administrative Rulemaking Act, for
+            
+1279
+
+    
+purposes of Subsection (64)(a), the commission may by rule define what constitutes the
+            
+1280
+
+    
+following:
+            
+1281
+
+    
+    (i)  conducting business in this state if that phrase has the same meaning in this
+            
+1282
+
+    
+Subsection (64) as in Subsection (24);
+            
+1283
+
+    
+    (ii)  the first use of tangible personal property or a product transferred electronically if
+            
+1284
+
+    
+that phrase has the same meaning in this Subsection (64) as in Subsection (24); or
+            
+1285
+
+    
+    (iii)  a purpose for which tangible personal property or a product transferred
+            
+1286
+
+    
+electronically is designed if that phrase has the same meaning in this Subsection (64) as in
+            
+1287
+
+    
+Subsection (24);
+            
+1288
+
+    
+    (65)  sales of disposable home medical equipment or supplies if:
+            
+1289
+
+    
+    (a)  a person presents a prescription for the disposable home medical equipment or
+            
+1290
+
+    
+supplies;
+            
+1291
+
+    
+    (b)  the disposable home medical equipment or supplies are used exclusively by the
+            
+1292
+
+    
+person to whom the prescription described in Subsection (65)(a) is issued; and
+            
+1293
+
+    
+    (c)  the disposable home medical equipment and supplies are listed as eligible for
+            
+1294
+
+    
+payment under:
+            
+1295
+
+    
+    (i)  Title XVIII, federal Social Security Act; or
+            
+1296
+
+    
+    (ii)  the state plan for medical assistance under Title XIX, federal Social Security Act; 
+            
+1297
+
+    
+    (66)  sales:
+            
+1298
+
+    
+    (a)  to a public transit district under Title 17B, Chapter 2a, Part 8, Public Transit
+
+            
+1299
+
+
+    
+District Act; or
+            
+1300
+
+    
+    (b)  of tangible personal property to a subcontractor of a public transit district, if the
+            
+1301
+
+    
+tangible personal property is:
+            
+1302
+
+    
+    (i)  clearly identified; and
+            
+1303
+
+    
+    (ii)  installed or converted to real property owned by the public transit district;
+            
+1304
+
+    
+    (67)  sales of construction materials:
+            
+1305
+
+    
+    (a)  purchased on or after July 1, 2010;
+            
+1306
+
+    
+    (b)  purchased by, on behalf of, or for the benefit of an international airport:
+            
+1307
+
+    
+    (i)  located within a county of the first class; and
+            
+1308
+
+    
+    (ii)  that has a United States customs office on its premises; and
+            
+1309
+
+    
+    (c)  if the construction materials are:
+            
+1310
+
+    
+    (i)  clearly identified;
+            
+1311
+
+    
+    (ii)  segregated; and
+            
+1312
+
+    
+    (iii)  installed or converted to real property:
+            
+1313
+
+    
+    (A)  owned or operated by the international airport described in Subsection (67)(b); and
+            
+1314
+
+    
+    (B)  located at the international airport described in Subsection (67)(b);
+            
+1315
+
+    
+    (68)  sales of construction materials:
+            
+1316
+
+    
+    (a)  purchased on or after July 1, 2008;
+            
+1317
+
+    
+    (b)  purchased by, on behalf of, or for the benefit of a new airport:
+            
+1318
+
+    
+    (i)  located within a county of the second class; and
+            
+1319
+
+    
+    (ii)  that is owned or operated by a city in which an airline as defined in Section
+            
+1320
+
+    
+
+59-2-102
+
+ is headquartered; and
+            
+1321
+
+    
+    (c)  if the construction materials are:
+            
+1322
+
+    
+    (i)  clearly identified;
+            
+1323
+
+    
+    (ii)  segregated; and
+            
+1324
+
+    
+    (iii)  installed or converted to real property:
+            
+1325
+
+    
+    (A)  owned or operated by the new airport described in Subsection (68)(b);
+            
+1326
+
+    
+    (B)  located at the new airport described in Subsection (68)(b); and
+            
+1327
+
+    
+    (C)  as part of the construction of the new airport described in Subsection (68)(b); and
+            
+1328
+
+    
+    (69)  sales of fuel to a common carrier that is a railroad for use in a locomotive engine.
+            
+1329
+
+    
+    Section 4.  
+Section  
+62A-11-328
+
+ is amended to read:
+
+            
+1330
+
+
+    
+     62A-11-328.  Information received from State Tax Commission provided to other
+            
+1331
+
+    
+ states' child support collection agencies.
+            
+1332
+
+    
+    The office shall, upon request, provide to any other state's child support collection
+            
+1333
+
+    
+agency the information which it receives from the State Tax Commission under Subsection
+            
+1334
+
+    
+
+59-1-403
+
+(3)[(m)] (l), with regard to a support debt which that agency is involved in enforcing.
+            
+1335
+
+    
+    Section 5.  Repealer.
+            
+1336
+
+    
+    This bill repeals:
+            
+1337
+
+    
+    Section  59-12-105,  Certain exempt sales to be reported -- Penalties.
+            
+1338
+
+    
+    Section 6.   Effective date.
+            
+1339
+
+    
+    This bill takes effect on July 1, 2009.
+
+
+
+
+ Legislative Review Note
+    as of  11-25-08  3:50 PM
+
+ Office of Legislative Research and General Counsel
+[Bill Documents][Bills Directory]
+
+
+
+
+
+
+
+
+
+Who represents me?
+
+
+
+
+
+Remember my Legislators
+
+
+
+
+
+State Senate
+		350 North State, Suite 320
+		PO Box 145115
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1035
+		Fax: (801) 326-1475
+
+
+
+House of Representatives
+		350 North State, Suite 350
+		PO Box 145030
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1029
+		Fax: (801) 326-1544
+
+
+
+
+
+
+
+
+
+
+Home
+Mobile Site
+Site Map
+Calendar
+Code / Constitution
+House
+Senate
+
+Terms of Use/Privacy Policy
+
+ADA
+Utah.gov
+
+
+
+
+
+
+

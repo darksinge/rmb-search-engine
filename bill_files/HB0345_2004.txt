@@ -1,0 +1,669 @@
+Sponsors: []Modifications:     59-10-136.(1)  As used in this section:(a)  "federal adjusted gross income" is as defined in Section 62, Internal Revenue Code;and(b)  "federal earned income tax credit" means the amount of the federal earned incometax credit an individual is allowed for the taxable year in accordance with Section 32, InternalRevenue Code.(2)  For taxable years beginning on or after January 1, 2005, a resident or nonresidentindividual may claim as provided in this section a refundable earned income tax credit asfollows:(a)  the tax credit is equal to 10% of the federal earned income tax credit if:(i)  the federal adjusted gross income of the following is less than or equal to $5,000:(A)  a husband and wife filing a single tax return jointly; or(B)  a head of household; or(ii)  the federal adjusted gross income of a resident or nonresident individual other thanthe following is less than or equal to $2,500:(A)  a husband and wife filing a single tax return jointly; or(B)  a head of household;(b)  the tax credit is equal to 7% of the federal earned income tax credit if:(i)  the federal adjusted gross income of the following is greater than $5,000 but lessthan or equal to $15,000:(A)  a husband and wife filing a single tax return jointly; or(B)  a head of household; or(ii)  the federal adjusted gross income of a resident or nonresident individual other thanthe following is greater than $2,500 but less than or equal to $7,500:(A)  a husband and wife filing a single tax return jointly; or(B)  a head of household; or(c)  the tax credit is equal to 4% of the federal earned income tax credit if:(i)  the federal adjusted gross income of the following is greater than $15,000 but lessthan or equal to $25,000:(A)  a husband and wife filing a single tax return jointly; or(B)  a head of household; or(ii)  the federal adjusted gross income of a resident or nonresident individual other thanthe following is greater than $7,500 but less than or equal to $12,500:(A)  a husband and wife filing a single tax return jointly; or(B)  a head of household.(3) (a)  For taxable years beginning on or after January 1, 2006, the commission shallincrease or decrease the federal adjusted gross income amounts provided for in Subsection (2)by a percentage equal to the percentage difference between the consumer price index for thepreceding calendar year and the consumer price index for calendar year 2004.(b)  For purposes of Subsection (3)(a), the commission shall calculate the consumerprice index as provided in Sections 1(f)(4) and 1(f)(5), Internal Revenue Code.(4)  A resident or nonresident individual may not claim a tax credit under this section ifthe resident or nonresident individual's federal adjusted gross income is greater than thegreatest amount of federal adjusted gross income for which a tax credit is allowed underSubsection (2)(c).(5)  A resident or nonresident individual may not carry forward or carry back the taxcredit provided for under this section.(6)  In accordance with Title 63, Chapter 46a, Utah Administrative Rulemaking Act, thecommission may make rules providing procedures for issuing a refund to a resident ornonresident individual for the tax credit provided for under this section if the tax credit exceedsthe resident or nonresident individual's tax liability under this chapter for the taxable year forwhich the resident or nonresident individual claims the tax credit.Full text:
+
+
+
+Utah State Legislature
+
+
+
+
+
+
+
+
+
+
+
+
+Legislators
+
+By Session (1896-Current)
+Alphabetical (Historical)
+Find by Address/Map
+More
+
+
+Bills
+
+Bills/Bill Requests
+Passed Bills
+2017 Bills
+
+Keyword Search
+Reading Calendars
+Tracking Service
+More
+
+
+Committees
+
+All Committees
+Appropriations
+Commissions
+
+Independent Legislative Ethics Commission
+Interim
+Standing
+Subcommittees
+Task Forces
+Bills In Committees
+
+
+Utah Code / Constitution
+
+
+Title/Chapter/Section
+Keyword Search 
+
+Utah Constitution
+Laws of Utah 1851-ongoing
+Utah Territorial Laws 
+More
+
+
+Senate
+
+Main Page 
+About The Senate 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Extraordinary Sessions 
+Reading Calendars 
+Past Floor Debates 
+Senate Journals 
+
+
+House
+
+Main Page
+About the House 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Reading Calendars 
+Past Floor Debates 
+Journals 
+Conflict of Interest Forms 
+
+
+Legislative Guide 
+
+Legislative Guide
+Civic Programs
+GRAMA (Records Requests)
+
+
+Publications
+
+Search Publications
+Appropriations
+Audits
+Bagels & Briefings
+Briefing Papers
+Digest of Legislation
+Legislative Drafting Manual
+
+Journals
+
+Interim Highlights
+
+Legislative Rules
+GRAMA (Records Requests)
+Public Email
+State Organization Charts
+YouTube Channel
+Requests for Proposals and Legal Notices
+More
+
+
+Legislative Histories
+
+Legislative History Resources
+How to Research
+Bill Drafting/Research Files (1990-Ongoing)
+
+Working Bills (1896-1989)
+Interim Committee Histories (1990-Ongoing) 
+Journals
+Past House Floor Debates
+Past Senate Floor Debates
+More
+
+
+Staff Offices
+
+All Legislative Offices
+Auditor General
+Fiscal Analyst
+Printing
+Research and General Counsel
+Staff Awards
+Job Opportunities
+More
+
+
+Links of Interest
+
+Utah Administrative Rules
+Courts
+Utah State Capitol
+State of Utah
+Federal Legislation
+More
+
+
+
+
+
+
+ 
+
+Download Zipped Introduced WordPerfect HB0345.ZIP
+[Status][Bill Documents][Fiscal Note][Bills Directory]
+
+
+H.B. 345
+
+
+
+
+
+            
+1
+
+    
+ EARNED INCOME TAX CREDIT
+
+
+
+            
+2
+
+    
+2004 GENERAL SESSION
+
+            
+3
+
+    
+STATE OF UTAH
+
+            
+4
+
+    
+
+
+ Sponsor: Jackie Biskupski
+
+
+
+            
+5
+
+    
+
+            
+6
+
+    
+ LONG TITLE
+            
+7
+
+    
+ General Description:
+            
+8
+
+    
+    This bill amends the Individual Income Tax Act.
+            
+9
+
+    
+ Highlighted Provisions:
+            
+10
+
+    
+    This bill:
+            
+11
+
+    
+    .    provides for a refundable state earned income tax credit that is a certain percentage
+            
+12
+
+    
+of the federal earned income tax credit;
+            
+13
+
+    
+    .    requires the State Tax Commission to increase or decrease for inflation or deflation
+            
+14
+
+    
+federal adjusted gross income amounts used in determining the tax credit; and
+            
+15
+
+    
+    .    grants rulemaking authority to the State Tax Commission to provide procedures for
+            
+16
+
+    
+issuing refunds under certain circumstances to a resident or nonresident individual
+            
+17
+
+    
+claiming the tax credit.
+            
+18
+
+    
+ Monies Appropriated in this Bill:
+            
+19
+
+    
+    None
+            
+20
+
+    
+ Other Special Clauses:
+            
+21
+
+    
+    None
+            
+22
+
+    
+ Utah Code Sections Affected:
+            
+23
+
+    
+ENACTS:
+            
+24
+
+    
+     59-10-136, Utah Code Annotated 1953
+            
+25
+
+    
+
+            
+26
+
+    
+Be it enacted by the Legislature of the state of Utah:
+            
+27
+
+    
+    Section 1.  
+Section  
+59-10-136
+
+ is enacted to read:
+
+            
+28
+
+
+    
+     59-10-136.  State earned income tax credit.
+            
+29
+
+    
+    (1)  As used in this section:
+            
+30
+
+    
+    (a)  "federal adjusted gross income" is as defined in Section 62, Internal Revenue Code;
+            
+31
+
+    
+and
+            
+32
+
+    
+    (b)  "federal earned income tax credit" means the amount of the federal earned income
+            
+33
+
+    
+tax credit an individual is allowed for the taxable year in accordance with Section 32, Internal
+            
+34
+
+    
+Revenue Code.
+            
+35
+
+    
+    (2)  For taxable years beginning on or after January 1, 2005, a resident or nonresident
+            
+36
+
+    
+individual may claim as provided in this section a refundable earned income tax credit as
+            
+37
+
+    
+follows:
+            
+38
+
+    
+    (a)  the tax credit is equal to 10% of the federal earned income tax credit if:
+            
+39
+
+    
+    (i)  the federal adjusted gross income of the following is less than or equal to $5,000:
+            
+40
+
+    
+    (A)  a husband and wife filing a single tax return jointly; or
+            
+41
+
+    
+    (B)  a head of household; or
+            
+42
+
+    
+    (ii)  the federal adjusted gross income of a resident or nonresident individual other than
+            
+43
+
+    
+the following is less than or equal to $2,500:
+            
+44
+
+    
+    (A)  a husband and wife filing a single tax return jointly; or
+            
+45
+
+    
+    (B)  a head of household;
+            
+46
+
+    
+    (b)  the tax credit is equal to 7% of the federal earned income tax credit if:
+            
+47
+
+    
+    (i)  the federal adjusted gross income of the following is greater than $5,000 but less
+            
+48
+
+    
+than or equal to $15,000:
+            
+49
+
+    
+    (A)  a husband and wife filing a single tax return jointly; or
+            
+50
+
+    
+    (B)  a head of household; or
+            
+51
+
+    
+    (ii)  the federal adjusted gross income of a resident or nonresident individual other than
+            
+52
+
+    
+the following is greater than $2,500 but less than or equal to $7,500:
+            
+53
+
+    
+    (A)  a husband and wife filing a single tax return jointly; or
+            
+54
+
+    
+    (B)  a head of household; or
+            
+55
+
+    
+    (c)  the tax credit is equal to 4% of the federal earned income tax credit if:
+            
+56
+
+    
+    (i)  the federal adjusted gross income of the following is greater than $15,000 but less
+            
+57
+
+    
+than or equal to $25,000:
+            
+58
+
+    
+    (A)  a husband and wife filing a single tax return jointly; or
+
+            
+59
+
+
+    
+    (B)  a head of household; or
+            
+60
+
+    
+    (ii)  the federal adjusted gross income of a resident or nonresident individual other than
+            
+61
+
+    
+the following is greater than $7,500 but less than or equal to $12,500:
+            
+62
+
+    
+    (A)  a husband and wife filing a single tax return jointly; or
+            
+63
+
+    
+    (B)  a head of household.
+            
+64
+
+    
+    (3) (a)  For taxable years beginning on or after January 1, 2006, the commission shall
+            
+65
+
+    
+increase or decrease the federal adjusted gross income amounts provided for in Subsection (2)
+            
+66
+
+    
+by a percentage equal to the percentage difference between the consumer price index for the
+            
+67
+
+    
+preceding calendar year and the consumer price index for calendar year 2004.
+            
+68
+
+    
+    (b)  For purposes of Subsection (3)(a), the commission shall calculate the consumer
+            
+69
+
+    
+price index as provided in Sections 1(f)(4) and 1(f)(5), Internal Revenue Code.
+            
+70
+
+    
+    (4)  A resident or nonresident individual may not claim a tax credit under this section if
+            
+71
+
+    
+the resident or nonresident individual's federal adjusted gross income is greater than the
+            
+72
+
+    
+greatest amount of federal adjusted gross income for which a tax credit is allowed under
+            
+73
+
+    
+Subsection (2)(c).
+            
+74
+
+    
+    (5)  A resident or nonresident individual may not carry forward or carry back the tax
+            
+75
+
+    
+credit provided for under this section.
+            
+76
+
+    
+    (6)  In accordance with Title 63, Chapter 46a, Utah Administrative Rulemaking Act, the
+            
+77
+
+    
+commission may make rules providing procedures for issuing a refund to a resident or
+            
+78
+
+    
+nonresident individual for the tax credit provided for under this section if the tax credit exceeds
+            
+79
+
+    
+the resident or nonresident individual's tax liability under this chapter for the taxable year for
+            
+80
+
+    
+which the resident or nonresident individual claims the tax credit.
+
+
+
+
+ Legislative Review Note
+    as of   2-5-04  6:26 PM
+
+A limited legal review of this legislation raises no obvious constitutional or statutory concerns.
+
+ Office of Legislative Research and General Counsel
+[Bill Documents][Bills Directory]
+
+
+
+
+
+
+
+
+
+Who represents me?
+
+
+
+
+
+Remember my Legislators
+
+
+
+
+
+State Senate
+		350 North State, Suite 320
+		PO Box 145115
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1035
+		Fax: (801) 326-1475
+
+
+
+House of Representatives
+		350 North State, Suite 350
+		PO Box 145030
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1029
+		Fax: (801) 326-1544
+
+
+
+
+
+
+
+
+
+
+Home
+Mobile Site
+Site Map
+Calendar
+Code / Constitution
+House
+Senate
+
+Terms of Use/Privacy Policy
+
+ADA
+Utah.gov
+
+
+
+
+
+
+

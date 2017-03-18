@@ -1,0 +1,444 @@
+Sponsors: []Modifications: (i)  Except as provided in Subsection (2)(c), inchapter(ii)chapterUnless a court or administrative law judge imposes limitations in a restrictiveorder, thisthe:(i); or(ii)  medical records discoverable under state or federal court rules as authorized bySubsection 63-2-302(3)(3) (a)  As used in this Subsection (3), "medical records" means medical reports, records,statements, history, diagnosis, condition, treatment, evaluation, and other medical data arising outof, related to, or acquired during the treatment of a patient.(b)  Medical records in the possession of the University of Utah Hospital, its clinics,doctors, or affiliated entities are not private records when the records are sought:(i)  in connection with any legal or administrative proceeding in which the patient'sphysical, mental, or emotional condition is an element of any claim or defense; or(ii)  after a patient's death, in any legal or administrative proceeding in which any partyrelies upon the condition as an element of the claim or defense.(c)  Medical records are subject to production in a legal or administrative proceedingaccording to state or federal statutes or rules of procedure and evidence as if the medical recordswere in the possession of a nongovernmental medical care provider.Full text:
+
+
+
+Utah State Legislature
+
+
+
+
+
+
+
+
+
+
+
+
+Legislators
+
+By Session (1896-Current)
+Alphabetical (Historical)
+Find by Address/Map
+More
+
+
+Bills
+
+Bills/Bill Requests
+Passed Bills
+2017 Bills
+
+Keyword Search
+Reading Calendars
+Tracking Service
+More
+
+
+Committees
+
+All Committees
+Appropriations
+Commissions
+
+Independent Legislative Ethics Commission
+Interim
+Standing
+Subcommittees
+Task Forces
+Bills In Committees
+
+
+Utah Code / Constitution
+
+
+Title/Chapter/Section
+Keyword Search 
+
+Utah Constitution
+Laws of Utah 1851-ongoing
+Utah Territorial Laws 
+More
+
+
+Senate
+
+Main Page 
+About The Senate 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Extraordinary Sessions 
+Reading Calendars 
+Past Floor Debates 
+Senate Journals 
+
+
+House
+
+Main Page
+About the House 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Reading Calendars 
+Past Floor Debates 
+Journals 
+Conflict of Interest Forms 
+
+
+Legislative Guide 
+
+Legislative Guide
+Civic Programs
+GRAMA (Records Requests)
+
+
+Publications
+
+Search Publications
+Appropriations
+Audits
+Bagels & Briefings
+Briefing Papers
+Digest of Legislation
+Legislative Drafting Manual
+
+Journals
+
+Interim Highlights
+
+Legislative Rules
+GRAMA (Records Requests)
+Public Email
+State Organization Charts
+YouTube Channel
+Requests for Proposals and Legal Notices
+More
+
+
+Legislative Histories
+
+Legislative History Resources
+How to Research
+Bill Drafting/Research Files (1990-Ongoing)
+
+Working Bills (1896-1989)
+Interim Committee Histories (1990-Ongoing) 
+Journals
+Past House Floor Debates
+Past Senate Floor Debates
+More
+
+
+Staff Offices
+
+All Legislative Offices
+Auditor General
+Fiscal Analyst
+Printing
+Research and General Counsel
+Staff Awards
+Job Opportunities
+More
+
+
+Links of Interest
+
+Utah Administrative Rules
+Courts
+Utah State Capitol
+State of Utah
+Federal Legislation
+More
+
+
+
+
+
+
+ 
+
+Download Zipped Introduced WP 6.1 HB0409.ZIP 8,479 Bytes
+[Status][Bill Documents][Fiscal Note][Bills Directory]
+
+
+H.B. 409
+
+
+
+
+
+1     GOVERNMENT RECORDS ACCESS AND
+
+
+2     MANAGEMENT ACT
+
+
+
+
+3    1998 GENERAL SESSION
+
+
+4    STATE OF UTAH
+
+
+5     Sponsor:  John E. Swallow
+
+
+6    AN ACT RELATING TO DISCLOSURE OF GOVERNMENT RECORDS; MODIFYING
+
+7    PROVISIONS GOVERNING DISCLOSURE OF CERTAIN MEDICAL RECORDS; AND
+
+8    MAKING TECHNICAL CORRECTIONS.
+
+9    This act affects sections of Utah Code Annotated 1953 as follows:
+
+10    AMENDS:
+
+11         63-2-207, as last amended by Chapter 99, Laws of Utah 1994
+
+12         63-2-302, as last amended by Chapter 232, Laws of Utah 1997
+
+13    Be it enacted by the Legislature of the state of Utah:
+
+14        Section 1.  Section  63-2-207 is amended to read:
+
+15         63-2-207.  Subpoenas.
+
+16        (1)  Subpoenas and other methods of discovery under the state or federal statutes or rules
+
+17    of civil, criminal, administrative, or legislative procedure are not written requests under Section
+
+18    63-2-204.
+
+19        (2) (a)  [In] (i)  Except as provided in Subsection (2)(c), in judicial or administrative
+
+20    proceedings in which an individual is requesting discovery of records classified private, controlled,
+
+21    or protected under this [act] chapter, or otherwise restricted from access by other statutes, the
+
+22    court, or an administrative law judge shall follow the procedure in Subsection 63-2-202(7) before
+
+23    ordering disclosure.
+
+24        (ii)  Until the court or an administrative law judge orders disclosure, these records are
+
+25    privileged from discovery.
+
+26        (b)  If, the court or administrative order requires disclosure, the terms of the order may limit
+
+27    the requester's further use and disclosure of the record in accordance with Subsection 63-2-202(7),
+
+
+1    in order to protect the privacy interests recognized in this [act] chapter.
+
+2        (c)  [This] Unless a court or administrative law judge imposes limitations in a restrictive
+
+3    order, this section does not [otherwise] limit [a person's] the right to obtain:
+
+4        (i)  records through the procedures set forth in this chapter[, unless the court or an
+
+5    administrative law judge includes such a limitation in its order.]; or
+
+6        (ii)  medical records discoverable under state or federal court rules as authorized by
+
+7    Subsection 63-2-302(3).
+
+8        Section 2.  Section  63-2-302 is amended to read:
+
+9         63-2-302.  Private records.
+
+10        (1)  The following records are private:
+
+11        (a)  records concerning an individual's eligibility for unemployment insurance benefits,
+
+12    social services, welfare benefits, or the determination of benefit levels;
+
+13        (b)  records containing data on individuals describing medical history, diagnosis, condition,
+
+14    treatment, evaluation, or similar medical data;
+
+15        (c)  records of publicly funded libraries that when examined alone or with other records
+
+16    identify a patron;
+
+17        (d)  records received or generated for a Senate or House Ethics Committee concerning any
+
+18    alleged violation of the rules on legislative ethics, prior to the meeting, and after the meeting, if
+
+19    the ethics committee meeting was closed to the public;
+
+20        (e)  records received or generated for a Senate confirmation committee concerning
+
+21    character, professional competence, or physical or mental health of an individual:
+
+22        (i)  if prior to the meeting, the chair of the committee determines release of the records:
+
+23        (A)  reasonably could be expected to interfere with the investigation undertaken by the
+
+24    committee; or
+
+25        (B)  would create a danger of depriving a person of a right to a fair proceeding or impartial
+
+26    hearing;
+
+27        (ii)  after the meeting, if the meeting was closed to the public;
+
+28        (f)  records concerning a current or former employee of, or applicant for employment with,
+
+29    a governmental entity that would disclose that individual's home address, home telephone number,
+
+30    social security number, insurance coverage, marital status, or payroll deductions; and
+
+31        (g)  that part of a record indicating a person's social security number if provided under
+
+- 2 -
+
+
+1    Section 31A-23-202, 31A-26-202, 58-1-301, 61-1-4, or 61-2-6.
+
+2        (2)  The following records are private if properly classified by a governmental entity:
+
+3        (a)  records concerning a current or former employee of, or applicant for employment with
+
+4    a governmental entity, including performance evaluations and personal status information such as
+
+5    race, religion, or disabilities, but not including records that are public under Subsection
+
+6    63-2-301(1)(b) or 63-2-301(2)(o), or private under Subsection 63-2-302(1)(b);
+
+7        (b)  records describing an individual's finances, except that the following are public:
+
+8        (i)  records described in Subsection 63-2-301(1);
+
+9        (ii)  information provided to the governmental entity for the purpose of complying with a
+
+10    financial assurance requirement; or
+
+11        (iii)  records that must be disclosed in accordance with another statute;
+
+12        (c)  records of independent state agencies if the disclosure of those records would conflict
+
+13    with the fiduciary obligations of the agency;
+
+14        (d)  other records containing data on individuals the disclosure of which constitutes a
+
+15    clearly unwarranted invasion of personal privacy; and
+
+16        (e)  records provided by the United States or by a government entity outside the state that
+
+17    are given with the requirement that the records be managed as private records, if the providing
+
+18    entity states in writing that the record would not be subject to public disclosure if retained by it.
+
+19        (3) (a)  As used in this Subsection (3), "medical records" means medical reports, records,
+
+20    statements, history, diagnosis, condition, treatment, evaluation, and other medical data arising out
+
+21    of, related to, or acquired during the treatment of a patient.
+
+22        (b)  Medical records in the possession of the University of Utah Hospital, its clinics,
+
+23    doctors, or affiliated entities are not private records when the records are sought:
+
+24        (i)  in connection with any legal or administrative proceeding in which the patient's
+
+25    physical, mental, or emotional condition is an element of any claim or defense; or
+
+26        (ii)  after a patient's death, in any legal or administrative proceeding in which any party
+
+27    relies upon the condition as an element of the claim or defense.
+
+28        (c)  Medical records are subject to production in a legal or administrative proceeding
+
+29    according to state or federal statutes or rules of procedure and evidence as if the medical records
+
+30    were in the possession of a nongovernmental medical care provider.
+
+
+- 3 -
+
+
+
+
+ Legislative Review Note
+    as of   2-4-98  5:33 PM
+
+
+A limited legal review of this bill raises no obvious constitutional or statutory concerns.
+
+ Office of Legislative Research and General Counsel
+
+
+- 4 -
+[Bill Documents][Bills Directory]
+
+
+
+
+
+
+
+
+
+Who represents me?
+
+
+
+
+
+Remember my Legislators
+
+
+
+
+
+State Senate
+		350 North State, Suite 320
+		PO Box 145115
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1035
+		Fax: (801) 326-1475
+
+
+
+House of Representatives
+		350 North State, Suite 350
+		PO Box 145030
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1029
+		Fax: (801) 326-1544
+
+
+
+
+
+
+
+
+
+
+Home
+Mobile Site
+Site Map
+Calendar
+Code / Constitution
+House
+Senate
+
+Terms of Use/Privacy Policy
+
+ADA
+Utah.gov
+
+
+
+
+
+
+

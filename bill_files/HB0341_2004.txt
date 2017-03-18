@@ -1,0 +1,691 @@
+Sponsors: []Modifications: (1)  As used in this section:(a)  "Child pornography" is as defined in Section 
+
+76-5a-2
+
+.(b)  "Harmful to minors" is as defined in Section 
+
+76-10-1201
+
+.(c)  "Obscene" is as defined in 20 U.S.C. Sec. 9101.(d)  "Technology protection measure" means a technology that blocks or filters Internetaccess to visual depictions.(2)  Statemay not:(a) (i)  has in placeof Internet safety for minors including the operation of a technologyprotection measure:(A)  with respect to any computer with Internet access; and(B)  that protects against access to visual depictions that are:(I)  child pornography;(II)  harmful to minors; or(III)  obscene; and(ii)  is enforcing the operation of the technology protection measure described inSubsection (2)(a)(i) during any use of a computer by a minor; and(b) (i)  has in place a policy of Internet safety including the operation of a technologyprotection measure:(A)  with respect to any computer with Internet access; and(B)  that protects against access to visual depictions that are:(I)  child pornography; or(II)  obscene; and(ii)  is enforcing the operation of the technology protection measure described inSubsection (2)(b)(i) during any use of a computer.(3)  This section does not prohibit a public library from limiting Internet access orotherwise protecting against materials other than the materials specified in this section.(4)  An administrator, supervisor, or other representative of a public library may disablea technology protection measure described in Subsection (2):(a)  at the request of a library patron who is not a minor; and(b)  to enable access for research or other lawful purposes.:(i)described in Section 
+
+9-7-215
+
+;(ii)Full text:
+
+
+
+Utah State Legislature
+
+
+
+
+
+
+
+
+
+
+
+
+Legislators
+
+By Session (1896-Current)
+Alphabetical (Historical)
+Find by Address/Map
+More
+
+
+Bills
+
+Bills/Bill Requests
+Passed Bills
+2017 Bills
+
+Keyword Search
+Reading Calendars
+Tracking Service
+More
+
+
+Committees
+
+All Committees
+Appropriations
+Commissions
+
+Independent Legislative Ethics Commission
+Interim
+Standing
+Subcommittees
+Task Forces
+Bills In Committees
+
+
+Utah Code / Constitution
+
+
+Title/Chapter/Section
+Keyword Search 
+
+Utah Constitution
+Laws of Utah 1851-ongoing
+Utah Territorial Laws 
+More
+
+
+Senate
+
+Main Page 
+About The Senate 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Extraordinary Sessions 
+Reading Calendars 
+Past Floor Debates 
+Senate Journals 
+
+
+House
+
+Main Page
+About the House 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Reading Calendars 
+Past Floor Debates 
+Journals 
+Conflict of Interest Forms 
+
+
+Legislative Guide 
+
+Legislative Guide
+Civic Programs
+GRAMA (Records Requests)
+
+
+Publications
+
+Search Publications
+Appropriations
+Audits
+Bagels & Briefings
+Briefing Papers
+Digest of Legislation
+Legislative Drafting Manual
+
+Journals
+
+Interim Highlights
+
+Legislative Rules
+GRAMA (Records Requests)
+Public Email
+State Organization Charts
+YouTube Channel
+Requests for Proposals and Legal Notices
+More
+
+
+Legislative Histories
+
+Legislative History Resources
+How to Research
+Bill Drafting/Research Files (1990-Ongoing)
+
+Working Bills (1896-1989)
+Interim Committee Histories (1990-Ongoing) 
+Journals
+Past House Floor Debates
+Past Senate Floor Debates
+More
+
+
+Staff Offices
+
+All Legislative Offices
+Auditor General
+Fiscal Analyst
+Printing
+Research and General Counsel
+Staff Awards
+Job Opportunities
+More
+
+
+Links of Interest
+
+Utah Administrative Rules
+Courts
+Utah State Capitol
+State of Utah
+Federal Legislation
+More
+
+
+
+
+
+
+ 
+
+Download Zipped Introduced WordPerfect HB0341.ZIP
+[Status][Bill Documents][Fiscal Note][Bills Directory]
+
+
+H.B. 341
+
+
+
+
+
+            
+1
+
+    
+ CHILDREN'S INTERNET PROTECTION ACT
+
+
+
+            
+2
+
+    
+2004 GENERAL SESSION
+
+            
+3
+
+    
+STATE OF UTAH
+
+            
+4
+
+    
+
+
+ Sponsor: Michael E. Noel
+
+
+
+            
+5
+
+    
+
+            
+6
+
+    
+ LONG TITLE
+            
+7
+
+    
+ General Description:
+            
+8
+
+    
+    This bill modifies provisions of the Community and Economic Development Code
+            
+9
+
+    
+related to a public library.
+            
+10
+
+    
+ Highlighted Provisions:
+            
+11
+
+    
+    This bill:
+            
+12
+
+    
+    .    prohibits a public library from receiving state funds unless the library implements
+            
+13
+
+    
+and enforces measures to filter Internet access to certain types of images;
+            
+14
+
+    
+    .    allows a public library to block materials that are not specified in this bill; and
+            
+15
+
+    
+    .    allows a public library to disable a filter under certain circumstances.
+            
+16
+
+    
+ Monies Appropriated in this Bill:
+            
+17
+
+    
+    None
+            
+18
+
+    
+ Other Special Clauses:
+            
+19
+
+    
+    None
+            
+20
+
+    
+ Utah Code Sections Affected:
+            
+21
+
+    
+AMENDS:
+            
+22
+
+    
+     9-7-215, as enacted by Chapter 136, Laws of Utah 2000
+            
+23
+
+    
+     9-7-216, as enacted by Chapter 172, Laws of Utah 2001
+            
+24
+
+    
+
+            
+25
+
+    
+Be it enacted by the Legislature of the state of Utah:
+            
+26
+
+    
+    Section 1.  
+Section  
+9-7-215
+
+ is amended to read:
+            
+27
+
+    
+     9-7-215.  Internet and online access policy required.
+
+            
+28
+
+
+    
+    (1)  As used in this section:
+            
+29
+
+    
+    (a)  "Child pornography" is as defined in Section 
+
+76-5a-2
+
+.
+            
+30
+
+    
+    (b)  "Harmful to minors" is as defined in Section 
+
+76-10-1201
+
+.
+            
+31
+
+    
+    (c)  "Obscene" is as defined in 20 U.S.C. Sec. 9101.
+            
+32
+
+    
+    (d)  "Technology protection measure" means a technology that blocks or filters Internet
+            
+33
+
+    
+access to visual depictions.
+            
+34
+
+    
+    [No state] (2)  State funds [shall] may not be provided to any public library that offers
+            
+35
+
+    
+use of the Internet or an online service to the public unless the library [adopts and enforces]:
+            
+36
+
+    
+    (a) (i)  has in place a policy [to restrict access by minors to Internet or online sites that
+            
+37
+
+    
+contain obscene material.] of Internet safety for minors including the operation of a technology
+            
+38
+
+    
+protection measure:
+            
+39
+
+    
+    (A)  with respect to any computer with Internet access; and
+            
+40
+
+    
+    (B)  that protects against access to visual depictions that are:
+            
+41
+
+    
+    (I)  child pornography;
+            
+42
+
+    
+    (II)  harmful to minors; or
+            
+43
+
+    
+    (III)  obscene; and
+            
+44
+
+    
+    (ii)  is enforcing the operation of the technology protection measure described in
+            
+45
+
+    
+Subsection (2)(a)(i) during any use of a computer by a minor; and
+            
+46
+
+    
+    (b) (i)  has in place a policy of Internet safety including the operation of a technology
+            
+47
+
+    
+protection measure:
+            
+48
+
+    
+    (A)  with respect to any computer with Internet access; and
+            
+49
+
+    
+    (B)  that protects against access to visual depictions that are:
+            
+50
+
+    
+    (I)  child pornography; or
+            
+51
+
+    
+    (II)  obscene; and
+            
+52
+
+    
+    (ii)  is enforcing the operation of the technology protection measure described in
+            
+53
+
+    
+Subsection (2)(b)(i) during any use of a computer.
+            
+54
+
+    
+    (3)  This section does not prohibit a public library from limiting Internet access or
+            
+55
+
+    
+otherwise protecting against materials other than the materials specified in this section.
+            
+56
+
+    
+    (4)  An administrator, supervisor, or other representative of a public library may disable
+            
+57
+
+    
+a technology protection measure described in Subsection (2):
+            
+58
+
+    
+    (a)  at the request of a library patron who is not a minor; and
+
+            
+59
+
+
+    
+    (b)  to enable access for research or other lawful purposes.
+            
+60
+
+    
+    Section 2.  
+Section  
+9-7-216
+
+ is amended to read:
+            
+61
+
+    
+     9-7-216.  Process and content standards for policy.
+            
+62
+
+    
+    (1) (a)  Each library's policy shall be developed under the direction of the library board,
+            
+63
+
+    
+adopted in an open meeting, and have an effective date.  The library board shall review the
+            
+64
+
+    
+policy at least every three years, and a footnote shall be added to the policy indicating the
+            
+65
+
+    
+effective date of the last review.
+            
+66
+
+    
+    (b)  Notice of the availability of the policy shall be posted in a conspicuous place within
+            
+67
+
+    
+the library for all patrons to observe.  The library board may issue any other public notice it
+            
+68
+
+    
+considers appropriate to inform the community about the policy.
+            
+69
+
+    
+    (2)  The policy shall:
+            
+70
+
+    
+    (a)  state:
+            
+71
+
+    
+    (i)  that it restricts access [by minors] to Internet or online sites that contain [obscene]
+            
+72
+
+    
+material described in Section 
+
+9-7-215
+
+; and [shall state]
+            
+73
+
+    
+    (ii)  how the library board intends to meet the requirements of Section 
+
+9-7-215
+
+;
+            
+74
+
+    
+    (b)  inform patrons that administrative procedures and guidelines for the staff to follow
+            
+75
+
+    
+in enforcing the policy have been adopted and are available for review at the library; and
+            
+76
+
+    
+    (c)  inform patrons that procedures for use by patrons and staff to handle complaints
+            
+77
+
+    
+about the policy, its enforcement, or about observed patron behavior have been adopted and are
+            
+78
+
+    
+available for review at the library.
+
+
+
+
+ Legislative Review Note
+    as of   2-5-04  8:08 AM
+
+A limited legal review of this legislation raises no obvious constitutional or statutory concerns.
+
+ Office of Legislative Research and General Counsel
+[Bill Documents][Bills Directory]
+
+
+
+
+
+
+
+
+
+Who represents me?
+
+
+
+
+
+Remember my Legislators
+
+
+
+
+
+State Senate
+		350 North State, Suite 320
+		PO Box 145115
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1035
+		Fax: (801) 326-1475
+
+
+
+House of Representatives
+		350 North State, Suite 350
+		PO Box 145030
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1029
+		Fax: (801) 326-1544
+
+
+
+
+
+
+
+
+
+
+Home
+Mobile Site
+Site Map
+Calendar
+Code / Constitution
+House
+Senate
+
+Terms of Use/Privacy Policy
+
+ADA
+Utah.gov
+
+
+
+
+
+
+

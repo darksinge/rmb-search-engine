@@ -1,0 +1,906 @@
+Sponsors: []Modifications: (3)  "Presiding judge" means the judge who is elected to preside over a judicial districtin accordance with Section 
+
+78-3-29
+
+.(4)(5)(6)(7)(8)(5)  If the attorney general, a county attorney, a district attorney, or a special prosecutorappointed under Section 
+
+77-10a-12
+
+ certifies in writing to a presiding judge that in his judgmenta grand jury is necessary because of criminal activity within the presiding judge's district, thepresiding judge, upon a determination of good cause, may order a grand jury to be summonedwithin the district.(a)  The grand jury shall be drawn from within the district.(b)  The presiding judge may retain supervisory authority over the grand jury, ordelegate that authority to another judge within the district.(6)  A presiding judge may call a grand jury within his own district in accordance withthe provisions of Section 
+
+77-10a-2
+
+.(7)Full text:
+
+
+
+Utah State Legislature
+
+
+
+
+
+
+
+
+
+
+
+
+Legislators
+
+By Session (1896-Current)
+Alphabetical (Historical)
+Find by Address/Map
+More
+
+
+Bills
+
+Bills/Bill Requests
+Passed Bills
+2017 Bills
+
+Keyword Search
+Reading Calendars
+Tracking Service
+More
+
+
+Committees
+
+All Committees
+Appropriations
+Commissions
+
+Independent Legislative Ethics Commission
+Interim
+Standing
+Subcommittees
+Task Forces
+Bills In Committees
+
+
+Utah Code / Constitution
+
+
+Title/Chapter/Section
+Keyword Search 
+
+Utah Constitution
+Laws of Utah 1851-ongoing
+Utah Territorial Laws 
+More
+
+
+Senate
+
+Main Page 
+About The Senate 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Extraordinary Sessions 
+Reading Calendars 
+Past Floor Debates 
+Senate Journals 
+
+
+House
+
+Main Page
+About the House 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Reading Calendars 
+Past Floor Debates 
+Journals 
+Conflict of Interest Forms 
+
+
+Legislative Guide 
+
+Legislative Guide
+Civic Programs
+GRAMA (Records Requests)
+
+
+Publications
+
+Search Publications
+Appropriations
+Audits
+Bagels & Briefings
+Briefing Papers
+Digest of Legislation
+Legislative Drafting Manual
+
+Journals
+
+Interim Highlights
+
+Legislative Rules
+GRAMA (Records Requests)
+Public Email
+State Organization Charts
+YouTube Channel
+Requests for Proposals and Legal Notices
+More
+
+
+Legislative Histories
+
+Legislative History Resources
+How to Research
+Bill Drafting/Research Files (1990-Ongoing)
+
+Working Bills (1896-1989)
+Interim Committee Histories (1990-Ongoing) 
+Journals
+Past House Floor Debates
+Past Senate Floor Debates
+More
+
+
+Staff Offices
+
+All Legislative Offices
+Auditor General
+Fiscal Analyst
+Printing
+Research and General Counsel
+Staff Awards
+Job Opportunities
+More
+
+
+Links of Interest
+
+Utah Administrative Rules
+Courts
+Utah State Capitol
+State of Utah
+Federal Legislation
+More
+
+
+
+
+
+
+ 
+
+Download Zipped Introduced WordPerfect HB0088.ZIP
+[Status][Bill Documents][Fiscal Note][Bills Directory]
+
+
+H.B. 88
+
+
+
+
+
+            
+1
+
+    
+ GRAND JURY AMENDMENTS
+
+
+            
+2
+
+    
+2006 GENERAL SESSION
+
+            
+3
+
+    
+STATE OF UTAH
+
+            
+4
+
+    
+ Chief Sponsor:  Curtis Oda
+
+            
+5
+
+    
+
+Senate Sponsor:  
+
+
+____________
+
+
+
+            
+6
+
+    
+
+            
+7
+
+    
+ LONG TITLE
+            
+8
+
+    
+ General Description:
+            
+9
+
+    
+    This bill allows a presiding judge to call a grand jury at the request of a district attorney,
+            
+10
+
+    
+county attorney, or the attorney general.
+            
+11
+
+    
+ Highlighted Provisions:
+            
+12
+
+    
+    This bill:
+            
+13
+
+    
+    .    gives a presiding judge more responsibility over the grand jury process by allowing
+            
+14
+
+    
+a presiding judge to call a grand jury under certain circumstances.
+            
+15
+
+    
+ Monies Appropriated in this Bill:
+            
+16
+
+    
+    None
+            
+17
+
+    
+ Other Special Clauses:
+            
+18
+
+    
+    None
+            
+19
+
+    
+ Utah Code Sections Affected:
+            
+20
+
+    
+AMENDS:
+            
+21
+
+    
+     77-10a-1, as enacted by Chapter 318, Laws of Utah 1990
+            
+22
+
+    
+     77-10a-2, as last amended by Chapter 218, Laws of Utah 1994
+            
+23
+
+    
+     78-3-29, as last amended by Chapter 171, Laws of Utah 1998
+            
+24
+
+    
+
+            
+25
+
+    
+Be it enacted by the Legislature of the state of Utah:
+            
+26
+
+    
+    Section 1.  
+Section  
+77-10a-1
+
+ is amended to read:
+            
+27
+
+    
+     77-10a-1.  Definitions.
+
+            
+28
+
+
+    
+    As used in this chapter:
+            
+29
+
+    
+    (1)  "Clerk of the court" means the state court administrator or his designee.
+            
+30
+
+    
+    (2)  "Managing judge" means the supervising judge when he retains authority to
+            
+31
+
+    
+manage a grand jury, or the district court judge to whom the supervising judge delegates
+            
+32
+
+    
+management of a grand jury.
+            
+33
+
+    
+    (3)  "Presiding judge" means the judge who is elected to preside over a judicial district
+            
+34
+
+    
+in accordance with Section 
+
+78-3-29
+
+.
+            
+35
+
+    
+    [(3)] (4)  "Presiding officer" means the presiding officer of the Judicial Council.
+            
+36
+
+    
+    [(4)] (5)  "Subject" means a person whose conduct is within the scope of the grand
+            
+37
+
+    
+jury's investigation, and that conduct exposes the person to possible criminal prosecution.
+            
+38
+
+    
+    [(5)] (6)  "Supervising judge" means the district court judge appointed by the presiding
+            
+39
+
+    
+officer to supervise the five-judge grand jury panel.
+            
+40
+
+    
+    [(6)] (7)  "Target" means a person regarding whom the attorney for the state, the special
+            
+41
+
+    
+prosecutor, or the grand jury has substantial evidence that links that person to the commission
+            
+42
+
+    
+of a crime and who could be indicted or charged with that crime.
+            
+43
+
+    
+    [(7)] (8)  "Witness" means a person who appears before the grand jury either voluntarily
+            
+44
+
+    
+or pursuant to subpoena for the purpose of providing testimony or evidence for the grand jury's
+            
+45
+
+    
+use in discharging its responsibilities.
+            
+46
+
+    
+    Section 2.  
+Section  
+77-10a-2
+
+ is amended to read:
+            
+47
+
+    
+     77-10a-2.  Panel of judges -- Appointment -- Membership -- Ordering of grand
+            
+48
+
+    
+ jury.
+            
+49
+
+    
+    (1) (a)  The presiding officer of the Judicial Council shall appoint a panel of five judges
+            
+50
+
+    
+from the district courts of the state to hear in secret all persons claiming information that would
+            
+51
+
+    
+justify the calling of a grand jury.  The presiding officer may appoint senior status district court
+            
+52
+
+    
+judges to the panel.  The presiding officer shall designate one member of the panel as
+            
+53
+
+    
+supervising judge to serve at the pleasure of the presiding officer.  The panel has the authority
+            
+54
+
+    
+of the district court.
+            
+55
+
+    
+    (b)  To ensure geographical diversity on the panel one judge shall be appointed from the
+            
+56
+
+    
+first or second district for a five-year term, one judge shall be appointed from the third district
+            
+57
+
+    
+for a four-year term, one judge shall be appointed from the fourth district for a three-year term,
+            
+58
+
+    
+one judge shall be appointed from the fifth, sixth, seventh, or eighth districts for a two-year
+
+            
+59
+
+
+    
+term, and one judge shall be appointed from the third district for a one-year term.  Following
+            
+60
+
+    
+the first term, all terms on the panel are for five years.
+            
+61
+
+    
+    (c)  The panel shall hold hearings in each judicial district at least once every three years
+            
+62
+
+    
+and may meet at any location within the state. Three members of the panel constitute a quorum
+            
+63
+
+    
+for the transaction of panel business.  The panel shall act by the concurrence of a majority of
+            
+64
+
+    
+members present and may act through the supervising judge or managing judge.  The schedule
+            
+65
+
+    
+for the hearings shall be set by the panel and published by the Office of the Court
+            
+66
+
+    
+Administrator.  Persons appearing before the panel shall be placed under oath and examined by
+            
+67
+
+    
+the judges conducting the hearings.  Hearsay evidence may be presented at the hearings only
+            
+68
+
+    
+under the same provisions and limitations that apply to preliminary hearings.
+            
+69
+
+    
+    (2) (a)  If the panel finds good cause to believe a grand jury is necessary, the panel shall
+            
+70
+
+    
+make its findings in writing and may order a grand jury to be summoned.
+            
+71
+
+    
+    (b)  The panel may refer a matter to the attorney general, county attorney, district
+            
+72
+
+    
+attorney, or city attorney for investigation and prosecution.  The referral shall contain as much
+            
+73
+
+    
+of the information presented to the panel as the panel determines relevant.  The attorney
+            
+74
+
+    
+general, county attorney, district attorney, or city attorney shall report to the panel the results of
+            
+75
+
+    
+any investigation and whether the matter will be prosecuted by a prosecutor's information.  The
+            
+76
+
+    
+report shall be filed with the panel within 120 days after the referral unless the panel provides
+            
+77
+
+    
+for a different amount of time.  If the panel is not satisfied with the action of the attorney
+            
+78
+
+    
+general, county attorney, district attorney, or city attorney, the panel may order a grand jury to
+            
+79
+
+    
+be summoned.
+            
+80
+
+    
+    (3)  When the attorney general, a county attorney, a district attorney, or a special
+            
+81
+
+    
+prosecutor appointed under Section 
+
+77-10a-12
+
+ certifies in writing to the supervising judge that
+            
+82
+
+    
+in his judgment a grand jury is necessary because of criminal activity in the state, the panel,
+            
+83
+
+    
+upon a determination of good cause, shall order a grand jury to be summoned.
+            
+84
+
+    
+    (4)  The supervising judge may at the time the grand jury is summoned:
+            
+85
+
+    
+    (a)  order that it be drawn from the state at large as provided in this chapter or from any
+            
+86
+
+    
+district within the state; and
+            
+87
+
+    
+    (b)  retain authority to supervise the grand jury or delegate the supervision of the grand
+            
+88
+
+    
+jury to any judge of any district court within the state.
+            
+89
+
+    
+    (5)  If the attorney general, a county attorney, a district attorney, or a special prosecutor
+
+            
+90
+
+
+    
+appointed under Section 
+
+77-10a-12
+
+ certifies in writing to a presiding judge that in his judgment
+            
+91
+
+    
+a grand jury is necessary because of criminal activity within the presiding judge's district, the
+            
+92
+
+    
+presiding judge, upon a determination of good cause, may order a grand jury to be summoned
+            
+93
+
+    
+within the district.
+            
+94
+
+    
+    (a)  The grand jury shall be drawn from within the district.
+            
+95
+
+    
+    (b)  The presiding judge may retain supervisory authority over the grand jury, or
+            
+96
+
+    
+delegate that authority to another judge within the district.
+            
+97
+
+    
+    Section 3.  
+Section  
+78-3-29
+
+ is amended to read:
+            
+98
+
+    
+     78-3-29.  Presiding judge -- Associate presiding judge -- Election -- Term --
+            
+99
+
+    
+ Compensation -- Powers -- Duties.
+            
+100
+
+    
+    (1)  In judicial districts having more than one judge, the district court judges shall elect
+            
+101
+
+    
+one judge of the district to the office of presiding judge.
+            
+102
+
+    
+    (2)  In judicial districts having more than two judges, the district court judges may elect
+            
+103
+
+    
+one judge of the district to the office of associate presiding judge.
+            
+104
+
+    
+    (3)  In districts having five or more full-time judges, court commissioners, referees, or
+            
+105
+
+    
+hearing officers, the presiding judge shall receive an additional $1,000 per annum as
+            
+106
+
+    
+compensation.
+            
+107
+
+    
+    (4)  In districts having ten or more full-time judges, court commissioners, referees, or
+            
+108
+
+    
+hearing officers, the associate presiding judge shall receive an additional $1,000 per annum as
+            
+109
+
+    
+compensation.
+            
+110
+
+    
+    (5)  The presiding judge has the following authority and responsibilities, consistent with
+            
+111
+
+    
+the policies of the Judicial Council:
+            
+112
+
+    
+    (a)  implementing policies of the Judicial Council; and
+            
+113
+
+    
+    (b)  exercising powers and performing administrative duties as authorized by the
+            
+114
+
+    
+Judicial Council.
+            
+115
+
+    
+    (6)  A presiding judge may call a grand jury within his own district in accordance with
+            
+116
+
+    
+the provisions of Section 
+
+77-10a-2
+
+.
+            
+117
+
+    
+    [(6)] (7)  When the presiding judge is unavailable, the associate presiding judge shall
+            
+118
+
+    
+assume the responsibilities of the presiding judge.  The associate presiding judge shall perform
+            
+119
+
+    
+other duties assigned by the presiding judge.
+
+
+
+
+
+ Legislative Review Note
+    as of   1-5-06  1:06 PM
+
+Based on a limited legal review, this legislation has not been determined to have a high
+probability of being held unconstitutional.
+
+ Office of Legislative Research and General Counsel
+[Bill Documents][Bills Directory]
+
+
+
+
+
+
+
+
+
+Who represents me?
+
+
+
+
+
+Remember my Legislators
+
+
+
+
+
+State Senate
+		350 North State, Suite 320
+		PO Box 145115
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1035
+		Fax: (801) 326-1475
+
+
+
+House of Representatives
+		350 North State, Suite 350
+		PO Box 145030
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1029
+		Fax: (801) 326-1544
+
+
+
+
+
+
+
+
+
+
+Home
+Mobile Site
+Site Map
+Calendar
+Code / Constitution
+House
+Senate
+
+Terms of Use/Privacy Policy
+
+ADA
+Utah.gov
+
+
+
+
+
+
+

@@ -1,0 +1,856 @@
+Sponsors: []Modifications:     63-55b-6301.Section 63D-1-301.6 is repealed January 1, 1999.:(a)  appoint a chief information officer with the advice and consent of the Senate; and(b)  establish the chief information officer's salary within the salary range fixed by theLegislature in Title 67, Chapter 22, State Officer Compensation.(2)  The chief information  officer shall serve at the pleasure of the governor and be housedin the Office of Planning and Budget.(3)63D-1-301.5    63D-1-301.5.(1)  The chief information officer shall:(a)  develop specific information technology objectives, policies, procedures, and standardsto guide the development of information systems within state government to achieve maximumeconomy and quality while preserving optimum user flexibility, including:(i)  policies, standards, and procedures for appropriate interchange of information, optimumservice, and minimum costs;(ii)  policies for costing all information technology services performed by any stateinformation technology cost recovery center so that every cost recovery center charges its usersa rate for services that is both equitable and sufficient to recover all the costs of its operation,including the cost of capital equipment and facilities;(iii)  policies governing coordination, cooperation, joint efforts, working relationships, andcost accounting relative to the development and maintenance of information technology andinformation systems; and(iv)  policies to ensure the protection of individual privacy and guarantee the exclusivecontrol to a user of its own data;(b)  coordinate the preparation of agency information technology plans within stategovernment, encompassing both short-term and long-term needs that support the agency's and thestate's strategic plans, including Utah Tomorrow;(c)  require each state agency to submit semiannually an agency information technologyplan containing the information required by Subsection (2) before the legislative session in whichthe budget request will be heard and no later than the June 15 after the legislative session in whichthe budget request was authorized to the chief information officer;(d)  upon receipt of a state agency's information technology plan:(i)  provide a complete copy of that plan to the director of the Division of InformationTechnology Services;(ii)  review and approve or disapprove agency information technology plans to ensure thatthese plans are the most economically viable and are the best solution to the agency's needs andthe state's needs;(iii)  approve or disapprove of and coordinate the acquisition of information technologyequipment, telecommunications equipment, and related services for all agencies of stategovernment;(e)  facilitate the implementation of agency plans;(f)  establish priorities in terms of both importance and time sequencing for thedevelopment and implementation of information systems;(g)  monitor information systems development to promote maximum use of existing stateinformation resources;(h)  advise the governor on information technology policy and make recommendations tothe governor regarding requests for appropriations for information technology equipment andpersonnel;(i)  maintain liaison with the legislative and judicial branches, the Board of Regents, theState Board of Education, local government, federal government, business and industry, andconsumers to promote cooperation and make recommendations regarding information resources;(j)  conduct performance audits of state information technology management, planning, andthe use of information technology resources and distribute copies of the audit reports as providedin Subsection (3); and(k)  prepare an annual report to the governor and to the Legislature's Public Utilities andTechnology Interim Committee and the Information Technology Commission that:(i)  summarizes the state's current and projected use of information technology; and(ii)  includes a description of major changes in state policy and a brief description of eachstate agency's plan.(2)  Each state agency information technology plan shall include information about plannedinformation technology objectives and expenditures for the next year in the level of detail andformat specified by the chief information officer.(3) (a)  Upon completion of an audit report produced under authority of Subsection (1)(j),the chief information officer shall:(i)  provide copies of all audit reports to:(A)  the agency audited;(B)  the governor;(C)  the Office of Legislative Fiscal Analyst;(D)  the Public Utilities and Technology Interim Committee; and(E)  the Information Technology Commission; and(ii)  present the performance audit findings to the Information Technology Policy andStrategy Committee at their next meeting.(b)  Each state agency shall provide the chief information officer with complete access toall information technology records, documents, and reports, including electronic, analog, or digital,when requested for the purpose of a performance audit.(4)  The rate for services established by an information technology cost recovery center,and reviewed by the chief information officer, may be lowered if the Legislature appropriatesmonies to the cost recovery center for the specific purpose of lowering rates.    63D-1-301.6.The chief information officer shall:(1)  review existing information technology organizational structure within the state for thepurpose of reorganization;(2)  prepare a report describing the existing information technology organizational structureand any proposed changes to that structure; and(3)  report to the Legislature's Public Utilities and Technology Interim Committee and tothe Information Technology Commission on or before August 19, 1998.Chief Information Officer            $72,100 - $97,500Full text:
+
+
+
+Utah State Legislature
+
+
+
+
+
+
+
+
+
+
+
+
+Legislators
+
+By Session (1896-Current)
+Alphabetical (Historical)
+Find by Address/Map
+More
+
+
+Bills
+
+Bills/Bill Requests
+Passed Bills
+2017 Bills
+
+Keyword Search
+Reading Calendars
+Tracking Service
+More
+
+
+Committees
+
+All Committees
+Appropriations
+Commissions
+
+Independent Legislative Ethics Commission
+Interim
+Standing
+Subcommittees
+Task Forces
+Bills In Committees
+
+
+Utah Code / Constitution
+
+
+Title/Chapter/Section
+Keyword Search 
+
+Utah Constitution
+Laws of Utah 1851-ongoing
+Utah Territorial Laws 
+More
+
+
+Senate
+
+Main Page 
+About The Senate 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Extraordinary Sessions 
+Reading Calendars 
+Past Floor Debates 
+Senate Journals 
+
+
+House
+
+Main Page
+About the House 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Reading Calendars 
+Past Floor Debates 
+Journals 
+Conflict of Interest Forms 
+
+
+Legislative Guide 
+
+Legislative Guide
+Civic Programs
+GRAMA (Records Requests)
+
+
+Publications
+
+Search Publications
+Appropriations
+Audits
+Bagels & Briefings
+Briefing Papers
+Digest of Legislation
+Legislative Drafting Manual
+
+Journals
+
+Interim Highlights
+
+Legislative Rules
+GRAMA (Records Requests)
+Public Email
+State Organization Charts
+YouTube Channel
+Requests for Proposals and Legal Notices
+More
+
+
+Legislative Histories
+
+Legislative History Resources
+How to Research
+Bill Drafting/Research Files (1990-Ongoing)
+
+Working Bills (1896-1989)
+Interim Committee Histories (1990-Ongoing) 
+Journals
+Past House Floor Debates
+Past Senate Floor Debates
+More
+
+
+Staff Offices
+
+All Legislative Offices
+Auditor General
+Fiscal Analyst
+Printing
+Research and General Counsel
+Staff Awards
+Job Opportunities
+More
+
+
+Links of Interest
+
+Utah Administrative Rules
+Courts
+Utah State Capitol
+State of Utah
+Federal Legislation
+More
+
+
+
+
+
+
+ 
+
+Download Zipped Introduced WP 6.1 HB0274.ZIP 14,507 Bytes
+[Status][Bill Documents][Fiscal Note][Bills Directory]
+
+
+H.B. 274
+
+
+
+
+
+
+
+
+
+1     INFORMATION TECHNOLOGY STRUCTURE
+
+
+2     AMENDMENTS
+
+
+
+
+3    1998 GENERAL SESSION
+
+
+4    STATE OF UTAH
+
+
+5     Sponsor: Beverly Ann Evans
+
+
+6    AN ACT RELATING TO INFORMATION TECHNOLOGY; DEFINING THE SELECTION
+
+7    PROCESS FOR THE CHIEF INFORMATION OFFICER; REQUIRING AN INFORMATION
+
+8    TECHNOLOGY STRUCTURE REPORT; ESTABLISHING A SALARY RANGE FOR THE
+
+9    CHIEF INFORMATION OFFICER; AND SETTING A REPEAL DATE.
+
+10    This act affects sections of Utah Code Annotated 1953 as follows:
+
+11    AMENDS:
+
+12         63D-1-301, as renumbered and amended by Chapter 73, Laws of Utah 1997
+
+13         67-22-2, as last amended by Chapters 82, 375 and 376, Laws of Utah 1997
+
+14    ENACTS:
+
+15         63D-1-301.5, Utah Code Annotated 1953
+
+16         63D-1-301.6, Utah Code Annotated 1953
+
+17         63-55b-6301, Utah Code Annotated 1953
+
+18    Be it enacted by the Legislature of the state of Utah:
+
+19        Section 1.  Section  63-55b-6301 is enacted to read:
+
+20         63-55b-6301.  Repeal date -- Title 63D.
+
+21        Section 63D-1-301.6 is repealed January 1, 1999.
+
+22        Section 2.  Section  63D-1-301 is amended to read:
+
+23         63D-1-301.  Chief information officer -- Duties.
+
+24        (1) [(a)]  The governor shall [appoint a chief information officer who shall be located
+
+25    within the Governor's Office of Planning and Budget, unless otherwise determined by the
+
+26    governor.]:
+
+27        (a)  appoint a chief information officer with the advice and consent of the Senate; and
+
+
+1        (b)  establish the chief information officer's salary within the salary range fixed by the
+
+2    Legislature in Title 67, Chapter 22, State Officer Compensation.
+
+3        (2)  The chief information  officer shall serve at the pleasure of the governor and be housed
+
+4    in the Office of Planning and Budget.
+
+5        [(b)] (3)  The chief information officer's authority as defined in [this] Section 63D-1-301.5
+
+6    applies to all state agencies.
+
+7        [(2)  The chief information officer shall:]
+
+8        [(a)  develop specific information technology objectives, policies, procedures, and
+
+9    standards to guide the development of information systems within state government to achieve
+
+10    maximum economy and quality while preserving optimum user flexibility, including:]
+
+11        [(i)  policies, standards, and procedures for appropriate interchange of information,
+
+12    optimum service, and minimum costs;]
+
+13        [(ii)  policies for costing all information technology services performed by any state
+
+14    information technology cost recovery center so that every cost recovery center charges its users
+
+15    a rate for services that is both equitable and sufficient to recover all the costs of its operation,
+
+16    including the cost of capital equipment and facilities;]
+
+17        [(iii)  policies governing coordination, cooperation, joint efforts, working relationships, and
+
+18    cost accounting relative to the development and maintenance of information technology and
+
+19    information systems; and]
+
+20        [(iv)  policies to ensure the protection of individual privacy and guarantee the exclusive
+
+21    control to a user of its own data;]
+
+22        [(b)  coordinate the preparation of agency information technology plans within state
+
+23    government, encompassing both short-term and long-term needs that support the agency's and the
+
+24    state's strategic plans, including Utah Tomorrow;]
+
+25        [(c)  require each state agency to submit semiannually an agency information technology
+
+26    plan containing the information required by Subsection (4) before the legislative session in which
+
+27    the budget request will be heard and no later than the June 15 after the legislative session in which
+
+28    the budget request was authorized to the chief information officer;]
+
+29        [(d)  upon receipt of a state agency's information technology plan:]
+
+30        [(i)  provide a complete copy of that plan to the director of the Division of Information
+
+31    Technology Services;]
+
+- 2 -
+
+
+1        [(ii)  review and approve or disapprove agency information technology plans to ensure that
+
+2    these plans are the most economically viable and are the best solution to the agency's needs and
+
+3    the state's needs;]
+
+4        [(iii)  approve or disapprove of and coordinate the acquisition of information technology
+
+5    equipment, telecommunications equipment, and related services for all agencies of state
+
+6    government;]
+
+7        [(e)  facilitate the implementation of agency plans;]
+
+8        [(f)  establish priorities in terms of both importance and time sequencing for the
+
+9    development and implementation of information systems;]
+
+10        [(g)  monitor information systems development to promote maximum use of existing state
+
+11    information resources;]
+
+12        [(h)  advise the governor on information technology policy and make recommendations to
+
+13    the governor regarding requests for appropriations for information technology equipment and
+
+14    personnel;]
+
+15        [(i)  maintain liaison with the legislative and judicial branches, the Board of Regents, the
+
+16    State Board of Education, local government, federal government, business and industry, and
+
+17    consumers to promote cooperation and make recommendations regarding information resources;]
+
+18        [(j)  conduct performance audits of state information technology management, planning,
+
+19    and the use of information technology resources and distribute copies of the audit reports as
+
+20    provided in Subsection (4); and]
+
+21        [(k)  prepare an annual report to the governor and to the Legislature's Information
+
+22    Technology Commission that:]
+
+23        [(i)  summarizes the state's current and projected use of information technology; and]
+
+24        [(ii)  includes a description of major changes in state policy and a brief description of each
+
+25    state agency's plan.]
+
+26        [(3)  Each state agency information technology plan shall include information about
+
+27    planned information technology objectives and expenditures for the next year in the level of detail
+
+28    and format specified by the chief information officer.]
+
+29        [(4) (a)  Upon completion of an audit report produced under authority of Subsection (2)(j),
+
+30    the chief information officer shall:]
+
+31        [(i)  provide copies of all audit reports to:]
+
+- 3 -
+
+
+1        [(A)  the agency audited;]
+
+2        [(B)  the governor;]
+
+3        [(C)  the Office of Legislative Fiscal Analyst; and]
+
+4        [(D)  the Information Technology Commission; and]
+
+5        [(ii)  present the performance audit findings to the Information Technology Policy and
+
+6    Strategy Committee at their next meeting.]
+
+7        [(b)  Each state agency shall provide the chief information officer with complete access to
+
+8    all information technology records, documents, and reports, including electronic, analog, or digital,
+
+9    when requested for the purpose of a performance audit.]
+
+10        [(5)  The rate for services established by an information technology cost recovery center,
+
+11    and reviewed by the chief information officer, may be lowered if the Legislature appropriates
+
+12    monies to the cost recovery center for the specific purpose of lowering rates.]
+
+13        Section 3.  Section  63D-1-301.5 is enacted to read:
+
+14         63D-1-301.5.  Chief information officer -- Duties.
+
+15        (1)  The chief information officer shall:
+
+16        (a)  develop specific information technology objectives, policies, procedures, and standards
+
+17    to guide the development of information systems within state government to achieve maximum
+
+18    economy and quality while preserving optimum user flexibility, including:
+
+19        (i)  policies, standards, and procedures for appropriate interchange of information, optimum
+
+20    service, and minimum costs;
+
+21        (ii)  policies for costing all information technology services performed by any state
+
+22    information technology cost recovery center so that every cost recovery center charges its users
+
+23    a rate for services that is both equitable and sufficient to recover all the costs of its operation,
+
+24    including the cost of capital equipment and facilities;
+
+25        (iii)  policies governing coordination, cooperation, joint efforts, working relationships, and
+
+26    cost accounting relative to the development and maintenance of information technology and
+
+27    information systems; and
+
+28        (iv)  policies to ensure the protection of individual privacy and guarantee the exclusive
+
+29    control to a user of its own data;
+
+30        (b)  coordinate the preparation of agency information technology plans within state
+
+31    government, encompassing both short-term and long-term needs that support the agency's and the
+
+- 4 -
+
+
+1    state's strategic plans, including Utah Tomorrow;
+
+2        (c)  require each state agency to submit semiannually an agency information technology
+
+3    plan containing the information required by Subsection (2) before the legislative session in which
+
+4    the budget request will be heard and no later than the June 15 after the legislative session in which
+
+5    the budget request was authorized to the chief information officer;
+
+6        (d)  upon receipt of a state agency's information technology plan:
+
+7        (i)  provide a complete copy of that plan to the director of the Division of Information
+
+8    Technology Services;
+
+9        (ii)  review and approve or disapprove agency information technology plans to ensure that
+
+10    these plans are the most economically viable and are the best solution to the agency's needs and
+
+11    the state's needs;
+
+12        (iii)  approve or disapprove of and coordinate the acquisition of information technology
+
+13    equipment, telecommunications equipment, and related services for all agencies of state
+
+14    government;
+
+15        (e)  facilitate the implementation of agency plans;
+
+16        (f)  establish priorities in terms of both importance and time sequencing for the
+
+17    development and implementation of information systems;
+
+18        (g)  monitor information systems development to promote maximum use of existing state
+
+19    information resources;
+
+20        (h)  advise the governor on information technology policy and make recommendations to
+
+21    the governor regarding requests for appropriations for information technology equipment and
+
+22    personnel;
+
+23        (i)  maintain liaison with the legislative and judicial branches, the Board of Regents, the
+
+24    State Board of Education, local government, federal government, business and industry, and
+
+25    consumers to promote cooperation and make recommendations regarding information resources;
+
+26        (j)  conduct performance audits of state information technology management, planning, and
+
+27    the use of information technology resources and distribute copies of the audit reports as provided
+
+28    in Subsection (3); and
+
+29        (k)  prepare an annual report to the governor and to the Legislature's Public Utilities and
+
+30    Technology Interim Committee and the Information Technology Commission that:
+
+31        (i)  summarizes the state's current and projected use of information technology; and
+
+- 5 -
+
+
+1        (ii)  includes a description of major changes in state policy and a brief description of each
+
+2    state agency's plan.
+
+3        (2)  Each state agency information technology plan shall include information about planned
+
+4    information technology objectives and expenditures for the next year in the level of detail and
+
+5    format specified by the chief information officer.
+
+6        (3) (a)  Upon completion of an audit report produced under authority of Subsection (1)(j),
+
+7    the chief information officer shall:
+
+8        (i)  provide copies of all audit reports to:
+
+9        (A)  the agency audited;
+
+10        (B)  the governor;
+
+11        (C)  the Office of Legislative Fiscal Analyst;
+
+12        (D)  the Public Utilities and Technology Interim Committee; and
+
+13        (E)  the Information Technology Commission; and
+
+14        (ii)  present the performance audit findings to the Information Technology Policy and
+
+15    Strategy Committee at their next meeting.
+
+16        (b)  Each state agency shall provide the chief information officer with complete access to
+
+17    all information technology records, documents, and reports, including electronic, analog, or digital,
+
+18    when requested for the purpose of a performance audit.
+
+19        (4)  The rate for services established by an information technology cost recovery center,
+
+20    and reviewed by the chief information officer, may be lowered if the Legislature appropriates
+
+21    monies to the cost recovery center for the specific purpose of lowering rates.
+
+22        Section 4.  Section  63D-1-301.6 is enacted to read:
+
+23         63D-1-301.6.  Information technology organization structure report.
+
+24        The chief information officer shall:
+
+25        (1)  review existing information technology organizational structure within the state for the
+
+26    purpose of reorganization;
+
+27        (2)  prepare a report describing the existing information technology organizational structure
+
+28    and any proposed changes to that structure; and
+
+29        (3)  report to the Legislature's Public Utilities and Technology Interim Committee and to
+
+30    the Information Technology Commission on or before August 19, 1998.
+
+31        Section 5.  Section  67-22-2 is amended to read:
+
+- 6 -
+
+
+1         67-22-2.  Compensation -- Other state officers.
+
+2        (1)  The governor shall establish salaries for the following state officers within the
+
+3    following salary ranges fixed by the Legislature:
+
+4            State Officer                        Salary Range
+
+5        Director, Health Policy Commission         $52,500 - $71,100
+
+6        Commissioner of Agriculture and Food     $56,200 - $76,200
+
+7        Commissioner of Insurance            $56,200 - $76,200
+
+8        Commissioner of  the Labor Commission    $56,200 - $76,200
+
+9        Director, Alcoholic Beverage Control
+
+10            Commission                 $56,200 - $76,200
+
+11        Commissioner, Department of
+
+12            Financial Institutions             $56,200 - $76,200
+
+13        Members, Board of Pardons and Parole     $56,200 - $76,200
+
+14        Executive Director, Department
+
+15            of Commerce                 $56,200 - $76,200
+
+16        Executive Director, Commission on
+
+17            Criminal and Juvenile Justice     $56,200 - $76,200
+
+18        Adjutant General                 $56,200 - $76,200
+
+19        Chair, Tax Commission             $60,900 - $82,200
+
+20        Commissioners, Tax Commission         $60,900 - $82,200
+
+21        Executive Director, Department of
+
+22            Community and Economic
+
+23            Development                 $60,900 - $82,200
+
+24        Executive Director, Tax Commission     $60,900 - $82,200
+
+25        Chair, Public Service Commission         $60,900 - $82,200
+
+26        Commissioner, Public Service Commission     $60,900 - $82,200
+
+27        Executive Director, Department
+
+28            of Corrections                 $66,300 - $89,500
+
+29        Commissioner, Department of Public Safety     $66,300 - $89,500
+
+30        Executive Director, Department of
+
+31            Natural Resources             $66,300 - $89,500
+
+- 7 -
+
+
+1        Director, Office of Planning
+
+2            and Budget                 $66,300 - $89,500
+
+3        Executive Director, Department of
+
+4            Administrative Services         $66,300 - $89,500
+
+5        Executive Director, Department of
+
+6            Human Resource Management     $66,300 - $89,500
+
+7        Executive Director, Department of
+
+8            Environmental Quality         $66,300 - $89,500
+
+9        Executive Director, Department of         $72,100 - $97,500
+
+10            Workforce Services
+
+11        Executive Director, Department of
+
+12            Health                     $72,100 - $97,500
+
+13        Executive Director, Department
+
+14            of Human Services             $72,100 - $97,500
+
+15        Executive Director, Department
+
+16            of Transportation             $72,100 - $97,500
+
+17        Chief Information Officer            $72,100 - $97,500
+
+18        (2) (a)  The Legislature fixes benefits for the state offices outlined in Subsection (1) as
+
+19    follows:
+
+20        (i)  the option of participating in a state retirement system established by Title 49 or in a
+
+21    deferred compensation plan administered by the State Retirement Office in accordance with the
+
+22    Internal Revenue Code and its accompanying rules and regulations;
+
+23        (ii)  health insurance;
+
+24        (iii)  dental insurance;
+
+25        (iv)  basic life insurance;
+
+26        (v)  unemployment compensation;
+
+27        (vi)  workers' compensation;
+
+28        (vii)  required employer contribution to Social Security;
+
+29        (viii)  long-term disability insurance;
+
+30        (ix)  the same additional state-paid life insurance available to other noncareer service
+
+31    employees;
+
+- 8 -
+
+
+1        (x)  the same severance pay available to other noncareer service employees;
+
+2        (xi)  the same sick leave, converted sick leave, educational allowances, and holidays
+
+3    granted to Schedule B state employees, and the same annual leave granted to Schedule B state
+
+4    employees with more than ten years of state service;
+
+5        (xii)  the option to convert accumulated sick leave to cash or insurance benefits as provided
+
+6    by law or rule upon resignation or retirement according to the same criteria and procedures applied
+
+7    to Schedule B state employees;
+
+8        (xiii)  the option to purchase additional life insurance at group insurance rates according
+
+9    to the same criteria and procedures applied to Schedule B state employees; and
+
+10        (xiv)  professional memberships if being a member of the professional organization is a
+
+11    requirement of the position.
+
+12        (b)  Each department shall pay the cost of additional state-paid life insurance for its
+
+13    executive director from its existing budget.
+
+14        (3)  The Legislature fixes the following additional benefits:
+
+15        (a)  for the executive director of the State Tax Commission a vehicle for official and
+
+16    personal use;
+
+17        (b)  for the executive director of the Department of Transportation a vehicle for commute
+
+18    and official use;
+
+19        (c)  for the executive director of the Department of Natural Resources a vehicle for
+
+20    commute and official use;
+
+21        (d)  for the Commissioner of Public Safety:
+
+22        (i)  an accidental death insurance policy if POST certified; and
+
+23        (ii)  a public safety vehicle for official and personal use;
+
+24        (e)  for the executive director of the Department of Corrections:
+
+25        (i)  an accidental death insurance policy if POST certified; and
+
+26        (ii)  a public safety vehicle for official and personal use;
+
+27        (f)  for the Adjutant General a vehicle for official and personal use; and
+
+28        (g)  for each member of the Board of Pardons and Parole a vehicle for commute and official
+
+29    use.
+
+30        (4) (a)  The governor has the discretion to establish a specific salary for each office listed
+
+31    in Subsection (1), and, within that discretion, may provide salary increases within the range fixed
+
+- 9 -
+
+
+1    by the Legislature.
+
+2        (b)  The governor shall apply the same overtime regulations applicable to other FLSA
+
+3    exempt positions.
+
+4        (c)  The governor may develop standards and criteria for reviewing the performance of the
+
+5    state officers listed in Subsection (1).
+
+6        (5)  Salaries for other Schedule A employees, as defined in Section 67-19-15, which are
+
+7    not provided for in this chapter, or in Title 67, Chapter 8, Utah Executive and Judicial Salary Act,
+
+8    shall be established as provided in Section 67-19-15.
+
+
+
+
+ Legislative Review Note
+    as of   1-19-98  11:22 AM
+
+
+A limited legal review of this bill raises no obvious constitutional or statutory concerns.
+
+ Office of Legislative Research and General Counsel
+
+
+- 10 -
+[Bill Documents][Bills Directory]
+
+
+
+
+
+
+
+
+
+Who represents me?
+
+
+
+
+
+Remember my Legislators
+
+
+
+
+
+State Senate
+		350 North State, Suite 320
+		PO Box 145115
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1035
+		Fax: (801) 326-1475
+
+
+
+House of Representatives
+		350 North State, Suite 350
+		PO Box 145030
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1029
+		Fax: (801) 326-1544
+
+
+
+
+
+
+
+
+
+
+Home
+Mobile Site
+Site Map
+Calendar
+Code / Constitution
+House
+Senate
+
+Terms of Use/Privacy Policy
+
+ADA
+Utah.gov
+
+
+
+
+
+
+

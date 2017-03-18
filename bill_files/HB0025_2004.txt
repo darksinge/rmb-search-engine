@@ -1,0 +1,953 @@
+Sponsors: []Modifications:     63D-2-101.This chapter is known as the "Governmental Internet Information Privacy Act."    63D-2-102.As used in this chapter:(1) (a)  "Collect" means the gathering of personally identifiable information:(i)  from a user of a governmental website; or(ii)  about a user of the governmental website.(b)  "Collect" includes use of any identifying code linked to a user of a governmentalwebsite.(2)  "Court website" means a website on the Internet that is operated by or on behalf ofany court created in Title 78, Judicial Code.(3)  "Governmental entity" means:(a)  an executive branch agency as defined in Section 
+
+63D-1a-102
+
+;(b)  the legislative branch;(c)  the judicial branch;(d)  the State Board of Education;(e)  the Board of Regents;(f)  an institution of higher education; and(g)  a political subdivision of the state:(i)  as defined in Section 
+
+17B-2-101
+
+; and(ii)  including a school district.(4) (a)  "Governmental website" means a website on the Internet that is operated by oron behalf of a governmental entity.(b)  "Governmental website" includes a court website.(5)  "Governmental website operator" means a governmental entity or person acting onbehalf of the governmental entity that:(a)  operates a governmental website; and(b)  collects or maintains personally identifiable information from or about a user ofthat website.(6)  "Personally identifiable information" means information that identifies:(a)  a user by:(i)  name;(ii)  account number;(iii)  physical address;(iv)  email address;(v)  telephone number;(vi)  Social Security number;(vii)  credit card information; or(viii)  bank account information;(b)  a user as having requested or obtained specific materials or services from agovernmental website;(c)  Internet sites visited by a user; or(d)  any of the contents of a user's data-storage device.(7)  "User" means a person who accesses a governmental website.    63D-2-103.(1)  A governmental entity may not collect personally identifiable information related toa user of the governmental entity's governmental website unless the governmental entity hastaken reasonable steps to ensure that on the day on which the personally identifiableinformation is collected the governmental entity's governmental website complies withSubsection (2).(2)  A governmental website shall contain a privacy policy statement that discloses:(a) (i)  the identity of the governmental website operator; and(ii)  how the governmental website operator may be contacted:(A)  by telephone; or(B)  electronically;(b)  the personally identifiable information collected by the governmental entity;(c)  a summary of how the personally identifiable information is used by:(i)  the governmental entity; or(ii)  the governmental website operator;(d)  the practices of the following related to disclosure of personally identifiableinformation collected:(i)  the governmental entity; or(ii)  the governmental website operator;(e)  the procedures, if any, by which a user of a governmental entity may request:(i)  access to the user's personally identifiable information; and(ii)  access to correct the user's personally identifiable information; and(f)  without compromising the integrity of the security measures, a general descriptionof the security measures in place to protect a user's personally identifiable information fromunintended disclosure.    63D-2-104.(1)  Except as provided in Subsections (2) and (3), a court website:(a)  may not display personally identifiable information; and(b)  shall contain a conspicuous notice that includes a list of documents routinely postedon the court website.(2)  This section does not prohibit access to any original document as provided by law.(3)  This section does not apply to:(a)  the Registry of Judgments created in Section 
+
+78-22-1.5
+
+, if the Registry ofJudgments complies with Subsection (3)(b);(b)  remote access to a document through a network or system that:(i)  is secure; and(ii)  provides restricted access through security standards developed by the court,including a registration requirement under which a prospective user must provide theprospective user's:(A)  identity;(B)  business or residence address; and(C)  citizenship status;(c)  postings related to legitimate law enforcement purposes;(d)  postings of documents filed or recorded more than 100 years prior to the posting;(e)  postings of:(i)  historical information;(ii)  genealogical information;(iii)  interpretive information about historic persons and events; or(iv)  educational information about historic persons and events; or(f)  postings of information instructing a user how to contact a website operator,employee, or other representative of the court.Full text:
+
+
+
+Utah State Legislature
+
+
+
+
+
+
+
+
+
+
+
+
+Legislators
+
+By Session (1896-Current)
+Alphabetical (Historical)
+Find by Address/Map
+More
+
+
+Bills
+
+Bills/Bill Requests
+Passed Bills
+2017 Bills
+
+Keyword Search
+Reading Calendars
+Tracking Service
+More
+
+
+Committees
+
+All Committees
+Appropriations
+Commissions
+
+Independent Legislative Ethics Commission
+Interim
+Standing
+Subcommittees
+Task Forces
+Bills In Committees
+
+
+Utah Code / Constitution
+
+
+Title/Chapter/Section
+Keyword Search 
+
+Utah Constitution
+Laws of Utah 1851-ongoing
+Utah Territorial Laws 
+More
+
+
+Senate
+
+Main Page 
+About The Senate 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Extraordinary Sessions 
+Reading Calendars 
+Past Floor Debates 
+Senate Journals 
+
+
+House
+
+Main Page
+About the House 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Reading Calendars 
+Past Floor Debates 
+Journals 
+Conflict of Interest Forms 
+
+
+Legislative Guide 
+
+Legislative Guide
+Civic Programs
+GRAMA (Records Requests)
+
+
+Publications
+
+Search Publications
+Appropriations
+Audits
+Bagels & Briefings
+Briefing Papers
+Digest of Legislation
+Legislative Drafting Manual
+
+Journals
+
+Interim Highlights
+
+Legislative Rules
+GRAMA (Records Requests)
+Public Email
+State Organization Charts
+YouTube Channel
+Requests for Proposals and Legal Notices
+More
+
+
+Legislative Histories
+
+Legislative History Resources
+How to Research
+Bill Drafting/Research Files (1990-Ongoing)
+
+Working Bills (1896-1989)
+Interim Committee Histories (1990-Ongoing) 
+Journals
+Past House Floor Debates
+Past Senate Floor Debates
+More
+
+
+Staff Offices
+
+All Legislative Offices
+Auditor General
+Fiscal Analyst
+Printing
+Research and General Counsel
+Staff Awards
+Job Opportunities
+More
+
+
+Links of Interest
+
+Utah Administrative Rules
+Courts
+Utah State Capitol
+State of Utah
+Federal Legislation
+More
+
+
+
+
+
+
+ 
+
+Download Zipped Introduced WordPerfect HB0025.ZIP
+[Status][Bill Documents][Fiscal Note][Bills Directory]
+
+
+H.B. 25
+
+
+
+
+
+            
+1
+
+    
+ GOVERNMENTAL INTERNET INFORMATION
+
+            
+2
+
+    
+ PRIVACY ACT
+
+
+            
+3
+
+    
+2004 GENERAL SESSION
+
+            
+4
+
+    
+STATE OF UTAH
+
+            
+5
+
+    
+ Sponsor: Wayne A. Harper
+
+            
+6
+
+    
+
+            
+7
+
+    
+ LONG TITLE
+            
+8
+
+    
+ General Description:
+            
+9
+
+    
+    This bill modifies the Information Technology Act to enact the Governmental Internet
+            
+10
+
+    
+Information Privacy Act.
+            
+11
+
+    
+ Highlighted Provisions:
+            
+12
+
+    
+    This bill:
+            
+13
+
+    
+    .    enacts provisions governing privacy policies and the collection of personally
+            
+14
+
+    
+identifiable information by a governmental entity; and
+            
+15
+
+    
+    .    enacts provisions regulating the posting of personally identifiable information on a
+            
+16
+
+    
+court website.
+            
+17
+
+    
+ Monies Appropriated in this Bill:
+            
+18
+
+    
+    None
+            
+19
+
+    
+ Other Special Clauses:
+            
+20
+
+    
+    None
+            
+21
+
+    
+ Utah Code Sections Affected:
+            
+22
+
+    
+ENACTS:
+            
+23
+
+    
+     63D-2-101, Utah Code Annotated 1953
+            
+24
+
+    
+     63D-2-102, Utah Code Annotated 1953
+            
+25
+
+    
+     63D-2-103, Utah Code Annotated 1953
+            
+26
+
+    
+     63D-2-104, Utah Code Annotated 1953
+            
+27
+
+    
+
+
+            
+28
+
+
+    
+Be it enacted by the Legislature of the state of Utah:
+            
+29
+
+    
+    Section 1.  
+Section  
+63D-2-101
+
+ is enacted to read:
+            
+30
+
+    
+ CHAPTER 2.  GOVERNMENTAL INTERNET INFORMATION PRIVACY ACT
+
+            
+31
+
+    
+     63D-2-101.  Title.
+            
+32
+
+    
+    This chapter is known as the "Governmental Internet Information Privacy Act."
+            
+33
+
+    
+    Section 2.  
+Section  
+63D-2-102
+
+ is enacted to read:
+            
+34
+
+    
+     63D-2-102.  Definitions.
+            
+35
+
+    
+    As used in this chapter:
+            
+36
+
+    
+    (1) (a)  "Collect" means the gathering of personally identifiable information:
+            
+37
+
+    
+    (i)  from a user of a governmental website; or
+            
+38
+
+    
+    (ii)  about a user of the governmental website.
+            
+39
+
+    
+    (b)  "Collect" includes use of any identifying code linked to a user of a governmental
+            
+40
+
+    
+website.
+            
+41
+
+    
+    (2)  "Court website" means a website on the Internet that is operated by or on behalf of
+            
+42
+
+    
+any court created in Title 78, Judicial Code.
+            
+43
+
+    
+    (3)  "Governmental entity" means:
+            
+44
+
+    
+    (a)  an executive branch agency as defined in Section 
+
+63D-1a-102
+
+;
+            
+45
+
+    
+    (b)  the legislative branch;
+            
+46
+
+    
+    (c)  the judicial branch;
+            
+47
+
+    
+    (d)  the State Board of Education;
+            
+48
+
+    
+    (e)  the Board of Regents;
+            
+49
+
+    
+    (f)  an institution of higher education; and
+            
+50
+
+    
+    (g)  a political subdivision of the state:
+            
+51
+
+    
+    (i)  as defined in Section 
+
+17B-2-101
+
+; and
+            
+52
+
+    
+    (ii)  including a school district.
+            
+53
+
+    
+    (4) (a)  "Governmental website" means a website on the Internet that is operated by or
+            
+54
+
+    
+on behalf of a governmental entity.
+            
+55
+
+    
+    (b)  "Governmental website" includes a court website.
+            
+56
+
+    
+    (5)  "Governmental website operator" means a governmental entity or person acting on
+            
+57
+
+    
+behalf of the governmental entity that:
+            
+58
+
+    
+    (a)  operates a governmental website; and
+
+
+            
+59
+
+
+    
+    (b)  collects or maintains personally identifiable information from or about a user of
+            
+60
+
+    
+that website.
+            
+61
+
+    
+    (6)  "Personally identifiable information" means information that identifies:
+            
+62
+
+    
+    (a)  a user by:
+            
+63
+
+    
+    (i)  name;
+            
+64
+
+    
+    (ii)  account number;
+            
+65
+
+    
+    (iii)  physical address;
+            
+66
+
+    
+    (iv)  email address;
+            
+67
+
+    
+    (v)  telephone number;
+            
+68
+
+    
+    (vi)  Social Security number;
+            
+69
+
+    
+    (vii)  credit card information; or
+            
+70
+
+    
+    (viii)  bank account information;
+            
+71
+
+    
+    (b)  a user as having requested or obtained specific materials or services from a
+            
+72
+
+    
+governmental website;
+            
+73
+
+    
+    (c)  Internet sites visited by a user; or
+            
+74
+
+    
+    (d)  any of the contents of a user's data-storage device.
+            
+75
+
+    
+    (7)  "User" means a person who accesses a governmental website.
+            
+76
+
+    
+    Section 3.  
+Section  
+63D-2-103
+
+ is enacted to read:
+            
+77
+
+    
+     63D-2-103.  Collection of personally identifiable information.
+            
+78
+
+    
+    (1)  A governmental entity may not collect personally identifiable information related to
+            
+79
+
+    
+a user of the governmental entity's governmental website unless the governmental entity has
+            
+80
+
+    
+taken reasonable steps to ensure that on the day on which the personally identifiable
+            
+81
+
+    
+information is collected the governmental entity's governmental website complies with
+            
+82
+
+    
+Subsection (2).
+            
+83
+
+    
+    (2)  A governmental website shall contain a privacy policy statement that discloses:
+            
+84
+
+    
+    (a) (i)  the identity of the governmental website operator; and
+            
+85
+
+    
+    (ii)  how the governmental website operator may be contacted:
+            
+86
+
+    
+    (A)  by telephone; or
+            
+87
+
+    
+    (B)  electronically;
+            
+88
+
+    
+    (b)  the personally identifiable information collected by the governmental entity;
+            
+89
+
+    
+    (c)  a summary of how the personally identifiable information is used by:
+
+            
+90
+
+
+    
+    (i)  the governmental entity; or
+            
+91
+
+    
+    (ii)  the governmental website operator;
+            
+92
+
+    
+    (d)  the practices of the following related to disclosure of personally identifiable
+            
+93
+
+    
+information collected:
+            
+94
+
+    
+    (i)  the governmental entity; or
+            
+95
+
+    
+    (ii)  the governmental website operator;
+            
+96
+
+    
+    (e)  the procedures, if any, by which a user of a governmental entity may request:
+            
+97
+
+    
+    (i)  access to the user's personally identifiable information; and
+            
+98
+
+    
+    (ii)  access to correct the user's personally identifiable information; and
+            
+99
+
+    
+    (f)  without compromising the integrity of the security measures, a general description
+            
+100
+
+    
+of the security measures in place to protect a user's personally identifiable information from
+            
+101
+
+    
+unintended disclosure.
+            
+102
+
+    
+    Section 4.  
+Section  
+63D-2-104
+
+ is enacted to read:
+            
+103
+
+    
+     63D-2-104.  Posting certain information on a court website.
+            
+104
+
+    
+    (1)  Except as provided in Subsections (2) and (3), a court website:
+            
+105
+
+    
+    (a)  may not display personally identifiable information; and
+            
+106
+
+    
+    (b)  shall contain a conspicuous notice that includes a list of documents routinely posted
+            
+107
+
+    
+on the court website.
+            
+108
+
+    
+    (2)  This section does not prohibit access to any original document as provided by law.
+            
+109
+
+    
+    (3)  This section does not apply to:
+            
+110
+
+    
+    (a)  the Registry of Judgments created in Section 
+
+78-22-1.5
+
+, if the Registry of
+            
+111
+
+    
+Judgments complies with Subsection (3)(b);
+            
+112
+
+    
+    (b)  remote access to a document through a network or system that:
+            
+113
+
+    
+    (i)  is secure; and
+            
+114
+
+    
+    (ii)  provides restricted access through security standards developed by the court,
+            
+115
+
+    
+including a registration requirement under which a prospective user must provide the
+            
+116
+
+    
+prospective user's:
+            
+117
+
+    
+    (A)  identity;
+            
+118
+
+    
+    (B)  business or residence address; and
+            
+119
+
+    
+    (C)  citizenship status;
+            
+120
+
+    
+    (c)  postings related to legitimate law enforcement purposes;
+
+            
+121
+
+
+    
+    (d)  postings of documents filed or recorded more than 100 years prior to the posting;
+            
+122
+
+    
+    (e)  postings of:
+            
+123
+
+    
+    (i)  historical information;
+            
+124
+
+    
+    (ii)  genealogical information;
+            
+125
+
+    
+    (iii)  interpretive information about historic persons and events; or
+            
+126
+
+    
+    (iv)  educational information about historic persons and events; or
+            
+127
+
+    
+    (f)  postings of information instructing a user how to contact a website operator,
+            
+128
+
+    
+employee, or other representative of the court.
+
+
+
+
+ Legislative Review Note
+    as of   9-22-03  10:37 AM
+
+A limited legal review of this legislation raises no obvious constitutional or statutory concerns.
+
+ Office of Legislative Research and General Counsel
+
+
+ Interim Committee Note
+    as of 12-10-03 11:14 AM
+
+The Public Utilities and Technology Interim Committee recommended this bill.
+[Bill Documents][Bills Directory]
+
+
+
+
+
+
+
+
+
+Who represents me?
+
+
+
+
+
+Remember my Legislators
+
+
+
+
+
+State Senate
+		350 North State, Suite 320
+		PO Box 145115
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1035
+		Fax: (801) 326-1475
+
+
+
+House of Representatives
+		350 North State, Suite 350
+		PO Box 145030
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1029
+		Fax: (801) 326-1544
+
+
+
+
+
+
+
+
+
+
+Home
+Mobile Site
+Site Map
+Calendar
+Code / Constitution
+House
+Senate
+
+Terms of Use/Privacy Policy
+
+ADA
+Utah.gov
+
+
+
+
+
+
+

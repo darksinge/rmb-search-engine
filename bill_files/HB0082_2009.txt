@@ -1,0 +1,753 @@
+Sponsors: []Modifications:     53A-1a-1101.(1)  There is created the Teacher Loan Program, to be administered by the State Boardof Education.(2)  The State Board of Education shall:(a)  subject to the availability of funding for the loan program from appropriations andloan principal and interest repayments, award available loan funds to individual teachers who:(i)  teach full time in a school district or charter school within the state;(ii)  have obtained a teaching license for the first time within the prior five years;(iii)  except as provided in Subsection (4), have not previously received a program loan;and(iv)  demonstrate a desire to pursue a teaching career and purchase a home within thestate;(b)  provide a program loan of $15,000 to a selected loan recipient, to be used for thepurchase of the loan recipient's primary residence;(c)  require a loan recipient to make interest payments at least annually on theoutstanding loan balance, at a fixed interest rate equal to the state treasurer's Utah PublicTreasurers Investment Fund interest rate for the January prior to loan issuance, rounded to thenearest tenth of a percent;(d)  forgive:(i)  $5,000 of the loan principal if the teacher teaches in a school district or charterschool for five consecutive years following receipt of the loan; and(ii)  the remaining amount of the loan principal if the teacher teaches in a school districtor charter school for ten consecutive years following receipt of the loan;(e)  require a loan recipient who:(i)  does not teach in a school district or charter school for five consecutive years afterreceiving the loan to repay the entire $15,000 in loan principal, in addition to loan interestpayments, over a period not to exceed five years after discontinuing teaching in a schooldistrict or charter school; or(ii)  teaches in a school district or charter school for more than five consecutive yearsbut less than ten consecutive years to repay the portion of the loan principal remaining after theforgiveness under Subsection (2)(d), in addition to loan interest payments, over a period not toexceed five years after discontinuing teaching in a school district or charter school;(f)  allow a principal prepayment at any time; and(g)  allocate repayment, interest, and appropriation funds for new loans.(3)  The consecutive years of teaching requirements of this section are based on thetime period a teacher teaches in any school district or charter school or combination of schooldistricts or charter schools in the state during the relevant time period.(4)  The State Board of Education may award one additional loan to a loan recipientwho:(a)  sold the primary residence that served as collateral for the program loan within tenyears of receiving the loan;(b)  repaid the loan principal and outstanding interest in full upon sale of the home; and(c)  continues to meet the other eligibility requirements of this section.(5)  In accordance with Title 63G, Chapter 3, Utah Administrative Rulemaking Act, theBoard of Education shall make rules to:(a)  establish loan recipient selection criteria, including credit worthiness; and(b)  establish procedures for application, loan funding, and repayment, which shallinclude procedures to:(i)  secure the program loan with the primary residence of the loan recipient ascollateral; and(ii)  require full repayment of the outstanding loan principal and interest if and when theprimary residence is sold within ten years of loan issuance.(6)  If appropriations and loan principal and interest repayment funds are insufficient tocover the costs associated with the Teacher Loan Program for all eligible applicants, the StateBoard of Education shall:(a)  limit the number of loans authorized to correspond to the amount of availablefunds; and(b)  select loan recipients using the criteria established pursuant to Subsection (5)(a).As an ongoing appropriation subject to future budget constraints, there is appropriatedfrom the General Fund for fiscal year 2009-10, $1,500,000 to the State Board of Education tofund the Teacher Loan Program established in Section 
+
+53A-1a-1101
+
+.This bill takes effect on July 1, 2009.Full text:
+
+
+
+Utah State Legislature
+
+
+
+
+
+
+
+
+
+
+
+
+Legislators
+
+By Session (1896-Current)
+Alphabetical (Historical)
+Find by Address/Map
+More
+
+
+Bills
+
+Bills/Bill Requests
+Passed Bills
+2017 Bills
+
+Keyword Search
+Reading Calendars
+Tracking Service
+More
+
+
+Committees
+
+All Committees
+Appropriations
+Commissions
+
+Independent Legislative Ethics Commission
+Interim
+Standing
+Subcommittees
+Task Forces
+Bills In Committees
+
+
+Utah Code / Constitution
+
+
+Title/Chapter/Section
+Keyword Search 
+
+Utah Constitution
+Laws of Utah 1851-ongoing
+Utah Territorial Laws 
+More
+
+
+Senate
+
+Main Page 
+About The Senate 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Extraordinary Sessions 
+Reading Calendars 
+Past Floor Debates 
+Senate Journals 
+
+
+House
+
+Main Page
+About the House 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Reading Calendars 
+Past Floor Debates 
+Journals 
+Conflict of Interest Forms 
+
+
+Legislative Guide 
+
+Legislative Guide
+Civic Programs
+GRAMA (Records Requests)
+
+
+Publications
+
+Search Publications
+Appropriations
+Audits
+Bagels & Briefings
+Briefing Papers
+Digest of Legislation
+Legislative Drafting Manual
+
+Journals
+
+Interim Highlights
+
+Legislative Rules
+GRAMA (Records Requests)
+Public Email
+State Organization Charts
+YouTube Channel
+Requests for Proposals and Legal Notices
+More
+
+
+Legislative Histories
+
+Legislative History Resources
+How to Research
+Bill Drafting/Research Files (1990-Ongoing)
+
+Working Bills (1896-1989)
+Interim Committee Histories (1990-Ongoing) 
+Journals
+Past House Floor Debates
+Past Senate Floor Debates
+More
+
+
+Staff Offices
+
+All Legislative Offices
+Auditor General
+Fiscal Analyst
+Printing
+Research and General Counsel
+Staff Awards
+Job Opportunities
+More
+
+
+Links of Interest
+
+Utah Administrative Rules
+Courts
+Utah State Capitol
+State of Utah
+Federal Legislation
+More
+
+
+
+
+
+
+ 
+
+Download Zipped Introduced WordPerfect HB0082.ZIP
+[Status][Bill Documents][Fiscal Note][Bills Directory]
+
+
+H.B. 82
+
+
+
+
+
+            
+1
+
+    
+ TEACHER MORTGAGE LOAN PROGRAM
+
+
+
+            
+2
+
+    
+2009 GENERAL SESSION
+
+            
+3
+
+    
+STATE OF UTAH
+
+            
+4
+
+    
+
+
+ Chief Sponsor:  Lynn N. Hemingway
+
+
+
+            
+5
+
+    
+
+
+
+Senate Sponsor:  
+
+
+
+
+
+
+____________
+
+
+
+
+
+            
+6
+
+    
+
+            
+7
+
+    
+ LONG TITLE
+            
+8
+
+    
+ General Description:
+            
+9
+
+    
+    This bill creates a loan program for teachers.
+            
+10
+
+    
+ Highlighted Provisions:
+            
+11
+
+    
+    This bill:
+            
+12
+
+    
+    .    creates a loan program for teachers;
+            
+13
+
+    
+    .    establishes program funding requirements; and
+            
+14
+
+    
+    .    requires the State Board of Education to adopt administrative rules to implement the
+            
+15
+
+    
+program.
+            
+16
+
+    
+ Monies Appropriated in this Bill:
+            
+17
+
+    
+    This bill appropriates:
+            
+18
+
+    
+    .    as an ongoing appropriation subject to future budget constraints, $1,500,000 from
+            
+19
+
+    
+the General Fund for fiscal year 2009-10 to the State Board of Education.
+            
+20
+
+    
+ Other Special Clauses:
+            
+21
+
+    
+    This bill takes effect on July 1, 2009.
+            
+22
+
+    
+ Utah Code Sections Affected:
+            
+23
+
+    
+ENACTS:
+            
+24
+
+    
+     53A-1a-1101, Utah Code Annotated 1953
+            
+25
+
+    
+
+            
+26
+
+    
+Be it enacted by the Legislature of the state of Utah:
+            
+27
+
+    
+    Section 1.  
+Section  
+53A-1a-1101
+
+ is enacted to read:
+
+            
+28
+
+
+    
+ Part 11.  Teacher Loan Program
+
+            
+29
+
+    
+     53A-1a-1101.  Teacher Loan Program.
+            
+30
+
+    
+    (1)  There is created the Teacher Loan Program, to be administered by the State Board
+            
+31
+
+    
+of Education.
+            
+32
+
+    
+    (2)  The State Board of Education shall:
+            
+33
+
+    
+    (a)  subject to the availability of funding for the loan program from appropriations and
+            
+34
+
+    
+loan principal and interest repayments, award available loan funds to individual teachers who:
+            
+35
+
+    
+    (i)  teach full time in a school district or charter school within the state;
+            
+36
+
+    
+    (ii)  have obtained a teaching license for the first time within the prior five years;
+            
+37
+
+    
+    (iii)  except as provided in Subsection (4), have not previously received a program loan;
+            
+38
+
+    
+and
+            
+39
+
+    
+    (iv)  demonstrate a desire to pursue a teaching career and purchase a home within the
+            
+40
+
+    
+state;
+            
+41
+
+    
+    (b)  provide a program loan of $15,000 to a selected loan recipient, to be used for the
+            
+42
+
+    
+purchase of the loan recipient's primary residence;
+            
+43
+
+    
+    (c)  require a loan recipient to make interest payments at least annually on the
+            
+44
+
+    
+outstanding loan balance, at a fixed interest rate equal to the state treasurer's Utah Public
+            
+45
+
+    
+Treasurers Investment Fund interest rate for the January prior to loan issuance, rounded to the
+            
+46
+
+    
+nearest tenth of a percent;
+            
+47
+
+    
+    (d)  forgive:
+            
+48
+
+    
+    (i)  $5,000 of the loan principal if the teacher teaches in a school district or charter
+            
+49
+
+    
+school for five consecutive years following receipt of the loan; and
+            
+50
+
+    
+    (ii)  the remaining amount of the loan principal if the teacher teaches in a school district
+            
+51
+
+    
+or charter school for ten consecutive years following receipt of the loan;
+            
+52
+
+    
+    (e)  require a loan recipient who:
+            
+53
+
+    
+    (i)  does not teach in a school district or charter school for five consecutive years after
+            
+54
+
+    
+receiving the loan to repay the entire $15,000 in loan principal, in addition to loan interest
+            
+55
+
+    
+payments, over a period not to exceed five years after discontinuing teaching in a school
+            
+56
+
+    
+district or charter school; or
+            
+57
+
+    
+    (ii)  teaches in a school district or charter school for more than five consecutive years
+            
+58
+
+    
+but less than ten consecutive years to repay the portion of the loan principal remaining after the
+
+            
+59
+
+
+    
+forgiveness under Subsection (2)(d), in addition to loan interest payments, over a period not to
+            
+60
+
+    
+exceed five years after discontinuing teaching in a school district or charter school;
+            
+61
+
+    
+    (f)  allow a principal prepayment at any time; and
+            
+62
+
+    
+    (g)  allocate repayment, interest, and appropriation funds for new loans.
+            
+63
+
+    
+    (3)  The consecutive years of teaching requirements of this section are based on the
+            
+64
+
+    
+time period a teacher teaches in any school district or charter school or combination of school
+            
+65
+
+    
+districts or charter schools in the state during the relevant time period.
+            
+66
+
+    
+    (4)  The State Board of Education may award one additional loan to a loan recipient
+            
+67
+
+    
+who:
+            
+68
+
+    
+    (a)  sold the primary residence that served as collateral for the program loan within ten
+            
+69
+
+    
+years of receiving the loan;
+            
+70
+
+    
+    (b)  repaid the loan principal and outstanding interest in full upon sale of the home; and
+            
+71
+
+    
+    (c)  continues to meet the other eligibility requirements of this section.
+            
+72
+
+    
+    (5)  In accordance with Title 63G, Chapter 3, Utah Administrative Rulemaking Act, the
+            
+73
+
+    
+Board of Education shall make rules to:
+            
+74
+
+    
+    (a)  establish loan recipient selection criteria, including credit worthiness; and
+            
+75
+
+    
+    (b)  establish procedures for application, loan funding, and repayment, which shall
+            
+76
+
+    
+include procedures to:
+            
+77
+
+    
+    (i)  secure the program loan with the primary residence of the loan recipient as
+            
+78
+
+    
+collateral; and
+            
+79
+
+    
+    (ii)  require full repayment of the outstanding loan principal and interest if and when the
+            
+80
+
+    
+primary residence is sold within ten years of loan issuance.
+            
+81
+
+    
+    (6)  If appropriations and loan principal and interest repayment funds are insufficient to
+            
+82
+
+    
+cover the costs associated with the Teacher Loan Program for all eligible applicants, the State
+            
+83
+
+    
+Board of Education shall:
+            
+84
+
+    
+    (a)  limit the number of loans authorized to correspond to the amount of available
+            
+85
+
+    
+funds; and
+            
+86
+
+    
+    (b)  select loan recipients using the criteria established pursuant to Subsection (5)(a).
+            
+87
+
+    
+    Section 2.   Appropriation.
+            
+88
+
+    
+    As an ongoing appropriation subject to future budget constraints, there is appropriated
+            
+89
+
+    
+from the General Fund for fiscal year 2009-10, $1,500,000 to the State Board of Education to
+
+            
+90
+
+
+    
+fund the Teacher Loan Program established in Section 
+
+53A-1a-1101
+
+.
+            
+91
+
+    
+    Section 3.   Effective date.
+            
+92
+
+    
+    This bill takes effect on July 1, 2009.
+
+
+
+
+ Legislative Review Note
+    as of  12-2-08  2:41 PM
+
+ Office of Legislative Research and General Counsel
+[Bill Documents][Bills Directory]
+
+
+
+
+
+
+
+
+
+Who represents me?
+
+
+
+
+
+Remember my Legislators
+
+
+
+
+
+State Senate
+		350 North State, Suite 320
+		PO Box 145115
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1035
+		Fax: (801) 326-1475
+
+
+
+House of Representatives
+		350 North State, Suite 350
+		PO Box 145030
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1029
+		Fax: (801) 326-1544
+
+
+
+
+
+
+
+
+
+
+Home
+Mobile Site
+Site Map
+Calendar
+Code / Constitution
+House
+Senate
+
+Terms of Use/Privacy Policy
+
+ADA
+Utah.gov
+
+
+
+
+
+
+

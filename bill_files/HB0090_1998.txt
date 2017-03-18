@@ -1,0 +1,411 @@
+Sponsors: []Modifications:     76-6-1001.As used in this part:(1)  "Key" means any instrument used by the postal service and postal customer, and whichis designed to operate the lock on a mail receptacle.(2)  "Mail" means any letter, card, parcel, or other material, along with its contents, that:(a)  has postage affixed by the postal customer or postal service;(b)  has been accepted for delivery by the postal service;(c)  the postal customer leaves for collection by the postal service; or(d)  the postal service delivers to the postal customer.(3)  "Mail receptacle" means a mail box, post office box, rural box, or any place intendedor used by postal customers or the postal service for the collection or delivery of mail.(4)  "Postage" means a postal service stamp, permit imprint, meter strip, or other indicationof either prepayment for postal service provided or authorization by the postal service forcollection and delivery of mail.(5)  "Postal service" means the United States Postal Service and any motor carrier engagedin the business of collecting, transporting, and delivering mail.    76-6-1002.(1)  A person commits the crime of damage to a mail receptacle if the person knowinglydamages the condition of a mail receptacle, including:(a)  taking, concealing, damaging, or destroying a key; or(b)  breaking open, tearing down, taking, damaging, or destroying a mail receptacle.(2) (a)  Damage to a mail receptacle is a class B misdemeanor unless the damageconstitutes a class A or greater offense against the property of another under this title.(b)  Damage to each mail receptacle is a separate offense under this section.    76-6-1003.(1)  A person commits the crime of mail theft if the person:(a)  knowingly, and with the intent to deprive another:(i)  takes, destroys, hides, or embezzles mail; or(ii)  obtains any mail by fraud or deception; or(b)  buys, receives, conceals, or possesses mail and knows or reasonably should haveknown that the mail was unlawfully taken or obtained.(2)  Mail theft is a:(a)  felony of the second degree if the mail theft causes pecuniary loss equal to or in excessof $5,000 in value;(b)  felony of the third degree if the mail theft causes pecuniary loss equal to or in excessof $1,000 but is less than $5,000 in value;(c)  class A misdemeanor if the mail theft causes pecuniary loss equal to or in excess of$300 but is less than $1,000 in value; and(d)  class B misdemeanor if the mail theft causes pecuniary loss less than $300 in value orthe value cannot be ascertained.    76-6-1004.(1)  The presumptions and defenses regarding the theft of property in Section 76-6-402apply to this part, in addition to the provisions of this section.(2)  There is probable cause to believe a person has committed mail theft if the personpossesses or controls mail addressed to two or more third parties, and each party has a differentaddress.(3)  It is a defense to a charge of mail theft that:(a)  the defendant was unaware that the mail belonged to another person;(b)  the defendant reasonably believed he was entitled to the mail or had a right to acquireor dispose of the mail as he did; or(c)  the mail belonged to the defendant's spouse, unless the parties were either legallyseparated or living in separate residences at the time of the alleged mail theft.Full text:
+
+
+
+Utah State Legislature
+
+
+
+
+
+
+
+
+
+
+
+
+Legislators
+
+By Session (1896-Current)
+Alphabetical (Historical)
+Find by Address/Map
+More
+
+
+Bills
+
+Bills/Bill Requests
+Passed Bills
+2017 Bills
+
+Keyword Search
+Reading Calendars
+Tracking Service
+More
+
+
+Committees
+
+All Committees
+Appropriations
+Commissions
+
+Independent Legislative Ethics Commission
+Interim
+Standing
+Subcommittees
+Task Forces
+Bills In Committees
+
+
+Utah Code / Constitution
+
+
+Title/Chapter/Section
+Keyword Search 
+
+Utah Constitution
+Laws of Utah 1851-ongoing
+Utah Territorial Laws 
+More
+
+
+Senate
+
+Main Page 
+About The Senate 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Extraordinary Sessions 
+Reading Calendars 
+Past Floor Debates 
+Senate Journals 
+
+
+House
+
+Main Page
+About the House 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Reading Calendars 
+Past Floor Debates 
+Journals 
+Conflict of Interest Forms 
+
+
+Legislative Guide 
+
+Legislative Guide
+Civic Programs
+GRAMA (Records Requests)
+
+
+Publications
+
+Search Publications
+Appropriations
+Audits
+Bagels & Briefings
+Briefing Papers
+Digest of Legislation
+Legislative Drafting Manual
+
+Journals
+
+Interim Highlights
+
+Legislative Rules
+GRAMA (Records Requests)
+Public Email
+State Organization Charts
+YouTube Channel
+Requests for Proposals and Legal Notices
+More
+
+
+Legislative Histories
+
+Legislative History Resources
+How to Research
+Bill Drafting/Research Files (1990-Ongoing)
+
+Working Bills (1896-1989)
+Interim Committee Histories (1990-Ongoing) 
+Journals
+Past House Floor Debates
+Past Senate Floor Debates
+More
+
+
+Staff Offices
+
+All Legislative Offices
+Auditor General
+Fiscal Analyst
+Printing
+Research and General Counsel
+Staff Awards
+Job Opportunities
+More
+
+
+Links of Interest
+
+Utah Administrative Rules
+Courts
+Utah State Capitol
+State of Utah
+Federal Legislation
+More
+
+
+
+
+
+
+ 
+
+Download Zipped Introduced WP 6.1 HB0090.ZIP 8,148 Bytes
+[Status][Bill Documents][Fiscal Note][Bills Directory]
+
+
+H.B. 90
+
+
+
+
+
+
+
+
+
+1     MAIL BOX DAMAGE AND MAIL THEFT
+
+
+
+
+2    1998 GENERAL SESSION
+
+
+3    STATE OF UTAH
+
+
+4     Sponsor: Brent H. Goodfellow
+
+
+5    AN ACT RELATING TO THE CRIMINAL CODE; CREATING THE OFFENSES OF
+
+6    DAMAGE TO A MAIL RECEPTACLE AND THEFT OF MAIL; AND PROVIDING
+
+7    PENALTIES.
+
+8    This act affects sections of Utah Code Annotated 1953 as follows:
+
+9    ENACTS:
+
+10         76-6-1001, Utah Code Annotated 1953
+
+11         76-6-1002, Utah Code Annotated 1953
+
+12         76-6-1003, Utah Code Annotated 1953
+
+13         76-6-1004, Utah Code Annotated 1953
+
+14    Be it enacted by the Legislature of the state of Utah:
+
+15        Section 1.  Section  76-6-1001 is enacted to read:
+
+16     Part 10.  Mail Box Damage and Mail Theft
+
+
+17         76-6-1001.  Definitions.
+
+18        As used in this part:
+
+19        (1)  "Key" means any instrument used by the postal service and postal customer, and which
+
+20    is designed to operate the lock on a mail receptacle.
+
+21        (2)  "Mail" means any letter, card, parcel, or other material, along with its contents, that:
+
+22        (a)  has postage affixed by the postal customer or postal service;
+
+23        (b)  has been accepted for delivery by the postal service;
+
+24        (c)  the postal customer leaves for collection by the postal service; or
+
+25        (d)  the postal service delivers to the postal customer.
+
+26        (3)  "Mail receptacle" means a mail box, post office box, rural box, or any place intended
+
+27    or used by postal customers or the postal service for the collection or delivery of mail.
+
+
+1        (4)  "Postage" means a postal service stamp, permit imprint, meter strip, or other indication
+
+2    of either prepayment for postal service provided or authorization by the postal service for
+
+3    collection and delivery of mail.
+
+4        (5)  "Postal service" means the United States Postal Service and any motor carrier engaged
+
+5    in the business of collecting, transporting, and delivering mail.
+
+6        Section 2.  Section  76-6-1002 is enacted to read:
+
+7         76-6-1002.  Damage to mail receptacle.
+
+8        (1)  A person commits the crime of damage to a mail receptacle if the person knowingly
+
+9    damages the condition of a mail receptacle, including:
+
+10        (a)  taking, concealing, damaging, or destroying a key; or
+
+11        (b)  breaking open, tearing down, taking, damaging, or destroying a mail receptacle.
+
+12        (2) (a)  Damage to a mail receptacle is a class B misdemeanor unless the damage
+
+13    constitutes a class A or greater offense against the property of another under this title.
+
+14        (b)  Damage to each mail receptacle is a separate offense under this section.
+
+15        Section 3.  Section  76-6-1003 is enacted to read:
+
+16         76-6-1003.  Mail theft.
+
+17        (1)  A person commits the crime of mail theft if the person:
+
+18        (a)  knowingly, and with the intent to deprive another:
+
+19        (i)  takes, destroys, hides, or embezzles mail; or
+
+20        (ii)  obtains any mail by fraud or deception; or
+
+21        (b)  buys, receives, conceals, or possesses mail and knows or reasonably should have
+
+22    known that the mail was unlawfully taken or obtained.
+
+23        (2)  Mail theft is a:
+
+24        (a)  felony of the second degree if the mail theft causes pecuniary loss equal to or in excess
+
+25    of $5,000 in value;
+
+26        (b)  felony of the third degree if the mail theft causes pecuniary loss equal to or in excess
+
+27    of $1,000 but is less than $5,000 in value;
+
+28        (c)  class A misdemeanor if the mail theft causes pecuniary loss equal to or in excess of
+
+29    $300 but is less than $1,000 in value; and
+
+30        (d)  class B misdemeanor if the mail theft causes pecuniary loss less than $300 in value or
+
+31    the value cannot be ascertained.
+
+- 2 -
+
+
+1        Section 4.  Section  76-6-1004 is enacted to read:
+
+2         76-6-1004.  Presumptions and defenses.
+
+3        (1)  The presumptions and defenses regarding the theft of property in Section 76-6-402
+
+4    apply to this part, in addition to the provisions of this section.
+
+5        (2)  There is probable cause to believe a person has committed mail theft if the person
+
+6    possesses or controls mail addressed to two or more third parties, and each party has a different
+
+7    address.
+
+8        (3)  It is a defense to a charge of mail theft that:
+
+9        (a)  the defendant was unaware that the mail belonged to another person;
+
+10        (b)  the defendant reasonably believed he was entitled to the mail or had a right to acquire
+
+11    or dispose of the mail as he did; or
+
+12        (c)  the mail belonged to the defendant's spouse, unless the parties were either legally
+
+13    separated or living in separate residences at the time of the alleged mail theft.
+
+
+
+
+ Legislative Review Note
+    as of   1-6-98  2:40 PM
+
+
+A limited legal review of this bill raises no obvious constitutional or statutory concerns.
+
+ Office of Legislative Research and General Counsel
+
+
+- 3 -
+[Bill Documents][Bills Directory]
+
+
+
+
+
+
+
+
+
+Who represents me?
+
+
+
+
+
+Remember my Legislators
+
+
+
+
+
+State Senate
+		350 North State, Suite 320
+		PO Box 145115
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1035
+		Fax: (801) 326-1475
+
+
+
+House of Representatives
+		350 North State, Suite 350
+		PO Box 145030
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1029
+		Fax: (801) 326-1544
+
+
+
+
+
+
+
+
+
+
+Home
+Mobile Site
+Site Map
+Calendar
+Code / Constitution
+House
+Senate
+
+Terms of Use/Privacy Policy
+
+ADA
+Utah.gov
+
+
+
+
+
+
+

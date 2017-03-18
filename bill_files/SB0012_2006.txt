@@ -1,0 +1,772 @@
+Sponsors: []Modifications: (3) (a)  A public body may not hold an electronic meeting unless the public body hasadopted a resolution, rule, or ordinance governing the use of electronic meetings.(b)  The resolution, rule, or ordinance may:(i)  prohibit or limit electronic meetings based on budget, public policy, or logisticalconsiderations;(ii)  require a quorum of the public body to:(A)  be present at a single anchor location for the meeting; and(B)  vote to approve establishment of an electronic meeting in order to include othermembers of the public body through an electronic connection;(iii)  require a request for an electronic meeting to be made by a member of a publicbody up to three days prior to the meeting to allow for arrangements to be made for theelectronic meeting;(iv)  restrict the number of separate connections for members of the public body that areallowed for an electronic meeting based on available equipment capability; or(v)  establish other procedures, limitations, or conditions governing electronic meetingsnot in conflict with this section.(4)(4)(c)(d)(e)(5)Full text:
+
+
+
+Utah State Legislature
+
+
+
+
+
+
+
+
+
+
+
+
+Legislators
+
+By Session (1896-Current)
+Alphabetical (Historical)
+Find by Address/Map
+More
+
+
+Bills
+
+Bills/Bill Requests
+Passed Bills
+2017 Bills
+
+Keyword Search
+Reading Calendars
+Tracking Service
+More
+
+
+Committees
+
+All Committees
+Appropriations
+Commissions
+
+Independent Legislative Ethics Commission
+Interim
+Standing
+Subcommittees
+Task Forces
+Bills In Committees
+
+
+Utah Code / Constitution
+
+
+Title/Chapter/Section
+Keyword Search 
+
+Utah Constitution
+Laws of Utah 1851-ongoing
+Utah Territorial Laws 
+More
+
+
+Senate
+
+Main Page 
+About The Senate 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Extraordinary Sessions 
+Reading Calendars 
+Past Floor Debates 
+Senate Journals 
+
+
+House
+
+Main Page
+About the House 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Reading Calendars 
+Past Floor Debates 
+Journals 
+Conflict of Interest Forms 
+
+
+Legislative Guide 
+
+Legislative Guide
+Civic Programs
+GRAMA (Records Requests)
+
+
+Publications
+
+Search Publications
+Appropriations
+Audits
+Bagels & Briefings
+Briefing Papers
+Digest of Legislation
+Legislative Drafting Manual
+
+Journals
+
+Interim Highlights
+
+Legislative Rules
+GRAMA (Records Requests)
+Public Email
+State Organization Charts
+YouTube Channel
+Requests for Proposals and Legal Notices
+More
+
+
+Legislative Histories
+
+Legislative History Resources
+How to Research
+Bill Drafting/Research Files (1990-Ongoing)
+
+Working Bills (1896-1989)
+Interim Committee Histories (1990-Ongoing) 
+Journals
+Past House Floor Debates
+Past Senate Floor Debates
+More
+
+
+Staff Offices
+
+All Legislative Offices
+Auditor General
+Fiscal Analyst
+Printing
+Research and General Counsel
+Staff Awards
+Job Opportunities
+More
+
+
+Links of Interest
+
+Utah Administrative Rules
+Courts
+Utah State Capitol
+State of Utah
+Federal Legislation
+More
+
+
+
+
+
+
+ 
+
+Download Zipped Enrolled WordPerfect SB0012.ZIP
+[Introduced][Amended][Status][Bill Documents][Fiscal Note][Bills Directory]
+
+
+S.B. 12 Enrolled
+
+
+
+
+
+            
+1
+
+    
+ ELECTRONIC MEETING AMENDMENT
+
+
+
+            
+2
+
+    
+2006 GENERAL SESSION
+
+            
+3
+
+    
+STATE OF UTAH
+
+            
+4
+
+    
+
+
+ Chief Sponsor:  Lyle W. Hillyard
+
+
+
+            
+5
+
+    
+
+
+
+House Sponsor:  
+
+
+
+
+
+
+Douglas C. Aagard
+
+
+
+
+
+            
+6
+
+    
+
+            
+7
+
+    
+ LONG TITLE
+            
+8
+
+    
+ General Description:
+            
+9
+
+    
+    This bill modifies the Open and Public Meeting Act by amending certain electronic
+            
+10
+
+    
+meeting provisions.
+            
+11
+
+    
+ Highlighted Provisions:
+            
+12
+
+    
+    This bill:
+            
+13
+
+    
+    .    requires a  public body to adopt a resolution, rule, or ordinance governing the use of
+            
+14
+
+    
+electronic meetings prior to holding an electronic meeting;
+            
+15
+
+    
+    .    allows the resolution, rule, or ordinance adopted by the public body to:
+            
+16
+
+    
+        .    prohibit or limit electronic meetings based on budget or logistical constraints;
+            
+17
+
+    
+        .    require a quorum of the public body to be present at a single anchor location for
+            
+18
+
+    
+the meeting and vote to approve establishment of an electronic meeting;
+            
+19
+
+    
+        .    require a request for a electronic meeting to be made by a member of a public
+            
+20
+
+    
+body up to three days prior to the meeting;
+            
+21
+
+    
+        .    restrict the number of separate connections for members of the public body that
+            
+22
+
+    
+are allowed for an electronic meeting; or
+            
+23
+
+    
+        .    establish other procedures, limitations, or conditions governing electronic
+            
+24
+
+    
+meetings not in conflict with certain statutes; and
+            
+25
+
+    
+    .    makes technical changes.
+            
+26
+
+    
+ Monies Appropriated in this Bill:
+            
+27
+
+    
+    None
+            
+28
+
+    
+ Other Special Clauses:
+            
+29
+
+    
+    None
+
+            
+30
+
+
+    
+ Utah Code Sections Affected:
+            
+31
+
+    
+AMENDS:
+            
+32
+
+    
+     52-4-7.8, as last amended by Chapter 9, Laws of Utah 2001
+            
+33
+
+    
+
+            
+34
+
+    
+Be it enacted by the Legislature of the state of Utah:
+            
+35
+
+    
+    Section 1.  
+Section  
+52-4-7.8
+
+ is amended to read:
+            
+36
+
+    
+     52-4-7.8.  Electronic meetings -- Authorization -- Requirements.
+            
+37
+
+    
+    (1)  As used in this section:
+            
+38
+
+    
+    (a)  "Anchor location" means the physical location from which the electronic meeting
+            
+39
+
+    
+originates or from which the participants are connected.
+            
+40
+
+    
+    (b)  "Electronic meeting" means a public meeting convened or conducted by means of a
+            
+41
+
+    
+telephonic, telecommunications, or computer conference.
+            
+42
+
+    
+    (c)  "Electronic notice" means electronic mail or fax.
+            
+43
+
+    
+    (d)  "Monitor" means to:
+            
+44
+
+    
+    (i)  hear, live, by speaker, or by other equipment, all of the public statements of each
+            
+45
+
+    
+member of the public body who is participating in a meeting; or
+            
+46
+
+    
+    (ii)  see, by computer screen or other visual medium, all of the public statements of
+            
+47
+
+    
+each member of the public body who is participating in a meeting.
+            
+48
+
+    
+    (e)  "Participate" means the ability to communicate with all of the members of a public
+            
+49
+
+    
+body, either verbally or electronically, so that each member of the public body can hear or see
+            
+50
+
+    
+the communication.
+            
+51
+
+    
+    (f)  "Public hearing" means a meeting at which comments from the public will be
+            
+52
+
+    
+accepted.
+            
+53
+
+    
+    (g)  "Public statement" means a statement made in the ordinary course of business of
+            
+54
+
+    
+the public body with the intent that all other members of the public body receive it.
+            
+55
+
+    
+    (2)  A public body may, by following the procedures and requirements of this section,
+            
+56
+
+    
+convene and conduct an electronic meeting.
+            
+57
+
+    
+    (3) (a)  A public body may not hold an electronic meeting unless the public body has
+
+            
+58
+
+
+    
+adopted a resolution, rule, or ordinance governing the use of electronic meetings.
+            
+59
+
+    
+    (b)  The resolution, rule, or ordinance may:
+            
+60
+
+    
+    (i)  prohibit or limit electronic meetings based on budget, public policy, or logistical
+            
+61
+
+    
+considerations;
+            
+62
+
+    
+    (ii)  require a quorum of the public body to:
+            
+63
+
+    
+    (A)  be present at a single anchor location for the meeting; and
+            
+64
+
+    
+    (B)  vote to approve establishment of an electronic meeting in order to include other
+            
+65
+
+    
+members of the public body through an electronic connection;
+            
+66
+
+    
+    (iii)  require a request for an electronic meeting to be made by a member of a public
+            
+67
+
+    
+body up to three days prior to the meeting to allow for arrangements to be made for the
+            
+68
+
+    
+electronic meeting;
+            
+69
+
+    
+    (iv)  restrict the number of separate connections for members of the public body that are
+            
+70
+
+    
+allowed for an electronic meeting based on available equipment capability; or
+            
+71
+
+    
+    (v)  establish other procedures, limitations, or conditions governing electronic meetings
+            
+72
+
+    
+not in conflict with this section.
+            
+73
+
+    
+    [(3)] (4)  Each public body convening or conducting an electronic meeting shall:
+            
+74
+
+    
+    (a)  give public notice of the meeting pursuant to Section 
+
+52-4-6
+
+ by:
+            
+75
+
+    
+    (i)  posting written notice at the anchor location; and
+            
+76
+
+    
+    (ii)  providing written or electronic notice to:
+            
+77
+
+    
+    (A)  at least one newspaper of general circulation within the state; and
+            
+78
+
+    
+    (B)  to a local media correspondent;
+            
+79
+
+    
+    (b)  in addition to giving public notice required by Subsection [(3)] (4)(a), provide:
+            
+80
+
+    
+    (i)  notice of the electronic meeting to the members of the public body at least 24 hours
+            
+81
+
+    
+before the meeting so that they may participate in and be counted as present for all purposes,
+            
+82
+
+    
+including the determination that a quorum is present; and
+            
+83
+
+    
+    (ii)  a description of how the members will be connected to the electronic meeting;
+            
+84
+
+    
+    [(c)  establish written procedures governing the electronic meeting at which one or
+            
+85
+
+    
+more members of a public body are participating by means of a telephonic or
+
+            
+86
+
+
+    
+telecommunications conference;]
+            
+87
+
+    
+    [(d)] (c)  establish one or more anchor locations for the public meeting, at least one of
+            
+88
+
+    
+which is in the building and city where the public body would normally meet if they were not
+            
+89
+
+    
+holding an electronic meeting;
+            
+90
+
+    
+    [(e)] (d)  provide space and facilities at the anchor location so that interested persons
+            
+91
+
+    
+and the public may attend and monitor the open portions of the meeting; and
+            
+92
+
+    
+    [(f)] (e)  if the meeting is a public hearing, provide space and facilities at the anchor
+            
+93
+
+    
+location so that interested persons and the public may attend, monitor, and participate in the
+            
+94
+
+    
+open portions of the meeting.
+            
+95
+
+    
+    [(4)] (5)  Compliance with the provisions of this section by a public body constitutes
+            
+96
+
+    
+full and complete compliance by the public body with the corresponding provisions of Sections
+            
+97
+
+    
+
+52-4-3
+
+ and 
+
+52-4-6
+
+.
+[Bill Documents][Bills Directory]
+
+
+
+
+
+
+
+
+
+Who represents me?
+
+
+
+
+
+Remember my Legislators
+
+
+
+
+
+State Senate
+		350 North State, Suite 320
+		PO Box 145115
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1035
+		Fax: (801) 326-1475
+
+
+
+House of Representatives
+		350 North State, Suite 350
+		PO Box 145030
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1029
+		Fax: (801) 326-1544
+
+
+
+
+
+
+
+
+
+
+Home
+Mobile Site
+Site Map
+Calendar
+Code / Constitution
+House
+Senate
+
+Terms of Use/Privacy Policy
+
+ADA
+Utah.gov
+
+
+
+
+
+
+

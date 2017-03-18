@@ -1,0 +1,635 @@
+Sponsors: []Modifications:     20A-3-302.5.(1)  As used in this section, "district" means a:(a)  local district, as defined in Section 
+
+17B-1-102
+
+; or(b)  special service district, as defined in Section 
+
+17D-1-102
+
+.(2)  Notwithstanding Sections 
+
+17B-1-306
+
+ and 
+
+17D-1-303
+
+, at least 60 days before theday of an election, a district may elect to administer an election entirely by absentee ballot.(3)  If a district decides to administer an election entirely by absentee ballot, the districtshall mail to each registered voter within the district:(a)  an absentee ballot;(b)  a statement that there will be no polling place for the election;(c)  instructions for returning the ballot that include an express notice about anyrelevant deadlines that the voter must meet in order for the voter's vote to be counted; and(d)  a warning, on a separate page of colored paper in bold face print, indicating that ifthe voter fails to follow the instructions included with the absentee ballot, the voter will beunable to vote in that election because there will be no polling place on the day of the election.(4)  Any voter who votes by absentee ballot under this section is not required to applyfor an absentee ballot as required by this part.(5) (a)  A district that administers an election entirely by absentee ballot shall:(i) (A)  obtain, in person, the signatures of each voter within the district before theelection; and(B)  maintain the signatures on file in the district's office; or(ii)  obtain the signatures of each voter within the district from the county clerk.(b) (i)  Upon receiving the returned absentee ballots, the district shall compare thesignature on each absentee ballot with the voter's signature that is maintained on file and verifythat the signatures are the same.(ii)  If the district questions the authenticity of the signature on the absentee ballot, thedistrict shall immediately contact the voter to verify the signature.(iii)  If the voter does not confirm the voter's signature on the absentee ballot, thedistrict shall:(A)  immediately send another absentee ballot and other voting materials as required bythis section to the voter; and(B)  disqualify the initial absentee ballot.Full text:
+
+
+
+Utah State Legislature
+
+
+
+
+
+
+
+
+
+
+
+
+Legislators
+
+By Session (1896-Current)
+Alphabetical (Historical)
+Find by Address/Map
+More
+
+
+Bills
+
+Bills/Bill Requests
+Passed Bills
+2017 Bills
+
+Keyword Search
+Reading Calendars
+Tracking Service
+More
+
+
+Committees
+
+All Committees
+Appropriations
+Commissions
+
+Independent Legislative Ethics Commission
+Interim
+Standing
+Subcommittees
+Task Forces
+Bills In Committees
+
+
+Utah Code / Constitution
+
+
+Title/Chapter/Section
+Keyword Search 
+
+Utah Constitution
+Laws of Utah 1851-ongoing
+Utah Territorial Laws 
+More
+
+
+Senate
+
+Main Page 
+About The Senate 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Extraordinary Sessions 
+Reading Calendars 
+Past Floor Debates 
+Senate Journals 
+
+
+House
+
+Main Page
+About the House 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Reading Calendars 
+Past Floor Debates 
+Journals 
+Conflict of Interest Forms 
+
+
+Legislative Guide 
+
+Legislative Guide
+Civic Programs
+GRAMA (Records Requests)
+
+
+Publications
+
+Search Publications
+Appropriations
+Audits
+Bagels & Briefings
+Briefing Papers
+Digest of Legislation
+Legislative Drafting Manual
+
+Journals
+
+Interim Highlights
+
+Legislative Rules
+GRAMA (Records Requests)
+Public Email
+State Organization Charts
+YouTube Channel
+Requests for Proposals and Legal Notices
+More
+
+
+Legislative Histories
+
+Legislative History Resources
+How to Research
+Bill Drafting/Research Files (1990-Ongoing)
+
+Working Bills (1896-1989)
+Interim Committee Histories (1990-Ongoing) 
+Journals
+Past House Floor Debates
+Past Senate Floor Debates
+More
+
+
+Staff Offices
+
+All Legislative Offices
+Auditor General
+Fiscal Analyst
+Printing
+Research and General Counsel
+Staff Awards
+Job Opportunities
+More
+
+
+Links of Interest
+
+Utah Administrative Rules
+Courts
+Utah State Capitol
+State of Utah
+Federal Legislation
+More
+
+
+
+
+
+
+ 
+
+Download Zipped Introduced WordPerfect HB0044.ZIP
+[Status][Bill Documents][Fiscal Note][Bills Directory]
+
+
+H.B. 44
+
+
+
+
+
+            
+1
+
+    
+ LOCAL AND SPECIAL SERVICE DISTRICT
+
+            
+2
+
+    
+ ELECTION AMENDMENTS
+
+
+
+            
+3
+
+    
+2009 GENERAL SESSION
+
+            
+4
+
+    
+STATE OF UTAH
+
+            
+5
+
+    
+
+
+ Chief Sponsor:  Keith Grover
+
+
+
+            
+6
+
+    
+
+
+
+Senate Sponsor:  
+
+
+
+
+
+
+____________
+
+
+
+
+
+            
+7
+
+    
+
+            
+8
+
+    
+ LONG TITLE
+            
+9
+
+    
+ Committee Note:
+            
+10
+
+    
+    The Government Operations Interim Committee recommended this bill.
+            
+11
+
+    
+ General Description:
+            
+12
+
+    
+    This bill allows local districts and special service districts to conduct elections solely by
+            
+13
+
+    
+absentee ballot.
+            
+14
+
+    
+ Highlighted Provisions:
+            
+15
+
+    
+    This bill:
+            
+16
+
+    
+    .    defines "district";
+            
+17
+
+    
+    .    allows a district to conduct an election solely by absentee ballot;
+            
+18
+
+    
+    .    addresses the district's provision of information and ballots to voters within the
+            
+19
+
+    
+district;
+            
+20
+
+    
+    .    provides for the district to obtain signatures from all voters within the district from
+            
+21
+
+    
+the voter or county clerk; and
+            
+22
+
+    
+    .    addresses the procedure for a district to verify each ballot received.
+            
+23
+
+    
+ Monies Appropriated in this Bill:
+            
+24
+
+    
+    None
+            
+25
+
+    
+ Other Special Clauses:
+            
+26
+
+    
+    None
+            
+27
+
+    
+ Utah Code Sections Affected:
+
+            
+28
+
+
+    
+ENACTS:
+            
+29
+
+    
+     20A-3-302.5, Utah Code Annotated 1953
+            
+30
+
+    
+
+            
+31
+
+    
+Be it enacted by the Legislature of the state of Utah:
+            
+32
+
+    
+    Section 1.  
+Section  
+20A-3-302.5
+
+ is enacted to read:
+            
+33
+
+    
+     20A-3-302.5.  Absentee voting -- No polling place in elections for certain districts.
+            
+34
+
+    
+    (1)  As used in this section, "district" means a:
+            
+35
+
+    
+    (a)  local district, as defined in Section 
+
+17B-1-102
+
+; or
+            
+36
+
+    
+    (b)  special service district, as defined in Section 
+
+17D-1-102
+
+.
+            
+37
+
+    
+    (2)  Notwithstanding Sections 
+
+17B-1-306
+
+ and 
+
+17D-1-303
+
+, at least 60 days before the
+            
+38
+
+    
+day of an election, a district may elect to administer an election entirely by absentee ballot.
+            
+39
+
+    
+    (3)  If a district decides to administer an election entirely by absentee ballot, the district
+            
+40
+
+    
+shall mail to each registered voter within the district:
+            
+41
+
+    
+    (a)  an absentee ballot;
+            
+42
+
+    
+    (b)  a statement that there will be no polling place for the election;
+            
+43
+
+    
+    (c)  instructions for returning the ballot that include an express notice about any
+            
+44
+
+    
+relevant deadlines that the voter must meet in order for the voter's vote to be counted; and
+            
+45
+
+    
+    (d)  a warning, on a separate page of colored paper in bold face print, indicating that if
+            
+46
+
+    
+the voter fails to follow the instructions included with the absentee ballot, the voter will be
+            
+47
+
+    
+unable to vote in that election because there will be no polling place on the day of the election.
+            
+48
+
+    
+    (4)  Any voter who votes by absentee ballot under this section is not required to apply
+            
+49
+
+    
+for an absentee ballot as required by this part.
+            
+50
+
+    
+    (5) (a)  A district that administers an election entirely by absentee ballot shall:
+            
+51
+
+    
+    (i) (A)  obtain, in person, the signatures of each voter within the district before the
+            
+52
+
+    
+election; and
+            
+53
+
+    
+    (B)  maintain the signatures on file in the district's office; or
+            
+54
+
+    
+    (ii)  obtain the signatures of each voter within the district from the county clerk.
+            
+55
+
+    
+    (b) (i)  Upon receiving the returned absentee ballots, the district shall compare the
+            
+56
+
+    
+signature on each absentee ballot with the voter's signature that is maintained on file and verify
+            
+57
+
+    
+that the signatures are the same.
+            
+58
+
+    
+    (ii)  If the district questions the authenticity of the signature on the absentee ballot, the
+
+            
+59
+
+
+    
+district shall immediately contact the voter to verify the signature.
+            
+60
+
+    
+    (iii)  If the voter does not confirm the voter's signature on the absentee ballot, the
+            
+61
+
+    
+district shall:
+            
+62
+
+    
+    (A)  immediately send another absentee ballot and other voting materials as required by
+            
+63
+
+    
+this section to the voter; and
+            
+64
+
+    
+    (B)  disqualify the initial absentee ballot.
+
+
+
+
+ Legislative Review Note
+    as of  11-20-08  11:57 AM
+
+ Office of Legislative Research and General Counsel
+[Bill Documents][Bills Directory]
+
+
+
+
+
+
+
+
+
+Who represents me?
+
+
+
+
+
+Remember my Legislators
+
+
+
+
+
+State Senate
+		350 North State, Suite 320
+		PO Box 145115
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1035
+		Fax: (801) 326-1475
+
+
+
+House of Representatives
+		350 North State, Suite 350
+		PO Box 145030
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1029
+		Fax: (801) 326-1544
+
+
+
+
+
+
+
+
+
+
+Home
+Mobile Site
+Site Map
+Calendar
+Code / Constitution
+House
+Senate
+
+Terms of Use/Privacy Policy
+
+ADA
+Utah.gov
+
+
+
+
+
+
+

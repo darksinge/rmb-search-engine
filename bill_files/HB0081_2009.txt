@@ -1,0 +1,719 @@
+Sponsors: []Modifications:     26-21-25.(1)  As used in this section:(a)  "EMTALA" means the federal Emergency Medical Treatment and Active LaborAct.(b)  "Medical facility" means:(i)  a general acute hospital;(ii)  a specialty hospital;(iii)  a home health agency;(iv)  a hospice;(v)  a nursing care facility;(vi)  a residential-assisted living facility;(vii)  a birthing center;(viii)  an ambulatory surgical facility;(ix)  a small health care facility;(x)  an abortion clinic;(xi)  a facility owned or operated by a health maintenance organization;(xii)  an end stage renal disease facility;(xiii)  a health care clinic;(xiv)  a physician's office;(xv)  a dental office; or(xvi)  any other health care facility that the committee designates by rule.(2) (a)  In order to discourage identity theft and health insurance fraud, and to reducethe risk of medical errors caused by incorrect medical records, a medical facility shall requestidentification from an individual prior to providing in-patient or out-patient services to theindividual.(b)  If the individual who will receive services from the medical facility lacks the legalcapacity to consent to treatment, the medical facility shall request identification:(i)  for the individual who lacks the legal capacity to consent to treatment; and(ii)  from the individual who consents to treatment on behalf of the individual describedin Subsection (2)(b)(i).(3)  A medical facility:(a)  if the medical facility is subject to EMTALA, may not refuse services to anindividual on the basis that the individual did not provide identification when requested;(b)  if the medical facility is not subject to EMTALA, may not refuse services to anindividual on the sole basis that the individual did not provide identification when requested;(c)  may not be penalized for failing to ask for identification;(d)  is not subject to a private right of action for failing to ask for identification;(e)  may document or confirm patient identity by:(i)  photograph;(ii)  fingerprinting;(iii)  palm scan; or(iv)  other reasonable means; and(f)  if the medical facility is subject to EMTALA, shall post a notice in the medicalfacility's emergency department that informs a patient of the patient's right to treatment for anemergency condition under EMTALA.Full text:
+
+
+
+Utah State Legislature
+
+
+
+
+
+
+
+
+
+
+
+
+Legislators
+
+By Session (1896-Current)
+Alphabetical (Historical)
+Find by Address/Map
+More
+
+
+Bills
+
+Bills/Bill Requests
+Passed Bills
+2017 Bills
+
+Keyword Search
+Reading Calendars
+Tracking Service
+More
+
+
+Committees
+
+All Committees
+Appropriations
+Commissions
+
+Independent Legislative Ethics Commission
+Interim
+Standing
+Subcommittees
+Task Forces
+Bills In Committees
+
+
+Utah Code / Constitution
+
+
+Title/Chapter/Section
+Keyword Search 
+
+Utah Constitution
+Laws of Utah 1851-ongoing
+Utah Territorial Laws 
+More
+
+
+Senate
+
+Main Page 
+About The Senate 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Extraordinary Sessions 
+Reading Calendars 
+Past Floor Debates 
+Senate Journals 
+
+
+House
+
+Main Page
+About the House 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Reading Calendars 
+Past Floor Debates 
+Journals 
+Conflict of Interest Forms 
+
+
+Legislative Guide 
+
+Legislative Guide
+Civic Programs
+GRAMA (Records Requests)
+
+
+Publications
+
+Search Publications
+Appropriations
+Audits
+Bagels & Briefings
+Briefing Papers
+Digest of Legislation
+Legislative Drafting Manual
+
+Journals
+
+Interim Highlights
+
+Legislative Rules
+GRAMA (Records Requests)
+Public Email
+State Organization Charts
+YouTube Channel
+Requests for Proposals and Legal Notices
+More
+
+
+Legislative Histories
+
+Legislative History Resources
+How to Research
+Bill Drafting/Research Files (1990-Ongoing)
+
+Working Bills (1896-1989)
+Interim Committee Histories (1990-Ongoing) 
+Journals
+Past House Floor Debates
+Past Senate Floor Debates
+More
+
+
+Staff Offices
+
+All Legislative Offices
+Auditor General
+Fiscal Analyst
+Printing
+Research and General Counsel
+Staff Awards
+Job Opportunities
+More
+
+
+Links of Interest
+
+Utah Administrative Rules
+Courts
+Utah State Capitol
+State of Utah
+Federal Legislation
+More
+
+
+
+
+
+
+ 
+
+Download Zipped Introduced WordPerfect HB0081.ZIP
+[Status][Bill Documents][Fiscal Note][Bills Directory]
+
+
+H.B. 81
+
+
+
+
+
+            
+1
+
+    
+ HEALTH CARE PATIENT IDENTITY
+
+            
+2
+
+    
+ PROTECTION
+
+
+
+            
+3
+
+    
+2009 GENERAL SESSION
+
+            
+4
+
+    
+STATE OF UTAH
+
+            
+5
+
+    
+
+
+ Chief Sponsor:  Stephen E. Sandstrom
+
+
+
+            
+6
+
+    
+
+
+
+Senate Sponsor:  
+
+
+
+
+
+
+____________
+
+
+
+
+
+            
+7
+
+    
+
+            
+8
+
+    
+ LONG TITLE
+            
+9
+
+    
+ General Description:
+            
+10
+
+    
+    This bill amends the Health Care Facility Licensing and Inspection Act by providing
+            
+11
+
+    
+measures to discourage identity theft and health insurance fraud, and to protect the
+            
+12
+
+    
+accuracy of medical records.
+            
+13
+
+    
+ Highlighted Provisions:
+            
+14
+
+    
+    This bill:
+            
+15
+
+    
+    .    defines the term, "medical facility";
+            
+16
+
+    
+    .    requires a medical facility to, prior to providing services to a patient, request
+            
+17
+
+    
+identification for:
+            
+18
+
+    
+        .    the patient; and
+            
+19
+
+    
+        .    an individual who consents to the provision of services to the patient, if the
+            
+20
+
+    
+patient lacks the capacity to consent;
+            
+21
+
+    
+    .    permits a medical facility to use methods to document or confirm a patient's
+            
+22
+
+    
+identity;
+            
+23
+
+    
+     .    prohibits a medical facility that is subject to the federal Emergency Medical
+            
+24
+
+    
+Treatment and Active Labor Act (EMTALA) from denying services to an individual
+            
+25
+
+    
+on the basis that the individual does not provide identification when requested;
+            
+26
+
+    
+    .    prohibits a medical facility that is not subject to EMTALA from denying services to
+            
+27
+
+    
+an individual on the sole basis that the individual does not provide identification
+
+            
+28
+
+
+    
+when requested;
+            
+29
+
+    
+    .    provides that a medical facility is not subject to a private right of action for failing
+            
+30
+
+    
+to ask for identification; and
+            
+31
+
+    
+    .    prohibits the imposition of penalties if a medical facility does not request
+            
+32
+
+    
+documentation.
+            
+33
+
+    
+ Monies Appropriated in this Bill:
+            
+34
+
+    
+    None
+            
+35
+
+    
+ Other Special Clauses:
+            
+36
+
+    
+    None
+            
+37
+
+    
+ Utah Code Sections Affected:
+            
+38
+
+    
+ENACTS:
+            
+39
+
+    
+     26-21-25, Utah Code Annotated 1953
+            
+40
+
+    
+
+            
+41
+
+    
+Be it enacted by the Legislature of the state of Utah:
+            
+42
+
+    
+    Section 1.  
+Section  
+26-21-25
+
+ is enacted to read:
+            
+43
+
+    
+     26-21-25.  Patient identity protection.
+            
+44
+
+    
+    (1)  As used in this section:
+            
+45
+
+    
+    (a)  "EMTALA" means the federal Emergency Medical Treatment and Active Labor
+            
+46
+
+    
+Act.
+            
+47
+
+    
+    (b)  "Medical facility" means:
+            
+48
+
+    
+    (i)  a general acute hospital;
+            
+49
+
+    
+    (ii)  a specialty hospital;
+            
+50
+
+    
+    (iii)  a home health agency;
+            
+51
+
+    
+    (iv)  a hospice;
+            
+52
+
+    
+    (v)  a nursing care facility;
+            
+53
+
+    
+    (vi)  a residential-assisted living facility;
+            
+54
+
+    
+    (vii)  a birthing center;
+            
+55
+
+    
+    (viii)  an ambulatory surgical facility;
+            
+56
+
+    
+    (ix)  a small health care facility;
+            
+57
+
+    
+    (x)  an abortion clinic;
+            
+58
+
+    
+    (xi)  a facility owned or operated by a health maintenance organization;
+
+            
+59
+
+
+    
+    (xii)  an end stage renal disease facility;
+            
+60
+
+    
+    (xiii)  a health care clinic;
+            
+61
+
+    
+    (xiv)  a physician's office;
+            
+62
+
+    
+    (xv)  a dental office; or
+            
+63
+
+    
+    (xvi)  any other health care facility that the committee designates by rule.
+            
+64
+
+    
+    (2) (a)  In order to discourage identity theft and health insurance fraud, and to reduce
+            
+65
+
+    
+the risk of medical errors caused by incorrect medical records, a medical facility shall request
+            
+66
+
+    
+identification from an individual prior to providing in-patient or out-patient services to the
+            
+67
+
+    
+individual.
+            
+68
+
+    
+    (b)  If the individual who will receive services from the medical facility lacks the legal
+            
+69
+
+    
+capacity to consent to treatment, the medical facility shall request identification:
+            
+70
+
+    
+    (i)  for the individual who lacks the legal capacity to consent to treatment; and
+            
+71
+
+    
+    (ii)  from the individual who consents to treatment on behalf of the individual described
+            
+72
+
+    
+in Subsection (2)(b)(i).
+            
+73
+
+    
+    (3)  A medical facility:
+            
+74
+
+    
+    (a)  if the medical facility is subject to EMTALA, may not refuse services to an
+            
+75
+
+    
+individual on the basis that the individual did not provide identification when requested;
+            
+76
+
+    
+    (b)  if the medical facility is not subject to EMTALA, may not refuse services to an
+            
+77
+
+    
+individual on the sole basis that the individual did not provide identification when requested;
+            
+78
+
+    
+    (c)  may not be penalized for failing to ask for identification;
+            
+79
+
+    
+    (d)  is not subject to a private right of action for failing to ask for identification;
+            
+80
+
+    
+    (e)  may document or confirm patient identity by:
+            
+81
+
+    
+    (i)  photograph;
+            
+82
+
+    
+    (ii)  fingerprinting;
+            
+83
+
+    
+    (iii)  palm scan; or
+            
+84
+
+    
+    (iv)  other reasonable means; and
+            
+85
+
+    
+    (f)  if the medical facility is subject to EMTALA, shall post a notice in the medical
+            
+86
+
+    
+facility's emergency department that informs a patient of the patient's right to treatment for an
+            
+87
+
+    
+emergency condition under EMTALA.
+
+
+
+
+
+ Legislative Review Note
+    as of  11-13-08  1:49 PM
+
+ Office of Legislative Research and General Counsel
+[Bill Documents][Bills Directory]
+
+
+
+
+
+
+
+
+
+Who represents me?
+
+
+
+
+
+Remember my Legislators
+
+
+
+
+
+State Senate
+		350 North State, Suite 320
+		PO Box 145115
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1035
+		Fax: (801) 326-1475
+
+
+
+House of Representatives
+		350 North State, Suite 350
+		PO Box 145030
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1029
+		Fax: (801) 326-1544
+
+
+
+
+
+
+
+
+
+
+Home
+Mobile Site
+Site Map
+Calendar
+Code / Constitution
+House
+Senate
+
+Terms of Use/Privacy Policy
+
+ADA
+Utah.gov
+
+
+
+
+
+
+

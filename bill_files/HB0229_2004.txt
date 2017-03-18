@@ -1,0 +1,566 @@
+Sponsors: []Modifications:     54-3-27.(1)  As used in this section, "public utility easement" means the area on a recorded platmap or other recorded document that is dedicated to the use and installation of public utilityfacilities.(2) (a)  A public utility easement provides a public utility with:(i)  the right to install, maintain, operate, repair, remove, replace, or relocate publicutility facilities; and(ii)  the rights of ingress and egress within the public utility easement for public utilityemployees, contractors, and agents.(b)  Notwithstanding Subsection (3), a public utility shall restore or repair, at theexpense of the public utility, any grass, soil, gravel, flat concrete, or asphalt damaged ordisplaced from the exercise of the easement rights described in Subsection (2)(a).(3)  Except as provided in Subsection (2)(b), if a property owner places improvementsto land that interfere with the easement rights described in Subsection (2)(a), the propertyowner shall bear the risk of loss or damage to those improvements resulting from the exerciseof the easement rights described in Subsection (2)(a).(4)  Unless one of the exceptions provided in Subsection 
+
+54-13-7
+
+(2) applies, a propertyowner may not, within a public easement, build or allow to be built any structure requiring slabsupport or footings.(5)  A property owner may not change the contour of the ground within a public utilityeasement if the change results in a natural gas pipeline having less than the greater of:(a)  24 inches of ground cover; or(b)  the amount of ground cover otherwise required by federal, state, or local law.(6) (a)  Except as provided in Subsection (6)(b), a public utility easement isnonexclusive and may be used by more than one public utility.(b)  Notwithstanding Subsection (6)(a), a public utility may not:(i)  interfere with any facility of another public utility within the public utility easement;or(ii)  infringe on the legally required distances of separation between public utilityfacilities required by federal, state, or local law.(7)  A subdivision plat that includes a public utility easement may not receive finalapproval for recording by a municipality or county unless each public utility holding an interestin the public utility easement has been notified 14 calendar days prior to recording.Full text:
+
+
+
+Utah State Legislature
+
+
+
+
+
+
+
+
+
+
+
+
+Legislators
+
+By Session (1896-Current)
+Alphabetical (Historical)
+Find by Address/Map
+More
+
+
+Bills
+
+Bills/Bill Requests
+Passed Bills
+2017 Bills
+
+Keyword Search
+Reading Calendars
+Tracking Service
+More
+
+
+Committees
+
+All Committees
+Appropriations
+Commissions
+
+Independent Legislative Ethics Commission
+Interim
+Standing
+Subcommittees
+Task Forces
+Bills In Committees
+
+
+Utah Code / Constitution
+
+
+Title/Chapter/Section
+Keyword Search 
+
+Utah Constitution
+Laws of Utah 1851-ongoing
+Utah Territorial Laws 
+More
+
+
+Senate
+
+Main Page 
+About The Senate 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Extraordinary Sessions 
+Reading Calendars 
+Past Floor Debates 
+Senate Journals 
+
+
+House
+
+Main Page
+About the House 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Reading Calendars 
+Past Floor Debates 
+Journals 
+Conflict of Interest Forms 
+
+
+Legislative Guide 
+
+Legislative Guide
+Civic Programs
+GRAMA (Records Requests)
+
+
+Publications
+
+Search Publications
+Appropriations
+Audits
+Bagels & Briefings
+Briefing Papers
+Digest of Legislation
+Legislative Drafting Manual
+
+Journals
+
+Interim Highlights
+
+Legislative Rules
+GRAMA (Records Requests)
+Public Email
+State Organization Charts
+YouTube Channel
+Requests for Proposals and Legal Notices
+More
+
+
+Legislative Histories
+
+Legislative History Resources
+How to Research
+Bill Drafting/Research Files (1990-Ongoing)
+
+Working Bills (1896-1989)
+Interim Committee Histories (1990-Ongoing) 
+Journals
+Past House Floor Debates
+Past Senate Floor Debates
+More
+
+
+Staff Offices
+
+All Legislative Offices
+Auditor General
+Fiscal Analyst
+Printing
+Research and General Counsel
+Staff Awards
+Job Opportunities
+More
+
+
+Links of Interest
+
+Utah Administrative Rules
+Courts
+Utah State Capitol
+State of Utah
+Federal Legislation
+More
+
+
+
+
+
+
+ 
+
+Download Zipped Introduced WordPerfect HB0229.ZIP
+[Status][Bill Documents][Fiscal Note][Bills Directory]
+
+
+H.B. 229
+
+
+
+
+
+            
+1
+
+    
+ PUBLIC UTILITY EASEMENTS
+
+
+
+            
+2
+
+    
+2004 GENERAL SESSION
+
+            
+3
+
+    
+STATE OF UTAH
+
+            
+4
+
+    
+
+
+ Sponsor: R. Curt Webb
+
+
+
+            
+5
+
+    
+
+            
+6
+
+    
+ LONG TITLE
+            
+7
+
+    
+ General Description:
+            
+8
+
+    
+    This bill modifies the Public Utilities Code to enact provisions related to public utility
+            
+9
+
+    
+easements.
+            
+10
+
+    
+ Highlighted Provisions:
+            
+11
+
+    
+    This bill:
+            
+12
+
+    
+    .    enacts provisions governing:
+            
+13
+
+    
+        .    the use of a public utility easement;
+            
+14
+
+    
+        .    the use of property on which a public utility easement is located; and
+            
+15
+
+    
+         .    the recording of a subdivision plat that includes a public utility easement.
+            
+16
+
+    
+ Monies Appropriated in this Bill:
+            
+17
+
+    
+    None
+            
+18
+
+    
+ Other Special Clauses:
+            
+19
+
+    
+    None
+            
+20
+
+    
+ Utah Code Sections Affected:
+            
+21
+
+    
+ENACTS:
+            
+22
+
+    
+     54-3-27, Utah Code Annotated 1953
+            
+23
+
+    
+
+            
+24
+
+    
+Be it enacted by the Legislature of the state of Utah:
+            
+25
+
+    
+    Section 1.  
+Section  
+54-3-27
+
+ is enacted to read:
+            
+26
+
+    
+     54-3-27.  Public utility easement.
+            
+27
+
+    
+    (1)  As used in this section, "public utility easement" means the area on a recorded plat
+
+            
+28
+
+
+    
+map or other recorded document that is dedicated to the use and installation of public utility
+            
+29
+
+    
+facilities.
+            
+30
+
+    
+    (2) (a)  A public utility easement provides a public utility with:
+            
+31
+
+    
+    (i)  the right to install, maintain, operate, repair, remove, replace, or relocate public
+            
+32
+
+    
+utility facilities; and
+            
+33
+
+    
+    (ii)  the rights of ingress and egress within the public utility easement for public utility
+            
+34
+
+    
+employees, contractors, and agents.
+            
+35
+
+    
+    (b)  Notwithstanding Subsection (3), a public utility shall restore or repair, at the
+            
+36
+
+    
+expense of the public utility, any grass, soil, gravel, flat concrete, or asphalt damaged or
+            
+37
+
+    
+displaced from the exercise of the easement rights described in Subsection (2)(a).
+            
+38
+
+    
+    (3)  Except as provided in Subsection (2)(b), if a property owner places improvements
+            
+39
+
+    
+to land that interfere with the easement rights described in Subsection (2)(a), the property
+            
+40
+
+    
+owner shall bear the risk of loss or damage to those improvements resulting from the exercise
+            
+41
+
+    
+of the easement rights described in Subsection (2)(a).
+            
+42
+
+    
+    (4)  Unless one of the exceptions provided in Subsection 
+
+54-13-7
+
+(2) applies, a property
+            
+43
+
+    
+owner may not, within a public easement, build or allow to be built any structure requiring slab
+            
+44
+
+    
+support or footings.
+            
+45
+
+    
+    (5)  A property owner may not change the contour of the ground within a public utility
+            
+46
+
+    
+easement if the change results in a natural gas pipeline having less than the greater of:
+            
+47
+
+    
+    (a)  24 inches of ground cover; or
+            
+48
+
+    
+    (b)  the amount of ground cover otherwise required by federal, state, or local law.
+            
+49
+
+    
+    (6) (a)  Except as provided in Subsection (6)(b), a public utility easement is
+            
+50
+
+    
+nonexclusive and may be used by more than one public utility.
+            
+51
+
+    
+    (b)  Notwithstanding Subsection (6)(a), a public utility may not:
+            
+52
+
+    
+    (i)  interfere with any facility of another public utility within the public utility easement;
+            
+53
+
+    
+or
+            
+54
+
+    
+    (ii)  infringe on the legally required distances of separation between public utility
+            
+55
+
+    
+facilities required by federal, state, or local law.
+            
+56
+
+    
+    (7)  A subdivision plat that includes a public utility easement may not receive final
+            
+57
+
+    
+approval for recording by a municipality or county unless each public utility holding an interest
+            
+58
+
+    
+in the public utility easement has been notified 14 calendar days prior to recording.
+
+
+
+
+
+ Legislative Review Note
+    as of   1-12-04  11:31 AM
+
+A limited legal review of this legislation raises no obvious constitutional or statutory concerns.
+
+ Office of Legislative Research and General Counsel
+[Bill Documents][Bills Directory]
+
+
+
+
+
+
+
+
+
+Who represents me?
+
+
+
+
+
+Remember my Legislators
+
+
+
+
+
+State Senate
+		350 North State, Suite 320
+		PO Box 145115
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1035
+		Fax: (801) 326-1475
+
+
+
+House of Representatives
+		350 North State, Suite 350
+		PO Box 145030
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1029
+		Fax: (801) 326-1544
+
+
+
+
+
+
+
+
+
+
+Home
+Mobile Site
+Site Map
+Calendar
+Code / Constitution
+House
+Senate
+
+Terms of Use/Privacy Policy
+
+ADA
+Utah.gov
+
+
+
+
+
+
+

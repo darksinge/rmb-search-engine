@@ -1,0 +1,4136 @@
+Sponsors: []Modifications: Division of Homeland SecurityFull text:
+
+
+
+Utah State Legislature
+
+
+
+
+
+
+
+
+
+
+
+
+Legislators
+
+By Session (1896-Current)
+Alphabetical (Historical)
+Find by Address/Map
+More
+
+
+Bills
+
+Bills/Bill Requests
+Passed Bills
+2017 Bills
+
+Keyword Search
+Reading Calendars
+Tracking Service
+More
+
+
+Committees
+
+All Committees
+Appropriations
+Commissions
+
+Independent Legislative Ethics Commission
+Interim
+Standing
+Subcommittees
+Task Forces
+Bills In Committees
+
+
+Utah Code / Constitution
+
+
+Title/Chapter/Section
+Keyword Search 
+
+Utah Constitution
+Laws of Utah 1851-ongoing
+Utah Territorial Laws 
+More
+
+
+Senate
+
+Main Page 
+About The Senate 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Extraordinary Sessions 
+Reading Calendars 
+Past Floor Debates 
+Senate Journals 
+
+
+House
+
+Main Page
+About the House 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Reading Calendars 
+Past Floor Debates 
+Journals 
+Conflict of Interest Forms 
+
+
+Legislative Guide 
+
+Legislative Guide
+Civic Programs
+GRAMA (Records Requests)
+
+
+Publications
+
+Search Publications
+Appropriations
+Audits
+Bagels & Briefings
+Briefing Papers
+Digest of Legislation
+Legislative Drafting Manual
+
+Journals
+
+Interim Highlights
+
+Legislative Rules
+GRAMA (Records Requests)
+Public Email
+State Organization Charts
+YouTube Channel
+Requests for Proposals and Legal Notices
+More
+
+
+Legislative Histories
+
+Legislative History Resources
+How to Research
+Bill Drafting/Research Files (1990-Ongoing)
+
+Working Bills (1896-1989)
+Interim Committee Histories (1990-Ongoing) 
+Journals
+Past House Floor Debates
+Past Senate Floor Debates
+More
+
+
+Staff Offices
+
+All Legislative Offices
+Auditor General
+Fiscal Analyst
+Printing
+Research and General Counsel
+Staff Awards
+Job Opportunities
+More
+
+
+Links of Interest
+
+Utah Administrative Rules
+Courts
+Utah State Capitol
+State of Utah
+Federal Legislation
+More
+
+
+
+
+
+
+ 
+
+Download Zipped Enrolled WordPerfect SB0137.ZIP
+[Introduced][Status][Bill Documents][Fiscal Note][Bills Directory]
+
+
+S.B. 137 Enrolled
+
+
+
+
+
+            
+1
+
+    
+ HOMELAND SECURITY AMENDMENTS
+
+
+
+            
+2
+
+    
+2007 GENERAL SESSION
+
+            
+3
+
+    
+STATE OF UTAH
+
+            
+4
+
+    
+
+
+ Chief Sponsor:  Jon J. Greiner
+
+
+
+            
+5
+
+    
+
+
+
+House Sponsor:  
+
+
+
+
+
+
+D. Gregg Buxton
+
+
+
+
+
+            
+6
+
+    
+
+            
+7
+
+    
+ LONG TITLE
+            
+8
+
+    
+ General Description:
+            
+9
+
+    
+    This bill changes the name of the Division of Emergency Services and Homeland
+            
+10
+
+    
+Security to the Division of Homeland Security, and changes the name of the Emergency
+            
+11
+
+    
+Services and Homeland Security Act to the Homeland Security Act.
+            
+12
+
+    
+ Highlighted Provisions:
+            
+13
+
+    
+    This bill:
+            
+14
+
+    
+    .    changes the name of the Division of Emergency Services and Homeland Security,
+            
+15
+
+    
+and all references thereto, to the Division of Homeland Security;
+            
+16
+
+    
+    .    changes the name of the Emergency Services and Homeland Security Act to the
+            
+17
+
+    
+Homeland Security Act; and
+            
+18
+
+    
+    .    makes technical changes.
+            
+19
+
+    
+ Monies Appropriated in this Bill:
+            
+20
+
+    
+    None
+            
+21
+
+    
+ Other Special Clauses:
+            
+22
+
+    
+    None
+            
+23
+
+    
+ Utah Code Sections Affected:
+            
+24
+
+    
+AMENDS:
+            
+25
+
+    
+     19-3-112, as last amended by Chapter 14, Laws of Utah 2002
+            
+26
+
+    
+     26-23b-110, as enacted by Chapter 155, Laws of Utah 2002
+            
+27
+
+    
+     53-1-104, as last amended by Chapter 156, Laws of Utah 2004
+            
+28
+
+    
+     53-2-101, as last amended by Chapter 14, Laws of Utah 2002
+            
+29
+
+    
+     53-2-102, as last amended by Chapter 214, Laws of Utah 2005
+
+            
+30
+
+
+    
+     53-2-103, as last amended by Chapter 14, Laws of Utah 2002
+            
+31
+
+    
+     53-2-108, as last amended by Chapter 62, Laws of Utah 2005
+            
+32
+
+    
+     63-2-304, as last amended by Chapters 14, 174 and 261, Laws of Utah 2006
+            
+33
+
+    
+     63-5-4, as last amended by Chapter 16, Laws of Utah 2003
+            
+34
+
+    
+     63-5a-8, as last amended by Chapter 14, Laws of Utah 2002
+            
+35
+
+    
+     63-5b-102, as last amended by Chapter 139, Laws of Utah 2006
+            
+36
+
+    
+     63-5b-301, as last amended by Chapter 14, Laws of Utah 2002
+            
+37
+
+    
+     63-38d-502, as last amended by Chapter 148, Laws of Utah 2005
+            
+38
+
+    
+     63-53b-201, as enacted by Chapter 180, Laws of Utah 2006
+            
+39
+
+    
+     63C-6-101, as last amended by Chapter 14, Laws of Utah 2002
+            
+40
+
+    
+     63C-6-104, as last amended by Chapter 14, Laws of Utah 2002
+            
+41
+
+    
+
+            
+42
+
+    
+Be it enacted by the Legislature of the state of Utah:
+            
+43
+
+    
+    Section 1.  
+Section  
+19-3-112
+
+ is amended to read:
+            
+44
+
+    
+     19-3-112.  Notification by the department to certain persons of release of
+            
+45
+
+    
+ radiation from Nevada Test Site -- Notification to certain news outlets.
+            
+46
+
+    
+    (1)  When informed by the United States Department of Energy of any release of
+            
+47
+
+    
+radiation exceeding the Nuclear Regulatory Commission's limits for unrestricted use in air or
+            
+48
+
+    
+water from the Nevada Test Site which is detected outside its boundaries, the department shall,
+            
+49
+
+    
+unless prohibited by federal law, immediately convey to the persons specified in Subsection (2)
+            
+50
+
+    
+all information that is made available to it, including:
+            
+51
+
+    
+    (a)  the date;
+            
+52
+
+    
+    (b)  the time and duration of each release of radiation;
+            
+53
+
+    
+    (c)  estimates of total amounts of radiation released;
+            
+54
+
+    
+    (d)  the types and amounts of each isotope detected off-site;
+            
+55
+
+    
+    (e)  the locations of monitoring stations detecting off-site radiation; and
+            
+56
+
+    
+    (f)  current and projected wind direction, wind velocity, and precipitation for the region.
+            
+57
+
+    
+    (2)  Unless prohibited by federal law, the department shall provide the information
+
+            
+58
+
+
+    
+required under Subsection (1) to the following:
+            
+59
+
+    
+    (a)  members of the Utah congressional delegation or their designated representatives;
+            
+60
+
+    
+    (b)  the director of the Division of [Emergency Services and] Homeland Security;
+            
+61
+
+    
+    (c)  the attorney general;
+            
+62
+
+    
+    (d)  the regional director of the Federal Emergency Management Agency;
+            
+63
+
+    
+    (e)  the regional director of the National Oceanic and Atmospheric Administration;
+            
+64
+
+    
+    (f)  the executive director of the Utah League of Cities and Towns;
+            
+65
+
+    
+    (g)  the executive director of the Department of Health; and
+            
+66
+
+    
+    (h)  the chairpersons of the county commissions of affected counties.
+            
+67
+
+    
+    (3)  If the state is informed by the United States Department of Energy that any
+            
+68
+
+    
+radiation released from the Nevada Test Site has been detected by the United States
+            
+69
+
+    
+Department of Energy or United States Environmental Protection Agency or the department
+            
+70
+
+    
+within the boundaries of the state of Utah, the department shall, unless prohibited by federal
+            
+71
+
+    
+law, immediately provide all information available to it as specified in Subsection (1) to the
+            
+72
+
+    
+Associated Press and United Press International outlets in the state.
+            
+73
+
+    
+    Section 2.  
+Section  
+26-23b-110
+
+ is amended to read:
+            
+74
+
+    
+     26-23b-110.  Information sharing with public safety authorities.
+            
+75
+
+    
+    (1)  For purposes of this section, "public safety authority" means a local, state, or
+            
+76
+
+    
+federal law enforcement authority including the [division of emergency services homeland
+            
+77
+
+    
+security] Division of Homeland Security, emergency medical services personnel, and
+            
+78
+
+    
+firefighters.
+            
+79
+
+    
+    (2)  Notwithstanding the provisions of Title 63, Chapter 2, Government Records Access
+            
+80
+
+    
+and Management Act:
+            
+81
+
+    
+    (a)  whenever a public safety authority suspects a case of a reportable illness or
+            
+82
+
+    
+condition under the provisions of this chapter, it shall immediately notify the department;
+            
+83
+
+    
+    (b)  whenever the department learns of a case of a reportable illness or condition under
+            
+84
+
+    
+this chapter that it reasonably believes has the potential to be caused by one of the factors listed
+            
+85
+
+    
+in Subsection 
+
+26-23b-103
+
+(1), it shall immediately notify the appropriate public safety
+
+            
+86
+
+
+    
+authority; and
+            
+87
+
+    
+    (c)  sharing of information reportable under the provisions of this chapter between
+            
+88
+
+    
+persons authorized by this chapter shall be limited to information necessary for the treatment,
+            
+89
+
+    
+control, investigation, and prevention of a public health emergency.
+            
+90
+
+    
+    (3)  Except to the extent inconsistent with this chapter, Sections 
+
+26-6-27
+
+ and 
+
+26-6-28
+
+
+            
+91
+
+    
+apply to this chapter.
+            
+92
+
+    
+    Section 3.  
+Section  
+53-1-104
+
+ is amended to read:
+            
+93
+
+    
+     53-1-104.  Boards, bureaus, councils, divisions, and offices.
+            
+94
+
+    
+    (1)  The following are the policymaking boards within the department:
+            
+95
+
+    
+    (a)  the Driver License Medical Advisory Board, created in Section 
+
+53-3-303
+
+;
+            
+96
+
+    
+    (b)  the Concealed Weapon Review Board, created in Section 
+
+53-5-703
+
+;
+            
+97
+
+    
+    (c)  the Utah Fire Prevention Board, created in Section 
+
+53-7-203
+
+;
+            
+98
+
+    
+    (d)  the Liquified Petroleum Gas Board, created in Section 
+
+53-7-304
+
+; and
+            
+99
+
+    
+    (e)  the Private Investigator Hearing and Licensure Board, created in Section 
+
+53-9-104
+
+.
+            
+100
+
+    
+    (2)  The following are the councils within the department:
+            
+101
+
+    
+    (a)  the Peace Officer Standards and Training Council, created in Section 
+
+53-6-106
+
+; and
+            
+102
+
+    
+    (b)  the Motor Vehicle Safety Inspection Advisory Council, created in Section
+            
+103
+
+    
+
+53-8-203
+
+.
+            
+104
+
+    
+    (3)  The following are the divisions within the department:
+            
+105
+
+    
+    (a)  the Administrative Services Division, created in Section 
+
+53-1-203
+
+;
+            
+106
+
+    
+    (b)  the Management Information Services Division, created in Section 
+
+53-1-303
+
+;
+            
+107
+
+    
+    (c)  the Division of [Emergency Services and] Homeland Security, created in Section
+            
+108
+
+    
+
+53-2-103
+
+;
+            
+109
+
+    
+    (d)  the Driver License Division, created in Section 
+
+53-3-103
+
+;
+            
+110
+
+    
+    (e)  the Criminal Investigations and Technical Services Division, created in Section
+            
+111
+
+    
+
+53-10-103
+
+;
+            
+112
+
+    
+    (f)  the Peace Officers Standards and Training Division, created in Section 
+
+53-6-103
+
+;
+            
+113
+
+    
+    (g)  the State Fire Marshal Division, created in Section 
+
+53-7-103
+
+; and
+
+            
+114
+
+
+    
+    (h)  the Utah Highway Patrol Division, created in Section 
+
+53-8-103
+
+.
+            
+115
+
+    
+    (4)  The Office of Executive Protection is created in Section 
+
+53-1-112
+
+.
+            
+116
+
+    
+    (5)  The following are bureaus within the department:
+            
+117
+
+    
+    (a)  Bureau of Criminal Identification, created in Section 
+
+53-10-201
+
+;
+            
+118
+
+    
+    (b)  State Bureau of Investigation, created in Section 
+
+53-10-301
+
+;
+            
+119
+
+    
+    (c)  Bureau of Forensic Services, created in Section 
+
+53-10-401
+
+; and
+            
+120
+
+    
+    (d)  Bureau of Communications, created in Section 
+
+53-10-501
+
+.
+            
+121
+
+    
+    Section 4.  
+Section  
+53-2-101
+
+ is amended to read:
+            
+122
+
+    
+ Part 1.  Homeland Security Act
+
+            
+123
+
+    
+     53-2-101.  Title.
+            
+124
+
+    
+    This part is known as the "[Emergency Services and] Homeland Security Act."
+            
+125
+
+    
+    Section 5.  
+Section  
+53-2-102
+
+ is amended to read:
+            
+126
+
+    
+     53-2-102.  Definitions.
+            
+127
+
+    
+    As used in this part:
+            
+128
+
+    
+    (1)  "Attack" means a nuclear, conventional, biological, or chemical warfare action
+            
+129
+
+    
+against the United States of America or this state.
+            
+130
+
+    
+    (2)  "Director" means the division director appointed under Section 
+
+53-2-103
+
+.
+            
+131
+
+    
+    (3)  "Disaster" means a situation causing, or threatening to cause, widespread damage,
+            
+132
+
+    
+social disruption, or injury or loss of life or property resulting from attack, internal disturbance,
+            
+133
+
+    
+natural phenomena, or technological hazard.
+            
+134
+
+    
+    (4)  "Division" means the Division of [Emergency Services and] Homeland Security
+            
+135
+
+    
+created in Section 
+
+53-2-103
+
+.
+            
+136
+
+    
+    (5)  "Energy" includes the energy resources defined in Section 
+
+63-53a-1
+
+.
+            
+137
+
+    
+    (6)  "Expenses" means actual labor costs of government and volunteer personnel,
+            
+138
+
+    
+including workers compensation benefits, fringe benefits, administrative overhead, cost of
+            
+139
+
+    
+equipment, cost of equipment operation, cost of materials, and the cost of any contract labor
+            
+140
+
+    
+and materials.
+            
+141
+
+    
+    (7)  "Hazardous materials emergency" means a sudden and unexpected release of any
+
+            
+142
+
+
+    
+substance that because of its quantity, concentration, or physical, chemical, or infectious
+            
+143
+
+    
+characteristics presents a direct and immediate threat to public safety or the environment and
+            
+144
+
+    
+requires immediate action to mitigate the threat.
+            
+145
+
+    
+    (8)  "Internal disturbance" means a riot, prison break, disruptive terrorism, or strike.
+            
+146
+
+    
+    (9)  "Natural phenomena" means any earthquake, tornado, storm, flood, landslide,
+            
+147
+
+    
+avalanche, forest or range fire, drought, or epidemic.
+            
+148
+
+    
+    (10)  "State of emergency" means a condition in any part of this state that requires state
+            
+149
+
+    
+government emergency assistance to supplement the local efforts of the affected political
+            
+150
+
+    
+subdivision to save lives and to protect property, public health, welfare, or safety in the event
+            
+151
+
+    
+of a disaster, or to avoid or reduce the threat of a disaster.
+            
+152
+
+    
+    (11)  "Technological hazard" means any hazardous materials accident, mine accident,
+            
+153
+
+    
+train derailment, air crash, radiation incident, pollution, structural fire, or explosion.
+            
+154
+
+    
+    Section 6.  
+Section  
+53-2-103
+
+ is amended to read:
+            
+155
+
+    
+     53-2-103.  Division of Homeland Security -- Creation -- Director -- Appointment --
+            
+156
+
+    
+ Term -- Compensation.
+            
+157
+
+    
+    (1)  There is created within the department the Division of [Emergency Services and]
+            
+158
+
+    
+Homeland Security.
+            
+159
+
+    
+    (2)  The division shall be administered by a director appointed by the commissioner
+            
+160
+
+    
+with the approval of the governor.
+            
+161
+
+    
+    (3)  The director is the executive and administrative head of the division and shall be
+            
+162
+
+    
+experienced in administration and possess additional qualifications as determined by the
+            
+163
+
+    
+commissioner and as provided by law.
+            
+164
+
+    
+    (4)  The director acts under the supervision and control of the commissioner and may be
+            
+165
+
+    
+removed from his position at the will of the commissioner.
+            
+166
+
+    
+    (5)  The director shall receive compensation as provided by Title 67, Chapter 19, Utah
+            
+167
+
+    
+State Personnel Management Act.
+            
+168
+
+    
+    Section 7.  
+Section  
+53-2-108
+
+ is amended to read:
+            
+169
+
+    
+     53-2-108.  Search and Rescue Advisory Board -- Members -- Compensation.
+
+            
+170
+
+
+    
+    (1)  There is created the Search and Rescue Advisory Board consisting of seven
+            
+171
+
+    
+members appointed as follows:
+            
+172
+
+    
+    (a)  two representatives designated by the Utah Search and Rescue Association, one of
+            
+173
+
+    
+whom is from a county having a population of 75,000 or more; and one from a county having a
+            
+174
+
+    
+population of less than 75,000;
+            
+175
+
+    
+    (b)  three representatives designated by the Utah Sheriff's Association, at least one of
+            
+176
+
+    
+whom shall be a member of a voluntary search and rescue unit operating in the state, at least
+            
+177
+
+    
+one of whom shall be from a county having a population of 75,000 or more, and at least one of
+            
+178
+
+    
+whom shall be from a county having a population of less than 75,000;
+            
+179
+
+    
+    (c)  one representative of the Division of [Emergency Services and] Homeland Security
+            
+180
+
+    
+designated by the director; and
+            
+181
+
+    
+    (d)  one private citizen appointed by the governor with the consent of the Senate.
+            
+182
+
+    
+    (2) (a)  The term of each member of the board is four years.
+            
+183
+
+    
+    (b)  A member may be reappointed to successive terms.
+            
+184
+
+    
+    (c)  When a vacancy occurs in the membership for any reason, the replacement shall be
+            
+185
+
+    
+appointed for the unexpired term.
+            
+186
+
+    
+    (d)  In order to stagger the terms of membership, the members appointed or reappointed
+            
+187
+
+    
+to represent the Utah Sheriff's Association on or after May 2, 2005, shall serve a term of two
+            
+188
+
+    
+years, and all subsequent terms shall be four years.
+            
+189
+
+    
+    (3)  Members who are not government employees do not receive compensation or
+            
+190
+
+    
+benefits for their services, but may receive per diem and travel expenses incurred in the
+            
+191
+
+    
+performance of the member's official duties at the rates established by the Division of Finance
+            
+192
+
+    
+under Sections 
+
+63A-3-106
+
+ and 
+
+63A-3-107
+
+.
+            
+193
+
+    
+    Section 8.  
+Section  
+63-2-304
+
+ is amended to read:
+            
+194
+
+    
+     63-2-304.  Protected records.
+            
+195
+
+    
+    The following records are protected if properly classified by a governmental entity:
+            
+196
+
+    
+    (1)  trade secrets as defined in Section 
+
+13-24-2
+
+ if the person submitting the trade secret
+            
+197
+
+    
+has provided the governmental entity with the information specified in Section 
+
+63-2-308
+
+;
+
+            
+198
+
+
+    
+    (2)  commercial information or nonindividual financial information obtained from a
+            
+199
+
+    
+person if:
+            
+200
+
+    
+    (a)  disclosure of the information could reasonably be expected to result in unfair
+            
+201
+
+    
+competitive injury to the person submitting the information or would impair the ability of the
+            
+202
+
+    
+governmental entity to obtain necessary information in the future;
+            
+203
+
+    
+    (b)  the person submitting the information has a greater interest in prohibiting access
+            
+204
+
+    
+than the public in obtaining access; and
+            
+205
+
+    
+    (c)  the person submitting the information has provided the governmental entity with
+            
+206
+
+    
+the information specified in Section 
+
+63-2-308
+
+;
+            
+207
+
+    
+    (3)  commercial or financial information acquired or prepared by a governmental entity
+            
+208
+
+    
+to the extent that disclosure would lead to financial speculations in currencies, securities, or
+            
+209
+
+    
+commodities that will interfere with a planned transaction by the governmental entity or cause
+            
+210
+
+    
+substantial financial injury to the governmental entity or state economy;
+            
+211
+
+    
+    (4)  records the disclosure of which could cause commercial injury to, or confer a
+            
+212
+
+    
+competitive advantage upon a potential or actual competitor of, a commercial project entity as
+            
+213
+
+    
+defined in Subsection 
+
+11-13-103
+
+(4);
+            
+214
+
+    
+    (5)  test questions and answers to be used in future license, certification, registration,
+            
+215
+
+    
+employment, or academic examinations;
+            
+216
+
+    
+    (6)  records the disclosure of which would impair governmental procurement
+            
+217
+
+    
+proceedings or give an unfair advantage to any person proposing to enter into a contract or
+            
+218
+
+    
+agreement with a governmental entity, except that this Subsection (6) does not restrict the right
+            
+219
+
+    
+of a person to see bids submitted to or by a governmental entity after bidding has closed;
+            
+220
+
+    
+    (7)  records that would identify real property or the appraisal or estimated value of real
+            
+221
+
+    
+or personal property, including intellectual property, under consideration for public acquisition
+            
+222
+
+    
+before any rights to the property are acquired unless:
+            
+223
+
+    
+    (a)  public interest in obtaining access to the information outweighs the governmental
+            
+224
+
+    
+entity's need to acquire the property on the best terms possible;
+            
+225
+
+    
+    (b)  the information has already been disclosed to persons not employed by or under a
+
+            
+226
+
+
+    
+duty of confidentiality to the entity;
+            
+227
+
+    
+    (c)  in the case of records that would identify property, potential sellers of the described
+            
+228
+
+    
+property have already learned of the governmental entity's plans to acquire the property;
+            
+229
+
+    
+    (d)  in the case of records that would identify the appraisal or estimated value of
+            
+230
+
+    
+property, the potential sellers have already learned of the governmental entity's estimated value
+            
+231
+
+    
+of the property; or
+            
+232
+
+    
+    (e)  the property under consideration for public acquisition is a single family residence
+            
+233
+
+    
+and the governmental entity seeking to acquire the property has initiated negotiations to acquire
+            
+234
+
+    
+the property as required under Section 
+
+78-34-4.5
+
+;
+            
+235
+
+    
+    (8)  records prepared in contemplation of sale, exchange, lease, rental, or other
+            
+236
+
+    
+compensated transaction of real or personal property including intellectual property, which, if
+            
+237
+
+    
+disclosed prior to completion of the transaction, would reveal the appraisal or estimated value
+            
+238
+
+    
+of the subject property, unless:
+            
+239
+
+    
+    (a)  the public interest in access outweighs the interests in restricting access, including
+            
+240
+
+    
+the governmental entity's interest in maximizing the financial benefit of the transaction; or
+            
+241
+
+    
+    (b)  when prepared by or on behalf of a governmental entity, appraisals or estimates of
+            
+242
+
+    
+the value of the subject property have already been disclosed to persons not employed by or
+            
+243
+
+    
+under a duty of confidentiality to the entity;
+            
+244
+
+    
+    (9)  records created or maintained for civil, criminal, or administrative enforcement
+            
+245
+
+    
+purposes or audit purposes, or for discipline, licensing, certification, or registration purposes, if
+            
+246
+
+    
+release of the records:
+            
+247
+
+    
+    (a)  reasonably could be expected to interfere with investigations undertaken for
+            
+248
+
+    
+enforcement, discipline, licensing, certification, or registration purposes;
+            
+249
+
+    
+    (b)  reasonably could be expected to interfere with audits, disciplinary, or enforcement
+            
+250
+
+    
+proceedings;
+            
+251
+
+    
+    (c)  would create a danger of depriving a person of a right to a fair trial or impartial
+            
+252
+
+    
+hearing;
+            
+253
+
+    
+    (d)  reasonably could be expected to disclose the identity of a source who is not
+
+            
+254
+
+
+    
+generally known outside of government and, in the case of a record compiled in the course of
+            
+255
+
+    
+an investigation, disclose information furnished by a source not generally known outside of
+            
+256
+
+    
+government if disclosure would compromise the source; or
+            
+257
+
+    
+    (e)  reasonably could be expected to disclose investigative or audit techniques,
+            
+258
+
+    
+procedures, policies, or orders not generally known outside of government if disclosure would
+            
+259
+
+    
+interfere with enforcement or audit efforts;
+            
+260
+
+    
+    (10)  records the disclosure of which would jeopardize the life or safety of an
+            
+261
+
+    
+individual;
+            
+262
+
+    
+    (11)  records the disclosure of which would jeopardize the security of governmental
+            
+263
+
+    
+property, governmental programs, or governmental recordkeeping systems from damage, theft,
+            
+264
+
+    
+or other appropriation or use contrary to law or public policy;
+            
+265
+
+    
+    (12)  records that, if disclosed, would jeopardize the security or safety of a correctional
+            
+266
+
+    
+facility, or records relating to incarceration, treatment, probation, or parole, that would interfere
+            
+267
+
+    
+with the control and supervision of an offender's incarceration, treatment, probation, or parole;
+            
+268
+
+    
+    (13)  records that, if disclosed, would reveal recommendations made to the Board of
+            
+269
+
+    
+Pardons and Parole by an employee of or contractor for the Department of Corrections, the
+            
+270
+
+    
+Board of Pardons and Parole, or the Department of Human Services that are based on the
+            
+271
+
+    
+employee's or contractor's supervision, diagnosis, or treatment of any person within the board's
+            
+272
+
+    
+jurisdiction;
+            
+273
+
+    
+    (14)  records and audit workpapers that identify audit, collection, and operational
+            
+274
+
+    
+procedures and methods used by the State Tax Commission, if disclosure would interfere with
+            
+275
+
+    
+audits or collections;
+            
+276
+
+    
+    (15)  records of a governmental audit agency relating to an ongoing or planned audit
+            
+277
+
+    
+until the final audit is released;
+            
+278
+
+    
+    (16)  records prepared by or on behalf of a governmental entity solely in anticipation of
+            
+279
+
+    
+litigation that are not available under the rules of discovery;
+            
+280
+
+    
+    (17)  records disclosing an attorney's work product, including the mental impressions or
+            
+281
+
+    
+legal theories of an attorney or other representative of a governmental entity concerning
+
+            
+282
+
+
+    
+litigation;
+            
+283
+
+    
+    (18)  records of communications between a governmental entity and an attorney
+            
+284
+
+    
+representing, retained, or employed by the governmental entity if the communications would be
+            
+285
+
+    
+privileged as provided in Section 
+
+78-24-8
+
+;
+            
+286
+
+    
+    (19) (a) (i)  personal files of a state legislator, including personal correspondence to or
+            
+287
+
+    
+from a member of the Legislature; and
+            
+288
+
+    
+    (ii)  notwithstanding Subsection (19)(a)(i), correspondence that gives notice of
+            
+289
+
+    
+legislative action or policy may not be classified as protected under this section; and
+            
+290
+
+    
+    (b) (i)  an internal communication that is part of the deliberative process in connection
+            
+291
+
+    
+with the preparation of legislation between:
+            
+292
+
+    
+    (A)  members of a legislative body;
+            
+293
+
+    
+    (B)  a member of a legislative body and a member of the legislative body's staff; or
+            
+294
+
+    
+    (C)  members of a legislative body's staff; and
+            
+295
+
+    
+    (ii)  notwithstanding Subsection (19)(b)(i), a communication that gives notice of
+            
+296
+
+    
+legislative action or policy may not be classified as protected under this section;
+            
+297
+
+    
+    (20) (a)  records in the custody or control of the Office of Legislative Research and
+            
+298
+
+    
+General Counsel, that, if disclosed, would reveal a particular legislator's contemplated
+            
+299
+
+    
+legislation or contemplated course of action before the legislator has elected to support the
+            
+300
+
+    
+legislation or course of action, or made the legislation or course of action public; and
+            
+301
+
+    
+    (b)  notwithstanding Subsection (20)(a), the form to request legislation submitted to the
+            
+302
+
+    
+Office of Legislative Research and General Counsel is a public document unless a legislator
+            
+303
+
+    
+asks that the records requesting the legislation be maintained as protected records until such
+            
+304
+
+    
+time as the legislator elects to make the legislation or course of action public;
+            
+305
+
+    
+    (21)  research requests from legislators to the Office of Legislative Research and
+            
+306
+
+    
+General Counsel or the Office of the Legislative Fiscal Analyst and research findings prepared
+            
+307
+
+    
+in response to these requests;
+            
+308
+
+    
+    (22)  drafts, unless otherwise classified as public;
+            
+309
+
+    
+    (23)  records concerning a governmental entity's strategy about collective bargaining or
+
+            
+310
+
+
+    
+pending litigation;
+            
+311
+
+    
+    (24)  records of investigations of loss occurrences and analyses of loss occurrences that
+            
+312
+
+    
+may be covered by the Risk Management Fund, the Employers' Reinsurance Fund, the
+            
+313
+
+    
+Uninsured Employers' Fund, or similar divisions in other governmental entities;
+            
+314
+
+    
+    (25)  records, other than personnel evaluations, that contain a personal recommendation
+            
+315
+
+    
+concerning an individual if disclosure would constitute a clearly unwarranted invasion of
+            
+316
+
+    
+personal privacy, or disclosure is not in the public interest;
+            
+317
+
+    
+    (26)  records that reveal the location of historic, prehistoric, paleontological, or
+            
+318
+
+    
+biological resources that if known would jeopardize the security of those resources or of
+            
+319
+
+    
+valuable historic, scientific, educational, or cultural information;
+            
+320
+
+    
+    (27)  records of independent state agencies if the disclosure of the records would
+            
+321
+
+    
+conflict with the fiduciary obligations of the agency;
+            
+322
+
+    
+    (28)  records of an institution within the state system of higher education defined in
+            
+323
+
+    
+Section 
+
+53B-1-102
+
+ regarding tenure evaluations, appointments, applications for admissions,
+            
+324
+
+    
+retention decisions, and promotions, which could be properly discussed in a meeting closed in
+            
+325
+
+    
+accordance with Title 52, Chapter 4, Open and Public Meetings Act, provided that records of
+            
+326
+
+    
+the final decisions about tenure, appointments, retention, promotions, or those students
+            
+327
+
+    
+admitted, may not be classified as protected under this section;
+            
+328
+
+    
+    (29)  records of the governor's office, including budget recommendations, legislative
+            
+329
+
+    
+proposals, and policy statements, that if disclosed would reveal the governor's contemplated
+            
+330
+
+    
+policies or contemplated courses of action before the governor has implemented or rejected
+            
+331
+
+    
+those policies or courses of action or made them public;
+            
+332
+
+    
+    (30)  records of the Office of the Legislative Fiscal Analyst relating to budget analysis,
+            
+333
+
+    
+revenue estimates, and fiscal notes of proposed legislation before issuance of the final
+            
+334
+
+    
+recommendations in these areas;
+            
+335
+
+    
+    (31)  records provided by the United States or by a government entity outside the state
+            
+336
+
+    
+that are given to the governmental entity with a requirement that they be managed as protected
+            
+337
+
+    
+records if the providing entity certifies that the record would not be subject to public disclosure
+
+            
+338
+
+
+    
+if retained by it;
+            
+339
+
+    
+    (32)  transcripts, minutes, or reports of the closed portion of a meeting of a public body
+            
+340
+
+    
+except as provided in Section 
+
+52-4-206
+
+;
+            
+341
+
+    
+    (33)  records that would reveal the contents of settlement negotiations but not including
+            
+342
+
+    
+final settlements or empirical data to the extent that they are not otherwise exempt from
+            
+343
+
+    
+disclosure;
+            
+344
+
+    
+    (34)  memoranda prepared by staff and used in the decision-making process by an
+            
+345
+
+    
+administrative law judge, a member of the Board of Pardons and Parole, or a member of any
+            
+346
+
+    
+other body charged by law with performing a quasi-judicial function;
+            
+347
+
+    
+    (35)  records that would reveal negotiations regarding assistance or incentives offered
+            
+348
+
+    
+by or requested from a governmental entity for the purpose of encouraging a person to expand
+            
+349
+
+    
+or locate a business in Utah, but only if disclosure would result in actual economic harm to the
+            
+350
+
+    
+person or place the governmental entity at a competitive disadvantage, but this section may not
+            
+351
+
+    
+be used to restrict access to a record evidencing a final contract;
+            
+352
+
+    
+    (36)  materials to which access must be limited for purposes of securing or maintaining
+            
+353
+
+    
+the governmental entity's proprietary protection of intellectual property rights including patents,
+            
+354
+
+    
+copyrights, and trade secrets;
+            
+355
+
+    
+    (37)  the name of a donor or a prospective donor to a governmental entity, including an
+            
+356
+
+    
+institution within the state system of higher education defined in Section 
+
+53B-1-102
+
+, and other
+            
+357
+
+    
+information concerning the donation that could reasonably be expected to reveal the identity of
+            
+358
+
+    
+the donor, provided that:
+            
+359
+
+    
+    (a)  the donor requests anonymity in writing;
+            
+360
+
+    
+    (b)  any terms, conditions, restrictions, or privileges relating to the donation may not be
+            
+361
+
+    
+classified protected by the governmental entity under this Subsection (37); and
+            
+362
+
+    
+    (c)  except for an institution within the state system of higher education defined in
+            
+363
+
+    
+Section 
+
+53B-1-102
+
+, the governmental unit to which the donation is made is primarily engaged
+            
+364
+
+    
+in educational, charitable, or artistic endeavors, and has no regulatory or legislative authority
+            
+365
+
+    
+over the donor, a member of the donor's immediate family, or any entity owned or controlled
+
+            
+366
+
+
+    
+by the donor or the donor's immediate family;
+            
+367
+
+    
+    (38)  accident reports, except as provided in Sections 
+
+41-6a-404
+
+, 
+
+41-12a-202
+
+, and
+            
+368
+
+    
+
+73-18-13
+
+;
+            
+369
+
+    
+    (39)  a notification of workers' compensation insurance coverage described in Section
+            
+370
+
+    
+
+34A-2-205
+
+;
+            
+371
+
+    
+    (40) (a)  the following records of an institution within the state system of higher
+            
+372
+
+    
+education defined in Section 
+
+53B-1-102
+
+, which have been developed, discovered, disclosed to,
+            
+373
+
+    
+or received by or on behalf of faculty, staff, employees, or students of the institution:
+            
+374
+
+    
+    (i)  unpublished lecture notes;
+            
+375
+
+    
+    (ii)  unpublished notes, data, and information:
+            
+376
+
+    
+    (A)  relating to research; and
+            
+377
+
+    
+    (B)  of:
+            
+378
+
+    
+    (I)  the institution within the state system of higher education defined in Section
+            
+379
+
+    
+
+53B-1-102
+
+; or
+            
+380
+
+    
+    (II)  a sponsor of sponsored research;
+            
+381
+
+    
+    (iii)  unpublished manuscripts;
+            
+382
+
+    
+    (iv)  creative works in process;
+            
+383
+
+    
+    (v)  scholarly correspondence; and
+            
+384
+
+    
+    (vi)  confidential information contained in research proposals;
+            
+385
+
+    
+    (b)  Subsection (40)(a) may not be construed to prohibit disclosure of public
+            
+386
+
+    
+information required pursuant to Subsection 
+
+53B-16-302
+
+(2)(a) or (b); and
+            
+387
+
+    
+    (c)  Subsection (40)(a) may not be construed to affect the ownership of a record;
+            
+388
+
+    
+    (41) (a)  records in the custody or control of the Office of Legislative Auditor General
+            
+389
+
+    
+that would reveal the name of a particular legislator who requests a legislative audit prior to the
+            
+390
+
+    
+date that audit is completed and made public; and
+            
+391
+
+    
+    (b)  notwithstanding Subsection (41)(a), a request for a legislative audit submitted to the
+            
+392
+
+    
+Office of the Legislative Auditor General is a public document unless the legislator asks that
+            
+393
+
+    
+the records in the custody or control of the Office of Legislative Auditor General that would
+
+            
+394
+
+
+    
+reveal the name of a particular legislator who requests a legislative audit be maintained as
+            
+395
+
+    
+protected records until the audit is completed and made public;
+            
+396
+
+    
+    (42)  records that provide detail as to the location of an explosive, including a map or
+            
+397
+
+    
+other document that indicates the location of:
+            
+398
+
+    
+    (a)  a production facility; or
+            
+399
+
+    
+    (b)  a magazine;
+            
+400
+
+    
+    (43)  information contained in the database described in Section 
+
+62A-3-311.1
+
+;
+            
+401
+
+    
+    (44)  information contained in the Management Information System and Licensing
+            
+402
+
+    
+Information System described in Title 62A, Chapter 4a, Child and Family Services;
+            
+403
+
+    
+    (45)  information regarding National Guard operations or activities in support of the
+            
+404
+
+    
+National Guard's federal mission;
+            
+405
+
+    
+    (46)  records provided by any pawnbroker or pawnshop to a law enforcement agency or
+            
+406
+
+    
+to the central database in compliance with Title 13, Chapter 32a, Pawnshop Transaction
+            
+407
+
+    
+Information Act;
+            
+408
+
+    
+    (47)  information regarding food security, risk, and vulnerability assessments performed
+            
+409
+
+    
+by the Department of Agriculture and Food;
+            
+410
+
+    
+    (48)  except to the extent that the record is exempt from this chapter pursuant to Section
+            
+411
+
+    
+
+63-2-106
+
+, records related to an emergency plan or program prepared or maintained by the
+            
+412
+
+    
+Division of [Emergency Services and] Homeland Security the disclosure of which would
+            
+413
+
+    
+jeopardize:
+            
+414
+
+    
+    (a)  the safety of the general public; or
+            
+415
+
+    
+    (b)  the security of:
+            
+416
+
+    
+    (i)  governmental property;
+            
+417
+
+    
+    (ii)  governmental programs; or
+            
+418
+
+    
+    (iii)  the property of a private person who provides the Division of [Emergency Services
+            
+419
+
+    
+and] Homeland Security information;
+            
+420
+
+    
+    (49)  records of the Department of Agriculture and Food relating to the National
+            
+421
+
+    
+Animal Identification System or any other program that provides for the identification, tracing,
+
+            
+422
+
+
+    
+or control of livestock diseases, including any program established under Title 4, Chapter 24,
+            
+423
+
+    
+Utah Livestock Brand and Anti-theft Act or Title 4, Chapter 31, Livestock Inspection and
+            
+424
+
+    
+Quarantine;
+            
+425
+
+    
+    (50)  as provided in Section 
+
+26-39-109
+
+:
+            
+426
+
+    
+    (a)  information or records held by the Department of Health related to a complaint
+            
+427
+
+    
+regarding a child care program or residential child care which the department is unable to
+            
+428
+
+    
+substantiate; and
+            
+429
+
+    
+    (b)  information or records related to a complaint received by the Department of Health
+            
+430
+
+    
+from an anonymous complainant regarding a child care program or residential child care; and
+            
+431
+
+    
+    (51)  unless otherwise classified as public under Section 
+
+63-2-301
+
+ and except as
+            
+432
+
+    
+provided under Section 
+
+41-1a-116
+
+, an individual's home address, home telephone number, or
+            
+433
+
+    
+personal mobile phone number, if:
+            
+434
+
+    
+    (a)  the individual is required to provide the information in order to comply with a law,
+            
+435
+
+    
+ordinance, rule, or order of a government entity; and
+            
+436
+
+    
+    (b)  the subject of the record has a reasonable expectation that this information will be
+            
+437
+
+    
+kept confidential due to:
+            
+438
+
+    
+    (i)  the nature of the law, ordinance, rule, or order; and
+            
+439
+
+    
+    (ii)  the individual complying with the law, ordinance, rule, or order.
+            
+440
+
+    
+    Section 9.  
+Section  
+63-5-4
+
+ is amended to read:
+            
+441
+
+    
+     63-5-4.  Disaster Emergency Advisory Council created -- Function -- Composition
+            
+442
+
+    
+ -- Expenses.
+            
+443
+
+    
+    (1)  A Disaster Emergency Advisory Council is created to provide advice to the
+            
+444
+
+    
+governor on matters relating to state government emergency disaster response and recovery
+            
+445
+
+    
+actions and activities.
+            
+446
+
+    
+    (2)  The council shall meet at the call of the governor.
+            
+447
+
+    
+    (3)  The Disaster Emergency Advisory Council comprises the:
+            
+448
+
+    
+    (a)  lieutenant governor;
+            
+449
+
+    
+    (b)  attorney general;
+
+            
+450
+
+
+    
+    (c)  president of the Senate;
+            
+451
+
+    
+    (d)  speaker of the House of Representatives;
+            
+452
+
+    
+    (e)  heads of the following state agencies:
+            
+453
+
+    
+    (i)  Public Safety;
+            
+454
+
+    
+    (ii)  Division of [Emergency Services and] Homeland Security;
+            
+455
+
+    
+    (iii)  Building Board; and
+            
+456
+
+    
+    (iv)  Governor's Office of Planning and Budget;
+            
+457
+
+    
+    (f)  executive directors of the following departments:
+            
+458
+
+    
+    (i)  Transportation;
+            
+459
+
+    
+    (ii)  Human Services;
+            
+460
+
+    
+    (iii)  Health;
+            
+461
+
+    
+    (iv)  Environmental Quality;
+            
+462
+
+    
+    (v)  Community and Economic Development; and
+            
+463
+
+    
+    (vi)  Natural Resources;
+            
+464
+
+    
+    (g)  representative of the National Guard appointed by the governor with the consent of
+            
+465
+
+    
+the Senate;
+            
+466
+
+    
+    (h)  commissioner of agriculture and food;
+            
+467
+
+    
+    (i)  state planning coordinator; and
+            
+468
+
+    
+    (j)  representatives from two statewide, nongovernmental service organizations
+            
+469
+
+    
+appointed by the governor with the consent of the Senate.
+            
+470
+
+    
+    (4)  The commissioner of Public Safety shall serve as the chair of the council.
+            
+471
+
+    
+    (5) (a) (i)  State government officer and employee members who do not receive salary,
+            
+472
+
+    
+per diem, or expenses from their agency for their service may receive per diem and expenses
+            
+473
+
+    
+incurred in the performance of their official duties from the council at the rates established by
+            
+474
+
+    
+the Division of Finance under Sections 
+
+63A-3-106
+
+ and 
+
+63A-3-107
+
+.
+            
+475
+
+    
+    (ii)  State government officer and employee members may decline to receive per diem
+            
+476
+
+    
+and expenses for their service.
+            
+477
+
+    
+    (b)  Legislators on the committee shall receive compensation and expenses as provided
+
+            
+478
+
+
+    
+by law and legislative rule.
+            
+479
+
+    
+    Section 10.  
+Section  
+63-5a-8
+
+ is amended to read:
+            
+480
+
+    
+     63-5a-8.  Acquisition of property for public use -- Compensation of owners.
+            
+481
+
+    
+    (1) (a)  Upon proclamation of a state of emergency, the governor may purchase or lease
+            
+482
+
+    
+public or private property for public use including:
+            
+483
+
+    
+    (i)  food and medical supplies;
+            
+484
+
+    
+    (ii)  clothing;
+            
+485
+
+    
+    (iii)  shelter;
+            
+486
+
+    
+    (iv)  means of transportation;
+            
+487
+
+    
+    (v)  fuels;
+            
+488
+
+    
+    (vi)  oils; or
+            
+489
+
+    
+    (vii)  buildings or lands.
+            
+490
+
+    
+    (b)  The governor may not purchase private home storage nor privately owned arms.
+            
+491
+
+    
+    (2) (a)  The governor may use property purchased under authority of this section for any
+            
+492
+
+    
+purpose to meet the needs of an emergency, including its use to relieve want, distress, and
+            
+493
+
+    
+disease.
+            
+494
+
+    
+    (b)  Any property used by the governor to meet the needs of an emergency is a public
+            
+495
+
+    
+use.
+            
+496
+
+    
+    (3) (a)  The governor shall compensate the owner of property taken or used under
+            
+497
+
+    
+authority of this section by complying with the procedures established in Title 78, Chapter 34,
+            
+498
+
+    
+Eminent Domain.
+            
+499
+
+    
+    (b)  The governor shall pay for those purchases or leases from the funds available to the
+            
+500
+
+    
+Division of [Emergency Services and] Homeland Security under this chapter.
+            
+501
+
+    
+    (4)  Nothing in this section applies to or authorizes compensation for the destruction or
+            
+502
+
+    
+damage of standing timber or other property in order to provide a fire break or to the release of
+            
+503
+
+    
+waters or the breach of impoundments in order to reduce pressure or other danger from actual
+            
+504
+
+    
+or threatened flood.
+            
+505
+
+    
+    Section 11.  
+Section  
+63-5b-102
+
+ is amended to read:
+
+            
+506
+
+
+    
+     63-5b-102.  Definitions.
+            
+507
+
+    
+    (1) (a)  "Absent" means:
+            
+508
+
+    
+    (i)  not physically present or not able to be communicated with for 48 hours; or
+            
+509
+
+    
+    (ii)  for local government officers, as defined by local ordinances.
+            
+510
+
+    
+    (b)  "Absent" does not include a person who can be communicated with via telephone,
+            
+511
+
+    
+radio, or telecommunications.
+            
+512
+
+    
+    (2)  "Attack" means a nuclear, conventional, biological, or chemical warfare action
+            
+513
+
+    
+against the United States of America or this state.
+            
+514
+
+    
+    (3)  "Department" means the Department of Administrative Services, the Department of
+            
+515
+
+    
+Agriculture and Food, the Alcoholic Beverage Control Commission, the Department of
+            
+516
+
+    
+Commerce, the Department of Community and Culture, the Department of Corrections, the
+            
+517
+
+    
+Department of Environmental Quality, the Department of Financial Institutions, the
+            
+518
+
+    
+Department of Health, the Department of Human Resource Management, the Department of
+            
+519
+
+    
+Workforce Services, the Labor Commission, the National Guard, the Department of Insurance,
+            
+520
+
+    
+the Department of Natural Resources, the Department of Public Safety, the Public Service
+            
+521
+
+    
+Commission, the Department of Human Services, the State Tax Commission, the Department
+            
+522
+
+    
+of Technology Services, the Department of Transportation, any other major administrative
+            
+523
+
+    
+subdivisions of state government, the State Board of Education, the State Board of Regents, the
+            
+524
+
+    
+Utah Housing Corporation, the Workers' Compensation Fund, the State Retirement Board, and
+            
+525
+
+    
+each institution of higher education within the system of higher education.
+            
+526
+
+    
+    (4)  "Disaster" means a situation causing, or threatening to cause, widespread damage,
+            
+527
+
+    
+social disruption, or injury or loss of life or property resulting from attack, internal disturbance,
+            
+528
+
+    
+natural phenomenon, or technological hazard.
+            
+529
+
+    
+    (5)  "Division" means the Division of [Emergency Services and] Homeland Security
+            
+530
+
+    
+established in Title 53, Chapter 2, Part 1, [Emergency Services and] Homeland Security Act.
+            
+531
+
+    
+    (6)  "Emergency interim successor" means a person designated by this chapter to
+            
+532
+
+    
+exercise the powers and discharge the duties of an office when the person legally exercising the
+            
+533
+
+    
+powers and duties of the office is unavailable.
+
+            
+534
+
+
+    
+    (7)  "Executive director" means the person with ultimate responsibility for managing
+            
+535
+
+    
+and overseeing the operations of each department, however denominated.
+            
+536
+
+    
+    (8)  "Internal disturbance" means a riot, prison break, disruptive terrorism, or strike.
+            
+537
+
+    
+    (9)  "Natural phenomenon" means any earthquake, tornado, storm, flood, landslide,
+            
+538
+
+    
+avalanche, forest or range fire, drought, epidemic, or other catastrophic event.
+            
+539
+
+    
+    (10) (a)  "Office" includes all state and local offices, the powers and duties of which are
+            
+540
+
+    
+defined by constitution, statutes, charters, optional plans, ordinances, articles, or by-laws.
+            
+541
+
+    
+    (b)  "Office" does not include the office of governor or the legislative or judicial offices.
+            
+542
+
+    
+    (11)  "Place of governance" means the physical location where the powers of an office
+            
+543
+
+    
+are being exercised.
+            
+544
+
+    
+    (12)  "Political subdivision" includes counties, cities, towns, townships, districts,
+            
+545
+
+    
+authorities, and other public corporations and entities whether organized and existing under
+            
+546
+
+    
+charter or general law.
+            
+547
+
+    
+    (13)  "Political subdivision officer" means a person holding an office in a political
+            
+548
+
+    
+subdivision.
+            
+549
+
+    
+    (14)  "State officer" means the attorney general, the state treasurer, the state auditor, and
+            
+550
+
+    
+the executive director of each department.
+            
+551
+
+    
+    (15)  "Technological hazard" means any hazardous materials accident, mine accident,
+            
+552
+
+    
+train derailment, air crash, radiation incident, pollution, structural fire, or explosion.
+            
+553
+
+    
+    (16)  "Unavailable" means:
+            
+554
+
+    
+    (a)  absent from the place of governance during a disaster that seriously disrupts normal
+            
+555
+
+    
+governmental operations, whether or not that absence or inability would give rise to a vacancy
+            
+556
+
+    
+under existing constitutional or statutory provisions; or
+            
+557
+
+    
+    (b)  as otherwise defined by local ordinance.
+            
+558
+
+    
+    Section 12.  
+Section  
+63-5b-301
+
+ is amended to read:
+            
+559
+
+    
+     63-5b-301.  Division to consult with legislative and judicial branch.
+            
+560
+
+    
+    The Division of [Emergency Services and] Homeland Security may consult with the
+            
+561
+
+    
+Legislative Management Committee, the Judicial Council, and legislative and judicial staff
+
+            
+562
+
+
+    
+offices to assist them in preparing emergency succession plans and procedures.
+            
+563
+
+    
+    Section 13.  
+Section  
+63-38d-502
+
+ is amended to read:
+            
+564
+
+    
+     63-38d-502.  Membership -- Terms -- Chair -- Expenses.
+            
+565
+
+    
+    (1)  The Resource Development Coordinating Committee shall consist of the following
+            
+566
+
+    
+25 members:
+            
+567
+
+    
+    (a)  the state science advisor;
+            
+568
+
+    
+    (b)  a representative from the Department of Agriculture and Food appointed by the
+            
+569
+
+    
+executive director;
+            
+570
+
+    
+    (c)  a representative from the Department of Community and Culture appointed by the
+            
+571
+
+    
+executive director;
+            
+572
+
+    
+    (d)  a representative from the Department of Environmental Quality appointed by the
+            
+573
+
+    
+executive director;
+            
+574
+
+    
+    (e)  a representative from the Department of Natural Resources appointed by the
+            
+575
+
+    
+executive director;
+            
+576
+
+    
+    (f)  a representative from the Department of Transportation appointed by the executive
+            
+577
+
+    
+director;
+            
+578
+
+    
+    (g)  a representative from the Governor's Office of Economic Development appointed
+            
+579
+
+    
+by the director;
+            
+580
+
+    
+    (h)  a representative from the Division of Housing and Community Development
+            
+581
+
+    
+appointed by the director;
+            
+582
+
+    
+    (i)  a representative from the Division of State History appointed by the director;
+            
+583
+
+    
+    (j)  a representative from the Division of Air Quality appointed by the director;
+            
+584
+
+    
+    (k)  a representative from the Division of Drinking Water appointed by the director;
+            
+585
+
+    
+    (l)  a representative from the Division of Environmental Response and Remediation
+            
+586
+
+    
+appointed by the director;
+            
+587
+
+    
+    (m)  a representative from the Division of Radiation appointed by the director;
+            
+588
+
+    
+    (n)  a representative from the Division of Solid and Hazardous Waste appointed by the
+            
+589
+
+    
+director;
+
+            
+590
+
+
+    
+    (o)  a representative from the Division of Water Quality appointed by the director;
+            
+591
+
+    
+    (p)  a representative from the Division of Oil, Gas, and Mining appointed by the
+            
+592
+
+    
+director;
+            
+593
+
+    
+    (q)  a representative from the Division of Parks and Recreation appointed by the
+            
+594
+
+    
+director;
+            
+595
+
+    
+    (r)  a representative from the Division of Forestry, Fire and State Lands appointed by
+            
+596
+
+    
+the director;
+            
+597
+
+    
+    (s)  a representative from the Utah Geological Survey appointed by the director;
+            
+598
+
+    
+    (t)  a representative from the Division of Water Resources appointed by the director;
+            
+599
+
+    
+    (u)  a representative from the Division of Water Rights appointed by the director;
+            
+600
+
+    
+    (v)  a representative from the Division of Wildlife Resources appointed by the director;
+            
+601
+
+    
+    (w)  a representative from the School and Institutional Trust Lands Administration
+            
+602
+
+    
+appointed by the director;
+            
+603
+
+    
+    (x)  a representative from the Division of Facilities Construction and Management
+            
+604
+
+    
+appointed by the director; and
+            
+605
+
+    
+    (y)  a representative from the Division of [Emergency Services and] Homeland Security
+            
+606
+
+    
+appointed by the director.
+            
+607
+
+    
+    (2) (a)  As particular issues require, the committee may, by majority vote of the
+            
+608
+
+    
+members present, and with the concurrence of the state planning coordinator, appoint
+            
+609
+
+    
+additional temporary members to serve as ex officio voting members.
+            
+610
+
+    
+    (b)  Those ex officio members may discuss and vote on the issue or issues for which
+            
+611
+
+    
+they were appointed.
+            
+612
+
+    
+    (3)  A chair shall be selected by a majority vote of committee members with the
+            
+613
+
+    
+concurrence of the state planning coordinator.
+            
+614
+
+    
+    (4) (a) (i)  Members who are not government employees shall receive no compensation
+            
+615
+
+    
+or benefits for their services, but may receive per diem and expenses incurred in the
+            
+616
+
+    
+performance of the member's official duties at the rates established by the Division of Finance
+            
+617
+
+    
+under Sections 
+
+63A-3-106
+
+ and 
+
+63A-3-107
+
+.
+
+            
+618
+
+
+    
+    (ii)  Members may decline to receive per diem and expenses for their service.
+            
+619
+
+    
+    (b) (i)  State government officer and employee members who do not receive salary, per
+            
+620
+
+    
+diem, or expenses from their agency for their service may receive per diem and expenses
+            
+621
+
+    
+incurred in the performance of their official duties from the council at the rates established by
+            
+622
+
+    
+the Division of Finance under Sections 
+
+63A-3-106
+
+ and 
+
+63A-3-107
+
+.
+            
+623
+
+    
+    (ii)  State government officer and employee members may decline to receive per diem
+            
+624
+
+    
+and expenses for their service.
+            
+625
+
+    
+    Section 14.  
+Section  
+63-53b-201
+
+ is amended to read:
+            
+626
+
+    
+     63-53b-201.  Governor's energy advisor -- Duties.
+            
+627
+
+    
+    (1) (a)  The governor shall appoint an energy advisor.
+            
+628
+
+    
+    (b)  The governor's energy advisor serves at the pleasure of the governor.
+            
+629
+
+    
+    (2)  The governor's energy advisor shall:
+            
+630
+
+    
+    (a)  advise the governor on energy-related matters;
+            
+631
+
+    
+    (b)  annually review and propose updates to the state's energy policy, as contained in
+            
+632
+
+    
+Section 
+
+63-53b-301
+
+;
+            
+633
+
+    
+    (c)  promote as the governor's energy advisor considers necessary:
+            
+634
+
+    
+    (i)  the development of cost-effective energy resources both renewable and
+            
+635
+
+    
+nonrenewable; and
+            
+636
+
+    
+    (ii)  educational programs, including programs supporting conservation and energy
+            
+637
+
+    
+efficiency measures;
+            
+638
+
+    
+    (d)  coordinate across state agencies to assure consistency with state energy policy,
+            
+639
+
+    
+including:
+            
+640
+
+    
+    (i)  working with the State Energy Program to promote access to federal assistance for
+            
+641
+
+    
+energy-related projects for state agencies and members of the public;
+            
+642
+
+    
+    (ii)  working with the Division of [Emergency Services and] Homeland Security to
+            
+643
+
+    
+assist the governor in carrying out the governor's energy emergency powers under Title 63,
+            
+644
+
+    
+Chapter 53a, Energy Emergency Powers of Governor;
+            
+645
+
+    
+    (iii)  participating in the annual review of the energy emergency plan and the
+
+            
+646
+
+
+    
+maintenance of the energy emergency plan and a current list of contact persons required by
+            
+647
+
+    
+Section 
+
+53-2-110
+
+; and
+            
+648
+
+    
+    (iv)  identifying and proposing measures necessary to facilitate low-income consumers'
+            
+649
+
+    
+access to energy services;
+            
+650
+
+    
+    (e)  coordinate with the Division of [Emergency Services and] Homeland Security
+            
+651
+
+    
+ongoing activities designed to test an energy emergency plan to ensure coordination and
+            
+652
+
+    
+information sharing among state agencies and political subdivisions in the state, public utilities
+            
+653
+
+    
+and other energy suppliers, and other relevant public sector persons as required by Sections
+            
+654
+
+    
+
+53-2-110
+
+, 
+
+63-53a-3
+
+, 
+
+63-53a-7
+
+, and 
+
+63-53a-8
+
+;
+            
+655
+
+    
+    (f)  coordinate with requisite state agencies to study:
+            
+656
+
+    
+    (i)  the creation of a centralized state repository for energy-related information;
+            
+657
+
+    
+    (ii)  methods for streamlining state review and approval processes for energy-related
+            
+658
+
+    
+projects; and
+            
+659
+
+    
+    (iii)  the development of multistate energy transmission and transportation 
+            
+660
+
+    
+infrastructure;
+            
+661
+
+    
+    (g)  coordinate energy-related regulatory processes within the state;
+            
+662
+
+    
+    (h)  compile, and make available to the public, information about federal, state, and
+            
+663
+
+    
+local approval requirements for energy-related projects;
+            
+664
+
+    
+    (i)  act as the state's advocate before federal and local authorities for energy-related
+            
+665
+
+    
+infrastructure projects or coordinate with the appropriate state agency; and
+            
+666
+
+    
+    (j)  help promote the Division of Facilities Construction and Management's measures to
+            
+667
+
+    
+improve energy efficiency in state buildings.
+            
+668
+
+    
+    Section 15.  
+Section  
+63C-6-101
+
+ is amended to read:
+            
+669
+
+    
+     63C-6-101.  Creation of commission -- Membership -- Appointment -- Vacancies.
+            
+670
+
+    
+    (1)  There is created the Utah Seismic Safety Commission consisting of 15 members,
+            
+671
+
+    
+designated as follows:
+            
+672
+
+    
+    (a)  the director of the Division of [Emergency Services and] Homeland Security or his
+            
+673
+
+    
+designee;
+
+            
+674
+
+
+    
+    (b)  the director of the Utah Geological Survey or his designee;
+            
+675
+
+    
+    (c)  the director of the University of Utah Seismograph Stations or his designee;
+            
+676
+
+    
+    (d)  the executive director of the Utah League of Cities and Towns or his designee;
+            
+677
+
+    
+    (e)  a representative from the Structural Engineers Association of Utah biannually
+            
+678
+
+    
+selected by its membership;
+            
+679
+
+    
+    (f)  the director of the Division of Facilities and Construction Management or his
+            
+680
+
+    
+designee;
+            
+681
+
+    
+    (g)  the executive director of the Department of Transportation or his designee;
+            
+682
+
+    
+    (h)  the State Planning Coordinator or his designee;
+            
+683
+
+    
+    (i)  a representative from the American Institute of Architects, Utah Section;
+            
+684
+
+    
+    (j)  a representative from the American Society of Civil Engineers, Utah Section;
+            
+685
+
+    
+    (k)  a member of the House of Representatives appointed biannually by the speaker of
+            
+686
+
+    
+the House;
+            
+687
+
+    
+    (l)  a member of the Senate appointed biannually by the president of the Senate;
+            
+688
+
+    
+    (m)  the commissioner of the Department of Insurance or his designee;
+            
+689
+
+    
+    (n)  a representative from the Association of Contingency Planners, Utah Chapter,
+            
+690
+
+    
+biannually selected by its membership; and
+            
+691
+
+    
+    (o)  a representative from the American Public Works Association, Utah Chapter,
+            
+692
+
+    
+biannually selected by its membership.
+            
+693
+
+    
+    (2)  The commission shall annually select one of its members to serve as chair of the
+            
+694
+
+    
+commission.
+            
+695
+
+    
+    (3)  When a vacancy occurs in the membership for any reason, the replacement shall be
+            
+696
+
+    
+appointed for the unexpired term.
+            
+697
+
+    
+    Section 16.  
+Section  
+63C-6-104
+
+ is amended to read:
+            
+698
+
+    
+     63C-6-104.  Staffing and appropriated funds.
+            
+699
+
+    
+    (1)  Staff support to the commission shall be provided by the Division of [Emergency
+            
+700
+
+    
+Services and] Homeland Security and the Utah Geological Survey.
+            
+701
+
+    
+    (2)  Monies not expended by the Utah Seismic Safety Commission during a fiscal year
+
+            
+702
+
+
+    
+are nonlapsing except that any balance of General Fund monies greater than $10,000 lapses to
+            
+703
+
+    
+the General Fund.
+[Bill Documents][Bills Directory]
+
+
+
+
+
+
+
+
+
+Who represents me?
+
+
+
+
+
+Remember my Legislators
+
+
+
+
+
+State Senate
+		350 North State, Suite 320
+		PO Box 145115
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1035
+		Fax: (801) 326-1475
+
+
+
+House of Representatives
+		350 North State, Suite 350
+		PO Box 145030
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1029
+		Fax: (801) 326-1544
+
+
+
+
+
+
+
+
+
+
+Home
+Mobile Site
+Site Map
+Calendar
+Code / Constitution
+House
+Senate
+
+Terms of Use/Privacy Policy
+
+ADA
+Utah.gov
+
+
+
+
+
+
+

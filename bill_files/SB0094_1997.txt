@@ -1,0 +1,977 @@
+Sponsors: []Modifications:     63D-1-101.This title is known as "Information Technology."    63D-1-102.This chapter is known as the "Information Technology Act."    63D-1-103.(1)  The Legislature finds that universal citizen access to information and services is a statepublic policy goal.  This access should be facilitated through a seamless electronic network withopen, not proprietary, standards that is:(a)  vertically integrated between the local, state, and federal government entities; and(b)  horizontally integrated between all state government entities.(2)  It is the policy goal of this state that technology should be used to enhance the qualityof life for all Utahns by providing world-class education and life-long learning opportunities,creating quality jobs and a favorable business climate, improving government, and fosteringself-reliance, while protecting community values.  These public policy goals can be furthered by:(a)  provision of information and services by government entities in an electronic format;(b)  coordination of the development, interconnection, and maintenance of governmentinformation technology systems and applications between government entities;(c)  initiating state policies and practices which encourage data exchange and systemsinterconnectivity among private enterprise, unless otherwise prohibited by statute;(d)  appropriate use of the state's collective bargaining power, rights-of-way, taxingauthority, and assets as incentives for the private sector to develop and provide informationtechnology services to citizens; and(e)  appropriate policies to protect security, privacy, and acceptable use of network servicesand information.    63D-1-104.title    63D-1-201.part    63D-1-202., one of which shall be the chief information officer,nineappoint a legislator to serve as a cochair    63D-1-203.Subsections (1)and (2)speaker of the House and the president of the Senatespeaker of the Houseand the president of the Senate(2) (a)  The chairs, with the approval of the commission, may remove a commission memberand appoint another to fill the vacancy if the commission member, other than a legislator:(i)  has more than two consecutive unexcused absences from commission meetings in a12-month period;(ii)  fails or refuses to fulfill the responsibilities and duties of a commission member; or(iii)  no longer represents the interest for which the member was originally appointed.(b)  If a member no longer serves in the Legislature, a vacancy is created.(c)in the same manner as the original appointment(3)    63D-1-204.(i)from:(A)  the Executive Department as provided in Subsections 63-38-2(7)(a)(i) and Section63D-3-301; and(B)  the Judicial and Legislative Departments; and(ii)(h)  submit to the Legislature before the annual general session its reports andrecommendations for information technology projects or legislation; and(i)(3)  The commission is authorized to prepare, publish, and distribute reports of its studies,recommendations, and statements.    63D-1-205.(b)(2) (a)(b)(3)(4) (a)(b)    63D-1-206.    63D-1-301.policies,,that support the agency's and thestate's strategic plans, including Utah Tomorrowmanagement, planning, and the use of information technology resources    63D-1-302.:(i)as follows(A)(B)(C)(D)(E)(F)(G)(H); and(ii)  the members of the executive committee as provided in Section 63D-1-30363D-1-303    63D-1-303.of the Information Technology Policy andStrategy Committee63D-1-302as followswith the approval of the president of the Senate and the speaker of the HouseIf this bill and H.B. 12, Boards and Commissions Amendments, both pass, it is the intent ofthe Legislature that the amendments in Section 63D-1-203 in this bill supersede the amendments toSection 63C-2-103 in H.B. 12.Full text:
+
+
+
+Utah State Legislature
+
+
+
+
+
+
+
+
+
+
+
+
+Legislators
+
+By Session (1896-Current)
+Alphabetical (Historical)
+Find by Address/Map
+More
+
+
+Bills
+
+Bills/Bill Requests
+Passed Bills
+2017 Bills
+
+Keyword Search
+Reading Calendars
+Tracking Service
+More
+
+
+Committees
+
+All Committees
+Appropriations
+Commissions
+
+Independent Legislative Ethics Commission
+Interim
+Standing
+Subcommittees
+Task Forces
+Bills In Committees
+
+
+Utah Code / Constitution
+
+
+Title/Chapter/Section
+Keyword Search 
+
+Utah Constitution
+Laws of Utah 1851-ongoing
+Utah Territorial Laws 
+More
+
+
+Senate
+
+Main Page 
+About The Senate 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Extraordinary Sessions 
+Reading Calendars 
+Past Floor Debates 
+Senate Journals 
+
+
+House
+
+Main Page
+About the House 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Reading Calendars 
+Past Floor Debates 
+Journals 
+Conflict of Interest Forms 
+
+
+Legislative Guide 
+
+Legislative Guide
+Civic Programs
+GRAMA (Records Requests)
+
+
+Publications
+
+Search Publications
+Appropriations
+Audits
+Bagels & Briefings
+Briefing Papers
+Digest of Legislation
+Legislative Drafting Manual
+
+Journals
+
+Interim Highlights
+
+Legislative Rules
+GRAMA (Records Requests)
+Public Email
+State Organization Charts
+YouTube Channel
+Requests for Proposals and Legal Notices
+More
+
+
+Legislative Histories
+
+Legislative History Resources
+How to Research
+Bill Drafting/Research Files (1990-Ongoing)
+
+Working Bills (1896-1989)
+Interim Committee Histories (1990-Ongoing) 
+Journals
+Past House Floor Debates
+Past Senate Floor Debates
+More
+
+
+Staff Offices
+
+All Legislative Offices
+Auditor General
+Fiscal Analyst
+Printing
+Research and General Counsel
+Staff Awards
+Job Opportunities
+More
+
+
+Links of Interest
+
+Utah Administrative Rules
+Courts
+Utah State Capitol
+State of Utah
+Federal Legislation
+More
+
+
+
+
+
+
+ 
+
+Download Zipped Enrolled WP 6.1 SB0094.ZIP 15,078 Bytes
+[Introduced][Amended][Status][Bill Documents][Fiscal Note][Bills Directory]
+
+
+S.B. 94 Enrolled
+
+
+
+
+
+
+
+
+ 
+    INFORMATION TECHNOLOGY AMENDMENTS
+
+
+
+
+    1997 GENERAL SESSION
+
+
+    STATE OF UTAH
+
+
+     Sponsor: David H.  Steele
+
+
+    AN ACT RELATING TO INFORMATION TECHNOLOGY; ESTABLISHING A PUBLIC
+
+    POLICY STATEMENT; RENUMBERING AND AMENDING SECTIONS RELATING
+
+    TO THE INFORMATION TECHNOLOGY COMMISSION AND THE CHIEF
+
+    INFORMATION OFFICER; MAKING TECHNICAL CORRECTIONS; AND
+
+    PROVIDING A COORDINATION CLAUSE.
+
+    This act affects sections of Utah Code Annotated 1953 as follows:
+
+    ENACTS:
+
+         63D-1-101, Utah Code Annotated 1953
+
+         63D-1-102, Utah Code Annotated 1953
+
+         63D-1-103, Utah Code Annotated 1953
+
+    RENUMBERS AND AMENDS:
+
+         63D-1-104, (Renumbered from 63A-6-301, as last amended by Chapter 189, Laws of Utah
+
+    1996)
+
+         63D-1-201, (Renumbered from 63C-2-101, as enacted by Chapter 241, Laws of Utah
+
+    1994)
+
+         63D-1-202, (Renumbered from 63C-2-102, as last amended by Chapter 210, Laws of Utah
+
+    1995)
+
+         63D-1-203, (Renumbered from 63C-2-103, as last amended by Chapter 243, Laws of Utah
+
+    1996)
+
+         63D-1-204, (Renumbered from 63C-2-104, as last amended by Chapter 210, Laws of Utah
+
+    1995)
+
+         63D-1-205, (Renumbered from 63C-2-105, as last amended by Chapter 243, Laws of Utah
+
+    1996)
+
+         63D-1-206, (Renumbered from 63C-2-106, as enacted by Chapter 241, Laws of Utah
+
+    1994)
+
+
+         63D-1-301, (Renumbered from 63A-6-302, as enacted by Chapter 189, Laws of Utah 1996)
+
+         63D-1-302, (Renumbered from 63A-6-304, as enacted by Chapter 189, Laws of Utah 1996)
+
+         63D-1-303, (Renumbered from 63A-6-303, as enacted by Chapter 189, Laws of Utah 1996)
+
+    Be it enacted by the Legislature of the state of Utah:
+
+        Section 1.  Section  63D-1-101 is enacted to read:
+
+     TITLE 63D. INFORMATION TECHNOLOGY
+
+
+     CHAPTER 1. INFORMATION TECHNOLOGY ACT
+
+
+     Part 1.  General Provisions
+
+
+         63D-1-101.  Title.
+
+        This title is known as "Information Technology."
+
+        Section 2.  Section  63D-1-102 is enacted to read:
+
+         63D-1-102.  Title.
+
+        This chapter is known as the "Information Technology Act."
+
+        Section 3.  Section  63D-1-103 is enacted to read:
+
+         63D-1-103.  Policy statement.
+
+        (1)  The Legislature finds that universal citizen access to information and services is a state
+
+    public policy goal.  This access should be facilitated through a seamless electronic network with
+
+    open, not proprietary, standards that is:
+
+        (a)  vertically integrated between the local, state, and federal government entities; and
+
+        (b)  horizontally integrated between all state government entities.
+
+        (2)  It is the policy goal of this state that technology should be used to enhance the quality
+
+    of life for all Utahns by providing world-class education and life-long learning opportunities,
+
+    creating quality jobs and a favorable business climate, improving government, and fostering
+
+    self-reliance, while protecting community values.  These public policy goals can be furthered by:
+
+        (a)  provision of information and services by government entities in an electronic format;
+
+        (b)  coordination of the development, interconnection, and maintenance of government
+
+    information technology systems and applications between government entities;
+
+        (c)  initiating state policies and practices which encourage data exchange and systems
+
+- 2 -
+
+
+    interconnectivity among private enterprise, unless otherwise prohibited by statute;
+
+        (d)  appropriate use of the state's collective bargaining power, rights-of-way, taxing
+
+    authority, and assets as incentives for the private sector to develop and provide information
+
+    technology services to citizens; and
+
+        (e)  appropriate policies to protect security, privacy, and acceptable use of network services
+
+    and information.
+
+        Section 4.  Section  63D-1-104, which is renumbered from Section 63A-6-301 is renumbered
+
+    and amended to read:
+
+         [63A-6-301].      63D-1-104.  Definitions.
+
+          As used in this [part] title:
+
+        (1)  "Information systems" means a collection of people, procedures, and equipment
+
+    designed, built, operated, and maintained to collect, record, process, store, retrieve, and display
+
+    information.
+
+        (2)  "Information technology" means all computerized and auxiliary automated information
+
+    handling, including:
+
+        (a)  systems design and analysis;
+
+        (b)  conversion of data;
+
+        (c)  computer programming;
+
+        (d)  information storage and retrieval;
+
+        (e)  voice, radio, video, and data communications;
+
+        (f)  requisite systems controls;
+
+        (g)  simulation; and
+
+        (h)  all related interactions between people and machines.
+
+        (3)  "State agency" means every agency or administrative subunit of state government except:
+
+        (a)  the legislative and judicial branches;
+
+        (b)  the State Board of Education;
+
+        (c)  the Board of Regents; and
+
+        (d)  institutions of higher education.
+
+- 3 -
+
+
+        (4)  "Telecommunications" means the transmission or reception of signs, signals, writing,
+
+    images, sounds, messages, data, or other information of any nature by wire, radio, light waves, or
+
+    other electromagnetic means.
+
+        Section 5.  Section  63D-1-201, which is renumbered from Section 63C-2-101 is renumbered
+
+    and amended to read:
+
+     Part 2.  Information Technology Commission
+
+
+         [63C-2-101].      63D-1-201.  Title.
+
+        This [chapter] part is known as the "Utah Information Technology Commission Act."
+
+        Section 6.  Section  63D-1-202, which is renumbered from Section 63C-2-102 is renumbered
+
+    and amended to read:
+
+         [63C-2-102].      63D-1-202.  Creation -- Membership -- Appointment.
+
+        (1)  There is created an independent commission to be known as the "Utah Information
+
+    Technology Commission."
+
+        (2)  The commission shall be composed of up to 21 members appointed as follows:
+
+        (a)  three members of the House of Representatives, appointed by the speaker of the House,
+
+    not more than two of whom shall be from the same political party;
+
+        (b)  three members of the Senate, appointed by the president of the Senate, not more than 
+
+    two of whom shall be from the same political party;
+
+        (c)  two members, one of which shall be the chief information officer, appointed by the
+
+    governor in consultation with the president of the Senate and the speaker of the House;
+
+        (d)  one member appointed by the Judicial Council;
+
+        (e)  one member appointed by the State Board of Education;
+
+        (f)  one member appointed by the State Board of Regents;
+
+        (g)  one member appointed by the Public Service Commission; and
+
+        (h)  up to nine members of the public selected by the [seven] nine members appointed in
+
+    Subsections (a), (b), (c), and (d), and with the approval of the president of the Senate and the speaker
+
+    of the House.
+
+        (3)  The members selected in Subsection (2)(h) shall represent, in the judgment of the
+
+- 4 -
+
+
+    selecting members, the principal interests of:
+
+        (a)  providers, developers, and consumers of information technology products and services;
+
+        (b)  local government; and
+
+        (c)  the general public.
+
+        (4)  The speaker of the House and president of the Senate shall each [select one of the
+
+    members chosen by him to be a cochair] appoint a legislator to serve as a cochair of the commission.
+
+        Section 7.  Section  63D-1-203, which is renumbered from Section 63C-2-103 is renumbered
+
+    and amended to read:
+
+         [63C-2-103].      63D-1-203.  Terms of members -- Vacancies -- Term limitation.
+
+        (1) (a)  Except as required by [Subsection] Subsections (1) (b) and (2), as terms of current
+
+    commission members expire, the [governor] speaker of the House and the president of the Senate
+
+    shall appoint each new member or reappointed member to a four-year term.
+
+        (b)  Notwithstanding the requirements of Subsection (a), the [governor] speaker of the House
+
+    and the president of the Senate shall, at the time of appointment or reappointment, adjust the length
+
+    of terms to ensure that the terms of commission members are staggered so that approximately half
+
+    of the commission is appointed every two years.
+
+        (c)  Terms shall expire on June 30 every two years.
+
+        (2) (a)  The chairs, with the approval of the commission, may remove a commission member
+
+    and appoint another to fill the vacancy if the commission member, other than a legislator:
+
+        (i)  has more than two consecutive unexcused absences from commission meetings in a
+
+    12-month period;
+
+        (ii)  fails or refuses to fulfill the responsibilities and duties of a commission member; or
+
+        (iii)  no longer represents the interest for which the member was originally appointed.
+
+        (b)  If a member no longer serves in the Legislature, a vacancy is created.
+
+        [(2)] (c)  When a vacancy occurs in the membership for any reason, the replacement shall be
+
+    appointed for the unexpired term in the same manner as the original appointment.
+
+        [(3)  A member of the House or Senate who leaves office before the four-year term has
+
+    expired shall be replaced by their appointing authority.]
+
+- 5 -
+
+
+        [(4)] (3)  A member may not serve more than two consecutive terms.
+
+        Section 8.  Section  63D-1-204, which is renumbered from Section 63C-2-104 is renumbered
+
+    and amended to read:
+
+         [63C-2-104].      63D-1-204.  Purpose -- Duties -- Quorum.
+
+        (1)  The commission shall:
+
+        (a)  study Utah's present and future information technology needs;
+
+        (b)  make recommendations regarding the coordination and governance of the information
+
+    technology needs for the Executive, Legislative, and Judicial Departments;
+
+        (c)  solicit and consider recommendations made by the governor, Judiciary, Legislature, and
+
+    the public regarding information technology;
+
+        (d)  consider the scope of the Public Service Commission's authority to regulate information
+
+    technology;
+
+        (e)  consider issues of economic development with regard to information technology;
+
+        (f) (i)  receive reports [from the Executive, Judicial, and Legislative Departments] concerning
+
+    expenditures for information technology and appropriation requests[, and] from:
+
+        (A)  the Executive Department as provided in Subsections 63-38-2(7)(a)(i) and Section
+
+    63D-3-301; and
+
+        (B)  the Judicial and Legislative Departments; and
+
+        (ii)  make recommendations to Executive Appropriations and the appropriate appropriations
+
+    subcommittees of the Legislature;
+
+        (g)  review, analyze, and study any issue concerning or related to information technology or
+
+    practice that is of interest to the commission; [and]
+
+        (h)  submit to the Legislature before the annual general session its reports and
+
+    recommendations for information technology projects or legislation; and
+
+        [(h)] (i)  if needed, prepare legislation concerning information technology for submission to
+
+    the Legislature in its annual general session.
+
+        (2)  Eleven members shall be a quorum for the conduct of business.
+
+        (3)  The commission is authorized to prepare, publish, and distribute reports of its studies,
+
+- 6 -
+
+
+    recommendations, and statements.
+
+        Section 9.  Section  63D-1-205, which is renumbered from Section 63C-2-105 is renumbered
+
+    and amended to read:
+
+         [63C-2-105].      63D-1-205.  Compensation of members -- Reports to the
+
+     Legislature -- Publication of reports.
+
+        (1) (a) [(i)]  Members who are not government employees shall receive no compensation or
+
+    benefits for their services, but may receive per diem and expenses incurred in the performance of the
+
+    member's official duties at the rates established by the Division of Finance under Sections
+
+    63A-3-106 and 63A-3-107.
+
+        [(ii)] (b)  Members may decline to receive per diem and expenses for their service.
+
+        [(b) (i)] (2) (a)  State government officer and employee members who do not receive salary,
+
+    per diem, or expenses from their agency for their service may receive per diem and expenses
+
+    incurred in the performance of their official duties from the commission at the rates established by
+
+    the Division of Finance under Sections 63A-3-106 and 63A-3-107.
+
+        [(ii)] (b)  State government officer and employee members may decline to receive per diem
+
+    and expenses for their service.
+
+        [(c)] (3)  Legislators on the committee shall receive compensation and expenses as provided
+
+    by law and legislative rule.
+
+        [(d) (i)] (4) (a)  Higher education members who do not receive salary, per diem, or expenses
+
+    from the entity that they represent for their service may receive per diem and expenses incurred in
+
+    the performance of their official duties from the committee at the rates established by the Division
+
+    of Finance under Sections 63A-3-106 and 63A-3-107.
+
+        [(ii)] (b)  Higher education members may decline to receive per diem and expenses for their
+
+    service.
+
+        [(2)  The commission shall submit to the Legislature before the annual general session its
+
+    reports and recommendations for information technology projects or legislation.]
+
+        [(3)  The commission is authorized to prepare, publish, and distribute from time to time
+
+    reports of its studies, recommendations, and statements.]
+
+- 7 -
+
+
+        Section 10.  Section  63D-1-206, which is renumbered from Section 63C-2-106 is renumbered
+
+    and amended to read:
+
+         [63C-2-106].      63D-1-206.  Staffing.
+
+        The Office of Legislative Research and General Counsel shall provide staffing for the
+
+    commission.  The commission chairs shall, in consultation with the director of the Office of
+
+    Legislative Research and General Counsel select an executive director.
+
+        Section 11.  Section  63D-1-301, which is renumbered from Section 63A-6-302 is renumbered
+
+    and amended to read:
+
+     Part 3.  Chief Information Officer
+
+
+         [63A-6-302].      63D-1-301.  Chief information officer -- Duties.
+
+        (1) (a)  The governor shall appoint a chief information officer who shall be located within
+
+    the Governor's Office of Planning and Budget, unless otherwise determined by the governor.
+
+        (b)  The chief information officer's authority as defined in this section applies to all state
+
+    agencies.
+
+        (2)  The chief information officer shall:
+
+        (a)  develop specific information technology objectives, policies, procedures, and standards
+
+    to guide the development of information systems within state government to achieve maximum
+
+    economy and quality while preserving optimum user flexibility, including:
+
+        (i)  policies, standards, and procedures for appropriate interchange of information, optimum
+
+    service, and minimum costs;
+
+        (ii)  policies for costing all information technology services performed by any state
+
+    information technology cost recovery center so that every cost recovery center charges its users a
+
+    rate for services that is both equitable and sufficient to recover all the costs of its operation, including
+
+    the cost of capital equipment and facilities;
+
+        (iii)  policies governing coordination, cooperation, joint efforts, working relationships, and
+
+    cost accounting relative to the development and maintenance of information technology and
+
+    information systems; and
+
+        (iv)  policies to ensure the protection of individual privacy and guarantee the exclusive
+
+- 8 -
+
+
+    control to a user of its own data;
+
+        (b)  coordinate the preparation of agency information technology plans within state
+
+    government, encompassing both short-term and long-term needs that support the agency's and the
+
+    state's strategic plans, including Utah Tomorrow;
+
+        (c)  require each state agency to submit semiannually an agency information technology plan
+
+    containing the information required by Subsection (4) before the legislative session in which the
+
+    budget request will be heard and no later than the June 15 after the legislative session in which the
+
+    budget request was authorized to the chief information officer;
+
+        (d)  upon receipt of a state agency's information technology plan:
+
+        (i)  provide a complete copy of that plan to the director of the Division of Information
+
+    Technology Services;
+
+        (ii)  review and approve or disapprove agency information technology plans to ensure that
+
+    these plans are the most economically viable and are the best solution to the agency's needs and the
+
+    state's needs;
+
+        (iii)  approve or disapprove of and coordinate the acquisition of information technology
+
+    equipment, telecommunications equipment, and related services for all agencies of state government;
+
+        (e)  facilitate the implementation of agency plans;
+
+        (f)  establish priorities in terms of both importance and time sequencing for the development
+
+    and implementation of information systems;
+
+        (g)  monitor information systems development to promote maximum use of existing state
+
+    information resources;
+
+        (h)  advise the governor on information technology policy and make recommendations to the
+
+    governor regarding requests for appropriations for information technology equipment and personnel;
+
+        (i)  maintain liaison with the legislative and judicial branches, the Board of Regents, the State
+
+    Board of Education, local government, federal government, business and industry, and consumers
+
+    to promote cooperation and make recommendations regarding information resources;
+
+        (j)  conduct performance audits of state information technology [resources in accordance with
+
+    generally accepted auditing standards promulgated by the Institute of Internal Auditors and
+
+- 9 -
+
+
+    according to the generally accepted auditing standards contained in the Comptroller of the United
+
+    States' "Standards for Audit of Governmental Organizations, Programs, Activities, and Functions"]
+
+    management, planning, and the use of information technology resources and distribute copies of the
+
+    audit reports as provided in Subsection (4); and
+
+        (k)  prepare an annual report to the governor and to the Legislature's Information Technology
+
+    Commission that:
+
+        (i)  summarizes the state's current and projected use of information technology; and
+
+        (ii)  includes a description of major changes in state policy and a brief description of each
+
+    state agency's plan.
+
+        (3)  Each state agency information technology plan shall include information about planned
+
+    information technology objectives and expenditures for the next year in the level of detail and format
+
+    specified by the chief information officer.
+
+        (4) (a)  Upon completion of an audit report produced under authority of Subsection (2)(j),
+
+    the chief information officer shall:
+
+        (i)  provide copies of all audit reports to:
+
+        (A)  the agency audited;
+
+        (B)  the governor;
+
+        (C)  the Office of Legislative Fiscal Analyst; and
+
+        (D)  the Information Technology Commission; and
+
+        (ii)  present the performance audit findings to the Information Technology Policy and
+
+    Strategy Committee at their next meeting.
+
+        (b)  Each state agency shall provide the chief information officer with complete access to all
+
+    information technology records, documents, and reports, including electronic, analog, or digital,
+
+    when requested for the purpose of a performance audit.
+
+        (5)  The rate for services established by an information technology cost recovery center, and
+
+    reviewed by the chief information officer, may be lowered if the Legislature appropriates monies to
+
+    the cost recovery center for the specific purpose of lowering rates.
+
+        Section 12.  Section  63D-1-302, which is renumbered from Section 63A-6-304 is renumbered
+
+- 10 -
+
+
+    and amended to read:
+
+         [63A-6-304].      63D-1-302.  Information Technology Policy and Strategy
+
+     Committee -- Membership -- Chair -- Duties.
+
+        (1) (a)  The chief information officer shall create an Information Technology Policy and
+
+    Strategy Committee composed of:
+
+        (i)  one representative [from each of the following that choose to participate] as follows:
+
+        [(i)] (A)  each executive branch agency, appointed by the director of that agency;
+
+        [(ii)] (B)  the legislative branch, appointed by the Information Technology Commission;
+
+        [(iii)] (C)  the judicial branch, appointed by the judicial council;
+
+        [(iv)] (D)  cities, appointed by the Utah League of Cities and Towns;
+
+        [(v)] (E)  counties, appointed by the Utah Association of Counties;
+
+        [(vi)] (F)  the federal government, appointed by the chief information officer;
+
+        [(vii)] (G)  public education, appointed by the Board of Education; and
+
+        [(viii)] (H)  higher education, appointed by the Board of Regents; and
+
+        (ii)  the members of the executive committee as provided in Section 63D-1-303.
+
+        (b)  The representatives of the executive branch shall be the only voting members on policies
+
+    binding the executive branch.
+
+        (c)  No action taken by this committee shall be binding upon any other branch of
+
+    government, but shall be considered a recommendation for coordination purposes.
+
+        (2)  The Information Technology Policy and Strategy Committee shall:
+
+        (a)  be directed by the executive committee as provided in Section [63A-6-303] 63D-1-303;
+
+        (b)  evaluate and approve or disapprove recommended information technology policies,
+
+    procedures, and standards to govern the operation of information technology in the executive branch;
+
+        (c)  act as a high-level forum for information technology issues;
+
+        (d)  act as an advisory committee for the chief information officer, Division of Information
+
+    Technology Services, and state agencies; and
+
+        (e)  create, and receive recommendations from, multiagency work groups on specific
+
+    information technology issues.
+
+- 11 -
+
+
+        (3)  The chief information officer shall:
+
+        (a)  be the chair; and
+
+        (b)  at the request of the Information Technology Commission, report on the approval or
+
+    disapproval of operational policy recommendations relating to information technology made by the
+
+    Information Technology Policy and Strategy Committee.
+
+        (4)  Executive branch agencies shall comply with the policies, procedures, and standards
+
+    established by the chief information officer and approved by the Information Technology Policy and
+
+    Strategy Committee under this part.
+
+        Section 13.  Section  63D-1-303, which is renumbered from Section 63A-6-303 is renumbered
+
+    and amended to read:
+
+         [63A-6-303].      63D-1-303.  Executive committee -- Membership -- Chair -- Duties.
+
+        (1)  There is created an executive committee of the Information Technology Policy and
+
+    Strategy Committee to determine the information policies, procedures, and standards to be reviewed
+
+    by the Information Technology Policy and Strategy Committee established in Section [63A-6-304]
+
+    63D-1-302.
+
+        (2)  The executive committee is composed of:
+
+        (a)  the chief information officer;
+
+        (b)  the deputy for policy of the governor's office;
+
+        (c)  the director of the Governor's Office of Planning and Budget;
+
+        (d)  the director of the Division of Information Technology Services;
+
+        (e)  the executive director of the Department of Administrative Services;
+
+        (f)  the chair of the Public Service Commission;
+
+        (g)  the director of the Utah Education Network Steering Committee; and
+
+        (h)  if the judicial branch or legislative branch choose to participate as follows:
+
+        (i)  one representative from the judicial branch, appointed by the Judicial Council; and
+
+        (ii)  one representative from the legislative branch, appointed by the Information Technology
+
+    Commission with the approval of the president of the Senate and the speaker of the House.
+
+        (3)  The representatives in Subsections (f) through (h) shall be nonvoting members of the
+
+- 12 -
+
+
+    committee.
+
+        (4)  The chief information officer shall be the chair.
+
+        Section 14.   Coordination clause.
+
+        If this bill and H.B. 12, Boards and Commissions Amendments, both pass, it is the intent of
+
+    the Legislature that the amendments in Section 63D-1-203 in this bill supersede the amendments to
+
+    Section 63C-2-103 in H.B. 12.
+
+- 13 -
+[Bill Documents][Bills Directory]
+
+
+
+
+
+
+
+
+
+Who represents me?
+
+
+
+
+
+Remember my Legislators
+
+
+
+
+
+State Senate
+		350 North State, Suite 320
+		PO Box 145115
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1035
+		Fax: (801) 326-1475
+
+
+
+House of Representatives
+		350 North State, Suite 350
+		PO Box 145030
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1029
+		Fax: (801) 326-1544
+
+
+
+
+
+
+
+
+
+
+Home
+Mobile Site
+Site Map
+Calendar
+Code / Constitution
+House
+Senate
+
+Terms of Use/Privacy Policy
+
+ADA
+Utah.gov
+
+
+
+
+
+
+

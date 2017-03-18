@@ -1,0 +1,1090 @@
+Sponsors: []Modifications: (a)(b)(i)(ii)(iii)(iv)(v)(vi)(vii)(viii)(6)  "Preconstruction costs" means any of the following costs incurred before projectconstruction begins:(a)  planning;(b)  design;(c)  engineering studies;(d)  legal work;(e)  permitting;(f)  acquisition of land and rights-of-way;(g)  compensation for impairment of existing water rights;(h)  environmental studies; or(i)  any combination of Subsections (6)(a) through (h).(7)preconstruction costs,; and(g)  an interconnection from the Corinne area to Willard Reservoir.Cache Countycounty or(3)countycumulativeCache Countyanydistrictmay.Except as provided in Subsection (3), theexpend monies for construction costs onrequired by the environmental impact statement(3)  The division may make expenditures for preconstruction costs if monies areexpressly appropriated or earmarked by statute for that purpose by the Legislature.Full text:
+
+
+
+Utah State Legislature
+
+
+
+
+
+
+
+
+
+
+
+
+Legislators
+
+By Session (1896-Current)
+Alphabetical (Historical)
+Find by Address/Map
+More
+
+
+Bills
+
+Bills/Bill Requests
+Passed Bills
+2017 Bills
+
+Keyword Search
+Reading Calendars
+Tracking Service
+More
+
+
+Committees
+
+All Committees
+Appropriations
+Commissions
+
+Independent Legislative Ethics Commission
+Interim
+Standing
+Subcommittees
+Task Forces
+Bills In Committees
+
+
+Utah Code / Constitution
+
+
+Title/Chapter/Section
+Keyword Search 
+
+Utah Constitution
+Laws of Utah 1851-ongoing
+Utah Territorial Laws 
+More
+
+
+Senate
+
+Main Page 
+About The Senate 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Extraordinary Sessions 
+Reading Calendars 
+Past Floor Debates 
+Senate Journals 
+
+
+House
+
+Main Page
+About the House 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Reading Calendars 
+Past Floor Debates 
+Journals 
+Conflict of Interest Forms 
+
+
+Legislative Guide 
+
+Legislative Guide
+Civic Programs
+GRAMA (Records Requests)
+
+
+Publications
+
+Search Publications
+Appropriations
+Audits
+Bagels & Briefings
+Briefing Papers
+Digest of Legislation
+Legislative Drafting Manual
+
+Journals
+
+Interim Highlights
+
+Legislative Rules
+GRAMA (Records Requests)
+Public Email
+State Organization Charts
+YouTube Channel
+Requests for Proposals and Legal Notices
+More
+
+
+Legislative Histories
+
+Legislative History Resources
+How to Research
+Bill Drafting/Research Files (1990-Ongoing)
+
+Working Bills (1896-1989)
+Interim Committee Histories (1990-Ongoing) 
+Journals
+Past House Floor Debates
+Past Senate Floor Debates
+More
+
+
+Staff Offices
+
+All Legislative Offices
+Auditor General
+Fiscal Analyst
+Printing
+Research and General Counsel
+Staff Awards
+Job Opportunities
+More
+
+
+Links of Interest
+
+Utah Administrative Rules
+Courts
+Utah State Capitol
+State of Utah
+Federal Legislation
+More
+
+
+
+
+
+
+ 
+
+Download Zipped Introduced WordPerfect HB0045.ZIP
+[Status][Bill Documents][Fiscal Note][Bills Directory]
+
+
+H.B. 45
+
+
+
+
+
+            
+1
+
+    
+ BEAR RIVER DEVELOPMENT ACT
+
+
+
+            
+2
+
+    
+2006 GENERAL SESSION
+
+            
+3
+
+    
+STATE OF UTAH
+
+            
+4
+
+    
+
+
+ Chief Sponsor:  J. Stuart Adams
+
+
+
+            
+5
+
+    
+
+
+
+Senate Sponsor: 
+
+
+
+
+
+
+  Lyle W. Hillyard
+
+
+
+
+
+            
+6
+
+    
+
+            
+7
+
+    
+ LONG TITLE
+            
+8
+
+    
+ General Description:
+            
+9
+
+    
+    This bill amends the Bear River Development Act to allow funds to be spent on
+            
+10
+
+    
+preconstruction activities even though certain construction funding requirements have
+            
+11
+
+    
+not been met and to make developed water available to Cache County.
+            
+12
+
+    
+ Highlighted Provisions:
+            
+13
+
+    
+    This bill:
+            
+14
+
+    
+    .    defines preconstruction costs;
+            
+15
+
+    
+    .    authorizes the expenditure of funds on preconstruction costs;
+            
+16
+
+    
+    .    authorizes water to be made available to Cache County;
+            
+17
+
+    
+    .    limits the amount of water made available to Cache County; and
+            
+18
+
+    
+    .    makes technical changes.
+            
+19
+
+    
+ Monies Appropriated in this Bill:
+            
+20
+
+    
+    None
+            
+21
+
+    
+ Other Special Clauses:
+            
+22
+
+    
+    None
+            
+23
+
+    
+ Utah Code Sections Affected:
+            
+24
+
+    
+AMENDS:
+            
+25
+
+    
+     73-26-103, as enacted by Chapter 251, Laws of Utah 1991
+            
+26
+
+    
+     73-26-104, as last amended by Chapter 182, Laws of Utah 2002
+            
+27
+
+    
+     73-26-201, as enacted by Chapter 251, Laws of Utah 1991
+
+            
+28
+
+
+    
+     73-26-202, as enacted by Chapter 251, Laws of Utah 1991
+            
+29
+
+    
+     73-26-301, as last amended by Chapter 182, Laws of Utah 2002
+            
+30
+
+    
+     73-26-302, as enacted by Chapter 251, Laws of Utah 1991
+            
+31
+
+    
+
+            
+32
+
+    
+Be it enacted by the Legislature of the state of Utah:
+            
+33
+
+    
+    Section 1.  
+Section  
+73-26-103
+
+ is amended to read:
+            
+34
+
+    
+     73-26-103.  Definitions.
+            
+35
+
+    
+    As used in this chapter:
+            
+36
+
+    
+    (1)  "Board" means the Board of Water Resources.
+            
+37
+
+    
+    (2) (a)  "Construction costs" means all costs related to the development of a project,
+            
+38
+
+    
+except the costs of environmental mitigation.
+            
+39
+
+    
+    (b)  Construction costs include:
+            
+40
+
+    
+    [(a)] (i)  planning;
+            
+41
+
+    
+    [(b)] (ii)  engineering and legal work;
+            
+42
+
+    
+    [(c)] (iii)  permitting;
+            
+43
+
+    
+    [(d)] (iv)  acquisition of land and rights-of-way;
+            
+44
+
+    
+    [(e)] (v)  rebuilding and relocation of highways or other facilities affected by the
+            
+45
+
+    
+project;
+            
+46
+
+    
+    [(f)] (vi)  compensation for impairment of existing water rights;
+            
+47
+
+    
+    [(g)] (vii)  construction of the dam, reservoir, and associated facilities; and
+            
+48
+
+    
+    [(h)] (viii)  expenses of the division related to the project.
+            
+49
+
+    
+    (3)  "Developed waters" means surface water developed by projects authorized under
+            
+50
+
+    
+this chapter.
+            
+51
+
+    
+    (4)  "Division" means the Division of Water Resources.
+            
+52
+
+    
+    (5)  "Environmental mitigation costs" means costs that may be required by federal,
+            
+53
+
+    
+state, or local governmental agencies for project environmental permitting, including:
+            
+54
+
+    
+    (a)  planning;
+            
+55
+
+    
+    (b)  environmental and engineering studies;
+            
+56
+
+    
+    (c)  permitting;
+            
+57
+
+    
+    (d)  acquisition of land and rights-of-way; and
+            
+58
+
+    
+    (e)  operation, maintenance, and repair of facilities associated with project
+
+            
+59
+
+
+    
+environmental mitigation.
+            
+60
+
+    
+    (6)  "Preconstruction costs" means any of the following costs incurred before project
+            
+61
+
+    
+construction begins:
+            
+62
+
+    
+    (a)  planning;
+            
+63
+
+    
+    (b)  design;
+            
+64
+
+    
+    (c)  engineering studies;
+            
+65
+
+    
+    (d)  legal work;
+            
+66
+
+    
+    (e)  permitting;
+            
+67
+
+    
+    (f)  acquisition of land and rights-of-way;
+            
+68
+
+    
+    (g)  compensation for impairment of existing water rights;
+            
+69
+
+    
+    (h)  environmental studies; or
+            
+70
+
+    
+    (i)  any combination of Subsections (6)(a) through (h).
+            
+71
+
+    
+    [(6)] (7)  "Project costs" include preconstruction costs, construction costs,
+            
+72
+
+    
+environmental mitigation costs, and costs of operation, maintenance, repair, and replacement.
+            
+73
+
+    
+    [(7)  "Environmental mitigation team" means the team identified in the environmental
+            
+74
+
+    
+impact statement (EIS) and chaired by the EIS lead agency.]
+            
+75
+
+    
+    Section 2.  
+Section  
+73-26-104
+
+ is amended to read:
+            
+76
+
+    
+     73-26-104.  Bear River development projects.
+            
+77
+
+    
+    (1)  The division shall:
+            
+78
+
+    
+    (a)  develop the surface waters of the Bear River and its tributaries through the planning
+            
+79
+
+    
+and construction of reservoirs and associated facilities as authorized and funded by the
+            
+80
+
+    
+Legislature;
+            
+81
+
+    
+    (b)  own and operate the facilities constructed; and
+            
+82
+
+    
+    (c)  market the developed waters.
+            
+83
+
+    
+    (2)  Potential projects include:
+            
+84
+
+    
+    (a)  Hyrum Dam;
+            
+85
+
+    
+    (b)  Avon;
+            
+86
+
+    
+    (c)  Mill Creek;
+            
+87
+
+    
+    (d)  Oneida Narrows;
+            
+88
+
+    
+    (e)  North Eden Creek; [and]
+            
+89
+
+    
+    (f)  Washakie[.]; and
+
+            
+90
+
+
+    
+    (g)  an interconnection from the Corinne area to Willard Reservoir.
+            
+91
+
+    
+    (3)  The division may develop sites other than those listed in Subsection (2) if those
+            
+92
+
+    
+projects are authorized and funded by the Legislature.
+            
+93
+
+    
+    (4)  The purchase of real property does not constitute water development.
+            
+94
+
+    
+    Section 3.  
+Section  
+73-26-201
+
+ is amended to read:
+            
+95
+
+    
+     73-26-201.  Entities eligible to receive developed water -- Selling or leasing water
+            
+96
+
+    
+ outside entity boundaries.
+            
+97
+
+    
+    (1)  Water developed by projects authorized under this chapter, except water reserved
+            
+98
+
+    
+for wildlife or public recreation, shall be made available by contract exclusively to the
+            
+99
+
+    
+following entities:
+            
+100
+
+    
+    (a)  the Bear River Water Conservancy District;
+            
+101
+
+    
+    (b)  the Salt Lake County Water Conservancy District;
+            
+102
+
+    
+    (c)  the Weber Basin Water Conservancy District; and
+            
+103
+
+    
+    (d)  [municipalities, water companies,] Cache County and any water conservancy
+            
+104
+
+    
+district in Cache County.
+            
+105
+
+    
+    (2)  A county or conservancy district that purchases or leases developed water may
+            
+106
+
+    
+lease the water to any person.
+            
+107
+
+    
+    [(3)  A municipality that purchases or leases developed water may sell or lease the
+            
+108
+
+    
+water to any person located:]
+            
+109
+
+    
+    [(a)  within the boundaries of the municipality; or]
+            
+110
+
+    
+    [(b)  outside the boundaries of the municipality:]
+            
+111
+
+    
+    [(i)  but within the county in which the municipality is located; or]
+            
+112
+
+    
+    [(ii)  into a state adjacent to the county in which the municipality is located, subject to
+            
+113
+
+    
+state law and approval by the state engineer.]
+            
+114
+
+    
+    [(4)] (3)  A [municipality, water company,] county or conservancy district that
+            
+115
+
+    
+purchases or leases developed water may use the water directly or by exchange in accordance
+            
+116
+
+    
+with Section 
+
+73-3-20
+
+.
+            
+117
+
+    
+    Section 4.  
+Section  
+73-26-202
+
+ is amended to read:
+            
+118
+
+    
+     73-26-202.  Limits on amount of water available to any entity or area -- Exception.
+            
+119
+
+    
+    (1)  Except as provided in Subsection (2), the total amount of water from projects
+            
+120
+
+    
+authorized under this chapter that may be made available to any entity or area is limited as
+
+            
+121
+
+
+    
+follows:
+            
+122
+
+    
+    (a)  The Salt Lake County Water Conservancy District and Weber Basin Water
+            
+123
+
+    
+Conservancy District each may purchase or lease no more than 50,000 acre-feet a year.
+            
+124
+
+    
+    (b)  The Bear River Water Conservancy District may purchase or lease no more than
+            
+125
+
+    
+60,000 acre-feet a year.
+            
+126
+
+    
+    (c)  The total cumulative amount of developed waters purchased or leased by
+            
+127
+
+    
+[municipalities, water companies,] Cache County and any water conservancy [districts] district
+            
+128
+
+    
+in Cache County may not exceed 60,000 acre-feet a year.
+            
+129
+
+    
+    (2)  An entity or area may purchase or lease water in excess of the limits specified in
+            
+130
+
+    
+Subsection (1) on a temporary basis, if water is available from a project and no other entity
+            
+131
+
+    
+eligible to receive water has offered to purchase or lease it.
+            
+132
+
+    
+    Section 5.  
+Section  
+73-26-301
+
+ is amended to read:
+            
+133
+
+    
+     73-26-301.  Authorized projects -- Work subject to legislative appropriations.
+            
+134
+
+    
+    The division [is authorized to] may develop the potential projects listed under
+            
+135
+
+    
+Subsection 
+
+73-26-104
+
+(2) and associated works[, including an interconnection from the Corinne
+            
+136
+
+    
+area to Willard Reservoir, and shall proceed with design work, environmental assessments,
+            
+137
+
+    
+acquisition of land and rights-of-way, and construction, subject to:].
+            
+138
+
+    
+    [(1)  the appropriation of funds for those purposes by the Legislature; and]
+            
+139
+
+    
+    [(2)  fulfillment of the requirements specified in Section 
+
+73-26-302
+
+.]
+            
+140
+
+    
+    Section 6.  
+Section  
+73-26-302
+
+ is amended to read:
+            
+141
+
+    
+     73-26-302.  Construction contingent upon sale or lease of water.
+            
+142
+
+    
+    (1)  [The] Except as provided in Subsection (3), the division may not [begin
+            
+143
+
+    
+construction of] expend monies for construction costs on any project until:
+            
+144
+
+    
+    (a)  contracts have been made for the sale or lease of 70% or more of the developed
+            
+145
+
+    
+water; and
+            
+146
+
+    
+    (b)  all [required] permits required by the environmental impact statement have been
+            
+147
+
+    
+obtained [which shall include the development of an environmental mitigation plan by the
+            
+148
+
+    
+environmental mitigation team].
+            
+149
+
+    
+    (2)  Construction of the project and implementation of the environmental mitigation
+            
+150
+
+    
+plan shall proceed concurrently.
+            
+151
+
+    
+    (3)  The division may make expenditures for preconstruction costs if monies are
+
+            
+152
+
+
+    
+expressly appropriated or earmarked by statute for that purpose by the Legislature.
+
+
+
+
+ Legislative Review Note
+    as of  11-28-05  3:58 PM
+
+Based on a limited legal review, this legislation has not been determined to have a high
+probability of being held unconstitutional.
+
+ Office of Legislative Research and General Counsel
+
+
+ Interim Committee Note
+    as of 12-20-05 1:49 PM
+
+The Natural Resources, Agriculture, and Environment Interim Committee recommended this
+bill.
+[Bill Documents][Bills Directory]
+
+
+
+
+
+
+
+
+
+Who represents me?
+
+
+
+
+
+Remember my Legislators
+
+
+
+
+
+State Senate
+		350 North State, Suite 320
+		PO Box 145115
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1035
+		Fax: (801) 326-1475
+
+
+
+House of Representatives
+		350 North State, Suite 350
+		PO Box 145030
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1029
+		Fax: (801) 326-1544
+
+
+
+
+
+
+
+
+
+
+Home
+Mobile Site
+Site Map
+Calendar
+Code / Constitution
+House
+Senate
+
+Terms of Use/Privacy Policy
+
+ADA
+Utah.gov
+
+
+
+
+
+
+

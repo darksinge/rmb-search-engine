@@ -1,0 +1,2454 @@
+Sponsors: []Modifications: Chapter 3, Statewide Amendments to International Plumbing Code, and Chapter 4, LocalAmendments Incorporated as Part of State Construction Code2011(3)  In IBC, Section 1904.3, a new exception 1 is added as follows and the currentexception is modified to be number 2.Exceptions:"1.  In ACI Table 4.3.1, for Exposure Class F1, change Maximum w/cm from 0.45 to0.5 and Minimum f'c from 4,500 psi to 3,000 psi."(4)  IBC, Section 1904.4.1 is deleted and replaced with the following:"1904.4.1 Air Entrainment.  Concrete that extends above grade and is exposed tofreezing and thawing while moist shall be air entrained in accordance with ACI 318, Section4.4.1."(4)  In IBC, Chapter 35, the referenced standard ACI 318-08 is modified to changeTable 4.2.1 of ACI 318-08 as follows: In the portion of Table 4.2.1 designated as "Conditions",the Exposure categories and classes are deleted and replaced with the following:"F0: Concrete elements not exposed to freezing and thawing cycles to include footingand foundation elements that are completely buried in soil.F1: Concrete elements exposed to freezing and thawing cycles and are not likely to besaturated or exposed to deicing chemicals.F2: Concrete elements exposed to freezing and thawing cycles and are likely to besaturated, but not exposed to deicing chemicals.F3: Concrete elements exposed to freezing and thawing cycles and are likely to besaturated and exposed to deicing chemicals."(5)  In IBC, Chapter 35, the referenced standard ICC/ANSI A117.1-03, Section 606.2,Exception 1 is modified to include the following sentence at the end of the exception:"The minimum clear floor space shall be centered on the sink assembly."(6)(7)(8)(9)(10)(11)(12)(13)(14)(15)(16)(17)(18)(19)(20)(21)(22)Theareas the(7)    15A-4-304.The following amendment is adopted as an amendment to the IPC for Grand County:IPC, Appendix C, as specified and amended in Subsection 
+
+15A-3-314
+
+(3).    15A-4-305.The following amendment is adopted as an amendment to the IPC for City of Moab:IPC, Appendix C, as specified and amended in Subsection 
+
+15A-3-314
+
+(3).    15A-4-306.The following amendment is adopted as an amendment to the IPC for Murray City:IPC, Appendix C, as specified and amended in Subsection 
+
+15A-3-314
+
+(3).    15A-4-307.The following amendment is adopted as an amendment to the IPC for Salt LakeCounty, IPC, Appendix C, as specified and amended in Subsection 
+
+15A-3-314
+
+(3).This bill takes effect on July 1, 2012.Full text:
+
+
+
+Utah State Legislature
+
+
+
+
+
+
+
+
+
+
+
+
+Legislators
+
+By Session (1896-Current)
+Alphabetical (Historical)
+Find by Address/Map
+More
+
+
+Bills
+
+Bills/Bill Requests
+Passed Bills
+2017 Bills
+
+Keyword Search
+Reading Calendars
+Tracking Service
+More
+
+
+Committees
+
+All Committees
+Appropriations
+Commissions
+
+Independent Legislative Ethics Commission
+Interim
+Standing
+Subcommittees
+Task Forces
+Bills In Committees
+
+
+Utah Code / Constitution
+
+
+Title/Chapter/Section
+Keyword Search 
+
+Utah Constitution
+Laws of Utah 1851-ongoing
+Utah Territorial Laws 
+More
+
+
+Senate
+
+Main Page 
+About The Senate 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Extraordinary Sessions 
+Reading Calendars 
+Past Floor Debates 
+Senate Journals 
+
+
+House
+
+Main Page
+About the House 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Reading Calendars 
+Past Floor Debates 
+Journals 
+Conflict of Interest Forms 
+
+
+Legislative Guide 
+
+Legislative Guide
+Civic Programs
+GRAMA (Records Requests)
+
+
+Publications
+
+Search Publications
+Appropriations
+Audits
+Bagels & Briefings
+Briefing Papers
+Digest of Legislation
+Legislative Drafting Manual
+
+Journals
+
+Interim Highlights
+
+Legislative Rules
+GRAMA (Records Requests)
+Public Email
+State Organization Charts
+YouTube Channel
+Requests for Proposals and Legal Notices
+More
+
+
+Legislative Histories
+
+Legislative History Resources
+How to Research
+Bill Drafting/Research Files (1990-Ongoing)
+
+Working Bills (1896-1989)
+Interim Committee Histories (1990-Ongoing) 
+Journals
+Past House Floor Debates
+Past Senate Floor Debates
+More
+
+
+Staff Offices
+
+All Legislative Offices
+Auditor General
+Fiscal Analyst
+Printing
+Research and General Counsel
+Staff Awards
+Job Opportunities
+More
+
+
+Links of Interest
+
+Utah Administrative Rules
+Courts
+Utah State Capitol
+State of Utah
+Federal Legislation
+More
+
+
+
+
+
+
+ 
+
+Download Zipped Enrolled WordPerfect SB0028.ZIP
+[Introduced][Amended][Status][Bill Documents][Fiscal Note][Bills Directory]
+
+
+S.B. 28 Enrolled
+
+
+
+
+
+            
+1
+
+    
+ STATE CONSTRUCTION CODE AMENDMENTS
+
+
+
+            
+2
+
+    
+2012 GENERAL SESSION
+
+            
+3
+
+    
+STATE OF UTAH
+
+            
+4
+
+    
+
+
+ Chief Sponsor:  John L. Valentine
+
+
+
+            
+5
+
+    
+
+
+
+House Sponsor:  
+
+
+
+
+
+
+Kenneth W. Sumsion
+
+
+
+
+
+            
+6
+
+    
+
+            
+7
+
+    
+ LONG TITLE
+            
+8
+
+    
+ General Description:
+            
+9
+
+    
+    This bill modifies the State Construction Code.
+            
+10
+
+    
+ Highlighted Provisions:
+            
+11
+
+    
+    This bill:
+            
+12
+
+    
+    .    updates the edition of the National Electrical Code, adopted by reference, to the
+            
+13
+
+    
+2011 edition;
+            
+14
+
+    
+    .    modifies an adopted amendment to the National Electrical Code;
+            
+15
+
+    
+    .    enacts a new exception to and deletes and replaces a provision of the International
+            
+16
+
+    
+Building Code relating to concrete durability requirements;
+            
+17
+
+    
+    .    enacts new provisions of the International Building Code related to standards
+            
+18
+
+    
+applicable to concrete elements and minimum clear floor space; and
+            
+19
+
+    
+    .    adopts local amendments to the International Plumbing Code.
+            
+20
+
+    
+ Money Appropriated in this Bill:
+            
+21
+
+    
+    None
+            
+22
+
+    
+ Other Special Clauses:
+            
+23
+
+    
+    This bill takes effect on July 1, 2012.
+            
+24
+
+    
+ Utah Code Sections Affected:
+            
+25
+
+    
+AMENDS:
+            
+26
+
+    
+     15A-2-103, as enacted by Laws of Utah 2011, Chapter 14
+            
+27
+
+    
+     15A-3-108, as enacted by Laws of Utah 2011, Chapter 14
+            
+28
+
+    
+     15A-3-113, as enacted by Laws of Utah 2011, Chapter 14
+            
+29
+
+    
+     15A-3-601, as enacted by Laws of Utah 2011, Chapter 14
+
+            
+30
+
+
+    
+ENACTS:
+            
+31
+
+    
+     15A-4-304, Utah Code Annotated 1953
+            
+32
+
+    
+     15A-4-305, Utah Code Annotated 1953
+            
+33
+
+    
+     15A-4-306, Utah Code Annotated 1953
+            
+34
+
+    
+     15A-4-307, Utah Code Annotated 1953
+            
+35
+
+    
+
+            
+36
+
+    
+Be it enacted by the Legislature of the state of Utah:
+            
+37
+
+    
+    Section 1.  
+Section  
+15A-2-103
+
+ is amended to read:
+            
+38
+
+    
+     15A-2-103.  Specific editions adopted of construction code of a nationally
+            
+39
+
+    
+ recognized code authority.
+            
+40
+
+    
+    (1)  Subject to the other provisions of this part, the following construction codes are
+            
+41
+
+    
+incorporated by reference, and together with the amendments specified in [Chapters 3 and 4]
+            
+42
+
+    
+Chapter 3, Statewide Amendments to International Plumbing Code, and Chapter 4, Local
+            
+43
+
+    
+Amendments Incorporated as Part of State Construction Code, are the construction standards to
+            
+44
+
+    
+be applied to building construction, alteration, remodeling, and repair, and in the regulation of
+            
+45
+
+    
+building construction, alteration, remodeling, and repair in the state:
+            
+46
+
+    
+    (a)  the 2009 edition of the International Building Code, including Appendix J, issued
+            
+47
+
+    
+by the International Code Council;
+            
+48
+
+    
+    (b)  the 2009 edition of the International Residential Code, issued by the International
+            
+49
+
+    
+Code Council;
+            
+50
+
+    
+    (c)  the 2009 edition of the International Plumbing Code, issued by the International
+            
+51
+
+    
+Code Council;
+            
+52
+
+    
+    (d)  the 2009 edition of the International Mechanical Code, issued by the International
+            
+53
+
+    
+Code Council;
+            
+54
+
+    
+    (e)  the 2009 edition of the International Fuel Gas Code, issued by the International
+            
+55
+
+    
+Code Council;
+            
+56
+
+    
+    (f)  the [2008] 2011 edition of the National Electrical Code, issued by the National Fire
+            
+57
+
+    
+Protection Association;
+
+            
+58
+
+
+    
+    (g)  the 2009 edition of the International Energy Conservation Code, issued by the
+            
+59
+
+    
+International Code Council;
+            
+60
+
+    
+    (h)  subject to Subsection 
+
+15A-2-104
+
+(2), the HUD Code;
+            
+61
+
+    
+    (i)  subject to Subsection 
+
+15A-2-104
+
+(1), Appendix E of the 2009 edition of the
+            
+62
+
+    
+International Residential Code, issued by the International Code Council; and
+            
+63
+
+    
+    (j)  subject to Subsection 
+
+15A-2-104
+
+(1), the 2005 edition of the NFPA 225 Model
+            
+64
+
+    
+Manufactured Home Installation Standard, issued by the National Fire Protection Association.
+            
+65
+
+    
+    (2)  Consistent with Title 65A, Chapter 8, Management of Forest Lands and Fire
+            
+66
+
+    
+Control, the Legislature adopts the 2006 edition of the Utah Wildland Urban Interface Code,
+            
+67
+
+    
+issued by the International Code Council, with the alternatives or amendments approved by the
+            
+68
+
+    
+Utah Division of Forestry, as a construction code that may be adopted by a local compliance
+            
+69
+
+    
+agency by local ordinance or other similar action as a local amendment to the codes listed in
+            
+70
+
+    
+this section.
+            
+71
+
+    
+    Section 2.  
+Section  
+15A-3-108
+
+ is amended to read:
+            
+72
+
+    
+     15A-3-108.  Amendments to Chapters 17 through 19 of IBC.
+            
+73
+
+    
+    (1)  A new IBC, Section 1807.1.6.4, is added as follows: "1807.1.6.4 Empirical
+            
+74
+
+    
+concrete foundation design.  Group R, Division 3 Occupancies three stories or less in height,
+            
+75
+
+    
+and Group U Occupancies, which are constructed in accordance with Section 2308, or with
+            
+76
+
+    
+other methods employing repetitive wood-frame construction or repetitive cold-formed steel
+            
+77
+
+    
+structural member construction, shall be permitted to have concrete foundations constructed in
+            
+78
+
+    
+accordance with Table 1807.1.6.4."
+            
+79
+
+    
+    (2)  A new IBC, Table 1807.1.6.4 is added as follows:
+
+
+
+            
+80
+
+    
+
+
+"TABLE 1807.1.6.4
+
+
+
+
+            
+81
+
+    
+
+
+EMPIRICAL FOUNDATION WALLS (1,7,8)
+
+
+
+
+
+
+            
+82
+
+    
+
+
+      Max. Height
+    
+
+      Top Edge
+Support
+    
+
+      Min.
+Thickness
+    
+
+      Vertical
+Steel (2)
+    
+
+      Horizontal
+Steel (3)
+    
+
+      Steel at
+Openings (4)
+    
+
+      Max. Lintel
+Length
+    
+
+      Min. Lintel
+Length
+    
+
+
+
+            
+83
+
+
+    
+
+
+      2'(610 mm)
+    
+
+      None
+    
+
+      6"
+    
+
+      (5)
+    
+
+      2- #4 Bars
+    
+
+      2- #4 Bars above
+1- #4 Bar each side
+1- #4 Bar below
+    
+
+      2'(610 mm)
+    
+
+      2" for each foot
+of opening
+width;
+min. 6"
+    
+
+
+
+            
+84
+
+    
+
+
+      3'(914 mm)
+    
+
+      None
+    
+
+      6"
+    
+
+      #4@32"
+    
+
+      3- #4 Bars
+    
+
+      2- #4 Bars above
+1- #4 Bar each side
+1- #4 Bar below
+    
+
+      2'(610 mm)
+    
+
+      2" for each foot
+of opening
+width;
+min. 6"
+    
+
+
+
+            
+85
+
+    
+
+
+      4'(1,219 mm)
+    
+
+      None
+    
+
+      6"
+    
+
+      #4@32"
+    
+
+      4- #4 Bars
+    
+
+      2- #4 Bars above
+1- #4 Bar each side
+1- #4 Bar below
+    
+
+      3'(914 mm)
+    
+
+      2" for each foot
+of opening
+width;
+min. 6"
+    
+
+
+
+            
+86
+
+    
+
+
+      6'(1,829 mm)
+    
+
+      Floor or roof
+Diaphragm
+(6)
+    
+
+      8"
+    
+
+      #4@24"
+    
+
+      5- #4 Bars
+    
+
+      2- #4 Bars above
+1- #4 Bar each side
+1- #4 Bar below
+    
+
+      6'(1,829 mm)
+    
+
+      2" for each foot
+of opening
+width;
+min. 6"
+    
+
+
+
+            
+87
+
+    
+
+
+      8'(2,438 mm)
+    
+
+      Floor or roof
+Diaphragm
+(6)
+    
+
+      8"
+    
+
+      #4@24"
+    
+
+      6- #4 Bars
+    
+
+      2- #4 Bars above
+1- #4 Bar each side
+1- #4 Bar below
+    
+
+      6'(1,829 mm)
+    
+
+      2" for each foot
+of opening
+width;
+min. 6"
+    
+
+
+
+            
+88
+
+    
+
+
+      9'(2,743 mm)
+    
+
+      Floor or roof
+Diaphragm
+(6)
+    
+
+      8"
+    
+
+      #4@16"
+    
+
+      7- #4 Bars
+    
+
+      2- #4 Bars above
+1- #4 Bar each side
+1- #4 Bar below
+    
+
+      6'(1,829 mm)
+    
+
+      2" for each foot
+of opening
+width;
+min. 6"
+    
+
+
+
+
+
+            
+89
+
+    
+
+
+      Over 9'(2,743 mm), Engineering required for each column
+    
+
+
+
+            
+90
+
+    
+
+
+      Footnotes:
+    
+
+
+
+            
+91
+
+    
+
+
+      (1)  Based on 3,000 psi (20.6 Mpa) concrete and 60,000 psi (414 Mpa) reinforcing steel.
+    
+
+
+
+            
+92
+
+    
+
+
+      (2)  To be placed in the center of the wall, and extended from the footing to within three
+inches (76 mm) of the top of the wall; dowels of #4 bars to match vertical steel placement
+shall be provided in the footing, extending 24 inches (610 mm) into the foundation wall.
+    
+
+
+
+            
+93
+
+    
+
+
+      (3)  One bar shall be located in the top four inches (102 mm), one bar in the bottom four
+inches (102 mm) and the other bars equally spaced between.  Such bar placement satisfies the
+requirements of Section 1805.9.  Corner reinforcing shall be provided so as to lap 24 inches
+(610 mm).
+    
+
+
+
+            
+94
+
+
+    
+
+
+      (4)  Bars shall be placed within two inches (51 mm) of the openings and extend 24 inches
+(610 mm) beyond the edge of the opening; vertical bars may terminate three inches (76 mm)
+from the top of the concrete.
+    
+
+
+
+            
+95
+
+    
+
+
+      (5)  Dowels of #4 bar at 32 inches on center shall be provided in the footing, extending 18
+inches (457 mm) into the foundation wall.
+    
+
+
+
+            
+96
+
+    
+
+
+      (6)  Diaphragm shall conform to the requirements of Section 2308.
+    
+
+
+
+            
+97
+
+    
+
+
+      (7)  Footing shall be a minimum of nine inches thick by 20 inches wide.
+    
+
+
+
+            
+98
+
+    
+
+
+      (8)  Soil backfill shall be soil classification types GW, GP, SW, or SP, per Table 1610.1.  Soil
+shall not be submerged or saturated in groundwater."
+    
+
+
+            
+99
+
+    
+    (3)  In IBC, Section 1904.3, a new exception 1 is added as follows and the current
+            
+100
+
+    
+exception is modified to be number 2.
+            
+101
+
+    
+    Exceptions:
+            
+102
+
+    
+    "1.  In ACI Table 4.3.1, for Exposure Class F1, change Maximum w/cm from 0.45 to
+            
+103
+
+    
+0.5 and Minimum f'c from 4,500 psi to 3,000 psi."
+            
+104
+
+    
+    (4)  IBC, Section 1904.4.1 is deleted and replaced with the following:
+            
+105
+
+    
+    "1904.4.1 Air Entrainment.  Concrete that extends above grade and is exposed to
+            
+106
+
+    
+freezing and thawing while moist shall be air entrained in accordance with ACI 318, Section
+            
+107
+
+    
+4.4.1."
+            
+108
+
+    
+    Section 3.  
+Section  
+15A-3-113
+
+ is amended to read:
+            
+109
+
+    
+     15A-3-113.   Amendments to Chapters 32 through 35 of IBC.
+            
+110
+
+    
+    (1)  A new section IBC, Section 3401.6, is added as follows: "3401.6 Parapet bracing,
+            
+111
+
+    
+wall anchors, and other appendages.  Buildings constructed before 1975 shall have parapet
+            
+112
+
+    
+bracing, wall anchors, and appendages such as cornices, spires, towers, tanks, signs, statuary,
+            
+113
+
+    
+etc. evaluated by a licensed engineer when said building is undergoing reroofing, or alteration
+            
+114
+
+    
+of or repair to said feature.  Such parapet bracing, wall anchors, and appendages shall be
+            
+115
+
+    
+evaluated in accordance with 75% of the seismic forces as specified in Section 1613.  When
+            
+116
+
+    
+allowed by the local building official, alternate methods of equivalent strength as referenced in
+
+            
+117
+
+
+    
+an approved code under Utah Code, Subsection 
+
+15A-1-204
+
+(6)(a), will be considered when
+            
+118
+
+    
+accompanied by engineer-sealed drawings, details, and calculations.  When found to be
+            
+119
+
+    
+deficient because of design or deteriorated condition, the engineer's recommendations to
+            
+120
+
+    
+anchor, brace, reinforce, or remove the deficient feature shall be implemented.
+            
+121
+
+    
+EXCEPTIONS:
+            
+122
+
+    
+1.  Group R-3 and U occupancies.
+            
+123
+
+    
+2.  Unreinforced masonry parapets need not be braced according to the above stated provisions
+            
+124
+
+    
+provided that the maximum height of an unreinforced masonry parapet above the level of the
+            
+125
+
+    
+diaphragm tension anchors or above the parapet braces shall not exceed one and one-half times
+            
+126
+
+    
+the thickness of the parapet wall.  The parapet height may be a maximum of two and one-half
+            
+127
+
+    
+times its thickness in other than Seismic Design Categories D, E, or F."
+            
+128
+
+    
+    (2)  IBC, Section 3408.4, is deleted and replaced with the following: "3408.4 Change in
+            
+129
+
+    
+Occupancy.  When a change in occupancy results in a structure being reclassified to a higher
+            
+130
+
+    
+Occupancy Category (as defined in Table 1604.5), or when such change of occupancy results in
+            
+131
+
+    
+a design occupant load increase of 100% or more, the structure shall conform to the seismic
+            
+132
+
+    
+requirements for a new structure.
+            
+133
+
+    
+Exceptions:
+            
+134
+
+    
+1.  Specific seismic detailing requirements of this code or ASCE 7 for a new structure shall not
+            
+135
+
+    
+be required to be met where it can be shown that the level of performance and seismic safety is
+            
+136
+
+    
+equivalent to that of a new structure.  Such analysis shall consider the regularity, overstrength,
+            
+137
+
+    
+redundancy, and ductility of the structure within the context of the existing and retrofit (if any)
+            
+138
+
+    
+detailing providing.  Alternatively, the building official may allow the structure to be upgraded
+            
+139
+
+    
+in accordance with referenced sections as found in an approved code under Utah Code,
+            
+140
+
+    
+Subsection 
+
+15A-1-204
+
+(6)(a).
+            
+141
+
+    
+2.  When a change of use results in a structure being reclassified from Occupancy Category I or
+            
+142
+
+    
+II to Occupancy Category III and the structure is located in a seismic map area where SDS is
+            
+143
+
+    
+less than 0.33, compliance with the seismic requirements of this code and ASCE 7 are not
+            
+144
+
+    
+required.
+
+            
+145
+
+
+    
+3.  Where design occupant load increase is less than 25 occupants and the Occupancy Category
+            
+146
+
+    
+does not change."
+            
+147
+
+    
+    (3)  In IBC, Section 3411.1, the exception is deleted and replaced with the following:
+            
+148
+
+    
+"Exception: Type B dwelling or sleeping units required by Section 1107 of this code are not
+            
+149
+
+    
+required to be provided in existing buildings and facilities unless being altered or undergoing a
+            
+150
+
+    
+change of occupancy classification."
+            
+151
+
+    
+    (4)  In IBC, Chapter 35, the referenced standard ACI 318-08 is modified to change
+            
+152
+
+    
+Table 4.2.1 of ACI 318-08 as follows: In the portion of Table 4.2.1 designated as "Conditions",
+            
+153
+
+    
+the Exposure categories and classes are deleted and replaced with the following:
+            
+154
+
+    
+    "F0: Concrete elements not exposed to freezing and thawing cycles to include footing
+            
+155
+
+    
+and foundation elements that are completely buried in soil.
+            
+156
+
+    
+    F1: Concrete elements exposed to freezing and thawing cycles and are not likely to be
+            
+157
+
+    
+saturated or exposed to deicing chemicals.
+            
+158
+
+    
+    F2: Concrete elements exposed to freezing and thawing cycles and are likely to be
+            
+159
+
+    
+saturated, but not exposed to deicing chemicals.
+            
+160
+
+    
+    F3: Concrete elements exposed to freezing and thawing cycles and are likely to be
+            
+161
+
+    
+saturated and exposed to deicing chemicals."
+            
+162
+
+    
+    (5)  In IBC, Chapter 35, the referenced standard ICC/ANSI A117.1-03, Section 606.2,
+            
+163
+
+    
+Exception 1 is modified to include the following sentence at the end of the exception:
+            
+164
+
+    
+    "The minimum clear floor space shall be centered on the sink assembly."
+            
+165
+
+    
+    [(4)] (6)  The following referenced standard is added under NFPA in IBC, Chapter 35:
+
+
+
+            
+166
+
+    
+
+
+      "Number
+    
+
+      Title
+    
+
+      Referenced in code section number
+    
+
+
+
+            
+167
+
+    
+
+
+      720-09
+    
+
+      Standard for the Installation of
+Carbon Monoxide (CO) Detection
+and Warning Equipment
+    
+
+      907.9"
+    
+
+
+            
+168
+
+    
+    [(5)] (7)  The following referenced standard is added under UL in IBC, Chapter 35:
+
+
+
+
+            
+169
+
+
+    
+
+
+      "Number
+    
+
+      Title
+    
+
+      Referenced in code section number
+    
+
+
+
+            
+170
+
+    
+
+
+      2034-2008
+    
+
+      Standard of Single- and
+Multiple-station Carbon Monoxide
+Alarms
+    
+
+      907.9"
+    
+
+
+            
+171
+
+    
+    [(6)] (8)  In IBC, Chapter 35, NFPA referenced standard 10-07 is deleted and replaced
+            
+172
+
+    
+with the following:
+
+
+
+            
+173
+
+    
+
+
+      "Number
+    
+
+      Title
+    
+
+      Referenced in code section number
+    
+
+
+
+            
+174
+
+    
+
+
+      10-10
+    
+
+      Portable Fire Extinguishers
+    
+
+      906.2, 906.3.2, 906.3.4, Table
+906.3(1), Table 906.3(2)"
+    
+
+
+            
+175
+
+    
+    [(7)] (9)  In IBC, Chapter 35, NFPA referenced standard 11-05 is deleted and replaced
+            
+176
+
+    
+with the following:
+
+
+
+            
+177
+
+    
+
+
+      "Number
+    
+
+      Title
+    
+
+      Referenced in code section number
+    
+
+
+
+            
+178
+
+    
+
+
+      11-10
+    
+
+      Low Expansion Foam
+    
+
+      904.7"
+    
+
+
+            
+179
+
+    
+    [(8)] (10)  In IBC, Chapter 35, NFPA referenced standard 12-05 is deleted and replaced
+            
+180
+
+    
+with the following:
+
+
+
+            
+181
+
+    
+
+
+      "Number
+    
+
+      Title
+    
+
+      Referenced in code section number
+    
+
+
+
+            
+182
+
+    
+
+
+      12-08
+    
+
+      Carbon Dioxide Extinguishing
+Systems
+    
+
+      904.8, 904.11"
+    
+
+
+            
+183
+
+    
+    [(9)] (11)  In IBC, Chapter 35, NFPA referenced standard 12A-04 is deleted and
+            
+184
+
+    
+replaced with the following:
+
+
+
+            
+185
+
+    
+
+
+      "Number
+    
+
+      Title
+    
+
+      Referenced in code section number
+    
+
+
+
+            
+186
+
+    
+
+
+      12A-09
+    
+
+      Halon 1301 Fire Extinguishing
+Systems
+    
+
+      904.9"
+    
+
+
+            
+187
+
+    
+    [(10)] (12)  In IBC, Chapter 35, NFPA referenced standard 13-07 is deleted and
+            
+188
+
+    
+replaced with the following:
+
+
+
+
+
+            
+189
+
+
+    
+
+
+      "Number
+    
+
+      Title
+    
+
+      Referenced in code section number
+    
+
+
+
+            
+190
+
+    
+
+
+      13-10
+    
+
+      Installation of Sprinkler Systems
+    
+
+      708.2, 903.3.1.1, 903.3.2,
+903.3.5.1.1, 903.3.5.3, 904.11,
+905.3.4, 907.6.3, 1613.3"
+    
+
+
+            
+191
+
+    
+    [(11)] (13)  In IBC, Chapter 35, NFPA referenced standard 13D-07 is deleted and
+            
+192
+
+    
+replaced with the following:
+
+
+
+            
+193
+
+    
+
+
+      "Number
+    
+
+      Title
+    
+
+      Referenced in code section number
+    
+
+
+
+            
+194
+
+    
+
+
+      13D-10
+    
+
+      Installation of Sprinkler Systems in
+One- and Two-family Dwellings and
+Manufactured Homes
+    
+
+      903.3.1.3, 903.3.5.1.1"
+    
+
+
+            
+195
+
+    
+    [(12)] (14)  In IBC, Chapter 35, NFPA referenced standard 13R-07 is deleted and
+            
+196
+
+    
+replaced with the following:
+
+
+
+            
+197
+
+    
+
+
+      "Number
+    
+
+      Title
+    
+
+      Referenced in code section number
+    
+
+
+
+            
+198
+
+    
+
+
+      13R-10
+    
+
+      Installation of Sprinkler Systems in
+Residential Occupancies Up to and
+Including Four Stories in Height 
+    
+
+      903.3.1.2, 903.3.5.1.1, 903.3.5.1.2,
+903.4"
+    
+
+
+            
+199
+
+    
+    [(13)] (15)  In IBC, Chapter 35, NFPA referenced standard 14-07 is deleted and
+            
+200
+
+    
+replaced with the following:
+
+
+
+            
+201
+
+    
+
+
+      "Number
+    
+
+      Title
+    
+
+      Referenced in code section number
+    
+
+
+
+            
+202
+
+    
+
+
+      14-10
+    
+
+      Installation of Standpipe and Hose
+System 
+    
+
+      905.2, 905.3.4, 905.6.2, 905.8"
+    
+
+
+            
+203
+
+    
+    [(14)] (16)  In IBC, Chapter 35, NFPA referenced standard 17-02 is deleted and
+            
+204
+
+    
+replaced with the following:
+
+
+
+            
+205
+
+    
+
+
+      "Number
+    
+
+      Title
+    
+
+      Referenced in code section number
+    
+
+
+
+            
+206
+
+    
+
+
+      17-09
+    
+
+      Dry chemical Extinguishing Systems 
+    
+
+      904.5, 904.11" 
+    
+
+
+            
+207
+
+    
+    [(15)] (17)  In IBC, Chapter 35, NFPA referenced standard 17A-02 is deleted and
+
+            
+208
+
+
+    
+replaced with the following:
+
+
+
+            
+209
+
+    
+
+
+      "Number
+    
+
+      Title
+    
+
+      Referenced in code section number
+    
+
+
+
+            
+210
+
+    
+
+
+      17A-09
+    
+
+      Wet Chemical Extinguishing System 
+    
+
+      904.5, 904.11"
+    
+
+
+            
+211
+
+    
+    [(16)] (18)  In IBC, Chapter 35, NFPA referenced standard 20-07 is deleted and
+            
+212
+
+    
+replaced with the following:
+
+
+
+            
+213
+
+    
+
+
+      "Number
+    
+
+      Title
+    
+
+      Referenced in code section number
+    
+
+
+
+            
+214
+
+    
+
+
+      20-10
+    
+
+      Installation of Stationary Pumps for
+Fire Protection 
+    
+
+      913.1, 913.2.1, 913.5"
+    
+
+
+            
+215
+
+    
+    [(17)] (19)  In IBC, Chapter 35, NFPA referenced standard 72-07 is deleted and
+            
+216
+
+    
+replaced with the following:
+
+
+
+            
+217
+
+    
+
+
+      "Number
+    
+
+      Title
+    
+
+      Referenced in code section number
+    
+
+
+
+            
+218
+
+    
+
+
+      72-10
+    
+
+      National Fire Alarm Code 
+    
+
+      901.6, 903.4.1, 904.3.5, 907.2,
+907.2.5, 907.2.11, 907.2.13.2, 907.3,
+907.3.3, 907.3.4, 907.5.2.1.2,
+907.5.3.3, 907.6, 907.6.1, 907.6.5,
+907.7, 907.7.1, 907.7.2, 911.1.5,
+3006.5, 3007.6"
+    
+
+
+            
+219
+
+    
+    [(18)] (20)  In IBC, Chapter 35, NFPA referenced standard 92B-05 is deleted and
+            
+220
+
+    
+replaced with the following:
+
+
+
+            
+221
+
+    
+
+
+      "Number
+    
+
+      Title
+    
+
+      Referenced in code section number
+    
+
+
+
+            
+222
+
+    
+
+
+      92B-09
+    
+
+      Smoke Management Systems in
+Malls, Atria and Large Spaces
+    
+
+      909.8"
+    
+
+
+            
+223
+
+    
+    [(19)] (21)  In IBC, Chapter 35, NFPA referenced standard 101-06 is deleted and
+            
+224
+
+    
+replaced with the following:
+
+
+
+            
+225
+
+    
+
+
+      "Number
+    
+
+      Title
+    
+
+      Referenced in code section number
+    
+
+
+
+            
+226
+
+    
+
+
+      101-09
+    
+
+      Line Safety Code 
+    
+
+      1028.6.2"
+    
+
+
+            
+227
+
+    
+    [(20)] (22)  In IBC, Chapter 35, NFPA referenced standard 110-05 is deleted and
+            
+228
+
+    
+replaced with the following:
+
+
+
+            
+229
+
+    
+
+
+      "Number
+    
+
+      Title
+    
+
+      Referenced in code section number
+    
+
+
+
+            
+230
+
+
+    
+
+
+      110-10
+    
+
+      Emergency and Standby Power
+Systems 
+    
+
+      2702.1"
+    
+
+
+            
+231
+
+    
+    Section 4.  
+Section  
+15A-3-601
+
+ is amended to read:
+            
+232
+
+    
+     15A-3-601.  General provision.
+            
+233
+
+    
+    The following are adopted as amendments to the NEC to be applicable statewide:
+            
+234
+
+    
+    (1)  [During the period of time when the adopted IRC has not yet incorporated the latest
+            
+235
+
+    
+residential electrical provisions contained in the adopted NEC, the] The IRC provisions [shall
+            
+236
+
+    
+prevail as the] are adopted as the residential electrical standards applicable to installations
+            
+237
+
+    
+applicable under the IRC.  All other installations shall comply with the adopted NEC.
+            
+238
+
+    
+    (2)  In NEC, Section 310.15(B)[(6)](7), the second sentence is deleted and replaced
+            
+239
+
+    
+with the following: "For application of this section, the main power feeder shall be the
+            
+240
+
+    
+feeder(s) between the main disconnect and the panelboard(s)."
+            
+241
+
+    
+    [(3)  In NEC, Section 338.10(B)(4)(a), the following words are added at the end of the
+            
+242
+
+    
+first sentence after Section 334: "excluding Section 334.80."]
+            
+243
+
+    
+    Section 5.  
+Section  
+15A-4-304
+
+ is enacted to read:
+            
+244
+
+    
+     15A-4-304.  Amendments to IPC applicable to Grand County.
+            
+245
+
+    
+    The following amendment is adopted as an amendment to the IPC for Grand County:
+            
+246
+
+    
+    IPC, Appendix C, as specified and amended in Subsection 
+
+15A-3-314
+
+(3).
+            
+247
+
+    
+    Section 6.  
+Section  
+15A-4-305
+
+ is enacted to read:
+            
+248
+
+    
+     15A-4-305.  Amendments to IPC applicable to City of Moab.
+            
+249
+
+    
+    The following amendment is adopted as an amendment to the IPC for City of Moab:
+            
+250
+
+    
+    IPC, Appendix C, as specified and amended in Subsection 
+
+15A-3-314
+
+(3).
+            
+251
+
+    
+    Section 7.  
+Section  
+15A-4-306
+
+ is enacted to read:
+            
+252
+
+    
+     15A-4-306.  Amendments to IPC applicable to Murray City.
+
+            
+253
+
+
+    
+    The following amendment is adopted as an amendment to the IPC for Murray City:
+            
+254
+
+    
+IPC, Appendix C, as specified and amended in Subsection 
+
+15A-3-314
+
+(3).
+            
+255
+
+    
+    Section 8.  
+Section  
+15A-4-307
+
+ is enacted to read:
+            
+256
+
+    
+     15A-4-307.  Amendments to IPC applicable to Salt Lake County.
+            
+257
+
+    
+    The following amendment is adopted as an amendment to the IPC for Salt Lake
+            
+258
+
+    
+County, IPC, Appendix C, as specified and amended in Subsection 
+
+15A-3-314
+
+(3).
+            
+259
+
+    
+    Section 9.   Effective date.
+            
+260
+
+    
+    This bill takes effect on July 1, 2012.
+[Bill Documents][Bills Directory]
+
+
+
+
+
+
+
+
+
+Who represents me?
+
+
+
+
+
+Remember my Legislators
+
+
+
+
+
+State Senate
+		350 North State, Suite 320
+		PO Box 145115
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1035
+		Fax: (801) 326-1475
+
+
+
+House of Representatives
+		350 North State, Suite 350
+		PO Box 145030
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1029
+		Fax: (801) 326-1544
+
+
+
+
+
+
+
+
+
+
+Home
+Mobile Site
+Site Map
+Calendar
+Code / Constitution
+House
+Senate
+
+Terms of Use/Privacy Policy
+
+ADA
+Utah.gov
+
+
+
+
+
+
+

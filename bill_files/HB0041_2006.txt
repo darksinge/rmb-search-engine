@@ -1,0 +1,989 @@
+Sponsors: []Modifications: (3)  "Physical format" means a transportable medium in which analog or digitalinformation is published, such as print, microform, magnetic disk, or optical disk.(4)(5)a(6)an(7)aaa digital library ofstate publications,:(a)(b)and(c)(3)(4)and political subdivision publishing a digital version of a statepublicationa digital copy.(b)  Each state agency and political subdivision shall deposit with the divisionthat it elects to publisha physical formatin(c)published in aphysical format(2)or political subdivisiona digital copy of each audio andvideo publication or recordingdigital library(3)  Each state agency or political subdivision shall deposit with the division copies ofaudio and video publications or recordings issued by it in physical formats in the numbersspecified by the state librarian for bibliographic listing and retention in the state librarycollection.(4) (a)  The division shall publish or make available to the public through electronicnetworks a list of state agency publications.(b)  The list shall be published periodically and distributed to depository libraries andthe state archivist.(5)    9-7-208.(1)  The division shall manage and maintain an online, web-accessible digital library forstate publications.(2)  The division shall provide for permanent public access to the publications in thedigital library.(3)  The library shall be accessible by agency, author, title, subject, keyword, and suchother means as provided by the division.(4) (a)  Each state agency publishing a digital version of a state publication shall deposita digital copy of the publication with the division.(b)  A state agency may not remove a state publication it posts to its public website untila copy is deposited into the digital library for permanent public access.:(a);(b);(c)in a physical format(4)  Each depository library shall have electronic network access to the bibliographicrecords and the state publications deposited with the division for the purposes of localpreservation and providing local access.Full text:
+
+
+
+Utah State Legislature
+
+
+
+
+
+
+
+
+
+
+
+
+Legislators
+
+By Session (1896-Current)
+Alphabetical (Historical)
+Find by Address/Map
+More
+
+
+Bills
+
+Bills/Bill Requests
+Passed Bills
+2017 Bills
+
+Keyword Search
+Reading Calendars
+Tracking Service
+More
+
+
+Committees
+
+All Committees
+Appropriations
+Commissions
+
+Independent Legislative Ethics Commission
+Interim
+Standing
+Subcommittees
+Task Forces
+Bills In Committees
+
+
+Utah Code / Constitution
+
+
+Title/Chapter/Section
+Keyword Search 
+
+Utah Constitution
+Laws of Utah 1851-ongoing
+Utah Territorial Laws 
+More
+
+
+Senate
+
+Main Page 
+About The Senate 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Extraordinary Sessions 
+Reading Calendars 
+Past Floor Debates 
+Senate Journals 
+
+
+House
+
+Main Page
+About the House 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Reading Calendars 
+Past Floor Debates 
+Journals 
+Conflict of Interest Forms 
+
+
+Legislative Guide 
+
+Legislative Guide
+Civic Programs
+GRAMA (Records Requests)
+
+
+Publications
+
+Search Publications
+Appropriations
+Audits
+Bagels & Briefings
+Briefing Papers
+Digest of Legislation
+Legislative Drafting Manual
+
+Journals
+
+Interim Highlights
+
+Legislative Rules
+GRAMA (Records Requests)
+Public Email
+State Organization Charts
+YouTube Channel
+Requests for Proposals and Legal Notices
+More
+
+
+Legislative Histories
+
+Legislative History Resources
+How to Research
+Bill Drafting/Research Files (1990-Ongoing)
+
+Working Bills (1896-1989)
+Interim Committee Histories (1990-Ongoing) 
+Journals
+Past House Floor Debates
+Past Senate Floor Debates
+More
+
+
+Staff Offices
+
+All Legislative Offices
+Auditor General
+Fiscal Analyst
+Printing
+Research and General Counsel
+Staff Awards
+Job Opportunities
+More
+
+
+Links of Interest
+
+Utah Administrative Rules
+Courts
+Utah State Capitol
+State of Utah
+Federal Legislation
+More
+
+
+
+
+
+
+ 
+
+Download Zipped Introduced WordPerfect HB0041.ZIP
+[Status][Bill Documents][Fiscal Note][Bills Directory]
+
+
+H.B. 41
+
+
+
+
+
+            
+1
+
+    
+ PRESERVATION OF AND ACCESS TO STATE
+
+            
+2
+
+    
+ PUBLICATIONS
+
+
+            
+3
+
+    
+2006 GENERAL SESSION
+
+            
+4
+
+    
+STATE OF UTAH
+
+            
+5
+
+    
+ Chief Sponsor:  Michael E. Noel
+
+            
+6
+
+    
+
+Senate Sponsor: 
+
+
+  Thomas V. Hatch
+
+
+
+            
+7
+
+    
+Cosponsors:
+            
+8
+
+    
+David N. Cox
+            
+9
+
+    
+Janice M. FisherSteven R. Mascaro
+Karen W. MorganMark W. Walker
+Peggy Wallace
+            
+10
+
+    
+
+            
+11
+
+    
+ LONG TITLE
+            
+12
+
+    
+ General Description:
+            
+13
+
+    
+    This bill modifies provisions of the State Library Division within the Department of
+            
+14
+
+    
+Community and Culture related to its duties and responsibilities for providing access to
+            
+15
+
+    
+and preserving state publications.
+            
+16
+
+    
+ Highlighted Provisions:
+            
+17
+
+    
+    This bill:
+            
+18
+
+    
+    .    requires the State Library Division to establish, operate, and maintain a digital
+            
+19
+
+    
+library of state publications;
+            
+20
+
+    
+    .    requires state agencies and political subdivisions to deposit digital copies of their
+            
+21
+
+    
+publications with the division;
+            
+22
+
+    
+     .    provides that state agencies may not remove state publications from public access
+            
+23
+
+    
+unless digital copies of the publications have been deposited with the division; and
+            
+24
+
+    
+    .    eliminates distinctions between complete and selective depository libraries.
+            
+25
+
+    
+ Monies Appropriated in this Bill:
+            
+26
+
+    
+    None
+            
+27
+
+    
+ Other Special Clauses:
+
+            
+28
+
+
+    
+    None
+            
+29
+
+    
+ Utah Code Sections Affected:
+            
+30
+
+    
+AMENDS:
+            
+31
+
+    
+     9-7-101, as last amended by Chapter 172, Laws of Utah 2001
+            
+32
+
+    
+     9-7-203, as last amended by Chapter 256, Laws of Utah 2002
+            
+33
+
+    
+     9-7-207, as renumbered and amended by Chapter 241, Laws of Utah 1992
+            
+34
+
+    
+     9-7-209, as renumbered and amended by Chapter 241, Laws of Utah 1992
+            
+35
+
+    
+REPEALS AND REENACTS:
+            
+36
+
+    
+     9-7-208, as last amended by Chapter 32, Laws of Utah 1995
+            
+37
+
+    
+
+            
+38
+
+    
+Be it enacted by the Legislature of the state of Utah:
+            
+39
+
+    
+    Section 1.  
+Section  
+9-7-101
+
+ is amended to read:
+            
+40
+
+    
+     9-7-101.  Definitions.
+            
+41
+
+    
+    As used in this chapter:
+            
+42
+
+    
+    (1)  "Division" means the State Library Division.
+            
+43
+
+    
+    (2)  "Library board" means the library board of directors appointed locally as authorized
+            
+44
+
+    
+by Section 
+
+9-7-402
+
+ or 
+
+9-7-502
+
+ and which exercises general policy authority for library services
+            
+45
+
+    
+within a city or county of the state, regardless of the title by which it is known locally.
+            
+46
+
+    
+    (3)  "Physical format" means a transportable medium in which analog or digital
+            
+47
+
+    
+information is published, such as print, microform, magnetic disk, or optical disk.
+            
+48
+
+    
+    [(3)] (4)  "Policy" means the public library online access policy adopted by a library
+            
+49
+
+    
+board to meet the requirements of Section 
+
+9-7-215
+
+.
+            
+50
+
+    
+    [(4)] (5)  "Political subdivision" means [any] a county, city, town, school district, public
+            
+51
+
+    
+transit district, redevelopment agency, or special improvement or taxing district.
+            
+52
+
+    
+    [(5)] (6)  "State agency" means the state, [any] an office, department, agency, authority,
+            
+53
+
+    
+commission, board, institution, hospital, college, university, or other instrumentality of the
+            
+54
+
+    
+state.
+            
+55
+
+    
+    [(6)] (7) (a)  "State publication" means [any] a book, compilation, directory, document,
+            
+56
+
+    
+contract or grant report, hearing memorandum, journal, law, legislative bill, magazine, map,
+            
+57
+
+    
+monograph, order, ordinance, pamphlet, periodical, proceeding, public memorandum,
+            
+58
+
+    
+resolution, register, rule, report, statute, audiovisual material, electronic publication,
+
+            
+59
+
+
+    
+micrographic form and tape or disc recording regardless of format or method of reproduction,
+            
+60
+
+    
+issued or published by [any] a state agency or political subdivision for distribution.
+            
+61
+
+    
+    (b)  "State publication" does not include [any] correspondence, internal confidential
+            
+62
+
+    
+publications, office memoranda, university press publications, or publications of the state
+            
+63
+
+    
+historical society.
+            
+64
+
+    
+    Section 2.  
+Section  
+9-7-203
+
+ is amended to read:
+            
+65
+
+    
+     9-7-203.  Division duties.
+            
+66
+
+    
+    The division shall:
+            
+67
+
+    
+    (1)  establish, operate, and maintain a state publications collection, a digital library of
+            
+68
+
+    
+state publications, a bibliographic control system, and depositories as provided in this part;
+            
+69
+
+    
+    (2)  cooperate with:
+            
+70
+
+    
+    (a)  other agencies to facilitate public access to government information through
+            
+71
+
+    
+electronic networks or other means;
+            
+72
+
+    
+    [(3)  cooperate with] (b)  other state or national libraries or library agencies; and
+            
+73
+
+    
+    [(4)  cooperate with] (c)  the federal government or agencies in accepting federal aid
+            
+74
+
+    
+whether in the form of funds or otherwise;
+            
+75
+
+    
+    [(5)] (3)  receive bequests, gifts, and endowments of money and deposit the funds with
+            
+76
+
+    
+the state treasurer to be placed in the State Library Donation Fund, which funds shall be held
+            
+77
+
+    
+for the purpose, if any, specifically directed by the donor; and
+            
+78
+
+    
+    [(6)] (4)  receive bequests, gifts, and endowments of property to be held, used, or
+            
+79
+
+    
+disposed of, as directed by the donor, with the approval of the Division of Finance.
+            
+80
+
+    
+    Section 3.  
+Section  
+9-7-207
+
+ is amended to read:
+            
+81
+
+    
+     9-7-207.  Deposit of state publications.
+            
+82
+
+    
+    (1) (a)  Each state agency and political subdivision publishing a digital version of a state
+            
+83
+
+    
+publication shall deposit a digital copy with the division.
+            
+84
+
+    
+    (b)  Each state agency and political subdivision shall deposit with the division copies of
+            
+85
+
+    
+each state publication [issued by the state agency] that it elects to publish in a physical format
+            
+86
+
+    
+in the numbers specified by the state librarian.
+            
+87
+
+    
+    [(b)] (c)  The division shall forward two copies of each state publication published in a
+            
+88
+
+    
+physical format deposited with it by a state agency to the Library of Congress, one copy to the
+            
+89
+
+    
+state archivist, at least one copy to each depository library, and retain two copies.
+
+            
+90
+
+
+    
+    [(2) (a)  Each political subdivision shall deposit with the division two copies of each
+            
+91
+
+    
+state publication issued by it.]
+            
+92
+
+    
+    [(b)  The division shall forward one copy of each state publication deposited with it by
+            
+93
+
+    
+a political subdivision to the state archivist and retain the other copy.]
+            
+94
+
+    
+    [(3)] (2)  Each state agency or political subdivision shall deposit with the division [two
+            
+95
+
+    
+copies of audiovisual materials and tape or disc recordings] a digital copy of each audio and
+            
+96
+
+    
+video publication or recording issued by it for bibliographic listing and retention in the [state
+            
+97
+
+    
+library collection] digital library.
+            
+98
+
+    
+    (3)  Each state agency or political subdivision shall deposit with the division copies of
+            
+99
+
+    
+audio and video publications or recordings issued by it in physical formats in the numbers
+            
+100
+
+    
+specified by the state librarian for bibliographic listing and retention in the state library
+            
+101
+
+    
+collection.
+            
+102
+
+    
+    (4) (a)  The division shall publish or make available to the public through electronic
+            
+103
+
+    
+networks a list of state agency publications.
+            
+104
+
+    
+    (b)  The list shall be published periodically and distributed to depository libraries and
+            
+105
+
+    
+the state archivist.
+            
+106
+
+    
+    [(4)] (5)  Materials the division considers not to be of major public interest will be
+            
+107
+
+    
+listed, but no copies will be required for deposit.
+            
+108
+
+    
+    Section 4.  
+Section  
+9-7-208
+
+ is repealed and reenacted to read:
+            
+109
+
+    
+     9-7-208.  Digital library for permanent public access.
+            
+110
+
+    
+    (1)  The division shall manage and maintain an online, web-accessible digital library for
+            
+111
+
+    
+state publications.
+            
+112
+
+    
+    (2)  The division shall provide for permanent public access to the publications in the
+            
+113
+
+    
+digital library.
+            
+114
+
+    
+    (3)  The library shall be accessible by agency, author, title, subject, keyword, and such
+            
+115
+
+    
+other means as provided by the division.
+            
+116
+
+    
+    (4) (a)  Each state agency publishing a digital version of a state publication shall deposit
+            
+117
+
+    
+a digital copy of the publication with the division.
+            
+118
+
+    
+    (b)  A state agency may not remove a state publication it posts to its public website until
+            
+119
+
+    
+a copy is deposited into the digital library for permanent public access.
+            
+120
+
+    
+    Section 5.  
+Section  
+9-7-209
+
+ is amended to read:
+
+            
+121
+
+
+    
+     9-7-209.  Depository libraries.
+            
+122
+
+    
+    (1)  Upon application, a library in this state may be designated as a [complete or
+            
+123
+
+    
+selective] depository library by the division.
+            
+124
+
+    
+    (2)  To be designated as a depository library, a library shall contract with the division
+            
+125
+
+    
+to:
+            
+126
+
+    
+    (a)  provide adequate facilities for the storage and use of state publications[, to];
+            
+127
+
+    
+    (b)  render reasonable service without charge to patrons[,]; and [to]
+            
+128
+
+    
+    (c)  provide reasonable access to state publications.
+            
+129
+
+    
+    (3)  A [complete] depository library shall receive at least one copy of all state
+            
+130
+
+    
+publications issued by state agencies in a physical format.
+            
+131
+
+    
+    [(4)  A selective depository library shall receive those state publications issued by state
+            
+132
+
+    
+agencies pertinent to its selection profile and those specifically requested by the library.]
+            
+133
+
+    
+    (4)  Each depository library shall have electronic network access to the bibliographic
+            
+134
+
+    
+records and the state publications deposited with the division for the purposes of local
+            
+135
+
+    
+preservation and providing local access.
+
+
+
+
+ Legislative Review Note
+    as of  11-10-05  10:07 AM
+
+Based on a limited legal review, this legislation has not been determined to have a high
+probability of being held unconstitutional.
+
+ Office of Legislative Research and General Counsel
+
+
+ Interim Committee Note
+    as of 12-21-05 3:05 PM
+
+The Workforce Services and Community and Economic Development Interim Committee
+recommended this bill.
+[Bill Documents][Bills Directory]
+
+
+
+
+
+
+
+
+
+Who represents me?
+
+
+
+
+
+Remember my Legislators
+
+
+
+
+
+State Senate
+		350 North State, Suite 320
+		PO Box 145115
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1035
+		Fax: (801) 326-1475
+
+
+
+House of Representatives
+		350 North State, Suite 350
+		PO Box 145030
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1029
+		Fax: (801) 326-1544
+
+
+
+
+
+
+
+
+
+
+Home
+Mobile Site
+Site Map
+Calendar
+Code / Constitution
+House
+Senate
+
+Terms of Use/Privacy Policy
+
+ADA
+Utah.gov
+
+
+
+
+
+
+

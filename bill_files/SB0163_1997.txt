@@ -1,0 +1,1808 @@
+Sponsors: []Modifications: ;or(f)  applicability of the chapter on Letters of Credit under Section 70A-5-116.,:under Subsection 70A-5-109(2)    70A-5-101.This chapter shall be known as "Uniform Commercial Code -- Letters of Credit."    70A-5-102.As used in this chapter:(1)  "Adviser" means a person who, at the request of the issuer, a confirmer, or anotheradviser, notifies or requests another adviser to notify the beneficiary that a letter of credit has beenissued, confirmed, or amended.(2)  "Applicant" means a person at whose request or for whose account a letter of credit isissued.  The term includes a person who requests an issuer to issue a letter of credit on behalf ofanother if the person making the request undertakes an obligation to reimburse the issuer.(3)  "Beneficiary" means a person who under the terms of a letter of credit is entitled to haveits complying presentation honored.  The term includes a person to whom drawing rights have beentransferred under a transferable letter of credit.(4)  "Confirmer" means a nominated person who undertakes, at the request or with theconsent of the issuer, to honor a presentation under a letter of credit issued by another.(5)  "Dishonor" of a letter of credit means failure timely to honor or to take an interim action,such as acceptance of a draft, that may be required by the letter of credit.(6)  "Document" means a draft or other demand, document of title, investment security,certificate, invoice, or other record, statement, or representation of fact, law, right, or opinion:(a)  which is presented in a written or other medium permitted by the letter of credit or, unlessprohibited by the letter of credit, by the standard practice referred to in Section 70A-5-108(5); and(b)  which is capable of being examined for compliance with the terms and conditions of theletter of credit.  A document may not be oral.(7)  "Good faith" means honesty in fact in the conduct or transaction concerned.(8)  "Honor" of a letter of credit means performance of the issuer's undertaking in the letterof credit to pay or deliver an item of value.  Unless the letter of credit otherwise provides, "honor"occurs:(a)  upon payment;(b)  if the letter of credit provides for acceptance, upon acceptance of a draft and, at maturity,its payment; or(c)  if the letter of credit provides for incurring a deferred obligation, upon incurring theobligation and, at maturity, its performance.(9)  "Issuer" means a bank or other person that issues a letter of credit, but does not includean individual who makes an engagement for personal, family, or household purposes.(10)  "Letter of credit" means a definite undertaking that satisfies the requirements of Section70A-5-104 by an issuer to a beneficiary at the request or for the account of an applicant or, in thecase of a financial institution, to itself or for its own account, to honor a documentary presentationby payment or delivery of an item of value.(11)  "Nominated person" means a person whom the issuer:(a) designates or authorizes to pay, accept, negotiate, or otherwise give value under a letterof credit; and(b) undertakes by agreement or custom and practice to reimburse.(12)  "Presentation" means delivery of a document to an issuer or nominated person for honoror giving of value under a letter of credit.(13)  "Presenter" means a person making a presentation as or on behalf of a beneficiary ornominated person.(14)  "Record" means information that is inscribed on a tangible medium, or that is storedin an electronic or other medium and is retrievable in perceivable form.(15)  "Successor of a beneficiary" means a person who succeeds to substantially all of therights of a beneficiary by operation of law, including a corporation with or into which the beneficiaryhas been merged or consolidated, an administrator, executor, personal representative, trustee inbankruptcy, debtor in possession, liquidator, and receiver.    70A-5-103.(1)  This chapter applies to letters of credit and to certain rights and obligations arising outof transactions involving letters of credit.(2)  The statement of a rule in this chapter does not by itself require, imply, or negateapplication of the same or a different rule to a situation not provided for, or to a person not specified,in this chapter.(3)  With the exception of this Subsection (3), Subsections (1) and (4), Subsections70A-5-102(9) and (10), 70A-5-106(4), and 70A-5-114(4), and except to the extent prohibited inSubsections 70A-1-102(3) and 70A-5-117(4), the effect of this chapter may be varied by agreementor by a provision stated or incorporated by reference in an undertaking.  A term in an agreement orundertaking generally excusing liability or generally limiting remedies for failure to performobligations is not sufficient to vary obligations prescribed by this chapter.(4)  Rights and obligations of an issuer to a beneficiary or a nominated person under a letterof credit are independent of the existence, performance, or nonperformance of a contract orarrangement out of which the letter of credit arises or which underlies it, including contracts orarrangements between the issuer and the applicant and between the applicant and the beneficiary.    70A-5-104.A letter of credit, confirmation, advice, transfer, amendment, or cancellation may be issuedin any form that is a record and is authenticated:(1)  by a signature; or(2) in accordance with the agreement of the parties or the standard practice referred to inSubsection 70A-5-108(5).    70A-5-105.Consideration is not required to issue, amend, transfer, or cancel a letter of credit, advice, orconfirmation.    70A-5-106.(1)  A letter of credit is issued and becomes enforceable according to its terms against theissuer when the issuer sends or otherwise transmits it to the person requested to advise or to thebeneficiary.  A letter of credit is revocable only if it so provides.(2)  After a letter of credit is issued, rights and obligations of a beneficiary, applicant,confirmer, and issuer are not affected by an amendment or cancellation to which that person has notconsented except to the extent the letter of credit provides that it is revocable or that the issuer mayamend or cancel the letter of credit without that consent.(3)  If there is no stated expiration date or other provision that determines its duration, a letterof credit expires one year after its stated date of issuance or, if none is stated, after the date on whichit is issued.(4)  A letter of credit that states that it is perpetual expires five years after its stated date ofissuance, or if none is stated, after the date on which it is issued.    70A-5-107.(1)  A confirmer is directly obligated on a letter of credit and has the rights and obligationsof an issuer to the extent of its confirmation.  The confirmer also has rights against and obligationsto the issuer as if the issuer were an applicant and the confirmer had issued the letter of credit at therequest and for the account of the issuer.(2)  A nominated person who is not a confirmer is not obligated to honor or otherwise givevalue for a presentation.(3)  A person requested to advise may decline to act as an adviser.  An adviser that is not aconfirmer is not obligated to honor or give value for a presentation.  An adviser undertakes to theissuer and to the beneficiary accurately to advise the terms of the letter of credit, confirmation,amendment, or advice received by that person and undertakes to the beneficiary to check theapparent authenticity of the request to advise.  Even if the advice is inaccurate, the letter of credit,confirmation, or amendment is enforceable as issued.(4)  A person who notifies a transferee beneficiary of the terms of a letter of credit,confirmation, amendment, or advice has the rights and obligations of an adviser under  Subsection(3).  The terms in the notice to the transferee beneficiary may differ from the terms in any notice tothe transferor beneficiary to the extent permitted by the letter of credit, confirmation, amendment,or advice received by the person who so notifies.    70A-5-108.(1)  Except as otherwise provided in Section 70A-5-109, an issuer shall honor a presentationthat, as determined by the standard practice referred to in Subsection (5), appears on its face strictlyto comply with the terms and conditions of the letter of credit.  Except as otherwise provided inSection 70A-5-113 and unless otherwise agreed with the applicant, an issuer shall dishonor apresentation that does not appear so to comply.(2)  An issuer has a reasonable time after presentation, but not beyond the end of the seventhbusiness day of the issuer after the day of its receipt of documents:(a)  to honor;(b)  if the letter of credit provides for honor to be completed more than seven business daysafter presentation, to accept a draft or incur a deferred obligation; or(c)  to give notice to the presenter of discrepancies in the presentation.(3)  Except as otherwise provided in Subsection (4), an issuer is precluded from asserting asa basis for dishonor any discrepancy if timely notice is not given, or any discrepancy not stated inthe notice if timely notice is given.(4)  Failure to give the notice specified in Subsection (2) or to mention fraud, forgery, orexpiration in the notice does not preclude the issuer from asserting as a basis for dishonor fraud orforgery as described in Subsection 70A-5-109(1) or expiration of the letter of credit beforepresentation.(5)  An issuer shall observe standard practice of financial institutions that regularly issueletters of credit.  Determination of the issuer's observance of the standard practice is a matter ofinterpretation for the court.  The court shall offer the parties a reasonable opportunity to presentevidence of the standard practice.(6)  An issuer is not responsible for:(a)  the performance or nonperformance of the underlying contract, arrangement, ortransaction;(b)  an act or omission of others; or(c)  observance or knowledge of the usage of a particular trade other than the standardpractice referred to in Subsection (5).(7)  If an undertaking constituting a letter of credit under Subsection 70A-5-102(10) containsnondocumentary conditions, an issuer shall disregard the nondocumentary conditions and treat themas if they were not stated.(8)  An issuer that has dishonored a presentation shall return the documents or hold them atthe disposal of, and send advice to that effect to, the presenter.(9)  An issuer that has honored a presentation as permitted or required by this chapter:(a)  is entitled to be reimbursed by the applicant in immediately available funds not later thanthe date of its payment of funds;(b)  takes the documents free of claims of the beneficiary or presenter;(c)  is precluded from asserting a right of recourse on a draft under Sections 70A-3-414 and70A-3-415;(d)  except as otherwise provided in Sections 70A-5-110 and 70A-5-117, is precluded fromrestitution of money paid or other value given by mistake to the extent the mistake concernsdiscrepancies in the documents or tender which are apparent on the face of the presentation; and(e)  is discharged to the extent of its performance under the letter of credit unless the issuerhonored a presentation in which a required signature of a beneficiary was forged.    70A-5-109.(1)  If a presentation is made that appears on its face strictly to comply with the terms andconditions of the letter of credit, but a required document is forged or materially fraudulent, or honorof the presentation would facilitate a material fraud by the beneficiary on the issuer or applicant:(a)  the issuer shall honor the presentation, if honor is demanded by:(i)  a nominated person who has given value in good faith and without notice of forgery ormaterial fraud;(ii)  a confirmer who has honored its confirmation in good faith;(iii)  a holder in due course of a draft drawn under the letter of credit which was taken afteracceptance by the issuer or nominated person; or(iv)  an assignee of the issuer's or nominated person's deferred obligation that was taken forvalue and without notice of forgery or material fraud after the obligation was incurred by the issueror nominated person; and(b)  the issuer, acting in good faith, may honor or dishonor the presentation in any other case.(2)  If an applicant claims that a required document is forged or materially fraudulent or thathonor of the presentation would facilitate a material fraud by the beneficiary on the issuer orapplicant, a court of competent jurisdiction may temporarily or permanently enjoin the issuer fromhonoring a presentation or grant similar relief against the issuer or other persons only if the courtfinds that:(a)  the relief is not prohibited under the law applicable to an accepted draft or deferredobligation incurred by the issuer;(b)  a beneficiary, issuer, or nominated person who may be adversely affected is adequatelyprotected against loss that it may suffer because the relief is granted;(c)  all of the conditions to entitle a person to the relief under the law of this state have beenmet; and(d)  on the basis of the information submitted to the court, the applicant is more likely thannot to succeed under its claim of forgery or material fraud and the person demanding honor does notqualify for protection under Subsection (1)(a).    70A-5-110.(1)  If its presentation is honored, the beneficiary warrants:(a)  to the issuer, any other person to whom presentation is made, and the applicant that thereis no fraud or forgery of the kind described in Subsection 70A-5-109(1); and(b)  to the applicant that the drawing does not violate any agreement between the applicantand beneficiary or any other agreement intended by them to be augmented by the letter of credit.(2)  The warranties in Subsection (1) are in addition to warranties arising under Title 70A,Chapter 3, Negotiable Instruments, Chapter 4, Bank Deposits and Collections, Chapter 7, Documentsof Title, and Chapter 8, Investment Securities, because of the presentation or transfer of documentscovered by any of those chapters.    70A-5-111.(1)  If an issuer wrongfully dishonors or repudiates its obligation to pay money under a letterof credit before presentation, the beneficiary, successor, or nominated person presenting on its ownbehalf may recover from the issuer the amount that is the subject of the dishonor or repudiation.  Ifthe issuer's obligation under the letter of credit is not for the payment of money, the claimant mayobtain specific performance or, at the claimant's election, recover an amount equal to the value ofperformance from the issuer.  In either case, the claimant may also recover incidental but notconsequential damages.  The claimant is not obligated to take action to avoid damages that mightbe due from the issuer under this Subsection (1).  If, although not obligated to do so, the claimantavoids damages, the claimant's recovery from the issuer must be reduced by the amount of damagesavoided.  The issuer has the burden of proving the amount of damages avoided.  In the case ofrepudiation the claimant need not present any document.(2)  If an issuer wrongfully dishonors a draft or demand presented under a letter of credit orhonors a draft or demand in breach of its obligation to the applicant, the applicant may recoverdamages resulting from the breach, including incidental but not consequential damages, less anyamount saved as a result of the breach.(3)  If an adviser or nominated person other than a confirmer breaches an obligation underthis chapter or an issuer breaches an obligation not covered in Subsection (1) or (2), a person towhom the obligation is owed may recover damages resulting from the breach, including incidentalbut not consequential damages, less any amount saved as a result of the breach.  To the extent of theconfirmation, a confirmer has the liability of an issuer specified in this Subsection (3) andSubsections (1) and (2).(4)  An issuer, nominated person, or adviser who is found liable under Subsection (1), (2),or (3) shall pay interest on the amount owed thereunder from the date of wrongful dishonor or otherappropriate date.(5)  Reasonable attorney's fees and other expenses of litigation must be awarded to theprevailing party in an action in which a remedy is sought under this chapter.(6)  Damages that would otherwise be payable by a party for breach of an obligation underthis chapter may be liquidated by agreement or undertaking, but only in an amount or by a formulathat is reasonable in light of the harm anticipated.    70A-5-112.(1)  Except as otherwise provided in Section 70A-5-113, unless a letter of credit provides thatit is transferable, the right of a beneficiary to draw or otherwise demand performance under a letterof credit may not be transferred.(2)  Even if a letter of credit provides that it is transferable, the issuer may refuse to recognizeor carry out a transfer if:(a)  the transfer would violate applicable law; or(b)  the transferor or transferee has failed to comply with any requirement stated in the letterof credit or any other requirement relating to transfer imposed by the issuer which is within thestandard practice referred to in Subsection 70A-5-108(5) or is otherwise reasonable under thecircumstances.    70A-5-113.(1)  A successor of a beneficiary may consent to amendments, sign and present documents,and receive payment or other items of value in the name of the beneficiary without disclosing itsstatus as a successor.(2)  A successor of a beneficiary may consent to amendments, sign and present documents,and receive payment or other items of value in its own name as the disclosed successor of thebeneficiary.  Except as otherwise provided in Subsection (5), an issuer shall recognize a disclosedsuccessor of a beneficiary as beneficiary in full substitution for its predecessor upon compliance withthe requirements for recognition by the issuer of a transfer of drawing rights by operation of lawunder the standard practice referred to in Subsection 70A-5-108(5) or, in the absence of such apractice, compliance with other reasonable procedures sufficient to protect the issuer.(3)  An issuer is not obliged to determine whether a purported successor is a successor of abeneficiary or whether the signature of a purported successor is genuine or authorized.(4)  Honor of a purported successor's apparently complying presentation under Subsection(1) or (2) has the consequences specified in Subsection 70A-5-108(9) even if the purported successoris not the successor of a beneficiary.  Documents signed in the name of the beneficiary or of adisclosed successor by a person who is neither the beneficiary nor the successor of the beneficiaryare forged documents for the purposes of Section 70A-5-109.(5)  An issuer whose rights of reimbursement are not covered by Subsection (4) orsubstantially similar law and any confirmer or nominated person may decline to recognize apresentation under Subsection (2).(6)  A beneficiary whose name is changed after the issuance of a letter of credit has the samerights and obligations as a successor of a beneficiary under this section.    70A-5-114.(1)  In this section, "proceeds of a letter of credit" means the cash, check, accepted draft, orother item of value paid or delivered upon honor or giving of value by the issuer or any nominatedperson under the letter of credit.  The term does not include a beneficiary's drawing rights ordocuments presented by the beneficiary.(2)  A beneficiary may assign its right to part or all of the proceeds of a letter of credit.  Thebeneficiary may do so before presentation as a present assignment of its right to receive proceedscontingent upon its compliance with the terms and conditions of the letter of credit.(3)  An issuer or nominated person need not recognize an assignment of proceeds of a letterof credit until it consents to the assignment.(4)  An issuer or nominated person has no obligation to give or withhold its consent to anassignment of proceeds of a letter of credit, but consent may not be unreasonably withheld if theassignee possesses and exhibits the letter of credit and presentation of the letter of credit is acondition to honor.(5)  Rights of a transferee beneficiary or nominated person are independent of thebeneficiary's assignment of the proceeds of a letter of credit and are superior to the assignee's rightto the proceeds.(6)  Neither the rights recognized by this section between an assignee and an issuer,transferee beneficiary, or nominated person nor the issuer's or nominated person's payment ofproceeds to an assignee or a third person affect the rights between the assignee and any person otherthan the issuer, transferee beneficiary, or nominated person.  The mode of creating and perfectinga security interest in or granting an assignment of a beneficiary's rights to proceeds is governed byTitle 70A, Chapter 9, Secured Transactions, or other law.  Against persons other than the issuer,transferee beneficiary, or nominated person, the rights and obligations arising upon the creation ofa security interest or other assignment of a beneficiary's right to proceeds and its perfection aregoverned by Title 70A, Chapter 9, Secured Transactions, or other law.    70A-5-115.An action to enforce a right or obligation arising under this chapter must be commencedwithin one year after the expiration date of the relevant letter of credit or one year after the cause ofaction accrues, whichever occurs later.  A cause of action accrues when the breach occurs, regardlessof the aggrieved party's lack of knowledge of the breach.    70A-5-116.(1)  The liability of an issuer, nominated person, or adviser for action or omission is governedby the law of the jurisdiction chosen by an agreement in the form of a record signed or otherwiseauthenticated by the affected parties in the manner provided in Section 70A-5-104 or by a provisionin the person's letter of credit, confirmation, or other undertaking.  The jurisdiction whose law ischosen need not bear any relation to the transaction.(2)  Unless Subsection (1) applies, the liability of an issuer, nominated person, or adviser foraction or omission is governed by the law of the jurisdiction in which the person is located.  Theperson is considered to be located at the address indicated in the person's undertaking.  If more thanone address is indicated, the person is considered to be located at the address from which the person'sundertaking was issued.  For the purpose of jurisdiction, choice of law, and recognition ofinterbranch letters of credit, but not enforcement of a judgment, all branches of a bank are consideredseparate juridical entities and a bank is considered to be located at the place where its relevant branchis considered to be located under this Subsection (2).(3) (a)  Except as otherwise provided in this Subsection (3)(a), the liability of an issuer,nominated person, or adviser is governed by any rules of custom or practice, such as the UniformCustoms and Practice for Documentary Credits, to which the letter of credit, confirmation, or otherundertaking is expressly made subject.(b)  If  this chapter would govern the liability of an issuer, nominated person, or adviser underSubsection (1) or (2):(i)  the relevant undertaking incorporates rules of custom or practice; and(ii)  there is conflict between this chapter and those rules as applied to that undertaking, thoserules govern except to the extent of any conflict with the nonvariable provisions specified inSubsection 70A-5-103(3).(4)  If there is conflict between this chapter and Title 70A. Chapter 3, Commercial Paper,Chapter 4, Bank Deposits and Collections, Chapter 4a, Funds Transfers, or Chapter 9, SecuredTransactions, this chapter governs.(5)  The forum for settling disputes arising out of an undertaking within this chapter may bechosen in the manner and with the binding effect that governing law may be chosen in accordancewith Subsection (1).    70A-5-117.(1)  An issuer that honors a beneficiary's presentation is subrogated to the rights of thebeneficiary to the same extent as if the issuer were a secondary obligor of the underlying obligationowed to the beneficiary and of the applicant to the same extent as if the issuer were the secondaryobligor of the underlying obligation owed to the applicant.(2)  An applicant that reimburses an issuer is subrogated to the rights of the issuer against anybeneficiary, presenter, or nominated person to the same extent as if the applicant were the secondaryobligor of the obligations owed to the issuer and has the rights of subrogation of the issuer to therights of the beneficiary stated in Subsection (1).(3)  A nominated person who pays or gives value against a draft or demand presented undera letter of credit is subrogated to the rights of:(a)  the issuer against the applicant to the same extent as if the nominated person were asecondary obligor of the obligation owed to the issuer by the applicant;(b)  the beneficiary to the same extent as if the nominated person were a secondary obligorof the underlying obligation owed to the beneficiary; and(c)  the applicant to the same extent as if the nominated person were a secondary obligor ofthe underlying obligation owed to the applicant.(4)  Notwithstanding any agreement or term to the contrary, the rights of subrogation statedin Subsections (1) and (2) do not arise until the issuer honors the letter of credit or otherwise paysand the rights in Subsection (3) do not arise until the nominated person pays or otherwise givesvalue.  Until then, the issuer, nominated person, and the applicant do not derive under this sectionpresent or prospective rights forming the basis of a claim, defense, or excuse.    70A-5-118.This act applies to a letter of credit that is issued on or after July 1, 1997.  This act does notapply to a transaction, event, obligation, or duty arising out of or associated with a letter of creditthat was issued before July 1, 1997.    70A-5-119.A transaction arising out of or associated with a letter of credit that was issued before July1, 1997, and the rights, obligations, and interests flowing from that transaction are governed by anystatute or other law amended or repealed by this act as if repeal or amendment had not occurred andmay be terminated, completed, consummated, or enforced under that statute or other law.letters of credit,(1),, rights to proceeds of writtenletters of credit,consideredor(6):,,; or(m)  to a transfer of an interest in a letter of credit other than the rights to proceeds of awritten letter of credit.(j)  "Letter of credit" means the definition as provided in Section 70A-5-102.(k)(l)  "Proceeds of a letter of credit" means the definition as provided in Section 70A-5-114.(m)(n)(o)(p)SectionSectionSectionSectionSectionSectionSection,Title 70A,, General Provisions,rights to proceedsof written letters of credit,A security interest in the rights to proceeds of a written letter of credit can be perfected only by thesecured party's taking possession of the letter of credit.,A security interest in the rightto proceeds of a written letter of credit may be perfected by the secured party's taking possession ofa letter of credit.This act takes effect on July 1, 1997.Full text:
+
+
+
+Utah State Legislature
+
+
+
+
+
+
+
+
+
+
+
+
+Legislators
+
+By Session (1896-Current)
+Alphabetical (Historical)
+Find by Address/Map
+More
+
+
+Bills
+
+Bills/Bill Requests
+Passed Bills
+2017 Bills
+
+Keyword Search
+Reading Calendars
+Tracking Service
+More
+
+
+Committees
+
+All Committees
+Appropriations
+Commissions
+
+Independent Legislative Ethics Commission
+Interim
+Standing
+Subcommittees
+Task Forces
+Bills In Committees
+
+
+Utah Code / Constitution
+
+
+Title/Chapter/Section
+Keyword Search 
+
+Utah Constitution
+Laws of Utah 1851-ongoing
+Utah Territorial Laws 
+More
+
+
+Senate
+
+Main Page 
+About The Senate 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Extraordinary Sessions 
+Reading Calendars 
+Past Floor Debates 
+Senate Journals 
+
+
+House
+
+Main Page
+About the House 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Reading Calendars 
+Past Floor Debates 
+Journals 
+Conflict of Interest Forms 
+
+
+Legislative Guide 
+
+Legislative Guide
+Civic Programs
+GRAMA (Records Requests)
+
+
+Publications
+
+Search Publications
+Appropriations
+Audits
+Bagels & Briefings
+Briefing Papers
+Digest of Legislation
+Legislative Drafting Manual
+
+Journals
+
+Interim Highlights
+
+Legislative Rules
+GRAMA (Records Requests)
+Public Email
+State Organization Charts
+YouTube Channel
+Requests for Proposals and Legal Notices
+More
+
+
+Legislative Histories
+
+Legislative History Resources
+How to Research
+Bill Drafting/Research Files (1990-Ongoing)
+
+Working Bills (1896-1989)
+Interim Committee Histories (1990-Ongoing) 
+Journals
+Past House Floor Debates
+Past Senate Floor Debates
+More
+
+
+Staff Offices
+
+All Legislative Offices
+Auditor General
+Fiscal Analyst
+Printing
+Research and General Counsel
+Staff Awards
+Job Opportunities
+More
+
+
+Links of Interest
+
+Utah Administrative Rules
+Courts
+Utah State Capitol
+State of Utah
+Federal Legislation
+More
+
+
+
+
+
+
+ 
+
+Download Zipped Enrolled WP 6.1 SB0163.ZIP 31,253 Bytes
+[Introduced][Status][Bill Documents][Fiscal Note][Bills Directory]
+
+
+S.B. 163 Enrolled
+
+
+
+
+
+
+
+
+
+     UNIFORM COMMERCIAL CODE
+
+
+     ARTICLE 5 - LETTERS OF CREDIT
+
+
+
+
+    1997 GENERAL SESSION
+
+
+    STATE OF UTAH
+
+
+     Sponsor:  Lyle W. Hillyard
+
+
+    AN ACT RELATING TO THE UNIFORM COMMERCIAL CODE; REPEALING AND
+
+    REENACTING CHAPTER 5 PROVISION ON LETTERS OF CREDIT; AMENDING
+
+    RELATED PROVISIONS; MAKING TECHNICAL CHANGES; AND PROVIDING AN
+
+    EFFECTIVE DATE.
+
+    This act affects sections of Utah Code Annotated 1953 as follows:
+
+    AMENDS:
+
+         70A-1-105, as last amended by Chapters 42 and 204, Laws of Utah 1996
+
+         70A-2-512, as enacted by Chapter 154, Laws of Utah 1965
+
+         70A-9-103, as last amended by Chapter 204, Laws of Utah 1996
+
+         70A-9-104, as last amended by Chapter 272, Laws of Utah 1977
+
+         70A-9-105, as last amended by Chapter 204, Laws of Utah 1996
+
+         70A-9-106, as last amended by Chapter 204, Laws of Utah 1996
+
+         70A-9-304, as last amended by Chapter 204, Laws of Utah 1996
+
+         70A-9-305, as last amended by Chapter 204, Laws of Utah 1996
+
+    ENACTS:
+
+         70A-5-118, Utah Code Annotated 1953
+
+         70A-5-119, Utah Code Annotated 1953
+
+    REPEALS AND REENACTS:
+
+         70A-5-101, as enacted by Chapter 154, Laws of Utah 1965
+
+         70A-5-102, as enacted by Chapter 154, Laws of Utah 1965
+
+         70A-5-103, as last amended by Chapter 204, Laws of Utah 1996
+
+         70A-5-104, as enacted by Chapter 154, Laws of Utah 1965
+
+         70A-5-105, as enacted by Chapter 154, Laws of Utah 1965
+
+         70A-5-106, as enacted by Chapter 154, Laws of Utah 1965
+
+
+         70A-5-107, as enacted by Chapter 154, Laws of Utah 1965
+
+         70A-5-108, as enacted by Chapter 154, Laws of Utah 1965
+
+         70A-5-109, as enacted by Chapter 154, Laws of Utah 1965
+
+         70A-5-110, as enacted by Chapter 154, Laws of Utah 1965
+
+         70A-5-111, as enacted by Chapter 154, Laws of Utah 1965
+
+         70A-5-112, as enacted by Chapter 154, Laws of Utah 1965
+
+         70A-5-113, as enacted by Chapter 154, Laws of Utah 1965
+
+         70A-5-114, as last amended by Chapter 204, Laws of Utah 1996
+
+         70A-5-115, as enacted by Chapter 154, Laws of Utah 1965
+
+         70A-5-116, as last amended by Chapter 272, Laws of Utah 1977
+
+         70A-5-117, as enacted by Chapter 154, Laws of Utah 1965
+
+    Be it enacted by the Legislature of the state of Utah:
+
+        Section 1.  Section  70A-1-105 is amended to read:
+
+         70A-1-105.  Territorial application of title -- Parties' power to choose applicable law.
+
+        (1)  Except as provided in this section, when a transaction bears a reasonable relation to this
+
+    state and also to another state or nation, the parties may agree that the law either of this state or of
+
+    such other state or nation shall govern their rights and duties.  Failing such agreement, this title
+
+    applies to transactions bearing an appropriate relation to this state.
+
+        (2)  Where one of the following provisions of this title specifies the applicable law, that
+
+    provision governs and a contrary agreement is effective only to the extent permitted by the law,
+
+    including the conflict of laws rules, so specified:
+
+        (a)  rights of creditors against sold goods under Section 70A-2-402;
+
+        (b)  applicability of the chapter on leases under Sections 70A-2a-105 and 70A-2a-106;
+
+        (c)  applicability of the chapter on Bank Deposits and Collections under Section 70A-4-102;
+
+        (d)  applicability of the chapter on Investment Securities under Section 70A-8-109; [or]
+
+        (e)  perfection provisions of the chapter on Secured Transactions under Section 70A-9-103[.];
+
+    or
+
+        (f)  applicability of the chapter on Letters of Credit under Section 70A-5-116.
+
+- 2 -
+
+
+        Section 2.  Section  70A-2-512 is amended to read:
+
+         70A-2-512.  Payment by buyer before inspection.
+
+        (1)  Where the contract requires payment before inspection, nonconformity of the goods does
+
+    not excuse the buyer from so making payment unless:
+
+        (a)  the nonconformity appears without inspection; or
+
+        (b)  despite tender of the required documents the circumstances would justify injunction
+
+    against honor under the provisions [of this act (Section 70A-5-114)] under Subsection 70A-5-109(2).
+
+        (2)  Payment pursuant to Subsection (1) does not constitute an acceptance of goods or impair
+
+    the buyer's right to inspect or any of his remedies. 
+
+        Section 3.  Section  70A-5-101 is repealed and reenacted to read:
+
+     CHAPTER 5.  UNIFORM COMMERCIAL CODE -- LETTERS OF CREDIT
+
+
+         70A-5-101.  Title.
+
+        This chapter shall be known as "Uniform Commercial Code -- Letters of Credit."
+
+        Section 4.  Section  70A-5-102 is repealed and reenacted to read:
+
+         70A-5-102.  Definitions.
+
+        As used in this chapter:
+
+        (1)  "Adviser" means a person who, at the request of the issuer, a confirmer, or another
+
+    adviser, notifies or requests another adviser to notify the beneficiary that a letter of credit has been
+
+    issued, confirmed, or amended.
+
+        (2)  "Applicant" means a person at whose request or for whose account a letter of credit is
+
+    issued.  The term includes a person who requests an issuer to issue a letter of credit on behalf of
+
+    another if the person making the request undertakes an obligation to reimburse the issuer.
+
+        (3)  "Beneficiary" means a person who under the terms of a letter of credit is entitled to have
+
+    its complying presentation honored.  The term includes a person to whom drawing rights have been
+
+    transferred under a transferable letter of credit.
+
+        (4)  "Confirmer" means a nominated person who undertakes, at the request or with the
+
+    consent of the issuer, to honor a presentation under a letter of credit issued by another.
+
+        (5)  "Dishonor" of a letter of credit means failure timely to honor or to take an interim action,
+
+- 3 -
+
+
+    such as acceptance of a draft, that may be required by the letter of credit.
+
+        (6)  "Document" means a draft or other demand, document of title, investment security,
+
+    certificate, invoice, or other record, statement, or representation of fact, law, right, or opinion:
+
+        (a)  which is presented in a written or other medium permitted by the letter of credit or, unless
+
+    prohibited by the letter of credit, by the standard practice referred to in Section 70A-5-108(5); and
+
+        (b)  which is capable of being examined for compliance with the terms and conditions of the
+
+    letter of credit.  A document may not be oral.
+
+        (7)  "Good faith" means honesty in fact in the conduct or transaction concerned.
+
+        (8)  "Honor" of a letter of credit means performance of the issuer's undertaking in the letter
+
+    of credit to pay or deliver an item of value.  Unless the letter of credit otherwise provides, "honor"
+
+    occurs:
+
+        (a)  upon payment;
+
+        (b)  if the letter of credit provides for acceptance, upon acceptance of a draft and, at maturity,
+
+    its payment; or
+
+        (c)  if the letter of credit provides for incurring a deferred obligation, upon incurring the
+
+    obligation and, at maturity, its performance.
+
+        (9)  "Issuer" means a bank or other person that issues a letter of credit, but does not include
+
+    an individual who makes an engagement for personal, family, or household purposes.
+
+        (10)  "Letter of credit" means a definite undertaking that satisfies the requirements of Section
+
+    70A-5-104 by an issuer to a beneficiary at the request or for the account of an applicant or, in the
+
+    case of a financial institution, to itself or for its own account, to honor a documentary presentation
+
+    by payment or delivery of an item of value.
+
+        (11)  "Nominated person" means a person whom the issuer:
+
+        (a) designates or authorizes to pay, accept, negotiate, or otherwise give value under a letter
+
+    of credit; and
+
+        (b) undertakes by agreement or custom and practice to reimburse.
+
+        (12)  "Presentation" means delivery of a document to an issuer or nominated person for honor
+
+    or giving of value under a letter of credit.
+
+- 4 -
+
+
+        (13)  "Presenter" means a person making a presentation as or on behalf of a beneficiary or
+
+    nominated person.
+
+        (14)  "Record" means information that is inscribed on a tangible medium, or that is stored
+
+    in an electronic or other medium and is retrievable in perceivable form.
+
+        (15)  "Successor of a beneficiary" means a person who succeeds to substantially all of the
+
+    rights of a beneficiary by operation of law, including a corporation with or into which the beneficiary
+
+    has been merged or consolidated, an administrator, executor, personal representative, trustee in
+
+    bankruptcy, debtor in possession, liquidator, and receiver.
+
+        Section 5.  Section  70A-5-103 is repealed and reenacted to read:
+
+         70A-5-103.  Scope.
+
+        (1)  This chapter applies to letters of credit and to certain rights and obligations arising out
+
+    of transactions involving letters of credit.
+
+        (2)  The statement of a rule in this chapter does not by itself require, imply, or negate
+
+    application of the same or a different rule to a situation not provided for, or to a person not specified,
+
+    in this chapter.
+
+        (3)  With the exception of this Subsection (3), Subsections (1) and (4), Subsections
+
+    70A-5-102(9) and (10), 70A-5-106(4), and 70A-5-114(4), and except to the extent prohibited in
+
+    Subsections 70A-1-102(3) and 70A-5-117(4), the effect of this chapter may be varied by agreement
+
+    or by a provision stated or incorporated by reference in an undertaking.  A term in an agreement or
+
+    undertaking generally excusing liability or generally limiting remedies for failure to perform
+
+    obligations is not sufficient to vary obligations prescribed by this chapter.
+
+        (4)  Rights and obligations of an issuer to a beneficiary or a nominated person under a letter
+
+    of credit are independent of the existence, performance, or nonperformance of a contract or
+
+    arrangement out of which the letter of credit arises or which underlies it, including contracts or
+
+    arrangements between the issuer and the applicant and between the applicant and the beneficiary.
+
+        Section 6.  Section  70A-5-104 is repealed and reenacted to read:
+
+         70A-5-104.  Formal requirements.
+
+        A letter of credit, confirmation, advice, transfer, amendment, or cancellation may be issued
+
+- 5 -
+
+
+    in any form that is a record and is authenticated:
+
+        (1)  by a signature; or
+
+        (2) in accordance with the agreement of the parties or the standard practice referred to in
+
+    Subsection 70A-5-108(5).
+
+        Section 7.  Section  70A-5-105 is repealed and reenacted to read:
+
+         70A-5-105.  Consideration.
+
+        Consideration is not required to issue, amend, transfer, or cancel a letter of credit, advice, or
+
+    confirmation.
+
+        Section 8.  Section  70A-5-106 is repealed and reenacted to read:
+
+         70A-5-106.  Issuance, amendment, cancellation, and duration.
+
+        (1)  A letter of credit is issued and becomes enforceable according to its terms against the
+
+    issuer when the issuer sends or otherwise transmits it to the person requested to advise or to the
+
+    beneficiary.  A letter of credit is revocable only if it so provides.
+
+        (2)  After a letter of credit is issued, rights and obligations of a beneficiary, applicant,
+
+    confirmer, and issuer are not affected by an amendment or cancellation to which that person has not
+
+    consented except to the extent the letter of credit provides that it is revocable or that the issuer may
+
+    amend or cancel the letter of credit without that consent.
+
+        (3)  If there is no stated expiration date or other provision that determines its duration, a letter
+
+    of credit expires one year after its stated date of issuance or, if none is stated, after the date on which
+
+    it is issued.
+
+        (4)  A letter of credit that states that it is perpetual expires five years after its stated date of
+
+    issuance, or if none is stated, after the date on which it is issued.
+
+        Section 9.  Section  70A-5-107 is repealed and reenacted to read:
+
+         70A-5-107.  Confirmer, nominated person, and adviser.
+
+        (1)  A confirmer is directly obligated on a letter of credit and has the rights and obligations
+
+    of an issuer to the extent of its confirmation.  The confirmer also has rights against and obligations
+
+    to the issuer as if the issuer were an applicant and the confirmer had issued the letter of credit at the
+
+    request and for the account of the issuer.
+
+- 6 -
+
+
+        (2)  A nominated person who is not a confirmer is not obligated to honor or otherwise give
+
+    value for a presentation.
+
+        (3)  A person requested to advise may decline to act as an adviser.  An adviser that is not a
+
+    confirmer is not obligated to honor or give value for a presentation.  An adviser undertakes to the
+
+    issuer and to the beneficiary accurately to advise the terms of the letter of credit, confirmation,
+
+    amendment, or advice received by that person and undertakes to the beneficiary to check the
+
+    apparent authenticity of the request to advise.  Even if the advice is inaccurate, the letter of credit,
+
+    confirmation, or amendment is enforceable as issued.
+
+        (4)  A person who notifies a transferee beneficiary of the terms of a letter of credit,
+
+    confirmation, amendment, or advice has the rights and obligations of an adviser under  Subsection
+
+    (3).  The terms in the notice to the transferee beneficiary may differ from the terms in any notice to
+
+    the transferor beneficiary to the extent permitted by the letter of credit, confirmation, amendment,
+
+    or advice received by the person who so notifies.
+
+        Section 10.  Section  70A-5-108 is repealed and reenacted to read:
+
+         70A-5-108.  Issuer's rights and obligations.
+
+        (1)  Except as otherwise provided in Section 70A-5-109, an issuer shall honor a presentation
+
+    that, as determined by the standard practice referred to in Subsection (5), appears on its face strictly
+
+    to comply with the terms and conditions of the letter of credit.  Except as otherwise provided in
+
+    Section 70A-5-113 and unless otherwise agreed with the applicant, an issuer shall dishonor a
+
+    presentation that does not appear so to comply.
+
+        (2)  An issuer has a reasonable time after presentation, but not beyond the end of the seventh
+
+    business day of the issuer after the day of its receipt of documents:
+
+        (a)  to honor;
+
+         (b)  if the letter of credit provides for honor to be completed more than seven business days
+
+    after presentation, to accept a draft or incur a deferred obligation; or
+
+        (c)  to give notice to the presenter of discrepancies in the presentation.
+
+        (3)  Except as otherwise provided in Subsection (4), an issuer is precluded from asserting as
+
+    a basis for dishonor any discrepancy if timely notice is not given, or any discrepancy not stated in
+
+- 7 -
+
+
+    the notice if timely notice is given.
+
+        (4)  Failure to give the notice specified in Subsection (2) or to mention fraud, forgery, or
+
+    expiration in the notice does not preclude the issuer from asserting as a basis for dishonor fraud or
+
+    forgery as described in Subsection 70A-5-109(1) or expiration of the letter of credit before
+
+    presentation.
+
+        (5)  An issuer shall observe standard practice of financial institutions that regularly issue
+
+    letters of credit.  Determination of the issuer's observance of the standard practice is a matter of
+
+    interpretation for the court.  The court shall offer the parties a reasonable opportunity to present
+
+    evidence of the standard practice.
+
+        (6)  An issuer is not responsible for:
+
+        (a)  the performance or nonperformance of the underlying contract, arrangement, or
+
+    transaction;
+
+        (b)  an act or omission of others; or
+
+        (c)  observance or knowledge of the usage of a particular trade other than the standard
+
+    practice referred to in Subsection (5).
+
+        (7)  If an undertaking constituting a letter of credit under Subsection 70A-5-102(10) contains
+
+    nondocumentary conditions, an issuer shall disregard the nondocumentary conditions and treat them
+
+    as if they were not stated.
+
+        (8)  An issuer that has dishonored a presentation shall return the documents or hold them at
+
+    the disposal of, and send advice to that effect to, the presenter.
+
+        (9)  An issuer that has honored a presentation as permitted or required by this chapter:
+
+        (a)  is entitled to be reimbursed by the applicant in immediately available funds not later than
+
+    the date of its payment of funds;
+
+        (b)  takes the documents free of claims of the beneficiary or presenter;
+
+        (c)  is precluded from asserting a right of recourse on a draft under Sections 70A-3-414 and
+
+    70A-3-415;
+
+        (d)  except as otherwise provided in Sections 70A-5-110 and 70A-5-117, is precluded from
+
+    restitution of money paid or other value given by mistake to the extent the mistake concerns
+
+- 8 -
+
+
+    discrepancies in the documents or tender which are apparent on the face of the presentation; and
+
+        (e)  is discharged to the extent of its performance under the letter of credit unless the issuer
+
+    honored a presentation in which a required signature of a beneficiary was forged.
+
+        Section 11.  Section  70A-5-109 is repealed and reenacted to read:
+
+         70A-5-109.  Fraud and forgery.
+
+        (1)  If a presentation is made that appears on its face strictly to comply with the terms and
+
+    conditions of the letter of credit, but a required document is forged or materially fraudulent, or honor
+
+    of the presentation would facilitate a material fraud by the beneficiary on the issuer or applicant:
+
+        (a)  the issuer shall honor the presentation, if honor is demanded by:
+
+        (i)  a nominated person who has given value in good faith and without notice of forgery or
+
+    material fraud;
+
+        (ii)  a confirmer who has honored its confirmation in good faith;
+
+        (iii)  a holder in due course of a draft drawn under the letter of credit which was taken after
+
+    acceptance by the issuer or nominated person; or
+
+        (iv)  an assignee of the issuer's or nominated person's deferred obligation that was taken for
+
+    value and without notice of forgery or material fraud after the obligation was incurred by the issuer
+
+    or nominated person; and
+
+        (b)  the issuer, acting in good faith, may honor or dishonor the presentation in any other case.
+
+        (2)  If an applicant claims that a required document is forged or materially fraudulent or that
+
+    honor of the presentation would facilitate a material fraud by the beneficiary on the issuer or
+
+    applicant, a court of competent jurisdiction may temporarily or permanently enjoin the issuer from
+
+    honoring a presentation or grant similar relief against the issuer or other persons only if the court
+
+    finds that:
+
+        (a)  the relief is not prohibited under the law applicable to an accepted draft or deferred
+
+    obligation incurred by the issuer;
+
+        (b)  a beneficiary, issuer, or nominated person who may be adversely affected is adequately
+
+    protected against loss that it may suffer because the relief is granted;
+
+        (c)  all of the conditions to entitle a person to the relief under the law of this state have been
+
+- 9 -
+
+
+    met; and
+
+        (d)  on the basis of the information submitted to the court, the applicant is more likely than
+
+    not to succeed under its claim of forgery or material fraud and the person demanding honor does not
+
+    qualify for protection under Subsection (1)(a).
+
+        Section 12.  Section  70A-5-110 is repealed and reenacted to read:
+
+         70A-5-110.  Warranties.
+
+        (1)  If its presentation is honored, the beneficiary warrants:
+
+        (a)  to the issuer, any other person to whom presentation is made, and the applicant that there
+
+    is no fraud or forgery of the kind described in Subsection 70A-5-109(1); and
+
+        (b)  to the applicant that the drawing does not violate any agreement between the applicant
+
+    and beneficiary or any other agreement intended by them to be augmented by the letter of credit.
+
+        (2)  The warranties in Subsection (1) are in addition to warranties arising under Title 70A,
+
+    Chapter 3, Negotiable Instruments, Chapter 4, Bank Deposits and Collections, Chapter 7, Documents
+
+    of Title, and Chapter 8, Investment Securities, because of the presentation or transfer of documents
+
+    covered by any of those chapters.
+
+        Section 13.  Section  70A-5-111 is repealed and reenacted to read:
+
+         70A-5-111.  Remedies.
+
+        (1)  If an issuer wrongfully dishonors or repudiates its obligation to pay money under a letter
+
+    of credit before presentation, the beneficiary, successor, or nominated person presenting on its own
+
+    behalf may recover from the issuer the amount that is the subject of the dishonor or repudiation.  If
+
+    the issuer's obligation under the letter of credit is not for the payment of money, the claimant may
+
+    obtain specific performance or, at the claimant's election, recover an amount equal to the value of
+
+    performance from the issuer.  In either case, the claimant may also recover incidental but not
+
+    consequential damages.  The claimant is not obligated to take action to avoid damages that might
+
+    be due from the issuer under this Subsection (1).  If, although not obligated to do so, the claimant
+
+    avoids damages, the claimant's recovery from the issuer must be reduced by the amount of damages
+
+    avoided.  The issuer has the burden of proving the amount of damages avoided.  In the case of
+
+    repudiation the claimant need not present any document.
+
+- 10 -
+
+
+        (2)  If an issuer wrongfully dishonors a draft or demand presented under a letter of credit or
+
+    honors a draft or demand in breach of its obligation to the applicant, the applicant may recover
+
+    damages resulting from the breach, including incidental but not consequential damages, less any
+
+    amount saved as a result of the breach.
+
+        (3)  If an adviser or nominated person other than a confirmer breaches an obligation under
+
+    this chapter or an issuer breaches an obligation not covered in Subsection (1) or (2), a person to
+
+    whom the obligation is owed may recover damages resulting from the breach, including incidental
+
+    but not consequential damages, less any amount saved as a result of the breach.  To the extent of the
+
+    confirmation, a confirmer has the liability of an issuer specified in this Subsection (3) and
+
+    Subsections (1) and (2).
+
+        (4)  An issuer, nominated person, or adviser who is found liable under Subsection (1), (2),
+
+    or (3) shall pay interest on the amount owed thereunder from the date of wrongful dishonor or other
+
+    appropriate date.
+
+        (5)  Reasonable attorney's fees and other expenses of litigation must be awarded to the
+
+    prevailing party in an action in which a remedy is sought under this chapter.
+
+        (6)  Damages that would otherwise be payable by a party for breach of an obligation under
+
+    this chapter may be liquidated by agreement or undertaking, but only in an amount or by a formula
+
+    that is reasonable in light of the harm anticipated.
+
+        Section 14.  Section  70A-5-112 is repealed and reenacted to read:
+
+         70A-5-112.  Transfer of letter of credit.
+
+        (1)  Except as otherwise provided in Section 70A-5-113, unless a letter of credit provides that
+
+    it is transferable, the right of a beneficiary to draw or otherwise demand performance under a letter
+
+    of credit may not be transferred.
+
+        (2)  Even if a letter of credit provides that it is transferable, the issuer may refuse to recognize
+
+    or carry out a transfer if:
+
+        (a)  the transfer would violate applicable law; or
+
+        (b)  the transferor or transferee has failed to comply with any requirement stated in the letter
+
+    of credit or any other requirement relating to transfer imposed by the issuer which is within the
+
+- 11 -
+
+
+    standard practice referred to in Subsection 70A-5-108(5) or is otherwise reasonable under the
+
+    circumstances.
+
+        Section 15.  Section  70A-5-113 is repealed and reenacted to read:
+
+         70A-5-113.  Transfer by operation of law.
+
+        (1)  A successor of a beneficiary may consent to amendments, sign and present documents,
+
+    and receive payment or other items of value in the name of the beneficiary without disclosing its
+
+    status as a successor.
+
+        (2)  A successor of a beneficiary may consent to amendments, sign and present documents,
+
+    and receive payment or other items of value in its own name as the disclosed successor of the
+
+    beneficiary.  Except as otherwise provided in Subsection (5), an issuer shall recognize a disclosed
+
+    successor of a beneficiary as beneficiary in full substitution for its predecessor upon compliance with
+
+    the requirements for recognition by the issuer of a transfer of drawing rights by operation of law
+
+    under the standard practice referred to in Subsection 70A-5-108(5) or, in the absence of such a
+
+    practice, compliance with other reasonable procedures sufficient to protect the issuer.
+
+        (3)  An issuer is not obliged to determine whether a purported successor is a successor of a
+
+    beneficiary or whether the signature of a purported successor is genuine or authorized.
+
+        (4)  Honor of a purported successor's apparently complying presentation under Subsection
+
+    (1) or (2) has the consequences specified in Subsection 70A-5-108(9) even if the purported successor
+
+    is not the successor of a beneficiary.  Documents signed in the name of the beneficiary or of a
+
+    disclosed successor by a person who is neither the beneficiary nor the successor of the beneficiary
+
+    are forged documents for the purposes of Section 70A-5-109.
+
+        (5)  An issuer whose rights of reimbursement are not covered by Subsection (4) or
+
+    substantially similar law and any confirmer or nominated person may decline to recognize a
+
+    presentation under Subsection (2).
+
+        (6)  A beneficiary whose name is changed after the issuance of a letter of credit has the same
+
+    rights and obligations as a successor of a beneficiary under this section.
+
+        Section 16.  Section  70A-5-114 is repealed and reenacted to read:
+
+         70A-5-114.  Assignment of proceeds.
+
+- 12 -
+
+
+        (1)  In this section, "proceeds of a letter of credit" means the cash, check, accepted draft, or
+
+    other item of value paid or delivered upon honor or giving of value by the issuer or any nominated
+
+    person under the letter of credit.  The term does not include a beneficiary's drawing rights or
+
+    documents presented by the beneficiary.
+
+        (2)  A beneficiary may assign its right to part or all of the proceeds of a letter of credit.  The
+
+    beneficiary may do so before presentation as a present assignment of its right to receive proceeds
+
+    contingent upon its compliance with the terms and conditions of the letter of credit.
+
+        (3)  An issuer or nominated person need not recognize an assignment of proceeds of a letter
+
+    of credit until it consents to the assignment.
+
+        (4)  An issuer or nominated person has no obligation to give or withhold its consent to an
+
+    assignment of proceeds of a letter of credit, but consent may not be unreasonably withheld if the
+
+    assignee possesses and exhibits the letter of credit and presentation of the letter of credit is a
+
+    condition to honor.
+
+        (5)  Rights of a transferee beneficiary or nominated person are independent of the
+
+    beneficiary's assignment of the proceeds of a letter of credit and are superior to the assignee's right
+
+    to the proceeds.
+
+        (6)  Neither the rights recognized by this section between an assignee and an issuer,
+
+    transferee beneficiary, or nominated person nor the issuer's or nominated person's payment of
+
+    proceeds to an assignee or a third person affect the rights between the assignee and any person other
+
+    than the issuer, transferee beneficiary, or nominated person.  The mode of creating and perfecting
+
+    a security interest in or granting an assignment of a beneficiary's rights to proceeds is governed by
+
+    Title 70A, Chapter 9, Secured Transactions, or other law.  Against persons other than the issuer,
+
+    transferee beneficiary, or nominated person, the rights and obligations arising upon the creation of
+
+    a security interest or other assignment of a beneficiary's right to proceeds and its perfection are
+
+    governed by Title 70A, Chapter 9, Secured Transactions, or other law.
+
+        Section 17.  Section  70A-5-115 is repealed and reenacted to read:
+
+         70A-5-115.  Statute of limitations.
+
+        An action to enforce a right or obligation arising under this chapter must be commenced
+
+- 13 -
+
+
+    within one year after the expiration date of the relevant letter of credit or one year after the cause of
+
+    action accrues, whichever occurs later.  A cause of action accrues when the breach occurs, regardless
+
+    of the aggrieved party's lack of knowledge of the breach.
+
+        Section 18.  Section  70A-5-116 is repealed and reenacted to read:
+
+         70A-5-116.  Choice of law and forum.
+
+        (1)  The liability of an issuer, nominated person, or adviser for action or omission is governed
+
+    by the law of the jurisdiction chosen by an agreement in the form of a record signed or otherwise
+
+    authenticated by the affected parties in the manner provided in Section 70A-5-104 or by a provision
+
+    in the person's letter of credit, confirmation, or other undertaking.  The jurisdiction whose law is
+
+    chosen need not bear any relation to the transaction.
+
+        (2)  Unless Subsection (1) applies, the liability of an issuer, nominated person, or adviser for
+
+    action or omission is governed by the law of the jurisdiction in which the person is located.  The
+
+    person is considered to be located at the address indicated in the person's undertaking.  If more than
+
+    one address is indicated, the person is considered to be located at the address from which the person's
+
+    undertaking was issued.  For the purpose of jurisdiction, choice of law, and recognition of
+
+    interbranch letters of credit, but not enforcement of a judgment, all branches of a bank are considered
+
+    separate juridical entities and a bank is considered to be located at the place where its relevant branch
+
+    is considered to be located under this Subsection (2).
+
+        (3) (a)  Except as otherwise provided in this Subsection (3)(a), the liability of an issuer,
+
+    nominated person, or adviser is governed by any rules of custom or practice, such as the Uniform
+
+    Customs and Practice for Documentary Credits, to which the letter of credit, confirmation, or other
+
+    undertaking is expressly made subject.
+
+        (b)  If  this chapter would govern the liability of an issuer, nominated person, or adviser under
+
+    Subsection (1) or (2):
+
+        (i)  the relevant undertaking incorporates rules of custom or practice; and
+
+        (ii)  there is conflict between this chapter and those rules as applied to that undertaking, those
+
+    rules govern except to the extent of any conflict with the nonvariable provisions specified in
+
+    Subsection 70A-5-103(3).
+
+- 14 -
+
+
+        (4)  If there is conflict between this chapter and Title 70A. Chapter 3, Commercial Paper,
+
+    Chapter 4, Bank Deposits and Collections, Chapter 4a, Funds Transfers, or Chapter 9, Secured
+
+    Transactions, this chapter governs.
+
+        (5)  The forum for settling disputes arising out of an undertaking within this chapter may be
+
+    chosen in the manner and with the binding effect that governing law may be chosen in accordance
+
+    with Subsection (1).
+
+        Section 19.  Section  70A-5-117 is repealed and reenacted to read:
+
+         70A-5-117.  Subrogation of issuer, applicant, and nominated person.
+
+        (1)  An issuer that honors a beneficiary's presentation is subrogated to the rights of the
+
+    beneficiary to the same extent as if the issuer were a secondary obligor of the underlying obligation
+
+    owed to the beneficiary and of the applicant to the same extent as if the issuer were the secondary
+
+    obligor of the underlying obligation owed to the applicant.
+
+        (2)  An applicant that reimburses an issuer is subrogated to the rights of the issuer against any
+
+    beneficiary, presenter, or nominated person to the same extent as if the applicant were the secondary
+
+    obligor of the obligations owed to the issuer and has the rights of subrogation of the issuer to the
+
+    rights of the beneficiary stated in Subsection (1).
+
+        (3)  A nominated person who pays or gives value against a draft or demand presented under
+
+    a letter of credit is subrogated to the rights of:
+
+        (a)  the issuer against the applicant to the same extent as if the nominated person were a
+
+    secondary obligor of the obligation owed to the issuer by the applicant;
+
+        (b)  the beneficiary to the same extent as if the nominated person were a secondary obligor
+
+    of the underlying obligation owed to the beneficiary; and
+
+        (c)  the applicant to the same extent as if the nominated person were a secondary obligor of
+
+    the underlying obligation owed to the applicant.
+
+        (4)  Notwithstanding any agreement or term to the contrary, the rights of subrogation stated
+
+    in Subsections (1) and (2) do not arise until the issuer honors the letter of credit or otherwise pays
+
+    and the rights in Subsection (3) do not arise until the nominated person pays or otherwise gives
+
+    value.  Until then, the issuer, nominated person, and the applicant do not derive under this section
+
+- 15 -
+
+
+    present or prospective rights forming the basis of a claim, defense, or excuse.
+
+        Section 20.  Section  70A-5-118 is enacted to read:
+
+         70A-5-118.  Applicability.
+
+        This act applies to a letter of credit that is issued on or after July 1, 1997.  This act does not
+
+    apply to a transaction, event, obligation, or duty arising out of or associated with a letter of credit
+
+    that was issued before July 1, 1997.
+
+        Section 21.  Section  70A-5-119 is enacted to read:
+
+         70A-5-119.  Savings clause.
+
+        A transaction arising out of or associated with a letter of credit that was issued before July
+
+    1, 1997, and the rights, obligations, and interests flowing from that transaction are governed by any
+
+    statute or other law amended or repealed by this act as if repeal or amendment had not occurred and
+
+    may be terminated, completed, consummated, or enforced under that statute or other law.
+
+        Section 22.  Section  70A-9-103 is amended to read:
+
+         70A-9-103.  Perfection of security interests in multiple state transactions.
+
+        (1)  Documents, instruments, letters of credit, and ordinary goods.
+
+        (a)  This Subsection (1) applies to documents [and], instruments, rights to proceeds of written
+
+    letters of credit, and [to] goods other than those covered by a certificate of title described in
+
+    Subsection (2), mobile goods described in Subsection (3), and minerals described in Subsection (5).
+
+        (b)  Except as otherwise provided in this subsection, perfection and the effect of perfection
+
+    or nonperfection of a security interest in collateral are governed by the law of the jurisdiction where
+
+    the collateral is when the last event occurs on which is based the assertion that the security interest
+
+    is perfected or unperfected.
+
+        (c)  If the parties to a transaction creating a purchase money security interest in goods in one
+
+    jurisdiction understand at the time that the security interest attaches that the goods will be kept in
+
+    another jurisdiction, then the law of the other jurisdiction governs the perfection and the effect of
+
+    perfection or nonperfection of the security interest from the time it attaches until 30 days after the
+
+    debtor receives possession of the goods and thereafter if the goods are taken to the other jurisdiction
+
+    before the end of the 30-day period.
+
+- 16 -
+
+
+        (d)  When collateral is brought into and kept in this state while subject to a security interest
+
+    perfected under the law of the jurisdiction from which the collateral was removed, the security
+
+    interest remains perfected, but if action is required by Part 3 of this chapter to perfect the security
+
+    interest:
+
+        (i)  if the action is not taken before the expiration of the period of perfection in the other
+
+    jurisdiction or the end of four months after the collateral is brought into this state, whichever period
+
+    first expires, the security interest becomes unperfected at the end of that period and is thereafter
+
+    [deemed] considered to have been unperfected as against a person who became a purchaser after
+
+    removal;
+
+        (ii)  if the action is taken before the expiration of the period specified in Subsection (i), the
+
+    security interest continues perfected thereafter; or
+
+        (iii)  for the purpose of priority over a buyer of consumer goods as provided in Subsection
+
+    70A-9-307(2), the period of the effectiveness of a filing in the jurisdiction from which the collateral
+
+    is removed is governed by the rules with respect to perfection in Subsections (i) and (ii).
+
+        (2)  Certificate of title.
+
+        (a)  This subsection applies to goods covered by a certificate of title issued under a statute
+
+    of this state or of another jurisdiction under the law of which indication of a security interest on the
+
+    certificate is required as a condition of perfection.
+
+        (b)  Except as otherwise provided in this subsection, perfection and the effect of perfection
+
+    or nonperfection of the security interest are governed by the laws, including the conflict of law rules,
+
+    of the jurisdiction issuing the certificate until four months after the goods are removed from that
+
+    jurisdiction and thereafter until the goods are registered in another jurisdiction, but in any event not
+
+    beyond surrender of the certificate.  After the expiration of that period, the goods are not covered by
+
+    the certificate of title within the meaning of this section.
+
+        (c)  Except with respect to the rights of a buyer described in the next paragraph, a security
+
+    interest, perfected in another jurisdiction otherwise than by notation on a certificate of title, in goods
+
+    brought into this state and thereafter covered by a certificate of title issued by this state is subject to
+
+    the rules stated in Subsection (1)(d).
+
+- 17 -
+
+
+        (d)  If goods are brought into this state while a security interest therein is perfected in any
+
+    manner under the law of the jurisdiction from which the goods are removed and a certificate of title
+
+    is issued by this state and the certificate does not show that the goods are subject to the security
+
+    interest or that they may be subject to security interests not shown on the certificate, the security
+
+    interest is subordinate to the rights of a buyer of the goods who is not in the business of selling goods
+
+    of that kind to the extent that he gives value and receives delivery of the goods after issuance of the
+
+    certificate and without knowledge of the security interest.
+
+        (3)  Accounts, general intangibles, and mobile goods.
+
+        (a)  This subsection applies to accounts, other than an account described in Subsection (5)
+
+    on minerals, and general intangibles, other than uncertificated securities, and to goods which are
+
+    mobile and which are of a type normally used in more than one jurisdiction, such as motor vehicles,
+
+    trailers, rolling stock, airplanes, shipping containers, road building and construction machinery, and
+
+    commercial harvesting machinery and the like, if the goods are equipment or are inventory leased
+
+    or held for lease by the debtor to others and are not covered by a certificate of title described in
+
+    Subsection (2).
+
+        (b)  The law, including the conflict of laws rules, of the jurisdiction in which the debtor is
+
+    located governs the perfection and the effect of perfection or nonperfection of the security interest.
+
+        (c)  If, however, the debtor is located in a jurisdiction which is not a part of the United States,
+
+    and which does not provide for perfection of the security interest by filing or recording in that
+
+    jurisdiction, the law of the jurisdiction in the United States in which the debtor has its major
+
+    executive office in the United States governs the perfection and the effect of perfection or
+
+    nonperfection of the security interest through filing.  In the alternative, if the debtor is located in a
+
+    jurisdiction which is not a part of the United States or Canada and the collateral is accounts or
+
+    general intangibles for money due or to become due, the security interest may be perfected by
+
+    notification to the account debtor.  As used in this paragraph, "United States" includes its territories
+
+    and possessions and the Commonwealth of Puerto Rico.
+
+        (d)  A debtor shall be deemed located at his place of business if he has one, at his chief
+
+    executive office if he has more than one place of business, otherwise at his residence.  If, however,
+
+- 18 -
+
+
+    the debtor is a foreign air carrier under the Federal Aviation Act of 1958, as amended, it shall be
+
+    deemed located at the designated office of the agent upon whom service of process may be made on
+
+    behalf of the foreign air carrier.
+
+        (e)  A security interest perfected under the law of the jurisdiction of the location of the debtor
+
+    is perfected until the expiration of four months after a change of the debtor's location to another
+
+    jurisdiction, or until perfection would have ceased by the law of the first jurisdiction, whichever
+
+    period first expires.  Unless perfected in the new jurisdiction before the end of that period, it
+
+    becomes unperfected thereafter and is deemed to have been unperfected as against a person who
+
+    became a purchaser after the change.
+
+        (4)  Chattel paper.  The rules stated for goods in Subsection (1) apply to a possessory security
+
+    interest in chattel paper.  The rules stated for accounts in Subsection (3) apply to a nonpossessory
+
+    security interest in chattel paper, but the security interest may not be perfected by notification to the
+
+    account debtor.
+
+        (5)  Minerals.  Perfection and the effect of perfection or nonperfection of a security interest
+
+    which is created by a debtor who has an interest in minerals or the like, including oil and gas, before
+
+    extraction and which attaches thereto as extracted, or which attaches to an account resulting from
+
+    the sale thereof at the wellhead or minehead are governed by the law, including the conflict of laws
+
+    rules, of the jurisdiction wherein the wellhead or minehead is located.
+
+        (6)  Investment property.
+
+        (a)  Except as otherwise provided in Subsection (e), during the time that a security certificate
+
+    is located in a jurisdiction, perfection of a security interest, the effect of perfection or nonperfection,
+
+    and the priority of a security interest in the certificated security represented thereby are governed by
+
+    the local law of that jurisdiction.
+
+        (b)  Except as otherwise provided in Subsection (e), perfection of a security interest, the
+
+    effect of perfection or nonperfection, and the priority of a security interest in an uncertificated
+
+    security are governed by the local law of the issuer's jurisdiction as specified in Subsection
+
+    70A-8-109(4).
+
+        (c)  Except as otherwise provided in Subsection (e), perfection of a security interest, the
+
+- 19 -
+
+
+    effect of perfection or nonperfection, and the priority of a security interest in a security entitlement
+
+    or securities account are governed by the local law of the securities intermediary's jurisdiction as
+
+    specified in Subsection 70A-8-109(5).
+
+        (d)  Except as otherwise provided in Subsection (e), perfection of a security interest, the
+
+    effect of perfection or nonperfection, and the priority of a security interest in a commodity contract
+
+    or commodity account are governed by the local law of the commodity intermediary's jurisdiction. 
+
+    The following rules determine a "commodity intermediary's jurisdiction" for purposes of this
+
+    Subsection (6):
+
+        (i)  If an agreement between the commodity intermediary and commodity customer specifies
+
+    that it is governed by the law of a particular jurisdiction, that jurisdiction is the commodity
+
+    intermediary's jurisdiction.
+
+        (ii)  If an agreement between the commodity intermediary and commodity customer does not
+
+    specify the governing law as provided in Subsection (i), but expressly specifies that the commodity
+
+    account is maintained at an office in a particular jurisdiction, that jurisdiction is the commodity
+
+    intermediary's jurisdiction.
+
+        (iii)  If an agreement between the commodity intermediary and commodity customer does
+
+    not specify a jurisdiction as provided in Subsection (i) or (ii), the commodity intermediary's
+
+    jurisdiction is the jurisdiction in which is located the office identified in an account statement as the
+
+    office serving the commodity customer's account.
+
+        (iv)  If an agreement between the commodity intermediary and commodity customer does
+
+    not specify a jurisdiction as provided in Subsection (i) or (ii) and an account statement does not
+
+    identify an office serving the commodity customer's account as provided in Subsection (iii), the
+
+    commodity intermediary's jurisdiction is the jurisdiction in which is located the chief executive
+
+    office of the commodity intermediary.
+
+        (e)  Perfection of a security interest by filing, automatic perfection of a security interest in
+
+    investment property granted by a broker or securities intermediary, and automatic perfection of a
+
+    security interest in a commodity contract or commodity account granted by a commodity
+
+    intermediary are governed by the local law of the jurisdiction in which the debtor is located.  The
+
+- 20 -
+
+
+    rules in Subsections (3)(c), (d), and (e) apply to security interests to which this paragraph applies.
+
+        Section 23.  Section  70A-9-104 is amended to read:
+
+         70A-9-104.  Transactions excluded from chapter.
+
+        This chapter does not apply:
+
+        (a)  to a security interest subject to any statute of the United States to the extent that such
+
+    statute governs the rights of parties to and third parties affected by transactions in particular types
+
+    of property; [or]
+
+        (b)  to a landlord's lien; [or]
+
+        (c)  to a lien given by statute or other rule of law for services or materials except as provided
+
+    in Section 70A-9-310 on priority of such liens; [or]
+
+        (d)  to a transfer of a claim for wages, salary, or other compensation of an employee; [or]
+
+        (e)  to a transfer by a government or governmental subdivision or agency; [or]
+
+        (f)  to a sale of accounts or chattel paper as part of a sale of the business out of which they
+
+    arose, or an assignment of accounts or chattel paper which is for the purpose of collection only, or
+
+    a transfer of a right to payment under a contract to an assignee who is also to do the performance
+
+    under the contract, or a transfer of a single account to an assignee in whole or partial satisfaction of
+
+    a preexisting indebtedness; [or]
+
+        (g)  to a transfer of an interest or claim in or under any policy of insurance or any contract
+
+    for an annuity (including a variable annuity), except as provided with respect to proceeds (Section
+
+    70A-9-306) and priorities in proceeds (Section 70A-9-312); [or]
+
+        (h)  to a right represented by a judgment (other than a judgment taken on a right to payment
+
+    which was collateral); [or]
+
+        (i)  to any right of setoff; [or]
+
+        (j)  except to the extent that provision is made for fixtures in Section 70A-9-313, to the
+
+    creation or transfer of an interest in or lien on real estate, including a lease or rents thereunder; [or]
+
+        (k)  to a transfer in whole or in part of any claim arising out of tort; [or]
+
+        (l)  to a transfer of interest in any deposit account (Subsection (1) of Section 70A-9-105),
+
+    except as provided with respect to proceeds (Section 70A-9-306) and priorities in proceeds (Section
+
+- 21 -
+
+
+    70A-9-312)[.]; or
+
+        (m)  to a transfer of an interest in a letter of credit other than the rights to proceeds of a
+
+    written letter of credit.
+
+        Section 24.  Section  70A-9-105 is amended to read:
+
+         70A-9-105.  Definitions and index of definitions.
+
+        (1)  In this chapter unless the context otherwise requires:
+
+        (a)  "Account debtor" means the person who is obligated on an account, chattel paper, or
+
+    general intangible.
+
+        (b)  "Chattel paper" means a writing or writings which evidence both a monetary obligation
+
+    and a security interest in or a lease of specific goods, but a charter or other contract involving the use
+
+    or hire of a vessel is not chattel paper.  When a transaction is evidenced both by such a security
+
+    agreement or a lease and by an instrument or a series of instruments, the group of writings taken
+
+    together constitutes chattel paper.
+
+        (c)  "Collateral" means the property subject to a security interest, and includes accounts and
+
+    chattel paper which have been sold.
+
+        (d)  "Debtor" means the person who owes payment or other performance of the obligation
+
+    secured, whether or not he owns or has rights in the collateral, and includes the seller of accounts
+
+    or chattel paper.  Where the debtor and the owner of the collateral are not the same person, the term
+
+    "debtor" means the owner of the collateral in any provision of the chapter dealing with the collateral,
+
+    the obligor in any provision dealing with the obligation, and may include both where the context so
+
+    requires.
+
+        (e)  "Deposit account" means a demand, time, savings, passbook, or like account maintained
+
+    with a bank, savings and loan association, credit union, or like organization, other than an account
+
+    evidenced by a certificate of deposit.
+
+        (f)  "Document" means document of title as defined in the general definitions of [Chapter 1
+
+    (]Section 70A-1-201[),] and a receipt of the kind described in Subsection 70A-7-201(2).
+
+        (g)  "Encumbrance" includes real estate mortgages and other liens on real estate and all other
+
+    rights in real estate that are not ownership interests.
+
+- 22 -
+
+
+        (h)  "Goods" includes all things which are movable at the time the security interest attaches
+
+    or which are fixtures as provided in Section 70A-9-313, but does not include money, documents,
+
+    instruments, investment property, accounts, chattel paper, general intangibles, or minerals or the like,
+
+    including oil and gas, before extraction.  "Goods" also include standing timber which is to be cut and
+
+    removed under a conveyance or contract for sale, the unborn young of animals, and growing crops.
+
+        (i)  "Instrument" means a negotiable instrument, as defined in Section 70A-3-104, or any
+
+    other writing which evidences a right to the payment of money and is not itself a security agreement
+
+    or lease and is of a type which is in ordinary course of business transferred by delivery with any
+
+    necessary indorsement or assignment.  The term does not include investment property.
+
+        (j)  "Letter of credit" means the definition as provided in Section 70A-5-102.
+
+        [(j)] (k)  "Mortgage" means a consensual interest created by a real estate, mortgage, a trust
+
+    deed on real estate or the like.
+
+        (l)  "Proceeds of a letter of credit" means the definition as provided in Section 70A-5-114.
+
+        [(k)] (m)  An advance is made "pursuant to commitment" if the secured party has bound
+
+    himself to make it, whether or not a subsequent event of default or other event not within his control
+
+    has relieved or may relieve him from his obligation.
+
+        [(l)] (n)  "Security agreement" means an agreement which creates or provides for a security
+
+    interest.
+
+        [(m)] (o)  "Secured party" means a lender, seller, or other person in whose favor there is a
+
+    security interest, including a person to whom accounts or chattel paper have been sold.  When the
+
+    holders of obligations issued under an indenture of trust, equipment trust agreement, or the like are
+
+    represented by a trustee or other person, the representative is the secured party.
+
+        [(n)] (p)  "Transmitting utility" means any person primarily engaged in the railroad, street
+
+    railway or trolley bus business, the electric or electronics communications transmission business,
+
+    the transmission of goods by pipeline, or the transmission or the production and transmission of
+
+    electricity, steam, gas, or water, or the provision of sewer service.
+
+        (2)  Other definitions applying to this chapter and the sections in which they appear are:
+
+        "Account," Section 70A-9-106;
+
+- 23 -
+
+
+        "Attach," Section 70A-9-203;
+
+        "Commodity contract," Section 70A-9-115;
+
+        "Commodity customer," Section 70A-9-115;
+
+        "Commodity intermediary," Section 70A-9-115;
+
+        "Construction mortgage," [Subsection] Section 70A-9-313[(1)];
+
+        "Consumer goods," [Subsection] Section 70A-9-109[(1)];
+
+        "Control," Section 70A-9-115;
+
+        "Equipment," [Subsection] Section 70A-9-109[(2)];
+
+        "Farm products," [Subsection] Section 70A-9-109[(3)];
+
+        "Fixture," Section 70A-9-313;
+
+        "Fixture filing," Section 70A-9-313;
+
+        "General intangibles," Section 70A-9-106;
+
+        "Inventory," [Subsection] Section 70A-9-109[(4)];
+
+        "Investment property," Section 70A-9-115;
+
+        "Lien creditor," [Subsection] Section 70A-9-301[(3)];
+
+        "Proceeds," [Subsection] Section 70A-9-306[(1)];
+
+        "Purchase money security interest," Section 70A-9-107; and
+
+        "United States;" Section 70A-9-103.
+
+        (3)  The following definitions in other chapters apply to this chapter:
+
+        "Broker," Section 70A-8-101;
+
+        "Certificated security," Section 70A-8-101;
+
+        "Check," Section 70A-3-104;
+
+        "Clearing corporation," Section 70A-8-101;
+
+        "Contract for sale," Section 70A-2-106;
+
+        "Control," Section 70A-8-105;
+
+        "Delivery," Section 70A-8-301;
+
+        "Entitlement holder," Section 70A-8-101;
+
+        "Financial asset," Section 70A-8-101;
+
+- 24 -
+
+
+        "Holder in due course," Section 70A-3-302;
+
+        "Note," Section 70A-3-104;
+
+        "Sale[;]," Section 70A-2-106;
+
+        "Securities intermediary," Section 70A-8-101;
+
+        "Security," Section 70A-8-101;
+
+        "Security certificate," Section 70A-8-101;
+
+        "Security entitlement," Section 70A-8-101; and
+
+        "Uncertificated security," Section 70A-8-101.
+
+        (4)  In addition, Title 70A, Chapter 1, General Provisions, contains general definitions and
+
+    principles of construction and interpretation applicable throughout this chapter.
+
+        Section 25.  Section  70A-9-106 is amended to read:
+
+         70A-9-106.  Definitions -- "Account" -- "General intangibles."
+
+        "Account" means any right to payment for goods sold or leased or for services rendered
+
+    which is not evidenced by an instrument or chattel paper, whether or not it has been earned by
+
+    performance.  "General intangibles" means any personal property (including things in action) other
+
+    than goods, accounts, chattel paper, documents, instruments, investment property, rights to proceeds
+
+    of written letters of credit, and money.  All rights to payment earned or unearned under a charter or
+
+    other contract involving the use or hire of a vessel and all rights incident to the charter or contract
+
+    are accounts.
+
+        Section 26.  Section  70A-9-304 is amended to read:
+
+         70A-9-304.  Perfection of security interest in instruments, documents, proceeds of a
+
+     written letter of credit, and goods covered by documents -- Perfection by permissive filing --
+
+     Temporary perfection without filing or transfer of possession.
+
+        (1)  A security interest in chattel paper or negotiable documents may be perfected by filing. 
+
+    A security interest in the rights to proceeds of a written letter of credit can be perfected only by the
+
+    secured party's taking possession of the letter of credit.  A security interest in money or instruments,
+
+    other than instruments which constitute part of chattel paper, can be perfected only by the secured
+
+    party's taking possession, except as provided in Subsections (4) and (5) of this section and
+
+- 25 -
+
+
+    Subsections (2) and (3) of Section 70A-9-306 on proceeds.
+
+        (2)  During the period that goods are in the possession of the issuer of a negotiable document
+
+    therefor, a security interest in the goods is perfected by perfecting a security interest in the document,
+
+    and any security interest in the goods otherwise perfected during such period is subject thereto.
+
+        (3)  A security interest in goods in the possession of a bailee other than one who has issued
+
+    a negotiable document therefor is perfected by issuance of a document in the name of the secured
+
+    party or by the bailee's receipt of notification of the secured party's interest or by filing as to the
+
+    goods.
+
+        (4)  A security interest in instruments, certificated securities, or negotiable documents is
+
+    perfected without filing or the taking of possession for a period of 21 days from the time it attaches
+
+    to the extent that it arises for new value given under a written security agreement.
+
+        (5)  A security interest remains perfected for a period of 21 days without filing where a
+
+    secured party having a perfected security interest in an instrument, a certificated security, a
+
+    negotiable document, or goods in possession of a bailee other than one who has issued a negotiable
+
+    document therefor:
+
+        (a)  makes available to the debtor the goods or documents representing the goods for the
+
+    purpose of ultimate sale or exchange or for the purpose of loading, unloading, storing, shipping,
+
+    transshipping, manufacturing, processing, or otherwise dealing with them in a manner preliminary
+
+    to their sale or exchange, but priority between conflicting security interests in the goods is subject
+
+    to Section 70A-9-312; or
+
+        (b)  delivers the instrument or certificated security to the debtor for the purpose of ultimate
+
+    sale or exchange or of presentation, collection, renewal, or registration of transfer.
+
+        (6)  After the 21-day period in Subsections (4) and (5), perfection depends upon compliance
+
+    with applicable provisions of this chapter.
+
+        Section 27.  Section  70A-9-305 is amended to read:
+
+         70A-9-305.  When possession by secured party perfects security interest without filing.
+
+        A security interest in [letters of credit and advices of credit as provided in Subsection
+
+    70A-5-116(2)(a),] goods, instruments, money, negotiable documents, or chattel paper may be
+
+- 26 -
+
+
+    perfected by the secured party's taking possession of the collateral.  A security interest in the right
+
+    to proceeds of a written letter of credit may be perfected by the secured party's taking possession of
+
+    a letter of credit.  If such collateral other than goods covered by a negotiable document is held by
+
+    a bailee, the secured party is deemed to have possession from the time the bailee receives notification
+
+    of the secured party's interest.  A security interest is perfected by possession from the time
+
+    possession is taken without relation back and continues only so long as possession is retained, unless
+
+    otherwise specified in this chapter.  The security interest may be otherwise perfected as provided in
+
+    this chapter before or after the period of possession by the secured party.
+
+        Section 28.   Effective date.
+
+        This act takes effect on July 1, 1997.
+
+- 27 -
+[Bill Documents][Bills Directory]
+
+
+
+
+
+
+
+
+
+Who represents me?
+
+
+
+
+
+Remember my Legislators
+
+
+
+
+
+State Senate
+		350 North State, Suite 320
+		PO Box 145115
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1035
+		Fax: (801) 326-1475
+
+
+
+House of Representatives
+		350 North State, Suite 350
+		PO Box 145030
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1029
+		Fax: (801) 326-1544
+
+
+
+
+
+
+
+
+
+
+Home
+Mobile Site
+Site Map
+Calendar
+Code / Constitution
+House
+Senate
+
+Terms of Use/Privacy Policy
+
+ADA
+Utah.gov
+
+
+
+
+
+
+

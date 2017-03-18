@@ -1,0 +1,6168 @@
+Sponsors: []Modifications: (a); and(b)  beginning in the 2009-10 school year, an annual increase in charter schoolenrollment capacity equal to 1.4% of total school district enrollment as of October 1 of theprevious school year.(a)(b)  One-third of the student capacity described under Subsection (1)(b) shall beallocated to increase the maximum student capacity of operating charter schools.(c)  If the operating charter schools do not use the allocation described under Subsection(2)(b), the remaining student capacity may be used by new charter schools.(1)  As used in this section:(a)  "Charter school students' average local revenues" means the amount determined asfollows:(i)  for each student enrolled in a charter school on the previous October 1, calculate thedistrict per pupil local revenues of the school district in which the student resides;(ii)  sum the district per pupil local revenues for each student enrolled in a charter schoolon the previous October 1; and(iii)  divide the sum calculated under Subsection (1)(a)(ii) by the number of studentsenrolled in charter schools on the previous October 1.(b)  "District per pupil local revenues" means the amount determined as follows, usingdata from the most recently published school district annual financial reports and statesuperintendent's annual report:(i)  calculate the sum of a school district's revenue received from:(A)  a voted levy imposed under Section 
+
+53A-17a-133
+
+;(B)  a board levy imposed under Section 
+
+53A-17a-134
+
+;(C)  10% of the cost of the basic program levy imposed under Section 
+
+53A-17a-145
+
+;(D)  a tort liability levy imposed under Section 
+
+63-30d-704
+
+;(E)  a capital outlay levy imposed under Section 
+
+53A-16-107
+
+; and(F)  a voted capital outlay levy imposed under Section 
+
+53A-16-110
+
+; and(ii)  divide the sum calculated under Subsection (1)(b)(i) by the sum of:(A)  a school district's average daily membership; and(B)  the average daily membership of a school district's resident students who attendcharter schools.(c)  "Resident student" means a student who is considered a resident of the schooldistrict under Title 53A, Chapter 2, District of Residency.(d)  "Statewide average debt service revenues" means the amount determined as follows,using data from the most recently published state superintendent's annual report:(i)  sum the revenues of each school district from the debt service levy imposed underSection 
+
+11-14-310
+
+; and(ii)  divide the sum calculated under Subsection (1)(d)(i) by statewide school districtaverage daily membership.(2)(3)(8)(2)(3)(3)(4) (a) (i)  Except as provided in Subsection (4)(a)(ii), a school district shall allocate aportion of school district revenues for each resident student of the school district who isenrolled in a charter school on October 1 equal to 25% of the lesser of:(A)  district per pupil local revenues; or(B)  charter school students' average local revenues.(ii)  For the purpose of allocating school district revenues under Subsection (4)(a)(i), akindergarten student who is enrolled in less than a full-day kindergarten program is weighted as.55 of a student.(iii)  Nothing in this Subsection (4)(a) affects the school bond guarantee programestablished under Chapter 28, Utah School Bond Guaranty Act.(b)  The State Board of Education shall:(i)  deduct an amount equal to the allocation provided under Subsection (4)(a) fromstate funds the school district is authorized to receive under Title 53A, Chapter 17a, MinimumSchool Program Act; and(ii)  remit the money to the student's charter school.(c)  Notwithstanding the method used to transfer school district revenues to charterschools as provided in Subsection (4)(b), a school district may deduct the allocations to charterschools under this section from:(i)  unrestricted revenues available to the school district; or(ii)  the revenue sources listed in Subsections (1)(b)(i)(A) through (F) based on theportion of the allocations to charter schools attributed to each of the revenue sources listed inSubsections (1)(b)(i)(A) through (F).(d) (i)  Subject to future budget constraints, the Legislature shall provide anappropriation for charter schools for each student enrolled on October 1 to supplement theallocation of school district revenues under Subsection (4)(a).(ii)  Except as provided in Subsections (4)(d)(iii) and (iv), the amount of moneyprovided by the state for a charter school student shall be the sum of:(A)  charter school students' average local revenues minus the allocation of schooldistrict revenues under Subsection (4)(a); and(B)  statewide average debt service revenues.(iii)  If the total of a school district's allocation for a charter school student underSubsection (4)(a) and the amount provided by the state under Subsection (4)(d)(ii) is less than$1427, the state shall provide an additional supplement so that a charter school receives at least$1427 per student under this Subsection (4).(iv)  For the purpose of providing state monies for charter school students under thisSubsection (4)(d), a kindergarten student who is enrolled in less than a full-day kindergartenprogram is weighted as .55 of a student.(e)this(3)    53A-1a-1001.As used in this part:(1)  "Contractor" means the educational technology provider selected by the StateBoard of Education under Section 
+
+53A-1a-1002
+
+.(2)  "Low income" means an income below 200% of the federal poverty guideline.(3)  "Preschool children" means children who are:(a)  age four or five; and(b)  have not entered kindergarten.(4)  "UPSTART" means the pilot project established by Section 
+
+53A-1a-1002
+
+ that usesa home-based educational technology program to develop school readiness skills of preschoolchildren.    53A-1a-1002.(1)  UPSTART, a pilot project that uses a home-based educational technology programto develop school readiness skills of preschool children, is established within the publiceducation system.(2)  UPSTART is created to:(a)  evaluate the effectiveness of giving preschool children access, at home, tointeractive individualized instruction delivered by computers and the Internet to prepare themacademically for success in school; and(b)  test the feasibility of scaling a home-based curriculum in reading, math, and sciencedelivered by computers and the Internet to all preschool children in Utah.(3)  The State Board of Education shall contract with an educational technologyprovider, selected through a request for proposals process, for the delivery of a home-basededucational technology program for preschool children that meets the requirements ofSubsection (4).(4)  A home-based educational technology program for preschool children shall meet thefollowing standards:(a)  the contractor shall provide computer-assisted instruction for preschool children ona home computer connected by the Internet to a centralized file storage facility;(b)  the contractor shall:(i)  provide technical support to families for the installation and operation of theinstructional software; and(ii)  provide for the installation of computer and Internet access in homes of low incomefamilies that cannot afford the equipment and service;(c)  the contractor shall have the capability of doing the following through the Internet:(i)  communicating with parents;(ii)  updating the instructional software;(iii)  validating user access;(iv)  collecting usage data;(v)  storing research data; and(vi)  producing reports for parents, schools, and the Legislature;(d)  the program shall include the following components:(i)  computer-assisted, individualized instruction in reading, mathematics, and science;(ii)  a multisensory reading tutoring program; and(iii)  a validated computer adaptive reading test that does not require the presence oftrained adults to administer and is an accurate indicator of reading readiness of children whocannot read;(e)  the contractor shall have the capability to quickly and efficiently modify, improve,and support the product;(f)  the contractor shall work in cooperation with school district personnel who willprovide administrative and technical support of the program as provided in Section
+
+53A-1a-1003
+
+;(g)  the contractor shall solicit families to participate in the program as provided inSection 
+
+53A-1a-1004
+
+; and(h)  in implementing the home-based educational technology program, the contractorshall seek the advise and expertise of early childhood education professionals within the UtahSystem of Higher Education on issues such as:(i)  soliciting families to participate in the program;(ii)  providing training to families; and(iii)  motivating families to regularly use the instructional software.(5)  The contract shall provide funding for a home-based educational technologyprogram for preschool children for one year with an option to extend the contract for additionalyears or to expand the program to a greater number of preschool children, subject to theappropriation of money by the Legislature for UPSTART.    53A-1a-1003.(1)  A school district may participate in UPSTART if the local school board agrees towork in cooperation with the contractor to provide administrative and technical support for thepilot project.(2)  Family participants in UPSTART shall be solicited from school districts thatparticipate in UPSTART.(3)  A school district that participates in UPSTART shall:(a)  receive funding for:(i)  paraprofessional and technical support staff; and(ii)  travel, materials, and meeting costs of the program;(b)  participate in program training by the contractor; and(c)  agree to adopt standardized policies and procedures in implementing the pilotproject.    53A-1a-1004.(1)  The contractor shall solicit families to participate in UPSTART through a publicinformation campaign and referrals from participating school districts.(2) (a)  Preschool children who participate in UPSTART shall:(i)  be from families with diverse socioeconomic and ethnic backgrounds; and(ii)  reside in different regions of the state in both urban and rural areas.(b)  At least 30% of the preschool children who participate in UPSTART shall be fromlow income families.(3)  A low income family that cannot afford a computer and Internet service to operatethe instructional software may obtain a computer and peripheral equipment on loan and receivefree Internet service for the duration of the family's participation in the pilot project.(4)  The contractor shall make the home-based educational technology programavailable to families at an agreed upon cost if the number of families who would like toparticipate in UPSTART exceeds the number of participants funded by the legislativeappropriation.    53A-1a-1005.The State Board of Education or a school district may purchase computers, peripheralequipment, and Internet service for low income families who cannot afford them throughcooperative purchasing contracts administered by the state Division of Purchasing and GeneralServices.    53A-1a-1006.(1)  The state auditor shall:(a)  conduct an annual audit of the contractor's use of funds for UPSTART; or(b)  contract with an independent certified public accountant to conduct an annual audit.(2)  The State Board of Education shall:(a)  require by contract that the contractor will open its books and records relating to itsexpenditure of funds pursuant to the contract to the state auditor or the state auditor's designee;(b)  reimburse the state auditor for the actual and necessary costs of the audit; and(c)  contract with an independent, qualified evaluator, selected through a request forproposals process, to evaluate the home-based educational technology program for preschoolchildren.(3)  Of the monies appropriated by the Legislature for UPSTART, excluding funds usedto provide computers, peripheral equipment, and Internet service to families, no more than7.5% may be used for the evaluation of the program.    53A-1a-1007.(1)  The State Board of Education shall make a report on UPSTART to the EducationInterim Committee by November 30 each year.(2)  The report shall:(a)  address the extent to which UPSTART is accomplishing the purposes for which itwas established as specified in Section 
+
+53A-1a-1002
+
+; and(b)  include the following information:(i)  the number of families:(A)  volunteering to participate in the program;(B)  selected to participate in the program;(C)  requesting computers; and(D)  furnished computers;(ii)  the frequency of use of the instructional software;(iii)  obstacles encountered with software usage, hardware, or providing technicalassistance to families;(iv)  student performance on pre-kindergarten and post-kindergarten assessmentsconducted by school districts and charter schools for students who participated in thehome-based educational technology program and those who did not participate in the program;and(v)  as available, the evaluation of the program conducted pursuant to Section
+
+53A-1a-1006
+
+.    53A-13-110.(1)  As used in this section, "financial and economic literacy passport" means adocument that tracks mastery of financial and economic literacy concepts and completion offinancial and economic activities, including the following:(a)  basic budgeting;(b)  saving and financial investments;(c)  banking and financial services, including balancing a checkbook or a bank account;(d)  career management, including earning an income;(e)  rights and responsibilities of renting or buying a home;(f)  retirement planning;(g)  loans and borrowing money, including interest, credit card debt, predatory lending,and payday loans;(h)  insurance;(i)  federal, state, and local taxes;(j)  charitable giving;(k)  online commerce;(l)  identity fraud and theft;(m)  negative financial consequences of gambling;(n)  bankruptcy;(o)  free markets and prices;(p)  supply and demand;(q)  monetary and fiscal policy;(r)  effective business plan creation, including using economic analysis in creating a plan;(s)  scarcity and choices;(t)  opportunity cost and tradeoffs;(u)  productivity;(v)  entrepreneurism; and(w)  economic reasoning.(2)  The State Board of Education shall:(a)  in cooperation with interested private and non-profit entities:(i)  develop a financial and economic literacy passport that students may elect tocomplete;(ii)  develop methods of encouraging parent and educator involvement in completion ofthe financial and economic literacy passport; and(iii)  develop and implement appropriate recognition and incentives for students whocomplete the financial and economic literacy passport, including:(A)  a financial and economic literacy endorsement on the student's diploma ofgraduation;(B)  a specific designation on the student's official transcript; and(C)  any incentives offered by community partners;(b)  more fully integrate existing and new financial and economic literacy education intoinstruction in kindergarten through twelfth grade by:(i)  coordinating financial and economic literacy instruction with existing instruction inother core curriculum areas such as mathematics and social studies;(ii)  using curriculum mapping;(iii)  creating training materials and staff development programs that:(A)  highlight areas of potential coordination between financial and economic literacyeducation and other core curriculum concepts; and(B)  demonstrate specific examples of financial and economic literacy concepts as a wayof teaching other core curriculum concepts; and(iv)  using appropriate financial and economic literacy assessments to improve financialand economic literacy education and, if necessary, developing assessments;(c)  work with interested private and non-profit entities to:(i)  coordinate school use of existing financial and economic literacy educationresources;(ii)  develop simple, clear, and consistent messaging to reinforce and link existingfinancial literacy resources; and(iii)  coordinate the efforts of school, work, private, non-profit, and other financialeducation providers in implementing methods of appropriately communicating to teachers,students, and parents key financial and economic literacy messages; and(d)  in accordance with Title 63, Chapter 46a, Utah Administrative Rulemaking Act,make rules to develop guidelines and methods for school districts and charter schools to morefully integrate financial and economic literacy education into other core curriculum courses.(3)  The state superintendent shall annually report to the Education Interim Committeeby November of each year on the successes and areas of needed improvement in financial andeconomic literacy education provided pursuant to this section.State Office ofEducationa local schoolor(3)  In accordance with Title 63, Chapter 46a, Utah Administrative Rulemaking Act,the State Board of Education shall make rules that establish:(a)  the qualifications of the independent parties who may evaluate and map thealignment of the primary instructional materials in accordance with the provisions of Subsection(1)(a); and(b)  requirements for the detailed summary of the evaluation and its placement on apublic website in accordance with the provisions of Subsection (1)(b).$2,577$2,497,012,08620082008-09$65,182,638 (25,294$1,258,253,751 (488,263$116,307,741 (45,133$4,174,740$19,711,473$155,789,958 (60,454$22,082,313 (8,569$34,573,032 (13,416$968,952 (376$4,293,282 (1,666$67,530,285 (26,205$1,154,458$2,878,509(1,117$88,373,061 (34,293$349,906,049$74,446,865$2,584,435$18,844,111$77,615,641$31,411,241$10,266,146$4,295,581$9,672,586(y)  High-ability Student Initiative Program, $500,000;(z)  English Language Learner Family Literacy Centers, $2,000,000;(aa)(bb)$26,499,500$36,957,646$2,898,600$15,000,000(ff);(gg)  educator salary adjustments, $148,260,200;(hh)  Teacher Salary Supplement Restricted Account, $4,300,000;(ii)  library books and electronic resources, $1,500,000;(jj)  school nurses, $1,000,000;(kk)  critical languages, $230,000;(ll)  extended year for special educators, $2,900,000;(mm)  USTAR Centers, $6,900,000;(nn)  state-supported voted leeway, $273,337,346;(oo)  state-supported board leeway, $71,575,858; and(pp)  state-supported board leeway for K-3 Reading Improvement Program,$15,000,000.(a)$100(b)  Charter schools are encouraged to identify and use cost-effective methods ofperforming administrative functions, including contracting for administrative services with theState Charter School Board as provided in Section 
+
+53A-1a-501.6
+
+.; and(c)  International Baccalaureate.(a)  A school district may only claim eligible transportation costs as legally reportedon the prior year's annual financial report submitted under Section 
+
+53A-3-404
+
+.(b)  The state shall contribute 85% ofsubject to budget constraints.(c)  If in afor that purposethe amount appropriatedBoard; and(iv)  a minimum allocation for each school district eligible for transportation funding.(b)  The State Board of Education shall distribute appropriated transportation fundsbased on the prior year's eligible transportation costs as legally reported under Subsection
+
+53A-17a-126
+
+(3).(c)underSubsection (3)(a)(iii)(d)Boardstate superintendent's staffstate superintendent's staffreceive(v)(vi)(vii)(viii)(ix)(x)(a)(i)(ii)(b)  Money appropriated for educator salary adjustments shall include money for thefollowing employer-paid benefits:(i)  retirement;(ii)  worker's compensation;(iii)  Social Security; and(iv)  Medicare.    53A-17a-156.(1)  As used in this section:(a)  "Eligible teacher" means a teacher who:(i)  has an assignment to teach:(A)  a secondary school level mathematics course;(B)  integrated science in grade 7 or 8;(C)  chemistry; or(D)  physics;(ii)  holds the appropriate endorsement for the assigned course;(iii)  has qualifying educational background; and(iv) (A)  is a new employee; or(B)  received a satisfactory rating or above on the teacher's most recent evaluation.(b)  "Qualifying educational background" means:(i)  for a teacher who is assigned a secondary school level mathematics course, abachelor's degree major, master's degree, or doctoral degree in mathematics; and(ii)  for a teacher who is assigned a grade 7 or 8 integrated science course, chemistrycourse, or physics course, a bachelor's degree major, master's degree, or doctoral degree in:(I)  integrated science;(II)  chemistry;(III)  physics;(IV)  physical science; or(V)  general science.(2) (a)  Subject to future budget constraints, the Legislature shall annually appropriatemoney to the Teacher Salary Supplement Restricted Account established in Section
+
+53A-17a-157
+
+ to fund the Teacher Salary Supplement Program.(b)  Money appropriated for the Teacher Salary Supplement Program shall includemoney for the following employer-paid benefits:(i)  retirement;(ii)  workers' compensation;(iii)  Social Security; and(iv)  Medicare.(3) (a)  Beginning in fiscal year 2008-09, the annual salary supplement is $4,100 for aneligible teacher who:(i)  is assigned full-time to teach one or more courses listed in Subsections (1)(a)(i)(A)through (D); and(ii)  meets the requirements of Subsections (1)(a)(ii) and (iii) for each courseassignment.(b)  An eligible teacher who has a part-time assignment to teach one or more courseslisted in Subsections (1)(a)(i)(A) through (D) shall receive a partial salary supplement based onthe number of hours worked in a course assignment that meets the requirements of Subsections(1)(a)(ii) and (iii).(4)  The Department of Human Resource Management shall:(a)  create an on-line application system for a teacher to apply to receive a salarysupplement through the Teacher Salary Supplement Program;(b)  determine if a teacher:(i)  is an eligible teacher; and(ii)  has a course assignment as listed in Subsections (1)(a)(i)(A) through (D);(c)  verify, as needed, the determinations made under Subsection (4)(b) with schooldistrict and school administrators; and(d)  certify a list of eligible teachers and the amount of their salary supplement, sorted byschool district and charter school, to the Division of Finance.(5) (a)  An eligible teacher shall apply with the Department of Human ResourceManagement prior to the conclusion of a school year to receive the salary supplementauthorized in this section.(b)  An eligible teacher may apply with the Department of Human ResourceManagement, after verification that the requirements under this section have been satisfied, toreceive a salary supplement after the completion of:(i)  the school year as an annual award; or(ii)  a semester or trimester as a partial award based on the portion of the school yearthat has been completed.(6) (a)  The Division of Finance shall distribute monies from the Teacher SalarySupplement Restricted Account to school districts and charter schools for the Teacher SalarySupplement Program in accordance with the provisions of this section.(b)  The Department of Human Resource Management shall include the employer-paidbenefits described under Subsection (2)(b) in the amount of each salary supplement certified tothe Division of Finance.(c)  The employer-paid benefits described under Subsection (2)(b) are an addition to thesalary supplement limits described under Subsection (3).(7) (a)  Money received from the Teacher Salary Supplement Restricted Account shallbe used by a school district or charter school to provide a salary supplement equal to theamount specified for each eligible teacher.(b)  The salary supplement is part of the teacher's base pay, subject to the teacher'squalification as an eligible teacher every year, semester, or trimester.(8)  The State Board of Education shall cooperate with the Department of HumanResource Management as it administers the Teacher Salary Supplement Program by:(a)  providing or verifying teacher data, as requested; and(b)  making information technology resources available.(9)  Notwithstanding the provisions of this section, if the appropriation for the programis insufficient to cover the costs associated with salary supplements, the Department of HumanResource Management may limit or reduce the salary supplements.    53A-17a-157.(1)  There is created within the Uniform School Fund a restricted account known as the"Teacher Salary Supplement Restricted Account."(2)  The account shall be funded from appropriations made to the account by theLegislature.(3)  The account shall be used to fund teacher salary supplements for school districts andcharter schools as provided in Section 
+
+53A-17a-156
+
+.(4)  The Division of Finance shall distribute account monies to school districts andcharter schools for the Teacher Salary Supplement Program as provided in Section
+
+53A-17a-156
+
+.    53A-17a-158.(1)  As used in this section:(a)  "IEP" means an individualized education program developed pursuant to theIndividuals with Disabilities Education Improvement Act of 2004, as amended.(b)  "Special education teacher" means a teacher whose primary assignment is theinstruction of students with disabilities who are eligible for special education services.(c)  "Special educator" means a person employed by a school district, charter school, orthe Utah Schools for the Deaf and the Blind who holds:(i)  a license issued under Title 53A, Chapter 6, Educator Licensing and ProfessionalPractices Act; and(ii)  a position as a:(A)  special education teacher; or(B)  speech-language pathologist.(2)  The Legislature shall annually appropriate money for stipends to special educatorsfor additional days of work:(a)  in recognition of the added duties and responsibilities assumed by special educatorsto comply with federal law regulating the education of students with disabilities and the need toattract and retain qualified special educators; and(b)  subject to future budget constraints.(3) (a)  The State Board of Education shall distribute money appropriated under thissection to school districts, charter schools, and the Utah Schools for the Deaf and the Blind forstipends for special educators in the amount of $200 per day for up to ten additional workingdays.(b)  Money distributed under this section shall include, in addition to the $200 per daystipend, money for the following employer-paid benefits:(i)  retirement;(ii)  workers' compensation;(iii)  Social Security; and(iv)  Medicare.(4)  A special educator receiving a stipend shall:(a)  work an additional day beyond the number of days contracted with the specialeducator's school district or school for each daily stipend;(b)  schedule the additional days of work before or after the school year; and(c)  use the additional days of work to perform duties related to the IEP process,including:(i)  administering student assessments;(ii)  conducting IEP meetings;(iii)  writing IEPs;(iv)  conferring with parents; and(v)  maintaining records and preparing reports.(5)  A special educator may:(a)  elect to receive a stipend for one to ten days of additional work; or(b)  elect to not receive a stipend.(6)  A person who does not hold a full-time position as a special educator is eligible fora partial stipend equal to the percentage of a full-time special educator position the personassumes.    53A-17a-159.(1) (a)  The Utah Science Technology and Research Initiative (USTAR) CentersProgram is created to provide a financial incentive for charter schools and school districts toadopt programs that result in a more efficient use of human resources and capital facilities.(b)  The potential benefits of the program include:(i)  increased compensation for math and science teachers by providing opportunities foran expanded contract year which will enhance school districts' and charter schools' ability toattract and retain talented and highly qualified math and science teachers;(ii)  increased capacity of school buildings by using buildings more hours of the day ormore days of the year, resulting in reduced capital facilities costs;(iii)  decreased class sizes created by expanding the number of instructionalopportunities in a year;(iv)  opportunities for earlier high school graduation;(v)  improved student college preparation;(vi)  increased opportunities to offer additional remedial and advanced courses in mathand science;(vii)  opportunities to coordinate high school and post-secondary math and scienceeducation; and(viii)  the creation or improvement of science, technology, engineering, and math centers(STEM Centers).(2)  From monies appropriated for the USTAR Centers Program, the State Board ofEducation shall award grants to charter schools and school districts to pay for costs related tothe adoption and implementation of the program.(3)  The State Board of Education shall:(a)  solicit proposals from the State Charter School Board and school districts for theuse of grant monies to facilitate the adoption and implementation of the program; and(b)  award grants on a competitive basis.(4)  The State Charter School Board shall:(a)  solicit proposals from charter schools that may be interested in participating in theUSTAR Centers Program;(b)  prioritize the charter school proposals and consolidate them into the equivalent of asingle school district request; and(c)  submit the consolidated request to the State Board of Education.(5)  In selecting a grant recipient, the State Board of Education shall consider:(a)  the degree to which a charter school or school district's proposed adoption andimplementation of an extended year for math and science teachers achieves the benefitsdescribed in Subsection (1);(b)  the unique circumstances of different urban, rural, large, small, growing, anddeclining charter schools and school districts; and(c)  providing pilot programs in as many different school districts and charter schools aspossible.(6) (a)  Except as provided in Subsection (6)(b), a school district or charter school mayonly use grant monies to provide full year teacher contracts, part-time teacher contractextensions, or combinations of both, for math and science teachers.(b)  Up to 5% of the grant monies may be used to fund math and science field trips,textbooks, and supplies.(7)  Participation in the USTAR Centers Program shall be:(a)  voluntary for an individual teacher; and(b)  voluntary for a charter school or school district.(8)  The State Board of Education shall make an annual report during the 2009, 2010,and 2011 interims to the Public Education Appropriations Subcommittee describing theprogram's impact on students and its effectiveness at achieving the benefits described inSubsection (1).    53A-17a-160.(1)  The High-ability Student Initiative Program is created to provide resources foreducators to enhance the academic growth of high-ability students.(2)  The program shall consist of:(a)  personnel under the direction of the State Board of Education and superintendent ofpublic instruction who shall direct and facilitate the program;(b)  a comprehensive, Internet-based resource center to provide information abouthigh-ability students to teachers, administrators, parents, and the community;(c)  professional development and professional learning communities for teachers,including research-based tools to:(i)  identify high-ability students;(ii)  implement strategies to meet high-ability students' needs;(iii)  train and mentor teachers; and(iv)  enhance teacher collaboration and networking, including videoconferencingequipment for classroom observation and coaching;(d)  assistance for a teacher to obtain an endorsement for gifted and talented education;and(e)  an evaluation of the program.(3) (a)  From monies appropriated for the High-ability Student Initiative Program, theState Board of Education shall establish a grant program to encourage a licensed teacher toobtain an endorsement for gifted and talented education.(b)  The State Board of Education may award up to 250 grants in amounts of up to$2,500 each.(c)  To receive a grant, a licensed teacher shall provide matching funds in an amountequal to 1/2 the grant amount.(4)  From monies appropriated for the High-ability Student Initiative Program, the StateBoard of Education shall:(a)  contract with an independent, qualified evaluator, selected through a request forproposals process, to evaluate the High-ability Student Initiative Program; and(b)  provide up to 60 stipends in amounts of up to $1,500 each for teachers whoparticipate in the evaluation.(5)  High-ability Student Initiative Program monies may not be used to supplant fundsfor existing programs, but may be used to augment existing programs.(6)  Participation in the High-ability Student Initiative Program shall be:(a)  voluntary for an individual teacher; and(b)  voluntary for a charter school or school district.(7)  The State Board of Education shall make an annual report during the 2009, 2010,and 2011 interims to the Education Interim Committee describing the program's impact onhigh-ability students.    53A-17a-161.(1)  Money appropriated for the English Language Learner Family Literacy CentersProgram shall be used by school districts and charter schools to pay for costs of EnglishLanguage Learner Family Literacy Centers as provided in this section.(2)  In accordance with Title 63, Chapter 46a, Utah Administrative Rulemaking Act, theState Board of Education, after consultation with school districts and charter schools, shalladopt a formula that allocates the money appropriated by the Legislature for the EnglishLanguage Learner Family Literacy Centers Program to school districts and charter schools in afair and equitable manner.(3)  English Language Learner Family Literacy Centers shall be established to:(a)  increase parent involvement;(b)  communicate with parents who are not proficient in English concerning required andoptional activities at the school, in the parents' preferred language to the extent practicable;(c)  increase academic achievement, literacy skills, and language gains in all ethnicgroups of students and their families;(d)  coordinate with school administrators, educators, families, and students; and(e)  support and coordinate with other language acquisition instructional services andlanguage proficiency programs in the public schools.(4)  The State Board of Education shall make a report to the Education InterimCommittee on the effectiveness of the English Language Learner Family Literacy CentersProgram before November 30, 2011.    53A-17a-162.(1)  The Legislature finds that a strategic placement of arts in elementary education canimpact the critical thinking of students in other core subject areas, including mathematics,reading, and science.(2)  The Beverley Taylor Sorenson Elementary Arts Learning Program is created toenhance the social, emotional, academic, and arts learning of students in kindergarten throughgrade six by integrating arts teaching and learning into core subject areas.(3)  From monies appropriated for the Beverley Taylor Sorenson Elementary ArtsLearning Program, the State Board of Education shall, after consulting with the Utah ArtsCouncil and receiving their recommendations:(a)  establish a grant program to allow school districts and charter schools to hire 50highly qualified, full-time arts specialists to be based at 50 schools;(b)  provide up to $10,000 in one-time funds for each school arts specialist describedunder Subsection (3)(a) to purchase supplies and equipment;(c)  establish a grant program to allow ten school districts to hire art coordinators,provided that a qualifying school district provides matching funds in an amount equal to thegrant amount; and(d)  annually contract with an independent, qualified evaluator, selected through arequest for proposals process, to evaluate the Beverley Taylor Sorenson Elementary ArtsLearning Program.(4)  Beverley Taylor Sorenson Elementary Arts Learning Program monies may not beused to supplant funds for existing programs funded by the state, but shall be used to augmentexisting programs.(5)  Schools that participate in the Beverley Taylor Sorenson Elementary Arts LearningProgram shall partner with institutions of higher education that award elementary educationdegrees to obtain quality pre-service and in-service training, research, and leadershipdevelopment for arts education.(6)  The State Board of Education shall, after consultation with the Utah Arts Council,make an annual report during the 2009, 2010, and 2011 interims to the Education InterimCommittee describing the program's impact on students in kindergarten through grade six.(4)  Title 53A, Chapter 1a, Part 10, UPSTART, is repealed July 1, 2014.(5)(6)(7)  Subsection 
+
+53A-13-110
+
+(3) is repealed July 1, 2013.(8)(9)  Section 
+
+53A-17a-162
+
+ is repealed July 1, 2012.(1)  As an ongoing appropriation subject to future budget constraints, there isappropriated from the Uniform School Fund for fiscal year 2008-09, as follows:(a)  $2,500,000 to the State Board of Education for UPSTART as provided in Title53A, Chapter 1a, Part 10, UPSTART, including costs of:(i)  a home-based educational technology program provided by a contractor;(ii)  computers, peripheral equipment, and Internet service for families who cannotafford the equipment and service;(iii)  administrative and technical support provided by school districts;(iv)  an audit of the contractor's use of funds appropriated for UPSTART; and(v)  an evaluation of the home-based educational technology program;(b)  $100,000 to the State Board of Education for staff development and assessments infinancial and economic literacy as provided by Subsection 
+
+53A-13-110
+
+(2)(b);(c)  $4,300,000 from the Uniform School Fund Teacher Salary Supplement RestrictedAccount for the Teacher Salary Supplement Program in accordance with the provisions underSections 
+
+53A-17a-156
+
+ and 
+
+53A-17a-157
+
+; and(d)  $400,000 to the State Board of Education for career and technical education onlineassessment.(2)  As an ongoing appropriation subject to future budget constraints, there isappropriated from the General Fund for fiscal year 2008-09, $250,000 to the Department ofHuman Resource Management for administration of the Teacher Salary Supplement Programestablished in Section 
+
+53A-17a-156
+
+.(1)  There is appropriated from the Uniform School Fund for fiscal year 2008-09 only,as follows:(a)  $3,000,000 to the State Board of Education for pupil transportation to and fromschool as provided in Sections 
+
+53A-17a-126
+
+ and 
+
+53A-17a-127
+
+;(b)  $3,000,000 to the State Board of Education to fund the English Language LearnerFamily Literacy Centers Program established in Section 
+
+53A-17a-161
+
+;(c)  $15,820,000 to the State Board of Education to fund the Beverley Taylor SorensonElementary Arts Learning Program established in Section 
+
+53A-17a-162
+
+; and(d)  $150,000 to the State Board of Education to fulfill its requirements underSubsection 
+
+53A-13-110
+
+(2), including curriculum integration and development of assessmentsand materials.(2)  The money appropriated in Subsections (1)(a) through (d) is nonlapsing.(1)  There is appropriated for fiscal year 2007-08 only, as follows:(a)  $50,000 from the General Fund to the Department of Human ResourceManagement for costs to administer the Teacher Salary Supplement Program established inSection 
+
+53A-17a-156
+
+;(b)  $1,000,000 from the Uniform School Fund to the State Board of Education forUPSTART as provided in Title 53A, Chapter 1a, Part 10, UPSTART; and(c)  $280,000 from the Uniform School Fund to the State Board of Education for librarybooks and electronic resources.(2)  The money appropriated in Subsections (1)(a) through (c) is nonlapsing.(1)  There is appropriated from the Uniform School Fund to the State Board ofEducation for fiscal year 2008-09 only, $10,000,000 for classroom supplies and materials.(2) (a)  Of the amount appropriated in Subsection (1), the board shall distribute$7,500,000 to classroom teachers in school districts, the Schools for the Deaf and the Blind,and charter schools on the basis of the number of classroom teachers in each school ascompared to the total number of classroom teachers.(b)  Teachers shall receive up to the following amounts:(i)  a teacher on salary schedule steps one through three teaching in grades kindergartenthrough six or preschool handicapped - $360;(ii)  a teacher on salary schedule steps one through three teaching in grades seventhrough twelve - $310;(iii)  a teacher on salary schedule step four or higher teaching in grades kindergartenthrough six or preschool handicapped - $285; and(iv)  a teacher on salary schedule step four or higher teaching in grades seven throughtwelve - $235.(c)  If the appropriation in Subsection (1) is not sufficient to provide to each teacher thefull amount allowed under Subsection (2)(b), teachers on salary schedule steps one throughthree shall receive the full amount allowed with the remaining monies apportioned to all otherteachers.(3) (a)  Of the amount appropriated in Subsection (1), the State Board of Educationshall distribute $2,500,000 for classroom supplies and materials in accordance with adistribution formula established by rule.(b)  The State Board of Education shall make rules in accordance with Subsections(3)(c) and (d) and Title 63, Chapter 46a, Utah Administrative Rulemaking Act, for thedistribution of the $2,500,000.(c)  The rules shall give priority to teachers in any grade in the first year of teaching inthe awarding of the monies.(d)  The rules may allow the monies to be distributed to teachers in any grade in thesecond through the fifth year of teaching.(4)  Teachers shall spend the money appropriated in Subsection (1) for school supplies,materials, or field trips under rules adopted by the State Board of Education.(5)  As used in this section, "classroom teacher" or "teacher" means permanent teacherpositions filled by one teacher or two or more job-sharing teachers:(a)  who are licensed personnel;(b)  who are paid on the teacher's salary schedule;(c)  who are hired for an entire contract period; and(d)  whose primary function is to provide instructional or a combination of instructionaland counseling services to students in public schools.It is the intent of the Legislature that:(1)  at least $100,000 of the monies appropriated for accelerated learning programs inaccordance with the provisions of Sections 
+
+53A-17a-104
+
+ and 
+
+53A-17a-120
+
+ shall be annuallyallocated to International Baccalaureate programs; and(2)  the State Board of Education shall:(a)  conduct an independent audit of funds allocated to the Utah Virtual Academycharter school through the Minimum School Program, including its expenditures of WPU,categorical (below-the-line), and local replacement funding, as the school begins operations forthe 2008-09 school year; and(b)  prepare and present a report to the Executive Appropriations Committee byNovember 30, 2008, detailing the findings of the independent audit and of Utah VirtualAcademy expenditures examined through the audit.This bill takes effect on July 1, 2008, except:(1)  if approved by two-thirds of all the members elected to each house, Sections
+
+53A-1a-1001
+
+ through 
+
+53A-1a-1007
+
+ take effect upon approval by the governor, or the dayfollowing the constitutional time limit of Utah Constitution Article VII, Section 8, without thegovernor's signature, or in the case of a veto, the date of veto override; and(2)  the following sections take effect on May 5, 2008:(a)  Section 
+
+53A-17a-156
+
+; and(b)  Uncodified Section 29, One-time appropriations for fiscal year 2007-08.If this S.B. 2 and H.B. 1, Minimum School Program Base Budget Amendments, bothpass, it is the intent of the Legislature that when the Office of Legislative Research and GeneralCounsel prepares the Utah Code database for publication:(1)  the amendments to Section 
+
+53A-17a-104
+
+ in S.B. 2 supersede the amendments toSection 
+
+53A-17a-104
+
+ in H.B. 1;(2)  Subsection 
+
+53A-17a-104
+
+(2)(hh) in H.B. 1 shall be deleted and renumber theremaining subsections accordingly;(3)  the amendments to Section 
+
+53A-17a-108
+
+ in S.B. 2 supersede the amendments toSection 
+
+53A-17a-108
+
+ in H.B. 1; and(4)  Uncodified Section 7, Intent language for charter schools appropriation, in H.B. 1shall be deleted.Full text:
+
+
+
+Utah State Legislature
+
+
+
+
+
+
+
+
+
+
+
+
+Legislators
+
+By Session (1896-Current)
+Alphabetical (Historical)
+Find by Address/Map
+More
+
+
+Bills
+
+Bills/Bill Requests
+Passed Bills
+2017 Bills
+
+Keyword Search
+Reading Calendars
+Tracking Service
+More
+
+
+Committees
+
+All Committees
+Appropriations
+Commissions
+
+Independent Legislative Ethics Commission
+Interim
+Standing
+Subcommittees
+Task Forces
+Bills In Committees
+
+
+Utah Code / Constitution
+
+
+Title/Chapter/Section
+Keyword Search 
+
+Utah Constitution
+Laws of Utah 1851-ongoing
+Utah Territorial Laws 
+More
+
+
+Senate
+
+Main Page 
+About The Senate 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Extraordinary Sessions 
+Reading Calendars 
+Past Floor Debates 
+Senate Journals 
+
+
+House
+
+Main Page
+About the House 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Reading Calendars 
+Past Floor Debates 
+Journals 
+Conflict of Interest Forms 
+
+
+Legislative Guide 
+
+Legislative Guide
+Civic Programs
+GRAMA (Records Requests)
+
+
+Publications
+
+Search Publications
+Appropriations
+Audits
+Bagels & Briefings
+Briefing Papers
+Digest of Legislation
+Legislative Drafting Manual
+
+Journals
+
+Interim Highlights
+
+Legislative Rules
+GRAMA (Records Requests)
+Public Email
+State Organization Charts
+YouTube Channel
+Requests for Proposals and Legal Notices
+More
+
+
+Legislative Histories
+
+Legislative History Resources
+How to Research
+Bill Drafting/Research Files (1990-Ongoing)
+
+Working Bills (1896-1989)
+Interim Committee Histories (1990-Ongoing) 
+Journals
+Past House Floor Debates
+Past Senate Floor Debates
+More
+
+
+Staff Offices
+
+All Legislative Offices
+Auditor General
+Fiscal Analyst
+Printing
+Research and General Counsel
+Staff Awards
+Job Opportunities
+More
+
+
+Links of Interest
+
+Utah Administrative Rules
+Courts
+Utah State Capitol
+State of Utah
+Federal Legislation
+More
+
+
+
+
+
+
+ 
+
+Download Zipped Enrolled WordPerfect SB0002.ZIP
+[Introduced][Status][Bill Documents][Fiscal Note][Bills Directory]
+
+
+S.B. 2 Enrolled
+
+
+
+
+
+            
+1
+
+    
+ MINIMUM SCHOOL PROGRAM BUDGET
+
+            
+2
+
+    
+ AMENDMENTS
+
+
+
+            
+3
+
+    
+2008 GENERAL SESSION
+
+            
+4
+
+    
+STATE OF UTAH
+
+            
+5
+
+    
+
+
+ Chief Sponsor:  Howard A. Stephenson
+
+
+
+            
+6
+
+    
+
+
+
+House Sponsor:  
+
+
+
+
+
+
+Bradley G. Last
+
+
+
+
+
+            
+7
+
+    
+
+            
+8
+
+    
+ LONG TITLE
+            
+9
+
+    
+ General Description:
+            
+10
+
+    
+    This bill provides funding for the Minimum School Program and other education
+            
+11
+
+    
+programs.
+            
+12
+
+    
+ Highlighted Provisions:
+            
+13
+
+    
+    This bill:
+            
+14
+
+    
+    .    establishes the value of the weighted pupil unit at $2,577;
+            
+15
+
+    
+    .    establishes a ceiling for the state contribution to the maintenance and operations
+            
+16
+
+    
+portion of the Minimum School Program for fiscal year 2008-09 of $2,497,012,086;
+            
+17
+
+    
+    .    modifies provisions related to the funding of charter schools;
+            
+18
+
+    
+    .    modifies requirements regarding instructional materials;
+            
+19
+
+    
+    .    authorizes the use of appropriations for accelerated learning programs for
+            
+20
+
+    
+International Baccalaureate programs;
+            
+21
+
+    
+    .    modifies the positions that qualify for educator salary adjustments and increases the
+            
+22
+
+    
+salary adjustments for those positions;
+            
+23
+
+    
+    .    establishes and funds the following ongoing programs:
+            
+24
+
+    
+        .    a pilot project using a home-based educational technology program to develop
+            
+25
+
+    
+school readiness skills of preschool children;
+            
+26
+
+    
+        .    a financial and economic literacy passport to track student mastery of certain
+            
+27
+
+    
+concepts;
+            
+28
+
+    
+        .    the Teacher Salary Supplement Program to provide a salary supplement to an
+            
+29
+
+    
+eligible teacher;
+
+            
+30
+
+
+    
+        .    stipends for special educators for additional days of work;
+            
+31
+
+    
+        .    an optional grant program to provide an extended year for math and science
+            
+32
+
+    
+teachers through the creation of Utah Science Technology and Research
+            
+33
+
+    
+Centers;
+            
+34
+
+    
+        .    the High-ability Student Initiative Program to provide resources for educators to
+            
+35
+
+    
+enhance the academic growth of high-ability students;
+            
+36
+
+    
+        .    the English Language Learner Family Literacy Centers Program; and
+            
+37
+
+    
+        .    career and technical education online assessment;
+            
+38
+
+    
+    .    makes one-time appropriations for fiscal year 2008-09 for:
+            
+39
+
+    
+        .    pupil transportation to and from school;
+            
+40
+
+    
+        .    the Beverley Taylor Sorenson Elementary Arts Learning Program to provide
+            
+41
+
+    
+grants to integrate arts teaching and learning into selected schools; and
+            
+42
+
+    
+        .    classroom supplies;
+            
+43
+
+    
+    .    provides a repeal date for certain pilot programs;
+            
+44
+
+    
+    .    makes nonlapsing appropriations; and
+            
+45
+
+    
+    .    makes technical corrections.
+            
+46
+
+    
+ Monies Appropriated in this Bill:
+            
+47
+
+    
+    This bill appropriates:
+            
+48
+
+    
+    .    the following Minimum School Program Monies:
+            
+49
+
+    
+        .    $2,438,692,586 from the Uniform School Fund for fiscal year 2008-09;
+            
+50
+
+    
+        .    $26,499,500 from the Uniform School Fund Restricted - Interest and Dividends
+            
+51
+
+    
+Account for fiscal year 2008-09;
+            
+52
+
+    
+        .    $31,820,000 from the Uniform School Fund for fiscal year 2008-09 only; and
+            
+53
+
+    
+        .    $280,000 from the Uniform School Fund for fiscal year 2007-08 only; and
+            
+54
+
+    
+    .    the following other education program monies:
+            
+55
+
+    
+        .    $3,000,000 from the Uniform School Fund for fiscal year 2008-09;
+            
+56
+
+    
+        .    $150,000 from the Uniform School Fund for fiscal year 2008-09 only;
+            
+57
+
+    
+        .    $1,000,000 from the Uniform School Fund for fiscal year 2007-08 only;
+
+            
+58
+
+
+    
+        .    $250,000 from the General Fund for fiscal year 2008-09; and
+            
+59
+
+    
+        .    $50,000 from the General Fund for fiscal year 2007-08 only.
+            
+60
+
+    
+ Other Special Clauses:
+            
+61
+
+    
+    This bill provides an effective date.
+            
+62
+
+    
+    This bill coordinates with H.B. 1 by providing superseding and substantive amendments.
+            
+63
+
+    
+ Utah Code Sections Affected:
+            
+64
+
+    
+AMENDS:
+            
+65
+
+    
+     53A-1a-502.5, as last amended by Laws of Utah 2007, Chapter 344
+            
+66
+
+    
+     53A-1a-513, as last amended by Laws of Utah 2005, Chapters 9 and 291
+            
+67
+
+    
+     53A-14-107, as enacted by Laws of Utah 2007, Chapter 349
+            
+68
+
+    
+     53A-17a-103, as last amended by Laws of Utah 2007, Chapters 107 and 372
+            
+69
+
+    
+     53A-17a-104, as last amended by Laws of Utah 2007, Chapters 2, 344, 368, and 372
+            
+70
+
+    
+     53A-17a-108, as last amended by Laws of Utah 2007, Chapter 344
+            
+71
+
+    
+     53A-17a-120, as last amended by Laws of Utah 2007, Chapter 368
+            
+72
+
+    
+     53A-17a-126, as last amended by Laws of Utah 2003, Chapters 221 and 320
+            
+73
+
+    
+     53A-17a-127, as last amended by Laws of Utah 2001, Chapter 73
+            
+74
+
+    
+     53A-17a-153, as enacted by Laws of Utah 2007, Chapter 380
+            
+75
+
+    
+     63-55b-153, as last amended by Laws of Utah 2007, Chapter 216
+            
+76
+
+    
+ENACTS:
+            
+77
+
+    
+     53A-1a-1001, Utah Code Annotated 1953
+            
+78
+
+    
+     53A-1a-1002, Utah Code Annotated 1953
+            
+79
+
+    
+     53A-1a-1003, Utah Code Annotated 1953
+            
+80
+
+    
+     53A-1a-1004, Utah Code Annotated 1953
+            
+81
+
+    
+     53A-1a-1005, Utah Code Annotated 1953
+            
+82
+
+    
+     53A-1a-1006, Utah Code Annotated 1953
+            
+83
+
+    
+     53A-1a-1007, Utah Code Annotated 1953
+            
+84
+
+    
+     53A-13-110, Utah Code Annotated 1953
+            
+85
+
+    
+     53A-17a-156, Utah Code Annotated 1953
+
+            
+86
+
+
+    
+     53A-17a-157, Utah Code Annotated 1953
+            
+87
+
+    
+     53A-17a-158, Utah Code Annotated 1953
+            
+88
+
+    
+     53A-17a-159, Utah Code Annotated 1953
+            
+89
+
+    
+     53A-17a-160, Utah Code Annotated 1953
+            
+90
+
+    
+     53A-17a-161, Utah Code Annotated 1953
+            
+91
+
+    
+     53A-17a-162, Utah Code Annotated 1953
+            
+92
+
+    
+
+            
+93
+
+    
+Be it enacted by the Legislature of the state of Utah:
+            
+94
+
+    
+    Section 1.  
+Section  
+53A-1a-502.5
+
+ is amended to read:
+            
+95
+
+    
+     53A-1a-502.5.  Charter schools -- Maximum authorized students.
+            
+96
+
+    
+    (1)  The State Charter School Board and local school boards may only authorize a
+            
+97
+
+    
+combined maximum student capacity of:
+            
+98
+
+    
+    [(a)  27,921 students for the charter schools in the 2007-08 school year; and]
+            
+99
+
+    
+    [(b)] (a)  32,921 students for the charter schools in the 2008-09 school year[.]; and
+            
+100
+
+    
+    (b)  beginning in the 2009-10 school year, an annual increase in charter school
+            
+101
+
+    
+enrollment capacity equal to 1.4% of total school district enrollment as of October 1 of the
+            
+102
+
+    
+previous school year.
+            
+103
+
+    
+    (2) (a)  The State Board of Education, in consultation with the State Charter School
+            
+104
+
+    
+Board, shall allocate the students under Subsection (1) between the State Charter School Board
+            
+105
+
+    
+and local school boards.
+            
+106
+
+    
+    (b)  One-third of the student capacity described under Subsection (1)(b) shall be
+            
+107
+
+    
+allocated to increase the maximum student capacity of operating charter schools.
+            
+108
+
+    
+    (c)  If the operating charter schools do not use the allocation described under Subsection
+            
+109
+
+    
+(2)(b), the remaining student capacity may be used by new charter schools.
+            
+110
+
+    
+    Section 2.  
+Section  
+53A-1a-513
+
+ is amended to read:
+            
+111
+
+    
+     53A-1a-513.  Funding for charter schools.
+            
+112
+
+    
+    (1)  As used in this section:
+            
+113
+
+    
+    (a)  "Charter school students' average local revenues" means the amount determined as
+
+            
+114
+
+
+    
+follows:
+            
+115
+
+    
+    (i)  for each student enrolled in a charter school on the previous October 1, calculate the
+            
+116
+
+    
+district per pupil local revenues of the school district in which the student resides;
+            
+117
+
+    
+    (ii)  sum the district per pupil local revenues for each student enrolled in a charter school
+            
+118
+
+    
+on the previous October 1; and
+            
+119
+
+    
+    (iii)  divide the sum calculated under Subsection (1)(a)(ii) by the number of students
+            
+120
+
+    
+enrolled in charter schools on the previous October 1.
+            
+121
+
+    
+    (b)  "District per pupil local revenues" means the amount determined as follows, using
+            
+122
+
+    
+data from the most recently published school district annual financial reports and state
+            
+123
+
+    
+superintendent's annual report:
+            
+124
+
+    
+    (i)  calculate the sum of a school district's revenue received from:
+            
+125
+
+    
+    (A)  a voted levy imposed under Section 
+
+53A-17a-133
+
+;
+            
+126
+
+    
+    (B)  a board levy imposed under Section 
+
+53A-17a-134
+
+;
+            
+127
+
+    
+    (C)  10% of the cost of the basic program levy imposed under Section 
+
+53A-17a-145
+
+;
+            
+128
+
+    
+    (D)  a tort liability levy imposed under Section 
+
+63-30d-704
+
+;
+            
+129
+
+    
+    (E)  a capital outlay levy imposed under Section 
+
+53A-16-107
+
+; and
+            
+130
+
+    
+    (F)  a voted capital outlay levy imposed under Section 
+
+53A-16-110
+
+; and
+            
+131
+
+    
+    (ii)  divide the sum calculated under Subsection (1)(b)(i) by the sum of:
+            
+132
+
+    
+    (A)  a school district's average daily membership; and
+            
+133
+
+    
+    (B)  the average daily membership of a school district's resident students who attend
+            
+134
+
+    
+charter schools.
+            
+135
+
+    
+    (c)  "Resident student" means a student who is considered a resident of the school
+            
+136
+
+    
+district under Title 53A, Chapter 2, District of Residency.
+            
+137
+
+    
+    (d)  "Statewide average debt service revenues" means the amount determined as follows,
+            
+138
+
+    
+using data from the most recently published state superintendent's annual report:
+            
+139
+
+    
+    (i)  sum the revenues of each school district from the debt service levy imposed under
+            
+140
+
+    
+Section 
+
+11-14-310
+
+; and
+            
+141
+
+    
+    (ii)  divide the sum calculated under Subsection (1)(d)(i) by statewide school district
+
+            
+142
+
+
+    
+average daily membership.
+            
+143
+
+    
+    [(1)] (2) (a)  Charter schools shall receive funding as described in this section, except
+            
+144
+
+    
+Subsections [(2)] (3) through [(7)] (8) do not apply to charter schools described in Subsection
+            
+145
+
+    
+[(1)] (2)(b).
+            
+146
+
+    
+    (b)  Charter schools authorized by local school boards that are converted from district
+            
+147
+
+    
+schools or operate in district facilities without paying reasonable rent shall receive funding as
+            
+148
+
+    
+prescribed in Section 
+
+53A-1a-515
+
+.
+            
+149
+
+    
+    [(2)] (3) (a)  Except as provided in Subsection [(2)] (3)(b), a charter school shall receive
+            
+150
+
+    
+state funds, as applicable, on the same basis as a school district receives funds.
+            
+151
+
+    
+    (b)  In distributing funds under Title 53A, Chapter 17a, Minimum School Program Act,
+            
+152
+
+    
+to charter schools, charter school pupils shall be weighted, where applicable, as follows:
+            
+153
+
+    
+    (i)  .55 for kindergarten pupils;
+            
+154
+
+    
+    (ii)  .9 for pupils in grades 1-6;
+            
+155
+
+    
+    (iii)  .99 for pupils in grades 7-8; and
+            
+156
+
+    
+    (iv)  1.2 for pupils in grades 9-12.
+            
+157
+
+    
+    [(c)  The State Board of Education shall make rules in accordance with Title 63,
+            
+158
+
+    
+Chapter 46a, Utah Administrative Rulemaking Act, to administer Subsection (2)(b), including
+            
+159
+
+    
+hold harmless provisions to maintain a charter elementary school's funding level for a period of
+            
+160
+
+    
+two years after the effective date of the distribution formula.]
+            
+161
+
+    
+    [(d)  Subsection (2)(b) does not apply to funds appropriated to charter schools to
+            
+162
+
+    
+replace local property tax revenues.]
+            
+163
+
+    
+    [(3)  The State Board of Education shall adopt rules to provide for the distribution of
+            
+164
+
+    
+monies to charter schools under this section.]
+            
+165
+
+    
+    [(4) (a)  The Legislature shall provide an appropriation for charter schools for each of
+            
+166
+
+    
+their students to replace some of the local property tax revenues that are not available to charter
+            
+167
+
+    
+schools.  The amount of money provided for each charter school student shall be determined
+            
+168
+
+    
+by:]
+            
+169
+
+    
+    [(i)  calculating the sum of:]
+
+            
+170
+
+
+    
+    [(A)  school districts' operations and maintenance revenues derived from local property
+            
+171
+
+    
+taxes, except revenues from imposing a minimum basic tax rate pursuant to Section
+            
+172
+
+    
+
+
+53A-17a-135
+
+;]
+            
+173
+
+    
+    [(B)  school districts' capital projects revenues derived from local property taxes; and]
+            
+174
+
+    
+    [(C)  school districts' expenditures for interest on debt; and]
+            
+175
+
+    
+    [(ii)  dividing the sum by the total average daily membership of the districts' schools.]
+            
+176
+
+    
+    (4) (a) (i)  Except as provided in Subsection (4)(a)(ii), a school district shall allocate a
+            
+177
+
+    
+portion of school district revenues for each resident student of the school district who is
+            
+178
+
+    
+enrolled in a charter school on October 1 equal to 25% of the lesser of:
+            
+179
+
+    
+    (A)  district per pupil local revenues; or
+            
+180
+
+    
+    (B)  charter school students' average local revenues.
+            
+181
+
+    
+    (ii)  For the purpose of allocating school district revenues under Subsection (4)(a)(i), a
+            
+182
+
+    
+kindergarten student who is enrolled in less than a full-day kindergarten program is weighted as
+            
+183
+
+    
+.55 of a student.
+            
+184
+
+    
+    (iii)  Nothing in this Subsection (4)(a) affects the school bond guarantee program
+            
+185
+
+    
+established under Chapter 28, Utah School Bond Guaranty Act.
+            
+186
+
+    
+    (b)  The State Board of Education shall:
+            
+187
+
+    
+    (i)  deduct an amount equal to the allocation provided under Subsection (4)(a) from
+            
+188
+
+    
+state funds the school district is authorized to receive under Title 53A, Chapter 17a, Minimum
+            
+189
+
+    
+School Program Act; and
+            
+190
+
+    
+    (ii)  remit the money to the student's charter school.
+            
+191
+
+    
+    (c)  Notwithstanding the method used to transfer school district revenues to charter
+            
+192
+
+    
+schools as provided in Subsection (4)(b), a school district may deduct the allocations to charter
+            
+193
+
+    
+schools under this section from:
+            
+194
+
+    
+    (i)  unrestricted revenues available to the school district; or
+            
+195
+
+    
+    (ii)  the revenue sources listed in Subsections (1)(b)(i)(A) through (F) based on the
+            
+196
+
+    
+portion of the allocations to charter schools attributed to each of the revenue sources listed in
+            
+197
+
+    
+Subsections (1)(b)(i)(A) through (F).
+
+            
+198
+
+
+    
+    (d) (i)  Subject to future budget constraints, the Legislature shall provide an
+            
+199
+
+    
+appropriation for charter schools for each student enrolled on October 1 to supplement the
+            
+200
+
+    
+allocation of school district revenues under Subsection (4)(a).
+            
+201
+
+    
+    (ii)  Except as provided in Subsections (4)(d)(iii) and (iv), the amount of money
+            
+202
+
+    
+provided by the state for a charter school student shall be the sum of:
+            
+203
+
+    
+    (A)  charter school students' average local revenues minus the allocation of school
+            
+204
+
+    
+district revenues under Subsection (4)(a); and
+            
+205
+
+    
+    (B)  statewide average debt service revenues.
+            
+206
+
+    
+    (iii)  If the total of a school district's allocation for a charter school student under
+            
+207
+
+    
+Subsection (4)(a) and the amount provided by the state under Subsection (4)(d)(ii) is less than
+            
+208
+
+    
+$1427, the state shall provide an additional supplement so that a charter school receives at least
+            
+209
+
+    
+$1427 per student under this Subsection (4).
+            
+210
+
+    
+    (iv)  For the purpose of providing state monies for charter school students under this
+            
+211
+
+    
+Subsection (4)(d), a kindergarten student who is enrolled in less than a full-day kindergarten
+            
+212
+
+    
+program is weighted as .55 of a student.
+            
+213
+
+    
+    [(b)] (e)  Of the monies provided to a charter school under this Subsection (4)[(a)], 10%
+            
+214
+
+    
+shall be expended for funding school facilities only.
+            
+215
+
+    
+    [(c)  To qualify for money under Subsection (4)(a), a new charter school shall, by
+            
+216
+
+    
+September 30 of the school year prior to the school year it intends to begin operations:]
+            
+217
+
+    
+    [(i)  obtain approval of its application for a charter from:]
+            
+218
+
+    
+    [(A)  the State Board of Education, pursuant to Section 
+
+53A-1a-505
+
+; or]
+            
+219
+
+    
+    [(B)  a local school board, pursuant to Section 
+
+53A-1a-515
+
+; and]
+            
+220
+
+    
+    [(ii)  submit to the chartering entity an estimate of the charter school's first year
+            
+221
+
+    
+enrollment.]
+            
+222
+
+    
+    [(d)  Subsection (4)(c) does not apply to charter schools beginning operations in the
+            
+223
+
+    
+2005-06 school year.]
+            
+224
+
+    
+    [(e)  By December 1, the State Charter School Board shall submit to the Governor's
+            
+225
+
+    
+Office of Planning and Budget and the Office of the Legislative Fiscal Analyst an estimate of
+
+            
+226
+
+
+    
+total charter school enrollment in the state for the following school year.]
+            
+227
+
+    
+    (5)  Charter schools are eligible to receive federal funds if they meet all applicable
+            
+228
+
+    
+federal requirements and comply with relevant federal regulations.
+            
+229
+
+    
+    (6)  The State Board of Education shall distribute funds for charter school students
+            
+230
+
+    
+directly to the charter school.
+            
+231
+
+    
+    (7) (a)  Notwithstanding Subsection [(2)] (3), a charter school is not eligible to receive
+            
+232
+
+    
+state transportation funding.
+            
+233
+
+    
+    (b)  The board shall also adopt rules relating to the transportation of students to and
+            
+234
+
+    
+from charter schools, taking into account Sections 
+
+53A-2-210
+
+ and 
+
+53A-17a-127
+
+.
+            
+235
+
+    
+    (c)  The governing body of the charter school may provide transportation through an
+            
+236
+
+    
+agreement or contract with the local school board, a private provider, or with parents.
+            
+237
+
+    
+    (8) (a) (i)  The state superintendent of public instruction may allocate grants for both
+            
+238
+
+    
+start-up and ongoing costs to eligible charter school applicants from monies appropriated for
+            
+239
+
+    
+the implementation of this part.
+            
+240
+
+    
+    (ii)  Applications for the grants shall be filed on a form determined by the state
+            
+241
+
+    
+superintendent and in conjunction with the application for a charter.
+            
+242
+
+    
+    (iii)  The amount of a grant may vary based upon the size, scope, and special
+            
+243
+
+    
+circumstances of the charter school.
+            
+244
+
+    
+    (iv)  The governing board of the charter school shall use the grant to meet the expenses
+            
+245
+
+    
+of the school as established in the school's charter.
+            
+246
+
+    
+    (b)  The State Board of Education shall coordinate the distribution of federal monies
+            
+247
+
+    
+appropriated to help fund costs for establishing and maintaining charter schools within the state.
+            
+248
+
+    
+    (9) (a)  A charter school may receive, hold, manage and use any devise, bequest, grant,
+            
+249
+
+    
+endowment, gift, or donation of any property made to the school for any of the purposes of this
+            
+250
+
+    
+part.
+            
+251
+
+    
+    (b)  It is unlawful for any person affiliated with a charter school to demand or request
+            
+252
+
+    
+any gift, donation, or contribution from a parent, teacher, employee, or other person affiliated
+            
+253
+
+    
+with the charter school as a condition for employment or enrollment at the school or continued
+
+            
+254
+
+
+    
+attendance at the school.
+            
+255
+
+    
+    [(10)  The State Office of Education shall use up to $1,044,000 of funding provided for
+            
+256
+
+    
+new growth to fund additional growth needs in charter schools in fiscal year 2005.]
+            
+257
+
+    
+    Section 3.  
+Section  
+53A-1a-1001
+
+ is enacted to read:
+            
+258
+
+    
+ Part 10.  UPSTART
+
+            
+259
+
+    
+     53A-1a-1001.  Definitions.
+            
+260
+
+    
+    As used in this part:
+            
+261
+
+    
+    (1)  "Contractor" means the educational technology provider selected by the State
+            
+262
+
+    
+Board of Education under Section 
+
+53A-1a-1002
+
+.
+            
+263
+
+    
+    (2)  "Low income" means an income below 200% of the federal poverty guideline.
+            
+264
+
+    
+    (3)  "Preschool children" means children who are:
+            
+265
+
+    
+    (a)  age four or five; and
+            
+266
+
+    
+    (b)  have not entered kindergarten.
+            
+267
+
+    
+    (4)  "UPSTART" means the pilot project established by Section 
+
+53A-1a-1002
+
+ that uses
+            
+268
+
+    
+a home-based educational technology program to develop school readiness skills of preschool
+            
+269
+
+    
+children.
+            
+270
+
+    
+    Section 4.  
+Section  
+53A-1a-1002
+
+ is enacted to read:
+            
+271
+
+    
+     53A-1a-1002.  Pilot project to develop school readiness skills of preschool children.
+            
+272
+
+    
+    (1)  UPSTART, a pilot project that uses a home-based educational technology program
+            
+273
+
+    
+to develop school readiness skills of preschool children, is established within the public
+            
+274
+
+    
+education system.
+            
+275
+
+    
+    (2)  UPSTART is created to:
+            
+276
+
+    
+    (a)  evaluate the effectiveness of giving preschool children access, at home, to
+            
+277
+
+    
+interactive individualized instruction delivered by computers and the Internet to prepare them
+            
+278
+
+    
+academically for success in school; and
+            
+279
+
+    
+    (b)  test the feasibility of scaling a home-based curriculum in reading, math, and science
+            
+280
+
+    
+delivered by computers and the Internet to all preschool children in Utah.
+            
+281
+
+    
+    (3)  The State Board of Education shall contract with an educational technology
+
+            
+282
+
+
+    
+provider, selected through a request for proposals process, for the delivery of a home-based
+            
+283
+
+    
+educational technology program for preschool children that meets the requirements of
+            
+284
+
+    
+Subsection (4).
+            
+285
+
+    
+    (4)  A home-based educational technology program for preschool children shall meet the
+            
+286
+
+    
+following standards:
+            
+287
+
+    
+    (a)  the contractor shall provide computer-assisted instruction for preschool children on
+            
+288
+
+    
+a home computer connected by the Internet to a centralized file storage facility;
+            
+289
+
+    
+    (b)  the contractor shall:
+            
+290
+
+    
+    (i)  provide technical support to families for the installation and operation of the
+            
+291
+
+    
+instructional software; and
+            
+292
+
+    
+    (ii)  provide for the installation of computer and Internet access in homes of low income
+            
+293
+
+    
+families that cannot afford the equipment and service;
+            
+294
+
+    
+    (c)  the contractor shall have the capability of doing the following through the Internet:
+            
+295
+
+    
+    (i)  communicating with parents;
+            
+296
+
+    
+    (ii)  updating the instructional software;
+            
+297
+
+    
+    (iii)  validating user access;
+            
+298
+
+    
+    (iv)  collecting usage data;
+            
+299
+
+    
+    (v)  storing research data; and
+            
+300
+
+    
+    (vi)  producing reports for parents, schools, and the Legislature;
+            
+301
+
+    
+    (d)  the program shall include the following components:
+            
+302
+
+    
+    (i)  computer-assisted, individualized instruction in reading, mathematics, and science;
+            
+303
+
+    
+    (ii)  a multisensory reading tutoring program; and
+            
+304
+
+    
+    (iii)  a validated computer adaptive reading test that does not require the presence of
+            
+305
+
+    
+trained adults to administer and is an accurate indicator of reading readiness of children who
+            
+306
+
+    
+cannot read;
+            
+307
+
+    
+    (e)  the contractor shall have the capability to quickly and efficiently modify, improve,
+            
+308
+
+    
+and support the product;
+            
+309
+
+    
+    (f)  the contractor shall work in cooperation with school district personnel who will
+
+            
+310
+
+
+    
+provide administrative and technical support of the program as provided in Section
+            
+311
+
+    
+
+
+53A-1a-1003
+
+;
+            
+312
+
+    
+    (g)  the contractor shall solicit families to participate in the program as provided in
+            
+313
+
+    
+Section 
+
+53A-1a-1004
+
+; and
+            
+314
+
+    
+    (h)  in implementing the home-based educational technology program, the contractor
+            
+315
+
+    
+shall seek the advise and expertise of early childhood education professionals within the Utah
+            
+316
+
+    
+System of Higher Education on issues such as:
+            
+317
+
+    
+    (i)  soliciting families to participate in the program;
+            
+318
+
+    
+    (ii)  providing training to families; and
+            
+319
+
+    
+    (iii)  motivating families to regularly use the instructional software.
+            
+320
+
+    
+    (5)  The contract shall provide funding for a home-based educational technology
+            
+321
+
+    
+program for preschool children for one year with an option to extend the contract for additional
+            
+322
+
+    
+years or to expand the program to a greater number of preschool children, subject to the
+            
+323
+
+    
+appropriation of money by the Legislature for UPSTART.
+            
+324
+
+    
+    Section 5.  
+Section  
+53A-1a-1003
+
+ is enacted to read:
+            
+325
+
+    
+     53A-1a-1003.  School district participation in UPSTART.
+            
+326
+
+    
+    (1)  A school district may participate in UPSTART if the local school board agrees to
+            
+327
+
+    
+work in cooperation with the contractor to provide administrative and technical support for the
+            
+328
+
+    
+pilot project.
+            
+329
+
+    
+    (2)  Family participants in UPSTART shall be solicited from school districts that
+            
+330
+
+    
+participate in UPSTART.
+            
+331
+
+    
+    (3)  A school district that participates in UPSTART shall:
+            
+332
+
+    
+    (a)  receive funding for:
+            
+333
+
+    
+    (i)  paraprofessional and technical support staff; and
+            
+334
+
+    
+    (ii)  travel, materials, and meeting costs of the program;
+            
+335
+
+    
+    (b)  participate in program training by the contractor; and
+            
+336
+
+    
+    (c)  agree to adopt standardized policies and procedures in implementing the pilot
+            
+337
+
+    
+project.
+
+            
+338
+
+
+    
+    Section 6.  
+Section  
+53A-1a-1004
+
+ is enacted to read:
+            
+339
+
+    
+     53A-1a-1004.  Family participation in UPSTART.
+            
+340
+
+    
+    (1)  The contractor shall solicit families to participate in UPSTART through a public
+            
+341
+
+    
+information campaign and referrals from participating school districts.
+            
+342
+
+    
+    (2) (a)  Preschool children who participate in UPSTART shall:
+            
+343
+
+    
+    (i)  be from families with diverse socioeconomic and ethnic backgrounds; and
+            
+344
+
+    
+    (ii)  reside in different regions of the state in both urban and rural areas.
+            
+345
+
+    
+    (b)  At least 30% of the preschool children who participate in UPSTART shall be from
+            
+346
+
+    
+low income families.
+            
+347
+
+    
+    (3)  A low income family that cannot afford a computer and Internet service to operate
+            
+348
+
+    
+the instructional software may obtain a computer and peripheral equipment on loan and receive
+            
+349
+
+    
+free Internet service for the duration of the family's participation in the pilot project.
+            
+350
+
+    
+    (4)  The contractor shall make the home-based educational technology program
+            
+351
+
+    
+available to families at an agreed upon cost if the number of families who would like to
+            
+352
+
+    
+participate in UPSTART exceeds the number of participants funded by the legislative
+            
+353
+
+    
+appropriation.
+            
+354
+
+    
+    Section 7.  
+Section  
+53A-1a-1005
+
+ is enacted to read:
+            
+355
+
+    
+     53A-1a-1005.   Purchase of equipment and service through cooperative purchasing
+            
+356
+
+    
+ contracts.
+            
+357
+
+    
+    The State Board of Education or a school district may purchase computers, peripheral
+            
+358
+
+    
+equipment, and Internet service for low income families who cannot afford them through
+            
+359
+
+    
+cooperative purchasing contracts administered by the state Division of Purchasing and General
+            
+360
+
+    
+Services.
+            
+361
+
+    
+    Section 8.  
+Section  
+53A-1a-1006
+
+ is enacted to read:
+            
+362
+
+    
+     53A-1a-1006.  Audit and evaluation.
+            
+363
+
+    
+    (1)  The state auditor shall:
+            
+364
+
+    
+    (a)  conduct an annual audit of the contractor's use of funds for UPSTART; or
+            
+365
+
+    
+    (b)  contract with an independent certified public accountant to conduct an annual audit.
+
+            
+366
+
+
+    
+    (2)  The State Board of Education shall:
+            
+367
+
+    
+    (a)  require by contract that the contractor will open its books and records relating to its
+            
+368
+
+    
+expenditure of funds pursuant to the contract to the state auditor or the state auditor's designee;
+            
+369
+
+    
+    (b)  reimburse the state auditor for the actual and necessary costs of the audit; and
+            
+370
+
+    
+    (c)  contract with an independent, qualified evaluator, selected through a request for
+            
+371
+
+    
+proposals process, to evaluate the home-based educational technology program for preschool
+            
+372
+
+    
+children.
+            
+373
+
+    
+    (3)  Of the monies appropriated by the Legislature for UPSTART, excluding funds used
+            
+374
+
+    
+to provide computers, peripheral equipment, and Internet service to families, no more than
+            
+375
+
+    
+7.5% may be used for the evaluation of the program.
+            
+376
+
+    
+    Section 9.  
+Section  
+53A-1a-1007
+
+ is enacted to read:
+            
+377
+
+    
+     53A-1a-1007.   Annual report.
+            
+378
+
+    
+    (1)  The State Board of Education shall make a report on UPSTART to the Education
+            
+379
+
+    
+Interim Committee by November 30 each year.
+            
+380
+
+    
+    (2)  The report shall:
+            
+381
+
+    
+    (a)  address the extent to which UPSTART is accomplishing the purposes for which it
+            
+382
+
+    
+was established as specified in Section 
+
+53A-1a-1002
+
+; and
+            
+383
+
+    
+    (b)  include the following information:
+            
+384
+
+    
+    (i)  the number of families:
+            
+385
+
+    
+    (A)  volunteering to participate in the program;
+            
+386
+
+    
+    (B)  selected to participate in the program;
+            
+387
+
+    
+    (C)  requesting computers; and
+            
+388
+
+    
+    (D)  furnished computers;
+            
+389
+
+    
+    (ii)  the frequency of use of the instructional software;
+            
+390
+
+    
+    (iii)  obstacles encountered with software usage, hardware, or providing technical
+            
+391
+
+    
+assistance to families;
+            
+392
+
+    
+    (iv)  student performance on pre-kindergarten and post-kindergarten assessments
+            
+393
+
+    
+conducted by school districts and charter schools for students who participated in the
+
+            
+394
+
+
+    
+home-based educational technology program and those who did not participate in the program;
+            
+395
+
+    
+and
+            
+396
+
+    
+    (v)  as available, the evaluation of the program conducted pursuant to Section
+            
+397
+
+    
+
+
+53A-1a-1006
+
+.
+            
+398
+
+    
+    Section 10.  
+Section  
+53A-13-110
+
+ is enacted to read:
+            
+399
+
+    
+     53A-13-110.  Financial and economic literacy education.
+            
+400
+
+    
+    (1)  As used in this section, "financial and economic literacy passport" means a
+            
+401
+
+    
+document that tracks mastery of financial and economic literacy concepts and completion of
+            
+402
+
+    
+financial and economic activities, including the following:
+            
+403
+
+    
+    (a)  basic budgeting;
+            
+404
+
+    
+    (b)  saving and financial investments;
+            
+405
+
+    
+    (c)  banking and financial services, including balancing a checkbook or a bank account;
+            
+406
+
+    
+    (d)  career management, including earning an income;
+            
+407
+
+    
+    (e)  rights and responsibilities of renting or buying a home;
+            
+408
+
+    
+    (f)  retirement planning;
+            
+409
+
+    
+    (g)  loans and borrowing money, including interest, credit card debt, predatory lending,
+            
+410
+
+    
+and payday loans;
+            
+411
+
+    
+    (h)  insurance;
+            
+412
+
+    
+    (i)  federal, state, and local taxes;
+            
+413
+
+    
+    (j)  charitable giving;
+            
+414
+
+    
+    (k)  online commerce;
+            
+415
+
+    
+    (l)  identity fraud and theft;
+            
+416
+
+    
+    (m)  negative financial consequences of gambling;
+            
+417
+
+    
+    (n)  bankruptcy;
+            
+418
+
+    
+    (o)  free markets and prices;
+            
+419
+
+    
+    (p)  supply and demand;
+            
+420
+
+    
+    (q)  monetary and fiscal policy;
+            
+421
+
+    
+    (r)  effective business plan creation, including using economic analysis in creating a plan;
+
+            
+422
+
+
+    
+    (s)  scarcity and choices;
+            
+423
+
+    
+    (t)  opportunity cost and tradeoffs;
+            
+424
+
+    
+    (u)  productivity;
+            
+425
+
+    
+    (v)  entrepreneurism; and
+            
+426
+
+    
+    (w)  economic reasoning.
+            
+427
+
+    
+    (2)  The State Board of Education shall:
+            
+428
+
+    
+    (a)  in cooperation with interested private and non-profit entities:
+            
+429
+
+    
+    (i)  develop a financial and economic literacy passport that students may elect to
+            
+430
+
+    
+complete;
+            
+431
+
+    
+    (ii)  develop methods of encouraging parent and educator involvement in completion of
+            
+432
+
+    
+the financial and economic literacy passport; and
+            
+433
+
+    
+    (iii)  develop and implement appropriate recognition and incentives for students who
+            
+434
+
+    
+complete the financial and economic literacy passport, including:
+            
+435
+
+    
+    (A)  a financial and economic literacy endorsement on the student's diploma of
+            
+436
+
+    
+graduation;
+            
+437
+
+    
+    (B)  a specific designation on the student's official transcript; and
+            
+438
+
+    
+    (C)  any incentives offered by community partners;
+            
+439
+
+    
+    (b)  more fully integrate existing and new financial and economic literacy education into
+            
+440
+
+    
+instruction in kindergarten through twelfth grade by:
+            
+441
+
+    
+    (i)  coordinating financial and economic literacy instruction with existing instruction in
+            
+442
+
+    
+other core curriculum areas such as mathematics and social studies;
+            
+443
+
+    
+    (ii)  using curriculum mapping;
+            
+444
+
+    
+    (iii)  creating training materials and staff development programs that:
+            
+445
+
+    
+    (A)  highlight areas of potential coordination between financial and economic literacy
+            
+446
+
+    
+education and other core curriculum concepts; and
+            
+447
+
+    
+    (B)  demonstrate specific examples of financial and economic literacy concepts as a way
+            
+448
+
+    
+of teaching other core curriculum concepts; and
+            
+449
+
+    
+    (iv)  using appropriate financial and economic literacy assessments to improve financial
+
+            
+450
+
+
+    
+and economic literacy education and, if necessary, developing assessments;
+            
+451
+
+    
+    (c)  work with interested private and non-profit entities to:
+            
+452
+
+    
+    (i)  coordinate school use of existing financial and economic literacy education
+            
+453
+
+    
+resources;
+            
+454
+
+    
+    (ii)  develop simple, clear, and consistent messaging to reinforce and link existing
+            
+455
+
+    
+financial literacy resources; and
+            
+456
+
+    
+    (iii)  coordinate the efforts of school, work, private, non-profit, and other financial
+            
+457
+
+    
+education providers in implementing methods of appropriately communicating to teachers,
+            
+458
+
+    
+students, and parents key financial and economic literacy messages; and
+            
+459
+
+    
+    (d)  in accordance with Title 63, Chapter 46a, Utah Administrative Rulemaking Act,
+            
+460
+
+    
+make rules to develop guidelines and methods for school districts and charter schools to more
+            
+461
+
+    
+fully integrate financial and economic literacy education into other core curriculum courses.
+            
+462
+
+    
+    (3)  The state superintendent shall annually report to the Education Interim Committee
+            
+463
+
+    
+by November of each year on the successes and areas of needed improvement in financial and
+            
+464
+
+    
+economic literacy education provided pursuant to this section.
+            
+465
+
+    
+    Section 11.  
+Section  
+53A-14-107
+
+ is amended to read:
+            
+466
+
+    
+     53A-14-107.  Instructional materials alignment with core curriculum.
+            
+467
+
+    
+    (1)  A school district may not purchase primary instructional materials unless the
+            
+468
+
+    
+primary instructional materials provider:
+            
+469
+
+    
+    (a)  contracts with an independent party to evaluate and map the alignment of the
+            
+470
+
+    
+primary instructional materials with the core curriculum adopted under Section 
+
+53A-1-402
+
+;
+            
+471
+
+    
+    (b)  provides a detailed summary of the evaluation under Subsection (1)(a) on a public
+            
+472
+
+    
+website at no charge, for use by teachers and the general public; and
+            
+473
+
+    
+    (c)  pays the costs related to the requirements of this Subsection (1).
+            
+474
+
+    
+    (2)  The requirements under Subsection (1) may not be performed by:
+            
+475
+
+    
+    (a)  the State Board of Education;
+            
+476
+
+    
+    (b)  the superintendent of public instruction or the [superintendent's staff] State Office of
+            
+477
+
+    
+Education;
+
+            
+478
+
+
+    
+    (c)  the State Instructional Materials Commission appointed pursuant to Section
+            
+479
+
+    
+
+53A-14-101
+
+;
+            
+480
+
+    
+    (d)  [an employee or] a local school board [member of] or a school district; or
+            
+481
+
+    
+    (e)  the instructional materials creator or publisher.
+            
+482
+
+    
+     (3)  In accordance with Title 63, Chapter 46a, Utah Administrative Rulemaking Act,
+            
+483
+
+    
+the State Board of Education shall make rules that establish:
+            
+484
+
+    
+    (a)  the qualifications of the independent parties who may evaluate and map the
+            
+485
+
+    
+alignment of the primary instructional materials in accordance with the provisions of Subsection
+            
+486
+
+    
+(1)(a); and
+            
+487
+
+    
+    (b)  requirements for the detailed summary of the evaluation and its placement on a
+            
+488
+
+    
+public website in accordance with the provisions of Subsection (1)(b).
+            
+489
+
+    
+    Section 12.  
+Section  
+53A-17a-103
+
+ is amended to read:
+            
+490
+
+    
+     53A-17a-103.  Definitions.
+            
+491
+
+    
+    As used in this chapter:
+            
+492
+
+    
+    (1)  "Basic state-supported school program" or "basic program" means public education
+            
+493
+
+    
+programs for kindergarten, elementary, and secondary school students that are operated and
+            
+494
+
+    
+maintained for the amount derived by multiplying the number of weighted pupil units for each
+            
+495
+
+    
+district by [$2,514] $2,577, except as otherwise provided in this chapter.
+            
+496
+
+    
+    (2) (a)  "Certified revenue levy" means a property tax levy that provides an amount of ad
+            
+497
+
+    
+valorem property tax revenue equal to the sum of:
+            
+498
+
+    
+    (i)  the amount of ad valorem property tax revenue to be generated statewide in the
+            
+499
+
+    
+previous year from imposing a minimum basic tax rate, as specified in Subsection
+            
+500
+
+    
+
+53A-17a-135
+
+(1)(a); and
+            
+501
+
+    
+    (ii)  the product of:
+            
+502
+
+    
+    (A)  new growth, as defined in Section 
+
+59-2-924
+
+ and rules of the State Tax
+            
+503
+
+    
+Commission; and
+            
+504
+
+    
+    (B)  the minimum basic tax rate certified by the State Tax Commission for the previous
+            
+505
+
+    
+year.
+
+            
+506
+
+
+    
+    (b)  For purposes of this Subsection (2), "ad valorem property tax revenue" does not
+            
+507
+
+    
+include property tax revenue received statewide from personal property that is:
+            
+508
+
+    
+    (i)  assessed by a county assessor in accordance with Title 59, Chapter 2, Part 3, County
+            
+509
+
+    
+Assessment; and
+            
+510
+
+    
+    (ii)  semiconductor manufacturing equipment.
+            
+511
+
+    
+    (3)  "Leeway program" or "leeway" means a state-supported voted leeway program or
+            
+512
+
+    
+board leeway program authorized under Section 
+
+53A-17a-133
+
+ or 
+
+53A-17a-134
+
+.
+            
+513
+
+    
+    (4)  "Pupil in average daily membership (ADM)" means a full-day equivalent pupil.
+            
+514
+
+    
+    (5) (a)  "State-supported minimum school program" or "minimum school program"
+            
+515
+
+    
+means public school programs for kindergarten, elementary, and secondary schools as described
+            
+516
+
+    
+in this Subsection (5).
+            
+517
+
+    
+    (b)  The minimum school program established in the districts shall include the equivalent
+            
+518
+
+    
+of a school term of nine months as determined by the State Board of Education.
+            
+519
+
+    
+    (c) (i)  The board shall establish the number of days or equivalent instructional hours
+            
+520
+
+    
+that school is held for an academic school year.
+            
+521
+
+    
+    (ii)  Education, enhanced by utilization of technologically enriched delivery systems,
+            
+522
+
+    
+when approved by local school boards, shall receive full support by the State Board of
+            
+523
+
+    
+Education as it pertains to fulfilling the attendance requirements, excluding time spent viewing
+            
+524
+
+    
+commercial advertising.
+            
+525
+
+    
+    (d)  The program includes the total of the following annual costs:
+            
+526
+
+    
+    (i)  the cost of a basic state-supported school program; and
+            
+527
+
+    
+    (ii)  other amounts appropriated in this chapter in addition to the basic program.
+            
+528
+
+    
+    (6)  "Weighted pupil unit or units or WPU or WPUs" means the unit of measure of
+            
+529
+
+    
+factors that is computed in accordance with this chapter for the purpose of determining the
+            
+530
+
+    
+costs of a program on a uniform basis for each district.
+            
+531
+
+    
+    Section 13.  
+Section  
+53A-17a-104
+
+ is amended to read:
+            
+532
+
+    
+     53A-17a-104.  Amount of state's contribution toward minimum school program.
+            
+533
+
+    
+    (1)  The total contribution of the state toward the cost of the minimum school program
+
+            
+534
+
+
+    
+may not exceed the sum of [$2,273,574,120] $2,497,012,086 for the fiscal year beginning July
+            
+535
+
+    
+1, [2007] 2008, except as otherwise provided by the Legislature through supplemental
+            
+536
+
+    
+appropriations.
+            
+537
+
+    
+    (2)  There is appropriated from state and local funds for fiscal year [2007-08] 2008-09
+            
+538
+    
+for distribution to school districts and charter schools, in accordance with this chapter, monies
+            
+539
+    
+for the following purposes and in the following amounts:
+            
+540
+    
+    (a)  basic program - kindergarten, [$61,819,260 (24,590] $65,182,638 (25,294 WPUs);
+            
+541
+    
+    (b)  basic program - grades 1-12, [$1,202,446,200 (478,300] $1,258,253,751 (488,263
+            
+542
+    
+WPUs);
+            
+543
+    
+    (c)  basic program - professional staff, [$112,436,136 (44,724] $116,307,741 (45,133
+            
+544
+    
+WPUs);
+            
+545
+    
+    (d)  basic program - administrative costs, [$4,072,680] $4,174,740 (1,620 WPUs);
+            
+546
+    
+    (e)  basic program - necessarily existent small schools and units for consolidated
+            
+547
+    
+schools, [$19,229,586] $19,711,473 (7,649 WPUs);
+            
+548
+    
+    (f)  special education - regular program - add-on WPUs for students with disabilities,
+            
+549
+    
+[$143,034,030 (56,895] $155,789,958 (60,454 WPUs);
+            
+550
+    
+    (g)  preschool special education program, [$20,918,994 (8,321] $22,082,313 (8,569
+            
+551
+    
+WPUs);
+            
+552
+    
+    (h)  self-contained regular WPUs, [$33,587,040 (13,360] $34,573,032 (13,416 WPUs);
+            
+553
+    
+    (i)  extended year program for severely disabled, [$922,638 (367] $968,952 (376
+            
+554
+    
+WPUs);
+            
+555
+    
+    (j)  special education programs in state institutions and district impact aid, [$4,090,278
+            
+556
+    
+(1,627] $4,293,282 (1,666 WPUs);
+            
+557
+    
+    (k)  career and technical education district programs, [$65,147,796 (25,914]
+            
+558
+    
+$67,530,285 (26,205 WPUs), including [$1,114,000] $1,154,458 for summer career and
+            
+559
+    
+technical education agriculture programs;
+            
+560
+    
+    (l)  career and technical education district set-aside, [$2,742,774 (1,091] $2,878,509
+            
+561
+    
+(1,117 WPUs);
+
+            
+562
+    
+    (m)  class size reduction, [$82,330,986 (32,749] $88,373,061 (34,293 WPUs);
+
+            
+563
+    
+    (n)  Social Security and retirement programs, [$333,315,119] $349,906,049;
+            
+564
+    
+    (o)  pupil transportation to and from school, [$70,928,797] $74,446,865, of which not
+            
+565
+    
+less than [$2,462,300] $2,584,435 shall be allocated to the Utah Schools for the Deaf and Blind
+            
+566
+    
+to pay for transportation costs of the schools' students;
+            
+567
+    
+    (p)  guarantee transportation levy, $500,000;
+            
+568
+    
+    (q)  Local Discretionary Block Grant Program, $21,820,748;
+            
+569
+    
+    (r)  Interventions for Student Success Block Grant Program, [$17,953,612]
+            
+570
+    
+$18,844,111;
+            
+571
+    
+    (s)  Quality Teaching Block Grant Program, [$73,947,829] $77,615,641;
+            
+572
+    
+    (t)  highly impacted schools, $5,123,207;
+            
+573
+    
+    (u)  at-risk programs, [$29,926,867] $31,411,241;
+            
+574
+    
+    (v)  adult education, [$9,781,008] $10,266,146;
+            
+575
+    
+    (w)  accelerated learning programs, [$3,975,546] $4,295,581;
+            
+576
+    
+    (x)  concurrent enrollment, [$9,215,497] $9,672,586;
+            
+577
+    
+    (y)  High-ability Student Initiative Program, $500,000;
+            
+578
+    
+    (z)  English Language Learner Family Literacy Centers, $2,000,000;
+            
+579
+    
+    [(y)] (aa)  electronic high school, $2,000,000;
+            
+580
+    
+    [(z)] (bb)  School LAND Trust Program, [$21,000,000] $26,499,500;
+            
+581
+    
+    [(aa)  state-supported voted leeway, $227,700,777;]
+            
+582
+    
+    [(bb)  state-supported board leeway, $62,066,336;]
+            
+583
+    
+    (cc)  charter schools, pursuant to Section 
+
+53A-1a-513
+
+, [$28,509,000] $36,957,646;
+            
+584
+    
+    (dd)  charter school administrative costs, [$750,000] $2,898,600;
+            
+585
+    
+    (ee)  K-3 Reading Improvement Program, [$12,500,000] $15,000,000;
+            
+586
+    
+    [(ff)  state-supported board leeway for K-3 Reading Improvement Program,
+            
+587
+    
+$15,000,000; and]
+            
+588
+    
+    [(gg)] (ff)  Public Education Job Enhancement Program, $2,430,000[.];
+            
+589
+    
+    (gg)  educator salary adjustments, $148,260,200;
+
+            
+590
+    
+    (hh)  Teacher Salary Supplement Restricted Account, $4,300,000;
+
+            
+591
+    
+    (ii)  library books and electronic resources, $1,500,000;
+            
+592
+    
+    (jj)  school nurses, $1,000,000;
+            
+593
+    
+    (kk)  critical languages, $230,000;
+            
+594
+    
+    (ll)  extended year for special educators, $2,900,000;
+            
+595
+    
+    (mm)  USTAR Centers, $6,900,000;
+            
+596
+    
+    (nn)  state-supported voted leeway, $273,337,346;
+            
+597
+    
+    (oo)  state-supported board leeway, $71,575,858; and
+            
+598
+    
+    (pp)  state-supported board leeway for K-3 Reading Improvement Program,
+            
+599
+    
+$15,000,000.
+            
+600
+    
+    Section 14.  
+Section  
+53A-17a-108
+
+ is amended to read:
+            
+601
+    
+     53A-17a-108.  Weighted pupil units for school district administrative costs --
+            
+602
+    
+ Appropriation for charter school administrative costs.
+            
+603
+    
+    (1)  Administrative costs weighted pupil units are computed and distributed to districts
+            
+604
+    
+in accordance with the following schedule:
+            
+605
+    
+Administrative Costs Schedule
+
+            
+606
+    
+    School District Enrollment as of October 1            Weighted Pupil Units
+            
+607
+    
+    1 - 2,000 students                            53
+            
+608
+    
+    2,001 - 10,000 students                        48
+            
+609
+    
+    10,001 - 20,000 students                        25
+            
+610
+    
+    20,001 and above                            16
+            
+611
+    
+    (2) (a)  Money appropriated to the State Board of Education for charter school
+            
+612
+    
+administrative costs, including an appropriation in Section 
+
+53A-17a-104
+
+, shall be distributed to
+            
+613
+    
+charter schools in the amount of [$62] $100 for each charter school student in enrollment.
+            
+614
+    
+    (b)  Charter schools are encouraged to identify and use cost-effective methods of
+            
+615
+    
+performing administrative functions, including contracting for administrative services with the
+            
+616
+    
+State Charter School Board as provided in Section 
+
+53A-1a-501.6
+
+.
+            
+617
+    
+    (3)  Charter schools are not eligible for funds for administrative costs under Subsection
+
+            
+618
+    
+(1).
+
+            
+619
+    
+    Section 15.  
+Section  
+53A-17a-120
+
+ is amended to read:
+            
+620
+    
+     53A-17a-120.  Appropriation for accelerated learning programs.
+            
+621
+    
+    (1)  Money appropriated to the State Board of Education in Section 
+
+53A-17a-104
+
+ for
+            
+622
+    
+accelerated learning programs shall be allocated to local school boards and charter schools for
+            
+623
+    
+the following programs:
+            
+624
+    
+    (a)  programs in grades 1-12 for the gifted and talented; [and]
+            
+625
+    
+    (b)  advanced placement[.]; and
+            
+626
+    
+    (c)  International Baccalaureate.
+            
+627
+    
+    (2) (a)  Districts shall spend monies for these programs according to rules established by
+            
+628
+    
+the State Board of Education in accordance with Title 63, Chapter 46a, Utah Administrative
+            
+629
+    
+Rulemaking Act.
+            
+630
+    
+    (b)  The State Board of Education shall develop uniform and consistent policies for
+            
+631
+    
+school districts to follow in utilizing advanced placement monies.
+            
+632
+    
+    Section 16.  
+Section  
+53A-17a-126
+
+ is amended to read:
+            
+633
+    
+     53A-17a-126.  State support of pupil transportation.
+            
+634
+    
+    (1) Money appropriated to the State Board of Education in Section 
+
+53A-17a-104
+
+ for
+            
+635
+    
+state-supported transportation of public school students shall be apportioned and distributed in
+            
+636
+    
+accordance with Section 
+
+53A-17a-127
+
+, except as otherwise provided in this section.
+            
+637
+    
+    (2) (a)  The Utah Schools for the Deaf and the Blind shall use money appropriated in
+            
+638
+    
+Section 
+
+53A-17a-104
+
+ to pay for transportation of their students based on current valid
+            
+639
+    
+contractual arrangements and best transportation options and methods as determined by the
+            
+640
+    
+schools.
+            
+641
+    
+    (b)  All student transportation costs of the schools shall be paid from the allocation of
+            
+642
+    
+pupil transportation monies received under Section 
+
+53A-17a-104
+
+.
+            
+643
+    
+    (3) (a)  A school district may only claim eligible transportation costs as legally reported
+            
+644
+    
+on the prior year's annual financial report submitted under Section 
+
+53A-3-404
+
+.  [Each district
+            
+645
+    
+shall receive its]
+
+            
+646
+    
+    (b)  The state shall contribute 85% of approved transportation costs, [except that if
+
+            
+647
+    
+during the] subject to budget constraints.
+            
+648
+    
+    (c)  If in a fiscal year the total transportation allowance for all districts exceeds the
+            
+649
+    
+amount appropriated for that purpose, all allowances shall be reduced pro rata to equal not
+            
+650
+    
+more than [that amount] the amount appropriated.
+            
+651
+    
+    (4)  Local school boards shall provide salary adjustments to employee groups that work
+            
+652
+    
+with the transportation of students comparable to those of classified employees authorized
+            
+653
+    
+under Section 
+
+53A-17a-137
+
+, when dividing the weighted pupil unit for salary adjustment
+            
+654
+    
+purposes.
+            
+655
+    
+    Section 17.  
+Section  
+53A-17a-127
+
+ is amended to read:
+            
+656
+    
+     53A-17a-127.  Eligibility for state-supported transportation -- Approved bus
+            
+657
+    
+ routes -- Additional local tax.
+            
+658
+    
+    (1)  A student eligible for state-supported transportation means:
+            
+659
+    
+    (a)  a student enrolled in kindergarten through grade six who lives at least 1-1/2 miles
+            
+660
+    
+from school;
+            
+661
+    
+    (b)  a student enrolled in grades seven through 12 who lives at least two miles from
+            
+662
+    
+school; and
+            
+663
+    
+    (c)  a student enrolled in a special program offered by a school district and approved by
+            
+664
+    
+the State Board of Education for trainable, motor, multiple-disabled, or other students with
+            
+665
+    
+severe disabilities who are incapable of walking to school or where it is unsafe for students to
+            
+666
+    
+walk because of their disabling condition, without reference to distance from school.
+            
+667
+    
+    (2)  If a school district implements double sessions as an alternative to new building
+            
+668
+    
+construction, with the approval of the State Board of Education, those affected elementary
+            
+669
+    
+school students residing less than 1-1/2 miles from school may be transported one way to or
+            
+670
+    
+from school because of safety factors relating to darkness or other hazardous conditions as
+            
+671
+    
+determined by the local school board.
+            
+672
+    
+    (3) (a) The State [Office] Board of Education shall distribute transportation monies to
+            
+673
+    
+school districts based on [three factors]:
+
+            
+674
+    
+    (i)  an allowance per mile for approved bus routes;
+
+            
+675
+    
+    (ii)  an allowance per hour for approved bus routes; [and]
+            
+676
+    
+    (iii)  an annual allowance for equipment and overhead costs based on approved bus
+            
+677
+    
+routes and the age of the equipment[.]; and
+            
+678
+    
+    (iv)  a minimum allocation for each school district eligible for transportation funding.
+            
+679
+    
+    (b)  The State Board of Education shall distribute appropriated transportation funds
+            
+680
+    
+based on the prior year's eligible transportation costs as legally reported under Subsection
+            
+681
+    
+
+
+53A-17a-126
+
+(3).
+            
+682
+    
+    [(b)] (c)  In order for a bus to be considered for the equipment allowance under
+            
+683
+    
+Subsection (3)(a)(iii), it must meet federal and state regulations and standards for school buses.
+            
+684
+    
+    [(c)] (d)  The State [Office] Board of Education shall annually review the allowance per
+            
+685
+    
+mile, the allowance per hour, and the annual equipment and overhead allowance and adjust the
+            
+686
+    
+allowance to reflect current economic conditions.
+            
+687
+    
+    (4) (a)  Approved bus routes for funding purposes shall be determined on fall data
+            
+688
+    
+collected by October 1.
+            
+689
+    
+    (b)  Approved route funding shall be determined on the basis of the most efficient and
+            
+690
+    
+economic routes.
+            
+691
+    
+    (5)  A Transportation Advisory Committee with representation from local school
+            
+692
+    
+superintendents, business officials, school district transportation supervisors, and the [State
+            
+693
+    
+Office of Education] state superintendent's staff shall serve as a review committee for
+            
+694
+    
+addressing school transportation needs, including recommended approved bus routes.
+            
+695
+    
+    (6) (a)  A local school board may provide for the transportation of students who are not
+            
+696
+    
+eligible under Subsection (1), regardless of the distance from school, from:
+            
+697
+    
+    (i)  general funds of the district; and
+            
+698
+    
+    (ii)  a tax rate not to exceed .0003 per dollar of taxable value imposed on the district.
+            
+699
+    
+    (b)  A local school board may use revenue from the tax to pay for transporting
+            
+700
+    
+participating students to interscholastic activities, night activities, and educational field trips
+            
+701
+    
+approved by the board and for the replacement of school buses.
+
+            
+702
+    
+    (c) (i)  If a local school board levies a tax under Subsection (6)(a)(ii) of at least .0002,
+
+            
+703
+    
+the state may contribute an amount not to exceed 85% of the state average cost per mile,
+            
+704
+    
+contingent upon the Legislature appropriating funds for a state contribution.
+            
+705
+    
+    (ii)  The [State Office of Education] state superintendent's staff shall distribute the state
+            
+706
+    
+contribution according to rules enacted by the State Board of Education.
+            
+707
+    
+    (d) (i)  The amount of state guarantee money [to] which a school district would
+            
+708
+    
+otherwise be entitled to receive under Subsection (6)(c) may not be reduced for the sole reason
+            
+709
+    
+that the district's levy is reduced as a consequence of changes in the certified tax rate under
+            
+710
+    
+Section 
+
+59-2-924
+
+ due to changes in property valuation.
+            
+711
+    
+    (ii)  Subsection (6)(d)(i) applies for a period of two years following the change in the
+            
+712
+    
+certified tax rate.
+            
+713
+    
+    [(7)  There is appropriated for the fiscal year beginning July 1, 1999, $225,000 to the
+            
+714
+    
+state board as the state's contribution under Subsection (6)(c)(i).]
+            
+715
+    
+    Section 18.  
+Section  
+53A-17a-153
+
+ is amended to read:
+            
+716
+    
+     53A-17a-153.  Educator salary adjustments.
+            
+717
+    
+    (1)  As used in this section, "educator" means a person employed by a school district,
+            
+718
+    
+charter school, or the Utah Schools for the Deaf and the Blind who holds:
+            
+719
+    
+    (a)  a license issued under Title 53A, Chapter 6, Educator Licensing and Professional
+            
+720
+    
+Practices Act; and
+            
+721
+    
+    (b)  a position as a:
+            
+722
+    
+    (i)  classroom teacher;
+            
+723
+    
+    (ii)  speech pathologist;
+            
+724
+    
+    (iii)  librarian or media specialist;
+            
+725
+    
+    (iv)  preschool teacher;
+            
+726
+    
+    [(v)  school administrator;]
+            
+727
+    
+    [(vi)] (v)  mentor teacher;
+            
+728
+    
+    [(vii)] (vi)  teacher specialist or teacher leader;
+            
+729
+    
+    [(viii)] (vii)  guidance counselor;
+
+            
+730
+    
+    [(ix)] (viii)  audiologist;
+
+            
+731
+    
+    [(x)] (ix)  psychologist; or
+            
+732
+    
+    [(xi)] (x)  social worker.
+            
+733
+    
+    (2)  In recognition of the need to attract and retain highly skilled and dedicated
+            
+734
+    
+educators, the Legislature shall annually appropriate money for educator salary adjustments,
+            
+735
+    
+subject to future budget constraints.
+            
+736
+    
+    (3)  Money appropriated to the State Board of Education for educator salary
+            
+737
+    
+adjustments shall be distributed to school districts, charter schools, and the Utah Schools for the
+            
+738
+    
+Deaf and the Blind in proportion to the number of full-time-equivalent educator positions in a
+            
+739
+    
+school district, a charter school, or the Utah Schools for the Deaf and the Blind as compared to
+            
+740
+    
+the total number of full-time-equivalent educator positions in school districts, charter schools,
+            
+741
+    
+and the Utah Schools for the Deaf and the Blind.
+            
+742
+    
+    (4)  School districts, charter schools, and the Utah Schools for the Deaf and the Blind
+            
+743
+    
+shall award bonuses to educators as follows:
+            
+744
+    
+    (a)  the amount of the salary adjustment shall be the same for each full-time-equivalent
+            
+745
+    
+educator position in the school district, charter school, or the Utah Schools for the Deaf and the
+            
+746
+    
+Blind;
+            
+747
+    
+    (b)  a person who is not a full-time educator shall receive a partial salary adjustment
+            
+748
+    
+based on the number of hours the person works as an educator; and
+            
+749
+    
+    (c)  salary adjustments may be awarded only to educators who have received a
+            
+750
+    
+satisfactory rating or above on their most recent evaluation.
+            
+751
+    
+    (5) (a)  Each school district and charter school and the Utah Schools for the Deaf and
+            
+752
+    
+the Blind shall submit a report to the State Board of Education on how the money for salary
+            
+753
+    
+adjustments was spent, including the amount of the salary adjustment and the number of full and
+            
+754
+    
+partial salary adjustments awarded.
+            
+755
+    
+    (b)  The State Board of Education shall compile the information reported under
+            
+756
+    
+Subsection (5) and submit it to the Public Education Appropriations Subcommittee by
+            
+757
+    
+November 30 each year.
+
+            
+758
+    
+    (6)  The State Board of Education may make rules as necessary to administer this
+
+            
+759
+    
+section, in accordance with Title 63, Chapter 46a, Utah Administrative Rulemaking Act.
+            
+760
+    
+    (7) (a)  Subject to future budget constraints, the Legislature shall appropriate sufficient
+            
+761
+    
+monies each year to:
+            
+762
+    
+    [(a)] (i)  maintain educator salary adjustments provided in prior years; and
+            
+763
+    
+    [(b)] (ii)  provide educator salary adjustments to new employees.
+            
+764
+    
+    (b)  Money appropriated for educator salary adjustments shall include money for the
+            
+765
+    
+following employer-paid benefits:
+            
+766
+    
+    (i)  retirement;
+            
+767
+    
+    (ii)  worker's compensation;
+            
+768
+    
+    (iii)  Social Security; and
+            
+769
+    
+    (iv)  Medicare.
+            
+770
+    
+    Section 19.  
+Section  
+53A-17a-156
+
+ is enacted to read:
+            
+771
+    
+     53A-17a-156.  Teacher Salary Supplement Program.
+            
+772
+    
+    (1)  As used in this section:
+            
+773
+    
+    (a)  "Eligible teacher" means a teacher who:
+            
+774
+    
+    (i)  has an assignment to teach:
+            
+775
+    
+    (A)  a secondary school level mathematics course;
+            
+776
+    
+    (B)  integrated science in grade 7 or 8;
+            
+777
+    
+    (C)  chemistry; or
+            
+778
+    
+    (D)  physics;
+            
+779
+    
+    (ii)  holds the appropriate endorsement for the assigned course;
+            
+780
+    
+    (iii)  has qualifying educational background; and
+            
+781
+    
+    (iv) (A)  is a new employee; or
+            
+782
+    
+    (B)  received a satisfactory rating or above on the teacher's most recent evaluation.
+            
+783
+    
+    (b)  "Qualifying educational background" means:
+            
+784
+    
+    (i)  for a teacher who is assigned a secondary school level mathematics course, a
+            
+785
+    
+bachelor's degree major, master's degree, or doctoral degree in mathematics; and
+
+            
+786
+    
+    (ii)  for a teacher who is assigned a grade 7 or 8 integrated science course, chemistry
+
+            
+787
+    
+course, or physics course, a bachelor's degree major, master's degree, or doctoral degree in:
+            
+788
+    
+    (I)  integrated science;
+            
+789
+    
+    (II)  chemistry;
+            
+790
+    
+    (III)  physics;
+            
+791
+    
+    (IV)  physical science; or
+            
+792
+    
+    (V)  general science.
+            
+793
+    
+    (2) (a)  Subject to future budget constraints, the Legislature shall annually appropriate
+            
+794
+    
+money to the Teacher Salary Supplement Restricted Account established in Section
+            
+795
+    
+
+
+53A-17a-157
+
+ to fund the Teacher Salary Supplement Program.
+            
+796
+    
+    (b)  Money appropriated for the Teacher Salary Supplement Program shall include
+            
+797
+    
+money for the following employer-paid benefits:
+            
+798
+    
+    (i)  retirement;
+            
+799
+    
+    (ii)  workers' compensation;
+            
+800
+    
+    (iii)  Social Security; and
+            
+801
+    
+    (iv)  Medicare.
+            
+802
+    
+    (3) (a)  Beginning in fiscal year 2008-09, the annual salary supplement is $4,100 for an
+            
+803
+    
+eligible teacher who:
+            
+804
+    
+    (i)  is assigned full-time to teach one or more courses listed in Subsections (1)(a)(i)(A)
+            
+805
+    
+through (D); and
+            
+806
+    
+    (ii)  meets the requirements of Subsections (1)(a)(ii) and (iii) for each course
+            
+807
+    
+assignment.
+            
+808
+    
+    (b)  An eligible teacher who has a part-time assignment to teach one or more courses
+            
+809
+    
+listed in Subsections (1)(a)(i)(A) through (D) shall receive a partial salary supplement based on
+            
+810
+    
+the number of hours worked in a course assignment that meets the requirements of Subsections
+            
+811
+    
+(1)(a)(ii) and (iii).
+            
+812
+    
+    (4)  The Department of Human Resource Management shall:
+            
+813
+    
+    (a)  create an on-line application system for a teacher to apply to receive a salary
+
+            
+814
+    
+supplement through the Teacher Salary Supplement Program;
+
+            
+815
+    
+    (b)  determine if a teacher:
+            
+816
+    
+    (i)  is an eligible teacher; and
+            
+817
+    
+    (ii)  has a course assignment as listed in Subsections (1)(a)(i)(A) through (D);
+            
+818
+    
+    (c)  verify, as needed, the determinations made under Subsection (4)(b) with school
+            
+819
+    
+district and school administrators; and
+            
+820
+    
+    (d)  certify a list of eligible teachers and the amount of their salary supplement, sorted by
+            
+821
+    
+school district and charter school, to the Division of Finance.
+            
+822
+    
+    (5) (a)  An eligible teacher shall apply with the Department of Human Resource
+            
+823
+    
+Management prior to the conclusion of a school year to receive the salary supplement
+            
+824
+    
+authorized in this section.
+            
+825
+    
+    (b)  An eligible teacher may apply with the Department of Human Resource
+            
+826
+    
+Management, after verification that the requirements under this section have been satisfied, to
+            
+827
+    
+receive a salary supplement after the completion of:
+            
+828
+    
+    (i)  the school year as an annual award; or
+            
+829
+    
+    (ii)  a semester or trimester as a partial award based on the portion of the school year
+            
+830
+    
+that has been completed.
+            
+831
+    
+    (6) (a)  The Division of Finance shall distribute monies from the Teacher Salary
+            
+832
+    
+Supplement Restricted Account to school districts and charter schools for the Teacher Salary
+            
+833
+    
+Supplement Program in accordance with the provisions of this section.
+            
+834
+    
+    (b)  The Department of Human Resource Management shall include the employer-paid
+            
+835
+    
+benefits described under Subsection (2)(b) in the amount of each salary supplement certified to
+            
+836
+    
+the Division of Finance.
+            
+837
+    
+    (c)  The employer-paid benefits described under Subsection (2)(b) are an addition to the
+            
+838
+    
+salary supplement limits described under Subsection (3).
+            
+839
+    
+    (7) (a)  Money received from the Teacher Salary Supplement Restricted Account shall
+            
+840
+    
+be used by a school district or charter school to provide a salary supplement equal to the
+            
+841
+    
+amount specified for each eligible teacher.
+
+            
+842
+    
+    (b)  The salary supplement is part of the teacher's base pay, subject to the teacher's
+
+            
+843
+    
+qualification as an eligible teacher every year, semester, or trimester.
+            
+844
+    
+    (8)  The State Board of Education shall cooperate with the Department of Human
+            
+845
+    
+Resource Management as it administers the Teacher Salary Supplement Program by:
+            
+846
+    
+    (a)  providing or verifying teacher data, as requested; and
+            
+847
+    
+    (b)  making information technology resources available.
+            
+848
+    
+    (9)  Notwithstanding the provisions of this section, if the appropriation for the program
+            
+849
+    
+is insufficient to cover the costs associated with salary supplements, the Department of Human
+            
+850
+    
+Resource Management may limit or reduce the salary supplements.
+            
+851
+    
+    Section 20.  
+Section  
+53A-17a-157
+
+ is enacted to read:
+            
+852
+    
+     53A-17a-157.  Teacher Salary Supplement Restricted Account.
+            
+853
+    
+    (1)  There is created within the Uniform School Fund a restricted account known as the
+            
+854
+    
+"Teacher Salary Supplement Restricted Account."
+            
+855
+    
+    (2)  The account shall be funded from appropriations made to the account by the
+            
+856
+    
+Legislature.
+            
+857
+    
+    (3)  The account shall be used to fund teacher salary supplements for school districts and
+            
+858
+    
+charter schools as provided in Section 
+
+53A-17a-156
+
+.
+            
+859
+    
+    (4)  The Division of Finance shall distribute account monies to school districts and
+            
+860
+    
+charter schools for the Teacher Salary Supplement Program as provided in Section
+            
+861
+    
+
+
+53A-17a-156
+
+.
+            
+862
+    
+    Section 21.  
+Section  
+53A-17a-158
+
+ is enacted to read:
+            
+863
+    
+     53A-17a-158.  Stipends for special educators for additional days of work.
+            
+864
+    
+    (1)  As used in this section:
+            
+865
+    
+    (a)  "IEP" means an individualized education program developed pursuant to the
+            
+866
+    
+Individuals with Disabilities Education Improvement Act of 2004, as amended.
+            
+867
+    
+    (b)  "Special education teacher" means a teacher whose primary assignment is the
+            
+868
+    
+instruction of students with disabilities who are eligible for special education services.
+            
+869
+    
+    (c)  "Special educator" means a person employed by a school district, charter school, or
+
+            
+870
+    
+the Utah Schools for the Deaf and the Blind who holds:
+
+            
+871
+    
+    (i)  a license issued under Title 53A, Chapter 6, Educator Licensing and Professional
+            
+872
+    
+Practices Act; and
+            
+873
+    
+    (ii)  a position as a:
+            
+874
+    
+    (A)  special education teacher; or
+            
+875
+    
+    (B)  speech-language pathologist.
+            
+876
+    
+    (2)  The Legislature shall annually appropriate money for stipends to special educators
+            
+877
+    
+for additional days of work:
+            
+878
+    
+    (a)  in recognition of the added duties and responsibilities assumed by special educators
+            
+879
+    
+to comply with federal law regulating the education of students with disabilities and the need to
+            
+880
+    
+attract and retain qualified special educators; and
+            
+881
+    
+    (b)  subject to future budget constraints.
+            
+882
+    
+    (3) (a)  The State Board of Education shall distribute money appropriated under this
+            
+883
+    
+section to school districts, charter schools, and the Utah Schools for the Deaf and the Blind for
+            
+884
+    
+stipends for special educators in the amount of $200 per day for up to ten additional working
+            
+885
+    
+days.
+            
+886
+    
+    (b)  Money distributed under this section shall include, in addition to the $200 per day
+            
+887
+    
+stipend, money for the following employer-paid benefits:
+            
+888
+    
+    (i)  retirement;
+            
+889
+    
+    (ii)  workers' compensation;
+            
+890
+    
+    (iii)  Social Security; and
+            
+891
+    
+    (iv)  Medicare.
+            
+892
+    
+    (4)  A special educator receiving a stipend shall:
+            
+893
+    
+    (a)  work an additional day beyond the number of days contracted with the special
+            
+894
+    
+educator's school district or school for each daily stipend;
+            
+895
+    
+    (b)  schedule the additional days of work before or after the school year; and
+            
+896
+    
+    (c)  use the additional days of work to perform duties related to the IEP process,
+            
+897
+    
+including:
+
+            
+898
+    
+    (i)  administering student assessments;
+
+            
+899
+    
+    (ii)  conducting IEP meetings;
+            
+900
+    
+    (iii)  writing IEPs;
+            
+901
+    
+    (iv)  conferring with parents; and
+            
+902
+    
+    (v)  maintaining records and preparing reports.
+            
+903
+    
+    (5)  A special educator may:
+            
+904
+    
+    (a)  elect to receive a stipend for one to ten days of additional work; or
+            
+905
+    
+    (b)  elect to not receive a stipend.
+            
+906
+    
+    (6)  A person who does not hold a full-time position as a special educator is eligible for
+            
+907
+    
+a partial stipend equal to the percentage of a full-time special educator position the person
+            
+908
+    
+assumes.
+            
+909
+    
+    Section 22.  
+Section  
+53A-17a-159
+
+ is enacted to read:
+            
+910
+    
+     53A-17a-159.   Utah Science Technology and Research Initiative Centers Program.
+            
+911
+    
+    (1) (a)  The Utah Science Technology and Research Initiative (USTAR) Centers
+            
+912
+    
+Program is created to provide a financial incentive for charter schools and school districts to
+            
+913
+    
+adopt programs that result in a more efficient use of human resources and capital facilities.
+            
+914
+    
+    (b)  The potential benefits of the program include:
+            
+915
+    
+    (i)  increased compensation for math and science teachers by providing opportunities for
+            
+916
+    
+an expanded contract year which will enhance school districts' and charter schools' ability to
+            
+917
+    
+attract and retain talented and highly qualified math and science teachers;
+            
+918
+    
+    (ii)  increased capacity of school buildings by using buildings more hours of the day or
+            
+919
+    
+more days of the year, resulting in reduced capital facilities costs;
+            
+920
+    
+    (iii)  decreased class sizes created by expanding the number of instructional
+            
+921
+    
+opportunities in a year;
+            
+922
+    
+    (iv)  opportunities for earlier high school graduation;
+            
+923
+    
+    (v)  improved student college preparation;
+            
+924
+    
+    (vi)  increased opportunities to offer additional remedial and advanced courses in math
+            
+925
+    
+and science;
+
+            
+926
+    
+    (vii)  opportunities to coordinate high school and post-secondary math and science
+
+            
+927
+    
+education; and
+            
+928
+    
+    (viii)  the creation or improvement of science, technology, engineering, and math centers
+            
+929
+    
+(STEM Centers).
+            
+930
+    
+    (2)  From monies appropriated for the USTAR Centers Program, the State Board of
+            
+931
+    
+Education shall award grants to charter schools and school districts to pay for costs related to
+            
+932
+    
+the adoption and implementation of the program.
+            
+933
+    
+    (3)  The State Board of Education shall:
+            
+934
+    
+    (a)  solicit proposals from the State Charter School Board and school districts for the
+            
+935
+    
+use of grant monies to facilitate the adoption and implementation of the program; and
+            
+936
+    
+    (b)  award grants on a competitive basis.
+            
+937
+    
+    (4)  The State Charter School Board shall:
+            
+938
+    
+    (a)  solicit proposals from charter schools that may be interested in participating in the
+            
+939
+    
+USTAR Centers Program;
+            
+940
+    
+    (b)  prioritize the charter school proposals and consolidate them into the equivalent of a
+            
+941
+    
+single school district request; and
+            
+942
+    
+    (c)  submit the consolidated request to the State Board of Education.
+            
+943
+    
+    (5)  In selecting a grant recipient, the State Board of Education shall consider:
+            
+944
+    
+    (a)  the degree to which a charter school or school district's proposed adoption and
+            
+945
+    
+implementation of an extended year for math and science teachers achieves the benefits
+            
+946
+    
+described in Subsection (1);
+            
+947
+    
+    (b)  the unique circumstances of different urban, rural, large, small, growing, and
+            
+948
+    
+declining charter schools and school districts; and
+            
+949
+    
+    (c)  providing pilot programs in as many different school districts and charter schools as
+            
+950
+    
+possible.
+            
+951
+    
+    (6) (a)  Except as provided in Subsection (6)(b), a school district or charter school may
+            
+952
+    
+only use grant monies to provide full year teacher contracts, part-time teacher contract
+            
+953
+    
+extensions, or combinations of both, for math and science teachers.
+
+            
+954
+    
+    (b)  Up to 5% of the grant monies may be used to fund math and science field trips,
+
+            
+955
+    
+textbooks, and supplies.
+            
+956
+    
+    (7)  Participation in the USTAR Centers Program shall be:
+            
+957
+    
+    (a)  voluntary for an individual teacher; and
+            
+958
+    
+    (b)  voluntary for a charter school or school district.
+            
+959
+    
+    (8)  The State Board of Education shall make an annual report during the 2009, 2010,
+            
+960
+    
+and 2011 interims to the Public Education Appropriations Subcommittee describing the
+            
+961
+    
+program's impact on students and its effectiveness at achieving the benefits described in
+            
+962
+    
+Subsection (1).
+            
+963
+    
+    Section 23.  
+Section  
+53A-17a-160
+
+ is enacted to read:
+            
+964
+    
+     53A-17a-160.  High-ability Student Initiative Program.
+            
+965
+    
+    (1)  The High-ability Student Initiative Program is created to provide resources for
+            
+966
+    
+educators to enhance the academic growth of high-ability students.
+            
+967
+    
+    (2)  The program shall consist of:
+            
+968
+    
+    (a)  personnel under the direction of the State Board of Education and superintendent of
+            
+969
+    
+public instruction who shall direct and facilitate the program;
+            
+970
+    
+    (b)  a comprehensive, Internet-based resource center to provide information about
+            
+971
+    
+high-ability students to teachers, administrators, parents, and the community;
+            
+972
+    
+    (c)  professional development and professional learning communities for teachers,
+            
+973
+    
+including research-based tools to:
+            
+974
+    
+    (i)  identify high-ability students;
+            
+975
+    
+    (ii)  implement strategies to meet high-ability students' needs;
+            
+976
+    
+    (iii)  train and mentor teachers; and
+            
+977
+    
+    (iv)  enhance teacher collaboration and networking, including videoconferencing
+            
+978
+    
+equipment for classroom observation and coaching;
+            
+979
+    
+    (d)  assistance for a teacher to obtain an endorsement for gifted and talented education;
+            
+980
+    
+and
+            
+981
+    
+    (e)  an evaluation of the program.
+
+            
+982
+    
+    (3) (a)  From monies appropriated for the High-ability Student Initiative Program, the
+
+            
+983
+    
+State Board of Education shall establish a grant program to encourage a licensed teacher to
+            
+984
+    
+obtain an endorsement for gifted and talented education.
+            
+985
+    
+    (b)  The State Board of Education may award up to 250 grants in amounts of up to
+            
+986
+    
+$2,500 each.
+            
+987
+    
+    (c)  To receive a grant, a licensed teacher shall provide matching funds in an amount
+            
+988
+    
+equal to 1/2 the grant amount.
+            
+989
+    
+    (4)  From monies appropriated for the High-ability Student Initiative Program, the State
+            
+990
+    
+Board of Education shall:
+            
+991
+    
+    (a)  contract with an independent, qualified evaluator, selected through a request for
+            
+992
+    
+proposals process, to evaluate the High-ability Student Initiative Program; and
+            
+993
+    
+    (b)  provide up to 60 stipends in amounts of up to $1,500 each for teachers who
+            
+994
+    
+participate in the evaluation.
+            
+995
+    
+    (5)  High-ability Student Initiative Program monies may not be used to supplant funds
+            
+996
+    
+for existing programs, but may be used to augment existing programs.
+            
+997
+    
+    (6)  Participation in the High-ability Student Initiative Program shall be:
+            
+998
+    
+    (a)  voluntary for an individual teacher; and
+            
+999
+    
+    (b)  voluntary for a charter school or school district.
+            
+1000
+    
+    (7)  The State Board of Education shall make an annual report during the 2009, 2010,
+            
+1001
+    
+and 2011 interims to the Education Interim Committee describing the program's impact on
+            
+1002
+    
+high-ability students.
+            
+1003
+    
+    Section 24.  
+Section  
+53A-17a-161
+
+ is enacted to read:
+            
+1004
+    
+     53A-17a-161.  English Language Learner Family Literacy Centers Program --
+            
+1005
+    
+ Report.
+            
+1006
+    
+    (1)  Money appropriated for the English Language Learner Family Literacy Centers
+            
+1007
+    
+Program shall be used by school districts and charter schools to pay for costs of English
+            
+1008
+    
+Language Learner Family Literacy Centers as provided in this section.
+            
+1009
+    
+    (2)  In accordance with Title 63, Chapter 46a, Utah Administrative Rulemaking Act, the
+
+            
+1010
+    
+State Board of Education, after consultation with school districts and charter schools, shall
+
+            
+1011
+    
+adopt a formula that allocates the money appropriated by the Legislature for the English
+            
+1012
+    
+Language Learner Family Literacy Centers Program to school districts and charter schools in a
+            
+1013
+    
+fair and equitable manner.
+            
+1014
+    
+    (3)  English Language Learner Family Literacy Centers shall be established to:
+            
+1015
+    
+    (a)  increase parent involvement;
+            
+1016
+    
+    (b)  communicate with parents who are not proficient in English concerning required and
+            
+1017
+    
+optional activities at the school, in the parents' preferred language to the extent practicable;
+            
+1018
+    
+    (c)  increase academic achievement, literacy skills, and language gains in all ethnic
+            
+1019
+    
+groups of students and their families;
+            
+1020
+    
+    (d)  coordinate with school administrators, educators, families, and students; and
+            
+1021
+    
+    (e)  support and coordinate with other language acquisition instructional services and
+            
+1022
+    
+language proficiency programs in the public schools.
+            
+1023
+    
+    (4)  The State Board of Education shall make a report to the Education Interim
+            
+1024
+    
+Committee on the effectiveness of the English Language Learner Family Literacy Centers
+            
+1025
+    
+Program before November 30, 2011.
+            
+1026
+    
+    Section 25.  
+Section  
+53A-17a-162
+
+ is enacted to read:
+            
+1027
+    
+     53A-17a-162.    Beverley Taylor Sorenson Elementary Arts Learning Program.
+            
+1028
+    
+    (1)  The Legislature finds that a strategic placement of arts in elementary education can
+            
+1029
+    
+impact the critical thinking of students in other core subject areas, including mathematics,
+            
+1030
+    
+reading, and science.
+            
+1031
+    
+    (2)  The Beverley Taylor Sorenson Elementary Arts Learning Program is created to
+            
+1032
+    
+enhance the social, emotional, academic, and arts learning of students in kindergarten through
+            
+1033
+    
+grade six by integrating arts teaching and learning into core subject areas.
+            
+1034
+    
+    (3)  From monies appropriated for the Beverley Taylor Sorenson Elementary Arts
+            
+1035
+    
+Learning Program, the State Board of Education shall, after consulting with the Utah Arts
+            
+1036
+    
+Council and receiving their recommendations:
+            
+1037
+    
+    (a)  establish a grant program to allow school districts and charter schools to hire 50
+
+            
+1038
+    
+highly qualified, full-time arts specialists to be based at 50 schools;
+
+            
+1039
+    
+    (b)  provide up to $10,000 in one-time funds for each school arts specialist described
+            
+1040
+    
+under Subsection (3)(a) to purchase supplies and equipment;
+            
+1041
+    
+    (c)  establish a grant program to allow ten school districts to hire art coordinators,
+            
+1042
+    
+provided that a qualifying school district provides matching funds in an amount equal to the
+            
+1043
+    
+grant amount; and
+            
+1044
+    
+    (d)  annually contract with an independent, qualified evaluator, selected through a
+            
+1045
+    
+request for proposals process, to evaluate the Beverley Taylor Sorenson Elementary Arts
+            
+1046
+    
+Learning Program.
+            
+1047
+    
+    (4)  Beverley Taylor Sorenson Elementary Arts Learning Program monies may not be
+            
+1048
+    
+used to supplant funds for existing programs funded by the state, but shall be used to augment
+            
+1049
+    
+existing programs.
+            
+1050
+    
+    (5)  Schools that participate in the Beverley Taylor Sorenson Elementary Arts Learning
+            
+1051
+    
+Program shall partner with institutions of higher education that award elementary education
+            
+1052
+    
+degrees to obtain quality pre-service and in-service training, research, and leadership
+            
+1053
+    
+development for arts education.
+            
+1054
+    
+    (6)  The State Board of Education shall, after consultation with the Utah Arts Council,
+            
+1055
+    
+make an annual report during the 2009, 2010, and 2011 interims to the Education Interim
+            
+1056
+    
+Committee describing the program's impact on students in kindergarten through grade six.
+            
+1057
+    
+    Section 26.  
+Section  
+63-55b-153
+
+ is amended to read:
+            
+1058
+    
+     63-55b-153.   Repeal dates -- Titles 53, 53A, and 53B.
+            
+1059
+    
+    (1)  Section 
+
+53-3-210
+
+ is repealed February 1, 2007.
+            
+1060
+    
+    (2)  Section 
+
+53A-1-403.5
+
+ is repealed July 1, 2012.
+            
+1061
+    
+    (3)  Subsection 
+
+53A-1a-511
+
+(7)(c) is repealed July 1, 2007.
+            
+1062
+    
+    (4)  Title 53A, Chapter 1a, Part 10, UPSTART, is repealed July 1, 2014.
+            
+1063
+    
+    [(4)] (5)  Section 
+
+53A-3-702
+
+ is repealed July 1, 2008.
+            
+1064
+    
+    [(5)] (6)  Section 
+
+53A-6-112
+
+ is repealed July 1, 2009.
+            
+1065
+    
+    (7)  Subsection 
+
+53A-13-110
+
+(3) is repealed July 1, 2013.
+
+            
+1066
+    
+    [(6)] (8)  Section 
+
+53A-17a-152
+
+ is repealed July 1, 2010.
+
+            
+1067
+    
+    (9)  Section 
+
+53A-17a-162
+
+ is repealed July 1, 2012.
+            
+1068
+    
+    Section 27.   Ongoing appropriations.
+            
+1069
+    
+    (1)  As an ongoing appropriation subject to future budget constraints, there is
+            
+1070
+    
+appropriated from the Uniform School Fund for fiscal year 2008-09, as follows:
+            
+1071
+    
+    (a)  $2,500,000 to the State Board of Education for UPSTART as provided in Title
+            
+1072
+    
+53A, Chapter 1a, Part 10, UPSTART, including costs of:
+            
+1073
+    
+    (i)  a home-based educational technology program provided by a contractor;
+            
+1074
+    
+    (ii)  computers, peripheral equipment, and Internet service for families who cannot
+            
+1075
+    
+afford the equipment and service;
+            
+1076
+    
+    (iii)  administrative and technical support provided by school districts;
+            
+1077
+    
+    (iv)  an audit of the contractor's use of funds appropriated for UPSTART; and
+            
+1078
+    
+    (v)  an evaluation of the home-based educational technology program;
+            
+1079
+    
+    (b)  $100,000 to the State Board of Education for staff development and assessments in
+            
+1080
+    
+financial and economic literacy as provided by Subsection 
+
+53A-13-110
+
+(2)(b);
+            
+1081
+    
+    (c)  $4,300,000 from the Uniform School Fund Teacher Salary Supplement Restricted
+            
+1082
+    
+Account for the Teacher Salary Supplement Program in accordance with the provisions under
+            
+1083
+    
+Sections 
+
+53A-17a-156
+
+ and 
+
+53A-17a-157
+
+; and
+            
+1084
+    
+    (d)  $400,000 to the State Board of Education for career and technical education online
+            
+1085
+    
+assessment.
+            
+1086
+    
+    (2)  As an ongoing appropriation subject to future budget constraints, there is
+            
+1087
+    
+appropriated from the General Fund for fiscal year 2008-09, $250,000 to the Department of
+            
+1088
+    
+Human Resource Management for administration of the Teacher Salary Supplement Program
+            
+1089
+    
+established in Section 
+
+53A-17a-156
+
+.
+            
+1090
+    
+    Section 28.   One-time appropriations for fiscal year 2008-09.
+            
+1091
+    
+    (1)  There is appropriated from the Uniform School Fund for fiscal year 2008-09 only,
+            
+1092
+    
+as follows:
+            
+1093
+    
+    (a)  $3,000,000 to the State Board of Education for pupil transportation to and from
+
+            
+1094
+    
+school as provided in Sections 
+
+53A-17a-126
+
+ and 
+
+53A-17a-127
+
+;
+
+            
+1095
+    
+    (b)  $3,000,000 to the State Board of Education to fund the English Language Learner
+            
+1096
+    
+Family Literacy Centers Program established in Section 
+
+53A-17a-161
+
+;
+            
+1097
+    
+    (c)  $15,820,000 to the State Board of Education to fund the Beverley Taylor Sorenson
+            
+1098
+    
+Elementary Arts Learning Program established in Section 
+
+53A-17a-162
+
+; and
+            
+1099
+    
+    (d)  $150,000 to the State Board of Education to fulfill its requirements under
+            
+1100
+    
+Subsection 
+
+53A-13-110
+
+(2), including curriculum integration and development of assessments
+            
+1101
+    
+and materials.
+            
+1102
+    
+    (2)  The money appropriated in Subsections (1)(a) through (d) is nonlapsing.
+            
+1103
+    
+    Section 29.   One-time appropriations for fiscal year 2007-08.
+            
+1104
+    
+    (1)  There is appropriated for fiscal year 2007-08 only, as follows:
+            
+1105
+    
+    (a)  $50,000 from the General Fund to the Department of Human Resource
+            
+1106
+    
+Management for costs to administer the Teacher Salary Supplement Program established in
+            
+1107
+    
+Section 
+
+53A-17a-156
+
+;
+            
+1108
+    
+    (b)  $1,000,000 from the Uniform School Fund to the State Board of Education for
+            
+1109
+    
+UPSTART as provided in Title 53A, Chapter 1a, Part 10, UPSTART; and
+            
+1110
+    
+    (c)  $280,000 from the Uniform School Fund to the State Board of Education for library
+            
+1111
+    
+books and electronic resources.
+            
+1112
+    
+    (2)  The money appropriated in Subsections (1)(a) through (c) is nonlapsing.
+            
+1113
+    
+    Section 30.   One-time appropriation for classroom supplies.
+            
+1114
+    
+    (1)  There is appropriated from the Uniform School Fund to the State Board of
+            
+1115
+    
+Education for fiscal year 2008-09 only, $10,000,000 for classroom supplies and materials.
+            
+1116
+    
+    (2) (a)  Of the amount appropriated in Subsection (1), the board shall distribute
+            
+1117
+    
+$7,500,000 to classroom teachers in school districts, the Schools for the Deaf and the Blind,
+            
+1118
+    
+and charter schools on the basis of the number of classroom teachers in each school as
+            
+1119
+    
+compared to the total number of classroom teachers.
+            
+1120
+    
+    (b)  Teachers shall receive up to the following amounts:
+            
+1121
+    
+    (i)  a teacher on salary schedule steps one through three teaching in grades kindergarten
+
+            
+1122
+    
+through six or preschool handicapped - $360;
+
+            
+1123
+    
+    (ii)  a teacher on salary schedule steps one through three teaching in grades seven
+            
+1124
+    
+through twelve - $310;
+            
+1125
+    
+    (iii)  a teacher on salary schedule step four or higher teaching in grades kindergarten
+            
+1126
+    
+through six or preschool handicapped - $285; and
+            
+1127
+    
+    (iv)  a teacher on salary schedule step four or higher teaching in grades seven through
+            
+1128
+    
+twelve - $235.
+            
+1129
+    
+    (c)  If the appropriation in Subsection (1) is not sufficient to provide to each teacher the
+            
+1130
+    
+full amount allowed under Subsection (2)(b), teachers on salary schedule steps one through
+            
+1131
+    
+three shall receive the full amount allowed with the remaining monies apportioned to all other
+            
+1132
+    
+teachers.
+            
+1133
+    
+    (3) (a)  Of the amount appropriated in Subsection (1), the State Board of Education
+            
+1134
+    
+shall distribute $2,500,000 for classroom supplies and materials in accordance with a
+            
+1135
+    
+distribution formula established by rule.
+            
+1136
+    
+    (b)  The State Board of Education shall make rules in accordance with Subsections
+            
+1137
+    
+(3)(c) and (d) and Title 63, Chapter 46a, Utah Administrative Rulemaking Act, for the
+            
+1138
+    
+distribution of the $2,500,000.
+            
+1139
+    
+    (c)  The rules shall give priority to teachers in any grade in the first year of teaching in
+            
+1140
+    
+the awarding of the monies.
+            
+1141
+    
+    (d)  The rules may allow the monies to be distributed to teachers in any grade in the
+            
+1142
+    
+second through the fifth year of teaching.
+            
+1143
+    
+    (4)  Teachers shall spend the money appropriated in Subsection (1) for school supplies,
+            
+1144
+    
+materials, or field trips under rules adopted by the State Board of Education.
+            
+1145
+    
+    (5)  As used in this section, "classroom teacher" or "teacher" means permanent teacher
+            
+1146
+    
+positions filled by one teacher or two or more job-sharing teachers:
+            
+1147
+    
+    (a)  who are licensed personnel;
+            
+1148
+    
+    (b)  who are paid on the teacher's salary schedule;
+            
+1149
+    
+    (c)  who are hired for an entire contract period; and
+
+            
+1150
+    
+    (d)  whose primary function is to provide instructional or a combination of instructional
+
+            
+1151
+    
+and counseling services to students in public schools.
+            
+1152
+    
+    Section 31.   Intent language.
+            
+1153
+    
+    It is the intent of the Legislature that:
+            
+1154
+    
+    (1)  at least $100,000 of the monies appropriated for accelerated learning programs in
+            
+1155
+    
+accordance with the provisions of Sections 
+
+53A-17a-104
+
+ and 
+
+53A-17a-120
+
+ shall be annually
+            
+1156
+    
+allocated to International Baccalaureate programs; and
+            
+1157
+    
+    (2)  the State Board of Education shall:
+            
+1158
+    
+    (a)  conduct an independent audit of funds allocated to the Utah Virtual Academy
+            
+1159
+    
+charter school through the Minimum School Program, including its expenditures of WPU,
+            
+1160
+    
+categorical (below-the-line), and local replacement funding, as the school begins operations for
+            
+1161
+    
+the 2008-09 school year; and
+            
+1162
+    
+    (b)  prepare and present a report to the Executive Appropriations Committee by
+            
+1163
+    
+November 30, 2008, detailing the findings of the independent audit and of Utah Virtual
+            
+1164
+    
+Academy expenditures examined through the audit.
+            
+1165
+    
+    Section 32.   Effective date.
+            
+1166
+    
+    This bill takes effect on July 1, 2008, except:
+            
+1167
+    
+    (1)  if approved by two-thirds of all the members elected to each house, Sections
+            
+1168
+    
+
+
+53A-1a-1001
+
+ through 
+
+53A-1a-1007
+
+ take effect upon approval by the governor, or the day
+            
+1169
+    
+following the constitutional time limit of Utah Constitution Article VII, Section 8, without the
+            
+1170
+    
+governor's signature, or in the case of a veto, the date of veto override; and
+            
+1171
+    
+    (2)  the following sections take effect on May 5, 2008:
+            
+1172
+    
+    (a)  Section 
+
+53A-17a-156
+
+; and
+            
+1173
+    
+    (b)  Uncodified Section 29, One-time appropriations for fiscal year 2007-08.
+            
+1174
+    
+    Section 33.   Coordinating S.B. 2 with H.B. 1 -- Superseding amendments.
+            
+1175
+    
+    If this S.B. 2 and H.B. 1, Minimum School Program Base Budget Amendments, both
+            
+1176
+    
+pass, it is the intent of the Legislature that when the Office of Legislative Research and General
+            
+1177
+    
+Counsel prepares the Utah Code database for publication:
+
+            
+1178
+    
+    (1)  the amendments to Section 
+
+53A-17a-104
+
+ in S.B. 2 supersede the amendments to
+
+            
+1179
+    
+Section 
+
+53A-17a-104
+
+ in H.B. 1;
+            
+1180
+    
+    (2)  Subsection 
+
+53A-17a-104
+
+(2)(hh) in H.B. 1 shall be deleted and renumber the
+            
+1181
+    
+remaining subsections accordingly;
+            
+1182
+    
+    (3)  the amendments to Section 
+
+53A-17a-108
+
+ in S.B. 2 supersede the amendments to
+            
+1183
+    
+Section 
+
+53A-17a-108
+
+ in H.B. 1; and
+            
+1184
+    
+    (4)  Uncodified Section 7, Intent language for charter schools appropriation, in H.B. 1
+            
+1185
+    
+shall be deleted.
+[Bill Documents][Bills Directory]
+
+
+
+
+
+
+
+
+
+Who represents me?
+
+
+
+
+
+Remember my Legislators
+
+
+
+
+
+State Senate
+		350 North State, Suite 320
+		PO Box 145115
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1035
+		Fax: (801) 326-1475
+
+
+
+House of Representatives
+		350 North State, Suite 350
+		PO Box 145030
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1029
+		Fax: (801) 326-1544
+
+
+
+
+
+
+
+
+
+
+Home
+Mobile Site
+Site Map
+Calendar
+Code / Constitution
+House
+Senate
+
+Terms of Use/Privacy Policy
+
+ADA
+Utah.gov
+
+
+
+
+
+
+

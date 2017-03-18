@@ -1,0 +1,1286 @@
+Sponsors: []Modifications: (2)  Notwithstanding Subsection (1), the department may access the Division of Childand Family Service's Management Information System under Section 
+
+62A-4a-116
+
+ for thepurpose of licensing and monitoring foster parents.(3)(4)and the department's office of licensing, exclusively for the purposesof foster parent licensure and monitoring,and the Office of the Guardian AdLitemThe Office of the Guardian Ad Litem has access only toinformation about children and families where the Office of the Guardian Ad Litem has beenappointed by a court to represent the interests of the children.and designated representative of the Office of the GuardianAd Litem(2)  Notwithstanding Subsection (1), the department's access to information in theManagement Information System for the licensure and monitoring of foster parents is governedby Sections 
+
+62A-4a-116
+
+ and 
+
+62A-2-121
+
+.(3)(4)(5)(4)(6)(7)(7)Full text:
+
+
+
+Utah State Legislature
+
+
+
+
+
+
+
+
+
+
+
+
+Legislators
+
+By Session (1896-Current)
+Alphabetical (Historical)
+Find by Address/Map
+More
+
+
+Bills
+
+Bills/Bill Requests
+Passed Bills
+2017 Bills
+
+Keyword Search
+Reading Calendars
+Tracking Service
+More
+
+
+Committees
+
+All Committees
+Appropriations
+Commissions
+
+Independent Legislative Ethics Commission
+Interim
+Standing
+Subcommittees
+Task Forces
+Bills In Committees
+
+
+Utah Code / Constitution
+
+
+Title/Chapter/Section
+Keyword Search 
+
+Utah Constitution
+Laws of Utah 1851-ongoing
+Utah Territorial Laws 
+More
+
+
+Senate
+
+Main Page 
+About The Senate 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Extraordinary Sessions 
+Reading Calendars 
+Past Floor Debates 
+Senate Journals 
+
+
+House
+
+Main Page
+About the House 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Reading Calendars 
+Past Floor Debates 
+Journals 
+Conflict of Interest Forms 
+
+
+Legislative Guide 
+
+Legislative Guide
+Civic Programs
+GRAMA (Records Requests)
+
+
+Publications
+
+Search Publications
+Appropriations
+Audits
+Bagels & Briefings
+Briefing Papers
+Digest of Legislation
+Legislative Drafting Manual
+
+Journals
+
+Interim Highlights
+
+Legislative Rules
+GRAMA (Records Requests)
+Public Email
+State Organization Charts
+YouTube Channel
+Requests for Proposals and Legal Notices
+More
+
+
+Legislative Histories
+
+Legislative History Resources
+How to Research
+Bill Drafting/Research Files (1990-Ongoing)
+
+Working Bills (1896-1989)
+Interim Committee Histories (1990-Ongoing) 
+Journals
+Past House Floor Debates
+Past Senate Floor Debates
+More
+
+
+Staff Offices
+
+All Legislative Offices
+Auditor General
+Fiscal Analyst
+Printing
+Research and General Counsel
+Staff Awards
+Job Opportunities
+More
+
+
+Links of Interest
+
+Utah Administrative Rules
+Courts
+Utah State Capitol
+State of Utah
+Federal Legislation
+More
+
+
+
+
+
+
+ 
+
+Download Zipped Introduced WordPerfect HB0060.ZIP
+[Status][Bill Documents][Fiscal Note][Bills Directory]
+
+
+H.B. 60
+
+
+
+
+
+            
+1
+
+    
+ PROTECTION OF CHILDREN IN FOSTER
+
+            
+2
+
+    
+ CARE
+
+
+
+            
+3
+
+    
+2004 GENERAL SESSION
+
+            
+4
+
+    
+STATE OF UTAH
+
+            
+5
+
+    
+
+
+ Sponsor: David Litvack
+
+
+
+            
+6
+
+    
+
+            
+7
+
+    
+ LONG TITLE
+            
+8
+
+    
+ General Description:
+            
+9
+
+    
+    This bill modifies Division of Child and Family Services provisions.
+            
+10
+
+    
+ Highlighted Provisions:
+            
+11
+
+    
+    This bill:
+            
+12
+
+    
+    .    gives the Department of Human Services access to provide a complete case history
+            
+13
+
+    
+contained in the Management Information System for the purpose of licensing and
+            
+14
+
+    
+monitoring foster parents;
+            
+15
+
+    
+    .    gives the Office of the Guardian Ad Litem access only to information about children
+            
+16
+
+    
+and families where it has been appointed by a court to represent the interests of the
+            
+17
+
+    
+children; and
+            
+18
+
+    
+    .    provides restrictions and outlines security required for information in the
+            
+19
+
+    
+Management Information System.
+            
+20
+
+    
+ Monies Appropriated in this Bill:
+            
+21
+
+    
+    None
+            
+22
+
+    
+ Other Special Clauses:
+            
+23
+
+    
+    None
+            
+24
+
+    
+ Utah Code Sections Affected:
+            
+25
+
+    
+AMENDS:
+            
+26
+
+    
+     62A-2-121, as last amended by Chapters 283 and 300, Laws of Utah 2002
+            
+27
+
+    
+     62A-4a-116, as last amended by Chapter 283, Laws of Utah 2002
+
+            
+28
+
+
+    
+     62A-4a-116.2, as last amended by Chapter 210, Laws of Utah 2003
+            
+29
+
+    
+
+            
+30
+
+    
+Be it enacted by the Legislature of the state of Utah:
+            
+31
+
+    
+    Section 1.  
+Section  
+62A-2-121
+
+ is amended to read:
+            
+32
+
+    
+     62A-2-121.  Access to abuse and neglect information for licensing purposes.
+            
+33
+
+    
+    (1)  With respect to human services licensees, the department may access only the
+            
+34
+
+    
+Licensing Information System of the Division of Child and Family Services created by Section
+            
+35
+
+    
+
+62A-4a-116.2
+
+ and juvenile court records under Subsection 
+
+78-3a-320
+
+(4), for the purpose of:
+            
+36
+
+    
+    (a)  determining whether a person associated with a licensee, with direct access to
+            
+37
+
+    
+children, is listed in the Licensing Information System or has a substantiated finding by a
+            
+38
+
+    
+juvenile court of a severe type of child abuse or neglect under Subsections 
+
+78-3a-320
+
+(1) and
+            
+39
+
+    
+(2); and
+            
+40
+
+    
+    (b)  informing a licensee that a person associated with the licensee is listed in the
+            
+41
+
+    
+Licensing Information System or has a substantiated finding by a juvenile court of a severe type
+            
+42
+
+    
+of child abuse or neglect under Subsections 
+
+78-3a-320
+
+(1) and (2).
+            
+43
+
+    
+    (2)  Notwithstanding Subsection (1), the department may access the Division of Child
+            
+44
+
+    
+and Family Service's Management Information System under Section 
+
+62A-4a-116
+
+ for the
+            
+45
+
+    
+purpose of licensing and monitoring foster parents.
+            
+46
+
+    
+    [(2)] (3)  After receiving identifying information for a person under Subsection
+            
+47
+
+    
+
+62A-2-120
+
+(1), the department shall process the information for the purposes described in
+            
+48
+
+    
+Subsection (1).
+            
+49
+
+    
+    [(3)] (4)  The department shall adopt rules under Title 63, Chapter 46a, Utah
+            
+50
+
+    
+Administrative Rulemaking Act, consistent with this chapter, defining the circumstances under
+            
+51
+
+    
+which a person who has direct access to children and who is listed in the Licensing Information
+            
+52
+
+    
+System or has a substantiated finding by a court of a severe type of child abuse or neglect under
+            
+53
+
+    
+Subsections 
+
+78-3a-320
+
+(1) and (2) may provide services to children.
+            
+54
+
+    
+    Section 2.  
+Section  
+62A-4a-116
+
+ is amended to read:
+            
+55
+
+    
+     62A-4a-116.  Management Information System -- Requirements -- Contents --
+            
+56
+
+    
+ Purpose -- Access.
+            
+57
+
+    
+    (1)  The division shall develop and implement a Management Information System that
+            
+58
+
+    
+meets the requirements of this section and the requirements of federal law and regulation.  The
+
+            
+59
+
+
+    
+information and records contained in the Management Information System are protected
+            
+60
+
+    
+records under Title 63, Chapter 2, Government Records Access and Management Act, and
+            
+61
+
+    
+except for the limited, specific, and narrow provisions relating to licensing, contained in
+            
+62
+
+    
+Section 
+
+62A-4a-116.2
+
+, and those provisions relating to contract providers, described in
+            
+63
+
+    
+Subsection (6), they are available only to those with statutory authorization to review under
+            
+64
+
+    
+that law.  They are also available to those who have a specific statutory authorization to access
+            
+65
+
+    
+the record for the purpose of assisting the state with state and federal requirements to maintain
+            
+66
+
+    
+information solely for the purpose of protecting minors and providing services to families in
+            
+67
+
+    
+need.
+            
+68
+
+    
+    (2)  With regard to all child welfare cases, the Management Information System shall
+            
+69
+
+    
+provide each caseworker and the department's office of licensing, exclusively for the purposes
+            
+70
+
+    
+of foster parent licensure and monitoring, with a complete history of each child in that worker's
+            
+71
+
+    
+caseload, including the following information:
+            
+72
+
+    
+    (a)  a record of all past action taken by the division with regard to that child and the
+            
+73
+
+    
+child's siblings;
+            
+74
+
+    
+    (b)  the complete case history and all reports and information in the control or keeping
+            
+75
+
+    
+of the division regarding that child and the child's siblings;
+            
+76
+
+    
+    (c)  the number of times the child has been in the custody of the division;
+            
+77
+
+    
+    (d)  the cumulative period of time the child has been in the custody of the division;
+            
+78
+
+    
+    (e)  a record of all reports of abuse or neglect received by the division with regard to
+            
+79
+
+    
+that child's parent, parents, or guardian including documentation of the latest status or the final
+            
+80
+
+    
+outcome or determination regarding each report, including whether each report was found to be
+            
+81
+
+    
+supported, unsupported, substantiated by a juvenile court, unsubstantiated by a juvenile court,
+            
+82
+
+    
+or without merit;
+            
+83
+
+    
+    (f)  the number of times the child's parent or parents have failed any treatment plan; and
+            
+84
+
+    
+    (g)  the number of different caseworkers who have been assigned to that child in the
+            
+85
+
+    
+past.
+            
+86
+
+    
+    (3)  The division's Management Information System shall also:
+            
+87
+
+    
+    (a)  contain all key elements of each family's current treatment plan, including the dates
+            
+88
+
+    
+and number of times the plan has been administratively or judicially reviewed, the number of
+            
+89
+
+    
+times the parent or parents have failed that treatment plan, and the exact length of time that
+
+            
+90
+
+
+    
+treatment plan has been in effect; and
+            
+91
+
+    
+    (b)  alert caseworkers regarding deadlines for completion of and compliance with
+            
+92
+
+    
+policy, including treatment plans.
+            
+93
+
+    
+    (4)  With regard to all child protective services cases, the Management Information
+            
+94
+
+    
+System shall also:
+            
+95
+
+    
+    (a)  monitor the compliance of each case with division rule and policy, state law, and
+            
+96
+
+    
+federal law and regulation; and
+            
+97
+
+    
+    (b) include the age and date of birth of the alleged perpetrator at the time the abuse or
+            
+98
+
+    
+neglect is alleged to have occurred, in order to ensure accuracy regarding the identification of
+            
+99
+
+    
+the alleged perpetrator.
+            
+100
+
+    
+    (5)  Except as provided in Subsection (6) regarding contract providers and Section
+            
+101
+
+    
+
+62A-4a-116.2
+
+ regarding limited access to the Licensing Information System, all information
+            
+102
+
+    
+contained in the division's Management Information System is available to the department,
+            
+103
+
+    
+upon the approval of the executive director, on a need-to-know basis.
+            
+104
+
+    
+    (6) (a)  The division may allow its contract providers and the Office of the Guardian Ad
+            
+105
+
+    
+Litem to have limited access to the Management Information System. A division contract
+            
+106
+
+    
+provider has access only to information about persons who are currently receiving services
+            
+107
+
+    
+from that specific contract provider.  The Office of the Guardian Ad Litem has access only to
+            
+108
+
+    
+information about children and families where the Office of the Guardian Ad Litem has been
+            
+109
+
+    
+appointed by a court to represent the interests of the children.
+            
+110
+
+    
+    (b)  Each contract provider and designated representative of the Office of the Guardian
+            
+111
+
+    
+Ad Litem who requests access to information contained in the Management Information
+            
+112
+
+    
+System shall:
+            
+113
+
+    
+    (i)  take all necessary precautions to safeguard the security of the information contained
+            
+114
+
+    
+in the Management Information System;
+            
+115
+
+    
+    (ii)  train its employees regarding requirements for protecting the information contained
+            
+116
+
+    
+in the Management Information System as required by this chapter and under Title 63, Chapter
+            
+117
+
+    
+2, Government Records Access and Management Act, and the criminal penalties under
+            
+118
+
+    
+Sections 
+
+62A-4a-412
+
+ and 
+
+63-2-801
+
+ for improper release of information; and
+            
+119
+
+    
+    (iii)  monitor its employees to ensure that they protect the information contained in the
+            
+120
+
+    
+Management Information System as required by law.
+
+            
+121
+
+
+    
+    (c)  The division shall take reasonable precautions to ensure that its contract providers
+            
+122
+
+    
+comply with the requirements of this Subsection (6).
+            
+123
+
+    
+    (7)  The division shall take all necessary precautions, including password protection and
+            
+124
+
+    
+other appropriate and available technological techniques, to prevent unauthorized access to or
+            
+125
+
+    
+release of information contained in the Management Information System.
+            
+126
+
+    
+    Section 3.  
+Section  
+62A-4a-116.2
+
+ is amended to read:
+            
+127
+
+    
+     62A-4a-116.2.  Licensing Information System -- Contents -- Juvenile court finding
+            
+128
+
+    
+ -- Protected record -- Access -- Criminal penalty.
+            
+129
+
+    
+    (1)  The division shall maintain a sub-part of the Management Information System
+            
+130
+
+    
+established pursuant to Section 
+
+62A-4a-116
+
+, to be known as the Licensing Information System,
+            
+131
+
+    
+to be used solely for licensing purposes.  The Licensing Information System shall include only
+            
+132
+
+    
+the following information:
+            
+133
+
+    
+    (a)  the information described in Subsections 
+
+62A-4a-116.1
+
+(1)(a) and (6)(b);
+            
+134
+
+    
+    (b)  consented-to supported findings by alleged perpetrators under Subsection
+            
+135
+
+    
+
+62A-4a-116.1
+
+(6)(a)(iii); and
+            
+136
+
+    
+    (c)  the information in the licensing part of the division's Management Information
+            
+137
+
+    
+System as of May 6, 2002.
+            
+138
+
+    
+    (2)  Notwithstanding Subsection (1), the department's access to information in the
+            
+139
+
+    
+Management Information System for the licensure and monitoring of foster parents is governed
+            
+140
+
+    
+by Sections 
+
+62A-4a-116
+
+ and 
+
+62A-2-121
+
+.
+            
+141
+
+    
+    [(2)] (3)  The division shall promptly amend the Licensing Information System, upon
+            
+142
+
+    
+receipt of a finding from the juvenile court under Section 
+
+78-3a-320
+
+, and shall enter the same
+            
+143
+
+    
+information in the Management Information System.  However, if a finding of unsubstantiated
+            
+144
+
+    
+or without merit is appealed, the supported finding shall not be amended until the appeal is
+            
+145
+
+    
+concluded.
+            
+146
+
+    
+    [(3)] (4)  Information contained in the Licensing Information System is classified as a
+            
+147
+
+    
+protected record under Title 63, Chapter 2, Government Records Access and Management Act. 
+            
+148
+
+    
+Notwithstanding the disclosure provisions of Title 63, Chapter 2, Government Records Access
+            
+149
+
+    
+and Management Act, the information contained in the Licensing Information System may only
+            
+150
+
+    
+be used or disclosed as specifically provided in this chapter and Section 
+
+62A-2-121
+
+ and is
+            
+151
+
+    
+accessible only to:
+
+            
+152
+
+
+    
+    (a)  the Office of Licensing within the department, for licensing purposes only;
+            
+153
+
+    
+    (b)  the division, for the following purposes:
+            
+154
+
+    
+    (i)  to screen a person at the request of the Office of the Guardian Ad Litem Director, at
+            
+155
+
+    
+the time that person seeks a paid or voluntary position with the Office of the Guardian Ad
+            
+156
+
+    
+Litem Director and each year thereafter that the person remains with that office; and
+            
+157
+
+    
+    (ii)  to respond to a request for information from a person whose name is listed in the
+            
+158
+
+    
+Licensing Information System;
+            
+159
+
+    
+    (c)  two persons designated by and within the Department of Health, only for the
+            
+160
+
+    
+following purposes:
+            
+161
+
+    
+    (i)  licensing a child care program or provider; or
+            
+162
+
+    
+    (ii)  determining whether a person associated with a covered health care facility, as
+            
+163
+
+    
+defined by the Department of Health by rule, who provides direct care to a child, has a
+            
+164
+
+    
+supported finding of severe child abuse or neglect; and
+            
+165
+
+    
+    (d)  the department, as specifically provided in this chapter.
+            
+166
+
+    
+    [(4)] (5)  The two persons designated by the Department of Health under Subsection
+            
+167
+
+    
+[(3)] (4)(c) shall adopt measures to:
+            
+168
+
+    
+    (a)  protect the security of the Licensing Information System; and
+            
+169
+
+    
+    (b)  strictly limit access to the Licensing Information System to those persons
+            
+170
+
+    
+designated by statute.
+            
+171
+
+    
+    [(5)] (6)  All persons designated by statute as having access to information contained in
+            
+172
+
+    
+the Licensing Information System shall receive training from the department with respect to:
+            
+173
+
+    
+    (a)  accessing the Licensing Information System;
+            
+174
+
+    
+    (b)  maintaining strict security; and
+            
+175
+
+    
+    (c)  the criminal provisions of Sections 
+
+62A-4a-412
+
+ and 
+
+63-2-801
+
+ pertaining to the
+            
+176
+
+    
+improper release of information.
+            
+177
+
+    
+    [(6)] (7)  No person, except those authorized by this chapter, may request another
+            
+178
+
+    
+person to obtain or release any other information in the Licensing Information System to screen
+            
+179
+
+    
+for potential perpetrators of child abuse or neglect.  A person who requests information
+            
+180
+
+    
+knowing that it is a violation of this Subsection [(6)] (7) to do so is subject to the criminal
+            
+181
+
+    
+penalty described in Sections 
+
+62A-4a-412
+
+ and 
+
+63-2-801
+
+.
+
+
+
+
+
+ Legislative Review Note
+    as of  10-15-03  1:14 PM
+
+A limited legal review of this legislation raises no obvious constitutional or statutory concerns.
+
+ Office of Legislative Research and General Counsel
+[Bill Documents][Bills Directory]
+
+
+
+
+
+
+
+
+
+Who represents me?
+
+
+
+
+
+Remember my Legislators
+
+
+
+
+
+State Senate
+		350 North State, Suite 320
+		PO Box 145115
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1035
+		Fax: (801) 326-1475
+
+
+
+House of Representatives
+		350 North State, Suite 350
+		PO Box 145030
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1029
+		Fax: (801) 326-1544
+
+
+
+
+
+
+
+
+
+
+Home
+Mobile Site
+Site Map
+Calendar
+Code / Constitution
+House
+Senate
+
+Terms of Use/Privacy Policy
+
+ADA
+Utah.gov
+
+
+
+
+
+
+

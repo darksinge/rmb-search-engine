@@ -1,0 +1,7571 @@
+Sponsors: []Modifications: ,, research, or development(III)  research or development of a:(Aa)  semiconductor; or(Bb)  semiconductor manufacturing process; or(III)  research or development of a:(Aa)  semiconductor; or(Bb)  semiconductor manufacturing process; or,, research, or developmentsales or leases,, research,or development,,research, or development(a)(b)This bill takes effect on July 1, 2006.Full text:
+
+
+
+Utah State Legislature
+
+
+
+
+
+
+
+
+
+
+
+
+Legislators
+
+By Session (1896-Current)
+Alphabetical (Historical)
+Find by Address/Map
+More
+
+
+Bills
+
+Bills/Bill Requests
+Passed Bills
+2017 Bills
+
+Keyword Search
+Reading Calendars
+Tracking Service
+More
+
+
+Committees
+
+All Committees
+Appropriations
+Commissions
+
+Independent Legislative Ethics Commission
+Interim
+Standing
+Subcommittees
+Task Forces
+Bills In Committees
+
+
+Utah Code / Constitution
+
+
+Title/Chapter/Section
+Keyword Search 
+
+Utah Constitution
+Laws of Utah 1851-ongoing
+Utah Territorial Laws 
+More
+
+
+Senate
+
+Main Page 
+About The Senate 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Extraordinary Sessions 
+Reading Calendars 
+Past Floor Debates 
+Senate Journals 
+
+
+House
+
+Main Page
+About the House 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Reading Calendars 
+Past Floor Debates 
+Journals 
+Conflict of Interest Forms 
+
+
+Legislative Guide 
+
+Legislative Guide
+Civic Programs
+GRAMA (Records Requests)
+
+
+Publications
+
+Search Publications
+Appropriations
+Audits
+Bagels & Briefings
+Briefing Papers
+Digest of Legislation
+Legislative Drafting Manual
+
+Journals
+
+Interim Highlights
+
+Legislative Rules
+GRAMA (Records Requests)
+Public Email
+State Organization Charts
+YouTube Channel
+Requests for Proposals and Legal Notices
+More
+
+
+Legislative Histories
+
+Legislative History Resources
+How to Research
+Bill Drafting/Research Files (1990-Ongoing)
+
+Working Bills (1896-1989)
+Interim Committee Histories (1990-Ongoing) 
+Journals
+Past House Floor Debates
+Past Senate Floor Debates
+More
+
+
+Staff Offices
+
+All Legislative Offices
+Auditor General
+Fiscal Analyst
+Printing
+Research and General Counsel
+Staff Awards
+Job Opportunities
+More
+
+
+Links of Interest
+
+Utah Administrative Rules
+Courts
+Utah State Capitol
+State of Utah
+Federal Legislation
+More
+
+
+
+
+
+
+ 
+
+Download Zipped Enrolled WordPerfect SB0030.ZIP
+[Introduced][Status][Bill Documents][Fiscal Note][Bills Directory]
+
+
+S.B. 30 Enrolled
+
+
+
+
+
+            
+1
+
+    
+ SALES AND USE TAX EXEMPTION FOR
+
+            
+2
+
+    
+ SEMICONDUCTOR FABRICATING, PROCESSING,
+
+            
+3
+
+    
+ RESEARCH, OR DEVELOPMENT MATERIALS
+
+
+
+            
+4
+
+    
+2006 GENERAL SESSION
+
+            
+5
+
+    
+STATE OF UTAH
+
+            
+6
+
+    
+
+
+ Chief Sponsor:  Curtis S. Bramble
+
+
+
+            
+7
+
+    
+
+
+
+House Sponsor:  
+
+
+
+
+
+
+Wayne A. Harper
+
+
+
+
+
+            
+8
+
+    
+
+            
+9
+
+    
+ LONG TITLE
+            
+10
+
+    
+ General Description:
+            
+11
+
+    
+    This bill amends the Sales and Use Tax Act relating to a sales and use tax exemption
+            
+12
+
+    
+for certain semiconductor materials.
+            
+13
+
+    
+ Highlighted Provisions:
+            
+14
+
+    
+    This bill:
+            
+15
+
+    
+    .    modifies a definition relating to the sales and use tax exemption for certain
+            
+16
+
+    
+semiconductor materials to include tangible personal property used or consumed
+            
+17
+
+    
+primarily in the process of research or development of a semiconductor or
+            
+18
+
+    
+semiconductor manufacturing process;
+            
+19
+
+    
+    .    repeals a repeal date relating to the sales and use tax exemption for certain
+            
+20
+
+    
+semiconductor materials;
+            
+21
+
+    
+    .    repeals obsolete language;
+            
+22
+
+    
+    .    repeals reporting requirements to the Revenue and Taxation Interim Committee on
+            
+23
+
+    
+this exemption; and
+            
+24
+
+    
+    .    makes technical changes.
+            
+25
+
+    
+ Monies Appropriated in this Bill:
+            
+26
+
+    
+    None
+            
+27
+
+    
+ Other Special Clauses:
+            
+28
+
+    
+    This bill takes effect on July 1, 2006.
+            
+29
+
+    
+ Utah Code Sections Affected:
+
+            
+30
+
+
+    
+AMENDS:
+            
+31
+
+    
+     59-12-102, as last amended by Chapters 158 and 246, Laws of Utah 2005
+            
+32
+
+    
+     59-12-104, as last amended by Chapters 158, 203, 209, 240 and 246, Laws of Utah
+            
+33
+
+    
+2005
+            
+34
+
+    
+
+            
+35
+
+    
+Be it enacted by the Legislature of the state of Utah:
+            
+36
+
+    
+    Section 1.  
+Section  
+59-12-102
+
+ is amended to read:
+            
+37
+
+    
+     59-12-102.  Definitions.
+            
+38
+
+    
+    As used in this chapter:
+            
+39
+
+    
+    (1) (a)  "Admission or user fees" includes season passes.
+            
+40
+
+    
+    (b)  "Admission or user fees" does not include annual membership dues to private
+            
+41
+
+    
+organizations.
+            
+42
+
+    
+    (2)  "Agreement" means the Streamlined Sales and Use Tax Agreement described in
+            
+43
+
+    
+Section 
+
+59-12-102.1
+
+.
+            
+44
+
+    
+    (3)  "Agreement combined tax rate" means the sum of the tax rates:
+            
+45
+
+    
+    (a)  listed under Subsection (4); and
+            
+46
+
+    
+    (b)  that are imposed within a local taxing jurisdiction.
+            
+47
+
+    
+    (4)  "Agreement sales and use tax" means a tax imposed under:
+            
+48
+
+    
+    (a)  Subsection 
+
+59-12-103
+
+(2)(a)(i);
+            
+49
+
+    
+    (b)  Section 
+
+59-12-204
+
+;
+            
+50
+
+    
+    (c)  Section 
+
+59-12-401
+
+;
+            
+51
+
+    
+    (d)  Section 
+
+59-12-402
+
+;
+            
+52
+
+    
+    (e)  Section 
+
+59-12-501
+
+;
+            
+53
+
+    
+    (f)  Section 
+
+59-12-502
+
+;
+            
+54
+
+    
+    (g)  Section 
+
+59-12-703
+
+;
+            
+55
+
+    
+    (h)  Section 
+
+59-12-802
+
+;
+            
+56
+
+    
+    (i)  Section 
+
+59-12-804
+
+;
+            
+57
+
+    
+    (j)  Section 
+
+59-12-1001
+
+;
+
+            
+58
+
+
+    
+    (k)  Section 
+
+59-12-1102
+
+;
+            
+59
+
+    
+    (l)  Section 
+
+59-12-1302
+
+;
+            
+60
+
+    
+    (m)  Section 
+
+59-12-1402
+
+; or
+            
+61
+
+    
+    (n)  Section 
+
+59-12-1503
+
+.
+            
+62
+
+    
+    (5)  "Aircraft" is as defined in Section 
+
+72-10-102
+
+.
+            
+63
+
+    
+    (6)  "Alcoholic beverage" means a beverage that:
+            
+64
+
+    
+    (a)  is suitable for human consumption; and
+            
+65
+
+    
+    (b)  contains .5% or more alcohol by volume.
+            
+66
+
+    
+    (7)  "Area agency on aging" is as defined in Section 
+
+62A-3-101
+
+.
+            
+67
+
+    
+    (8)  "Authorized carrier" means:
+            
+68
+
+    
+    (a)  in the case of vehicles operated over public highways, the holder of credentials
+            
+69
+
+    
+indicating that the vehicle is or will be operated pursuant to both the International Registration
+            
+70
+
+    
+Plan and the International Fuel Tax Agreement;
+            
+71
+
+    
+    (b)  in the case of aircraft, the holder of a Federal Aviation Administration operating
+            
+72
+
+    
+certificate or air carrier's operating certificate; or
+            
+73
+
+    
+    (c)  in the case of locomotives, freight cars, railroad work equipment, or other rolling
+            
+74
+
+    
+stock, the holder of a certificate issued by the United States Surface Transportation Board.
+            
+75
+
+    
+    (9) (a)  Except as provided in Subsection (9)(b), "biomass energy" means any of the
+            
+76
+
+    
+following that is used as the primary source of energy to produce fuel or electricity:
+            
+77
+
+    
+    (i)  material from a plant or tree; or
+            
+78
+
+    
+    (ii)  other organic matter that is available on a renewable basis, including:
+            
+79
+
+    
+    (A)  slash and brush from forests and woodlands;
+            
+80
+
+    
+    (B)  animal waste;
+            
+81
+
+    
+    (C)  methane produced:
+            
+82
+
+    
+    (I)  at landfills; or
+            
+83
+
+    
+    (II)  as a byproduct of the treatment of wastewater residuals;
+            
+84
+
+    
+    (D)  aquatic plants; and
+            
+85
+
+    
+    (E)  agricultural products.
+
+            
+86
+
+
+    
+    (b)  "Biomass energy" does not include:
+            
+87
+
+    
+    (i)  black liquor;
+            
+88
+
+    
+    (ii)  treated woods; or
+            
+89
+
+    
+    (iii)  biomass from municipal solid waste other than methane produced:
+            
+90
+
+    
+    (A)  at landfills; or
+            
+91
+
+    
+    (B)  as a byproduct of the treatment of wastewater residuals.
+            
+92
+
+    
+    (10)  "Certified automated system" means software certified by the governing board of
+            
+93
+
+    
+the agreement in accordance with Section 
+
+59-12-102.1
+
+ that:
+            
+94
+
+    
+    (a)  calculates the agreement sales and use tax imposed within a local taxing
+            
+95
+
+    
+jurisdiction:
+            
+96
+
+    
+    (i)  on a transaction; and
+            
+97
+
+    
+    (ii)  in the states that are members of the agreement;
+            
+98
+
+    
+    (b)  determines the amount of agreement sales and use tax to remit to a state that is a
+            
+99
+
+    
+member of the agreement; and
+            
+100
+
+    
+    (c)  maintains a record of the transaction described in Subsection (10)(a)(i).
+            
+101
+
+    
+    (11)  "Certified service provider" means an agent certified:
+            
+102
+
+    
+    (a)  by the governing board of the agreement in accordance with Section 
+
+59-12-102.1
+
+;
+            
+103
+
+    
+and
+            
+104
+
+    
+    (b)  to perform all of a seller's sales and use tax functions for an agreement sales and
+            
+105
+
+    
+use tax other than the seller's obligation under Section 
+
+59-12-107.4
+
+ to remit a tax on the seller's
+            
+106
+
+    
+own purchases.
+            
+107
+
+    
+    (12) (a)  Subject to Subsection (12)(b), "clothing" means all human wearing apparel
+            
+108
+
+    
+suitable for general use.
+            
+109
+
+    
+    (b)  In accordance with Title 63, Chapter 46a, Utah Administrative Rulemaking Act, the
+            
+110
+
+    
+commission shall make rules:
+            
+111
+
+    
+    (i)  listing the items that constitute "clothing"; and
+            
+112
+
+    
+    (ii)  that are consistent with the list of items that constitute "clothing" under the
+            
+113
+
+    
+agreement.
+
+            
+114
+
+
+    
+    (13) (a)  For purposes of Subsection 
+
+59-12-104
+
+(42), "coin-operated amusement device"
+            
+115
+
+    
+means:
+            
+116
+
+    
+    (i)  a coin-operated amusement, skill, or ride device;
+            
+117
+
+    
+    (ii)  that is not controlled through seller-assisted, over-the-counter, sales of tokens; and
+            
+118
+
+    
+    (iii)  includes a music machine, pinball machine, billiard machine, video game machine,
+            
+119
+
+    
+arcade machine, and a mechanical or electronic skill game or ride.
+            
+120
+
+    
+    (b)  For purposes of Subsection 
+
+59-12-104
+
+(42), "coin-operated amusement device" does
+            
+121
+
+    
+not mean a coin-operated amusement device possessing a coinage mechanism that:
+            
+122
+
+    
+    (i)  accepts and registers multiple denominations of coins; and
+            
+123
+
+    
+    (ii)  allows the seller to collect the sales and use tax at the time an amusement device is
+            
+124
+
+    
+activated and operated by a person inserting coins into the device.
+            
+125
+
+    
+    (14)  "Commercial use" means the use of gas, electricity, heat, coal, fuel oil, or other
+            
+126
+
+    
+fuels that does not constitute industrial use under Subsection (34) or residential use under
+            
+127
+
+    
+Subsection (68).
+            
+128
+
+    
+    (15) (a)  "Common carrier" means a person engaged in or transacting the business of
+            
+129
+
+    
+transporting passengers, freight, merchandise, or other property for hire within this state.
+            
+130
+
+    
+    (b) (i)  "Common carrier" does not include a person who, at the time the person is
+            
+131
+
+    
+traveling to or from that person's place of employment, transports a passenger to or from the
+            
+132
+
+    
+passenger's place of employment.
+            
+133
+
+    
+    (ii)  For purposes of Subsection (15)(b)(i), in accordance with Title 63, Chapter 46a,
+            
+134
+
+    
+Utah Administrative Rulemaking Act, the commission may make rules defining what
+            
+135
+
+    
+constitutes a person's place of employment.
+            
+136
+
+    
+    (16)  "Component part" includes:
+            
+137
+
+    
+    (a)  poultry, dairy, and other livestock feed, and their components;
+            
+138
+
+    
+    (b)  baling ties and twine used in the baling of hay and straw;
+            
+139
+
+    
+    (c)  fuel used for providing temperature control of orchards and commercial
+            
+140
+
+    
+greenhouses doing a majority of their business in wholesale sales, and for providing power for
+            
+141
+
+    
+off-highway type farm machinery; and
+
+            
+142
+
+
+    
+    (d)  feed, seeds, and seedlings.
+            
+143
+
+    
+    (17)  "Computer" means an electronic device that accepts information:
+            
+144
+
+    
+    (a) (i)  in digital form; or
+            
+145
+
+    
+    (ii)  in a form similar to digital form; and
+            
+146
+
+    
+    (b)  manipulates that information for a result based on a sequence of instructions.
+            
+147
+
+    
+    (18)  "Computer software" means a set of coded instructions designed to cause:
+            
+148
+
+    
+    (a)  a computer to perform a task; or
+            
+149
+
+    
+    (b)  automatic data processing equipment to perform a task.
+            
+150
+
+    
+    (19)  "Construction materials" means any tangible personal property that will be
+            
+151
+
+    
+converted into real property.
+            
+152
+
+    
+    (20)  "Delivered electronically" means delivered to a purchaser by means other than
+            
+153
+
+    
+tangible storage media.
+            
+154
+
+    
+    (21) (a)  "Delivery charge" means a charge:
+            
+155
+
+    
+    (i)  by a seller of:
+            
+156
+
+    
+    (A)  tangible personal property; or
+            
+157
+
+    
+    (B)  services; and
+            
+158
+
+    
+    (ii)  for preparation and delivery of the tangible personal property or services described
+            
+159
+
+    
+in Subsection (21)(a)(i) to a location designated by the purchaser.
+            
+160
+
+    
+    (b)  "Delivery charge" includes a charge for the following:
+            
+161
+
+    
+    (i)  transportation;
+            
+162
+
+    
+    (ii)  shipping;
+            
+163
+
+    
+    (iii)  postage;
+            
+164
+
+    
+    (iv)  handling;
+            
+165
+
+    
+    (v)  crating; or
+            
+166
+
+    
+    (vi)  packing.
+            
+167
+
+    
+    (22)  "Dietary supplement" means a product, other than tobacco, that:
+            
+168
+
+    
+    (a)  is intended to supplement the diet;
+            
+169
+
+    
+    (b)  contains one or more of the following dietary ingredients:
+
+            
+170
+
+
+    
+    (i)  a vitamin;
+            
+171
+
+    
+    (ii)  a mineral;
+            
+172
+
+    
+    (iii)  an herb or other botanical;
+            
+173
+
+    
+    (iv)  an amino acid;
+            
+174
+
+    
+    (v)  a dietary substance for use by humans to supplement the diet by increasing the total
+            
+175
+
+    
+dietary intake; or
+            
+176
+
+    
+    (vi)  a concentrate, metabolite, constituent, extract, or combination of any ingredient
+            
+177
+
+    
+described in Subsections (22)(b)(i) through (v);
+            
+178
+
+    
+    (c) (i)  except as provided in Subsection (22)(c)(ii), is intended for ingestion in:
+            
+179
+
+    
+    (A)  tablet form;
+            
+180
+
+    
+    (B)  capsule form;
+            
+181
+
+    
+    (C)  powder form;
+            
+182
+
+    
+    (D)  softgel form;
+            
+183
+
+    
+    (E)  gelcap form; or
+            
+184
+
+    
+    (F)  liquid form; or
+            
+185
+
+    
+    (ii)  notwithstanding Subsection (22)(c)(i), if the product is not intended for ingestion in
+            
+186
+
+    
+a form described in Subsections (22)(c)(i)(A) through (F), is not represented:
+            
+187
+
+    
+    (A)  as conventional food; and
+            
+188
+
+    
+    (B)  for use as a sole item of:
+            
+189
+
+    
+    (I)  a meal; or
+            
+190
+
+    
+    (II)  the diet; and
+            
+191
+
+    
+    (d)  is required to be labeled as a dietary supplement:
+            
+192
+
+    
+    (i)  identifiable by the "Supplemental Facts" box found on the label; and
+            
+193
+
+    
+    (ii)  as required by 21 C.F.R. Sec. 101.36.
+            
+194
+
+    
+    (23) (a)  "Direct mail" means printed material delivered or distributed by United States
+            
+195
+
+    
+mail or other delivery service:
+            
+196
+
+    
+    (i)  to:
+            
+197
+
+    
+    (A)  a mass audience; or
+
+            
+198
+
+
+    
+    (B)  addressees on a mailing list provided by a purchaser of the mailing list; and
+            
+199
+
+    
+    (ii)  if the cost of the printed material is not billed directly to the recipients.
+            
+200
+
+    
+    (b)  "Direct mail" includes tangible personal property supplied directly or indirectly by a
+            
+201
+
+    
+purchaser to a seller of direct mail for inclusion in a package containing the printed material.
+            
+202
+
+    
+    (c)  "Direct mail" does not include multiple items of printed material delivered to a
+            
+203
+
+    
+single address.
+            
+204
+
+    
+    (24) (a)  "Drug" means a compound, substance, or preparation, or a component of a
+            
+205
+
+    
+compound, substance, or preparation that is:
+            
+206
+
+    
+    (i)  recognized in:
+            
+207
+
+    
+    (A)  the official United States Pharmacopoeia;
+            
+208
+
+    
+    (B)  the official Homeopathic Pharmacopoeia of the United States;
+            
+209
+
+    
+    (C)  the official National Formulary; or
+            
+210
+
+    
+    (D)  a supplement to a publication listed in Subsections (24)(a)(i)(A) through (C);
+            
+211
+
+    
+    (ii)  intended for use in the:
+            
+212
+
+    
+    (A)  diagnosis of disease;
+            
+213
+
+    
+    (B)  cure of disease;
+            
+214
+
+    
+    (C)  mitigation of disease;
+            
+215
+
+    
+    (D)  treatment of disease; or
+            
+216
+
+    
+    (E)  prevention of disease; or
+            
+217
+
+    
+    (iii)  intended to affect:
+            
+218
+
+    
+    (A)  the structure of the body; or
+            
+219
+
+    
+    (B)  any function of the body.
+            
+220
+
+    
+    (b)  "Drug" does not include:
+            
+221
+
+    
+    (i)  food and food ingredients;
+            
+222
+
+    
+    (ii)  a dietary supplement;
+            
+223
+
+    
+    (iii)  an alcoholic beverage; or
+            
+224
+
+    
+    (iv)  a prosthetic device.
+            
+225
+
+    
+    (25) (a)  Except as provided in Subsection (25)(c), "durable medical equipment" means
+
+            
+226
+
+
+    
+equipment that:
+            
+227
+
+    
+    (i)  can withstand repeated use;
+            
+228
+
+    
+    (ii)  is primarily and customarily used to serve a medical purpose;
+            
+229
+
+    
+    (iii)  generally is not useful to a person in the absence of illness or injury; and
+            
+230
+
+    
+    (iv)  is not worn in or on the body.
+            
+231
+
+    
+    (b)  "Durable medical equipment" includes parts used in the repair or replacement of the
+            
+232
+
+    
+equipment described in Subsection (25)(a).
+            
+233
+
+    
+    (c)  Notwithstanding Subsection (25)(a), "durable medical equipment" does not include
+            
+234
+
+    
+mobility enhancing equipment.
+            
+235
+
+    
+    (26)  "Electronic" means:
+            
+236
+
+    
+    (a)  relating to technology; and
+            
+237
+
+    
+    (b)  having:
+            
+238
+
+    
+    (i)  electrical capabilities;
+            
+239
+
+    
+    (ii)  digital capabilities;
+            
+240
+
+    
+    (iii)  magnetic capabilities;
+            
+241
+
+    
+    (iv)  wireless capabilities;
+            
+242
+
+    
+    (v)  optical capabilities;
+            
+243
+
+    
+    (vi)  electromagnetic capabilities; or
+            
+244
+
+    
+    (vii)  capabilities similar to Subsections (26)(b)(i) through (vi).
+            
+245
+
+    
+    (27) (a)  "Food and food ingredients" means substances:
+            
+246
+
+    
+    (i)  regardless of whether the substances are in:
+            
+247
+
+    
+    (A)  liquid form;
+            
+248
+
+    
+    (B)  concentrated form;
+            
+249
+
+    
+    (C)  solid form;
+            
+250
+
+    
+    (D)  frozen form;
+            
+251
+
+    
+    (E)  dried form; or
+            
+252
+
+    
+    (F)  dehydrated form; and
+            
+253
+
+    
+    (ii)  that are:
+
+            
+254
+
+
+    
+    (A)  sold for:
+            
+255
+
+    
+    (I)  ingestion by humans; or
+            
+256
+
+    
+    (II)  chewing by humans; and
+            
+257
+
+    
+    (B)  consumed for the substance's:
+            
+258
+
+    
+    (I)  taste; or
+            
+259
+
+    
+    (II)  nutritional value.
+            
+260
+
+    
+    (b)  "Food and food ingredients" does not include:
+            
+261
+
+    
+    (i)  an alcoholic beverage;
+            
+262
+
+    
+    (ii)  tobacco; or
+            
+263
+
+    
+    (iii)  prepared food.
+            
+264
+
+    
+    (28) (a)  "Fundraising sales" means sales:
+            
+265
+
+    
+    (i) (A)  made by a school; or
+            
+266
+
+    
+    (B)  made by a school student;
+            
+267
+
+    
+    (ii)  that are for the purpose of raising funds for the school to purchase equipment,
+            
+268
+
+    
+materials, or provide transportation; and
+            
+269
+
+    
+    (iii)  that are part of an officially sanctioned school activity.
+            
+270
+
+    
+    (b)  For purposes of Subsection (28)(a)(iii), "officially sanctioned school activity"
+            
+271
+
+    
+means a school activity:
+            
+272
+
+    
+    (i)  that is conducted in accordance with a formal policy adopted by the school or school
+            
+273
+
+    
+district governing the authorization and supervision of fundraising activities;
+            
+274
+
+    
+    (ii)  that does not directly or indirectly compensate an individual teacher or other
+            
+275
+
+    
+educational personnel by direct payment, commissions, or payment in kind; and
+            
+276
+
+    
+    (iii)  the net or gross revenues from which are deposited in a dedicated account
+            
+277
+
+    
+controlled by the school or school district.
+            
+278
+
+    
+    (29)  "Geothermal energy" means energy contained in heat that continuously flows
+            
+279
+
+    
+outward from the earth that is used as the sole source of energy to produce electricity.
+            
+280
+
+    
+    (30)  "Governing board of the agreement" means the governing board of the agreement
+            
+281
+
+    
+that is:
+
+            
+282
+
+
+    
+    (a)  authorized to administer the agreement; and
+            
+283
+
+    
+    (b)  established in accordance with the agreement.
+            
+284
+
+    
+    (31) (a)  "Hearing aid" means:
+            
+285
+
+    
+    (i)  an instrument or device having an electronic component that is designed to:
+            
+286
+
+    
+    (A) (I)  improve impaired human hearing; or
+            
+287
+
+    
+    (II)  correct impaired human hearing; and
+            
+288
+
+    
+    (B) (I)  be worn in the human ear; or
+            
+289
+
+    
+    (II)  affixed behind the human ear;
+            
+290
+
+    
+    (ii)  an instrument or device that is surgically implanted into the cochlea; or
+            
+291
+
+    
+    (iii)  a telephone amplifying device.
+            
+292
+
+    
+    (b)  "Hearing aid" does not include:
+            
+293
+
+    
+    (i)  except as provided in Subsection (31)(a)(i)(B) or (31)(a)(ii), an instrument or device
+            
+294
+
+    
+having an electronic component that is designed to be worn on the body;
+            
+295
+
+    
+    (ii)  except as provided in Subsection (31)(a)(iii), an assistive listening device or system
+            
+296
+
+    
+designed to be used by one individual, including:
+            
+297
+
+    
+    (A)  a personal amplifying system;
+            
+298
+
+    
+    (B)  a personal FM system;
+            
+299
+
+    
+    (C)  a television listening system; or
+            
+300
+
+    
+    (D)  a device or system similar to a device or system described in Subsections
+            
+301
+
+    
+(31)(b)(ii)(A) through (C); or
+            
+302
+
+    
+    (iii)  an assistive listening device or system designed to be used by more than one
+            
+303
+
+    
+individual, including:
+            
+304
+
+    
+    (A)  a device or system installed in:
+            
+305
+
+    
+    (I)  an auditorium;
+            
+306
+
+    
+    (II)  a church;
+            
+307
+
+    
+    (III)  a conference room;
+            
+308
+
+    
+    (IV)  a synagogue; or
+            
+309
+
+    
+    (V)  a theater; or
+
+            
+310
+
+
+    
+    (B)  a device or system similar to a device or system described in Subsections
+            
+311
+
+    
+(31)(b)(iii)(A)(I) through (V).
+            
+312
+
+    
+    (32) (a)  "Hearing aid accessory" means a hearing aid:
+            
+313
+
+    
+    (i)  component;
+            
+314
+
+    
+    (ii)  attachment; or
+            
+315
+
+    
+    (iii)  accessory.
+            
+316
+
+    
+    (b)  "Hearing aid accessory" includes:
+            
+317
+
+    
+    (i)  a hearing aid neck loop;
+            
+318
+
+    
+    (ii)  a hearing aid cord;
+            
+319
+
+    
+    (iii)  a hearing aid ear mold;
+            
+320
+
+    
+    (iv)  hearing aid tubing;
+            
+321
+
+    
+    (v)  a hearing aid ear hook; or
+            
+322
+
+    
+    (vi)  a hearing aid remote control.
+            
+323
+
+    
+    (c)  "Hearing aid accessory" does not include:
+            
+324
+
+    
+    (i)  a component, attachment, or accessory designed to be used only with an:
+            
+325
+
+    
+    (A)  instrument or device described in Subsection (31)(b)(i); or
+            
+326
+
+    
+    (B)  assistive listening device or system described in Subsection (31)(b)(ii) or (iii); or
+            
+327
+
+    
+    (ii)  a hearing aid battery.
+            
+328
+
+    
+    (33)  "Hydroelectric energy" means water used as the sole source of energy to produce
+            
+329
+
+    
+electricity.
+            
+330
+
+    
+    (34)  "Industrial use" means the use of natural gas, electricity, heat, coal, fuel oil, or
+            
+331
+
+    
+other fuels:
+            
+332
+
+    
+    (a)  in mining or extraction of minerals;
+            
+333
+
+    
+    (b)  in agricultural operations to produce an agricultural product up to the time of
+            
+334
+
+    
+harvest or placing the agricultural product into a storage facility, including:
+            
+335
+
+    
+    (i)  commercial greenhouses;
+            
+336
+
+    
+    (ii)  irrigation pumps;
+            
+337
+
+    
+    (iii)  farm machinery;
+
+            
+338
+
+
+    
+    (iv)  implements of husbandry as defined in Subsection 
+
+41-1a-102
+
+(23) that are not
+            
+339
+
+    
+registered under Title 41, Chapter 1a, Part 2, Registration; and
+            
+340
+
+    
+    (v)  other farming activities;
+            
+341
+
+    
+    (c)  in manufacturing tangible personal property at an establishment described in SIC
+            
+342
+
+    
+Codes 2000 to 3999 of the 1987 Standard Industrial Classification Manual of the federal
+            
+343
+
+    
+Executive Office of the President, Office of Management and Budget; or
+            
+344
+
+    
+    (d)  by a scrap recycler if:
+            
+345
+
+    
+    (i)  from a fixed location, the scrap recycler utilizes machinery or equipment to process
+            
+346
+
+    
+one or more of the following items into prepared grades of processed materials for use in new
+            
+347
+
+    
+products:
+            
+348
+
+    
+    (A)  iron;
+            
+349
+
+    
+    (B)  steel;
+            
+350
+
+    
+    (C)  nonferrous metal;
+            
+351
+
+    
+    (D)  paper;
+            
+352
+
+    
+    (E)  glass;
+            
+353
+
+    
+    (F)  plastic;
+            
+354
+
+    
+    (G)  textile; or
+            
+355
+
+    
+    (H)  rubber; and
+            
+356
+
+    
+    (ii)  the new products under Subsection (34)(d)(i) would otherwise be made with
+            
+357
+
+    
+nonrecycled materials.
+            
+358
+
+    
+    (35) (a)  Except as provided in Subsection (35)(b), "installation charge" means a charge
+            
+359
+
+    
+for installing tangible personal property.
+            
+360
+
+    
+    (b)  Notwithstanding Subsection (35)(a), "installation charge" does not include a charge
+            
+361
+
+    
+for repairs or renovations of tangible personal property.
+            
+362
+
+    
+    (36) (a)  "Lease" or "rental" means a transfer of possession or control of tangible
+            
+363
+
+    
+personal property for:
+            
+364
+
+    
+    (i) (A)  a fixed term; or
+            
+365
+
+    
+    (B)  an indeterminate term; and
+
+            
+366
+
+
+    
+    (ii)  consideration.
+            
+367
+
+    
+    (b)  "Lease" or "rental" includes an agreement covering a motor vehicle and trailer if the
+            
+368
+
+    
+amount of consideration may be increased or decreased by reference to the amount realized
+            
+369
+
+    
+upon sale or disposition of the property as defined in Section 7701(h)(1), Internal Revenue
+            
+370
+
+    
+Code.
+            
+371
+
+    
+    (c)  "Lease" or "rental" does not include:
+            
+372
+
+    
+    (i)  a transfer of possession or control of property under a security agreement or
+            
+373
+
+    
+deferred payment plan that requires the transfer of title upon completion of the required
+            
+374
+
+    
+payments;
+            
+375
+
+    
+    (ii)  a transfer of possession or control of property under an agreement that requires the
+            
+376
+
+    
+transfer of title:
+            
+377
+
+    
+    (A)  upon completion of required payments; and
+            
+378
+
+    
+    (B) if the payment of an option price does not exceed the greater of:
+            
+379
+
+    
+    (I)  $100; or
+            
+380
+
+    
+    (II)  1% of the total required payments; or
+            
+381
+
+    
+    (iii)  providing tangible personal property along with an operator for a fixed period of
+            
+382
+
+    
+time or an indeterminate period of time if the operator is necessary for equipment to perform as
+            
+383
+
+    
+designed.
+            
+384
+
+    
+    (d)  For purposes of Subsection (36)(c)(iii), an operator is necessary for equipment to
+            
+385
+
+    
+perform as designed if the operator's duties exceed the:
+            
+386
+
+    
+    (i)  set-up of tangible personal property;
+            
+387
+
+    
+    (ii)  maintenance of tangible personal property; or
+            
+388
+
+    
+    (iii)  inspection of tangible personal property.
+            
+389
+
+    
+    (37)  "Load and leave" means delivery to a purchaser by use of a tangible storage media
+            
+390
+
+    
+if the tangible storage media is not physically transferred to the purchaser.
+            
+391
+
+    
+    (38)  "Local taxing jurisdiction" means a:
+            
+392
+
+    
+    (a)  county that is authorized to impose an agreement sales and use tax;
+            
+393
+
+    
+    (b)  city that is authorized to impose an agreement sales and use tax; or
+
+            
+394
+
+
+    
+    (c)  town that is authorized to impose an agreement sales and use tax.
+            
+395
+
+    
+    (39)  "Manufactured home" is as defined in Section 
+
+58-56-3
+
+.
+            
+396
+
+    
+    (40)  For purposes of Subsection 
+
+59-12-104
+
+(14), "manufacturing facility" means:
+            
+397
+
+    
+    (a)  an establishment described in SIC Codes 2000 to 3999 of the 1987 Standard
+            
+398
+
+    
+Industrial Classification Manual of the federal Executive Office of the President, Office of
+            
+399
+
+    
+Management and Budget; or
+            
+400
+
+    
+    (b)  a scrap recycler if:
+            
+401
+
+    
+    (i)  from a fixed location, the scrap recycler utilizes machinery or equipment to process
+            
+402
+
+    
+one or more of the following items into prepared grades of processed materials for use in new
+            
+403
+
+    
+products:
+            
+404
+
+    
+    (A)  iron;
+            
+405
+
+    
+    (B)  steel;
+            
+406
+
+    
+    (C)  nonferrous metal;
+            
+407
+
+    
+    (D)  paper;
+            
+408
+
+    
+    (E)  glass;
+            
+409
+
+    
+    (F)  plastic;
+            
+410
+
+    
+    (G)  textile; or
+            
+411
+
+    
+    (H)  rubber; and
+            
+412
+
+    
+    (ii)  the new products under Subsection (40)(b)(i) would otherwise be made with
+            
+413
+
+    
+nonrecycled materials.
+            
+414
+
+    
+    (41)  "Mobile home" is as defined in Section 
+
+58-56-3
+
+.
+            
+415
+
+    
+    (42)  "Mobile telecommunications service" is as defined in the Mobile
+            
+416
+
+    
+Telecommunications Sourcing Act, 4 U.S.C. Sec. 124.
+            
+417
+
+    
+    (43) (a)  Except as provided in Subsection (43)(c), "mobility enhancing equipment"
+            
+418
+
+    
+means equipment that is:
+            
+419
+
+    
+    (i)  primarily and customarily used to provide or increase the ability to move from one
+            
+420
+
+    
+place to another;
+            
+421
+
+    
+    (ii)  appropriate for use in a:
+
+            
+422
+
+
+    
+    (A)  home; or
+            
+423
+
+    
+    (B)  motor vehicle; and
+            
+424
+
+    
+    (iii)  not generally used by persons with normal mobility.
+            
+425
+
+    
+    (b)  "Mobility enhancing equipment" includes parts used in the repair or replacement of
+            
+426
+
+    
+the equipment described in Subsection (43)(a).
+            
+427
+
+    
+    (c)  Notwithstanding Subsection (43)(a), "mobility enhancing equipment" does not
+            
+428
+
+    
+include:
+            
+429
+
+    
+    (i)  a motor vehicle;
+            
+430
+
+    
+    (ii)  equipment on a motor vehicle if that equipment is normally provided by the motor
+            
+431
+
+    
+vehicle manufacturer;
+            
+432
+
+    
+    (iii)  durable medical equipment; or
+            
+433
+
+    
+    (iv)  a prosthetic device.
+            
+434
+
+    
+    (44)  "Model 1 seller" means a seller that has selected a certified service provider as the
+            
+435
+
+    
+seller's agent to perform all of the seller's sales and use tax functions for agreement sales and
+            
+436
+
+    
+use taxes other than the seller's obligation under Section 
+
+59-12-107.4
+
+ to remit a tax on the
+            
+437
+
+    
+seller's own purchases.
+            
+438
+
+    
+    (45)  "Model 2 seller" means a seller that:
+            
+439
+
+    
+    (a)  except as provided in Subsection (45)(b), has selected a certified automated system
+            
+440
+
+    
+to perform the seller's sales tax functions for agreement sales and use taxes; and
+            
+441
+
+    
+    (b)  notwithstanding Subsection (45)(a), retains responsibility for remitting all of the
+            
+442
+
+    
+sales tax:
+            
+443
+
+    
+    (i)  collected by the seller; and
+            
+444
+
+    
+    (ii)  to the appropriate local taxing jurisdiction.
+            
+445
+
+    
+    (46) (a)  Subject to Subsection (46)(b), "model 3 seller" means a seller that has:
+            
+446
+
+    
+    (i)  sales in at least five states that are members of the agreement;
+            
+447
+
+    
+    (ii)  total annual sales revenues of at least $500,000,000;
+            
+448
+
+    
+    (iii)  a proprietary system that calculates the amount of tax:
+            
+449
+
+    
+    (A)  for an agreement sales and use tax; and
+
+            
+450
+
+
+    
+    (B)  due to each local taxing jurisdiction; and
+            
+451
+
+    
+    (iv)  entered into a performance agreement with the governing board of the agreement.
+            
+452
+
+    
+    (b)  For purposes of Subsection (46)(a), "model 3 seller" includes an affiliated group of
+            
+453
+
+    
+sellers using the same proprietary system.
+            
+454
+
+    
+    (47)  "Modular home" means a modular unit as defined in Section 
+
+58-56-3
+
+.
+            
+455
+
+    
+    (48)  "Motor vehicle" is as defined in Section 
+
+41-1a-102
+
+.
+            
+456
+
+    
+    (49) (a)  "Other fuels" means products that burn independently to produce heat or
+            
+457
+
+    
+energy.
+            
+458
+
+    
+    (b)  "Other fuels" includes oxygen when it is used in the manufacturing of tangible
+            
+459
+
+    
+personal property.
+            
+460
+
+    
+    (50)  "Pawnbroker" is as defined in Section 
+
+13-32a-102
+
+.
+            
+461
+
+    
+    (51)  "Pawn transaction" is as defined in Section 
+
+13-32a-102
+
+.
+            
+462
+
+    
+    (52) (a)  "Permanently attached to real property" means that for tangible personal
+            
+463
+
+    
+property attached to real property:
+            
+464
+
+    
+    (i)  the attachment of the tangible personal property to the real property:
+            
+465
+
+    
+    (A)  is essential to the use of the tangible personal property; and
+            
+466
+
+    
+    (B)  suggests that the tangible personal property will remain attached to the real
+            
+467
+
+    
+property in the same place over the useful life of the tangible personal property; or
+            
+468
+
+    
+    (ii)  if the tangible personal property is detached from the real property, the detachment
+            
+469
+
+    
+would:
+            
+470
+
+    
+    (A)  cause substantial damage to the tangible personal property; or
+            
+471
+
+    
+    (B)  require substantial alteration or repair of the real property to which the tangible
+            
+472
+
+    
+personal property is attached.
+            
+473
+
+    
+    (b)  "Permanently attached to real property" includes:
+            
+474
+
+    
+    (i)  the attachment of an accessory to the tangible personal property if the accessory is:
+            
+475
+
+    
+    (A)  essential to the operation of the tangible personal property; and
+            
+476
+
+    
+    (B)  attached only to facilitate the operation of the tangible personal property; or
+            
+477
+
+    
+    (ii)  a temporary detachment of tangible personal property from real property for a
+
+            
+478
+
+
+    
+repair or renovation if the repair or renovation is performed where the tangible personal
+            
+479
+
+    
+property and real property are located.
+            
+480
+
+    
+    (c)  "Permanently attached to real property" does not include:
+            
+481
+
+    
+    (i)  the attachment of portable or movable tangible personal property to real property if
+            
+482
+
+    
+that portable or movable tangible personal property is attached to real property only for:
+            
+483
+
+    
+    (A)  convenience;
+            
+484
+
+    
+    (B)  stability; or
+            
+485
+
+    
+    (C)  for an obvious temporary purpose; or
+            
+486
+
+    
+    (ii)  the detachment of tangible personal property from real property other than the
+            
+487
+
+    
+detachment described in Subsection (52)(b)(ii).
+            
+488
+
+    
+    (53)  "Person" includes any individual, firm, partnership, joint venture, association,
+            
+489
+
+    
+corporation, estate, trust, business trust, receiver, syndicate, this state, any county, city,
+            
+490
+
+    
+municipality, district, or other local governmental entity of the state, or any group or
+            
+491
+
+    
+combination acting as a unit.
+            
+492
+
+    
+    (54)  "Place of primary use":
+            
+493
+
+    
+    (a)  for telephone service other than mobile telecommunications service, means the
+            
+494
+
+    
+street address representative of where the purchaser's use of the telephone service primarily
+            
+495
+
+    
+occurs, which shall be:
+            
+496
+
+    
+    (i)  the residential street address of the purchaser; or
+            
+497
+
+    
+    (ii)  the primary business street address of the purchaser; or
+            
+498
+
+    
+    (b)  for mobile telecommunications service, is as defined in the Mobile
+            
+499
+
+    
+Telecommunications Sourcing Act, 4 U.S.C. Sec. 124.
+            
+500
+
+    
+    (55)  "Postproduction" means an activity related to the finishing or duplication of a
+            
+501
+
+    
+medium described in Subsection 
+
+59-12-104
+
+(60)(a).
+            
+502
+
+    
+    (56) (a)  "Prepared food" means:
+            
+503
+
+    
+    (i)  food:
+            
+504
+
+    
+    (A)  sold in a heated state; or
+            
+505
+
+    
+    (B)  heated by a seller;
+
+            
+506
+
+
+    
+    (ii)  two or more food ingredients mixed or combined by the seller for sale as a single
+            
+507
+
+    
+item; or
+            
+508
+
+    
+    (iii)  except as provided in Subsection (56)(c), food sold with an eating utensil provided
+            
+509
+
+    
+by the seller, including a:
+            
+510
+
+    
+    (A)  plate;
+            
+511
+
+    
+    (B)  knife;
+            
+512
+
+    
+    (C)  fork;
+            
+513
+
+    
+    (D)  spoon;
+            
+514
+
+    
+    (E)  glass;
+            
+515
+
+    
+    (F)  cup;
+            
+516
+
+    
+    (G)  napkin; or
+            
+517
+
+    
+    (H)  straw.
+            
+518
+
+    
+    (b)  "Prepared food" does not include:
+            
+519
+
+    
+    (i)  food that a seller only:
+            
+520
+
+    
+    (A)  cuts;
+            
+521
+
+    
+    (B)  repackages; or
+            
+522
+
+    
+    (C)  pasteurizes; or
+            
+523
+
+    
+    (ii) (A)  the following:
+            
+524
+
+    
+    (I)  raw egg;
+            
+525
+
+    
+    (II)  raw fish;
+            
+526
+
+    
+    (III)  raw meat;
+            
+527
+
+    
+    (IV)  raw poultry; or
+            
+528
+
+    
+    (V)  a food containing an item described in Subsections (56)(b)(ii)(A)(I) through (IV);
+            
+529
+
+    
+and
+            
+530
+
+    
+    (B)  if the Food and Drug Administration recommends in Chapter 3, Part 401.11 of the
+            
+531
+
+    
+Food and Drug Administration's Food Code that a consumer cook the items described in
+            
+532
+
+    
+Subsection (56)(b)(ii)(A) to prevent food borne illness.
+            
+533
+
+    
+    (c)  Notwithstanding Subsection (56)(a)(iii), an eating utensil provided by the seller
+
+            
+534
+
+
+    
+does not include the following used to transport the food:
+            
+535
+
+    
+    (i)  a container; or
+            
+536
+
+    
+    (ii)  packaging.
+            
+537
+
+    
+    (57)  "Prescription" means an order, formula, or recipe that is issued:
+            
+538
+
+    
+    (a) (i)  orally;
+            
+539
+
+    
+    (ii)  in writing;
+            
+540
+
+    
+    (iii)  electronically; or
+            
+541
+
+    
+    (iv)  by any other manner of transmission; and
+            
+542
+
+    
+    (b)  by a licensed practitioner authorized by the laws of a state.
+            
+543
+
+    
+    (58) (a)  Except as provided in Subsection (58)(b)(ii) or (iii), "prewritten computer
+            
+544
+
+    
+software" means computer software that is not designed and developed:
+            
+545
+
+    
+    (i)  by the author or other creator of the computer software; and
+            
+546
+
+    
+    (ii)  to the specifications of a specific purchaser.
+            
+547
+
+    
+    (b)  "Prewritten computer software" includes:
+            
+548
+
+    
+    (i)  a prewritten upgrade to computer software if the prewritten upgrade to the computer
+            
+549
+
+    
+software is not designed and developed:
+            
+550
+
+    
+    (A)  by the author or other creator of the computer software; and
+            
+551
+
+    
+    (B)  to the specifications of a specific purchaser;
+            
+552
+
+    
+    (ii)  notwithstanding Subsection (58)(a), computer software designed and developed by
+            
+553
+
+    
+the author or other creator of the computer software to the specifications of a specific purchaser
+            
+554
+
+    
+if the computer software is sold to a person other than the purchaser; or
+            
+555
+
+    
+    (iii)  notwithstanding Subsection (58)(a) and except as provided in Subsection (58)(c),
+            
+556
+
+    
+prewritten computer software or a prewritten portion of prewritten computer software:
+            
+557
+
+    
+    (A)  that is modified or enhanced to any degree; and
+            
+558
+
+    
+    (B)  if the modification or enhancement described in Subsection (58)(b)(iii)(A) is
+            
+559
+
+    
+designed and developed to the specifications of a specific purchaser.
+            
+560
+
+    
+    (c)  Notwithstanding Subsection (58)(b)(iii), "prewritten computer software" does not
+            
+561
+
+    
+include a modification or enhancement described in Subsection (58)(b)(iii) if the charges for
+
+            
+562
+
+
+    
+the modification or enhancement are:
+            
+563
+
+    
+    (i)  reasonable; and
+            
+564
+
+    
+    (ii)  separately stated on the invoice or other statement of price provided to the
+            
+565
+
+    
+purchaser.
+            
+566
+
+    
+    (59) (a)  "Prosthetic device" means a device that is worn on or in the body to:
+            
+567
+
+    
+    (i)  artificially replace a missing portion of the body;
+            
+568
+
+    
+    (ii)  prevent or correct a physical deformity or physical malfunction; or
+            
+569
+
+    
+    (iii)  support a weak or deformed portion of the body.
+            
+570
+
+    
+    (b)  "Prosthetic device" includes:
+            
+571
+
+    
+    (i)  parts used in the repairs or renovation of a prosthetic device; or
+            
+572
+
+    
+    (ii)  replacement parts for a prosthetic device.
+            
+573
+
+    
+    (c)  "Prosthetic device" does not include:
+            
+574
+
+    
+    (i)  corrective eyeglasses;
+            
+575
+
+    
+    (ii)  contact lenses;
+            
+576
+
+    
+    (iii)  hearing aids; or
+            
+577
+
+    
+    (iv)  dental prostheses.
+            
+578
+
+    
+    (60) (a)  "Protective equipment" means an item:
+            
+579
+
+    
+    (i)  for human wear; and
+            
+580
+
+    
+    (ii)  that is:
+            
+581
+
+    
+    (A)  designed as protection:
+            
+582
+
+    
+    (I)  to the wearer against injury or disease; or
+            
+583
+
+    
+    (II)  against damage or injury of other persons or property; and
+            
+584
+
+    
+    (B)  not suitable for general use.
+            
+585
+
+    
+    (b)  In accordance with Title 63, Chapter 46a, Utah Administrative Rulemaking Act, the
+            
+586
+
+    
+commission shall make rules:
+            
+587
+
+    
+    (i)  listing the items that constitute "protective equipment"; and
+            
+588
+
+    
+    (ii)  that are consistent with the list of items that constitute "protective equipment"
+            
+589
+
+    
+under the agreement.
+
+            
+590
+
+
+    
+    (61) (a)  "Purchase price" and "sales price" mean the total amount of consideration:
+            
+591
+
+    
+    (i)  valued in money; and
+            
+592
+
+    
+    (ii)  for which tangible personal property or services are:
+            
+593
+
+    
+    (A)  sold;
+            
+594
+
+    
+    (B)  leased; or
+            
+595
+
+    
+    (C)  rented.
+            
+596
+
+    
+    (b)  "Purchase price" and "sales price" include:
+            
+597
+
+    
+    (i)  the seller's cost of the tangible personal property or services sold;
+            
+598
+
+    
+    (ii)  expenses of the seller, including:
+            
+599
+
+    
+    (A)  the cost of materials used;
+            
+600
+
+    
+    (B)  a labor cost;
+            
+601
+
+    
+    (C)  a service cost;
+            
+602
+
+    
+    (D)  interest;
+            
+603
+
+    
+    (E)  a loss;
+            
+604
+
+    
+    (F)  the cost of transportation to the seller; or
+            
+605
+
+    
+    (G)  a tax imposed on the seller; or
+            
+606
+
+    
+    (iii)  a charge by the seller for any service necessary to complete the sale.
+            
+607
+
+    
+    (c)  "Purchase price" and "sales price" do not include:
+            
+608
+
+    
+    (i)  a discount:
+            
+609
+
+    
+    (A)  in a form including:
+            
+610
+
+    
+    (I)  cash;
+            
+611
+
+    
+    (II)  term; or
+            
+612
+
+    
+    (III)  coupon;
+            
+613
+
+    
+    (B)  that is allowed by a seller;
+            
+614
+
+    
+    (C)  taken by a purchaser on a sale; and
+            
+615
+
+    
+    (D)  that is not reimbursed by a third party; or
+            
+616
+
+    
+    (ii)  the following if separately stated on an invoice, bill of sale, or similar document
+            
+617
+
+    
+provided to the purchaser:
+
+            
+618
+
+
+    
+    (A)  the amount of a trade-in;
+            
+619
+
+    
+    (B)  the following from credit extended on the sale of tangible personal property or
+            
+620
+
+    
+services:
+            
+621
+
+    
+    (I)  interest charges;
+            
+622
+
+    
+    (II)  financing charges; or
+            
+623
+
+    
+    (III)  carrying charges;
+            
+624
+
+    
+    (C)  a tax or fee legally imposed directly on the consumer;
+            
+625
+
+    
+    (D)  a delivery charge; or
+            
+626
+
+    
+    (E)  an installation charge.
+            
+627
+
+    
+    (62)  "Purchaser" means a person to whom:
+            
+628
+
+    
+    (a)  a sale of tangible personal property is made; or
+            
+629
+
+    
+    (b)  a service is furnished.
+            
+630
+
+    
+    (63)  "Regularly rented" means:
+            
+631
+
+    
+    (a)  rented to a guest for value three or more times during a calendar year; or
+            
+632
+
+    
+    (b)  advertised or held out to the public as a place that is regularly rented to guests for
+            
+633
+
+    
+value.
+            
+634
+
+    
+    (64)  "Renewable energy" means:
+            
+635
+
+    
+    (a)  biomass energy;
+            
+636
+
+    
+    (b)  hydroelectric energy;
+            
+637
+
+    
+    (c)  geothermal energy;
+            
+638
+
+    
+    (d)  solar energy; or
+            
+639
+
+    
+    (e)  wind energy.
+            
+640
+
+    
+    (65) (a)  "Renewable energy production facility" means a facility that:
+            
+641
+
+    
+    (i)  uses renewable energy to produce electricity; and
+            
+642
+
+    
+    (ii)  has a production capacity of 20 kilowatts or greater.
+            
+643
+
+    
+    (b)  A facility is a renewable energy production facility regardless of whether the
+            
+644
+
+    
+facility is:
+            
+645
+
+    
+    (i)  connected to an electric grid; or
+
+            
+646
+
+
+    
+    (ii)  located on the premises of an electricity consumer.
+            
+647
+
+    
+    (66)  "Rental" is as defined in Subsection (36).
+            
+648
+
+    
+    (67)  "Repairs or renovations of tangible personal property" means:
+            
+649
+
+    
+    (a)  a repair or renovation of tangible personal property that is not permanently attached
+            
+650
+
+    
+to real property; or
+            
+651
+
+    
+    (b)  attaching tangible personal property to other tangible personal property if the other
+            
+652
+
+    
+tangible personal property to which the tangible personal property is attached is not
+            
+653
+
+    
+permanently attached to real property.
+            
+654
+
+    
+    (68)  "Residential use" means the use in or around a home, apartment building, sleeping
+            
+655
+
+    
+quarters, and similar facilities or accommodations.
+            
+656
+
+    
+    (69)  "Retail sale" or "sale at retail" means a sale, lease, or rental for a purpose other
+            
+657
+
+    
+than:
+            
+658
+
+    
+    (a)  resale;
+            
+659
+
+    
+    (b)  sublease; or
+            
+660
+
+    
+    (c)  subrent.
+            
+661
+
+    
+    (70) (a)  "Retailer" means any person engaged in a regularly organized business in
+            
+662
+
+    
+tangible personal property or any other taxable transaction under Subsection 
+
+59-12-103
+
+(1), and
+            
+663
+
+    
+who is selling to the user or consumer and not for resale.
+            
+664
+
+    
+    (b)  "Retailer" includes commission merchants, auctioneers, and any person regularly
+            
+665
+
+    
+engaged in the business of selling to users or consumers within the state.
+            
+666
+
+    
+    (71) (a)  "Sale" means any transfer of title, exchange, or barter, conditional or
+            
+667
+
+    
+otherwise, in any manner, of tangible personal property or any other taxable transaction under
+            
+668
+
+    
+Subsection 
+
+59-12-103
+
+(1), for consideration.
+            
+669
+
+    
+    (b)  "Sale" includes:
+            
+670
+
+    
+    (i)  installment and credit sales;
+            
+671
+
+    
+    (ii)  any closed transaction constituting a sale;
+            
+672
+
+    
+    (iii)  any sale of electrical energy, gas, services, or entertainment taxable under this
+            
+673
+
+    
+chapter;
+
+            
+674
+
+
+    
+    (iv)  any transaction if the possession of property is transferred but the seller retains the
+            
+675
+
+    
+title as security for the payment of the price; and
+            
+676
+
+    
+    (v)  any transaction under which right to possession, operation, or use of any article of
+            
+677
+
+    
+tangible personal property is granted under a lease or contract and the transfer of possession
+            
+678
+
+    
+would be taxable if an outright sale were made.
+            
+679
+
+    
+    (72)  "Sale at retail" is as defined in Subsection (69).
+            
+680
+
+    
+    (73)  "Sale-leaseback transaction" means a transaction by which title to tangible
+            
+681
+
+    
+personal property that is subject to a tax under this chapter is transferred:
+            
+682
+
+    
+    (a)  by a purchaser-lessee;
+            
+683
+
+    
+    (b)  to a lessor;
+            
+684
+
+    
+    (c)  for consideration; and
+            
+685
+
+    
+    (d)  if:
+            
+686
+
+    
+    (i)  the purchaser-lessee paid sales and use tax on the purchaser-lessee's initial purchase
+            
+687
+
+    
+of the tangible personal property;
+            
+688
+
+    
+    (ii)  the sale of the tangible personal property to the lessor is intended as a form of
+            
+689
+
+    
+financing:
+            
+690
+
+    
+    (A)  for the property; and
+            
+691
+
+    
+    (B)  to the purchaser-lessee; and
+            
+692
+
+    
+    (iii)  in accordance with generally accepted accounting principles, the purchaser-lessee
+            
+693
+
+    
+is required to:
+            
+694
+
+    
+    (A)  capitalize the property for financial reporting purposes; and
+            
+695
+
+    
+    (B)  account for the lease payments as payments made under a financing arrangement.
+            
+696
+
+    
+    (74)  "Sales price" is as defined in Subsection (61).
+            
+697
+
+    
+    (75) (a)  "Sales relating to schools" means the following sales by, amounts paid to, or
+            
+698
+
+    
+amounts charged by a school:
+            
+699
+
+    
+    (i)  sales that are directly related to the school's educational functions or activities
+            
+700
+
+    
+including:
+            
+701
+
+    
+    (A)  the sale of:
+
+            
+702
+
+
+    
+    (I)  textbooks;
+            
+703
+
+    
+    (II)  textbook fees;
+            
+704
+
+    
+    (III)  laboratory fees;
+            
+705
+
+    
+    (IV)  laboratory supplies; or
+            
+706
+
+    
+    (V)  safety equipment;
+            
+707
+
+    
+    (B)  the sale of a uniform, protective equipment, or sports or recreational equipment
+            
+708
+
+    
+that:
+            
+709
+
+    
+    (I)  a student is specifically required to wear as a condition of participation in a
+            
+710
+
+    
+school-related event or school-related activity; and
+            
+711
+
+    
+    (II)  is not readily adaptable to general or continued usage to the extent that it takes the
+            
+712
+
+    
+place of ordinary clothing;
+            
+713
+
+    
+    (C)  sales of the following if the net or gross revenues generated by the sales are
+            
+714
+
+    
+deposited into a school district fund or school fund dedicated to school meals:
+            
+715
+
+    
+    (I)  food and food ingredients; or
+            
+716
+
+    
+    (II)  prepared food; or
+            
+717
+
+    
+    (D)  transportation charges for official school activities; or
+            
+718
+
+    
+    (ii)  amounts paid to or amounts charged by a school for admission to a school-related
+            
+719
+
+    
+event or school-related activity.
+            
+720
+
+    
+    (b)  "Sales relating to schools" does not include:
+            
+721
+
+    
+    (i)  bookstore sales of items that are not educational materials or supplies;
+            
+722
+
+    
+    (ii)  except as provided in Subsection (75)(a)(i)(B):
+            
+723
+
+    
+    (A)  clothing;
+            
+724
+
+    
+    (B)  clothing accessories or equipment;
+            
+725
+
+    
+    (C)  protective equipment; or
+            
+726
+
+    
+    (D)  sports or recreational equipment; or
+            
+727
+
+    
+    (iii)  amounts paid to or amounts charged by a school for admission to a school-related
+            
+728
+
+    
+event or school-related activity if the amounts paid or charged are passed through to a person:
+            
+729
+
+    
+    (A)  other than a:
+
+            
+730
+
+
+    
+    (I)  school;
+            
+731
+
+    
+    (II)  nonprofit organization authorized by a school board or a governing body of a
+            
+732
+
+    
+private school to organize and direct a competitive secondary school activity; or
+            
+733
+
+    
+    (III)  nonprofit association authorized by a school board or a governing body of a
+            
+734
+
+    
+private school to organize and direct a competitive secondary school activity; and
+            
+735
+
+    
+    (B)  that is required to collect sales and use taxes under this chapter.
+            
+736
+
+    
+    (c)  In accordance with Title 63, Chapter 46a, Utah Administrative Rulemaking Act, the
+            
+737
+
+    
+commission may make rules defining the term "passed through."
+            
+738
+
+    
+    (76)  For purposes of this section and Section 
+
+59-12-104
+
+, "school" means:
+            
+739
+
+    
+    (a)  an elementary school or a secondary school that:
+            
+740
+
+    
+    (i)  is a:
+            
+741
+
+    
+    (A)  public school; or
+            
+742
+
+    
+    (B)  private school; and
+            
+743
+
+    
+    (ii)  provides instruction for one or more grades kindergarten through 12; or
+            
+744
+
+    
+    (b)  a public school district.
+            
+745
+
+    
+    (77)  "Seller" means a person that makes a sale, lease, or rental of:
+            
+746
+
+    
+    (a)  tangible personal property; or
+            
+747
+
+    
+    (b)  a service.
+            
+748
+
+    
+    (78) (a)  "Semiconductor fabricating, [or] processing, research, or development
+            
+749
+
+    
+materials" means tangible personal property:
+            
+750
+
+    
+    (i)  used primarily in the process of:
+            
+751
+
+    
+    (A) (I)  manufacturing a semiconductor; [or]
+            
+752
+
+    
+    (II)  fabricating a semiconductor; or
+            
+753
+
+    
+    (III)  research or development of a:
+            
+754
+
+    
+    (Aa)  semiconductor; or
+            
+755
+
+    
+    (Bb)  semiconductor manufacturing process; or
+            
+756
+
+    
+    (B)  maintaining an environment suitable for a semiconductor; or
+            
+757
+
+    
+    (ii)  consumed primarily in the process of:
+
+            
+758
+
+
+    
+    (A) (I)  manufacturing a semiconductor; [or]
+            
+759
+
+    
+    (II)  fabricating a semiconductor; or
+            
+760
+
+    
+    (III)  research or development of a:
+            
+761
+
+    
+    (Aa)  semiconductor; or
+            
+762
+
+    
+    (Bb)  semiconductor manufacturing process; or
+            
+763
+
+    
+    (B)  maintaining an environment suitable for a semiconductor.
+            
+764
+
+    
+    (b)  "Semiconductor fabricating, [or] processing, research, or development materials"
+            
+765
+
+    
+includes:
+            
+766
+
+    
+    (i)  parts used in the repairs or renovations of tangible personal property described in
+            
+767
+
+    
+Subsection (78)(a); or
+            
+768
+
+    
+    (ii)  a chemical, catalyst, or other material used to:
+            
+769
+
+    
+    (A)  produce or induce in a semiconductor a:
+            
+770
+
+    
+    (I)  chemical change; or
+            
+771
+
+    
+    (II)  physical change;
+            
+772
+
+    
+    (B)  remove impurities from a semiconductor; or
+            
+773
+
+    
+    (C)  improve the marketable condition of a semiconductor.
+            
+774
+
+    
+    (79)  "Senior citizen center" means a facility having the primary purpose of providing
+            
+775
+
+    
+services to the aged as defined in Section 
+
+62A-3-101
+
+.
+            
+776
+
+    
+    (80)  "Simplified electronic return" means the electronic return:
+            
+777
+
+    
+    (a)  described in Section 318(C) of the agreement; and
+            
+778
+
+    
+    (b)  approved by the governing board of the agreement.
+            
+779
+
+    
+    (81)  "Solar energy" means the sun used as the sole source of energy for producing
+            
+780
+
+    
+electricity.
+            
+781
+
+    
+    (82) (a)  "Sports or recreational equipment" means an item:
+            
+782
+
+    
+    (i)  designed for human use; and
+            
+783
+
+    
+    (ii)  that is:
+            
+784
+
+    
+    (A)  worn in conjunction with:
+            
+785
+
+    
+    (I)  an athletic activity; or
+
+            
+786
+
+
+    
+    (II)  a recreational activity; and
+            
+787
+
+    
+    (B)  not suitable for general use.
+            
+788
+
+    
+    (b)  In accordance with Title 63, Chapter 46a, Utah Administrative Rulemaking Act, the
+            
+789
+
+    
+commission shall make rules:
+            
+790
+
+    
+    (i)  listing the items that constitute "sports or recreational equipment"; and
+            
+791
+
+    
+    (ii)  that are consistent with the list of items that constitute "sports or recreational
+            
+792
+
+    
+equipment" under the agreement.
+            
+793
+
+    
+    (83)  "State" means the state of Utah, its departments, and agencies.
+            
+794
+
+    
+    (84)  "Storage" means any keeping or retention of tangible personal property or any
+            
+795
+
+    
+other taxable transaction under Subsection 
+
+59-12-103
+
+(1), in this state for any purpose except
+            
+796
+
+    
+sale in the regular course of business.
+            
+797
+
+    
+    (85) (a)  "Tangible personal property" means personal property that:
+            
+798
+
+    
+    (i)  may be:
+            
+799
+
+    
+    (A)  seen;
+            
+800
+
+    
+    (B)  weighed;
+            
+801
+
+    
+    (C)  measured;
+            
+802
+
+    
+    (D)  felt; or
+            
+803
+
+    
+    (E)  touched; or
+            
+804
+
+    
+    (ii)  is in any manner perceptible to the senses.
+            
+805
+
+    
+    (b)  "Tangible personal property" includes:
+            
+806
+
+    
+    (i)  electricity;
+            
+807
+
+    
+    (ii)  water;
+            
+808
+
+    
+    (iii)  gas;
+            
+809
+
+    
+    (iv)  steam; or
+            
+810
+
+    
+    (v)  prewritten computer software.
+            
+811
+
+    
+    (86) (a) "Telephone service" means a two-way transmission:
+            
+812
+
+    
+    (i)  by:
+            
+813
+
+    
+    (A)  wire;
+
+            
+814
+
+
+    
+    (B)  radio;
+            
+815
+
+    
+    (C)  lightwave; or
+            
+816
+
+    
+    (D)  other electromagnetic means; and
+            
+817
+
+    
+    (ii)  of one or more of the following:
+            
+818
+
+    
+    (A)  a sign;
+            
+819
+
+    
+    (B)  a signal;
+            
+820
+
+    
+    (C)  writing;
+            
+821
+
+    
+    (D)  an image;
+            
+822
+
+    
+    (E)  sound;
+            
+823
+
+    
+    (F)  a message;
+            
+824
+
+    
+    (G)  data; or
+            
+825
+
+    
+    (H)  other information of any nature.
+            
+826
+
+    
+    (b)  "Telephone service" includes:
+            
+827
+
+    
+    (i)  mobile telecommunications service;
+            
+828
+
+    
+    (ii)  private communications service; or
+            
+829
+
+    
+    (iii)  automated digital telephone answering service.
+            
+830
+
+    
+    (c)  "Telephone service" does not include a service or a transaction that a state or a
+            
+831
+
+    
+political subdivision of a state is prohibited from taxing as of July 1, 2001, under the Internet
+            
+832
+
+    
+Tax Freedom Act, Pub. L. No. 105-277.
+            
+833
+
+    
+    (87)  Notwithstanding where a call is billed or paid, "telephone service address" means:
+            
+834
+
+    
+    (a)  if the location described in this Subsection (87)(a) is known, the location of the
+            
+835
+
+    
+telephone service equipment:
+            
+836
+
+    
+    (i)  to which a call is charged; and
+            
+837
+
+    
+    (ii)  from which the call originates or terminates;
+            
+838
+
+    
+    (b)  if the location described in Subsection (87)(a) is not known but the location
+            
+839
+
+    
+described in this Subsection (87)(b) is known, the location of the origination point of the signal
+            
+840
+
+    
+of the telephone service first identified by:
+            
+841
+
+    
+    (i)  the telecommunications system of the seller; or
+
+            
+842
+
+
+    
+    (ii)  if the system used to transport the signal is not that of the seller, information
+            
+843
+
+    
+received by the seller from its service provider; or
+            
+844
+
+    
+    (c)  if the locations described in Subsection (87)(a) or (b) are not known, the location of
+            
+845
+
+    
+a purchaser's primary place of use.
+            
+846
+
+    
+    (88) (a)  "Telephone service provider" means a person that:
+            
+847
+
+    
+    (i)  owns, controls, operates, or manages a telephone service; and
+            
+848
+
+    
+    (ii)  engages in an activity described in Subsection (88)(a)(i) for the shared use with or
+            
+849
+
+    
+resale to any person of the telephone service.
+            
+850
+
+    
+    (b)  A person described in Subsection (88)(a) is a telephone service provider whether or
+            
+851
+
+    
+not the Public Service Commission of Utah regulates:
+            
+852
+
+    
+    (i)  that person; or
+            
+853
+
+    
+    (ii)  the telephone service that the person owns, controls, operates, or manages.
+            
+854
+
+    
+    (89)  "Tobacco" means:
+            
+855
+
+    
+    (a)  a cigarette;
+            
+856
+
+    
+    (b)  a cigar;
+            
+857
+
+    
+    (c)  chewing tobacco;
+            
+858
+
+    
+    (d)  pipe tobacco; or
+            
+859
+
+    
+    (e)  any other item that contains tobacco.
+            
+860
+
+    
+    (90) (a)  "Use" means the exercise of any right or power over tangible personal property
+            
+861
+
+    
+under Subsection 
+
+59-12-103
+
+(1), incident to the ownership or the leasing of that property, item,
+            
+862
+
+    
+or service.
+            
+863
+
+    
+    (b)  "Use" does not include the sale, display, demonstration, or trial of that property in
+            
+864
+
+    
+the regular course of business and held for resale.
+            
+865
+
+    
+    (91) (a)  Subject to Subsection (91)(b), "vehicle" means the following that are required
+            
+866
+
+    
+to be titled, registered, or titled and registered:
+            
+867
+
+    
+    (i)  an aircraft as defined in Section 
+
+72-10-102
+
+;
+            
+868
+
+    
+    (ii)  a vehicle as defined in Section 
+
+41-1a-102
+
+;
+            
+869
+
+    
+    (iii)  an off-highway vehicle as defined in Section 
+
+41-22-2
+
+; or
+
+            
+870
+
+
+    
+    (iv)  a vessel as defined in Section 
+
+41-1a-102
+
+.
+            
+871
+
+    
+    (b)  For purposes of Subsection 
+
+59-12-104
+
+(35) only, "vehicle" includes:
+            
+872
+
+    
+    (i)  a vehicle described in Subsection (91)(a); or
+            
+873
+
+    
+    (ii) (A)  a locomotive;
+            
+874
+
+    
+    (B)  a freight car;
+            
+875
+
+    
+    (C)  railroad work equipment; or
+            
+876
+
+    
+    (D)  other railroad rolling stock.
+            
+877
+
+    
+    (92)  "Vehicle dealer" means a person engaged in the business of buying, selling, or
+            
+878
+
+    
+exchanging a vehicle as defined in Subsection (91).
+            
+879
+
+    
+    (93) (a)  Except as provided in Subsection (93)(b), "waste energy facility" means a
+            
+880
+
+    
+facility that generates electricity:
+            
+881
+
+    
+    (i)  using as the primary source of energy waste materials that would be placed in a
+            
+882
+
+    
+landfill or refuse pit if it were not used to generate electricity, including:
+            
+883
+
+    
+    (A)  tires;
+            
+884
+
+    
+    (B)  waste coal; or
+            
+885
+
+    
+    (C)  oil shale; and
+            
+886
+
+    
+    (ii)  in amounts greater than actually required for the operation of the facility.
+            
+887
+
+    
+    (b)  "Waste energy facility" does not include a facility that incinerates:
+            
+888
+
+    
+    (i)  municipal solid waste;
+            
+889
+
+    
+    (ii)  hospital waste as defined in 40 C.F.R. 60.51c; or
+            
+890
+
+    
+    (iii)  medical/infectious waste as defined in 40 C.F.R. 60.51c.
+            
+891
+
+    
+    (94)  "Watercraft" means a vessel as defined in Section 
+
+73-18-2
+
+.
+            
+892
+
+    
+    (95)  "Wind energy" means wind used as the sole source of energy to produce
+            
+893
+
+    
+electricity.
+            
+894
+
+    
+    (96)  "ZIP Code" means a Zoning Improvement Plan Code assigned to a geographic
+            
+895
+
+    
+location by the United States Postal Service.
+            
+896
+
+    
+    Section 2.  
+Section  
+59-12-104
+
+ is amended to read:
+            
+897
+
+    
+     59-12-104.  Exemptions.
+
+            
+898
+
+
+    
+    The following sales and uses are exempt from the taxes imposed by this chapter:
+            
+899
+
+    
+    (1)  sales of aviation fuel, motor fuel, and special fuel subject to a Utah state excise tax
+            
+900
+
+    
+under Chapter 13, Motor and Special Fuel Tax Act;
+            
+901
+
+    
+    (2)  sales to the state, its institutions, and its political subdivisions; however, this
+            
+902
+
+    
+exemption does not apply to sales of:
+            
+903
+
+    
+    (a)  construction materials except:
+            
+904
+
+    
+    (i)  construction materials purchased by or on behalf of institutions of the public
+            
+905
+
+    
+education system as defined in Utah Constitution Article X, Section 2, provided the
+            
+906
+
+    
+construction materials are clearly identified and segregated and installed or converted to real
+            
+907
+
+    
+property which is owned by institutions of the public education system; and
+            
+908
+
+    
+    (ii)  construction materials purchased by the state, its institutions, or its political
+            
+909
+
+    
+subdivisions which are installed or converted to real property by employees of the state, its
+            
+910
+
+    
+institutions, or its political subdivisions; or
+            
+911
+
+    
+    (b)  tangible personal property in connection with the construction, operation,
+            
+912
+
+    
+maintenance, repair, or replacement of a project, as defined in Section 
+
+11-13-103
+
+, or facilities
+            
+913
+
+    
+providing additional project capacity, as defined in Section 
+
+11-13-103
+
+;
+            
+914
+
+    
+    (3) (a)  sales of an item described in Subsection (3)(b) from a vending machine if:
+            
+915
+
+    
+    (i)  the proceeds of each sale do not exceed $1; and
+            
+916
+
+    
+    (ii)  the seller or operator of the vending machine reports an amount equal to 150% of
+            
+917
+
+    
+the cost of the item described in Subsection (3)(b) as goods consumed; and
+            
+918
+
+    
+    (b)  Subsection (3)(a) applies to:
+            
+919
+
+    
+    (i)  food and food ingredients; or
+            
+920
+
+    
+    (ii)  prepared food;
+            
+921
+
+    
+    (4)  sales of the following to a commercial airline carrier for in-flight consumption:
+            
+922
+
+    
+    (a)  food and food ingredients;
+            
+923
+
+    
+    (b)  prepared food; or
+            
+924
+
+    
+    (c)  services related to Subsection (4)(a) or (b);
+            
+925
+
+    
+    (5)  sales of parts and equipment for installation in aircraft operated by common carriers
+
+            
+926
+
+
+    
+in interstate or foreign commerce;
+            
+927
+
+    
+    (6)  sales of commercials, motion picture films, prerecorded audio program tapes or
+            
+928
+
+    
+records, and prerecorded video tapes by a producer, distributor, or studio to a motion picture
+            
+929
+
+    
+exhibitor, distributor, or commercial television or radio broadcaster;
+            
+930
+
+    
+    (7)  sales of cleaning or washing of tangible personal property by a coin-operated
+            
+931
+
+    
+laundry or dry cleaning machine;
+            
+932
+
+    
+    (8)  sales made to or by religious or charitable institutions in the conduct of their regular
+            
+933
+
+    
+religious or charitable functions and activities, if the requirements of Section 
+
+59-12-104.1
+
+ are
+            
+934
+
+    
+fulfilled;
+            
+935
+
+    
+    (9)  sales of vehicles of a type required to be registered under the motor vehicle laws of
+            
+936
+
+    
+this state which are made to bona fide nonresidents of this state and are not afterwards
+            
+937
+
+    
+registered or used in this state except as necessary to transport them to the borders of this state;
+            
+938
+
+    
+    (10) (a)  amounts paid for an item described in Subsection (10)(b) if:
+            
+939
+
+    
+    (i)  the item is intended for human use; and
+            
+940
+
+    
+    (ii) (A)  a prescription was issued for the item; or
+            
+941
+
+    
+    (B)  the item was purchased by a hospital or other medical facility; and
+            
+942
+
+    
+    (b) (i)  Subsection (10)(a) applies to:
+            
+943
+
+    
+    (A)  a drug;
+            
+944
+
+    
+    (B)  a syringe; or
+            
+945
+
+    
+    (C)  a stoma supply; and
+            
+946
+
+    
+    (ii)  in accordance with Title 63, Chapter 46a, Utah Administrative Rulemaking Act, the
+            
+947
+
+    
+commission may by rule define the terms:
+            
+948
+
+    
+    (A)  "syringe"; or
+            
+949
+
+    
+    (B)  "stoma supply";
+            
+950
+
+    
+    (11)  sales or use of property, materials, or services used in the construction of or
+            
+951
+
+    
+incorporated in pollution control facilities allowed by Sections 
+
+19-2-123
+
+ through 
+
+19-2-127
+
+;
+            
+952
+
+    
+    (12) (a)  sales of an item described in Subsection (12)(c) served by:
+            
+953
+
+    
+    (i)  the following if the item described in Subsection (12)(c) is not available to the
+
+            
+954
+
+
+    
+general public:
+            
+955
+
+    
+    (A)  a church; or
+            
+956
+
+    
+    (B)  a charitable institution;
+            
+957
+
+    
+    (ii)  an institution of higher education if:
+            
+958
+
+    
+    (A)  the item described in Subsection (12)(c) is not available to the general public; or
+            
+959
+
+    
+    (B)  the item described in Subsection (12)(c) is prepaid as part of a student meal plan
+            
+960
+
+    
+offered by the institution of higher education; or
+            
+961
+
+    
+    (b)  sales of an item described in Subsection (12)(c) provided for a patient by:
+            
+962
+
+    
+    (i)  a medical facility; or
+            
+963
+
+    
+    (ii)  a nursing facility; and
+            
+964
+
+    
+    (c)  Subsections (12)(a) and (b) apply to:
+            
+965
+
+    
+    (i)  food and food ingredients;
+            
+966
+
+    
+    (ii)  prepared food; or
+            
+967
+
+    
+    (iii)  alcoholic beverages;
+            
+968
+
+    
+    (13)  isolated or occasional sales by persons not regularly engaged in business, except
+            
+969
+
+    
+the sale of vehicles or vessels required to be titled or registered under the laws of this state in
+            
+970
+
+    
+which case the tax is based upon:
+            
+971
+
+    
+    (a)  the bill of sale or other written evidence of value of the vehicle or vessel being sold;
+            
+972
+
+    
+or
+            
+973
+
+    
+    (b)  in the absence of a bill of sale or other written evidence of value, the then existing
+            
+974
+
+    
+fair market value of the vehicle or vessel being sold as determined by the commission;
+            
+975
+
+    
+    (14) (a)  the following purchases or leases by a manufacturer on or after July 1, 1995:
+            
+976
+
+    
+    (i)  machinery and equipment:
+            
+977
+
+    
+    (A)  used in the manufacturing process;
+            
+978
+
+    
+    (B)  having an economic life of three or more years; and
+            
+979
+
+    
+    (C)  used:
+            
+980
+
+    
+    (I)  to manufacture an item sold as tangible personal property; and
+            
+981
+
+    
+    (II)  in new or expanding operations in a manufacturing facility in the state; and
+
+            
+982
+
+
+    
+    (ii)  subject to the provisions of Subsection (14)(b), normal operating replacements that:
+            
+983
+
+    
+    (A)  have an economic life of three or more years;
+            
+984
+
+    
+    (B)  are used in the manufacturing process in a manufacturing facility in the state;
+            
+985
+
+    
+    (C)  are used to replace or adapt an existing machine to extend the normal estimated
+            
+986
+
+    
+useful life of the machine; and
+            
+987
+
+    
+    (D)  do not include repairs and maintenance;
+            
+988
+
+    
+    (b)  the rates for the exemption under Subsection (14)(a)(ii) are as follows:
+            
+989
+
+    
+    (i)  beginning July 1, 1996, through June 30, 1997, 30% of the sale or lease described in
+            
+990
+
+    
+Subsection (14)(a)(ii) is exempt;
+            
+991
+
+    
+    (ii)  beginning July 1, 1997, through June 30, 1998, 60% of the sale or lease described
+            
+992
+
+    
+in Subsection (14)(a)(ii) is exempt; and
+            
+993
+
+    
+    (iii)  beginning July 1, 1998, 100% of the sale or lease described in Subsection
+            
+994
+
+    
+(14)(a)(ii) is exempt;
+            
+995
+
+    
+    (c)  for purposes of this Subsection (14), the commission shall by rule define the terms
+            
+996
+
+    
+"new or expanding operations" and "establishment"; and
+            
+997
+
+    
+    (d)  on or before October 1, 1991, and every five years after October 1, 1991, the
+            
+998
+
+    
+commission shall:
+            
+999
+
+    
+    (i)  review the exemptions described in Subsection (14)(a) and make recommendations
+            
+1000
+
+    
+to the Revenue and Taxation Interim Committee concerning whether the exemptions should be
+            
+1001
+
+    
+continued, modified, or repealed; and
+            
+1002
+
+    
+    (ii)  include in its report:
+            
+1003
+
+    
+    (A)  the cost of the exemptions;
+            
+1004
+
+    
+    (B)  the purpose and effectiveness of the exemptions; and
+            
+1005
+
+    
+    (C)  the benefits of the exemptions to the state;
+            
+1006
+
+    
+    (15) (a)  sales of the following if the requirements of Subsection (15)(b) are met:
+            
+1007
+
+    
+    (i)  tooling;
+            
+1008
+
+    
+    (ii)  special tooling;
+            
+1009
+
+    
+    (iii)  support equipment;
+
+            
+1010
+
+
+    
+    (iv)  special test equipment; or
+            
+1011
+
+    
+    (v)  parts used in the repairs or renovations of tooling or equipment described in
+            
+1012
+
+    
+Subsections (15)(a)(i) through (iv); and
+            
+1013
+
+    
+    (b)  sales of tooling, equipment, or parts described in Subsection (15)(a) are exempt if:
+            
+1014
+
+    
+    (i)  the tooling, equipment, or parts are used or consumed exclusively in the
+            
+1015
+
+    
+performance of any aerospace or electronics industry contract with the United States
+            
+1016
+
+    
+government or any subcontract under that contract; and
+            
+1017
+
+    
+    (ii)  under the terms of the contract or subcontract described in Subsection (15)(b)(i),
+            
+1018
+
+    
+title to the tooling, equipment, or parts is vested in the United States government as evidenced
+            
+1019
+
+    
+by:
+            
+1020
+
+    
+    (A)  a government identification tag placed on the tooling, equipment, or parts; or
+            
+1021
+
+    
+    (B)  listing on a government-approved property record if placing a government
+            
+1022
+
+    
+identification tag on the tooling, equipment, or parts is impractical;
+            
+1023
+
+    
+    (16)  intrastate movements of:
+            
+1024
+
+    
+    (a)  freight by common carriers; or
+            
+1025
+
+    
+    (b)  passengers:
+            
+1026
+
+    
+    (i)  by taxicabs as described in SIC Code 4121 of the 1987 Standard Industrial
+            
+1027
+
+    
+Classification Manual of the federal Executive Office of the President, Office of Management
+            
+1028
+
+    
+and Budget;
+            
+1029
+
+    
+    (ii)  transported by an establishment described in SIC Code 4111 of the 1987 Standard
+            
+1030
+
+    
+Industrial Classification Manual of the federal Executive Office of the President, Office of
+            
+1031
+
+    
+Management and Budget, if the transportation originates and terminates within a county of the
+            
+1032
+
+    
+first, second, or third class; or
+            
+1033
+
+    
+    (iii)  transported by the following described in SIC Code 4789 of the 1987 Standard
+            
+1034
+
+    
+Industrial Classification Manual of the federal Executive Office of the President, Office of
+            
+1035
+
+    
+Management and Budget:
+            
+1036
+
+    
+    (A)  a horse-drawn cab; or
+            
+1037
+
+    
+    (B)  a horse-drawn carriage;
+
+            
+1038
+
+
+    
+    (17)  sales of newspapers or newspaper subscriptions;
+            
+1039
+
+    
+    (18) (a)  except as provided in Subsection (18)(b), tangible personal property traded in
+            
+1040
+
+    
+as full or part payment of the purchase price, except that for purposes of calculating sales or use
+            
+1041
+
+    
+tax upon vehicles not sold by a vehicle dealer, trade-ins are limited to other vehicles only, and
+            
+1042
+
+    
+the tax is based upon:
+            
+1043
+
+    
+    (i)  the bill of sale or other written evidence of value of the vehicle being sold and the
+            
+1044
+
+    
+vehicle being traded in; or
+            
+1045
+
+    
+    (ii)  in the absence of a bill of sale or other written evidence of value, the then existing
+            
+1046
+
+    
+fair market value of the vehicle being sold and the vehicle being traded in, as determined by the
+            
+1047
+
+    
+commission; and
+            
+1048
+
+    
+    (b)  notwithstanding Subsection (18)(a), Subsection (18)(a) does not apply to the
+            
+1049
+
+    
+following items of tangible personal property traded in as full or part payment of the purchase
+            
+1050
+
+    
+price:
+            
+1051
+
+    
+    (i)  money;
+            
+1052
+
+    
+    (ii)  electricity;
+            
+1053
+
+    
+    (iii)  water;
+            
+1054
+
+    
+    (iv)  gas; or
+            
+1055
+
+    
+    (v)  steam;
+            
+1056
+
+    
+    (19) (a) (i)  except as provided in Subsection (19)(b), sales of tangible personal property
+            
+1057
+
+    
+used or consumed primarily and directly in farming operations, regardless of whether the
+            
+1058
+
+    
+tangible personal property:
+            
+1059
+
+    
+    (A)  becomes part of real estate; or
+            
+1060
+
+    
+    (B)  is installed by a:
+            
+1061
+
+    
+    (I)  farmer;
+            
+1062
+
+    
+    (II)  contractor; or
+            
+1063
+
+    
+    (III)  subcontractor; or
+            
+1064
+
+    
+    (ii)  sales of parts used in the repairs or renovations of tangible personal property if the
+            
+1065
+
+    
+tangible personal property is exempt under Subsection (19)(a)(i); and
+
+            
+1066
+
+
+    
+    (b)  notwithstanding Subsection (19)(a), amounts paid or charged for the following
+            
+1067
+
+    
+tangible personal property are subject to the taxes imposed by this chapter:
+            
+1068
+
+    
+    (i) (A)  subject to Subsection (19)(b)(i)(B), the following tangible personal property if
+            
+1069
+
+    
+the tangible personal property is used in a manner that is incidental to farming:
+            
+1070
+
+    
+    (I)  machinery;
+            
+1071
+
+    
+    (II)  equipment;
+            
+1072
+
+    
+    (III)  materials; or
+            
+1073
+
+    
+    (IV)  supplies; and
+            
+1074
+
+    
+    (B)  tangible personal property that is considered to be used in a manner that is
+            
+1075
+
+    
+incidental to farming includes:
+            
+1076
+
+    
+    (I)  hand tools; or
+            
+1077
+
+    
+    (II)  maintenance and janitorial equipment and supplies;
+            
+1078
+
+    
+    (ii) (A)  subject to Subsection (19)(b)(ii)(B), tangible personal property if the tangible
+            
+1079
+
+    
+personal property is used in an activity other than farming; and
+            
+1080
+
+    
+    (B)  tangible personal property that is considered to be used in an activity other than
+            
+1081
+
+    
+farming includes:
+            
+1082
+
+    
+    (I)  office equipment and supplies; or
+            
+1083
+
+    
+    (II)  equipment and supplies used in:
+            
+1084
+
+    
+    (Aa)  the sale or distribution of farm products;
+            
+1085
+
+    
+    (Bb)  research; or
+            
+1086
+
+    
+    (Cc)  transportation; or
+            
+1087
+
+    
+    (iii) a vehicle required to be registered by the laws of this state during the period ending
+            
+1088
+
+    
+two years after the date of the vehicle's purchase;
+            
+1089
+
+    
+    (20)  sales of hay;
+            
+1090
+
+    
+    (21)  exclusive sale of locally grown seasonal crops, seedling plants, or garden, farm, or
+            
+1091
+
+    
+other agricultural produce if sold by a producer during the harvest season;
+            
+1092
+
+    
+    (22)  purchases made using a coupon as defined in 7 U.S.C. Sec. 2012 that is issued
+            
+1093
+
+    
+under the Food Stamp Program, 7 U.S.C. Sec. 2011 et seq.;
+
+            
+1094
+
+
+    
+    (23)  sales of nonreturnable containers, nonreturnable labels, nonreturnable bags,
+            
+1095
+
+    
+nonreturnable shipping cases, and nonreturnable casings to a manufacturer, processor,
+            
+1096
+
+    
+wholesaler, or retailer for use in packaging tangible personal property to be sold by that
+            
+1097
+
+    
+manufacturer, processor, wholesaler, or retailer;
+            
+1098
+
+    
+    (24)  property stored in the state for resale;
+            
+1099
+
+    
+    (25)  property brought into the state by a nonresident for his or her own personal use or
+            
+1100
+
+    
+enjoyment while within the state, except property purchased for use in Utah by a nonresident
+            
+1101
+
+    
+living and working in Utah at the time of purchase;
+            
+1102
+
+    
+    (26)  property purchased for resale in this state, in the regular course of business, either
+            
+1103
+
+    
+in its original form or as an ingredient or component part of a manufactured or compounded
+            
+1104
+
+    
+product;
+            
+1105
+
+    
+    (27)  property upon which a sales or use tax was paid to some other state, or one of its
+            
+1106
+
+    
+subdivisions, except that the state shall be paid any difference between the tax paid and the tax
+            
+1107
+
+    
+imposed by this part and Part 2, Local Sales and Use Tax Act, and no adjustment is allowed if
+            
+1108
+
+    
+the tax paid was greater than the tax imposed by this part and Part 2, Local Sales and Use Tax
+            
+1109
+
+    
+Act;
+            
+1110
+
+    
+    (28)  any sale of a service described in Subsections 
+
+59-12-103
+
+(1)(b), (c), and (d) to a
+            
+1111
+
+    
+person for use in compounding a service taxable under the subsections;
+            
+1112
+
+    
+    (29)  purchases made in accordance with the special supplemental nutrition program for
+            
+1113
+
+    
+women, infants, and children established in 42 U.S.C. Sec. 1786;
+            
+1114
+
+    
+    (30)  beginning on July 1, 1999, through June 30, 2014, sales or leases of rolls, rollers,
+            
+1115
+
+    
+refractory brick, electric motors, or other replacement parts used in the furnaces, mills, or ovens
+            
+1116
+
+    
+of a steel mill described in SIC Code 3312 of the 1987 Standard Industrial Classification
+            
+1117
+
+    
+Manual of the federal Executive Office of the President, Office of Management and Budget;
+            
+1118
+
+    
+    (31)  sales of boats of a type required to be registered under Title 73, Chapter 18, State
+            
+1119
+
+    
+Boating Act, boat trailers, and outboard motors which are made to bona fide nonresidents of
+            
+1120
+
+    
+this state and are not thereafter registered or used in this state except as necessary to transport
+            
+1121
+
+    
+them to the borders of this state;
+
+            
+1122
+
+
+    
+    (32)  sales of aircraft manufactured in Utah if sold for delivery and use outside Utah
+            
+1123
+
+    
+where a sales or use tax is not imposed, even if the title is passed in Utah;
+            
+1124
+
+    
+    (33)  amounts paid for the purchase of telephone service for purposes of providing
+            
+1125
+
+    
+telephone service;
+            
+1126
+
+    
+    (34)  fares charged to persons transported directly by a public transit district created
+            
+1127
+
+    
+under the authority of Title 17A, Chapter 2, Part 10, Utah Public Transit District Act;
+            
+1128
+
+    
+    (35)  sales or leases of vehicles to, or use of vehicles by an authorized carrier;
+            
+1129
+
+    
+    (36) (a)  45% of the sales price of any new manufactured home; and
+            
+1130
+
+    
+    (b)  100% of the sales price of any used manufactured home;
+            
+1131
+
+    
+    (37)  sales relating to schools and fundraising sales;
+            
+1132
+
+    
+    (38)  sales or rentals of durable medical equipment if:
+            
+1133
+
+    
+    (a)  a person presents a prescription for the durable medical equipment; and
+            
+1134
+
+    
+    (b)  the durable medical equipment is used for home use only;
+            
+1135
+
+    
+    (39) (a)  sales to a ski resort of electricity to operate a passenger ropeway as defined in
+            
+1136
+
+    
+Section 
+
+72-11-102
+
+; and
+            
+1137
+
+    
+    (b)  the commission shall by rule determine the method for calculating sales exempt
+            
+1138
+
+    
+under Subsection (39)(a) that are not separately metered and accounted for in utility billings;
+            
+1139
+
+    
+    (40)  sales to a ski resort of:
+            
+1140
+
+    
+    (a)  snowmaking equipment;
+            
+1141
+
+    
+    (b)  ski slope grooming equipment;
+            
+1142
+
+    
+    (c)  passenger ropeways as defined in Section 
+
+72-11-102
+
+; or
+            
+1143
+
+    
+    (d)  parts used in the repairs or renovations of equipment or passenger ropeways
+            
+1144
+
+    
+described in Subsections (40)(a) through (c);
+            
+1145
+
+    
+    (41)  sales of natural gas, electricity, heat, coal, fuel oil, or other fuels for industrial use;
+            
+1146
+
+    
+    (42)  sales or rentals of the right to use or operate for amusement, entertainment, or
+            
+1147
+
+    
+recreation a coin-operated amusement device as defined in Section 
+
+59-12-102
+
+;
+            
+1148
+
+    
+    (43)  sales of cleaning or washing of tangible personal property by a coin-operated car
+            
+1149
+
+    
+wash machine;
+
+            
+1150
+
+
+    
+    (44)  sales by the state or a political subdivision of the state, except state institutions of
+            
+1151
+
+    
+higher education as defined in Section 
+
+53B-3-102
+
+, of:
+            
+1152
+
+    
+    (a)  photocopies; or
+            
+1153
+
+    
+    (b)  other copies of records held or maintained by the state or a political subdivision of
+            
+1154
+
+    
+the state;
+            
+1155
+
+    
+    (45) (a)  amounts paid:
+            
+1156
+
+    
+    (i)  to a person providing intrastate transportation to an employer's employee to or from
+            
+1157
+
+    
+the employee's primary place of employment;
+            
+1158
+
+    
+    (ii)  by an:
+            
+1159
+
+    
+    (A)  employee; or
+            
+1160
+
+    
+    (B)  employer; and
+            
+1161
+
+    
+    (iii)  pursuant to a written contract between:
+            
+1162
+
+    
+    (A)  the employer; and
+            
+1163
+
+    
+    (B) (I)  the employee; or
+            
+1164
+
+    
+    (II)  a person providing transportation to the employer's employee; and
+            
+1165
+
+    
+    (b)  in accordance with Title 63, Chapter 46a, Utah Administrative Rulemaking Act, the
+            
+1166
+
+    
+commission may for purposes of Subsection (45)(a) make rules defining what constitutes an
+            
+1167
+
+    
+employee's primary place of employment;
+            
+1168
+
+    
+    (46)  amounts paid for admission to an athletic event at an institution of higher
+            
+1169
+
+    
+education that is subject to the provisions of Title IX of the Education Amendments of 1972,
+            
+1170
+
+    
+20 U.S.C. Sec. 1681 et seq.;
+            
+1171
+
+    
+    (47)  sales of telephone service charged to a prepaid telephone calling card;
+            
+1172
+
+    
+    (48) (a)  sales of:
+            
+1173
+
+    
+    (i)  hearing aids;
+            
+1174
+
+    
+    (ii)  hearing aid accessories; or
+            
+1175
+
+    
+    (iii)  except as provided in Subsection (48)(b), parts used in the repairs or renovations
+            
+1176
+
+    
+of hearing aids or hearing aid accessories; and
+            
+1177
+
+    
+    (b)  for purposes of this Subsection (48), notwithstanding Subsection (48)(a)(iii),
+
+            
+1178
+
+
+    
+"parts" does not include batteries;
+            
+1179
+
+    
+    (49) (a)  sales made to or by:
+            
+1180
+
+    
+    (i)  an area agency on aging; or
+            
+1181
+
+    
+    (ii)  a senior citizen center owned by a county, city, or town; or
+            
+1182
+
+    
+    (b)  sales made by a senior citizen center that contracts with an area agency on aging;
+            
+1183
+
+    
+    (50) [(a)  beginning on July 1, 2001, through June 30, 2007, and subject to Subsection
+            
+1184
+
+    
+(50)(b), a sale or lease] sales or leases of semiconductor fabricating, [or] processing, research,
+            
+1185
+
+    
+or development materials regardless of whether the semiconductor fabricating, [or] processing,
+            
+1186
+
+    
+research, or development materials:
+            
+1187
+
+    
+    [(i)] (a)  actually come into contact with a semiconductor; or
+            
+1188
+
+    
+    [(ii)] (b)  ultimately become incorporated into real property;
+            
+1189
+
+    
+    [(b) (i)  beginning on July 1, 2001, through June 30, 2002, 10% of the sale or lease
+            
+1190
+
+    
+described in Subsection (50)(a) is exempt;]
+            
+1191
+
+    
+    [(ii)  beginning on July 1, 2002, through June 30, 2003, 50% of the sale or lease
+            
+1192
+
+    
+described in Subsection (50)(a) is exempt; and]
+            
+1193
+
+    
+    [(iii)  beginning on July 1, 2003, through June 30, 2007, the entire amount of the sale or
+            
+1194
+
+    
+lease described in Subsection (50)(a) is exempt; and]
+            
+1195
+
+    
+    [(c)  each year on or before the November interim meeting, the Revenue and Taxation
+            
+1196
+
+    
+Interim Committee shall:]
+            
+1197
+
+    
+    [(i)  review the exemption described in this Subsection (50) and make
+            
+1198
+
+    
+recommendations concerning whether the exemption should be continued, modified, or
+            
+1199
+
+    
+repealed; and]
+            
+1200
+
+    
+    [(ii)  include in the review under this Subsection (50)(c):]
+            
+1201
+
+    
+    [(A)  the cost of the exemption;]
+            
+1202
+
+    
+    [(B)  the purpose and effectiveness of the exemption; and]
+            
+1203
+
+    
+    [(C)  the benefits of the exemption to the state;]
+            
+1204
+
+    
+    (51)  an amount paid by or charged to a purchaser for accommodations and services
+            
+1205
+
+    
+described in Subsection 
+
+59-12-103
+
+(1)(i) to the extent the amount is exempt under Section
+
+            
+1206
+
+
+    
+
+59-12-104.2
+
+;
+            
+1207
+
+    
+    (52)  beginning on September 1, 2001, the lease or use of a vehicle issued a temporary
+            
+1208
+
+    
+sports event registration certificate in accordance with Section 
+
+41-3-306
+
+ for the event period
+            
+1209
+
+    
+specified on the temporary sports event registration certificate;
+            
+1210
+
+    
+    (53)  sales or uses of electricity, if the sales or uses are:
+            
+1211
+
+    
+    (a)  made under a tariff adopted by the Public Service Commission of Utah only for
+            
+1212
+
+    
+purchase of electricity produced from a new wind, geothermal, biomass, or solar power energy
+            
+1213
+
+    
+source, as designated in the tariff by the Public Service Commission of Utah; and
+            
+1214
+
+    
+    (b)  for an amount of electricity that is:
+            
+1215
+
+    
+    (i)  unrelated to the amount of electricity used by the person purchasing the electricity
+            
+1216
+
+    
+under the tariff described in Subsection (53)(a); and
+            
+1217
+
+    
+    (ii)  equivalent to the number of kilowatthours specified in the tariff described in
+            
+1218
+
+    
+Subsection (53)(a) that may be purchased under the tariff described in Subsection (53)(a);
+            
+1219
+
+    
+    (54)  sales or rentals of mobility enhancing equipment if a person presents a
+            
+1220
+
+    
+prescription for the mobility enhancing equipment;
+            
+1221
+
+    
+    (55)  sales of water in a:
+            
+1222
+
+    
+    (a)  pipe;
+            
+1223
+
+    
+    (b)  conduit;
+            
+1224
+
+    
+    (c)  ditch; or
+            
+1225
+
+    
+    (d)  reservoir;
+            
+1226
+
+    
+    (56)  sales of currency or coinage that constitute legal tender of the United States or of a
+            
+1227
+
+    
+foreign nation;
+            
+1228
+
+    
+    (57) (a)  sales of an item described in Subsection (57)(b) if the item:
+            
+1229
+
+    
+    (i)  does not constitute legal tender of any nation; and
+            
+1230
+
+    
+    (ii)  has a gold, silver, or platinum content of 80% or more; and
+            
+1231
+
+    
+    (b)  Subsection (57)(a) applies to a gold, silver, or platinum:
+            
+1232
+
+    
+    (i)  ingot;
+            
+1233
+
+    
+    (ii)  bar;
+
+            
+1234
+
+
+    
+    (iii)  medallion; or
+            
+1235
+
+    
+    (iv)  decorative coin;
+            
+1236
+
+    
+    (58)  amounts paid on a sale-leaseback transaction;
+            
+1237
+
+    
+    (59)  sales of a prosthetic device:
+            
+1238
+
+    
+    (a)  for use on or in a human;
+            
+1239
+
+    
+    (b)  for which a prescription is issued; and
+            
+1240
+
+    
+    (c)  to a person that presents a prescription for the prosthetic device;
+            
+1241
+
+    
+    (60) (a)  except as provided in Subsection (60)(b), purchases, leases, or rentals of
+            
+1242
+
+    
+machinery or equipment by an establishment described in Subsection (60)(c) if the machinery
+            
+1243
+
+    
+or equipment is primarily used in the production or postproduction of the following media for
+            
+1244
+
+    
+commercial distribution:
+            
+1245
+
+    
+    (i)  a motion picture;
+            
+1246
+
+    
+    (ii)  a television program;
+            
+1247
+
+    
+    (iii)  a movie made for television;
+            
+1248
+
+    
+    (iv)  a music video;
+            
+1249
+
+    
+    (v)  a commercial;
+            
+1250
+
+    
+    (vi)  a documentary; or
+            
+1251
+
+    
+    (vii)  a medium similar to Subsections (60)(a)(i) through (vi) as determined by the
+            
+1252
+
+    
+commission by administrative rule made in accordance with Subsection (60)(d); or
+            
+1253
+
+    
+    (b)  notwithstanding Subsection (60)(a), purchases, leases, or rentals of machinery or
+            
+1254
+
+    
+equipment by an establishment described in Subsection (60)(c) that is used for the production
+            
+1255
+
+    
+or postproduction of the following are subject to the taxes imposed by this chapter:
+            
+1256
+
+    
+    (i)  a live musical performance;
+            
+1257
+
+    
+    (ii)  a live news program; or
+            
+1258
+
+    
+    (iii)  a live sporting event;
+            
+1259
+
+    
+    (c)  the following establishments listed in the 1997 North American Industry
+            
+1260
+
+    
+Classification System of the federal Executive Office of the President, Office of Management
+            
+1261
+
+    
+and Budget, apply to Subsections (60)(a) and (b):
+
+            
+1262
+
+
+    
+    (i)  NAICS Code 512110; or
+            
+1263
+
+    
+    (ii)  NAICS Code 51219; and
+            
+1264
+
+    
+    (d)  in accordance with Title 63, Chapter 46a, Utah Administrative Rulemaking Act, the
+            
+1265
+
+    
+commission may by rule:
+            
+1266
+
+    
+    (i)  prescribe what constitutes a medium similar to Subsections (60)(a)(i) through (vi);
+            
+1267
+
+    
+or
+            
+1268
+
+    
+    (ii)  define:
+            
+1269
+
+    
+    (A)  "commercial distribution";
+            
+1270
+
+    
+    (B)  "live musical performance";
+            
+1271
+
+    
+    (C)  "live news program"; or
+            
+1272
+
+    
+    (D)  "live sporting event";
+            
+1273
+
+    
+    (61) (a)  leases of seven or more years or purchases made on or after July 1, 2004 but on
+            
+1274
+
+    
+or before June 30, 2009, of machinery or equipment that:
+            
+1275
+
+    
+    (i)  is leased or purchased for or by a facility that:
+            
+1276
+
+    
+    (A)  is a renewable energy production facility;
+            
+1277
+
+    
+    (B)  is located in the state; and
+            
+1278
+
+    
+    (C) (I)  becomes operational on or after July 1, 2004; or
+            
+1279
+
+    
+    (II)  has its generation capacity increased by one or more megawatts on or after July 1,
+            
+1280
+
+    
+2004 as a result of the use of the machinery or equipment;
+            
+1281
+
+    
+    (ii)  has an economic life of five or more years; and
+            
+1282
+
+    
+    (iii)  is used to make the facility or the increase in capacity of the facility described in
+            
+1283
+
+    
+Subsection (61)(a)(i) operational up to the point of interconnection with an existing
+            
+1284
+
+    
+transmission grid including:
+            
+1285
+
+    
+    (A)  a wind turbine;
+            
+1286
+
+    
+    (B)  generating equipment;
+            
+1287
+
+    
+    (C)  a control and monitoring system;
+            
+1288
+
+    
+    (D)  a power line;
+            
+1289
+
+    
+    (E)  substation equipment;
+
+            
+1290
+
+
+    
+    (F)  lighting;
+            
+1291
+
+    
+    (G)  fencing;
+            
+1292
+
+    
+    (H)  pipes; or
+            
+1293
+
+    
+    (I)  other equipment used for locating a power line or pole; and
+            
+1294
+
+    
+    (b)  this Subsection (61) does not apply to:
+            
+1295
+
+    
+    (i)  machinery or equipment used in construction of:
+            
+1296
+
+    
+    (A)  a new renewable energy production facility; or
+            
+1297
+
+    
+    (B)  the increase in the capacity of a renewable energy production facility;
+            
+1298
+
+    
+    (ii)  contracted services required for construction and routine maintenance activities;
+            
+1299
+
+    
+and
+            
+1300
+
+    
+    (iii)  unless the machinery or equipment is used or acquired for an increase in capacity
+            
+1301
+
+    
+of the facility described in Subsection (61)(a)(i)(C)(II), machinery or equipment used or
+            
+1302
+
+    
+acquired after:
+            
+1303
+
+    
+    (A)  the renewable energy production facility described in Subsection (61)(a)(i) is
+            
+1304
+
+    
+operational as described in Subsection (61)(a)(iii); or
+            
+1305
+
+    
+    (B)  the increased capacity described in Subsection (61)(a)(i) is operational as described
+            
+1306
+
+    
+in Subsection (61)(a)(iii);
+            
+1307
+
+    
+    (62) (a)  leases of seven or more years or purchases made on or after July 1, 2004 but on
+            
+1308
+
+    
+or before June 30, 2009, of machinery or equipment that:
+            
+1309
+
+    
+    (i)  is leased or purchased for or by a facility that:
+            
+1310
+
+    
+    (A)  is a waste energy production facility;
+            
+1311
+
+    
+    (B)  is located in the state; and
+            
+1312
+
+    
+    (C) (I)  becomes operational on or after July 1, 2004; or
+            
+1313
+
+    
+    (II)  has its generation capacity increased by one or more megawatts on or after July 1,
+            
+1314
+
+    
+2004 as a result of the use of the machinery or equipment;
+            
+1315
+
+    
+    (ii)  has an economic life of five or more years; and
+            
+1316
+
+    
+    (iii)  is used to make the facility or the increase in capacity of the facility described in
+            
+1317
+
+    
+Subsection (62)(a)(i) operational up to the point of interconnection with an existing
+
+            
+1318
+
+
+    
+transmission grid including:
+            
+1319
+
+    
+    (A)  generating equipment;
+            
+1320
+
+    
+    (B)  a control and monitoring system;
+            
+1321
+
+    
+    (C)  a power line;
+            
+1322
+
+    
+    (D)  substation equipment;
+            
+1323
+
+    
+    (E)  lighting;
+            
+1324
+
+    
+    (F)  fencing;
+            
+1325
+
+    
+    (G)  pipes; or
+            
+1326
+
+    
+    (H)  other equipment used for locating a power line or pole; and
+            
+1327
+
+    
+    (b)  this Subsection (62) does not apply to:
+            
+1328
+
+    
+    (i)  machinery or equipment used in construction of:
+            
+1329
+
+    
+    (A)  a new waste energy facility; or
+            
+1330
+
+    
+    (B)  the increase in the capacity of a waste energy facility;
+            
+1331
+
+    
+    (ii)  contracted services required for construction and routine maintenance activities;
+            
+1332
+
+    
+and
+            
+1333
+
+    
+    (iii)  unless the machinery or equipment is used or acquired for an increase in capacity
+            
+1334
+
+    
+described in Subsection (62)(a)(i)(C)(II), machinery or equipment used or acquired after:
+            
+1335
+
+    
+    (A)   the waste energy facility described in Subsection (62)(a)(i) is operational as
+            
+1336
+
+    
+described in Subsection (62)(a)(iii); or
+            
+1337
+
+    
+    (B)  the increased capacity described in Subsection (62)(a)(i) is operational as described
+            
+1338
+
+    
+in Subsection (62)(a)(iii);
+            
+1339
+
+    
+    (63) (a)  leases of five or more years or purchases made on or after July 1, 2004 but on
+            
+1340
+
+    
+or before June 30, 2009, of machinery or equipment that:
+            
+1341
+
+    
+    (i)  is leased or purchased for or by a facility that:
+            
+1342
+
+    
+    (A)  is located in the state;
+            
+1343
+
+    
+    (B)  produces fuel from biomass energy including:
+            
+1344
+
+    
+    (I)  methanol; or
+            
+1345
+
+    
+    (II)  ethanol; and
+
+            
+1346
+
+
+    
+    (C) (I)  becomes operational on or after July 1, 2004; or
+            
+1347
+
+    
+    (II)  has its capacity to produce fuel increase by 25% or more on or after July 1, 2004 as
+            
+1348
+
+    
+a result of the installation of the machinery or equipment;
+            
+1349
+
+    
+    (ii)  has an economic life of five or more years; and
+            
+1350
+
+    
+    (iii)  is installed on the facility described in Subsection (63)(a)(i);
+            
+1351
+
+    
+    (b)  this Subsection (63) does not apply to:
+            
+1352
+
+    
+    (i)  machinery or equipment used in construction of:
+            
+1353
+
+    
+    (A)  a new facility described in Subsection (63)(a)(i); or
+            
+1354
+
+    
+    (B)  the increase in capacity of the facility described in Subsection (63)(a)(i); or
+            
+1355
+
+    
+    (ii)  contracted services required for construction and routine maintenance activities;
+            
+1356
+
+    
+and
+            
+1357
+
+    
+    (iii)  unless the machinery or equipment is used or acquired for an increase in capacity
+            
+1358
+
+    
+described in Subsection (63)(a)(i)(C)(II), machinery or equipment used or acquired after:
+            
+1359
+
+    
+    (A)  the facility described in Subsection (63)(a)(i) is operational; or
+            
+1360
+
+    
+    (B)  the increased capacity described in Subsection (63)(a)(i) is operational;
+            
+1361
+
+    
+    (64)  amounts paid to a purchaser as a rebate from the manufacturer of a new vehicle
+            
+1362
+
+    
+for purchasing the new vehicle;
+            
+1363
+
+    
+    (65) (a)  subject to Subsection (65)(b), sales of tangible personal property to persons
+            
+1364
+
+    
+within this state that is subsequently shipped outside the state and incorporated pursuant to
+            
+1365
+
+    
+contract into and becomes a part of real property located outside of this state, except to the
+            
+1366
+
+    
+extent that the other state or political entity imposes a sales, use, gross receipts, or other similar
+            
+1367
+
+    
+transaction excise tax on it against which the other state or political entity allows a credit for
+            
+1368
+
+    
+taxes imposed by this chapter; and
+            
+1369
+
+    
+    (b)  the exemption provided for in Subsection (65)(a):
+            
+1370
+
+    
+    (i)  is allowed only if the exemption is applied:
+            
+1371
+
+    
+    (A)  in calculating the purchase price of the tangible personal property; and
+            
+1372
+
+    
+    (B)  to a written contract that is in effect on July 1, 2004; and
+            
+1373
+
+    
+    (ii) (A)  does not apply beginning on the day on which the contract described in
+
+            
+1374
+
+
+    
+Subsection (65)(b)(i):
+            
+1375
+
+    
+    (I)  is substantially modified; or
+            
+1376
+
+    
+    (II)  terminates; and
+            
+1377
+
+    
+    (B)  in accordance with Title 63, Chapter 46a, Utah Administrative Rulemaking Act,
+            
+1378
+
+    
+the commission may by rule prescribe the circumstances under which a contract is substantially
+            
+1379
+
+    
+modified;
+            
+1380
+
+    
+    (66)  purchases:
+            
+1381
+
+    
+    (a)  of one or more of the following items in printed or electronic format:
+            
+1382
+
+    
+    (i)  a list containing information that includes one or more:
+            
+1383
+
+    
+    (A)  names; or
+            
+1384
+
+    
+    (B)  addresses; or
+            
+1385
+
+    
+    (ii)  a database containing information that includes one or more:
+            
+1386
+
+    
+    (A)  names; or
+            
+1387
+
+    
+    (B)  addresses; and
+            
+1388
+
+    
+    (b)  used to send direct mail; and
+            
+1389
+
+    
+    (67)  redemptions or repurchases of property by a person if that property was:
+            
+1390
+
+    
+    (a)  delivered to a pawnbroker as part of a pawn transaction; and
+            
+1391
+
+    
+    (b)  redeemed or repurchased within the time period established in a written agreement
+            
+1392
+
+    
+between the person and the pawnbroker for redeeming or repurchasing the property.
+            
+1393
+
+    
+    Section 3.   Effective date.
+            
+1394
+
+    
+    This bill takes effect on July 1, 2006.
+[Bill Documents][Bills Directory]
+
+
+
+
+
+
+
+
+
+Who represents me?
+
+
+
+
+
+Remember my Legislators
+
+
+
+
+
+State Senate
+		350 North State, Suite 320
+		PO Box 145115
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1035
+		Fax: (801) 326-1475
+
+
+
+House of Representatives
+		350 North State, Suite 350
+		PO Box 145030
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1029
+		Fax: (801) 326-1544
+
+
+
+
+
+
+
+
+
+
+Home
+Mobile Site
+Site Map
+Calendar
+Code / Constitution
+House
+Senate
+
+Terms of Use/Privacy Policy
+
+ADA
+Utah.gov
+
+
+
+
+
+
+

@@ -1,0 +1,636 @@
+Sponsors: []Modifications:     57-8-39.(1)  When the period of control described in Section 
+
+57-8-16.5
+
+ ends, neither thedeclaration nor bylaws may require that an amendment to the declaration or bylaws beapproved by more than 67% of the voting interests.(2)  Voting interests under Subsection (1) are calculated in the manner required by thedeclaration or bylaws.(3)  Nothing in this section affects any other rights reserved by a declarant.(4)  Subsection (1) does not apply to an amendment affecting only:(a)  the undivided interest of each unit owner in the common areas and facilities, asexpressed in the declaration;(b)  unit boundaries; or(c)  members' voting rights.(5) (a)  A contract for services such as garbage collection, maintenance, lawn care, orsnow removal executed on behalf of the association during a period of administrative control isbinding beyond the period of administrative control unless terminated by the board of directorsafter the period of administrative control ends.(b)  Subsection (5)(a) does not apply to golf course and amenity management, utilities,cable services, and other similar services that require an investment of infrastructure or capital.    57-8a-104.(1)  As used in this section, "period of administrative control" means the period duringwhich the person who filed the association's governing documents or a successor in interestretains authority to:(a)  appoint or remove members of the association's board of directors; or(b)  exercise power or authority assigned to the association under its governingdocuments.(2) (a)  When the period of administrative control ends, the governing documents maynot require that an amendment to the governing documents be approved by more than 67% ofthe voting interests.(b)  Subsection (2)(a) does not apply to an amendment affecting only:(i)  lot boundaries; or(ii)  members' voting rights.(3) (a)  A contract for services such as garbage collection, maintenance, lawn care, orsnow removal executed on behalf of the association during a period of administrative control isbinding beyond the period of administrative control unless terminated by the board of directorsafter the period of administrative control ends.(b)  Subsection (3)(a) does not apply to golf course and amenity management, utilities,cable services, and other similar services that require an investment of infrastructure or capital.(4)  Voting interests under Subsections (2) and (3) are calculated in the manner requiredby the governing documents.(5)  Nothing in this section affects any other rights reserved by the person who filed theassociation's original governing documents or a successor in interest.Full text:
+
+
+
+Utah State Legislature
+
+
+
+
+
+
+
+
+
+
+
+
+Legislators
+
+By Session (1896-Current)
+Alphabetical (Historical)
+Find by Address/Map
+More
+
+
+Bills
+
+Bills/Bill Requests
+Passed Bills
+2017 Bills
+
+Keyword Search
+Reading Calendars
+Tracking Service
+More
+
+
+Committees
+
+All Committees
+Appropriations
+Commissions
+
+Independent Legislative Ethics Commission
+Interim
+Standing
+Subcommittees
+Task Forces
+Bills In Committees
+
+
+Utah Code / Constitution
+
+
+Title/Chapter/Section
+Keyword Search 
+
+Utah Constitution
+Laws of Utah 1851-ongoing
+Utah Territorial Laws 
+More
+
+
+Senate
+
+Main Page 
+About The Senate 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Extraordinary Sessions 
+Reading Calendars 
+Past Floor Debates 
+Senate Journals 
+
+
+House
+
+Main Page
+About the House 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Reading Calendars 
+Past Floor Debates 
+Journals 
+Conflict of Interest Forms 
+
+
+Legislative Guide 
+
+Legislative Guide
+Civic Programs
+GRAMA (Records Requests)
+
+
+Publications
+
+Search Publications
+Appropriations
+Audits
+Bagels & Briefings
+Briefing Papers
+Digest of Legislation
+Legislative Drafting Manual
+
+Journals
+
+Interim Highlights
+
+Legislative Rules
+GRAMA (Records Requests)
+Public Email
+State Organization Charts
+YouTube Channel
+Requests for Proposals and Legal Notices
+More
+
+
+Legislative Histories
+
+Legislative History Resources
+How to Research
+Bill Drafting/Research Files (1990-Ongoing)
+
+Working Bills (1896-1989)
+Interim Committee Histories (1990-Ongoing) 
+Journals
+Past House Floor Debates
+Past Senate Floor Debates
+More
+
+
+Staff Offices
+
+All Legislative Offices
+Auditor General
+Fiscal Analyst
+Printing
+Research and General Counsel
+Staff Awards
+Job Opportunities
+More
+
+
+Links of Interest
+
+Utah Administrative Rules
+Courts
+Utah State Capitol
+State of Utah
+Federal Legislation
+More
+
+
+
+
+
+
+ 
+
+Download Zipped Enrolled WordPerfect SB0087.ZIP
+[Introduced][Amended][Status][Bill Documents][Fiscal Note][Bills Directory]
+
+
+S.B. 87 Enrolled
+
+
+
+
+
+            
+1
+
+    
+ HOMEOWNERS ASSOCIATION REQUIREMENTS
+
+
+
+            
+2
+
+    
+2007 GENERAL SESSION
+
+            
+3
+
+    
+STATE OF UTAH
+
+            
+4
+
+    
+
+
+ Chief Sponsor:  John W. Hickman
+
+
+
+            
+5
+
+    
+
+
+
+House Sponsor:  
+
+
+
+
+
+
+David  Clark
+
+
+
+
+
+            
+6
+
+    
+
+            
+7
+
+    
+ LONG TITLE
+            
+8
+
+    
+ General Description:
+            
+9
+
+    
+    This bill addresses requirements in Title 57, Chapter 8, Condominium Ownership Act,
+            
+10
+
+    
+and Chapter 8a, Community Association Act.
+            
+11
+
+    
+ Highlighted Provisions:
+            
+12
+
+    
+    This bill:
+            
+13
+
+    
+    .    addresses restrictions on amending governing documents for condominium projects
+            
+14
+
+    
+and community associations; and
+            
+15
+
+    
+    .    addresses the duration of service contracts entered into by the association during a
+            
+16
+
+    
+period of administrative control.
+            
+17
+
+    
+ Monies Appropriated in this Bill:
+            
+18
+
+    
+    None
+            
+19
+
+    
+ Other Special Clauses:
+            
+20
+
+    
+    None
+            
+21
+
+    
+ Utah Code Sections Affected:
+            
+22
+
+    
+ENACTS:
+            
+23
+
+    
+     57-8-39, Utah Code Annotated 1953
+            
+24
+
+    
+     57-8a-104, Utah Code Annotated 1953
+            
+25
+
+    
+
+            
+26
+
+    
+Be it enacted by the Legislature of the state of Utah:
+            
+27
+
+    
+    Section 1.  
+Section  
+57-8-39
+
+ is enacted to read:
+            
+28
+
+    
+     57-8-39.  Limitation on requirements for amending declaration or bylaws.
+            
+29
+
+    
+    (1)  When the period of control described in Section 
+
+57-8-16.5
+
+ ends, neither the
+
+            
+30
+
+
+    
+declaration nor bylaws may require that an amendment to the declaration or bylaws be
+            
+31
+
+    
+approved by more than 67% of the voting interests.
+            
+32
+
+    
+    (2)  Voting interests under Subsection (1) are calculated in the manner required by the
+            
+33
+
+    
+declaration or bylaws.
+            
+34
+
+    
+    (3)  Nothing in this section affects any other rights reserved by a declarant.
+            
+35
+
+    
+    (4)  Subsection (1) does not apply to an amendment affecting only:
+            
+36
+
+    
+    (a)  the undivided interest of each unit owner in the common areas and facilities, as
+            
+37
+
+    
+expressed in the declaration;
+            
+38
+
+    
+    (b)  unit boundaries; or
+            
+39
+
+    
+    (c)  members' voting rights.
+            
+40
+
+    
+    (5) (a)  A contract for services such as garbage collection, maintenance, lawn care, or
+            
+41
+
+    
+snow removal executed on behalf of the association during a period of administrative control is
+            
+42
+
+    
+binding beyond the period of administrative control unless terminated by the board of directors
+            
+43
+
+    
+after the period of administrative control ends.
+            
+44
+
+    
+    (b)  Subsection (5)(a) does not apply to golf course and amenity management, utilities,
+            
+45
+
+    
+cable services, and other similar services that require an investment of infrastructure or capital.
+            
+46
+
+    
+    Section 2.  
+Section  
+57-8a-104
+
+ is enacted to read:
+            
+47
+
+    
+     57-8a-104.  Limitation on requirements for amending governing documents --
+            
+48
+
+    
+ Limitation on contracts.
+            
+49
+
+    
+    (1)  As used in this section, "period of administrative control" means the period during
+            
+50
+
+    
+which the person who filed the association's governing documents or a successor in interest
+            
+51
+
+    
+retains authority to:
+            
+52
+
+    
+    (a)  appoint or remove members of the association's board of directors; or
+            
+53
+
+    
+    (b)  exercise power or authority assigned to the association under its governing
+            
+54
+
+    
+documents.
+            
+55
+
+    
+    (2) (a)  When the period of administrative control ends, the governing documents may
+            
+56
+
+    
+not require that an amendment to the governing documents be approved by more than 67% of
+            
+57
+
+    
+the voting interests.
+
+            
+58
+
+
+    
+    (b)  Subsection (2)(a) does not apply to an amendment affecting only:
+            
+59
+
+    
+    (i)  lot boundaries; or
+            
+60
+
+    
+    (ii)  members' voting rights.
+            
+61
+
+    
+    (3) (a)  A contract for services such as garbage collection, maintenance, lawn care, or
+            
+62
+
+    
+snow removal executed on behalf of the association during a period of administrative control is
+            
+63
+
+    
+binding beyond the period of administrative control unless terminated by the board of directors
+            
+64
+
+    
+after the period of administrative control ends.
+            
+65
+
+    
+    (b)  Subsection (3)(a) does not apply to golf course and amenity management, utilities,
+            
+66
+
+    
+cable services, and other similar services that require an investment of infrastructure or capital.
+            
+67
+
+    
+    (4)  Voting interests under Subsections (2) and (3) are calculated in the manner required
+            
+68
+
+    
+by the governing documents.
+            
+69
+
+    
+    (5)  Nothing in this section affects any other rights reserved by the person who filed the
+            
+70
+
+    
+association's original governing documents or a successor in interest.
+[Bill Documents][Bills Directory]
+
+
+
+
+
+
+
+
+
+Who represents me?
+
+
+
+
+
+Remember my Legislators
+
+
+
+
+
+State Senate
+		350 North State, Suite 320
+		PO Box 145115
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1035
+		Fax: (801) 326-1475
+
+
+
+House of Representatives
+		350 North State, Suite 350
+		PO Box 145030
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1029
+		Fax: (801) 326-1544
+
+
+
+
+
+
+
+
+
+
+Home
+Mobile Site
+Site Map
+Calendar
+Code / Constitution
+House
+Senate
+
+Terms of Use/Privacy Policy
+
+ADA
+Utah.gov
+
+
+
+
+
+
+

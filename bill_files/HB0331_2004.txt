@@ -1,0 +1,602 @@
+Sponsors: []Modifications:     13-5-19.(1)  For purposes of this section:(a)  "Affiliated company" means a person or group of persons who own a controllinginterest in another person.(b)  "Health care provider" means a physician licensed under Title 58, Chapter 67, UtahMedical Practice Act, or an osteopathic physician licensed under Title 58, Chapter 68, UtahOsteopathic Medical Practice Act.(c)  "Hospital" means a general acute hospital licensed under Title 26, Chapter 21,Health Care Facility Licensing and Inspection Act.(d)  "Insurer" means an entity offering accident and health insurance, or health careservices through a health maintenance organization regulated under:(i)  Title 31A, Insurance Code; or(ii)  the federal Employee Retirement Income Security Act.(e)  "Market area" means the service area designated for a health maintenanceorganization pursuant to Title31A, Chapter 8, Health Maintenance Organizations and LimitedHealth Plans, or the geographic area in which an accident and health insurance plan is offered.(2) (a)  It is a violation of this chapter for a person to own a controlling interest in anaffiliated company that:(i)  is an insurer in a market area;(ii)  owns more than 55% of the available licensed hospital beds in the market area inwhich the insurer offers its product; and(iii)  employs more than 15% of the health care providers who practice in the healthcare market.(b)  The Legislature finds that a violation of Subsection (2)(a) impairs or prevents faircompetition, injures the public welfare, and is unfair competition contrary to public policy andthe policy of this chapter.(3)  In addition to any other person with standing to bring an action to enforce theprovisions of this chapter under Section 
+
+13-5-14
+
+, the following health care providers havestanding to bring an action to enforce this section and the provisions of this chapter:(a)  a health care provider who is not a contracted health care provider for an insurerdescribed in Subsection (2)(a)(i); and(b)  a health care provider who is not credentialed at a hospital described in Subsection(2)(a)(ii).(4)  In addition to any other remedies provided by this chapter, a court may require theperson charged with a violation of Subsection (2) to divest itself of its ownership in affiliatedcompanies, such as:(a)  the insurer;(b)  a percentage of the hospitals in the market area; or(c)  the affiliated company that employs health care providers in the market area.Full text:
+
+
+
+Utah State Legislature
+
+
+
+
+
+
+
+
+
+
+
+
+Legislators
+
+By Session (1896-Current)
+Alphabetical (Historical)
+Find by Address/Map
+More
+
+
+Bills
+
+Bills/Bill Requests
+Passed Bills
+2017 Bills
+
+Keyword Search
+Reading Calendars
+Tracking Service
+More
+
+
+Committees
+
+All Committees
+Appropriations
+Commissions
+
+Independent Legislative Ethics Commission
+Interim
+Standing
+Subcommittees
+Task Forces
+Bills In Committees
+
+
+Utah Code / Constitution
+
+
+Title/Chapter/Section
+Keyword Search 
+
+Utah Constitution
+Laws of Utah 1851-ongoing
+Utah Territorial Laws 
+More
+
+
+Senate
+
+Main Page 
+About The Senate 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Extraordinary Sessions 
+Reading Calendars 
+Past Floor Debates 
+Senate Journals 
+
+
+House
+
+Main Page
+About the House 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Reading Calendars 
+Past Floor Debates 
+Journals 
+Conflict of Interest Forms 
+
+
+Legislative Guide 
+
+Legislative Guide
+Civic Programs
+GRAMA (Records Requests)
+
+
+Publications
+
+Search Publications
+Appropriations
+Audits
+Bagels & Briefings
+Briefing Papers
+Digest of Legislation
+Legislative Drafting Manual
+
+Journals
+
+Interim Highlights
+
+Legislative Rules
+GRAMA (Records Requests)
+Public Email
+State Organization Charts
+YouTube Channel
+Requests for Proposals and Legal Notices
+More
+
+
+Legislative Histories
+
+Legislative History Resources
+How to Research
+Bill Drafting/Research Files (1990-Ongoing)
+
+Working Bills (1896-1989)
+Interim Committee Histories (1990-Ongoing) 
+Journals
+Past House Floor Debates
+Past Senate Floor Debates
+More
+
+
+Staff Offices
+
+All Legislative Offices
+Auditor General
+Fiscal Analyst
+Printing
+Research and General Counsel
+Staff Awards
+Job Opportunities
+More
+
+
+Links of Interest
+
+Utah Administrative Rules
+Courts
+Utah State Capitol
+State of Utah
+Federal Legislation
+More
+
+
+
+
+
+
+ 
+
+Download Zipped Introduced WordPerfect HB0331.ZIP
+[Status][Bill Documents][Fiscal Note][Bills Directory]
+
+
+H.B. 331
+
+
+
+
+
+            
+1
+
+    
+ CHOICE IN HEALTH CARE
+
+
+
+            
+2
+
+    
+2004 GENERAL SESSION
+
+            
+3
+
+    
+STATE OF UTAH
+
+            
+4
+
+    
+
+
+ Sponsor: Katherine M. Bryson
+
+
+
+            
+5
+
+    
+
+            
+6
+
+    
+ LONG TITLE
+            
+7
+
+    
+ General Description:
+            
+8
+
+    
+    This bill amends the Unfair Practices Act to prohibit unfair competition by a health
+            
+9
+
+    
+insurer who owns hospitals and employs health care providers in certain markets.
+            
+10
+
+    
+ Highlighted Provisions:
+            
+11
+
+    
+    This bill:
+            
+12
+
+    
+    .    defines terms;
+            
+13
+
+    
+    .    establishes what constitutes unfair competition;
+            
+14
+
+    
+    .    establishes standing to enforce the act; and
+            
+15
+
+    
+    .    provides for remedies for a violation of the act.
+            
+16
+
+    
+ Monies Appropriated in this Bill:
+            
+17
+
+    
+    None
+            
+18
+
+    
+ Other Special Clauses:
+            
+19
+
+    
+    None
+            
+20
+
+    
+ Utah Code Sections Affected:
+            
+21
+
+    
+ENACTS:
+            
+22
+
+    
+     13-5-19, Utah Code Annotated 1953
+            
+23
+
+    
+
+            
+24
+
+    
+Be it enacted by the Legislature of the state of Utah:
+            
+25
+
+    
+    Section 1.  
+Section  
+13-5-19
+
+ is enacted to read:
+            
+26
+
+    
+     13-5-19.  Unfair competition between insurers, health care providers, and
+            
+27
+
+    
+ hospitals.
+
+            
+28
+
+
+    
+    (1)  For purposes of this section:
+            
+29
+
+    
+    (a)  "Affiliated company" means a person or group of persons who own a controlling
+            
+30
+
+    
+interest in another person.
+            
+31
+
+    
+    (b)  "Health care provider" means a physician licensed under Title 58, Chapter 67, Utah
+            
+32
+
+    
+Medical Practice Act, or an osteopathic physician licensed under Title 58, Chapter 68, Utah
+            
+33
+
+    
+Osteopathic Medical Practice Act.
+            
+34
+
+    
+    (c)  "Hospital" means a general acute hospital licensed under Title 26, Chapter 21,
+            
+35
+
+    
+Health Care Facility Licensing and Inspection Act.
+            
+36
+
+    
+    (d)  "Insurer" means an entity offering accident and health insurance, or health care
+            
+37
+
+    
+services through a health maintenance organization regulated under:
+            
+38
+
+    
+    (i)  Title 31A, Insurance Code; or
+            
+39
+
+    
+    (ii)  the federal Employee Retirement Income Security Act.
+            
+40
+
+    
+    (e)  "Market area" means the service area designated for a health maintenance
+            
+41
+
+    
+organization pursuant to Title31A, Chapter 8, Health Maintenance Organizations and Limited
+            
+42
+
+    
+Health Plans, or the geographic area in which an accident and health insurance plan is offered.
+            
+43
+
+    
+    (2) (a)  It is a violation of this chapter for a person to own a controlling interest in an
+            
+44
+
+    
+affiliated company that:
+            
+45
+
+    
+    (i)  is an insurer in a market area;
+            
+46
+
+    
+    (ii)  owns more than 55% of the available licensed hospital beds in the market area in
+            
+47
+
+    
+which the insurer offers its product; and
+            
+48
+
+    
+    (iii)  employs more than 15% of the health care providers who practice in the health
+            
+49
+
+    
+care market.
+            
+50
+
+    
+    (b)  The Legislature finds that a violation of Subsection (2)(a) impairs or prevents fair
+            
+51
+
+    
+competition, injures the public welfare, and is unfair competition contrary to public policy and
+            
+52
+
+    
+the policy of this chapter.
+            
+53
+
+    
+    (3)  In addition to any other person with standing to bring an action to enforce the
+            
+54
+
+    
+provisions of this chapter under Section 
+
+13-5-14
+
+, the following health care providers have
+            
+55
+
+    
+standing to bring an action to enforce this section and the provisions of this chapter:
+            
+56
+
+    
+    (a)  a health care provider who is not a contracted health care provider for an insurer
+            
+57
+
+    
+described in Subsection (2)(a)(i); and
+            
+58
+
+    
+    (b)  a health care provider who is not credentialed at a hospital described in Subsection
+
+            
+59
+
+
+    
+(2)(a)(ii).
+            
+60
+
+    
+    (4)  In addition to any other remedies provided by this chapter, a court may require the
+            
+61
+
+    
+person charged with a violation of Subsection (2) to divest itself of its ownership in affiliated
+            
+62
+
+    
+companies, such as:
+            
+63
+
+    
+    (a)  the insurer;
+            
+64
+
+    
+    (b)  a percentage of the hospitals in the market area; or
+            
+65
+
+    
+    (c)  the affiliated company that employs health care providers in the market area.
+
+
+
+
+ Legislative Review Note
+    as of   2-5-04  4:15 PM
+
+A limited legal review of this legislation raises no obvious constitutional or statutory concerns.
+
+ Office of Legislative Research and General Counsel
+[Bill Documents][Bills Directory]
+
+
+
+
+
+
+
+
+
+Who represents me?
+
+
+
+
+
+Remember my Legislators
+
+
+
+
+
+State Senate
+		350 North State, Suite 320
+		PO Box 145115
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1035
+		Fax: (801) 326-1475
+
+
+
+House of Representatives
+		350 North State, Suite 350
+		PO Box 145030
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1029
+		Fax: (801) 326-1544
+
+
+
+
+
+
+
+
+
+
+Home
+Mobile Site
+Site Map
+Calendar
+Code / Constitution
+House
+Senate
+
+Terms of Use/Privacy Policy
+
+ADA
+Utah.gov
+
+
+
+
+
+
+

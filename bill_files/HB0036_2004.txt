@@ -1,0 +1,2733 @@
+Sponsors: []Modifications:     53-10-601.(1)  There is created within the division, the Utah 911 Committee consisting of thefollowing 13 members:(a)  a representative from each of the following Primary Emergency Public SafetyAnswering Points:(i)  Salt Lake County;(ii)  Davis County;(iii)  Utah County; and(iv)  Weber County;(b)  three members representing the following Primary Emergency Public SafetyAnswering Points:(i)  Bear River Association;(ii)  Uintah Basin Association;(iii)  South East Association;(iv)  Six County Association; and(v)  Five County Association;(c)  the following people with knowledge of technology and equipment that might beneeded for an emergency public safety answering system:(i)  a representative from a local exchange carrier;(ii)  a representative from a rural incumbent local exchange carrier; and(iii)  two representatives from radio communications services as defined in Section
+
+69-2-2
+
+;(d)  a representative from the Department of Public Safety; and(e)  a representative from the Utah Committee of Consumer Services.(2) (a)  Each committee member shall be appointed by the governor with the consent ofthe Senate.(b)  The term of office of each member is four years, except that the governor shallappoint two representatives each from Subsections (1)(a), (b), and (c) to an initial two-yearterm.(c)  The representatives from Subsection (1)(b) must rotate to provide each geographiclocation at least one representative every four years.(d)  No member of the committee may serve more that two consecutive four-year terms.(e)  Each mid-term vacancy shall be filled for the unexpired term in the same manner asan appointment under Subsection (2)(a).(3) (a)  Committee members shall elect a chair from their number and establish rules forthe organization and operation of the committee, with the chair rotating among representativesfrom Subsections (1)(a), (b), and (c) every year.(b)  Staff services to the committee:(i)  shall be provided by the division; and(ii)  may be provided by local entities through the Utah Association of Counties and theUtah League of Cities and Towns, with funds approved by the committee from those identifiedas available to local entities under Section 
+
+53-10-605
+
+.(4) (a)  No member may receive compensation or benefits for the member's service onthe committee.(b)  A member is not required to give bond for the performance of official duties.    53-10-602.(1)  The committee shall:(a)  review and make recommendations to the division, the Bureau of Communications,public safety answering points, the Utah Committee of Consumer Services, and the Legislatureon:(i)  technical and operational issues for the implementation of a unified statewidewireless and land-based E-911 emergency system;(ii)  specific technology and standards for the implementation of a unified statewidewireless and land-based E-911 emergency system;(iii)  expenditures by local public service answering points to assure implementation ofa unified statewide wireless and land-based E-911 emergency system and standards ofoperation; and(iv)  mapping systems and technology necessary to implement the unified statewidewireless and land-based E-911 emergency system;(b)  administer the fund as provided in this part;(c)  assist as many local entities as possible, at their request, to implement therecommendations of the committee; and(d)  fulfill all other duties imposed on the committee by the Legislature by this part.(2)  The committee may sell, lease, or otherwise dispose of equipment or personalproperty belonging to the committee, the proceeds from which shall return to the fund.(3)  The committee may establish a cap on the percentage of reimbursement allowedunder Subsection 
+
+69-2-5
+
+(5)(c)(ii)(B)(I) provided that:(a)  the percentage does not exceed revenues received under Subsection 
+
+69-2-5
+
+(5)(a);(b)  the percentage is based on the aggregated cost studies required by Section
+
+53-10-606
+
+; and(c)  the reimbursement allowed under Subsection 
+
+69-2-5
+
+(5)(c)(ii)(B)(I) does not exceed125% of any wireless carrier's contribution to the fund.(4)  The committee shall adopt rules in accordance with Title 63, Chapter 46a, UtahAdministrative Rulemaking Act, to administer the fund created in Section 
+
+53-10-603
+
+ includingrules that establish the criteria, standards, technology, and equipment that a local entity or stateagency must adopt in order to qualify for loans or grants from the fund.    53-10-603.There is created a restricted account in the General Fund entitled the "Statewide UnifiedE-911 Emergency Service Fund," consisting of:(1)  proceeds from the fee imposed in Section 
+
+69-2-5.6
+
+;(2)  money appropriated or otherwise made available by the Legislature;(3)  repayments of any loan from the fund and interest paid on the loan; and(4)  contributions of money, property, or equipment from federal agencies, politicalsubdivisions of the state, persons, or corporations.    53-10-604.(1)  Committee expenses and the costs of administering loans or grants from the fund,as provided in Subsection (3), shall be paid from the fund.(2) (a)  The expenses and costs of the State Tax Commission to administer and enforcethe collection of the telephone levy imposed by Section 
+
+69-2-5.6
+
+ shall be paid from the fund.(b) (i)  The State Tax Commission may charge the fund the administrative costsincurred in discharging the responsibilities imposed by Section 
+
+69-2-5.6
+
+.(ii)  The charges in Subsection (2)(b)(i) may not exceed an amount equal to 1.5% of thecharges imposed under Section 
+
+69-2-5.6
+
+.(3) (a)  The Division of Finance shall be responsible for the care, custody, safekeeping,collection, and accounting for loans or grants issued by the committee under the provisions ofSection 
+
+53-10-605
+
+.(b)  The Division of Finance may charge the fund the administrative costs incurred indischarging the responsibilities imposed by Subsection (3)(a).(c)  The charges imposed under Subsection (3)(b) may not exceed an amount equal to1.5% of the loans or grants issued under Subsection (3)(a).    53-10-605.(1)  Subject to an annual legislative appropriation from the fund to:(a)  the committee, the committee may:(i)  authorize the use of the money in the fund, by grant or loan to a local entity or stateagency in accordance with this Subsection (1) and Subsection (2);(ii)  grant or loan to state agencies and local entities an amount not to exceed the permonth fee levied on telephone services under Section 
+
+69-2-5.6
+
+ for installation, implementation,and maintenance of unified, statewide 911 emergency services and technology; and(iii)  grant or loan to counties of the third through sixth class an amount not to exceed 3cents per month levied on telephone services under Section 
+
+69-2-5.6
+
+ to enhance the 911emergency services and integrate wireless systems and location technology in rural areas of thestate; and(b)  the state's Automated Geographic Reference Center in the Division of InformationTechnology Services, an amount equal to 1 cent per month levied on telephone services underSection 
+
+69-2-5.6
+
+ shall be used to enhance and upgrade statewide digital mapping standards.(2) (a)  Beginning July 1, 2007, the committee may not grant or loan the money in thefund to a local entity unless the local entity is in compliance with Phase I wireless E-911service.(b)  Beginning July 1, 2009, the committee may not grant or loan money in the fund to alocal entity unless the local entity is in compliance with Phase II wireless E-911 service.(3)  A local entity must deposit any money it receives from the committee into a specialemergency telephone service fund in accordance with Subsection 
+
+69-2-5
+
+(4).(4)  For purposes of this part, "local entity" means a county, city, town, special district,local district, or interlocal entity created under Title 11, Chapter 13, Interlocal Cooperation Act.    53-10-606.(1)  The committee shall submit an annual report to the Executive AppropriationsCommittee of the Legislature which shall include:(a)  the total aggregate surcharge collected by local entities and the state in the lastfiscal year under Sections 
+
+69-2-5
+
+ and 
+
+69-2-5.6
+
+;(b)  the amount of each disbursement from the fund, whether by loan or grant;(c)  the recipient of each disbursement and describing the project for which money wasdisbursed;(d)  the conditions, if any, placed by the committee on disbursements from the fund;(e)  the planned expenditures from the fund for the next fiscal year;(f)  the amount of any unexpended funds carried forward;(g)  a cost study to guide the Legislature towards necessary adjustments of both theStatewide Unified E-911 Emergency Service Fund and the monthly emergency servicestelephone charge imposed under Section 
+
+69-2-5
+
+; and(h)  a progress report of local government implementation of wireless and land-basedE-911 services including:(i)  a fund balance or balance sheet from each agency maintaining its own emergencytelephone service fund;(ii)  a report from each public safety answering point of annual call activity separatingwireless and land-based 911 call volumes; and(iii)  other relevant justification for ongoing support from the Statewide Unified E-911Emergency Service Fund.(2) (a)  The committee may request information from a local entity as necessary toprepare the report required by this section.(b)  A local entity imposing a levy under Section 
+
+69-2-5
+
+ or receiving a grant or loanunder Section 
+
+53-10-605
+
+ shall provide the information requested pursuant to Subsection (2)(a).    63-55-269.Section 
+
+69-2-5.6
+
+, Emergency services telephone charge to fund statewide unified E-911emergency service, is repealed July 1, 2011.6565Except as provided in Subsection (5), the(c)  Any unexpended money in the emergency telephone service fund at the end of afiscal year does not lapse, and must be carried forward to be used for the purposes described inthis section.(5) (a)  Revenue received by a local entity from an increase in the levy imposed underSubsection (3) after the 2004 Annual General Session, or from loans or grants from the Utah911 Committee pursuant to Section 
+
+53-10-605
+
+:(i)  shall be deposited into the special emergency telephone service fund described inSubsection (4)(a); and(ii)  shall only be used for that portion of the costs related to the development andoperation of wireless and land-based enhanced 911 emergency telephone service and theimplementation of wireless E-911 Phase I and Phase II services as provided in Subsection(5)(b).(b)  The costs allowed under Subsection (5)(a)(ii):(i)  shall include the public service answering point's or local entity's costs for:(A)  acquisition, upgrade, modification, maintenance, and operation of public serviceanswering point equipment capable of receiving E-911 information;(B)  database development, operation, and maintenance; and(C)  personnel costs associated with establishing, installing, maintaining, and operatingwireless E-911 Phase I and Phase II services, including training emergency service personnelregarding receipt and use of E-911 wireless service information and educating consumersregarding the appropriate and responsible use of E-911 wireless service; and(ii)  may include reimbursement to a provider of radio communications service asdefined in Section 
+
+69-2-2
+
+ for costs as provided in Subsection (5)(c).(c)  An agreement to reimburse costs to a provider of radio communications services:(i)  must be a written agreement between a public service answering point or other localentity receiving money under Subsection (5)(a), and a provider; and(ii)  may include reimbursement:(A)  in an amount not to exceed 1.5% of the levy imposed under Subsection (3), for theprovider's recurring costs of billing, collecting, and remitting the levy; and(B)  to the provider for the cost of design, development, and implementation ofequipment or software necessary to provide enhanced E-911 wireless service information topublic service answering points, provided:(I)  the reimbursement under this Subsection (5)(c)(ii)(B) does not exceed thepercentage established by the Utah 911 Committee in accordance with Subsection
+
+53-10-602
+
+(3); and(II)  the provider submits an invoice for the reimbursement to the public serviceanswering point or local entity and the invoice is approved.(6)  A local entity that increases the levy it imposes under Subsection (3)(c) after the2004 Annual General Session shall increase the levy to the maximum amount permitted bySubsection (3)(c).    69-2-5.6.(1)  Subject to Subsection 
+
+69-2-5
+
+(3)(g), there is imposed a statewide unified E-911emergency service charge of 16 cents per month on each local exchange service switchedaccess line and each revenue producing radio communications access line that is subject to anemergency services telephone charge levied by a county, city, or town under Section 
+
+69-2-5
+
+ or
+
+69-2-5.5
+
+.(2)  The emergency services telephone charge imposed under this section shall be:(a)  subject to Subsection 
+
+69-2-5
+
+(3)(g);(b)  billed and collected by the person that provides:(i)  local exchange service switched access line services; or(ii)  radio communications access line services;(c)  remitted to the State Tax Commission at the same time as the person remits to theState Tax Commission monies collected by the person under Title 59, Chapter 12, Sales andUse Tax Act; and(d)  deposited into the Statewide Unified E-911 Emergency Service Fund restrictedaccount in the General Fund created by Section 
+
+53-10-603
+
+.(3)  The State Tax Commission shall collect, enforce, and administer the chargesimposed under Subsection (1) pursuant to the same procedures used in the administration,collection, and enforcement of the emergency services telephone charge to fund the PoisonControl Center under Section 
+
+69-2-5.5
+
+.(4)  This section sunsets in accordance with Section 
+
+63-55-269
+
+.There is appropriated $3.7 million from the Statewide Unified E-911 EmergencyService Fund for fiscal year 2004-05 only, to the Utah 911 Committee for the development ofenhanced 911 emergency services and integrated wireless systems as provided in Section53-10-605.  The appropriation from the Statewide Unified E-911 Emergency Service Fund isintended to be ongoing, but not of a fixed dollar amount, as provided in Section 53-10-605.(1)  If approved by two-thirds of all the members elected to each house, this act takeseffect upon approval by the governor, or the day following the constitutional time limit of UtahConstitution Article VII, Section 8, without the governor's signature, or in the case of a veto,the date of veto override except that the following sections take effect on July 1, 2004:    (a)  Section 
+
+69-2-5
+
+; and    (b)  Section 
+
+69-2-5.6
+
+.    (2)  Effective July 1, 2006, change the statewide unified E-911 emergency servicecharge in Subsection 
+
+69-2-5.6
+
+(1) from 16 cents per month to nine cents per month.Full text:
+
+
+
+Utah State Legislature
+
+
+
+
+
+
+
+
+
+
+
+
+Legislators
+
+By Session (1896-Current)
+Alphabetical (Historical)
+Find by Address/Map
+More
+
+
+Bills
+
+Bills/Bill Requests
+Passed Bills
+2017 Bills
+
+Keyword Search
+Reading Calendars
+Tracking Service
+More
+
+
+Committees
+
+All Committees
+Appropriations
+Commissions
+
+Independent Legislative Ethics Commission
+Interim
+Standing
+Subcommittees
+Task Forces
+Bills In Committees
+
+
+Utah Code / Constitution
+
+
+Title/Chapter/Section
+Keyword Search 
+
+Utah Constitution
+Laws of Utah 1851-ongoing
+Utah Territorial Laws 
+More
+
+
+Senate
+
+Main Page 
+About The Senate 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Extraordinary Sessions 
+Reading Calendars 
+Past Floor Debates 
+Senate Journals 
+
+
+House
+
+Main Page
+About the House 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Reading Calendars 
+Past Floor Debates 
+Journals 
+Conflict of Interest Forms 
+
+
+Legislative Guide 
+
+Legislative Guide
+Civic Programs
+GRAMA (Records Requests)
+
+
+Publications
+
+Search Publications
+Appropriations
+Audits
+Bagels & Briefings
+Briefing Papers
+Digest of Legislation
+Legislative Drafting Manual
+
+Journals
+
+Interim Highlights
+
+Legislative Rules
+GRAMA (Records Requests)
+Public Email
+State Organization Charts
+YouTube Channel
+Requests for Proposals and Legal Notices
+More
+
+
+Legislative Histories
+
+Legislative History Resources
+How to Research
+Bill Drafting/Research Files (1990-Ongoing)
+
+Working Bills (1896-1989)
+Interim Committee Histories (1990-Ongoing) 
+Journals
+Past House Floor Debates
+Past Senate Floor Debates
+More
+
+
+Staff Offices
+
+All Legislative Offices
+Auditor General
+Fiscal Analyst
+Printing
+Research and General Counsel
+Staff Awards
+Job Opportunities
+More
+
+
+Links of Interest
+
+Utah Administrative Rules
+Courts
+Utah State Capitol
+State of Utah
+Federal Legislation
+More
+
+
+
+
+
+
+ 
+
+Download Zipped Introduced WordPerfect HB0036.ZIP
+[Status][Bill Documents][Fiscal Note][Bills Directory]
+
+
+H.B. 36
+
+
+
+
+
+            
+1
+
+    
+ MANAGEMENT, ENHANCEMENT, AND
+
+            
+2
+
+    
+ FUNDING OF 911 SYSTEM
+
+
+
+            
+3
+
+    
+2004 GENERAL SESSION
+
+            
+4
+
+    
+STATE OF UTAH
+
+            
+5
+
+    
+
+
+ Sponsor: Brad L. Dee
+
+
+
+            
+6
+
+    
+
+            
+7
+
+    
+ LONG TITLE
+            
+8
+
+    
+ General Description:
+            
+9
+
+    
+    This bill imposes a fee on wireless and land-based telephones to create a statewide
+            
+10
+
+    
+unified emergency 911 system capable of geographically locating a wireless telephone
+            
+11
+
+    
+user's location in an emergency.
+            
+12
+
+    
+ Highlighted Provisions:
+            
+13
+
+    
+    This bill:
+            
+14
+
+    
+    .     creates a 16 cent per month state fee on telephone services for unified statewide
+            
+15
+
+    
+E-911 emergency services;
+            
+16
+
+    
+    .    provides for the administration, collection, and enforcement of telephone E-911
+            
+17
+
+    
+emergency fees by the State Tax Commission;
+            
+18
+
+    
+    .    deposits the telephone fees into a restricted account in the General Fund for unified
+            
+19
+
+    
+statewide E-911 emergency services;
+            
+20
+
+    
+    .    repeals the advisory Utah 911 Committee in the Bureau of Communications in the
+            
+21
+
+    
+Department of Public Safety;
+            
+22
+
+    
+    .    creates a new state Utah 911 Committee in the Department of Public Safety to
+            
+23
+
+    
+develop state standards for the unified E-911 emergency system and to administer
+            
+24
+
+    
+the fund;
+            
+25
+
+    
+    .    establishes criteria for the use of the fund to ensure implementation of land-based
+            
+26
+
+    
+and wireless E-911 and requires the Utah 911 Committee to report annually to the
+            
+27
+
+    
+Executive Appropriations Committee;
+
+            
+28
+
+
+    
+    .    authorizes local governments to increase the local levy on telephone services for
+            
+29
+
+    
+911 emergency services from a maximum of 53 cents per month to a maximum of
+            
+30
+
+    
+65 cents per month;
+            
+31
+
+    
+    .    reduces the 16 cent state E-911 emergency service fee in 2006 to nine cents;
+            
+32
+
+    
+    .    sunsets the state imposed fee on July 1, 2011; and
+            
+33
+
+    
+    .    makes technical changes.
+            
+34
+
+    
+ Monies Appropriated in this Bill:
+            
+35
+
+    
+    This bill appropriates for fiscal year 2004-05 only, $3.7 million from the Statewide
+            
+36
+
+    
+Unified E-911 Emergency Service Fund to the Utah 911 Committee.
+            
+37
+
+    
+ Other Special Clauses:
+            
+38
+
+    
+    This bill takes effect immediately, except:
+            
+39
+
+    
+    .    the effect of the local and state fee increase is delayed until July 1, 2004;
+            
+40
+
+    
+    .    the amount of the state imposed fee is amended on July 1, 2006; and
+            
+41
+
+    
+    .    the state imposed fee sunsets on July 1, 2011.
+            
+42
+
+    
+ Utah Code Sections Affected:
+            
+43
+
+    
+AMENDS:
+            
+44
+
+    
+     69-2-5, as last amended by Chapter 253, Laws of Utah 2003
+            
+45
+
+    
+ENACTS:
+            
+46
+
+    
+     53-10-601, Utah Code Annotated 1953
+            
+47
+
+    
+     53-10-602, Utah Code Annotated 1953
+            
+48
+
+    
+     53-10-603, Utah Code Annotated 1953
+            
+49
+
+    
+     53-10-604, Utah Code Annotated 1953
+            
+50
+
+    
+     53-10-605, Utah Code Annotated 1953
+            
+51
+
+    
+     53-10-606, Utah Code Annotated 1953
+            
+52
+
+    
+     63-55-269, Utah Code Annotated 1953
+            
+53
+
+    
+     69-2-5.6, Utah Code Annotated 1953
+            
+54
+
+    
+REPEALS:
+            
+55
+
+    
+     53-10-503, as enacted by Chapter 269, Laws of Utah 2002
+            
+56
+
+    
+
+            
+57
+
+    
+Be it enacted by the Legislature of the state of Utah:
+            
+58
+
+    
+    Section 1.  
+Section  
+53-10-601
+
+ is enacted to read:
+
+            
+59
+
+
+    
+ Part 6.  Coordination of Statewide 911 Emergency Communications
+
+            
+60
+
+    
+     53-10-601.  Utah 911 Committee.
+            
+61
+
+    
+    (1)  There is created within the division, the Utah 911 Committee consisting of the
+            
+62
+
+    
+following 13 members:
+            
+63
+
+    
+    (a)  a representative from each of the following Primary Emergency Public Safety
+            
+64
+
+    
+Answering Points:
+            
+65
+
+    
+    (i)  Salt Lake County;
+            
+66
+
+    
+    (ii)  Davis County;
+            
+67
+
+    
+    (iii)  Utah County; and
+            
+68
+
+    
+    (iv)  Weber County;
+            
+69
+
+    
+    (b)  three members representing the following Primary Emergency Public Safety
+            
+70
+
+    
+Answering Points:
+            
+71
+
+    
+    (i)  Bear River Association;
+            
+72
+
+    
+    (ii)  Uintah Basin Association;
+            
+73
+
+    
+    (iii)  South East Association;
+            
+74
+
+    
+    (iv)  Six County Association; and
+            
+75
+
+    
+    (v)  Five County Association;
+            
+76
+
+    
+    (c)  the following people with knowledge of technology and equipment that might be
+            
+77
+
+    
+needed for an emergency public safety answering system:
+            
+78
+
+    
+    (i)  a representative from a local exchange carrier;
+            
+79
+
+    
+    (ii)  a representative from a rural incumbent local exchange carrier; and
+            
+80
+
+    
+    (iii)  two representatives from radio communications services as defined in Section
+            
+81
+
+    
+
+
+69-2-2
+
+;
+            
+82
+
+    
+    (d)  a representative from the Department of Public Safety; and
+            
+83
+
+    
+    (e)  a representative from the Utah Committee of Consumer Services.
+            
+84
+
+    
+    (2) (a)  Each committee member shall be appointed by the governor with the consent of
+            
+85
+
+    
+the Senate.
+            
+86
+
+    
+    (b)  The term of office of each member is four years, except that the governor shall
+            
+87
+
+    
+appoint two representatives each from Subsections (1)(a), (b), and (c) to an initial two-year
+            
+88
+
+    
+term.
+            
+89
+
+    
+    (c)  The representatives from Subsection (1)(b) must rotate to provide each geographic
+
+            
+90
+
+
+    
+location at least one representative every four years.
+            
+91
+
+    
+    (d)  No member of the committee may serve more that two consecutive four-year terms.
+            
+92
+
+    
+    (e)  Each mid-term vacancy shall be filled for the unexpired term in the same manner as
+            
+93
+
+    
+an appointment under Subsection (2)(a).
+            
+94
+
+    
+    (3) (a)  Committee members shall elect a chair from their number and establish rules for
+            
+95
+
+    
+the organization and operation of the committee, with the chair rotating among representatives
+            
+96
+
+    
+from Subsections (1)(a), (b), and (c) every year.
+            
+97
+
+    
+    (b)  Staff services to the committee:
+            
+98
+
+    
+    (i)  shall be provided by the division; and
+            
+99
+
+    
+    (ii)  may be provided by local entities through the Utah Association of Counties and the
+            
+100
+
+    
+Utah League of Cities and Towns, with funds approved by the committee from those identified
+            
+101
+
+    
+as available to local entities under Section 
+
+53-10-605
+
+.
+            
+102
+
+    
+    (4) (a)  No member may receive compensation or benefits for the member's service on
+            
+103
+
+    
+the committee.
+            
+104
+
+    
+    (b)  A member is not required to give bond for the performance of official duties.
+            
+105
+
+    
+    Section 2.  
+Section  
+53-10-602
+
+ is enacted to read:
+            
+106
+
+    
+     53-10-602.  Committee's duties and powers.
+            
+107
+
+    
+    (1)  The committee shall:
+            
+108
+
+    
+    (a)  review and make recommendations to the division, the Bureau of Communications,
+            
+109
+
+    
+public safety answering points, the Utah Committee of Consumer Services, and the Legislature
+            
+110
+
+    
+on:
+            
+111
+
+    
+    (i)  technical and operational issues for the implementation of a unified statewide
+            
+112
+
+    
+wireless and land-based E-911 emergency system;
+            
+113
+
+    
+    (ii)  specific technology and standards for the implementation of a unified statewide
+            
+114
+
+    
+wireless and land-based E-911 emergency system;
+            
+115
+
+    
+    (iii)  expenditures by local public service answering points to assure implementation of
+            
+116
+
+    
+a unified statewide wireless and land-based E-911 emergency system and standards of
+            
+117
+
+    
+operation; and
+            
+118
+
+    
+    (iv)  mapping systems and technology necessary to implement the unified statewide
+            
+119
+
+    
+wireless and land-based E-911 emergency system;
+            
+120
+
+    
+    (b)  administer the fund as provided in this part;
+
+            
+121
+
+
+    
+    (c)  assist as many local entities as possible, at their request, to implement the
+            
+122
+
+    
+recommendations of the committee; and
+            
+123
+
+    
+    (d)  fulfill all other duties imposed on the committee by the Legislature by this part.
+            
+124
+
+    
+    (2)  The committee may sell, lease, or otherwise dispose of equipment or personal
+            
+125
+
+    
+property belonging to the committee, the proceeds from which shall return to the fund.
+            
+126
+
+    
+    (3)  The committee may establish a cap on the percentage of reimbursement allowed
+            
+127
+
+    
+under Subsection 
+
+69-2-5
+
+(5)(c)(ii)(B)(I) provided that:
+            
+128
+
+    
+    (a)  the percentage does not exceed revenues received under Subsection 
+
+69-2-5
+
+(5)(a);
+            
+129
+
+    
+    (b)  the percentage is based on the aggregated cost studies required by Section
+            
+130
+
+    
+
+
+53-10-606
+
+; and
+            
+131
+
+    
+    (c)  the reimbursement allowed under Subsection 
+
+69-2-5
+
+(5)(c)(ii)(B)(I) does not exceed
+            
+132
+
+    
+125% of any wireless carrier's contribution to the fund.
+            
+133
+
+    
+    (4)  The committee shall adopt rules in accordance with Title 63, Chapter 46a, Utah
+            
+134
+
+    
+Administrative Rulemaking Act, to administer the fund created in Section 
+
+53-10-603
+
+ including
+            
+135
+
+    
+rules that establish the criteria, standards, technology, and equipment that a local entity or state
+            
+136
+
+    
+agency must adopt in order to qualify for loans or grants from the fund.
+            
+137
+
+    
+    Section 3.  
+Section  
+53-10-603
+
+ is enacted to read:
+            
+138
+
+    
+     53-10-603.  Creation of Statewide Unified E-911 Emergency Service Fund.
+            
+139
+
+    
+    There is created a restricted account in the General Fund entitled the "Statewide Unified
+            
+140
+
+    
+E-911 Emergency Service Fund," consisting of:
+            
+141
+
+    
+    (1)  proceeds from the fee imposed in Section 
+
+69-2-5.6
+
+;
+            
+142
+
+    
+    (2)  money appropriated or otherwise made available by the Legislature;
+            
+143
+
+    
+    (3)  repayments of any loan from the fund and interest paid on the loan; and
+            
+144
+
+    
+    (4)  contributions of money, property, or equipment from federal agencies, political
+            
+145
+
+    
+subdivisions of the state, persons, or corporations.
+            
+146
+
+    
+    Section 4.  
+Section  
+53-10-604
+
+ is enacted to read:
+            
+147
+
+    
+     53-10-604.  Committee expenses -- Tax commission expenses -- Division of Finance
+            
+148
+
+    
+ responsibilities.
+            
+149
+
+    
+    (1)  Committee expenses and the costs of administering loans or grants from the fund,
+            
+150
+
+    
+as provided in Subsection (3), shall be paid from the fund.
+            
+151
+
+    
+    (2) (a)  The expenses and costs of the State Tax Commission to administer and enforce
+
+            
+152
+
+
+    
+the collection of the telephone levy imposed by Section 
+
+69-2-5.6
+
+ shall be paid from the fund.
+            
+153
+
+    
+    (b) (i)  The State Tax Commission may charge the fund the administrative costs
+            
+154
+
+    
+incurred in discharging the responsibilities imposed by Section 
+
+69-2-5.6
+
+.
+            
+155
+
+    
+    (ii)  The charges in Subsection (2)(b)(i) may not exceed an amount equal to 1.5% of the
+            
+156
+
+    
+charges imposed under Section 
+
+69-2-5.6
+
+.
+            
+157
+
+    
+    (3) (a)  The Division of Finance shall be responsible for the care, custody, safekeeping,
+            
+158
+
+    
+collection, and accounting for loans or grants issued by the committee under the provisions of
+            
+159
+
+    
+Section 
+
+53-10-605
+
+.
+            
+160
+
+    
+    (b)  The Division of Finance may charge the fund the administrative costs incurred in
+            
+161
+
+    
+discharging the responsibilities imposed by Subsection (3)(a).
+            
+162
+
+    
+    (c)  The charges imposed under Subsection (3)(b) may not exceed an amount equal to
+            
+163
+
+    
+1.5% of the loans or grants issued under Subsection (3)(a).
+            
+164
+
+    
+    Section 5.  
+Section  
+53-10-605
+
+ is enacted to read:
+            
+165
+
+    
+     53-10-605.  Use of money in fund -- Criteria -- Administration.
+            
+166
+
+    
+    (1)  Subject to an annual legislative appropriation from the fund to:
+            
+167
+
+    
+    (a)  the committee, the committee may:
+            
+168
+
+    
+    (i)  authorize the use of the money in the fund, by grant or loan to a local entity or state
+            
+169
+
+    
+agency in accordance with this Subsection (1) and Subsection (2);
+            
+170
+
+    
+    (ii)  grant or loan to state agencies and local entities an amount not to exceed the per
+            
+171
+
+    
+month fee levied on telephone services under Section 
+
+69-2-5.6
+
+ for installation, implementation,
+            
+172
+
+    
+and maintenance of unified, statewide 911 emergency services and technology; and
+            
+173
+
+    
+    (iii)  grant or loan to counties of the third through sixth class an amount not to exceed 3
+            
+174
+
+    
+cents per month levied on telephone services under Section 
+
+69-2-5.6
+
+ to enhance the 911
+            
+175
+
+    
+emergency services and integrate wireless systems and location technology in rural areas of the
+            
+176
+
+    
+state; and
+            
+177
+
+    
+    (b)  the state's Automated Geographic Reference Center in the Division of Information
+            
+178
+
+    
+Technology Services, an amount equal to 1 cent per month levied on telephone services under
+            
+179
+
+    
+Section 
+
+69-2-5.6
+
+ shall be used to enhance and upgrade statewide digital mapping standards.
+            
+180
+
+    
+    (2) (a)  Beginning July 1, 2007, the committee may not grant or loan the money in the
+            
+181
+
+    
+fund to a local entity unless the local entity is in compliance with Phase I wireless E-911
+            
+182
+
+    
+service.
+
+            
+183
+
+
+    
+    (b)  Beginning July 1, 2009, the committee may not grant or loan money in the fund to a
+            
+184
+
+    
+local entity unless the local entity is in compliance with Phase II wireless E-911 service.
+            
+185
+
+    
+    (3)  A local entity must deposit any money it receives from the committee into a special
+            
+186
+
+    
+emergency telephone service fund in accordance with Subsection 
+
+69-2-5
+
+(4).
+            
+187
+
+    
+    (4)  For purposes of this part, "local entity" means a county, city, town, special district,
+            
+188
+
+    
+local district, or interlocal entity created under Title 11, Chapter 13, Interlocal Cooperation Act.
+            
+189
+
+    
+    Section 6.  
+Section  
+53-10-606
+
+ is enacted to read:
+            
+190
+
+    
+     53-10-606.  Committee to report annually.
+            
+191
+
+    
+    (1)  The committee shall submit an annual report to the Executive Appropriations
+            
+192
+
+    
+Committee of the Legislature which shall include:
+            
+193
+
+    
+    (a)  the total aggregate surcharge collected by local entities and the state in the last
+            
+194
+
+    
+fiscal year under Sections 
+
+69-2-5
+
+ and 
+
+69-2-5.6
+
+;
+            
+195
+
+    
+    (b)  the amount of each disbursement from the fund, whether by loan or grant;
+            
+196
+
+    
+    (c)  the recipient of each disbursement and describing the project for which money was
+            
+197
+
+    
+disbursed;
+            
+198
+
+    
+    (d)  the conditions, if any, placed by the committee on disbursements from the fund;
+            
+199
+
+    
+    (e)  the planned expenditures from the fund for the next fiscal year;
+            
+200
+
+    
+    (f)  the amount of any unexpended funds carried forward;
+            
+201
+
+    
+    (g)  a cost study to guide the Legislature towards necessary adjustments of both the
+            
+202
+
+    
+Statewide Unified E-911 Emergency Service Fund and the monthly emergency services
+            
+203
+
+    
+telephone charge imposed under Section 
+
+69-2-5
+
+; and
+            
+204
+
+    
+    (h)  a progress report of local government implementation of wireless and land-based
+            
+205
+
+    
+E-911 services including:
+            
+206
+
+    
+    (i)  a fund balance or balance sheet from each agency maintaining its own emergency
+            
+207
+
+    
+telephone service fund;
+            
+208
+
+    
+    (ii)  a report from each public safety answering point of annual call activity separating
+            
+209
+
+    
+wireless and land-based 911 call volumes; and
+            
+210
+
+    
+    (iii)  other relevant justification for ongoing support from the Statewide Unified E-911
+            
+211
+
+    
+Emergency Service Fund.
+            
+212
+
+    
+    (2) (a)  The committee may request information from a local entity as necessary to
+            
+213
+
+    
+prepare the report required by this section.
+
+            
+214
+
+
+    
+    (b)  A local entity imposing a levy under Section 
+
+69-2-5
+
+ or receiving a grant or loan
+            
+215
+
+    
+under Section 
+
+53-10-605
+
+ shall provide the information requested pursuant to Subsection (2)(a).
+            
+216
+
+    
+    Section 7.  
+Section  
+63-55-269
+
+ is enacted to read:
+            
+217
+
+    
+     63-55-269.  Repeal dates, Title 69.
+            
+218
+
+    
+    Section 
+
+69-2-5.6
+
+, Emergency services telephone charge to fund statewide unified E-911
+            
+219
+
+    
+emergency service, is repealed July 1, 2011.
+            
+220
+
+    
+    Section 8.  
+Section  
+69-2-5
+
+ is amended to read:
+            
+221
+
+    
+     69-2-5.  Funding for 911 emergency telephone service.
+            
+222
+
+    
+    (1)  In providing funding of 911 emergency telephone service, any public agency
+            
+223
+
+    
+establishing a 911 emergency telephone service may:
+            
+224
+
+    
+    (a)  seek assistance from the federal or state government, to the extent constitutionally
+            
+225
+
+    
+permissible, in the form of loans, advances, grants, subsidies, and otherwise, directly or
+            
+226
+
+    
+indirectly;
+            
+227
+
+    
+    (b)  seek funds appropriated by local governmental taxing authorities for the funding of
+            
+228
+
+    
+public safety agencies; and
+            
+229
+
+    
+    (c)  seek gifts, donations, or grants from individuals, corporations, or other private
+            
+230
+
+    
+entities.
+            
+231
+
+    
+    (2)  For purposes of providing funding of 911 emergency telephone service, special
+            
+232
+
+    
+service districts may raise funds as provided in Section 
+
+17A-2-1322
+
+ and may borrow money
+            
+233
+
+    
+and incur indebtedness as provided in Section 
+
+17A-2-1316
+
+.
+            
+234
+
+    
+    (3) (a)  Except as provided in Subsection (3)(b) and subject to the other provisions of
+            
+235
+
+    
+this Subsection (3) a county, city, or town within which 911 emergency telephone service is
+            
+236
+
+    
+provided may levy monthly an emergency services telephone charge on:
+            
+237
+
+    
+    (i)  each local exchange service switched access line within the boundaries of the
+            
+238
+
+    
+county, city, or town; and
+            
+239
+
+    
+    (ii)  each revenue producing radio communications access line with a billing address
+            
+240
+
+    
+within  the boundaries of the county, city, or town.
+            
+241
+
+    
+    (b)  Notwithstanding Subsection (3)(a), an access line provided for public coin
+            
+242
+
+    
+telephone service is exempt from emergency telephone charges.
+            
+243
+
+    
+    (c)  The amount of the charge levied under this section may not exceed:
+            
+244
+
+    
+    (i)  [53] 65 cents per month for each local exchange service switched access line; and
+
+            
+245
+
+
+    
+    (ii)  [53] 65 cents per month for each radio communications access line.
+            
+246
+
+    
+    (d) (i)  For purposes of this Subsection (3)(d) the following terms shall be defined as
+            
+247
+
+    
+provided in Section 
+
+59-12-102
+
+:
+            
+248
+
+    
+    (A)  "mobile telecommunications service";
+            
+249
+
+    
+    (B)  "primary place of use";
+            
+250
+
+    
+    (C)  "service address"; and
+            
+251
+
+    
+    (D)  "telephone service."
+            
+252
+
+    
+    (ii)  An access line described in Subsection (3)(a) is considered to be within the
+            
+253
+
+    
+boundaries of a county, city, or town if the telephone services provided over the access line are
+            
+254
+
+    
+located within the county, city, or town:
+            
+255
+
+    
+    (A)  for purposes of sales and use taxes under Title 59, Chapter 12, Sales and Use Tax
+            
+256
+
+    
+Act; and
+            
+257
+
+    
+    (B)  determined in accordance with Section 
+
+59-12-207
+
+.
+            
+258
+
+    
+    (iii)  The rate imposed on an access line under this section shall be determined in
+            
+259
+
+    
+accordance with Subsection (3)(d)(iv) if the location of an access line described in Subsection
+            
+260
+
+    
+(3)(a) is determined under Subsection (3)(d)(ii) to be a county, city, or town other than county,
+            
+261
+
+    
+city, or town in which is located:
+            
+262
+
+    
+    (A)  for telephone service other than mobile telecommunications service, the
+            
+263
+
+    
+purchaser's service address; or
+            
+264
+
+    
+    (B)  for mobile telecommunications service, the purchaser's primary place of use.
+            
+265
+
+    
+    (iv)  The rate imposed on an access line under this section shall be the lower of:
+            
+266
+
+    
+    (A)  the rate imposed by the county, city, or town in which the access line is located
+            
+267
+
+    
+under Subsection (3)(d)(ii); or
+            
+268
+
+    
+    (B)  the rate imposed by the county, city, or town in which it is located:
+            
+269
+
+    
+    (I)  for telephone service other than mobile telecommunications service, the purchaser's
+            
+270
+
+    
+service address; or
+            
+271
+
+    
+    (II)  for mobile telecommunications service, the purchaser's primary place of use.
+            
+272
+
+    
+    (e) (i)  A county, city, or town shall notify the Public Service Commission of the intent
+            
+273
+
+    
+to levy the charge under this Subsection (3) at least 30 days prior to the effective date of the
+            
+274
+
+    
+charge being levied.
+            
+275
+
+    
+    (ii)  For purposes of this Subsection (3)(e):
+
+            
+276
+
+
+    
+    (A)  "Annexation" means an annexation to:
+            
+277
+
+    
+    (I)  a city or town under Title 10, Chapter 2, Part 4, Annexation; or
+            
+278
+
+    
+    (II)  a county under Title 17, Chapter 2, Annexation to County.
+            
+279
+
+    
+    (B)  "Annexing area" means an area that is annexed into a county, city, or town.
+            
+280
+
+    
+    (iii) (A)  If, on or after July 1, 2003, a county, city, or town enacts or repeals a charge
+            
+281
+
+    
+under this section, the enactment or repeal shall take effect:
+            
+282
+
+    
+    (I)  on the first day of a calendar quarter; and
+            
+283
+
+    
+    (II)  after a 75-day period beginning on the date the State Tax Commission receives
+            
+284
+
+    
+notice meeting the requirements of Subsection (3)(e)(iii)(B) from the county, city, or town.
+            
+285
+
+    
+    (B)  The notice described in Subsection (3)(e)(iii)(A) shall state:
+            
+286
+
+    
+    (I)  that the county, city, or town will enact or repeal a charge under this section;
+            
+287
+
+    
+    (II)  the statutory authority for the charge described in Subsection (3)(e)(iii)(B)(I); and
+            
+288
+
+    
+    (III)  the effective date of the charge described in Subsection (3)(e)(iii)(B)(I).
+            
+289
+
+    
+    (iv) (A)  If, for an annexation that occurs on or after July 1, 2003, the annexation will
+            
+290
+
+    
+result in a change in a charge imposed under this section being imposed in an annexing area,
+            
+291
+
+    
+the change shall take effect:
+            
+292
+
+    
+    (I)  on the first day of a calendar quarter; and
+            
+293
+
+    
+    (II)  after a 75-day period beginning on the date the State Tax Commission receives
+            
+294
+
+    
+notice meeting the requirements of Subsection (3)(e)(iv)(B) from the county, city, or town that
+            
+295
+
+    
+annexes the annexing area.
+            
+296
+
+    
+    (B)  The notice described in Subsection (3)(e)(iv)(A) shall state:
+            
+297
+
+    
+    (I)  that the annexation described in Subsection (3)(e)(iv)(A) will result in a change in
+            
+298
+
+    
+the charge being imposed under this section for the annexing area;
+            
+299
+
+    
+    (II)  the statutory authority for the charge described in Subsection (3)(e)(iv)(B)(I); and
+            
+300
+
+    
+    (III)  the effective date of the charge described in Subsection (3)(e)(iv)(B)(I).
+            
+301
+
+    
+    (f)  Subject to Subsection (3)(g), an emergency services telephone charge levied under
+            
+302
+
+    
+this section shall:
+            
+303
+
+    
+    (i)  be billed and collected by the person that provides the:
+            
+304
+
+    
+    (A)  local exchange service switched access line services; or
+            
+305
+
+    
+    (B)  radio communications access line services; and
+            
+306
+
+    
+    (ii)  remitted to the State Tax Commission.
+
+            
+307
+
+
+    
+    (g)  An emergency services telephone charge on a mobile telecommunications service
+            
+308
+
+    
+may be levied, billed, and collected only to the extent permitted by the Mobile
+            
+309
+
+    
+Telecommunications Sourcing Act, 4 U.S.C. Sec. 116 et seq.
+            
+310
+
+    
+    (h)  The State Tax Commission shall:
+            
+311
+
+    
+    (i)  collect, enforce, and administer the charge imposed under this Subsection (3)
+            
+312
+
+    
+pursuant to the same procedures used in the administration, collection, and enforcement of the
+            
+313
+
+    
+state sales and use taxes under:
+            
+314
+
+    
+    (A)  Title 59, Chapter 1, General Taxation Policies; and
+            
+315
+
+    
+    (B)  Title 59, Chapter 12, Part 1, Tax Collection, except for Sections 
+
+59-12-104
+
+,
+            
+316
+
+    
+
+59-12-104.1
+
+, and 
+
+59-12-104.2
+
+;
+            
+317
+
+    
+    (ii)  transmit monies collected under this Subsection (3):
+            
+318
+
+    
+    (A)  monthly; and
+            
+319
+
+    
+    (B)  by electronic funds transfer by the commission to the county, city, or town that
+            
+320
+
+    
+imposes the charge; and
+            
+321
+
+    
+    (iii)  charge the county, city, or town for the State Tax Commission's services under this
+            
+322
+
+    
+Subsection (3) in an amount:
+            
+323
+
+    
+    (A)  sufficient to reimburse the State Tax Commission for the cost to the State Tax
+            
+324
+
+    
+Commission in rendering the services; and
+            
+325
+
+    
+    (B)  that may not exceed an amount equal to 1.5% of the charges imposed under this
+            
+326
+
+    
+Subsection (3).
+            
+327
+
+    
+    (4) (a)  Any money received by a public agency for the provision of 911 emergency
+            
+328
+
+    
+telephone service shall be deposited in a special emergency telephone service fund.
+            
+329
+
+    
+    (b) (i)  [The] Except as provided in Subsection (5), the money in the emergency
+            
+330
+
+    
+telephone service fund [described in Subsection (4)(a)] shall be expended by the public agency
+            
+331
+
+    
+to pay the costs of establishing, installing, maintaining, and operating a 911 emergency
+            
+332
+
+    
+telephone system or integrating a 911 system into an established public safety dispatch center,
+            
+333
+
+    
+including contracting with the providers of local exchange service, radio communications
+            
+334
+
+    
+service, and vendors of appropriate terminal equipment as necessary to implement the 911
+            
+335
+
+    
+emergency telephone service.
+            
+336
+
+    
+    (ii)  Revenues derived for the funding of 911 emergency telephone service may only be
+            
+337
+
+    
+used for that portion of costs related to the operation of the 911 emergency telephone system
+
+            
+338
+
+
+    
+when such a system is integrated with any public safety dispatch system.
+            
+339
+
+    
+    (c)  Any unexpended money in the emergency telephone service fund at the end of a
+            
+340
+
+    
+fiscal year does not lapse, and must be carried forward to be used for the purposes described in
+            
+341
+
+    
+this section.
+            
+342
+
+    
+    (5) (a)  Revenue received by a local entity from an increase in the levy imposed under
+            
+343
+
+    
+Subsection (3) after the 2004 Annual General Session, or from loans or grants from the Utah
+            
+344
+
+    
+911 Committee pursuant to Section 
+
+53-10-605
+
+:
+            
+345
+
+    
+    (i)  shall be deposited into the special emergency telephone service fund described in
+            
+346
+
+    
+Subsection (4)(a); and
+            
+347
+
+    
+    (ii)  shall only be used for that portion of the costs related to the development and
+            
+348
+
+    
+operation of wireless and land-based enhanced 911 emergency telephone service and the
+            
+349
+
+    
+implementation of wireless E-911 Phase I and Phase II services as provided in Subsection
+            
+350
+
+    
+(5)(b).
+            
+351
+
+    
+    (b)  The costs allowed under Subsection (5)(a)(ii):
+            
+352
+
+    
+    (i)  shall include the public service answering point's or local entity's costs for:
+            
+353
+
+    
+    (A)  acquisition, upgrade, modification, maintenance, and operation of public service
+            
+354
+
+    
+answering point equipment capable of receiving E-911 information;
+            
+355
+
+    
+    (B)  database development, operation, and maintenance; and
+            
+356
+
+    
+    (C)  personnel costs associated with establishing, installing, maintaining, and operating
+            
+357
+
+    
+wireless E-911 Phase I and Phase II services, including training emergency service personnel
+            
+358
+
+    
+regarding receipt and use of E-911 wireless service information and educating consumers
+            
+359
+
+    
+regarding the appropriate and responsible use of E-911 wireless service; and
+            
+360
+
+    
+    (ii)  may include reimbursement to a provider of radio communications service as
+            
+361
+
+    
+defined in Section 
+
+69-2-2
+
+ for costs as provided in Subsection (5)(c).
+            
+362
+
+    
+    (c)  An agreement to reimburse costs to a provider of radio communications services:
+            
+363
+
+    
+    (i)  must be a written agreement between a public service answering point or other local
+            
+364
+
+    
+entity receiving money under Subsection (5)(a), and a provider; and
+            
+365
+
+    
+    (ii)  may include reimbursement:
+            
+366
+
+    
+    (A)  in an amount not to exceed 1.5% of the levy imposed under Subsection (3), for the
+            
+367
+
+    
+provider's recurring costs of billing, collecting, and remitting the levy; and
+            
+368
+
+    
+    (B)  to the provider for the cost of design, development, and implementation of
+
+            
+369
+
+
+    
+equipment or software necessary to provide enhanced E-911 wireless service information to
+            
+370
+
+    
+public service answering points, provided:
+            
+371
+
+    
+    (I)  the reimbursement under this Subsection (5)(c)(ii)(B) does not exceed the
+            
+372
+
+    
+percentage established by the Utah 911 Committee in accordance with Subsection
+            
+373
+
+    
+
+
+53-10-602
+
+(3); and
+            
+374
+
+    
+    (II)  the provider submits an invoice for the reimbursement to the public service
+            
+375
+
+    
+answering point or local entity and the invoice is approved.
+            
+376
+
+    
+    (6)  A local entity that increases the levy it imposes under Subsection (3)(c) after the
+            
+377
+
+    
+2004 Annual General Session shall increase the levy to the maximum amount permitted by
+            
+378
+
+    
+Subsection (3)(c).
+            
+379
+
+    
+    Section 9.  
+Section  
+69-2-5.6
+
+ is enacted to read:
+            
+380
+
+    
+     69-2-5.6.  Emergency services telephone charge to fund statewide unified E-911
+            
+381
+
+    
+ emergency service.
+            
+382
+
+    
+    (1)  Subject to Subsection 
+
+69-2-5
+
+(3)(g), there is imposed a statewide unified E-911
+            
+383
+
+    
+emergency service charge of 16 cents per month on each local exchange service switched
+            
+384
+
+    
+access line and each revenue producing radio communications access line that is subject to an
+            
+385
+
+    
+emergency services telephone charge levied by a county, city, or town under Section 
+
+69-2-5
+
+ or
+            
+386
+
+    
+
+
+69-2-5.5
+
+.
+            
+387
+
+    
+    (2)  The emergency services telephone charge imposed under this section shall be:
+            
+388
+
+    
+    (a)  subject to Subsection 
+
+69-2-5
+
+(3)(g);
+            
+389
+
+    
+    (b)  billed and collected by the person that provides:
+            
+390
+
+    
+    (i)  local exchange service switched access line services; or
+            
+391
+
+    
+    (ii)  radio communications access line services;
+            
+392
+
+    
+    (c)  remitted to the State Tax Commission at the same time as the person remits to the
+            
+393
+
+    
+State Tax Commission monies collected by the person under Title 59, Chapter 12, Sales and
+            
+394
+
+    
+Use Tax Act; and
+            
+395
+
+    
+    (d)  deposited into the Statewide Unified E-911 Emergency Service Fund restricted
+            
+396
+
+    
+account in the General Fund created by Section 
+
+53-10-603
+
+.
+            
+397
+
+    
+    (3)  The State Tax Commission shall collect, enforce, and administer the charges
+            
+398
+
+    
+imposed under Subsection (1) pursuant to the same procedures used in the administration,
+            
+399
+
+    
+collection, and enforcement of the emergency services telephone charge to fund the Poison
+
+            
+400
+
+
+    
+Control Center under Section 
+
+69-2-5.5
+
+.
+            
+401
+
+    
+    (4)  This section sunsets in accordance with Section 
+
+63-55-269
+
+.
+            
+402
+
+    
+    Section 10.  Repealer.
+            
+403
+
+    
+    This bill repeals:
+            
+404
+
+    
+    Section  53-10-503,  Utah 911 Committee.
+            
+405
+
+    
+    Section 11.   Appropriation.
+            
+406
+
+    
+    There is appropriated $3.7 million from the Statewide Unified E-911 Emergency
+            
+407
+
+    
+Service Fund for fiscal year 2004-05 only, to the Utah 911 Committee for the development of
+            
+408
+
+    
+enhanced 911 emergency services and integrated wireless systems as provided in Section
+            
+409
+
+    
+53-10-605.  The appropriation from the Statewide Unified E-911 Emergency Service Fund is
+            
+410
+
+    
+intended to be ongoing, but not of a fixed dollar amount, as provided in Section 53-10-605.
+            
+411
+
+    
+    Section 12.   Effective date.
+            
+412
+
+    
+    (1)  If approved by two-thirds of all the members elected to each house, this act takes
+            
+413
+
+    
+effect upon approval by the governor, or the day following the constitutional time limit of Utah
+            
+414
+
+    
+Constitution Article VII, Section 8, without the governor's signature, or in the case of a veto,
+            
+415
+
+    
+the date of veto override except that the following sections take effect on July 1, 2004:
+            
+416
+
+    
+    (a)  Section 
+
+69-2-5
+
+; and
+            
+417
+
+    
+    (b)  Section 
+
+69-2-5.6
+
+.
+            
+418
+
+    
+    (2)  Effective July 1, 2006, change the statewide unified E-911 emergency service
+            
+419
+
+    
+charge in Subsection 
+
+69-2-5.6
+
+(1) from 16 cents per month to nine cents per month.
+
+
+
+
+ Legislative Review Note
+    as of  12-5-03  11:37 AM
+
+A limited legal review of this legislation raises no obvious constitutional or statutory concerns.
+
+ Office of Legislative Research and General Counsel
+
+
+ Interim Committee Note
+    as of 12-10-03 12:11 PM
+
+The Law Enforcement and Criminal Justice Interim Committee recommended this bill.
+[Bill Documents][Bills Directory]
+
+
+
+
+
+
+
+
+
+Who represents me?
+
+
+
+
+
+Remember my Legislators
+
+
+
+
+
+State Senate
+		350 North State, Suite 320
+		PO Box 145115
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1035
+		Fax: (801) 326-1475
+
+
+
+House of Representatives
+		350 North State, Suite 350
+		PO Box 145030
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1029
+		Fax: (801) 326-1544
+
+
+
+
+
+
+
+
+
+
+Home
+Mobile Site
+Site Map
+Calendar
+Code / Constitution
+House
+Senate
+
+Terms of Use/Privacy Policy
+
+ADA
+Utah.gov
+
+
+
+
+
+
+

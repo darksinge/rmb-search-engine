@@ -1,0 +1,690 @@
+Sponsors: []Modifications: is, subject to Section 
+
+59-11-102.5
+
+,, subject to Section 
+
+59-11-102.5
+
+,,is, subject to Section
+
+59-11-102.5
+
+,,is, subject to Section 
+
+59-11-102.5
+
+,,    59-11-102.5.(1)  If the federal estate tax imposed by Section 2001, Internal Revenue Code, is ineffect on the date of the decedent's death, the tax under this chapter shall be determined using:(a)  the federal credit allowed by Section 2011 as it was in effect on January 1, 2001;and(b)  other provisions of federal estate tax law, including the unified credit allowedagainst the federal estate tax under Section 2010, Internal Revenue Code, as the provisionswere in effect on the date of the decedent's death.(2)  If the federal estate tax imposed by Section 2001, Internal Revenue Code, is not ineffect on the date of the decedent's death, the tax under this chapter shall be determined using:(a)  the federal credit allowed by Section 2011 as it was in effect on January 1, 2001;and(b)  other provisions of federal estate tax law, including the unified credit allowedagainst the federal estate tax under Section 2010, Internal Revenue Code, as the provisionswere in effect on the date immediately preceding the effective date of the repeal of the federalestate tax imposed by Section 2001, Internal Revenue Code.Full text:
+
+
+
+Utah State Legislature
+
+
+
+
+
+
+
+
+
+
+
+
+Legislators
+
+By Session (1896-Current)
+Alphabetical (Historical)
+Find by Address/Map
+More
+
+
+Bills
+
+Bills/Bill Requests
+Passed Bills
+2017 Bills
+
+Keyword Search
+Reading Calendars
+Tracking Service
+More
+
+
+Committees
+
+All Committees
+Appropriations
+Commissions
+
+Independent Legislative Ethics Commission
+Interim
+Standing
+Subcommittees
+Task Forces
+Bills In Committees
+
+
+Utah Code / Constitution
+
+
+Title/Chapter/Section
+Keyword Search 
+
+Utah Constitution
+Laws of Utah 1851-ongoing
+Utah Territorial Laws 
+More
+
+
+Senate
+
+Main Page 
+About The Senate 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Extraordinary Sessions 
+Reading Calendars 
+Past Floor Debates 
+Senate Journals 
+
+
+House
+
+Main Page
+About the House 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Reading Calendars 
+Past Floor Debates 
+Journals 
+Conflict of Interest Forms 
+
+
+Legislative Guide 
+
+Legislative Guide
+Civic Programs
+GRAMA (Records Requests)
+
+
+Publications
+
+Search Publications
+Appropriations
+Audits
+Bagels & Briefings
+Briefing Papers
+Digest of Legislation
+Legislative Drafting Manual
+
+Journals
+
+Interim Highlights
+
+Legislative Rules
+GRAMA (Records Requests)
+Public Email
+State Organization Charts
+YouTube Channel
+Requests for Proposals and Legal Notices
+More
+
+
+Legislative Histories
+
+Legislative History Resources
+How to Research
+Bill Drafting/Research Files (1990-Ongoing)
+
+Working Bills (1896-1989)
+Interim Committee Histories (1990-Ongoing) 
+Journals
+Past House Floor Debates
+Past Senate Floor Debates
+More
+
+
+Staff Offices
+
+All Legislative Offices
+Auditor General
+Fiscal Analyst
+Printing
+Research and General Counsel
+Staff Awards
+Job Opportunities
+More
+
+
+Links of Interest
+
+Utah Administrative Rules
+Courts
+Utah State Capitol
+State of Utah
+Federal Legislation
+More
+
+
+
+
+
+
+ 
+
+Download Zipped Introduced WordPerfect HB0352.ZIP
+[Status][Bill Documents][Fiscal Note][Bills Directory]
+
+
+H.B. 352
+
+
+
+
+
+            
+1
+
+    
+ INHERITANCE TAX ACT AMENDMENTS
+
+
+
+            
+2
+
+    
+2004 GENERAL SESSION
+
+            
+3
+
+    
+STATE OF UTAH
+
+            
+4
+
+    
+
+
+ Sponsor: Brent H. Goodfellow
+
+
+
+            
+5
+
+    
+
+            
+6
+
+    
+ LONG TITLE
+            
+7
+
+    
+ General Description:
+            
+8
+
+    
+    This bill modifies the Inheritance Tax Act to change the manner in which the act relies
+            
+9
+
+    
+on the federal estate tax.
+            
+10
+
+    
+ Highlighted Provisions:
+            
+11
+
+    
+    This bill:
+            
+12
+
+    
+    .    provides that if the federal estate tax is in effect at the death of a decedent, the
+            
+13
+
+    
+inheritance tax shall be calculated using certain provisions of federal law in effect
+            
+14
+
+    
+on January 1, 2001, and other provisions of federal law in effect on the date of the
+            
+15
+
+    
+decedent's death;
+            
+16
+
+    
+    .    provides that if the federal estate tax is not in effect at the death of a decedent, the
+            
+17
+
+    
+inheritance tax shall be calculated using certain provisions of federal law in effect
+            
+18
+
+    
+on January 1, 2001, and other provisions of federal law in effect immediately
+            
+19
+
+    
+preceding the repeal of the federal estate tax; and
+            
+20
+
+    
+    .    makes technical changes.
+            
+21
+
+    
+ Monies Appropriated in this Bill:
+            
+22
+
+    
+    None
+            
+23
+
+    
+ Other Special Clauses:
+            
+24
+
+    
+    None
+            
+25
+
+    
+ Utah Code Sections Affected:
+            
+26
+
+    
+AMENDS:
+            
+27
+
+    
+     59-11-102, as renumbered and amended by Chapter 2, Laws of Utah 1987
+
+            
+28
+
+
+    
+ENACTS:
+            
+29
+
+    
+     59-11-102.5, Utah Code Annotated 1953
+            
+30
+
+    
+
+            
+31
+
+    
+Be it enacted by the Legislature of the state of Utah:
+            
+32
+
+    
+    Section 1.  
+Section  
+59-11-102
+
+ is amended to read:
+            
+33
+
+    
+     59-11-102.  Definitions.
+            
+34
+
+    
+    As used in this chapter:
+            
+35
+
+    
+    (1)  "Decedent" means a deceased natural person.
+            
+36
+
+    
+    (2)  "Federal credit" means the maximum amount of the credit for estate death taxes
+            
+37
+
+    
+allowed by Section 2011 in respect to a decedent's taxable estate.
+            
+38
+
+    
+    (3)  "Gross estate" [means "gross estate"] is as defined, subject to Section 
+
+59-11-102.5
+
+
+            
+39
+
+    
+in Section 2031 [of the United States], Internal Revenue Code [of 1954, as amended or
+            
+40
+
+    
+renumbered].
+            
+41
+
+    
+    (4)  "Nonresident" means a decedent who was domiciled outside of this state at the time
+            
+42
+
+    
+of death.
+            
+43
+
+    
+    (5)  "Other state" means any state in the United States other than this state, the District
+            
+44
+
+    
+of Columbia, or any possession or territory of the United States.
+            
+45
+
+    
+    (6)  "Person" includes any natural person, corporation, association, partnership, joint
+            
+46
+
+    
+venture, syndicate, estate, trust, or other entity under which business or other activities may be
+            
+47
+
+    
+conducted.
+            
+48
+
+    
+    (7)  "Personal representative" means the executor, administrator, or trustee of a
+            
+49
+
+    
+decedent's estate, or, if there is no executor, administrator, or trustee appointed, qualified, and
+            
+50
+
+    
+acting within this state, then any person in actual or constructive possession of any property of
+            
+51
+
+    
+the decedent.
+            
+52
+
+    
+    (8)  "Resident" means a decedent who was domiciled in this state at the time of death.
+            
+53
+
+    
+    (9)  "Section 2011" means, subject to Section 
+
+59-11-102.5
+
+, Section 2011 [of the United
+            
+54
+
+    
+States], Internal Revenue Code [of 1954, as amended or renumbered].
+            
+55
+
+    
+    (10)  "Taxable estate" [means "taxable estate"] is as defined, subject to Section
+            
+56
+
+    
+
+
+59-11-102.5
+
+, in Section 2051 [of the United States], Internal Revenue Code [of 1954, as
+            
+57
+
+    
+amended or renumbered].
+            
+58
+
+    
+    (11)  "Transfer" [means "transfer"] is as defined, subject to Section 
+
+59-11-102.5
+
+, in
+
+            
+59
+
+
+    
+Section 2001 [of the United States], Internal Revenue Code [of 1954, as amended or
+            
+60
+
+    
+renumbered].
+            
+61
+
+    
+    Section 2.  
+Section  
+59-11-102.5
+
+ is enacted to read:
+            
+62
+
+    
+     59-11-102.5.  Effect of federal law changes.
+            
+63
+
+    
+    (1)  If the federal estate tax imposed by Section 2001, Internal Revenue Code, is in
+            
+64
+
+    
+effect on the date of the decedent's death, the tax under this chapter shall be determined using:
+            
+65
+
+    
+    (a)  the federal credit allowed by Section 2011 as it was in effect on January 1, 2001;
+            
+66
+
+    
+and
+            
+67
+
+    
+    (b)  other provisions of federal estate tax law, including the unified credit allowed
+            
+68
+
+    
+against the federal estate tax under Section 2010, Internal Revenue Code, as the provisions
+            
+69
+
+    
+were in effect on the date of the decedent's death.
+            
+70
+
+    
+    (2)  If the federal estate tax imposed by Section 2001, Internal Revenue Code, is not in
+            
+71
+
+    
+effect on the date of the decedent's death, the tax under this chapter shall be determined using:
+            
+72
+
+    
+    (a)  the federal credit allowed by Section 2011 as it was in effect on January 1, 2001;
+            
+73
+
+    
+and
+            
+74
+
+    
+    (b)  other provisions of federal estate tax law, including the unified credit allowed
+            
+75
+
+    
+against the federal estate tax under Section 2010, Internal Revenue Code, as the provisions
+            
+76
+
+    
+were in effect on the date immediately preceding the effective date of the repeal of the federal
+            
+77
+
+    
+estate tax imposed by Section 2001, Internal Revenue Code.
+
+
+
+
+ Legislative Review Note
+    as of   2-11-04  8:53 AM
+
+A limited legal review of this legislation raises no obvious constitutional or statutory concerns.
+
+ Office of Legislative Research and General Counsel
+[Bill Documents][Bills Directory]
+
+
+
+
+
+
+
+
+
+Who represents me?
+
+
+
+
+
+Remember my Legislators
+
+
+
+
+
+State Senate
+		350 North State, Suite 320
+		PO Box 145115
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1035
+		Fax: (801) 326-1475
+
+
+
+House of Representatives
+		350 North State, Suite 350
+		PO Box 145030
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1029
+		Fax: (801) 326-1544
+
+
+
+
+
+
+
+
+
+
+Home
+Mobile Site
+Site Map
+Calendar
+Code / Constitution
+House
+Senate
+
+Terms of Use/Privacy Policy
+
+ADA
+Utah.gov
+
+
+
+
+
+
+

@@ -1,0 +1,948 @@
+Sponsors: []Modifications: (a)(i)(A)(B)(ii)(b)  A person that collects a completed absentee ballot application from a registeredvoter shall file the completed absentee ballot application with the appropriate election officialbefore the earlier of:(i)  14 days after the day on which the registered voter signed the absentee ballot form;or(ii)  the Friday before the next election.(2)  As it relates to an absentee ballot application to be filled out entirely by the voter:exceptapprove; andtheapprove an application formformform(3)  As it relates to an absentee ballot application to be filled out for, and finished andsigned by, a voter:(a)  except as provided in Subsection (3)(b), the lieutenant governor or election officershall approve an application form for absentee ballot applications in substantially the followingform:"I, ____, a qualified elector, residing at ____ Street, ____ City, ____ County, Utahapply for an official absentee ballot to be voted by me at the election.I understand that a person that collects this absentee ballot application is required to fileit with the appropriate election official before the earlier of fourteen days after the day onwhich I sign the application or the Friday before the next election.This form is provided by (insert name of person or organization).I have verified that the information on this application is correct.I understand that I will receive a ballot at the following address: (insert address and anadjacent check box);ORI request that the ballot be mailed to the following address: (insert blank space for anaddress and an adjacent check box).Date ________ (month\day\year) Signed ___________________________Voter"; and(b)  the lieutenant governor or election officer shall approve an application form forregular primary elections and for the Western States Presidential Primary in substantially thefollowing form:"I, ____, a qualified elector, residing at ____ Street, ____ City, ____ County, Utahapply for an official absentee ballot for the _______________ political party to be voted by meat the primary election.I understand that I must be affiliated with or authorized to vote the political party'sballot that I request.  I understand that a person that collects this absentee ballot application isrequired to file it with the appropriate election official before the earlier of fourteen days afterthe day on which I sign the application or the Friday before the next primary election.This form is provided by (insert name of person or organization).I have verified that the information on this application is correct.I understand that I will receive a ballot at the following address: (insert address and anadjacent check box);ORI request that the ballot be mailed to the following address: (insert blank space for anaddress and an adjacent check box).Dated _________ (month\day\year) ____ Signed ___________________________Voter"(4)  The forms described in Subsections (2) and (3) shall contain instructions on how avoter may cancel an absentee ballot application.(5)  A(6)If this S.B. 24 and H.B. 204, Election Amendments, both pass and become law, it is theintent of the Legislature that the Office of Legislative Research and General Counsel, inpreparing the Utah Code database for publication, modify Subsections 
+
+20A-3-304
+
+(1)(b)(ii) and(3) by deleting the word "Friday" and replacing it with the word "Thursday".Full text:
+
+
+
+Utah State Legislature
+
+
+
+
+
+
+
+
+
+
+
+
+Legislators
+
+By Session (1896-Current)
+Alphabetical (Historical)
+Find by Address/Map
+More
+
+
+Bills
+
+Bills/Bill Requests
+Passed Bills
+2017 Bills
+
+Keyword Search
+Reading Calendars
+Tracking Service
+More
+
+
+Committees
+
+All Committees
+Appropriations
+Commissions
+
+Independent Legislative Ethics Commission
+Interim
+Standing
+Subcommittees
+Task Forces
+Bills In Committees
+
+
+Utah Code / Constitution
+
+
+Title/Chapter/Section
+Keyword Search 
+
+Utah Constitution
+Laws of Utah 1851-ongoing
+Utah Territorial Laws 
+More
+
+
+Senate
+
+Main Page 
+About The Senate 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Extraordinary Sessions 
+Reading Calendars 
+Past Floor Debates 
+Senate Journals 
+
+
+House
+
+Main Page
+About the House 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Reading Calendars 
+Past Floor Debates 
+Journals 
+Conflict of Interest Forms 
+
+
+Legislative Guide 
+
+Legislative Guide
+Civic Programs
+GRAMA (Records Requests)
+
+
+Publications
+
+Search Publications
+Appropriations
+Audits
+Bagels & Briefings
+Briefing Papers
+Digest of Legislation
+Legislative Drafting Manual
+
+Journals
+
+Interim Highlights
+
+Legislative Rules
+GRAMA (Records Requests)
+Public Email
+State Organization Charts
+YouTube Channel
+Requests for Proposals and Legal Notices
+More
+
+
+Legislative Histories
+
+Legislative History Resources
+How to Research
+Bill Drafting/Research Files (1990-Ongoing)
+
+Working Bills (1896-1989)
+Interim Committee Histories (1990-Ongoing) 
+Journals
+Past House Floor Debates
+Past Senate Floor Debates
+More
+
+
+Staff Offices
+
+All Legislative Offices
+Auditor General
+Fiscal Analyst
+Printing
+Research and General Counsel
+Staff Awards
+Job Opportunities
+More
+
+
+Links of Interest
+
+Utah Administrative Rules
+Courts
+Utah State Capitol
+State of Utah
+Federal Legislation
+More
+
+
+
+
+
+
+ 
+
+Download Zipped Enrolled WordPerfect SB0024.ZIP
+[Introduced][Status][Bill Documents][Fiscal Note][Bills Directory]
+
+
+S.B. 24 Enrolled
+
+
+
+
+
+            
+1
+
+    
+ ABSENTEE BALLOT AMENDMENTS
+
+
+
+            
+2
+
+    
+2013 GENERAL SESSION
+
+            
+3
+
+    
+STATE OF UTAH
+
+            
+4
+
+    
+
+
+ Chief Sponsor:  Peter C. Knudson
+
+
+
+            
+5
+
+    
+
+
+
+House Sponsor:  
+
+
+
+
+
+
+Kraig  Powell
+
+
+
+
+
+            
+6
+
+    
+
+            
+7
+
+    
+ LONG TITLE
+            
+8
+
+    
+ General Description:
+            
+9
+
+    
+    This bill amends provisions in Title 20A, Election Code, regarding absentee ballots.
+            
+10
+
+    
+ Highlighted Provisions:
+            
+11
+
+    
+    This bill:
+            
+12
+
+    
+    .    requires the lieutenant governor to approve a separate absentee ballot application
+            
+13
+
+    
+form for a circumstance where the application will be filled out for, and finished
+            
+14
+
+    
+and signed by, a voter;
+            
+15
+
+    
+    .    establishes a filing deadline for a person that collects a completed absentee ballot
+            
+16
+
+    
+application from a registered voter; and
+            
+17
+
+    
+    .    makes technical and conforming amendments.
+            
+18
+
+    
+ Money Appropriated in this Bill:
+            
+19
+
+    
+    None
+            
+20
+
+    
+ Other Special Clauses:
+            
+21
+
+    
+    This bill coordinates with H.B. 204, Election Amendments, by providing substantive
+            
+22
+
+    
+amendments.
+            
+23
+
+    
+ Utah Code Sections Affected:
+            
+24
+
+    
+AMENDS:
+            
+25
+
+    
+     20A-3-304, as last amended by Laws of Utah 2011, Chapter 17
+            
+26
+
+    
+ Utah Code Sections Affected by Coordination Clause:
+            
+27
+
+    
+     20A-3-304, as last amended by Laws of Utah 2011, Chapter 17
+            
+28
+
+    
+
+            
+29
+
+    
+Be it enacted by the Legislature of the state of Utah:
+
+            
+30
+
+
+    
+    Section 1.  
+Section  
+20A-3-304
+
+ is amended to read:
+            
+31
+
+    
+     20A-3-304.  Application for absentee ballot -- Time for filing and voting.
+            
+32
+
+    
+    (1) (a)  Any registered voter who wishes to vote an absentee ballot may either:
+            
+33
+
+    
+    [(a)] (i)  file an absentee ballot application:
+            
+34
+
+    
+    [(i)] (A)  on the electronic system maintained by the lieutenant governor under Section
+            
+35
+
+    
+
+20A-2-206
+
+; or
+            
+36
+
+    
+    [(ii)] (B)  with the appropriate election officer for an official absentee ballot as provided
+            
+37
+
+    
+in this section; or
+            
+38
+
+    
+    [(b)] (ii)  vote in person at the office of the appropriate election officer as provided in
+            
+39
+
+    
+Section 
+
+20A-3-306
+
+.
+            
+40
+
+    
+    (b)  A person that collects a completed absentee ballot application from a registered
+            
+41
+
+    
+voter shall file the completed absentee ballot application with the appropriate election official
+            
+42
+
+    
+before the earlier of:
+            
+43
+
+    
+    (i)  14 days after the day on which the registered voter signed the absentee ballot form;
+            
+44
+
+    
+or
+            
+45
+
+    
+    (ii)  the Friday before the next election.
+            
+46
+
+    
+    (2)  As it relates to an absentee ballot application to be filled out entirely by the voter:
+            
+47
+
+    
+    [(2)] (a)  [Except] except as provided in Subsection (2)(b), the lieutenant governor or
+            
+48
+
+    
+election officer shall [prepare] approve an application form for absentee ballot applications in
+            
+49
+
+    
+substantially the following form:
+            
+50
+
+    
+    "I, ____, a qualified elector, residing at ____ Street, ____ City, ____ County, Utah
+            
+51
+
+    
+apply for an official absentee ballot to be voted by me at the election.
+            
+52
+
+    
+    Date ________ (month\day\year) Signed ___________________________
+            
+53
+
+    
+                                Voter"; and
+            
+54
+
+    
+    (b)  [The] the lieutenant governor or election officer shall [prepare blank applications
+            
+55
+
+    
+for absentee ballot applications] approve an application form for regular primary elections and
+            
+56
+
+    
+for the Western States Presidential Primary in substantially the following form:
+            
+57
+
+    
+    "I, ____, a qualified elector, residing at ____ Street, ____ City, ____ County, Utah
+
+            
+58
+
+
+    
+apply for an official absentee ballot for the _______________ political party to be voted by me
+            
+59
+
+    
+at the primary election.
+            
+60
+
+    
+    I understand that I must be affiliated with or authorized to vote the political party's
+            
+61
+
+    
+ballot that I request.
+            
+62
+
+    
+    Dated _________ (month\day\year) ____ Signed ___________________________
+            
+63
+
+    
+                                    Voter"
+            
+64
+
+    
+    (c)  If requested by the applicant, the election officer shall:
+            
+65
+
+    
+    (i)  mail or fax the application [blank] form to the absentee voter; or
+            
+66
+
+    
+    (ii)  deliver the application [blank] form to any voter who personally applies for it at the
+            
+67
+
+    
+office of the election officer.
+            
+68
+
+    
+    [(3) (a)  Except as provided in Subsection (3)(b), a]
+            
+69
+
+    
+    (3)  As it relates to an absentee ballot application to be filled out for, and finished and
+            
+70
+
+    
+signed by, a voter:
+            
+71
+
+    
+    (a)  except as provided in Subsection (3)(b), the lieutenant governor or election officer
+            
+72
+
+    
+shall approve an application form for absentee ballot applications in substantially the following
+            
+73
+
+    
+form:
+            
+74
+
+    
+    "I, ____, a qualified elector, residing at ____ Street, ____ City, ____ County, Utah
+            
+75
+
+    
+apply for an official absentee ballot to be voted by me at the election.
+            
+76
+
+    
+    I understand that a person that collects this absentee ballot application is required to file
+            
+77
+
+    
+it with the appropriate election official before the earlier of fourteen days after the day on
+            
+78
+
+    
+which I sign the application or the Friday before the next election.
+            
+79
+
+    
+    This form is provided by (insert name of person or organization).
+            
+80
+
+    
+    I have verified that the information on this application is correct.
+            
+81
+
+    
+    I understand that I will receive a ballot at the following address: (insert address and an
+            
+82
+
+    
+adjacent check box);
+            
+83
+
+    
+    OR
+            
+84
+
+    
+    I request that the ballot be mailed to the following address: (insert blank space for an
+            
+85
+
+    
+address and an adjacent check box).
+
+            
+86
+
+
+    
+    Date ________ (month\day\year) Signed ___________________________
+            
+87
+
+    
+    Voter"; and
+            
+88
+
+    
+    (b)  the lieutenant governor or election officer shall approve an application form for
+            
+89
+
+    
+regular primary elections and for the Western States Presidential Primary in substantially the
+            
+90
+
+    
+following form:
+            
+91
+
+    
+    "I, ____, a qualified elector, residing at ____ Street, ____ City, ____ County, Utah
+            
+92
+
+    
+apply for an official absentee ballot for the _______________ political party to be voted by me
+            
+93
+
+    
+at the primary election.
+            
+94
+
+    
+    I understand that I must be affiliated with or authorized to vote the political party's
+            
+95
+
+    
+ballot that I request.  I understand that a person that collects this absentee ballot application is
+            
+96
+
+    
+required to file it with the appropriate election official before the earlier of fourteen days after
+            
+97
+
+    
+the day on which I sign the application or the Friday before the next primary election.
+            
+98
+
+    
+    This form is provided by (insert name of person or organization).
+            
+99
+
+    
+    I have verified that the information on this application is correct.
+            
+100
+
+    
+    I understand that I will receive a ballot at the following address: (insert address and an
+            
+101
+
+    
+adjacent check box);
+            
+102
+
+    
+    OR
+            
+103
+
+    
+    I request that the ballot be mailed to the following address: (insert blank space for an
+            
+104
+
+    
+address and an adjacent check box).
+            
+105
+
+    
+    Dated _________ (month\day\year) ____ Signed ___________________________
+            
+106
+
+    
+    Voter"
+            
+107
+
+    
+    (4)  The forms described in Subsections (2) and (3) shall contain instructions on how a
+            
+108
+
+    
+voter may cancel an absentee ballot application.
+            
+109
+
+    
+    (5)  A voter who wishes to vote by absentee ballot shall file the application for an
+            
+110
+
+    
+absentee ballot with the lieutenant governor or appropriate election officer no later than the
+            
+111
+
+    
+Friday before election day.
+            
+112
+
+    
+    [(b)  Overseas applicants shall file their applications with the appropriate election
+            
+113
+
+    
+officer no later than 20 days before election day.]
+
+            
+114
+
+
+    
+    [(4)] (6) (a)  A county clerk may establish a permanent absentee voter list.
+            
+115
+
+    
+    (b)  The clerk shall place on the list the name of any person who:
+            
+116
+
+    
+    (i)  requests permanent absentee voter status; and
+            
+117
+
+    
+    (ii)  meets the requirements of this section.
+            
+118
+
+    
+    (c) (i)  Each year, the clerk shall mail a questionnaire to each person whose name is on
+            
+119
+
+    
+the absentee voter list.
+            
+120
+
+    
+    (ii)  The questionnaire shall allow the absentee person to verify the voter's residence.
+            
+121
+
+    
+    (iii)  The clerk may remove the names of any voter from the absentee voter registration
+            
+122
+
+    
+list if:
+            
+123
+
+    
+    (A)  the voter is no longer listed in the official register; or
+            
+124
+
+    
+    (B)  the voter fails to verify the voter's residence and absentee status.
+            
+125
+
+    
+    (d)  The clerk shall provide a copy of the permanent absentee voter list to election
+            
+126
+
+    
+officers for use in elections.
+            
+127
+
+    
+    Section 2.    Coordinating S.B. 24 with H.B. 204 -- Substantive amendments.
+            
+128
+
+    
+    If this S.B. 24 and H.B. 204, Election Amendments, both pass and become law, it is the
+            
+129
+
+    
+intent of the Legislature that the Office of Legislative Research and General Counsel, in
+            
+130
+
+    
+preparing the Utah Code database for publication, modify Subsections 
+
+20A-3-304
+
+(1)(b)(ii) and
+            
+131
+
+    
+(3) by deleting the word "Friday" and replacing it with the word "Thursday".
+[Bill Documents][Bills Directory]
+
+
+
+
+
+
+
+
+
+Who represents me?
+
+
+
+
+
+Remember my Legislators
+
+
+
+
+
+State Senate
+		350 North State, Suite 320
+		PO Box 145115
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1035
+		Fax: (801) 326-1475
+
+
+
+House of Representatives
+		350 North State, Suite 350
+		PO Box 145030
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1029
+		Fax: (801) 326-1544
+
+
+
+
+
+
+
+
+
+
+Home
+Mobile Site
+Site Map
+Calendar
+Code / Constitution
+House
+Senate
+
+Terms of Use/Privacy Policy
+
+ADA
+Utah.gov
+
+
+
+
+
+
+

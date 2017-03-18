@@ -1,0 +1,1556 @@
+Sponsors: []Modifications: :(i)one of the followingapproved by the commissioner:(A);(B)  a;(C)  a; or(D)  a brokerage firm; and(ii)  that:(A);(B);(C)or(D)  brokerage firm; andAn:(a)described in Subsection (1);(b)the securities(3) (a)  If the department finds that an insurer is in violation of this section, the insureris subject to:(i)  a fine;(ii)  suspension of a license;(iii)  revocation of a license;(iv)  another penalty permitted by Section 
+
+31A-2-308
+
+; or(v)  any combination of Subsections (3)(a)(i) through (iv).(b)  An insurer may not provide for the custody of the insurer's securities except asgranted by this section.(c)  Securities of an insurer kept under a custodial agreement or trust arrangement inviolation of this section shall be disregarded in:(i)  determining the financial condition of the insurer; or(ii)  reporting the financial condition of the insurer.(a)or(b)  American depository receipts if traded on one of the following exchanges:(i)  New York;(ii)  American; or(iii)  NASDAQ;(13)  American depository receipts not traded on one of the following exchanges:(a)  New York;(b)  American; or(c)  NASDAQ;(14)  investments other than those listed in Subsections (1) through (13) that aredetermined to be admitted in the Accounting Practices and Procedures Manual, published bythe National Association of Insurance Commissioners; and(15)(m):(i); or(ii)  for:(i),;or(ii)  for(m)  For investments authorized under Subsections 
+
+31A-18-105
+
+(13) and (14), theaggregate limitation is 10% of assets.:(A)that is located in the United States;(B)Full text:
+
+
+
+Utah State Legislature
+
+
+
+
+
+
+
+
+
+
+
+
+Legislators
+
+By Session (1896-Current)
+Alphabetical (Historical)
+Find by Address/Map
+More
+
+
+Bills
+
+Bills/Bill Requests
+Passed Bills
+2017 Bills
+
+Keyword Search
+Reading Calendars
+Tracking Service
+More
+
+
+Committees
+
+All Committees
+Appropriations
+Commissions
+
+Independent Legislative Ethics Commission
+Interim
+Standing
+Subcommittees
+Task Forces
+Bills In Committees
+
+
+Utah Code / Constitution
+
+
+Title/Chapter/Section
+Keyword Search 
+
+Utah Constitution
+Laws of Utah 1851-ongoing
+Utah Territorial Laws 
+More
+
+
+Senate
+
+Main Page 
+About The Senate 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Extraordinary Sessions 
+Reading Calendars 
+Past Floor Debates 
+Senate Journals 
+
+
+House
+
+Main Page
+About the House 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Reading Calendars 
+Past Floor Debates 
+Journals 
+Conflict of Interest Forms 
+
+
+Legislative Guide 
+
+Legislative Guide
+Civic Programs
+GRAMA (Records Requests)
+
+
+Publications
+
+Search Publications
+Appropriations
+Audits
+Bagels & Briefings
+Briefing Papers
+Digest of Legislation
+Legislative Drafting Manual
+
+Journals
+
+Interim Highlights
+
+Legislative Rules
+GRAMA (Records Requests)
+Public Email
+State Organization Charts
+YouTube Channel
+Requests for Proposals and Legal Notices
+More
+
+
+Legislative Histories
+
+Legislative History Resources
+How to Research
+Bill Drafting/Research Files (1990-Ongoing)
+
+Working Bills (1896-1989)
+Interim Committee Histories (1990-Ongoing) 
+Journals
+Past House Floor Debates
+Past Senate Floor Debates
+More
+
+
+Staff Offices
+
+All Legislative Offices
+Auditor General
+Fiscal Analyst
+Printing
+Research and General Counsel
+Staff Awards
+Job Opportunities
+More
+
+
+Links of Interest
+
+Utah Administrative Rules
+Courts
+Utah State Capitol
+State of Utah
+Federal Legislation
+More
+
+
+
+
+
+
+ 
+
+Download Zipped Introduced WordPerfect HB0033.ZIP
+[Status][Bill Documents][Fiscal Note][Bills Directory]
+
+
+H.B. 33
+
+
+
+
+
+            
+1
+
+    
+ INSURANCE RELATED INVESTMENT
+
+            
+2
+
+    
+ AMENDMENTS
+
+
+            
+3
+
+    
+2006 GENERAL SESSION
+
+            
+4
+
+    
+STATE OF UTAH
+
+            
+5
+
+    
+ Chief Sponsor:  James A. Dunnigan
+
+            
+6
+
+    
+
+Senate Sponsor: 
+
+
+  Curtis S. Bramble
+
+
+
+            
+7
+
+    
+
+            
+8
+
+    
+ LONG TITLE
+            
+9
+
+    
+ General Description:
+            
+10
+
+    
+    This bill modifies the Insurance Code related to investments.
+            
+11
+
+    
+ Highlighted Provisions:
+            
+12
+
+    
+    This bill:
+            
+13
+
+    
+    .    modifies the power to hold property in other than an insurer's own name including:
+            
+14
+
+    
+        .    enforcement of these provisions; and
+            
+15
+
+    
+        .    treatment of securities kept in violation of the provisions;
+            
+16
+
+    
+    .    expands the permitted classes of investment;
+            
+17
+
+    
+    .    modifies investment limitations; and
+            
+18
+
+    
+    .    makes technical changes.
+            
+19
+
+    
+ Monies Appropriated in this Bill:
+            
+20
+
+    
+    None
+            
+21
+
+    
+ Other Special Clauses:
+            
+22
+
+    
+    None
+            
+23
+
+    
+ Utah Code Sections Affected:
+            
+24
+
+    
+AMENDS:
+            
+25
+
+    
+     31A-4-108, as last amended by Chapters 60 and 344, Laws of Utah 1995
+            
+26
+
+    
+     31A-18-105, as last amended by Chapter 116, Laws of Utah 2001
+            
+27
+
+    
+     31A-18-106, as last amended by Chapter 90, Laws of Utah 2004
+
+            
+28
+
+
+    
+
+            
+29
+
+    
+Be it enacted by the Legislature of the state of Utah:
+            
+30
+
+    
+    Section 1.  
+Section  
+31A-4-108
+
+ is amended to read:
+            
+31
+
+    
+     31A-4-108.  Power to hold property in other than own name.
+            
+32
+
+    
+    (1)  An insurer shall hold all investments and deposits of its funds in its own name
+            
+33
+
+    
+except:
+            
+34
+
+    
+    (a)  securities:
+            
+35
+
+    
+    (i)  kept under a custodial agreement or trust arrangement with one of the following
+            
+36
+
+    
+approved by the commissioner:
+            
+37
+
+    
+    (A)  a bank[,];
+            
+38
+
+    
+    (B)  a securities firm's trust company[, or];
+            
+39
+
+    
+    (C)  a trust company [approved by the commissioner, which]; or
+            
+40
+
+    
+    (D)  a brokerage firm; and
+            
+41
+
+    
+    (ii)  that may be issued in the name of a nominee of the:
+            
+42
+
+    
+    (A)  bank[,];
+            
+43
+
+    
+    (B)  securities firm's trust company[, or];
+            
+44
+
+    
+    (C)  trust company; [and] or
+            
+45
+
+    
+    (D)  brokerage firm; and
+            
+46
+
+    
+    (b)  securities that may be acquired and held in bearer form. 
+            
+47
+
+    
+    (2)  [The] An insurer shall take steps which the commissioner reasonably prescribes by
+            
+48
+
+    
+rule or order to:
+            
+49
+
+    
+    (a)  safeguard the securities described in Subsection (1); and [to]
+            
+50
+
+    
+    (b)  ensure that [they] the securities are not loaned to other insurers, affiliated or not, to
+            
+51
+
+    
+mislead the commissioner about the true financial condition of either the lending or the
+            
+52
+
+    
+borrowing insurer.
+            
+53
+
+    
+    (3) (a)  If the department finds that an insurer is in violation of this section, the insurer
+            
+54
+
+    
+is subject to:
+            
+55
+
+    
+    (i)  a fine;
+            
+56
+
+    
+    (ii)  suspension of a license;
+            
+57
+
+    
+    (iii)  revocation of a license;
+            
+58
+
+    
+    (iv)  another penalty permitted by Section 
+
+31A-2-308
+
+; or
+
+            
+59
+
+
+    
+    (v)  any combination of Subsections (3)(a)(i) through (iv).
+            
+60
+
+    
+    (b)  An insurer may not provide for the custody of the insurer's securities except as
+            
+61
+
+    
+granted by this section.
+            
+62
+
+    
+    (c)  Securities of an insurer kept under a custodial agreement or trust arrangement in
+            
+63
+
+    
+violation of this section shall be disregarded in:
+            
+64
+
+    
+    (i)  determining the financial condition of the insurer; or
+            
+65
+
+    
+    (ii)  reporting the financial condition of the insurer.
+            
+66
+
+    
+    Section 2.  
+Section  
+31A-18-105
+
+ is amended to read:
+            
+67
+
+    
+     31A-18-105.  Permitted classes of investments.
+            
+68
+
+    
+    The following classes of investment may be counted for the purposes specified under
+            
+69
+
+    
+Chapter 17, Part 6, Risk-Based Capital:
+            
+70
+
+    
+    (1)  bonds or other evidences of indebtedness of:
+            
+71
+
+    
+    (a) (i)  governmental units in the United States or Canada;
+            
+72
+
+    
+    (ii)  instrumentalities of the governmental units described in Subsection (1)(a)(i); or
+            
+73
+
+    
+    (iii)  private corporations domiciled in the United States; and
+            
+74
+
+    
+    (b)  including demand deposits and certificates of deposits in solvent banks and savings
+            
+75
+
+    
+and loan institutions;
+            
+76
+
+    
+    (2)  equipment trust obligations or certificates that are adequately secured instruments
+            
+77
+
+    
+evidencing an interest in transportation equipment that is located wholly or in part within the
+            
+78
+
+    
+United States, with a right to receive determined portions of the rental, or to purchase other
+            
+79
+
+    
+fixed obligatory payments for the use or purchase of the transportation equipment;
+            
+80
+
+    
+    (3)  loans secured by:
+            
+81
+
+    
+    (a)  mortgages;
+            
+82
+
+    
+    (b)  trust deeds; or
+            
+83
+
+    
+    (c)  other statutorily authorized types of security interests in real estate located in the
+            
+84
+
+    
+United States;
+            
+85
+
+    
+    (4)  loans secured by pledged securities or evidences of debt eligible for investment
+            
+86
+
+    
+under this section;
+            
+87
+
+    
+    (5)  preferred stocks of United States corporations;
+            
+88
+
+    
+    (6) (a)  common stocks of United States corporations; or
+            
+89
+
+    
+    (b)  American depository receipts if traded on one of the following exchanges:
+
+            
+90
+
+
+    
+    (i)  New York;
+            
+91
+
+    
+    (ii)  American; or
+            
+92
+
+    
+    (iii)  NASDAQ;
+            
+93
+
+    
+    (7)  real estate which is used as the home office or branch office of the insurer;
+            
+94
+
+    
+    (8)  real estate in the United States which produces substantial income;
+            
+95
+
+    
+    (9)  loans upon the security of the insurer's own policies in amounts that are adequately
+            
+96
+
+    
+secured by the policies and that do not exceed the surrender value of the policies;
+            
+97
+
+    
+    (10)  financial futures contracts used for hedging and not for speculation, as approved
+            
+98
+
+    
+under rules adopted by the commissioner;
+            
+99
+
+    
+    (11)  investments in foreign securities of the classes permitted under this section as
+            
+100
+
+    
+required for compliance with Section 
+
+31A-18-103
+
+;
+            
+101
+
+    
+    (12)  investments permitted under Subsection 
+
+31A-18-102
+
+(2); [and]
+            
+102
+
+    
+    (13)  American depository receipts not traded on one of the following exchanges:
+            
+103
+
+    
+    (a)  New York;
+            
+104
+
+    
+    (b)  American; or
+            
+105
+
+    
+    (c)  NASDAQ;
+            
+106
+
+    
+    (14)  investments other than those listed in Subsections (1) through (13) that are
+            
+107
+
+    
+determined to be admitted in the Accounting Practices and Procedures Manual, published by
+            
+108
+
+    
+the National Association of Insurance Commissioners; and
+            
+109
+
+    
+    [(13)] (15)  other investments as the commissioner authorizes by rule.
+            
+110
+
+    
+    Section 3.  
+Section  
+31A-18-106
+
+ is amended to read:
+            
+111
+
+    
+     31A-18-106.  Investment limitations generally applicable.
+            
+112
+
+    
+    (1)  The investment limitations listed in Subsections (1)(a) through [(l)] (m) apply to
+            
+113
+
+    
+each insurer.
+            
+114
+
+    
+    (a) (i)  Except as provided in Subsection (1)(a)(ii), for investments authorized under
+            
+115
+
+    
+Subsection 
+
+31A-18-105
+
+(1) that are not amortizable under applicable valuation rules, the
+            
+116
+
+    
+limitation is 5% of assets.
+            
+117
+
+    
+    (ii)  The limitation of Subsection (1)(a)(i) and the limitation of Subsection (2) do not
+            
+118
+
+    
+apply to demand deposits and certificates of deposit in solvent banks and savings and loan
+            
+119
+
+    
+institutions to the extent they are insured by a federal deposit insurance agency.
+            
+120
+
+    
+    (b)  For investments authorized under Subsection 
+
+31A-18-105
+
+(2), the limitation is 10%
+
+            
+121
+
+
+    
+of assets.
+            
+122
+
+    
+    (c)  For investments authorized under Subsection 
+
+31A-18-105
+
+(3), the limitation is 50%
+            
+123
+
+    
+of assets.
+            
+124
+
+    
+    (d)  For investments authorized under Subsection 
+
+31A-18-105
+
+(4), that are considered to
+            
+125
+
+    
+be investments in kinds of securities or evidences of debt pledged, those investments are
+            
+126
+
+    
+subject to the class limitations applicable to the pledged securities or evidences of debt.
+            
+127
+
+    
+    (e)  For investments authorized under Subsection 
+
+31A-18-105
+
+(5), the limitation is 35%
+            
+128
+
+    
+of assets.
+            
+129
+
+    
+    (f)  For investments authorized under Subsection 
+
+31A-18-105
+
+(6), the limitation is:
+            
+130
+
+    
+    (i)  20% of assets for life insurers; and
+            
+131
+
+    
+    (ii)  50% of assets for nonlife insurers.
+            
+132
+
+    
+    (g)  For investments authorized under Subsection 
+
+31A-18-105
+
+(7), the limitation is:
+            
+133
+
+    
+    (i)  5% of assets[, except as to]; or
+            
+134
+
+    
+    (ii)  for insurers organized and operating under Chapter 7, Nonprofit Health Service
+            
+135
+
+    
+Insurance Corporations, [in which case the limitation is] 25% of assets.
+            
+136
+
+    
+    (h)  For investments authorized under Subsection 
+
+31A-18-105
+
+(8), the limitation is:
+            
+137
+
+    
+    (i)  20% of assets, inclusive of home office and branch office properties[, except as to];
+            
+138
+
+    
+or
+            
+139
+
+    
+    (ii)  for insurers organized and operating under Chapter 7, Nonprofit Health Service
+            
+140
+
+    
+Insurance Corporations, [in which case the limitation is] 35% of assets, inclusive of home
+            
+141
+
+    
+office and branch office properties.
+            
+142
+
+    
+    (i)  For investments authorized under Subsection 
+
+31A-18-105
+
+(10), the limitation is 1%
+            
+143
+
+    
+of assets.
+            
+144
+
+    
+    (j)  For investments authorized under Subsection 
+
+31A-18-105
+
+(11), the limitation is the
+            
+145
+
+    
+greater of that permitted or required for compliance with Section 
+
+31A-18-103
+
+.
+            
+146
+
+    
+    (k)  Except as provided in Subsection (1)(l), an insurer's investments in subsidiaries is
+            
+147
+
+    
+limited to 50% of the insurer's total adjusted capital.  Investments by an insurer in its
+            
+148
+
+    
+subsidiaries includes:
+            
+149
+
+    
+    (i)  the insurer's loans, advances, and contributions to its subsidiaries; and
+            
+150
+
+    
+    (ii)  the insurer's holding of bonds, notes, and stocks of its subsidiaries are included.
+            
+151
+
+    
+    (l)  Under a plan of merger approved by the commissioner, the commissioner may
+
+            
+152
+
+
+    
+allow an insurer any portion of its assets invested in an insurance subsidiary.  The approved
+            
+153
+
+    
+plan of merger shall require the acquiring insurer to conform its accounting for investments in
+            
+154
+
+    
+subsidiaries to Subsection (1)(k) within a specified period that may not exceed five years.
+            
+155
+
+    
+    (m)  For investments authorized under Subsections 
+
+31A-18-105
+
+(13) and (14), the
+            
+156
+
+    
+aggregate limitation is 10% of assets.
+            
+157
+
+    
+    (2)  The limits on investments listed in Subsections (2)(a) through (e) apply to each
+            
+158
+
+    
+insurer.
+            
+159
+
+    
+    (a)  For all investments in a single entity, its affiliates, and subsidiaries, the limitation is
+            
+160
+
+    
+10% of assets, except that the limit imposed by this Subsection (2)(a) does not apply to:
+            
+161
+
+    
+    (i)  investments in the government of the United States or its agencies;
+            
+162
+
+    
+    (ii)  investments guaranteed by the government of the United States; or
+            
+163
+
+    
+    (iii)  investments in the insurer's insurance subsidiaries.
+            
+164
+
+    
+    (b)  Investments authorized by Subsection 
+
+31A-18-105
+
+(3) shall comply with the
+            
+165
+
+    
+requirements listed in this Subsection (2)(b).
+            
+166
+
+    
+    (i) (A)  Except as provided in this Subsection (2)(b)(i), the amount of any loan secured
+            
+167
+
+    
+by a mortgage or deed of trust may not exceed 80% of the value of the real estate interest
+            
+168
+
+    
+mortgaged, unless the excess over 80%:
+            
+169
+
+    
+    (I)  is insured or guaranteed by the United States, any state of the United States, any
+            
+170
+
+    
+instrumentality, agency, or political subdivision of the United States, any of its states, or a
+            
+171
+
+    
+combination of any of these; or
+            
+172
+
+    
+    (II)  insured by an insurer approved by the commissioner and qualified to insure that
+            
+173
+
+    
+type of risk in this state.
+            
+174
+
+    
+    (B)  Mortgage loans representing purchase money mortgages acquired from the sale of
+            
+175
+
+    
+real estate are not subject to the limitation of Subsection (2)(b)(i)(A).
+            
+176
+
+    
+    (ii)  Subject to Subsection (2)(b)(v), loans or evidences of debt secured by real estate
+            
+177
+
+    
+may only be secured by:
+            
+178
+
+    
+    (A)  unencumbered real property[,] that is located in the United States; or
+            
+179
+
+    
+    (B)  an unencumbered interest in real property that is located in the United States.
+            
+180
+
+    
+    (iii)  Evidence of debt secured by first mortgages or deeds of trust upon leasehold
+            
+181
+
+    
+estates shall require that:
+            
+182
+
+    
+    (A)  the leasehold estate exceed the maturity of the loan by not less than 10% of the
+
+            
+183
+
+
+    
+lease term;
+            
+184
+
+    
+    (B)  the real estate not be otherwise encumbered; and
+            
+185
+
+    
+    (C)  the mortgagee is entitled to be subrogated to all rights under the leasehold.
+            
+186
+
+    
+    (iv)  Subject to Subsection (2)(b)(v):
+            
+187
+
+    
+    (A)  participation in any mortgage loan must:
+            
+188
+
+    
+    (I)  be senior to other participants; and
+            
+189
+
+    
+    (II)  give the holder substantially the rights of a first mortgagee; or
+            
+190
+
+    
+    (B)  the interest of the insurer in the evidence of indebtedness must be of equal priority,
+            
+191
+
+    
+to the extent of the interest, with other interests in the real property.
+            
+192
+
+    
+    (v)  A fee simple or leasehold real estate or any interest in either of them is not
+            
+193
+
+    
+considered to be encumbered within the meaning of this chapter by reason of any prior
+            
+194
+
+    
+mortgage or trust deed held or assumed by the insurer as a lien on the property, if:
+            
+195
+
+    
+    (A)  the total of the mortgages or trust deeds held does not exceed 70% of the value of
+            
+196
+
+    
+the property; and
+            
+197
+
+    
+    (B)  the security created by the prior mortgage or trust deed is a first lien.
+            
+198
+
+    
+    (c)  Loans permitted under Subsection 
+
+31A-18-105
+
+(4) may not exceed 75% of the
+            
+199
+
+    
+market value of the collateral pledged, except that loans upon the pledge of United States
+            
+200
+
+    
+government bonds may be equal to the market values of the pledge.
+            
+201
+
+    
+    (d)  For an equity interest in a single real estate property authorized under Subsection
+            
+202
+
+    
+
+31A-18-105
+
+(8), the limitation is 5% of assets.
+            
+203
+
+    
+    (e)  Investments authorized under Subsection 
+
+31A-18-105
+
+(10) shall be in connection
+            
+204
+
+    
+with potential changes in the value of specifically identified:
+            
+205
+
+    
+    (i)  assets which the insurer owns; or
+            
+206
+
+    
+    (ii)  liabilities which the insurer has incurred.
+            
+207
+
+    
+    (3)  The restrictions on investments listed in Subsections (3)(a) and (b) apply to each
+            
+208
+
+    
+insurer.
+            
+209
+
+    
+    (a)  Except for financial futures contracts and real property acquired and occupied by
+            
+210
+
+    
+the insurer for home and branch office purposes, a security or other investment is not eligible
+            
+211
+
+    
+for purchase or acquisition under this chapter unless it is:
+            
+212
+
+    
+    (i)  interest bearing or income paying; and
+            
+213
+
+    
+    (ii)  not then in default.
+
+            
+214
+
+
+    
+    (b)  A security is not eligible for purchase at a price above its market value.
+            
+215
+
+    
+    (4)  Computation of percentage limitations under this section:
+            
+216
+
+    
+    (a)  is based only upon the insurer's total qualified invested assets described in Section
+            
+217
+
+    
+
+31A-18-105
+
+ and this section, as these assets are valued under Section 
+
+31A-17-401
+
+; and
+            
+218
+
+    
+    (b)  excludes investments permitted under Section 
+
+31A-18-108
+
+ and Subsections
+            
+219
+
+    
+
+31A-17-203
+
+(2) and (3).
+            
+220
+
+    
+    (5)  An insurer may not make an investment that, because the investment does not
+            
+221
+
+    
+conform to Section 
+
+31A-18-105
+
+ and this section, has the result of rendering the insurer, under
+            
+222
+
+    
+Chapter 17, Part 6, Risk-Based Capital, subject to proceedings under Chapter 27, Insurers
+            
+223
+
+    
+Rehabilitation and Liquidation.
+            
+224
+
+    
+    (6)  A pattern of persistent deviation from the investment diversification standards set
+            
+225
+
+    
+forth in Section 
+
+31A-18-105
+
+ and this section may be grounds for a finding that the person or
+            
+226
+
+    
+persons with authority to make the insurer's investment decisions are "incompetent" as used in
+            
+227
+
+    
+Subsection 
+
+31A-5-410
+
+(3).
+            
+228
+
+    
+    (7)  Section 77r-1 of the Secondary Mortgage Market Enhancement Act of 1984 does
+            
+229
+
+    
+not apply to the purchase, holding, investment, or valuation limitations of assets of insurance
+            
+230
+
+    
+companies subject to this chapter.
+
+
+
+
+ Legislative Review Note
+    as of  11-9-05  2:48 PM
+
+Based on a limited legal review, this legislation has not been determined to have a high
+probability of being held unconstitutional.
+
+ Office of Legislative Research and General Counsel
+
+
+ Interim Committee Note
+    as of 12-21-05 12:58 PM
+
+The Business and Labor Interim Committee recommended this bill.
+[Bill Documents][Bills Directory]
+
+
+
+
+
+
+
+
+
+Who represents me?
+
+
+
+
+
+Remember my Legislators
+
+
+
+
+
+State Senate
+		350 North State, Suite 320
+		PO Box 145115
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1035
+		Fax: (801) 326-1475
+
+
+
+House of Representatives
+		350 North State, Suite 350
+		PO Box 145030
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1029
+		Fax: (801) 326-1544
+
+
+
+
+
+
+
+
+
+
+Home
+Mobile Site
+Site Map
+Calendar
+Code / Constitution
+House
+Senate
+
+Terms of Use/Privacy Policy
+
+ADA
+Utah.gov
+
+
+
+
+
+
+

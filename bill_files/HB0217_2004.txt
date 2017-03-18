@@ -1,0 +1,1286 @@
+Sponsors: []Modifications: (1)  As used in this section "capital developments" and "capital improvements" have thesame meaning as provided in Section 
+
+63A-5-104
+
+.(2)(3)(4)  Each contract entered into by the director with a contractor to perform capitaldevelopments or capital improvements shall include a provision that:(a)  requires the contractor to:(i)  comply with standard business practices in the contractor's management of theproject and relationship with subcontractors;(ii)  comply with applicable rules governing subcontractors;(iii)  comply with building codes and inspection requirements; and(iv)  pay the subcontractor for work performed by the subcontractor in accordance withthe contract between the contractor and subcontractor, even if the contractor has a dispute withthe state over an element of the work for which the subcontractor is not responsible; and(b)  requires the division to make all payments to the contractor for completed work inaccordance with the contract and to pay the interest specified in the contract on any paymentsthat are late.(5)(6) (a)  The director shall, in consultation with the State Building Board, prepare draftrules establishing a process for resolving disputes between parties, including subcontractors,involved with contracts under the division's procurement authority.(b)  The draft rules shall be presented to the Government Operations Interim Committeefor review, comment and recommendations before August 31, 2004.(c)  The director shall ensure that the rules include:(i)  requirements regarding preliminary resolution efforts between the parties directlyinvolved with the dispute;(ii)  requirements for the filing of claims, including notification, timeframes, anddocumentation;(iii)  identification of the types of costs eligible for allocation and a method forallocating costs among the parties to the dispute;(iv)  required time periods, not to exceed 60 days, for the resolution of the claim;(v)  provision for an independent hearing officer, panel, or arbitrator to extend the timeperiod for resolution of the claim by not to exceed 60 additional days for good cause;(vi)  provision for the extension of required time periods if the claimant agrees;(vii)  requirements that decisions be issued in writing;(viii)  provisions for administrative appeals of the decision;(ix)  provisions for the timely payment of claims after resolution of the dispute,including any appeals;(x)  a requirement that the final determination resulting from the dispute resolutionprocess provided for in the rules is a final agency action subject to judicial review as providedin Sections 
+
+63-46b-14
+
+ and 
+
+63-46b-15
+
+; and(xi)  a requirement that a claim or dispute that does not include a monetary claimagainst the division or its agents is not limited to the dispute resolution process provided for inthis Subsection (6).(d)  These rules may include:(i)  requirements for claims and disputes to be eligible for this dispute resolutionprocess; and(ii)  the use of an independent hearing officer, panel, arbitration, or mediation.(e)  Persons pursuing claims under the process required by this Subsection (6):(i)  are bound by the decision reached under this process unless the decision is properlyappealed; and(ii)  may not pursue claims or disputes under the dispute resolution process establishedin Sections 
+
+63-56-49
+
+ through 
+
+63-56-58
+
+.the directorFull text:
+
+
+
+Utah State Legislature
+
+
+
+
+
+
+
+
+
+
+
+
+Legislators
+
+By Session (1896-Current)
+Alphabetical (Historical)
+Find by Address/Map
+More
+
+
+Bills
+
+Bills/Bill Requests
+Passed Bills
+2017 Bills
+
+Keyword Search
+Reading Calendars
+Tracking Service
+More
+
+
+Committees
+
+All Committees
+Appropriations
+Commissions
+
+Independent Legislative Ethics Commission
+Interim
+Standing
+Subcommittees
+Task Forces
+Bills In Committees
+
+
+Utah Code / Constitution
+
+
+Title/Chapter/Section
+Keyword Search 
+
+Utah Constitution
+Laws of Utah 1851-ongoing
+Utah Territorial Laws 
+More
+
+
+Senate
+
+Main Page 
+About The Senate 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Extraordinary Sessions 
+Reading Calendars 
+Past Floor Debates 
+Senate Journals 
+
+
+House
+
+Main Page
+About the House 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Reading Calendars 
+Past Floor Debates 
+Journals 
+Conflict of Interest Forms 
+
+
+Legislative Guide 
+
+Legislative Guide
+Civic Programs
+GRAMA (Records Requests)
+
+
+Publications
+
+Search Publications
+Appropriations
+Audits
+Bagels & Briefings
+Briefing Papers
+Digest of Legislation
+Legislative Drafting Manual
+
+Journals
+
+Interim Highlights
+
+Legislative Rules
+GRAMA (Records Requests)
+Public Email
+State Organization Charts
+YouTube Channel
+Requests for Proposals and Legal Notices
+More
+
+
+Legislative Histories
+
+Legislative History Resources
+How to Research
+Bill Drafting/Research Files (1990-Ongoing)
+
+Working Bills (1896-1989)
+Interim Committee Histories (1990-Ongoing) 
+Journals
+Past House Floor Debates
+Past Senate Floor Debates
+More
+
+
+Staff Offices
+
+All Legislative Offices
+Auditor General
+Fiscal Analyst
+Printing
+Research and General Counsel
+Staff Awards
+Job Opportunities
+More
+
+
+Links of Interest
+
+Utah Administrative Rules
+Courts
+Utah State Capitol
+State of Utah
+Federal Legislation
+More
+
+
+
+
+
+
+ 
+
+Download Zipped Introduced WordPerfect HB0217.ZIP
+[Status][Bill Documents][Fiscal Note][Bills Directory]
+
+
+H.B. 217
+
+
+
+
+
+            
+1
+
+    
+ CHANGES TO DIVISION OF FACILITIES
+
+            
+2
+
+    
+ AND CONSTRUCTION MANAGEMENT
+
+            
+3
+
+    
+ CONTRACT PROCEDURES AND
+
+            
+4
+
+    
+ REQUIREMENTS
+
+
+
+            
+5
+
+    
+2004 GENERAL SESSION
+
+            
+6
+
+    
+STATE OF UTAH
+
+            
+7
+
+    
+
+
+ Sponsor: Wayne A. Harper
+
+
+
+            
+8
+
+    
+
+            
+9
+
+    
+ LONG TITLE
+            
+10
+
+    
+ General Description:
+            
+11
+
+    
+    This bill makes substantial changes to the Division of Facilities Construction and
+            
+12
+
+    
+Management (DFCM) contracting procedures and requirements for construction
+            
+13
+
+    
+contracts.
+            
+14
+
+    
+ Highlighted Provisions:
+            
+15
+
+    
+    This bill:
+            
+16
+
+    
+    .    requires DFCM to formally adopt rules establishing a process for resolving claims
+            
+17
+
+    
+made by contractors and subcontractors;
+            
+18
+
+    
+    .    defines certain elements of that process that the rule must include;
+            
+19
+
+    
+    .    requires DFCM to submit the draft rules to the Government Operations Interim
+            
+20
+
+    
+Committee for its review and comment;
+            
+21
+
+    
+    .    establishes certain contract provisions that DFCM must include in contracts with
+            
+22
+
+    
+general contractors; and
+            
+23
+
+    
+    .    makes technical corrections.
+            
+24
+
+    
+ Monies Appropriated in this Bill:
+            
+25
+
+    
+    None
+            
+26
+
+    
+ Other Special Clauses:
+            
+27
+
+    
+    None
+
+            
+28
+
+
+    
+ Utah Code Sections Affected:
+            
+29
+
+    
+AMENDS:
+            
+30
+
+    
+     63A-5-205, as last amended by Chapter 365, Laws of Utah 1999
+            
+31
+
+    
+     63A-5-208, as last amended by Chapter 91, Laws of Utah 2000
+            
+32
+
+    
+
+            
+33
+
+    
+Be it enacted by the Legislature of the state of Utah:
+            
+34
+
+    
+    Section 1.  
+Section  
+63A-5-205
+
+ is amended to read:
+            
+35
+
+    
+     63A-5-205.  Contracting powers of director -- Retainage.
+            
+36
+
+    
+    (1)  As used in this section "capital developments" and "capital improvements" have the
+            
+37
+
+    
+same meaning as provided in Section 
+
+63A-5-104
+
+.
+            
+38
+
+    
+    [(1)] (2)  In accordance with Title 63, Chapter 56, Utah Procurement Code, the director
+            
+39
+
+    
+may:
+            
+40
+
+    
+    (a) enter into contracts for any work or professional services which the division or the
+            
+41
+
+    
+State Building Board may do or have done; and
+            
+42
+
+    
+    (b) as a condition of any contract for architectural or engineering services, prohibit the
+            
+43
+
+    
+architect or engineer from retaining a sales or agent engineer for the necessary design work.
+            
+44
+
+    
+    [(2)] (3)  The judgment of the director as to the responsibility and qualifications of a
+            
+45
+
+    
+bidder is conclusive, except in case of fraud or bad faith.
+            
+46
+
+    
+    (4)  Each contract entered into by the director with a contractor to perform capital
+            
+47
+
+    
+developments or capital improvements shall include a provision that:
+            
+48
+
+    
+    (a)  requires the contractor to:
+            
+49
+
+    
+    (i)  comply with standard business practices in the contractor's management of the
+            
+50
+
+    
+project and relationship with subcontractors;
+            
+51
+
+    
+    (ii)  comply with applicable rules governing subcontractors;
+            
+52
+
+    
+    (iii)  comply with building codes and inspection requirements; and
+            
+53
+
+    
+    (iv)  pay the subcontractor for work performed by the subcontractor in accordance with
+            
+54
+
+    
+the contract between the contractor and subcontractor, even if the contractor has a dispute with
+            
+55
+
+    
+the state over an element of the work for which the subcontractor is not responsible; and
+            
+56
+
+    
+    (b)  requires the division to make all payments to the contractor for completed work in
+            
+57
+
+    
+accordance with the contract and to pay the interest specified in the contract on any payments
+            
+58
+
+    
+that are late.
+
+            
+59
+
+
+    
+    [(3)] (5)  If any payment on a contract with a private contractor to do work for the
+            
+60
+
+    
+division or the State Building Board is retained or withheld, it shall be retained or withheld and
+            
+61
+
+    
+released as provided in Section 
+
+13-8-5
+
+.
+            
+62
+
+    
+    Section 2.  
+Section  
+63A-5-208
+
+ is amended to read:
+            
+63
+
+    
+     63A-5-208.  Definitions -- Certain public construction bids to list subcontractors --
+            
+64
+
+    
+ Changing subcontractors -- Bidders as subcontractors -- Dispute resolution process --
+            
+65
+
+    
+ Penalties.
+            
+66
+
+    
+    (1)  As used in this section:
+            
+67
+
+    
+    (a)  "First-tier subcontractor" means a subcontractor who contracts directly with the
+            
+68
+
+    
+prime contractor.
+            
+69
+
+    
+    (b)  "Subcontractor" means any person or entity under contract with a contractor or
+            
+70
+
+    
+another subcontractor to provide services or labor for the construction, installation, or repair of
+            
+71
+
+    
+an improvement to real property.
+            
+72
+
+    
+    (c)  "Subcontractor" includes a trade contractor or specialty contractor.
+            
+73
+
+    
+    (d)  "Subcontractor" does not include suppliers who provide only materials, equipment,
+            
+74
+
+    
+or supplies to a contractor or subcontractor.
+            
+75
+
+    
+    (2)  The director shall apply the provisions of this section to achieve fair and
+            
+76
+
+    
+competitive bidding and to discourage bid-shopping by contractors.
+            
+77
+
+    
+    (3) (a) (i) (A)  On each public construction project, the director shall require the
+            
+78
+
+    
+apparent lowest three bidders to submit a list of their first-tier subcontractors indicating each
+            
+79
+
+    
+subcontractor's name, bid amount, and other information required by rule.
+            
+80
+
+    
+    (B)  Other bidders who are not one of the apparent lowest three bidders may also
+            
+81
+
+    
+submit a list of their first-tier subcontractors containing the information required by this
+            
+82
+
+    
+Subsection (3).
+            
+83
+
+    
+    (C)  The director may not consider any bid submitted by a bidder if the bidder fails to
+            
+84
+
+    
+submit a subcontractor list meeting the requirements of this section.
+            
+85
+
+    
+    (ii)  On projects where the contractor's total bid is less than $500,000, subcontractors
+            
+86
+
+    
+whose bid is less than $20,000 need not be listed.
+            
+87
+
+    
+    (iii)  On projects where the contractor's total bid is $500,000 or more, subcontractors
+            
+88
+
+    
+whose bid is less than $35,000 need not be listed.
+            
+89
+
+    
+    (b) (i)  The bidders shall  submit this list within 24 hours after the bid opening time, not
+
+            
+90
+
+
+    
+including Saturdays, Sundays, and state holidays.
+            
+91
+
+    
+    (ii)  This list does not limit the director's right to authorize a change in the listing of any
+            
+92
+
+    
+subcontractor.
+            
+93
+
+    
+    (c)  The bidders shall verify that all subcontractors listed as part of their bids are
+            
+94
+
+    
+licensed as required by state law.
+            
+95
+
+    
+    (d) Twenty-four hours after the bid opening, the contractor may change his
+            
+96
+
+    
+subcontractors only after:
+            
+97
+
+    
+    (i)  receiving permission from the director; and
+            
+98
+
+    
+    (ii)  establishing that:
+            
+99
+
+    
+    (A)  the change is in the best interest of the state; and
+            
+100
+
+    
+    (B)  the contractor establishes reasons for the change that meet the standards established
+            
+101
+
+    
+by the State Building Board.
+            
+102
+
+    
+    (e)  If the director approves any changes in subcontractors that result in a net lower
+            
+103
+
+    
+contract price for subcontracted work, the total of the prime contract may be reduced to reflect
+            
+104
+
+    
+the changes.
+            
+105
+
+    
+    (4) (a)  A bidder may list himself as a subcontractor when the bidder is currently
+            
+106
+
+    
+licensed to perform the portion of the work for which the bidder lists himself as a subcontractor
+            
+107
+
+    
+and:
+            
+108
+
+    
+    (i)  the bidder intends to perform the work of a subcontractor himself; or
+            
+109
+
+    
+    (ii)  the bidder intends to obtain a subcontractor to perform the work at a later date
+            
+110
+
+    
+because the bidder was unable to:
+            
+111
+
+    
+    (A)  obtain a bid from a qualified subcontractor; or
+            
+112
+
+    
+    (B)  obtain a bid from a qualified subcontractor at a cost that the bidder considers to be
+            
+113
+
+    
+reasonable.
+            
+114
+
+    
+    (b) (i)  When the bidder intends to perform the work of a subcontractor himself, the
+            
+115
+
+    
+director may, by written request, require that the bidder provide the director with information
+            
+116
+
+    
+indicating the bidder's:
+            
+117
+
+    
+    (A)  previous experience in the type of work to be performed; and
+            
+118
+
+    
+    (B)  qualifications for performing the work.
+            
+119
+
+    
+    (ii)  The bidder must respond in writing within five business days of receiving the
+            
+120
+
+    
+director's written request.
+
+            
+121
+
+
+    
+    (iii)  If the bidder's submitted information causes the director to reasonably believe that
+            
+122
+
+    
+self-performance of the portion of the work by the bidder is likely to yield a substandard
+            
+123
+
+    
+finished product, the director shall:
+            
+124
+
+    
+    (A)  require the bidder to use a subcontractor for the portion of the work in question and
+            
+125
+
+    
+obtain the subcontractor bid under the supervision of the director; or
+            
+126
+
+    
+    (B)  reject the bidder's bid.
+            
+127
+
+    
+    (c) (i)  When the bidder intends to obtain a subcontractor to perform the work at a later
+            
+128
+
+    
+date, the bidder shall provide documentation with the subcontractor list describing:
+            
+129
+
+    
+    (A)  the bidder's efforts to obtain a bid of a qualified subcontractor at a reasonable cost;
+            
+130
+
+    
+and
+            
+131
+
+    
+    (B)  why the bidder was unable to obtain a qualified subcontractor bid.
+            
+132
+
+    
+    (ii)  If the bidder who intends to obtain a subcontractor to perform the work at a later
+            
+133
+
+    
+date is awarded a contract, the director shall supervise the bidder's efforts to obtain a qualified
+            
+134
+
+    
+subcontractor bid.
+            
+135
+
+    
+    (iii)  The director may not adjust the amount of the contract awarded in order to reflect
+            
+136
+
+    
+the actual amount of the subcontractor's bid.
+            
+137
+
+    
+    (5)  The division may not disclose any subcontractor bid amounts obtained under this
+            
+138
+
+    
+section until the division has awarded the project to a contractor.
+            
+139
+
+    
+    [(6) (a)  The director may establish a Contractor Performance Review Committee to:]
+            
+140
+
+    
+    [(i)  adjudicate complaints about contractor, subcontractor, and supplier performance by
+            
+141
+
+    
+following the procedures and requirements of Section 
+
+63-56-48
+
+; and]
+            
+142
+
+    
+    [(ii)  when appropriate, impose suspensions or debarments from bidding on state
+            
+143
+
+    
+building contracts on contractors, subcontractors, and suppliers for cause.]
+            
+144
+
+    
+    [(b)  In conducting hearings and making decisions under this Subsection (6), the
+            
+145
+
+    
+Contractor Performance Review Committee is acting as the chief procurement officer or the
+            
+146
+
+    
+head of purchasing agency for purposes of Section 
+
+63-56-48
+
+.]
+            
+147
+
+    
+    (6) (a)  The director shall, in consultation with the State Building Board, prepare draft
+            
+148
+
+    
+rules establishing a process for resolving disputes between parties, including subcontractors,
+            
+149
+
+    
+involved with contracts under the division's procurement authority.
+            
+150
+
+    
+    (b)  The draft rules shall be presented to the Government Operations Interim Committee
+            
+151
+
+    
+for review, comment and recommendations before August 31, 2004.
+
+            
+152
+
+
+    
+    (c)  The director shall ensure that the rules include:
+            
+153
+
+    
+    (i)  requirements regarding preliminary resolution efforts between the parties directly
+            
+154
+
+    
+involved with the dispute;
+            
+155
+
+    
+    (ii)  requirements for the filing of claims, including notification, timeframes, and
+            
+156
+
+    
+documentation;
+            
+157
+
+    
+    (iii)  identification of the types of costs eligible for allocation and a method for
+            
+158
+
+    
+allocating costs among the parties to the dispute;
+            
+159
+
+    
+    (iv)  required time periods, not to exceed 60 days, for the resolution of the claim;
+            
+160
+
+    
+    (v)  provision for an independent hearing officer, panel, or arbitrator to extend the time
+            
+161
+
+    
+period for resolution of the claim by not to exceed 60 additional days for good cause;
+            
+162
+
+    
+    (vi)  provision for the extension of required time periods if the claimant agrees;
+            
+163
+
+    
+    (vii)  requirements that decisions be issued in writing;
+            
+164
+
+    
+    (viii)  provisions for administrative appeals of the decision;
+            
+165
+
+    
+    (ix)  provisions for the timely payment of claims after resolution of the dispute,
+            
+166
+
+    
+including any appeals;
+            
+167
+
+    
+    (x)  a requirement that the final determination resulting from the dispute resolution
+            
+168
+
+    
+process provided for in the rules is a final agency action subject to judicial review as provided
+            
+169
+
+    
+in Sections 
+
+63-46b-14
+
+ and 
+
+63-46b-15
+
+; and
+            
+170
+
+    
+    (xi)  a requirement that a claim or dispute that does not include a monetary claim
+            
+171
+
+    
+against the division or its agents is not limited to the dispute resolution process provided for in
+            
+172
+
+    
+this Subsection (6).
+            
+173
+
+    
+    (d)  These rules may include:
+            
+174
+
+    
+    (i)  requirements for claims and disputes to be eligible for this dispute resolution
+            
+175
+
+    
+process; and
+            
+176
+
+    
+    (ii)  the use of an independent hearing officer, panel, arbitration, or mediation.
+            
+177
+
+    
+    (e)  Persons pursuing claims under the process required by this Subsection (6):
+            
+178
+
+    
+    (i)  are bound by the decision reached under this process unless the decision is properly
+            
+179
+
+    
+appealed; and
+            
+180
+
+    
+    (ii)  may not pursue claims or disputes under the dispute resolution process established
+            
+181
+
+    
+in Sections 
+
+63-56-49
+
+ through 
+
+63-56-58
+
+.
+            
+182
+
+    
+    (7)  In addition to all other reasons allowed by law or rule, the director may reject all
+
+            
+183
+
+
+    
+bids if none of the bidders whose bid is within the budget of the project submit a subcontractor
+            
+184
+
+    
+list that meets the requirements of this section.
+            
+185
+
+    
+    (8)  Any violation of this section, or any fraudulent misrepresentation by a contractor,
+            
+186
+
+    
+subcontractor, or supplier, may be grounds for:
+            
+187
+
+    
+    (a)  the contractor, subcontractor, or supplier to be suspended or debarred by [a
+            
+188
+
+    
+Contractor Performance Review Committee] the director; or
+            
+189
+
+    
+    (b)  the contractor or subcontractor to be disciplined by the Division of Professional and
+            
+190
+
+    
+Occupational Licensing.
+
+
+
+
+ Legislative Review Note
+    as of   1-19-04  11:34 AM
+
+A limited legal review of this legislation raises no obvious constitutional or statutory concerns.
+
+ Office of Legislative Research and General Counsel
+[Bill Documents][Bills Directory]
+
+
+
+
+
+
+
+
+
+Who represents me?
+
+
+
+
+
+Remember my Legislators
+
+
+
+
+
+State Senate
+		350 North State, Suite 320
+		PO Box 145115
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1035
+		Fax: (801) 326-1475
+
+
+
+House of Representatives
+		350 North State, Suite 350
+		PO Box 145030
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1029
+		Fax: (801) 326-1544
+
+
+
+
+
+
+
+
+
+
+Home
+Mobile Site
+Site Map
+Calendar
+Code / Constitution
+House
+Senate
+
+Terms of Use/Privacy Policy
+
+ADA
+Utah.gov
+
+
+
+
+
+
+

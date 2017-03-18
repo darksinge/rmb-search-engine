@@ -1,0 +1,764 @@
+Sponsors: []Modifications: (1)  As used in this section:(a)  "percentage net change in the value of taxable property for the equalization period"means the percentage net change between the taxable value of taxable property:(i) (A)  on June 8; and(B)  listed on the assessment roll as reported by the:(I)  county assessor; and(II)  county auditor; and(ii) (A)  on December 31; and(B)  as reported by the county auditor as a year-end taxable value; and(b)  "taxable property" means property:(i)  described in Section 
+
+59-2-201
+
+ that is assessed by the commission; and(ii)  described in Section 
+
+59-2-301
+
+ that is assessed by a county assessor.(2)legislativelegislative(3)legislative body of the taxingentitycalculate an amount determined by dividingthecalculated under Subsection (3)(b).(b)  For purposes of Subsection (3)(a), the legislative body of a taxing entity shallcalculate an amount as follows:    (i)  calculate for the taxing entity the difference between:(A)and(B)  any redevelopment adjustments for the current calendar year;(ii)  after making the calculation required by Subsection (3)(b)(i), calculate an amountdetermined by increasing or decreasing the amount calculated under Subsection (3)(b)(i) by theaverage of the percentage net change in the value of taxable property for the equalizationperiod for the three calendar years immediately preceding the current calendar year;(iii)  after making the calculation required by Subsection (3)(b)(ii),calculate the product of:(A)calculated(3)(b)(ii); and(B)calendarimmediately preceding the current calendar year; and(iv)  after making the calculation required by Subsection (3)(b)(iii), calculate an amountdetermined by subtracting from the amount calculated under Subsection (3)(b)(iii) any newgrowth as defined in Section 
+
+59-2-924
+
+:(A)  within the taxing entity; and(B)  for the current calendar year.(c)(3)(b)(d)  In accordance with Title 63, Chapter 46a, Utah Administrative Rulemaking Act, thecommission may prescribe rules for calculating redevelopment adjustments for a calendar year.(4)(5)If approved by two-thirds of all the members elected to each house, this bill takes effectupon approval by the governor, or the day following the constitutional time limit of UtahConstitution Article VII, Section 8, without the governor's signature, or in the case of a veto,the date of veto override.Full text:
+
+
+
+Utah State Legislature
+
+
+
+
+
+
+
+
+
+
+
+
+Legislators
+
+By Session (1896-Current)
+Alphabetical (Historical)
+Find by Address/Map
+More
+
+
+Bills
+
+Bills/Bill Requests
+Passed Bills
+2017 Bills
+
+Keyword Search
+Reading Calendars
+Tracking Service
+More
+
+
+Committees
+
+All Committees
+Appropriations
+Commissions
+
+Independent Legislative Ethics Commission
+Interim
+Standing
+Subcommittees
+Task Forces
+Bills In Committees
+
+
+Utah Code / Constitution
+
+
+Title/Chapter/Section
+Keyword Search 
+
+Utah Constitution
+Laws of Utah 1851-ongoing
+Utah Territorial Laws 
+More
+
+
+Senate
+
+Main Page 
+About The Senate 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Extraordinary Sessions 
+Reading Calendars 
+Past Floor Debates 
+Senate Journals 
+
+
+House
+
+Main Page
+About the House 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Reading Calendars 
+Past Floor Debates 
+Journals 
+Conflict of Interest Forms 
+
+
+Legislative Guide 
+
+Legislative Guide
+Civic Programs
+GRAMA (Records Requests)
+
+
+Publications
+
+Search Publications
+Appropriations
+Audits
+Bagels & Briefings
+Briefing Papers
+Digest of Legislation
+Legislative Drafting Manual
+
+Journals
+
+Interim Highlights
+
+Legislative Rules
+GRAMA (Records Requests)
+Public Email
+State Organization Charts
+YouTube Channel
+Requests for Proposals and Legal Notices
+More
+
+
+Legislative Histories
+
+Legislative History Resources
+How to Research
+Bill Drafting/Research Files (1990-Ongoing)
+
+Working Bills (1896-1989)
+Interim Committee Histories (1990-Ongoing) 
+Journals
+Past House Floor Debates
+Past Senate Floor Debates
+More
+
+
+Staff Offices
+
+All Legislative Offices
+Auditor General
+Fiscal Analyst
+Printing
+Research and General Counsel
+Staff Awards
+Job Opportunities
+More
+
+
+Links of Interest
+
+Utah Administrative Rules
+Courts
+Utah State Capitol
+State of Utah
+Federal Legislation
+More
+
+
+
+
+
+
+ 
+
+Download Zipped Introduced WordPerfect HB0252.ZIP
+[Status][Bill Documents][Fiscal Note][Bills Directory]
+
+
+H.B. 252
+
+
+
+
+
+            
+1
+
+    
+ CALCULATION OF PROPERTY TAX LEVIES
+
+
+
+            
+2
+
+    
+2004 GENERAL SESSION
+
+            
+3
+
+    
+STATE OF UTAH
+
+            
+4
+
+    
+
+
+ Sponsor: Merlynn T. Newbold
+
+
+
+            
+5
+
+    
+
+            
+6
+
+    
+ LONG TITLE
+            
+7
+
+    
+ General Description:
+            
+8
+
+    
+    This bill amends the Property Tax Act.
+            
+9
+
+    
+ Highlighted Provisions:
+            
+10
+
+    
+    This bill:
+            
+11
+
+    
+    .    provides definitions;
+            
+12
+
+    
+    .    modifies the calculations required to establish property tax levies for a taxing entity;
+            
+13
+
+    
+    .    grants rulemaking authority to the State Tax Commission; and
+            
+14
+
+    
+    .    makes technical changes.
+            
+15
+
+    
+ Monies Appropriated in this Bill:
+            
+16
+
+    
+    None
+            
+17
+
+    
+ Other Special Clauses:
+            
+18
+
+    
+    This bill provides an immediate effective date.
+            
+19
+
+    
+ Utah Code Sections Affected:
+            
+20
+
+    
+AMENDS:
+            
+21
+
+    
+     59-2-913, as last amended by Chapter 2, Laws of Utah 1997, Second Special Session
+            
+22
+
+    
+
+            
+23
+
+    
+Be it enacted by the Legislature of the state of Utah:
+            
+24
+
+    
+    Section 1.  
+Section  
+59-2-913
+
+ is amended to read:
+            
+25
+
+    
+     59-2-913.  Definitions -- Statement of amount and purpose of levy -- Contents of
+            
+26
+
+    
+ statement -- Filing with county auditor -- Transmittal to commission -- Calculations for
+            
+27
+
+    
+ establishing tax levies -- Rulemaking authority -- Format of statement.
+
+            
+28
+
+
+    
+    (1)  As used in this section:
+            
+29
+
+    
+    (a)  "percentage net change in the value of taxable property for the equalization period"
+            
+30
+
+    
+means the percentage net change between the taxable value of taxable property:
+            
+31
+
+    
+    (i) (A)  on June 8; and
+            
+32
+
+    
+    (B)  listed on the assessment roll as reported by the:
+            
+33
+
+    
+    (I)  county assessor; and
+            
+34
+
+    
+    (II)  county auditor; and
+            
+35
+
+    
+    (ii) (A)  on December 31; and
+            
+36
+
+    
+    (B)  as reported by the county auditor as a year-end taxable value; and
+            
+37
+
+    
+    (b)  "taxable property" means property:
+            
+38
+
+    
+    (i)  described in Section 
+
+59-2-201
+
+ that is assessed by the commission; and
+            
+39
+
+    
+    (ii)  described in Section 
+
+59-2-301
+
+ that is assessed by a county assessor.
+            
+40
+
+    
+    [(1)] (2) (a)  The [governing] legislative body of each taxing entity shall file a statement
+            
+41
+
+    
+as provided in this section with the county auditor of the county in which the taxing entity is
+            
+42
+
+    
+located.
+            
+43
+
+    
+    (b)  The auditor shall annually transmit the statement to the commission:
+            
+44
+
+    
+    (i)  before June 22; or
+            
+45
+
+    
+    (ii)  with the approval of the commission, on a subsequent date prior to the date
+            
+46
+
+    
+established under Section 
+
+59-2-1317
+
+ for mailing tax notices.
+            
+47
+
+    
+    (c)  The statement shall contain the amount and purpose of each levy fixed by the
+            
+48
+
+    
+[governing] legislative body of the taxing entity.
+            
+49
+
+    
+    [(2)] (3) (a)  For purposes of establishing the levy set for each of a taxing entity's
+            
+50
+
+    
+applicable funds, the [taxing entity's governing body or board] legislative body of the taxing
+            
+51
+
+    
+entity shall[: (i)  divide] calculate an amount determined by dividing the budgeted property tax
+            
+52
+
+    
+revenues, specified in a budget which has been adopted and approved prior to setting the levy,
+            
+53
+
+    
+by [an] the amount [equal to: (A)] calculated under Subsection (3)(b).
+            
+54
+
+    
+    (b)  For purposes of Subsection (3)(a), the legislative body of a taxing entity shall
+            
+55
+
+    
+calculate an amount as follows:
+            
+56
+
+    
+    (i)  calculate for the taxing entity the difference between:
+            
+57
+
+    
+    (A)  the aggregate taxable value of all property taxed; [minus] and
+            
+58
+
+    
+    [(B)  the taxing entity's estimated equalization adjustments in the current year; and]
+
+            
+59
+
+
+    
+    (B)  any redevelopment adjustments for the current calendar year;
+            
+60
+
+    
+    (ii)  after making the calculation required by Subsection (3)(b)(i), calculate an amount
+            
+61
+
+    
+determined by increasing or decreasing the amount calculated under Subsection (3)(b)(i) by the
+            
+62
+
+    
+average of the percentage net change in the value of taxable property for the equalization
+            
+63
+
+    
+period for the three calendar years immediately preceding the current calendar year;
+            
+64
+
+    
+    [(ii)  multiply] (iii)  after making the calculation required by Subsection (3)(b)(ii),
+            
+65
+
+    
+calculate the product of:
+            
+66
+
+    
+    (A)  the amount calculated under Subsection [(2)(a)(i)] (3)(b)(ii) [by]; and
+            
+67
+
+    
+    (B)  the percentage of property taxes collected for the [previous] five [fiscal] calendar
+            
+68
+
+    
+years[.] immediately preceding the current calendar year; and
+            
+69
+
+    
+    (iv)  after making the calculation required by Subsection (3)(b)(iii), calculate an amount
+            
+70
+
+    
+determined by subtracting from the amount calculated under Subsection (3)(b)(iii) any new
+            
+71
+
+    
+growth as defined in Section 
+
+59-2-924
+
+:
+            
+72
+
+    
+    (A)  within the taxing entity; and
+            
+73
+
+    
+    (B)  for the current calendar year.
+            
+74
+
+    
+    [(b)] (c)  For purposes of Subsection [(2)(a)] (3)(b)(i)(A), the aggregate taxable value of
+            
+75
+
+    
+all property taxed includes:
+            
+76
+
+    
+    (i)  the total taxable value of the real and personal property contained on the tax rolls;
+            
+77
+
+    
+and
+            
+78
+
+    
+    (ii)  the taxable value of any additional personal property estimated by the county
+            
+79
+
+    
+assessor to be subject to taxation in the current year.
+            
+80
+
+    
+    (d)  In accordance with Title 63, Chapter 46a, Utah Administrative Rulemaking Act, the
+            
+81
+
+    
+commission may prescribe rules for calculating redevelopment adjustments for a calendar year.
+            
+82
+
+    
+    [(3)] (4)  The format of the statement under this section shall:
+            
+83
+
+    
+    (a)  be determined by the commission; and
+            
+84
+
+    
+    (b)  cite any applicable statutory provisions that:
+            
+85
+
+    
+    (i)  require a specific levy; or
+            
+86
+
+    
+    (ii)  limit the property tax levy for any taxing entity.
+            
+87
+
+    
+    [(4)] (5)  The commission may require certification that the information submitted on a
+            
+88
+
+    
+statement under this section is true and correct.
+            
+89
+
+    
+    Section 2.   Effective date.
+
+            
+90
+
+
+    
+    If approved by two-thirds of all the members elected to each house, this bill takes effect
+            
+91
+
+    
+upon approval by the governor, or the day following the constitutional time limit of Utah
+            
+92
+
+    
+Constitution Article VII, Section 8, without the governor's signature, or in the case of a veto,
+            
+93
+
+    
+the date of veto override.
+
+
+
+
+ Legislative Review Note
+    as of   1-27-04  10:05 AM
+
+A limited legal review of this legislation raises no obvious constitutional or statutory concerns.
+
+ Office of Legislative Research and General Counsel
+[Bill Documents][Bills Directory]
+
+
+
+
+
+
+
+
+
+Who represents me?
+
+
+
+
+
+Remember my Legislators
+
+
+
+
+
+State Senate
+		350 North State, Suite 320
+		PO Box 145115
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1035
+		Fax: (801) 326-1475
+
+
+
+House of Representatives
+		350 North State, Suite 350
+		PO Box 145030
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1029
+		Fax: (801) 326-1544
+
+
+
+
+
+
+
+
+
+
+Home
+Mobile Site
+Site Map
+Calendar
+Code / Constitution
+House
+Senate
+
+Terms of Use/Privacy Policy
+
+ADA
+Utah.gov
+
+
+
+
+
+
+

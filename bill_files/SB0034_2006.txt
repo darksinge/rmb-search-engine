@@ -1,0 +1,1248 @@
+Sponsors: []Modifications: SectionTaxes    54-7-12.9.(1)  As used in this section:(a)  "gross receipts tax" means the tax:(i)  imposed by Title 59, Chapter 8a, Gross Receipts Tax on Electrical CorporationsAct; and(ii)  repealed by this bill; and(b) (i)  "electrical corporation" includes every corporation, cooperative association, andperson, their lessees, trustees, and receivers, owning, controlling, operating, or managing anyelectric plant, or in any way furnishing electric power for public service or to its consumers ormembers for domestic, commercial, or industrial use, within this state, that:(A)  pays property taxes under Title 59, Chapter 2, Property Tax Act; and(B)  is subject to rate regulation by the commission; and(ii)  "electrical corporation" does not include independent energy producers, orelectricity that is generated on or distributed by the producer solely for the producer's own use,the use of the producer's tenants, or for the use of members of an association of unit ownersformed under Title 57, Chapter 8, Condominium Ownership Act, and not for sale to the publicgenerally.(2)  An electrical corporation shall:(a)  file new tariffs with the commission on or before July 31, 2006 as part of its 2006general rate case revenue requirement:(i)  reflecting the decrease in the electrical corporation's rates as a result of the repeal ofthe gross receipts tax by this bill; and(ii)  spreading the amount of the decrease described in Subsection (2)(a)(i) among allclasses of the electrical corporation's customers on the same basis that the gross receipts taxwas allocated to each class of the electrical corporation's customers under the rates effective onthe day on which the rate determined by the commission take effect under the electricalcorporation's 2006 general rate case filed on or before September 1, 2006; and(b)  on or before the day on which the electrical corporation files new tariffs with thecommission under Subsection (2)(a), file with the commission a complete report of thecalculation of the allocation required by this section.or(iii)Beginning2006,.6250%.9375%1.2500%(2)  It is the intent of the Legislature that, as a result of the tax rate decrease provided inSection 
+
+59-8-104 
+
+of this bill, all or a portion of any cost decrease received by a taxpayer as aresult of the tax rate decrease be used in whole or in part for expenditures, scholarships, orgrants that will benefit the citizens of this state.(1)  Except as provided in Subsection (2), this bill takes effect on July 1, 2006.(2)  The amendments to Section 
+
+54-7-12.9
+
+ and the repeal of Title 59, Chapter 8a, GrossReceipts Tax on Electrical Corporations Act, take effect on the later of:(a)  July 1, 2006, or(b)  the day on which the rates determined by the commission take effect under theelectrical corporation's 2006 general rate case filed on or before September 1, 2006.It is the intent of the Legislature that, in preparing the Utah Code database forpublication, the Office of Legislative Research and General Counsel shall replace thereferences in Subsections 54-7-12.9(1)(a)(ii), (2)(a)(i), and Subsection 
+
+59-8-104
+
+(2) from "thisbill" to the bill's designated section and chapter number in the Laws of Utah.Full text:
+
+
+
+Utah State Legislature
+
+
+
+
+
+
+
+
+
+
+
+
+Legislators
+
+By Session (1896-Current)
+Alphabetical (Historical)
+Find by Address/Map
+More
+
+
+Bills
+
+Bills/Bill Requests
+Passed Bills
+2017 Bills
+
+Keyword Search
+Reading Calendars
+Tracking Service
+More
+
+
+Committees
+
+All Committees
+Appropriations
+Commissions
+
+Independent Legislative Ethics Commission
+Interim
+Standing
+Subcommittees
+Task Forces
+Bills In Committees
+
+
+Utah Code / Constitution
+
+
+Title/Chapter/Section
+Keyword Search 
+
+Utah Constitution
+Laws of Utah 1851-ongoing
+Utah Territorial Laws 
+More
+
+
+Senate
+
+Main Page 
+About The Senate 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Extraordinary Sessions 
+Reading Calendars 
+Past Floor Debates 
+Senate Journals 
+
+
+House
+
+Main Page
+About the House 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Reading Calendars 
+Past Floor Debates 
+Journals 
+Conflict of Interest Forms 
+
+
+Legislative Guide 
+
+Legislative Guide
+Civic Programs
+GRAMA (Records Requests)
+
+
+Publications
+
+Search Publications
+Appropriations
+Audits
+Bagels & Briefings
+Briefing Papers
+Digest of Legislation
+Legislative Drafting Manual
+
+Journals
+
+Interim Highlights
+
+Legislative Rules
+GRAMA (Records Requests)
+Public Email
+State Organization Charts
+YouTube Channel
+Requests for Proposals and Legal Notices
+More
+
+
+Legislative Histories
+
+Legislative History Resources
+How to Research
+Bill Drafting/Research Files (1990-Ongoing)
+
+Working Bills (1896-1989)
+Interim Committee Histories (1990-Ongoing) 
+Journals
+Past House Floor Debates
+Past Senate Floor Debates
+More
+
+
+Staff Offices
+
+All Legislative Offices
+Auditor General
+Fiscal Analyst
+Printing
+Research and General Counsel
+Staff Awards
+Job Opportunities
+More
+
+
+Links of Interest
+
+Utah Administrative Rules
+Courts
+Utah State Capitol
+State of Utah
+Federal Legislation
+More
+
+
+
+
+
+
+ 
+
+Download Zipped Enrolled WordPerfect SB0034.ZIP
+[Introduced][Amended][Status][Bill Documents][Fiscal Note][Bills Directory]
+
+
+S.B. 34 Enrolled
+
+
+
+
+
+            
+1
+
+    
+ GROSS RECEIPTS TAX AMENDMENTS,
+
+            
+2
+
+    
+ REPEAL AND PUBLIC UTILITY TARIFFS
+
+
+
+            
+3
+
+    
+2006 GENERAL SESSION
+
+            
+4
+
+    
+STATE OF UTAH
+
+            
+5
+
+    
+
+
+ Chief Sponsor:  Mike  Dmitrich
+
+
+
+            
+6
+
+    
+
+
+
+House Sponsor:  
+
+
+
+
+
+
+Wayne A. Harper
+
+
+
+
+
+            
+7
+
+    
+
+            
+8
+
+    
+ LONG TITLE
+            
+9
+
+    
+ General Description:
+            
+10
+
+    
+    This bill modifies the Public Utilities title and the Revenue and Taxation title to repeal
+            
+11
+
+    
+and modify gross receipts taxes and require certain public utilities to file new tariffs
+            
+12
+
+    
+with the Public Service Commission.
+            
+13
+
+    
+ Highlighted Provisions:
+            
+14
+
+    
+    This bill:
+            
+15
+
+    
+    .    requires certain public utilities to file new tariffs with the Public Service
+            
+16
+
+    
+Commission and establishes procedures for filing those tariffs;
+            
+17
+
+    
+    .    decreases the gross receipts tax rate on certain corporations not required to pay
+            
+18
+
+    
+corporate franchise or income tax;
+            
+19
+
+    
+    .    repeals the Gross Receipts Tax on Electrical Corporations chapter;
+            
+20
+
+    
+    .    repeals obsolete language;
+            
+21
+
+    
+    .    and makes technical changes.
+            
+22
+
+    
+ Monies Appropriated in this Bill:
+            
+23
+
+    
+    None
+            
+24
+
+    
+ Other Special Clauses:
+            
+25
+
+    
+    This bill provides an effective date.
+            
+26
+
+    
+    This bill provides revisor instructions.
+            
+27
+
+    
+ Utah Code Sections Affected:
+            
+28
+
+    
+AMENDS:
+            
+29
+
+    
+     11-13-303, as renumbered and amended by Chapter 286, Laws of Utah 2002
+
+            
+30
+
+
+    
+     59-6-102, as last amended by Chapter 28, Laws of Utah 2002
+            
+31
+
+    
+     59-8-104, as last amended by Chapter 286, Laws of Utah 2002
+            
+32
+
+    
+ENACTS:
+            
+33
+
+    
+     54-7-12.9, Utah Code Annotated 1953
+            
+34
+
+    
+REPEALS:
+            
+35
+
+    
+     54-7-12.2, as enacted by Chapter 278, Laws of Utah 1995
+            
+36
+
+    
+     59-8a-101, as enacted by Chapter 278, Laws of Utah 1995
+            
+37
+
+    
+     59-8a-102, as enacted by Chapter 278, Laws of Utah 1995
+            
+38
+
+    
+     59-8a-103, as enacted by Chapter 278, Laws of Utah 1995
+            
+39
+
+    
+     59-8a-104, as last amended by Chapter 273, Laws of Utah 1996
+            
+40
+
+    
+     59-8a-105, as enacted by Chapter 278, Laws of Utah 1995
+            
+41
+
+    
+     59-8a-106, as enacted by Chapter 278, Laws of Utah 1995
+            
+42
+
+    
+
+            
+43
+
+    
+Be it enacted by the Legislature of the state of Utah:
+            
+44
+
+    
+    Section 1.  
+Section  
+11-13-303
+
+ is amended to read:
+            
+45
+
+    
+     11-13-303.  Source of project entity's payment of sales and use tax --  Gross
+            
+46
+
+    
+ receipts taxes for facilities providing additional project capacity.
+            
+47
+
+    
+    (1)  A project entity is not exempt from sales and use taxes under Title 59, Chapter 12,
+            
+48
+
+    
+Sales and Use Tax Act, to the extent provided in Subsection 
+
+59-12-104
+
+(2).
+            
+49
+
+    
+    (2)  A project entity may make payments or prepayments of sales and use taxes, as
+            
+50
+
+    
+provided in Title 63, Chapter 51, Resource Development, from the proceeds of revenue bonds
+            
+51
+
+    
+issued under Section 
+
+11-13-218
+
+ or other revenues of the project entity.
+            
+52
+
+    
+    (3) (a)  This Subsection (3) applies with respect to facilities providing additional project
+            
+53
+
+    
+capacity.
+            
+54
+
+    
+    (b) (i)  The in lieu excise tax imposed under Title 59, Chapter 8, Gross Receipts Tax on
+            
+55
+
+    
+Certain Corporations Not Required to Pay Corporate Franchise or Income Tax Act, shall be
+            
+56
+
+    
+imposed collectively on all gross receipts derived with respect to the ownership interests of all
+            
+57
+
+    
+project entities and other public agencies in facilities providing additional project capacity as
+
+            
+58
+
+
+    
+though all such ownership interests were held by a single project entity.
+            
+59
+
+    
+    (ii)  The in lieu excise tax shall be calculated as though the gross receipts derived with
+            
+60
+
+    
+respect to all such ownership interests were received by a single taxpayer that has no other
+            
+61
+
+    
+gross receipts.
+            
+62
+
+    
+    (iii)  The gross receipts attributable to such ownership interests shall consist solely of
+            
+63
+
+    
+gross receipts that are expended by each project entity and other public agency holding an
+            
+64
+
+    
+ownership interest in the facilities for the operation or maintenance of or ordinary repairs or
+            
+65
+
+    
+replacements to the facilities.
+            
+66
+
+    
+    (iv)  For purposes of calculating the in lieu excise tax, the determination of whether
+            
+67
+
+    
+there is a tax rate and, if so, what the tax rate is shall be governed by Section 
+
+59-8-104
+
+, except
+            
+68
+
+    
+that the $10,000,000 figures in [Subsection] Section
+
+59-8-104
+
+[(1)] indicating the amount of
+            
+69
+
+    
+gross receipts that determine the applicable tax rate shall be replaced with $5,000,000.
+            
+70
+
+    
+    (c)  Each project entity and public agency owning an interest in the facilities providing
+            
+71
+
+    
+additional project capacity shall be liable only for the portion of the gross receipts tax referred
+            
+72
+
+    
+to in Subsection (3)(b) that is proportionate to its percentage ownership interest in the facilities
+            
+73
+
+    
+and may not be liable for any other gross receipts taxes with respect to its percentage
+            
+74
+
+    
+ownership interest in the facilities.
+            
+75
+
+    
+    (d)  No project entity or other public agency that holds an ownership interest in the
+            
+76
+
+    
+facilities may be subject to the taxes imposed under Title 59, Chapter 7, Corporate Franchise
+            
+77
+
+    
+and Income [Tax] Taxes, [or Title 59, Chapter 8a, Gross Receipts Tax on Electrical
+            
+78
+
+    
+Corporations,] with respect to those facilities.
+            
+79
+
+    
+    (4)  For purposes of calculating the gross receipts tax imposed on a project entity or
+            
+80
+
+    
+other public agency under Title 59, Chapter 8, Gross Receipts Tax on Certain Corporations Not
+            
+81
+
+    
+Required to Pay Corporate Franchise or Income Tax Act, or Subsection (3), gross receipts
+            
+82
+
+    
+include only gross receipts from the first sale of capacity, services, or other benefits and do not
+            
+83
+
+    
+include gross receipts from any subsequent sale, resale, or layoff of the capacity, services, or
+            
+84
+
+    
+other benefits.
+            
+85
+
+    
+    Section 2.  
+Section  
+54-7-12.9
+
+ is enacted to read:
+
+            
+86
+
+
+    
+     54-7-12.9.  Gross receipts tax decrease on electrical corporations -- Tariffs --
+            
+87
+
+    
+ Procedure.
+            
+88
+
+    
+    (1)  As used in this section:
+            
+89
+
+    
+    (a)  "gross receipts tax" means the tax:
+            
+90
+
+    
+    (i)  imposed by Title 59, Chapter 8a, Gross Receipts Tax on Electrical Corporations
+            
+91
+
+    
+Act; and
+            
+92
+
+    
+    (ii)  repealed by this bill; and
+            
+93
+
+    
+    (b) (i)  "electrical corporation" includes every corporation, cooperative association, and
+            
+94
+
+    
+person, their lessees, trustees, and receivers, owning, controlling, operating, or managing any
+            
+95
+
+    
+electric plant, or in any way furnishing electric power for public service or to its consumers or
+            
+96
+
+    
+members for domestic, commercial, or industrial use, within this state, that:
+            
+97
+
+    
+    (A)  pays property taxes under Title 59, Chapter 2, Property Tax Act; and
+            
+98
+
+    
+    (B)  is subject to rate regulation by the commission; and
+            
+99
+
+    
+    (ii)  "electrical corporation" does not include independent energy producers, or
+            
+100
+
+    
+electricity that is generated on or distributed by the producer solely for the producer's own use,
+            
+101
+
+    
+the use of the producer's tenants, or for the use of members of an association of unit owners
+            
+102
+
+    
+formed under Title 57, Chapter 8, Condominium Ownership Act, and not for sale to the public
+            
+103
+
+    
+generally.
+            
+104
+
+    
+    (2)  An electrical corporation shall:
+            
+105
+
+    
+    (a)  file new tariffs with the commission on or before July 31, 2006 as part of its 2006
+            
+106
+
+    
+general rate case revenue requirement:
+            
+107
+
+    
+    (i)  reflecting the decrease in the electrical corporation's rates as a result of the repeal of
+            
+108
+
+    
+the gross receipts tax by this bill; and
+            
+109
+
+    
+    (ii)  spreading the amount of the decrease described in Subsection (2)(a)(i) among all
+            
+110
+
+    
+classes of the electrical corporation's customers on the same basis that the gross receipts tax
+            
+111
+
+    
+was allocated to each class of the electrical corporation's customers under the rates effective on
+            
+112
+
+    
+the day on which the rate determined by the commission take effect under the electrical
+            
+113
+
+    
+corporation's 2006 general rate case filed on or before September 1, 2006; and
+
+            
+114
+
+
+    
+    (b)  on or before the day on which the electrical corporation files new tariffs with the
+            
+115
+
+    
+commission under Subsection (2)(a), file with the commission a complete report of the
+            
+116
+
+    
+calculation of the allocation required by this section.
+            
+117
+
+    
+    Section 3.  
+Section  
+59-6-102
+
+ is amended to read:
+            
+118
+
+    
+     59-6-102.  Producer's obligation to deduct and withhold payments -- Amount --
+            
+119
+
+    
+ Exempt payments -- Credit against tax.
+            
+120
+
+    
+    (1)  Except as provided in Subsection (2), each producer shall deduct and withhold
+            
+121
+
+    
+from each payment being made to any person in respect to production of minerals in this state,
+            
+122
+
+    
+but not including that to which the producer is entitled, an amount equal to 5% of the amount
+            
+123
+
+    
+which would have otherwise been payable to the person entitled to the payment.
+            
+124
+
+    
+    (2)  Notwithstanding Subsection (1), the obligation to deduct and withhold from
+            
+125
+
+    
+payments as provided in Subsection (1) does not apply to those payments which are payable to:
+            
+126
+
+    
+    (a)  the United States, this state, or an agency or political subdivision of the United
+            
+127
+
+    
+States or this state;
+            
+128
+
+    
+    (b) an organization that is exempt from the taxes imposed by Chapter 7, Corporate
+            
+129
+
+    
+Franchise and Income Taxes, in accordance with Subsection 
+
+59-7-102
+
+(1)(a); or
+            
+130
+
+    
+    (c)  an Indian or Indian tribe if the amounts accruing are subject to the supervision of
+            
+131
+
+    
+the United States or an agency of the United States.
+            
+132
+
+    
+    (3) (a)  A person who files a tax return with the state in accordance with the following
+            
+133
+
+    
+is entitled to a credit against the tax reflected on the return for the amount withheld by the
+            
+134
+
+    
+producer under Subsection (1):
+            
+135
+
+    
+    (i)  Chapter 7, Corporate Franchise and Income Taxes;
+            
+136
+
+    
+    (ii)  Chapter 8, Gross Receipts Tax on Certain Corporations not Required to Pay
+            
+137
+
+    
+Corporate Franchise or Income Tax Act; or
+            
+138
+
+    
+    [(iii)  Chapter 8a, Gross Receipts Tax on Electrical Corporations Act; or]
+            
+139
+
+    
+    [(iv)] (iii)  Chapter 10, Individual Income Tax Act.
+            
+140
+
+    
+    (b)  If the amount withheld under Subsection (1) is greater than the tax due on the
+            
+141
+
+    
+return, the person making the return is entitled to a refund in the amount of the overpayment.
+
+            
+142
+
+
+    
+    Section 4.  
+Section  
+59-8-104
+
+ is amended to read:
+            
+143
+
+    
+     59-8-104.  Rate -- Change of rate.
+            
+144
+
+    
+     (1)  [For taxable years beginning] Beginning on or after July 1, [1996] 2006, and
+            
+145
+
+    
+subject to Section 
+
+11-13-303
+
+, an in lieu excise tax is imposed on the gross receipts of a
+            
+146
+
+    
+taxpayer engaging in business in the state of Utah in each taxable year as follows:
+            
+147
+
+    
+        Gross Receipts Amount                Rate of Tax
+            
+148
+
+    
+    Not in excess of $10,000,000                         None
+            
+149
+
+    
+    In excess of $10,000,000 but not
+            
+150
+
+    
+        in excess of $500,000,000                      [.8613%] .6250%
+            
+151
+
+    
+    In excess of $500,000,000 but not
+            
+152
+
+    
+        in excess of $1,000,000,000                [1.3214%] .9375%
+            
+153
+
+    
+    In excess of $1,000,000,000                    [1.7520%] 1.2500%
+            
+154
+
+    
+    [(2)  A taxpayer subject to the in lieu excise tax under Subsection (1) is not required to
+            
+155
+
+    
+pay the tax imposed under Title 59, Chapter 8a, Gross Receipts Tax on Electrical Corporations
+            
+156
+
+    
+Act.]
+            
+157
+
+    
+    (2)  It is the intent of the Legislature that, as a result of the tax rate decrease provided in
+            
+158
+
+    
+Section 
+
+59-8-104 
+
+of this bill, all or a portion of any cost decrease received by a taxpayer as a
+            
+159
+
+    
+result of the tax rate decrease be used in whole or in part for expenditures, scholarships, or
+            
+160
+
+    
+grants that will benefit the citizens of this state.
+            
+161
+
+    
+    Section 5.  Repealer.
+            
+162
+
+    
+    This bill repeals:
+            
+163
+
+    
+    Section  54-7-12.2,  Property tax decrease -- Rate decrease -- Procedure.
+            
+164
+
+    
+    Section  59-8a-101,  Title.
+            
+165
+
+    
+    Section  59-8a-102,  Purpose.
+            
+166
+
+    
+    Section  59-8a-103,  Definitions.
+            
+167
+
+    
+    Section  59-8a-104,  Rate -- Change of rate.
+            
+168
+
+    
+    Section  59-8a-105,  Time for filing of return -- Other applicable provisions.
+            
+169
+
+    
+    Section  59-8a-106,  Rulemaking authority.
+
+            
+170
+
+
+    
+    Section 6.   Effective date.
+            
+171
+
+    
+    (1)  Except as provided in Subsection (2), this bill takes effect on July 1, 2006.
+            
+172
+
+    
+    (2)  The amendments to Section 
+
+54-7-12.9
+
+ and the repeal of Title 59, Chapter 8a, Gross
+            
+173
+
+    
+Receipts Tax on Electrical Corporations Act, take effect on the later of:
+            
+174
+
+    
+    (a)  July 1, 2006, or
+            
+175
+
+    
+    (b)  the day on which the rates determined by the commission take effect under the
+            
+176
+
+    
+electrical corporation's 2006 general rate case filed on or before September 1, 2006.
+            
+177
+
+    
+    Section 7.   Revisor instructions.
+            
+178
+
+    
+    It is the intent of the Legislature that, in preparing the Utah Code database for
+            
+179
+
+    
+publication, the Office of Legislative Research and General Counsel shall replace the
+            
+180
+
+    
+references in Subsections 54-7-12.9(1)(a)(ii), (2)(a)(i), and Subsection 
+
+59-8-104
+
+(2) from "this
+            
+181
+
+    
+bill" to the bill's designated section and chapter number in the Laws of Utah.
+[Bill Documents][Bills Directory]
+
+
+
+
+
+
+
+
+
+Who represents me?
+
+
+
+
+
+Remember my Legislators
+
+
+
+
+
+State Senate
+		350 North State, Suite 320
+		PO Box 145115
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1035
+		Fax: (801) 326-1475
+
+
+
+House of Representatives
+		350 North State, Suite 350
+		PO Box 145030
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1029
+		Fax: (801) 326-1544
+
+
+
+
+
+
+
+
+
+
+Home
+Mobile Site
+Site Map
+Calendar
+Code / Constitution
+House
+Senate
+
+Terms of Use/Privacy Policy
+
+ADA
+Utah.gov
+
+
+
+
+
+
+

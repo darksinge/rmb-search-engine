@@ -1,0 +1,3180 @@
+Sponsors: []Modifications: :(A);(B):(a);(b)described in this Subsection (6)under Subsection (6)(d)Thedescribed in Subsection (7)(a)personal linesinsured demandinganself-insuredA self-insuredaentityits:(A);(B)required under this Subsection (3)(f)the person:(A);(B);(C):(I);(II)  to;(III)both parent's:(A);(B);(C)A self-insuredaentityits:(i);(ii)(i)(ii):(A);(B)required by this Subsection (9)(h)describedboth parents'describedconsideredtheminimum required coveragethe injured person'sthe person's(i)(ii)relative value(iii)relative value(iv)(v)relative value(i)(ii)patternthethe:(a); or(b):(i);(ii),,(c)  Subject to Subsections (5)(a) and (b), before the disbursement of funds any changesto any settlement statement made after the final closing documents are executed shall beacknowledged by signature of:(i)  all buyers or borrowers;(ii)  all sellers; and(iii)  the escrow officer.Full text:
+
+
+
+Utah State Legislature
+
+
+
+
+
+
+
+
+
+
+
+
+Legislators
+
+By Session (1896-Current)
+Alphabetical (Historical)
+Find by Address/Map
+More
+
+
+Bills
+
+Bills/Bill Requests
+Passed Bills
+2017 Bills
+
+Keyword Search
+Reading Calendars
+Tracking Service
+More
+
+
+Committees
+
+All Committees
+Appropriations
+Commissions
+
+Independent Legislative Ethics Commission
+Interim
+Standing
+Subcommittees
+Task Forces
+Bills In Committees
+
+
+Utah Code / Constitution
+
+
+Title/Chapter/Section
+Keyword Search 
+
+Utah Constitution
+Laws of Utah 1851-ongoing
+Utah Territorial Laws 
+More
+
+
+Senate
+
+Main Page 
+About The Senate 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Extraordinary Sessions 
+Reading Calendars 
+Past Floor Debates 
+Senate Journals 
+
+
+House
+
+Main Page
+About the House 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Reading Calendars 
+Past Floor Debates 
+Journals 
+Conflict of Interest Forms 
+
+
+Legislative Guide 
+
+Legislative Guide
+Civic Programs
+GRAMA (Records Requests)
+
+
+Publications
+
+Search Publications
+Appropriations
+Audits
+Bagels & Briefings
+Briefing Papers
+Digest of Legislation
+Legislative Drafting Manual
+
+Journals
+
+Interim Highlights
+
+Legislative Rules
+GRAMA (Records Requests)
+Public Email
+State Organization Charts
+YouTube Channel
+Requests for Proposals and Legal Notices
+More
+
+
+Legislative Histories
+
+Legislative History Resources
+How to Research
+Bill Drafting/Research Files (1990-Ongoing)
+
+Working Bills (1896-1989)
+Interim Committee Histories (1990-Ongoing) 
+Journals
+Past House Floor Debates
+Past Senate Floor Debates
+More
+
+
+Staff Offices
+
+All Legislative Offices
+Auditor General
+Fiscal Analyst
+Printing
+Research and General Counsel
+Staff Awards
+Job Opportunities
+More
+
+
+Links of Interest
+
+Utah Administrative Rules
+Courts
+Utah State Capitol
+State of Utah
+Federal Legislation
+More
+
+
+
+
+
+
+ 
+
+Download Zipped Introduced WordPerfect HB0250.ZIP
+[Status][Bill Documents][Fiscal Note][Bills Directory]
+
+
+H.B. 250
+
+
+
+
+
+            
+1
+
+    
+ PROPERTY AND CASUALTY INSURANCE LAW
+
+            
+2
+
+    
+ AMENDMENTS
+
+
+
+            
+3
+
+    
+2004 GENERAL SESSION
+
+            
+4
+
+    
+STATE OF UTAH
+
+            
+5
+
+    
+
+
+ Sponsor: Todd E. Kiser
+
+
+
+            
+6
+
+    
+
+            
+7
+
+    
+ LONG TITLE
+            
+8
+
+    
+ General Description:
+            
+9
+
+    
+    This bill modifies the Insurance Code related to property and casualty insurance.
+            
+10
+
+    
+ Highlighted Provisions:
+            
+11
+
+    
+    This bill:
+            
+12
+
+    
+    .    addresses procedures for rate filings;
+            
+13
+
+    
+    .    expands prohibition of premium increases for certain claims or inquiries to property
+            
+14
+
+    
+and casualty insurance;
+            
+15
+
+    
+    .    modifies provisions related to uninsured and underinsured motorist coverage;
+            
+16
+
+    
+    .    addresses personal injury protection coverages and benefits;
+            
+17
+
+    
+    .    addresses title insurance producer's business; and
+            
+18
+
+    
+    .    makes technical changes.
+            
+19
+
+    
+ Monies Appropriated in this Bill:
+            
+20
+
+    
+    None
+            
+21
+
+    
+ Other Special Clauses:
+            
+22
+
+    
+    None
+            
+23
+
+    
+ Utah Code Sections Affected:
+            
+24
+
+    
+AMENDS:
+            
+25
+
+    
+     31A-19a-203, as renumbered and amended by Chapter 130, Laws of Utah 1999
+            
+26
+
+    
+     31A-19a-212, as last amended by Chapter 252, Laws of Utah 2003
+            
+27
+
+    
+     31A-22-305, as last amended by Chapters 76 and 218, Laws of Utah 2003
+
+            
+28
+
+
+    
+     31A-22-307, as last amended by Chapters 59 and 116, Laws of Utah 2001
+            
+29
+
+    
+     31A-23a-406, as renumbered and amended by Chapter 298, Laws of Utah 2003
+            
+30
+
+    
+
+            
+31
+
+    
+Be it enacted by the Legislature of the state of Utah:
+            
+32
+
+    
+    Section 1.  
+Section  
+31A-19a-203
+
+ is amended to read:
+            
+33
+
+    
+     31A-19a-203.  Rate filings.
+            
+34
+
+    
+    (1) (a)  Except as provided in Subsections (4) and (5), every authorized insurer and
+            
+35
+
+    
+every rate service organization licensed under Section 
+
+31A-19a-301
+
+ that has been designated
+            
+36
+
+    
+by any insurer for the filing of pure premium rates under Subsection 
+
+31A-19a-205
+
+(2) shall file
+            
+37
+
+    
+with the commissioner the following for use in this state:
+            
+38
+
+    
+    (i)  all rates;
+            
+39
+
+    
+    (ii)  all supplementary information; and
+            
+40
+
+    
+    (iii)  all changes and amendments to rates and supplementary information.
+            
+41
+
+    
+    (b)  An insurer shall file its rates by filing:
+            
+42
+
+    
+    (i)  its final rates; or
+            
+43
+
+    
+    (ii)  either of the following to be applied to pure premium rates that have been filed by a
+            
+44
+
+    
+rate service organization on behalf of the insurer as permitted by Section 
+
+31A-19a-205
+
+:
+            
+45
+
+    
+    (A)  a multiplier; or
+            
+46
+
+    
+    (B) (I)  a multiplier; and
+            
+47
+
+    
+    (II)  an expense constant adjustment.
+            
+48
+
+    
+    (c)  Every filing under this Subsection (1) shall state:
+            
+49
+
+    
+    (i)  the effective date of the rates; and
+            
+50
+
+    
+    (ii)  the character and extent of the coverage contemplated.
+            
+51
+
+    
+    (d)  Except for workers' compensation rates filed under Sections 
+
+31A-19a-405
+
+ and
+            
+52
+
+    
+
+31A-19a-406
+
+, each filing shall be within 30 days after the rates and supplementary information,
+            
+53
+
+    
+changes, and amendments are effective.
+            
+54
+
+    
+    (e)  A rate filing is considered filed when it has been received [by the commissioner]:
+            
+55
+
+    
+    (i)  with the applicable filing fee as prescribed under Section 
+
+31A-3-103
+
+; and
+            
+56
+
+    
+    (ii)  pursuant to procedures established by the commissioner.
+            
+57
+
+    
+    (f)  The commissioner may by rule prescribe procedures for submitting rate filings by
+            
+58
+
+    
+electronic means.
+
+            
+59
+
+
+    
+    (2) (a)  To show compliance with Section 
+
+31A-19a-201
+
+, at the same time as the filing
+            
+60
+
+    
+of the rate and supplementary rate information, an insurer shall file all supporting information
+            
+61
+
+    
+to be used in support of or in conjunction with a rate.
+            
+62
+
+    
+    (b)  If the rate filing provides for a modification or revision of a previously filed rate,
+            
+63
+
+    
+the insurer is required to file only the supporting information that supports the modification or
+            
+64
+
+    
+revision.
+            
+65
+
+    
+    (c)  If the commissioner determines that the insurer did not file sufficient supporting
+            
+66
+
+    
+information, the commissioner shall inform the insurer in writing of the lack of sufficient
+            
+67
+
+    
+supporting information.
+            
+68
+
+    
+    (d)  If the insurer does not provide the necessary supporting information within 45
+            
+69
+
+    
+calendar days of the date on which the commissioner mailed notice under Subsection (2)(c), the
+            
+70
+
+    
+rate filing may be:
+            
+71
+
+    
+    (i)  considered incomplete and unfiled; and
+            
+72
+
+    
+    (ii)  returned to the insurer as:
+            
+73
+
+    
+    (A)  not filed; and
+            
+74
+
+    
+    (B)  not available for use.
+            
+75
+
+    
+    (e)  Notwithstanding Subsection (2)(d), the commissioner may extend the time period
+            
+76
+
+    
+for filing supporting information.
+            
+77
+
+    
+    (f)  If a rate filing is returned to an insurer as not filed and not available for use under
+            
+78
+
+    
+Subsection (2)(d), the insurer may not use the rate filing for any policy issued or renewed on or
+            
+79
+
+    
+after 60 calendar days from the date the rate filing was returned.
+            
+80
+
+    
+    (3)  At the request of the commissioner, an insurer using the services of a rate service
+            
+81
+
+    
+organization shall provide a description of the rationale for using the services of the rate service
+            
+82
+
+    
+organization, including the insurer's:
+            
+83
+
+    
+    (a)  own information; and
+            
+84
+
+    
+    (b)  method of use of the rate service organization's information.
+            
+85
+
+    
+    (4) (a)  An insurer may not make or issue a contract or policy except in accordance with
+            
+86
+
+    
+the rate filings that are in effect for the insurer as provided in this chapter.
+            
+87
+
+    
+    (b)  Subsection (4)(a) does not apply to contracts or policies for inland marine risks for
+            
+88
+
+    
+which filings are not required.
+            
+89
+
+    
+    (5)  Subsection (1) does not apply to inland marine risks, which, by general custom, are
+
+            
+90
+
+
+    
+not written according to standardized manual rules or rating plans.
+            
+91
+
+    
+    (6) (a)  The insurer may file a written application, stating the insurer's reasons for using
+            
+92
+
+    
+a higher rate than that otherwise applicable to a specific risk.
+            
+93
+
+    
+    (b)  If the application described in Subsection (6)(a) is filed with and not disapproved
+            
+94
+
+    
+by the commissioner within ten days after filing, the higher rate may be applied to the specific
+            
+95
+
+    
+risk.
+            
+96
+
+    
+    (c)  The rate described in this Subsection (6) may be disapproved without a hearing.
+            
+97
+
+    
+    (d)  If disapproved, the rate otherwise applicable applies from the effective date of the
+            
+98
+
+    
+policy, but the insurer may cancel the policy pro rata on ten days' notice to the policyholder.
+            
+99
+
+    
+    (e)  If the insurer does not cancel the policy under Subsection (6)(d), the insurer shall
+            
+100
+
+    
+refund any excess premium from the effective date of the policy.
+            
+101
+
+    
+    (7) (a)  Agreements may be made between insurers on the use of reasonable rate
+            
+102
+
+    
+modifications for insurance provided under Section 
+
+31A-22-310
+
+.
+            
+103
+
+    
+    (b)  [These] The rate modifications described in Subsection (7)(a) shall be filed [with
+            
+104
+
+    
+the commissioner] immediately upon agreement by the insurers.
+            
+105
+
+    
+    Section 2.  
+Section  
+31A-19a-212
+
+ is amended to read:
+            
+106
+
+    
+     31A-19a-212.  Premium increases prohibited for certain claims or inquiries.
+            
+107
+
+    
+    (1)  Each rate, rating schedule, and rating manual filed [with the commissioner] for
+            
+108
+
+    
+personal lines insurance [covering a vehicle or the operation of a vehicle] may not permit a
+            
+109
+
+    
+premium increase due to:
+            
+110
+
+    
+    (a)  a telephone call or other inquiry that does not result in the insured demanding
+            
+111
+
+    
+payment of a claim; or
+            
+112
+
+    
+    (b)  a claim resulting from any incident, including acts of vandalism, in which the
+            
+113
+
+    
+person named in the policy or any other person using [the] an insured motor vehicle with the
+            
+114
+
+    
+express or implied permission of the named insured is not at fault.
+            
+115
+
+    
+    (2)  Subsection (1) prohibits a premium increase when:
+            
+116
+
+    
+    (a)  a policy is issued; or
+            
+117
+
+    
+    (b)  a policy is renewed.
+            
+118
+
+    
+    (3)  This section is an exception to Section 
+
+31A-19a-201
+
+.
+            
+119
+
+    
+    Section 3.  
+Section  
+31A-22-305
+
+ is amended to read:
+            
+120
+
+    
+     31A-22-305.  Uninsured and underinsured motorist coverage.
+
+            
+121
+
+
+    
+    (1)  As used in this section, "covered persons" includes:
+            
+122
+
+    
+    (a)  the named insured;
+            
+123
+
+    
+    (b)  persons related to the named insured by blood, marriage, adoption, or guardianship,
+            
+124
+
+    
+who are residents of the named insured's household, including those who usually make their
+            
+125
+
+    
+home in the same household but temporarily live elsewhere;
+            
+126
+
+    
+    (c)  any person occupying or using a motor vehicle:
+            
+127
+
+    
+    (i)  referred to in the policy; or
+            
+128
+
+    
+    (ii)  owned by a [self-insurer] self-insured; and
+            
+129
+
+    
+    (d)  any person who is entitled to recover damages against the owner or operator of the
+            
+130
+
+    
+uninsured or underinsured motor vehicle because of bodily injury to or death of persons under
+            
+131
+
+    
+Subsection (1)(a), (b), or (c).
+            
+132
+
+    
+    (2)  As used in this section, "uninsured motor vehicle" includes:
+            
+133
+
+    
+    (a) (i)  a motor vehicle, the operation, maintenance, or use of which is not covered
+            
+134
+
+    
+under a liability policy at the time of an injury-causing occurrence; or
+            
+135
+
+    
+    (ii) (A)  a motor vehicle covered with lower liability limits than required by Section
+            
+136
+
+    
+
+31A-22-304
+
+; and
+            
+137
+
+    
+    (B)  the motor vehicle described in Subsection (2)(a)(ii)(A) is uninsured to the extent of
+            
+138
+
+    
+the deficiency;
+            
+139
+
+    
+    (b)  an unidentified motor vehicle that left the scene of an accident proximately caused
+            
+140
+
+    
+by the motor vehicle operator;
+            
+141
+
+    
+    (c)  a motor vehicle covered by a liability policy, but coverage for an accident is
+            
+142
+
+    
+disputed by the liability insurer for more than 60 days or continues to be disputed for more than
+            
+143
+
+    
+60 days; or
+            
+144
+
+    
+    (d) (i)  an insured motor vehicle if, before or after the accident, the liability insurer of
+            
+145
+
+    
+the motor vehicle is declared insolvent by a court of competent jurisdiction; and
+            
+146
+
+    
+    (ii)  the motor vehicle described in Subsection (2)(d)(i) is uninsured only to the extent
+            
+147
+
+    
+that the claim against the insolvent insurer is not paid by a guaranty association or fund.
+            
+148
+
+    
+    (3) (a)  Uninsured motorist coverage under Subsection 
+
+31A-22-302
+
+(1)(b) provides
+            
+149
+
+    
+coverage for covered persons who are legally entitled to recover damages from owners or
+            
+150
+
+    
+operators of uninsured motor vehicles because of bodily injury, sickness, disease, or death.
+            
+151
+
+    
+    (b)  For new policies written on or after January 1, 2001, the limits of uninsured
+
+            
+152
+
+
+    
+motorist coverage shall be equal to the lesser of the limits of the insured's motor vehicle
+            
+153
+
+    
+liability coverage or the maximum uninsured motorist coverage limits available by the insurer
+            
+154
+
+    
+under the insured's motor vehicle policy, unless the insured purchases coverage in a lesser
+            
+155
+
+    
+amount by signing an acknowledgment form provided by the insurer that:
+            
+156
+
+    
+    (i)  waives the higher coverage;
+            
+157
+
+    
+    (ii)  reasonably explains the purpose of uninsured motorist coverage; and
+            
+158
+
+    
+    (iii)  discloses the additional premiums required to purchase uninsured motorist
+            
+159
+
+    
+coverage with limits equal to the lesser of the limits of the insured's motor vehicle liability
+            
+160
+
+    
+coverage or the maximum uninsured motorist coverage limits available by the insurer under the
+            
+161
+
+    
+insured's motor vehicle policy.
+            
+162
+
+    
+    (c)  [Self-insurers] A self-insured, including a governmental [entities] entity, may elect
+            
+163
+
+    
+to provide uninsured motorist coverage in an amount that is less than [their] its maximum
+            
+164
+
+    
+self-insured retention under Subsections (3)(b) and (4)(a) by issuing a declaratory
+            
+165
+
+    
+memorandum or policy statement from the chief financial officer or chief risk officer that
+            
+166
+
+    
+declares the:
+            
+167
+
+    
+    (i)  self-insured entity's coverage level; and
+            
+168
+
+    
+    (ii)  process for filing an uninsured motorist claim.
+            
+169
+
+    
+    (d)  Uninsured motorist coverage may not be sold with limits that are less than the
+            
+170
+
+    
+minimum bodily injury limits for motor vehicle liability policies under Section 
+
+31A-22-304
+
+.
+            
+171
+
+    
+    (e)  The acknowledgment under Subsection (3)(b) continues for that issuer of the
+            
+172
+
+    
+uninsured motorist coverage until the insured, in writing, requests different uninsured motorist
+            
+173
+
+    
+coverage from the insurer.
+            
+174
+
+    
+    (f) (i)  In conjunction with the first two renewal notices sent after January 1, 2001, for
+            
+175
+
+    
+policies existing on that date, the insurer shall disclose in the same medium as the premium
+            
+176
+
+    
+renewal notice, an explanation of:
+            
+177
+
+    
+    (A)  the purpose of uninsured motorist coverage; and
+            
+178
+
+    
+    (B)  the costs associated with increasing the coverage in amounts up to and including
+            
+179
+
+    
+the maximum amount available by the insurer under the insured's motor vehicle policy.
+            
+180
+
+    
+    (ii)  The disclosure required under this Subsection (3)(f) shall be sent to all insureds that
+            
+181
+
+    
+carry uninsured motorist coverage limits in an amount less than the insured's motor vehicle
+            
+182
+
+    
+liability policy limits or the maximum uninsured motorist coverage limits available by the
+
+            
+183
+
+
+    
+insurer under the insured's motor vehicle policy.
+            
+184
+
+    
+    (4) (a) (i)  Except as provided in Subsection (4)(b), the named insured may reject
+            
+185
+
+    
+uninsured motorist coverage by an express writing to the insurer that provides liability
+            
+186
+
+    
+coverage under Subsection 
+
+31A-22-302
+
+(1)(a).
+            
+187
+
+    
+    (ii)  This rejection shall be on a form provided by the insurer that includes a reasonable
+            
+188
+
+    
+explanation of the purpose of uninsured motorist coverage.
+            
+189
+
+    
+    (iii)  This rejection continues for that issuer of the liability coverage until the insured in
+            
+190
+
+    
+writing requests uninsured motorist coverage from that liability insurer.
+            
+191
+
+    
+    (b) (i)  All persons, including governmental entities, that are engaged in the business of,
+            
+192
+
+    
+or that accept payment for, transporting natural persons by motor vehicle, and all school
+            
+193
+
+    
+districts that provide transportation services for their students, shall provide coverage for all
+            
+194
+
+    
+motor vehicles used for that purpose, by purchase of a policy of insurance or by self-insurance,
+            
+195
+
+    
+uninsured motorist coverage of at least $25,000 per person and $500,000 per accident.
+            
+196
+
+    
+    (ii)  This coverage is secondary to any other insurance covering an injured covered
+            
+197
+
+    
+person.
+            
+198
+
+    
+    (c)  Uninsured motorist coverage:
+            
+199
+
+    
+    (i)  is secondary to the benefits provided by Title 34A, Chapter 2, Workers'
+            
+200
+
+    
+Compensation Act;
+            
+201
+
+    
+    (ii)  may not be subrogated by the workers' compensation insurance carrier;
+            
+202
+
+    
+    (iii)  may not be reduced by any benefits provided by workers' compensation insurance; 
+            
+203
+
+    
+    (iv)  may be reduced by health insurance subrogation only after the covered person has
+            
+204
+
+    
+been made whole;
+            
+205
+
+    
+    (v)  may not be collected for bodily injury or death sustained by a person:
+            
+206
+
+    
+    (A)  while committing a violation of Section 
+
+41-1a-1314
+
+;
+            
+207
+
+    
+    (B)  who, as a passenger in a vehicle, has knowledge that the vehicle is being operated
+            
+208
+
+    
+in violation of Section 
+
+41-1a-1314
+
+; or
+            
+209
+
+    
+    (C)  while committing a felony; and
+            
+210
+
+    
+    (vi)  notwithstanding Subsection (4)(c)(v), may be recovered:
+            
+211
+
+    
+    (A)  for a person under 18 years of age who is injured within the scope of Subsection
+            
+212
+
+    
+(4)(c)(v) but limited to medical and funeral expenses; or
+            
+213
+
+    
+    (B)  by a law enforcement officer as defined in Section 
+
+53-13-103
+
+, who is injured
+
+            
+214
+
+
+    
+within the course and scope of the law enforcement officer's duties.
+            
+215
+
+    
+    (d)  As used in this Subsection (4):
+            
+216
+
+    
+    (i)  "Governmental entity" has the same meaning as under Section 
+
+63-30-2
+
+.
+            
+217
+
+    
+    (ii)  "Motor vehicle" has the same meaning as under Section 
+
+41-1a-102
+
+.
+            
+218
+
+    
+    (5)  When a covered person alleges that an uninsured motor vehicle under Subsection
+            
+219
+
+    
+(2)(b) proximately caused an accident without touching the covered person or the motor
+            
+220
+
+    
+vehicle occupied by the covered person, the covered person must show the existence of the
+            
+221
+
+    
+uninsured motor vehicle by clear and convincing evidence consisting of more than the covered
+            
+222
+
+    
+person's testimony.
+            
+223
+
+    
+    (6) (a)  The limit of liability for uninsured motorist coverage for two or more motor
+            
+224
+
+    
+vehicles may not be added together, combined, or stacked to determine the limit of insurance
+            
+225
+
+    
+coverage available to an injured person for any one accident.
+            
+226
+
+    
+    (b) (i)  Subsection (6)(a) applies to all persons except a covered person as defined under
+            
+227
+
+    
+Subsection (7)(b)(ii).
+            
+228
+
+    
+    (ii)  A covered person as defined under Subsection (7)(b)(ii) is entitled to the highest
+            
+229
+
+    
+limits of uninsured motorist coverage afforded for any one motor vehicle that the covered
+            
+230
+
+    
+person is the named insured or an insured family member.
+            
+231
+
+    
+    (iii)  This coverage shall be in addition to the coverage on the motor vehicle the covered
+            
+232
+
+    
+person is occupying.
+            
+233
+
+    
+    (iv)  Neither the primary nor the secondary coverage may be set off against the other.
+            
+234
+
+    
+    (c)  Coverage on a motor vehicle occupied at the time of an accident shall be primary
+            
+235
+
+    
+coverage, and the coverage elected by a person described under Subsections (1)(a) and (b) shall
+            
+236
+
+    
+be secondary coverage.
+            
+237
+
+    
+    (7) (a)  Uninsured motorist coverage under this section applies to bodily injury,
+            
+238
+
+    
+sickness, disease, or death of covered persons while occupying or using a motor vehicle only if
+            
+239
+
+    
+the motor vehicle is described in the policy under which a claim is made, or if the motor
+            
+240
+
+    
+vehicle is a newly acquired or replacement motor vehicle covered under the terms of the policy. 
+            
+241
+
+    
+Except as provided in Subsection (6) or this Subsection (7), a covered person injured in a
+            
+242
+
+    
+motor vehicle described in a policy that includes uninsured motorist benefits may not elect to
+            
+243
+
+    
+collect uninsured motorist coverage benefits from any other motor vehicle insurance policy
+            
+244
+
+    
+under which [he] the person is a covered person.
+
+            
+245
+
+
+    
+    (b)  Each of the following persons may also recover uninsured motorist benefits under
+            
+246
+
+    
+any one other policy in which they are described as a "covered person" as defined in Subsection
+            
+247
+
+    
+(1):
+            
+248
+
+    
+    (i)  a covered person injured as a pedestrian by an uninsured motor vehicle; and
+            
+249
+
+    
+    (ii)  except as provided in Subsection (7)(c), a covered person injured while occupying
+            
+250
+
+    
+or using a motor vehicle that is not owned, leased, or furnished[,]:
+            
+251
+
+    
+    (A)  to the covered person[,];
+            
+252
+
+    
+    (B)  to the covered person's spouse[,]; or
+            
+253
+
+    
+    (C)  to the covered person's resident parent or resident sibling.
+            
+254
+
+    
+    (c) (i)  A covered person may recover benefits from no more than two additional
+            
+255
+
+    
+policies, one additional policy from each parent's household if the covered person is:
+            
+256
+
+    
+    (A)  a dependent minor of parents who reside in separate households; and
+            
+257
+
+    
+    (B)  injured while occupying or using a motor vehicle that is not owned, leased, or
+            
+258
+
+    
+furnished:
+            
+259
+
+    
+    (I)  to the covered person[,];
+            
+260
+
+    
+    (II)  to the covered person's resident parent[,]; or
+            
+261
+
+    
+    (III)  to the covered person's resident sibling.
+            
+262
+
+    
+    (ii)  Each parent's policy under this Subsection (7)(c) is liable only for the percentage of
+            
+263
+
+    
+the damages that the limit of liability of each parent's policy of uninsured motorist coverage
+            
+264
+
+    
+bears to the total of [all] both parent's uninsured coverage applicable to the accident.
+            
+265
+
+    
+    (d)  A covered person's recovery under any available policies may not exceed the full
+            
+266
+
+    
+amount of damages.
+            
+267
+
+    
+    (e)  A covered person in Subsection (7)(b) is not barred against making subsequent
+            
+268
+
+    
+elections if recovery is unavailable under previous elections.
+            
+269
+
+    
+    (8) (a)  As used in this section, "underinsured motor vehicle" includes a motor vehicle,
+            
+270
+
+    
+the operation, maintenance, or use of which is covered under a liability policy at the time of an
+            
+271
+
+    
+injury-causing occurrence, but which has insufficient liability coverage to compensate fully the
+            
+272
+
+    
+injured party for all special and general damages.
+            
+273
+
+    
+    (b)  The term "underinsured motor vehicle" does not include:
+            
+274
+
+    
+    (i)  a motor vehicle that is covered under the liability coverage of the same policy that
+            
+275
+
+    
+also contains the underinsured motorist coverage;
+
+            
+276
+
+
+    
+    (ii)  an uninsured motor vehicle as defined in Subsection (2); or
+            
+277
+
+    
+    (iii)  a motor vehicle owned or leased by:
+            
+278
+
+    
+    (A)  the named insured[,];
+            
+279
+
+    
+    (B)  the named insured's spouse[,]; or
+            
+280
+
+    
+    (C)  any dependant of the named insured.
+            
+281
+
+    
+    (9) (a) (i)  Underinsured motorist coverage under Subsection 
+
+31A-22-302
+
+(1)(c)
+            
+282
+
+    
+provides coverage for covered persons who are legally entitled to recover damages from
+            
+283
+
+    
+owners or operators of underinsured motor vehicles because of bodily injury, sickness, disease,
+            
+284
+
+    
+or death.
+            
+285
+
+    
+    (ii)  A covered person occupying or using a motor vehicle owned, leased, or furnished
+            
+286
+
+    
+to the covered person, the covered person's spouse, or covered person's resident relative may
+            
+287
+
+    
+recover underinsured benefits only if the motor vehicle is:
+            
+288
+
+    
+    (A)  described in the policy under which a claim is made; or
+            
+289
+
+    
+    (B)  a newly acquired or replacement motor vehicle covered under the terms of the
+            
+290
+
+    
+policy.
+            
+291
+
+    
+    (b)  For new policies written on or after January 1, 2001, the limits of underinsured
+            
+292
+
+    
+motorist coverage shall be equal to the lesser of the limits of the insured's motor vehicle
+            
+293
+
+    
+liability coverage or the maximum underinsured motorist coverage limits available by the
+            
+294
+
+    
+insurer under the insured's motor vehicle policy, unless the insured purchases coverage in a
+            
+295
+
+    
+lesser amount by signing an acknowledgment form provided by the insurer that:
+            
+296
+
+    
+    (i)  waives the higher coverage;
+            
+297
+
+    
+    (ii)  reasonably explains the purpose of underinsured motorist coverage; and
+            
+298
+
+    
+    (iii)  discloses the additional premiums required to purchase underinsured motorist
+            
+299
+
+    
+coverage with limits equal to the lesser of the limits of the insured's motor vehicle liability
+            
+300
+
+    
+coverage or the maximum underinsured motorist coverage limits available by the insurer under
+            
+301
+
+    
+the insured's motor vehicle policy.
+            
+302
+
+    
+    (c)  [Self-insurers] A self-insured, including a governmental [entities] entity, may elect
+            
+303
+
+    
+to provide underinsured motorist coverage in an amount that is less than [their] its maximum
+            
+304
+
+    
+self-insured retention under Subsections (9)(b) and (9)(g) by issuing a declaratory
+            
+305
+
+    
+memorandum or policy statement from the chief financial officer or chief risk officer that
+            
+306
+
+    
+declares the:
+
+            
+307
+
+
+    
+    (i)  self-insured entity's coverage level; and
+            
+308
+
+    
+    (ii)  process for filing an underinsured motorist claim.
+            
+309
+
+    
+    (d)  Underinsured motorist coverage may not be sold with limits that are less than:
+            
+310
+
+    
+    (i)  $10,000 for one person in any one accident; and
+            
+311
+
+    
+    (ii)  at least $20,000 for two or more persons in any one accident.
+            
+312
+
+    
+    (e)  The acknowledgment under Subsection (9)(b) continues for that issuer of the
+            
+313
+
+    
+underinsured motorist coverage until the insured, in writing, requests different underinsured
+            
+314
+
+    
+motorist coverage from the insurer.
+            
+315
+
+    
+    (f) (i)  The named insured's underinsured motorist coverage, as described in Subsection
+            
+316
+
+    
+(9)(a), is secondary to the liability coverage of an owner or operator of an underinsured motor
+            
+317
+
+    
+vehicle, as described in Subsection (8).
+            
+318
+
+    
+    (ii)  Underinsured motorist coverage may not be set off against the liability coverage of
+            
+319
+
+    
+the owner or operator of an underinsured motor vehicle, but shall be added to, combined with,
+            
+320
+
+    
+or stacked upon the liability coverage of the owner or operator of the underinsured motor
+            
+321
+
+    
+vehicle to determine the limit of coverage available to the injured person.
+            
+322
+
+    
+    (g) (i)  A named insured may reject underinsured motorist coverage by an express
+            
+323
+
+    
+writing to the insurer that provides liability coverage under Subsection 
+
+31A-22-302
+
+(1)(a).
+            
+324
+
+    
+    (ii)  This written rejection shall be on a form provided by the insurer that includes a
+            
+325
+
+    
+reasonable explanation of the purpose of underinsured motorist coverage and when it would be
+            
+326
+
+    
+applicable.
+            
+327
+
+    
+    (iii)  This rejection continues for that issuer of the liability coverage until the insured in
+            
+328
+
+    
+writing requests underinsured motorist coverage from that liability insurer.
+            
+329
+
+    
+    (h) (i)  In conjunction with the first two renewal notices sent after January 1, 2001, for
+            
+330
+
+    
+policies existing on that date, the insurer shall disclose in the same medium as the premium
+            
+331
+
+    
+renewal notice, an explanation of:
+            
+332
+
+    
+    (A)  the purpose of underinsured motorist coverage; and
+            
+333
+
+    
+    (B)  the costs associated with increasing the coverage in amounts up to and including
+            
+334
+
+    
+the maximum amount available by the insurer under the insured's motor vehicle policy.
+            
+335
+
+    
+    (ii)  The disclosure required by this Subsection (9)(h) shall be sent to all insureds that
+            
+336
+
+    
+carry underinsured motorist coverage limits in an amount less than the insured's motor vehicle
+            
+337
+
+    
+liability policy limits or the maximum underinsured motorist coverage limits available by the
+
+            
+338
+
+
+    
+insurer under the insured's motor vehicle policy.
+            
+339
+
+    
+    (10) (a) (i)  Except as provided in this Subsection (10), a covered person injured in a
+            
+340
+
+    
+motor vehicle described in a policy that includes underinsured motorist benefits may not elect
+            
+341
+
+    
+to collect underinsured motorist coverage benefits from any other motor vehicle insurance
+            
+342
+
+    
+policy.
+            
+343
+
+    
+    (ii)  The limit of liability for underinsured motorist coverage for two or more motor
+            
+344
+
+    
+vehicles may not be added together, combined, or stacked to determine the limit of insurance
+            
+345
+
+    
+coverage available to an injured person for any one accident.
+            
+346
+
+    
+    (iii)  Subsection (10)(a)(ii) applies to all persons except a covered person [as defined]
+            
+347
+
+    
+described under Subsections (10)(b)(i) and (ii).
+            
+348
+
+    
+    (b) (i)  Except as provided in Subsection (10)(b)(ii), a covered person injured while
+            
+349
+
+    
+occupying, using, or maintaining a motor vehicle that is not owned, leased, or furnished to the
+            
+350
+
+    
+covered person, the covered person's spouse, or the covered person's resident parent or resident
+            
+351
+
+    
+sibling, may also recover benefits under any one other policy under which they are a covered
+            
+352
+
+    
+person.
+            
+353
+
+    
+    (ii) (A)  A covered person may recover benefits from no more than two additional
+            
+354
+
+    
+policies, one additional policy from each parent's household if the covered person is:
+            
+355
+
+    
+    (I)  a dependent minor of parents who reside in separate households; and
+            
+356
+
+    
+    (II)  injured while occupying or using a motor vehicle that is not owned, leased, or
+            
+357
+
+    
+furnished to the covered person, the covered person's resident parent, or the covered person's
+            
+358
+
+    
+resident sibling.
+            
+359
+
+    
+    (B)  Each parent's policy under this Subsection (10)(b)(ii) is liable only for the
+            
+360
+
+    
+percentage of the damages that the limit of liability of each parent's policy of underinsured
+            
+361
+
+    
+motorist coverage bears to the total of [all] both parents' underinsured coverage applicable to
+            
+362
+
+    
+the accident.
+            
+363
+
+    
+    (iii)  A covered person's recovery under any available policies may not exceed the full
+            
+364
+
+    
+amount of damages.
+            
+365
+
+    
+    (iv)  Underinsured coverage on a motor vehicle occupied at the time of an accident shall
+            
+366
+
+    
+be primary coverage, and the coverage elected by a person described under Subsections (1)(a)
+            
+367
+
+    
+and (b) shall be secondary coverage.
+            
+368
+
+    
+    (v)  The primary and the secondary coverage may not be set off against the other.
+
+            
+369
+
+
+    
+    (vi)  A covered person as [defined] described under Subsection (10)(b)(i) is entitled to
+            
+370
+
+    
+the highest limits of underinsured motorist coverage under only one additional policy per
+            
+371
+
+    
+household applicable to that covered person as a named insured, spouse, or relative.
+            
+372
+
+    
+    (vii)  A covered injured person is not barred against making subsequent elections if
+            
+373
+
+    
+recovery is unavailable under previous elections.
+            
+374
+
+    
+    (c)  Underinsured motorist coverage:
+            
+375
+
+    
+    (i)  is secondary to the benefits provided by Title 34A, Chapter 2, Workers'
+            
+376
+
+    
+Compensation Act;
+            
+377
+
+    
+    (ii)  may not be subrogated by the workers' compensation insurance carrier;
+            
+378
+
+    
+    (iii)  may not be reduced by any benefits provided by workers' compensation insurance; 
+            
+379
+
+    
+    (iv)  may be reduced by health insurance subrogation only after the covered person has
+            
+380
+
+    
+been made whole;
+            
+381
+
+    
+    (v)  may not be collected for bodily injury or death sustained by a person:
+            
+382
+
+    
+    (A)  while committing a violation of Section 
+
+41-1a-1314
+
+;
+            
+383
+
+    
+    (B)  who, as a passenger in a vehicle, has knowledge that the vehicle is being operated
+            
+384
+
+    
+in violation of Section 
+
+41-1a-1314
+
+; or
+            
+385
+
+    
+    (C)  while committing a felony; and
+            
+386
+
+    
+    (vi)  notwithstanding Subsection (10)(c)(v), may be recovered:
+            
+387
+
+    
+    (A)  for a person under 18 years of age who is injured within the scope of Subsection
+            
+388
+
+    
+(10)(c)(v) but limited to medical and funeral expenses; or
+            
+389
+
+    
+    (B)  by a law enforcement officer as defined in Section 
+
+53-13-103
+
+, who is injured
+            
+390
+
+    
+within the course and scope of the law enforcement officer's duties.
+            
+391
+
+    
+    (11)  The inception of the loss under Subsection 
+
+31A-21-313
+
+(1) for underinsured
+            
+392
+
+    
+motorist claims occurs upon the date of the last liability policy payment.
+            
+393
+
+    
+    (12) (a)  Within five business days after notification in a manner specified by the
+            
+394
+
+    
+department that all liability insurers have tendered their liability policy limits, the underinsured
+            
+395
+
+    
+carrier shall either:
+            
+396
+
+    
+    (i)  waive any subrogation claim the underinsured carrier may have against the person
+            
+397
+
+    
+liable for the injuries caused in the accident; or
+            
+398
+
+    
+    (ii)  pay the insured an amount equal to the policy limits tendered by the liability carrier.
+            
+399
+
+    
+    (b)  If neither option is exercised under Subsection (12)(a), the subrogation claim is
+
+            
+400
+
+
+    
+[deemed] considered to be waived by the underinsured carrier.
+            
+401
+
+    
+    (13)  Except as otherwise provided in this section, a covered person may seek, subject
+            
+402
+
+    
+to the terms and conditions of the policy, additional coverage under any policy:
+            
+403
+
+    
+    (a)  that provides coverage for damages resulting from motor vehicle accidents; and
+            
+404
+
+    
+    (b)  that is not required to conform to Section 
+
+31A-22-302
+
+.
+            
+405
+
+    
+    Section 4.  
+Section  
+31A-22-307
+
+ is amended to read:
+            
+406
+
+    
+     31A-22-307.  Personal injury protection coverages and benefits.
+            
+407
+
+    
+    (1)  Personal injury protection coverages and benefits include:
+            
+408
+
+    
+    (a)  the reasonable value of all expenses for necessary medical, surgical, X-ray, dental,
+            
+409
+
+    
+rehabilitation, including prosthetic devices, ambulance, hospital, and nursing services, not to
+            
+410
+
+    
+exceed [a] the total minimum required coverage of $3,000 per person;
+            
+411
+
+    
+    (b) (i)  the lesser of $250 per week or 85% of any loss of gross income and loss of
+            
+412
+
+    
+earning capacity per person from inability to work, for a maximum of 52 consecutive weeks
+            
+413
+
+    
+after the loss, except that this benefit need not be paid for the first three days of disability,
+            
+414
+
+    
+unless the disability continues for longer than two consecutive weeks after the date of injury;
+            
+415
+
+    
+and
+            
+416
+
+    
+    (ii)  a special damage allowance not exceeding $20 per day for a maximum of 365 days,
+            
+417
+
+    
+for services actually rendered or expenses reasonably incurred for services that, but for the
+            
+418
+
+    
+injury, the injured person would have performed for [his] the injured person's household,
+            
+419
+
+    
+except that this benefit need not be paid for the first three days after the date of injury unless
+            
+420
+
+    
+the person's inability to perform these services continues for more than two consecutive weeks;
+            
+421
+
+    
+    (c)  funeral, burial, or cremation benefits not to exceed a total of $1,500 per person; and
+            
+422
+
+    
+    (d)  compensation on account of death of a person, payable to [his] the person's heirs, in
+            
+423
+
+    
+the total of $3,000.
+            
+424
+
+    
+    (2) (a) (i)  To determine the reasonable value of the medical expenses provided for in
+            
+425
+
+    
+Subsection (1) and under Subsection 
+
+31A-22-309
+
+(1)(a)(v), the commissioner shall conduct a
+            
+426
+
+    
+relative value study of services and accommodations for the diagnosis, care, recovery, or
+            
+427
+
+    
+rehabilitation of an injured person in the most populous county in the state to assign a unit
+            
+428
+
+    
+value and determine the 75th percentile charge for each type of service and accommodation.
+            
+429
+
+    
+    (ii)  The relative value study shall be updated every other year.
+            
+430
+
+    
+    (iii)  In conducting the relative value study, the department may consult or contract with
+
+            
+431
+
+
+    
+appropriate public and private medical and health agencies or other technical experts.
+            
+432
+
+    
+    (iv)  The costs and expenses incurred in conducting, maintaining, and administering the
+            
+433
+
+    
+relative value study shall be funded by the tax created under Section 
+
+59-9-105
+
+.
+            
+434
+
+    
+    (v)  Upon completion of the relative value study, the department shall prepare and
+            
+435
+
+    
+publish a relative value study which sets forth the unit value and the 75th percentile charge
+            
+436
+
+    
+assigned to each type of service and accommodation.
+            
+437
+
+    
+    (b) (i)  The reasonable value of any service or accommodation is determined by
+            
+438
+
+    
+applying the unit value and the 75th percentile charge assigned to the service or
+            
+439
+
+    
+accommodation under the relative value study.
+            
+440
+
+    
+    (ii)  If a service or accommodation is not assigned a unit value or the 75th percentile
+            
+441
+
+    
+charge under the relative value study, the value of the service or accommodation shall equal the
+            
+442
+
+    
+reasonable cost of the same or similar service or accommodation in the most populous county
+            
+443
+
+    
+of this state.
+            
+444
+
+    
+    (c)  This Subsection (2) does not preclude the department from adopting a schedule
+            
+445
+
+    
+already established or a schedule prepared by persons outside the department, if it meets the
+            
+446
+
+    
+requirements of this Subsection (2).
+            
+447
+
+    
+    (d)  Every insurer shall report to the commissioner [of Insurance] any [patterns] pattern
+            
+448
+
+    
+of overcharging, excessive treatment, or other improper actions by a health provider within 30
+            
+449
+
+    
+days after [such] the insurer has knowledge of [such] the pattern.
+            
+450
+
+    
+    (e) (i)  In disputed cases, a court on its own motion or on the motion of either party may
+            
+451
+
+    
+designate an impartial medical panel of not more than three licensed physicians to examine the
+            
+452
+
+    
+claimant and testify on the issue of the reasonable value of the claimant's medical services or
+            
+453
+
+    
+expenses.
+            
+454
+
+    
+    (ii)  An impartial medical panel designated under Subsection (2)(e)(i) shall consist of a
+            
+455
+
+    
+majority of health care professionals within the same license classification and specialty as the
+            
+456
+
+    
+provider of the claimant's medical services or expenses.
+            
+457
+
+    
+    (3)  Medical expenses as provided for in Subsection (1)(a) and in Subsection
+            
+458
+
+    
+
+31A-22-309
+
+ (1)(a)(v) include expenses for any nonmedical remedial care and treatment
+            
+459
+
+    
+rendered in accordance with a recognized religious method of healing.
+            
+460
+
+    
+    (4)  The insured may waive for the named insured and the named insured's spouse only
+            
+461
+
+    
+the loss of gross income benefits of Subsection (1)(b)(i) if the insured states in writing that:
+
+            
+462
+
+
+    
+    (a)  within 31 days of applying for coverage, neither the insured nor the insured's spouse
+            
+463
+
+    
+received any earned income from regular employment; and
+            
+464
+
+    
+    (b)  for at least 180 days from the date of the writing and during the period of insurance,
+            
+465
+
+    
+neither the insured nor the insured's spouse will receive earned income from regular
+            
+466
+
+    
+employment.
+            
+467
+
+    
+    (5)  This section does not:
+            
+468
+
+    
+    (a)  prohibit the issuance of policies of insurance providing coverages greater than the
+            
+469
+
+    
+minimum coverage required under this chapter [nor does it]; or
+            
+470
+
+    
+    (b)  require the segregation of those minimum coverages from other coverages in the
+            
+471
+
+    
+same policy.
+            
+472
+
+    
+    (6)  Deductibles are not permitted with respect to the insurance coverages required
+            
+473
+
+    
+under this section.
+            
+474
+
+    
+    Section 5.  
+Section  
+31A-23a-406
+
+ is amended to read:
+            
+475
+
+    
+     31A-23a-406.  Title insurance producer's business.
+            
+476
+
+    
+    (1)  A title insurance producer may do escrow involving real property transactions if all
+            
+477
+
+    
+of the following exist:
+            
+478
+
+    
+    (a)  the title insurance producer is licensed with:
+            
+479
+
+    
+    (i)  the title line of authority; and
+            
+480
+
+    
+    (ii)  the escrow subline of authority;
+            
+481
+
+    
+    (b)  the title insurance producer is appointed by a title insurer authorized to do business
+            
+482
+
+    
+in the state;
+            
+483
+
+    
+    (c)  one or more of the following is to be issued as part of the transaction:
+            
+484
+
+    
+    (i)  an owner's policy of title insurance; or
+            
+485
+
+    
+    (ii)  a lender's policy of title insurance;
+            
+486
+
+    
+    (d) (i)  all funds deposited with the producer in connection with any escrow:
+            
+487
+
+    
+    (A)  are deposited:
+            
+488
+
+    
+    (I)  in a federally insured financial institution; and
+            
+489
+
+    
+    (II)  in a trust account that is separate from all other trust account funds that are not
+            
+490
+
+    
+related to real estate transactions; and
+            
+491
+
+    
+    (B)  are the property of the persons entitled to them under the provisions of the escrow;
+            
+492
+
+    
+and
+
+            
+493
+
+
+    
+    (ii)  are segregated escrow by escrow in the records of the producer;
+            
+494
+
+    
+    (e)  earnings on funds held in escrow may be paid out of the escrow account to any
+            
+495
+
+    
+person in accordance with the conditions of the escrow; and
+            
+496
+
+    
+    (f)  the escrow does not require the producer to hold:
+            
+497
+
+    
+    (i)  construction funds; or
+            
+498
+
+    
+    (ii)  funds held for exchange under Section 1031, Internal Revenue Code.
+            
+499
+
+    
+    (2)  Notwithstanding Subsection (1), a title insurance producer may engage in the
+            
+500
+
+    
+escrow business if:
+            
+501
+
+    
+    (a)  the escrow involves:
+            
+502
+
+    
+    (i)  a mobile home;
+            
+503
+
+    
+    (ii)  a grazing right;
+            
+504
+
+    
+    (iii)  a water right; or
+            
+505
+
+    
+    (iv)  other personal property authorized by the commissioner; and
+            
+506
+
+    
+    (b)  the title insurance producer complies with all the requirements of this section
+            
+507
+
+    
+except for the requirement of Subsection (1)(c).
+            
+508
+
+    
+    (3)  Funds held in escrow:
+            
+509
+
+    
+    (a)  are not subject to any debts of the producer;
+            
+510
+
+    
+    (b)  may only be used to fulfill the terms of the individual escrow under which the funds
+            
+511
+
+    
+were accepted; and
+            
+512
+
+    
+    (c)  may not be used until all conditions of the escrow have been met.
+            
+513
+
+    
+    (4)  Assets or property other than escrow funds received by a producer in accordance
+            
+514
+
+    
+with an escrow shall be maintained in a manner that will:
+            
+515
+
+    
+    (a)  reasonably preserve and protect the asset or property from loss, theft, or damages;
+            
+516
+
+    
+and
+            
+517
+
+    
+    (b)  otherwise comply with all general duties and responsibilities of a fiduciary or
+            
+518
+
+    
+bailee.
+            
+519
+
+    
+    (5) (a) A check may not be drawn, executed, or dated, or funds otherwise disbursed
+            
+520
+
+    
+unless the segregated escrow account from which funds are to be disbursed contains a
+            
+521
+
+    
+sufficient credit balance consisting of collected or cleared funds at the time the check is drawn,
+            
+522
+
+    
+executed, or dated, or funds are otherwise disbursed.
+            
+523
+
+    
+    (b)  As used in this Subsection (5), funds are considered to be "collected or cleared,"
+
+            
+524
+
+
+    
+and may be disbursed as follows:
+            
+525
+
+    
+    (i)  cash may be disbursed on the same day the cash is deposited;
+            
+526
+
+    
+    (ii)  a wire transfer may be disbursed on the same day the wire transfer is deposited;
+            
+527
+
+    
+    (iii)  the following may be disbursed on the day following the date of deposit:
+            
+528
+
+    
+    (A)  a cashier's check;
+            
+529
+
+    
+    (B)  a certified check;
+            
+530
+
+    
+    (C)  a teller's check;
+            
+531
+
+    
+    (D)  a U.S. Postal Service money order; and
+            
+532
+
+    
+    (E)  a check drawn on a Federal Reserve Bank or Federal Home Loan Bank; and
+            
+533
+
+    
+    (iv)  any other check or deposit may be disbursed:
+            
+534
+
+    
+    (A)  within the time limits provided under the Expedited Funds Availability Act, 12
+            
+535
+
+    
+U.S.C. Section 4001 et seq., as amended, and related regulations of the Federal Reserve
+            
+536
+
+    
+System; or
+            
+537
+
+    
+    (B)  upon written notification from the financial institution to which the funds have
+            
+538
+
+    
+been deposited, that final settlement has occurred on the deposited item.
+            
+539
+
+    
+    (c)  Subject to Subsections (5)(a) and (b), before the disbursement of funds any changes
+            
+540
+
+    
+to any settlement statement made after the final closing documents are executed shall be
+            
+541
+
+    
+acknowledged by signature of:
+            
+542
+
+    
+    (i)  all buyers or borrowers;
+            
+543
+
+    
+    (ii)  all sellers; and
+            
+544
+
+    
+    (iii)  the escrow officer.
+            
+545
+
+    
+    (6)  The title insurance producer shall maintain records of all receipts and
+            
+546
+
+    
+disbursements of escrow funds.
+            
+547
+
+    
+    (7)  The title insurance producer shall comply with:
+            
+548
+
+    
+    (a)  Section 
+
+31A-23a-409
+
+; and
+            
+549
+
+    
+    (b)  any rules adopted by the commissioner in accordance with Title 63, Chapter 46a,
+            
+550
+
+    
+Utah Administrative Rulemaking Act, that govern escrows.
+
+
+
+
+
+ Legislative Review Note
+    as of   1-12-04  12:45 PM
+
+A limited legal review of this legislation raises no obvious constitutional or statutory concerns.
+
+ Office of Legislative Research and General Counsel
+[Bill Documents][Bills Directory]
+
+
+
+
+
+
+
+
+
+Who represents me?
+
+
+
+
+
+Remember my Legislators
+
+
+
+
+
+State Senate
+		350 North State, Suite 320
+		PO Box 145115
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1035
+		Fax: (801) 326-1475
+
+
+
+House of Representatives
+		350 North State, Suite 350
+		PO Box 145030
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1029
+		Fax: (801) 326-1544
+
+
+
+
+
+
+
+
+
+
+Home
+Mobile Site
+Site Map
+Calendar
+Code / Constitution
+House
+Senate
+
+Terms of Use/Privacy Policy
+
+ADA
+Utah.gov
+
+
+
+
+
+
+

@@ -1,0 +1,734 @@
+Sponsors: []Modifications: (i)  Except as provided in Subsection (2)(b)(ii), amay be imposed on orafter May 16 of the year the statement described in Section 
+
+59-2-306
+
+ is requested by the countyassessor.(ii)  A penalty under Subsection (1)(a)if the signed statement described in Section
+
+59-2-306
+
+ is requested:(A)  on or after March 16; or(B)  by a county assessor of a county of the first class.:(i)  the assessor shall:(A)  make a record of the failure to file; and(B)  make an estimate of the value of the property of the owner based on known factsand circumstances; and(ii)(A)(B)(ii)in accordance with Subsection (3)(a)(i)This bill has retrospective operation for a taxable year beginning on or after January 1,2009.Full text:
+
+
+
+Utah State Legislature
+
+
+
+
+
+
+
+
+
+
+
+
+Legislators
+
+By Session (1896-Current)
+Alphabetical (Historical)
+Find by Address/Map
+More
+
+
+Bills
+
+Bills/Bill Requests
+Passed Bills
+2017 Bills
+
+Keyword Search
+Reading Calendars
+Tracking Service
+More
+
+
+Committees
+
+All Committees
+Appropriations
+Commissions
+
+Independent Legislative Ethics Commission
+Interim
+Standing
+Subcommittees
+Task Forces
+Bills In Committees
+
+
+Utah Code / Constitution
+
+
+Title/Chapter/Section
+Keyword Search 
+
+Utah Constitution
+Laws of Utah 1851-ongoing
+Utah Territorial Laws 
+More
+
+
+Senate
+
+Main Page 
+About The Senate 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Extraordinary Sessions 
+Reading Calendars 
+Past Floor Debates 
+Senate Journals 
+
+
+House
+
+Main Page
+About the House 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Reading Calendars 
+Past Floor Debates 
+Journals 
+Conflict of Interest Forms 
+
+
+Legislative Guide 
+
+Legislative Guide
+Civic Programs
+GRAMA (Records Requests)
+
+
+Publications
+
+Search Publications
+Appropriations
+Audits
+Bagels & Briefings
+Briefing Papers
+Digest of Legislation
+Legislative Drafting Manual
+
+Journals
+
+Interim Highlights
+
+Legislative Rules
+GRAMA (Records Requests)
+Public Email
+State Organization Charts
+YouTube Channel
+Requests for Proposals and Legal Notices
+More
+
+
+Legislative Histories
+
+Legislative History Resources
+How to Research
+Bill Drafting/Research Files (1990-Ongoing)
+
+Working Bills (1896-1989)
+Interim Committee Histories (1990-Ongoing) 
+Journals
+Past House Floor Debates
+Past Senate Floor Debates
+More
+
+
+Staff Offices
+
+All Legislative Offices
+Auditor General
+Fiscal Analyst
+Printing
+Research and General Counsel
+Staff Awards
+Job Opportunities
+More
+
+
+Links of Interest
+
+Utah Administrative Rules
+Courts
+Utah State Capitol
+State of Utah
+Federal Legislation
+More
+
+
+
+
+
+
+ 
+
+Download Zipped Introduced WordPerfect HB0028.ZIP
+[Status][Bill Documents][Fiscal Note][Bills Directory]
+
+
+H.B. 28
+
+
+
+
+
+            
+1
+
+    
+ PERSONAL PROPERTY TAX AMENDMENTS
+
+
+
+            
+2
+
+    
+2009 GENERAL SESSION
+
+            
+3
+
+    
+STATE OF UTAH
+
+            
+4
+
+    
+
+
+ Chief Sponsor:  Craig A. Frank
+
+
+
+            
+5
+
+    
+
+
+
+Senate Sponsor: 
+
+
+
+
+
+
+  Wayne L. Niederhauser
+
+
+
+
+
+            
+6
+
+    
+
+            
+7
+
+    
+ LONG TITLE
+            
+8
+
+    
+ Committee Note:
+            
+9
+
+    
+    The Revenue and Taxation Interim Committee recommended this bill.
+            
+10
+
+    
+ General Description:
+            
+11
+
+    
+    This bill amends provisions in the Property Tax Act relating to the collection of
+            
+12
+
+    
+personal property taxes.
+            
+13
+
+    
+ Highlighted Provisions:
+            
+14
+
+    
+    This bill:
+            
+15
+
+    
+    .    provides that a county assessor may impose a penalty if a taxpayer fails to file a
+            
+16
+
+    
+property tax statement on or before May 15 of the year the property tax statement is
+            
+17
+
+    
+requested by the county assessor;
+            
+18
+
+    
+    .    requires a county assessor of a county of the first class to mail a subsequent notice
+            
+19
+
+    
+to the taxpayer before imposing a penalty for failure to file a property tax statement;
+            
+20
+
+    
+    .    requires a county assessor to mail a subsequent notice to a taxpayer before imposing
+            
+21
+
+    
+a penalty for failure to file a property tax statement if the county assessor requested
+            
+22
+
+    
+the property tax statement on or after March 16 of the year the property tax
+            
+23
+
+    
+statement is requested by the county assessor;
+            
+24
+
+    
+    .    requires a county assessor to make an estimate of the value of property based on
+            
+25
+
+    
+known facts and circumstances if a taxpayer fails to file a signed statement of the
+            
+26
+
+    
+taxpayer's property; and
+            
+27
+
+    
+    .    makes technical changes.
+
+            
+28
+
+
+    
+ Monies Appropriated in this Bill:
+            
+29
+
+    
+    None
+            
+30
+
+    
+ Other Special Clauses:
+            
+31
+
+    
+    This bill has retrospective operation for a taxable year beginning on or after January 1,
+            
+32
+
+    
+2009.
+            
+33
+
+    
+ Utah Code Sections Affected:
+            
+34
+
+    
+AMENDS:
+            
+35
+
+    
+     59-2-307, as last amended by Laws of Utah 2008, Chapters 61 and 382
+            
+36
+
+    
+
+            
+37
+
+    
+Be it enacted by the Legislature of the state of Utah:
+            
+38
+
+    
+    Section 1.  
+Section  
+59-2-307
+
+ is amended to read:
+            
+39
+
+    
+     59-2-307.  Refusal by taxpayer to file signed statement -- Penalty -- Assessor to
+            
+40
+
+    
+ estimate value -- Reporting information to other counties.
+            
+41
+
+    
+    (1) (a)  Each person who fails to file the signed statement required by Section 
+
+59-2-306
+
+,
+            
+42
+
+    
+fails to file the signed statement with respect to name and place of residence, or fails to appear
+            
+43
+
+    
+and testify when requested by the assessor, shall pay a penalty equal to 10% of the estimated
+            
+44
+
+    
+tax due, but not less than $100 for each failure to file a signed and completed statement.
+            
+45
+
+    
+    (b)  Each penalty under Subsection (1)(a) shall be collected in the manner provided by
+            
+46
+
+    
+Sections 
+
+59-2-1302
+
+ and 
+
+59-2-1303
+
+, except as otherwise provided for in this section, or by a
+            
+47
+
+    
+judicial proceeding brought in the name of the assessor.
+            
+48
+
+    
+    (c)  All money recovered by any assessor under this section shall be paid into the county
+            
+49
+
+    
+treasury.
+            
+50
+
+    
+    (2) (a)  The penalty imposed by Subsection (1)(a) may not be waived or reduced by the
+            
+51
+
+    
+assessor, county, county Board of Equalization, or commission except pursuant to a procedure
+            
+52
+
+    
+for the review and approval of reductions and waivers adopted by county ordinance, or by
+            
+53
+
+    
+administrative rule adopted in accordance with Title 63G, Chapter 3, Utah Administrative
+            
+54
+
+    
+Rulemaking Act.
+            
+55
+
+    
+    (b)  [The] (i)  Except as provided in Subsection (2)(b)(ii), a penalty under Subsection
+            
+56
+
+    
+(1)(a) [for failure to appear and testify when requested by the assessor] may be imposed on or
+            
+57
+
+    
+after May 16 of the year the statement described in Section 
+
+59-2-306
+
+ is requested by the county
+            
+58
+
+    
+assessor.
+
+            
+59
+
+
+    
+    (ii)  A penalty under Subsection (1)(a) may not be imposed until 30 days after the
+            
+60
+
+    
+postmark date of mailing of a subsequent notice[.] if the signed statement described in Section
+            
+61
+
+    
+
+
+59-2-306
+
+ is requested:
+            
+62
+
+    
+    (A)  on or after March 16; or
+            
+63
+
+    
+    (B)  by a county assessor of a county of the first class.
+            
+64
+
+    
+    (3) (a)  If an owner neglects or refuses to file a signed statement requested by an
+            
+65
+
+    
+assessor [of a county of the first class] as required under Section 
+
+59-2-306
+
+[,]:
+            
+66
+
+    
+    (i)  the assessor shall:
+            
+67
+
+    
+    (A)  make a record of the failure to file; and
+            
+68
+
+    
+    (B)  make an estimate of the value of the property of the owner based on known facts
+            
+69
+
+    
+and circumstances; and
+            
+70
+
+    
+    (ii)  the assessor of a county of the first class:
+            
+71
+
+    
+    [(i)] (A)  shall make[:(A)]  a subsequent request by mail for the signed statement,
+            
+72
+
+    
+informing the owner of the consequences of not filing a signed statement; and
+            
+73
+
+    
+    [(B)  a record of the failure to file and an estimate of the value of the property of the
+            
+74
+
+    
+owner based on known facts and circumstances; and]
+            
+75
+
+    
+    [(ii)] (B)  may impose a fee for the actual and necessary expenses of the mailing under
+            
+76
+
+    
+Subsection (3)(a)[(i)] (ii)(A).
+            
+77
+
+    
+    (b)  The value fixed by the assessor in accordance with Subsection (3)(a)(i) may not be
+            
+78
+
+    
+reduced by the county board of equalization or by the commission.
+            
+79
+
+    
+    (4)  If the signed statement discloses property in any other county, the assessor shall file
+            
+80
+
+    
+the signed statement and send a copy to the assessor of each county in which the property is
+            
+81
+
+    
+located.
+            
+82
+
+    
+    Section 2.   Retrospective operation.
+            
+83
+
+    
+    This bill has retrospective operation for a taxable year beginning on or after January 1,
+            
+84
+
+    
+2009.
+
+
+
+
+ Legislative Review Note
+    as of   8-27-08  12:44 PM
+
+ Office of Legislative Research and General Counsel
+[Bill Documents][Bills Directory]
+
+
+
+
+
+
+
+
+
+Who represents me?
+
+
+
+
+
+Remember my Legislators
+
+
+
+
+
+State Senate
+		350 North State, Suite 320
+		PO Box 145115
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1035
+		Fax: (801) 326-1475
+
+
+
+House of Representatives
+		350 North State, Suite 350
+		PO Box 145030
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1029
+		Fax: (801) 326-1544
+
+
+
+
+
+
+
+
+
+
+Home
+Mobile Site
+Site Map
+Calendar
+Code / Constitution
+House
+Senate
+
+Terms of Use/Privacy Policy
+
+ADA
+Utah.gov
+
+
+
+
+
+
+

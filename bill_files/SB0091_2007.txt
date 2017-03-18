@@ -1,0 +1,9462 @@
+Sponsors: []Modifications: Section
+
+70A-1a-201
+
+(2)(ii)SectionandSubsection 
+
+70A-1a-201
+
+(2)(t)
+
+70A-1a-201
+
+Section 
+
+70A-1a-306
+
+
+
+70A-1a-201
+
+(2)(u)    70A-1a-101.This chapter is known as the "Uniform Commercial Code - General Provisions."    70A-1a-102.This chapter applies to a transaction to the extent that it is governed by another chapterof this title.    70A-1a-103.(1)  This title must be liberally construed and applied to promote its underlyingpurposes and policies, which are:(a)  to simplify, clarify, and modernize the law governing commercial transactions;(b)  to permit the continued expansion of commercial practices through custom, usage,and agreement of the parties; and(c)  to make uniform the law among the various jurisdictions.(2)  Unless displaced by the particular provisions of this title, the principles of law andequity, including the law merchant and the law relative to capacity to contract, principal andagent, estoppel, fraud, misrepresentation, duress, coercion, mistake, bankruptcy, and othervalidating or invalidating cause supplement its provisions.    70A-1a-104.This title being a general act intended as a unified coverage of its subject matter, no partof this title shall be considered to be impliedly repealed by subsequent legislation if suchconstruction can reasonably be avoided.    70A-1a-105.If any provision or clause of this title or its application to any person or circumstance isheld invalid, the invalidity does not affect other provisions or applications of this title whichcan be given effect without the invalid provision or application, and to this end the provisionsof this title are severable.    70A-1a-106.In this title, unless the statutory context otherwise requires:(1)  words in the singular number include the plural, and those in the plural include thesingular; and(2)  words of any gender also refer to any other gender.    70A-1a-107.Section captions are part of this title.    70A-1a-108.This chapter modifies, limits, and supersedes the federal Electronic Signatures inGlobal and National Commerce Act, 15 U.S.C. Section 7001 et seq., except that nothing in thischapter modifies, limits, or supersedes Section 7001(c) of that act or authorizes electronicdelivery of any of the notices described in Section 7003(b) of that act.    70A-1a-201.(1)  Unless the context otherwise requires, words or phrases defined in this section, orin the additional definitions contained in other chapters of this title that apply to particularchapters or parts thereof, have the meanings stated.(2)  Subject to definitions contained in other chapters of this title that apply to particularchapters or parts thereof:(a)  "Action," in the sense of a judicial proceeding, includes recoupment, counterclaim,set-off, suit in equity, and any other proceeding in which rights are determined.(b)  "Aggrieved party" means a party entitled to pursue a remedy.(c)  "Agreement," as distinguished from "contract," means the bargain of the parties infact, as found in their language or inferred from other circumstances, including course ofperformance, course of dealing, or usage of trade as provided in Section 
+
+70A-1a-303
+
+.(d)  "Bank" means a person engaged in the business of banking and includes a savingsbank, savings and loan association, credit union, and trust company.(e)  "Bearer" means a person in possession of a negotiable instrument, document oftitle, or certificated security that is payable to bearer or indorsed in blank.(f)  "Bill of lading" means a document evidencing the receipt of goods for shipmentissued by a person engaged in the business of transporting or forwarding goods.(g)  "Branch" includes a separately incorporated foreign branch of a bank.(h)  "Burden of establishing" a fact means the burden of persuading the trier of fact thatthe existence of the fact is more probable than its nonexistence.(i)  "Buyer in ordinary course of business" means a person that buys goods in goodfaith, without knowledge that the sale violates the rights of another person in the goods, and inthe ordinary course from a person, other than a pawnbroker, in the business of selling goods ofthat kind.  A person buys goods in the ordinary course if the sale to the person comports withthe usual or customary practices in the kind of business in which the seller is engaged or withthe seller's own usual or customary practices.  A person that sells oil, gas, or other minerals atthe wellhead or minehead is a person in the business of selling goods of that kind.  A buyer inordinary course of business may buy for cash, by exchange of other property, or on secured orunsecured credit, and may acquire goods or documents of title under a preexisting contract forsale.  Only a buyer that takes possession of the goods or has a right to recover the goods fromthe seller under Chapter 2, Uniform Commercial Code - Sales, may be a buyer in ordinarycourse of business.  "Buyer in ordinary course of business" does not include a person thatacquires goods in a transfer in bulk or as security for or in total or partial satisfaction of amoney debt.(j)  "Conspicuous," with reference to a term, means so written, displayed, or presentedthat a reasonable person against which it is to operate ought to have noticed it.  Whether a termis conspicuous or not is a decision for the court.  Conspicuous terms include the following:(i)  a heading in capitals equal to or greater in size than the surrounding text, or incontrasting type, font, or color to the surrounding text of the same or lesser size; and(ii)  language in the body of a record or display in larger type than the surrounding text,or in contrasting type, font, or color to the surrounding text of the same size, or set off fromsurrounding text of the same size by symbols or other marks that call attention to the language.(k)  "Consumer" means an individual who enters into a transaction primarily forpersonal, family, or household purposes.(l)  "Contract," as distinguished from "agreement," means the total legal obligation thatresults from the parties' agreement as determined by this title as supplemented by any otherapplicable laws.(m)  "Creditor" includes a general creditor, a secured creditor, a lien creditor, and anyrepresentative of creditors, including an assignee for the benefit of creditors, a trustee inbankruptcy, a receiver in equity, and an executor or administrator of an insolvent debtor's orassignor's estate.(n)  "Defendant" includes a person in the position of defendant in a counterclaim,cross-claim, or third-party claim.(o)  "Delivery," with respect to an instrument, document of title, or chattel paper, meansvoluntary transfer of possession.(p)  "Document of title" includes bill of lading, dock warrant, dock receipt, warehousereceipt or order for the delivery of goods, and also any other document which in the regularcourse of business or financing is treated as adequately evidencing that the person in possessionof it is entitled to receive, hold, and dispose of the document and the goods it covers.  To be adocument of title, a document must purport to be issued by or addressed to a bailee and purportto cover goods in the bailee's possession which are either identified or are fungible portions ofan identified mass.(q)  "Fault" means a default, breach, or wrongful act or omission.(r)  "Fungible goods" means:(i)  goods of which any unit, by nature or usage of trade, is the equivalent of any otherlike unit; or(ii)  goods that by agreement are treated as equivalent.(s)  "Genuine" means free of forgery or counterfeiting.(t)  "Good faith" means honesty in fact in the conduct or transaction concerned.(u)  "Holder" means:(i)  the person in possession of a negotiable instrument that is payable either to bearer orto an identified person that is the person in possession; or(ii)  the person in possession of a document of title if the goods are deliverable either tobearer or to the order of the person in possession.(v)  "Insolvency proceeding" includes an assignment for the benefit of creditors or otherproceeding intended to liquidate or rehabilitate the estate of the person involved.(w)  "Insolvent" means:(i)  having generally ceased to pay debts in the ordinary course of business other than asa result of bona fide dispute;(ii)  being unable to pay debts as they become due; or(iii)  being insolvent within the meaning of federal bankruptcy law.(x)  "Money" means a medium of exchange currently authorized or adopted by adomestic or foreign government.  The term includes a monetary unit of account established byan intergovernmental organization or by agreement between two or more countries.(y)  "Organization" means a person other than an individual.(z)  "Party," as distinguished from "third party," means a person that has engaged in atransaction or made an agreement subject to this title.(aa)  "Person" means an individual, corporation, business trust, estate, trust, partnership,limited liability company, association, joint venture, government, governmental subdivision,agency, instrumentality, public corporation, or any other legal or commercial entity.(bb)  "Present value" means the amount as of a date certain of one or more sumspayable in the future, discounted to the date certain by use of either an interest rate specified bythe parties if that rate is not manifestly unreasonable at the time the transaction is entered intoor, if an interest rate is not so specified, a commercially reasonable rate that takes into accountthe facts and circumstances at the time the transaction is entered into.(cc)  "Purchase" means taking by sale, lease, discount, negotiation, mortgage, pledge,lien, security interest, issue or reissue, gift, or any other voluntary transaction creating aninterest in property.(dd)  "Purchaser" means a person that takes by purchase.(ee)  "Record" means information that is inscribed on a tangible medium or that isstored in an electronic or other medium and is retrievable in perceivable form.(ff)  "Remedy" means any remedial right to which an aggrieved party is entitled with orwithout resort to a tribunal.(gg)  "Representative" means a person empowered to act for another, including anagent, an officer of a corporation or association, and a trustee, executor, or administrator of anestate.(hh)  "Right" includes remedy.(ii)  "Security interest" means an interest in personal property or fixtures which securespayment or performance of an obligation.  "Security interest" includes any interest of aconsignor and a buyer of accounts, chattel paper, a payment intangible, or a promissory note ina transaction that is subject to Chapter 9a, Uniform Commercial Code - Secured Transactions. "Security interest" does not include the special property interest of a buyer of goods onidentification of those goods to a contract for sale under Section 
+
+70A-2-401
+
+, but a buyer mayalso acquire a "security interest" by complying with Chapter 9a, Uniform Commercial Code -Secured Transactions.  Except as otherwise provided in Section 
+
+70A-2-505
+
+, the right of a selleror lessor of goods under Chapter 2, Uniform Commercial Code - Sales, or 2A, UniformCommercial Code - Leases, to retain or acquire possession of the goods is not a "securityinterest," but a seller or lessor may also acquire a "security interest" by complying with Chapter9a, Uniform Commercial Code - Secured Transactions.  The retention or reservation of title bya seller of goods notwithstanding shipment or delivery to the buyer under Section 
+
+70A-2-401
+
+ islimited in effect to a reservation of a "security interest." Whether a transaction in the form of alease creates a "security interest" is determined pursuant to Section 
+
+70A-1a-203
+
+.(jj)  "Send" in connection with a writing, record, or notice means:(i)  to deposit in the mail or deliver for transmission by any other usual means ofcommunication with postage or cost of transmission provided for and properly addressed and,in the case of an instrument, to an address specified thereon or otherwise agreed, or if there benone to any address reasonable under the circumstances; or(ii)  in any other way to cause to be received any record or notice within the time itwould have arrived if properly sent.(kk)  "Signed" includes using any symbol executed or adopted with present intention toadopt or accept a writing.(ll)  "State" means a state of the United States, the District of Columbia, Puerto Rico,the United States Virgin Islands, or any territory or insular possession subject to the jurisdictionof the United States.(mm)  "Surety" includes a guarantor or other secondary obligor.(nn)  "Term" means a portion of an agreement that relates to a particular matter.(oo)  "Unauthorized signature" means a signature made without actual, implied, orapparent authority.  The term includes a forgery.(pp)  "Warehouse receipt" means a receipt issued by a person engaged in the business ofstoring goods for hire.(qq)  "Writing" includes printing, typewriting, or any other intentional reduction totangible form.  "Written" has a corresponding meaning.    70A-1a-202.(1)  Subject to Subsection (6), a person has "notice" of a fact if the person:(a)  has actual knowledge of it;(b)  has received a notice or notification of it; or(c)  from all the facts and circumstances known to the person at the time in question,has reason to know that it exists.(2)  "Knowledge" means actual knowledge.  "Knows" has a corresponding meaning.(3)  "Discover," "learn," or words of similar import refer to knowledge rather than toreason to know.(4)  A person "notifies" or "gives" a notice or notification to another person by takingsuch steps as may be reasonably required to inform the other person in ordinary course,whether or not the other person actually comes to know of it.(5)  Subject to Subsection (6), a person "receives" a notice or notification when:(a)  it comes to that person's attention; or(b)  it is duly delivered in a form reasonable under the circumstances at the place ofbusiness through which the contract was made or at another location held out by that person asthe place for receipt of such communications.(6)  Notice, knowledge, or a notice or notification received by an organization iseffective for a particular transaction from the time it is brought to the attention of the individualconducting that transaction and, in any event, from the time it would have been brought to theindividual's attention if the organization had exercised due diligence.  An organizationexercises due diligence if it maintains reasonable routines for communicating significantinformation to the person conducting the transaction and there is reasonable compliance withthe routines.  Due diligence does not require an individual acting for the organization tocommunicate information unless the communication is part of the individual's regular duties orthe individual has reason to know of the transaction and that the transaction would bematerially affected by the information.    70A-1a-203.(1)  Whether a transaction in the form of a lease creates a lease or security interest isdetermined by the facts of each case.(2)  A transaction in the form of a lease creates a security interest if the considerationthat the lessee is to pay the lessor for the right to possession and use of the goods is anobligation for the term of the lease and is not subject to termination by the lessee, and:(a)  the original term of the lease is equal to or greater than the remaining economic lifeof the goods;(b)  the lessee is bound to renew the lease for the remaining economic life of the goodsor is bound to become the owner of the goods;(c)  the lessee has an option to renew the lease for the remaining economic life of thegoods for no additional consideration or for nominal additional consideration upon compliancewith the lease agreement; or(d)  the lessee has an option to become the owner of the goods for no additionalconsideration or for nominal additional consideration upon compliance with the leaseagreement.(3)  A transaction in the form of a lease does not create a security interest merelybecause:(a)  the present value of the consideration the lessee is obligated to pay the lessor for theright to possession and use of the goods is substantially equal to or is greater than the fairmarket value of the goods at the time the lease is entered into;(b)  the lessee assumes risk of loss of the goods;(c)  the lessee agrees to pay, with respect to the goods, taxes, insurance, filing,recording, or registration fees, or service or maintenance costs;(d)  the lessee has an option to renew the lease or to become the owner of the goods;(e)  the lessee has an option to renew the lease for a fixed rent that is equal to or greaterthan the reasonably predictable fair market rent for the use of the goods for the term of therenewal at the time the option is to be performed; or(f)  the lessee has an option to become the owner of the goods for a fixed price that isequal to or greater than the reasonably predictable fair market value of the goods at the time theoption is to be performed.(4)  Additional consideration is nominal if it is less than the lessee's reasonablypredictable cost of performing under the lease agreement if the option is not exercised. Additional consideration is not nominal if:(a)  when the option to renew the lease is granted to the lessee, the rent is stated to bethe fair market rent for the use of the goods for the term of the renewal determined at the timethe option is to be performed; or(b)  when the option to become the owner of the goods is granted to the lessee, the priceis stated to be the fair market value of the goods determined at the time the option is to beperformed.(5)  The "remaining economic life of the goods" and "reasonably predictable" fairmarket rent, fair market value, or cost of performing under the lease agreement must bedetermined with reference to the facts and circumstances at the time the transaction is enteredinto.    70A-1a-204.Except as otherwise provided in Chapters 3, Uniform Commercial Code - NegotiableInstruments, 4, Uniform Commercial Code - Bank Deposits and Collections, and 5, UniformCommercial Code - Letters of Credit, a person gives value for rights if the person acquiresthem:(1)  in return for a binding commitment to extend credit or for the extension ofimmediately available credit, whether or not drawn upon and whether or not a charge-back isprovided for in the event of difficulties in collection;(2)  as security for, or in total or partial satisfaction of, a preexisting claim;(3)  by accepting delivery under a preexisting contract for purchase; or(4)  in return for any consideration sufficient to support a simple contract.    70A-1a-205.(1)  Whether a time for taking an action required by this title is reasonable depends onthe nature, purpose, and circumstances of the action.(2)  An action is taken seasonably if it is taken at or within the time agreed or, if no timeis agreed, at or within a reasonable time.    70A-1a-206.Whenever this title creates a "presumption" with respect to a fact, or provides that a factis "presumed," the trier of fact must find the existence of the fact unless and until evidence isintroduced that supports a finding of its nonexistence.    70A-1a-301.(1)  Except as provided in this section, when a transaction bears a reasonable relation tothis state and also to another state or nation, the parties may agree that the law either of thisstate or of such other state or nation shall govern their rights and duties.  Failing suchagreement, this title applies to transactions bearing an appropriate relation to this state.(2)  Where one of the following provisions of this title specifies the applicable law, thatprovision governs and a contrary agreement is effective only to the extent permitted by the law,including the conflict of laws rules, so specified:(a)  rights of creditors against sold goods under Section 
+
+70A-2-402
+
+;(b)  applicability of the chapter on leases under Sections 
+
+70A-2a-105
+
+ and 
+
+70A-2a-106
+
+;(c)  applicability of the chapter on bank deposits and collections under Section
+
+70A-4-102
+
+;(d)  applicability of the chapter on funds transfers under Section 
+
+70A-4a-507
+
+;(e)  applicability of the chapter on letters of credit under Section 
+
+70A-5-116
+
+;(f)  applicability of the chapter on investment securities under Section 
+
+70A-8-109
+
+; or(g)  law governing perfection, the effect of perfection or nonperfection, and the priorityof security interests and agricultural liens under Sections 
+
+70A-9a-301
+
+ through 
+
+70A-9a-307
+
+.    70A-1a-302.(1)  Except as otherwise provided in Subsection (2) or elsewhere in this title, the effectof provisions of this title may be varied by agreement.(2)  The obligations of good faith, diligence, reasonableness, and care prescribed by thistitle may not be disclaimed by agreement.  The parties, by agreement, may determine thestandards by which the performance of those obligations is to be measured if those standardsare not manifestly unreasonable.  Whenever this title requires an action to be taken within areasonable time, a time that is not manifestly unreasonable may be fixed by agreement.(3)  The presence in certain provisions of this title of the phrase "unless otherwiseagreed," or words of similar import, does not imply that the effect of other provisions may notbe varied by agreement under this section.    70A-1a-303.(1)  A "course of performance" is a sequence of conduct between the parties to aparticular transaction that exists if:(a)  the agreement of the parties with respect to the transaction involves repeatedoccasions for performance by a party; and(b)  the other party, with knowledge of the nature of the performance and opportunityfor objection to it, accepts the performance or acquiesces in it without objection.(2)  A "course of dealing" is a sequence of conduct concerning previous transactionsbetween the parties to a particular transaction that is fairly to be regarded as establishing acommon basis of understanding for interpreting their expressions and other conduct.(3)  A "usage of trade" is any practice or method of dealing having such regularity ofobservance in a place, vocation, or trade as to justify an expectation that it will be observedwith respect to the transaction in question.  The existence and scope of such a usage must beproved as facts.  If it is established that such a usage is embodied in a trade code or similarrecord, the interpretation of the record is a question of law.(4)  A course of performance or course of dealing between the parties or usage of tradein the vocation or trade in which they are engaged or of which they are or should be aware isrelevant in ascertaining the meaning of the parties' agreement, may give particular meaning tospecific terms of the agreement, and may supplement or qualify the terms of the agreement.  Ausage of trade applicable in the place in which part of the performance under the agreement isto occur may be so utilized as to that part of the performance.(5)  Except as otherwise provided in Subsection (6), the express terms of an agreementand any applicable course of performance, course of dealing, or usage of trade must beconstrued whenever reasonable as consistent with each other.  If such a construction isunreasonable:(a)  express terms prevail over course of performance, course of dealing, and usage oftrade;(b)  course of performance prevails over course of dealing and usage of trade; and(c)  course of dealing prevails over usage of trade.(6)  Subject to Section 
+
+70A-2-209
+
+, a course of performance is relevant to show a waiveror modification of any term inconsistent with the course of performance.(7)  Evidence of a relevant usage of trade offered by one party is not admissible unlessthat party has given the other party notice that the court finds sufficient to prevent unfairsurprise to the other party.    70A-1a-304.Every contract or duty within this title imposes an obligation of good faith in itsperformance and enforcement.    70A-1a-305.(1)  The remedies provided by this title must be liberally administered to the end thatthe aggrieved party may be put in as good a position as if the other party had fully performedbut neither consequential or special damages nor penal damages may be had except asspecifically provided in this title or by other rule of law.(2)  Any right or obligation declared by this title is enforceable by action unless theprovision declaring it specifies a different and limited effect.    70A-1a-306.A claim or right arising out of an alleged breach may be discharged in whole or in partwithout consideration by agreement of the aggrieved party in an authenticated record.    70A-1a-307.A document in due form purporting to be a bill of lading, policy or certificate ofinsurance, official weigher's or inspector's certificate, consular invoice, or any other documentauthorized or required by the contract to be issued by a third party is prima facie evidence of itsown authenticity and genuineness and of the facts stated in the document by the third party.    70A-1a-308.(1)  A party that with explicit reservation of rights performs or promises performance orassents to performance in a manner demanded or offered by the other party does not therebyprejudice the rights reserved.  Such words as "without prejudice," "under protest," or the likeare sufficient.(2)  Subsection (1) does not apply to an accord and satisfaction.    70A-1a-309.A term providing that one party or that party's successor in interest may acceleratepayment or performance or require collateral or additional collateral "at will" or when the party"considers itself insecure," or words of similar import, means that the party has power to do soonly if that party in good faith believes that the prospect of payment or performance isimpaired.  The burden of establishing lack of good faith is on the party against which the powerhas been exercised.    70A-1a-310.An obligation may be issued as subordinated to performance of another obligation ofthe person obligated, or a creditor may subordinate its right to performance of an obligation byagreement with either the person obligated or another creditor of the person obligated. Subordination does not create a security interest as against either the common debtor or asubordinated creditor.,1a, Uniform Commercial Code - General Provisions,:(1)course of performance,,
+
+70A-1a-303
+
+(2).............(46)..(54).(67).....1aSubsection 
+
+70A-1a-305
+
+(1)Sections 
+
+70A-1a-302
+
+ andSections 
+
+70A-1a-302
+
+ andSections 
+
+70A-1a-302
+
+ andSections 
+
+70A-1a-302
+
+ and
+
+70A-1a-201
+
+(2)(h)............................................1a, Uniform Commercial Code - General Provisions,4a........................1a, Uniform Commercial Code -
+
+70A-1a-201
+
+(2)(h)................., Uniform Commercial Code - BankDeposits and Collections,..1aSection 
+
+70A-1a-202
+
+
+
+70A-1a-302
+
+(2)Section 
+
+70A-1a-302
+
+Subsection1a, Uniform Commercial Code -.......1a, Uniform Commercial Code -1a, Uniform Commercial Code -
+
+70A-1a-201
+
+
+
+70A-1a-201
+
+(2)(t)Full text:
+
+
+
+Utah State Legislature
+
+
+
+
+
+
+
+
+
+
+
+
+Legislators
+
+By Session (1896-Current)
+Alphabetical (Historical)
+Find by Address/Map
+More
+
+
+Bills
+
+Bills/Bill Requests
+Passed Bills
+2017 Bills
+
+Keyword Search
+Reading Calendars
+Tracking Service
+More
+
+
+Committees
+
+All Committees
+Appropriations
+Commissions
+
+Independent Legislative Ethics Commission
+Interim
+Standing
+Subcommittees
+Task Forces
+Bills In Committees
+
+
+Utah Code / Constitution
+
+
+Title/Chapter/Section
+Keyword Search 
+
+Utah Constitution
+Laws of Utah 1851-ongoing
+Utah Territorial Laws 
+More
+
+
+Senate
+
+Main Page 
+About The Senate 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Extraordinary Sessions 
+Reading Calendars 
+Past Floor Debates 
+Senate Journals 
+
+
+House
+
+Main Page
+About the House 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Reading Calendars 
+Past Floor Debates 
+Journals 
+Conflict of Interest Forms 
+
+
+Legislative Guide 
+
+Legislative Guide
+Civic Programs
+GRAMA (Records Requests)
+
+
+Publications
+
+Search Publications
+Appropriations
+Audits
+Bagels & Briefings
+Briefing Papers
+Digest of Legislation
+Legislative Drafting Manual
+
+Journals
+
+Interim Highlights
+
+Legislative Rules
+GRAMA (Records Requests)
+Public Email
+State Organization Charts
+YouTube Channel
+Requests for Proposals and Legal Notices
+More
+
+
+Legislative Histories
+
+Legislative History Resources
+How to Research
+Bill Drafting/Research Files (1990-Ongoing)
+
+Working Bills (1896-1989)
+Interim Committee Histories (1990-Ongoing) 
+Journals
+Past House Floor Debates
+Past Senate Floor Debates
+More
+
+
+Staff Offices
+
+All Legislative Offices
+Auditor General
+Fiscal Analyst
+Printing
+Research and General Counsel
+Staff Awards
+Job Opportunities
+More
+
+
+Links of Interest
+
+Utah Administrative Rules
+Courts
+Utah State Capitol
+State of Utah
+Federal Legislation
+More
+
+
+
+
+
+
+ 
+
+Download Zipped Enrolled WordPerfect SB0091.ZIP
+[Introduced][Amended][Status][Bill Documents][Fiscal Note][Bills Directory]
+
+
+S.B. 91 Enrolled
+
+
+
+
+
+            
+1
+
+    
+ UNIFORM COMMERCIAL CODE - GENERAL
+
+            
+2
+
+    
+ PROVISIONS
+
+
+
+            
+3
+
+    
+2007 GENERAL SESSION
+
+            
+4
+
+    
+STATE OF UTAH
+
+            
+5
+
+    
+
+
+ Chief Sponsor:  Lyle W. Hillyard
+
+
+
+            
+6
+
+    
+
+
+
+House Sponsor:  
+
+
+
+
+
+
+Fred R. Hunsaker
+
+
+
+
+
+            
+7
+
+    
+
+            
+8
+
+    
+ LONG TITLE
+            
+9
+
+    
+ General Description:
+            
+10
+
+    
+    This bill modifies the general provisions of the Uniform Commercial Code.
+            
+11
+
+    
+ Highlighted Provisions:
+            
+12
+
+    
+    This bill:
+            
+13
+
+    
+    .    repeals Title 70A, Chapter 1, General Provisions;
+            
+14
+
+    
+    .    enacts the revised Article 1 of the Uniform Commercial Code as Title 70A, Chapter
+            
+15
+
+    
+1a, General Provisions, including provisions related to:
+            
+16
+
+    
+        .    the construction and interpretation of the Uniform Commercial Code;
+            
+17
+
+    
+        .    the relationship between the Uniform Commercial Code and other laws;
+            
+18
+
+    
+        .    the applicability of the Uniform Commercial Code; and
+            
+19
+
+    
+        .    defining terms;
+            
+20
+
+    
+    .    amends other provisions of the Uniform Commercial Code, to conform with the
+            
+21
+
+    
+adoption of Title 70A, Chapter 1a, General Provisions; and
+            
+22
+
+    
+    .    makes technical amendments.
+            
+23
+
+    
+ Monies Appropriated in this Bill:
+            
+24
+
+    
+    None
+            
+25
+
+    
+ Other Special Clauses:
+            
+26
+
+    
+    None
+            
+27
+
+    
+ Utah Code Sections Affected:
+            
+28
+
+    
+AMENDS:
+            
+29
+
+    
+     11-14-501, as renumbered and amended by Chapter 105, Laws of Utah 2005
+
+            
+30
+
+
+    
+     15-8-4, as last amended by Chapter 12, Laws of Utah 1994
+            
+31
+
+    
+     24-1-3, as last amended by Chapter 296, Laws of Utah 2004
+            
+32
+
+    
+     32A-11a-102, as last amended by Chapter 1, Laws of Utah 2000
+            
+33
+
+    
+     41-1a-601, as last amended by Chapter 252, Laws of Utah 2000
+            
+34
+
+    
+     46-4-103, as enacted by Chapter 74, Laws of Utah 2000
+            
+35
+
+    
+     46-4-403, as last amended by Chapter 42, Laws of Utah 2006
+            
+36
+
+    
+     70A-2-103, as last amended by Chapter 42, Laws of Utah 2006
+            
+37
+
+    
+     70A-2-202, as enacted by Chapter 154, Laws of Utah 1965
+            
+38
+
+    
+     70A-2a-103, as last amended by Chapter 42, Laws of Utah 2006
+            
+39
+
+    
+     70A-2a-501, as last amended by Chapter 237, Laws of Utah 1993
+            
+40
+
+    
+     70A-2a-518, as last amended by Chapter 237, Laws of Utah 1993
+            
+41
+
+    
+     70A-2a-519, as last amended by Chapter 237, Laws of Utah 1993
+            
+42
+
+    
+     70A-2a-527, as last amended by Chapter 237, Laws of Utah 1993
+            
+43
+
+    
+     70A-2a-528, as last amended by Chapter 237, Laws of Utah 1993
+            
+44
+
+    
+     70A-3-103, as last amended by Chapter 60, Laws of Utah 1998
+            
+45
+
+    
+     70A-4-104, as last amended by Chapter 42, Laws of Utah 2006
+            
+46
+
+    
+     70A-4a-105, as last amended by Chapter 237, Laws of Utah 1993
+            
+47
+
+    
+     70A-4a-106, as last amended by Chapter 237, Laws of Utah 1993
+            
+48
+
+    
+     70A-4a-204, as last amended by Chapter 237, Laws of Utah 1993
+            
+49
+
+    
+     70A-5-103, as repealed and reenacted by Chapter 241, Laws of Utah 1997
+            
+50
+
+    
+     70A-8-101, as last amended by Chapter 71, Laws of Utah 2005
+            
+51
+
+    
+     70A-7a-102, as enacted by Chapter 42, Laws of Utah 2006
+            
+52
+
+    
+     70A-9a-102.1, as last amended by Chapter 42, Laws of Utah 2006
+            
+53
+
+    
+     70A-10-104, as last amended by Chapter 42, Laws of Utah 2006
+            
+54
+
+    
+     70C-2-204, as enacted by Chapter 159, Laws of Utah 1985
+            
+55
+
+    
+ENACTS:
+            
+56
+
+    
+     70A-1a-101, Utah Code Annotated 1953
+            
+57
+
+    
+     70A-1a-102, Utah Code Annotated 1953
+
+            
+58
+
+
+    
+     70A-1a-103, Utah Code Annotated 1953
+            
+59
+
+    
+     70A-1a-104, Utah Code Annotated 1953
+            
+60
+
+    
+     70A-1a-105, Utah Code Annotated 1953
+            
+61
+
+    
+     70A-1a-106, Utah Code Annotated 1953
+            
+62
+
+    
+     70A-1a-107, Utah Code Annotated 1953
+            
+63
+
+    
+     70A-1a-108, Utah Code Annotated 1953
+            
+64
+
+    
+     70A-1a-201, Utah Code Annotated 1953
+            
+65
+
+    
+     70A-1a-202, Utah Code Annotated 1953
+            
+66
+
+    
+     70A-1a-203, Utah Code Annotated 1953
+            
+67
+
+    
+     70A-1a-204, Utah Code Annotated 1953
+            
+68
+
+    
+     70A-1a-205, Utah Code Annotated 1953
+            
+69
+
+    
+     70A-1a-206, Utah Code Annotated 1953
+            
+70
+
+    
+     70A-1a-301, Utah Code Annotated 1953
+            
+71
+
+    
+     70A-1a-302, Utah Code Annotated 1953
+            
+72
+
+    
+     70A-1a-303, Utah Code Annotated 1953
+            
+73
+
+    
+     70A-1a-304, Utah Code Annotated 1953
+            
+74
+
+    
+     70A-1a-305, Utah Code Annotated 1953
+            
+75
+
+    
+     70A-1a-306, Utah Code Annotated 1953
+            
+76
+
+    
+     70A-1a-307, Utah Code Annotated 1953
+            
+77
+
+    
+     70A-1a-308, Utah Code Annotated 1953
+            
+78
+
+    
+     70A-1a-309, Utah Code Annotated 1953
+            
+79
+
+    
+     70A-1a-310, Utah Code Annotated 1953
+            
+80
+
+    
+REPEALS:
+            
+81
+
+    
+     70A-1-101, as enacted by Chapter 154, Laws of Utah 1965
+            
+82
+
+    
+     70A-1-102, as enacted by Chapter 154, Laws of Utah 1965
+            
+83
+
+    
+     70A-1-103, as enacted by Chapter 154, Laws of Utah 1965
+            
+84
+
+    
+     70A-1-104, as enacted by Chapter 154, Laws of Utah 1965
+            
+85
+
+    
+     70A-1-105, as last amended by Chapter 252, Laws of Utah 2000
+
+            
+86
+
+
+    
+     70A-1-106, as enacted by Chapter 154, Laws of Utah 1965
+            
+87
+
+    
+     70A-1-107, as enacted by Chapter 154, Laws of Utah 1965
+            
+88
+
+    
+     70A-1-108, as enacted by Chapter 154, Laws of Utah 1965
+            
+89
+
+    
+     70A-1-109, as enacted by Chapter 154, Laws of Utah 1965
+            
+90
+
+    
+     70A-1-201, as last amended by Chapter 42, Laws of Utah 2006
+            
+91
+
+    
+     70A-1-202, as enacted by Chapter 154, Laws of Utah 1965
+            
+92
+
+    
+     70A-1-203, as enacted by Chapter 154, Laws of Utah 1965
+            
+93
+
+    
+     70A-1-204, as enacted by Chapter 154, Laws of Utah 1965
+            
+94
+
+    
+     70A-1-205, as enacted by Chapter 154, Laws of Utah 1965
+            
+95
+
+    
+     70A-1-206, as last amended by Chapter 252, Laws of Utah 2000
+            
+96
+
+    
+     70A-1-207, as last amended by Chapter 237, Laws of Utah 1993
+            
+97
+
+    
+     70A-1-208, as enacted by Chapter 154, Laws of Utah 1965
+            
+98
+
+    
+
+            
+99
+
+    
+Be it enacted by the Legislature of the state of Utah:
+            
+100
+
+    
+    Section 1.  
+Section  
+11-14-501
+
+ is amended to read:
+            
+101
+
+    
+     11-14-501.  Creation and perfection of government security interests.
+            
+102
+
+    
+    (1)  As used in this section:
+            
+103
+
+    
+    (a)  "Bonds" means any bond, note, lease, or other obligation of a governmental unit.
+            
+104
+
+    
+    (b)  "Governmental unit" has the meaning assigned in [Subsection] Section
+            
+105
+
+    
+
+70A-9a-102
+
+[(45)].
+            
+106
+
+    
+    (c)  "Pledge" means the creation of a security interest of any kind.
+            
+107
+
+    
+    (d)  "Property" means any property or interests in property, other than real property.
+            
+108
+
+    
+    (e)  "Security agreement" means any resolution, ordinance, indenture, document, or
+            
+109
+
+    
+other agreement or instrument under which the revenues, fees, rents, charges, taxes, or other
+            
+110
+
+    
+property are pledged to secure the bonds.
+            
+111
+
+    
+    (2)  This section expressly governs the creation, perfection, priority, and enforcement of
+            
+112
+
+    
+a security interest created by the state or a governmental unit of the state, notwithstanding
+            
+113
+
+    
+anything in Title 70A, Chapter 9a, Uniform Commercial Code - Secured Transactions, to the
+
+            
+114
+
+
+    
+contrary.
+            
+115
+
+    
+    (3) (a)  The revenues, fees, rents, charges, taxes, or other property pledged by a
+            
+116
+
+    
+governmental unit for the purpose of securing its bonds are immediately subject to the lien of
+            
+117
+
+    
+the pledge.
+            
+118
+
+    
+    (b) (i)  The lien is a perfected lien upon the effective date of the security agreement.
+            
+119
+
+    
+    (ii)  The physical delivery, filing, or recording of a security agreement or financing
+            
+120
+
+    
+statement under the Uniform Commercial Code or otherwise, or any other similar act, is not
+            
+121
+
+    
+necessary to perfect the lien.
+            
+122
+
+    
+    (c)  The lien of any pledge is valid, binding, perfected, and enforceable from the time
+            
+123
+
+    
+the pledge is made.
+            
+124
+
+    
+    (d)  The lien of the pledge has priority:
+            
+125
+
+    
+    (i)  based on the time of the creation of the pledge unless otherwise provided in the
+            
+126
+
+    
+security agreement; and
+            
+127
+
+    
+    (ii)  as against all parties having claims of any kind in tort, contract, or otherwise
+            
+128
+
+    
+against the governmental unit, regardless of whether or not the parties have notice of the lien.
+            
+129
+
+    
+    (e)  Each pledge and security agreement made for the benefit or security of any of the
+            
+130
+
+    
+bonds shall continue to be effective until:
+            
+131
+
+    
+    (i)  the principal, interest, and premium, if any, on the bonds have been fully paid;
+            
+132
+
+    
+    (ii)  provision for payment has been made; or
+            
+133
+
+    
+    (iii)  the lien created by the security agreement has been released by agreement of the
+            
+134
+
+    
+parties in interest or as provided by the security agreement that created the lien.
+            
+135
+
+    
+    Section 2.  
+Section  
+15-8-4
+
+ is amended to read:
+            
+136
+
+    
+     15-8-4.  Inapplicability of other laws -- Exempted transactions.
+            
+137
+
+    
+    (1)  Rental purchase agreements that comply with this chapter are not governed by the
+            
+138
+
+    
+laws relating to:
+            
+139
+
+    
+    (a)  a security interest as defined in Subsection [
+
+70A-1-201
+
+(37)] 
+
+70A-1a-201
+
+(2)(ii); or
+            
+140
+
+    
+    (b)  Title 70C, Utah Consumer Credit Code, except that Sections 
+
+70C-7-102
+
+ through
+            
+141
+
+    
+
+70C-7-104
+
+ and 
+
+70C-2-205
+
+ shall apply to lessors as defined in this chapter to the same extent as
+
+            
+142
+
+
+    
+they apply to creditors under Title 70C.
+            
+143
+
+    
+    (2)  The chapter does not apply to the following:
+            
+144
+
+    
+    (a)  rental purchase agreements primarily for business, commercial, or agricultural
+            
+145
+
+    
+purposes, or those made with governmental agencies or instrumentalities or with organizations;
+            
+146
+
+    
+    (b)  a lease of a safe deposit box;
+            
+147
+
+    
+    (c)  a lease or bailment of personal property which is incidental to the lease of real
+            
+148
+
+    
+property and which provides that the consumer has no option to purchase the leased property;
+            
+149
+
+    
+or
+            
+150
+
+    
+    (d)  a lease of a motor vehicle, as defined in Section 
+
+41-1a-102
+
+.
+            
+151
+
+    
+    Section 3.  
+Section  
+24-1-3
+
+ is amended to read:
+            
+152
+
+    
+     24-1-3.  Definitions.
+            
+153
+
+    
+    As used in this section:
+            
+154
+
+    
+    (1)  "Account" means the Criminal Forfeiture Restricted Account created in Section
+            
+155
+
+    
+
+24-1-18
+
+.
+            
+156
+
+    
+    (2)  "Agency" means any agency of municipal, county, or state government, including
+            
+157
+
+    
+law enforcement agencies, law enforcement personnel, and multi-jurisdictional task forces.
+            
+158
+
+    
+    (3)  "Claimant" means:
+            
+159
+
+    
+    (a)  any owner of property as defined in this section;
+            
+160
+
+    
+    (b)  any interest holder as defined in this section; and
+            
+161
+
+    
+    (c)  any other person or entity who asserts a claim to any property seized for forfeiture
+            
+162
+
+    
+under this section.
+            
+163
+
+    
+    (4)  "Complaint" means a civil complaint seeking the forfeiture of any real or personal
+            
+164
+
+    
+property pursuant to this chapter.
+            
+165
+
+    
+    (5)  "Constructive seizure" means a seizure of property where the property is left in the
+            
+166
+
+    
+control of the owner and the seizing agency posts the property with notice of seizure by that
+            
+167
+
+    
+agency for forfeiture.
+            
+168
+
+    
+    (6)  "Contraband" means any property, item, or substance which is unlawful to produce
+            
+169
+
+    
+or to possess under state or federal law.
+
+            
+170
+
+
+    
+    (7) (a)  "Innocent owner" means an owner or interest holder who held an ownership
+            
+171
+
+    
+interest in property at the time the conduct subjecting the property to seizure occurred, and:
+            
+172
+
+    
+    (i)  did not have actual knowledge of the conduct subjecting the property to seizure; or
+            
+173
+
+    
+    (ii)  upon learning of the conduct subjecting the property to seizure, took reasonable
+            
+174
+
+    
+steps to prohibit the illegal use of the property.
+            
+175
+
+    
+    (b)  "Innocent owner" means an owner or interest holder who acquired an ownership
+            
+176
+
+    
+interest in the property and who had no knowledge that the illegal conduct subjecting the
+            
+177
+
+    
+property to seizure had occurred or that the property had been seized for forfeiture, and:
+            
+178
+
+    
+    (i)  acquired the property in a bona fide transaction for value;
+            
+179
+
+    
+    (ii)  was a person, including a minor child, who acquired an interest in the property
+            
+180
+
+    
+through probate or inheritance; or
+            
+181
+
+    
+    (iii)  was a spouse who acquired an interest in property through dissolution of marriage
+            
+182
+
+    
+or by operation of law.
+            
+183
+
+    
+    (8) (a)  "Interest holder" means a secured party as defined in [Subsection] Section
+            
+184
+
+    
+
+70A-9a-102
+
+[(72)], a mortgagee, lien creditor, or the beneficiary of a security interest or
+            
+185
+
+    
+encumbrance pertaining to an interest in property, whose interest would be perfected against a
+            
+186
+
+    
+good faith purchaser for value.
+            
+187
+
+    
+    (b)  "Interest holder" does not mean a person who holds property for the benefit of or as
+            
+188
+
+    
+an agent or nominee for another person, or who is not in substantial compliance with any
+            
+189
+
+    
+statute requiring an interest in property to be recorded or reflected in public records in order to
+            
+190
+
+    
+perfect the interest against a good faith purchaser for value.
+            
+191
+
+    
+    (9)  "Legal costs" means the costs and expenses incurred by the prosecuting agency, not
+            
+192
+
+    
+to exceed 20% of the net value of the forfeited property.
+            
+193
+
+    
+    (10)  "Legislative body" means:
+            
+194
+
+    
+    (a) (i)  the state Legislature, county commission, county council, city commission, city
+            
+195
+
+    
+council, or town council that has fiscal oversight and budgetary approval authority over a
+            
+196
+
+    
+seizing agency; or
+            
+197
+
+    
+    (ii)  the seizing agency's governing political subdivision; or
+
+            
+198
+
+
+    
+    (b)  the lead governmental entity of a multijurisdictional task force, as designated in a
+            
+199
+
+    
+memorandum of understanding executed by the agencies participating in the task force.
+            
+200
+
+    
+    (11)  "Multijurisdictional task force" means a law enforcement task force or other
+            
+201
+
+    
+agency comprised of persons who are employed by or acting under the authority of different
+            
+202
+
+    
+governmental authorities, including federal, state, county or municipal governments, or any
+            
+203
+
+    
+combination of these agencies.
+            
+204
+
+    
+    (12)  "Owner" means any person or entity, other than an interest holder as defined in
+            
+205
+
+    
+this section, that possesses a bona fide legal or equitable interest in real or personal property.
+            
+206
+
+    
+    (13)  "Program" means the Crime Reduction Assistance Program created in Section
+            
+207
+
+    
+
+24-1-19
+
+.
+            
+208
+
+    
+    (14)  "Property" means all property, whether real or personal, tangible or intangible.
+            
+209
+
+    
+    (15)  "Prosecuting attorney" means:
+            
+210
+
+    
+    (a)  the state attorney general and any assistant attorney general;
+            
+211
+
+    
+    (b)  any district attorney or deputy district attorney; [and]
+            
+212
+
+    
+    (c)  any county attorney or assistant county attorney; and
+            
+213
+
+    
+    (d)  any other attorney authorized to commence an action on behalf of the state under
+            
+214
+
+    
+this chapter or other provisions of state law.
+            
+215
+
+    
+    (16)  "Seize for forfeiture" means seizure of property:
+            
+216
+
+    
+    (a)  by a law enforcement officer or law enforcement agency, including a constructive
+            
+217
+
+    
+seizure; and
+            
+218
+
+    
+    (b)  accompanied by an assertion by the officer or agency or by a prosecuting attorney
+            
+219
+
+    
+that the property is seized for forfeiture in accordance with this chapter.
+            
+220
+
+    
+    Section 4.  
+Section  
+32A-11a-102
+
+ is amended to read:
+            
+221
+
+    
+     32A-11a-102.  Definitions.
+            
+222
+
+    
+    As used in this chapter:
+            
+223
+
+    
+    (1)  "Affected party" means a supplier or wholesaler who is a party to a distributorship
+            
+224
+
+    
+agreement that a terminating party seeks to terminate or not renew.
+            
+225
+
+    
+    (2) (a)  "Distributorship agreement" means any written contract, agreement, or
+
+            
+226
+
+
+    
+arrangement between a supplier and a wholesaler pursuant to which the wholesaler has the
+            
+227
+
+    
+right to purchase, resell, and distribute in a designated geographical area any brand of beer
+            
+228
+
+    
+manufactured, imported, or distributed by the supplier.
+            
+229
+
+    
+    (b)  A separate agreement between a supplier and a wholesaler that relates to the
+            
+230
+
+    
+relationship between the supplier and the wholesaler or the duties of either of them under a
+            
+231
+
+    
+distributorship agreement is considered to be part of the distributorship agreement for purposes
+            
+232
+
+    
+of this chapter.
+            
+233
+
+    
+    (c)  A distributorship agreement may be for a definite or indefinite period.
+            
+234
+
+    
+    (3)  "Good cause" means the material failure by a supplier or a wholesaler to comply
+            
+235
+
+    
+with an essential, reasonable, and lawful requirement imposed by a distributorship agreement if
+            
+236
+
+    
+the failure occurs after the supplier or wholesaler acting in good faith provides notice of
+            
+237
+
+    
+deficiency and an opportunity to correct in accordance with Sections 
+
+32A-11a-103
+
+ and
+            
+238
+
+    
+
+32A-11a-104
+
+.
+            
+239
+
+    
+    (4)  "Good faith" is as defined in [Section 
+
+70A-2-103
+
+] Subsection 
+
+70A-1a-201
+
+(2)(t).
+            
+240
+
+    
+    (5)  "Retailer" means a person subject to license under Chapter 10, Beer Retailer
+            
+241
+
+    
+Licenses.
+            
+242
+
+    
+    (6)  "Sales territory" means the geographic area of distribution and sale responsibility
+            
+243
+
+    
+designated by a distributorship agreement.
+            
+244
+
+    
+    (7)  "Supplier," notwithstanding Section 
+
+32A-1-105
+
+, means a brewer or other person
+            
+245
+
+    
+who sells beer to a wholesaler for resale in this state.
+            
+246
+
+    
+    (8)  "Terminating party" means a supplier or wholesaler who:
+            
+247
+
+    
+    (a)  is a party to a distributorship agreement; and
+            
+248
+
+    
+    (b)  seeks to terminate or not renew the distributorship agreement.
+            
+249
+
+    
+    Section 5.  
+Section  
+41-1a-601
+
+ is amended to read:
+            
+250
+
+    
+     41-1a-601.  Lien validity -- Security interest.
+            
+251
+
+    
+    (1)  Except as provided under Subsection (2), a lien upon a vehicle, vessel, or outboard
+            
+252
+
+    
+motor, except a lien dependent upon possession, is not valid against the creditors of an owner
+            
+253
+
+    
+acquiring a lien by levy or attachment, or subsequent purchasers, or encumbrancers without
+
+            
+254
+
+
+    
+notice until Sections 
+
+41-1a-602
+
+ through 
+
+41-1a-606
+
+ have been complied with.
+            
+255
+
+    
+    (2)  Security interests in inventory consisting in part of vehicles subject to registration
+            
+256
+
+    
+under this chapter, that are held for sale by a person in the business of selling goods of that
+            
+257
+
+    
+kind, shall be perfected under Section 
+
+70A-9a-310
+
+, except that buyers in the ordinary course of
+            
+258
+
+    
+business, as defined in Section [
+
+70A-1-201
+
+] 
+
+70A-1a-201
+
+, take free of the security interests as
+            
+259
+
+    
+provided in Section 
+
+70A-9a-320
+
+.
+            
+260
+
+    
+    Section 6.  
+Section  
+46-4-103
+
+ is amended to read:
+            
+261
+
+    
+     46-4-103.  Scope.
+            
+262
+
+    
+    (1)  Except as otherwise provided in Subsection (2), this chapter applies to electronic
+            
+263
+
+    
+records and electronic signatures relating to a transaction.
+            
+264
+
+    
+    (2)  This chapter does not apply to:
+            
+265
+
+    
+    (a)  a transaction to the extent it is governed by a law governing the creation and
+            
+266
+
+    
+execution of wills, codicils, or testamentary trusts;
+            
+267
+
+    
+    (b)  Title 70A, Uniform Commercial Code, other than:
+            
+268
+
+    
+    (i)  [Sections 
+
+70A-1-107
+
+ and 
+
+70A-1-206
+
+] Section 
+
+70A-1a-306
+
+; and
+            
+269
+
+    
+    (ii)  Title 70A, Chapter 2, and Title 70A, Chapter 2a.
+            
+270
+
+    
+    (3)  This chapter applies to an electronic record or electronic signature otherwise
+            
+271
+
+    
+excluded from the application of this chapter under Subsection (2) to the extent it is governed
+            
+272
+
+    
+by a law other than those specified in Subsection (2).
+            
+273
+
+    
+    (4)  A transaction subject to this chapter is also subject to other applicable substantive
+            
+274
+
+    
+law.
+            
+275
+
+    
+    (5)  Nothing in this chapter requires any county recorder to accept for recording any
+            
+276
+
+    
+instrument in electronic form.
+            
+277
+
+    
+    Section 7.  
+Section  
+46-4-403
+
+ is amended to read:
+            
+278
+
+    
+     46-4-403.  Transferable records.
+            
+279
+
+    
+    (1)  As used in this section, "transferable record" means an electronic record that:
+            
+280
+
+    
+    (a)  would be a note under Title 70A, Chapter 3, Uniform Commercial Code -
+            
+281
+
+    
+Negotiable Instruments, or a document under Title 70A, Chapter 7a, Uniform Commercial
+
+            
+282
+
+
+    
+Code - Documents of Title, if the electronic record were in writing; and
+            
+283
+
+    
+    (b)  the issuer of the electronic record expressly has agreed is a transferable record.
+            
+284
+
+    
+    (2)  A person has control of a transferable record if a system employed for evidencing
+            
+285
+
+    
+the transfer of interests in the transferable record reliably establishes that person as the person
+            
+286
+
+    
+to which the transferable record was issued or transferred.
+            
+287
+
+    
+    (3)  A system satisfies Subsection (2), and a person is deemed to have control of a
+            
+288
+
+    
+transferable record, if the transferable record is created, stored, and assigned in such a manner
+            
+289
+
+    
+that:
+            
+290
+
+    
+    (a)  a single authoritative copy of the transferable record exists that is unique,
+            
+291
+
+    
+identifiable, and, except as otherwise provided in Subsections (3)(d), (e), and (f), unalterable;
+            
+292
+
+    
+    (b)  the authoritative copy identifies the person asserting control as:
+            
+293
+
+    
+    (i)  the person to which the transferable record was issued; or
+            
+294
+
+    
+    (ii)  if the authoritative copy indicates that the transferable record has been transferred,
+            
+295
+
+    
+the person to which the transferable record was most recently transferred;
+            
+296
+
+    
+    (c)  the authoritative copy is communicated to and maintained by the person asserting
+            
+297
+
+    
+control or its designated custodian;
+            
+298
+
+    
+    (d)  copies or revisions that add or change an identified assignee of the authoritative
+            
+299
+
+    
+copy can be made only with the consent of the person asserting control;
+            
+300
+
+    
+    (e)  each copy of the authoritative copy and any copy of a copy is readily identifiable as
+            
+301
+
+    
+a copy that is not the authoritative copy; and
+            
+302
+
+    
+    (f)  any revision of the authoritative copy is readily identifiable as authorized or
+            
+303
+
+    
+unauthorized.
+            
+304
+
+    
+    (4) (a)  Except as otherwise agreed, a person having control of a transferable record is
+            
+305
+
+    
+the holder, as defined in Subsection [
+
+70A-1-201
+
+(20)] 
+
+70A-1a-201
+
+(2)(u), of the transferable
+            
+306
+
+    
+record and has the same rights and defenses as a holder of an equivalent record or writing
+            
+307
+
+    
+under Title 70A, Uniform Commercial Code, including, if the applicable statutory
+            
+308
+
+    
+requirements under Subsection 
+
+70A-3-302
+
+(1), Section 
+
+70A-7a-501
+
+, or Section 
+
+70A-9a-308
+
+ are
+            
+309
+
+    
+satisfied, the rights and defenses of a holder in due course, a holder to which a negotiable
+
+            
+310
+
+
+    
+document of title has been duly negotiated, or a purchaser, respectively.
+            
+311
+
+    
+    (b)  Delivery, possession, and indorsement are not required to obtain or exercise any of
+            
+312
+
+    
+the rights under Subsection (4)(a).
+            
+313
+
+    
+    (5)  Except as otherwise agreed, an obligor under a transferable record has the same
+            
+314
+
+    
+rights and defenses as an equivalent obligor under equivalent records or writings under Title
+            
+315
+
+    
+70A, Uniform Commercial Code.
+            
+316
+
+    
+    (6) (a)  If requested by a person against which enforcement is sought, the person
+            
+317
+
+    
+seeking to enforce the transferable record shall provide reasonable proof that the person is in
+            
+318
+
+    
+control of the transferable record.
+            
+319
+
+    
+    (b)  Proof may include access to the authoritative copy of the transferable record and
+            
+320
+
+    
+related business records sufficient to review the terms of the transferable record and to
+            
+321
+
+    
+establish the identity of the person having control of the transferable record.
+            
+322
+
+    
+    Section 8.  
+Section  
+70A-1a-101
+
+ is enacted to read:
+            
+323
+
+    
+ CHAPTER 1a.  UNIFORM COMMERCIAL CODE - GENERAL PROVISIONS
+
+            
+324
+
+    
+ Part 1.  General Provisions
+
+            
+325
+
+    
+     70A-1a-101.  Title.
+            
+326
+
+    
+    This chapter is known as the "Uniform Commercial Code - General Provisions."
+            
+327
+
+    
+    Section 9.  
+Section  
+70A-1a-102
+
+ is enacted to read:
+            
+328
+
+    
+     70A-1a-102.  Scope of chapter.
+            
+329
+
+    
+    This chapter applies to a transaction to the extent that it is governed by another chapter
+            
+330
+
+    
+of this title.
+            
+331
+
+    
+    Section 10.  
+Section  
+70A-1a-103
+
+ is enacted to read:
+            
+332
+
+    
+     70A-1a-103.  Construction of this title to promote its purposes and policies --
+            
+333
+
+    
+ Applicability of supplemental principles of law.
+            
+334
+
+    
+    (1)  This title must be liberally construed and applied to promote its underlying
+            
+335
+
+    
+purposes and policies, which are:
+            
+336
+
+    
+    (a)  to simplify, clarify, and modernize the law governing commercial transactions;
+            
+337
+
+    
+    (b)  to permit the continued expansion of commercial practices through custom, usage,
+
+            
+338
+
+
+    
+and agreement of the parties; and
+            
+339
+
+    
+    (c)  to make uniform the law among the various jurisdictions.
+            
+340
+
+    
+    (2)  Unless displaced by the particular provisions of this title, the principles of law and
+            
+341
+
+    
+equity, including the law merchant and the law relative to capacity to contract, principal and
+            
+342
+
+    
+agent, estoppel, fraud, misrepresentation, duress, coercion, mistake, bankruptcy, and other
+            
+343
+
+    
+validating or invalidating cause supplement its provisions.
+            
+344
+
+    
+    Section 11.  
+Section  
+70A-1a-104
+
+ is enacted to read:
+            
+345
+
+    
+     70A-1a-104.  Construction against implied repeal.
+            
+346
+
+    
+    This title being a general act intended as a unified coverage of its subject matter, no part
+            
+347
+
+    
+of this title shall be considered to be impliedly repealed by subsequent legislation if such
+            
+348
+
+    
+construction can reasonably be avoided.
+            
+349
+
+    
+    Section 12.  
+Section  
+70A-1a-105
+
+ is enacted to read:
+            
+350
+
+    
+     70A-1a-105.  Severability.
+            
+351
+
+    
+    If any provision or clause of this title or its application to any person or circumstance is
+            
+352
+
+    
+held invalid, the invalidity does not affect other provisions or applications of this title which
+            
+353
+
+    
+can be given effect without the invalid provision or application, and to this end the provisions
+            
+354
+
+    
+of this title are severable.
+            
+355
+
+    
+    Section 13.  
+Section  
+70A-1a-106
+
+ is enacted to read:
+            
+356
+
+    
+     70A-1a-106.  Use of singular and plural-- gender.
+            
+357
+
+    
+    In this title, unless the statutory context otherwise requires:
+            
+358
+
+    
+    (1)  words in the singular number include the plural, and those in the plural include the
+            
+359
+
+    
+singular; and
+            
+360
+
+    
+    (2)  words of any gender also refer to any other gender.
+            
+361
+
+    
+    Section 14.  
+Section  
+70A-1a-107
+
+ is enacted to read:
+            
+362
+
+    
+     70A-1a-107.  Section captions.
+            
+363
+
+    
+    Section captions are part of this title.
+            
+364
+
+    
+    Section 15.  
+Section  
+70A-1a-108
+
+ is enacted to read:
+            
+365
+
+    
+     70A-1a-108.  Relation to electronic signatures in global and national commerce
+
+            
+366
+
+
+    
+ act.
+            
+367
+
+    
+    This chapter modifies, limits, and supersedes the federal Electronic Signatures in
+            
+368
+
+    
+Global and National Commerce Act, 15 U.S.C. Section 7001 et seq., except that nothing in this
+            
+369
+
+    
+chapter modifies, limits, or supersedes Section 7001(c) of that act or authorizes electronic
+            
+370
+
+    
+delivery of any of the notices described in Section 7003(b) of that act.
+            
+371
+
+    
+    Section 16.  
+Section  
+70A-1a-201
+
+ is enacted to read:
+            
+372
+
+    
+ Part 2.  General Definitions and Principles of Interpretation
+
+            
+373
+
+    
+     70A-1a-201.  General definitions.
+            
+374
+
+    
+    (1)  Unless the context otherwise requires, words or phrases defined in this section, or
+            
+375
+
+    
+in the additional definitions contained in other chapters of this title that apply to particular
+            
+376
+
+    
+chapters or parts thereof, have the meanings stated.
+            
+377
+
+    
+    (2)  Subject to definitions contained in other chapters of this title that apply to particular
+            
+378
+
+    
+chapters or parts thereof:
+            
+379
+
+    
+    (a)  "Action," in the sense of a judicial proceeding, includes recoupment, counterclaim,
+            
+380
+
+    
+set-off, suit in equity, and any other proceeding in which rights are determined.
+            
+381
+
+    
+    (b)  "Aggrieved party" means a party entitled to pursue a remedy.
+            
+382
+
+    
+    (c)  "Agreement," as distinguished from "contract," means the bargain of the parties in
+            
+383
+
+    
+fact, as found in their language or inferred from other circumstances, including course of
+            
+384
+
+    
+performance, course of dealing, or usage of trade as provided in Section 
+
+70A-1a-303
+
+.
+            
+385
+
+    
+    (d)  "Bank" means a person engaged in the business of banking and includes a savings
+            
+386
+
+    
+bank, savings and loan association, credit union, and trust company.
+            
+387
+
+    
+    (e)  "Bearer" means a person in possession of a negotiable instrument, document of
+            
+388
+
+    
+title, or certificated security that is payable to bearer or indorsed in blank.
+            
+389
+
+    
+    (f)  "Bill of lading" means a document evidencing the receipt of goods for shipment
+            
+390
+
+    
+issued by a person engaged in the business of transporting or forwarding goods.
+            
+391
+
+    
+    (g)  "Branch" includes a separately incorporated foreign branch of a bank.
+            
+392
+
+    
+    (h)  "Burden of establishing" a fact means the burden of persuading the trier of fact that
+            
+393
+
+    
+the existence of the fact is more probable than its nonexistence.
+
+            
+394
+
+
+    
+    (i)  "Buyer in ordinary course of business" means a person that buys goods in good
+            
+395
+
+    
+faith, without knowledge that the sale violates the rights of another person in the goods, and in
+            
+396
+
+    
+the ordinary course from a person, other than a pawnbroker, in the business of selling goods of
+            
+397
+
+    
+that kind.  A person buys goods in the ordinary course if the sale to the person comports with
+            
+398
+
+    
+the usual or customary practices in the kind of business in which the seller is engaged or with
+            
+399
+
+    
+the seller's own usual or customary practices.  A person that sells oil, gas, or other minerals at
+            
+400
+
+    
+the wellhead or minehead is a person in the business of selling goods of that kind.  A buyer in
+            
+401
+
+    
+ordinary course of business may buy for cash, by exchange of other property, or on secured or
+            
+402
+
+    
+unsecured credit, and may acquire goods or documents of title under a preexisting contract for
+            
+403
+
+    
+sale.  Only a buyer that takes possession of the goods or has a right to recover the goods from
+            
+404
+
+    
+the seller under Chapter 2, Uniform Commercial Code - Sales, may be a buyer in ordinary
+            
+405
+
+    
+course of business.  "Buyer in ordinary course of business" does not include a person that
+            
+406
+
+    
+acquires goods in a transfer in bulk or as security for or in total or partial satisfaction of a
+            
+407
+
+    
+money debt.
+            
+408
+
+    
+    (j)  "Conspicuous," with reference to a term, means so written, displayed, or presented
+            
+409
+
+    
+that a reasonable person against which it is to operate ought to have noticed it.  Whether a term
+            
+410
+
+    
+is conspicuous or not is a decision for the court.  Conspicuous terms include the following:
+            
+411
+
+    
+    (i)  a heading in capitals equal to or greater in size than the surrounding text, or in
+            
+412
+
+    
+contrasting type, font, or color to the surrounding text of the same or lesser size; and
+            
+413
+
+    
+    (ii)  language in the body of a record or display in larger type than the surrounding text,
+            
+414
+
+    
+or in contrasting type, font, or color to the surrounding text of the same size, or set off from
+            
+415
+
+    
+surrounding text of the same size by symbols or other marks that call attention to the language.
+            
+416
+
+    
+    (k)  "Consumer" means an individual who enters into a transaction primarily for
+            
+417
+
+    
+personal, family, or household purposes.
+            
+418
+
+    
+    (l)  "Contract," as distinguished from "agreement," means the total legal obligation that
+            
+419
+
+    
+results from the parties' agreement as determined by this title as supplemented by any other
+            
+420
+
+    
+applicable laws.
+            
+421
+
+    
+    (m)  "Creditor" includes a general creditor, a secured creditor, a lien creditor, and any
+
+            
+422
+
+
+    
+representative of creditors, including an assignee for the benefit of creditors, a trustee in
+            
+423
+
+    
+bankruptcy, a receiver in equity, and an executor or administrator of an insolvent debtor's or
+            
+424
+
+    
+assignor's estate.
+            
+425
+
+    
+    (n)  "Defendant" includes a person in the position of defendant in a counterclaim,
+            
+426
+
+    
+cross-claim, or third-party claim.
+            
+427
+
+    
+    (o)  "Delivery," with respect to an instrument, document of title, or chattel paper, means
+            
+428
+
+    
+voluntary transfer of possession.
+            
+429
+
+    
+    (p)  "Document of title" includes bill of lading, dock warrant, dock receipt, warehouse
+            
+430
+
+    
+receipt or order for the delivery of goods, and also any other document which in the regular
+            
+431
+
+    
+course of business or financing is treated as adequately evidencing that the person in possession
+            
+432
+
+    
+of it is entitled to receive, hold, and dispose of the document and the goods it covers.  To be a
+            
+433
+
+    
+document of title, a document must purport to be issued by or addressed to a bailee and purport
+            
+434
+
+    
+to cover goods in the bailee's possession which are either identified or are fungible portions of
+            
+435
+
+    
+an identified mass.
+            
+436
+
+    
+    (q)  "Fault" means a default, breach, or wrongful act or omission.
+            
+437
+
+    
+    (r)  "Fungible goods" means:
+            
+438
+
+    
+    (i)  goods of which any unit, by nature or usage of trade, is the equivalent of any other
+            
+439
+
+    
+like unit; or
+            
+440
+
+    
+    (ii)  goods that by agreement are treated as equivalent.
+            
+441
+
+    
+    (s)  "Genuine" means free of forgery or counterfeiting.
+            
+442
+
+    
+    (t)  "Good faith" means honesty in fact in the conduct or transaction concerned.
+            
+443
+
+    
+    (u)  "Holder" means:
+            
+444
+
+    
+    (i)  the person in possession of a negotiable instrument that is payable either to bearer or
+            
+445
+
+    
+to an identified person that is the person in possession; or
+            
+446
+
+    
+    (ii)  the person in possession of a document of title if the goods are deliverable either to
+            
+447
+
+    
+bearer or to the order of the person in possession.
+            
+448
+
+    
+    (v)  "Insolvency proceeding" includes an assignment for the benefit of creditors or other
+            
+449
+
+    
+proceeding intended to liquidate or rehabilitate the estate of the person involved.
+
+            
+450
+
+
+    
+    (w)  "Insolvent" means:
+            
+451
+
+    
+    (i)  having generally ceased to pay debts in the ordinary course of business other than as
+            
+452
+
+    
+a result of bona fide dispute;
+            
+453
+
+    
+    (ii)  being unable to pay debts as they become due; or
+            
+454
+
+    
+    (iii)  being insolvent within the meaning of federal bankruptcy law.
+            
+455
+
+    
+    (x)  "Money" means a medium of exchange currently authorized or adopted by a
+            
+456
+
+    
+domestic or foreign government.  The term includes a monetary unit of account established by
+            
+457
+
+    
+an intergovernmental organization or by agreement between two or more countries.
+            
+458
+
+    
+    (y)  "Organization" means a person other than an individual.
+            
+459
+
+    
+    (z)  "Party," as distinguished from "third party," means a person that has engaged in a
+            
+460
+
+    
+transaction or made an agreement subject to this title.
+            
+461
+
+    
+    (aa)  "Person" means an individual, corporation, business trust, estate, trust, partnership,
+            
+462
+
+    
+limited liability company, association, joint venture, government, governmental subdivision,
+            
+463
+
+    
+agency, instrumentality, public corporation, or any other legal or commercial entity.
+            
+464
+
+    
+    (bb)  "Present value" means the amount as of a date certain of one or more sums
+            
+465
+
+    
+payable in the future, discounted to the date certain by use of either an interest rate specified by
+            
+466
+
+    
+the parties if that rate is not manifestly unreasonable at the time the transaction is entered into
+            
+467
+
+    
+or, if an interest rate is not so specified, a commercially reasonable rate that takes into account
+            
+468
+
+    
+the facts and circumstances at the time the transaction is entered into.
+            
+469
+
+    
+    (cc)  "Purchase" means taking by sale, lease, discount, negotiation, mortgage, pledge,
+            
+470
+
+    
+lien, security interest, issue or reissue, gift, or any other voluntary transaction creating an
+            
+471
+
+    
+interest in property.
+            
+472
+
+    
+    (dd)  "Purchaser" means a person that takes by purchase.
+            
+473
+
+    
+    (ee)  "Record" means information that is inscribed on a tangible medium or that is
+            
+474
+
+    
+stored in an electronic or other medium and is retrievable in perceivable form.
+            
+475
+
+    
+    (ff)  "Remedy" means any remedial right to which an aggrieved party is entitled with or
+            
+476
+
+    
+without resort to a tribunal.
+            
+477
+
+    
+    (gg)  "Representative" means a person empowered to act for another, including an
+
+            
+478
+
+
+    
+agent, an officer of a corporation or association, and a trustee, executor, or administrator of an
+            
+479
+
+    
+estate.
+            
+480
+
+    
+    (hh)  "Right" includes remedy.
+            
+481
+
+    
+    (ii)  "Security interest" means an interest in personal property or fixtures which secures
+            
+482
+
+    
+payment or performance of an obligation.  "Security interest" includes any interest of a
+            
+483
+
+    
+consignor and a buyer of accounts, chattel paper, a payment intangible, or a promissory note in
+            
+484
+
+    
+a transaction that is subject to Chapter 9a, Uniform Commercial Code - Secured Transactions. 
+            
+485
+
+    
+"Security interest" does not include the special property interest of a buyer of goods on
+            
+486
+
+    
+identification of those goods to a contract for sale under Section 
+
+70A-2-401
+
+, but a buyer may
+            
+487
+
+    
+also acquire a "security interest" by complying with Chapter 9a, Uniform Commercial Code -
+            
+488
+
+    
+Secured Transactions.  Except as otherwise provided in Section 
+
+70A-2-505
+
+, the right of a seller
+            
+489
+
+    
+or lessor of goods under Chapter 2, Uniform Commercial Code - Sales, or 2A, Uniform
+            
+490
+
+    
+Commercial Code - Leases, to retain or acquire possession of the goods is not a "security
+            
+491
+
+    
+interest," but a seller or lessor may also acquire a "security interest" by complying with Chapter
+            
+492
+
+    
+9a, Uniform Commercial Code - Secured Transactions.  The retention or reservation of title by
+            
+493
+
+    
+a seller of goods notwithstanding shipment or delivery to the buyer under Section 
+
+70A-2-401
+
+ is
+            
+494
+
+    
+limited in effect to a reservation of a "security interest." Whether a transaction in the form of a
+            
+495
+
+    
+lease creates a "security interest" is determined pursuant to Section 
+
+70A-1a-203
+
+.
+            
+496
+
+    
+    (jj)  "Send" in connection with a writing, record, or notice means:
+            
+497
+
+    
+    (i)  to deposit in the mail or deliver for transmission by any other usual means of
+            
+498
+
+    
+communication with postage or cost of transmission provided for and properly addressed and,
+            
+499
+
+    
+in the case of an instrument, to an address specified thereon or otherwise agreed, or if there be
+            
+500
+
+    
+none to any address reasonable under the circumstances; or
+            
+501
+
+    
+    (ii)  in any other way to cause to be received any record or notice within the time it
+            
+502
+
+    
+would have arrived if properly sent.
+            
+503
+
+    
+    (kk)  "Signed" includes using any symbol executed or adopted with present intention to
+            
+504
+
+    
+adopt or accept a writing.
+            
+505
+
+    
+    (ll)  "State" means a state of the United States, the District of Columbia, Puerto Rico,
+
+            
+506
+
+
+    
+the United States Virgin Islands, or any territory or insular possession subject to the jurisdiction
+            
+507
+
+    
+of the United States.
+            
+508
+
+    
+    (mm)  "Surety" includes a guarantor or other secondary obligor.
+            
+509
+
+    
+    (nn)  "Term" means a portion of an agreement that relates to a particular matter.
+            
+510
+
+    
+    (oo)  "Unauthorized signature" means a signature made without actual, implied, or
+            
+511
+
+    
+apparent authority.  The term includes a forgery.
+            
+512
+
+    
+    (pp)  "Warehouse receipt" means a receipt issued by a person engaged in the business of
+            
+513
+
+    
+storing goods for hire.
+            
+514
+
+    
+    (qq)  "Writing" includes printing, typewriting, or any other intentional reduction to
+            
+515
+
+    
+tangible form.  "Written" has a corresponding meaning.
+            
+516
+
+    
+    Section 17.  
+Section  
+70A-1a-202
+
+ is enacted to read:
+            
+517
+
+    
+     70A-1a-202.  Notice -- Knowledge.
+            
+518
+
+    
+    (1)  Subject to Subsection (6), a person has "notice" of a fact if the person:
+            
+519
+
+    
+    (a)  has actual knowledge of it;
+            
+520
+
+    
+    (b)  has received a notice or notification of it; or
+            
+521
+
+    
+    (c)  from all the facts and circumstances known to the person at the time in question,
+            
+522
+
+    
+has reason to know that it exists.
+            
+523
+
+    
+    (2)  "Knowledge" means actual knowledge.  "Knows" has a corresponding meaning.
+            
+524
+
+    
+    (3)  "Discover," "learn," or words of similar import refer to knowledge rather than to
+            
+525
+
+    
+reason to know.
+            
+526
+
+    
+    (4)  A person "notifies" or "gives" a notice or notification to another person by taking
+            
+527
+
+    
+such steps as may be reasonably required to inform the other person in ordinary course,
+            
+528
+
+    
+whether or not the other person actually comes to know of it.
+            
+529
+
+    
+    (5)  Subject to Subsection (6), a person "receives" a notice or notification when:
+            
+530
+
+    
+    (a)  it comes to that person's attention; or
+            
+531
+
+    
+    (b)  it is duly delivered in a form reasonable under the circumstances at the place of
+            
+532
+
+    
+business through which the contract was made or at another location held out by that person as
+            
+533
+
+    
+the place for receipt of such communications.
+
+            
+534
+
+
+    
+    (6)  Notice, knowledge, or a notice or notification received by an organization is
+            
+535
+
+    
+effective for a particular transaction from the time it is brought to the attention of the individual
+            
+536
+
+    
+conducting that transaction and, in any event, from the time it would have been brought to the
+            
+537
+
+    
+individual's attention if the organization had exercised due diligence.  An organization
+            
+538
+
+    
+exercises due diligence if it maintains reasonable routines for communicating significant
+            
+539
+
+    
+information to the person conducting the transaction and there is reasonable compliance with
+            
+540
+
+    
+the routines.  Due diligence does not require an individual acting for the organization to
+            
+541
+
+    
+communicate information unless the communication is part of the individual's regular duties or
+            
+542
+
+    
+the individual has reason to know of the transaction and that the transaction would be
+            
+543
+
+    
+materially affected by the information.
+            
+544
+
+    
+    Section 18.  
+Section  
+70A-1a-203
+
+ is enacted to read:
+            
+545
+
+    
+     70A-1a-203.  Lease distinguished from security interest.
+            
+546
+
+    
+    (1)  Whether a transaction in the form of a lease creates a lease or security interest is
+            
+547
+
+    
+determined by the facts of each case.
+            
+548
+
+    
+    (2)  A transaction in the form of a lease creates a security interest if the consideration
+            
+549
+
+    
+that the lessee is to pay the lessor for the right to possession and use of the goods is an
+            
+550
+
+    
+obligation for the term of the lease and is not subject to termination by the lessee, and:
+            
+551
+
+    
+    (a)  the original term of the lease is equal to or greater than the remaining economic life
+            
+552
+
+    
+of the goods;
+            
+553
+
+    
+    (b)  the lessee is bound to renew the lease for the remaining economic life of the goods
+            
+554
+
+    
+or is bound to become the owner of the goods;
+            
+555
+
+    
+    (c)  the lessee has an option to renew the lease for the remaining economic life of the
+            
+556
+
+    
+goods for no additional consideration or for nominal additional consideration upon compliance
+            
+557
+
+    
+with the lease agreement; or
+            
+558
+
+    
+    (d)  the lessee has an option to become the owner of the goods for no additional
+            
+559
+
+    
+consideration or for nominal additional consideration upon compliance with the lease
+            
+560
+
+    
+agreement.
+            
+561
+
+    
+    (3)  A transaction in the form of a lease does not create a security interest merely
+
+            
+562
+
+
+    
+because:
+            
+563
+
+    
+    (a)  the present value of the consideration the lessee is obligated to pay the lessor for the
+            
+564
+
+    
+right to possession and use of the goods is substantially equal to or is greater than the fair
+            
+565
+
+    
+market value of the goods at the time the lease is entered into;
+            
+566
+
+    
+    (b)  the lessee assumes risk of loss of the goods;
+            
+567
+
+    
+    (c)  the lessee agrees to pay, with respect to the goods, taxes, insurance, filing,
+            
+568
+
+    
+recording, or registration fees, or service or maintenance costs;
+            
+569
+
+    
+    (d)  the lessee has an option to renew the lease or to become the owner of the goods;
+            
+570
+
+    
+    (e)  the lessee has an option to renew the lease for a fixed rent that is equal to or greater
+            
+571
+
+    
+than the reasonably predictable fair market rent for the use of the goods for the term of the
+            
+572
+
+    
+renewal at the time the option is to be performed; or
+            
+573
+
+    
+    (f)  the lessee has an option to become the owner of the goods for a fixed price that is
+            
+574
+
+    
+equal to or greater than the reasonably predictable fair market value of the goods at the time the
+            
+575
+
+    
+option is to be performed.
+            
+576
+
+    
+    (4)  Additional consideration is nominal if it is less than the lessee's reasonably
+            
+577
+
+    
+predictable cost of performing under the lease agreement if the option is not exercised. 
+            
+578
+
+    
+Additional consideration is not nominal if:
+            
+579
+
+    
+    (a)  when the option to renew the lease is granted to the lessee, the rent is stated to be
+            
+580
+
+    
+the fair market rent for the use of the goods for the term of the renewal determined at the time
+            
+581
+
+    
+the option is to be performed; or
+            
+582
+
+    
+    (b)  when the option to become the owner of the goods is granted to the lessee, the price
+            
+583
+
+    
+is stated to be the fair market value of the goods determined at the time the option is to be
+            
+584
+
+    
+performed.
+            
+585
+
+    
+    (5)  The "remaining economic life of the goods" and "reasonably predictable" fair
+            
+586
+
+    
+market rent, fair market value, or cost of performing under the lease agreement must be
+            
+587
+
+    
+determined with reference to the facts and circumstances at the time the transaction is entered
+            
+588
+
+    
+into.
+            
+589
+
+    
+    Section 19.  
+Section  
+70A-1a-204
+
+ is enacted to read:
+
+            
+590
+
+
+    
+     70A-1a-204.  Value.
+            
+591
+
+    
+    Except as otherwise provided in Chapters 3, Uniform Commercial Code - Negotiable
+            
+592
+
+    
+Instruments, 4, Uniform Commercial Code - Bank Deposits and Collections, and 5, Uniform
+            
+593
+
+    
+Commercial Code - Letters of Credit, a person gives value for rights if the person acquires
+            
+594
+
+    
+them:
+            
+595
+
+    
+    (1)  in return for a binding commitment to extend credit or for the extension of
+            
+596
+
+    
+immediately available credit, whether or not drawn upon and whether or not a charge-back is
+            
+597
+
+    
+provided for in the event of difficulties in collection;
+            
+598
+
+    
+    (2)  as security for, or in total or partial satisfaction of, a preexisting claim;
+            
+599
+
+    
+    (3)  by accepting delivery under a preexisting contract for purchase; or
+            
+600
+
+    
+    (4)  in return for any consideration sufficient to support a simple contract.
+            
+601
+
+    
+    Section 20.  
+Section  
+70A-1a-205
+
+ is enacted to read:
+            
+602
+
+    
+     70A-1a-205.  Reasonable time -- Seasonableness.
+            
+603
+
+    
+    (1)  Whether a time for taking an action required by this title is reasonable depends on
+            
+604
+
+    
+the nature, purpose, and circumstances of the action.
+            
+605
+
+    
+    (2)  An action is taken seasonably if it is taken at or within the time agreed or, if no time
+            
+606
+
+    
+is agreed, at or within a reasonable time.
+            
+607
+
+    
+    Section 21.  
+Section  
+70A-1a-206
+
+ is enacted to read:
+            
+608
+
+    
+     70A-1a-206.  Presumptions.
+            
+609
+
+    
+    Whenever this title creates a "presumption" with respect to a fact, or provides that a fact
+            
+610
+
+    
+is "presumed," the trier of fact must find the existence of the fact unless and until evidence is
+            
+611
+
+    
+introduced that supports a finding of its nonexistence.
+            
+612
+
+    
+    Section 22.  
+Section  
+70A-1a-301
+
+ is enacted to read:
+            
+613
+
+    
+ Part 3.  Territorial Applicability and General Rules
+
+            
+614
+
+    
+     70A-1a-301.  Territorial applicability -- Parties' power to choose applicable law.
+            
+615
+
+    
+    (1)  Except as provided in this section, when a transaction bears a reasonable relation to
+            
+616
+
+    
+this state and also to another state or nation, the parties may agree that the law either of this
+            
+617
+
+    
+state or of such other state or nation shall govern their rights and duties.  Failing such
+
+            
+618
+
+
+    
+agreement, this title applies to transactions bearing an appropriate relation to this state.
+            
+619
+
+    
+    (2)  Where one of the following provisions of this title specifies the applicable law, that
+            
+620
+
+    
+provision governs and a contrary agreement is effective only to the extent permitted by the law,
+            
+621
+
+    
+including the conflict of laws rules, so specified:
+            
+622
+
+    
+    (a)  rights of creditors against sold goods under Section 
+
+70A-2-402
+
+;
+            
+623
+
+    
+    (b)  applicability of the chapter on leases under Sections 
+
+70A-2a-105
+
+ and 
+
+70A-2a-106
+
+;
+            
+624
+
+    
+    (c)  applicability of the chapter on bank deposits and collections under Section
+            
+625
+
+    
+
+
+70A-4-102
+
+;
+            
+626
+
+    
+    (d)  applicability of the chapter on funds transfers under Section 
+
+70A-4a-507
+
+;
+            
+627
+
+    
+    (e)  applicability of the chapter on letters of credit under Section 
+
+70A-5-116
+
+;
+            
+628
+
+    
+    (f)  applicability of the chapter on investment securities under Section 
+
+70A-8-109
+
+; or
+            
+629
+
+    
+    (g)  law governing perfection, the effect of perfection or nonperfection, and the priority
+            
+630
+
+    
+of security interests and agricultural liens under Sections 
+
+70A-9a-301
+
+ through 
+
+70A-9a-307
+
+.
+            
+631
+
+    
+    Section 23.  
+Section  
+70A-1a-302
+
+ is enacted to read:
+            
+632
+
+    
+     70A-1a-302.  Variation by agreement.
+            
+633
+
+    
+    (1)  Except as otherwise provided in Subsection (2) or elsewhere in this title, the effect
+            
+634
+
+    
+of provisions of this title may be varied by agreement.
+            
+635
+
+    
+    (2)  The obligations of good faith, diligence, reasonableness, and care prescribed by this
+            
+636
+
+    
+title may not be disclaimed by agreement.  The parties, by agreement, may determine the
+            
+637
+
+    
+standards by which the performance of those obligations is to be measured if those standards
+            
+638
+
+    
+are not manifestly unreasonable.  Whenever this title requires an action to be taken within a
+            
+639
+
+    
+reasonable time, a time that is not manifestly unreasonable may be fixed by agreement.
+            
+640
+
+    
+    (3)  The presence in certain provisions of this title of the phrase "unless otherwise
+            
+641
+
+    
+agreed," or words of similar import, does not imply that the effect of other provisions may not
+            
+642
+
+    
+be varied by agreement under this section.
+            
+643
+
+    
+    Section 24.  
+Section  
+70A-1a-303
+
+ is enacted to read:
+            
+644
+
+    
+     70A-1a-303.   Course of performance, course of dealing, and usage of trade.
+            
+645
+
+    
+    (1)  A "course of performance" is a sequence of conduct between the parties to a
+
+            
+646
+
+
+    
+particular transaction that exists if:
+            
+647
+
+    
+    (a)  the agreement of the parties with respect to the transaction involves repeated
+            
+648
+
+    
+occasions for performance by a party; and
+            
+649
+
+    
+    (b)  the other party, with knowledge of the nature of the performance and opportunity
+            
+650
+
+    
+for objection to it, accepts the performance or acquiesces in it without objection.
+            
+651
+
+    
+    (2)  A "course of dealing" is a sequence of conduct concerning previous transactions
+            
+652
+
+    
+between the parties to a particular transaction that is fairly to be regarded as establishing a
+            
+653
+
+    
+common basis of understanding for interpreting their expressions and other conduct.
+            
+654
+
+    
+    (3)  A "usage of trade" is any practice or method of dealing having such regularity of
+            
+655
+
+    
+observance in a place, vocation, or trade as to justify an expectation that it will be observed
+            
+656
+
+    
+with respect to the transaction in question.  The existence and scope of such a usage must be
+            
+657
+
+    
+proved as facts.  If it is established that such a usage is embodied in a trade code or similar
+            
+658
+
+    
+record, the interpretation of the record is a question of law.
+            
+659
+
+    
+    (4)  A course of performance or course of dealing between the parties or usage of trade
+            
+660
+
+    
+in the vocation or trade in which they are engaged or of which they are or should be aware is
+            
+661
+
+    
+relevant in ascertaining the meaning of the parties' agreement, may give particular meaning to
+            
+662
+
+    
+specific terms of the agreement, and may supplement or qualify the terms of the agreement.  A
+            
+663
+
+    
+usage of trade applicable in the place in which part of the performance under the agreement is
+            
+664
+
+    
+to occur may be so utilized as to that part of the performance.
+            
+665
+
+    
+    (5)  Except as otherwise provided in Subsection (6), the express terms of an agreement
+            
+666
+
+    
+and any applicable course of performance, course of dealing, or usage of trade must be
+            
+667
+
+    
+construed whenever reasonable as consistent with each other.  If such a construction is
+            
+668
+
+    
+unreasonable:
+            
+669
+
+    
+    (a)  express terms prevail over course of performance, course of dealing, and usage of
+            
+670
+
+    
+trade;
+            
+671
+
+    
+    (b)  course of performance prevails over course of dealing and usage of trade; and
+            
+672
+
+    
+    (c)  course of dealing prevails over usage of trade.
+            
+673
+
+    
+    (6)  Subject to Section 
+
+70A-2-209
+
+, a course of performance is relevant to show a waiver
+
+            
+674
+
+
+    
+or modification of any term inconsistent with the course of performance.
+            
+675
+
+    
+    (7)  Evidence of a relevant usage of trade offered by one party is not admissible unless
+            
+676
+
+    
+that party has given the other party notice that the court finds sufficient to prevent unfair
+            
+677
+
+    
+surprise to the other party.
+            
+678
+
+    
+    Section 25.  
+Section  
+70A-1a-304
+
+ is enacted to read:
+            
+679
+
+    
+     70A-1a-304.  Obligation of good faith.
+            
+680
+
+    
+    Every contract or duty within this title imposes an obligation of good faith in its
+            
+681
+
+    
+performance and enforcement.
+            
+682
+
+    
+    Section 26.  
+Section  
+70A-1a-305
+
+ is enacted to read:
+            
+683
+
+    
+     70A-1a-305.  Remedies to be liberally administered.
+            
+684
+
+    
+    (1)  The remedies provided by this title must be liberally administered to the end that
+            
+685
+
+    
+the aggrieved party may be put in as good a position as if the other party had fully performed
+            
+686
+
+    
+but neither consequential or special damages nor penal damages may be had except as
+            
+687
+
+    
+specifically provided in this title or by other rule of law.
+            
+688
+
+    
+    (2)  Any right or obligation declared by this title is enforceable by action unless the
+            
+689
+
+    
+provision declaring it specifies a different and limited effect.
+            
+690
+
+    
+    Section 27.  
+Section  
+70A-1a-306
+
+ is enacted to read:
+            
+691
+
+    
+     70A-1a-306.  Waiver or renunciation of claim or right after breach.
+            
+692
+
+    
+    A claim or right arising out of an alleged breach may be discharged in whole or in part
+            
+693
+
+    
+without consideration by agreement of the aggrieved party in an authenticated record.
+            
+694
+
+    
+    Section 28.  
+Section  
+70A-1a-307
+
+ is enacted to read:
+            
+695
+
+    
+     70A-1a-307.  Prima facie evidence by third-party documents.
+            
+696
+
+    
+    A document in due form purporting to be a bill of lading, policy or certificate of
+            
+697
+
+    
+insurance, official weigher's or inspector's certificate, consular invoice, or any other document
+            
+698
+
+    
+authorized or required by the contract to be issued by a third party is prima facie evidence of its
+            
+699
+
+    
+own authenticity and genuineness and of the facts stated in the document by the third party.
+            
+700
+
+    
+    Section 29.  
+Section  
+70A-1a-308
+
+ is enacted to read:
+            
+701
+
+    
+     70A-1a-308.  Performance or acceptance under reservation of rights.
+
+            
+702
+
+
+    
+    (1)  A party that with explicit reservation of rights performs or promises performance or
+            
+703
+
+    
+assents to performance in a manner demanded or offered by the other party does not thereby
+            
+704
+
+    
+prejudice the rights reserved.  Such words as "without prejudice," "under protest," or the like
+            
+705
+
+    
+are sufficient.
+            
+706
+
+    
+    (2)  Subsection (1) does not apply to an accord and satisfaction.
+            
+707
+
+    
+    Section 30.  
+Section  
+70A-1a-309
+
+ is enacted to read:
+            
+708
+
+    
+     70A-1a-309.  Option to accelerate at will.
+            
+709
+
+    
+    A term providing that one party or that party's successor in interest may accelerate
+            
+710
+
+    
+payment or performance or require collateral or additional collateral "at will" or when the party
+            
+711
+
+    
+"considers itself insecure," or words of similar import, means that the party has power to do so
+            
+712
+
+    
+only if that party in good faith believes that the prospect of payment or performance is
+            
+713
+
+    
+impaired.  The burden of establishing lack of good faith is on the party against which the power
+            
+714
+
+    
+has been exercised.
+            
+715
+
+    
+    Section 31.  
+Section  
+70A-1a-310
+
+ is enacted to read:
+            
+716
+
+    
+     70A-1a-310.  Subordinated obligations.
+            
+717
+
+    
+    An obligation may be issued as subordinated to performance of another obligation of
+            
+718
+
+    
+the person obligated, or a creditor may subordinate its right to performance of an obligation by
+            
+719
+
+    
+agreement with either the person obligated or another creditor of the person obligated. 
+            
+720
+
+    
+Subordination does not create a security interest as against either the common debtor or a
+            
+721
+
+    
+subordinated creditor.
+            
+722
+
+    
+    Section 32.  
+Section  
+70A-2-103
+
+ is amended to read:
+            
+723
+
+    
+     70A-2-103.  Definitions and index of definitions.
+            
+724
+
+    
+    (1)  In this chapter unless the context otherwise requires:
+            
+725
+
+    
+    (a)  "Buyer" means a person who buys or contracts to buy goods.
+            
+726
+
+    
+    (b)  "Good faith" in the case of a merchant means honesty in fact and the observance of
+            
+727
+
+    
+reasonable commercial standards of fair dealing in the trade.
+            
+728
+
+    
+    (c)  "Receipt" of goods means taking physical possession of them.
+            
+729
+
+    
+    (d)  "Seller" means a person who sells or contracts to sell goods.
+
+            
+730
+
+
+    
+    (2)  Other definitions applying to this chapter or to specified parts thereof, and the
+            
+731
+
+    
+sections in which they appear are:
+            
+732
+
+    
+    (a)  "Acceptance." Section 
+
+70A-2-606
+
+.
+            
+733
+
+    
+    (b)  "Banker's credit." Section 
+
+70A-2-325
+
+.
+            
+734
+
+    
+    (c)  "Between merchants." Section 
+
+70A-2-104
+
+.
+            
+735
+
+    
+    (d)  "Cancellation." Subsection 
+
+70A-2-106
+
+(4).
+            
+736
+
+    
+    (e)  "Commercial unit." Section 
+
+70A-2-105
+
+.
+            
+737
+
+    
+    (f)  "Confirmed credit." Section 
+
+70A-2-325
+
+.
+            
+738
+
+    
+    (g)  "Conforming to contract." Section 
+
+70A-2-106
+
+.
+            
+739
+
+    
+    (h)  "Contract for sale." Section 
+
+70A-2-106
+
+.
+            
+740
+
+    
+    (i)  "Cover." Section 
+
+70A-2-712
+
+.
+            
+741
+
+    
+    (j)  "Entrusting." Section 
+
+70A-2-403
+
+.
+            
+742
+
+    
+    (k)  "Financing agency." Section 
+
+70A-2-104
+
+.
+            
+743
+
+    
+    (l)  "Future goods." Section 
+
+70A-2-105
+
+.
+            
+744
+
+    
+    (m)  "Goods." Section 
+
+70A-2-105
+
+.
+            
+745
+
+    
+    (n)  "Identification." Section 
+
+70A-2-501
+
+.
+            
+746
+
+    
+    (o)  "Installment contract." Section 
+
+70A-2-612
+
+.
+            
+747
+
+    
+    (p)  "Letter of Credit." Section 
+
+70A-2-325
+
+.
+            
+748
+
+    
+    (q)  "Lot." Section 
+
+70A-2-105
+
+.
+            
+749
+
+    
+    (r)  "Merchant." Section 
+
+70A-2-104
+
+.
+            
+750
+
+    
+    (s)  "Overseas." Section 
+
+70A-2-323
+
+.
+            
+751
+
+    
+    (t)  "Person in position of seller." Section 
+
+70A-2-707
+
+.
+            
+752
+
+    
+    (u)  "Present sale." Section 
+
+70A-2-106
+
+.
+            
+753
+
+    
+    (v)  "Sale." Section 
+
+70A-2-106
+
+.
+            
+754
+
+    
+    (w)  "Sale on approval." Section 
+
+70A-2-326
+
+.
+            
+755
+
+    
+    (x)  "Sale or return." Section 
+
+70A-2-326
+
+.
+            
+756
+
+    
+    (y)  "Termination." Section 
+
+70A-2-106
+
+.
+            
+757
+
+    
+    (3)  "Control" as provided in Section 
+
+70A-7a-106
+
+, and the following definitions in other
+
+            
+758
+
+
+    
+chapters apply to this chapter:
+            
+759
+
+    
+    (a)  "Check." Section 
+
+70A-3-104
+
+.
+            
+760
+
+    
+    (b)  "Consignee." Section 
+
+70A-7a-102
+
+.
+            
+761
+
+    
+    (c)  "Consignor." Section 
+
+70A-7a-102
+
+.
+            
+762
+
+    
+    (d)  "Consumer goods." Section 
+
+70A-9a-102
+
+.
+            
+763
+
+    
+    (e)  "Dishonor." Section 
+
+70A-3-502
+
+.
+            
+764
+
+    
+    (f)  "Draft." Section 
+
+70A-3-104
+
+.
+            
+765
+
+    
+    (4)  In addition, Chapter [1] 1a, Uniform Commercial Code - General Provisions,
+            
+766
+
+    
+contains general definitions and principles of construction and interpretation applicable
+            
+767
+
+    
+throughout this chapter.
+            
+768
+
+    
+    Section 33.  
+Section  
+70A-2-202
+
+ is amended to read:
+            
+769
+
+    
+     70A-2-202.  Final written expression -- Parol or extrinsic evidence.
+            
+770
+
+    
+    Terms with respect to which the confirmatory memoranda of the parties agree or which
+            
+771
+
+    
+are otherwise set forth in a writing intended by the parties as a final expression of their
+            
+772
+
+    
+agreement with respect to such terms as are included therein may not be contradicted by
+            
+773
+
+    
+evidence of any prior agreement or of a contemporaneous oral agreement but may be explained
+            
+774
+
+    
+or supplemented:
+            
+775
+
+    
+    [(a)] (1)  by course of performance, course of dealing, or usage of trade (Section
+            
+776
+
+    
+[
+
+70A-1-205
+
+] 
+
+70A-1a-303
+
+) or by course of performance (Section 
+
+70A-2-208
+
+); and
+            
+777
+
+    
+    [(b)] (2)  by evidence of consistent additional terms unless the court finds the writing to
+            
+778
+
+    
+have been intended also as a complete and exclusive statement of the terms of the agreement.
+            
+779
+
+    
+    Section 34.  
+Section  
+70A-2a-103
+
+ is amended to read:
+            
+780
+
+    
+     70A-2a-103.  Definitions -- Index of definitions.
+            
+781
+
+    
+    (1)  In this chapter, unless the context otherwise requires:
+            
+782
+
+    
+    (a)  "Buyer in ordinary course of business" means a person, who in good faith and
+            
+783
+
+    
+without knowledge that the sale to him is in violation of the ownership rights or security
+            
+784
+
+    
+interest or leasehold interest of a third party in the goods, buys in ordinary course from a person
+            
+785
+
+    
+in the business of selling goods of that kind, but does not include a pawnbroker.  "Buying" may
+
+            
+786
+
+
+    
+be for cash or by exchange of other property or on secured or unsecured credit and includes
+            
+787
+
+    
+acquiring goods or documents of title under a preexisting contract for sale, but does not include
+            
+788
+
+    
+a transfer in bulk, or as security for, or in total or partial satisfaction of a money debt.
+            
+789
+
+    
+    (b)  "Cancellation" occurs when either party puts an end to the lease contract for default
+            
+790
+
+    
+by the other party.
+            
+791
+
+    
+    (c)  "Commercial unit" means a unit of goods which by commercial usage is a single
+            
+792
+
+    
+whole for purposes of lease, and the division of which materially impairs its character or value
+            
+793
+
+    
+on the market or in use.  A commercial unit may be a single article, such as a machine, or a set
+            
+794
+
+    
+of articles, such as a suite of furniture or a line of machinery, or a quantity, such as a gross or
+            
+795
+
+    
+carload, or any other unit treated in use or in the relevant market as a single whole.
+            
+796
+
+    
+    (d)  "Conforming goods or performance under a lease contract" means goods or
+            
+797
+
+    
+performance that are in accordance with the obligations under the lease contract.
+            
+798
+
+    
+    (e)  "Consumer lease" means a lease that a lessor, regularly engaged in the business of
+            
+799
+
+    
+leasing or selling, makes to a lessee, who is an individual and who takes under the lease
+            
+800
+
+    
+primarily for a personal, family, or household purpose.
+            
+801
+
+    
+    (f)  "Fault" means wrongful act, omission, breach, or default.
+            
+802
+
+    
+    (g)  "Finance lease" means a lease in which:
+            
+803
+
+    
+    (i)  the lessor does not select, manufacture, or supply the goods;
+            
+804
+
+    
+    (ii)  the lessor acquires the goods or the right to possession and use of the goods in
+            
+805
+
+    
+connection with the lease; and
+            
+806
+
+    
+    (iii)  one of the following occurs:
+            
+807
+
+    
+    (A)  the lessee receives a copy of the contract by which the lessor acquired the goods or
+            
+808
+
+    
+the right to possession and use of the goods before signing the lease contract;
+            
+809
+
+    
+    (B)  the lessee's approval of the contract by which the lessor acquired the goods or the
+            
+810
+
+    
+right to possession and use of the goods is a condition to effectiveness of the lease contract;
+            
+811
+
+    
+    (C)  the lessee, before signing the lease contract, receives an accurate and complete
+            
+812
+
+    
+statement designating the promises and warranties, and any disclaimers of warranties,
+            
+813
+
+    
+limitations, or modifications of remedies, or liquidated damages, including those of a third
+
+            
+814
+
+
+    
+party, such as the manufacturer of the goods, provided to the lessor by the person supplying the
+            
+815
+
+    
+goods in connection with or as part of the contract by which the lessor acquired the goods or
+            
+816
+
+    
+the right to possession and use of the goods; or
+            
+817
+
+    
+    (D)  if the lease is not a consumer lease, the lessor, before the lessee signs the lease
+            
+818
+
+    
+contract, informs the lessee in writing:
+            
+819
+
+    
+    (I)  of the identity of the person supplying the goods to the lessor, unless the lessee has
+            
+820
+
+    
+selected that person and directed the lessor to acquire the goods or the right to possession and
+            
+821
+
+    
+use of the goods from that person;
+            
+822
+
+    
+    (II)  that the lessee is entitled under this chapter to the promises and warranties,
+            
+823
+
+    
+including those of any third party, provided to the lessor by the person supplying the goods in
+            
+824
+
+    
+connection with or as part of the contract by which the lessor acquired the goods or the right to
+            
+825
+
+    
+possession and use of the goods; and
+            
+826
+
+    
+    (III)  that the lessee may communicate with the person supplying the goods to the lessor
+            
+827
+
+    
+and receive an accurate and complete statement of those promises and warranties, including
+            
+828
+
+    
+any disclaimers and limitations of them or of remedies.
+            
+829
+
+    
+    (h)  "Goods" means all things that are movable at the time of identification to the lease
+            
+830
+
+    
+contract, or are fixtures.  The term does not include money, documents, instruments, accounts,
+            
+831
+
+    
+chattel paper, general intangibles, or minerals or the like, including oil and gas, before
+            
+832
+
+    
+extraction.  The term also includes the unborn young of animals.
+            
+833
+
+    
+    (i)  "Installment lease contract" means a lease contract that authorizes or requires the
+            
+834
+
+    
+delivery of goods in separate lots to be separately accepted, even though the lease contract
+            
+835
+
+    
+contains a clause stating "each delivery is a separate lease" or its equivalent.
+            
+836
+
+    
+    (j)  "Lease" means a transfer of the right to possession and use of goods for a term, in
+            
+837
+
+    
+return for consideration.  Unless the context clearly indicates otherwise, the term includes a
+            
+838
+
+    
+sublease.  But a sale, including a sale on approval or a sale or return, or retention or creation of
+            
+839
+
+    
+a security interest is not a lease.
+            
+840
+
+    
+    (k)  "Lease agreement" with respect to the lease, means the bargain of the lessor and the
+            
+841
+
+    
+lessee in fact as found in their language or by implication from other circumstances including
+
+            
+842
+
+
+    
+course of dealing or usage of trade or course of performance as provided in this chapter. 
+            
+843
+
+    
+Unless the context clearly indicates otherwise, the term includes a sublease agreement.
+            
+844
+
+    
+    (l)  "Lease contract" means the total legal obligation that results from the lease
+            
+845
+
+    
+agreement as affected by this chapter and any other applicable rules of law.  Unless the context
+            
+846
+
+    
+clearly indicates otherwise, the term includes a sublease contract.
+            
+847
+
+    
+    (m)  "Leasehold interest" means the interest of the lessor or the lessee under a lease
+            
+848
+
+    
+contract.
+            
+849
+
+    
+    (n)  "Lessee" means a person who acquires the right to possession and use of goods
+            
+850
+
+    
+under a lease.  Unless the context clearly indicates otherwise, the term includes a sublessee.
+            
+851
+
+    
+    (o)  "Lessee in ordinary course of business" means a person who in good faith and
+            
+852
+
+    
+without knowledge that the lease to him is in violation of the ownership rights, security
+            
+853
+
+    
+interest, or leasehold interest of a third party in the goods, leases in ordinary course from a
+            
+854
+
+    
+person in the business of selling or leasing goods of that kind, but does not include a
+            
+855
+
+    
+pawnbroker.  "Leasing" may be for cash or by exchange of other property, or on secured or
+            
+856
+
+    
+unsecured credit, and includes acquiring goods or documents of title under a preexisting lease
+            
+857
+
+    
+contract.  "Leasing" does not include a transfer in bulk or as security for or in total or partial
+            
+858
+
+    
+satisfaction of a money debt.
+            
+859
+
+    
+    (p)  "Lessor" means a person who transfers the right to possession and use of goods
+            
+860
+
+    
+under a lease.  Unless the context clearly indicates otherwise, the term includes a sublessor.
+            
+861
+
+    
+    (q)  "Lessor's residual interest" means the lessor's interest in the goods after expiration,
+            
+862
+
+    
+termination, or cancellation of the lease contract.
+            
+863
+
+    
+    (r)  "Lien" means a charge against or interest in goods to secure payment of a debt or
+            
+864
+
+    
+performance of an obligation, but the term does not include a security interest.
+            
+865
+
+    
+    (s)  "Lot" means a parcel or single article that is the subject matter of a separate lease or
+            
+866
+
+    
+delivery, whether or not it is sufficient to perform the lease contract.
+            
+867
+
+    
+    (t)  "Merchant lessee" means a lessee that is a merchant with respect to goods of the
+            
+868
+
+    
+kind subject to the lease.
+            
+869
+
+    
+    (u)  "Present value" means the amount as of a date certain of one or more sums payable
+
+            
+870
+
+
+    
+in the future, discounted to the date certain.  The discount is determined by the interest rate
+            
+871
+
+    
+specified by the parties if the rate was not manifestly unreasonable at the time the transaction
+            
+872
+
+    
+was entered into; otherwise, the discount is determined by a commercially reasonable rate that
+            
+873
+
+    
+takes into account the facts and circumstances of each case at the time the transaction was
+            
+874
+
+    
+entered into.
+            
+875
+
+    
+    (v)  "Purchase" includes taking by sale, lease, mortgage, security interest, pledge, gift,
+            
+876
+
+    
+or any other voluntary transaction creating an interest in goods.
+            
+877
+
+    
+    (w)  "Sublease" means a lease of goods, the right to possession and use of which was
+            
+878
+
+    
+acquired by the lessor as a lessee under an existing lease.
+            
+879
+
+    
+    (x)  "Supplier" means a person from whom a lessor buys or leases goods to be leased
+            
+880
+
+    
+under a finance lease.
+            
+881
+
+    
+    (y)  "Supply contract" means a contract under which a lessor buys or leases goods to be
+            
+882
+
+    
+leased.
+            
+883
+
+    
+    (z)  "Termination" occurs when either party, pursuant to a power created by agreement
+            
+884
+
+    
+or law, puts an end to the lease contract otherwise than for default.
+            
+885
+
+    
+    (2)  Other definitions applying to this chapter and the sections in which they appear are:
+            
+886
+
+    
+    (a)  "Accessions," Section 
+
+70A-2a-310
+
+[;].
+            
+887
+
+    
+    (b)  "Construction mortgage," Section 
+
+70A-2a-309
+
+[;].
+            
+888
+
+    
+    (c)  "Encumbrance," Section 
+
+70A-2a-309
+
+[;].
+            
+889
+
+    
+    (d)  "Fixtures," Section 
+
+70A-2a-309
+
+[;].
+            
+890
+
+    
+    (e)  "Fixture filing," Section 
+
+70A-2a-309
+
+[; and].
+            
+891
+
+    
+    (f)  "Purchase money lease," Section 
+
+70A-2a-309
+
+.
+            
+892
+
+    
+    (3)  The following definitions in other chapters apply to this chapter:
+            
+893
+
+    
+    (a)  "Account," Subsection 
+
+70A-9a-102
+
+(2)[;].
+            
+894
+
+    
+    (b)  "Between merchants," Section 
+
+70A-2-104
+
+[;].
+            
+895
+
+    
+    (c)  "Buyer," Section 
+
+70A-2-103
+
+[;].
+            
+896
+
+    
+    (d)  "Chattel paper," Subsection 
+
+70A-9a-102
+
+(11)[;].
+            
+897
+
+    
+    (e)  "Consumer goods," Subsection 
+
+70A-9a-102
+
+(23)[;].
+
+            
+898
+
+
+    
+    (f)  "Document," Subsection 
+
+70A-9a-102
+
+(30)[;].
+            
+899
+
+    
+    (g)  "Entrusting," Section 
+
+70A-2-403
+
+[;].
+            
+900
+
+    
+    (h)  "General intangible," Subsection 
+
+70A-9a-102
+
+(42)[;].
+            
+901
+
+    
+    (i)  "Good faith," Section 
+
+70A-2-103
+
+;
+            
+902
+
+    
+    (j)  "Instrument," Subsection 
+
+70A-9a-102
+
+[(47);](46).
+            
+903
+
+    
+    (k)  "Merchant," Section 
+
+70A-2-104
+
+[;].
+            
+904
+
+    
+    (l)  "Mortgage," Subsection 
+
+70A-9a-102
+
+[(55);](54).
+            
+905
+
+    
+    (m)  "Pursuant to commitment," Subsection 
+
+70A-9a-102
+
+[(68);](67).
+            
+906
+
+    
+    (n)  "Receipt," Section 
+
+70A-2-103
+
+[;].
+            
+907
+
+    
+    (o)  "Sale," Section 
+
+70A-2-106
+
+[;].
+            
+908
+
+    
+    (p)  "Sale on approval," Section 
+
+70A-2-326
+
+[;].
+            
+909
+
+    
+    (q)  "Sale or return," Section 
+
+70A-2-326
+
+[; and].
+            
+910
+
+    
+    (r)  "Seller," Section 
+
+70A-2-103
+
+.
+            
+911
+
+    
+    (4)  In addition, Title 70A, Chapter [1] 1a, Uniform Commercial Code - General
+            
+912
+
+    
+Provisions, contains general definitions and principles of construction and interpretation
+            
+913
+
+    
+applicable throughout this chapter.
+            
+914
+
+    
+    Section 35.  
+Section  
+70A-2a-501
+
+ is amended to read:
+            
+915
+
+    
+     70A-2a-501.  Default -- Procedure.
+            
+916
+
+    
+    (1)  Whether the lessor or the lessee is in default under a lease contract is determined by
+            
+917
+
+    
+the lease agreement and this chapter.
+            
+918
+
+    
+    (2)  If the lessor or the lessee is in default under the lease contract, the party seeking
+            
+919
+
+    
+enforcement has rights and remedies as provided in this chapter and, except as limited by this
+            
+920
+
+    
+chapter, as provided in the lease agreement.
+            
+921
+
+    
+    (3)  If the lessor or the lessee is in default under the lease contract, the party seeking
+            
+922
+
+    
+enforcement may reduce the party's claim to judgment, or otherwise enforce the lease contract
+            
+923
+
+    
+by self-help or any available judicial procedure or nonjudicial procedure, including
+            
+924
+
+    
+administrative proceeding, arbitration, or the like, in accordance with this chapter.
+            
+925
+
+    
+    (4)  Except as otherwise provided in [Section 
+
+70A-1-106
+
+] Subsection 
+
+70A-1a-305
+
+(1), in
+
+            
+926
+
+
+    
+this chapter, or in the lease agreement, the rights and remedies referred to in Subsections (2)
+            
+927
+
+    
+and (3) are cumulative.
+            
+928
+
+    
+    (5)  If the lease agreement covers both real property and goods, the party seeking
+            
+929
+
+    
+enforcement may proceed under this section as to the goods, or under other applicable law as to
+            
+930
+
+    
+both the real property and the goods in accordance with that person's rights and remedies in
+            
+931
+
+    
+respect of the real property, in which case this section does not apply.
+            
+932
+
+    
+    Section 36.  
+Section  
+70A-2a-518
+
+ is amended to read:
+            
+933
+
+    
+     70A-2a-518.  Cover -- Substitute goods.
+            
+934
+
+    
+    (1)  After default by a lessor under the lease contract of the type described in Section
+            
+935
+
+    
+
+70A-2a-508
+
+, or if agreed after other default by the lessor, the lessee may cover by making any
+            
+936
+
+    
+purchase or lease of or contract to purchase or lease goods in substitution for those due from
+            
+937
+
+    
+the lessor.
+            
+938
+
+    
+    (2)  Except as otherwise provided with respect to damages liquidated in the lease
+            
+939
+
+    
+agreement as provided in Section 
+
+70A-2a-504
+
+ or otherwise determined pursuant to agreement
+            
+940
+
+    
+of the parties as provided in [Subsection 
+
+70A-1-102
+
+ (3) and Section] Sections 
+
+70A-1a-302
+
+ and
+            
+941
+
+    
+
+70A-2a-503
+
+, if a lessee's cover is by lease agreement substantially similar to the original lease
+            
+942
+
+    
+agreement and the lease agreement is made in good faith and in a commercially reasonable
+            
+943
+
+    
+manner, the lessee may recover from the lessor as damages:
+            
+944
+
+    
+    (a)  the present value, as of the date of the commencement of the term of the new lease
+            
+945
+
+    
+agreement, of the rent under the new lease agreement applicable to that period of the new lease
+            
+946
+
+    
+term that is comparable to the then remaining term of the original lease agreement, minus the
+            
+947
+
+    
+present value as of the same date of the total rent for the then remaining lease term of the
+            
+948
+
+    
+original lease agreement; and
+            
+949
+
+    
+    (b)  any incidental or consequential damages less expenses saved in consequence of the
+            
+950
+
+    
+lessor's default.
+            
+951
+
+    
+    (3)  If a lessee's cover is by lease agreement that qualifies for treatment under
+            
+952
+
+    
+Subsection (2), the lessee may elect to proceed under Subsection (2) or Section 
+
+70A-2a-519
+
+.  If
+            
+953
+
+    
+a lessee's cover is by lease agreement that for any reason does not qualify for treatment under
+
+            
+954
+
+
+    
+Subsection (2), or is by purchase or otherwise, the lessee may recover from the lessor under
+            
+955
+
+    
+Section 
+
+70A-2a-519
+
+ as if the lessee had elected not to cover.
+            
+956
+
+    
+    Section 37.  
+Section  
+70A-2a-519
+
+ is amended to read:
+            
+957
+
+    
+     70A-2a-519.  Lessee's damages for nondelivery, repudiation, default, and breach
+            
+958
+
+    
+ of warranty in regard to accepted goods.
+            
+959
+
+    
+    (1)  Except as otherwise provided with respect to damages liquidated in the lease
+            
+960
+
+    
+agreement as provided in Section 
+
+70A-2a-504
+
+ or otherwise determined pursuant to agreement
+            
+961
+
+    
+of the parties as provided in [Subsection 
+
+70A-1-102
+
+ (3) and Section] Sections 
+
+70A-1a-302
+
+ and
+            
+962
+
+    
+
+70A-2a-503
+
+, if a lessee elects not to cover or a lessee elects to cover and the cover is by lease
+            
+963
+
+    
+agreement whether or not the lease agreement qualifies for treatment under Subsection
+            
+964
+
+    
+
+70A-2a-518
+
+(2), or is by purchase or otherwise, the measure of damages for default by the
+            
+965
+
+    
+lessor under Section 
+
+70A-2a-508
+
+ is the present value, as of the date of the default, of the then
+            
+966
+
+    
+market rent minus the present value as of the same date of the original rent, computed for the
+            
+967
+
+    
+remaining lease term of the original lease agreement together with incidental and consequential
+            
+968
+
+    
+damages, less expenses saved in consequence of the lessor's default.
+            
+969
+
+    
+    (2)  Market rent is to be determined as of the place for tender or, in cases of rejection
+            
+970
+
+    
+after arrival or revocation of acceptance, as of the place of arrival.
+            
+971
+
+    
+    (3)  Except as otherwise agreed, if the lessee has accepted goods and given notification
+            
+972
+
+    
+as provided in Subsection 
+
+70A-2a-516
+
+(3), the measure of damages for nonconforming tender
+            
+973
+
+    
+or delivery or other default by a lessor is the loss resulting in the ordinary course of events from
+            
+974
+
+    
+the lessor's default as determined in any manner that is reasonable together with incidental and
+            
+975
+
+    
+consequential damages, less expenses saved in consequence of the lessor's default.
+            
+976
+
+    
+    (4)  Except as otherwise agreed, the measure of damages for breach of warranty is the
+            
+977
+
+    
+present value at the time and place of acceptance of the difference between the value of the use
+            
+978
+
+    
+of the goods accepted and the value if they had been as warranted for the lease term, unless
+            
+979
+
+    
+special circumstances show proximate damages of a different amount, together with incidental
+            
+980
+
+    
+and consequential damages, less expenses saved in consequence of the lessor's default or
+            
+981
+
+    
+breach of warranty.
+
+            
+982
+
+
+    
+    Section 38.  
+Section  
+70A-2a-527
+
+ is amended to read:
+            
+983
+
+    
+     70A-2a-527.  Lessor's rights to dispose of goods.
+            
+984
+
+    
+    (1)  After a default by a lessee under the lease contract of the type described in Section
+            
+985
+
+    
+
+70A-2a-523
+
+ or after the lessor refuses to deliver or takes possession of goods as provided in
+            
+986
+
+    
+Section 
+
+70A-2a-525
+
+ or 
+
+70A-2a-526
+
+, or if agreed, after other default by a lessee, the lessor may
+            
+987
+
+    
+dispose of the goods concerned or the undelivered balance thereof by lease, sale, or otherwise.
+            
+988
+
+    
+    (2)  Except as otherwise provided with respect to damages liquidated in the lease
+            
+989
+
+    
+agreement as provided in Section 
+
+70A-2a-504
+
+ or otherwise determined pursuant to agreement
+            
+990
+
+    
+of the parties as provided in [Subsection 
+
+70A-1-102
+
+ (3) and Section] Sections 
+
+70A-1a-302
+
+ and
+            
+991
+
+    
+
+70A-2a-503
+
+, if the disposition is by lease agreement substantially similar to the original lease
+            
+992
+
+    
+agreement and the lease agreement is made in good faith and in a commercially reasonable
+            
+993
+
+    
+manner, the lessor may recover from the lessee as damages:
+            
+994
+
+    
+    (a)  accrued and unpaid rent as of the date of the commencement of the term of the new
+            
+995
+
+    
+lease agreement;
+            
+996
+
+    
+    (b)  the present value, as of the date of the commencement of the term of the new lease
+            
+997
+
+    
+agreement, of the difference between the total rent for the then remaining lease term of the
+            
+998
+
+    
+original lease agreement minus the present value, as of the same date, of the rent under the new
+            
+999
+
+    
+lease agreement applicable to that period of the new lease term which is comparable to the then
+            
+1000
+
+    
+remaining term of the original lease agreement; and
+            
+1001
+
+    
+    (c)  any incidental damages allowed under Section 
+
+70A-2a-530
+
+, less expenses saved in
+            
+1002
+
+    
+consequence of the lessee's default.
+            
+1003
+
+    
+    (3)  If the lessor's disposition is by lease agreement that qualifies for treatment under
+            
+1004
+
+    
+Subsection (2), the lessor may elect to proceed under Subsection (2) or Section 
+
+70A-2a-528
+
+.  If
+            
+1005
+
+    
+the lessor's disposition is by lease agreement that for any reason does not qualify for treatment
+            
+1006
+
+    
+under Subsection (2), or is by sale or otherwise, the lessor may recover from the lessee under
+            
+1007
+
+    
+Section 
+
+70A-2a-528
+
+ as if the lessor had elected not to dispose of the goods.
+            
+1008
+
+    
+    (4)  A subsequent buyer or lessee who buys or leases from the lessor in good faith for
+            
+1009
+
+    
+value as a result of a disposition under this section takes the goods free of the original lease
+
+            
+1010
+
+
+    
+contract and any rights of the original lessee even though the lessor fails to comply with one or
+            
+1011
+
+    
+more of the requirements of this chapter.
+            
+1012
+
+    
+    (5)  The lessor is not accountable to the lessee for any profit made on any disposition. 
+            
+1013
+
+    
+A lessee who has rightfully rejected or justifiably revoked acceptance shall account to the
+            
+1014
+
+    
+lessor for any excess over the amount of the lessee's security interest as provided in Subsection
+            
+1015
+
+    
+
+70A-2a-508
+
+(5).
+            
+1016
+
+    
+    Section 39.  
+Section  
+70A-2a-528
+
+ is amended to read:
+            
+1017
+
+    
+     70A-2a-528.  Lessor's damages for nonacceptance, failure to pay, repudiation, or
+            
+1018
+
+    
+ other default.
+            
+1019
+
+    
+    (1)  Except as otherwise provided with respect to damages liquidated in the lease
+            
+1020
+
+    
+agreement as provided in Section 
+
+70A-2a-504
+
+ or otherwise determined pursuant to agreement
+            
+1021
+
+    
+of the parties as provided in [Subsection 
+
+70A-1-102
+
+ (3) and Section] Sections 
+
+70A-1a-302
+
+ and
+            
+1022
+
+    
+
+70A-2a-503
+
+, if a lessor elects to retain the goods or a lessor elects to dispose of the goods and
+            
+1023
+
+    
+the disposition is by lease agreement whether or not the lease agreement qualifies for treatment
+            
+1024
+
+    
+under Subsection 
+
+70A-2a-527
+
+(2), or is by sale or otherwise, the lessor may recover from the
+            
+1025
+
+    
+lessee as damages for a default of the type described in Section 
+
+70A-2a-523
+
+ or, if agreed, for
+            
+1026
+
+    
+any other default of the lessee:
+            
+1027
+
+    
+    (a)  accrued and unpaid rent as of the date of default if the lessee has never taken
+            
+1028
+
+    
+possession of the goods, or, if the lessee has taken possession of the goods, as of the date on
+            
+1029
+
+    
+which the lessee makes a tender of the goods to the lessor;
+            
+1030
+
+    
+    (b)  the present value as of the date determined under Subsection (1)(a) of default of the
+            
+1031
+
+    
+total rent for the then remaining lease term of the original lease agreement and minus the
+            
+1032
+
+    
+present value as of the same date of the market rent at the place where the goods are located
+            
+1033
+
+    
+computed for the same lease term; and
+            
+1034
+
+    
+    (c)  any incidental damages allowed under Section 
+
+70A-2a-530
+
+, less expenses saved in
+            
+1035
+
+    
+consequence of the lessee's default.
+            
+1036
+
+    
+    (2)  If the measure of damages provided in Subsection (1) is inadequate to put a lessor
+            
+1037
+
+    
+in as good a position as performance would have, the measure of damages is the present value
+
+            
+1038
+
+
+    
+of the profit, including reasonable overhead, the lessor would have made from full performance
+            
+1039
+
+    
+by the lessee, together with any incidental damages allowed under Section 
+
+70A-2a-530
+
+, due
+            
+1040
+
+    
+allowance for costs reasonably incurred and due credit for payments or proceeds of disposition.
+            
+1041
+
+    
+    Section 40.  
+Section  
+70A-3-103
+
+ is amended to read:
+            
+1042
+
+    
+     70A-3-103.  Definitions.
+            
+1043
+
+    
+    (1)  In this chapter:
+            
+1044
+
+    
+    (a)  "Acceptor" means a drawee who has accepted a draft.
+            
+1045
+
+    
+    (b)  "Drawee" means a person ordered in a draft to make payment.
+            
+1046
+
+    
+    (c)  "Drawer" means a person who signs or is identified in a draft as a person ordering
+            
+1047
+
+    
+payment.
+            
+1048
+
+    
+    (d)  "Good faith" means honesty in fact in the conduct or transaction concerned.
+            
+1049
+
+    
+    (e)  "Maker" means a person who signs or is identified in a note as a person undertaking
+            
+1050
+
+    
+to pay.
+            
+1051
+
+    
+    (f)  "Order" means a written instruction to pay money signed by the person giving the
+            
+1052
+
+    
+instruction.  The instruction may be addressed to any person, including the person giving the
+            
+1053
+
+    
+instruction, or to one or more persons jointly or in the alternative, but not in succession.  An
+            
+1054
+
+    
+authorization to pay is not an order unless the person authorized to pay is also instructed to pay.
+            
+1055
+
+    
+    (g)  "Ordinary care" in the case of a person engaged in business means observance of
+            
+1056
+
+    
+reasonable commercial standards, prevailing in the area in which the person is located, with
+            
+1057
+
+    
+respect to the business in which the person is engaged.  In the case of a bank that takes an
+            
+1058
+
+    
+instrument for processing for collection or payment by automated means, reasonable
+            
+1059
+
+    
+commercial standards do not require the bank to examine the instrument if the failure to
+            
+1060
+
+    
+examine does not violate the bank's prescribed procedures and the bank's procedures do not
+            
+1061
+
+    
+vary unreasonably from general banking usage not disapproved by this chapter or Title 70A,
+            
+1062
+
+    
+Chapter 4, Uniform Commercial Code -[-] Bank Deposits and Collections.
+            
+1063
+
+    
+    (h)  "Party" means a party to an instrument.
+            
+1064
+
+    
+    (i)  "Promise" means a written undertaking to pay money signed by the person
+            
+1065
+
+    
+undertaking to pay.  An acknowledgment of an obligation by the obligor is not a promise
+
+            
+1066
+
+
+    
+unless the obligor also undertakes to pay the obligation.
+            
+1067
+
+    
+    (j)  "Prove" with respect to a fact means to meet the burden of establishing the fact as
+            
+1068
+
+    
+defined in Subsection [
+
+70A-1-201
+
+(8)] 
+
+70A-1a-201
+
+(2)(h).
+            
+1069
+
+    
+    (k)  "Remitter" means a person who purchases an instrument from its issuer if the
+            
+1070
+
+    
+instrument is payable to an identified person other than the purchaser.
+            
+1071
+
+    
+    (2)  Other definitions applying to this chapter and the sections in which they appear are:
+            
+1072
+
+    
+    (a)  "Acceptance," Section 
+
+70A-3-409
+
+[;].
+            
+1073
+
+    
+    (b)  "Accommodated party," Section 
+
+70A-3-419
+
+[;].
+            
+1074
+
+    
+    (c)  "Accommodation party," Section 
+
+70A-3-419
+
+[;].
+            
+1075
+
+    
+    (d)  "Alteration," Section 
+
+70A-3-407
+
+[;].
+            
+1076
+
+    
+    (e)  "Anomalous indorsement," Section 
+
+70A-3-205
+
+[;].
+            
+1077
+
+    
+    (f)  "Blank indorsement," Section 
+
+70A-3-205
+
+[;].
+            
+1078
+
+    
+    (g)  "Cashier's check," Section 
+
+70A-3-104
+
+[;].
+            
+1079
+
+    
+    (h)  "Certificate of deposit," Section 
+
+70A-3-104
+
+[;].
+            
+1080
+
+    
+    (i)  "Certified check," Section 
+
+70A-3-409
+
+[;].
+            
+1081
+
+    
+    (j)  "Check," Section 
+
+70A-3-104
+
+[;].
+            
+1082
+
+    
+    (k)  "Consideration," Section 
+
+70A-3-303
+
+[;].
+            
+1083
+
+    
+    (l)  "Demand draft," Section 
+
+70A-3-104
+
+[;].
+            
+1084
+
+    
+    (m)  "Draft," Section 
+
+70A-3-104
+
+[;].
+            
+1085
+
+    
+    (n)  "Holder in due course," Section 
+
+70A-3-302
+
+[;].
+            
+1086
+
+    
+    (o)  "Incomplete instrument," Section 
+
+70A-3-115
+
+[;].
+            
+1087
+
+    
+    (p)  "Indorsement," Section 
+
+70A-3-204
+
+[;].
+            
+1088
+
+    
+    (q)  "Indorser," Section 
+
+70A-3-204
+
+[;].
+            
+1089
+
+    
+    (r)  "Instrument," Section 
+
+70A-3-104
+
+[;].
+            
+1090
+
+    
+    (s)  "Issue," Section 
+
+70A-3-105
+
+[;].
+            
+1091
+
+    
+    (t)  "Issuer," Section 
+
+70A-3-105
+
+[;].
+            
+1092
+
+    
+    (u)  "Negotiable instrument," Section 
+
+70A-3-104
+
+[;].
+            
+1093
+
+    
+    (v)  "Negotiation," Section 
+
+70A-3-201
+
+[;].
+
+            
+1094
+
+
+    
+    (w)  "Note," Section 
+
+70A-3-104
+
+[;].
+            
+1095
+
+    
+    (x)  "Payable at a definite time," Section 
+
+70A-3-108
+
+[;].
+            
+1096
+
+    
+    (y)  "Payable on demand," Section 
+
+70A-3-108
+
+[;].
+            
+1097
+
+    
+    (z)  "Payable to bearer," Section 
+
+70A-3-109
+
+[;].
+            
+1098
+
+    
+    (aa)  "Payable to order," Section 
+
+70A-3-109
+
+[;].
+            
+1099
+
+    
+    (bb)  "Payment," Section 
+
+70A-3-602
+
+[;].
+            
+1100
+
+    
+    (cc)  "Person entitled to enforce," Section 
+
+70A-3-301
+
+[;].
+            
+1101
+
+    
+    (dd)  "Presentment," Section 
+
+70A-3-501
+
+[;].
+            
+1102
+
+    
+    (ee)  "Reacquisition," Section 
+
+70A-3-207
+
+[;].
+            
+1103
+
+    
+    (ff)  "Special indorsement," Section 
+
+70A-3-205
+
+[;].
+            
+1104
+
+    
+    (gg)  "Teller's check," Section 
+
+70A-3-104
+
+[;].
+            
+1105
+
+    
+    (hh)  "Transfer of instrument," Section 
+
+70A-3-203
+
+[;].
+            
+1106
+
+    
+    (ii)  "Traveler's check," Section 
+
+70A-3-104
+
+[;].
+            
+1107
+
+    
+    (jj)  "Value," Section 
+
+70A-3-303
+
+.
+            
+1108
+
+    
+    (3)  The following definitions in other chapters apply to this chapter:
+            
+1109
+
+    
+    (a)  "Bank," Section 
+
+70A-4-105
+
+[;].
+            
+1110
+
+    
+    (b)  "Banking day," Section 
+
+70A-4-104
+
+[;].
+            
+1111
+
+    
+    (c)  "Clearinghouse," Section 
+
+70A-4-104
+
+[;].
+            
+1112
+
+    
+    (d)  "Collecting bank," Section 
+
+70A-4-105
+
+[;].
+            
+1113
+
+    
+    (e)  "Depositary bank," Section 
+
+70A-4-105
+
+[;].
+            
+1114
+
+    
+    (f)  "Documentary draft," Section 
+
+70A-4-104
+
+[;].
+            
+1115
+
+    
+    (g)  "Intermediary bank," Section 
+
+70A-4-105
+
+[;].
+            
+1116
+
+    
+    (h)  "Item," Section 
+
+70A-4-104
+
+[;].
+            
+1117
+
+    
+    (i)  "Payor bank," Section 
+
+70A-4-105
+
+[;].
+            
+1118
+
+    
+    (j)  "Suspends payments," Section 
+
+70A-4-104
+
+.
+            
+1119
+
+    
+    (4)  In addition, Chapter [1] 1a, Uniform Commercial Code - General Provisions,
+            
+1120
+
+    
+contains general definitions and principles of construction and interpretation applicable
+            
+1121
+
+    
+throughout this chapter.
+
+            
+1122
+
+
+    
+    Section 41.  
+Section  
+70A-4-104
+
+ is amended to read:
+            
+1123
+
+    
+     70A-4-104.  Definitions and index of definitions.
+            
+1124
+
+    
+    (1)  In this chapter, unless the context otherwise requires:
+            
+1125
+
+    
+    (a)  "Account" means any deposit or credit account with a bank including a demand,
+            
+1126
+
+    
+time, savings, passbook, share draft, or similar account, other than the account evidenced by a
+            
+1127
+
+    
+certificate of deposit.
+            
+1128
+
+    
+    (b)  "Afternoon" means the period of a day between noon and midnight.
+            
+1129
+
+    
+    (c)  "Banking day" means the part of a day on which a bank is open to the public for
+            
+1130
+
+    
+carrying on substantially all of its banking functions other than a Saturday, a Sunday, or a legal
+            
+1131
+
+    
+holiday.
+            
+1132
+
+    
+    (d)  "Clearinghouse" means an association of banks or other payors regularly clearing
+            
+1133
+
+    
+items.
+            
+1134
+
+    
+    (e)  "Customer" means a person having an account with a bank or for whom a bank has
+            
+1135
+
+    
+agreed to collect items including a bank that maintains an account at another bank.
+            
+1136
+
+    
+    (f)  "Documentary draft" means a draft to be presented for acceptance or payment if
+            
+1137
+
+    
+specified documents, certificated securities as provided in Section 
+
+70A-8-101
+
+, instructions for
+            
+1138
+
+    
+uncertificated securities as provided in Section 
+
+70A-8-101
+
+, other certificates, statements, or the
+            
+1139
+
+    
+like are to be received by the drawee or other payor before acceptance or payment of the draft.
+            
+1140
+
+    
+    (g)  "Draft" means a draft as defined in Section 
+
+70A-3-104
+
+ or an item, other than an
+            
+1141
+
+    
+instrument, that is an order.
+            
+1142
+
+    
+    (h)  "Drawee" means a person ordered in a draft to make payment.
+            
+1143
+
+    
+    (i)  "Item" means an instrument or a promise or order to pay money handled by a bank
+            
+1144
+
+    
+for collection or payment.  The term does not include a payment order governed by [Title 70A,]
+            
+1145
+
+    
+Chapter [4A] 4a, Uniform Commercial Code - Funds Transfers, or a credit or debit card slip.
+            
+1146
+
+    
+    (j)  "Midnight deadline" with respect to a bank is midnight on its next banking day
+            
+1147
+
+    
+following the banking day on which it receives the relevant item or notice or from which the
+            
+1148
+
+    
+time for taking action commences to run, whichever is later.
+            
+1149
+
+    
+    (k)  "Settle" means to pay in cash, by clearinghouse settlement, in a charge or credit or
+
+            
+1150
+
+
+    
+by remittance, or otherwise as agreed.  A settlement may be either provisional or final.
+            
+1151
+
+    
+    (l)  "Suspends payments" with respect to a bank means that it has been closed by order
+            
+1152
+
+    
+of the supervisory authorities, that a public officer has been appointed to take it over or that it
+            
+1153
+
+    
+ceases or refuses to make payments in the ordinary course of business.
+            
+1154
+
+    
+    (2)  Other definitions applying to this chapter and the sections in which they appear are:
+            
+1155
+
+    
+    (a)  "Agreement for electronic presentment," Section 
+
+70A-4-110
+
+[;].
+            
+1156
+
+    
+    (b)  "Bank," Section 
+
+70A-4-105
+
+[;].
+            
+1157
+
+    
+    (c)  "Collecting bank," Section 
+
+70A-4-105
+
+[;].
+            
+1158
+
+    
+    (d)  "Depositary bank," Section 
+
+70A-4-105
+
+[;].
+            
+1159
+
+    
+    (e)  "Intermediary bank," Section 
+
+70A-4-105
+
+[;].
+            
+1160
+
+    
+    (f)  "Payor bank," Section 
+
+70A-4-105
+
+[;].
+            
+1161
+
+    
+    (g)  "Presenting bank," Section 
+
+70A-4-105
+
+[; and].
+            
+1162
+
+    
+    (h)  "Presentment notice," Section 
+
+70A-4-110
+
+.
+            
+1163
+
+    
+    (3) "Control" as provided in Section 
+
+70A-7a-106
+
+ and the following definitions in other
+            
+1164
+
+    
+chapters apply to this chapter:
+            
+1165
+
+    
+    (a)  "Acceptance," Section 
+
+70A-3-409
+
+[;].
+            
+1166
+
+    
+    (b)  "Alteration," Section 
+
+70A-3-407
+
+[;].
+            
+1167
+
+    
+    (c)  "Cashier's check," Section 
+
+70A-3-104
+
+[;].
+            
+1168
+
+    
+    (d)  "Certificate of deposit," Section 
+
+70A-3-104
+
+[;].
+            
+1169
+
+    
+    (e)  "Certified check," Section 
+
+70A-3-409
+
+[;].
+            
+1170
+
+    
+    (f)  "Check," Section 
+
+70A-3-104
+
+[;].
+            
+1171
+
+    
+    (g)  "Good faith," Section 
+
+70A-3-103
+
+[;].
+            
+1172
+
+    
+    (h)  "Holder in due course," Section 
+
+70A-3-302
+
+[;].
+            
+1173
+
+    
+    (i)  "Instrument," Section 
+
+70A-3-104
+
+[;].
+            
+1174
+
+    
+    (j)  "Notice of dishonor," Section 
+
+70A-3-503
+
+[;].
+            
+1175
+
+    
+    (k)  "Order," Section 
+
+70A-3-103
+
+[;].
+            
+1176
+
+    
+    (l)  "Ordinary care," Section 
+
+70A-3-103
+
+[;].
+            
+1177
+
+    
+    (m)  "Person entitled to enforce," Section 
+
+70A-3-301
+
+[;].
+
+            
+1178
+
+
+    
+    (n)  "Presentment," Section 
+
+70A-3-501
+
+[;].
+            
+1179
+
+    
+    (o)  "Promise," Section 
+
+70A-3-103
+
+[;].
+            
+1180
+
+    
+    (p)  "Prove," Section 
+
+70A-3-103
+
+[;].
+            
+1181
+
+    
+    (q)  "Teller's check," Section 
+
+70A-3-104
+
+[; and].
+            
+1182
+
+    
+    (r)  "Unauthorized signature," Section 
+
+70A-3-403
+
+.
+            
+1183
+
+    
+    (4)  In addition, Chapter [1,] 1a, Uniform Commercial Code - General Provisions,
+            
+1184
+
+    
+contains general definitions and principles of construction and interpretation applicable
+            
+1185
+
+    
+throughout this chapter.
+            
+1186
+
+    
+    Section 42.  
+Section  
+70A-4a-105
+
+ is amended to read:
+            
+1187
+
+    
+     70A-4a-105.  Other definitions.
+            
+1188
+
+    
+    (1)  In this chapter:
+            
+1189
+
+    
+    (a)  "Authorized account" means a deposit account of a customer in a bank designated
+            
+1190
+
+    
+by the customer as a source of payment orders issued by the customer to the bank.  If a
+            
+1191
+
+    
+customer does not so designate an account, any account of the customer is an authorized
+            
+1192
+
+    
+account if payment of a payment order from that account is not inconsistent with a restriction
+            
+1193
+
+    
+on the use of that account.
+            
+1194
+
+    
+    (b)  "Bank" means a person engaged in the business of banking, and includes a savings
+            
+1195
+
+    
+bank, savings and loan association, credit union, and trust company.  A branch or separate
+            
+1196
+
+    
+office of a bank is a separate bank for purposes of this chapter.
+            
+1197
+
+    
+    (c)  "Customer" means a person, including a bank, having an account with a bank or
+            
+1198
+
+    
+from whom a bank has agreed to receive payment orders.
+            
+1199
+
+    
+    (d)  "Funds transfer business day" of a receiving bank means the part of a day during
+            
+1200
+
+    
+which the receiving bank is open for the receipt, processing, and transmittal of payment orders
+            
+1201
+
+    
+and cancellations and amendments of payment orders.
+            
+1202
+
+    
+    (e)  "Funds transfer system" means a wire transfer network, automated clearing house,
+            
+1203
+
+    
+or other communication system of a clearing house or other association of banks through which
+            
+1204
+
+    
+a payment order by a bank may be transmitted to the bank to which the order is addressed.
+            
+1205
+
+    
+    (f)  "Good faith" means honesty in fact and the observance of reasonable commercial
+
+            
+1206
+
+
+    
+standards of fair dealing.
+            
+1207
+
+    
+    (g)  "Prove" with respect to a fact means to meet the burden of establishing the fact
+            
+1208
+
+    
+under Subsection [
+
+70A-1-201
+
+ (8)] 
+
+70A-1a-201
+
+(2)(h).
+            
+1209
+
+    
+    (2)  Other definitions applying to this chapter and the sections in which they appear are:
+            
+1210
+
+    
+    (a)  "Acceptance," Section 
+
+70A-4a-209
+
+[;].
+            
+1211
+
+    
+    (b)  "Beneficiary," Section 
+
+70A-4a-103
+
+[;].
+            
+1212
+
+    
+    (c)  "Beneficiary's bank," Section 
+
+70A-4a-103
+
+[;].
+            
+1213
+
+    
+    (d)  "Executed," Section 
+
+70A-4a-301
+
+[;].
+            
+1214
+
+    
+    (e)  "Execution date," Section 
+
+70A-4a-301
+
+[;].
+            
+1215
+
+    
+    (f)  "Funds transfer system rule," Section 
+
+70A-4a-501
+
+[;].
+            
+1216
+
+    
+    (g)  "Funds transfer," Section 
+
+70A-4a-104
+
+[;].
+            
+1217
+
+    
+    (h)  "Intermediary bank," Section 
+
+70A-4a-104
+
+[;].
+            
+1218
+
+    
+    (i)  "Originator," Section 
+
+70A-4a-104
+
+[;].
+            
+1219
+
+    
+    (j)  "Originator's bank," Section 
+
+70A-4a-104
+
+[;].
+            
+1220
+
+    
+    (k)  "Payment by beneficiary's bank to beneficiary," Section 
+
+70A-4a-405
+
+[;].
+            
+1221
+
+    
+    (l)  "Payment by originator to beneficiary," Section 
+
+70A-4a-406
+
+[;].
+            
+1222
+
+    
+    (m)  "Payment by sender, to receiving bank," Section 
+
+70A-4a-403
+
+[;].
+            
+1223
+
+    
+    (n)  "Payment date," Section 
+
+70A-4a-401
+
+[;].
+            
+1224
+
+    
+    (o)  "Payment order," Section 
+
+70A-4a-103
+
+[;].
+            
+1225
+
+    
+    (p)  "Receiving bank," Section 
+
+70A-4a-103
+
+[;].
+            
+1226
+
+    
+    (q)  "Security procedure," Section 
+
+70A-4a-201
+
+[; and].
+            
+1227
+
+    
+    (r)  "Sender," Section 
+
+70A-4a-103
+
+.
+            
+1228
+
+    
+    (3)  The following definitions in Chapter 4, Uniform Commercial Code - Bank
+            
+1229
+
+    
+Deposits and Collections, apply to this chapter:
+            
+1230
+
+    
+    (a)  "Clearinghouse," Section 
+
+70A-4-104
+
+[;].
+            
+1231
+
+    
+    (b)  "Item," Section 
+
+70A-4-104
+
+[; and].
+            
+1232
+
+    
+    (c)  "Suspends payments," Section 
+
+70A-4-104
+
+.
+            
+1233
+
+    
+    (4)  In addition, [Title 70A,] Chapter [1] 1a, Uniform Commercial Code [-]- General
+
+            
+1234
+
+
+    
+Provisions, contains general definitions and principles of construction and interpretation
+            
+1235
+
+    
+applicable throughout this chapter.
+            
+1236
+
+    
+    Section 43.  
+Section  
+70A-4a-106
+
+ is amended to read:
+            
+1237
+
+    
+     70A-4a-106.  Time payment order is received.
+            
+1238
+
+    
+    (1)  The time of receipt of a payment order or communication canceling or amending a
+            
+1239
+
+    
+payment order is determined by the rules applicable to receipt of a notice stated in [Subsection
+            
+1240
+
+    
+
+
+70A-1-201
+
+ (27)] Section 
+
+70A-1a-202
+
+.  A receiving bank may fix a cutoff time or times on a
+            
+1241
+
+    
+funds transfer business day, as a cutoff time for the receipt and processing of payment orders
+            
+1242
+
+    
+and communications canceling or amending payment orders. Different cutoff times may apply
+            
+1243
+
+    
+to receipt of payment orders, cancellations, or amendments, or to different categories of
+            
+1244
+
+    
+payment orders, cancellations, or amendments.  A cutoff time may apply to senders generally
+            
+1245
+
+    
+or different cutoff times may apply to different senders or categories of payment orders.  If a
+            
+1246
+
+    
+payment order or communication canceling or amending a payment order is received after the
+            
+1247
+
+    
+close of a funds transfer business day or after the appropriate cutoff time on a funds transfer
+            
+1248
+
+    
+business day, the receiving bank may treat the payment order or communication as received at
+            
+1249
+
+    
+the opening of the next funds transfer business day.
+            
+1250
+
+    
+    (2)  If this chapter refers to an execution date or payment date or states a day on which a
+            
+1251
+
+    
+receiving bank is required to take any action, and the date or day does not fall on a funds
+            
+1252
+
+    
+transfer business day, the next day that is a funds transfer business day is treated as the date or
+            
+1253
+
+    
+day stated, unless the contrary is stated in this chapter.
+            
+1254
+
+    
+    Section 44.  
+Section  
+70A-4a-204
+
+ is amended to read:
+            
+1255
+
+    
+     70A-4a-204.  Refund of payment and duty of customer to report with respect to
+            
+1256
+
+    
+ unauthorized payment order.
+            
+1257
+
+    
+    (1) (a)  If a receiving bank accepts a payment order issued in the name of its customer
+            
+1258
+
+    
+as sender which is not authorized and not effective as the order of the customer under Section
+            
+1259
+
+    
+
+70A-4a-202
+
+, or not enforceable, in whole or in part, against the customer under Section
+            
+1260
+
+    
+
+70A-4a-203
+
+, the bank shall refund any payment of the payment order received from the
+            
+1261
+
+    
+customer to the extent the bank is not entitled to enforce payment, and shall pay interest on the
+
+            
+1262
+
+
+    
+refundable amount calculated from the date the bank received payment to the date of the
+            
+1263
+
+    
+refund.
+            
+1264
+
+    
+    (b)  However, the customer is not entitled to interest from the bank on the amount to be
+            
+1265
+
+    
+refunded if the customer fails to exercise ordinary care to determine that the order was not
+            
+1266
+
+    
+authorized by the customer and to notify the bank of the relevant facts within a reasonable time
+            
+1267
+
+    
+not exceeding 90 days after the date the customer received notification from the bank that the
+            
+1268
+
+    
+order was accepted or that the customer's account was debited with respect to the order.
+            
+1269
+
+    
+    (c)  The bank is not entitled to any recovery from the customer on account of a failure
+            
+1270
+
+    
+by the customer to give notification as stated in this section.
+            
+1271
+
+    
+    (2)  Reasonable time under Subsection (1) may be fixed by agreement as stated in
+            
+1272
+
+    
+Subsection [
+
+70A-1-204
+
+ (1)] 
+
+70A-1a-302
+
+(2), but the obligation of a receiving bank to refund
+            
+1273
+
+    
+payment as stated in Subsection (1) may not otherwise be varied by agreement.
+            
+1274
+
+    
+    Section 45.  
+Section  
+70A-5-103
+
+ is amended to read:
+            
+1275
+
+    
+     70A-5-103.  Scope.
+            
+1276
+
+    
+    (1)  This chapter applies to letters of credit and to certain rights and obligations arising
+            
+1277
+
+    
+out of transactions involving letters of credit.
+            
+1278
+
+    
+    (2)  The statement of a rule in this chapter does not by itself require, imply, or negate
+            
+1279
+
+    
+application of the same or a different rule to a situation not provided for, or to a person not
+            
+1280
+
+    
+specified, in this chapter.
+            
+1281
+
+    
+    (3)  With the exception of this Subsection (3), Subsections (1) and (4), Subsections
+            
+1282
+
+    
+
+70A-5-102
+
+(9) and (10), 
+
+70A-5-106
+
+(4), and 
+
+70A-5-114
+
+(4), and except to the extent prohibited
+            
+1283
+
+    
+in [Subsections 
+
+70A-1-102
+
+(3)] Section 
+
+70A-1a-302
+
+ and Subsection
+
+70A-5-117
+
+(4), the effect of
+            
+1284
+
+    
+this chapter may be varied by agreement or by a provision stated or incorporated by reference
+            
+1285
+
+    
+in an undertaking.  A term in an agreement or undertaking generally excusing liability or
+            
+1286
+
+    
+generally limiting remedies for failure to perform obligations is not sufficient to vary
+            
+1287
+
+    
+obligations prescribed by this chapter.
+            
+1288
+
+    
+    (4)  Rights and obligations of an issuer to a beneficiary or a nominated person under a
+            
+1289
+
+    
+letter of credit are independent of the existence, performance, or nonperformance of a contract
+
+            
+1290
+
+
+    
+or arrangement out of which the letter of credit arises or which underlies it, including contracts
+            
+1291
+
+    
+or arrangements between the issuer and the applicant and between the applicant and the
+            
+1292
+
+    
+beneficiary.
+            
+1293
+
+    
+    Section 46.  
+Section  
+70A-7a-102
+
+ is amended to read:
+            
+1294
+
+    
+     70A-7a-102.  Definitions and index of definitions.
+            
+1295
+
+    
+    (1)  In this chapter, unless the context otherwise requires:
+            
+1296
+
+    
+    (a)  "Bailee" means a person that by a warehouse receipt, bill of lading, or other
+            
+1297
+
+    
+document of title acknowledges possession of goods and contracts to deliver them.
+            
+1298
+
+    
+    (b)  "Carrier" means a person that issues a bill of lading.
+            
+1299
+
+    
+    (c)  "Consignee" means a person named in a bill of lading to which or to whose order
+            
+1300
+
+    
+the bill promises delivery.
+            
+1301
+
+    
+    (d)  "Consignor" means a person named in a bill of lading as the person from which the
+            
+1302
+
+    
+goods have been received for shipment.
+            
+1303
+
+    
+    (e)  "Delivery order" means a record that contains an order to deliver goods directed to a
+            
+1304
+
+    
+warehouse, carrier, or other person that in the ordinary course of business issues warehouse
+            
+1305
+
+    
+receipts or bills of lading.
+            
+1306
+
+    
+    (f)  "Good faith" means honesty in fact and the observance of reasonable commercial
+            
+1307
+
+    
+standards of fair dealing.
+            
+1308
+
+    
+    (g)  "Goods" means all things that are treated as movable for the purposes of a contract
+            
+1309
+
+    
+for storage or transportation.
+            
+1310
+
+    
+    (h)  "Issuer" means a bailee that issues a document of title or, in the case of an
+            
+1311
+
+    
+unaccepted delivery order, the person that orders the possessor of goods to deliver.  The term
+            
+1312
+
+    
+includes a person for which an agent or employee purports to act in issuing a document if the
+            
+1313
+
+    
+agent or employee has real or apparent authority to issue documents, even if the issuer did not
+            
+1314
+
+    
+receive any goods, the goods were misdescribed, or in any other respect the agent or employee
+            
+1315
+
+    
+violated the issuer's instructions.
+            
+1316
+
+    
+    (i)  "Person entitled under the document" means the holder, in the case of a negotiable
+            
+1317
+
+    
+document of title, or the person to which delivery of the goods is to be made by the terms of, or
+
+            
+1318
+
+
+    
+pursuant to instructions in a record under, a nonnegotiable document of title.
+            
+1319
+
+    
+    (j)  "Record" means information that is inscribed on a tangible medium or that is stored
+            
+1320
+
+    
+in an electronic or other medium and is retrievable in perceivable form.
+            
+1321
+
+    
+    (k)  "Shipper" means a person that enters into a contract of transportation with a carrier.
+            
+1322
+
+    
+    (l)  "Sign" means, with present intent to authenticate or adopt a record:
+            
+1323
+
+    
+    (i)  to execute or adopt a tangible symbol; or
+            
+1324
+
+    
+    (ii)  to attach to or logically associate with the record an electronic sound, symbol, or
+            
+1325
+
+    
+process.
+            
+1326
+
+    
+    (m)  "Warehouse" means a person engaged in the business of storing goods for hire.
+            
+1327
+
+    
+    (2)  Definitions in other chapters applying to this chapter and the sections in which they
+            
+1328
+
+    
+appear are:
+            
+1329
+
+    
+    (a)  "Contract for sale," Section 
+
+70A-2-106
+
+.
+            
+1330
+
+    
+    (b)  "Lessee in the ordinary course of business," Section 
+
+70A-2a-103
+
+.
+            
+1331
+
+    
+    (c)  "Receipt" of goods, Section 
+
+70A-2-103
+
+.
+            
+1332
+
+    
+    (3)  In addition, Chapter [1,] 1a, Uniform Commercial Code - General Provisions,
+            
+1333
+
+    
+contains general definitions and principles of construction and interpretation applicable
+            
+1334
+
+    
+throughout this chapter.
+            
+1335
+
+    
+    Section 47.  
+Section  
+70A-8-101
+
+ is amended to read:
+            
+1336
+
+    
+     70A-8-101.  Definitions.
+            
+1337
+
+    
+    (1)  As used in this chapter:
+            
+1338
+
+    
+    (a)  "Adverse claim" means a claim that a claimant has a property interest in a financial
+            
+1339
+
+    
+asset and that it is a violation of the rights of the claimant for another person to hold, transfer,
+            
+1340
+
+    
+or deal with the financial asset.
+            
+1341
+
+    
+    (b)  "Bearer form," as applied to a certificated security, means a form in which the
+            
+1342
+
+    
+security is payable to the bearer of the security certificate according to its terms but not by
+            
+1343
+
+    
+reason of an indorsement.
+            
+1344
+
+    
+    (c)  "Broker" means a person defined as a broker or dealer under the federal securities
+            
+1345
+
+    
+laws, but without excluding a bank acting in that capacity.
+
+            
+1346
+
+
+    
+    (d)  "Certificated security" means a security that is represented by a certificate.
+            
+1347
+
+    
+    (e)  "Clearing corporation" means:
+            
+1348
+
+    
+    (i)  a person that is registered as a "clearing agency" under the federal securities laws;
+            
+1349
+
+    
+    (ii)  a federal reserve bank; or
+            
+1350
+
+    
+    (iii)  any other person that provides clearance or settlement services with respect to
+            
+1351
+
+    
+financial assets that would require it to register as a clearing agency under the federal securities
+            
+1352
+
+    
+laws but for an exclusion or exemption from the registration requirement, if its activities as a
+            
+1353
+
+    
+clearing corporation, including promulgation of rules, are subject to regulation by a federal or
+            
+1354
+
+    
+state governmental authority.
+            
+1355
+
+    
+    (f)  "Communicate" means to:
+            
+1356
+
+    
+    (i)  send a signed writing; or
+            
+1357
+
+    
+    (ii)  transmit information by any mechanism agreed upon by the persons transmitting
+            
+1358
+
+    
+and receiving the information.
+            
+1359
+
+    
+    (g)  "Entitlement holder" means a person identified in the records of a securities
+            
+1360
+
+    
+intermediary as the person having a security entitlement against the securities intermediary.  If
+            
+1361
+
+    
+a person acquired a security entitlement by virtue of Subsection 
+
+70A-8-501
+
+(2)(b) or (c), that
+            
+1362
+
+    
+person is the entitlement holder.
+            
+1363
+
+    
+    (h)  "Entitlement order" means a notification communicated to a securities intermediary
+            
+1364
+
+    
+directing transfer or redemption of a financial asset to which the entitlement holder has a
+            
+1365
+
+    
+security entitlement.
+            
+1366
+
+    
+    (i) (i)  "Financial asset," except as otherwise provided in Section 
+
+70A-8-102
+
+, means:
+            
+1367
+
+    
+    (A)  a security;
+            
+1368
+
+    
+    (B)  an obligation of a person or a share, participation, or other interest in a person or in
+            
+1369
+
+    
+property or an enterprise of a person, which is or is of a type, dealt in or traded on financial
+            
+1370
+
+    
+markets, or which is recognized in any area in which it is issued or dealt in as a medium for
+            
+1371
+
+    
+investment; or
+            
+1372
+
+    
+    (C)  any property that is held by a securities intermediary for another person in a
+            
+1373
+
+    
+securities account if that securities intermediary has expressly agreed with the other person that
+
+            
+1374
+
+
+    
+the property is to be treated as a financial asset under this chapter.
+            
+1375
+
+    
+    (ii)  As context requires, the term means either the interest itself or the means by which
+            
+1376
+
+    
+a person's claim to it is evidenced, including a certificated or uncertificated security, a security
+            
+1377
+
+    
+certificate, or a security entitlement.
+            
+1378
+
+    
+    (j)  "Good faith," for purposes of the obligation of good faith in the performance or
+            
+1379
+
+    
+enforcement of contracts or duties within this chapter, means honesty in fact and the
+            
+1380
+
+    
+observance of reasonable commercial standards of fair dealing.
+            
+1381
+
+    
+    (k)  "Indorsement" means a signature that alone or accompanied by other words is made
+            
+1382
+
+    
+on a security certificate in registered form or on a separate document for the purpose of
+            
+1383
+
+    
+assigning, transferring, or redeeming the security or granting a power to assign, transfer, or
+            
+1384
+
+    
+redeem it.
+            
+1385
+
+    
+    (l)  "Instruction" means a notification communicated to the issuer of an uncertificated
+            
+1386
+
+    
+security which directs that the transfer of the security be registered or that the security be
+            
+1387
+
+    
+redeemed.
+            
+1388
+
+    
+    (m)  "Registered form," as applied to a certificated security, means a form in which:
+            
+1389
+
+    
+    (i)  the security certificate specifies a person entitled to the security; and
+            
+1390
+
+    
+    (ii)  a transfer of the security may be registered upon books maintained for that purpose
+            
+1391
+
+    
+by or on behalf of the issuer, or the security certificate so states.
+            
+1392
+
+    
+    (n)  "Securities intermediary" means:
+            
+1393
+
+    
+    (i)  a clearing corporation; or
+            
+1394
+
+    
+    (ii)  a person, including a bank or broker, that in the ordinary course of its business
+            
+1395
+
+    
+maintains securities accounts for others and is acting in that capacity.
+            
+1396
+
+    
+    (o)  "Security," except as otherwise provided in Section 
+
+70A-8-102
+
+, means an
+            
+1397
+
+    
+obligation of an issuer or a share, participation, or other interest in an issuer or in property or an
+            
+1398
+
+    
+enterprise of an issuer:
+            
+1399
+
+    
+    (i)  which is represented by a security certificate in bearer or registered form, or the
+            
+1400
+
+    
+transfer of which may be registered upon books maintained for that purpose by or on behalf of
+            
+1401
+
+    
+the issuer;
+
+            
+1402
+
+
+    
+    (ii)  which is one of a class or series or by its terms is divisible into a class or series of
+            
+1403
+
+    
+shares, participations, interests, or obligations; and
+            
+1404
+
+    
+    (iii)  which:
+            
+1405
+
+    
+    (A)  is, or is of a type, dealt in or traded on securities exchanges or securities markets;
+            
+1406
+
+    
+or
+            
+1407
+
+    
+    (B)  is a medium for investment and by its terms expressly provides that it is a security
+            
+1408
+
+    
+governed by this chapter.
+            
+1409
+
+    
+    (p)  "Security certificate" means a certificate representing a security.
+            
+1410
+
+    
+    (q)  "Security entitlement" means the rights and property interest of an entitlement
+            
+1411
+
+    
+holder with respect to a financial asset specified in Part 5.
+            
+1412
+
+    
+    (r)  "Uncertificated security" means a security that is not represented by a certificate.
+            
+1413
+
+    
+    (2)  Other definitions applying to this chapter and the sections in which they appear are:
+            
+1414
+
+    
+    (a)  "Appropriate person," Section 
+
+70A-8-106
+
+[;].
+            
+1415
+
+    
+    (b)  "Control," Section 
+
+70A-8-105
+
+[;].
+            
+1416
+
+    
+    (c)  "Delivery," Section 
+
+70A-8-301
+
+[;].
+            
+1417
+
+    
+    (d)  "Investment company security," Section 
+
+70A-8-102
+
+[;].
+            
+1418
+
+    
+    (e)  "Issuer," Section 
+
+70A-8-201
+
+[;].
+            
+1419
+
+    
+    (f)  "Overissue," Section 
+
+70A-8-210
+
+[;].
+            
+1420
+
+    
+    (g)  "Protected purchaser," Section 
+
+70A-8-303
+
+[; and].
+            
+1421
+
+    
+    (h)  "Securities account," Section 
+
+70A-8-501
+
+.
+            
+1422
+
+    
+    (3)  In addition, Chapter [1,] 1a, Uniform Commercial Code - General Provisions,
+            
+1423
+
+    
+contains general definitions and principles of construction and interpretation applicable
+            
+1424
+
+    
+throughout this chapter.
+            
+1425
+
+    
+    (4)  The characterization of a person, business, or transaction for purposes of this
+            
+1426
+
+    
+chapter does not determine the characterization of the person, business, or transaction for
+            
+1427
+
+    
+purposes of any other law, regulation, or rule.
+            
+1428
+
+    
+    Section 48.  
+Section  
+70A-9a-102.1
+
+ is amended to read:
+            
+1429
+
+    
+     70A-9a-102.1.  Definitions from other chapters.
+
+            
+1430
+
+
+    
+    (1)  "Control" as provided in Section 
+
+70A-7a-106
+
+ and the following definitions in other
+            
+1431
+
+    
+chapters of this title apply to this chapter:
+            
+1432
+
+    
+    (a)  "Applicant" Section 
+
+70A-5-102
+
+.
+            
+1433
+
+    
+    (b)  "Beneficiary" Section 
+
+70A-5-102
+
+.
+            
+1434
+
+    
+    (c)  "Broker" Section 
+
+70A-8-101
+
+.
+            
+1435
+
+    
+    (d)  "Certificated security" Section 
+
+70A-8-101
+
+.
+            
+1436
+
+    
+    (e)  "Check" Section 
+
+70A-3-104
+
+.
+            
+1437
+
+    
+    (f)  "Clearing corporation" Section 
+
+70A-8-101
+
+.
+            
+1438
+
+    
+    (g)  "Contract for sale" Section 
+
+70A-2-106
+
+.
+            
+1439
+
+    
+    (h)  "Customer" Section 
+
+70A-4-104
+
+.
+            
+1440
+
+    
+    (i)  "Entitlement holder" Section 
+
+70A-8-101
+
+.
+            
+1441
+
+    
+    (j)  "Financial asset" Section 
+
+70A-8-101
+
+.
+            
+1442
+
+    
+    (k)  "Holder in due course" Section 
+
+70A-3-302
+
+.
+            
+1443
+
+    
+    (l) (i)  "Issuer" (with respect to a letter of credit or letter-of-credit right) Section
+            
+1444
+
+    
+
+70A-5-102
+
+.
+            
+1445
+
+    
+    (ii)  "Issuer" (with respect to a security) Section 
+
+70A-8-201
+
+.
+            
+1446
+
+    
+    (iii)  "Issuer" (with respect to documents of title) Section 
+
+70A-7a-102
+
+.
+            
+1447
+
+    
+    (m)  "Lease" Section 
+
+70A-2a-103
+
+.
+            
+1448
+
+    
+    (n)  "Lease agreement" Section 
+
+70A-2a-103
+
+.
+            
+1449
+
+    
+    (o)  "Lease contract" Section 
+
+70A-2a-103
+
+.
+            
+1450
+
+    
+    (p)  "Leasehold interest" Section 
+
+70A-2a-103
+
+.
+            
+1451
+
+    
+    (q)  "Lessee" Section 
+
+70A-2a-103
+
+.
+            
+1452
+
+    
+    (r)  "Lessee in ordinary course of business" Section 
+
+70A-2a-103
+
+.
+            
+1453
+
+    
+    (s)  "Lessor" Section 
+
+70A-2a-103
+
+.
+            
+1454
+
+    
+    (t)  "Lessor's residual interest" Section 
+
+70A-2a-103
+
+.
+            
+1455
+
+    
+    (u)  "Letter of credit" Section 
+
+70A-5-102
+
+.
+            
+1456
+
+    
+    (v)  "Merchant" Section 
+
+70A-2-104
+
+.
+            
+1457
+
+    
+    (w)  "Negotiable instrument" Section 
+
+70A-3-104
+
+.
+
+            
+1458
+
+
+    
+    (x)  "Nominated person" Section 
+
+70A-5-102
+
+.
+            
+1459
+
+    
+    (y)  "Note" Section 
+
+70A-3-104
+
+.
+            
+1460
+
+    
+    (z)  "Proceeds of a letter of credit" Section 
+
+70A-5-114
+
+.
+            
+1461
+
+    
+    (aa)  "Prove" Section 
+
+70A-3-103
+
+.
+            
+1462
+
+    
+    (bb)  "Sale" Section 
+
+70A-2-106
+
+.
+            
+1463
+
+    
+    (cc)  "Securities account" Section 
+
+70A-8-501
+
+.
+            
+1464
+
+    
+    (dd)  "Securities intermediary" Section 
+
+70A-8-101
+
+.
+            
+1465
+
+    
+    (ee)  "Security" Section 
+
+70A-8-101
+
+.
+            
+1466
+
+    
+    (ff)  "Security certificate" Section 
+
+70A-8-101
+
+.
+            
+1467
+
+    
+    (gg)  "Security entitlement" Section 
+
+70A-8-101
+
+.
+            
+1468
+
+    
+    (hh)  "Uncertificated security" Section 
+
+70A-8-101
+
+.
+            
+1469
+
+    
+    (2)  Chapter [1,] 1a, Uniform Commercial Code - General Provisions, contains general
+            
+1470
+
+    
+definitions and principles of construction and interpretation applicable throughout this chapter.
+            
+1471
+
+    
+    Section 49.  
+Section  
+70A-10-104
+
+ is amended to read:
+            
+1472
+
+    
+     70A-10-104.  Laws not repealed.
+            
+1473
+
+    
+    Chapter 7a, Uniform Commercial Code - Documents of Title, does not repeal or modify
+            
+1474
+
+    
+any laws prescribing the form or contents of documents of title or the services or facilities to be
+            
+1475
+
+    
+afforded by bailees, or otherwise regulating bailees' businesses in respects not specifically dealt
+            
+1476
+
+    
+with herein; but the fact that such laws are violated does not affect the status of a document of
+            
+1477
+
+    
+title which otherwise complies with the definition of a document of title as defined in Section
+            
+1478
+
+    
+[
+
+70A-1-201
+
+] 
+
+70A-1a-201
+
+.
+            
+1479
+
+    
+    Section 50.  
+Section  
+70C-2-204
+
+ is amended to read:
+            
+1480
+
+    
+     70C-2-204.  Certain negotiable instruments prohibited.
+            
+1481
+
+    
+    With respect to a consumer credit sale not involving real property, the seller may not
+            
+1482
+
+    
+take a negotiable instrument under Section 
+
+70A-3-104
+
+ other than a check as evidence of the
+            
+1483
+
+    
+obligation of the buyer.  A holder is not in good faith under Subsection [
+
+70A-1-201
+
+ (19)]
+            
+1484
+
+    
+
+
+70A-1a-201
+
+(2)(t) if he takes a negotiable instrument with notice that it is issued in violation of
+            
+1485
+
+    
+this section.  A holder in due course under Section 
+
+70A-3-302
+
+ is not subject to the liabilities set
+
+            
+1486
+
+
+    
+forth in the provisions on the effect of violations on rights of parties under Section 
+
+70C-7-201
+
+.
+            
+1487
+
+    
+    Section 51.  Repealer.
+            
+1488
+
+    
+    This bill repeals:
+            
+1489
+
+    
+    Section  70A-1-101,  Short title.
+            
+1490
+
+    
+    Section  70A-1-102,  Purposes -- Rules of construction -- Variation by agreement.
+            
+1491
+
+    
+    Section  70A-1-103,  Supplementary general principles of law applicable.
+            
+1492
+
+    
+    Section  70A-1-104,  Construction against implicit repeal.
+            
+1493
+
+    
+    Section  70A-1-105,  Territorial application of title -- Parties' power to choose
+            
+1494
+
+    
+ applicable law.
+            
+1495
+
+    
+    Section  70A-1-106,  Remedies to be liberally administered.
+            
+1496
+
+    
+    Section  70A-1-107,  Waiver or renunciation of claim or right after breach.
+            
+1497
+
+    
+    Section  70A-1-108,  Severability.
+            
+1498
+
+    
+    Section  70A-1-109,  Section captions.
+            
+1499
+
+    
+    Section  70A-1-201,  General definitions.
+            
+1500
+
+    
+    Section  70A-1-202,  Prima facie evidence by third-party documents.
+            
+1501
+
+    
+    Section  70A-1-203,  Obligation of good faith.
+            
+1502
+
+    
+    Section  70A-1-204,  Time -- Reasonable time -- "Seasonably."
+            
+1503
+
+    
+    Section  70A-1-205,  Course of dealing and usage of trade.
+            
+1504
+
+    
+    Section  70A-1-206,  Statute of frauds for kinds of personal property not otherwise
+            
+1505
+
+    
+ covered.
+            
+1506
+
+    
+    Section  70A-1-207,  Performance or acceptance under reservation of rights.
+            
+1507
+
+    
+    Section  70A-1-208,  Option to accelerate at will.
+[Bill Documents][Bills Directory]
+
+
+
+
+
+
+
+
+
+Who represents me?
+
+
+
+
+
+Remember my Legislators
+
+
+
+
+
+State Senate
+		350 North State, Suite 320
+		PO Box 145115
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1035
+		Fax: (801) 326-1475
+
+
+
+House of Representatives
+		350 North State, Suite 350
+		PO Box 145030
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1029
+		Fax: (801) 326-1544
+
+
+
+
+
+
+
+
+
+
+Home
+Mobile Site
+Site Map
+Calendar
+Code / Constitution
+House
+Senate
+
+Terms of Use/Privacy Policy
+
+ADA
+Utah.gov
+
+
+
+
+
+
+

@@ -1,0 +1,545 @@
+Sponsors: []Modifications:     58-55-504.(1)  As used in this section:(a)  "Commercial construction projects" means construction, alteration, repair,demolition, or excavation projects that do not involve:(i)  single family detached housing;(ii)  multifamily attached housing up to and including a fourplex; or(iii)  commercial construction of not more than two stories above ground.(b) (i)  "Crane operator" means an individual engaged in operating a crane, which forpurposes of this section is a power-operated hoisting machine used in construction, demolition,or excavation work that has a power-operated winch, load-line, and boom moving laterally bythe rotation of the machine on a carrier.(ii)  It does not include operating a fork lift, digger derrick truck, aircraft, bucket truck,knuckle boom, or a vehicle or machine not using a power-operated winch and load-line.(2)  In order to operate a crane on commercial construction projects, an individual shallbe certified as a crane operator by the National Commission for the Certification of CraneOperators or any other organization determined by the division to offer an equivalent testingand certification program that meets the requirements of the American Society of MechanicalEngineers ASME B 30.5 and the accreditation requirements of the National Commission forCertifying Agencies.(3)  A person engaged in construction or operation incidental to petroleum refining isexempt from the crane operator certification requirement of Subsection (2).(4)  An individual who violates Subsection (2) is guilty of a class A misdemeanor.This bill takes effect on July 1, 2007.Full text:
+
+
+
+Utah State Legislature
+
+
+
+
+
+
+
+
+
+
+
+
+Legislators
+
+By Session (1896-Current)
+Alphabetical (Historical)
+Find by Address/Map
+More
+
+
+Bills
+
+Bills/Bill Requests
+Passed Bills
+2017 Bills
+
+Keyword Search
+Reading Calendars
+Tracking Service
+More
+
+
+Committees
+
+All Committees
+Appropriations
+Commissions
+
+Independent Legislative Ethics Commission
+Interim
+Standing
+Subcommittees
+Task Forces
+Bills In Committees
+
+
+Utah Code / Constitution
+
+
+Title/Chapter/Section
+Keyword Search 
+
+Utah Constitution
+Laws of Utah 1851-ongoing
+Utah Territorial Laws 
+More
+
+
+Senate
+
+Main Page 
+About The Senate 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Extraordinary Sessions 
+Reading Calendars 
+Past Floor Debates 
+Senate Journals 
+
+
+House
+
+Main Page
+About the House 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Reading Calendars 
+Past Floor Debates 
+Journals 
+Conflict of Interest Forms 
+
+
+Legislative Guide 
+
+Legislative Guide
+Civic Programs
+GRAMA (Records Requests)
+
+
+Publications
+
+Search Publications
+Appropriations
+Audits
+Bagels & Briefings
+Briefing Papers
+Digest of Legislation
+Legislative Drafting Manual
+
+Journals
+
+Interim Highlights
+
+Legislative Rules
+GRAMA (Records Requests)
+Public Email
+State Organization Charts
+YouTube Channel
+Requests for Proposals and Legal Notices
+More
+
+
+Legislative Histories
+
+Legislative History Resources
+How to Research
+Bill Drafting/Research Files (1990-Ongoing)
+
+Working Bills (1896-1989)
+Interim Committee Histories (1990-Ongoing) 
+Journals
+Past House Floor Debates
+Past Senate Floor Debates
+More
+
+
+Staff Offices
+
+All Legislative Offices
+Auditor General
+Fiscal Analyst
+Printing
+Research and General Counsel
+Staff Awards
+Job Opportunities
+More
+
+
+Links of Interest
+
+Utah Administrative Rules
+Courts
+Utah State Capitol
+State of Utah
+Federal Legislation
+More
+
+
+
+
+
+
+ 
+
+Download Zipped Enrolled WordPerfect SB0092.ZIP
+[Introduced][Status][Bill Documents][Fiscal Note][Bills Directory]
+
+
+S.B. 92 Enrolled
+
+
+
+
+
+            
+1
+
+    
+ CERTIFICATION OF CRANE OPERATORS
+
+
+
+            
+2
+
+    
+2006 GENERAL SESSION
+
+            
+3
+
+    
+STATE OF UTAH
+
+            
+4
+
+    
+
+
+ Chief Sponsor:  Gene  Davis
+
+
+
+            
+5
+
+    
+
+
+
+House Sponsor:  
+
+
+
+
+
+
+James A. Dunnigan
+
+
+
+
+
+            
+6
+
+    
+Cosponsors:
+            
+7
+
+    
+Gregory S. Bell
+            
+8
+
+    
+Mike DmitrichFred J. Fife
+Brent H. Goodfellow
+Peter C. KnudsonEd Mayne
+Scott D. McCoy
+            
+9
+
+    
+
+            
+10
+
+    
+ LONG TITLE
+            
+11
+
+    
+ General Description:
+            
+12
+
+    
+    This bill modifies the Construction Trades Licensing Chapter of the Occupations and
+            
+13
+
+    
+Professions Title by requiring the certification of crane operators.
+            
+14
+
+    
+ Highlighted Provisions:
+            
+15
+
+    
+    This bill:
+            
+16
+
+    
+    .    provides for definitions related to the certification of crane operators;
+            
+17
+
+    
+    .    provides for an exemption from certification;
+            
+18
+
+    
+    .    requires an individual to be certified as a crane operator in order to operate a crane
+            
+19
+
+    
+on commercial construction, demolition, or excavation projects; and
+            
+20
+
+    
+    .    provides a penalty for unlawful conduct in operating a crane.
+            
+21
+
+    
+ Monies Appropriated in this Bill:
+            
+22
+
+    
+    None
+            
+23
+
+    
+ Other Special Clauses:
+            
+24
+
+    
+    This bill takes effect on July 1, 2007.
+            
+25
+
+    
+ Utah Code Sections Affected:
+            
+26
+
+    
+ENACTS:
+            
+27
+
+    
+     58-55-504, Utah Code Annotated 1953
+            
+28
+
+    
+
+            
+29
+
+    
+Be it enacted by the Legislature of the state of Utah:
+
+            
+30
+
+
+    
+    Section 1.  
+Section  
+58-55-504
+
+ is enacted to read:
+            
+31
+
+    
+     58-55-504.  Crane operators -- Required certification -- Penalty for violation.
+            
+32
+
+    
+    (1)  As used in this section:
+            
+33
+
+    
+    (a)  "Commercial construction projects" means construction, alteration, repair,
+            
+34
+
+    
+demolition, or excavation projects that do not involve:
+            
+35
+
+    
+    (i)  single family detached housing;
+            
+36
+
+    
+    (ii)  multifamily attached housing up to and including a fourplex; or
+            
+37
+
+    
+    (iii)  commercial construction of not more than two stories above ground.
+            
+38
+
+    
+    (b) (i)  "Crane operator" means an individual engaged in operating a crane, which for
+            
+39
+
+    
+purposes of this section is a power-operated hoisting machine used in construction, demolition,
+            
+40
+
+    
+or excavation work that has a power-operated winch, load-line, and boom moving laterally by
+            
+41
+
+    
+the rotation of the machine on a carrier.
+            
+42
+
+    
+    (ii)  It does not include operating a fork lift, digger derrick truck, aircraft, bucket truck,
+            
+43
+
+    
+knuckle boom, or a vehicle or machine not using a power-operated winch and load-line.
+            
+44
+
+    
+    (2)  In order to operate a crane on commercial construction projects, an individual shall
+            
+45
+
+    
+be certified as a crane operator by the National Commission for the Certification of Crane
+            
+46
+
+    
+Operators or any other organization determined by the division to offer an equivalent testing
+            
+47
+
+    
+and certification program that meets the requirements of the American Society of Mechanical
+            
+48
+
+    
+Engineers ASME B 30.5 and the accreditation requirements of the National Commission for
+            
+49
+
+    
+Certifying Agencies.
+            
+50
+
+    
+    (3)  A person engaged in construction or operation incidental to petroleum refining is
+            
+51
+
+    
+exempt from the crane operator certification requirement of Subsection (2).
+            
+52
+
+    
+    (4)  An individual who violates Subsection (2) is guilty of a class A misdemeanor.
+            
+53
+
+    
+    Section 2.   Effective date.
+            
+54
+
+    
+    This bill takes effect on July 1, 2007.
+[Bill Documents][Bills Directory]
+
+
+
+
+
+
+
+
+
+Who represents me?
+
+
+
+
+
+Remember my Legislators
+
+
+
+
+
+State Senate
+		350 North State, Suite 320
+		PO Box 145115
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1035
+		Fax: (801) 326-1475
+
+
+
+House of Representatives
+		350 North State, Suite 350
+		PO Box 145030
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1029
+		Fax: (801) 326-1544
+
+
+
+
+
+
+
+
+
+
+Home
+Mobile Site
+Site Map
+Calendar
+Code / Constitution
+House
+Senate
+
+Terms of Use/Privacy Policy
+
+ADA
+Utah.gov
+
+
+
+
+
+
+

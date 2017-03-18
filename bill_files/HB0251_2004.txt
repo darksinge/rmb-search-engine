@@ -1,0 +1,1060 @@
+Sponsors: []Modifications: (a)(i)(ii)or(iii)(b)(6)  "Radio frequency identification tag" means a device that is able to transmitinformation through radio waves.(7)thepersonthe consumer'sthe consumer'sthe consumer; or(s)  sells any product that:(i)  contains a radio frequency identification tag; and(ii)  does not contain a label:(A)  stating that:(I)  the product contains a radio frequency identification tag; and(II)  the radio frequency identification tag can transmit information to a reader bothbefore and after the purchase;(B)  that is in a conspicuous type size and location; and(C)  that is in print that contrasts with the background against which it appears.Full text:
+
+
+
+Utah State Legislature
+
+
+
+
+
+
+
+
+
+
+
+
+Legislators
+
+By Session (1896-Current)
+Alphabetical (Historical)
+Find by Address/Map
+More
+
+
+Bills
+
+Bills/Bill Requests
+Passed Bills
+2017 Bills
+
+Keyword Search
+Reading Calendars
+Tracking Service
+More
+
+
+Committees
+
+All Committees
+Appropriations
+Commissions
+
+Independent Legislative Ethics Commission
+Interim
+Standing
+Subcommittees
+Task Forces
+Bills In Committees
+
+
+Utah Code / Constitution
+
+
+Title/Chapter/Section
+Keyword Search 
+
+Utah Constitution
+Laws of Utah 1851-ongoing
+Utah Territorial Laws 
+More
+
+
+Senate
+
+Main Page 
+About The Senate 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Extraordinary Sessions 
+Reading Calendars 
+Past Floor Debates 
+Senate Journals 
+
+
+House
+
+Main Page
+About the House 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Reading Calendars 
+Past Floor Debates 
+Journals 
+Conflict of Interest Forms 
+
+
+Legislative Guide 
+
+Legislative Guide
+Civic Programs
+GRAMA (Records Requests)
+
+
+Publications
+
+Search Publications
+Appropriations
+Audits
+Bagels & Briefings
+Briefing Papers
+Digest of Legislation
+Legislative Drafting Manual
+
+Journals
+
+Interim Highlights
+
+Legislative Rules
+GRAMA (Records Requests)
+Public Email
+State Organization Charts
+YouTube Channel
+Requests for Proposals and Legal Notices
+More
+
+
+Legislative Histories
+
+Legislative History Resources
+How to Research
+Bill Drafting/Research Files (1990-Ongoing)
+
+Working Bills (1896-1989)
+Interim Committee Histories (1990-Ongoing) 
+Journals
+Past House Floor Debates
+Past Senate Floor Debates
+More
+
+
+Staff Offices
+
+All Legislative Offices
+Auditor General
+Fiscal Analyst
+Printing
+Research and General Counsel
+Staff Awards
+Job Opportunities
+More
+
+
+Links of Interest
+
+Utah Administrative Rules
+Courts
+Utah State Capitol
+State of Utah
+Federal Legislation
+More
+
+
+
+
+
+
+ 
+
+Download Zipped Introduced WordPerfect HB0251.ZIP
+[Status][Bill Documents][Fiscal Note][Bills Directory]
+
+
+H.B. 251
+
+
+
+
+
+            
+1
+
+    
+ RADIO FREQUENCY IDENTIFICATION -
+
+            
+2
+
+    
+ RIGHT TO KNOW ACT
+
+
+
+            
+3
+
+    
+2004 GENERAL SESSION
+
+            
+4
+
+    
+STATE OF UTAH
+
+            
+5
+
+    
+
+
+ Sponsor: David L. Hogue
+
+
+
+            
+6
+
+    
+
+            
+7
+
+    
+ LONG TITLE
+            
+8
+
+    
+ General Description:
+            
+9
+
+    
+    This bill modifies the Utah Consumer Sales Practices Act to enact provisions related to
+            
+10
+
+    
+a radio frequency identification tag.
+            
+11
+
+    
+ Highlighted Provisions:
+            
+12
+
+    
+    This bill:
+            
+13
+
+    
+    .    requires a product containing a radio frequency identification tag to contain a label
+            
+14
+
+    
+describing the radio frequency identification tag; and
+            
+15
+
+    
+    .    makes technical changes.
+            
+16
+
+    
+ Monies Appropriated in this Bill:
+            
+17
+
+    
+    None
+            
+18
+
+    
+ Other Special Clauses:
+            
+19
+
+    
+    None
+            
+20
+
+    
+ Utah Code Sections Affected:
+            
+21
+
+    
+AMENDS:
+            
+22
+
+    
+     13-11-3, as last amended by Chapter 57, Laws of Utah 2000
+            
+23
+
+    
+     13-11-4, as last amended by Chapter 196, Laws of Utah 2001
+            
+24
+
+    
+
+            
+25
+
+    
+Be it enacted by the Legislature of the state of Utah:
+            
+26
+
+    
+    Section 1.  
+Section  
+13-11-3
+
+ is amended to read:
+            
+27
+
+    
+     13-11-3.  Definitions.
+
+            
+28
+
+
+    
+    As used in this chapter:
+            
+29
+
+    
+    (1) (a)  "Charitable solicitation" means any request directly or indirectly for money,
+            
+30
+
+    
+credit, property, financial assistance, or any other thing of value on the plea or representation
+            
+31
+
+    
+that it will be used for a charitable purpose.  A charitable solicitation may be made in any
+            
+32
+
+    
+manner, including:
+            
+33
+
+    
+    [(a)] (i)  any oral or written request, including a telephone request;
+            
+34
+
+    
+    [(b)] (ii)  the distribution, circulation, or posting of any handbill, written advertisement,
+            
+35
+
+    
+or publication; or
+            
+36
+
+    
+    [(c)] (iii)  the sale of, offer or attempt to sell, or request of donations for any book, card,
+            
+37
+
+    
+chance, coupon, device, magazine, membership, merchandise, subscription, ticket, flower, flag,
+            
+38
+
+    
+button, sticker, ribbon, token, trinket, tag, souvenir, candy, or any other article in connection
+            
+39
+
+    
+with which any appeal is made for any charitable purpose, or where the name of any charitable
+            
+40
+
+    
+organization or movement is used or referred to as an inducement or reason for making any
+            
+41
+
+    
+purchase donation, or where, in connection with any sale or donation, any statement is made
+            
+42
+
+    
+that the whole or any part of the proceeds of any sale or donation will go to or be donated to
+            
+43
+
+    
+any charitable purpose.
+            
+44
+
+    
+    (b)  A charitable solicitation is considered complete when made, whether or not the
+            
+45
+
+    
+organization or person making the solicitation receives any contribution or makes any sale.
+            
+46
+
+    
+    (2)  "Consumer transaction" means a sale, lease, assignment, award by chance, or other
+            
+47
+
+    
+written or oral transfer or disposition of goods, services, or other property, both tangible and
+            
+48
+
+    
+intangible (except securities and insurance), including the use or misuse of personal identifying
+            
+49
+
+    
+information of any person in relation to a consumer transaction to, or apparently to, a person
+            
+50
+
+    
+for primarily personal, family, or household purposes, or for purposes that relate to a business
+            
+51
+
+    
+opportunity that requires both his expenditure of money or property and his personal services
+            
+52
+
+    
+on a continuing basis and in which he has not been previously engaged, or a solicitation or
+            
+53
+
+    
+offer by a supplier with respect to any of these transfers or dispositions.  It includes any offer or
+            
+54
+
+    
+solicitation, any agreement, any performance of an agreement with respect to any of these
+            
+55
+
+    
+transfers or dispositions, and any charitable solicitation as defined in this section.
+            
+56
+
+    
+    (3)  "Enforcing authority" means the Division of Consumer Protection.
+            
+57
+
+    
+    (4)  "Final judgment" means a judgment, including any supporting opinion, that
+            
+58
+
+    
+determines the rights of the parties and concerning which appellate remedies have been
+
+            
+59
+
+
+    
+exhausted or the time for appeal has expired.
+            
+60
+
+    
+    (5)  "Person" means an individual, corporation, government, governmental subdivision
+            
+61
+
+    
+or agency, business trust, estate, trust, partnership, association, cooperative, or any other legal
+            
+62
+
+    
+entity.
+            
+63
+
+    
+    (6)  "Radio frequency identification tag" means a device that is able to transmit
+            
+64
+
+    
+information through radio waves.
+            
+65
+
+    
+    [(6)] (7)  "Supplier" means a seller, lessor, assignor, offeror, broker, or other person
+            
+66
+
+    
+who regularly solicits, engages in, or enforces consumer transactions, whether or not [he] the
+            
+67
+
+    
+person deals directly with the consumer.
+            
+68
+
+    
+    Section 2.  
+Section  
+13-11-4
+
+ is amended to read:
+            
+69
+
+    
+     13-11-4.  Deceptive act or practice by supplier.
+            
+70
+
+    
+    (1)  A deceptive act or practice by a supplier in connection with a consumer transaction
+            
+71
+
+    
+violates this chapter whether it occurs before, during, or after the transaction.
+            
+72
+
+    
+    (2)  Without limiting the scope of Subsection (1), a supplier commits a deceptive act or
+            
+73
+
+    
+practice if the supplier knowingly or intentionally:
+            
+74
+
+    
+    (a)  indicates that the subject of a consumer transaction has sponsorship, approval,
+            
+75
+
+    
+performance characteristics, accessories, uses, or benefits, if it has not;
+            
+76
+
+    
+    (b)  indicates that the subject of a consumer transaction is of a particular standard,
+            
+77
+
+    
+quality, grade, style, or model, if it is not;
+            
+78
+
+    
+    (c)  indicates that the subject of a consumer transaction is new, or unused, if it is not, or
+            
+79
+
+    
+has been used to an extent that is materially different from the fact;
+            
+80
+
+    
+    (d)  indicates that the subject of a consumer transaction is available to the consumer for
+            
+81
+
+    
+a reason that does not exist;
+            
+82
+
+    
+    (e)  indicates that the subject of a consumer transaction has been supplied in accordance
+            
+83
+
+    
+with a previous representation, if it has not;
+            
+84
+
+    
+    (f)  indicates that the subject of a consumer transaction will be supplied in greater
+            
+85
+
+    
+quantity than the supplier intends;
+            
+86
+
+    
+    (g)  indicates that replacement or repair is needed, if it is not;
+            
+87
+
+    
+    (h)  indicates that a specific price advantage exists, if it does not;
+            
+88
+
+    
+    (i)  indicates that the supplier has a sponsorship, approval, or affiliation the supplier
+            
+89
+
+    
+does not have;
+
+            
+90
+
+
+    
+    (j)  indicates that a consumer transaction involves or does not involve a warranty, a
+            
+91
+
+    
+disclaimer of warranties, particular warranty terms, or other rights, remedies, or obligations, if
+            
+92
+
+    
+the representation is false;
+            
+93
+
+    
+    (k)  indicates that the consumer will receive a rebate, discount, or other benefit as an
+            
+94
+
+    
+inducement for entering into a consumer transaction in return for giving the supplier the names
+            
+95
+
+    
+of prospective consumers or otherwise helping the supplier to enter into other consumer
+            
+96
+
+    
+transactions, if receipt of the benefit is contingent on an event occurring after the consumer
+            
+97
+
+    
+enters into the transaction;
+            
+98
+
+    
+    (l)  after receipt of payment for goods or services, fails to ship the goods or furnish the
+            
+99
+
+    
+services within the time advertised or otherwise represented or, if no specific time is advertised
+            
+100
+
+    
+or represented, fails to ship the goods or furnish the services within 30 days, unless within the
+            
+101
+
+    
+applicable time period the supplier provides the buyer with the option to either cancel the sales
+            
+102
+
+    
+agreement and receive a refund of all previous payments to the supplier or to extend the
+            
+103
+
+    
+shipping date to a specific date proposed by the supplier, but any refund shall be mailed or
+            
+104
+
+    
+delivered to the buyer within ten business days after the seller receives written notification
+            
+105
+
+    
+from the buyer of the buyer's right to cancel the sales agreement and receive the refund;
+            
+106
+
+    
+    (m)  fails to furnish a notice of the purchaser's right to cancel a direct solicitation sale
+            
+107
+
+    
+within three business days of the time of purchase if the sale is made other than at the supplier's
+            
+108
+
+    
+established place of business pursuant to the supplier's personal contact, whether through mail,
+            
+109
+
+    
+electronic mail, facsimile transmission, telephone, or any other form of direct solicitation and if
+            
+110
+
+    
+the sale price exceeds $25, unless the supplier's cancellation policy is communicated to the
+            
+111
+
+    
+buyer and the policy offers greater rights to the buyer than this Subsection (2)(m), which notice
+            
+112
+
+    
+shall be a conspicuous statement written in dark bold at least 12 point type, on the first page of
+            
+113
+
+    
+the purchase documentation, and shall read as follows: "YOU, THE BUYER, MAY CANCEL
+            
+114
+
+    
+THIS CONTRACT AT ANY TIME PRIOR TO MIDNIGHT OF THE THIRD BUSINESS
+            
+115
+
+    
+DAY (or time period reflecting the supplier's cancellation policy but not less than three
+            
+116
+
+    
+business days) AFTER THE DATE OF THE TRANSACTION OR RECEIPT OF THE
+            
+117
+
+    
+PRODUCT, WHICHEVER IS LATER.";
+            
+118
+
+    
+    (n)  promotes, offers, or grants participation in a pyramid scheme as defined under Title
+            
+119
+
+    
+76, Chapter 6a, Pyramid Scheme Act;
+            
+120
+
+    
+    (o)  represents that the funds or property conveyed in response to a charitable
+
+            
+121
+
+
+    
+solicitation will be donated or used for a particular purpose or will be donated to or used by a
+            
+122
+
+    
+particular organization, if the representation is false;
+            
+123
+
+    
+    (p)  if a consumer indicates [his] the consumer's intention of making a claim for a motor
+            
+124
+
+    
+vehicle repair against [his] the consumer's motor vehicle insurance policy:
+            
+125
+
+    
+    (i)  commences the repair without first giving the consumer oral and written notice of:
+            
+126
+
+    
+    (A)  the total estimated cost of the repair; and
+            
+127
+
+    
+    (B)  the total dollar amount the consumer is responsible to pay for the repair, which
+            
+128
+
+    
+dollar amount may not exceed the applicable deductible or other copay arrangement in the
+            
+129
+
+    
+consumer's insurance policy; or
+            
+130
+
+    
+    (ii)  requests or collects from a consumer an amount that exceeds the dollar amount a
+            
+131
+
+    
+consumer was initially told [he] the consumer was responsible to pay as an insurance
+            
+132
+
+    
+deductible or other copay arrangement for a motor vehicle repair under Subsection (2)(p)(i),
+            
+133
+
+    
+even if that amount is less than the full amount the motor vehicle insurance policy requires the
+            
+134
+
+    
+insured to pay as a deductible or other copay arrangement, unless:
+            
+135
+
+    
+    (A)  the consumer's insurance company denies that coverage exists for the repair, in
+            
+136
+
+    
+which case, the full amount of the repair may be charged and collected from the consumer; or
+            
+137
+
+    
+    (B)  the consumer misstates, before the repair is commenced, the amount of money the
+            
+138
+
+    
+insurance policy requires the consumer to pay as a deductible or other copay arrangement, in
+            
+139
+
+    
+which case, the supplier may charge and collect from the consumer an amount that does not
+            
+140
+
+    
+exceed the amount the insurance policy requires the consumer to pay as a deductible or other
+            
+141
+
+    
+copay arrangement;
+            
+142
+
+    
+    (q)  includes in any contract, receipt, or other written documentation of a consumer
+            
+143
+
+    
+transaction, or any addendum to any contract, receipt, or other written documentation of a
+            
+144
+
+    
+consumer transaction, any confession of judgment or any waiver of any of the rights to which a
+            
+145
+
+    
+consumer is entitled under this chapter; [or]
+            
+146
+
+    
+    (r)  charges a consumer for a consumer transaction that has not previously been agreed
+            
+147
+
+    
+to by the consumer[.]; or
+            
+148
+
+    
+    (s)  sells any product that:
+            
+149
+
+    
+    (i)  contains a radio frequency identification tag; and
+            
+150
+
+    
+    (ii)  does not contain a label:
+            
+151
+
+    
+    (A)  stating that:
+
+            
+152
+
+
+    
+    (I)  the product contains a radio frequency identification tag; and
+            
+153
+
+    
+    (II)  the radio frequency identification tag can transmit information to a reader both
+            
+154
+
+    
+before and after the purchase;
+            
+155
+
+    
+    (B)  that is in a conspicuous type size and location; and
+            
+156
+
+    
+    (C)  that is in print that contrasts with the background against which it appears.
+
+
+
+
+ Legislative Review Note
+    as of   1-26-04  3:01 PM
+
+A limited legal review of this legislation raises no obvious constitutional or statutory concerns.
+
+ Office of Legislative Research and General Counsel
+[Bill Documents][Bills Directory]
+
+
+
+
+
+
+
+
+
+Who represents me?
+
+
+
+
+
+Remember my Legislators
+
+
+
+
+
+State Senate
+		350 North State, Suite 320
+		PO Box 145115
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1035
+		Fax: (801) 326-1475
+
+
+
+House of Representatives
+		350 North State, Suite 350
+		PO Box 145030
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1029
+		Fax: (801) 326-1544
+
+
+
+
+
+
+
+
+
+
+Home
+Mobile Site
+Site Map
+Calendar
+Code / Constitution
+House
+Senate
+
+Terms of Use/Privacy Policy
+
+ADA
+Utah.gov
+
+
+
+
+
+
+

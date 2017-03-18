@@ -1,0 +1,871 @@
+Sponsors: []Modifications: , Individual Income Tax Act, Sales and UseTax ActPartnership(5) (a)  For purposes of this Subsection (5), "one-stop shop" means the consolidation ofaccess to diverse services and agencies at one location including virtual colocation.(b)  State agencies that provide services or offer direct assistance to the businesscommunity shall participate in the establishment, maintenance, and enhancement of anintegrated Utah business web portal known as Business.utah.gov.  The purpose of the businessweb portal is to provide "one-stop shop" assistance to businesses.(c)  State agencies shall partner with other governmental and nonprofit agencies whoseprimary mission is to provide services or offer direct assistance to the business community inUtah in fulfilling the requirements of this section.(d)  The following state agencies shall comply with the provisions of this Subsection(5):(i)  Department of Community and Economic Development, which shall serve as themanaging partner for the website;(ii)  Department of Workforce Services;(iii)  Department of Commerce;(iv)  Tax Commission;(v)  Department of Administrative Services - Division of General Services andProcurement, including other state agencies operating under a grant of authority from thedivision to procure goods and services in excess of $5,000;(vi)  Department of Agriculture;(vii)  Department of Natural Resources; and(viii)  other state agencies that provide services or offer direct assistance to the businesssector.(e)  The business services available on the business web portal may include:(i)  business life cycle information;(ii)  business searches;(iii)  employment needs and opportunities;(iv)  motor vehicle registration;(v)  permit applications and renewal;(vi)  tax information;(vii)  government procurement bid notifications;(viii)  general business information;(ix)  business directories; and(x)  business news.Full text:
+
+
+
+Utah State Legislature
+
+
+
+
+
+
+
+
+
+
+
+
+Legislators
+
+By Session (1896-Current)
+Alphabetical (Historical)
+Find by Address/Map
+More
+
+
+Bills
+
+Bills/Bill Requests
+Passed Bills
+2017 Bills
+
+Keyword Search
+Reading Calendars
+Tracking Service
+More
+
+
+Committees
+
+All Committees
+Appropriations
+Commissions
+
+Independent Legislative Ethics Commission
+Interim
+Standing
+Subcommittees
+Task Forces
+Bills In Committees
+
+
+Utah Code / Constitution
+
+
+Title/Chapter/Section
+Keyword Search 
+
+Utah Constitution
+Laws of Utah 1851-ongoing
+Utah Territorial Laws 
+More
+
+
+Senate
+
+Main Page 
+About The Senate 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Extraordinary Sessions 
+Reading Calendars 
+Past Floor Debates 
+Senate Journals 
+
+
+House
+
+Main Page
+About the House 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Reading Calendars 
+Past Floor Debates 
+Journals 
+Conflict of Interest Forms 
+
+
+Legislative Guide 
+
+Legislative Guide
+Civic Programs
+GRAMA (Records Requests)
+
+
+Publications
+
+Search Publications
+Appropriations
+Audits
+Bagels & Briefings
+Briefing Papers
+Digest of Legislation
+Legislative Drafting Manual
+
+Journals
+
+Interim Highlights
+
+Legislative Rules
+GRAMA (Records Requests)
+Public Email
+State Organization Charts
+YouTube Channel
+Requests for Proposals and Legal Notices
+More
+
+
+Legislative Histories
+
+Legislative History Resources
+How to Research
+Bill Drafting/Research Files (1990-Ongoing)
+
+Working Bills (1896-1989)
+Interim Committee Histories (1990-Ongoing) 
+Journals
+Past House Floor Debates
+Past Senate Floor Debates
+More
+
+
+Staff Offices
+
+All Legislative Offices
+Auditor General
+Fiscal Analyst
+Printing
+Research and General Counsel
+Staff Awards
+Job Opportunities
+More
+
+
+Links of Interest
+
+Utah Administrative Rules
+Courts
+Utah State Capitol
+State of Utah
+Federal Legislation
+More
+
+
+
+
+
+
+ 
+
+Download Zipped Introduced WordPerfect HB0256.ZIP
+[Status][Bill Documents][Fiscal Note][Bills Directory]
+
+
+H.B. 256
+
+
+
+
+
+            
+1
+
+    
+ EXPANSION OF ECONOMIC DEVELOPMENT
+
+            
+2
+
+    
+ WEBPAGE
+
+
+
+            
+3
+
+    
+2004 GENERAL SESSION
+
+            
+4
+
+    
+STATE OF UTAH
+
+            
+5
+
+    
+
+
+ Sponsor: Sheryl L. Allen
+
+
+
+            
+6
+
+    
+Jeff  Alexander
+            
+7
+
+    
+Roger E. Barrus
+            
+8
+
+    
+Chad E. Bennion
+            
+9
+
+    
+Ron  BigelowDeMar Bud Bowman
+Greg J. Curtis
+Ann W. Hardy
+Eric K. HutchingsMichael T. Morley
+Darin G. Peterson
+Jack A. Seitz
+Michael R. Styler
+            
+10
+
+    
+
+            
+11
+
+    
+ LONG TITLE
+            
+12
+
+    
+ General Description:
+            
+13
+
+    
+    This bill amends the Uniform Electronic Transactions Act regarding electronic records
+            
+14
+
+    
+in government agencies.
+            
+15
+
+    
+ Highlighted Provisions:
+            
+16
+
+    
+    This bill:
+            
+17
+
+    
+    .    requires state agencies that offer direct assistance to the business community to
+            
+18
+
+    
+participate in a one-stop state website;
+            
+19
+
+    
+    .    designates the state agencies that must participate; and
+            
+20
+
+    
+    .    describes some of the services that may be available on the website.
+            
+21
+
+    
+ Monies Appropriated in this Bill:
+            
+22
+
+    
+    None
+            
+23
+
+    
+ Other Special Clauses:
+            
+24
+
+    
+    None
+            
+25
+
+    
+ Utah Code Sections Affected:
+            
+26
+
+    
+AMENDS:
+            
+27
+
+    
+     46-4-503, as renumbered and amended by Chapters 20 and 209, Laws of Utah 2003
+            
+28
+
+    
+
+
+            
+29
+
+
+    
+Be it enacted by the Legislature of the state of Utah:
+            
+30
+
+    
+    Section 1.  
+Section  
+46-4-503
+
+ is amended to read:
+            
+31
+
+    
+     46-4-503.  Government products and services provided electronically.
+            
+32
+
+    
+    (1)  Notwithstanding Section 
+
+46-4-501
+
+, a state governmental agency that administers
+            
+33
+
+    
+one or more of the following transactions shall allow those transactions to be conducted
+            
+34
+
+    
+electronically:
+            
+35
+
+    
+    (a)  an application for or renewal of a professional or occupational license issued under
+            
+36
+
+    
+Title 58, Occupations and Professions;
+            
+37
+
+    
+    (b)  the renewal of a drivers license;
+            
+38
+
+    
+    (c)  an application for a hunting or fishing license;
+            
+39
+
+    
+    (d) the filing of:
+            
+40
+
+    
+    (i)  a return under Title 59, Chapter 10, Individual Income Tax Act or 12, Sales and Use
+            
+41
+
+    
+Tax Act;
+            
+42
+
+    
+    (ii)  a court document, as defined by the Judicial Council; or
+            
+43
+
+    
+    (iii)  a document under Title 70A, Uniform Commercial Code;
+            
+44
+
+    
+    (e) a registration for:
+            
+45
+
+    
+    (i) a product; or
+            
+46
+
+    
+    (ii)  a brand;
+            
+47
+
+    
+    (f)  a renewal of a registration of a motor vehicle;
+            
+48
+
+    
+    (g)  a registration under:
+            
+49
+
+    
+    (i)  Title 16, Corporations;
+            
+50
+
+    
+    (ii)  Title 42, Names; or
+            
+51
+
+    
+    (iii)  Title 48, [Partnerships] Partnership; or
+            
+52
+
+    
+    (h)  submission of an application for benefits:
+            
+53
+
+    
+    (i)  under Title 35A, Chapter 3, Employment Support Act;
+            
+54
+
+    
+    (ii)  under Title 35A, Chapter 4, Employment Security Act; or
+            
+55
+
+    
+    (iii)  related to accident and health insurance.
+            
+56
+
+    
+    (2)  The state system of public education, in coordination with the Utah Education
+            
+57
+
+    
+Network, shall make reasonable progress toward making the following services available
+            
+58
+
+    
+electronically:
+            
+59
+
+    
+    (a)  secure access by parents and students to student grades and progress reports;
+
+            
+60
+
+
+    
+    (b) e-mail communications with:
+            
+61
+
+    
+    (i)  teachers;
+            
+62
+
+    
+    (ii)  parent-teacher associations; and
+            
+63
+
+    
+    (iii)  school administrators;
+            
+64
+
+    
+    (c)  access to school calendars and schedules; and
+            
+65
+
+    
+    (d)  teaching resources that may include:
+            
+66
+
+    
+    (i)  teaching plans;
+            
+67
+
+    
+    (ii)  curriculum guides; and
+            
+68
+
+    
+    (iii)  media resources.
+            
+69
+
+    
+    (3) A state governmental agency shall:
+            
+70
+
+    
+    (a)  in carrying out the requirements of this section, take reasonable steps to ensure the
+            
+71
+
+    
+security and privacy of records that are private or controlled as defined by Title 63, Chapter 2,
+            
+72
+
+    
+Government Records Access and Management Act;
+            
+73
+
+    
+    (b)  in addition to those transactions listed in Subsections (1) and (2), determine any
+            
+74
+
+    
+additional services that may be made available to the public through electronic means; and
+            
+75
+
+    
+    (c)  as part of their agency information technology plans required by Section
+            
+76
+
+    
+
+63D-1a-303
+
+, report on the progress of compliance with Subsections (1) through (3).
+            
+77
+
+    
+    (4)  Notwithstanding the other provisions of this part, a state governmental agency is
+            
+78
+
+    
+not required by this part to conduct a transaction electronically if:
+            
+79
+
+    
+    (a) conducting the transaction electronically is not required by federal law; and
+            
+80
+
+    
+    (b) conducting the transaction electronically is:
+            
+81
+
+    
+    (i)  impractical;
+            
+82
+
+    
+    (ii)  unreasonable; or
+            
+83
+
+    
+    (iii)  not permitted by laws pertaining to privacy or security.
+            
+84
+
+    
+    (5) (a)  For purposes of this Subsection (5), "one-stop shop" means the consolidation of
+            
+85
+
+    
+access to diverse services and agencies at one location including virtual colocation.
+            
+86
+
+    
+    (b)  State agencies that provide services or offer direct assistance to the business
+            
+87
+
+    
+community shall participate in the establishment, maintenance, and enhancement of an
+            
+88
+
+    
+integrated Utah business web portal known as Business.utah.gov.  The purpose of the business
+            
+89
+
+    
+web portal is to provide "one-stop shop" assistance to businesses.
+            
+90
+
+    
+    (c)  State agencies shall partner with other governmental and nonprofit agencies whose
+
+            
+91
+
+
+    
+primary mission is to provide services or offer direct assistance to the business community in
+            
+92
+
+    
+Utah in fulfilling the requirements of this section.
+            
+93
+
+    
+    (d)  The following state agencies shall comply with the provisions of this Subsection
+            
+94
+
+    
+(5):
+            
+95
+
+    
+    (i)  Department of Community and Economic Development, which shall serve as the
+            
+96
+
+    
+managing partner for the website;
+            
+97
+
+    
+    (ii)  Department of Workforce Services;
+            
+98
+
+    
+    (iii)  Department of Commerce;
+            
+99
+
+    
+    (iv)  Tax Commission;
+            
+100
+
+    
+    (v)  Department of Administrative Services - Division of General Services and
+            
+101
+
+    
+Procurement, including other state agencies operating under a grant of authority from the
+            
+102
+
+    
+division to procure goods and services in excess of $5,000;
+            
+103
+
+    
+    (vi)  Department of Agriculture;
+            
+104
+
+    
+    (vii)  Department of Natural Resources; and
+            
+105
+
+    
+    (viii)  other state agencies that provide services or offer direct assistance to the business
+            
+106
+
+    
+sector.
+            
+107
+
+    
+    (e)  The business services available on the business web portal may include:
+            
+108
+
+    
+    (i)  business life cycle information;
+            
+109
+
+    
+    (ii)  business searches;
+            
+110
+
+    
+    (iii)  employment needs and opportunities;
+            
+111
+
+    
+    (iv)  motor vehicle registration;
+            
+112
+
+    
+    (v)  permit applications and renewal;
+            
+113
+
+    
+    (vi)  tax information;
+            
+114
+
+    
+    (vii)  government procurement bid notifications;
+            
+115
+
+    
+    (viii)  general business information;
+            
+116
+
+    
+    (ix)  business directories; and
+            
+117
+
+    
+    (x)  business news.
+
+
+
+
+
+ Legislative Review Note
+    as of   1-27-04  12:01 PM
+
+A limited legal review of this legislation raises no obvious constitutional or statutory concerns.
+
+ Office of Legislative Research and General Counsel
+[Bill Documents][Bills Directory]
+
+
+
+
+
+
+
+
+
+Who represents me?
+
+
+
+
+
+Remember my Legislators
+
+
+
+
+
+State Senate
+		350 North State, Suite 320
+		PO Box 145115
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1035
+		Fax: (801) 326-1475
+
+
+
+House of Representatives
+		350 North State, Suite 350
+		PO Box 145030
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1029
+		Fax: (801) 326-1544
+
+
+
+
+
+
+
+
+
+
+Home
+Mobile Site
+Site Map
+Calendar
+Code / Constitution
+House
+Senate
+
+Terms of Use/Privacy Policy
+
+ADA
+Utah.gov
+
+
+
+
+
+
+

@@ -1,0 +1,938 @@
+Sponsors: []Modifications: after(b)(c)(b)thisthis(d)(e)(b)provided(a)(v)Full text:
+
+
+
+Utah State Legislature
+
+
+
+
+
+
+
+
+
+
+
+
+Legislators
+
+By Session (1896-Current)
+Alphabetical (Historical)
+Find by Address/Map
+More
+
+
+Bills
+
+Bills/Bill Requests
+Passed Bills
+2017 Bills
+
+Keyword Search
+Reading Calendars
+Tracking Service
+More
+
+
+Committees
+
+All Committees
+Appropriations
+Commissions
+
+Independent Legislative Ethics Commission
+Interim
+Standing
+Subcommittees
+Task Forces
+Bills In Committees
+
+
+Utah Code / Constitution
+
+
+Title/Chapter/Section
+Keyword Search 
+
+Utah Constitution
+Laws of Utah 1851-ongoing
+Utah Territorial Laws 
+More
+
+
+Senate
+
+Main Page 
+About The Senate 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Extraordinary Sessions 
+Reading Calendars 
+Past Floor Debates 
+Senate Journals 
+
+
+House
+
+Main Page
+About the House 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Reading Calendars 
+Past Floor Debates 
+Journals 
+Conflict of Interest Forms 
+
+
+Legislative Guide 
+
+Legislative Guide
+Civic Programs
+GRAMA (Records Requests)
+
+
+Publications
+
+Search Publications
+Appropriations
+Audits
+Bagels & Briefings
+Briefing Papers
+Digest of Legislation
+Legislative Drafting Manual
+
+Journals
+
+Interim Highlights
+
+Legislative Rules
+GRAMA (Records Requests)
+Public Email
+State Organization Charts
+YouTube Channel
+Requests for Proposals and Legal Notices
+More
+
+
+Legislative Histories
+
+Legislative History Resources
+How to Research
+Bill Drafting/Research Files (1990-Ongoing)
+
+Working Bills (1896-1989)
+Interim Committee Histories (1990-Ongoing) 
+Journals
+Past House Floor Debates
+Past Senate Floor Debates
+More
+
+
+Staff Offices
+
+All Legislative Offices
+Auditor General
+Fiscal Analyst
+Printing
+Research and General Counsel
+Staff Awards
+Job Opportunities
+More
+
+
+Links of Interest
+
+Utah Administrative Rules
+Courts
+Utah State Capitol
+State of Utah
+Federal Legislation
+More
+
+
+
+
+
+
+ 
+
+Download Zipped Introduced WordPerfect HB0026.ZIP
+[Status][Bill Documents][Fiscal Note][Bills Directory]
+
+
+H.B. 26
+
+
+
+
+
+            
+1
+
+    
+ FILING LIENS
+
+
+            
+2
+
+    
+2006 GENERAL SESSION
+
+            
+3
+
+    
+STATE OF UTAH
+
+            
+4
+
+    
+ Chief Sponsor:  Stephen D. Clark
+
+            
+5
+
+    
+
+Senate Sponsor: 
+
+
+  Scott K. Jenkins
+
+
+
+            
+6
+
+    
+
+            
+7
+
+    
+ LONG TITLE
+            
+8
+
+    
+ General Description:
+            
+9
+
+    
+    This bill modifies a provision related to filing a lien.
+            
+10
+
+    
+ Highlighted Provisions:
+            
+11
+
+    
+    This bill:
+            
+12
+
+    
+    .    provides that mechanics' liens be filed within 90 days after the date of final
+            
+13
+
+    
+completion of the original contract; and
+            
+14
+
+    
+    .    makes technical changes.
+            
+15
+
+    
+ Monies Appropriated in this Bill:
+            
+16
+
+    
+    None
+            
+17
+
+    
+ Other Special Clauses:
+            
+18
+
+    
+    None
+            
+19
+
+    
+ Utah Code Sections Affected:
+            
+20
+
+    
+AMENDS:
+            
+21
+
+    
+     38-1-7, as last amended by Chapter 64, Laws of Utah 2005
+            
+22
+
+    
+     38-11-107, as last amended by Chapter 42, Laws of Utah 2004
+            
+23
+
+    
+
+            
+24
+
+    
+Be it enacted by the Legislature of the state of Utah:
+            
+25
+
+    
+    Section 1.  
+Section  
+38-1-7
+
+ is amended to read:
+            
+26
+
+    
+     38-1-7.  Notice of claim -- Contents -- Recording -- Service on owner of property.
+            
+27
+
+    
+    (1) (a)  Except as modified in Section 
+
+38-1-27
+
+, a person claiming benefits under this
+
+            
+28
+
+
+    
+chapter shall file for record with the county recorder of the county in which the property, or
+            
+29
+
+    
+some part of the property, is situated, a written notice to hold and claim a lien within 90 days
+            
+30
+
+    
+[from] after the date of final completion of the original contract under which the claimant
+            
+31
+
+    
+claims a lien under this chapter.
+            
+32
+
+    
+    (b)  For purposes of this Subsection (1), final completion of the original contract means:
+            
+33
+
+    
+    (i)  if as a result of work performed under the original contract a permanent certificate
+            
+34
+
+    
+of occupancy is required for such work, the date of issuance of a permanent certificate of
+            
+35
+
+    
+occupancy by the local government entity having jurisdiction over the construction project;
+            
+36
+
+    
+    (ii)  if no certificate of occupancy is required by the local government entity having
+            
+37
+
+    
+jurisdiction over the construction project, but as a result of the work performed under the
+            
+38
+
+    
+original contract an inspection is required for such work, the date of the final inspection for
+            
+39
+
+    
+such work by the local government entity having jurisdiction over the construction project; or
+            
+40
+
+    
+    (iii)  if with regard to work performed under the original contract no certificate of
+            
+41
+
+    
+occupancy and no final inspection are required by the local government entity having
+            
+42
+
+    
+jurisdiction over the construction project, the date on which there remains no substantial work
+            
+43
+
+    
+to be completed to finish such work on the original contract.
+            
+44
+
+    
+    [(b)] (c)  Notwithstanding Section 
+
+38-1-2
+
+, where a subcontractor performs substantial
+            
+45
+
+    
+work after the applicable dates established by Subsections (1)[(a)](b)(i) and (ii), that
+            
+46
+
+    
+subcontractor's subcontract shall be considered an original contract for the sole purpose of
+            
+47
+
+    
+determining:
+            
+48
+
+    
+    (i)  the subcontractor's time frame to file a notice of intent to hold and claim a lien
+            
+49
+
+    
+under this Subsection (1); and
+            
+50
+
+    
+    (ii)  the original contractor's time frame to file a notice of intent to hold and claim a lien
+            
+51
+
+    
+under this Subsection (1) for that subcontractor's work.
+            
+52
+
+    
+    [(c)] (d)  For purposes of this section, the term "substantial work" does not include:
+            
+53
+
+    
+    (i)  repair work; or
+            
+54
+
+    
+    (ii)  warranty work.
+            
+55
+
+    
+    [(d)] (e)  Notwithstanding Subsection (1)[(a)](b)(iii), final completion of the original
+            
+56
+
+    
+contract does not occur if work remains to be completed for which the owner is holding
+            
+57
+
+    
+payment to ensure completion of that work.
+            
+58
+
+    
+    (2) (a)  The notice required by Subsection (1) shall contain a statement setting forth:
+
+            
+59
+
+
+    
+    (i)  the name of the reputed owner if known or, if not known, the name of the record
+            
+60
+
+    
+owner;
+            
+61
+
+    
+    (ii)  the name of the person:
+            
+62
+
+    
+    (A)  by whom the lien claimant was employed; or
+            
+63
+
+    
+    (B)  to whom the lien claimant furnished the equipment or material;
+            
+64
+
+    
+    (iii)  the time when:
+            
+65
+
+    
+    (A)  the first and last labor or service was performed; or
+            
+66
+
+    
+    (B)  the first and last equipment or material was furnished;
+            
+67
+
+    
+    (iv)  a description of the property, sufficient for identification;
+            
+68
+
+    
+    (v)  the name, current address, and current phone number of the lien claimant;
+            
+69
+
+    
+    (vi)  the amount of the lien claim;
+            
+70
+
+    
+    (vii)  the signature of the lien claimant or the lien claimant's authorized agent;
+            
+71
+
+    
+    (viii)  an acknowledgment or certificate as required under Title 57, Chapter 3,
+            
+72
+
+    
+Recording of Documents; and
+            
+73
+
+    
+    (ix)  if the lien is on an owner-occupied residence, as defined in Section 
+
+38-11-102
+
+, a
+            
+74
+
+    
+statement describing what steps an owner, as defined in Section 
+
+38-11-102
+
+, may take to require
+            
+75
+
+    
+a lien claimant to remove the lien in accordance with Section 
+
+38-11-107
+
+.
+            
+76
+
+    
+    (b)  Substantial compliance with the requirements of this Subsection (2) is sufficient to
+            
+77
+
+    
+hold and claim a lien.
+            
+78
+
+    
+    (3) (a)  Within 30 days after filing the notice of lien, the lien claimant shall deliver or
+            
+79
+
+    
+mail by certified mail a copy of the notice of lien to:
+            
+80
+
+    
+    (i)  the reputed owner of the real property; or
+            
+81
+
+    
+    (ii)  the record owner of the real property.
+            
+82
+
+    
+    (b)  If the record owner's current address is not readily available to the lien claimant, the
+            
+83
+
+    
+copy of the claim may be mailed to the last-known address of the record owner, using the
+            
+84
+
+    
+names and addresses appearing on the last completed real property assessment rolls of the
+            
+85
+
+    
+county where the affected property is located.
+            
+86
+
+    
+    (c)  Failure to deliver or mail the notice of lien to the reputed owner or record owner
+            
+87
+
+    
+precludes the lien claimant from an award of costs and attorneys' fees against the reputed
+            
+88
+
+    
+owner or record owner in an action to enforce the lien.
+            
+89
+
+    
+    (4)  The Division of Occupational and Professional Licensing shall make rules
+
+            
+90
+
+
+    
+governing the form of the statement required under Subsection (2)(a)(ix).
+            
+91
+
+    
+    Section 2.  
+Section  
+38-11-107
+
+ is amended to read:
+            
+92
+
+    
+     38-11-107.  Restrictions upon maintaining a lien against residence or owner's
+            
+93
+
+    
+ interest in the residence.
+            
+94
+
+    
+    (1)  A person qualified to file a lien upon an owner-occupied residence and the real
+            
+95
+
+    
+property associated with that residence under the provisions of Title 38, Chapter 1, Mechanics'
+            
+96
+
+    
+Liens, who provides qualified services under an agreement effective on or after January 1,
+            
+97
+
+    
+1995, other than directly with the owner, shall be barred after January 1, 1995, from
+            
+98
+
+    
+maintaining a lien upon that residence and real property or recovering a judgment in any civil
+            
+99
+
+    
+action against the owner or the owner-occupied residence to recover monies owed for qualified
+            
+100
+
+    
+services provided by that person if:
+            
+101
+
+    
+    (a)  an owner meets the conditions described in Subsections 
+
+38-11-204
+
+(4)(a) and (4)(b);
+            
+102
+
+    
+or
+            
+103
+
+    
+    (b) (i)  a subsequent owner purchases a residence from an owner;
+            
+104
+
+    
+    (ii)  the subsequent owner who purchased the residence under Subsection (1)(b)(i)
+            
+105
+
+    
+occupies the residence as a primary or secondary residence within 180 days from the date of
+            
+106
+
+    
+transfer or the residence is occupied by the subsequent owner's tenant or lessee as a primary or
+            
+107
+
+    
+secondary residence within 180 days from the date of transfer; and
+            
+108
+
+    
+    (iii)  the owner from whom the subsequent owner purchased the residence met the
+            
+109
+
+    
+conditions described in Subsections 
+
+38-11-204
+
+(4)(a) and (4)(b).
+            
+110
+
+    
+    (2)  If a residence is constructed under conditions that do not meet all of the provisions
+            
+111
+
+    
+of Subsection (1), that residence and the real property associated with that residence as
+            
+112
+
+    
+[defined] provided in Section 
+
+38-1-4
+
+, shall be subject to any mechanics' lien as provided in
+            
+113
+
+    
+Section 
+
+38-1-3
+
+.
+            
+114
+
+    
+    (3)  A lien claimant who files a mechanics' lien or foreclosure action upon an
+            
+115
+
+    
+owner-occupied residence is not liable for costs and attorneys' fees under Sections 
+
+38-1-17
+
+ and
+            
+116
+
+    
+
+38-1-18
+
+ or for any damages arising from a civil action related to the lien filing or foreclosure
+            
+117
+
+    
+action if  the lien claimant removes the lien within 15 days from the date the owner obtains a
+            
+118
+
+    
+certificate of compliance and mails a copy of the certificate of compliance by certified mail to
+            
+119
+
+    
+the lien claimant at the address provided for by Subsection 
+
+38-1-7
+
+(2)[(e)](a)(v).  The 15-day
+            
+120
+
+    
+period begins accruing from the date postmarked on the certificate of compliance sent to the
+
+            
+121
+
+
+    
+lien claimant.
+
+
+
+
+ Legislative Review Note
+    as of  11-9-05  3:36 PM
+
+Based on a limited legal review, this legislation has not been determined to have a high
+probability of being held unconstitutional.
+
+ Office of Legislative Research and General Counsel
+
+
+ Interim Committee Note
+    as of 12-19-05 9:40 AM
+
+The Business and Labor Interim Committee recommended this bill.
+[Bill Documents][Bills Directory]
+
+
+
+
+
+
+
+
+
+Who represents me?
+
+
+
+
+
+Remember my Legislators
+
+
+
+
+
+State Senate
+		350 North State, Suite 320
+		PO Box 145115
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1035
+		Fax: (801) 326-1475
+
+
+
+House of Representatives
+		350 North State, Suite 350
+		PO Box 145030
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1029
+		Fax: (801) 326-1544
+
+
+
+
+
+
+
+
+
+
+Home
+Mobile Site
+Site Map
+Calendar
+Code / Constitution
+House
+Senate
+
+Terms of Use/Privacy Policy
+
+ADA
+Utah.gov
+
+
+
+
+
+
+

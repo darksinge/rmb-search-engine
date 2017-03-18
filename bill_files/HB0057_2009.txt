@@ -1,0 +1,617 @@
+Sponsors: []Modifications: :(a)that(i)atheemployee's(ii)  expects that the employee will not incur liability for athe employee's; or(b)  if:(i)  the employer expects the employee to perform services in the state for that employerfor less than 20 days in the employer's current taxable year;(ii)  the employee performed services in the state for that employer for less than 20 daysin the employer's previous taxable year;(iii)  the employer expects that the employee will receive wages derived from orconnected with Utah sources from that employer of less than $50,000 in the employer's currenttaxable year; and(iv)  the employee received wages derived from or connected with Utah sources fromthat employer of less than $50,000 in the employer's previous taxable year.(3)  The commission shall prescribe:(a)  the form for the exemption certificate described in Subsection (1)(a); and(b)  the information required to be reported on the exemption certificate described inSubsection (1)(a).(4)  In accordance with Title 63G, Chapter 3, Utah Administrative Rulemaking Act, thecommission:(a)  shall; and(b)  may provide procedures for determining whether an employee's wages are derivedfrom or connected with Utah sources.Full text:
+
+
+
+Utah State Legislature
+
+
+
+
+
+
+
+
+
+
+
+
+Legislators
+
+By Session (1896-Current)
+Alphabetical (Historical)
+Find by Address/Map
+More
+
+
+Bills
+
+Bills/Bill Requests
+Passed Bills
+2017 Bills
+
+Keyword Search
+Reading Calendars
+Tracking Service
+More
+
+
+Committees
+
+All Committees
+Appropriations
+Commissions
+
+Independent Legislative Ethics Commission
+Interim
+Standing
+Subcommittees
+Task Forces
+Bills In Committees
+
+
+Utah Code / Constitution
+
+
+Title/Chapter/Section
+Keyword Search 
+
+Utah Constitution
+Laws of Utah 1851-ongoing
+Utah Territorial Laws 
+More
+
+
+Senate
+
+Main Page 
+About The Senate 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Extraordinary Sessions 
+Reading Calendars 
+Past Floor Debates 
+Senate Journals 
+
+
+House
+
+Main Page
+About the House 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Reading Calendars 
+Past Floor Debates 
+Journals 
+Conflict of Interest Forms 
+
+
+Legislative Guide 
+
+Legislative Guide
+Civic Programs
+GRAMA (Records Requests)
+
+
+Publications
+
+Search Publications
+Appropriations
+Audits
+Bagels & Briefings
+Briefing Papers
+Digest of Legislation
+Legislative Drafting Manual
+
+Journals
+
+Interim Highlights
+
+Legislative Rules
+GRAMA (Records Requests)
+Public Email
+State Organization Charts
+YouTube Channel
+Requests for Proposals and Legal Notices
+More
+
+
+Legislative Histories
+
+Legislative History Resources
+How to Research
+Bill Drafting/Research Files (1990-Ongoing)
+
+Working Bills (1896-1989)
+Interim Committee Histories (1990-Ongoing) 
+Journals
+Past House Floor Debates
+Past Senate Floor Debates
+More
+
+
+Staff Offices
+
+All Legislative Offices
+Auditor General
+Fiscal Analyst
+Printing
+Research and General Counsel
+Staff Awards
+Job Opportunities
+More
+
+
+Links of Interest
+
+Utah Administrative Rules
+Courts
+Utah State Capitol
+State of Utah
+Federal Legislation
+More
+
+
+
+
+
+
+ 
+
+Download Zipped Introduced WordPerfect HB0057.ZIP
+[Status][Bill Documents][Fiscal Note][Bills Directory]
+
+
+H.B. 57
+
+
+
+
+
+            
+1
+
+    
+ EXEMPTIONS FROM REQUIREMENTS TO
+
+            
+2
+
+    
+ DEDUCT AND WITHHOLD AN INCOME TAX
+
+
+
+            
+3
+
+    
+2009 GENERAL SESSION
+
+            
+4
+
+    
+STATE OF UTAH
+
+            
+5
+
+    
+
+
+ Chief Sponsor:  Craig A. Frank
+
+
+
+            
+6
+
+    
+
+
+
+Senate Sponsor:  
+
+
+
+
+
+
+____________
+
+
+
+
+
+            
+7
+
+    
+
+            
+8
+
+    
+ LONG TITLE
+            
+9
+
+    
+ Committee Note:
+            
+10
+
+    
+    The Revenue and Taxation Interim Committee recommended this bill.
+            
+11
+
+    
+ General Description:
+            
+12
+
+    
+    This bill amends the Withholding of Tax part to address exemptions from the
+            
+13
+
+    
+requirements to deduct and withhold an income tax.
+            
+14
+
+    
+ Highlighted Provisions:
+            
+15
+
+    
+    This bill:
+            
+16
+
+    
+    .    provides an exemption from the requirement for an employer to deduct and
+            
+17
+
+    
+withhold an income tax if certain requirements are met relating to:
+            
+18
+
+    
+        .    the number of days an employee performed or is expected to perform services in
+            
+19
+
+    
+the state in certain taxable years; and
+            
+20
+
+    
+        .    the amount of wages an employee received or is expected to receive in certain
+            
+21
+
+    
+taxable years;
+            
+22
+
+    
+    .    grants rulemaking authority to the State Tax Commission; and
+            
+23
+
+    
+    .    makes technical changes.
+            
+24
+
+    
+ Monies Appropriated in this Bill:
+            
+25
+
+    
+    None
+            
+26
+
+    
+ Other Special Clauses:
+            
+27
+
+    
+    None
+
+            
+28
+
+
+    
+ Utah Code Sections Affected:
+            
+29
+
+    
+AMENDS:
+            
+30
+
+    
+     59-10-403, as renumbered and amended by Laws of Utah 1987, Chapter 2
+            
+31
+
+    
+
+            
+32
+
+    
+Be it enacted by the Legislature of the state of Utah:
+            
+33
+
+    
+    Section 1.  
+Section  
+59-10-403
+
+ is amended to read:
+            
+34
+
+    
+     59-10-403.  Exemptions from employer requirement to deduct and withhold a tax
+            
+35
+
+    
+ -- Rulemaking authority.
+            
+36
+
+    
+    (1)  Notwithstanding any other provision of this chapter, an employer is not required to
+            
+37
+
+    
+deduct and withhold any tax under this chapter upon a payment of wages to an employee:
+            
+38
+
+    
+    (a)  if there is in effect with respect to [such] that payment a withholding exemption
+            
+39
+
+    
+certificate [(in such form and containing such other information as the commission may
+            
+40
+
+    
+prescribe)] furnished to the employer by the employee, certifying that the employee:
+            
+41
+
+    
+    [(a)] (i)  incurred no liability for [income] a tax imposed under this chapter for [his] the
+            
+42
+
+    
+employee's immediately preceding taxable year; and
+            
+43
+
+    
+    [(b)  anticipates that he will incur no liability for income]
+            
+44
+
+    
+    (ii)  expects that the employee will not incur liability for a tax imposed under this
+            
+45
+
+    
+chapter for [his] the employee's current taxable year[.]; or
+            
+46
+
+    
+    (b)  if:
+            
+47
+
+    
+    (i)  the employer expects the employee to perform services in the state for that employer
+            
+48
+
+    
+for less than 20 days in the employer's current taxable year;
+            
+49
+
+    
+    (ii)  the employee performed services in the state for that employer for less than 20 days
+            
+50
+
+    
+in the employer's previous taxable year;
+            
+51
+
+    
+    (iii)  the employer expects that the employee will receive wages derived from or
+            
+52
+
+    
+connected with Utah sources from that employer of less than $50,000 in the employer's current
+            
+53
+
+    
+taxable year; and
+            
+54
+
+    
+    (iv)  the employee received wages derived from or connected with Utah sources from
+            
+55
+
+    
+that employer of less than $50,000 in the employer's previous taxable year.
+            
+56
+
+    
+    (3)  The commission shall prescribe:
+            
+57
+
+    
+    (a)  the form for the exemption certificate described in Subsection (1)(a); and
+            
+58
+
+    
+    (b)  the information required to be reported on the exemption certificate described in
+
+            
+59
+
+
+    
+Subsection (1)(a).
+            
+60
+
+    
+    [(2)  The commission shall by rule]
+            
+61
+
+    
+    (4)  In accordance with Title 63G, Chapter 3, Utah Administrative Rulemaking Act, the
+            
+62
+
+    
+commission:
+            
+63
+
+    
+    (a)  shall provide for the coordination of the provisions of this section with the
+            
+64
+
+    
+provisions of Section 
+
+59-10-402
+
+[.]; and
+            
+65
+
+    
+    (b)  may provide procedures for determining whether an employee's wages are derived
+            
+66
+
+    
+from or connected with Utah sources.
+
+
+
+
+ Legislative Review Note
+    as of  11-25-08  3:26 PM
+
+ Office of Legislative Research and General Counsel
+[Bill Documents][Bills Directory]
+
+
+
+
+
+
+
+
+
+Who represents me?
+
+
+
+
+
+Remember my Legislators
+
+
+
+
+
+State Senate
+		350 North State, Suite 320
+		PO Box 145115
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1035
+		Fax: (801) 326-1475
+
+
+
+House of Representatives
+		350 North State, Suite 350
+		PO Box 145030
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1029
+		Fax: (801) 326-1544
+
+
+
+
+
+
+
+
+
+
+Home
+Mobile Site
+Site Map
+Calendar
+Code / Constitution
+House
+Senate
+
+Terms of Use/Privacy Policy
+
+ADA
+Utah.gov
+
+
+
+
+
+
+

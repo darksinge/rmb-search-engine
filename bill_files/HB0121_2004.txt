@@ -1,0 +1,823 @@
+Sponsors: []Modifications:     77-2-4.2.(1)  As used in this section:(a)  "Compromise" means referral of a person charged with a traffic violation to trafficschool or other school, class, or remedial or rehabilitative program.(b)  "Traffic violation" means any charge, by citation or information, of a violation of:(i)  Title 41, Chapter 6, Traffic Rules and Regulations, amounting to:(A)  a class B misdemeanor;(B)  a class C misdemeanor; or(C)  an infraction; or(ii)  any local traffic ordinance.(2)  Any compromise of a traffic violation shall be done pursuant to a plea in abeyanceagreement as provided in Title 77, Chapter 2a, Pleas in Abeyance, except:(a)  when the criminal prosecution is dismissed pursuant to Section 
+
+77-2-4
+
+; or(b)  when there is a plea by the defendant to and entry of a judgment by a court for theoffense originally charged or for an amended charge.(3)  In all cases which are compromised pursuant to the provisions of Subsection (2):(a)  the court, taking into consideration the offense charged, shall collect a plea inabeyance fee which shall:(i)  be subject to the same surcharge as if imposed on a criminal fine; and(ii)  be allocated subject to the surcharge as if paid as a criminal fine under Section
+
+78-3-14.5
+
+ and a surcharge under Title 63, Chapter 63a, Crime Victim Reparation Trust, PublicSafety Support Funds, Substance Abuse Prevention Account, and Services for Victims ofDomestic Violence Account; or(b)  if no plea in abeyance fee is collected, the prosecuting authority shall assess andcollect a surcharge on the fee charged for the traffic school or other school, class, orrehabilitative program, which surcharge shall:(i)  be computed, assessed, collected, and remitted in the same manner as if the trafficschool fee and surcharge had been imposed as a criminal fine and surcharge; and(ii)  be subject to the financial requirements contained in Title 63, Chapter 63a, CrimeVictim Reparation Trust, Public Safety Support Funds, Substance Abuse Prevention Account,and Services for Victims of Domestic Violence Account.(a)(b)  In cases charging offenses for which bail may be forfeited, a plea in abeyanceagreement may be entered into without a personal appearance before a magistrate.mayortermsmay includeanthatwith asurcharge, both offor a criminal conviction under Section 
+
+78-3-14.5
+
+ and a surcharge under Title 63, Chapter 63a,Crime Victim Reparation Trust, Public Safety Support Funds, Substance Abuse PreventionAccount, and Services for Victims of Domestic Violence Account,which mayand surcharge(b)  anthat(c)  anthatremedial or(d)  anthatFull text:
+
+
+
+Utah State Legislature
+
+
+
+
+
+
+
+
+
+
+
+
+Legislators
+
+By Session (1896-Current)
+Alphabetical (Historical)
+Find by Address/Map
+More
+
+
+Bills
+
+Bills/Bill Requests
+Passed Bills
+2017 Bills
+
+Keyword Search
+Reading Calendars
+Tracking Service
+More
+
+
+Committees
+
+All Committees
+Appropriations
+Commissions
+
+Independent Legislative Ethics Commission
+Interim
+Standing
+Subcommittees
+Task Forces
+Bills In Committees
+
+
+Utah Code / Constitution
+
+
+Title/Chapter/Section
+Keyword Search 
+
+Utah Constitution
+Laws of Utah 1851-ongoing
+Utah Territorial Laws 
+More
+
+
+Senate
+
+Main Page 
+About The Senate 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Extraordinary Sessions 
+Reading Calendars 
+Past Floor Debates 
+Senate Journals 
+
+
+House
+
+Main Page
+About the House 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Reading Calendars 
+Past Floor Debates 
+Journals 
+Conflict of Interest Forms 
+
+
+Legislative Guide 
+
+Legislative Guide
+Civic Programs
+GRAMA (Records Requests)
+
+
+Publications
+
+Search Publications
+Appropriations
+Audits
+Bagels & Briefings
+Briefing Papers
+Digest of Legislation
+Legislative Drafting Manual
+
+Journals
+
+Interim Highlights
+
+Legislative Rules
+GRAMA (Records Requests)
+Public Email
+State Organization Charts
+YouTube Channel
+Requests for Proposals and Legal Notices
+More
+
+
+Legislative Histories
+
+Legislative History Resources
+How to Research
+Bill Drafting/Research Files (1990-Ongoing)
+
+Working Bills (1896-1989)
+Interim Committee Histories (1990-Ongoing) 
+Journals
+Past House Floor Debates
+Past Senate Floor Debates
+More
+
+
+Staff Offices
+
+All Legislative Offices
+Auditor General
+Fiscal Analyst
+Printing
+Research and General Counsel
+Staff Awards
+Job Opportunities
+More
+
+
+Links of Interest
+
+Utah Administrative Rules
+Courts
+Utah State Capitol
+State of Utah
+Federal Legislation
+More
+
+
+
+
+
+
+ 
+
+Download Zipped Introduced WordPerfect HB0121.ZIP
+[Status][Bill Documents][Fiscal Note][Bills Directory]
+
+
+H.B. 121
+
+
+
+
+
+            
+1
+
+    
+ CODE OF CRIMINAL PROCEDURE
+
+            
+2
+
+    
+ AMENDMENTS
+
+
+
+            
+3
+
+    
+2004 GENERAL SESSION
+
+            
+4
+
+    
+STATE OF UTAH
+
+            
+5
+
+    
+
+
+ Sponsor: Jack A. Seitz
+
+
+
+            
+6
+
+    
+
+            
+7
+
+    
+ LONG TITLE
+            
+8
+
+    
+ General Description:
+            
+9
+
+    
+    This bill amends the Code of Criminal Procedure regarding the conditions under which
+            
+10
+
+    
+misdemeanor and infraction traffic violations may be compromised by amending
+            
+11
+
+    
+procedures for pleas in abeyance. This bill also makes technical changes.
+            
+12
+
+    
+ Highlighted Provisions:
+            
+13
+
+    
+    This bill:
+            
+14
+
+    
+    .    clarifies the conditions under which misdemeanor and infraction traffic violations
+            
+15
+
+    
+may be compromised;
+            
+16
+
+    
+    .    allows the same surcharges to be imposed on fees paid as part of plea in abeyance
+            
+17
+
+    
+agreements as are imposed on a fine for a criminal conviction; and
+            
+18
+
+    
+    .    makes technical changes.
+            
+19
+
+    
+ Monies Appropriated in this Bill:
+            
+20
+
+    
+    None
+            
+21
+
+    
+ Other Special Clauses:
+            
+22
+
+    
+    None
+            
+23
+
+    
+ Utah Code Sections Affected:
+            
+24
+
+    
+AMENDS:
+            
+25
+
+    
+     77-2a-3, as last amended by Chapter 35, Laws of Utah 2002
+            
+26
+
+    
+ENACTS:
+            
+27
+
+    
+     77-2-4.2, Utah Code Annotated 1953
+
+            
+28
+
+
+    
+
+            
+29
+
+    
+Be it enacted by the Legislature of the state of Utah:
+            
+30
+
+    
+    Section 1.  
+Section  
+77-2-4.2
+
+ is enacted to read:
+            
+31
+
+    
+     77-2-4.2.  Compromise of traffic charges -- Limitations.
+            
+32
+
+    
+    (1)  As used in this section:
+            
+33
+
+    
+    (a)  "Compromise" means referral of a person charged with a traffic violation to traffic
+            
+34
+
+    
+school or other school, class, or remedial or rehabilitative program.
+            
+35
+
+    
+    (b)  "Traffic violation" means any charge, by citation or information, of a violation of:
+            
+36
+
+    
+    (i)  Title 41, Chapter 6, Traffic Rules and Regulations, amounting to:
+            
+37
+
+    
+    (A)  a class B misdemeanor;
+            
+38
+
+    
+    (B)  a class C misdemeanor; or
+            
+39
+
+    
+    (C)  an infraction; or
+            
+40
+
+    
+    (ii)  any local traffic ordinance.
+            
+41
+
+    
+    (2)  Any compromise of a traffic violation shall be done pursuant to a plea in abeyance
+            
+42
+
+    
+agreement as provided in Title 77, Chapter 2a, Pleas in Abeyance, except:
+            
+43
+
+    
+    (a)  when the criminal prosecution is dismissed pursuant to Section 
+
+77-2-4
+
+; or
+            
+44
+
+    
+    (b)  when there is a plea by the defendant to and entry of a judgment by a court for the
+            
+45
+
+    
+offense originally charged or for an amended charge.
+            
+46
+
+    
+    (3)  In all cases which are compromised pursuant to the provisions of Subsection (2):
+            
+47
+
+    
+    (a)  the court, taking into consideration the offense charged, shall collect a plea in
+            
+48
+
+    
+abeyance fee which shall:
+            
+49
+
+    
+    (i)  be subject to the same surcharge as if imposed on a criminal fine; and
+            
+50
+
+    
+    (ii)  be allocated subject to the surcharge as if paid as a criminal fine under Section
+            
+51
+
+    
+
+
+78-3-14.5
+
+ and a surcharge under Title 63, Chapter 63a, Crime Victim Reparation Trust, Public
+            
+52
+
+    
+Safety Support Funds, Substance Abuse Prevention Account, and Services for Victims of
+            
+53
+
+    
+Domestic Violence Account; or
+            
+54
+
+    
+    (b)  if no plea in abeyance fee is collected, the prosecuting authority shall assess and
+            
+55
+
+    
+collect a surcharge on the fee charged for the traffic school or other school, class, or
+            
+56
+
+    
+rehabilitative program, which surcharge shall:
+            
+57
+
+    
+    (i)  be computed, assessed, collected, and remitted in the same manner as if the traffic
+            
+58
+
+    
+school fee and surcharge had been imposed as a criminal fine and surcharge; and
+
+            
+59
+
+
+    
+    (ii)  be subject to the financial requirements contained in Title 63, Chapter 63a, Crime
+            
+60
+
+    
+Victim Reparation Trust, Public Safety Support Funds, Substance Abuse Prevention Account,
+            
+61
+
+    
+and Services for Victims of Domestic Violence Account.
+            
+62
+
+    
+    Section 2.  
+Section  
+77-2a-3
+
+ is amended to read:
+            
+63
+
+    
+     77-2a-3.  Manner of entry of plea -- Powers of court.
+            
+64
+
+    
+    (1) (a)  Acceptance of any plea in anticipation of a plea in abeyance agreement shall be
+            
+65
+
+    
+done in full compliance with the provisions of Rule 11, Utah Rules of Criminal Procedure.
+            
+66
+
+    
+    (b)  In cases charging offenses for which bail may be forfeited, a plea in abeyance
+            
+67
+
+    
+agreement may be entered into without a personal appearance before a magistrate.
+            
+68
+
+    
+    (2)  A plea in abeyance agreement may provide that the court may, upon finding that the
+            
+69
+
+    
+defendant has successfully completed the terms of the agreement:
+            
+70
+
+    
+    (a)  reduce the degree of the offense and enter judgment of conviction and impose
+            
+71
+
+    
+sentence for a lower degree of offense; or
+            
+72
+
+    
+    (b)  allow withdrawal of defendant's plea and order the dismissal of the case.
+            
+73
+
+    
+    (3)  Upon finding that a defendant has successfully completed the terms of a plea in
+            
+74
+
+    
+abeyance agreement, the court [shall] may reduce the degree of the offense[,] or dismiss the
+            
+75
+
+    
+case only as provided in the plea in abeyance agreement or as agreed to by all parties.  Upon
+            
+76
+
+    
+sentencing a defendant for any lesser offense pursuant to a plea in abeyance agreement, the
+            
+77
+
+    
+court may not invoke Section 
+
+76-3-402
+
+ to further reduce the degree of the offense.
+            
+78
+
+    
+    (4)  The court may require the Department of Corrections to assist in the administration
+            
+79
+
+    
+of the plea in abeyance agreement as if the defendant were on probation to the court under
+            
+80
+
+    
+Section 
+
+77-18-1
+
+.
+            
+81
+
+    
+    (5)  The [court may upon acceptance] terms of a plea in abeyance agreement [and
+            
+82
+
+    
+pursuant to the terms of the agreement] may include:
+            
+83
+
+    
+    (a)  an order that the defendant [to] pay a nonrefundable plea in abeyance fee, with a
+            
+84
+
+    
+surcharge, both of which shall be allocated in the same manner as if [it had been] paid as a fine
+            
+85
+
+    
+for a criminal conviction under Section 
+
+78-3-14.5
+
+ and a surcharge under Title 63, Chapter 63a,
+            
+86
+
+    
+Crime Victim Reparation Trust, Public Safety Support Funds, Substance Abuse Prevention
+            
+87
+
+    
+Account, and Services for Victims of Domestic Violence Account, and [shall] which may not
+            
+88
+
+    
+exceed in amount the maximum fine and surcharge which could have been imposed upon
+            
+89
+
+    
+conviction and sentencing for the same offense;
+
+            
+90
+
+
+    
+    [(b)  order the defendant to pay all or a portion of the costs of administration of the
+            
+91
+
+    
+agreement;]
+            
+92
+
+    
+    [(c)] (b)  an order that the defendant [to] pay restitution to the victims of his actions as
+            
+93
+
+    
+provided in Title 77, Chapter 38a, Crime Victims Restitution Act;
+            
+94
+
+    
+    [(d)] (c)  an order that the defendant [to] pay the costs of any remedial or rehabilitative
+            
+95
+
+    
+program required by the terms of the agreement; and
+            
+96
+
+    
+    [(e)] (d)  an order that the defendant [to] comply with any other conditions which could
+            
+97
+
+    
+have been imposed as conditions of probation upon conviction and sentencing for the same
+            
+98
+
+    
+offense.
+            
+99
+
+    
+    (6)  A court may not hold a plea in abeyance without the consent of both the
+            
+100
+
+    
+prosecuting attorney and the defendant.  A decision by a prosecuting attorney not to agree to a
+            
+101
+
+    
+plea in abeyance is not subject to judicial review.
+            
+102
+
+    
+    (7)  No plea may be held in abeyance in any case involving a sexual offense against a
+            
+103
+
+    
+victim who is under the age of 14.
+
+
+
+
+ Legislative Review Note
+    as of   1-14-04  3:12 PM
+
+A limited legal review of this legislation raises no obvious constitutional or statutory concerns.
+
+ Office of Legislative Research and General Counsel
+[Bill Documents][Bills Directory]
+
+
+
+
+
+
+
+
+
+Who represents me?
+
+
+
+
+
+Remember my Legislators
+
+
+
+
+
+State Senate
+		350 North State, Suite 320
+		PO Box 145115
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1035
+		Fax: (801) 326-1475
+
+
+
+House of Representatives
+		350 North State, Suite 350
+		PO Box 145030
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1029
+		Fax: (801) 326-1544
+
+
+
+
+
+
+
+
+
+
+Home
+Mobile Site
+Site Map
+Calendar
+Code / Constitution
+House
+Senate
+
+Terms of Use/Privacy Policy
+
+ADA
+Utah.gov
+
+
+
+
+
+
+

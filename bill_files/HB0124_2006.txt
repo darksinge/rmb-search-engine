@@ -1,0 +1,677 @@
+Sponsors: []Modifications: (1)  "Domestic violence" means the same as in Section 
+
+77-36-1
+
+.(2)(3)    30-3-10.10.(1)  In any proceeding regarding a parenting plan, the court shall consider evidence ofdomestic violence, if presented.(2)  If a protective order issued in accordance with Title 30, Chapter 6, CohabitantAbuse Act, or civil stalking injunction issued in accordance with Title 77, Chapter 3a, StalkingInjunctions, is currently in force against a parent, the court shall consider whether it is in thebest interests of any children to allow parent-time with the parent who is the subject of theorder or injunction.(3)  If there is no protective order or civil stalking injunction currently in place, thecourt may consider evidence that a parent has committed domestic violence.  If the court findsthat domestic violence has been committed, it shall consider whether it is in the best interestsof any children to allow parent-time with the parent the court has found to have committeddomestic violence.(4)  If there is a protective order, civil stalking injunction, or the court finds that aparent has committed domestic violence, the court may not order parent-time unless the parentfound to have committed domestic violence submits proof of completion of an appropriatetreatment program.(5)  If the court orders parent-time and a protective order or civil stalking injunction isstill in place, it shall order that a third party be responsible for pick-up, transfer, and delivery ofany children between the parents.  The parent who is the stated victim in the order or injunctionmay submit to the court, and the court shall consider, the name of a person considered suitableto act as the third party.(6)  The parenting plan, in the case of domestic violence, shall specify the time, day,place, manner, and the third party to be used to implement the exchange.(7)  If the terms and conditions of the order need to be changed, either party may seek apreliminary determination by the court for a temporary change subject to the issuance of anamended order.Full text:
+
+
+
+Utah State Legislature
+
+
+
+
+
+
+
+
+
+
+
+
+Legislators
+
+By Session (1896-Current)
+Alphabetical (Historical)
+Find by Address/Map
+More
+
+
+Bills
+
+Bills/Bill Requests
+Passed Bills
+2017 Bills
+
+Keyword Search
+Reading Calendars
+Tracking Service
+More
+
+
+Committees
+
+All Committees
+Appropriations
+Commissions
+
+Independent Legislative Ethics Commission
+Interim
+Standing
+Subcommittees
+Task Forces
+Bills In Committees
+
+
+Utah Code / Constitution
+
+
+Title/Chapter/Section
+Keyword Search 
+
+Utah Constitution
+Laws of Utah 1851-ongoing
+Utah Territorial Laws 
+More
+
+
+Senate
+
+Main Page 
+About The Senate 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Extraordinary Sessions 
+Reading Calendars 
+Past Floor Debates 
+Senate Journals 
+
+
+House
+
+Main Page
+About the House 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Reading Calendars 
+Past Floor Debates 
+Journals 
+Conflict of Interest Forms 
+
+
+Legislative Guide 
+
+Legislative Guide
+Civic Programs
+GRAMA (Records Requests)
+
+
+Publications
+
+Search Publications
+Appropriations
+Audits
+Bagels & Briefings
+Briefing Papers
+Digest of Legislation
+Legislative Drafting Manual
+
+Journals
+
+Interim Highlights
+
+Legislative Rules
+GRAMA (Records Requests)
+Public Email
+State Organization Charts
+YouTube Channel
+Requests for Proposals and Legal Notices
+More
+
+
+Legislative Histories
+
+Legislative History Resources
+How to Research
+Bill Drafting/Research Files (1990-Ongoing)
+
+Working Bills (1896-1989)
+Interim Committee Histories (1990-Ongoing) 
+Journals
+Past House Floor Debates
+Past Senate Floor Debates
+More
+
+
+Staff Offices
+
+All Legislative Offices
+Auditor General
+Fiscal Analyst
+Printing
+Research and General Counsel
+Staff Awards
+Job Opportunities
+More
+
+
+Links of Interest
+
+Utah Administrative Rules
+Courts
+Utah State Capitol
+State of Utah
+Federal Legislation
+More
+
+
+
+
+
+
+ 
+
+Download Zipped Introduced WordPerfect HB0124.ZIP
+[Status][Bill Documents][Fiscal Note][Bills Directory]
+
+
+H.B. 124
+
+
+
+
+
+            
+1
+
+    
+ PARENT-TIME AMENDMENTS
+
+
+
+            
+2
+
+    
+2006 GENERAL SESSION
+
+            
+3
+
+    
+STATE OF UTAH
+
+            
+4
+
+    
+
+
+ Chief Sponsor:  Brad L. Dee
+
+
+
+            
+5
+
+    
+
+
+
+Senate Sponsor:  
+
+
+
+
+
+
+____________
+
+
+
+
+
+            
+6
+
+    
+
+            
+7
+
+    
+ LONG TITLE
+            
+8
+
+    
+ General Description:
+            
+9
+
+    
+    This bill provides requirements for parenting plans when domestic violence is involved.
+            
+10
+
+    
+ Highlighted Provisions:
+            
+11
+
+    
+    This bill:
+            
+12
+
+    
+    .    requires that a court not allow parent-time unless the parent who is the perpetrator
+            
+13
+
+    
+of domestic violence completes an appropriate treatment plan;
+            
+14
+
+    
+    .    requires that if a protective order or civil stalking injunction is in place, a third party
+            
+15
+
+    
+must be utilized to conduct parent-time; and
+            
+16
+
+    
+    .    allows for changes to the parenting plan as needed.
+            
+17
+
+    
+ Monies Appropriated in this Bill:
+            
+18
+
+    
+    None
+            
+19
+
+    
+ Other Special Clauses:
+            
+20
+
+    
+    None
+            
+21
+
+    
+ Utah Code Sections Affected:
+            
+22
+
+    
+AMENDS:
+            
+23
+
+    
+     30-3-10.7, as last amended by Chapter 142, Laws of Utah 2005
+            
+24
+
+    
+ENACTS:
+            
+25
+
+    
+     30-3-10.10, Utah Code Annotated 1953
+            
+26
+
+    
+
+            
+27
+
+    
+Be it enacted by the Legislature of the state of Utah:
+
+            
+28
+
+
+    
+    Section 1.  
+Section  
+30-3-10.7
+
+ is amended to read:
+            
+29
+
+    
+     30-3-10.7.  Parenting plan -- Definitions.
+            
+30
+
+    
+    (1)  "Domestic violence" means the same as in Section 
+
+77-36-1
+
+.
+            
+31
+
+    
+    [(1)] (2)  "Parenting plan" means a plan for parenting a child, including allocation of
+            
+32
+
+    
+parenting functions, which is incorporated in any final decree or decree of modification
+            
+33
+
+    
+including an action for dissolution of marriage, annulment, legal separation, or paternity.
+            
+34
+
+    
+    [(2)] (3)  "Parenting functions" means those aspects of the parent-child relationship in
+            
+35
+
+    
+which the parent makes decisions and performs functions necessary for the care and growth of
+            
+36
+
+    
+the child.  Parenting functions include:
+            
+37
+
+    
+    (a)  maintaining a loving, stable, consistent, and nurturing relationship with the child;
+            
+38
+
+    
+    (b)  attending to the daily needs of the child, such as feeding, clothing, physical care,
+            
+39
+
+    
+grooming, supervision, health care, day care, and engaging in other activities which are
+            
+40
+
+    
+appropriate to the developmental level of the child and that are within the social and economic
+            
+41
+
+    
+circumstances of the particular family;
+            
+42
+
+    
+    (c)  attending to adequate education for the child, including remedial or other education
+            
+43
+
+    
+essential to the best interest of the child;
+            
+44
+
+    
+    (d)  assisting the child in developing and maintaining appropriate interpersonal
+            
+45
+
+    
+relationships;
+            
+46
+
+    
+    (e)  exercising appropriate judgment regarding the child's welfare, consistent with the
+            
+47
+
+    
+child's developmental level and family social and economic circumstances; and
+            
+48
+
+    
+    (f)  providing for the financial support of the child.
+            
+49
+
+    
+    Section 2.  
+Section  
+30-3-10.10
+
+ is enacted to read:
+            
+50
+
+    
+     30-3-10.10.  Parenting plan -- Domestic violence.
+            
+51
+
+    
+    (1)  In any proceeding regarding a parenting plan, the court shall consider evidence of
+            
+52
+
+    
+domestic violence, if presented.
+            
+53
+
+    
+    (2)  If a protective order issued in accordance with Title 30, Chapter 6, Cohabitant
+            
+54
+
+    
+Abuse Act, or civil stalking injunction issued in accordance with Title 77, Chapter 3a, Stalking
+            
+55
+
+    
+Injunctions, is currently in force against a parent, the court shall consider whether it is in the
+            
+56
+
+    
+best interests of any children to allow parent-time with the parent who is the subject of the
+            
+57
+
+    
+order or injunction.
+            
+58
+
+    
+    (3)  If there is no protective order or civil stalking injunction currently in place, the
+
+            
+59
+
+
+    
+court may consider evidence that a parent has committed domestic violence.  If the court finds
+            
+60
+
+    
+that domestic violence has been committed, it shall consider whether it is in the best interests
+            
+61
+
+    
+of any children to allow parent-time with the parent the court has found to have committed
+            
+62
+
+    
+domestic violence.
+            
+63
+
+    
+    (4)  If there is a protective order, civil stalking injunction, or the court finds that a
+            
+64
+
+    
+parent has committed domestic violence, the court may not order parent-time unless the parent
+            
+65
+
+    
+found to have committed domestic violence submits proof of completion of an appropriate
+            
+66
+
+    
+treatment program.
+            
+67
+
+    
+    (5)  If the court orders parent-time and a protective order or civil stalking injunction is
+            
+68
+
+    
+still in place, it shall order that a third party be responsible for pick-up, transfer, and delivery of
+            
+69
+
+    
+any children between the parents.  The parent who is the stated victim in the order or injunction
+            
+70
+
+    
+may submit to the court, and the court shall consider, the name of a person considered suitable
+            
+71
+
+    
+to act as the third party.
+            
+72
+
+    
+    (6)  The parenting plan, in the case of domestic violence, shall specify the time, day,
+            
+73
+
+    
+place, manner, and the third party to be used to implement the exchange.
+            
+74
+
+    
+    (7)  If the terms and conditions of the order need to be changed, either party may seek a
+            
+75
+
+    
+preliminary determination by the court for a temporary change subject to the issuance of an
+            
+76
+
+    
+amended order.
+
+
+
+
+ Legislative Review Note
+    as of   1-6-06  8:17 AM
+
+Based on a limited legal review, this legislation has not been determined to have a high
+probability of being held unconstitutional.
+
+ Office of Legislative Research and General Counsel
+[Bill Documents][Bills Directory]
+
+
+
+
+
+
+
+
+
+Who represents me?
+
+
+
+
+
+Remember my Legislators
+
+
+
+
+
+State Senate
+		350 North State, Suite 320
+		PO Box 145115
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1035
+		Fax: (801) 326-1475
+
+
+
+House of Representatives
+		350 North State, Suite 350
+		PO Box 145030
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1029
+		Fax: (801) 326-1544
+
+
+
+
+
+
+
+
+
+
+Home
+Mobile Site
+Site Map
+Calendar
+Code / Constitution
+House
+Senate
+
+Terms of Use/Privacy Policy
+
+ADA
+Utah.gov
+
+
+
+
+
+
+

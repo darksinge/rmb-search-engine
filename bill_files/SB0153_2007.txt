@@ -1,0 +1,631 @@
+Sponsors: []Modifications:     58-13-2.6.(1)  For purposes of this section:(a)  "Emergency" means an unexpected occurrence involving injury, the threat of injury,or illness to a person or the public due to:(i)  a natural disaster;(ii)  bioterrorism;(iii)  an act of terrorism;(iv)  a pandemic; or(v)  other event of similar nature.(b)  "Emergency care" includes actual assistance or advice offered to avoid, mitigate, orattempt to mitigate the effects of an emergency.(c)  "Person" is defined in Subsection 
+
+26-21-2
+
+(18).(2) (a)  A person, who in good faith, assists governmental agencies or politicalsubdivisions with the activities described in Subsection (2)(b) is not liable for civil damages orpenalties as a result of any act or omission unless the person rendering the assistance:(i)  is grossly negligent;(ii)  caused the emergency; or(iii)  has engaged in criminal conduct.(b)  The following activities are protected from liability in accordance with Subsection(2)(a):(i)  implementing measures to control the causes of epidemic, pandemic, communicablediseases, or other conditions significantly affecting public health, as necessary to protect thepublic health in accordance with Title 26A, Chapter 1, Local Health Departments;(ii)  investigating, controlling, and treating suspected bioterrorism or disease inaccordance with Title 26, Chapter 23b, Detection of Public Health Emergencies Act; or(iii)  responding to:(A)  a national, state, or local emergency;(B)  a public health emergency as defined in Section 
+
+26-23b-102
+
+; or(C)  a declaration by the President of the United States or other federal officialrequesting public health related activities.(c)  Subsection (2)(a) applies to a person even if that person has:(i)  a duty to respond; or(ii)  an expectation of payment or remuneration.(3)  The immunity in Subsection (2) is in addition to any immunity protections that mayapply in state or federal law.Full text:
+
+
+
+Utah State Legislature
+
+
+
+
+
+
+
+
+
+
+
+
+Legislators
+
+By Session (1896-Current)
+Alphabetical (Historical)
+Find by Address/Map
+More
+
+
+Bills
+
+Bills/Bill Requests
+Passed Bills
+2017 Bills
+
+Keyword Search
+Reading Calendars
+Tracking Service
+More
+
+
+Committees
+
+All Committees
+Appropriations
+Commissions
+
+Independent Legislative Ethics Commission
+Interim
+Standing
+Subcommittees
+Task Forces
+Bills In Committees
+
+
+Utah Code / Constitution
+
+
+Title/Chapter/Section
+Keyword Search 
+
+Utah Constitution
+Laws of Utah 1851-ongoing
+Utah Territorial Laws 
+More
+
+
+Senate
+
+Main Page 
+About The Senate 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Extraordinary Sessions 
+Reading Calendars 
+Past Floor Debates 
+Senate Journals 
+
+
+House
+
+Main Page
+About the House 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Reading Calendars 
+Past Floor Debates 
+Journals 
+Conflict of Interest Forms 
+
+
+Legislative Guide 
+
+Legislative Guide
+Civic Programs
+GRAMA (Records Requests)
+
+
+Publications
+
+Search Publications
+Appropriations
+Audits
+Bagels & Briefings
+Briefing Papers
+Digest of Legislation
+Legislative Drafting Manual
+
+Journals
+
+Interim Highlights
+
+Legislative Rules
+GRAMA (Records Requests)
+Public Email
+State Organization Charts
+YouTube Channel
+Requests for Proposals and Legal Notices
+More
+
+
+Legislative Histories
+
+Legislative History Resources
+How to Research
+Bill Drafting/Research Files (1990-Ongoing)
+
+Working Bills (1896-1989)
+Interim Committee Histories (1990-Ongoing) 
+Journals
+Past House Floor Debates
+Past Senate Floor Debates
+More
+
+
+Staff Offices
+
+All Legislative Offices
+Auditor General
+Fiscal Analyst
+Printing
+Research and General Counsel
+Staff Awards
+Job Opportunities
+More
+
+
+Links of Interest
+
+Utah Administrative Rules
+Courts
+Utah State Capitol
+State of Utah
+Federal Legislation
+More
+
+
+
+
+
+
+ 
+
+Download Zipped Enrolled WordPerfect SB0153.ZIP
+[Introduced][Amended][Status][Bill Documents][Fiscal Note][Bills Directory]
+
+
+S.B. 153 Enrolled
+
+
+
+
+
+            
+1
+
+    
+ MALPRACTICE LIABILITY DURING
+
+            
+2
+
+    
+ PANDEMIC EVENT
+
+
+
+            
+3
+
+    
+2007 GENERAL SESSION
+
+            
+4
+
+    
+STATE OF UTAH
+
+            
+5
+
+    
+
+
+ Chief Sponsor:  Gregory S. Bell
+
+
+
+            
+6
+
+    
+
+
+
+House Sponsor:  
+
+
+
+
+
+
+Kevin S. Garn
+
+
+
+
+
+            
+7
+
+    
+
+            
+8
+
+    
+ LONG TITLE
+            
+9
+
+    
+ General Description:
+            
+10
+
+    
+    This bill amends the Health Care Providers Immunity From Liability Act.
+            
+11
+
+    
+ Highlighted Provisions:
+            
+12
+
+    
+    This bill:
+            
+13
+
+    
+    .    in certain circumstances, expands the application of immunity from liability during
+            
+14
+
+    
+an emergency to health care facilities;
+            
+15
+
+    
+    .    protects health care providers including facilities, from malpractice liability when
+            
+16
+
+    
+they respond to a natural disaster, pandemic event, or bioterrorism unless the health
+            
+17
+
+    
+care provider:
+            
+18
+
+    
+        .    is grossly negligent;
+            
+19
+
+    
+        .    caused the emergency; or
+            
+20
+
+    
+        .    has engaged in criminal conduct; and
+            
+21
+
+    
+    .    applies the limited liability protections to a health care provider even if:
+            
+22
+
+    
+        .    the provider has a duty to respond; or
+            
+23
+
+    
+        .    the provider has an expectation of payment or remuneration.
+            
+24
+
+    
+ Monies Appropriated in this Bill:
+            
+25
+
+    
+    None
+            
+26
+
+    
+ Other Special Clauses:
+            
+27
+
+    
+    None
+            
+28
+
+    
+ Utah Code Sections Affected:
+            
+29
+
+    
+ENACTS:
+
+            
+30
+
+
+    
+     58-13-2.6, Utah Code Annotated 1953
+            
+31
+
+    
+
+            
+32
+
+    
+Be it enacted by the Legislature of the state of Utah:
+            
+33
+
+    
+    Section 1.  
+Section  
+58-13-2.6
+
+ is enacted to read:
+            
+34
+
+    
+     58-13-2.6.  Emergency care rendered by a person or health care facility.
+            
+35
+
+    
+    (1)  For purposes of this section:
+            
+36
+
+    
+    (a)  "Emergency" means an unexpected occurrence involving injury, the threat of injury,
+            
+37
+
+    
+or illness to a person or the public due to:
+            
+38
+
+    
+    (i)  a natural disaster;
+            
+39
+
+    
+    (ii)  bioterrorism;
+            
+40
+
+    
+    (iii)  an act of terrorism;
+            
+41
+
+    
+    (iv)  a pandemic; or
+            
+42
+
+    
+    (v)  other event of similar nature.
+            
+43
+
+    
+    (b)  "Emergency care" includes actual assistance or advice offered to avoid, mitigate, or
+            
+44
+
+    
+attempt to mitigate the effects of an emergency.
+            
+45
+
+    
+    (c)  "Person" is defined in Subsection 
+
+26-21-2
+
+(18).
+            
+46
+
+    
+    (2) (a)  A person, who in good faith, assists governmental agencies or political
+            
+47
+
+    
+subdivisions with the activities described in Subsection (2)(b) is not liable for civil damages or
+            
+48
+
+    
+penalties as a result of any act or omission unless the person rendering the assistance:
+            
+49
+
+    
+    (i)  is grossly negligent;
+            
+50
+
+    
+    (ii)  caused the emergency; or
+            
+51
+
+    
+    (iii)  has engaged in criminal conduct.
+            
+52
+
+    
+    (b)  The following activities are protected from liability in accordance with Subsection
+            
+53
+
+    
+(2)(a):
+            
+54
+
+    
+    (i)  implementing measures to control the causes of epidemic, pandemic, communicable
+            
+55
+
+    
+diseases, or other conditions significantly affecting public health, as necessary to protect the
+            
+56
+
+    
+public health in accordance with Title 26A, Chapter 1, Local Health Departments;
+            
+57
+
+    
+    (ii)  investigating, controlling, and treating suspected bioterrorism or disease in
+
+            
+58
+
+
+    
+accordance with Title 26, Chapter 23b, Detection of Public Health Emergencies Act; or
+            
+59
+
+    
+    (iii)  responding to:
+            
+60
+
+    
+    (A)  a national, state, or local emergency;
+            
+61
+
+    
+    (B)  a public health emergency as defined in Section 
+
+26-23b-102
+
+; or
+            
+62
+
+    
+    (C)  a declaration by the President of the United States or other federal official
+            
+63
+
+    
+requesting public health related activities.
+            
+64
+
+    
+    (c)  Subsection (2)(a) applies to a person even if that person has:
+            
+65
+
+    
+    (i)  a duty to respond; or
+            
+66
+
+    
+    (ii)  an expectation of payment or remuneration.
+            
+67
+
+    
+    (3)  The immunity in Subsection (2) is in addition to any immunity protections that may
+            
+68
+
+    
+apply in state or federal law.
+[Bill Documents][Bills Directory]
+
+
+
+
+
+
+
+
+
+Who represents me?
+
+
+
+
+
+Remember my Legislators
+
+
+
+
+
+State Senate
+		350 North State, Suite 320
+		PO Box 145115
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1035
+		Fax: (801) 326-1475
+
+
+
+House of Representatives
+		350 North State, Suite 350
+		PO Box 145030
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1029
+		Fax: (801) 326-1544
+
+
+
+
+
+
+
+
+
+
+Home
+Mobile Site
+Site Map
+Calendar
+Code / Constitution
+House
+Senate
+
+Terms of Use/Privacy Policy
+
+ADA
+Utah.gov
+
+
+
+
+
+
+

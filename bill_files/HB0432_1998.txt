@@ -1,0 +1,622 @@
+Sponsors: []Modifications: Sectionsand 31A-22-623(2) (a)or medicalequipment supplieras provided in Section 31A-22-623(b)(c)    31A-22-623.(1)  An insured may receive health care services from a health care provider, health carefacility, or medical equipment supplier of his choice and the insurer shall pay for those servicesif:(a)  the illness, injury, or condition is covered by the insured's health insurance contract;(b)  the provider, facility, or equipment supplier is a member of a class of health careproviders, health care facilities, or medical equipment suppliers covered by the insured's healthinsurance contract; and(c)  the insured has met any preauthorization or utilization review for the services asrequired by the insured's health insurance contract.(2) (a)  When an insurer receives a request for payment from a health care provider, healthcare facility, or medical equipment supplier under Subsection (1), the insurer shall pay to therequesting provider, facility, or equipment supplier the average amount the insurer pays forcomparable services to a provider or facility who:(i)  is under contract with or employed by the insurer; and(ii)  is in the same class as the requesting provider, facility, or equipment supplier.(b)  The commissioner may adopt rules for calculating the average amount the insurer paysto providers, facilities, and equipment suppliers who are under contract with or employed by it.(3)  If a health care provider, health care facility, or medical equipment supplier rendersservices that are eligible for payment under Subsection (1), receives the information necessary forpayment from the insured, and has not entered into an agreement to the contrary with the insuredbefore services were rendered, the provider, facility, or equipment supplier shall accept as paymentin full:(a)  the amount paid by the insurer as required by Subsection (2); and(b)  any deductible or copayment paid by the insured as required by the insured's healthinsurance contract.This act takes effect on July 1, 1998.Full text:
+
+
+
+Utah State Legislature
+
+
+
+
+
+
+
+
+
+
+
+
+Legislators
+
+By Session (1896-Current)
+Alphabetical (Historical)
+Find by Address/Map
+More
+
+
+Bills
+
+Bills/Bill Requests
+Passed Bills
+2017 Bills
+
+Keyword Search
+Reading Calendars
+Tracking Service
+More
+
+
+Committees
+
+All Committees
+Appropriations
+Commissions
+
+Independent Legislative Ethics Commission
+Interim
+Standing
+Subcommittees
+Task Forces
+Bills In Committees
+
+
+Utah Code / Constitution
+
+
+Title/Chapter/Section
+Keyword Search 
+
+Utah Constitution
+Laws of Utah 1851-ongoing
+Utah Territorial Laws 
+More
+
+
+Senate
+
+Main Page 
+About The Senate 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Extraordinary Sessions 
+Reading Calendars 
+Past Floor Debates 
+Senate Journals 
+
+
+House
+
+Main Page
+About the House 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Reading Calendars 
+Past Floor Debates 
+Journals 
+Conflict of Interest Forms 
+
+
+Legislative Guide 
+
+Legislative Guide
+Civic Programs
+GRAMA (Records Requests)
+
+
+Publications
+
+Search Publications
+Appropriations
+Audits
+Bagels & Briefings
+Briefing Papers
+Digest of Legislation
+Legislative Drafting Manual
+
+Journals
+
+Interim Highlights
+
+Legislative Rules
+GRAMA (Records Requests)
+Public Email
+State Organization Charts
+YouTube Channel
+Requests for Proposals and Legal Notices
+More
+
+
+Legislative Histories
+
+Legislative History Resources
+How to Research
+Bill Drafting/Research Files (1990-Ongoing)
+
+Working Bills (1896-1989)
+Interim Committee Histories (1990-Ongoing) 
+Journals
+Past House Floor Debates
+Past Senate Floor Debates
+More
+
+
+Staff Offices
+
+All Legislative Offices
+Auditor General
+Fiscal Analyst
+Printing
+Research and General Counsel
+Staff Awards
+Job Opportunities
+More
+
+
+Links of Interest
+
+Utah Administrative Rules
+Courts
+Utah State Capitol
+State of Utah
+Federal Legislation
+More
+
+
+
+
+
+
+ 
+
+Download Zipped Introduced WP 6.1 HB0432.ZIP 12,430 Bytes
+[Status][Bill Documents][Fiscal Note][Bills Directory]
+
+
+H.B. 432
+
+
+
+
+
+1     HEALTH BENEFIT PLAN - FREEDOM OF
+
+
+2     CHOICE
+
+
+
+
+3    1998 GENERAL SESSION
+
+
+4    STATE OF UTAH
+
+
+5     Sponsor: Peter C. Knudson
+
+
+6    AN ACT RELATING TO HEALTH; PERMITTING AN INSURED TO CHOOSE A HEALTH
+
+7    CARE PROVIDER HEALTH CARE FACILITY, OR MEDICAL EQUIPMENT SUPPLIER;
+
+8    REQUIRING THE INSURER TO REIMBURSE THE INSURED'S PROVIDER, FACILITY,
+
+9    AND EQUIPMENT SUPPLIER ON THE SAME TERMS AS THE INSURER REIMBURSES
+
+10    ITS PROVIDERS, FACILITIES, AND EQUIPMENT SUPPLIERS; REQUIRING A
+
+11    PROVIDER, FACILITY, OR EQUIPMENT SUPPLIER TO ACCEPT PAYMENT UNDER
+
+12    THE TERMS OF THE INSURANCE CONTRACT; AND PROVIDING AN EFFECTIVE
+
+13    DATE.
+
+14    This act affects sections of Utah Code Annotated 1953 as follows:
+
+15    AMENDS:
+
+16         31A-8-103, as last amended by Chapter 44, Laws of Utah 1997
+
+17         31A-22-617, as last amended by Chapters 314 and 316, Laws of Utah 1994
+
+18    ENACTS:
+
+19         31A-22-623, Utah Code Annotated 1953
+
+20    Be it enacted by the Legislature of the state of Utah:
+
+21        Section 1.  Section  31A-8-103 is amended to read:
+
+22         31A-8-103.  Applicability to other provisions of law.
+
+23        (1)  Except for exemptions specifically granted under this title, organizations are subject
+
+24    to regulation under all of the provisions of this title.  Notwithstanding any provision of this title,
+
+25    organizations licensed under this chapter are wholly exempt from the provisions of Chapters 7, 9,
+
+26    10, 11, 12, 13, 19, and 28.  In addition, organizations are not subject to:
+
+27        (a)  Chapter 3, except for Part I;
+
+
+1        (b)  Section 31A-4-107;
+
+2        (c)  Chapter 5, except for provisions specifically made applicable by this chapter;
+
+3        (d)  Chapter 14, except for provisions specifically made applicable by this chapter;
+
+4        (e)  Chapters 17 and 18, except as made applicable by the commissioner by rule consistent
+
+5    with this chapter; and
+
+6        (f)  Chapter 22, except for Parts VI, VII, and XII.
+
+7        (2)  The commissioner may by rule waive other specific provisions of this title that he
+
+8    considers inapplicable to health maintenance organizations or limited health plans, upon a finding
+
+9    that such a waiver will not endanger the interests of enrollees, investors, or the public.
+
+10        (3)  Title 16, Chapter 6, Utah Nonprofit Corporation and Co-operative Association Act,
+
+11    and Title 16, Chapter 10a, Utah Revised Business Corporation Act, do not apply to organizations
+
+12    except as specifically made applicable by:
+
+13        (a)  this chapter;
+
+14        (b)  a provision referenced under this chapter; or
+
+15        (c)  a rule adopted by the commissioner to deal with corporate law issues of health
+
+16    maintenance organizations that are not settled under this chapter.
+
+17        (4)  Whenever in this chapter a section, subsection, or paragraph of Chapter 5 or 14 is made
+
+18    applicable to organizations, the application is of those provisions that apply to mutual corporations
+
+19    if the organization is nonprofit and of those that apply to stock corporations if the organization is
+
+20    for profit.  Whenever a provision under Chapter 5 or 14 is made applicable to organizations under
+
+21    this chapter, "mutual" means nonprofit organization.
+
+22        (5)  Solicitation of enrollees by an organization is not a violation of any provision of law
+
+23    relating to solicitation or advertising by health professionals if that solicitation is made in
+
+24    accordance with the provisions of this chapter and Chapter 23.
+
+25        (6)  Nothing in this title prohibits any health maintenance organization from meeting the
+
+26    requirements of any federal law that enables the health maintenance organization to receive federal
+
+27    funds or to obtain or maintain federal qualification status.
+
+28        (7) Except as provided in [Section] Sections 31A-8-501 and 31A-22-623, organizations are
+
+29    exempt from statutes in this title or department rules that restrict or limit their freedom of choice
+
+30    in contracting with or selecting health care providers, including Section 31A-22-618.
+
+31        (8)  Organizations are exempt from the assessment or payment of premium taxes imposed
+
+- 2 -
+
+
+1    by Sections 59-9-101 through 59-9-104.
+
+2        Section 2.  Section  31A-22-617 is amended to read:
+
+3         31A-22-617.  Preferred provider contract provisions.  
+
+4        Health insurance policies may provide for insureds to receive services or reimbursement
+
+5    under the policies in accordance with preferred health care provider contracts as follows:
+
+6        (1)  Subject to restrictions under this section, any insurer or third party administrator may
+
+7    enter into contracts with health care providers as defined in Section 78-14-3 under which the health
+
+8    care providers agree to supply services, at prices specified in the contracts, to persons insured by
+
+9    an insurer.  The health care provider contract may require the health care provider to accept the
+
+10    specified payment as payment in full, relinquishing the right to collect additional amounts from
+
+11    the insured person.  The insurance contract may reward the insured for selection of preferred health
+
+12    care providers by reducing premium rates, reducing deductibles, coinsurance, or other copayments,
+
+13    or in any other reasonable manner.
+
+14        [(2) (a)  Subject to Subsections (2)(b) through (2)(f), an insurer using preferred health care
+
+15    provider contracts shall pay for the services of health care providers not under the contract, unless
+
+16    the illnesses or injuries treated by the health care provider are not within the scope of the insurance
+
+17    contract.  As used in this section, "class of health care providers" means all health care providers
+
+18    licensed or licensed and certified by the state within the same professional, trade, occupational,
+
+19    or facility licensure or licensure and certification category established pursuant to Titles 26 and
+
+20    58.]
+
+21        [(b) ] (2) (a) When the insured receives services from a health care provider or medical
+
+22    equipment supplier not under contract, the insurer shall reimburse the insured [for at least 75% of
+
+23    the average amount paid by the insurer for comparable services of preferred health care providers
+
+24    who are members of the same class of health care providers.  The commissioner may adopt a rule
+
+25    dealing with the determination of what constitutes 75% of the average amount paid by the insurer
+
+26    for comparable services of preferred health care providers who are members of the same class of
+
+27    health care providers] as provided in Section 31A-22-623.
+
+28        [(c)  When reimbursing for services of health care providers not under contract, the insurer
+
+29    may make direct payment to the insured.]
+
+30        [(d)  Notwithstanding Subsection (2)(b), an insurer using preferred health care provider
+
+31    contracts may impose a deductible on coverage of health care providers not under contract.]
+
+- 3 -
+
+
+1        [(e)] (b)  When selecting health care providers with whom to contract under Subsection (1),
+
+2    an insurer may not unfairly discriminate between classes of health care providers, but may
+
+3    discriminate within a class of health care providers, subject to Subsection (7).
+
+4        [(f)] (c)  For purposes of this section, unfair discrimination between classes of health care
+
+5    providers shall include:
+
+6        (i)  refusal to contract with class members in reasonable proportion to the number of
+
+7    insureds covered by the insurer and the expected demand for services from class members; and
+
+8        (ii)  refusal to cover procedures for one class of providers  that are:
+
+9        (A)  commonly utilized by members of the class of health care providers for the treatment
+
+10    of illnesses, injuries, or conditions;
+
+11        (B)  otherwise covered by the insurer; and
+
+12        (C)  within the scope of practice of the class of health care providers.
+
+13        (3)  Before the insured consents to the insurance contract, the insurer shall fully disclose
+
+14    to the insured that it has entered into preferred health care provider contracts.  The insurer shall
+
+15    provide sufficient detail on the preferred health care provider contracts to permit the insured to
+
+16    agree to the terms of the insurance contract.  The insurer shall provide at least the following
+
+17    information:
+
+18        (a)  a list of the health care providers under contract and if requested their business
+
+19    locations and specialties;
+
+20        (b)  a description of the insured benefits, including any deductibles, coinsurance, or other
+
+21    copayments;
+
+22        (c)  a description of the quality assurance program required under Subsection (4); and
+
+23        (d)  a description of the grievance procedures required under Subsection (5).
+
+24        (4) (a)  An insurer using preferred health care provider contracts shall maintain a quality
+
+25    assurance program for assuring that the care provided by the health care providers under contract
+
+26    meets prevailing standards in the state.
+
+27        (b)  The commissioner in consultation with the executive director of the Department of
+
+28    Health may designate qualified persons to perform an audit of the quality assurance program.  The
+
+29    auditors shall have full access to all records of the organization and its health care providers,
+
+30    including medical records of individual patients.
+
+31        (c)  The information contained in the medical records of individual patients shall remain
+
+- 4 -
+
+
+1    confidential.  All information, interviews, reports, statements, memoranda, or other data furnished
+
+2    for purposes of the audit and any findings or conclusions of the auditors are privileged.   The
+
+3    information is not subject to discovery, use, or receipt in evidence in any legal proceeding except
+
+4    hearings before the commissioner concerning alleged violations of this section.
+
+5        (5)  An insurer using preferred health care provider contracts shall provide a reasonable
+
+6    procedure for resolving complaints and grievances initiated by the insureds and health care
+
+7    providers.
+
+8        (6)  An insurer may not contract with a health care provider for treatment of illness or
+
+9    injury unless the health care provider is licensed to perform that treatment.
+
+10        (7) (a)  No health care provider or insurer may discriminate against a preferred health care
+
+11    provider for agreeing to a contract under Subsection (1).
+
+12        (b)  Any health care provider licensed to treat any illness or injury within the scope of the
+
+13    health care provider's practice, who is willing and able to meet the terms and conditions
+
+14    established by the insurer for designation as a preferred health care provider, shall be able to apply
+
+15    for and receive the designation as a preferred health care provider. Contract terms and conditions
+
+16    may include reasonable limitations on the number of designated preferred health care providers
+
+17    based upon substantial objective and economic grounds, or expected use of particular services
+
+18    based upon prior provider-patient profiles.
+
+19        (8)  Upon the written request of a provider excluded from a provider contract, the
+
+20    commissioner may hold a hearing to determine if the insurer's exclusion of the provider is based
+
+21    on the criteria set forth in Subsection (7)(b).
+
+22        (9)  Insurers are subject to the provisions of Sections 31A-22-613.5, 31A-22-614.5, and
+
+23    31A-22-618.
+
+24        (10)  Nothing in this section is to be construed as to require an insurer to offer a certain
+
+25    benefit or service as part of a health benefit plan.
+
+26        Section 3.  Section  31A-22-623 is enacted to read:
+
+27         31A-22-623.   Choice of health care providers.
+
+28        (1)  An insured may receive health care services from a health care provider, health care
+
+29    facility, or medical equipment supplier of his choice and the insurer shall pay for those services
+
+30    if:
+
+31        (a)  the illness, injury, or condition is covered by the insured's health insurance contract;
+
+- 5 -
+
+
+1        (b)  the provider, facility, or equipment supplier is a member of a class of health care
+
+2    providers, health care facilities, or medical equipment suppliers covered by the insured's health
+
+3    insurance contract; and
+
+4        (c)  the insured has met any preauthorization or utilization review for the services as
+
+5    required by the insured's health insurance contract.
+
+6        (2) (a)  When an insurer receives a request for payment from a health care provider, health
+
+7    care facility, or medical equipment supplier under Subsection (1), the insurer shall pay to the
+
+8    requesting provider, facility, or equipment supplier the average amount the insurer pays for
+
+9    comparable services to a provider or facility who:
+
+10        (i)  is under contract with or employed by the insurer; and
+
+11        (ii)  is in the same class as the requesting provider, facility, or equipment supplier.
+
+12        (b)  The commissioner may adopt rules for calculating the average amount the insurer pays
+
+13    to providers, facilities, and equipment suppliers who are under contract with or employed by it.
+
+14        (3)  If a health care provider, health care facility, or medical equipment supplier renders
+
+15    services that are eligible for payment under Subsection (1), receives the information necessary for
+
+16    payment from the insured, and has not entered into an agreement to the contrary with the insured
+
+17    before services were rendered, the provider, facility, or equipment supplier shall accept as payment
+
+18    in full:
+
+19        (a)  the amount paid by the insurer as required by Subsection (2); and
+
+20        (b)  any deductible or copayment paid by the insured as required by the insured's health
+
+21    insurance contract.
+
+22        Section 4.   Effective date.
+
+23        This act takes effect on July 1, 1998.
+
+
+
+
+ Legislative Review Note
+    as of   2-20-98  10:52 AM
+
+
+A limited legal review of this bill raises no obvious constitutional or statutory concerns.
+
+ Office of Legislative Research and General Counsel
+
+
+- 6 -
+[Bill Documents][Bills Directory]
+
+
+
+
+
+
+
+
+
+Who represents me?
+
+
+
+
+
+Remember my Legislators
+
+
+
+
+
+State Senate
+		350 North State, Suite 320
+		PO Box 145115
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1035
+		Fax: (801) 326-1475
+
+
+
+House of Representatives
+		350 North State, Suite 350
+		PO Box 145030
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1029
+		Fax: (801) 326-1544
+
+
+
+
+
+
+
+
+
+
+Home
+Mobile Site
+Site Map
+Calendar
+Code / Constitution
+House
+Senate
+
+Terms of Use/Privacy Policy
+
+ADA
+Utah.gov
+
+
+
+
+
+
+

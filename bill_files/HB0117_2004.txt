@@ -1,0 +1,2938 @@
+Sponsors: []Modifications: (g)  "Employee" is as defined in Section 
+
+59-10-401
+
+.(h)is asdefined(i)(j)(k)(l)(m)(n)  "Military service" is as defined in Pub. L. No. 108-189, Sec. 101.(o)(p)(q)(q)(r)  "Qualifying military service" means military service performed by aservicemember:(i)  in compliance with military orders; and(ii)  if that servicemember was not performing full-time military service before the dayon which the servicemember received the orders described in Subsection (1)(r)(i).(s)(t)(t)(u)(v)  "Servicemember" is as defined in Pub. L. No. 108-189, Sec. 101.(w)(x)(y)(z)(aa)(aa)(aa)(bb)(cc)(dd)  "Wages" is as defined in Section 
+
+59-10-401
+
+.; and(n) (i)  except as provided in Subsection (2)(n)(ii), for taxable years beginning on orafter January 1, 2004, income a resident or nonresident individual who is a servicememberreceives:(A)  for qualifying military service; and(B)  to the extent that income is included in adjusted gross income on thatservicemember's federal individual income tax return for the taxable year;(ii)  notwithstanding Subsection (2)(n)(i), a subtraction from federal taxable income isnot allowed under Subsection (2)(n)(i) for the following received by a servicemember:(A)  retirement:(I)  income; or(II)  benefits; or(B)  survivor benefits; and(iii)  in accordance with Title 63, Chapter 46a, Utah Administrative Rulemaking Act,for purposes of Subsection (2)(n)(i) the commission may by rule define what constitutesincome a servicemember receives for qualifying military service.(u)(u)This bill has retrospective operation for taxable years beginning on or after January 1,2004.Full text:
+
+
+
+Utah State Legislature
+
+
+
+
+
+
+
+
+
+
+
+
+Legislators
+
+By Session (1896-Current)
+Alphabetical (Historical)
+Find by Address/Map
+More
+
+
+Bills
+
+Bills/Bill Requests
+Passed Bills
+2017 Bills
+
+Keyword Search
+Reading Calendars
+Tracking Service
+More
+
+
+Committees
+
+All Committees
+Appropriations
+Commissions
+
+Independent Legislative Ethics Commission
+Interim
+Standing
+Subcommittees
+Task Forces
+Bills In Committees
+
+
+Utah Code / Constitution
+
+
+Title/Chapter/Section
+Keyword Search 
+
+Utah Constitution
+Laws of Utah 1851-ongoing
+Utah Territorial Laws 
+More
+
+
+Senate
+
+Main Page 
+About The Senate 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Extraordinary Sessions 
+Reading Calendars 
+Past Floor Debates 
+Senate Journals 
+
+
+House
+
+Main Page
+About the House 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Reading Calendars 
+Past Floor Debates 
+Journals 
+Conflict of Interest Forms 
+
+
+Legislative Guide 
+
+Legislative Guide
+Civic Programs
+GRAMA (Records Requests)
+
+
+Publications
+
+Search Publications
+Appropriations
+Audits
+Bagels & Briefings
+Briefing Papers
+Digest of Legislation
+Legislative Drafting Manual
+
+Journals
+
+Interim Highlights
+
+Legislative Rules
+GRAMA (Records Requests)
+Public Email
+State Organization Charts
+YouTube Channel
+Requests for Proposals and Legal Notices
+More
+
+
+Legislative Histories
+
+Legislative History Resources
+How to Research
+Bill Drafting/Research Files (1990-Ongoing)
+
+Working Bills (1896-1989)
+Interim Committee Histories (1990-Ongoing) 
+Journals
+Past House Floor Debates
+Past Senate Floor Debates
+More
+
+
+Staff Offices
+
+All Legislative Offices
+Auditor General
+Fiscal Analyst
+Printing
+Research and General Counsel
+Staff Awards
+Job Opportunities
+More
+
+
+Links of Interest
+
+Utah Administrative Rules
+Courts
+Utah State Capitol
+State of Utah
+Federal Legislation
+More
+
+
+
+
+
+
+ 
+
+Download Zipped Introduced WordPerfect HB0117.ZIP
+[Status][Bill Documents][Fiscal Note][Bills Directory]
+
+
+H.B. 117
+
+
+
+
+
+            
+1
+
+    
+ INDIVIDUAL INCOME TAX - TREATMENT
+
+            
+2
+
+    
+ OF CERTAIN MILITARY INCOME
+
+
+
+            
+3
+
+    
+2004 GENERAL SESSION
+
+            
+4
+
+    
+STATE OF UTAH
+
+            
+5
+
+    
+
+
+ Sponsor: Darin G. Peterson
+
+
+
+            
+6
+
+    
+
+            
+7
+
+    
+ LONG TITLE
+            
+8
+
+    
+ General Description:
+            
+9
+
+    
+    This bill amends the Individual Income Tax Act.
+            
+10
+
+    
+ Highlighted Provisions:
+            
+11
+
+    
+    This bill:
+            
+12
+
+    
+    .    defines terms;
+            
+13
+
+    
+    .    provides a subtraction from federal taxable income for certain income a
+            
+14
+
+    
+servicemember receives for qualifying military service;
+            
+15
+
+    
+    .    grants rulemaking authority to the State Tax Commission; and
+            
+16
+
+    
+    .    makes technical changes.
+            
+17
+
+    
+ Monies Appropriated in this Bill:
+            
+18
+
+    
+    None
+            
+19
+
+    
+ Other Special Clauses:
+            
+20
+
+    
+    This bill has retrospective operation for taxable years beginning on or after January 1,
+            
+21
+
+    
+2004.
+            
+22
+
+    
+ Utah Code Sections Affected:
+            
+23
+
+    
+AMENDS:
+            
+24
+
+    
+     59-10-103, as last amended by Chapter 3, Laws of Utah 2003, Second Special Session
+            
+25
+
+    
+     59-10-114, as last amended by Chapter 3, Laws of Utah 2003, Second Special Session
+            
+26
+
+    
+     75-7-202, as last amended by Chapter 3, Laws of Utah 2003, Second Special Session
+            
+27
+
+    
+     75-7-208, as last amended by Chapter 3, Laws of Utah 2003, Second Special Session
+
+            
+28
+
+
+    
+
+            
+29
+
+    
+Be it enacted by the Legislature of the state of Utah:
+            
+30
+
+    
+    Section 1.  
+Section  
+59-10-103
+
+ is amended to read:
+            
+31
+
+    
+     59-10-103.  Definitions.
+            
+32
+
+    
+    (1)  As used in this chapter:
+            
+33
+
+    
+    (a)  "Adoption expenses" means:
+            
+34
+
+    
+    (i)  any actual medical and hospital expenses of the mother of the adopted child which
+            
+35
+
+    
+are incident to the child's birth;
+            
+36
+
+    
+    (ii)  any welfare agency fees or costs;
+            
+37
+
+    
+    (iii)  any child placement service fees or costs;
+            
+38
+
+    
+    (iv)  any legal fees or costs; or
+            
+39
+
+    
+    (v)  any other fees or costs relating to an adoption.
+            
+40
+
+    
+    (b)  "Adult with a disability" means an individual who:
+            
+41
+
+    
+    (i)  is 18 years of age or older;
+            
+42
+
+    
+    (ii)  is eligible for services under Title 62A, Chapter 5, Services for People with
+            
+43
+
+    
+Disabilities; and
+            
+44
+
+    
+    (iii)  is not enrolled in:
+            
+45
+
+    
+    (A)  an education program for students with disabilities that is authorized under Section
+            
+46
+
+    
+
+53A-15-301
+
+; or
+            
+47
+
+    
+    (B)  a school established under Title 53A, Chapter 25, Schools for the Deaf and Blind.
+            
+48
+
+    
+    (c) (i)  For purposes of Subsection 
+
+59-10-114
+
+(2)(m), "capital gain transaction" means a
+            
+49
+
+    
+transaction that results in a:
+            
+50
+
+    
+    (A)  short-term capital gain; or
+            
+51
+
+    
+    (B)  long-term capital gain.
+            
+52
+
+    
+    (ii)  In accordance with Title 63, Chapter 46a, Utah Administrative Rulemaking Act,
+            
+53
+
+    
+the commission may by rule define the term "transaction."
+            
+54
+
+    
+    (d)  "Commercial domicile" means the principal place from which the trade or business
+            
+55
+
+    
+of a Utah small business corporation is directed or managed.
+            
+56
+
+    
+    (e)  "Corporation" includes:
+            
+57
+
+    
+    (i)  associations;
+            
+58
+
+    
+    (ii)  joint stock companies; and
+
+            
+59
+
+
+    
+    (iii)  insurance companies.
+            
+60
+
+    
+    (f)  "Dependent child with a disability" means an individual 21 years of age or younger
+            
+61
+
+    
+who:
+            
+62
+
+    
+    (i) (A)  is diagnosed by a school district representative under rules adopted by the State
+            
+63
+
+    
+Board of Education as having a disability classified as:
+            
+64
+
+    
+    (I)  autism;
+            
+65
+
+    
+    (II)  deafness;
+            
+66
+
+    
+    (III)  preschool developmental delay;
+            
+67
+
+    
+    (IV)  dual sensory impairment;
+            
+68
+
+    
+    (V)  hearing impairment;
+            
+69
+
+    
+    (VI)  intellectual disability;
+            
+70
+
+    
+    (VII)  multidisability;
+            
+71
+
+    
+    (VIII)  orthopedic impairment;
+            
+72
+
+    
+    (IX)  other health impairment;
+            
+73
+
+    
+    (X)  traumatic brain injury; or
+            
+74
+
+    
+    (XI)  visual impairment;
+            
+75
+
+    
+    (B)  is not receiving residential services from:
+            
+76
+
+    
+    (I)  the Division of Services for People with Disabilities created under Section
+            
+77
+
+    
+
+62A-5-102
+
+; or
+            
+78
+
+    
+    (II)  a school established under Title 53A, Chapter 25, Schools for the Deaf and Blind;
+            
+79
+
+    
+and
+            
+80
+
+    
+    (C)  is enrolled in:
+            
+81
+
+    
+    (I)  an education program for students with disabilities that is authorized under Section
+            
+82
+
+    
+
+53A-15-301
+
+; or
+            
+83
+
+    
+    (II)  a school established under Title 53A, Chapter 25, Schools for the Deaf and Blind;
+            
+84
+
+    
+or
+            
+85
+
+    
+    (ii)  is identified under guidelines of the Department of Health as qualified for:
+            
+86
+
+    
+    (A)  Early Intervention; or
+            
+87
+
+    
+    (B)  Infant Development Services.
+            
+88
+
+    
+    (g)  "Employee" is as defined in Section 
+
+59-10-401
+
+.
+            
+89
+
+    
+    [(g)] (h)  "Employer[,]" ["employee," and "wages" are defined as provided] is as
+
+            
+90
+
+
+    
+defined in Section 
+
+59-10-401
+
+.
+            
+91
+
+    
+    [(h)] (i)  "Fiduciary" means:
+            
+92
+
+    
+    (i)  a guardian;
+            
+93
+
+    
+    (ii)  a trustee;
+            
+94
+
+    
+    (iii)  an executor;
+            
+95
+
+    
+    (iv)  an administrator;
+            
+96
+
+    
+    (v)  a receiver;
+            
+97
+
+    
+    (vi)  a conservator; or
+            
+98
+
+    
+    (vii)  any person acting in any fiduciary capacity for any individual.
+            
+99
+
+    
+    [(i)] (j)  "Homesteaded land diminished from the Uintah and Ouray Reservation" means
+            
+100
+
+    
+the homesteaded land that was held to have been diminished from the Uintah and Ouray
+            
+101
+
+    
+Reservation in Hagen v. Utah, 510 U.S. 399 (1994).
+            
+102
+
+    
+    [(j)] (k)  "Individual" means a natural person and includes aliens and minors.
+            
+103
+
+    
+    [(k)] (l)  "Irrevocable trust" means a trust in which the settlor may not revoke or
+            
+104
+
+    
+terminate all or part of the trust without the consent of a person who has a substantial beneficial
+            
+105
+
+    
+interest in the trust and the interest would be adversely affected by the exercise of the settlor's
+            
+106
+
+    
+power to revoke or terminate all or part of the trust.
+            
+107
+
+    
+    [(l)] (m)  For purposes of Subsection 
+
+59-10-114
+
+(2)(m), "long-term capital gain" is as
+            
+108
+
+    
+defined in Section 1222, Internal Revenue Code.
+            
+109
+
+    
+    (n)  "Military service" is as defined in Pub. L. No. 108-189, Sec. 101.
+            
+110
+
+    
+    [(m)] (o)  "Nonresident individual" means an individual who is not a resident of this
+            
+111
+
+    
+state.
+            
+112
+
+    
+    [(n)] (p)  "Nonresident trust" or "nonresident estate" means a trust or estate which is not
+            
+113
+
+    
+a resident estate or trust.
+            
+114
+
+    
+    [(o)] (q) (i)  "Partnership" includes a syndicate, group, pool, joint venture, or other
+            
+115
+
+    
+unincorporated organization:
+            
+116
+
+    
+    (A)  through or by means of which any business, financial operation, or venture is
+            
+117
+
+    
+carried on; and
+            
+118
+
+    
+    (B)  which is not, within the meaning of this chapter:
+            
+119
+
+    
+    (I)  a trust;
+            
+120
+
+    
+    (II)  an estate; or
+
+            
+121
+
+
+    
+    (III)  a corporation.
+            
+122
+
+    
+    (ii)  "Partnership" does not include any organization not included under the definition of
+            
+123
+
+    
+"partnership" in Section 761, Internal Revenue Code.
+            
+124
+
+    
+    (iii)  "Partner" includes a member in a syndicate, group, pool, joint venture, or
+            
+125
+
+    
+organization described in Subsection (1)[(o)](q)(i).
+            
+126
+
+    
+    (r)  "Qualifying military service" means military service performed by a
+            
+127
+
+    
+servicemember:
+            
+128
+
+    
+    (i)  in compliance with military orders; and
+            
+129
+
+    
+    (ii)  if that servicemember was not performing full-time military service before the day
+            
+130
+
+    
+on which the servicemember received the orders described in Subsection (1)(r)(i).
+            
+131
+
+    
+    [(p)] (s)  "Qualifying stock" means stock that is:
+            
+132
+
+    
+    (i) (A)  common; or
+            
+133
+
+    
+    (B)  preferred;
+            
+134
+
+    
+    (ii)  as defined by the commission by rule, originally issued to:
+            
+135
+
+    
+    (A)  a resident or nonresident individual; or
+            
+136
+
+    
+    (B)  a partnership if the resident or nonresident individual making a subtraction from
+            
+137
+
+    
+federal taxable income in accordance with Subsection 
+
+59-10-114
+
+(2)(m):
+            
+138
+
+    
+    (I)  was a partner when the stock was issued; and
+            
+139
+
+    
+    (II)  remains a partner until the last day of the taxable year for which the resident or
+            
+140
+
+    
+nonresident individual makes the subtraction from federal taxable income in accordance with
+            
+141
+
+    
+Subsection 
+
+59-10-114
+
+(2)(m); and
+            
+142
+
+    
+    (iii)  issued:
+            
+143
+
+    
+    (A)  by a Utah small business corporation;
+            
+144
+
+    
+    (B)  on or after January 1, 2003; and
+            
+145
+
+    
+    (C)  for:
+            
+146
+
+    
+    (I)  money; or
+            
+147
+
+    
+    (II)  other property, except for stock or securities.
+            
+148
+
+    
+    [(q)] (t) (i)  "Resident individual" means:
+            
+149
+
+    
+    (A)  an individual who is domiciled in this state for any period of time during the
+            
+150
+
+    
+taxable year, but only for the duration of the period during which the individual is domiciled in
+            
+151
+
+    
+this state; or
+
+            
+152
+
+
+    
+    (B)  an individual who is not domiciled in this state but:
+            
+153
+
+    
+    (I)  maintains a permanent place of abode in this state; and
+            
+154
+
+    
+    (II)  spends in the aggregate 183 or more days of the taxable year in this state.
+            
+155
+
+    
+    (ii)  For purposes of Subsection (1)[(q)](t)(i)(B), a fraction of a calendar day shall be
+            
+156
+
+    
+counted as a whole day.
+            
+157
+
+    
+    [(r)] (u) (i)  "Resident estate" or "resident trust" means:
+            
+158
+
+    
+    (A)  an estate of a decedent who at death was domiciled in this state;
+            
+159
+
+    
+    (B)  a trust, or a portion of a trust, consisting of property transferred by will of a
+            
+160
+
+    
+decedent who at his death was domiciled in this state; or
+            
+161
+
+    
+    (C)  a trust administered in this state.
+            
+162
+
+    
+    (ii) A trust shall be considered to be administered in this state if:
+            
+163
+
+    
+    (A)  the place of business where the fiduciary transacts a major portion of its
+            
+164
+
+    
+administration of the trust is in this state; or
+            
+165
+
+    
+    (B)  the trust states that this state is the place of administration, and any administration
+            
+166
+
+    
+of the trust is done in this state.
+            
+167
+
+    
+    (v)  "Servicemember" is as defined in Pub. L. No. 108-189, Sec. 101.
+            
+168
+
+    
+    [(s)] (w)  For purposes of Subsection 
+
+59-10-114
+
+(2)(m), "short-term capital gain" is as
+            
+169
+
+    
+defined in Section 1222, Internal Revenue Code.
+            
+170
+
+    
+    [(t)] (x)  "Taxable income" and "state taxable income" are defined as provided in
+            
+171
+
+    
+Sections 
+
+59-10-111
+
+, 
+
+59-10-112
+
+, 
+
+59-10-116
+
+, 
+
+59-10-201.1
+
+, and 
+
+59-10-204
+
+.
+            
+172
+
+    
+    [(u)] (y)  "Taxpayer" means any individual, estate, or trust or beneficiary of an estate or
+            
+173
+
+    
+trust, whose income is subject in whole or part to the tax imposed by this chapter.
+            
+174
+
+    
+    [(v)] (z)  "Uintah and Ouray Reservation" means the lands recognized as being included
+            
+175
+
+    
+within the Uintah and Ouray Reservation in:
+            
+176
+
+    
+    (i)  Hagen v. Utah, 510 U.S. 399 (1994); and
+            
+177
+
+    
+    (ii)  Ute Indian Tribe v. Utah, 114 F.3d 1513 (10th Cir. 1997).
+            
+178
+
+    
+    [(w)] (aa) (i)  "Utah small business corporation" means a corporation that:
+            
+179
+
+    
+    (A)  is a small business corporation as defined in Section 1244(c)(3), Internal Revenue
+            
+180
+
+    
+Code;
+            
+181
+
+    
+    (B)  except as provided in Subsection (1)[(w)](aa)(ii), meets the requirements of
+            
+182
+
+    
+Section 1244(c)(1)(C), Internal Revenue Code; and
+
+            
+183
+
+
+    
+    (C)  has its commercial domicile in this state.
+            
+184
+
+    
+    (ii)  Notwithstanding Subsection (1)[(w)](aa)(i)(B), the time period described in Section
+            
+185
+
+    
+1244(c)(1)(C) and Section 1244(c)(2), Internal Revenue Code, for determining the source of a
+            
+186
+
+    
+corporation's aggregate gross receipts shall end on the last day of the taxable year for which the
+            
+187
+
+    
+resident or nonresident individual makes a subtraction from federal taxable income in
+            
+188
+
+    
+accordance with Subsection 
+
+59-10-114
+
+(2)(m).
+            
+189
+
+    
+    [(x)] (bb)  "Ute tribal member" means a person who is enrolled as a member of the Ute
+            
+190
+
+    
+Indian Tribe of the Uintah and Ouray Reservation.
+            
+191
+
+    
+    [(y)] (cc)  "Ute tribe" means the Ute Indian Tribe of the Uintah and Ouray Reservation.
+            
+192
+
+    
+    (dd)  "Wages" is as defined in Section 
+
+59-10-401
+
+.
+            
+193
+
+    
+    (2) (a)  Any term used in this chapter has the same meaning as when used in
+            
+194
+
+    
+comparable context in the laws of the United States relating to federal income taxes unless a
+            
+195
+
+    
+different meaning is clearly required.
+            
+196
+
+    
+    (b)  Any reference to the Internal Revenue Code or to the laws of the United States shall
+            
+197
+
+    
+mean the Internal Revenue Code or other provisions of the laws of the United States relating to
+            
+198
+
+    
+federal income taxes that are in effect for the taxable year.
+            
+199
+
+    
+    (c)  Any reference to a specific section of the Internal Revenue Code or other provision
+            
+200
+
+    
+of the laws of the United States relating to federal income taxes shall include any
+            
+201
+
+    
+corresponding or comparable provisions of the Internal Revenue Code as hereafter amended,
+            
+202
+
+    
+redesignated, or reenacted.
+            
+203
+
+    
+    Section 2.  
+Section  
+59-10-114
+
+ is amended to read:
+            
+204
+
+    
+     59-10-114.  Additions to and subtractions from federal taxable income of an
+            
+205
+
+    
+ individual.
+            
+206
+
+    
+    (1)  There shall be added to federal taxable income of a resident or nonresident
+            
+207
+
+    
+individual:
+            
+208
+
+    
+    (a)  the amount of any income tax imposed by this or any predecessor Utah individual
+            
+209
+
+    
+income tax law and the amount of any income tax imposed by the laws of another state, the
+            
+210
+
+    
+District of Columbia, or a possession of the United States, to the extent deducted from federal
+            
+211
+
+    
+adjusted gross income, as defined by Section 62, Internal Revenue Code, in determining federal
+            
+212
+
+    
+taxable income;
+            
+213
+
+    
+    (b)  a lump sum distribution that the taxpayer does not include in adjusted gross income
+
+            
+214
+
+
+    
+on the taxpayer's federal individual income tax return for the taxable year;
+            
+215
+
+    
+    (c)  for taxable years beginning on or after January 1, 2002, the amount of a child's
+            
+216
+
+    
+income calculated under Subsection (5) that:
+            
+217
+
+    
+    (i)  a parent elects to report on the parent's federal individual income tax return for the
+            
+218
+
+    
+taxable year; and
+            
+219
+
+    
+    (ii)  the parent does not include in adjusted gross income on the parent's federal
+            
+220
+
+    
+individual income tax return for the taxable year;
+            
+221
+
+    
+    (d)  25% of the personal exemptions, as defined and calculated in the Internal Revenue
+            
+222
+
+    
+Code;
+            
+223
+
+    
+    (e)  a withdrawal from a medical care savings account and any penalty imposed in the
+            
+224
+
+    
+taxable year if:
+            
+225
+
+    
+    (i)  the taxpayer did not deduct or include the amounts on the taxpayer's federal
+            
+226
+
+    
+individual income tax return pursuant to Section 220, Internal Revenue Code; and
+            
+227
+
+    
+    (ii)  the withdrawal is subject to Subsections 
+
+31A-32a-105
+
+(1) and (2);
+            
+228
+
+    
+    (f)  the amount refunded to a participant under Title 53B, Chapter 8a, Higher Education
+            
+229
+
+    
+Savings Incentive Program, in the year in which the amount is refunded;
+            
+230
+
+    
+    (g)  except as provided in Subsection (6), for taxable years beginning on or after
+            
+231
+
+    
+January 1, 2003, for bonds, notes, and other evidences of indebtedness acquired on or after
+            
+232
+
+    
+January 1, 2003, the interest from bonds, notes, and other evidences of indebtedness issued by
+            
+233
+
+    
+one or more of the following entities:
+            
+234
+
+    
+    (i)  a state other than this state;
+            
+235
+
+    
+    (ii)  the District of Columbia;
+            
+236
+
+    
+    (iii)  a political subdivision of a state other than this state; or
+            
+237
+
+    
+    (iv)  an agency or instrumentality of an entity described in Subsections (1)(g)(i) through
+            
+238
+
+    
+(iii);
+            
+239
+
+    
+    (h)  any distribution received by a resident beneficiary of a resident trust of income that
+            
+240
+
+    
+was taxed at the trust level for federal tax purposes, but was subtracted from state taxable
+            
+241
+
+    
+income of the trust pursuant to Subsection 
+
+59-10-202
+
+(2)(c); and
+            
+242
+
+    
+    (i)  any distribution received by a resident beneficiary of a nonresident trust of income
+            
+243
+
+    
+that was taxed at the trust level for federal tax purposes, but was not taxed at the trust level by
+            
+244
+
+    
+any state.
+
+            
+245
+
+
+    
+    (2)  There shall be subtracted from federal taxable income of a resident or nonresident
+            
+246
+
+    
+individual:
+            
+247
+
+    
+    (a)  the interest or dividends on obligations or securities of the United States and its
+            
+248
+
+    
+possessions or of any authority, commission, or instrumentality of the United States, to the
+            
+249
+
+    
+extent includable in gross income for federal income tax purposes but exempt from state
+            
+250
+
+    
+income taxes under the laws of the United States, but the amount subtracted under this
+            
+251
+
+    
+Subsection (2)(a) shall be reduced by any interest on indebtedness incurred or continued to
+            
+252
+
+    
+purchase or carry the obligations or securities described in this Subsection (2)(a), and by any
+            
+253
+
+    
+expenses incurred in the production of interest or dividend income described in this Subsection
+            
+254
+
+    
+(2)(a) to the extent that such expenses, including amortizable bond premiums, are deductible in
+            
+255
+
+    
+determining federal taxable income;
+            
+256
+
+    
+    (b) (i)  except as provided in Subsection (2)(b)(ii), 1/2 of the net amount of any income
+            
+257
+
+    
+tax paid or payable to the United States after all allowable credits, as reported on the United
+            
+258
+
+    
+States individual income tax return of the taxpayer for the same taxable year; and
+            
+259
+
+    
+    (ii)  notwithstanding Subsection (2)(b)(i), for taxable years beginning on or after
+            
+260
+
+    
+January 1, 2001, the amount of a credit or an advance refund amount reported on a resident or
+            
+261
+
+    
+nonresident individual's United States individual income tax return allowed as a result of the
+            
+262
+
+    
+acceleration of the income tax rate bracket benefit for 2001 in accordance with Section 101,
+            
+263
+
+    
+Economic Growth and Tax Relief Reconciliation Act of 2001, Pub. L. No. 107-16, may not be
+            
+264
+
+    
+used in calculating the amount described in Subsection (2)(b)(i);
+            
+265
+
+    
+    (c)  the amount of adoption expenses for one of the following taxable years as elected
+            
+266
+
+    
+by the resident or nonresident individual:
+            
+267
+
+    
+    (i)  regardless of whether a court issues an order granting the adoption, the taxable year
+            
+268
+
+    
+in which the adoption expenses are:
+            
+269
+
+    
+    (A)  paid; or
+            
+270
+
+    
+    (B)  incurred;
+            
+271
+
+    
+    (ii)  the taxable year in which a court issues an order granting the adoption; or
+            
+272
+
+    
+    (iii)  any year in which the resident or nonresident individual may claim the federal
+            
+273
+
+    
+adoption expenses credit under Section 23, Internal Revenue Code;
+            
+274
+
+    
+    (d)  amounts received by taxpayers under age 65 as retirement income which, for
+            
+275
+
+    
+purposes of this section, means pensions and annuities, paid from an annuity contract
+
+            
+276
+
+
+    
+purchased by an employer under a plan which meets the requirements of Section 404(a)(2),
+            
+277
+
+    
+Internal Revenue Code, or purchased by an employee under a plan which meets the
+            
+278
+
+    
+requirements of Section 408, Internal Revenue Code, or paid by the United States, a state, or
+            
+279
+
+    
+political subdivision thereof, or the District of Columbia, to the employee involved or the
+            
+280
+
+    
+surviving spouse;
+            
+281
+
+    
+    (e)  for each taxpayer age 65 or over before the close of the taxable year, a $7,500
+            
+282
+
+    
+personal retirement exemption;
+            
+283
+
+    
+    (f)  75% of the amount of the personal exemption, as defined and calculated in the
+            
+284
+
+    
+Internal Revenue Code, for each dependent child with a disability and adult with a disability
+            
+285
+
+    
+who is claimed as a dependent on a taxpayer's return;
+            
+286
+
+    
+    (g)  any amount included in federal taxable income that was received pursuant to any
+            
+287
+
+    
+federal law enacted in 1988 to provide reparation payments, as damages for human suffering,
+            
+288
+
+    
+to United States citizens and resident aliens of Japanese ancestry who were interned during
+            
+289
+
+    
+World War II;
+            
+290
+
+    
+    (h)  subject to the limitations of Subsection (3)(e), amounts a taxpayer pays during the
+            
+291
+
+    
+taxable year for health care insurance, as defined in Title 31A, Chapter 1, General Provisions:
+            
+292
+
+    
+    (i)  for:
+            
+293
+
+    
+    (A)  the taxpayer;
+            
+294
+
+    
+    (B)  the taxpayer's spouse; and
+            
+295
+
+    
+    (C)  the taxpayer's dependents; and
+            
+296
+
+    
+    (ii)  to the extent the taxpayer does not deduct the amounts under Section 125, 162, or
+            
+297
+
+    
+213, Internal Revenue Code, in determining federal taxable income for the taxable year;
+            
+298
+
+    
+    (i) (i)  except as otherwise provided in this Subsection (2)(i), the amount of a
+            
+299
+
+    
+contribution made during the taxable year on behalf of the taxpayer to a medical care savings
+            
+300
+
+    
+account and interest earned on a contribution to a medical care savings account established
+            
+301
+
+    
+pursuant to Title 31A, Chapter 32a, Medical Care Savings Account Act, to the extent the
+            
+302
+
+    
+contribution is accepted by the account administrator as provided in the Medical Care Savings
+            
+303
+
+    
+Account Act, and if the taxpayer did not deduct or include amounts on the taxpayer's federal
+            
+304
+
+    
+individual income tax return pursuant to Section 220, Internal Revenue Code; and
+            
+305
+
+    
+    (ii)  a contribution deductible under this Subsection (2)(i) may not exceed either of the
+            
+306
+
+    
+following:
+
+            
+307
+
+
+    
+    (A)  the maximum contribution allowed under the Medical Care Savings Account Act
+            
+308
+
+    
+for the tax year multiplied by two for taxpayers who file a joint return, if neither spouse is
+            
+309
+
+    
+covered by health care insurance as defined in Section 
+
+31A-1-301
+
+ or self-funded plan that
+            
+310
+
+    
+covers the other spouse, and each spouse has a medical care savings account; or
+            
+311
+
+    
+    (B)  the maximum contribution allowed under the Medical Care Savings Account Act
+            
+312
+
+    
+for the tax year for taxpayers:
+            
+313
+
+    
+    (I)  who do not file a joint return; or
+            
+314
+
+    
+    (II)  who file a joint return, but do not qualify under Subsection (2)(i)(ii)(A);
+            
+315
+
+    
+    (j)  the amount included in federal taxable income that was derived from money paid by
+            
+316
+
+    
+the taxpayer to the program fund under Title 53B, Chapter 8a, Higher Education Savings
+            
+317
+
+    
+Incentive Program, not to exceed amounts determined under Subsection 
+
+53B-8a-106
+
+(1)(d), and
+            
+318
+
+    
+investment income earned on participation agreements under Subsection 
+
+53B-8a-106
+
+(1) that is
+            
+319
+
+    
+included in federal taxable income, but only when the funds are used for qualified higher
+            
+320
+
+    
+education costs of the beneficiary;
+            
+321
+
+    
+    (k)  for taxable years beginning on or after January 1, 2000, any amounts paid for
+            
+322
+
+    
+premiums for long-term care insurance as defined in Section 
+
+31A-1-301
+
+ to the extent the
+            
+323
+
+    
+amounts paid for long-term care insurance were not deducted under Section 213, Internal
+            
+324
+
+    
+Revenue Code, in determining federal taxable income;
+            
+325
+
+    
+    (l)  for taxable years beginning on or after January 1, 2000, if the conditions of
+            
+326
+
+    
+Subsection (4)(a) are met, the amount of income derived by a Ute tribal member:
+            
+327
+
+    
+    (i)  during a time period that the Ute tribal member resides on homesteaded land
+            
+328
+
+    
+diminished from the Uintah and Ouray Reservation; and
+            
+329
+
+    
+    (ii)  from a source within the Uintah and Ouray Reservation; [and]
+            
+330
+
+    
+    (m) (i)  for taxable years beginning on or after January 1, 2003, the total amount of a
+            
+331
+
+    
+resident or nonresident individual's short-term capital gain or long-term capital gain on a
+            
+332
+
+    
+capital gain transaction:
+            
+333
+
+    
+    (A)  that occurs on or after January 1, 2003;
+            
+334
+
+    
+    (B)  if 70% or more of the gross proceeds of the capital gain transaction are expended:
+            
+335
+
+    
+    (I)  to purchase qualifying stock in a Utah small business corporation; and
+            
+336
+
+    
+    (II)  within a 12-month period after the day on which the capital gain transaction occurs;
+            
+337
+
+    
+and
+
+            
+338
+
+
+    
+    (C)  if, prior to the purchase of the qualifying stock described in Subsection
+            
+339
+
+    
+(2)(m)(i)(B)(I), the resident or nonresident individual did not have an ownership interest in the
+            
+340
+
+    
+Utah small business corporation that issued the qualifying stock; and
+            
+341
+
+    
+    (ii)  in accordance with Title 63, Chapter 46a, Utah Administrative Rulemaking Act, the
+            
+342
+
+    
+commission may make rules:
+            
+343
+
+    
+    (A)  defining the term "gross proceeds"; and
+            
+344
+
+    
+    (B)  for purposes of Subsection (2)(m)(i)(C), prescribing the circumstances under which
+            
+345
+
+    
+a resident or nonresident individual has an ownership interest in a Utah small business
+            
+346
+
+    
+corporation[.]; and
+            
+347
+
+    
+    (n) (i)  except as provided in Subsection (2)(n)(ii), for taxable years beginning on or
+            
+348
+
+    
+after January 1, 2004, income a resident or nonresident individual who is a servicemember
+            
+349
+
+    
+receives:
+            
+350
+
+    
+    (A)  for qualifying military service; and
+            
+351
+
+    
+    (B)  to the extent that income is included in adjusted gross income on that
+            
+352
+
+    
+servicemember's federal individual income tax return for the taxable year;
+            
+353
+
+    
+    (ii)  notwithstanding Subsection (2)(n)(i), a subtraction from federal taxable income is
+            
+354
+
+    
+not allowed under Subsection (2)(n)(i) for the following received by a servicemember:
+            
+355
+
+    
+    (A)  retirement:
+            
+356
+
+    
+    (I)  income; or
+            
+357
+
+    
+    (II)  benefits; or
+            
+358
+
+    
+    (B)  survivor benefits; and
+            
+359
+
+    
+    (iii)  in accordance with Title 63, Chapter 46a, Utah Administrative Rulemaking Act,
+            
+360
+
+    
+for purposes of Subsection (2)(n)(i) the commission may by rule define what constitutes
+            
+361
+
+    
+income a servicemember receives for qualifying military service.
+            
+362
+
+    
+    (3) (a)  For purposes of Subsection (2)(d), the amount of retirement income subtracted
+            
+363
+
+    
+for taxpayers under 65 shall be the lesser of the amount included in federal taxable income, or
+            
+364
+
+    
+$4,800, except that:
+            
+365
+
+    
+    (i)  for married taxpayers filing joint returns, for each $1 of adjusted gross income
+            
+366
+
+    
+earned over $32,000, the amount of the retirement income exemption that may be subtracted
+            
+367
+
+    
+shall be reduced by 50 cents;
+            
+368
+
+    
+    (ii)  for married taxpayers filing separate returns, for each $1 of adjusted gross income
+
+            
+369
+
+
+    
+earned over $16,000, the amount of the retirement income exemption that may be subtracted
+            
+370
+
+    
+shall be reduced by 50 cents; and
+            
+371
+
+    
+    (iii)  for individual taxpayers, for each $1 of adjusted gross income earned over
+            
+372
+
+    
+$25,000, the amount of the retirement income exemption that may be subtracted shall be
+            
+373
+
+    
+reduced by 50 cents.
+            
+374
+
+    
+    (b)  For purposes of Subsection (2)(e), the amount of the personal retirement exemption
+            
+375
+
+    
+shall be further reduced according to the following schedule:
+            
+376
+
+    
+    (i)  for married taxpayers filing joint returns, for each $1 of adjusted gross income
+            
+377
+
+    
+earned over $32,000, the amount of the personal retirement exemption shall be reduced by 50
+            
+378
+
+    
+cents;
+            
+379
+
+    
+    (ii)  for married taxpayers filing separate returns, for each $1 of adjusted gross income
+            
+380
+
+    
+earned over $16,000, the amount of the personal retirement exemption shall be reduced by 50
+            
+381
+
+    
+cents; and
+            
+382
+
+    
+    (iii)  for individual taxpayers, for each $1 of adjusted gross income earned over
+            
+383
+
+    
+$25,000, the amount of the personal retirement exemption shall be reduced by 50 cents.
+            
+384
+
+    
+    (c)  For purposes of Subsections (3)(a) and (b), adjusted gross income shall be
+            
+385
+
+    
+calculated by adding to federal adjusted gross income any interest income not otherwise
+            
+386
+
+    
+included in federal adjusted gross income.
+            
+387
+
+    
+    (d)  For purposes of determining ownership of items of retirement income common law
+            
+388
+
+    
+doctrine will be applied in all cases even though some items may have originated from service
+            
+389
+
+    
+or investments in a community property state.  Amounts received by the spouse of a living
+            
+390
+
+    
+retiree because of the retiree's having been employed in a community property state are not
+            
+391
+
+    
+deductible as retirement income of such spouse.
+            
+392
+
+    
+    (e)  For purposes of Subsection (2)(h), a subtraction for an amount paid for health care
+            
+393
+
+    
+insurance as defined in Title 31A, Chapter 1, General Provisions, is not allowed:
+            
+394
+
+    
+    (i)  for an amount that is reimbursed or funded in whole or in part by the federal
+            
+395
+
+    
+government, the state, or an agency or instrumentality of the federal government or the state;
+            
+396
+
+    
+and
+            
+397
+
+    
+    (ii)  for a taxpayer who is eligible to participate in a health plan maintained and funded
+            
+398
+
+    
+in whole or in part by the taxpayer's employer or the taxpayer's spouse's employer.
+            
+399
+
+    
+    (4) (a)  A subtraction for an amount described in Subsection (2)(l) is allowed only if:
+
+            
+400
+
+
+    
+    (i)  the taxpayer is a Ute tribal member; and
+            
+401
+
+    
+    (ii)  the governor and the Ute tribe execute and maintain an agreement meeting the
+            
+402
+
+    
+requirements of this Subsection (4).
+            
+403
+
+    
+    (b)  The agreement described in Subsection (4)(a):
+            
+404
+
+    
+    (i)  may not:
+            
+405
+
+    
+    (A)  authorize the state to impose a tax in addition to a tax imposed under this chapter;
+            
+406
+
+    
+    (B)  provide a subtraction under this section greater than or different from the
+            
+407
+
+    
+subtraction described in Subsection (2)(l); or
+            
+408
+
+    
+    (C)  affect the power of the state to establish rates of taxation; and
+            
+409
+
+    
+    (ii)  shall:
+            
+410
+
+    
+    (A)  provide for the implementation of the subtraction described in Subsection (2)(l);
+            
+411
+
+    
+    (B)  be in writing;
+            
+412
+
+    
+    (C)  be signed by:
+            
+413
+
+    
+    (I)  the governor; and
+            
+414
+
+    
+    (II)  the chair of the Business Committee of the Ute tribe;
+            
+415
+
+    
+    (D)  be conditioned on obtaining any approval required by federal law; and
+            
+416
+
+    
+    (E)  state the effective date of the agreement.
+            
+417
+
+    
+    (c) (i)  The governor shall report to the commission by no later than February 1 of each
+            
+418
+
+    
+year regarding whether or not an agreement meeting the requirements of this Subsection (4) is
+            
+419
+
+    
+in effect.
+            
+420
+
+    
+    (ii)  If an agreement meeting the requirements of this Subsection (4) is terminated, the
+            
+421
+
+    
+subtraction permitted under Subsection (2)(l) is not allowed for taxable years beginning on or
+            
+422
+
+    
+after the January 1 following the termination of the agreement.
+            
+423
+
+    
+    (d)  For purposes of Subsection (2)(l) and in accordance with Title 63, Chapter 46a,
+            
+424
+
+    
+Utah Administrative Rulemaking Act, the commission may make rules:
+            
+425
+
+    
+    (i)  for determining whether income is derived from a source within the Uintah and
+            
+426
+
+    
+Ouray Reservation; and
+            
+427
+
+    
+    (ii)  that are substantially similar to how federal adjusted gross income derived from
+            
+428
+
+    
+Utah sources is determined under Section 
+
+59-10-117
+
+.
+            
+429
+
+    
+    (5) (a)  For purposes of this Subsection (5), "Form 8814" means:
+            
+430
+
+    
+    (i)  the federal individual income tax Form 8814, Parents' Election To Report Child's
+
+            
+431
+
+
+    
+Interest and Dividends; or
+            
+432
+
+    
+    (ii) (A)  for taxable years beginning on or after January 1, 2002, a form designated by
+            
+433
+
+    
+the commission in accordance with Subsection (5)(a)(ii)(B) as being substantially similar to
+            
+434
+
+    
+2000 Form 8814 if for purposes of federal individual income taxes the information contained
+            
+435
+
+    
+on 2000 Form 8814 is reported on a form other than Form 8814; and
+            
+436
+
+    
+    (B)  for purposes of Subsection (5)(a)(ii)(A) and in accordance with Title 63, Chapter
+            
+437
+
+    
+46a, Utah Administrative Rulemaking Act, the commission may make rules designating a form
+            
+438
+
+    
+as being substantially similar to 2000 Form 8814 if for purposes of federal individual income
+            
+439
+
+    
+taxes the information contained on 2000 Form 8814 is reported on a form other than Form
+            
+440
+
+    
+8814.
+            
+441
+
+    
+    (b)  The amount of a child's income added to adjusted gross income under Subsection
+            
+442
+
+    
+(1)(c) is equal to the difference between:
+            
+443
+
+    
+    (i)  the lesser of:
+            
+444
+
+    
+    (A)  the base amount specified on Form 8814; and
+            
+445
+
+    
+    (B)  the sum of the following reported on Form 8814:
+            
+446
+
+    
+    (I)  the child's taxable interest;
+            
+447
+
+    
+    (II)  the child's ordinary dividends; and
+            
+448
+
+    
+    (III)  the child's capital gain distributions; and
+            
+449
+
+    
+    (ii)  the amount not taxed that is specified on Form 8814.
+            
+450
+
+    
+    (6)  Notwithstanding Subsection (1)(g), interest from bonds, notes, and other evidences
+            
+451
+
+    
+of indebtedness issued by an entity described in Subsections (1)(g)(i) through (iv) may not be
+            
+452
+
+    
+added to federal taxable income of a resident or nonresident individual if, as annually
+            
+453
+
+    
+determined by the commission:
+            
+454
+
+    
+    (a)  for an entity described in Subsection (1)(g)(i) or (ii), the entity and all of the
+            
+455
+
+    
+political subdivisions, agencies, or instrumentalities of the entity do not impose a tax based on
+            
+456
+
+    
+income on any part of the bonds, notes, and other evidences of indebtedness of this state; or
+            
+457
+
+    
+    (b)  for an entity described in Subsection (1)(g)(iii) or (iv), the following do not impose
+            
+458
+
+    
+a tax based on income on any part of the bonds, notes, and other evidences of indebtedness of
+            
+459
+
+    
+this state:
+            
+460
+
+    
+    (i)  the entity; or
+            
+461
+
+    
+    (ii) (A)  the state in which the entity is located; or
+
+            
+462
+
+
+    
+    (B)  the District of Columbia, if the entity is located within the District of Columbia.
+            
+463
+
+    
+    Section 3.  
+Section  
+75-7-202
+
+ is amended to read:
+            
+464
+
+    
+     75-7-202.  Effect of administration in this state -- Consent to jurisdiction.
+            
+465
+
+    
+    (1)  The trustee submits personally to the jurisdiction of the courts of this state
+            
+466
+
+    
+regarding any matter involving the trust if  the trustee acts as trustee of a trust administered in
+            
+467
+
+    
+this state.
+            
+468
+
+    
+    (2)  To the extent of the beneficial interests in a trust administered in this state, the
+            
+469
+
+    
+beneficiaries of the trust are subject to the jurisdiction of the courts of this state regarding any
+            
+470
+
+    
+matter involving the trust.  By accepting a distribution from such a trust, the recipient submits
+            
+471
+
+    
+personally to the jurisdiction of the courts of this state regarding any matter involving the trust.
+            
+472
+
+    
+    (3)  By accepting the delegation of a trust function from the trustee of a trust
+            
+473
+
+    
+administered in this state, the agent submits to the jurisdiction of the courts of this state
+            
+474
+
+    
+regarding any matter involving the trust.
+            
+475
+
+    
+    (4)  Unless otherwise designated in the trust instrument, a trust is administered in this
+            
+476
+
+    
+state if it meets the requirements of Subsection 
+
+59-10-103
+
+(1)[(r)] (u)(ii).
+            
+477
+
+    
+    Section 4.  
+Section  
+75-7-208
+
+ is amended to read:
+            
+478
+
+    
+     75-7-208.  Governing law.
+            
+479
+
+    
+    (1)  For purposes of this section:
+            
+480
+
+    
+    (a)  "Foreign trust" means a trust that is created in another state or country and valid in
+            
+481
+
+    
+the state or country in which the trust is created.
+            
+482
+
+    
+    (b)  "State law provision" means a provision that the laws of a named state govern the
+            
+483
+
+    
+validity, construction, and administration of a trust.
+            
+484
+
+    
+    (2)  If a trust has a state law provision specifying this state, the validity, construction,
+            
+485
+
+    
+and administration of the trust are to be governed by the laws of this state if any administration
+            
+486
+
+    
+of the trust is done in this state.
+            
+487
+
+    
+    (3)  For all trusts created on or after December 31, 2003, if a trust does not have a state
+            
+488
+
+    
+law provision, the validity, construction, and administration of the trust are to be governed by
+            
+489
+
+    
+the laws of this state if the trust is administered in this state.
+            
+490
+
+    
+    (4)  If a foreign trust is administered in this state as provided in this section, the
+            
+491
+
+    
+following provisions are effective and enforceable under the laws of this state:
+            
+492
+
+    
+    (a)  a provision in the trust that restricts the transfer of trust assets in a manner similar
+
+            
+493
+
+
+    
+to Section 
+
+25-6-14
+
+;
+            
+494
+
+    
+    (b)  a provision that allows the trust to be perpetual; or
+            
+495
+
+    
+    (c)  a provision that is not expressly prohibited by the law of this state.
+            
+496
+
+    
+    (5)  A foreign trust that moves its administration to this state is valid whether or not the
+            
+497
+
+    
+trust complied with the laws of this state at the time of the trust's creation or after the trust's
+            
+498
+
+    
+creation.
+            
+499
+
+    
+    (6)  Unless otherwise designated in the trust instrument, a trust is administered in this
+            
+500
+
+    
+state if it meets the requirements of Subsection 
+
+59-10-103
+
+(1)[(r)] (u)(ii).
+            
+501
+
+    
+    Section 5.   Retrospective operation.
+            
+502
+
+    
+    This bill has retrospective operation for taxable years beginning on or after January 1,
+            
+503
+
+    
+2004.
+
+
+
+
+ Legislative Review Note
+    as of   1-26-04  5:12 PM
+
+A limited legal review of this legislation raises no obvious constitutional or statutory concerns.
+
+ Office of Legislative Research and General Counsel
+[Bill Documents][Bills Directory]
+
+
+
+
+
+
+
+
+
+Who represents me?
+
+
+
+
+
+Remember my Legislators
+
+
+
+
+
+State Senate
+		350 North State, Suite 320
+		PO Box 145115
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1035
+		Fax: (801) 326-1475
+
+
+
+House of Representatives
+		350 North State, Suite 350
+		PO Box 145030
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1029
+		Fax: (801) 326-1544
+
+
+
+
+
+
+
+
+
+
+Home
+Mobile Site
+Site Map
+Calendar
+Code / Constitution
+House
+Senate
+
+Terms of Use/Privacy Policy
+
+ADA
+Utah.gov
+
+
+
+
+
+
+

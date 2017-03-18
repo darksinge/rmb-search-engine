@@ -1,0 +1,645 @@
+Sponsors: []Modifications:     57-24-1.This chapter is known as the "Homeowner Associations Act."    57-24-2.As used in this chapter:(1)  "Homeowner association" means a mandatory membership association of ownersof real property:(a)  created pursuant to a recorded instrument that subjects property within thehomeowner association to certain restrictive covenants;(b)  that represents the mutual interests of the real property owners regarding theconstruction, protection, and maintenance of the property and improvements commonly ownedor used by the homeowner association; and(c)  that has the authority under the recorded instrument described in Subsection (1)(a)to compel members of the homeowner association to pay the expenses incurred in performingthe obligations of the homeowner association.(2)  "Planned unit development" means an area of land developed under unified controlor a unified plan of development.    57-24-3.(1) (a)  If a homeowner association manages or owns common areas within a plannedunit development, a property owner within the homeowner association shall pay the propertyowner's share of the common expenses of the homeowner association.(b)  A payment described in Subsection (1)(a) shall be in the amount and at the timedetermined:(i)  by the homeowner association; and(ii)  pursuant to the recorded instrument under which the homeowner association wascreated.(2) (a)  Subject to Subsection (3), if a property owner fails or refuses to pay a paymentdescribed in Subsection (1)(a), that amount constitutes a lien on the interest of the propertyowner in the property that is subject to the homeowner association.(b)  Subject to Subsection (3), upon the recording of notice of lien by the homeownerassociation, a lien described in Subsection (2)(a) is a lien on the interest of the property ownerin the property prior to all other liens and encumbrances, recorded or unrecorded, except:(i)  tax and special assessment liens on the property in favor of any assessing unit orspecial improvement district; and(ii)  encumbrances on the interest of the property owner:(A)  recorded prior to the date of the recording of notice of lien described in Subsection(2)(b); and(B)  that by law would be a lien prior to subsequently recorded encumbrances.(3)  A lien described in Subsection (2) is valid only if:(a)  the homeowner association maintains current records for its officers, directors, andtrustees with the Division of Corporations and Commercial Code; and(b)  the recording of notice of lien contains:(i)  a day time telephone number of the homeowner association; and(ii)  a mailing address of the homeowner association.Full text:
+
+
+
+Utah State Legislature
+
+
+
+
+
+
+
+
+
+
+
+
+Legislators
+
+By Session (1896-Current)
+Alphabetical (Historical)
+Find by Address/Map
+More
+
+
+Bills
+
+Bills/Bill Requests
+Passed Bills
+2017 Bills
+
+Keyword Search
+Reading Calendars
+Tracking Service
+More
+
+
+Committees
+
+All Committees
+Appropriations
+Commissions
+
+Independent Legislative Ethics Commission
+Interim
+Standing
+Subcommittees
+Task Forces
+Bills In Committees
+
+
+Utah Code / Constitution
+
+
+Title/Chapter/Section
+Keyword Search 
+
+Utah Constitution
+Laws of Utah 1851-ongoing
+Utah Territorial Laws 
+More
+
+
+Senate
+
+Main Page 
+About The Senate 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Extraordinary Sessions 
+Reading Calendars 
+Past Floor Debates 
+Senate Journals 
+
+
+House
+
+Main Page
+About the House 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Reading Calendars 
+Past Floor Debates 
+Journals 
+Conflict of Interest Forms 
+
+
+Legislative Guide 
+
+Legislative Guide
+Civic Programs
+GRAMA (Records Requests)
+
+
+Publications
+
+Search Publications
+Appropriations
+Audits
+Bagels & Briefings
+Briefing Papers
+Digest of Legislation
+Legislative Drafting Manual
+
+Journals
+
+Interim Highlights
+
+Legislative Rules
+GRAMA (Records Requests)
+Public Email
+State Organization Charts
+YouTube Channel
+Requests for Proposals and Legal Notices
+More
+
+
+Legislative Histories
+
+Legislative History Resources
+How to Research
+Bill Drafting/Research Files (1990-Ongoing)
+
+Working Bills (1896-1989)
+Interim Committee Histories (1990-Ongoing) 
+Journals
+Past House Floor Debates
+Past Senate Floor Debates
+More
+
+
+Staff Offices
+
+All Legislative Offices
+Auditor General
+Fiscal Analyst
+Printing
+Research and General Counsel
+Staff Awards
+Job Opportunities
+More
+
+
+Links of Interest
+
+Utah Administrative Rules
+Courts
+Utah State Capitol
+State of Utah
+Federal Legislation
+More
+
+
+
+
+
+
+ 
+
+Download Zipped Introduced WordPerfect HB0059.ZIP
+[Status][Bill Documents][Fiscal Note][Bills Directory]
+
+
+H.B. 59
+
+
+
+
+
+            
+1
+
+    
+ LIEN FOR HOMEOWNER ASSOCIATION
+
+            
+2
+
+    
+ CHARGES
+
+
+            
+3
+
+    
+2004 GENERAL SESSION
+
+            
+4
+
+    
+STATE OF UTAH
+
+            
+5
+
+    
+ Sponsor: Steven R. Mascaro
+
+            
+6
+
+    
+
+            
+7
+
+    
+ LONG TITLE
+            
+8
+
+    
+ General Description:
+            
+9
+
+    
+    This bill modifies the Real Estate Code to enact provisions related to liens for
+            
+10
+
+    
+homeowner association charges.
+            
+11
+
+    
+ Highlighted Provisions:
+            
+12
+
+    
+    This bill:
+            
+13
+
+    
+    .    provides definitions;
+            
+14
+
+    
+    .    requires that in certain circumstances, a failure to pay homeowner association
+            
+15
+
+    
+charges may result in a lien; and
+            
+16
+
+    
+    .    establishes provisions related to the recording and priority of the lien.
+            
+17
+
+    
+ Monies Appropriated in this Bill:
+            
+18
+
+    
+    None
+            
+19
+
+    
+ Other Special Clauses:
+            
+20
+
+    
+    None
+            
+21
+
+    
+ Utah Code Sections Affected:
+            
+22
+
+    
+ENACTS:
+            
+23
+
+    
+     57-24-1, Utah Code Annotated 1953
+            
+24
+
+    
+     57-24-2, Utah Code Annotated 1953
+            
+25
+
+    
+     57-24-3, Utah Code Annotated 1953
+            
+26
+
+    
+
+            
+27
+
+    
+Be it enacted by the Legislature of the state of Utah:
+
+
+            
+28
+
+
+    
+    Section 1.  
+Section  
+57-24-1
+
+ is enacted to read:
+            
+29
+
+    
+ CHAPTER 24.  HOMEOWNER ASSOCIATIONS ACT
+
+            
+30
+
+    
+     57-24-1.  Title.
+            
+31
+
+    
+    This chapter is known as the "Homeowner Associations Act."
+            
+32
+
+    
+    Section 2.  
+Section  
+57-24-2
+
+ is enacted to read:
+            
+33
+
+    
+     57-24-2.  Definitions.
+            
+34
+
+    
+    As used in this chapter:
+            
+35
+
+    
+    (1)  "Homeowner association" means a mandatory membership association of owners
+            
+36
+
+    
+of real property:
+            
+37
+
+    
+    (a)  created pursuant to a recorded instrument that subjects property within the
+            
+38
+
+    
+homeowner association to certain restrictive covenants;
+            
+39
+
+    
+    (b)  that represents the mutual interests of the real property owners regarding the
+            
+40
+
+    
+construction, protection, and maintenance of the property and improvements commonly owned
+            
+41
+
+    
+or used by the homeowner association; and
+            
+42
+
+    
+    (c)  that has the authority under the recorded instrument described in Subsection (1)(a)
+            
+43
+
+    
+to compel members of the homeowner association to pay the expenses incurred in performing
+            
+44
+
+    
+the obligations of the homeowner association.
+            
+45
+
+    
+    (2)  "Planned unit development" means an area of land developed under unified control
+            
+46
+
+    
+or a unified plan of development.
+            
+47
+
+    
+    Section 3.  
+Section  
+57-24-3
+
+ is enacted to read:
+            
+48
+
+    
+     57-24-3.  Lien for nonpayment of common expenses.
+            
+49
+
+    
+    (1) (a)  If a homeowner association manages or owns common areas within a planned
+            
+50
+
+    
+unit development, a property owner within the homeowner association shall pay the property
+            
+51
+
+    
+owner's share of the common expenses of the homeowner association.
+            
+52
+
+    
+    (b)  A payment described in Subsection (1)(a) shall be in the amount and at the time
+            
+53
+
+    
+determined:
+            
+54
+
+    
+    (i)  by the homeowner association; and
+            
+55
+
+    
+    (ii)  pursuant to the recorded instrument under which the homeowner association was
+            
+56
+
+    
+created.
+            
+57
+
+    
+    (2) (a)  Subject to Subsection (3), if a property owner fails or refuses to pay a payment
+            
+58
+
+    
+described in Subsection (1)(a), that amount constitutes a lien on the interest of the property
+
+            
+59
+
+
+    
+owner in the property that is subject to the homeowner association.
+            
+60
+
+    
+    (b)  Subject to Subsection (3), upon the recording of notice of lien by the homeowner
+            
+61
+
+    
+association, a lien described in Subsection (2)(a) is a lien on the interest of the property owner
+            
+62
+
+    
+in the property prior to all other liens and encumbrances, recorded or unrecorded, except:
+            
+63
+
+    
+    (i)  tax and special assessment liens on the property in favor of any assessing unit or
+            
+64
+
+    
+special improvement district; and
+            
+65
+
+    
+    (ii)  encumbrances on the interest of the property owner:
+            
+66
+
+    
+    (A)  recorded prior to the date of the recording of notice of lien described in Subsection
+            
+67
+
+    
+(2)(b); and
+            
+68
+
+    
+    (B)  that by law would be a lien prior to subsequently recorded encumbrances.
+            
+69
+
+    
+    (3)  A lien described in Subsection (2) is valid only if:
+            
+70
+
+    
+    (a)  the homeowner association maintains current records for its officers, directors, and
+            
+71
+
+    
+trustees with the Division of Corporations and Commercial Code; and
+            
+72
+
+    
+    (b)  the recording of notice of lien contains:
+            
+73
+
+    
+    (i)  a day time telephone number of the homeowner association; and
+            
+74
+
+    
+    (ii)  a mailing address of the homeowner association.
+
+
+
+
+ Legislative Review Note
+    as of  12-23-03  12:49 PM
+
+A limited legal review of this legislation raises no obvious constitutional or statutory concerns.
+
+ Office of Legislative Research and General Counsel
+[Bill Documents][Bills Directory]
+
+
+
+
+
+
+
+
+
+Who represents me?
+
+
+
+
+
+Remember my Legislators
+
+
+
+
+
+State Senate
+		350 North State, Suite 320
+		PO Box 145115
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1035
+		Fax: (801) 326-1475
+
+
+
+House of Representatives
+		350 North State, Suite 350
+		PO Box 145030
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1029
+		Fax: (801) 326-1544
+
+
+
+
+
+
+
+
+
+
+Home
+Mobile Site
+Site Map
+Calendar
+Code / Constitution
+House
+Senate
+
+Terms of Use/Privacy Policy
+
+ADA
+Utah.gov
+
+
+
+
+
+
+

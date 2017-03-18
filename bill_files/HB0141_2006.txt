@@ -1,0 +1,882 @@
+Sponsors: []Modifications:     41-1a-230.6.(1)  A person who applies for a motor vehicle registration or registration renewal maydesignate a voluntary contribution of $2 for the purpose of:(a)  protecting access to public lands by motor vehicle and off-highway vehicleoperators; and(b)  educating the public about appropriate off-highway vehicle use.(2)  This contribution shall be:(a)  collected by the division;(b)  treated as a voluntary contribution to the Off-highway Access and EducationRestricted Account created in Section 
+
+41-22-19.5
+
+ and not as a motor vehicle or off-highwayvehicle registration fee; and(c)  transferred to the Off-highway Access and Education Restricted Account created inSection 
+
+41-22-19.5
+
+ at least monthly, less actual administrative costs associated with collectingand transferring the contributions.(3)  In addition to the administrative costs deducted under Subsection (2)(c), thedivision may deduct the first $1,000 collected to cover costs incurred to change the registrationform.(1)(a)(b)(2)  The board shall receive and distribute voluntary contributions collected underSection 
+
+41-1a-230.6
+
+ in accordance with Section 
+
+41-22-19.5
+
+.    41-22-19.5.(1)  There is created in the General Fund a restricted account known as the Off-highwayAccess and Education Restricted Account.(2)  The account shall be funded by:(a)  contributions deposited into the Off-highway Access and Education RestrictedAccount in accordance with Section 
+
+41-1a-230.6
+
+;(b)  private contributions;(c)  donations or grants from public or private entities; or(d)  interest and earnings on fund monies.(3)  Funds in the account are nonlapsing.(4)  The Legislature shall appropriate money in the account to the board.(5)  The board shall distribute the funds to a charitable organization that:(a)  qualifies as being tax exempt under Section 501(c)(3) of the Internal RevenueCode; and(b)  has as a primary part of its mission to:(i)  protect access to public lands by motor vehicle and off-highway vehicle operators;and(ii)  educate the public about appropriate off-highway vehicle use.(6)  The board may only consider proposals that are:(a)  proposed by a charitable organization under Subsection (5); and(b)  designed to:(i)  protect access to public lands by motor vehicle and off-highway vehicle operators;and(ii)  educate the public about appropriate off-highway vehicle use.(7)  In accordance with Title 63, Chapter 46a, Utah Administrative Rulemaking Act, theboard shall make rules providing procedures for an organization to apply to receive funds underthis section.(8)  The board may not:(a)  require matching funds from a charitable organization as a condition of receivingfunds; or(b)  prohibit the use of funds to cover litigation expenses incurred in protecting accessto public lands by motor vehicle and off-highway vehicle operators.This bill takes effect October 1, 2006.Full text:
+
+
+
+Utah State Legislature
+
+
+
+
+
+
+
+
+
+
+
+
+Legislators
+
+By Session (1896-Current)
+Alphabetical (Historical)
+Find by Address/Map
+More
+
+
+Bills
+
+Bills/Bill Requests
+Passed Bills
+2017 Bills
+
+Keyword Search
+Reading Calendars
+Tracking Service
+More
+
+
+Committees
+
+All Committees
+Appropriations
+Commissions
+
+Independent Legislative Ethics Commission
+Interim
+Standing
+Subcommittees
+Task Forces
+Bills In Committees
+
+
+Utah Code / Constitution
+
+
+Title/Chapter/Section
+Keyword Search 
+
+Utah Constitution
+Laws of Utah 1851-ongoing
+Utah Territorial Laws 
+More
+
+
+Senate
+
+Main Page 
+About The Senate 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Extraordinary Sessions 
+Reading Calendars 
+Past Floor Debates 
+Senate Journals 
+
+
+House
+
+Main Page
+About the House 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Reading Calendars 
+Past Floor Debates 
+Journals 
+Conflict of Interest Forms 
+
+
+Legislative Guide 
+
+Legislative Guide
+Civic Programs
+GRAMA (Records Requests)
+
+
+Publications
+
+Search Publications
+Appropriations
+Audits
+Bagels & Briefings
+Briefing Papers
+Digest of Legislation
+Legislative Drafting Manual
+
+Journals
+
+Interim Highlights
+
+Legislative Rules
+GRAMA (Records Requests)
+Public Email
+State Organization Charts
+YouTube Channel
+Requests for Proposals and Legal Notices
+More
+
+
+Legislative Histories
+
+Legislative History Resources
+How to Research
+Bill Drafting/Research Files (1990-Ongoing)
+
+Working Bills (1896-1989)
+Interim Committee Histories (1990-Ongoing) 
+Journals
+Past House Floor Debates
+Past Senate Floor Debates
+More
+
+
+Staff Offices
+
+All Legislative Offices
+Auditor General
+Fiscal Analyst
+Printing
+Research and General Counsel
+Staff Awards
+Job Opportunities
+More
+
+
+Links of Interest
+
+Utah Administrative Rules
+Courts
+Utah State Capitol
+State of Utah
+Federal Legislation
+More
+
+
+
+
+
+
+ 
+
+Download Zipped Introduced WordPerfect HB0141.ZIP
+[Status][Bill Documents][Fiscal Note][Bills Directory]
+
+
+H.B. 141
+
+
+
+
+
+            
+1
+
+    
+ MOTOR VEHICLE REGISTRATION CHECKOFF
+
+            
+2
+
+    
+ FOR PROTECTING ACCESS TO PUBLIC LANDS
+
+            
+3
+
+    
+ AND OFF-HIGHWAY VEHICLE EDUCATION
+
+
+
+            
+4
+
+    
+2006 GENERAL SESSION
+
+            
+5
+
+    
+STATE OF UTAH
+
+            
+6
+
+    
+
+
+ Chief Sponsor:  Michael E. Noel
+
+
+
+            
+7
+
+    
+
+
+
+Senate Sponsor: 
+
+
+
+
+
+
+  Thomas V. Hatch
+
+
+
+
+
+            
+8
+
+    
+
+            
+9
+
+    
+ LONG TITLE
+            
+10
+
+    
+ General Description:
+            
+11
+
+    
+    This bill modifies the Motor Vehicles Code to create a voluntary contribution checkoff
+            
+12
+
+    
+for motor vehicle registrations.
+            
+13
+
+    
+ Highlighted Provisions:
+            
+14
+
+    
+    This bill:
+            
+15
+
+    
+    .    authorizes a voluntary contribution checkoff for protecting access to public lands
+            
+16
+
+    
+and off-highway vehicle education on motor vehicle registrations;
+            
+17
+
+    
+    .    creates the Off-highway Access and Education Restricted Account;
+            
+18
+
+    
+    .    provides that the Division of Motor Vehicles shall collect the contributions and
+            
+19
+
+    
+transfer them to the account;
+            
+20
+
+    
+    .    requires the Board of Parks and Recreation to distribute funds collected into the
+            
+21
+
+    
+account;
+            
+22
+
+    
+    .    establishes criteria that an organization must meet to apply for funds from the
+            
+23
+
+    
+account;
+            
+24
+
+    
+    .    requires the board to make rules for an organization to apply for funds;
+            
+25
+
+    
+    .    prohibits the board from considering proposals that do not:
+            
+26
+
+    
+        .    protect access to public lands by motor vehicle and off-highway vehicle
+            
+27
+
+    
+operators; and
+
+            
+28
+
+
+    
+        .    educate the public about appropriate off-highway vehicle use;
+            
+29
+
+    
+    .    prohibits the board from:
+            
+30
+
+    
+        .    requiring matching funds for proposals; or
+            
+31
+
+    
+        .    prohibiting the use of funds for certain purposes; and
+            
+32
+
+    
+    .    makes technical changes.
+            
+33
+
+    
+ Monies Appropriated in this Bill:
+            
+34
+
+    
+    None
+            
+35
+
+    
+ Other Special Clauses:
+            
+36
+
+    
+    This bill takes effect October 1, 2006.
+            
+37
+
+    
+ Utah Code Sections Affected:
+            
+38
+
+    
+AMENDS:
+            
+39
+
+    
+     41-22-10, as last amended by Chapter 162, Laws of Utah 1987
+            
+40
+
+    
+ENACTS:
+            
+41
+
+    
+     41-1a-230.6, Utah Code Annotated 1953
+            
+42
+
+    
+     41-22-19.5, Utah Code Annotated 1953
+            
+43
+
+    
+
+            
+44
+
+    
+Be it enacted by the Legislature of the state of Utah:
+            
+45
+
+    
+    Section 1.  
+Section  
+41-1a-230.6
+
+ is enacted to read:
+            
+46
+
+    
+     41-1a-230.6.  Registration checkoff for protecting access to public lands and
+            
+47
+
+    
+ promoting off-highway vehicle education.
+            
+48
+
+    
+    (1)  A person who applies for a motor vehicle registration or registration renewal may
+            
+49
+
+    
+designate a voluntary contribution of $2 for the purpose of:
+            
+50
+
+    
+    (a)  protecting access to public lands by motor vehicle and off-highway vehicle
+            
+51
+
+    
+operators; and
+            
+52
+
+    
+    (b)  educating the public about appropriate off-highway vehicle use.
+            
+53
+
+    
+    (2)  This contribution shall be:
+            
+54
+
+    
+    (a)  collected by the division;
+            
+55
+
+    
+    (b)  treated as a voluntary contribution to the Off-highway Access and Education
+            
+56
+
+    
+Restricted Account created in Section 
+
+41-22-19.5
+
+ and not as a motor vehicle or off-highway
+            
+57
+
+    
+vehicle registration fee; and
+            
+58
+
+    
+    (c)  transferred to the Off-highway Access and Education Restricted Account created in
+
+            
+59
+
+
+    
+Section 
+
+41-22-19.5
+
+ at least monthly, less actual administrative costs associated with collecting
+            
+60
+
+    
+and transferring the contributions.
+            
+61
+
+    
+    (3)  In addition to the administrative costs deducted under Subsection (2)(c), the
+            
+62
+
+    
+division may deduct the first $1,000 collected to cover costs incurred to change the registration
+            
+63
+
+    
+form.
+            
+64
+
+    
+    Section 2.  
+Section  
+41-22-10
+
+ is amended to read:
+            
+65
+
+    
+     41-22-10.  Powers of board relating to off-highway vehicles.
+            
+66
+
+    
+    (1)  The board may:
+            
+67
+
+    
+    [(1)] (a)  appoint and seek recommendations from the Off-highway Vehicle Advisory
+            
+68
+
+    
+Council representing the various off-highway vehicle, conservation, and other appropriate
+            
+69
+
+    
+interests; and
+            
+70
+
+    
+    [(2)] (b)  adopt a uniform marker and sign system for use by agents of appropriate
+            
+71
+
+    
+federal, state, county, and city agencies in areas of off-highway vehicle use.
+            
+72
+
+    
+    (2)  The board shall receive and distribute voluntary contributions collected under
+            
+73
+
+    
+Section 
+
+41-1a-230.6
+
+ in accordance with Section 
+
+41-22-19.5
+
+.
+            
+74
+
+    
+    Section 3.  
+Section  
+41-22-19.5
+
+ is enacted to read:
+            
+75
+
+    
+     41-22-19.5.  Off-highway Access and Education Restricted Account -- Creation --
+            
+76
+
+    
+ Funding -- Distribution of funds by the Board of Parks and Recreation.
+            
+77
+
+    
+    (1)  There is created in the General Fund a restricted account known as the Off-highway
+            
+78
+
+    
+Access and Education Restricted Account.
+            
+79
+
+    
+    (2)  The account shall be funded by:
+            
+80
+
+    
+    (a)  contributions deposited into the Off-highway Access and Education Restricted
+            
+81
+
+    
+Account in accordance with Section 
+
+41-1a-230.6
+
+;
+            
+82
+
+    
+    (b)  private contributions;
+            
+83
+
+    
+    (c)  donations or grants from public or private entities; or
+            
+84
+
+    
+    (d)  interest and earnings on fund monies.
+            
+85
+
+    
+    (3)  Funds in the account are nonlapsing.
+            
+86
+
+    
+    (4)  The Legislature shall appropriate money in the account to the board.
+            
+87
+
+    
+    (5)  The board shall distribute the funds to a charitable organization that:
+            
+88
+
+    
+    (a)  qualifies as being tax exempt under Section 501(c)(3) of the Internal Revenue
+            
+89
+
+    
+Code; and
+
+            
+90
+
+
+    
+    (b)  has as a primary part of its mission to:
+            
+91
+
+    
+    (i)  protect access to public lands by motor vehicle and off-highway vehicle operators;
+            
+92
+
+    
+and
+            
+93
+
+    
+    (ii)  educate the public about appropriate off-highway vehicle use.
+            
+94
+
+    
+    (6)  The board may only consider proposals that are:
+            
+95
+
+    
+    (a)  proposed by a charitable organization under Subsection (5); and
+            
+96
+
+    
+    (b)  designed to:
+            
+97
+
+    
+    (i)  protect access to public lands by motor vehicle and off-highway vehicle operators;
+            
+98
+
+    
+and
+            
+99
+
+    
+    (ii)  educate the public about appropriate off-highway vehicle use.
+            
+100
+
+    
+    (7)  In accordance with Title 63, Chapter 46a, Utah Administrative Rulemaking Act, the
+            
+101
+
+    
+board shall make rules providing procedures for an organization to apply to receive funds under
+            
+102
+
+    
+this section.
+            
+103
+
+    
+    (8)  The board may not:
+            
+104
+
+    
+    (a)  require matching funds from a charitable organization as a condition of receiving
+            
+105
+
+    
+funds; or
+            
+106
+
+    
+    (b)  prohibit the use of funds to cover litigation expenses incurred in protecting access
+            
+107
+
+    
+to public lands by motor vehicle and off-highway vehicle operators.
+            
+108
+
+    
+    Section 4.   Effective date.
+            
+109
+
+    
+    This bill takes effect October 1, 2006.
+
+
+
+
+ Legislative Review Note
+    as of   1-18-06  7:21 AM
+
+Based on a limited legal review, this legislation has not been determined to have a high
+probability of being held unconstitutional.
+
+ Office of Legislative Research and General Counsel
+[Bill Documents][Bills Directory]
+
+
+
+
+
+
+
+
+
+Who represents me?
+
+
+
+
+
+Remember my Legislators
+
+
+
+
+
+State Senate
+		350 North State, Suite 320
+		PO Box 145115
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1035
+		Fax: (801) 326-1475
+
+
+
+House of Representatives
+		350 North State, Suite 350
+		PO Box 145030
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1029
+		Fax: (801) 326-1544
+
+
+
+
+
+
+
+
+
+
+Home
+Mobile Site
+Site Map
+Calendar
+Code / Constitution
+House
+Senate
+
+Terms of Use/Privacy Policy
+
+ADA
+Utah.gov
+
+
+
+
+
+
+

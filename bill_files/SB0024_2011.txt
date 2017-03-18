@@ -1,0 +1,2696 @@
+Sponsors: []Modifications:     41-1a-121.(1)  As used in this section, "account" means the Electronic Payment Fee RestrictedAccount created by this section.(2)  There is created within the General Fund a restricted account known as theElectronic Payment Fee Restricted Account.(3) (a)  The account shall be funded from the fees imposed and collected under Sections
+
+41-1a-1221
+
+, 
+
+41-3-604
+
+, 
+
+41-22-36
+
+, and 
+
+73-18-25
+
+.(b)  The fees described in Subsection (3)(a) shall be paid to the division, which shalldeposit them in the account.(4)  The Legislature shall appropriate the funds in the account to the commission tocover the costs of electronic payments.(5)  In accordance with Section 
+
+63J-1-602.2
+
+, appropriations made to the division fromthe account are nonlapsing.(6)(7)(ii)(ii)(4)  In accordance with Section 
+
+63J-1-602.2
+
+, all funds available to the commission forthe purchase and distribution of license plates and decals are nonlapsing.(5)(6)(6)(6)(7)established in accordance with Section 
+
+63J-1-504
+
+(i); and(ii)  the remainder of the fee charged under Subsection (1)(a), as provided in Section
+
+41-1a-1201
+
+.The division may charge a feeestablished under Section 
+
+63J-1-504
+
+ to recover the costs(i); and(ii)  the remainder of the fee charged under Subsection (6)(a), as provided in Section
+
+41-1a-1201
+
+.deposited in the Electronic Payment Fee Restricted Account created by Section
+
+41-1a-121
+
+deposited in the Electronic Payment Fee Restricted Account created by Section
+
+41-1a-121
+
+deposited in the Electronic Payment Fee Restricted Account created bySection 
+
+41-1a-121
+
+(10)  Funds available to the Tax Commission under Section 
+
+41-1a-1201
+
+ for thepurchase and distribution of license plates and decals.(11)  Appropriations from the Electronic Payment Fee Restricted Account created bySection 
+
+41-1a-121
+
+ to the Motor Vehicle Division.(6)(7)(6)deposited in the Electronic Payment Fee Restricted Account created bySection 
+
+41-1a-121
+
+It is the intent of the Legislature that money received by the Tax Commission duringfiscal year 2010-11 under the following sections shall be considered dedicated credits and inclosing out fiscal year 2010-11 the unspent dedicated credits shall lapse to the ElectronicPayment Fee Restricted Account created by Section 
+
+41-1a-121
+
+ in this bill:(1)  Section 
+
+41-1a-1221
+
+;(2)  Section 
+
+41-3-604
+
+;(3)  Section 
+
+41-22-36
+
+; and(4)  Section 
+
+73-18-25
+
+.This bill takes effect on July 1, 2011.Full text:
+
+
+
+Utah State Legislature
+
+
+
+
+
+
+
+
+
+
+
+
+Legislators
+
+By Session (1896-Current)
+Alphabetical (Historical)
+Find by Address/Map
+More
+
+
+Bills
+
+Bills/Bill Requests
+Passed Bills
+2017 Bills
+
+Keyword Search
+Reading Calendars
+Tracking Service
+More
+
+
+Committees
+
+All Committees
+Appropriations
+Commissions
+
+Independent Legislative Ethics Commission
+Interim
+Standing
+Subcommittees
+Task Forces
+Bills In Committees
+
+
+Utah Code / Constitution
+
+
+Title/Chapter/Section
+Keyword Search 
+
+Utah Constitution
+Laws of Utah 1851-ongoing
+Utah Territorial Laws 
+More
+
+
+Senate
+
+Main Page 
+About The Senate 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Extraordinary Sessions 
+Reading Calendars 
+Past Floor Debates 
+Senate Journals 
+
+
+House
+
+Main Page
+About the House 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Reading Calendars 
+Past Floor Debates 
+Journals 
+Conflict of Interest Forms 
+
+
+Legislative Guide 
+
+Legislative Guide
+Civic Programs
+GRAMA (Records Requests)
+
+
+Publications
+
+Search Publications
+Appropriations
+Audits
+Bagels & Briefings
+Briefing Papers
+Digest of Legislation
+Legislative Drafting Manual
+
+Journals
+
+Interim Highlights
+
+Legislative Rules
+GRAMA (Records Requests)
+Public Email
+State Organization Charts
+YouTube Channel
+Requests for Proposals and Legal Notices
+More
+
+
+Legislative Histories
+
+Legislative History Resources
+How to Research
+Bill Drafting/Research Files (1990-Ongoing)
+
+Working Bills (1896-1989)
+Interim Committee Histories (1990-Ongoing) 
+Journals
+Past House Floor Debates
+Past Senate Floor Debates
+More
+
+
+Staff Offices
+
+All Legislative Offices
+Auditor General
+Fiscal Analyst
+Printing
+Research and General Counsel
+Staff Awards
+Job Opportunities
+More
+
+
+Links of Interest
+
+Utah Administrative Rules
+Courts
+Utah State Capitol
+State of Utah
+Federal Legislation
+More
+
+
+
+
+
+
+ 
+
+Download Zipped Enrolled WordPerfect SB0024.ZIP
+[Introduced][Amended][Status][Bill Documents][Fiscal Note][Bills Directory]
+
+
+S.B. 24 Enrolled
+
+
+
+
+
+            
+1
+
+    
+ MOTOR VEHICLE DIVISION FEE AMENDMENTS
+
+
+
+            
+2
+
+    
+2011 GENERAL SESSION
+
+            
+3
+
+    
+STATE OF UTAH
+
+            
+4
+
+    
+
+
+ Chief Sponsor:  Kevin T. Van Tassell
+
+
+
+            
+5
+
+    
+
+
+
+House Sponsor:  
+
+
+
+
+
+
+Julie  Fisher
+
+
+
+
+
+            
+6
+
+    
+
+            
+7
+
+    
+ LONG TITLE
+            
+8
+
+    
+ General Description:
+            
+9
+
+    
+    This bill amends provisions relating to revenue collected from certain Motor Vehicle
+            
+10
+
+    
+Division fees.
+            
+11
+
+    
+ Highlighted Provisions:
+            
+12
+
+    
+    This bill:
+            
+13
+
+    
+    .    provides that certain license plate fees shall be established in accordance with
+            
+14
+
+    
+certain requirements rather than established in statute and provides for the
+            
+15
+
+    
+disposition of those fees;
+            
+16
+
+    
+    .    provides that funds available to the Tax Commission for the purchase and
+            
+17
+
+    
+distribution of license plates and decals are nonlapsing;
+            
+18
+
+    
+    .    creates the Electronic Payment Fee Restricted Account and provides that funds in
+            
+19
+
+    
+the account are nonlapsing;
+            
+20
+
+    
+    .    provides that certain Motor Vehicle Division fees collected to cover the costs of
+            
+21
+
+    
+electronic payments shall be deposited in the Electronic Payment Fee Restricted
+            
+22
+
+    
+Account; and
+            
+23
+
+    
+    .    makes technical changes.
+            
+24
+
+    
+ Money Appropriated in this Bill:
+            
+25
+
+    
+    None
+            
+26
+
+    
+ Other Special Clauses:
+            
+27
+
+    
+    This bill takes effect on July 1, 2011.
+            
+28
+
+    
+ Utah Code Sections Affected:
+            
+29
+
+    
+AMENDS:
+
+            
+30
+
+
+    
+     41-1a-1201, as last amended by Laws of Utah 2010, Chapters 295 and 391
+            
+31
+
+    
+     41-1a-1211, as last amended by Laws of Utah 2009, Chapters 183 and 348
+            
+32
+
+    
+     41-1a-1221, as last amended by Laws of Utah 2010, Chapter 391
+            
+33
+
+    
+     41-3-604, as last amended by Laws of Utah 2010, Chapter 391
+            
+34
+
+    
+     41-22-36, as last amended by Laws of Utah 2010, Chapter 391
+            
+35
+
+    
+     63J-1-602.2, as enacted by Laws of Utah 2010, Chapter 265 and last amended by
+            
+36
+
+    
+Coordination Clause, Laws of Utah 2010, Chapter 265
+            
+37
+
+    
+     72-2-118, as last amended by Laws of Utah 2010, Chapter 391
+            
+38
+
+    
+     72-2-124, as last amended by Laws of Utah 2010, Chapter 391
+            
+39
+
+    
+     73-18-25, as last amended by Laws of Utah 2010, Chapter 391
+            
+40
+
+    
+ENACTS:
+            
+41
+
+    
+     41-1a-121, Utah Code Annotated 1953
+            
+42
+
+    
+ Uncodified Material Affected:
+            
+43
+
+    
+ENACTS UNCODIFIED MATERIAL
+            
+44
+
+    
+
+            
+45
+
+    
+Be it enacted by the Legislature of the state of Utah:
+            
+46
+
+    
+    Section 1.  
+Section  
+41-1a-121
+
+ is enacted to read:
+            
+47
+
+    
+     41-1a-121.  Electronic Payment Fee Restricted Account.
+            
+48
+
+    
+    (1)  As used in this section, "account" means the Electronic Payment Fee Restricted
+            
+49
+
+    
+Account created by this section.
+            
+50
+
+    
+    (2)  There is created within the General Fund a restricted account known as the
+            
+51
+
+    
+Electronic Payment Fee Restricted Account.
+            
+52
+
+    
+    (3) (a)  The account shall be funded from the fees imposed and collected under Sections
+            
+53
+
+    
+
+
+41-1a-1221
+
+, 
+
+41-3-604
+
+, 
+
+41-22-36
+
+, and 
+
+73-18-25
+
+.
+            
+54
+
+    
+    (b)  The fees described in Subsection (3)(a) shall be paid to the division, which shall
+            
+55
+
+    
+deposit them in the account.
+            
+56
+
+    
+    (4)  The Legislature shall appropriate the funds in the account to the commission to
+            
+57
+
+    
+cover the costs of electronic payments.
+
+            
+58
+
+
+    
+    (5)  In accordance with Section 
+
+63J-1-602.2
+
+, appropriations made to the division from
+            
+59
+
+    
+the account are nonlapsing.
+            
+60
+
+    
+    Section 2.  
+Section  
+41-1a-1201
+
+ is amended to read:
+            
+61
+
+    
+     41-1a-1201.  Disposition of fees.
+            
+62
+
+    
+    (1)  All fees received and collected under this part shall be transmitted daily to the state
+            
+63
+
+    
+treasurer.
+            
+64
+
+    
+    (2)  Except as provided in Subsections (3), [(5)] (6), and [(6)] (7) and Sections
+            
+65
+
+    
+
+41-1a-422
+
+, 
+
+41-1a-1220
+
+, 
+
+41-1a-1221
+
+, and 
+
+41-1a-1223
+
+ all fees collected under this part shall be
+            
+66
+
+    
+deposited in the Transportation Fund.
+            
+67
+
+    
+    (3) [(a)]  Funds generated under Subsections 
+
+41-1a-1211
+
+(1)(b)[(i)](ii), (6)(b)[(i)](ii),
+            
+68
+
+    
+and (7) and Section 
+
+41-1a-1212
+
+ may be used by the commission [as a dedicated credit] to cover
+            
+69
+
+    
+the costs incurred in issuing license plates under Part 4, License Plates and Registration Indicia.
+            
+70
+
+    
+    [(b)  Fees for statehood centennial license plates shall be collected and deposited in the
+            
+71
+
+    
+Transportation Fund, less production and administrative costs incurred by the commission.]
+            
+72
+
+    
+    (4)  In accordance with Section 
+
+63J-1-602.2
+
+, all funds available to the commission for
+            
+73
+
+    
+the purchase and distribution of license plates and decals are nonlapsing.
+            
+74
+
+    
+    [(4)] (5)  Except as provided in Subsection (3) and Section 
+
+41-1a-1205
+
+, the expenses of
+            
+75
+
+    
+the commission in enforcing and administering this part shall be provided for by legislative
+            
+76
+
+    
+appropriation from the revenues of the Transportation Fund.
+            
+77
+
+    
+    [(5)] (6) (a)  Except as provided in Subsection [(5)] (6)(b), the following portions of the
+            
+78
+
+    
+registration fees imposed under Section 
+
+41-1a-1206
+
+ for each vehicle shall be deposited in the
+            
+79
+
+    
+Centennial Highway Fund Restricted Account created under Section 
+
+72-2-118
+
+:
+            
+80
+
+    
+    (i)  $10 of the registration fees imposed under Subsections 
+
+41-1a-1206
+
+(1)(a), (1)(b), (2),
+            
+81
+
+    
+and (5);
+            
+82
+
+    
+    (ii)  $1 of the registration fees imposed under Subsections 
+
+41-1a-1206
+
+(1)(c)(i),
+            
+83
+
+    
+(1)(c)(ii), and (1)(d)(ii);
+            
+84
+
+    
+    (iii)  $2 of the registration fee imposed under Subsection 
+
+41-1a-1206
+
+(1)(e)(ii);
+            
+85
+
+    
+    (iv)  $3 of the registration fee imposed under Subsection 
+
+41-1a-1206
+
+(1)(d)(i); and
+
+            
+86
+
+
+    
+    (v)  $4.50 of the registration fee imposed under Subsection 
+
+41-1a-1206
+
+(1)(e)(i).
+            
+87
+
+    
+    (b)  When the highway general obligation bonds have been paid off and the highway
+            
+88
+
+    
+projects completed that are intended to be paid from revenues deposited in the Centennial
+            
+89
+
+    
+Highway Fund Restricted Account as determined by the Executive Appropriations Committee
+            
+90
+
+    
+under Subsection 
+
+72-2-118
+
+(6)(d), the portions of the registration fees deposited under
+            
+91
+
+    
+Subsection [(5)] (6)(a) for each vehicle shall be deposited in the Transportation Investment
+            
+92
+
+    
+Fund of 2005 created by Section 
+
+72-2-124
+
+.
+            
+93
+
+    
+    [(6)] (7)  The following portions of the registration fees imposed under Section
+            
+94
+
+    
+
+41-1a-1206
+
+ for each vehicle shall be deposited in the Transportation Investment Fund of 2005
+            
+95
+
+    
+created by Section 
+
+72-2-124
+
+:
+            
+96
+
+    
+    (a)  $20 of each registration fee collected under Subsections 
+
+41-1a-1206
+
+(1)(a), (1)(b),
+            
+97
+
+    
+(1)(c), (1)(d)(i), (1)(e)(i), (2)(a), and (5); and
+            
+98
+
+    
+    (b)  50 cents of each registration fee collected under Subsection 
+
+41-1a-1206
+
+(1)(e)(ii).
+            
+99
+
+    
+    Section 3.  
+Section  
+41-1a-1211
+
+ is amended to read:
+            
+100
+
+    
+     41-1a-1211.  License plate fees -- Application fees for issuance and renewal of
+            
+101
+
+    
+ personalized and special group license plates -- Replacement fee for license plates --
+            
+102
+
+    
+ Postage fees.
+            
+103
+
+    
+    (1) (a)  Except as provided in Subsections (11) and (12), a license plate fee [of $5 per
+            
+104
+
+    
+set] established in accordance with Section 
+
+63J-1-504
+
+ shall be paid to the division for the
+            
+105
+
+    
+issuance of any new license plate under Part 4, License Plates and Registration Indicia.
+            
+106
+
+    
+    (b)  The license plate fee shall be deposited as follows:
+            
+107
+
+    
+    [(i)  $4 as provided in Section 
+
+41-1a-1201
+
+; and]
+            
+108
+
+    
+    [(ii)] (i)  $1 in the Transportation Fund[.]; and
+            
+109
+
+    
+    (ii)  the remainder of the fee charged under Subsection (1)(a), as provided in Section
+            
+110
+
+    
+
+
+41-1a-1201
+
+.
+            
+111
+
+    
+    (2)  An applicant for original issuance of personalized license plates issued under
+            
+112
+
+    
+Section 
+
+41-1a-410
+
+ shall pay a $50 per set license plate application fee in addition to the fee
+            
+113
+
+    
+required in Subsection (1).
+
+            
+114
+
+
+    
+    (3)  Beginning July 1, 2003, a person who applies for a special group license plate shall
+            
+115
+
+    
+pay a $5 fee for the original set of license plates in addition to the fee required under
+            
+116
+
+    
+Subsection (1).
+            
+117
+
+    
+    (4)  An applicant for original issuance of personalized special group license plates shall
+            
+118
+
+    
+pay the license plate application fees required in Subsection (2) in addition to the license plate
+            
+119
+
+    
+fees and license plate application fees established under Subsections (1) and (3).
+            
+120
+
+    
+    (5)  An applicant for renewal of personalized license plates issued under Section
+            
+121
+
+    
+
+41-1a-410
+
+ shall pay a $10 per set application fee.
+            
+122
+
+    
+    (6) (a)  [A fee of $5 shall be paid to the division] The division may charge a fee
+            
+123
+
+    
+established under Section 
+
+63J-1-504
+
+ to recover the costs for the replacement of any license
+            
+124
+
+    
+plate issued under Part 4, License Plates and Registration Indicia.
+            
+125
+
+    
+    (b)  The license plate fee shall be deposited as follows:
+            
+126
+
+    
+    [(i)  $4 as provided in Section 
+
+41-1a-1201
+
+; and]
+            
+127
+
+    
+    [(ii)] (i)  $1 in the Transportation Fund[.]; and
+            
+128
+
+    
+    (ii)  the remainder of the fee charged under Subsection (6)(a), as provided in Section
+            
+129
+
+    
+
+
+41-1a-1201
+
+.
+            
+130
+
+    
+    (7)  The division may charge a fee established under Section 
+
+63J-1-504
+
+ to recover its
+            
+131
+
+    
+costs for the replacement of decals issued under Section 
+
+41-1a-418
+
+.
+            
+132
+
+    
+    (8)  The division may charge a fee established under Section 
+
+63J-1-504
+
+ to recover the
+            
+133
+
+    
+cost of issuing stickers under Section 
+
+41-1a-416
+
+.
+            
+134
+
+    
+    (9)  In addition to any other fees required by this section, the division shall assess a fee
+            
+135
+
+    
+established under Section 
+
+63J-1-504
+
+ to cover postage expenses if new or replacement license
+            
+136
+
+    
+plates are mailed to the applicant.
+            
+137
+
+    
+    (10)  The fees required under this section are separate from and in addition to
+            
+138
+
+    
+registration fees required under Section 
+
+41-1a-1206
+
+.
+            
+139
+
+    
+    (11) (a)  An applicant for a license plate issued under Section 
+
+41-1a-407
+
+ is not subject
+            
+140
+
+    
+to the license plate fee under Subsection (1).
+            
+141
+
+    
+    (b)  An applicant for a Purple Heart special group license plate issued in accordance
+
+            
+142
+
+
+    
+with Section 
+
+41-1a-421
+
+ is exempt from the fees under Subsections (1), (3), and (7).
+            
+143
+
+    
+    (12)  A person is exempt from the fee under Subsection (1) or (6) if the person:
+            
+144
+
+    
+    (a)  was issued a clean fuel special group license plate in accordance with Section
+            
+145
+
+    
+
+41-1a-418
+
+ prior to the effective date of rules made by the Department of Transportation under
+            
+146
+
+    
+Subsection 
+
+41-6a-702
+
+(5)(b);
+            
+147
+
+    
+    (b)  beginning on the effective date of rules made by the Department of Transportation
+            
+148
+
+    
+authorized under Subsection 
+
+41-6a-702
+
+(5)(b), is no longer eligible for a clean fuel special
+            
+149
+
+    
+group license plate under the rules made by the Department of Transportation; and
+            
+150
+
+    
+    (c)  upon renewal or reissuance, is required to replace the clean fuel special group
+            
+151
+
+    
+license plate with a new license plate.
+            
+152
+
+    
+    (13)  Until June 30, 2011, a person is exempt from the license plate fee under
+            
+153
+
+    
+Subsection (1) or (6) if the person:
+            
+154
+
+    
+    (a)  was issued a firefighter recognition special group license plate in accordance with
+            
+155
+
+    
+Section 
+
+41-1a-418
+
+ prior to July 1, 2009;
+            
+156
+
+    
+    (b)  upon renewal of the person's vehicle registration on or after July 1, 2009, is not a
+            
+157
+
+    
+contributor to the Firefighter Support Restricted Account as required under Section 
+
+41-1a-418
+
+;
+            
+158
+
+    
+and
+            
+159
+
+    
+    (c)  is required to replace the firefighter special group license plate with a new license
+            
+160
+
+    
+plate in accordance with Section 
+
+41-1a-418
+
+.
+            
+161
+
+    
+    Section 4.  
+Section  
+41-1a-1221
+
+ is amended to read:
+            
+162
+
+    
+     41-1a-1221.  Fees to cover the cost of electronic payments.
+            
+163
+
+    
+    (1)  As used in this section:
+            
+164
+
+    
+    (a)  "Electronic payment" means use of any form of payment processed through
+            
+165
+
+    
+electronic means, including credit cards, debit cards, and automatic clearinghouse transactions.
+            
+166
+
+    
+    (b)  "Electronic payment fee" means the fee assessed to defray:
+            
+167
+
+    
+    (i)  the charge, discount fee, or processing fee charged by credit card companies or
+            
+168
+
+    
+processing agents to process an electronic payment; or
+            
+169
+
+    
+    (ii)  costs associated with the purchase of equipment necessary for processing electronic
+
+            
+170
+
+
+    
+payments.
+            
+171
+
+    
+    (2) (a)  The Motor Vehicle Division may collect an electronic payment fee on all
+            
+172
+
+    
+registrations and renewals of registration under Subsections 
+
+41-1a-1206
+
+(1)(a), (1)(b), and (2).
+            
+173
+
+    
+    (b)  The fee described in Subsection (2)(a):
+            
+174
+
+    
+    (i)  shall be imposed regardless of the method of payment for a particular transaction;
+            
+175
+
+    
+and
+            
+176
+
+    
+    (ii)  need not be separately identified from the fees imposed for registration and
+            
+177
+
+    
+renewals of registration under Subsections 
+
+41-1a-1206
+
+(1)(a), (1)(b), and (2).
+            
+178
+
+    
+    (3)  The division shall establish the fee according to the procedures and requirements of
+            
+179
+
+    
+Section 
+
+63J-1-504
+
+.
+            
+180
+
+    
+    (4)  A fee imposed under this section:
+            
+181
+
+    
+    (a)  shall be [used by the division as a dedicated credit to cover the costs of electronic
+            
+182
+
+    
+payments] deposited in the Electronic Payment Fee Restricted Account created by Section
+            
+183
+
+    
+
+
+41-1a-121
+
+; and
+            
+184
+
+    
+    (b)  is not subject to Subsection 
+
+63J-2-202
+
+(2).
+            
+185
+
+    
+    Section 5.  
+Section  
+41-3-604
+
+ is amended to read:
+            
+186
+
+    
+     41-3-604.  Fee to cover the cost of electronic payments.
+            
+187
+
+    
+    (1)  As used in this section:
+            
+188
+
+    
+    (a)  "Electronic payment" has the same meaning as defined in Section 
+
+41-1a-1221
+
+.
+            
+189
+
+    
+    (b)  "Electronic payment fee" has the same meaning as defined in Section 
+
+41-1a-1221
+
+.
+            
+190
+
+    
+    (2) (a)  The division may collect a fee to cover the cost of electronic payments on the
+            
+191
+
+    
+following transactions:
+            
+192
+
+    
+    (i)  each purchase or renewal of a license under Section 
+
+41-3-202
+
+;
+            
+193
+
+    
+    (ii)  each purchase of a book of temporary permits under Section 
+
+41-3-302
+
+;
+            
+194
+
+    
+    (iii)  each penalty issued for a delinquent temporary permit under Section 
+
+41-3-302
+
+;
+            
+195
+
+    
+    (iv)  each purchase of an in-transit permit under Section 
+
+41-3-305
+
+;
+            
+196
+
+    
+    (v)  each purchase of a loaded demonstration permit under Section 
+
+41-3-502
+
+;
+            
+197
+
+    
+    (vi)  each purchase of a license plate under Section 
+
+41-3-503
+
+; and
+
+            
+198
+
+
+    
+    (vii)  each purchase of a salvage vehicle buyer license under Section 
+
+41-3-202
+
+.
+            
+199
+
+    
+    (b)  The fee described in Subsection (2)(a):
+            
+200
+
+    
+    (i)  shall be imposed regardless of the method of payment for a particular transaction;
+            
+201
+
+    
+and
+            
+202
+
+    
+    (ii)  need not be separately identified from the fees and penalty described in Subsections
+            
+203
+
+    
+(2)(a)(i) through (vii).
+            
+204
+
+    
+    (3)  The division shall establish the fee under Subsection (2)(a) according to the
+            
+205
+
+    
+procedures and requirements of Section 
+
+63J-1-504
+
+.
+            
+206
+
+    
+    (4)  A fee imposed under this section:
+            
+207
+
+    
+    (a)  shall be [used by the division as a dedicated credit to cover the costs of electronic
+            
+208
+
+    
+payments] deposited in the Electronic Payment Fee Restricted Account created by Section
+            
+209
+
+    
+
+
+41-1a-121
+
+; and
+            
+210
+
+    
+    (b)  is not subject to Subsection 
+
+63J-2-202
+
+(2).
+            
+211
+
+    
+    Section 6.  
+Section  
+41-22-36
+
+ is amended to read:
+            
+212
+
+    
+     41-22-36.  Fees to cover the costs of electronic payments.
+            
+213
+
+    
+    (1)  As used in this section:
+            
+214
+
+    
+    (a)  "Electronic payment" has the same meaning as defined in Section 
+
+41-1a-1221
+
+.
+            
+215
+
+    
+    (b)  "Electronic payment fee" has the same meaning as defined in Section 
+
+41-1a-1221
+
+.
+            
+216
+
+    
+    (2) (a)  The Motor Vehicle Division may collect an electronic payment fee on all
+            
+217
+
+    
+registrations and renewals of registration under Section 
+
+41-22-8
+
+.
+            
+218
+
+    
+    (b)  The fee described in Subsection (2)(a) shall be imposed regardless of the method of
+            
+219
+
+    
+payment for a particular transaction.
+            
+220
+
+    
+    (3)  The division shall establish the fee according to the procedures and requirements of
+            
+221
+
+    
+Section 
+
+63J-1-504
+
+.
+            
+222
+
+    
+    (4)  A fee imposed under this section:
+            
+223
+
+    
+    (a)  shall be [used by the Motor Vehicle Division as a dedicated credit to cover the costs
+            
+224
+
+    
+of electronic payments] deposited in the Electronic Payment Fee Restricted Account created by
+            
+225
+
+    
+Section 
+
+41-1a-121
+
+;
+
+            
+226
+
+
+    
+    (b)  is not subject to Subsection 
+
+63J-2-202
+
+(2); and
+            
+227
+
+    
+    (c)  need not be separately identified from the fees imposed on registrations and
+            
+228
+
+    
+renewals of registration under Section 
+
+41-22-8
+
+.
+            
+229
+
+    
+    Section 7.  
+Section  
+63J-1-602.2
+
+ is amended to read:
+            
+230
+
+    
+     63J-1-602.2.  List of nonlapsing funds and accounts -- Title 31 through Title 45.
+            
+231
+
+    
+    (1)  Appropriations from the Technology Development Restricted Account created in
+            
+232
+
+    
+Section 
+
+31A-3-104
+
+.
+            
+233
+
+    
+    (2)  Appropriations from the Criminal Background Check Restricted Account created in
+            
+234
+
+    
+Section 
+
+31A-3-105
+
+.
+            
+235
+
+    
+    (3)  Appropriations from the Captive Insurance Restricted Account created in Section
+            
+236
+
+    
+
+31A-3-304
+
+, except to the extent that Section 
+
+31A-3-304
+
+ makes the money received under that
+            
+237
+
+    
+section free revenue.
+            
+238
+
+    
+    (4)  Appropriations from the Title Licensee Enforcement Restricted Account created in
+            
+239
+
+    
+Section 
+
+31A-23a-415
+
+.
+            
+240
+
+    
+    (5)  The fund for operating the state's Federal Health Care Tax Credit Program, as
+            
+241
+
+    
+provided in Section 
+
+31A-38-104
+
+.
+            
+242
+
+    
+    (6)  The Special Administrative Expense Account created in Section 
+
+35A-4-506
+
+.
+            
+243
+
+    
+    (7)  Funding for a new program or agency that is designated as nonlapsing under
+            
+244
+
+    
+Section 
+
+36-24-101
+
+.
+            
+245
+
+    
+    (8)  The Oil and Gas Conservation Account created in Section 
+
+40-6-14.5
+
+.
+            
+246
+
+    
+    (9)  The Off-Highway Access and Education Restricted Account created in Section
+            
+247
+
+    
+
+41-22-19.5
+
+.
+            
+248
+
+    
+    (10)  Funds available to the Tax Commission under Section 
+
+41-1a-1201
+
+ for the
+            
+249
+
+    
+purchase and distribution of license plates and decals.
+            
+250
+
+    
+    (11)  Appropriations from the Electronic Payment Fee Restricted Account created by
+            
+251
+
+    
+Section 
+
+41-1a-121
+
+ to the Motor Vehicle Division.
+            
+252
+
+    
+    Section 8.  
+Section  
+72-2-118
+
+ is amended to read:
+            
+253
+
+    
+     72-2-118.   Centennial Highway Fund Restricted Account.
+
+            
+254
+
+
+    
+    (1)  There is created a restricted account entitled the Centennial Highway Fund
+            
+255
+
+    
+Restricted Account within the Transportation Investment Fund of 2005 created by Section
+            
+256
+
+    
+
+72-2-124
+
+.
+            
+257
+
+    
+    (2)  The account consists of money generated from the following revenue sources:
+            
+258
+
+    
+    (a)  any voluntary contributions received for the construction, major reconstruction, or
+            
+259
+
+    
+major renovation of state or federal highways;
+            
+260
+
+    
+    (b)  appropriations made to the fund by the Legislature;
+            
+261
+
+    
+    (c)  registration fees designated under Subsection 
+
+41-1a-1201
+
+[(5)](6)(a); and
+            
+262
+
+    
+    (d)  the sales and use tax amounts provided for in Section 
+
+59-12-103
+
+.
+            
+263
+
+    
+    (3) (a)  The account shall earn interest.
+            
+264
+
+    
+    (b)  All interest earned on account money shall be deposited into the account.
+            
+265
+
+    
+    (4)  The executive director may use account money, as prioritized by the Transportation
+            
+266
+
+    
+Commission, only to pay the costs of construction, major reconstruction, or major renovation
+            
+267
+
+    
+to state and federal highways.
+            
+268
+
+    
+    (5)  When the highway general obligation bonds have been paid off and the highway
+            
+269
+
+    
+projects completed that are intended to be paid from revenues deposited in the account as
+            
+270
+
+    
+determined by the Executive Appropriations Committee under Subsection (6)(d), the Division
+            
+271
+
+    
+of Finance shall transfer any existing balance in the account into the Transportation Investment
+            
+272
+
+    
+Fund of 2005 created by Section 
+
+72-2-124
+
+.
+            
+273
+
+    
+    (6) (a)  The Division of Finance shall monitor the highway general obligation bonds
+            
+274
+
+    
+that are being paid from revenues deposited in the account.
+            
+275
+
+    
+    (b)  The department shall monitor the highway construction, major reconstruction, or
+            
+276
+
+    
+major renovation projects that are being paid from revenues deposited in the account.
+            
+277
+
+    
+    (c)  Upon request by the Executive Appropriations Committee of the Legislature:
+            
+278
+
+    
+    (i)  the Division of Finance shall report to the committee the status of all highway
+            
+279
+
+    
+general obligation bonds that are being paid from revenues deposited in the account; and
+            
+280
+
+    
+    (ii)  the department shall report to the committee the status of all highway construction,
+            
+281
+
+    
+major reconstruction, or major renovation projects that are being paid from revenues deposited
+
+            
+282
+
+
+    
+in the account.
+            
+283
+
+    
+    (d)  The Executive Appropriations Committee of the Legislature shall notify the State
+            
+284
+
+    
+Tax Commission, the department, and the Division of Finance when:
+            
+285
+
+    
+    (i)  all highway general obligation bonds that are intended to be paid from revenues
+            
+286
+
+    
+deposited in the account have been paid off; and
+            
+287
+
+    
+    (ii)  all highway projects that are intended to be paid from revenues deposited in the
+            
+288
+
+    
+account have been completed.
+            
+289
+
+    
+    (7) (a)  The Division of Finance shall, from funds that are deposited into the Centennial
+            
+290
+
+    
+Highway Fund Restricted Account, transfer into the Transportation Investment Fund of 2005
+            
+291
+
+    
+created by Section 
+
+72-2-124
+
+ the amount of funds certified by the Transportation Commission
+            
+292
+
+    
+in accordance with Subsection (7)(b) that are not required to pay:
+            
+293
+
+    
+    (i)  principal, interest, and issuance costs of bonds issued for projects in the Centennial
+            
+294
+
+    
+Highway Program in the current fiscal year; or
+            
+295
+
+    
+    (ii)  construction or reconstruction costs for projects in the Centennial Highway
+            
+296
+
+    
+Program in the current fiscal year.
+            
+297
+
+    
+    (b)  The Division of Finance shall transfer the amount under Subsection (7)(a) when the
+            
+298
+
+    
+Division of Finance receives a written letter from the Transportation Commission certifying the
+            
+299
+
+    
+amount of funds available under Subsection (7)(a).
+            
+300
+
+    
+    Section 9.  
+Section  
+72-2-124
+
+ is amended to read:
+            
+301
+
+    
+     72-2-124.  Transportation Investment Fund of 2005.
+            
+302
+
+    
+    (1)  There is created a special revenue fund entitled the Transportation Investment Fund
+            
+303
+
+    
+of 2005.
+            
+304
+
+    
+    (2)  The fund consists of money generated from the following sources:
+            
+305
+
+    
+    (a)  any voluntary contributions received for the maintenance, construction,
+            
+306
+
+    
+reconstruction, or renovation of state and federal highways;
+            
+307
+
+    
+    (b)  appropriations made to the fund by the Legislature;
+            
+308
+
+    
+    (c)  the sales and use tax revenues deposited into the fund in accordance with Section
+            
+309
+
+    
+
+59-12-103
+
+; and
+
+            
+310
+
+
+    
+    (d)  registration fees designated under Subsection 
+
+41-1a-1201
+
+[(6)](7).
+            
+311
+
+    
+    (3)  When the highway general obligation bonds have been paid off and the highway
+            
+312
+
+    
+projects completed that are intended to be paid from revenues deposited in the Centennial
+            
+313
+
+    
+Highway Fund Restricted Account as determined by the Executive Appropriations Committee
+            
+314
+
+    
+under Subsection 
+
+72-2-118
+
+(6)(d), the fund shall also consist of money generated from the
+            
+315
+
+    
+following sources:
+            
+316
+
+    
+    (a)  registration fees designated under Subsection 
+
+41-1a-1201
+
+[(5)](6)(a); and
+            
+317
+
+    
+    (b)  the sales and use tax amounts provided for in Section 
+
+59-12-103
+
+.
+            
+318
+
+    
+    (4) (a)  The fund shall earn interest.
+            
+319
+
+    
+    (b)  All interest earned on fund money shall be deposited into the fund.
+            
+320
+
+    
+    (5) (a)  Except as provided in Subsection (5)(b), the executive director may use fund
+            
+321
+
+    
+money only to pay:
+            
+322
+
+    
+    (i)  the costs of maintenance, construction, reconstruction, or renovation to state and
+            
+323
+
+    
+federal highways prioritized by the Transportation Commission through the prioritization
+            
+324
+
+    
+process for new transportation capacity projects adopted under Section 
+
+72-1-304
+
+;
+            
+325
+
+    
+    (ii)  the costs of maintenance, construction, reconstruction, or renovation to the highway
+            
+326
+
+    
+projects described in Subsection 
+
+63B-18-401
+
+(2); and
+            
+327
+
+    
+    (iii)  principal, interest, and issuance costs of bonds authorized by Section 
+
+63B-18-401
+
+.
+            
+328
+
+    
+    (b)  The executive director may use fund money to exchange for an equal or greater
+            
+329
+
+    
+amount of federal transportation funds to be used as provided in Subsection (5)(a).
+            
+330
+
+    
+    (6) (a)  Before bonds authorized by Section 
+
+63B-18-401
+
+ may be issued in any fiscal
+            
+331
+
+    
+year, the department and the commission shall appear before the Executive Appropriations
+            
+332
+
+    
+Committee of the Legislature and present the amount of bond proceeds that the department
+            
+333
+
+    
+needs to provide funding for the projects identified in Subsection 
+
+63B-18-401
+
+(2) for the next
+            
+334
+
+    
+fiscal year.
+            
+335
+
+    
+    (b)  The Executive Appropriations Committee of the Legislature shall review and
+            
+336
+
+    
+comment on the amount of bond proceeds needed to fund the projects.
+            
+337
+
+    
+    (7)  The Division of Finance shall, from money deposited into the fund, transfer the
+
+            
+338
+
+
+    
+amount of funds necessary to pay principal, interest, and issuance costs of bonds authorized by
+            
+339
+
+    
+Section 
+
+63B-18-401
+
+ in the current fiscal year to the appropriate debt service or sinking fund.
+            
+340
+
+    
+    Section 10.  
+Section  
+73-18-25
+
+ is amended to read:
+            
+341
+
+    
+     73-18-25.  Fees to cover the costs of electronic payments.
+            
+342
+
+    
+    (1)  As used in this section:
+            
+343
+
+    
+    (a)  "Electronic payment" has the same meaning as defined in Section 
+
+41-1a-1221
+
+.
+            
+344
+
+    
+    (b)  "Electronic payment fee" has the same meaning as defined in Section 
+
+41-1a-1221
+
+.
+            
+345
+
+    
+    (2) (a)  The Motor Vehicle Division may collect an electronic payment fee on all
+            
+346
+
+    
+registrations and renewals of registration under Section 
+
+73-18-7
+
+.
+            
+347
+
+    
+    (b)  The fee described under Subsection (2)(a) shall be imposed regardless of the
+            
+348
+
+    
+method of payment for a particular transaction.
+            
+349
+
+    
+    (3)  The Motor Vehicle Division shall establish the fee according to the procedures and
+            
+350
+
+    
+requirements of Section 
+
+63J-1-504
+
+.
+            
+351
+
+    
+    (4)  A fee imposed under this section:
+            
+352
+
+    
+    (a)  shall be [used by the Motor Vehicle Division as a dedicated credit to cover the costs
+            
+353
+
+    
+of electronic payments] deposited in the Electronic Payment Fee Restricted Account created by
+            
+354
+
+    
+Section 
+
+41-1a-121
+
+;
+            
+355
+
+    
+    (b)  is not subject to Subsection 
+
+63J-2-202
+
+(2); and
+            
+356
+
+    
+    (c)  need not be separately identified from the fees imposed on registrations and
+            
+357
+
+    
+renewals of registration under Section 
+
+73-18-7
+
+.
+            
+358
+
+    
+    Section 11.   Intent language regarding lapsing of money.
+            
+359
+
+    
+    It is the intent of the Legislature that money received by the Tax Commission during
+            
+360
+
+    
+fiscal year 2010-11 under the following sections shall be considered dedicated credits and in
+            
+361
+
+    
+closing out fiscal year 2010-11 the unspent dedicated credits shall lapse to the Electronic
+            
+362
+
+    
+Payment Fee Restricted Account created by Section 
+
+41-1a-121
+
+ in this bill:
+            
+363
+
+    
+    (1)  Section 
+
+41-1a-1221
+
+;
+            
+364
+
+    
+    (2)  Section 
+
+41-3-604
+
+;
+            
+365
+
+    
+    (3)  Section 
+
+41-22-36
+
+; and
+
+            
+366
+
+
+    
+    (4)  Section 
+
+73-18-25
+
+.
+            
+367
+
+    
+    Section 12.   Effective date.
+            
+368
+
+    
+    This bill takes effect on July 1, 2011.
+[Bill Documents][Bills Directory]
+
+
+
+
+
+
+
+
+
+Who represents me?
+
+
+
+
+
+Remember my Legislators
+
+
+
+
+
+State Senate
+		350 North State, Suite 320
+		PO Box 145115
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1035
+		Fax: (801) 326-1475
+
+
+
+House of Representatives
+		350 North State, Suite 350
+		PO Box 145030
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1029
+		Fax: (801) 326-1544
+
+
+
+
+
+
+
+
+
+
+Home
+Mobile Site
+Site Map
+Calendar
+Code / Constitution
+House
+Senate
+
+Terms of Use/Privacy Policy
+
+ADA
+Utah.gov
+
+
+
+
+
+
+

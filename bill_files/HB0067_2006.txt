@@ -1,0 +1,938 @@
+Sponsors: []Modifications: (2)  "Federal postcard application form" means the form created by the Federal VotingAssistance Program (FVAP) which allows military and overseas citizens to register to vote andapply for an absentee ballot.(3)  "Hostile fire zone" means a geographical area in which forces are assigned onofficial temporary duty and placed in imminent danger of being exposed to hostile fire orexplosion of hostile mines.(4)(5)    20A-3-408.5.(1)  A military voter, an overseas citizen voter, or other voter covered under the federalUniformed and Overseas Citizens Absentee Voting Act (UOCAVA) shall be allowed totransmit their federal postcard application form electronically to the county clerk in theircounty of residence if the voter is currently deployed in:(a)  a hostile fire zone; or(b)  other area where the mail service is unreliable and not sufficient to accommodatetimely mail service.(2)  A voter covered under Subsection (1), shall file the federal postcard applicationform no later than 20 days before the day of the election in accordance with Subsection
+
+20A-3-304
+
+(3)(a)(ii).(3)  Upon receiving a federal postcard application form under this section a county clerkshall review the federal postcard application form to verify:(a)  compliance with this section; and(b)  that the form has been properly completed and signed.(4)  Upon a determination of compliance under Subsection (3), a county clerk shall:(a)  register the voter, unless the voter is already registered;(b)  process the absentee ballot request; and(c)  electronically transmit a ballot to the voter who filed the federal postcardapplication form.(5)  A voter who receives a ballot under this section may transmit the ballotelectronically to the county clerk in their county of residence if the voter:(a)  agrees to waive the right to a secret ballot in accordance with this section; and(b)  affirms in writing that the voter is currently deployed in:(i)  a hostile fire zone; or(ii)  other area where the mail service is unreliable and not sufficient to accommodatetimely mail service.(6)  The electronically transmitted ballot shall be accompanied by the followingstatements: "I understand that by electronically transmitting my voted ballot I am voluntarilywaiving my right to a secret ballot.  Signature of voter ________________ Date _______"; and"I affirm that I am currently deployed in a hostile fire zone" or"I affirm that I am currently deployed in an area where mail service is unreliable and notsufficient to accommodate timely mail service."(7)  Notwithstanding the provisions of Subsections (5) and (6), the completed ballottransmitted under this section is considered a private record under Title 63, Chapter 2,Government Records Access and Management Act.(8)  A ballot transmitted under Subsection (5) shall be:(a)  transmitted no later than the date that is one day before the election day inaccordance with Section 
+
+20A-3-406
+
+; and(b)  received by the county clerk before the date of the official canvass in accordancewith Subsection 
+
+20A-3-306
+
+(2)(b).(9)  Upon the receipt of an electronically transmitted ballot under this section, a countyclerk shall:(a)  verify the voter's signature from the federal postcard application form and ensurethat it matches the voter's signature on the return ballot;(b)  duplicate the electronically transmitted ballot onto a regular ballot used by thecounty for resident voters; and(c)  maintain the electronically transmitted ballot for 22 months in accordance withSubsection 
+
+20A-4-202
+
+(2).Full text:
+
+
+
+Utah State Legislature
+
+
+
+
+
+
+
+
+
+
+
+
+Legislators
+
+By Session (1896-Current)
+Alphabetical (Historical)
+Find by Address/Map
+More
+
+
+Bills
+
+Bills/Bill Requests
+Passed Bills
+2017 Bills
+
+Keyword Search
+Reading Calendars
+Tracking Service
+More
+
+
+Committees
+
+All Committees
+Appropriations
+Commissions
+
+Independent Legislative Ethics Commission
+Interim
+Standing
+Subcommittees
+Task Forces
+Bills In Committees
+
+
+Utah Code / Constitution
+
+
+Title/Chapter/Section
+Keyword Search 
+
+Utah Constitution
+Laws of Utah 1851-ongoing
+Utah Territorial Laws 
+More
+
+
+Senate
+
+Main Page 
+About The Senate 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Extraordinary Sessions 
+Reading Calendars 
+Past Floor Debates 
+Senate Journals 
+
+
+House
+
+Main Page
+About the House 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Reading Calendars 
+Past Floor Debates 
+Journals 
+Conflict of Interest Forms 
+
+
+Legislative Guide 
+
+Legislative Guide
+Civic Programs
+GRAMA (Records Requests)
+
+
+Publications
+
+Search Publications
+Appropriations
+Audits
+Bagels & Briefings
+Briefing Papers
+Digest of Legislation
+Legislative Drafting Manual
+
+Journals
+
+Interim Highlights
+
+Legislative Rules
+GRAMA (Records Requests)
+Public Email
+State Organization Charts
+YouTube Channel
+Requests for Proposals and Legal Notices
+More
+
+
+Legislative Histories
+
+Legislative History Resources
+How to Research
+Bill Drafting/Research Files (1990-Ongoing)
+
+Working Bills (1896-1989)
+Interim Committee Histories (1990-Ongoing) 
+Journals
+Past House Floor Debates
+Past Senate Floor Debates
+More
+
+
+Staff Offices
+
+All Legislative Offices
+Auditor General
+Fiscal Analyst
+Printing
+Research and General Counsel
+Staff Awards
+Job Opportunities
+More
+
+
+Links of Interest
+
+Utah Administrative Rules
+Courts
+Utah State Capitol
+State of Utah
+Federal Legislation
+More
+
+
+
+
+
+
+ 
+
+Download Zipped Introduced WordPerfect HB0067.ZIP
+[Status][Bill Documents][Fiscal Note][Bills Directory]
+
+
+H.B. 67
+
+
+
+
+
+            
+1
+
+    
+ MILITARY AND OVERSEAS CITIZENS
+
+            
+2
+
+    
+ ABSENTEE VOTER AMENDMENTS
+
+
+            
+3
+
+    
+2006 GENERAL SESSION
+
+            
+4
+
+    
+STATE OF UTAH
+
+            
+5
+
+    
+ Chief Sponsor:  Stephen H. Urquhart
+
+            
+6
+
+    
+
+Senate Sponsor: 
+
+
+  Dan R. Eastman
+
+
+
+            
+7
+
+    
+
+            
+8
+
+    
+ LONG TITLE
+            
+9
+
+    
+ General Description:
+            
+10
+
+    
+    This bill modifies the Election Code by amending provisions for registration and voting
+            
+11
+
+    
+by certain military and overseas citizen voters.
+            
+12
+
+    
+ Highlighted Provisions:
+            
+13
+
+    
+    This bill:
+            
+14
+
+    
+    .    allows military and overseas voters who are currently deployed in hostile fire zones
+            
+15
+
+    
+or areas where mail service is reliable to register, obtain an absentee ballot, and vote
+            
+16
+
+    
+through electronic transmission;
+            
+17
+
+    
+    .    provides definitions for the federal postcard application form and hostile fire zones;
+            
+18
+
+    
+    .    requires the eligible voters to file the federal postcard application form no later than
+            
+19
+
+    
+20 days before the day of the election;
+            
+20
+
+    
+    .    provides procedures for the electronic transmission and receipt of forms and ballots
+            
+21
+
+    
+by the county clerks;
+            
+22
+
+    
+    .    requires the eligible voters to waive their right to a secret ballot and to affirm that
+            
+23
+
+    
+they are currently deployed in a hostile fire zone or other area where the mail
+            
+24
+
+    
+service is unreliable; and
+            
+25
+
+    
+    .    makes technical changes.
+            
+26
+
+    
+ Monies Appropriated in this Bill:
+            
+27
+
+    
+    None
+
+            
+28
+
+
+    
+ Other Special Clauses:
+            
+29
+
+    
+    None
+            
+30
+
+    
+ Utah Code Sections Affected:
+            
+31
+
+    
+AMENDS:
+            
+32
+
+    
+     20A-3-403, as enacted by Chapter 1, Laws of Utah 1993
+            
+33
+
+    
+ENACTS:
+            
+34
+
+    
+     20A-3-408.5, Utah Code Annotated 1953
+            
+35
+
+    
+
+            
+36
+
+    
+Be it enacted by the Legislature of the state of Utah:
+            
+37
+
+    
+    Section 1.  
+Section  
+20A-3-403
+
+ is amended to read:
+            
+38
+
+    
+     20A-3-403.  Definitions.
+            
+39
+
+    
+    As used in this part:
+            
+40
+
+    
+    (1) (a)  "Ballot," "disabled voter's ballot" and "official Utah military ballot" means the
+            
+41
+
+    
+same ballots that will be submitted to and used by other voters of Utah at the primary or
+            
+42
+
+    
+general election.
+            
+43
+
+    
+    (b)  "Ballot" includes any official federal ballot provided by any Act of Congress to
+            
+44
+
+    
+allow voting by voters in the military service of the United States.
+            
+45
+
+    
+    (2)  "Federal postcard application form" means the form created by the Federal Voting
+            
+46
+
+    
+Assistance Program (FVAP) which allows military and overseas citizens to register to vote and
+            
+47
+
+    
+apply for an absentee ballot.
+            
+48
+
+    
+    (3)  "Hostile fire zone" means a geographical area in which forces are assigned on
+            
+49
+
+    
+official temporary duty and placed in imminent danger of being exposed to hostile fire or
+            
+50
+
+    
+explosion of hostile mines.
+            
+51
+
+    
+    [(2)] (4)  "Military voter" means each person who is qualified as a voter under the Utah
+            
+52
+
+    
+Constitution and laws or who is eligible for registration and who would, by registration, be
+            
+53
+
+    
+qualified to vote, and who is:
+            
+54
+
+    
+    (a)  a member of the armed forces of the United States while in the active service or is
+            
+55
+
+    
+the spouse or dependent of that member;
+            
+56
+
+    
+    (b)  a member of the merchant marine of the United States or is the spouse or dependent
+            
+57
+
+    
+of that member;
+            
+58
+
+    
+    (c)  a civilian employee of the United States in all categories who is serving outside the
+
+            
+59
+
+
+    
+territorial limits of the United States whether or not the employee is subject to the civil service
+            
+60
+
+    
+laws and the Classification Act of 1949, and whether or not the employee is paid from funds
+            
+61
+
+    
+appropriated by the Congress or is the spouse or dependent of that member when residing with
+            
+62
+
+    
+or accompanying them; and
+            
+63
+
+    
+    (d)  a member of religious groups or welfare agencies assisting members of the armed
+            
+64
+
+    
+forces, who is officially attached to and serving with the armed forces, or is the spouse or
+            
+65
+
+    
+dependent of that member.
+            
+66
+
+    
+    [(3)] (5)  "Overseas citizen voter" means:
+            
+67
+
+    
+    (a)  a member of the armed forces of the United States while in the active service or the
+            
+68
+
+    
+spouse or dependent of that member;
+            
+69
+
+    
+    (b)  a member of the merchant marines of the United States or the spouse or dependent
+            
+70
+
+    
+of that member; and
+            
+71
+
+    
+    (c)  a citizen of the United States residing outside the territorial limits of the United
+            
+72
+
+    
+States or the spouse or dependent of that member when residing with them or accompanying
+            
+73
+
+    
+them.
+            
+74
+
+    
+    Section 2.  
+Section  
+20A-3-408.5
+
+ is enacted to read:
+            
+75
+
+    
+     20A-3-408.5.  Electronic registration and voting by military and overseas citizen
+            
+76
+
+    
+ voters in a hostile fire zone -- Procedures for accepting and processing a federal postcard
+            
+77
+
+    
+ application form -- Returned ballot.
+            
+78
+
+    
+    (1)  A military voter, an overseas citizen voter, or other voter covered under the federal
+            
+79
+
+    
+Uniformed and Overseas Citizens Absentee Voting Act (UOCAVA) shall be allowed to
+            
+80
+
+    
+transmit their federal postcard application form electronically to the county clerk in their
+            
+81
+
+    
+county of residence if the voter is currently deployed in:
+            
+82
+
+    
+    (a)  a hostile fire zone; or
+            
+83
+
+    
+    (b)  other area where the mail service is unreliable and not sufficient to accommodate
+            
+84
+
+    
+timely mail service.
+            
+85
+
+    
+    (2)  A voter covered under Subsection (1), shall file the federal postcard application
+            
+86
+
+    
+form no later than 20 days before the day of the election in accordance with Subsection
+            
+87
+
+    
+
+
+20A-3-304
+
+(3)(a)(ii).
+            
+88
+
+    
+    (3)  Upon receiving a federal postcard application form under this section a county clerk
+            
+89
+
+    
+shall review the federal postcard application form to verify:
+
+            
+90
+
+
+    
+    (a)  compliance with this section; and
+            
+91
+
+    
+    (b)  that the form has been properly completed and signed.
+            
+92
+
+    
+    (4)  Upon a determination of compliance under Subsection (3), a county clerk shall:
+            
+93
+
+    
+    (a)  register the voter, unless the voter is already registered;
+            
+94
+
+    
+    (b)  process the absentee ballot request; and
+            
+95
+
+    
+    (c)  electronically transmit a ballot to the voter who filed the federal postcard
+            
+96
+
+    
+application form.
+            
+97
+
+    
+    (5)  A voter who receives a ballot under this section may transmit the ballot
+            
+98
+
+    
+electronically to the county clerk in their county of residence if the voter:
+            
+99
+
+    
+    (a)  agrees to waive the right to a secret ballot in accordance with this section; and
+            
+100
+
+    
+    (b)  affirms in writing that the voter is currently deployed in:
+            
+101
+
+    
+    (i)  a hostile fire zone; or
+            
+102
+
+    
+    (ii)  other area where the mail service is unreliable and not sufficient to accommodate
+            
+103
+
+    
+timely mail service.
+            
+104
+
+    
+    (6)  The electronically transmitted ballot shall be accompanied by the following
+            
+105
+
+    
+statements: "I understand that by electronically transmitting my voted ballot I am voluntarily
+            
+106
+
+    
+waiving my right to a secret ballot.  Signature of voter ________________ Date _______"; and
+            
+107
+
+    
+    "I affirm that I am currently deployed in a hostile fire zone" or
+            
+108
+
+    
+    "I affirm that I am currently deployed in an area where mail service is unreliable and not
+            
+109
+
+    
+sufficient to accommodate timely mail service."
+            
+110
+
+    
+    (7)  Notwithstanding the provisions of Subsections (5) and (6), the completed ballot
+            
+111
+
+    
+transmitted under this section is considered a private record under Title 63, Chapter 2,
+            
+112
+
+    
+Government Records Access and Management Act.
+            
+113
+
+    
+    (8)  A ballot transmitted under Subsection (5) shall be:
+            
+114
+
+    
+    (a)  transmitted no later than the date that is one day before the election day in
+            
+115
+
+    
+accordance with Section 
+
+20A-3-406
+
+; and
+            
+116
+
+    
+    (b)  received by the county clerk before the date of the official canvass in accordance
+            
+117
+
+    
+with Subsection 
+
+20A-3-306
+
+(2)(b).
+            
+118
+
+    
+    (9)  Upon the receipt of an electronically transmitted ballot under this section, a county
+            
+119
+
+    
+clerk shall:
+            
+120
+
+    
+    (a)  verify the voter's signature from the federal postcard application form and ensure
+
+            
+121
+
+
+    
+that it matches the voter's signature on the return ballot;
+            
+122
+
+    
+    (b)  duplicate the electronically transmitted ballot onto a regular ballot used by the
+            
+123
+
+    
+county for resident voters; and
+            
+124
+
+    
+    (c)  maintain the electronically transmitted ballot for 22 months in accordance with
+            
+125
+
+    
+Subsection 
+
+20A-4-202
+
+(2).
+
+
+
+
+ Legislative Review Note
+    as of  11-29-05  2:27 PM
+
+Based on a limited legal review, this legislation has not been determined to have a high
+probability of being held unconstitutional.
+
+ Office of Legislative Research and General Counsel
+[Bill Documents][Bills Directory]
+
+
+
+
+
+
+
+
+
+Who represents me?
+
+
+
+
+
+Remember my Legislators
+
+
+
+
+
+State Senate
+		350 North State, Suite 320
+		PO Box 145115
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1035
+		Fax: (801) 326-1475
+
+
+
+House of Representatives
+		350 North State, Suite 350
+		PO Box 145030
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1029
+		Fax: (801) 326-1544
+
+
+
+
+
+
+
+
+
+
+Home
+Mobile Site
+Site Map
+Calendar
+Code / Constitution
+House
+Senate
+
+Terms of Use/Privacy Policy
+
+ADA
+Utah.gov
+
+
+
+
+
+
+

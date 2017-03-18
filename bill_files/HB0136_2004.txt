@@ -1,0 +1,2412 @@
+Sponsors: []Modifications: designated agentdesignated agentExcept as modified in Section 
+
+38-1-27
+
+, a    38-1-27.(1)  As used in this section and Sections 
+
+38-1-30
+
+ through 
+
+38-1-32
+
+:(a)  "Database" means the Construction Notice Registry Database created in thissection.(b)  "Designated agent" means the third party the Division of Occupational andProfessional Licensing contracts with to create and maintain the Construction Notice RegistryDatabase.(c)  "Division" means the Division of Occupational and Professional Licensing.(d)  "Program" means the Construction Notice Registry Database Program created inthis section.(2)  There is created the Construction Notice Registry Database Program which shall:(a)  assist in protecting public health, safety, and welfare and promote a fair workingenvironment;(b)  be administered by the Division of Occupational and Professional Licensing withthe assistance of the designated agent;(c)  provide a central repository for notices of commencement, preliminary notices, andnotices of completion filed in connection with all privately owned construction projects as wellas all state and local government owned construction projects throughout Utah;(d)  be accessible for filing and review of notices of commencement, preliminarynotices, and notices of completion via the program Internet web site;(e)  accommodate electronic filing of such notices as well as provide for alternate filingby U.S.  mail, telefax, telephone, or any other alternate method as provided by rulepromulgated by the division;(f)  provide electronic notification for up to three e-mail addresses for each interestedperson or company who requests notice from the construction notice registry as well as providealternate means of notification for those persons who make alternate filings, including U.S. mail, telefax, or any other method as prescribed by rule promulgated by the division; and(g)  provide hard-copy printing of electronic receipts for individual filings evidencingthe date and time of individual filings as well as the content of individual filings.(3)  Persons interested in a construction project may request notice of filings related tothe project.  The registry shall be indexed by owner name, original contractor name, projectname, project address, parcel number, project number, and any other identifier that the divisionconsiders reasonably appropriate and established by rule.(4)  The division shall establish by rule the filing fees for notices of commencement,preliminary notices, notices of completion, and requests for notice, which fees shall not exceedthe amount reasonably necessary to create and maintain the construction notice registry.  Thefees established by the division may vary by method of filing if one form of filing is morecostly than other forms of filing.    38-1-30.(1)  The division shall contract in accordance with Title 63, Chapter 56, UtahProcurement Code, with a third party to establish and maintain the database for the purposesestablished under this part.(2)  The third party under contract under this section is the division's designated agent,and shall develop and maintain a database from the information provided by local governmententities issuing building permits, original contractors, subcontractors, and other interestedpersons.  The division and the designated agent shall design, develop, and test the database forfull implementation on May 1, 2005.(3)  In accordance with Title 63, Chapter 46a, Utah Administrative Rulemaking Act, thedivision shall make rules and develop procedures for the purpose of administering andenforcing this part.(4) (a)  The designated agent shall archive computer data files at least semiannually forauditing purposes.(b)  The division may audit the designated agent's administration of the database asoften as it considers necessary.    38-1-31.(1) (a)  For construction projects where a building permit is issued, within ten days afterthe issuance of such permit, the local government entity issuing that permit shall transmit thepermit information to the construction notice registry and such information shall form the basisof a notice of commencement.(b)  For construction projects where a building permit is not issued, within ten daysafter commencement of physical construction work at the project site, the original contractorshall file a notice of commencement with the construction notice registry.(c)  An owner of construction, a lender, surety, or other interested party may file anotice of commencement with the designated agent within the prescribed time set forth inSubsection (1)(a).(d)  If duplicate notices of commencement are filed, they shall be combined into onenotice for each project.  The designated agent shall assign each construction project a uniqueproject number which identifies each construction project and can be associated with allnotices of commencement, preliminary notices, and notices of completion.(e)  A notice of commencement filed within the ten-day period is effective as to allwork, materials, and equipment furnished to the construction project.  If a notice ofcommencement is filed after the ten-day period, the notice shall be effective only as tosubcontractors or suppliers whose work, materials, or equipment furnished to the constructionproject is commenced subsequent to the filing of the notice of commencement.(2)  The content of a notice of commencement shall include the following:(a)  the name and address of the owner of the project or improvement;(b)  the name and address of the:(i)  original contractor;(ii)  surety providing any payment bond for the project or improvement, or if noneexists, a statement that a payment bond was not required for the work being performed; and(iii)  project address if the project can be reasonably identified by an address or thename and general description of the location of the project if the project cannot be reasonablyidentified by an address;(c)  a general description of the project;(d)  the parcel number of the real property upon which the project is to be constructed ifthe project is subject to mechanics' liens; and(e)  a legal description of the property on which the project is located if the project issubject to mechanics' liens.(3)  Failure to file any notice of commencement for a construction project suspends theoperation of the preliminary notice provisions and notice of completion provisions set forthbelow.(4)  Electronic notice of the filing of a notice of commencement or alternate notice asprescribed in Subsection (1), shall be provided to all persons who have filed notices ofcommencement for the project and to all interested parties who have requested such notice forthe project.(5)  The burden is upon the person filing the notice of commencement to prove that thenotice of commencement is filed timely and meets all of the requirements herein.    38-1-32.(1) (a)  Within 20 days after commencement of its own work or the commencement offurnishing materials or equipment to a construction project, a subcontractor or supplier shallfile a preliminary notice with the construction notice registry.  A preliminary notice filed withinthe 20-day period is effective as to all work, materials, and equipment furnished to theconstruction project.(b)  If a subcontractor or supplier files a preliminary notice after the 20-day periodprescribed above, the preliminary notice becomes effective as of five days after the filing of thepreliminary notice.(c)  Failure to file a preliminary notice within the 20-day period as prescribed aboveprecludes a subcontractor or supplier from filing any claim for compensation earned forperformance of work or supply of materials or equipment furnished to the construction projectbefore the expiration of five days after the filing of a preliminary notice, except as against theperson with whom the subcontractor or supplier contracted.(d)  The preliminary notice must be filed before a notice of lien is filed with the countyrecorder pursuant to Section 
+
+38-1-7
+
+.  The content of a preliminary notice shall include thefollowing:(i)  the name, address, and telephone number of the person furnishing the labor, service,equipment, or material;(ii)  the name and address of the person who contracted with the claimant for thefurnishing of the labor, service, equipment, or material;(iii)  the name of the record or reputed owner of the project or improvement;(iv)  the name of the original contractor under which the claimant is performing or willperform its work;(v)  the address of the project or improvement or a description of the location of theproject or improvement; and(vi)  the parcel number of the real property upon which the project or improvement isbeing constructed.(2) (a)  Electronic notification of the filing of a preliminary notice or alternate notice asprescribed in Subsection (1), shall be provided to the person filing the preliminary notice, toeach person that filed a notice of commencement for the project, and to all interested partieswho have requested such notice for the project.(b)  The burden is upon the person filing the preliminary notice to prove that thepreliminary notice is filed timely and meets all of the requirements herein.(c)  Subject to Subsection (1)(d), a person required by this section to give preliminarynotice is only required to give one notice for each project or improvement, which may includean entire structure of a scheme of improvements.(d)  If the labor, service, equipment, or material is furnished pursuant to contracts withmore than one subcontractor or with more than one original contractor, the notice requirementsmust be met with respect to the labor, service, equipment, or materials furnished to eachsubcontractor or original contractor.    38-1-33.(1) (a)  Upon final completion of a construction project, an owner of a constructionproject, an original contractor, a lender that has provided financing for the construction project,or surety that has provided bonding for the construction project, may file a notice of completionwith the construction notice registry.  Final completion, for purposes of this Subsection (1),shall mean:(i)  the date of issuance of a permanent certificate of occupancy by the local governmententity having jurisdiction over the construction project;(ii)  if no certificate of occupancy is required for the construction project by the localgovernment entity having jurisdiction over the construction project, the date of the finalinspection by the local government entity having jurisdiction over the construction project; or(iii)  if no certificate of occupancy is required and no final inspection is conducted bythe local government entity having jurisdiction over the construction project, the date on whichthere remains no substantial work to be completed to finish the work on the constructionproject.(b)  Electronic notification of the filing of a notice of completion or alternate notice asprescribed in Subsection (17)(a), shall be provided to each person that filed a notice ofcommencement for the project, to each person that filed preliminary notice for the project, andto all interested parties who have requested notice for the project.  Upon the filing of a notice ofcompletion, the time periods for filing preliminary notices stated in Section 
+
+38-1-27
+
+ aremodified such that all notices of lien shall be filed subsequent to the notice of completion andshall be filed within ten days from the date the notice of completion is filed.(2)  The provisions of this section which amend the dates in Section 
+
+38-1-27
+
+
+
+ shallbecome effective for construction projects commenced on or after May 1, 2005.  The previousSection 
+
+38-1-27
+
+ shall apply to all construction projects commenced prior to May 1, 2005,according to its terms.(3)  The provisions of this section requiring the division to contract with the designatedagent and those which relate to the design, development, and testing of the database shall beeffective as of the date signed by the governor.  The remaining provisions of this section shallbecome effective on May 1, 2005.(d)(d)(c)  for residential construction projects commenced on or after May 1, 2005, the ownerhas paid in full each person that filed a preliminary notice with the database for the owner'sconstruction project as provided in Section 
+
+38-1-27
+
+;(d)(d)(d)(e)(d)(d)(d)(d)(d)designated agentThis bill takes effect on May 1, 2005Full text:
+
+
+
+Utah State Legislature
+
+
+
+
+
+
+
+
+
+
+
+
+Legislators
+
+By Session (1896-Current)
+Alphabetical (Historical)
+Find by Address/Map
+More
+
+
+Bills
+
+Bills/Bill Requests
+Passed Bills
+2017 Bills
+
+Keyword Search
+Reading Calendars
+Tracking Service
+More
+
+
+Committees
+
+All Committees
+Appropriations
+Commissions
+
+Independent Legislative Ethics Commission
+Interim
+Standing
+Subcommittees
+Task Forces
+Bills In Committees
+
+
+Utah Code / Constitution
+
+
+Title/Chapter/Section
+Keyword Search 
+
+Utah Constitution
+Laws of Utah 1851-ongoing
+Utah Territorial Laws 
+More
+
+
+Senate
+
+Main Page 
+About The Senate 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Extraordinary Sessions 
+Reading Calendars 
+Past Floor Debates 
+Senate Journals 
+
+
+House
+
+Main Page
+About the House 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Reading Calendars 
+Past Floor Debates 
+Journals 
+Conflict of Interest Forms 
+
+
+Legislative Guide 
+
+Legislative Guide
+Civic Programs
+GRAMA (Records Requests)
+
+
+Publications
+
+Search Publications
+Appropriations
+Audits
+Bagels & Briefings
+Briefing Papers
+Digest of Legislation
+Legislative Drafting Manual
+
+Journals
+
+Interim Highlights
+
+Legislative Rules
+GRAMA (Records Requests)
+Public Email
+State Organization Charts
+YouTube Channel
+Requests for Proposals and Legal Notices
+More
+
+
+Legislative Histories
+
+Legislative History Resources
+How to Research
+Bill Drafting/Research Files (1990-Ongoing)
+
+Working Bills (1896-1989)
+Interim Committee Histories (1990-Ongoing) 
+Journals
+Past House Floor Debates
+Past Senate Floor Debates
+More
+
+
+Staff Offices
+
+All Legislative Offices
+Auditor General
+Fiscal Analyst
+Printing
+Research and General Counsel
+Staff Awards
+Job Opportunities
+More
+
+
+Links of Interest
+
+Utah Administrative Rules
+Courts
+Utah State Capitol
+State of Utah
+Federal Legislation
+More
+
+
+
+
+
+
+ 
+
+Download Zipped Introduced WordPerfect HB0136.ZIP
+[Status][Bill Documents][Fiscal Note][Bills Directory]
+
+
+H.B. 136
+
+
+
+
+
+            
+1
+
+    
+ ELECTRONIC FILING OF PRELIMINARY
+
+            
+2
+
+    
+ LIEN DOCUMENTS
+
+
+
+            
+3
+
+    
+2004 GENERAL SESSION
+
+            
+4
+
+    
+STATE OF UTAH
+
+            
+5
+
+    
+
+
+ Sponsor: Michael T. Morley
+
+
+
+            
+6
+
+    
+
+            
+7
+
+    
+ LONG TITLE
+            
+8
+
+    
+ General Description:
+            
+9
+
+    
+    This bill modifies the Mechanics' Lien statute and enacts provisions for on-line filing of
+            
+10
+
+    
+notices of commencement, preliminary notices, and notices of completion.
+            
+11
+
+    
+ Highlighted Provisions:
+            
+12
+
+    
+    This bill:
+            
+13
+
+    
+    .    requires the Division of Occupational and Professional Licensing to contract for the
+            
+14
+
+    
+creation and maintenance of a construction notice registry;
+            
+15
+
+    
+    .    requires the notice registry to be accessible for filing and reviewing notices of
+            
+16
+
+    
+commencement, preliminary notices, and notices of completion;
+            
+17
+
+    
+    .    provides for alternative filing;
+            
+18
+
+    
+    .    requires that electronic notification and hard-copy printing of electronic receipts be
+            
+19
+
+    
+provided;
+            
+20
+
+    
+    .    requires the division to establish by rule the fees for filing;
+            
+21
+
+    
+    .    creates time requirements for filing notices;
+            
+22
+
+    
+    .    requires the assignment to each construction project a unique project number which
+            
+23
+
+    
+identifies each construction project;
+            
+24
+
+    
+    .    provides requirements for the content of a notice of commencement;
+            
+25
+
+    
+    .    provides penalties for failure to file in a timely manner; and
+            
+26
+
+    
+    .    creates requirements for filing a notice of completion.
+            
+27
+
+    
+ Monies Appropriated in this Bill:
+
+            
+28
+
+
+    
+    None
+            
+29
+
+    
+ Other Special Clauses:
+            
+30
+
+    
+    This bill takes effect on May 1, 2005.
+            
+31
+
+    
+ Utah Code Sections Affected:
+            
+32
+
+    
+AMENDS:
+            
+33
+
+    
+     14-1-20, as enacted by Chapter 271, Laws of Utah 1989
+            
+34
+
+    
+     14-2-5, as enacted by Chapter 271, Laws of Utah 1989
+            
+35
+
+    
+     38-1-7, as last amended by Chapter 223, Laws of Utah 1999
+            
+36
+
+    
+     38-11-204, as last amended by Chapter 198, Laws of Utah 2001
+            
+37
+
+    
+     63-56-38.1, as enacted by Chapter 271, Laws of Utah 1989
+            
+38
+
+    
+ENACTS:
+            
+39
+
+    
+     38-1-30, Utah Code Annotated 1953
+            
+40
+
+    
+     38-1-31, Utah Code Annotated 1953
+            
+41
+
+    
+     38-1-32, Utah Code Annotated 1953
+            
+42
+
+    
+     38-1-33, Utah Code Annotated 1953
+            
+43
+
+    
+REPEALS AND REENACTS:
+            
+44
+
+    
+     38-1-27, as last amended by Chapter 229, Laws of Utah 2001
+            
+45
+
+    
+
+            
+46
+
+    
+Be it enacted by the Legislature of the state of Utah:
+            
+47
+
+    
+    Section 1.  
+Section  
+14-1-20
+
+ is amended to read:
+            
+48
+
+    
+     14-1-20.  Preliminary notice requirement.
+            
+49
+
+    
+    Except persons who are in privity of contract with a payment bond principal or except
+            
+50
+
+    
+for persons performing labor for wages, any person furnishing labor, service, equipment, or
+            
+51
+
+    
+material for which a payment bond claim may be made under this chapter shall provide
+            
+52
+
+    
+preliminary notice to the [payment bond principal] designated agent as prescribed by Section
+            
+53
+
+    
+
+38-1-27
+
+.  Any person who fails to provide this preliminary notice may not make a payment
+            
+54
+
+    
+bond claim under this chapter.  The preliminary notice must be provided prior to
+            
+55
+
+    
+commencement of any action on the payment bond.
+            
+56
+
+    
+    Section 2.  
+Section  
+14-2-5
+
+ is amended to read:
+            
+57
+
+    
+     14-2-5.  Preliminary notice requirement.
+            
+58
+
+    
+    Except subcontractors who are in privity of contract with a payment bond principal or
+
+            
+59
+
+
+    
+except for persons performing labor for wages, any person furnishing labor, service,
+            
+60
+
+    
+equipment, or material for which a payment bond claim may be made under this chapter shall
+            
+61
+
+    
+provide preliminary notice to the [payment bond principal] designated agent as prescribed by
+            
+62
+
+    
+Section 
+
+38-1-27
+
+.  Any person who fails to provide this preliminary notice may not make a
+            
+63
+
+    
+payment bond claim under this chapter.  The preliminary notice must be provided prior to
+            
+64
+
+    
+commencement of any action on the payment bond.
+            
+65
+
+    
+    Section 3.  
+Section  
+38-1-7
+
+ is amended to read:
+            
+66
+
+    
+     38-1-7.  Notice of claim -- Contents -- Recording -- Service on owner of property.
+            
+67
+
+    
+    (1)  [A] Except as modified in Section 
+
+38-1-27
+
+, a person claiming benefits under this
+            
+68
+
+    
+chapter shall file for record with the county recorder of the county in which the property, or
+            
+69
+
+    
+some part of the property, is situated, a written notice to hold and claim a lien within 90 days
+            
+70
+
+    
+from the date:
+            
+71
+
+    
+    (a)  the person last performed labor or service or last furnished equipment or material
+            
+72
+
+    
+on a project or improvement for a residence as defined in Section 
+
+38-11-102
+
+; or
+            
+73
+
+    
+    (b)  of final completion of an original contract not involving a residence as defined in
+            
+74
+
+    
+Section 
+
+38-11-102
+
+.
+            
+75
+
+    
+    (2) The notice required by Subsection (1) shall contain a statement setting forth:
+            
+76
+
+    
+    (a)  the name of the reputed owner if known or, if not known, the name of the record
+            
+77
+
+    
+owner;
+            
+78
+
+    
+    (b)  the name of the person by whom the lien claimant was employed or to whom the
+            
+79
+
+    
+lien claimant furnished the equipment or material;
+            
+80
+
+    
+    (c)  the time when the first and last labor or service was performed or the first and last
+            
+81
+
+    
+equipment or material was furnished;
+            
+82
+
+    
+    (d)  a description of the property, sufficient for identification;
+            
+83
+
+    
+    (e)  the name, current address, and current phone number of the lien claimant;
+            
+84
+
+    
+    (f)  the signature of the lien claimant or the lien claimant's authorized agent;
+            
+85
+
+    
+    (g)  an acknowledgment or certificate as required under Title 57, Chapter 3, Recording
+            
+86
+
+    
+of Documents; and
+            
+87
+
+    
+    (h)  if the lien is on an owner-occupied residence, as defined in Section 
+
+38-11-102
+
+, a
+            
+88
+
+    
+statement describing what steps an owner, as defined in Section 
+
+38-11-102
+
+, may take to require
+            
+89
+
+    
+a lien claimant to remove the lien in accordance with Section 
+
+38-11-107
+
+.
+
+            
+90
+
+
+    
+    (3)  Notwithstanding Subsection (2), an acknowledgment or certificate is not required
+            
+91
+
+    
+for any notice filed after April 29, 1985, and before April 24, 1989.
+            
+92
+
+    
+    (4) (a)  Within 30 days after filing the notice of lien, the lien claimant shall deliver or
+            
+93
+
+    
+mail by certified mail a copy of the notice of lien to:
+            
+94
+
+    
+    (i)  the reputed owner of the real property; or
+            
+95
+
+    
+    (ii)  the record owner of the real property.
+            
+96
+
+    
+    (b)  If the record owner's current address is not readily available to the lien claimant, the
+            
+97
+
+    
+copy of the claim may be mailed to the last-known address of the record owner, using the
+            
+98
+
+    
+names and addresses appearing on the last completed real property assessment rolls of the
+            
+99
+
+    
+county where the affected property is located.
+            
+100
+
+    
+    (c)  Failure to deliver or mail the notice of lien to the reputed owner or record owner
+            
+101
+
+    
+precludes the lien claimant from an award of costs and attorneys' fees against the reputed
+            
+102
+
+    
+owner or record owner in an action to enforce the lien.
+            
+103
+
+    
+    (5)  The Division of Occupational and Professional Licensing shall make rules
+            
+104
+
+    
+governing the form of the statement required under Subsection (2)(h).
+            
+105
+
+    
+    Section 4.  
+Section  
+38-1-27
+
+ is repealed and reenacted to read:
+            
+106
+
+    
+     38-1-27.  Construction notice registry -- Form and contents of notice of
+            
+107
+
+    
+ commencement, preliminary notice and notice of completion.
+            
+108
+
+    
+    (1)  As used in this section and Sections 
+
+38-1-30
+
+ through 
+
+38-1-32
+
+:
+            
+109
+
+    
+    (a)  "Database" means the Construction Notice Registry Database created in this
+            
+110
+
+    
+section.
+            
+111
+
+    
+    (b)  "Designated agent" means the third party the Division of Occupational and
+            
+112
+
+    
+Professional Licensing contracts with to create and maintain the Construction Notice Registry
+            
+113
+
+    
+Database.
+            
+114
+
+    
+    (c)  "Division" means the Division of Occupational and Professional Licensing.
+            
+115
+
+    
+    (d)  "Program" means the Construction Notice Registry Database Program created in
+            
+116
+
+    
+this section.
+            
+117
+
+    
+    (2)  There is created the Construction Notice Registry Database Program which shall:
+            
+118
+
+    
+    (a)  assist in protecting public health, safety, and welfare and promote a fair working
+            
+119
+
+    
+environment;
+            
+120
+
+    
+    (b)  be administered by the Division of Occupational and Professional Licensing with
+
+            
+121
+
+
+    
+the assistance of the designated agent;
+            
+122
+
+    
+    (c)  provide a central repository for notices of commencement, preliminary notices, and
+            
+123
+
+    
+notices of completion filed in connection with all privately owned construction projects as well
+            
+124
+
+    
+as all state and local government owned construction projects throughout Utah;
+            
+125
+
+    
+    (d)  be accessible for filing and review of notices of commencement, preliminary
+            
+126
+
+    
+notices, and notices of completion via the program Internet web site;
+            
+127
+
+    
+    (e)  accommodate electronic filing of such notices as well as provide for alternate filing
+            
+128
+
+    
+by U.S.  mail, telefax, telephone, or any other alternate method as provided by rule
+            
+129
+
+    
+promulgated by the division;
+            
+130
+
+    
+    (f)  provide electronic notification for up to three e-mail addresses for each interested
+            
+131
+
+    
+person or company who requests notice from the construction notice registry as well as provide
+            
+132
+
+    
+alternate means of notification for those persons who make alternate filings, including U.S. 
+            
+133
+
+    
+mail, telefax, or any other method as prescribed by rule promulgated by the division; and
+            
+134
+
+    
+    (g)  provide hard-copy printing of electronic receipts for individual filings evidencing
+            
+135
+
+    
+the date and time of individual filings as well as the content of individual filings.
+            
+136
+
+    
+    (3)  Persons interested in a construction project may request notice of filings related to
+            
+137
+
+    
+the project.  The registry shall be indexed by owner name, original contractor name, project
+            
+138
+
+    
+name, project address, parcel number, project number, and any other identifier that the division
+            
+139
+
+    
+considers reasonably appropriate and established by rule.
+            
+140
+
+    
+    (4)  The division shall establish by rule the filing fees for notices of commencement,
+            
+141
+
+    
+preliminary notices, notices of completion, and requests for notice, which fees shall not exceed
+            
+142
+
+    
+the amount reasonably necessary to create and maintain the construction notice registry.  The
+            
+143
+
+    
+fees established by the division may vary by method of filing if one form of filing is more
+            
+144
+
+    
+costly than other forms of filing.
+            
+145
+
+    
+    Section 5.  
+Section  
+38-1-30
+
+ is enacted to read:
+            
+146
+
+    
+     38-1-30.  Third party contract -- Designated agent.
+            
+147
+
+    
+    (1)  The division shall contract in accordance with Title 63, Chapter 56, Utah
+            
+148
+
+    
+Procurement Code, with a third party to establish and maintain the database for the purposes
+            
+149
+
+    
+established under this part.
+            
+150
+
+    
+    (2)  The third party under contract under this section is the division's designated agent,
+            
+151
+
+    
+and shall develop and maintain a database from the information provided by local government
+
+            
+152
+
+
+    
+entities issuing building permits, original contractors, subcontractors, and other interested
+            
+153
+
+    
+persons.  The division and the designated agent shall design, develop, and test the database for
+            
+154
+
+    
+full implementation on May 1, 2005.
+            
+155
+
+    
+    (3)  In accordance with Title 63, Chapter 46a, Utah Administrative Rulemaking Act, the
+            
+156
+
+    
+division shall make rules and develop procedures for the purpose of administering and
+            
+157
+
+    
+enforcing this part.
+            
+158
+
+    
+    (4) (a)  The designated agent shall archive computer data files at least semiannually for
+            
+159
+
+    
+auditing purposes.
+            
+160
+
+    
+    (b)  The division may audit the designated agent's administration of the database as
+            
+161
+
+    
+often as it considers necessary.
+            
+162
+
+    
+    Section 6.  
+Section  
+38-1-31
+
+ is enacted to read:
+            
+163
+
+    
+     38-1-31.  Building permit -- Construction -- Notice registry -- Notice of
+            
+164
+
+    
+ Commencement of Work.
+            
+165
+
+    
+    (1) (a)  For construction projects where a building permit is issued, within ten days after
+            
+166
+
+    
+the issuance of such permit, the local government entity issuing that permit shall transmit the
+            
+167
+
+    
+permit information to the construction notice registry and such information shall form the basis
+            
+168
+
+    
+of a notice of commencement.
+            
+169
+
+    
+    (b)  For construction projects where a building permit is not issued, within ten days
+            
+170
+
+    
+after commencement of physical construction work at the project site, the original contractor
+            
+171
+
+    
+shall file a notice of commencement with the construction notice registry.
+            
+172
+
+    
+    (c)  An owner of construction, a lender, surety, or other interested party may file a
+            
+173
+
+    
+notice of commencement with the designated agent within the prescribed time set forth in
+            
+174
+
+    
+Subsection (1)(a).
+            
+175
+
+    
+    (d)  If duplicate notices of commencement are filed, they shall be combined into one
+            
+176
+
+    
+notice for each project.  The designated agent shall assign each construction project a unique
+            
+177
+
+    
+project number which identifies each construction project and can be associated with all
+            
+178
+
+    
+notices of commencement, preliminary notices, and notices of completion.
+            
+179
+
+    
+    (e)  A notice of commencement filed within the ten-day period is effective as to all
+            
+180
+
+    
+work, materials, and equipment furnished to the construction project.  If a notice of
+            
+181
+
+    
+commencement is filed after the ten-day period, the notice shall be effective only as to
+            
+182
+
+    
+subcontractors or suppliers whose work, materials, or equipment furnished to the construction
+
+            
+183
+
+
+    
+project is commenced subsequent to the filing of the notice of commencement.
+            
+184
+
+    
+    (2)  The content of a notice of commencement shall include the following:
+            
+185
+
+    
+    (a)  the name and address of the owner of the project or improvement;
+            
+186
+
+    
+    (b)  the name and address of the:
+            
+187
+
+    
+    (i)  original contractor;
+            
+188
+
+    
+    (ii)  surety providing any payment bond for the project or improvement, or if none
+            
+189
+
+    
+exists, a statement that a payment bond was not required for the work being performed; and
+            
+190
+
+    
+    (iii)  project address if the project can be reasonably identified by an address or the
+            
+191
+
+    
+name and general description of the location of the project if the project cannot be reasonably
+            
+192
+
+    
+identified by an address;
+            
+193
+
+    
+    (c)  a general description of the project;
+            
+194
+
+    
+    (d)  the parcel number of the real property upon which the project is to be constructed if
+            
+195
+
+    
+the project is subject to mechanics' liens; and
+            
+196
+
+    
+    (e)  a legal description of the property on which the project is located if the project is
+            
+197
+
+    
+subject to mechanics' liens.
+            
+198
+
+    
+    (3)  Failure to file any notice of commencement for a construction project suspends the
+            
+199
+
+    
+operation of the preliminary notice provisions and notice of completion provisions set forth
+            
+200
+
+    
+below.
+            
+201
+
+    
+    (4)  Electronic notice of the filing of a notice of commencement or alternate notice as
+            
+202
+
+    
+prescribed in Subsection (1), shall be provided to all persons who have filed notices of
+            
+203
+
+    
+commencement for the project and to all interested parties who have requested such notice for
+            
+204
+
+    
+the project.
+            
+205
+
+    
+    (5)  The burden is upon the person filing the notice of commencement to prove that the
+            
+206
+
+    
+notice of commencement is filed timely and meets all of the requirements herein.
+            
+207
+
+    
+    Section 7.  
+Section  
+38-1-32
+
+ is enacted to read:
+            
+208
+
+    
+     38-1-32.  Preliminary notice -- Subcontractor or supplier.
+            
+209
+
+    
+    (1) (a)  Within 20 days after commencement of its own work or the commencement of
+            
+210
+
+    
+furnishing materials or equipment to a construction project, a subcontractor or supplier shall
+            
+211
+
+    
+file a preliminary notice with the construction notice registry.  A preliminary notice filed within
+            
+212
+
+    
+the 20-day period is effective as to all work, materials, and equipment furnished to the
+            
+213
+
+    
+construction project.
+
+            
+214
+
+
+    
+    (b)  If a subcontractor or supplier files a preliminary notice after the 20-day period
+            
+215
+
+    
+prescribed above, the preliminary notice becomes effective as of five days after the filing of the
+            
+216
+
+    
+preliminary notice.
+            
+217
+
+    
+    (c)  Failure to file a preliminary notice within the 20-day period as prescribed above
+            
+218
+
+    
+precludes a subcontractor or supplier from filing any claim for compensation earned for
+            
+219
+
+    
+performance of work or supply of materials or equipment furnished to the construction project
+            
+220
+
+    
+before the expiration of five days after the filing of a preliminary notice, except as against the
+            
+221
+
+    
+person with whom the subcontractor or supplier contracted.
+            
+222
+
+    
+    (d)  The preliminary notice must be filed before a notice of lien is filed with the county
+            
+223
+
+    
+recorder pursuant to Section 
+
+38-1-7
+
+.  The content of a preliminary notice shall include the
+            
+224
+
+    
+following:
+            
+225
+
+    
+    (i)  the name, address, and telephone number of the person furnishing the labor, service,
+            
+226
+
+    
+equipment, or material;
+            
+227
+
+    
+    (ii)  the name and address of the person who contracted with the claimant for the
+            
+228
+
+    
+furnishing of the labor, service, equipment, or material;
+            
+229
+
+    
+    (iii)  the name of the record or reputed owner of the project or improvement;
+            
+230
+
+    
+    (iv)  the name of the original contractor under which the claimant is performing or will
+            
+231
+
+    
+perform its work;
+            
+232
+
+    
+    (v)  the address of the project or improvement or a description of the location of the
+            
+233
+
+    
+project or improvement; and
+            
+234
+
+    
+    (vi)  the parcel number of the real property upon which the project or improvement is
+            
+235
+
+    
+being constructed.
+            
+236
+
+    
+    (2) (a)  Electronic notification of the filing of a preliminary notice or alternate notice as
+            
+237
+
+    
+prescribed in Subsection (1), shall be provided to the person filing the preliminary notice, to
+            
+238
+
+    
+each person that filed a notice of commencement for the project, and to all interested parties
+            
+239
+
+    
+who have requested such notice for the project.
+            
+240
+
+    
+    (b)  The burden is upon the person filing the preliminary notice to prove that the
+            
+241
+
+    
+preliminary notice is filed timely and meets all of the requirements herein.
+            
+242
+
+    
+    (c)  Subject to Subsection (1)(d), a person required by this section to give preliminary
+            
+243
+
+    
+notice is only required to give one notice for each project or improvement, which may include
+            
+244
+
+    
+an entire structure of a scheme of improvements.
+
+            
+245
+
+
+    
+    (d)  If the labor, service, equipment, or material is furnished pursuant to contracts with
+            
+246
+
+    
+more than one subcontractor or with more than one original contractor, the notice requirements
+            
+247
+
+    
+must be met with respect to the labor, service, equipment, or materials furnished to each
+            
+248
+
+    
+subcontractor or original contractor.
+            
+249
+
+    
+    Section 8.  
+Section  
+38-1-33
+
+ is enacted to read:
+            
+250
+
+    
+     38-1-33.  Notice of completion.
+            
+251
+
+    
+    (1) (a)  Upon final completion of a construction project, an owner of a construction
+            
+252
+
+    
+project, an original contractor, a lender that has provided financing for the construction project,
+            
+253
+
+    
+or surety that has provided bonding for the construction project, may file a notice of completion
+            
+254
+
+    
+with the construction notice registry.  Final completion, for purposes of this Subsection (1),
+            
+255
+
+    
+shall mean:
+            
+256
+
+    
+    (i)  the date of issuance of a permanent certificate of occupancy by the local government
+            
+257
+
+    
+entity having jurisdiction over the construction project;
+            
+258
+
+    
+    (ii)  if no certificate of occupancy is required for the construction project by the local
+            
+259
+
+    
+government entity having jurisdiction over the construction project, the date of the final
+            
+260
+
+    
+inspection by the local government entity having jurisdiction over the construction project; or
+            
+261
+
+    
+    (iii)  if no certificate of occupancy is required and no final inspection is conducted by
+            
+262
+
+    
+the local government entity having jurisdiction over the construction project, the date on which
+            
+263
+
+    
+there remains no substantial work to be completed to finish the work on the construction
+            
+264
+
+    
+project.
+            
+265
+
+    
+    (b)  Electronic notification of the filing of a notice of completion or alternate notice as
+            
+266
+
+    
+prescribed in Subsection (17)(a), shall be provided to each person that filed a notice of
+            
+267
+
+    
+commencement for the project, to each person that filed preliminary notice for the project, and
+            
+268
+
+    
+to all interested parties who have requested notice for the project.  Upon the filing of a notice of
+            
+269
+
+    
+completion, the time periods for filing preliminary notices stated in Section 
+
+38-1-27
+
+ are
+            
+270
+
+    
+modified such that all notices of lien shall be filed subsequent to the notice of completion and
+            
+271
+
+    
+shall be filed within ten days from the date the notice of completion is filed.
+            
+272
+
+    
+    (2)  The provisions of this section which amend the dates in Section 
+
+38-1-27
+
+
+
+ shall
+            
+273
+
+    
+become effective for construction projects commenced on or after May 1, 2005.  The previous
+            
+274
+
+    
+Section 
+
+38-1-27
+
+ shall apply to all construction projects commenced prior to May 1, 2005,
+            
+275
+
+    
+according to its terms.
+
+            
+276
+
+
+    
+    (3)  The provisions of this section requiring the division to contract with the designated
+            
+277
+
+    
+agent and those which relate to the design, development, and testing of the database shall be
+            
+278
+
+    
+effective as of the date signed by the governor.  The remaining provisions of this section shall
+            
+279
+
+    
+become effective on May 1, 2005.
+            
+280
+
+    
+    Section 9.  
+Section  
+38-11-204
+
+ is amended to read:
+            
+281
+
+    
+     38-11-204.  Claims against the fund -- Requirement to make a claim --
+            
+282
+
+    
+ Qualifications to receive compensation.
+            
+283
+
+    
+    (1)  To claim recovery from the fund a person shall:
+            
+284
+
+    
+    (a)  meet the requirements of either Subsection (3) or (6);
+            
+285
+
+    
+    (b)  pay an application fee determined by the division under Section 
+
+63-38-3.2
+
+; and
+            
+286
+
+    
+    (c)  file with the division a completed application on a form provided by the division
+            
+287
+
+    
+accompanied by supporting documents establishing:
+            
+288
+
+    
+    (i)  that the person meets the requirements of either Subsection (3) or (6);
+            
+289
+
+    
+    (ii)  that the person was a qualified beneficiary or laborer during the construction on the
+            
+290
+
+    
+owner-occupied residence; and
+            
+291
+
+    
+    (iii)  the basis for the claim.
+            
+292
+
+    
+    (2)  To recover from the fund, the application required by Subsection (1) shall be filed
+            
+293
+
+    
+no later than one year:
+            
+294
+
+    
+    (a)  from the date the judgment required by Subsection (3)[(c)] (d) is entered;
+            
+295
+
+    
+    (b)  from the date the nonpaying party filed bankruptcy, if the claimant is precluded
+            
+296
+
+    
+from obtaining a judgment or from satisfying the requirements of Subsection (3)[(c)] (d)
+            
+297
+
+    
+because the nonpaying party filed bankruptcy within one year after the entry of judgment; or
+            
+298
+
+    
+    (c)  if a laborer, from the date the laborer completed the laborer's qualified services.
+            
+299
+
+    
+    (3)  To recover from the fund, regardless of whether the residence is occupied by the
+            
+300
+
+    
+owner, a subsequent owner, or the owner or subsequent owner's tenant or lessee, a qualified
+            
+301
+
+    
+beneficiary shall establish that:
+            
+302
+
+    
+    (a) (i)  the owner of the owner-occupied residence or the owner's agent entered into a
+            
+303
+
+    
+written contract with an original contractor licensed or exempt from licensure under Title 58,
+            
+304
+
+    
+Chapter 55, Utah Construction Trades Licensing Act, for the performance of qualified services,
+            
+305
+
+    
+to obtain the performance of qualified services by others, or for the supervision of the
+            
+306
+
+    
+performance by others of qualified services in construction on that residence;
+
+            
+307
+
+
+    
+    (ii)  the owner of the owner-occupied residence or the owner's agent entered into a
+            
+308
+
+    
+written  contract with a real estate developer for the purchase of an owner-occupied residence;
+            
+309
+
+    
+or
+            
+310
+
+    
+    (iii)  the owner of the owner-occupied residence or the owner's agent entered into a
+            
+311
+
+    
+written contract with a factory built housing retailer for the purchase of an owner-occupied
+            
+312
+
+    
+residence;
+            
+313
+
+    
+    (b)  the owner has paid in full the original contractor, licensed or exempt from licensure
+            
+314
+
+    
+under Title 58, Chapter 55, Utah Construction Trades Licensing Act, real estate developer, or
+            
+315
+
+    
+factory built housing retailer under Subsection (3)(a) with whom the owner has a written
+            
+316
+
+    
+contract in accordance with the written contract and any amendments to the contract, and:
+            
+317
+
+    
+    (i)  the original contractor, licensed or exempt from licensure under Title 58, Chapter
+            
+318
+
+    
+55, Utah Construction Trades Licensing Act, the real estate developer, or the factory built
+            
+319
+
+    
+housing retailer subsequently failed to pay a qualified beneficiary who is entitled to payment
+            
+320
+
+    
+under an agreement with that original contractor or real estate developer licensed or exempt
+            
+321
+
+    
+from licensure under Title 58, Chapter 55, Utah Construction Trades Licensing Act, for
+            
+322
+
+    
+services performed or materials supplied by the qualified beneficiary;
+            
+323
+
+    
+    (ii)  a subcontractor who contracts with the original contractor, licensed or exempt from
+            
+324
+
+    
+licensure under Title 58, Chapter 55, Utah Construction Trades Licensing Act, the real estate
+            
+325
+
+    
+developer, or the factory built housing retailer failed to pay a qualified beneficiary who is
+            
+326
+
+    
+entitled to payment under an agreement with that subcontractor or supplier; or
+            
+327
+
+    
+    (iii)  a subcontractor who contracts with a subcontractor or supplier failed to pay a
+            
+328
+
+    
+qualified beneficiary who is entitled to payment under an agreement with that subcontractor or
+            
+329
+
+    
+supplier;
+            
+330
+
+    
+    (c)  for residential construction projects commenced on or after May 1, 2005, the owner
+            
+331
+
+    
+has paid in full each person that filed a preliminary notice with the database for the owner's
+            
+332
+
+    
+construction project as provided in Section 
+
+38-1-27
+
+;
+            
+333
+
+    
+    [(c)] (d) (i)  the qualified beneficiary filed:
+            
+334
+
+    
+    (A) an action against the nonpaying party to recover monies owed him within 180 days
+            
+335
+
+    
+from the date the qualified beneficiary last provided qualified services, unless precluded from
+            
+336
+
+    
+doing so by the nonpaying party's bankruptcy filing within the 180 days after completion of
+            
+337
+
+    
+services; and
+
+            
+338
+
+
+    
+    (B)  a notice of commencement of action with the division within 30 days from the date
+            
+339
+
+    
+the qualified beneficiary filed the civil action if a civil action was filed as required by
+            
+340
+
+    
+Subsection (3)[(c)](d)(i)(A);
+            
+341
+
+    
+    (ii)  the qualified beneficiary has obtained a judgment against the nonpaying party who
+            
+342
+
+    
+failed to pay the qualified beneficiary under an agreement to provide qualified services for
+            
+343
+
+    
+construction of that owner-occupied residence;
+            
+344
+
+    
+    (iii) (A)  the qualified beneficiary has obtained from a court of competent jurisdiction
+            
+345
+
+    
+the issuance of an order requiring the judgment debtor, or if a corporation any officer of the
+            
+346
+
+    
+corporation, to appear before the court at a specified time and place to answer concerning the
+            
+347
+
+    
+debtor's or corporation's property, has received return of service of the order from a person
+            
+348
+
+    
+qualified to serve documents under the Utah Rules of Civil Procedure, Rule 4(b), and has made
+            
+349
+
+    
+reasonable efforts to obtain asset information from the supplemental proceedings; and
+            
+350
+
+    
+    (B)  if assets subject to execution are discovered as a result of the order required under
+            
+351
+
+    
+Subsection (3)[(c)](d)(iii)(A) or for any other reason, to obtain the issuance of a writ of
+            
+352
+
+    
+execution from a court of competent jurisdiction; or
+            
+353
+
+    
+    (iv) the claimant timely filed a proof of claim where permitted in the bankruptcy action,
+            
+354
+
+    
+if the nonpaying party has filed bankruptcy; and
+            
+355
+
+    
+    [(d)] (e)  the qualified beneficiary is not entitled to reimbursement from any other
+            
+356
+
+    
+person.
+            
+357
+
+    
+    (4)  The requirements of Subsection (3)[(c)](d) need not be met if the qualified
+            
+358
+
+    
+beneficiary has been precluded from obtaining a judgment against the nonpaying party or from
+            
+359
+
+    
+satisfying the requirements of Subsection (3)[(c)](d) because the nonpaying party filed
+            
+360
+
+    
+bankruptcy.
+            
+361
+
+    
+    (5)  If a qualified beneficiary fails to file the notice with the division required under
+            
+362
+
+    
+Subsection (3)[(c)](d)(i)(B), the claim of the qualified beneficiary shall be paid:
+            
+363
+
+    
+    (a)  if otherwise qualified under this chapter;
+            
+364
+
+    
+    (b)  to the extent that the limit of Subsection 
+
+38-11-203
+
+(4)(a)[(i)] has not been reached
+            
+365
+
+    
+by payments from the fund to qualified beneficiaries who have complied with the notice
+            
+366
+
+    
+requirements of Subsection (3)[(c)](d)(i)(B); and
+            
+367
+
+    
+    (c)  in the order that the claims are filed by persons who fail to comply with Subsection
+            
+368
+
+    
+(3)[(c)](d)(i)(B), not to exceed the limit of Subsection 
+
+38-11-203
+
+(4)(a)[(i)].
+
+            
+369
+
+
+    
+    (6)  To recover from the fund a laborer shall:
+            
+370
+
+    
+    (a)  establish that the laborer has not been paid wages due for the work performed at the
+            
+371
+
+    
+site of a construction on an owner-occupied residence; and
+            
+372
+
+    
+    (b)  provide any supporting documents or information required by rule by the division.
+            
+373
+
+    
+    (7)  A fee determined by the division under Section 
+
+63-38-3.2
+
+ shall be deducted from
+            
+374
+
+    
+any recovery from the fund received by a laborer.
+            
+375
+
+    
+    (8)  The requirements of Subsection (3)(a)(i) may be satisfied if a claimant establishes
+            
+376
+
+    
+to the satisfaction of the director that the owner of the owner-occupied residence or the owner's
+            
+377
+
+    
+agent entered into a written contract with an original contractor who:
+            
+378
+
+    
+    (a)  was a business entity that was not licensed under Title 58, Chapter 55, Utah
+            
+379
+
+    
+Construction Trades Licensing Act,  but was solely owned by an individual that was licensed
+            
+380
+
+    
+under Title 58, Chapter 55, Utah Construction Trades Licensing Act; or
+            
+381
+
+    
+    (b)  was a natural person who was not licensed under Title 58, Chapter 55, Utah
+            
+382
+
+    
+Construction Trades Licensing Act, but who was the sole owner and qualifier of a business
+            
+383
+
+    
+entity that was licensed under Title 58, Chapter 55, Utah Construction Trades Licensing Act.
+            
+384
+
+    
+    Section 10.  
+Section  
+63-56-38.1
+
+ is amended to read:
+            
+385
+
+    
+     63-56-38.1.  Preliminary notice requirement.
+            
+386
+
+    
+    Except subcontractors who are in privity of contract with a payment bond principal or
+            
+387
+
+    
+except for persons performing labor for wages, any person furnishing labor, service,
+            
+388
+
+    
+equipment, or material for which a payment bond claim may be made under this chapter shall
+            
+389
+
+    
+provide preliminary notice to the [payment bond principal] designated agent as prescribed by
+            
+390
+
+    
+Section 
+
+38-1-27
+
+.  Any person who fails to provide this preliminary notice may not make a
+            
+391
+
+    
+payment bond claim under this chapter.  The preliminary notice must be provided prior to
+            
+392
+
+    
+commencement of any action on the payment bond.
+            
+393
+
+    
+    Section 11.   Effective date.
+            
+394
+
+    
+    This bill takes effect on May 1, 2005
+
+
+
+
+
+ Legislative Review Note
+    as of   2-3-04  9:47 AM
+
+A limited legal review of this legislation raises no obvious constitutional or statutory concerns.
+
+ Office of Legislative Research and General Counsel
+[Bill Documents][Bills Directory]
+
+
+
+
+
+
+
+
+
+Who represents me?
+
+
+
+
+
+Remember my Legislators
+
+
+
+
+
+State Senate
+		350 North State, Suite 320
+		PO Box 145115
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1035
+		Fax: (801) 326-1475
+
+
+
+House of Representatives
+		350 North State, Suite 350
+		PO Box 145030
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1029
+		Fax: (801) 326-1544
+
+
+
+
+
+
+
+
+
+
+Home
+Mobile Site
+Site Map
+Calendar
+Code / Constitution
+House
+Senate
+
+Terms of Use/Privacy Policy
+
+ADA
+Utah.gov
+
+
+
+
+
+
+

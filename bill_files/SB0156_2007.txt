@@ -1,0 +1,805 @@
+Sponsors: []Modifications: or of a wireless telecommunications provider(a)(b)  The commission may, by rule, establish the type of telecommunications device tobe provided to ensure functional equivalence.Full text:
+
+
+
+Utah State Legislature
+
+
+
+
+
+
+
+
+
+
+
+
+Legislators
+
+By Session (1896-Current)
+Alphabetical (Historical)
+Find by Address/Map
+More
+
+
+Bills
+
+Bills/Bill Requests
+Passed Bills
+2017 Bills
+
+Keyword Search
+Reading Calendars
+Tracking Service
+More
+
+
+Committees
+
+All Committees
+Appropriations
+Commissions
+
+Independent Legislative Ethics Commission
+Interim
+Standing
+Subcommittees
+Task Forces
+Bills In Committees
+
+
+Utah Code / Constitution
+
+
+Title/Chapter/Section
+Keyword Search 
+
+Utah Constitution
+Laws of Utah 1851-ongoing
+Utah Territorial Laws 
+More
+
+
+Senate
+
+Main Page 
+About The Senate 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Extraordinary Sessions 
+Reading Calendars 
+Past Floor Debates 
+Senate Journals 
+
+
+House
+
+Main Page
+About the House 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Reading Calendars 
+Past Floor Debates 
+Journals 
+Conflict of Interest Forms 
+
+
+Legislative Guide 
+
+Legislative Guide
+Civic Programs
+GRAMA (Records Requests)
+
+
+Publications
+
+Search Publications
+Appropriations
+Audits
+Bagels & Briefings
+Briefing Papers
+Digest of Legislation
+Legislative Drafting Manual
+
+Journals
+
+Interim Highlights
+
+Legislative Rules
+GRAMA (Records Requests)
+Public Email
+State Organization Charts
+YouTube Channel
+Requests for Proposals and Legal Notices
+More
+
+
+Legislative Histories
+
+Legislative History Resources
+How to Research
+Bill Drafting/Research Files (1990-Ongoing)
+
+Working Bills (1896-1989)
+Interim Committee Histories (1990-Ongoing) 
+Journals
+Past House Floor Debates
+Past Senate Floor Debates
+More
+
+
+Staff Offices
+
+All Legislative Offices
+Auditor General
+Fiscal Analyst
+Printing
+Research and General Counsel
+Staff Awards
+Job Opportunities
+More
+
+
+Links of Interest
+
+Utah Administrative Rules
+Courts
+Utah State Capitol
+State of Utah
+Federal Legislation
+More
+
+
+
+
+
+
+ 
+
+Download Zipped Enrolled WordPerfect SB0156.ZIP
+[Introduced][Status][Bill Documents][Fiscal Note][Bills Directory]
+
+
+S.B. 156 Enrolled
+
+
+
+
+
+            
+1
+
+    
+ PUBLIC SERVICE COMMISSION -
+
+            
+2
+
+    
+ EQUIPMENT DISTRIBUTION PROGRAM
+
+
+
+            
+3
+
+    
+2007 GENERAL SESSION
+
+            
+4
+
+    
+STATE OF UTAH
+
+            
+5
+
+    
+
+
+ Chief Sponsor:  Brent H. Goodfellow
+
+
+
+            
+6
+
+    
+
+
+
+House Sponsor:  
+
+
+
+
+
+
+Lynn N. Hemingway
+
+
+
+
+
+            
+7
+
+    
+
+            
+8
+
+    
+ LONG TITLE
+            
+9
+
+    
+ General Description:
+            
+10
+
+    
+    This bill allows the Public Service Commission to determine what telecommunications
+            
+11
+
+    
+devices will be distributed to a hearing impaired person.
+            
+12
+
+    
+ Highlighted Provisions:
+            
+13
+
+    
+    This bill:
+            
+14
+
+    
+    .    allows the Public Service Commission to determine by rule what
+            
+15
+
+    
+telecommunications devices will be distributed to a hearing impaired person;
+            
+16
+
+    
+    .    allows distribution of telecommunications devices to customers of wireless
+            
+17
+
+    
+telecommunications providers; and
+            
+18
+
+    
+    .    makes technical changes.
+            
+19
+
+    
+ Monies Appropriated in this Bill:
+            
+20
+
+    
+    None
+            
+21
+
+    
+ Other Special Clauses:
+            
+22
+
+    
+    None
+            
+23
+
+    
+ Utah Code Sections Affected:
+            
+24
+
+    
+AMENDS:
+            
+25
+
+    
+     54-8b-10, as last amended by Chapter 278, Laws of Utah 2005
+            
+26
+
+    
+
+            
+27
+
+    
+Be it enacted by the Legislature of the state of Utah:
+            
+28
+
+    
+    Section 1.  
+Section  
+54-8b-10
+
+ is amended to read:
+            
+29
+
+    
+     54-8b-10.  Imposing a surcharge to provide hearing and speech impaired persons
+
+            
+30
+
+
+    
+ with telecommunication devices -- Definitions -- Procedures for establishing program --
+            
+31
+
+    
+ Surcharge -- Administration and disposition of surcharge moneys.
+            
+32
+
+    
+    (1)  As used in this section:
+            
+33
+
+    
+    (a)  "Certified deaf or severely hearing or speech impaired person" means any state
+            
+34
+
+    
+resident who:
+            
+35
+
+    
+    (i)  is so certified by:
+            
+36
+
+    
+    (A)  a licensed physician;
+            
+37
+
+    
+    (B)  an otolaryngologist;
+            
+38
+
+    
+    (C)  a speech language pathologist;
+            
+39
+
+    
+    (D)  an audiologist; or
+            
+40
+
+    
+    (E)  a qualified state agency; and
+            
+41
+
+    
+    (ii)  qualifies for assistance under any low income public assistance program
+            
+42
+
+    
+administered by a state agency.
+            
+43
+
+    
+    (b)  "Certified interpreter" means a person who is a certified interpreter under Title
+            
+44
+
+    
+53A, Chapter 26a, Interpreter Services for the Hearing Impaired Act.
+            
+45
+
+    
+    (c) (i)  "Telecommunication device" means any mechanical adaptation device that
+            
+46
+
+    
+enables a deaf or severely hearing or speech impaired person to use the telephone.
+            
+47
+
+    
+    (ii)  "Telecommunication device" includes:
+            
+48
+
+    
+    (A)  telecommunication devices for the deaf (TDD);
+            
+49
+
+    
+    (B)  telephone amplifiers;
+            
+50
+
+    
+    (C)  telephone signal devices;
+            
+51
+
+    
+    (D)  artificial larynxes; and
+            
+52
+
+    
+    (E)  adaptive equipment for TDD keyboard access.
+            
+53
+
+    
+    (2)  The commission shall hold hearings to establish a program whereby any certified
+            
+54
+
+    
+deaf or severely hearing or speech impaired customer of a telephone corporation that provides
+            
+55
+
+    
+service through a local exchange or of a wireless telecommunications provider may obtain a
+            
+56
+
+    
+telecommunication device capable of serving the customer at no charge to the customer beyond
+            
+57
+
+    
+the rate for basic service.
+
+            
+58
+
+
+    
+    (3) (a)  The program described in Subsection (2) shall provide a dual party relay system
+            
+59
+
+    
+using third party intervention to connect a certified deaf or severely hearing or speech impaired
+            
+60
+
+    
+person with a normal hearing person by way of telecommunication devices designed for that
+            
+61
+
+    
+purpose.
+            
+62
+
+    
+    (b)  The commission may, by rule, establish the type of telecommunications device to
+            
+63
+
+    
+be provided to ensure functional equivalence.
+            
+64
+
+    
+    (4) (a)  The commission shall impose a surcharge on each residence and business access
+            
+65
+
+    
+line of each customer to the local exchange of any telephone corporation providing such lines
+            
+66
+
+    
+in this state to cover the costs of:
+            
+67
+
+    
+    (i)  the program described in Subsection (2); and
+            
+68
+
+    
+    (ii)  payments made under Subsection (5).
+            
+69
+
+    
+    (b)  The commission shall establish by rule the amount to be charged under this section,
+            
+70
+
+    
+which may not exceed 25 cents per residence and business access line.
+            
+71
+
+    
+    (c)  The telephone corporation shall collect the surcharge from its customers and
+            
+72
+
+    
+transfer the money collected to the commission under rules adopted by the commission.
+            
+73
+
+    
+    (d)  The surcharge shall be separately identified on customer bills.
+            
+74
+
+    
+    (5) (a)  Any money collected from the surcharge imposed under Subsection (4) shall be
+            
+75
+
+    
+deposited in the state treasury as dedicated credits to be administered as determined by the
+            
+76
+
+    
+Public Service Commission.
+            
+77
+
+    
+    (b)  These dedicated credits may be used only:
+            
+78
+
+    
+    (i)  for the purchase, maintenance, repair, and distribution of telecommunication
+            
+79
+
+    
+devices;
+            
+80
+
+    
+    (ii)  for the acquisition, operation, maintenance, and repair of a dual party relay system;
+            
+81
+
+    
+    (iii)  to reimburse telephone corporations for the expenses incurred in collecting and
+            
+82
+
+    
+transferring to the commission the surcharge imposed by the commission;
+            
+83
+
+    
+    (iv)  for the general administration of the program;
+            
+84
+
+    
+    (v)  to train persons in the use of telecommunications devices; and
+            
+85
+
+    
+    (vi)  by the commission to contract, in compliance with Title 63, Chapter 56, Utah
+
+            
+86
+
+
+    
+Procurement Code, with:
+            
+87
+
+    
+    (A)  an institution within the state system of higher education listed in Section
+            
+88
+
+    
+
+53B-1-102
+
+ for a program approved by the Board of Regents that trains persons to qualify as
+            
+89
+
+    
+certified interpreters; or
+            
+90
+
+    
+    (B)  the Division of Services to the Deaf and Hard of Hearing for a program that trains
+            
+91
+
+    
+persons to qualify as certified interpreters.
+            
+92
+
+    
+    (c) (i)  The commission shall make rules under Title 63, Chapter 46a, Utah
+            
+93
+
+    
+Administrative Rulemaking Act, for the administration of monies under Subsection (5)(b)(vi).
+            
+94
+
+    
+    (ii)  In the initial rulemaking to determine the administration of monies under
+            
+95
+
+    
+Subsection (5)(b)(vi), the commission shall give notice and hold a public hearing.
+            
+96
+
+    
+    (d)  Monies received by the commission under Subsection (4) are nonlapsing.
+            
+97
+
+    
+    (6) (a)  The telephone surcharge need not be collected by a local exchange company if
+            
+98
+
+    
+the amount collected would be less than the actual administrative costs of the collection. 
+            
+99
+
+    
+    (b)  If Subsection (6)(a) applies, the local exchange company shall submit to the
+            
+100
+
+    
+commission, in lieu of the revenue from the surcharge collection, a breakdown of the
+            
+101
+
+    
+anticipated costs and the expected revenue from the collection, showing that the costs exceed
+            
+102
+
+    
+the revenue.
+            
+103
+
+    
+    (7)  The commission shall solicit the advice, counsel, and physical assistance of
+            
+104
+
+    
+severely hearing or speech impaired persons and the organizations serving them in the design
+            
+105
+
+    
+and implementation of the program.
+[Bill Documents][Bills Directory]
+
+
+
+
+
+
+
+
+
+Who represents me?
+
+
+
+
+
+Remember my Legislators
+
+
+
+
+
+State Senate
+		350 North State, Suite 320
+		PO Box 145115
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1035
+		Fax: (801) 326-1475
+
+
+
+House of Representatives
+		350 North State, Suite 350
+		PO Box 145030
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1029
+		Fax: (801) 326-1544
+
+
+
+
+
+
+
+
+
+
+Home
+Mobile Site
+Site Map
+Calendar
+Code / Constitution
+House
+Senate
+
+Terms of Use/Privacy Policy
+
+ADA
+Utah.gov
+
+
+
+
+
+
+

@@ -1,0 +1,954 @@
+Sponsors: []Modifications: :(i);(ii):(i);(ii):(i):(A);(B); and(ii) (A);(B):(i);(ii);(iii)Chapter 6, Insurance(i)a loanor(ii)  a loan:(A)  that finances tuition and other expenses:(I)  charged in connection with enrollment:(Aa) at a public or proprietary preprimary, secondary, vocational, or postsecondaryschool; or(Bb)  in any tutorial, continuing education, test preparation, distance-learning, or similarprogram; and(II)  including:(Aa)  tuition;(Bb)  fees;(Cc)  books;(Dd)  housing; and(Ee)  other expenses;(B)  that is:(I)  made, insured, or guaranteed under a state program; or(II)  made by a federally insured depository institution; and(C)  including a loan that consolidates or refinances a loan described in this Subsection(2)(h)(ii); andcreditopen-end consumer creditcontractmails or delivers written notice of the change:(i)  tocreditby(ii)  in a manner consistent with the provisions in effect on the day on which the noticeis given of the Truth in Lending Act, 15 U.S.C. Section 1601 et seq., and its implementingRegulation Z; andopen-end consumer creditopen-end consumer credit contractandopen-end consumer credit contractopen-end consumer credit contractFull text:
+
+
+
+Utah State Legislature
+
+
+
+
+
+
+
+
+
+
+
+
+Legislators
+
+By Session (1896-Current)
+Alphabetical (Historical)
+Find by Address/Map
+More
+
+
+Bills
+
+Bills/Bill Requests
+Passed Bills
+2017 Bills
+
+Keyword Search
+Reading Calendars
+Tracking Service
+More
+
+
+Committees
+
+All Committees
+Appropriations
+Commissions
+
+Independent Legislative Ethics Commission
+Interim
+Standing
+Subcommittees
+Task Forces
+Bills In Committees
+
+
+Utah Code / Constitution
+
+
+Title/Chapter/Section
+Keyword Search 
+
+Utah Constitution
+Laws of Utah 1851-ongoing
+Utah Territorial Laws 
+More
+
+
+Senate
+
+Main Page 
+About The Senate 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Extraordinary Sessions 
+Reading Calendars 
+Past Floor Debates 
+Senate Journals 
+
+
+House
+
+Main Page
+About the House 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Reading Calendars 
+Past Floor Debates 
+Journals 
+Conflict of Interest Forms 
+
+
+Legislative Guide 
+
+Legislative Guide
+Civic Programs
+GRAMA (Records Requests)
+
+
+Publications
+
+Search Publications
+Appropriations
+Audits
+Bagels & Briefings
+Briefing Papers
+Digest of Legislation
+Legislative Drafting Manual
+
+Journals
+
+Interim Highlights
+
+Legislative Rules
+GRAMA (Records Requests)
+Public Email
+State Organization Charts
+YouTube Channel
+Requests for Proposals and Legal Notices
+More
+
+
+Legislative Histories
+
+Legislative History Resources
+How to Research
+Bill Drafting/Research Files (1990-Ongoing)
+
+Working Bills (1896-1989)
+Interim Committee Histories (1990-Ongoing) 
+Journals
+Past House Floor Debates
+Past Senate Floor Debates
+More
+
+
+Staff Offices
+
+All Legislative Offices
+Auditor General
+Fiscal Analyst
+Printing
+Research and General Counsel
+Staff Awards
+Job Opportunities
+More
+
+
+Links of Interest
+
+Utah Administrative Rules
+Courts
+Utah State Capitol
+State of Utah
+Federal Legislation
+More
+
+
+
+
+
+
+ 
+
+Download Zipped Enrolled WordPerfect SB0123.ZIP
+[Introduced][Amended][Status][Bill Documents][Fiscal Note][Bills Directory]
+
+
+S.B. 123 Enrolled
+
+
+
+
+
+            
+1
+
+    
+ UTAH CONSUMER CREDIT CODE
+
+            
+2
+
+    
+ AMENDMENTS
+
+
+
+            
+3
+
+    
+2006 GENERAL SESSION
+
+            
+4
+
+    
+STATE OF UTAH
+
+            
+5
+
+    
+
+
+ Chief Sponsor:  Peter C. Knudson
+
+
+
+            
+6
+
+    
+
+
+
+House Sponsor:  
+
+
+
+
+
+
+J. Stuart Adams
+
+
+
+
+
+            
+7
+
+    
+
+            
+8
+
+    
+ LONG TITLE
+            
+9
+
+    
+ General Description:
+            
+10
+
+    
+    This bill modifies the Utah Consumer Credit Code.
+            
+11
+
+    
+ Highlighted Provisions:
+            
+12
+
+    
+    This bill:
+            
+13
+
+    
+    .    expands exempted transactions related to education loans;
+            
+14
+
+    
+    .    requires that notice of a change of terms of open-end consumer credit contracts be:
+            
+15
+
+    
+        .    mailed or delivered; and
+            
+16
+
+    
+        .    in a manner consistent with the federal Truth in Lending Act and implementing
+            
+17
+
+    
+regulations; and
+            
+18
+
+    
+    .    makes technical changes.
+            
+19
+
+    
+ Monies Appropriated in this Bill:
+            
+20
+
+    
+    None
+            
+21
+
+    
+ Other Special Clauses:
+            
+22
+
+    
+    None
+            
+23
+
+    
+ Utah Code Sections Affected:
+            
+24
+
+    
+AMENDS:
+            
+25
+
+    
+     70C-1-202, as last amended by Chapter 200, Laws of Utah 1994
+            
+26
+
+    
+     70C-4-102, as last amended by Chapter 180, Laws of Utah 1999
+            
+27
+
+    
+
+            
+28
+
+    
+Be it enacted by the Legislature of the state of Utah:
+            
+29
+
+    
+    Section 1.  
+Section  
+70C-1-202
+
+ is amended to read:
+
+            
+30
+
+
+    
+     70C-1-202.  Exempted transactions.
+            
+31
+
+    
+    (1)  Notwithstanding the exceptions in Subsection (2), parties to a credit transaction that
+            
+32
+
+    
+is otherwise exempt from this title may explicitly agree in writing that the transaction is subject
+            
+33
+
+    
+to this title.  The agreement shall specifically reference Title 70C, Utah Consumer Credit Code.
+            
+34
+
+    
+    (2)  This title does not apply to any of the following:
+            
+35
+
+    
+    (a)  any extension of credit:
+            
+36
+
+    
+    (i)  primarily for business, commercial, or agricultural purposes[,]; or
+            
+37
+
+    
+    (ii)  to other than a natural person including government agencies or instrumentalities;
+            
+38
+
+    
+    (b)  any closed-end extension of credit secured by a first lien or equivalent security
+            
+39
+
+    
+interest on a dwelling or building lot;
+            
+40
+
+    
+    (c)  any transaction in securities or commodities accounts in which credit is extended by
+            
+41
+
+    
+a broker-dealer registered with the:
+            
+42
+
+    
+    (i)  Securities and Exchange Commission; or [the]
+            
+43
+
+    
+    (ii)  Commodity Futures Trading Commission;
+            
+44
+
+    
+    (d)  any extension of credit:
+            
+45
+
+    
+    (i)  not secured by:
+            
+46
+
+    
+    (A)  real property[,]; or [by]
+            
+47
+
+    
+    (B)  personal property used or expected to be used as the principal dwelling of the
+            
+48
+
+    
+consumer[,]; and
+            
+49
+
+    
+    (ii) (A)  in which the amount financed exceeds $25,000; or
+            
+50
+
+    
+    (B)  in which there is an express written commitment to extend credit in excess of
+            
+51
+
+    
+$25,000;
+            
+52
+
+    
+    (e)  any transaction under public utility or common carrier tariffs if a subdivision of this
+            
+53
+
+    
+state or the United States regulates:
+            
+54
+
+    
+    (i)  the charges for the services involved[,];
+            
+55
+
+    
+    (ii)  the charges for delayed payment[,]; and
+            
+56
+
+    
+    (iii)  any discount allowed for early payment;
+            
+57
+
+    
+    (f)  any sale of insurance by an insurer except as otherwise provided in [the chapter on
+
+            
+58
+
+
+    
+insurance, Sections 
+
+70C-6-101
+
+ through 
+
+70C-6-304
+
+] Chapter 6, Insurance;
+            
+59
+
+    
+    (g)  any transaction with a party acting as a pawnbroker and licensed by any
+            
+60
+
+    
+governmental authority in this state;
+            
+61
+
+    
+    (h) (i)  [loans] a loan made, insured, or guaranteed pursuant to a program authorized by
+            
+62
+
+    
+Title IV of the Higher Education Act of 1965, 20 U.S.C. Sections 1070, et seq.; [and] or
+            
+63
+
+    
+    (ii)  a loan:
+            
+64
+
+    
+    (A)  that finances tuition and other expenses:
+            
+65
+
+    
+    (I)  charged in connection with enrollment:
+            
+66
+
+    
+    (Aa) at a public or proprietary preprimary, secondary, vocational, or postsecondary
+            
+67
+
+    
+school; or
+            
+68
+
+    
+    (Bb)  in any tutorial, continuing education, test preparation, distance-learning, or similar
+            
+69
+
+    
+program; and
+            
+70
+
+    
+    (II)  including:
+            
+71
+
+    
+    (Aa)  tuition;
+            
+72
+
+    
+    (Bb)  fees;
+            
+73
+
+    
+    (Cc)  books;
+            
+74
+
+    
+    (Dd)  housing; and
+            
+75
+
+    
+    (Ee)  other expenses;
+            
+76
+
+    
+    (B)  that is:
+            
+77
+
+    
+    (I)  made, insured, or guaranteed under a state program; or
+            
+78
+
+    
+    (II)  made by a federally insured depository institution; and
+            
+79
+
+    
+    (C)  including a loan that consolidates or refinances a loan described in this Subsection
+            
+80
+
+    
+(2)(h)(ii); and
+            
+81
+
+    
+    (i)  a rental purchase agreement as defined in Section 
+
+15-8-3
+
+.
+            
+82
+
+    
+    Section 2.  
+Section  
+70C-4-102
+
+ is amended to read:
+            
+83
+
+    
+     70C-4-102.  Change of terms of open-end consumer credit contracts.
+            
+84
+
+    
+    (1)  For purposes of this section, "change" includes to add, delete, or otherwise change a
+            
+85
+
+    
+term of an open-end consumer credit contract.
+
+            
+86
+
+
+    
+    (2)  Notwithstanding Section 
+
+25-5-4
+
+, a creditor may change any written term of an
+            
+87
+
+    
+open-end consumer credit contract at any time while the [agreement] open-end consumer credit
+            
+88
+
+    
+contract is in effect and apply the new term to the unpaid balance in the account if:
+            
+89
+
+    
+    (a)  the creditor [gives] mails or delivers written notice of the change:
+            
+90
+
+    
+    (i)  to all other parties to the open-end consumer credit contract that may be affected
+            
+91
+
+    
+[not less than 30 days advance written notice of] by the change; and
+            
+92
+
+    
+    (ii)  in a manner consistent with the provisions in effect on the day on which the notice
+            
+93
+
+    
+is given of the Truth in Lending Act, 15 U.S.C. Section 1601 et seq., and its implementing
+            
+94
+
+    
+Regulation Z; and
+            
+95
+
+    
+    (b)  the open-end consumer credit contract expressly provides that the creditor may
+            
+96
+
+    
+change terms of the open-end consumer credit contract agreement from time to time.
+            
+97
+
+    
+    (3)  If the creditor has taken a security interest in any real property of the debtor to
+            
+98
+
+    
+secure payment of the debt, and if the term to be changed affects the method for calculating
+            
+99
+
+    
+minimum payments, or is part of the finance charge, the creditor may apply the new term to an
+            
+100
+
+    
+account balance relating to a credit transaction that occurred prior to the effective date of the
+            
+101
+
+    
+change only if:
+            
+102
+
+    
+    (a)  the debtor expressly so agrees after notice of the change has been given by the
+            
+103
+
+    
+creditor; or
+            
+104
+
+    
+    (b) (i)  the creditor notifies the debtor that:
+            
+105
+
+    
+    (A)  further extensions of credit will not be permitted unless the debtor agrees that the
+            
+106
+
+    
+new term may be applied to an existing account balance; and
+            
+107
+
+    
+    (B)  any future charges to the account will constitute agreement; and
+            
+108
+
+    
+    (ii)  the debtor makes a charge to the account after receiving notice described in
+            
+109
+
+    
+Subsection (3)(b)(i).
+            
+110
+
+    
+    (4)  Notice under this section is not required when:
+            
+111
+
+    
+    (a)  the change involves:
+            
+112
+
+    
+    (i)  late payment charges;
+            
+113
+
+    
+    (ii)  charges for documentary evidence;
+
+            
+114
+
+
+    
+    (iii)  over-the-limit charges;
+            
+115
+
+    
+    (iv)  a reduction of any component of a finance or other charge;
+            
+116
+
+    
+    (v)  suspension of future credit privileges; or
+            
+117
+
+    
+    (vi)  termination of an account or plan; or
+            
+118
+
+    
+    (b)  other than an increase in the periodic rate or other finance charge, the change
+            
+119
+
+    
+results from:
+            
+120
+
+    
+    (i)  an agreement involving a court proceeding; or
+            
+121
+
+    
+    (ii)  the consumer's default or delinquency.
+            
+122
+
+    
+    (5) (a)  The actual unpaid balance of the account at any point in time is not a term of the
+            
+123
+
+    
+[credit agreement] open-end consumer credit contract for purposes of this section.
+            
+124
+
+    
+    (b)  With regard to a variable or adjustable interest rate, a periodic change in the
+            
+125
+
+    
+applicable rate is not a change subject to this section if no term of the [credit agreement]
+            
+126
+
+    
+open-end consumer credit contract pertaining to calculation of the applicable rate is changed.
+            
+127
+
+    
+    (6) (a)  A creditor may include a notice required by this section of a change to an
+            
+128
+
+    
+open-end consumer credit contract on or in the same envelope as a periodic statement or other
+            
+129
+
+    
+material sent to the borrower by the creditor.
+            
+130
+
+    
+    (b)  Notwithstanding Subsection (6)(a), a creditor is not required to include a notice
+            
+131
+
+    
+required by this section with any other material sent to the borrower.
+[Bill Documents][Bills Directory]
+
+
+
+
+
+
+
+
+
+Who represents me?
+
+
+
+
+
+Remember my Legislators
+
+
+
+
+
+State Senate
+		350 North State, Suite 320
+		PO Box 145115
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1035
+		Fax: (801) 326-1475
+
+
+
+House of Representatives
+		350 North State, Suite 350
+		PO Box 145030
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1029
+		Fax: (801) 326-1544
+
+
+
+
+
+
+
+
+
+
+Home
+Mobile Site
+Site Map
+Calendar
+Code / Constitution
+House
+Senate
+
+Terms of Use/Privacy Policy
+
+ADA
+Utah.gov
+
+
+
+
+
+
+

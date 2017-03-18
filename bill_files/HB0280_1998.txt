@@ -1,0 +1,610 @@
+Sponsors: []Modifications:     31A-22-1010.(1)  An insurer authorized to transact the business of workers' compensation in this statemay issue a workers' compensation insurance policy that provides for the insured to participate inthe payment of the insurance claims and losses covered by the policy in accordance with rulesmade by the department.(2)  Notwithstanding Subsection (1), an insurer:(a)  shall assume responsibility to pay all claims and losses under a workers' compensationinsurance policy in accordance with Title 34A, Chapters 2 and 3;(b)  may not require the insured to participate in the payment of the insurance claims andlosses by any means except reimbursement of the insurer; and(c)  may not require an employee to participate in the payment of claims or losses.(3)  For policies issued under this section, the department shall make rules consistent withthis section governing:(a)  the terms of the policies; and(b)  reporting requirements for the policies.this(a):(i);(ii);(iii);(iv)(b)(4)(5) (a)  As used in this Subsection (5):(i) (A)  "agricultural employer" means a person who employs agricultural labor as definedin Section 35A-4-206;(B)  notwithstanding Subsection (5)(a)(i)(A), only for purposes of determining who is amember of the employer's immediate family under Subsection (5)(a)(ii), if the agriculturalemployer is a corporation, partnership, limited liability company, or other business entity,"agricultural employer" means an officer, director, partner, or member of the business entity;(ii)  "employer's immediate family" means:(A)  an agricultural employer's:(I)  spouse;(II)  grandparent;(III)  parent;(IV)  sibling;(V)  child; or(VI)  grandchild; or(B)  a spouse of any person provided in Subsection (4)(a)(ii)(A)(II) though (VI); and(iii)  "non-immediate family" means a person who is not a member of the employer'simmediate family.(b)  For purposes of this chapter and Chapter 3, Utah Occupational Disease Act, anagricultural employer is not considered an employer of a member of the employer's immediatefamily.(c)  For purposes of this chapter and Chapter 3, Utah Occupational Disease Act, anagricultural employer is not considered an employer of a non-immediate family employee if:(i)  for the previous calendar year the agricultural employer's total annual payroll for allnon-immediate family employees was less than $8,000; or(ii) (A)  for the previous calendar year the agricultural employer's total annual payroll forall non-immediate family employees was equal to or greater than $8,000 but less than $50,000;and(B)  the agricultural employer maintains insurance that provides coverage for theemployer's non-immediate family employees in at least the following amounts:(I)  $300,000 liability insurance, as defined in Section 31A-1-301; and(II)  $5,000 health insurance, as defined in Section 31A-1-301.(d)  For purposes of this chapter and Chapter 3, Utah Occupational Disease Act, anagricultural employer is considered an employer of a non-immediate family employee if:(i)  for the previous calendar year the agricultural employer's total annual payroll for allnon-immediate family employees is equal to or greater than $50,000; or(ii) (A)  for the previous year the agricultural employer's total payroll for non-immediatefamily employees was equal to or exceeds $8,000 but is less than $50,000; and(B)  the agricultural employer fails to maintain the insurance required under Subsection(5)(c)(ii).(6):(a);(b)(7)(7)(7)(7)(7)This act takes effect on July 1, 1999.Full text:
+
+
+
+Utah State Legislature
+
+
+
+
+
+
+
+
+
+
+
+
+Legislators
+
+By Session (1896-Current)
+Alphabetical (Historical)
+Find by Address/Map
+More
+
+
+Bills
+
+Bills/Bill Requests
+Passed Bills
+2017 Bills
+
+Keyword Search
+Reading Calendars
+Tracking Service
+More
+
+
+Committees
+
+All Committees
+Appropriations
+Commissions
+
+Independent Legislative Ethics Commission
+Interim
+Standing
+Subcommittees
+Task Forces
+Bills In Committees
+
+
+Utah Code / Constitution
+
+
+Title/Chapter/Section
+Keyword Search 
+
+Utah Constitution
+Laws of Utah 1851-ongoing
+Utah Territorial Laws 
+More
+
+
+Senate
+
+Main Page 
+About The Senate 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Extraordinary Sessions 
+Reading Calendars 
+Past Floor Debates 
+Senate Journals 
+
+
+House
+
+Main Page
+About the House 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Reading Calendars 
+Past Floor Debates 
+Journals 
+Conflict of Interest Forms 
+
+
+Legislative Guide 
+
+Legislative Guide
+Civic Programs
+GRAMA (Records Requests)
+
+
+Publications
+
+Search Publications
+Appropriations
+Audits
+Bagels & Briefings
+Briefing Papers
+Digest of Legislation
+Legislative Drafting Manual
+
+Journals
+
+Interim Highlights
+
+Legislative Rules
+GRAMA (Records Requests)
+Public Email
+State Organization Charts
+YouTube Channel
+Requests for Proposals and Legal Notices
+More
+
+
+Legislative Histories
+
+Legislative History Resources
+How to Research
+Bill Drafting/Research Files (1990-Ongoing)
+
+Working Bills (1896-1989)
+Interim Committee Histories (1990-Ongoing) 
+Journals
+Past House Floor Debates
+Past Senate Floor Debates
+More
+
+
+Staff Offices
+
+All Legislative Offices
+Auditor General
+Fiscal Analyst
+Printing
+Research and General Counsel
+Staff Awards
+Job Opportunities
+More
+
+
+Links of Interest
+
+Utah Administrative Rules
+Courts
+Utah State Capitol
+State of Utah
+Federal Legislation
+More
+
+
+
+
+
+
+ 
+
+Download Zipped Introduced WP 6.1 HB0280.ZIP 13,440 Bytes
+[Status][Bill Documents][Fiscal Note][Bills Directory]
+
+
+H.B. 280
+
+
+
+
+
+
+
+
+
+1     WORKERS' COMPENSATION INSURANCE
+
+
+2     AMENDMENTS
+
+
+
+
+3    1998 GENERAL SESSION
+
+
+4    STATE OF UTAH
+
+
+5     Sponsor:  Bill  Wright
+
+
+6    AN ACT RELATING TO LABOR; DEFINING TERMS; MODIFYING EXEMPTION FOR
+
+7    AGRICULTURAL WORKERS; CLARIFYING AUTHORITY TO ISSUE DEDUCTIBLE
+
+8    WORKERS' COMPENSATION POLICIES; MAKING TECHNICAL CORRECTIONS; AND
+
+9    PROVIDING AN EFFECTIVE DATE.
+
+10    This act affects sections of Utah Code Annotated 1953 as follows:
+
+11    AMENDS:
+
+12         34A-2-103, as last amended by Chapter 201 and renumbered and amended by Chapter 375,
+
+13    Laws of Utah 1997
+
+14    ENACTS:
+
+15         31A-22-1010, Utah Code Annotated 1953
+
+16    Be it enacted by the Legislature of the state of Utah:
+
+17        Section 1.  Section  31A-22-1010 is enacted to read:
+
+18         31A-22-1010.  Workers' compensation deductible policies.
+
+19        (1)  An insurer authorized to transact the business of workers' compensation in this state
+
+20    may issue a workers' compensation insurance policy that provides for the insured to participate in
+
+21    the payment of the insurance claims and losses covered by the policy in accordance with rules
+
+22    made by the department.
+
+23        (2)  Notwithstanding Subsection (1), an insurer:
+
+24        (a)  shall assume responsibility to pay all claims and losses under a workers' compensation
+
+25    insurance policy in accordance with Title 34A, Chapters 2 and 3;
+
+26        (b)  may not require the insured to participate in the payment of the insurance claims and
+
+27    losses by any means except reimbursement of the insurer; and
+
+
+1        (c)  may not require an employee to participate in the payment of claims or losses.
+
+2        (3)  For policies issued under this section, the department shall make rules consistent with
+
+3    this section governing:
+
+4        (a)  the terms of the policies; and
+
+5        (b)  reporting requirements for the policies.
+
+6        Section 2.  Section  34A-2-103 is amended to read:
+
+7         34A-2-103.  Employers enumerated and defined -- Regularly employed -- Statutory
+
+8     employers.
+
+9        (1) (a)  The state, and each county, city, town, and school district in the state are considered
+
+10    employers under this chapter and Chapter 3, Utah Occupational Disease Act.
+
+11        (b)  For the purposes of the exclusive remedy in this chapter and Chapter 3, Utah
+
+12    Occupational Disease Act prescribed in Sections 34A-2-105 and 34A-3-102, the state is considered
+
+13    to be a single employer and includes any office, department, agency, authority, commission, board,
+
+14    institution, hospital, college, university, or other instrumentality of the state.
+
+15        (2)  Except as provided in Subsection (4), each person, including each public utility and
+
+16    each independent contractor, who regularly employs one or more workers or operatives in the same
+
+17    business, or in or about the same establishment, under any contract of hire, express or implied, oral
+
+18    or written, is considered an employer under this chapter and Chapter 3, Utah Occupational Disease
+
+19    Act.  As used in this Subsection (2):
+
+20        [(b)] (a)  "Independent contractor" means any person engaged in the performance of any
+
+21    work for another who, while so engaged, is:
+
+22        (i)  independent of the employer in all that pertains to the execution of the work[, is];
+
+23        (ii)  not subject to the routine rule or control of the employer[, is];
+
+24        (iii)  engaged only in the performance of a definite job or piece of work[,]; and [is]
+
+25        (iv)  subordinate to the employer only in effecting a result in accordance with the
+
+26    employer's design.
+
+27        [(a)] (b)  "Regularly" includes all employments in the usual course of the trade, business,
+
+28    profession, or occupation of the employer, whether continuous throughout the year or for only a
+
+29    portion of the year.
+
+30        (3) (a)  The client company in an employee leasing arrangement under Title 58, Chapter
+
+31    59, Employee Leasing Company Licensing Act, is considered the employer of leased employees
+
+- 2 -
+
+
+1    and shall secure workers' compensation benefits for them by complying with Subsection
+
+2    34A-2-201(1)(a) or (b) and commission rules.
+
+3        (b)  Insurance carriers may underwrite workers' compensation secured in accordance with
+
+4    Subsection (3)(a) showing the leasing company as the named insured and each client company as
+
+5    an additional insured by means of individual endorsements.
+
+6        (c)  Endorsements shall be filed with the division as directed by commission rule.
+
+7        (d)  The division shall promptly inform the Division of Occupation and Professional
+
+8    Licensing within the Department of Commerce if the division has reason to believe that an
+
+9    employee leasing company is not in compliance with Subsection 34A-2-201(1)(a) or (b) and
+
+10    commission rules.
+
+11        [(4) (a)  An agricultural employer is not considered an employer under this chapter and
+
+12    Chapter 3, Utah Occupational Disease Act, if:]
+
+13        [(i) (A)  the employer's employees are all members of the employer's immediate family;
+
+14    and]
+
+15        [(B)  the employer has a proprietary interest in the farm where they work; or]
+
+16        [(ii)  the employer employed five or fewer persons other than immediate family members
+
+17    for 40 hours or more per week per employee for 13 consecutive weeks during any part of the
+
+18    preceding 12 months.]
+
+19        [(b)] (4)  A domestic employer who does not employ one employee or more than one
+
+20    employee at least 40 hours per week is not considered an employer under this chapter and Chapter
+
+21    3, Utah Occupational Disease Act.
+
+22        (5) (a)  As used in this Subsection (5):
+
+23        (i) (A)  "agricultural employer" means a person who employs agricultural labor as defined
+
+24    in Section 35A-4-206;
+
+25        (B)  notwithstanding Subsection (5)(a)(i)(A), only for purposes of determining who is a
+
+26    member of the employer's immediate family under Subsection (5)(a)(ii), if the agricultural
+
+27    employer is a corporation, partnership, limited liability company, or other business entity,
+
+28    "agricultural employer" means an officer, director, partner, or member of the business entity;
+
+29        (ii)  "employer's immediate family" means:
+
+30        (A)  an agricultural employer's:
+
+31        (I)  spouse;
+
+- 3 -
+
+
+1         (II)  grandparent;
+
+2        (III)  parent;
+
+3         (IV)  sibling;
+
+4         (V)  child; or
+
+5         (VI)  grandchild; or
+
+6        (B)  a spouse of any person provided in Subsection (4)(a)(ii)(A)(II) though (VI); and
+
+7        (iii)  "non-immediate family" means a person who is not a member of the employer's
+
+8    immediate family.
+
+9        (b)  For purposes of this chapter and Chapter 3, Utah Occupational Disease Act, an
+
+10    agricultural employer is not considered an employer of a member of the employer's immediate
+
+11    family.
+
+12        (c)  For purposes of this chapter and Chapter 3, Utah Occupational Disease Act, an
+
+13    agricultural employer is not considered an employer of a non-immediate family employee if:
+
+14        (i)  for the previous calendar year the agricultural employer's total annual payroll for all
+
+15    non-immediate family employees was less than $8,000; or
+
+16        (ii) (A)  for the previous calendar year the agricultural employer's total annual payroll for
+
+17    all non-immediate family employees was equal to or greater than $8,000 but less than $50,000;
+
+18    and
+
+19        (B)  the agricultural employer maintains insurance that provides coverage for the
+
+20    employer's non-immediate family employees in at least the following amounts:
+
+21        (I)  $300,000 liability insurance, as defined in Section 31A-1-301; and
+
+22        (II)  $5,000 health insurance, as defined in Section 31A-1-301.
+
+23        (d)  For purposes of this chapter and Chapter 3, Utah Occupational Disease Act, an
+
+24    agricultural employer is considered an employer of a non-immediate family employee if:
+
+25        (i)  for the previous calendar year the agricultural employer's total annual payroll for all
+
+26    non-immediate family employees is equal to or greater than $50,000; or
+
+27        (ii) (A)  for the previous year the agricultural employer's total payroll for non-immediate
+
+28    family employees was equal to or exceeds $8,000 but is less than $50,000; and
+
+29        (B)  the agricultural employer fails to maintain the insurance required under Subsection
+
+30    (5)(c)(ii).
+
+31        [(5)] (6)  An employer of agricultural laborers or domestic servants who is not considered
+
+- 4 -
+
+
+1    an employer under this chapter and Chapter 3, Utah Occupational Disease Act, may come under
+
+2    this chapter and Chapter 3, Utah Occupational Disease Act, by complying with:
+
+3        (a)  this chapter and Chapter 3, Utah Occupational Disease Act[,]; and
+
+4        (b)  the rules of the commission.
+
+5        [(6)] (7) (a)  If any person who is an employer procures any work to be done wholly or in
+
+6    part for the employer by a contractor over whose work the employer retains supervision or control,
+
+7    and this work is a part or process in the trade or business of the employer, the contractor, all
+
+8    persons employed by the contractor, all subcontractors under the contractor, and all persons
+
+9    employed by any of these subcontractors, are considered employees of the original employer for
+
+10    the purposes of this chapter and Chapter 3, Utah Occupational Disease Act.
+
+11        (b)  Any person who is engaged in constructing, improving, repairing, or remodelling a
+
+12    residence that the person owns or is in the process of acquiring as the person's personal residence
+
+13    may not be considered an employee or employer solely by operation of Subsection [(6)] (7)(a).
+
+14        (c)  A partner in a partnership or an owner of a sole proprietorship may not be considered
+
+15    an employee under Subsection [(6)] (7)(a) if the employer who procures work to be done by the
+
+16    partnership or sole proprietorship obtains and relies on either:
+
+17        (i)  a valid certification of the partnership's or sole proprietorship's compliance with Section
+
+18    34A-2-201 indicating that the partnership or sole proprietorship secured the payment of workers'
+
+19    compensation benefits pursuant to Section 34A-2-201; or
+
+20        (ii) if a partnership or sole proprietorship with no employees other than a partner of the
+
+21    partnership or owner of the sole proprietorship, a workers' compensation policy issued by an
+
+22    insurer pursuant to Subsection 31A-21-104(8) stating that:
+
+23        (A)  the partnership or sole proprietorship is customarily engaged in an independently
+
+24    established trade, occupation, profession, or business; and
+
+25        (B)  the partner or owner personally waives the partner's or owner's entitlement to the
+
+26    benefits of this chapter and Chapter 3, Utah Occupational Disease Act, in the operation of the
+
+27    partnership or sole proprietorship.
+
+28        (d)  A director or officer of a corporation may not be considered an employee under
+
+29    Subsection [(6)] (7)(a) if the director or officer is excluded from coverage under Subsection
+
+30    34A-2-104(4).
+
+31        (e)  A contractor or subcontractor is not an employee of the employer under Subsection
+
+- 5 -
+
+
+1    [(6)] (7)(a), if the employer who procures work to be done by the contractor or subcontractor
+
+2    obtains and relies on either:
+
+3        (i)  a valid certification of the contractor's or subcontractor's compliance with Section
+
+4    34A-2-201; or
+
+5        (ii)  if a partnership, corporation, or sole proprietorship with no employees other than a
+
+6    partner of the partnership, officer of the corporation, or owner of the sole proprietorship, a workers'
+
+7    compensation policy issued by an insurer pursuant to Subsection 31A-21-104(8) stating that:
+
+8        (A)  the partnership, corporation, or sole proprietorship is customarily engaged in an
+
+9    independently established trade, occupation, profession, or business; and
+
+10        (B)  the partner, corporate officer, or owner personally waives the partner's, corporate
+
+11    officer's, or owner's entitlement to the benefits of this chapter and Chapter 3, Utah Occupational
+
+12    Disease Act, in the operation of the partnership's, corporation's, or sole proprietorship's enterprise
+
+13    under a contract of hire for services.
+
+14        Section 3.   Effective date.
+
+15        This act takes effect on July 1, 1999.
+
+
+
+
+ Legislative Review Note
+    as of   1-8-98  7:59 AM
+
+
+A limited legal review of this bill raises no obvious constitutional or statutory concerns.
+
+ Office of Legislative Research and General Counsel
+
+
+- 6 -
+[Bill Documents][Bills Directory]
+
+
+
+
+
+
+
+
+
+Who represents me?
+
+
+
+
+
+Remember my Legislators
+
+
+
+
+
+State Senate
+		350 North State, Suite 320
+		PO Box 145115
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1035
+		Fax: (801) 326-1475
+
+
+
+House of Representatives
+		350 North State, Suite 350
+		PO Box 145030
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1029
+		Fax: (801) 326-1544
+
+
+
+
+
+
+
+
+
+
+Home
+Mobile Site
+Site Map
+Calendar
+Code / Constitution
+House
+Senate
+
+Terms of Use/Privacy Policy
+
+ADA
+Utah.gov
+
+
+
+
+
+
+

@@ -1,0 +1,1223 @@
+Sponsors: []Modifications: (1)  As used in this section, "commercial motor vehicle insurance coverage" means aninsurance policy that:(a)  includes motor vehicle liability coverage, uninsured motorist coverage,underinsured motorist coverage, or personal injury coverage;(b)  is provided under a commercial motor vehicle, garage, or truck form; and(c)  is rated from either a commercial manual or rating rule as filed and approved by thedepartment.(2)Except as provided in Subsection (2)(b), eachand twenty-firstsubmission(b)  Each insurer that issues commercial motor vehicle insurance coverage shall beforethe seventh day of each calendar month provide to the Department of Public Safety'sdesignated agent selected in accordance with Title 41, Chapter 12a, Part 8, Uninsured MotoristIdentification Database Program, a record of each commercial motor vehicle insurance policyin effect for vehicles registered or garaged in Utah as of the previous month that was issued bythe insurer.(c)(2)(3)(4)(5)for submissions under Subsection 
+
+31A-22-315
+
+(2)(b) orat least twice a month for submissions under Subsection 
+
+31A-22-315
+
+(2)(a)twoandFull text:
+
+
+
+Utah State Legislature
+
+
+
+
+
+
+
+
+
+
+
+
+Legislators
+
+By Session (1896-Current)
+Alphabetical (Historical)
+Find by Address/Map
+More
+
+
+Bills
+
+Bills/Bill Requests
+Passed Bills
+2017 Bills
+
+Keyword Search
+Reading Calendars
+Tracking Service
+More
+
+
+Committees
+
+All Committees
+Appropriations
+Commissions
+
+Independent Legislative Ethics Commission
+Interim
+Standing
+Subcommittees
+Task Forces
+Bills In Committees
+
+
+Utah Code / Constitution
+
+
+Title/Chapter/Section
+Keyword Search 
+
+Utah Constitution
+Laws of Utah 1851-ongoing
+Utah Territorial Laws 
+More
+
+
+Senate
+
+Main Page 
+About The Senate 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Extraordinary Sessions 
+Reading Calendars 
+Past Floor Debates 
+Senate Journals 
+
+
+House
+
+Main Page
+About the House 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Reading Calendars 
+Past Floor Debates 
+Journals 
+Conflict of Interest Forms 
+
+
+Legislative Guide 
+
+Legislative Guide
+Civic Programs
+GRAMA (Records Requests)
+
+
+Publications
+
+Search Publications
+Appropriations
+Audits
+Bagels & Briefings
+Briefing Papers
+Digest of Legislation
+Legislative Drafting Manual
+
+Journals
+
+Interim Highlights
+
+Legislative Rules
+GRAMA (Records Requests)
+Public Email
+State Organization Charts
+YouTube Channel
+Requests for Proposals and Legal Notices
+More
+
+
+Legislative Histories
+
+Legislative History Resources
+How to Research
+Bill Drafting/Research Files (1990-Ongoing)
+
+Working Bills (1896-1989)
+Interim Committee Histories (1990-Ongoing) 
+Journals
+Past House Floor Debates
+Past Senate Floor Debates
+More
+
+
+Staff Offices
+
+All Legislative Offices
+Auditor General
+Fiscal Analyst
+Printing
+Research and General Counsel
+Staff Awards
+Job Opportunities
+More
+
+
+Links of Interest
+
+Utah Administrative Rules
+Courts
+Utah State Capitol
+State of Utah
+Federal Legislation
+More
+
+
+
+
+
+
+ 
+
+Download Zipped Introduced WordPerfect HB0017.ZIP
+[Status][Bill Documents][Fiscal Note][Bills Directory]
+
+
+H.B. 17
+
+
+
+
+
+            
+1
+
+    
+ UNINSURED MOTORIST IDENTIFICATION
+
+            
+2
+
+    
+ DATABASE PROGRAM AMENDMENTS
+
+
+
+            
+3
+
+    
+2006 GENERAL SESSION
+
+            
+4
+
+    
+STATE OF UTAH
+
+            
+5
+
+    
+
+
+ Chief Sponsor:  Joseph G. Murray
+
+
+
+            
+6
+
+    
+
+
+
+Senate Sponsor:  
+
+
+
+
+
+
+____________
+
+
+
+
+
+            
+7
+
+    
+
+            
+8
+
+    
+ LONG TITLE
+            
+9
+
+    
+ General Description:
+            
+10
+
+    
+    This bill modifies the Insurance Code and the Motor Vehicles Code by amending
+            
+11
+
+    
+provisions related to the Uninsured Motorist Identification Database Program.
+            
+12
+
+    
+ Highlighted Provisions:
+            
+13
+
+    
+    This bill:
+            
+14
+
+    
+    .    reduces the number of consecutive months that a vehicle must show on the
+            
+15
+
+    
+uninsured motorist identification database as being uninsured before the first
+            
+16
+
+    
+warning letter is sent to the vehicle owner;
+            
+17
+
+    
+    .    requires certain insurers that issue a policy that includes certain motor vehicle
+            
+18
+
+    
+coverages to provide a record of coverage before the seventh and twenty-first day of
+            
+19
+
+    
+each calendar month rather than once a month to the Department of Public Safety's
+            
+20
+
+    
+designated agent;
+            
+21
+
+    
+    .    requires the designated agent to update and compare the database with vehicle
+            
+22
+
+    
+registrations for certain motor vehicle coverages at least twice a month rather than
+            
+23
+
+    
+monthly; and 
+            
+24
+
+    
+    .    makes technical changes.
+            
+25
+
+    
+ Monies Appropriated in this Bill:
+            
+26
+
+    
+    None
+            
+27
+
+    
+ Other Special Clauses:
+
+            
+28
+
+
+    
+    None
+            
+29
+
+    
+ Utah Code Sections Affected:
+            
+30
+
+    
+AMENDS:
+            
+31
+
+    
+     31A-22-315, as last amended by Chapter 90, Laws of Utah 2004
+            
+32
+
+    
+     41-12a-803, as last amended by Chapter 32, Laws of Utah 2003
+            
+33
+
+    
+     41-12a-804, as last amended by Chapter 345, Laws of Utah 2000
+            
+34
+
+    
+
+            
+35
+
+    
+Be it enacted by the Legislature of the state of Utah:
+            
+36
+
+    
+    Section 1.  
+Section  
+31A-22-315
+
+ is amended to read:
+            
+37
+
+    
+     31A-22-315.  Motor vehicle insurance reporting -- Penalty.
+            
+38
+
+    
+    (1)  As used in this section, "commercial motor vehicle insurance coverage" means an
+            
+39
+
+    
+insurance policy that:
+            
+40
+
+    
+    (a)  includes motor vehicle liability coverage, uninsured motorist coverage,
+            
+41
+
+    
+underinsured motorist coverage, or personal injury coverage;
+            
+42
+
+    
+    (b)  is provided under a commercial motor vehicle, garage, or truck form; and
+            
+43
+
+    
+    (c)  is rated from either a commercial manual or rating rule as filed and approved by the
+            
+44
+
+    
+department.
+            
+45
+
+    
+    [(1)] (2) (a)  [Each] Except as provided in Subsection (2)(b), each insurer that issues a
+            
+46
+
+    
+policy that includes motor vehicle liability coverage, uninsured motorist coverage,
+            
+47
+
+    
+underinsured motorist coverage, or personal injury coverage under this part shall before the
+            
+48
+
+    
+seventh and twenty-first day of each calendar month provide to the Department of Public
+            
+49
+
+    
+Safety's designated agent selected in accordance with Title 41, Chapter 12a, Part 8, Uninsured
+            
+50
+
+    
+Motorist Identification Database Program, a record of each motor vehicle insurance policy in
+            
+51
+
+    
+effect for vehicles registered or garaged in Utah as of the previous [month] submission that was
+            
+52
+
+    
+issued by the insurer.
+            
+53
+
+    
+    (b)  Each insurer that issues commercial motor vehicle insurance coverage shall before
+            
+54
+
+    
+the seventh day of each calendar month provide to the Department of Public Safety's
+            
+55
+
+    
+designated agent selected in accordance with Title 41, Chapter 12a, Part 8, Uninsured Motorist
+            
+56
+
+    
+Identification Database Program, a record of each commercial motor vehicle insurance policy
+            
+57
+
+    
+in effect for vehicles registered or garaged in Utah as of the previous month that was issued by
+            
+58
+
+    
+the insurer.
+
+            
+59
+
+
+    
+    [(b)] (c)  This Subsection [(1)] (2) does not preclude more frequent reporting.
+            
+60
+
+    
+    [(2)] (3)  The record shall include:
+            
+61
+
+    
+    (a)  the name, date of birth, and driver license number of each insured owner or
+            
+62
+
+    
+operator, and the address of the named insured;
+            
+63
+
+    
+    (b)  the make, year, and vehicle identification number of each insured vehicle; and
+            
+64
+
+    
+    (c)  the policy number, effective date, and expiration date of each policy.
+            
+65
+
+    
+    [(3)] (4)  Each insurer shall provide this information on magnetic tape or in another
+            
+66
+
+    
+form the Department of Public Safety's designated agent agrees to accept.
+            
+67
+
+    
+    [(4)] (5) (a)  The commissioner may, following procedures set forth in Title 63, Chapter
+            
+68
+
+    
+46b, Administrative Procedures Act, assess a fine against an insurer of up to $250 for each day
+            
+69
+
+    
+the insurer fails to comply with this section.
+            
+70
+
+    
+    (b)  If an insurer shows that the failure to comply with this section was inadvertent,
+            
+71
+
+    
+accidental, or the result of excusable neglect, the commissioner shall excuse the fine.
+            
+72
+
+    
+    Section 2.  
+Section  
+41-12a-803
+
+ is amended to read:
+            
+73
+
+    
+     41-12a-803.  Program creation -- Administration -- Selection of designated agent
+            
+74
+
+    
+ -- Duties -- Rulemaking _ Audits.
+            
+75
+
+    
+    (1)  There is created the Uninsured Motorist Identification Database Program to:
+            
+76
+
+    
+    (a)  establish an Uninsured Motorist Identification Database to verify compliance with
+            
+77
+
+    
+motor vehicle owner's or operator's security requirements under Section 
+
+41-12a-301
+
+ and other
+            
+78
+
+    
+provisions under this part;
+            
+79
+
+    
+    (b)  assist in reducing the number of uninsured motor vehicles on the highways of the
+            
+80
+
+    
+state;
+            
+81
+
+    
+    (c)  assist in increasing compliance with motor vehicle registration and sales and use tax
+            
+82
+
+    
+laws; and
+            
+83
+
+    
+    (d)  assist in protecting a financial institution's bona fide security interest in a motor
+            
+84
+
+    
+vehicle.
+            
+85
+
+    
+    (2)  The program shall be administered by the department with the assistance of the
+            
+86
+
+    
+designated agent and the Motor Vehicle Division.
+            
+87
+
+    
+    (3) (a)  The department shall contract in accordance with Title 63, Chapter 56, Utah
+            
+88
+
+    
+Procurement Code, with a third party to establish and maintain an Uninsured Motorist
+            
+89
+
+    
+Identification Database for the purposes established under this part.
+
+            
+90
+
+
+    
+    (b)  The contract may not obligate the department to pay the third party more monies
+            
+91
+
+    
+than are available in the account.
+            
+92
+
+    
+    (4) (a)  The third party under contract under this section is the department's designated
+            
+93
+
+    
+agent, and shall develop and maintain a computer database from the information provided by:
+            
+94
+
+    
+    (i)  insurers under Section 
+
+31A-22-315
+
+;
+            
+95
+
+    
+    (ii)  the division under Subsection (6); and
+            
+96
+
+    
+    (iii)  the Motor Vehicle Division under Section 
+
+41-1a-120
+
+.
+            
+97
+
+    
+    (b) (i)  The database shall be developed and maintained in accordance with guidelines
+            
+98
+
+    
+established by the department so that state and local law enforcement agencies and financial
+            
+99
+
+    
+institutions as defined in Section 
+
+7-1-103
+
+ can efficiently access the records of the database,
+            
+100
+
+    
+including reports useful for the implementation of the provisions of this part.
+            
+101
+
+    
+    (ii) (A)  The reports shall be in a form and contain information approved by the
+            
+102
+
+    
+department.
+            
+103
+
+    
+    (B)  The reports may be made available through the Internet or through other electronic
+            
+104
+
+    
+medium, if the department determines that sufficient security is provided to ensure compliance
+            
+105
+
+    
+with Section 
+
+41-12a-805
+
+ regarding limitations on disclosure of information in the database.
+            
+106
+
+    
+    (5)  With information provided by the department and the Motor Vehicle Division, the
+            
+107
+
+    
+designated agent shall, at least monthly for submissions under Subsection 
+
+31A-22-315
+
+(2)(b) or
+            
+108
+
+    
+at least twice a month for submissions under Subsection 
+
+31A-22-315
+
+(2)(a):
+            
+109
+
+    
+    (a)  update the database with the motor vehicle insurance information provided by the
+            
+110
+
+    
+insurers in accordance with Section 
+
+31A-22-315
+
+; and
+            
+111
+
+    
+    (b)  compare all current motor vehicle registrations against the database.
+            
+112
+
+    
+    (6)  The division shall provide the designated agent with the name, date of birth,
+            
+113
+
+    
+address, and driver license number of all persons on the driver license database.
+            
+114
+
+    
+    (7)  In accordance with Title 63, Chapter 46a, Utah Administrative Rulemaking Act, the
+            
+115
+
+    
+department shall make rules and develop procedures in cooperation with the Motor Vehicle
+            
+116
+
+    
+Division to use the database for the purpose of administering and enforcing this part.
+            
+117
+
+    
+    (8) (a)  The designated agent shall archive computer data files at least semi-annually for
+            
+118
+
+    
+auditing purposes.
+            
+119
+
+    
+    (b)  The internal audit unit of the tax commission provided under Section 
+
+59-1-206
+
+
+            
+120
+
+    
+shall audit the program at least annually.  The audit shall include verification of:
+
+            
+121
+
+
+    
+    (i)  billings made by the designated agent; and
+            
+122
+
+    
+    (ii)  the accuracy of the designated agent's matching of vehicle registration with
+            
+123
+
+    
+insurance data.
+            
+124
+
+    
+    Section 3.  
+Section  
+41-12a-804
+
+ is amended to read:
+            
+125
+
+    
+     41-12a-804.  Notice -- Proof -- Revocation of registration -- False statements --
+            
+126
+
+    
+ Penalties -- Exemptions -- Sales tax enforcement.
+            
+127
+
+    
+    (1)  If the comparison under Section 
+
+41-12a-803
+
+ shows that a motor vehicle is not
+            
+128
+
+    
+insured for [three] two consecutive months, the Motor Vehicle Division shall direct that the
+            
+129
+
+    
+designated agent provide notice to the owner of the motor vehicle that the owner has 15 days to
+            
+130
+
+    
+provide:
+            
+131
+
+    
+    (a)  proof of owner's or operator's security in a form allowed under Subsection
+            
+132
+
+    
+
+41-12a-303.2
+
+(4); or
+            
+133
+
+    
+    (b)  proof of exemption from the owner's or operator's security requirements.
+            
+134
+
+    
+    (2)  If an owner of a motor vehicle fails to provide satisfactory proof of owner's or
+            
+135
+
+    
+operator's security to the designated agent, the designated agent shall:
+            
+136
+
+    
+    (a)  provide a second notice to the owner of the motor vehicle that the owner now has
+            
+137
+
+    
+15 days to provide:
+            
+138
+
+    
+    (i)  proof of owner's or operator's security in a form allowed under Subsection
+            
+139
+
+    
+
+41-12a-303.2
+
+(4); or
+            
+140
+
+    
+    (ii)  proof of exemption from the owner's or operator's security requirements;
+            
+141
+
+    
+    (b)  for each notice provided, indicate information relating to the owner's failure to
+            
+142
+
+    
+provide proof of owner's or operator's security in the database; and
+            
+143
+
+    
+    (c)  provide this information to state and local law enforcement agencies as requested in
+            
+144
+
+    
+accordance with the provisions under Section 
+
+41-12a-805
+
+.
+            
+145
+
+    
+    (3)  The Motor Vehicle Division:
+            
+146
+
+    
+    (a)  shall revoke the registration upon receiving notification under Subsection
+            
+147
+
+    
+
+41-1a-110
+
+(2); [and]
+            
+148
+
+    
+    (b) shall provide appropriate notices of the revocation, the legal consequences of
+            
+149
+
+    
+operating a vehicle with revoked registration and without owner's or operator's security and
+            
+150
+
+    
+instructions on how to get the registration reinstated; and
+            
+151
+
+    
+    (c)  may direct the designated agent to provide the notices under this Subsection (3).
+
+            
+152
+
+
+    
+    (4)  Any action by the Motor Vehicle Division to revoke the registration of a motor
+            
+153
+
+    
+vehicle under this section may be in addition to an action by a law enforcement agency to
+            
+154
+
+    
+impose the penalties under Section 
+
+41-12a-302
+
+ or 
+
+41-12a-303.2
+
+.
+            
+155
+
+    
+    (5) (a)  A person may not  provide a false or fraudulent statement to the Motor Vehicle
+            
+156
+
+    
+Division or designated agent.
+            
+157
+
+    
+    (b)  In addition to any other penalties, a person who violates Subsection (5)(a) is guilty
+            
+158
+
+    
+of a class B misdemeanor.
+            
+159
+
+    
+    (6)  The department and the Motor Vehicle Division shall direct the designated agent to
+            
+160
+
+    
+exempt from this section a farm truck that:
+            
+161
+
+    
+    (a)  meets the definition of a farm truck under Section 
+
+41-1a-102
+
+; and
+            
+162
+
+    
+    (b)  is registered as a farm truck under Title 41, Chapter 1a, Motor Vehicle Act.
+            
+163
+
+    
+    (7)  This part does not affect other actions or penalties that may be taken or imposed for
+            
+164
+
+    
+violation of the owner's and operator's security requirements of this chapter.
+            
+165
+
+    
+    (8)  If a comparison under Section 
+
+41-12a-803
+
+ shows that a motor vehicle may not be in
+            
+166
+
+    
+compliance with motor vehicle registration or sales and use tax laws, the Motor Vehicle
+            
+167
+
+    
+Division may direct that the designated agent provide notice to the owner of a motor vehicle
+            
+168
+
+    
+that information exists which indicates the possible violation.
+
+
+
+
+ Legislative Review Note
+    as of  10-20-05  9:15 AM
+
+Based on a limited legal review, this legislation has not been determined to have a high
+probability of being held unconstitutional.
+
+ Office of Legislative Research and General Counsel
+
+
+ Interim Committee Note
+    as of 12-16-05 7:07 AM
+
+The Transportation Interim Committee recommended this bill.
+[Bill Documents][Bills Directory]
+
+
+
+
+
+
+
+
+
+Who represents me?
+
+
+
+
+
+Remember my Legislators
+
+
+
+
+
+State Senate
+		350 North State, Suite 320
+		PO Box 145115
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1035
+		Fax: (801) 326-1475
+
+
+
+House of Representatives
+		350 North State, Suite 350
+		PO Box 145030
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1029
+		Fax: (801) 326-1544
+
+
+
+
+
+
+
+
+
+
+Home
+Mobile Site
+Site Map
+Calendar
+Code / Constitution
+House
+Senate
+
+Terms of Use/Privacy Policy
+
+ADA
+Utah.gov
+
+
+
+
+
+
+

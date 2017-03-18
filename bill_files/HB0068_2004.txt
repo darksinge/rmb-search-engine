@@ -1,0 +1,609 @@
+Sponsors: []Modifications:     76-3-203.4.(1)  If the trier of fact finds beyond a reasonable doubt that the defendant, in committingan offense, selected the victim or the property primarily because of the defendant's actual biasor prejudice against a group, as demonstrated by the defendant's actions related to thecommission of the offense, the enhanced penalty for a:(a)  class B misdemeanor is a class A misdemeanor;(b)  class A misdemeanor is a third degree felony;(c)  third degree felony is a second degree felony;(d)  second degree felony is a first degree felony; or(e)  first degree felony remains the penalty for a first degree felony, except:(i)  imposition or execution of the sentence may not be suspended unless the court findsthe interests of justice would be best served by the suspension and states the specificcircumstances justifying the disposition on the record; and(ii)  the Board of Pardons and Parole shall consider the finding by the trier of fact thatthe convicted person selected the victim primarily because of the defendant's actual bias orprejudice against a group, as demonstrated by the defendant's actions related to the commissionof the offense, an aggravating factor in determining the length of incarceration.(2) (a)  The prosecuting attorney, or grand jury if an indictment is returned, shall causeto be subscribed upon the information or indictment notice that it is alleged that the defendantis subject to the enhanced penalties provided in Subsection (1).(b)  The notice under Subsection (2)(a) shall be in a clause separate from and inaddition to the primary offense charged.(3)  The trier of fact may not base a finding that the defendant acted because of actualbias or prejudice under Subsection (1) solely on one or more of the following:(a)  evidence demonstrating the defendant's mere abstract beliefs;(b)  evidence of the defendant's mere membership in an organization; or(c)  any evidence of the defendant's expressions or associations, unless the evidence isspecifically related to the offense for which the defendant was convicted.(4)  As part of any sentence imposed in a case, the court may impose alternativesanctions as the court finds appropriate to the defendant's case.(5)  This section does not create any legal status or right not already in existence instatute or common law for a group or a member of a group.(6)  As used in this section, "group" means the race, color, disability, religion, sexualorientation, national origin, ancestry, age, or gender of any individual or group of persons,whether actual or perceived.Full text:
+
+
+
+Utah State Legislature
+
+
+
+
+
+
+
+
+
+
+
+
+Legislators
+
+By Session (1896-Current)
+Alphabetical (Historical)
+Find by Address/Map
+More
+
+
+Bills
+
+Bills/Bill Requests
+Passed Bills
+2017 Bills
+
+Keyword Search
+Reading Calendars
+Tracking Service
+More
+
+
+Committees
+
+All Committees
+Appropriations
+Commissions
+
+Independent Legislative Ethics Commission
+Interim
+Standing
+Subcommittees
+Task Forces
+Bills In Committees
+
+
+Utah Code / Constitution
+
+
+Title/Chapter/Section
+Keyword Search 
+
+Utah Constitution
+Laws of Utah 1851-ongoing
+Utah Territorial Laws 
+More
+
+
+Senate
+
+Main Page 
+About The Senate 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Extraordinary Sessions 
+Reading Calendars 
+Past Floor Debates 
+Senate Journals 
+
+
+House
+
+Main Page
+About the House 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Reading Calendars 
+Past Floor Debates 
+Journals 
+Conflict of Interest Forms 
+
+
+Legislative Guide 
+
+Legislative Guide
+Civic Programs
+GRAMA (Records Requests)
+
+
+Publications
+
+Search Publications
+Appropriations
+Audits
+Bagels & Briefings
+Briefing Papers
+Digest of Legislation
+Legislative Drafting Manual
+
+Journals
+
+Interim Highlights
+
+Legislative Rules
+GRAMA (Records Requests)
+Public Email
+State Organization Charts
+YouTube Channel
+Requests for Proposals and Legal Notices
+More
+
+
+Legislative Histories
+
+Legislative History Resources
+How to Research
+Bill Drafting/Research Files (1990-Ongoing)
+
+Working Bills (1896-1989)
+Interim Committee Histories (1990-Ongoing) 
+Journals
+Past House Floor Debates
+Past Senate Floor Debates
+More
+
+
+Staff Offices
+
+All Legislative Offices
+Auditor General
+Fiscal Analyst
+Printing
+Research and General Counsel
+Staff Awards
+Job Opportunities
+More
+
+
+Links of Interest
+
+Utah Administrative Rules
+Courts
+Utah State Capitol
+State of Utah
+Federal Legislation
+More
+
+
+
+
+
+
+ 
+
+Download Zipped Introduced WordPerfect HB0068.ZIP
+[Status][Bill Documents][Fiscal Note][Bills Directory]
+
+
+H.B. 68
+
+
+
+
+
+            
+1
+
+    
+ CRIMINAL PENALTY AMENDMENT
+
+
+
+            
+2
+
+    
+2004 GENERAL SESSION
+
+            
+3
+
+    
+STATE OF UTAH
+
+            
+4
+
+    
+
+
+ Sponsor: David Litvack
+
+
+
+            
+5
+
+    
+
+            
+6
+
+    
+ LONG TITLE
+            
+7
+
+    
+ General Description:
+            
+8
+
+    
+    This bill modifies the Criminal Code by providing enhanced penalties if the defendant
+            
+9
+
+    
+selects a victim because of the defendant's bias or prejudice toward a group.
+            
+10
+
+    
+ Highlighted Provisions:
+            
+11
+
+    
+    This bill:
+            
+12
+
+    
+    .    defines the enhanced penalties and defines the term "group";
+            
+13
+
+    
+    .    provides that the trier of fact may not base a finding that the defendant acted
+            
+14
+
+    
+because of bias or prejudice solely on evidence of the defendant's mere beliefs,
+            
+15
+
+    
+associations, or expressions;
+            
+16
+
+    
+    .    allows the court, in its discretion, to impose alternative sentencing provisions in
+            
+17
+
+    
+cases subject to the enhanced penalties; and
+            
+18
+
+    
+    .    repeals the current statute commonly referred to as the hate crimes statute.
+            
+19
+
+    
+ Monies Appropriated in this Bill:
+            
+20
+
+    
+    None
+            
+21
+
+    
+ Other Special Clauses:
+            
+22
+
+    
+    None
+            
+23
+
+    
+ Utah Code Sections Affected:
+            
+24
+
+    
+ENACTS:
+            
+25
+
+    
+     76-3-203.4, Utah Code Annotated 1953
+            
+26
+
+    
+REPEALS:
+            
+27
+
+    
+     76-3-203.3, as last amended by Chapter 166, Laws of Utah 2002
+
+            
+28
+
+
+    
+
+            
+29
+
+    
+Be it enacted by the Legislature of the state of Utah:
+            
+30
+
+    
+    Section 1.  
+Section  
+76-3-203.4
+
+ is enacted to read:
+            
+31
+
+    
+     76-3-203.4.  Penalty for crimes motivated by bias or prejudice.
+            
+32
+
+    
+    (1)  If the trier of fact finds beyond a reasonable doubt that the defendant, in committing
+            
+33
+
+    
+an offense, selected the victim or the property primarily because of the defendant's actual bias
+            
+34
+
+    
+or prejudice against a group, as demonstrated by the defendant's actions related to the
+            
+35
+
+    
+commission of the offense, the enhanced penalty for a:
+            
+36
+
+    
+    (a)  class B misdemeanor is a class A misdemeanor;
+            
+37
+
+    
+    (b)  class A misdemeanor is a third degree felony;
+            
+38
+
+    
+    (c)  third degree felony is a second degree felony;
+            
+39
+
+    
+    (d)  second degree felony is a first degree felony; or
+            
+40
+
+    
+    (e)  first degree felony remains the penalty for a first degree felony, except:
+            
+41
+
+    
+    (i)  imposition or execution of the sentence may not be suspended unless the court finds
+            
+42
+
+    
+the interests of justice would be best served by the suspension and states the specific
+            
+43
+
+    
+circumstances justifying the disposition on the record; and
+            
+44
+
+    
+    (ii)  the Board of Pardons and Parole shall consider the finding by the trier of fact that
+            
+45
+
+    
+the convicted person selected the victim primarily because of the defendant's actual bias or
+            
+46
+
+    
+prejudice against a group, as demonstrated by the defendant's actions related to the commission
+            
+47
+
+    
+of the offense, an aggravating factor in determining the length of incarceration.
+            
+48
+
+    
+    (2) (a)  The prosecuting attorney, or grand jury if an indictment is returned, shall cause
+            
+49
+
+    
+to be subscribed upon the information or indictment notice that it is alleged that the defendant
+            
+50
+
+    
+is subject to the enhanced penalties provided in Subsection (1).
+            
+51
+
+    
+    (b)  The notice under Subsection (2)(a) shall be in a clause separate from and in
+            
+52
+
+    
+addition to the primary offense charged.
+            
+53
+
+    
+    (3)  The trier of fact may not base a finding that the defendant acted because of actual
+            
+54
+
+    
+bias or prejudice under Subsection (1) solely on one or more of the following:
+            
+55
+
+    
+    (a)  evidence demonstrating the defendant's mere abstract beliefs;
+            
+56
+
+    
+    (b)  evidence of the defendant's mere membership in an organization; or
+            
+57
+
+    
+    (c)  any evidence of the defendant's expressions or associations, unless the evidence is
+            
+58
+
+    
+specifically related to the offense for which the defendant was convicted.
+
+            
+59
+
+
+    
+    (4)  As part of any sentence imposed in a case, the court may impose alternative
+            
+60
+
+    
+sanctions as the court finds appropriate to the defendant's case.
+            
+61
+
+    
+    (5)  This section does not create any legal status or right not already in existence in
+            
+62
+
+    
+statute or common law for a group or a member of a group.
+            
+63
+
+    
+    (6)  As used in this section, "group" means the race, color, disability, religion, sexual
+            
+64
+
+    
+orientation, national origin, ancestry, age, or gender of any individual or group of persons,
+            
+65
+
+    
+whether actual or perceived.
+            
+66
+
+    
+    Section 2.  Repealer.
+            
+67
+
+    
+    This bill repeals:
+            
+68
+
+    
+    Section  76-3-203.3,  Penalty for hate crimes -- Civil rights violation.
+
+
+
+
+ Legislative Review Note
+    as of  10-3-03  10:14 AM
+
+A limited legal review of this legislation raises no obvious constitutional or statutory concerns.
+
+ Office of Legislative Research and General Counsel
+[Bill Documents][Bills Directory]
+
+
+
+
+
+
+
+
+
+Who represents me?
+
+
+
+
+
+Remember my Legislators
+
+
+
+
+
+State Senate
+		350 North State, Suite 320
+		PO Box 145115
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1035
+		Fax: (801) 326-1475
+
+
+
+House of Representatives
+		350 North State, Suite 350
+		PO Box 145030
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1029
+		Fax: (801) 326-1544
+
+
+
+
+
+
+
+
+
+
+Home
+Mobile Site
+Site Map
+Calendar
+Code / Constitution
+House
+Senate
+
+Terms of Use/Privacy Policy
+
+ADA
+Utah.gov
+
+
+
+
+
+
+

@@ -1,0 +1,3571 @@
+Sponsors: []Modifications: except as provided in Subsection 
+
+63-2-202
+
+(10), aexcept as provided in Subsection 
+
+63-2-202
+
+(10),(c)  Proceedings for judicial review of a final agency action under this section shall beclosed to the public.(d)  The Judicial Council shall make rules that ensure the confidentiality of theproceedings described in Subsection (5)(c) and the records related to the proceedings.and except as provided in Subsection (10),(10)  A record contained in the Management Information System, created in Section
+
+62A-4a-1003
+
+, that is found to be unsubstantiated, unsupported, or without merit may not bedisclosed to any person except the person who is alleged in the report to be a perpetrator ofabuse, neglect, or dependency.; and(52)  records contained in the Management Information System, created in Section
+
+62A-4a-1003
+
+.(a)  Except as provided in Subsection (5)(b), andnotwithstanding:(i); and(ii)  ifthe records described in Subsection (5)(a)(i).(b)  The disclosures described in Subsection (5)(a)(i)  subject to Subsection (5)(c), the;(ii);(iii);(iv); or(v)  the record is a report maintained in the Management Information System, for whicha finding of unsubstantiated, unsupported, or without merit has been made, unless the personrequesting the information is the alleged perpetrator in the report or counsel for the allegedperpetrator in the report.(c)  If a disclosure is denied under Subsection (5)(b)(i), the division shall inform theperson making the request of the following:(i)  the existence of all records in the possession of the division or any other state orlocal public agency;(ii)  the name and address of the person or agency that originally created the record; and(iii)  that the person must seek access to the record from the person or agency thatoriginally created the record.Full text:
+
+
+
+Utah State Legislature
+
+
+
+
+
+
+
+
+
+
+
+
+Legislators
+
+By Session (1896-Current)
+Alphabetical (Historical)
+Find by Address/Map
+More
+
+
+Bills
+
+Bills/Bill Requests
+Passed Bills
+2017 Bills
+
+Keyword Search
+Reading Calendars
+Tracking Service
+More
+
+
+Committees
+
+All Committees
+Appropriations
+Commissions
+
+Independent Legislative Ethics Commission
+Interim
+Standing
+Subcommittees
+Task Forces
+Bills In Committees
+
+
+Utah Code / Constitution
+
+
+Title/Chapter/Section
+Keyword Search 
+
+Utah Constitution
+Laws of Utah 1851-ongoing
+Utah Territorial Laws 
+More
+
+
+Senate
+
+Main Page 
+About The Senate 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Extraordinary Sessions 
+Reading Calendars 
+Past Floor Debates 
+Senate Journals 
+
+
+House
+
+Main Page
+About the House 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Reading Calendars 
+Past Floor Debates 
+Journals 
+Conflict of Interest Forms 
+
+
+Legislative Guide 
+
+Legislative Guide
+Civic Programs
+GRAMA (Records Requests)
+
+
+Publications
+
+Search Publications
+Appropriations
+Audits
+Bagels & Briefings
+Briefing Papers
+Digest of Legislation
+Legislative Drafting Manual
+
+Journals
+
+Interim Highlights
+
+Legislative Rules
+GRAMA (Records Requests)
+Public Email
+State Organization Charts
+YouTube Channel
+Requests for Proposals and Legal Notices
+More
+
+
+Legislative Histories
+
+Legislative History Resources
+How to Research
+Bill Drafting/Research Files (1990-Ongoing)
+
+Working Bills (1896-1989)
+Interim Committee Histories (1990-Ongoing) 
+Journals
+Past House Floor Debates
+Past Senate Floor Debates
+More
+
+
+Staff Offices
+
+All Legislative Offices
+Auditor General
+Fiscal Analyst
+Printing
+Research and General Counsel
+Staff Awards
+Job Opportunities
+More
+
+
+Links of Interest
+
+Utah Administrative Rules
+Courts
+Utah State Capitol
+State of Utah
+Federal Legislation
+More
+
+
+
+
+
+
+ 
+
+Download Zipped Enrolled WordPerfect SB0017.ZIP
+[Introduced][Status][Bill Documents][Fiscal Note][Bills Directory]
+
+
+S.B. 17 Enrolled
+
+
+
+
+
+            
+1
+
+    
+ CHILD ABUSE AND NEGLECT REGISTRY -
+
+            
+2
+
+    
+ MANAGEMENT AND LICENSING
+
+            
+3
+
+    
+ INFORMATION SYSTEMS AMENDMENTS
+
+
+
+            
+4
+
+    
+2008 GENERAL SESSION
+
+            
+5
+
+    
+STATE OF UTAH
+
+            
+6
+
+    
+
+
+ Chief Sponsor:  Gene  Davis
+
+
+
+            
+7
+
+    
+
+
+
+House Sponsor:  
+
+
+
+
+
+
+Wayne A. Harper
+
+
+
+
+
+            
+8
+
+    
+
+            
+9
+
+    
+ LONG TITLE
+            
+10
+
+    
+ General Description:
+            
+11
+
+    
+    This bill amends provisions of the Utah Human Services Code and the Government
+            
+12
+
+    
+Records Access and Management Act relating to the Management Information System
+            
+13
+
+    
+maintained by the Department of Human Services.
+            
+14
+
+    
+ Highlighted Provisions:
+            
+15
+
+    
+    This bill:
+            
+16
+
+    
+    .    modifies provisions related to access to records in the Management Information
+            
+17
+
+    
+System;
+            
+18
+
+    
+    .    provides that proceedings for judicial review of a final agency action relating to a
+            
+19
+
+    
+report on the Management Information System are closed to the public;
+            
+20
+
+    
+    .    grants rulemaking authority to the Judicial Council to ensure the confidentiality of
+            
+21
+
+    
+the proceedings described above; and
+            
+22
+
+    
+    .    makes technical changes.
+            
+23
+
+    
+ Monies Appropriated in this Bill:
+            
+24
+
+    
+    None
+            
+25
+
+    
+ Other Special Clauses:
+            
+26
+
+    
+    None
+            
+27
+
+    
+ Utah Code Sections Affected:
+            
+28
+
+    
+AMENDS:
+            
+29
+
+    
+     62A-4a-412, as last amended by Laws of Utah 2006, Chapters 77 and 281
+
+            
+30
+
+
+    
+     62A-4a-1009, as renumbered and amended by Laws of Utah 2006, Chapter 77
+            
+31
+
+    
+     63-2-202, as last amended by Laws of Utah 2005, Chapter 201
+            
+32
+
+    
+     63-2-304, as last amended by Laws of Utah 2008, Chapter 3
+            
+33
+
+    
+     78A-6-317, as renumbered and amended by Laws of Utah 2008, Chapter 3
+            
+34
+
+    
+
+            
+35
+
+    
+Be it enacted by the Legislature of the state of Utah:
+            
+36
+
+    
+    Section 1.  
+Section  
+62A-4a-412
+
+ is amended to read:
+            
+37
+
+    
+     62A-4a-412.  Reports and information confidential.
+            
+38
+
+    
+    (1)  Except as otherwise provided in this chapter, reports made pursuant to this part, as
+            
+39
+
+    
+well as any other information in the possession of the division obtained as the result of a report
+            
+40
+
+    
+are private, protected, or controlled records under Title 63, Chapter 2, Government Records
+            
+41
+
+    
+Access and Management Act, and may only be made available to:
+            
+42
+
+    
+    (a)  a police or law enforcement agency investigating a report of known or suspected
+            
+43
+
+    
+child abuse or neglect;
+            
+44
+
+    
+    (b)  a physician who reasonably believes that a child may be the subject of abuse or
+            
+45
+
+    
+neglect;
+            
+46
+
+    
+    (c)  an agency that has responsibility or authority to care for, treat, or supervise a minor
+            
+47
+
+    
+who is the subject of a report;
+            
+48
+
+    
+    (d)  a contract provider that has a written contract with the division to render services to
+            
+49
+
+    
+a minor who is the subject of a report;
+            
+50
+
+    
+    (e)  [any] except as provided in Subsection 
+
+63-2-202
+
+(10), a subject of the report, the
+            
+51
+
+    
+natural parents of the child, and the guardian ad litem;
+            
+52
+
+    
+    (f)  a court, upon a finding that access to the records may be necessary for the
+            
+53
+
+    
+determination of an issue before the court, provided that in a divorce, custody, or related
+            
+54
+
+    
+proceeding between private parties, the record alone is:
+            
+55
+
+    
+    (i)  limited to objective or undisputed facts that were verified at the time of the
+            
+56
+
+    
+investigation; and
+            
+57
+
+    
+    (ii)  devoid of conclusions drawn by the division or any of the division's workers on the
+
+            
+58
+
+
+    
+ultimate issue of whether or not a person's acts or omissions constituted any level of abuse or
+            
+59
+
+    
+neglect of another person;
+            
+60
+
+    
+    (g)  an office of the public prosecutor or its deputies in performing an official duty;
+            
+61
+
+    
+    (h)  a person authorized by a Children's Justice Center, for the purposes described in
+            
+62
+
+    
+Section 
+
+67-5b-102
+
+;
+            
+63
+
+    
+    (i)  a person engaged in bona fide research, when approved by the director of the
+            
+64
+
+    
+division, if the information does not include names and addresses;
+            
+65
+
+    
+    (j)  the State Office of Education, acting on behalf of itself or on behalf of a school
+            
+66
+
+    
+district, for the purpose of evaluating whether an individual should be permitted to obtain or
+            
+67
+
+    
+retain a license as an educator or serve as an employee or volunteer in a school, limited to
+            
+68
+
+    
+information with substantiated findings involving an alleged sexual offense, an alleged felony or
+            
+69
+
+    
+class A misdemeanor drug offense, or any alleged offense against the person under Title 76,
+            
+70
+
+    
+Chapter 5, Offenses Against the Person, and with the understanding that the office must provide
+            
+71
+
+    
+the subject of a report received under Subsection (1)(k) with an opportunity to respond to the
+            
+72
+
+    
+report before making a decision concerning licensure or employment;
+            
+73
+
+    
+    (k)  any person identified in the report as a perpetrator or possible perpetrator of child
+            
+74
+
+    
+abuse or neglect, after being advised of the screening prohibition in Subsection (2);
+            
+75
+
+    
+    (l)  except as provided in Subsection 
+
+63-2-202
+
+(10), a person filing a petition for a child
+            
+76
+
+    
+protective order on behalf of a child who is the subject of the report; and
+            
+77
+
+    
+    (m)  a licensed child-placing agency or person who is performing a preplacement
+            
+78
+
+    
+adoptive evaluation in accordance with the requirements of Section 
+
+78-30-3.5
+
+.
+            
+79
+
+    
+    (2) (a)  A person, unless listed in Subsection (1), may not request another person to
+            
+80
+
+    
+obtain or release a report or any other information in the possession of the division obtained as a
+            
+81
+
+    
+result of the report that is available under Subsection (1)(k) to screen for potential perpetrators
+            
+82
+
+    
+of child abuse or neglect.
+            
+83
+
+    
+    (b)  A person who requests information knowing that it is a violation of Subsection
+            
+84
+
+    
+(2)(a) to do so is subject to the criminal penalty in Subsection (4).
+            
+85
+
+    
+    (3) (a)  Except as provided in Section 
+
+62A-4a-1007
+
+ and Subsection (3)(b), the division
+
+            
+86
+
+
+    
+and law enforcement officials shall ensure the anonymity of the person or persons making the
+            
+87
+
+    
+initial report and any others involved in its subsequent investigation.
+            
+88
+
+    
+    (b)  Notwithstanding any other provision of law, excluding Section 
+
+78-3a-314
+
+, but
+            
+89
+
+    
+including this chapter and Title 63, Chapter 2, Government Records Access and Management
+            
+90
+
+    
+Act, when the division makes a report or other information in its possession available under
+            
+91
+
+    
+Subsection (1)(e) to a subject of the report or a parent of a child, the division shall remove from
+            
+92
+
+    
+the report or other information only the names, addresses, and telephone numbers of individuals
+            
+93
+
+    
+or specific information that could:
+            
+94
+
+    
+    (i)  identify the referent;
+            
+95
+
+    
+    (ii)  impede a criminal investigation; or
+            
+96
+
+    
+    (iii)  endanger a person's safety.
+            
+97
+
+    
+    (4)  Any person who wilfully permits, or aides and abets the release of data or
+            
+98
+
+    
+information obtained as a result of this part, in the possession of the division or contained on
+            
+99
+
+    
+any part of the Management Information System, in violation of this part or Sections
+            
+100
+
+    
+
+62A-4a-1003
+
+ through 
+
+62A-4a-1007
+
+, is guilty of a class C misdemeanor.
+            
+101
+
+    
+    (5)  The physician-patient privilege is not a ground for excluding evidence regarding a
+            
+102
+
+    
+child's injuries or the cause of those injuries, in any proceeding resulting from a report made in
+            
+103
+
+    
+good faith pursuant to this part.
+            
+104
+
+    
+    (6)  A child-placing agency or person who receives a report in connection with a
+            
+105
+
+    
+preplacement adoptive evaluation pursuant to Section 
+
+78-30-3.5
+
+:
+            
+106
+
+    
+    (a)  may provide this report to the person who is the subject of the report; and
+            
+107
+
+    
+    (b)  may provide this report to a person who is performing a preplacement adoptive
+            
+108
+
+    
+evaluation in accordance with the requirement of Section 
+
+78-30-3.5
+
+, or to a licensed
+            
+109
+
+    
+child-placing agency or to an attorney seeking to facilitate an adoption.
+            
+110
+
+    
+    Section 2.  
+Section  
+62A-4a-1009
+
+ is amended to read:
+            
+111
+
+    
+     62A-4a-1009.  Notice and opportunity to challenge supported finding in
+            
+112
+
+    
+ Management Information System -- Right of judicial review.
+            
+113
+
+    
+    (1) (a)  Except as provided in Subsection (2), the division shall send a notice of agency
+
+            
+114
+
+
+    
+action to a person with respect to whom the division makes a supported finding.  In addition, if
+            
+115
+
+    
+the alleged perpetrator is under the age of 18, the division shall:
+            
+116
+
+    
+    (i)  make reasonable efforts to identify the alleged perpetrator's parent or guardian; and
+            
+117
+
+    
+    (ii)  send a notice to each parent or guardian identified under Subsection (1)(a)(i) that
+            
+118
+
+    
+lives at a different address, unless there is good cause, as defined by rule, for not sending a
+            
+119
+
+    
+notice to a parent or guardian.
+            
+120
+
+    
+    (b)  Nothing in this section may be construed as affecting:
+            
+121
+
+    
+    (i)  the manner in which the division conducts an investigation; or
+            
+122
+
+    
+    (ii)  the use or effect, in any other setting, of a supported finding by the division at the
+            
+123
+
+    
+completion of an investigation for any purpose other than for notification under Subsection (1)
+            
+124
+
+    
+(a).
+            
+125
+
+    
+    (2)  Subsection (1) does not apply to a person who has been served with notice under
+            
+126
+
+    
+Subsection 
+
+62A-4a-1005
+
+(1)(a).
+            
+127
+
+    
+    (3)  The notice described in Subsection (1) shall state:
+            
+128
+
+    
+    (a)  that the division has conducted an investigation regarding alleged child abuse,
+            
+129
+
+    
+neglect, or dependency;
+            
+130
+
+    
+    (b)  that the division has made a supported finding of abuse, neglect, or dependency;
+            
+131
+
+    
+    (c)  that facts gathered by the division support the supported finding;
+            
+132
+
+    
+    (d)  that the person has the right to request:
+            
+133
+
+    
+    (i)  a copy of the report; and
+            
+134
+
+    
+    (ii)  an opportunity to challenge the supported finding by the division; and
+            
+135
+
+    
+    (e)  that failure to request an opportunity to challenge the supported finding within 30
+            
+136
+
+    
+days of receiving the notice will result in an unappealable supported finding of child abuse,
+            
+137
+
+    
+neglect, or dependency unless the person can show good cause for why compliance within the
+            
+138
+
+    
+30-day requirement was virtually impossible or unreasonably burdensome.
+            
+139
+
+    
+    (4) (a)  A person may make a request to challenge a supported finding within 30 days of
+            
+140
+
+    
+a notice being received under this section.
+            
+141
+
+    
+    (b)  Upon receipt of a request under Subsection (4)(a), the Office of Administrative
+
+            
+142
+
+
+    
+Hearings shall hold an adjudicative proceeding pursuant to Title 63, Chapter 46b,
+            
+143
+
+    
+Administrative Procedures Act.
+            
+144
+
+    
+    (5) (a)  In an adjudicative proceeding held pursuant to this section, the division shall
+            
+145
+
+    
+have the burden of proving, by a preponderance of the evidence, that child abuse, neglect, or
+            
+146
+
+    
+dependency occurred and that the alleged perpetrator was substantially responsible for the abuse
+            
+147
+
+    
+or neglect that occurred.
+            
+148
+
+    
+    (b)  Any party shall have the right of judicial review of final agency action, in accordance
+            
+149
+
+    
+with Title 63, Chapter 46b, Administrative Procedures Act.
+            
+150
+
+    
+    (c)  Proceedings for judicial review of a final agency action under this section shall be
+            
+151
+
+    
+closed to the public.
+            
+152
+
+    
+    (d)  The Judicial Council shall make rules that ensure the confidentiality of the
+            
+153
+
+    
+proceedings described in Subsection (5)(c) and the records related to the proceedings.
+            
+154
+
+    
+    (6)  Except as otherwise provided in this chapter, an alleged perpetrator who, after
+            
+155
+
+    
+receiving notice, fails to challenge a supported finding in accordance with this section:
+            
+156
+
+    
+    (a)  may not further challenge the finding; and
+            
+157
+
+    
+    (b)  shall have no right to:
+            
+158
+
+    
+    (i)  agency review of the finding;
+            
+159
+
+    
+    (ii)  an adjudicative hearing on the finding; or
+            
+160
+
+    
+    (iii)  judicial review of the finding.
+            
+161
+
+    
+    (7) (a)  Except as provided in Subsection (7)(b), an alleged perpetrator may not make a
+            
+162
+
+    
+request under Subsection (4) to challenge a supported finding if a court of competent
+            
+163
+
+    
+jurisdiction entered a finding, in a proceeding in which the alleged perpetrator was a party, that
+            
+164
+
+    
+the alleged perpetrator is substantially responsible for the abuse, neglect, or dependency which
+            
+165
+
+    
+was also the subject of the supported finding.
+            
+166
+
+    
+    (b)  Subsection (7)(a) does not apply to pleas in abeyance or diversion agreements.
+            
+167
+
+    
+    (c)  An adjudicative proceeding under Subsection (5) may be stayed during the time a
+            
+168
+
+    
+judicial action on the same matter is pending.
+            
+169
+
+    
+    (8)  Pursuant to Section 
+
+78-3a-320
+
+, an adjudicative proceeding on a supported finding
+
+            
+170
+
+
+    
+of a type of abuse or neglect that does not constitute a severe type of child abuse or neglect may
+            
+171
+
+    
+be joined in the juvenile court with an adjudicative proceeding on a supported finding of a
+            
+172
+
+    
+severe type of child abuse or neglect.
+            
+173
+
+    
+    Section 3.  
+Section  
+63-2-202
+
+ is amended to read:
+            
+174
+
+    
+     63-2-202.  Access to private, controlled, and protected documents.
+            
+175
+
+    
+    (1)  Upon request, a governmental entity shall disclose a private record to:
+            
+176
+
+    
+    (a)  the subject of the record;
+            
+177
+
+    
+    (b)  the parent or legal guardian of an unemancipated minor who is the subject of the
+            
+178
+
+    
+record;
+            
+179
+
+    
+    (c)  the legal guardian of a legally incapacitated individual who is the subject of the
+            
+180
+
+    
+record;
+            
+181
+
+    
+    (d)  any other individual who:
+            
+182
+
+    
+    (i)  has a power of attorney from the subject of the record;
+            
+183
+
+    
+    (ii)  submits a notarized release from the subject of the record or his legal representative
+            
+184
+
+    
+dated no more than 90 days before the date the request is made; or
+            
+185
+
+    
+    (iii)  if the record is a medical record described in Subsection 
+
+63-2-302
+
+(1)(b), is a health
+            
+186
+
+    
+care provider, as defined in Section 
+
+26-33a-102
+
+, if releasing the record or information in the
+            
+187
+
+    
+record is consistent with normal professional practice and medical ethics; or
+            
+188
+
+    
+    (e)  any person to whom the record must be provided pursuant to:
+            
+189
+
+    
+    (i)  court order as provided in Subsection (7); or
+            
+190
+
+    
+    (ii)  a legislative subpoena as provided in Title 36, Chapter 14.
+            
+191
+
+    
+    (2) (a)  Upon request, a governmental entity shall disclose a controlled record to:
+            
+192
+
+    
+    (i)  a physician, psychologist, certified social worker, insurance provider or producer, or
+            
+193
+
+    
+a government public health agency upon submission of:
+            
+194
+
+    
+    (A)  a release from the subject of the record that is dated no more than 90 days prior to
+            
+195
+
+    
+the date the request is made; and
+            
+196
+
+    
+    (B)  a signed acknowledgment of the terms of disclosure of controlled information as
+            
+197
+
+    
+provided by Subsection (2)(b); and
+
+            
+198
+
+
+    
+    (ii)  any person to whom the record must be disclosed pursuant to:
+            
+199
+
+    
+    (A)  a court order as provided in Subsection (7); or
+            
+200
+
+    
+    (B)  a legislative subpoena as provided in Title 36, Chapter 14.
+            
+201
+
+    
+    (b)  A person who receives a record from a governmental entity in accordance with
+            
+202
+
+    
+Subsection (2)(a)(i) may not disclose controlled information from that record to any person,
+            
+203
+
+    
+including the subject of the record.
+            
+204
+
+    
+    (3)  If there is more than one subject of a private or controlled record, the portion of the
+            
+205
+
+    
+record that pertains to another subject shall be segregated from the portion that the requester is
+            
+206
+
+    
+entitled to inspect.
+            
+207
+
+    
+    (4)  Upon request, and except as provided in Subsection (10), a governmental entity
+            
+208
+
+    
+shall disclose a protected record to:
+            
+209
+
+    
+    (a)  the person who submitted the record;
+            
+210
+
+    
+    (b)  any other individual who:
+            
+211
+
+    
+    (i)  has a power of attorney from all persons, governmental entities, or political
+            
+212
+
+    
+subdivisions whose interests were sought to be protected by the protected classification; or
+            
+213
+
+    
+    (ii)  submits a notarized release from all persons, governmental entities, or political
+            
+214
+
+    
+subdivisions whose interests were sought to be protected by the protected classification or from
+            
+215
+
+    
+their legal representatives dated no more than 90 days prior to the date the request is made;
+            
+216
+
+    
+    (c)  any person to whom the record must be provided pursuant to:
+            
+217
+
+    
+    (i)  a court order as provided in Subsection (7); or
+            
+218
+
+    
+    (ii)  a legislative subpoena as provided in Title 36, Chapter 14; or
+            
+219
+
+    
+    (d)  the owner of a mobile home park, subject to the conditions of Subsection
+            
+220
+
+    
+
+41-1a-116
+
+(5).
+            
+221
+
+    
+    (5)  A governmental entity may disclose a private, controlled, or protected record to
+            
+222
+
+    
+another governmental entity, political subdivision, another state, the United States, or a foreign
+            
+223
+
+    
+government only as provided by Section 
+
+63-2-206
+
+.
+            
+224
+
+    
+    (6)  Before releasing a private, controlled, or protected record, the governmental entity
+            
+225
+
+    
+shall obtain evidence of the requester's identity.
+
+            
+226
+
+
+    
+    (7)  A governmental entity shall disclose a record pursuant to the terms of a court order
+            
+227
+
+    
+signed by a judge from a court of competent jurisdiction, provided that:
+            
+228
+
+    
+    (a)  the record deals with a matter in controversy over which the court has jurisdiction;
+            
+229
+
+    
+    (b)  the court has considered the merits of the request for access to the record; and
+            
+230
+
+    
+    (c)  the court has considered and, where appropriate, limited the requester's use and
+            
+231
+
+    
+further disclosure of the record in order to protect:
+            
+232
+
+    
+    (i)  privacy interests in the case of private or controlled records;
+            
+233
+
+    
+    (ii)  business confidentiality interests in the case of records protected under Subsection
+            
+234
+
+    
+
+63-2-304
+
+(1), (2), (40)(a)(ii), or (40)(a)(vi); and
+            
+235
+
+    
+    (iii)  privacy interests or the public interest in the case of other protected records;
+            
+236
+
+    
+    (d)  to the extent the record is properly classified private, controlled, or protected, the
+            
+237
+
+    
+interests favoring access, considering limitations thereon, outweigh the interests favoring
+            
+238
+
+    
+restriction of access; and
+            
+239
+
+    
+    (e)  where access is restricted by a rule, statute, or regulation referred to in Subsection
+            
+240
+
+    
+
+63-2-201
+
+(3)(b), the court has authority independent of this chapter to order disclosure.
+            
+241
+
+    
+    (8) (a)  A governmental entity may disclose or authorize disclosure of private or
+            
+242
+
+    
+controlled records for research purposes if the governmental entity:
+            
+243
+
+    
+    (i)  determines that the research purpose cannot reasonably be accomplished without use
+            
+244
+
+    
+or disclosure of the information to the researcher in individually identifiable form;
+            
+245
+
+    
+    (ii)  determines that:
+            
+246
+
+    
+    (A)  the proposed research is bona fide; and
+            
+247
+
+    
+    (B)  the value of the research outweighs the infringement upon personal privacy;
+            
+248
+
+    
+    (iii) (A)  requires the researcher to assure the integrity, confidentiality, and security of
+            
+249
+
+    
+the records; and
+            
+250
+
+    
+    (B)  requires the removal or destruction of the individual identifiers associated with the
+            
+251
+
+    
+records as soon as the purpose of the research project has been accomplished;
+            
+252
+
+    
+    (iv)  prohibits the researcher from:
+            
+253
+
+    
+    (A)  disclosing the record in individually identifiable form, except as provided in
+
+            
+254
+
+
+    
+Subsection (8)(b); or
+            
+255
+
+    
+    (B)  using the record for purposes other than the research approved by the governmental
+            
+256
+
+    
+entity; and
+            
+257
+
+    
+    (v)  secures from the researcher a written statement of the researcher's understanding of
+            
+258
+
+    
+and agreement to the conditions of this Subsection (8) and the researcher's understanding that
+            
+259
+
+    
+violation of the terms of this Subsection (8) may subject the researcher to criminal prosecution
+            
+260
+
+    
+under Section 
+
+63-2-801
+
+.
+            
+261
+
+    
+    (b)  A researcher may disclose a record in individually identifiable form if the record is
+            
+262
+
+    
+disclosed for the purpose of auditing or evaluating the research program and no subsequent use
+            
+263
+
+    
+or disclosure of the record in individually identifiable form will be made by the auditor or
+            
+264
+
+    
+evaluator except as provided by this section.
+            
+265
+
+    
+    (c)  A governmental entity may require indemnification as a condition of permitting
+            
+266
+
+    
+research under this Subsection (8).
+            
+267
+
+    
+    (9) (a)  Under Subsections 
+
+63-2-201
+
+(5)(b) and 
+
+63-2-401
+
+(6), a governmental entity may
+            
+268
+
+    
+disclose to persons other than those specified in this section records that are:
+            
+269
+
+    
+    (i)  private under Section 
+
+63-2-302
+
+; or
+            
+270
+
+    
+    (ii)  protected under Section 
+
+63-2-304
+
+ subject to Section 
+
+63-2-308
+
+ if a claim for
+            
+271
+
+    
+business confidentiality has been made under Section 
+
+63-2-308
+
+.
+            
+272
+
+    
+    (b)  Under Subsection 
+
+63-2-403
+
+(11)(b), the records committee may require the
+            
+273
+
+    
+disclosure to persons other than those specified in this section of records that are:
+            
+274
+
+    
+    (i)  private under Section 
+
+63-2-302
+
+;
+            
+275
+
+    
+    (ii)  controlled under Section 
+
+63-2-303
+
+; or
+            
+276
+
+    
+    (iii)  protected under Section 
+
+63-2-304
+
+ subject to Section 
+
+63-2-308
+
+ if a claim for
+            
+277
+
+    
+business confidentiality has been made under Section 
+
+63-2-308
+
+.
+            
+278
+
+    
+    (c)  Under Subsection 
+
+63-2-404
+
+(8), the court may require the disclosure of records that
+            
+279
+
+    
+are private under Section 
+
+63-2-302
+
+, controlled under Section 
+
+63-2-303
+
+, or protected under
+            
+280
+
+    
+Section 
+
+63-2-304
+
+ to persons other than those specified in this section.
+            
+281
+
+    
+    (10)  A record contained in the Management Information System, created in Section
+
+            
+282
+
+
+    
+
+
+62A-4a-1003
+
+, that is found to be unsubstantiated, unsupported, or without merit may not be
+            
+283
+
+    
+disclosed to any person except the person who is alleged in the report to be a perpetrator of
+            
+284
+
+    
+abuse, neglect, or dependency.
+            
+285
+
+    
+    Section 4.  
+Section  
+63-2-304
+
+ is amended to read:
+            
+286
+
+    
+     63-2-304.  Protected records.
+            
+287
+
+    
+    The following records are protected if properly classified by a governmental entity:
+            
+288
+
+    
+    (1)  trade secrets as defined in Section 
+
+13-24-2
+
+ if the person submitting the trade secret
+            
+289
+
+    
+has provided the governmental entity with the information specified in Section 
+
+63-2-308
+
+;
+            
+290
+
+    
+    (2)  commercial information or nonindividual financial information obtained from a
+            
+291
+
+    
+person if:
+            
+292
+
+    
+    (a)  disclosure of the information could reasonably be expected to result in unfair
+            
+293
+
+    
+competitive injury to the person submitting the information or would impair the ability of the
+            
+294
+
+    
+governmental entity to obtain necessary information in the future;
+            
+295
+
+    
+    (b)  the person submitting the information has a greater interest in prohibiting access
+            
+296
+
+    
+than the public in obtaining access; and
+            
+297
+
+    
+    (c)  the person submitting the information has provided the governmental entity with the
+            
+298
+
+    
+information specified in Section 
+
+63-2-308
+
+;
+            
+299
+
+    
+    (3)  commercial or financial information acquired or prepared by a governmental entity
+            
+300
+
+    
+to the extent that disclosure would lead to financial speculations in currencies, securities, or
+            
+301
+
+    
+commodities that will interfere with a planned transaction by the governmental entity or cause
+            
+302
+
+    
+substantial financial injury to the governmental entity or state economy;
+            
+303
+
+    
+    (4)  records the disclosure of which could cause commercial injury to, or confer a
+            
+304
+
+    
+competitive advantage upon a potential or actual competitor of, a commercial project entity as
+            
+305
+
+    
+defined in Subsection 
+
+11-13-103
+
+(4);
+            
+306
+
+    
+    (5)  test questions and answers to be used in future license, certification, registration,
+            
+307
+
+    
+employment, or academic examinations;
+            
+308
+
+    
+    (6)  records the disclosure of which would impair governmental procurement
+            
+309
+
+    
+proceedings or give an unfair advantage to any person proposing to enter into a contract or
+
+            
+310
+
+
+    
+agreement with a governmental entity, except that this Subsection (6) does not restrict the right
+            
+311
+
+    
+of a person to see bids submitted to or by a governmental entity after bidding has closed;
+            
+312
+
+    
+    (7)  records that would identify real property or the appraisal or estimated value of real
+            
+313
+
+    
+or personal property, including intellectual property, under consideration for public acquisition
+            
+314
+
+    
+before any rights to the property are acquired unless:
+            
+315
+
+    
+    (a)  public interest in obtaining access to the information outweighs the governmental
+            
+316
+
+    
+entity's need to acquire the property on the best terms possible;
+            
+317
+
+    
+    (b)  the information has already been disclosed to persons not employed by or under a
+            
+318
+
+    
+duty of confidentiality to the entity;
+            
+319
+
+    
+    (c)  in the case of records that would identify property, potential sellers of the described
+            
+320
+
+    
+property have already learned of the governmental entity's plans to acquire the property;
+            
+321
+
+    
+    (d)  in the case of records that would identify the appraisal or estimated value of
+            
+322
+
+    
+property, the potential sellers have already learned of the governmental entity's estimated value
+            
+323
+
+    
+of the property; or
+            
+324
+
+    
+    (e)  the property under consideration for public acquisition is a single family residence
+            
+325
+
+    
+and the governmental entity seeking to acquire the property has initiated negotiations to acquire
+            
+326
+
+    
+the property as required under Section 
+
+78B-6-505
+
+;
+            
+327
+
+    
+    (8)  records prepared in contemplation of sale, exchange, lease, rental, or other
+            
+328
+
+    
+compensated transaction of real or personal property including intellectual property, which, if
+            
+329
+
+    
+disclosed prior to completion of the transaction, would reveal the appraisal or estimated value
+            
+330
+
+    
+of the subject property, unless:
+            
+331
+
+    
+    (a)  the public interest in access outweighs the interests in restricting access, including
+            
+332
+
+    
+the governmental entity's interest in maximizing the financial benefit of the transaction; or
+            
+333
+
+    
+    (b)  when prepared by or on behalf of a governmental entity, appraisals or estimates of
+            
+334
+
+    
+the value of the subject property have already been disclosed to persons not employed by or
+            
+335
+
+    
+under a duty of confidentiality to the entity;
+            
+336
+
+    
+    (9)  records created or maintained for civil, criminal, or administrative enforcement
+            
+337
+
+    
+purposes or audit purposes, or for discipline, licensing, certification, or registration purposes, if
+
+            
+338
+
+
+    
+release of the records:
+            
+339
+
+    
+    (a)  reasonably could be expected to interfere with investigations undertaken for
+            
+340
+
+    
+enforcement, discipline, licensing, certification, or registration purposes;
+            
+341
+
+    
+    (b)  reasonably could be expected to interfere with audits, disciplinary, or enforcement
+            
+342
+
+    
+proceedings;
+            
+343
+
+    
+    (c)  would create a danger of depriving a person of a right to a fair trial or impartial
+            
+344
+
+    
+hearing;
+            
+345
+
+    
+    (d)  reasonably could be expected to disclose the identity of a source who is not
+            
+346
+
+    
+generally known outside of government and, in the case of a record compiled in the course of an
+            
+347
+
+    
+investigation, disclose information furnished by a source not generally known outside of
+            
+348
+
+    
+government if disclosure would compromise the source; or
+            
+349
+
+    
+    (e)  reasonably could be expected to disclose investigative or audit techniques,
+            
+350
+
+    
+procedures, policies, or orders not generally known outside of government if disclosure would
+            
+351
+
+    
+interfere with enforcement or audit efforts;
+            
+352
+
+    
+    (10)  records the disclosure of which would jeopardize the life or safety of an individual;
+            
+353
+
+    
+    (11)  records the disclosure of which would jeopardize the security of governmental
+            
+354
+
+    
+property, governmental programs, or governmental recordkeeping systems from damage, theft,
+            
+355
+
+    
+or other appropriation or use contrary to law or public policy;
+            
+356
+
+    
+    (12)  records that, if disclosed, would jeopardize the security or safety of a correctional
+            
+357
+
+    
+facility, or records relating to incarceration, treatment, probation, or parole, that would interfere
+            
+358
+
+    
+with the control and supervision of an offender's incarceration, treatment, probation, or parole;
+            
+359
+
+    
+    (13)  records that, if disclosed, would reveal recommendations made to the Board of
+            
+360
+
+    
+Pardons and Parole by an employee of or contractor for the Department of Corrections, the
+            
+361
+
+    
+Board of Pardons and Parole, or the Department of Human Services that are based on the
+            
+362
+
+    
+employee's or contractor's supervision, diagnosis, or treatment of any person within the board's
+            
+363
+
+    
+jurisdiction;
+            
+364
+
+    
+    (14)  records and audit workpapers that identify audit, collection, and operational
+            
+365
+
+    
+procedures and methods used by the State Tax Commission, if disclosure would interfere with
+
+            
+366
+
+
+    
+audits or collections;
+            
+367
+
+    
+    (15)  records of a governmental audit agency relating to an ongoing or planned audit
+            
+368
+
+    
+until the final audit is released;
+            
+369
+
+    
+    (16)  records prepared by or on behalf of a governmental entity solely in anticipation of
+            
+370
+
+    
+litigation that are not available under the rules of discovery;
+            
+371
+
+    
+    (17)  records disclosing an attorney's work product, including the mental impressions or
+            
+372
+
+    
+legal theories of an attorney or other representative of a governmental entity concerning
+            
+373
+
+    
+litigation;
+            
+374
+
+    
+    (18)  records of communications between a governmental entity and an attorney
+            
+375
+
+    
+representing, retained, or employed by the governmental entity if the communications would be
+            
+376
+
+    
+privileged as provided in Section 
+
+78B-1-137
+
+;
+            
+377
+
+    
+    (19) (a) (i)  personal files of a state legislator, including personal correspondence to or
+            
+378
+
+    
+from a member of the Legislature; and
+            
+379
+
+    
+    (ii)  notwithstanding Subsection (19)(a)(i), correspondence that gives notice of
+            
+380
+
+    
+legislative action or policy may not be classified as protected under this section; and
+            
+381
+
+    
+    (b) (i)  an internal communication that is part of the deliberative process in connection
+            
+382
+
+    
+with the preparation of legislation between:
+            
+383
+
+    
+    (A)  members of a legislative body;
+            
+384
+
+    
+    (B)  a member of a legislative body and a member of the legislative body's staff; or
+            
+385
+
+    
+    (C)  members of a legislative body's staff; and
+            
+386
+
+    
+    (ii)  notwithstanding Subsection (19)(b)(i), a communication that gives notice of
+            
+387
+
+    
+legislative action or policy may not be classified as protected under this section;
+            
+388
+
+    
+    (20) (a)  records in the custody or control of the Office of Legislative Research and
+            
+389
+
+    
+General Counsel, that, if disclosed, would reveal a particular legislator's contemplated
+            
+390
+
+    
+legislation or contemplated course of action before the legislator has elected to support the
+            
+391
+
+    
+legislation or course of action, or made the legislation or course of action public; and
+            
+392
+
+    
+    (b)  notwithstanding Subsection (20)(a), the form to request legislation submitted to the
+            
+393
+
+    
+Office of Legislative Research and General Counsel is a public document unless a legislator asks
+
+            
+394
+
+
+    
+that the records requesting the legislation be maintained as protected records until such time as
+            
+395
+
+    
+the legislator elects to make the legislation or course of action public;
+            
+396
+
+    
+    (21)  research requests from legislators to the Office of Legislative Research and
+            
+397
+
+    
+General Counsel or the Office of the Legislative Fiscal Analyst and research findings prepared in
+            
+398
+
+    
+response to these requests;
+            
+399
+
+    
+    (22)  drafts, unless otherwise classified as public;
+            
+400
+
+    
+    (23)  records concerning a governmental entity's strategy about collective bargaining or
+            
+401
+
+    
+pending litigation;
+            
+402
+
+    
+    (24)  records of investigations of loss occurrences and analyses of loss occurrences that
+            
+403
+
+    
+may be covered by the Risk Management Fund, the Employers' Reinsurance Fund, the
+            
+404
+
+    
+Uninsured Employers' Fund, or similar divisions in other governmental entities;
+            
+405
+
+    
+    (25)  records, other than personnel evaluations, that contain a personal recommendation
+            
+406
+
+    
+concerning an individual if disclosure would constitute a clearly unwarranted invasion of
+            
+407
+
+    
+personal privacy, or disclosure is not in the public interest;
+            
+408
+
+    
+    (26)  records that reveal the location of historic, prehistoric, paleontological, or
+            
+409
+
+    
+biological resources that if known would jeopardize the security of those resources or of
+            
+410
+
+    
+valuable historic, scientific, educational, or cultural information;
+            
+411
+
+    
+    (27)  records of independent state agencies if the disclosure of the records would
+            
+412
+
+    
+conflict with the fiduciary obligations of the agency;
+            
+413
+
+    
+    (28)  records of an institution within the state system of higher education defined in
+            
+414
+
+    
+Section 
+
+53B-1-102
+
+ regarding tenure evaluations, appointments, applications for admissions,
+            
+415
+
+    
+retention decisions, and promotions, which could be properly discussed in a meeting closed in
+            
+416
+
+    
+accordance with Title 52, Chapter 4, Open and Public Meetings Act, provided that records of
+            
+417
+
+    
+the final decisions about tenure, appointments, retention, promotions, or those students
+            
+418
+
+    
+admitted, may not be classified as protected under this section;
+            
+419
+
+    
+    (29)  records of the governor's office, including budget recommendations, legislative
+            
+420
+
+    
+proposals, and policy statements, that if disclosed would reveal the governor's contemplated
+            
+421
+
+    
+policies or contemplated courses of action before the governor has implemented or rejected
+
+            
+422
+
+
+    
+those policies or courses of action or made them public;
+            
+423
+
+    
+    (30)  records of the Office of the Legislative Fiscal Analyst relating to budget analysis,
+            
+424
+
+    
+revenue estimates, and fiscal notes of proposed legislation before issuance of the final
+            
+425
+
+    
+recommendations in these areas;
+            
+426
+
+    
+    (31)  records provided by the United States or by a government entity outside the state
+            
+427
+
+    
+that are given to the governmental entity with a requirement that they be managed as protected
+            
+428
+
+    
+records if the providing entity certifies that the record would not be subject to public disclosure
+            
+429
+
+    
+if retained by it;
+            
+430
+
+    
+    (32)  transcripts, minutes, or reports of the closed portion of a meeting of a public body
+            
+431
+
+    
+except as provided in Section 
+
+52-4-206
+
+;
+            
+432
+
+    
+    (33)  records that would reveal the contents of settlement negotiations but not including
+            
+433
+
+    
+final settlements or empirical data to the extent that they are not otherwise exempt from
+            
+434
+
+    
+disclosure;
+            
+435
+
+    
+    (34)  memoranda prepared by staff and used in the decision-making process by an
+            
+436
+
+    
+administrative law judge, a member of the Board of Pardons and Parole, or a member of any
+            
+437
+
+    
+other body charged by law with performing a quasi-judicial function;
+            
+438
+
+    
+    (35)  records that would reveal negotiations regarding assistance or incentives offered
+            
+439
+
+    
+by or requested from a governmental entity for the purpose of encouraging a person to expand
+            
+440
+
+    
+or locate a business in Utah, but only if disclosure would result in actual economic harm to the
+            
+441
+
+    
+person or place the governmental entity at a competitive disadvantage, but this section may not
+            
+442
+
+    
+be used to restrict access to a record evidencing a final contract;
+            
+443
+
+    
+    (36)  materials to which access must be limited for purposes of securing or maintaining
+            
+444
+
+    
+the governmental entity's proprietary protection of intellectual property rights including patents,
+            
+445
+
+    
+copyrights, and trade secrets;
+            
+446
+
+    
+    (37)  the name of a donor or a prospective donor to a governmental entity, including an
+            
+447
+
+    
+institution within the state system of higher education defined in Section 
+
+53B-1-102
+
+, and other
+            
+448
+
+    
+information concerning the donation that could reasonably be expected to reveal the identity of
+            
+449
+
+    
+the donor, provided that:
+
+            
+450
+
+
+    
+    (a)  the donor requests anonymity in writing;
+            
+451
+
+    
+    (b)  any terms, conditions, restrictions, or privileges relating to the donation may not be
+            
+452
+
+    
+classified protected by the governmental entity under this Subsection (37); and
+            
+453
+
+    
+    (c)  except for an institution within the state system of higher education defined in
+            
+454
+
+    
+Section 
+
+53B-1-102
+
+, the governmental unit to which the donation is made is primarily engaged in
+            
+455
+
+    
+educational, charitable, or artistic endeavors, and has no regulatory or legislative authority over
+            
+456
+
+    
+the donor, a member of the donor's immediate family, or any entity owned or controlled by the
+            
+457
+
+    
+donor or the donor's immediate family;
+            
+458
+
+    
+    (38)  accident reports, except as provided in Sections 
+
+41-6a-404
+
+, 
+
+41-12a-202
+
+, and
+            
+459
+
+    
+
+73-18-13
+
+;
+            
+460
+
+    
+    (39)  a notification of workers' compensation insurance coverage described in Section
+            
+461
+
+    
+
+34A-2-205
+
+;
+            
+462
+
+    
+    (40) (a)  the following records of an institution within the state system of higher
+            
+463
+
+    
+education defined in Section 
+
+53B-1-102
+
+, which have been developed, discovered, disclosed to,
+            
+464
+
+    
+or received by or on behalf of faculty, staff, employees, or students of the institution:
+            
+465
+
+    
+    (i)  unpublished lecture notes;
+            
+466
+
+    
+    (ii)  unpublished notes, data, and information:
+            
+467
+
+    
+    (A)  relating to research; and
+            
+468
+
+    
+    (B)  of:
+            
+469
+
+    
+    (I)  the institution within the state system of higher education defined in Section
+            
+470
+
+    
+
+53B-1-102
+
+; or
+            
+471
+
+    
+    (II)  a sponsor of sponsored research;
+            
+472
+
+    
+    (iii)  unpublished manuscripts;
+            
+473
+
+    
+    (iv)  creative works in process;
+            
+474
+
+    
+    (v)  scholarly correspondence; and
+            
+475
+
+    
+    (vi)  confidential information contained in research proposals;
+            
+476
+
+    
+    (b)  Subsection (40)(a) may not be construed to prohibit disclosure of public information
+            
+477
+
+    
+required pursuant to Subsection 
+
+53B-16-302
+
+(2)(a) or (b); and
+
+            
+478
+
+
+    
+    (c)  Subsection (40)(a) may not be construed to affect the ownership of a record;
+            
+479
+
+    
+    (41) (a)  records in the custody or control of the Office of Legislative Auditor General
+            
+480
+
+    
+that would reveal the name of a particular legislator who requests a legislative audit prior to the
+            
+481
+
+    
+date that audit is completed and made public; and
+            
+482
+
+    
+    (b)  notwithstanding Subsection (41)(a), a request for a legislative audit submitted to the
+            
+483
+
+    
+Office of the Legislative Auditor General is a public document unless the legislator asks that the
+            
+484
+
+    
+records in the custody or control of the Office of Legislative Auditor General that would reveal
+            
+485
+
+    
+the name of a particular legislator who requests a legislative audit be maintained as protected
+            
+486
+
+    
+records until the audit is completed and made public;
+            
+487
+
+    
+    (42)  records that provide detail as to the location of an explosive, including a map or
+            
+488
+
+    
+other document that indicates the location of:
+            
+489
+
+    
+    (a)  a production facility; or
+            
+490
+
+    
+    (b)  a magazine;
+            
+491
+
+    
+    (43)  information contained in the database described in Section 
+
+62A-3-311.1
+
+;
+            
+492
+
+    
+    (44)  information contained in the Management Information System and Licensing
+            
+493
+
+    
+Information System described in Title 62A, Chapter 4a, Child and Family Services;
+            
+494
+
+    
+    (45)  information regarding National Guard operations or activities in support of the
+            
+495
+
+    
+National Guard's federal mission;
+            
+496
+
+    
+    (46)  records provided by any pawn or secondhand business to a law enforcement
+            
+497
+
+    
+agency or to the central database in compliance with Title 13, Chapter 32a, Pawnshop and
+            
+498
+
+    
+Secondhand Merchandise Transaction Information Act;
+            
+499
+
+    
+    (47)  information regarding food security, risk, and vulnerability assessments performed
+            
+500
+
+    
+by the Department of Agriculture and Food;
+            
+501
+
+    
+    (48)  except to the extent that the record is exempt from this chapter pursuant to
+            
+502
+
+    
+Section 
+
+63-2-106
+
+, records related to an emergency plan or program prepared or maintained by
+            
+503
+
+    
+the Division of Homeland Security the disclosure of which would jeopardize:
+            
+504
+
+    
+    (a)  the safety of the general public; or
+            
+505
+
+    
+    (b)  the security of:
+
+            
+506
+
+
+    
+    (i)  governmental property;
+            
+507
+
+    
+    (ii)  governmental programs; or
+            
+508
+
+    
+    (iii)  the property of a private person who provides the Division of Homeland Security
+            
+509
+
+    
+information;
+            
+510
+
+    
+    (49)  records of the Department of Agriculture and Food relating to the National Animal
+            
+511
+
+    
+Identification System or any other program that provides for the identification, tracing, or
+            
+512
+
+    
+control of livestock diseases, including any program established under Title 4, Chapter 24, Utah
+            
+513
+
+    
+Livestock Brand and Anti-theft Act or Title 4, Chapter 31, Livestock Inspection and
+            
+514
+
+    
+Quarantine;
+            
+515
+
+    
+    (50)  as provided in Section 
+
+26-39-109
+
+:
+            
+516
+
+    
+    (a)  information or records held by the Department of Health related to a complaint
+            
+517
+
+    
+regarding a child care program or residential child care which the department is unable to
+            
+518
+
+    
+substantiate; and
+            
+519
+
+    
+    (b)  information or records related to a complaint received by the Department of Health
+            
+520
+
+    
+from an anonymous complainant regarding a child care program or residential child care; [and]
+            
+521
+
+    
+    (51)  unless otherwise classified as public under Section 
+
+63-2-301
+
+ and except as
+            
+522
+
+    
+provided under Section 
+
+41-1a-116
+
+, an individual's home address, home telephone number, or
+            
+523
+
+    
+personal mobile phone number, if:
+            
+524
+
+    
+    (a)  the individual is required to provide the information in order to comply with a law,
+            
+525
+
+    
+ordinance, rule, or order of a government entity; and
+            
+526
+
+    
+    (b)  the subject of the record has a reasonable expectation that this information will be
+            
+527
+
+    
+kept confidential due to:
+            
+528
+
+    
+    (i)  the nature of the law, ordinance, rule, or order; and
+            
+529
+
+    
+    (ii)  the individual complying with the law, ordinance, rule, or order[.]; and
+            
+530
+
+    
+    (52)  records contained in the Management Information System, created in Section
+            
+531
+
+    
+
+
+62A-4a-1003
+
+.
+            
+532
+
+    
+    Section 5.  
+Section  
+78A-6-317
+
+ is amended to read:
+            
+533
+
+    
+     78A-6-317.  All proceedings -- Persons entitled to be present.
+
+            
+534
+
+
+    
+    (1)  A child who is the subject of a juvenile court hearing, any person entitled to notice
+            
+535
+
+    
+pursuant to Section 
+
+78A-6-306
+
+ or 
+
+78A-6-310
+
+, preadoptive parents, foster parents, and any
+            
+536
+
+    
+relative providing care for the child, are:
+            
+537
+
+    
+    (a)  entitled to notice of, and to be present at, each hearing and proceeding held under
+            
+538
+
+    
+this part, including administrative and citizen reviews; and
+            
+539
+
+    
+    (b)  have a right to be heard at each hearing and proceeding described in Subsection
+            
+540
+
+    
+(1)(a).
+            
+541
+
+    
+    (2)  A child shall be represented at each hearing by the guardian ad litem appointed to
+            
+542
+
+    
+the child's case by the court.  The child has a right to be present at each hearing, subject to the
+            
+543
+
+    
+discretion of the guardian ad litem or the court regarding any possible detriment to the child.
+            
+544
+
+    
+    (3) (a)  The parent or guardian of a child who is the subject of a petition under this part
+            
+545
+
+    
+has the right to be represented by counsel, and to present evidence, at each hearing.
+            
+546
+
+    
+    (b)  When it appears to the court that a parent or guardian of the child desires counsel
+            
+547
+
+    
+but is financially unable to afford and cannot for that reason employ counsel, and the child has
+            
+548
+
+    
+been placed in out-of-home care, or the petitioner is recommending that the child be placed in
+            
+549
+
+    
+out-of-home care, the court shall appoint counsel.
+            
+550
+
+    
+    (4)  In every abuse, neglect, or dependency proceeding under this chapter, the court
+            
+551
+
+    
+shall order that the child be represented by a guardian ad litem, in accordance with Section
+            
+552
+
+    
+
+78A-6-902
+
+.  The guardian ad litem shall represent the best interest of the child, in accordance
+            
+553
+
+    
+with the requirements of that section, at the shelter hearing and at all subsequent court and
+            
+554
+
+    
+administrative proceedings, including any proceeding for termination of parental rights in
+            
+555
+
+    
+accordance with Part 5, Termination of Parental Rights Act.
+            
+556
+
+    
+    (5)  [Notwithstanding] (a)  Except as provided in Subsection (5)(b), and
+            
+557
+
+    
+notwithstanding any other provision of law[,]:
+            
+558
+
+    
+    (i)  counsel for all parties to the action shall be given access to all records, maintained by
+            
+559
+
+    
+the division or any other state or local public agency, that are relevant to the abuse, neglect, or
+            
+560
+
+    
+dependency proceeding under this chapter[.  If]; and
+            
+561
+
+    
+    (ii)  if the natural parent of a child is representing himself, the natural parent shall have
+
+            
+562
+
+
+    
+access to [those records.  The above disclosures] the records described in Subsection (5)(a)(i).
+            
+563
+
+    
+    (b)  The disclosures described in Subsection (5)(a) are not required in the following
+            
+564
+
+    
+circumstances:
+            
+565
+
+    
+    [(a)  The] (i)  subject to Subsection (5)(c), the division or other state or local public
+            
+566
+
+    
+agency did not originally create the record being requested[.  In those circumstances, the person
+            
+567
+
+    
+making the request under this section shall be informed of the following:];
+            
+568
+
+    
+    [(i)  the existence of all records in the possession of the division or any other state or
+            
+569
+
+    
+local public agency;]
+            
+570
+
+    
+    [(ii)  the name and address of the person or agency that originally created the record;
+            
+571
+
+    
+and]
+            
+572
+
+    
+    [(iii)  that the person must seek access to the record from the person or agency that
+            
+573
+
+    
+originally created the record.]
+            
+574
+
+    
+    [(b)] (ii)  disclosure of the record would jeopardize the life or physical safety of a child
+            
+575
+
+    
+who has been a victim of child abuse or neglect, or any person who provided substitute care for
+            
+576
+
+    
+the child[.];
+            
+577
+
+    
+    [(c)] (iii)  disclosure of the record would jeopardize the anonymity of the person or
+            
+578
+
+    
+persons making the initial report of abuse or neglect or any others involved in the subsequent
+            
+579
+
+    
+investigation[.];
+            
+580
+
+    
+    [(d)] (iv)  disclosure of the record would jeopardize the life or physical safety of a
+            
+581
+
+    
+person who has been a victim of domestic violence[.]; or
+            
+582
+
+    
+    (v)  the record is a report maintained in the Management Information System, for which
+            
+583
+
+    
+a finding of unsubstantiated, unsupported, or without merit has been made, unless the person
+            
+584
+
+    
+requesting the information is the alleged perpetrator in the report or counsel for the alleged
+            
+585
+
+    
+perpetrator in the report.
+            
+586
+
+    
+    (c)  If a disclosure is denied under Subsection (5)(b)(i), the division shall inform the
+            
+587
+
+    
+person making the request of the following:
+            
+588
+
+    
+    (i)  the existence of all records in the possession of the division or any other state or
+            
+589
+
+    
+local public agency;
+
+            
+590
+
+
+    
+    (ii)  the name and address of the person or agency that originally created the record; and
+            
+591
+
+    
+    (iii)  that the person must seek access to the record from the person or agency that
+            
+592
+
+    
+originally created the record.
+            
+593
+
+    
+    (6) (a)  The appropriate foster care citizen review board shall be given access to all
+            
+594
+
+    
+records, maintained by the division or any other state or local public agency, that are relevant to
+            
+595
+
+    
+an abuse, neglect, or dependency proceeding under this chapter.
+            
+596
+
+    
+    (b)  Representatives of the appropriate foster care citizen review board are entitled to be
+            
+597
+
+    
+present at each hearing held under this part, but notice is not required to be provided.
+[Bill Documents][Bills Directory]
+
+
+
+
+
+
+
+
+
+Who represents me?
+
+
+
+
+
+Remember my Legislators
+
+
+
+
+
+State Senate
+		350 North State, Suite 320
+		PO Box 145115
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1035
+		Fax: (801) 326-1475
+
+
+
+House of Representatives
+		350 North State, Suite 350
+		PO Box 145030
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1029
+		Fax: (801) 326-1544
+
+
+
+
+
+
+
+
+
+
+Home
+Mobile Site
+Site Map
+Calendar
+Code / Constitution
+House
+Senate
+
+Terms of Use/Privacy Policy
+
+ADA
+Utah.gov
+
+
+
+
+
+
+

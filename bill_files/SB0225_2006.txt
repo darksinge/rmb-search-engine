@@ -1,0 +1,638 @@
+Sponsors: []Modifications:     59-1-611.(1)  As used in this section, "post security" means:(a)  posting with the commission, for the full or a partial amount of the deficiency asdetermined by the commission:(i)  a letter of credit;(ii)  a bond; or(iii)  other similar financial instrument acceptable to the commission; or(b)  as determined by the commission, depositing with the commission:(i)  the full amount of the deficiency; or(ii)  a partial amount of the deficiency.(2)  Except as provided in Subsection (3), a taxpayer that seeks judicial review of a finalcommission redetermination of a deficiency shall post security with the commission.(3)  The commission shall waive the requirements of Subsection (2) if a taxpayerestablishes:(a)  that the taxpayer has sufficient financial resources to pay the deficiency if thedeficiency is upheld in a final unappealable judgment or order by a court of competentjurisdiction; or(b)  as determined by the commission, that collection of the deficiency that is thesubject of the appeal is not jeopardized by waiving the requirements of Subsection (2).(4) (a)  The commission may not unreasonably deny a waiver described in Subsection(3).(b)  A taxpayer may seek judicial review of the commission's decision to deny a waiverunder Subsection (3) by the court reviewing the redetermination of the deficiency.(5)  If a taxpayer fails to comply with the requirements of Subsection (2), the reviewingcourt may, in its discretion, dismiss the taxpayer's appeal of the redetermination of thedeficiency.(6)  If the commission grants a waiver under Subsection (3), the taxpayer shall pay anytax, interest, or penalties:(a)  ordered by a court of competent jurisdiction; and(b)  within a 45-day period beginning on the day on which the order described inSubsection (6)(a) becomes final.(7)  If a taxpayer posts security with the commission, or the commission grants a waiverin accordance with this section, interest shall accrue on the unpaid taxes that are the subject ofthe deficiency at the rate and in the manner provided in Section 
+
+59-1-402
+
+.(1)  Except as provided in Subsection (2), this bill applies to an appeal of aredetermination of a deficiency filed on or after May 1, 2006.(2)  This bill applies to an appeal of the redetermination of a deficiency, of a State TaxCommission decision filed before May 1, 2006, if, as of January 1, 2006, the reviewing courthas not issued a final unappealable judgment or order on the appeal.Full text:
+
+
+
+Utah State Legislature
+
+
+
+
+
+
+
+
+
+
+
+
+Legislators
+
+By Session (1896-Current)
+Alphabetical (Historical)
+Find by Address/Map
+More
+
+
+Bills
+
+Bills/Bill Requests
+Passed Bills
+2017 Bills
+
+Keyword Search
+Reading Calendars
+Tracking Service
+More
+
+
+Committees
+
+All Committees
+Appropriations
+Commissions
+
+Independent Legislative Ethics Commission
+Interim
+Standing
+Subcommittees
+Task Forces
+Bills In Committees
+
+
+Utah Code / Constitution
+
+
+Title/Chapter/Section
+Keyword Search 
+
+Utah Constitution
+Laws of Utah 1851-ongoing
+Utah Territorial Laws 
+More
+
+
+Senate
+
+Main Page 
+About The Senate 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Extraordinary Sessions 
+Reading Calendars 
+Past Floor Debates 
+Senate Journals 
+
+
+House
+
+Main Page
+About the House 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Reading Calendars 
+Past Floor Debates 
+Journals 
+Conflict of Interest Forms 
+
+
+Legislative Guide 
+
+Legislative Guide
+Civic Programs
+GRAMA (Records Requests)
+
+
+Publications
+
+Search Publications
+Appropriations
+Audits
+Bagels & Briefings
+Briefing Papers
+Digest of Legislation
+Legislative Drafting Manual
+
+Journals
+
+Interim Highlights
+
+Legislative Rules
+GRAMA (Records Requests)
+Public Email
+State Organization Charts
+YouTube Channel
+Requests for Proposals and Legal Notices
+More
+
+
+Legislative Histories
+
+Legislative History Resources
+How to Research
+Bill Drafting/Research Files (1990-Ongoing)
+
+Working Bills (1896-1989)
+Interim Committee Histories (1990-Ongoing) 
+Journals
+Past House Floor Debates
+Past Senate Floor Debates
+More
+
+
+Staff Offices
+
+All Legislative Offices
+Auditor General
+Fiscal Analyst
+Printing
+Research and General Counsel
+Staff Awards
+Job Opportunities
+More
+
+
+Links of Interest
+
+Utah Administrative Rules
+Courts
+Utah State Capitol
+State of Utah
+Federal Legislation
+More
+
+
+
+
+
+
+ 
+
+Download Zipped Enrolled WordPerfect SB0225.ZIP
+[Introduced][Amended][Status][Bill Documents][Fiscal Note][Bills Directory]
+
+
+S.B. 225 Enrolled
+
+
+
+
+
+            
+1
+
+    
+ PAYMENT OF TAX OR BONDING IN TAX
+
+            
+2
+
+    
+ CASES
+
+
+
+            
+3
+
+    
+2006 GENERAL SESSION
+
+            
+4
+
+    
+STATE OF UTAH
+
+            
+5
+
+    
+
+
+ Chief Sponsor:  Howard A. Stephenson
+
+
+
+            
+6
+
+    
+
+
+
+House Sponsor:  
+
+
+
+
+
+
+David  Clark
+
+
+
+
+
+            
+7
+
+    
+
+            
+8
+
+    
+ LONG TITLE
+            
+9
+
+    
+ General Description:
+            
+10
+
+    
+    This bill amends the procedures and requirements to seek judicial review of a State Tax
+            
+11
+
+    
+Commission redetermination of a tax deficiency.
+            
+12
+
+    
+ Highlighted Provisions:
+            
+13
+
+    
+    This bill:
+            
+14
+
+    
+    .    amends the procedures and requirements related to the judicial review of a State
+            
+15
+
+    
+Tax Commission redetermination of a tax deficiency; and
+            
+16
+
+    
+    .     makes technical changes.
+            
+17
+
+    
+ Monies Appropriated in this Bill:
+            
+18
+
+    
+    None
+            
+19
+
+    
+ Other Special Clauses:
+            
+20
+
+    
+    This bill provides an effective date.
+            
+21
+
+    
+ Utah Code Sections Affected:
+            
+22
+
+    
+ENACTS:
+            
+23
+
+    
+     59-1-611, Utah Code Annotated 1953
+            
+24
+
+    
+REPEALS:
+            
+25
+
+    
+     59-1-505, as last amended by Chapter 214, Laws of Utah 1996
+            
+26
+
+    
+
+            
+27
+
+    
+Be it enacted by the Legislature of the state of Utah:
+            
+28
+
+    
+    Section 1.  
+Section  
+59-1-611
+
+ is enacted to read:
+            
+29
+
+    
+     59-1-611.  Payment of tax on appeal -- Interest.
+
+            
+30
+
+
+    
+    (1)  As used in this section, "post security" means:
+            
+31
+
+    
+    (a)  posting with the commission, for the full or a partial amount of the deficiency as
+            
+32
+
+    
+determined by the commission:
+            
+33
+
+    
+    (i)  a letter of credit;
+            
+34
+
+    
+    (ii)  a bond; or
+            
+35
+
+    
+    (iii)  other similar financial instrument acceptable to the commission; or
+            
+36
+
+    
+    (b)  as determined by the commission, depositing with the commission:
+            
+37
+
+    
+    (i)  the full amount of the deficiency; or
+            
+38
+
+    
+    (ii)  a partial amount of the deficiency.
+            
+39
+
+    
+    (2)  Except as provided in Subsection (3), a taxpayer that seeks judicial review of a final
+            
+40
+
+    
+commission redetermination of a deficiency shall post security with the commission.
+            
+41
+
+    
+    (3)  The commission shall waive the requirements of Subsection (2) if a taxpayer
+            
+42
+
+    
+establishes:
+            
+43
+
+    
+    (a)  that the taxpayer has sufficient financial resources to pay the deficiency if the
+            
+44
+
+    
+deficiency is upheld in a final unappealable judgment or order by a court of competent
+            
+45
+
+    
+jurisdiction; or
+            
+46
+
+    
+    (b)  as determined by the commission, that collection of the deficiency that is the
+            
+47
+
+    
+subject of the appeal is not jeopardized by waiving the requirements of Subsection (2).
+            
+48
+
+    
+    (4) (a)  The commission may not unreasonably deny a waiver described in Subsection
+            
+49
+
+    
+(3).
+            
+50
+
+    
+    (b)  A taxpayer may seek judicial review of the commission's decision to deny a waiver
+            
+51
+
+    
+under Subsection (3) by the court reviewing the redetermination of the deficiency.
+            
+52
+
+    
+    (5)  If a taxpayer fails to comply with the requirements of Subsection (2), the reviewing
+            
+53
+
+    
+court may, in its discretion, dismiss the taxpayer's appeal of the redetermination of the
+            
+54
+
+    
+deficiency.
+            
+55
+
+    
+    (6)  If the commission grants a waiver under Subsection (3), the taxpayer shall pay any
+            
+56
+
+    
+tax, interest, or penalties:
+            
+57
+
+    
+    (a)  ordered by a court of competent jurisdiction; and
+
+            
+58
+
+
+    
+    (b)  within a 45-day period beginning on the day on which the order described in
+            
+59
+
+    
+Subsection (6)(a) becomes final.
+            
+60
+
+    
+    (7)  If a taxpayer posts security with the commission, or the commission grants a waiver
+            
+61
+
+    
+in accordance with this section, interest shall accrue on the unpaid taxes that are the subject of
+            
+62
+
+    
+the deficiency at the rate and in the manner provided in Section 
+
+59-1-402
+
+.
+            
+63
+
+    
+    Section 2.  Repealer.
+            
+64
+
+    
+    This bill repeals:
+            
+65
+
+    
+    Section  59-1-505,  Prerequisites to appeal -- Interest.
+            
+66
+
+    
+    Section 3.   Effective date.
+            
+67
+
+    
+    (1)  Except as provided in Subsection (2), this bill applies to an appeal of a
+            
+68
+
+    
+redetermination of a deficiency filed on or after May 1, 2006.
+            
+69
+
+    
+    (2)  This bill applies to an appeal of the redetermination of a deficiency, of a State Tax
+            
+70
+
+    
+Commission decision filed before May 1, 2006, if, as of January 1, 2006, the reviewing court
+            
+71
+
+    
+has not issued a final unappealable judgment or order on the appeal.
+[Bill Documents][Bills Directory]
+
+
+
+
+
+
+
+
+
+Who represents me?
+
+
+
+
+
+Remember my Legislators
+
+
+
+
+
+State Senate
+		350 North State, Suite 320
+		PO Box 145115
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1035
+		Fax: (801) 326-1475
+
+
+
+House of Representatives
+		350 North State, Suite 350
+		PO Box 145030
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1029
+		Fax: (801) 326-1544
+
+
+
+
+
+
+
+
+
+
+Home
+Mobile Site
+Site Map
+Calendar
+Code / Constitution
+House
+Senate
+
+Terms of Use/Privacy Policy
+
+ADA
+Utah.gov
+
+
+
+
+
+
+

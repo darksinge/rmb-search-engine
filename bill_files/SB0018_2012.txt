@@ -1,0 +1,1086 @@
+Sponsors: []Modifications: , except for the part of the voter registration record classified asprivate under Section 
+
+63G-2-302
+
+,described in Subsection (2)(b):(i);(ii)or(iii)  email address;;Full text:
+
+
+
+Utah State Legislature
+
+
+
+
+
+
+
+
+
+
+
+
+Legislators
+
+By Session (1896-Current)
+Alphabetical (Historical)
+Find by Address/Map
+More
+
+
+Bills
+
+Bills/Bill Requests
+Passed Bills
+2017 Bills
+
+Keyword Search
+Reading Calendars
+Tracking Service
+More
+
+
+Committees
+
+All Committees
+Appropriations
+Commissions
+
+Independent Legislative Ethics Commission
+Interim
+Standing
+Subcommittees
+Task Forces
+Bills In Committees
+
+
+Utah Code / Constitution
+
+
+Title/Chapter/Section
+Keyword Search 
+
+Utah Constitution
+Laws of Utah 1851-ongoing
+Utah Territorial Laws 
+More
+
+
+Senate
+
+Main Page 
+About The Senate 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Extraordinary Sessions 
+Reading Calendars 
+Past Floor Debates 
+Senate Journals 
+
+
+House
+
+Main Page
+About the House 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Reading Calendars 
+Past Floor Debates 
+Journals 
+Conflict of Interest Forms 
+
+
+Legislative Guide 
+
+Legislative Guide
+Civic Programs
+GRAMA (Records Requests)
+
+
+Publications
+
+Search Publications
+Appropriations
+Audits
+Bagels & Briefings
+Briefing Papers
+Digest of Legislation
+Legislative Drafting Manual
+
+Journals
+
+Interim Highlights
+
+Legislative Rules
+GRAMA (Records Requests)
+Public Email
+State Organization Charts
+YouTube Channel
+Requests for Proposals and Legal Notices
+More
+
+
+Legislative Histories
+
+Legislative History Resources
+How to Research
+Bill Drafting/Research Files (1990-Ongoing)
+
+Working Bills (1896-1989)
+Interim Committee Histories (1990-Ongoing) 
+Journals
+Past House Floor Debates
+Past Senate Floor Debates
+More
+
+
+Staff Offices
+
+All Legislative Offices
+Auditor General
+Fiscal Analyst
+Printing
+Research and General Counsel
+Staff Awards
+Job Opportunities
+More
+
+
+Links of Interest
+
+Utah Administrative Rules
+Courts
+Utah State Capitol
+State of Utah
+Federal Legislation
+More
+
+
+
+
+
+
+ 
+
+Download Zipped Enrolled WordPerfect SB0018.ZIP
+[Introduced][Amended][Status][Bill Documents][Fiscal Note][Bills Directory]
+
+
+S.B. 18 Enrolled
+
+
+
+
+
+            
+1
+
+    
+ GOVERNMENT RECORDS ACCESS AND MANAGEMENT ACT
+
+            
+2
+
+    
+ - VOTER REGISTRATION RECORDS
+
+
+
+            
+3
+
+    
+2012 GENERAL SESSION
+
+            
+4
+
+    
+STATE OF UTAH
+
+            
+5
+
+    
+
+
+ Chief Sponsor:  Margaret  Dayton
+
+
+
+            
+6
+
+    
+
+
+
+House Sponsor:  
+
+
+
+
+
+
+Keith  Grover
+
+
+
+
+
+            
+7
+
+    
+
+            
+8
+
+    
+ LONG TITLE
+            
+9
+
+    
+ General Description:
+            
+10
+
+    
+    This bill amends the Government Records Access and Management Act to address
+            
+11
+
+    
+provisions relating to an email address on a voter registration record.
+            
+12
+
+    
+ Highlighted Provisions:
+            
+13
+
+    
+    This bill:
+            
+14
+
+    
+    .    amends the requirement of the lieutenant governor and county clerks to make
+            
+15
+
+    
+certain records available for public inspection;
+            
+16
+
+    
+    .    classifies a voter's email address on a voter registration record as a private record;
+            
+17
+
+    
+and
+            
+18
+
+    
+    .    makes technical changes.
+            
+19
+
+    
+ Money Appropriated in this Bill:
+            
+20
+
+    
+    None
+            
+21
+
+    
+ Other Special Clauses:
+            
+22
+
+    
+    None
+            
+23
+
+    
+ Utah Code Sections Affected:
+            
+24
+
+    
+AMENDS:
+            
+25
+
+    
+     20A-2-308, as enacted by Laws of Utah 1994, Chapter 311
+            
+26
+
+    
+     63G-2-302, as last amended by Laws of Utah 2011, Chapters 85, 327, and 413
+            
+27
+
+    
+
+            
+28
+
+    
+Be it enacted by the Legislature of the state of Utah:
+            
+29
+
+    
+    Section 1.  
+Section  
+20A-2-308
+
+ is amended to read:
+
+            
+30
+
+
+    
+     20A-2-308.  Lieutenant governor and county clerks to preserve records.
+            
+31
+
+    
+    (1)  As used in this section:
+            
+32
+
+    
+    (a)  "Voter registration records" means all records concerning the implementation of
+            
+33
+
+    
+programs and activities conducted for the purpose of ensuring that the official register is
+            
+34
+
+    
+accurate and current.
+            
+35
+
+    
+    (b)  "Voter registration records" does not mean records that:
+            
+36
+
+    
+    (i)  relate to a person's decision to decline to register to vote; and
+            
+37
+
+    
+    (ii)  identify the particular public assistance agency, discretionary voter registration
+            
+38
+
+    
+agency, or Driver License Division through which a particular voter registered to vote.
+            
+39
+
+    
+    (2)  The lieutenant governor and each county clerk shall:
+            
+40
+
+    
+    (a)  preserve for at least two years all records relating to voter registration, including:
+            
+41
+
+    
+    (i)  the official register; and
+            
+42
+
+    
+    (ii)  the names and addresses of all persons to whom the notice required by Section
+            
+43
+
+    
+
+20A-2-306
+
+ was sent and a notation as to whether or not the person responded to the notice;
+            
+44
+
+    
+    (b)  make the records, except for the part of the voter registration record classified as
+            
+45
+
+    
+private under Section 
+
+63G-2-302
+
+, available for public inspection; and
+            
+46
+
+    
+    (c)  allow the records described in Subsection (2)(b) to be photocopied for a reasonable
+            
+47
+
+    
+cost.
+            
+48
+
+    
+    Section 2.  
+Section  
+63G-2-302
+
+ is amended to read:
+            
+49
+
+    
+     63G-2-302.  Private records.
+            
+50
+
+    
+    (1)  The following records are private:
+            
+51
+
+    
+    (a)  records concerning an individual's eligibility for unemployment insurance benefits,
+            
+52
+
+    
+social services, welfare benefits, or the determination of benefit levels;
+            
+53
+
+    
+    (b)  records containing data on individuals describing medical history, diagnosis,
+            
+54
+
+    
+condition, treatment, evaluation, or similar medical data;
+            
+55
+
+    
+    (c)  records of publicly funded libraries that when examined alone or with other records
+            
+56
+
+    
+identify a patron;
+            
+57
+
+    
+    (d)  records received by or generated by or for:
+
+            
+58
+
+
+    
+    (i)  the Independent Legislative Ethics Commission, except for:
+            
+59
+
+    
+    (A)  the commission's summary data report that is required under legislative rule; and
+            
+60
+
+    
+    (B)  any other document that is classified as public under legislative rule; or
+            
+61
+
+    
+    (ii)  a Senate or House Ethics Committee in relation to the review of ethics complaints,
+            
+62
+
+    
+unless the record is classified as public under legislative rule;
+            
+63
+
+    
+    (e)  records received or generated for a Senate confirmation committee concerning
+            
+64
+
+    
+character, professional competence, or physical or mental health of an individual:
+            
+65
+
+    
+    (i)  if prior to the meeting, the chair of the committee determines release of the records:
+            
+66
+
+    
+    (A)  reasonably could be expected to interfere with the investigation undertaken by the
+            
+67
+
+    
+committee; or
+            
+68
+
+    
+    (B)  would create a danger of depriving a person of a right to a fair proceeding or
+            
+69
+
+    
+impartial hearing; and
+            
+70
+
+    
+    (ii)  after the meeting, if the meeting was closed to the public;
+            
+71
+
+    
+    (f)  employment records concerning a current or former employee of, or applicant for
+            
+72
+
+    
+employment with, a governmental entity that would disclose that individual's home address,
+            
+73
+
+    
+home telephone number, Social Security number, insurance coverage, marital status, or payroll
+            
+74
+
+    
+deductions;
+            
+75
+
+    
+    (g)  records or parts of records under Section 
+
+63G-2-303
+
+ that a current or former
+            
+76
+
+    
+employee identifies as private according to the requirements of that section;
+            
+77
+
+    
+    (h)  that part of a record indicating a person's Social Security number or federal
+            
+78
+
+    
+employer identification number if provided under Section 
+
+31A-23a-104
+
+, 
+
+31A-25-202
+
+,
+            
+79
+
+    
+
+31A-26-202
+
+, 
+
+58-1-301
+
+, 
+
+58-55-302
+
+, 
+
+61-1-4
+
+, or 
+
+61-2f-203
+
+;
+            
+80
+
+    
+    (i)  that part of a voter registration record identifying a voter's:
+            
+81
+
+    
+    (i)  driver license or identification card number[,];
+            
+82
+
+    
+    (ii)  Social Security number, or last four digits of the Social Security number; or
+            
+83
+
+    
+    (iii)  email address;
+            
+84
+
+    
+    (j)  a record that:
+            
+85
+
+    
+    (i)  contains information about an individual;
+
+            
+86
+
+
+    
+    (ii)  is voluntarily provided by the individual; and
+            
+87
+
+    
+    (iii)  goes into an electronic database that:
+            
+88
+
+    
+    (A)  is designated by and administered under the authority of the Chief Information
+            
+89
+
+    
+Officer; and
+            
+90
+
+    
+    (B)  acts as a repository of information about the individual that can be electronically
+            
+91
+
+    
+retrieved and used to facilitate the individual's online interaction with a state agency;
+            
+92
+
+    
+    (k)  information provided to the Commissioner of Insurance under:
+            
+93
+
+    
+    (i)  Subsection 
+
+31A-23a-115
+
+(2)(a);
+            
+94
+
+    
+    (ii)  Subsection 
+
+31A-23a-302
+
+(3); or
+            
+95
+
+    
+    (iii)  Subsection 
+
+31A-26-210
+
+(3);
+            
+96
+
+    
+    (l)  information obtained through a criminal background check under Title 11, Chapter
+            
+97
+
+    
+40, Criminal Background Checks by Political Subdivisions Operating Water Systems;
+            
+98
+
+    
+    (m)  information provided by an offender that is:
+            
+99
+
+    
+    (i)  required by the registration requirements of Section 
+
+77-27-21.5
+
+; and
+            
+100
+
+    
+    (ii)  not required to be made available to the public under Subsection 
+
+77-27-21.5
+
+(27);
+            
+101
+
+    
+    (n)  a statement and any supporting documentation filed with the attorney general in
+            
+102
+
+    
+accordance with Section 
+
+34-45-107
+
+, if the federal law or action supporting the filing involves
+            
+103
+
+    
+homeland security;
+            
+104
+
+    
+    (o)  electronic toll collection customer account information received or collected under
+            
+105
+
+    
+Section 
+
+72-6-118
+
+, including contact and payment information and customer travel data[.];
+            
+106
+
+    
+    (p)  an email address provided by a military or overseas voter under Section
+            
+107
+
+    
+
+20A-16-501
+
+; and
+            
+108
+
+    
+    (q)  a completed military-overseas ballot that is electronically transmitted under Title
+            
+109
+
+    
+20A, Chapter 16, Uniform Military and Overseas Voters Act.
+            
+110
+
+    
+    (2)  The following records are private if properly classified by a governmental entity:
+            
+111
+
+    
+    (a)  records concerning a current or former employee of, or applicant for employment
+            
+112
+
+    
+with a governmental entity, including performance evaluations and personal status information
+            
+113
+
+    
+such as race, religion, or disabilities, but not including records that are public under Subsection
+
+            
+114
+
+
+    
+
+63G-2-301
+
+(2)(b) or 
+
+63G-2-301
+
+(3)(o), or private under Subsection (1)(b);
+            
+115
+
+    
+    (b)  records describing an individual's finances, except that the following are public:
+            
+116
+
+    
+    (i)  records described in Subsection 
+
+63G-2-301
+
+(2);
+            
+117
+
+    
+    (ii)  information provided to the governmental entity for the purpose of complying with
+            
+118
+
+    
+a financial assurance requirement; or
+            
+119
+
+    
+    (iii)  records that must be disclosed in accordance with another statute;
+            
+120
+
+    
+    (c)  records of independent state agencies if the disclosure of those records would
+            
+121
+
+    
+conflict with the fiduciary obligations of the agency;
+            
+122
+
+    
+    (d)  other records containing data on individuals the disclosure of which constitutes a
+            
+123
+
+    
+clearly unwarranted invasion of personal privacy;
+            
+124
+
+    
+    (e)  records provided by the United States or by a government entity outside the state
+            
+125
+
+    
+that are given with the requirement that the records be managed as private records, if the
+            
+126
+
+    
+providing entity states in writing that the record would not be subject to public disclosure if
+            
+127
+
+    
+retained by it; and
+            
+128
+
+    
+    (f)  any portion of a record in the custody of the Division of Aging and Adult Services,
+            
+129
+
+    
+created in Section 
+
+62A-3-102
+
+, that may disclose, or lead to the discovery of, the identity of a
+            
+130
+
+    
+person who made a report of alleged abuse, neglect, or exploitation of a vulnerable adult.
+            
+131
+
+    
+    (3) (a)  As used in this Subsection (3), "medical records" means medical reports,
+            
+132
+
+    
+records, statements, history, diagnosis, condition, treatment, and evaluation.
+            
+133
+
+    
+    (b)  Medical records in the possession of the University of Utah Hospital, its clinics,
+            
+134
+
+    
+doctors, or affiliated entities are not private records or controlled records under Section
+            
+135
+
+    
+
+63G-2-304
+
+ when the records are sought:
+            
+136
+
+    
+    (i)  in connection with any legal or administrative proceeding in which the patient's
+            
+137
+
+    
+physical, mental, or emotional condition is an element of any claim or defense; or
+            
+138
+
+    
+    (ii)  after a patient's death, in any legal or administrative proceeding in which any party
+            
+139
+
+    
+relies upon the condition as an element of the claim or defense.
+            
+140
+
+    
+    (c)  Medical records are subject to production in a legal or administrative proceeding
+            
+141
+
+    
+according to state or federal statutes or rules of procedure and evidence as if the medical
+
+            
+142
+
+
+    
+records were in the possession of a nongovernmental medical care provider.
+[Bill Documents][Bills Directory]
+
+
+
+
+
+
+
+
+
+Who represents me?
+
+
+
+
+
+Remember my Legislators
+
+
+
+
+
+State Senate
+		350 North State, Suite 320
+		PO Box 145115
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1035
+		Fax: (801) 326-1475
+
+
+
+House of Representatives
+		350 North State, Suite 350
+		PO Box 145030
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1029
+		Fax: (801) 326-1544
+
+
+
+
+
+
+
+
+
+
+Home
+Mobile Site
+Site Map
+Calendar
+Code / Constitution
+House
+Senate
+
+Terms of Use/Privacy Policy
+
+ADA
+Utah.gov
+
+
+
+
+
+
+

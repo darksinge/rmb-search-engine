@@ -1,0 +1,819 @@
+Sponsors: []Modifications:     26-48-101.This chapter is known as the "Toxic Mold Act."    26-48-102.As used in this chapter:(1)  "Department" means the Department of Health.(2) (a)  "Mold" means a form of multicellular fungi that live:(i)  on plant or animal matter; and(ii)  in indoor environments.(b)  "Mold" includes:(i)  cladosporium;(ii)  penicillium;(iii)  alternaria;(iv)  aspergillus;(v)  fuarium;(vi)  trichoderma;(vii)  memnoniella;(viii)  mucor; and(ix)  stachybotrys chartarum.    26-48-201.(1)  The department shall prepare information concerning:(a)  the health impacts of mold on a person who occupies real property containing mold;and(b)  recommended practices for a person who owns or occupies real property containingmold.(2)  The department shall use any reasonable means to make the information preparedunder Subsection (1) available and accessible to the public.    26-48-202.In accordance with Title 63, Chapter 46a, Utah Administrative Rulemaking Act, thedepartment shall make rules establishing minimum standards of mold exposure within realproperty for purposes of Section 
+
+57-22-4.2
+
+.(1)  "Mold" is as defined in Section 
+
+26-48-102
+
+.(2)(3)(4)(5)    57-22-4.2.(1)  An owner shall comply with Subsection (2) if the owner knows that a residentialrental unit contains visible or invisible mold exceeding the minimum standards established bythe Department of Health under Section 
+
+26-48-202
+
+.(2)  An owner described in Subsection (1) shall provide written notice to:(a)  a prospective renter prior to entering into a rental agreement; and(b)  a renter within five calendar days after the owner becomes aware of a conditiondescribed in Subsection (1).(3)  This section does not require an owner to conduct air or surface tests to determinewhether a rental unit contains visible or invisible mold.(4) (a)  A renter may bring an action against an owner for a violation of this section.(b)  In an action under Subsection (4)(a), a renter may recover the greater of:(i)  actual damages; or(ii)  $1,000.Full text:
+
+
+
+Utah State Legislature
+
+
+
+
+
+
+
+
+
+
+
+
+Legislators
+
+By Session (1896-Current)
+Alphabetical (Historical)
+Find by Address/Map
+More
+
+
+Bills
+
+Bills/Bill Requests
+Passed Bills
+2017 Bills
+
+Keyword Search
+Reading Calendars
+Tracking Service
+More
+
+
+Committees
+
+All Committees
+Appropriations
+Commissions
+
+Independent Legislative Ethics Commission
+Interim
+Standing
+Subcommittees
+Task Forces
+Bills In Committees
+
+
+Utah Code / Constitution
+
+
+Title/Chapter/Section
+Keyword Search 
+
+Utah Constitution
+Laws of Utah 1851-ongoing
+Utah Territorial Laws 
+More
+
+
+Senate
+
+Main Page 
+About The Senate 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Extraordinary Sessions 
+Reading Calendars 
+Past Floor Debates 
+Senate Journals 
+
+
+House
+
+Main Page
+About the House 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Reading Calendars 
+Past Floor Debates 
+Journals 
+Conflict of Interest Forms 
+
+
+Legislative Guide 
+
+Legislative Guide
+Civic Programs
+GRAMA (Records Requests)
+
+
+Publications
+
+Search Publications
+Appropriations
+Audits
+Bagels & Briefings
+Briefing Papers
+Digest of Legislation
+Legislative Drafting Manual
+
+Journals
+
+Interim Highlights
+
+Legislative Rules
+GRAMA (Records Requests)
+Public Email
+State Organization Charts
+YouTube Channel
+Requests for Proposals and Legal Notices
+More
+
+
+Legislative Histories
+
+Legislative History Resources
+How to Research
+Bill Drafting/Research Files (1990-Ongoing)
+
+Working Bills (1896-1989)
+Interim Committee Histories (1990-Ongoing) 
+Journals
+Past House Floor Debates
+Past Senate Floor Debates
+More
+
+
+Staff Offices
+
+All Legislative Offices
+Auditor General
+Fiscal Analyst
+Printing
+Research and General Counsel
+Staff Awards
+Job Opportunities
+More
+
+
+Links of Interest
+
+Utah Administrative Rules
+Courts
+Utah State Capitol
+State of Utah
+Federal Legislation
+More
+
+
+
+
+
+
+ 
+
+Download Zipped Introduced WordPerfect HB0281.ZIP
+[Status][Bill Documents][Fiscal Note][Bills Directory]
+
+
+H.B. 281
+
+
+
+
+
+            
+1
+
+    
+ TOXIC MOLD DISCLOSURE
+
+
+            
+2
+
+    
+2004 GENERAL SESSION
+
+            
+3
+
+    
+STATE OF UTAH
+
+            
+4
+
+    
+ Sponsor: David L. Hogue
+
+            
+5
+
+    
+
+            
+6
+
+    
+ LONG TITLE
+            
+7
+
+    
+ General Description:
+            
+8
+
+    
+    This bill enacts provisions within the Utah Health Code and the Utah Fit Premises Act
+            
+9
+
+    
+related to mold.
+            
+10
+
+    
+ Highlighted Provisions:
+            
+11
+
+    
+    This bill:
+            
+12
+
+    
+    .    requires the Department of Health to:
+            
+13
+
+    
+        .    prepare and make public certain information relating to mold; and
+            
+14
+
+    
+        .    establish minimum standards of mold exposure in real property; and
+            
+15
+
+    
+    .    requires an owner to make a disclosure to a renter or prospective renter if mold in a
+            
+16
+
+    
+rental unit exceeds a minimum standard.
+            
+17
+
+    
+ Monies Appropriated in this Bill:
+            
+18
+
+    
+    None
+            
+19
+
+    
+ Other Special Clauses:
+            
+20
+
+    
+    None
+            
+21
+
+    
+ Utah Code Sections Affected:
+            
+22
+
+    
+AMENDS:
+            
+23
+
+    
+     57-22-2, as enacted by Chapter 314, Laws of Utah 1990
+            
+24
+
+    
+ENACTS:
+            
+25
+
+    
+     26-48-101, Utah Code Annotated 1953
+            
+26
+
+    
+     26-48-102, Utah Code Annotated 1953
+            
+27
+
+    
+     26-48-201, Utah Code Annotated 1953
+
+
+            
+28
+
+
+     
+     26-48-202, Utah Code Annotated 1953
+            
+29
+
+    
+     57-22-4.2, Utah Code Annotated 1953
+            
+30
+
+    
+
+            
+31
+
+    
+Be it enacted by the Legislature of the state of Utah:
+            
+32
+
+    
+    Section 1.  
+Section  
+26-48-101
+
+ is enacted to read:
+            
+33
+
+    
+ CHAPTER 48.  TOXIC MOLD ACT
+
+            
+34
+
+    
+ Part 1.  General Provisions
+
+            
+35
+
+    
+     26-48-101.  Title.
+            
+36
+
+    
+    This chapter is known as the "Toxic Mold Act."
+            
+37
+
+    
+    Section 2.  
+Section  
+26-48-102
+
+ is enacted to read:
+            
+38
+
+    
+     26-48-102.  Definitions.
+            
+39
+
+    
+    As used in this chapter:
+            
+40
+
+    
+    (1)  "Department" means the Department of Health.
+            
+41
+
+    
+    (2) (a)  "Mold" means a form of multicellular fungi that live:
+            
+42
+
+    
+    (i)  on plant or animal matter; and
+            
+43
+
+    
+    (ii)  in indoor environments.
+            
+44
+
+    
+    (b)  "Mold" includes:
+            
+45
+
+    
+    (i)  cladosporium;
+            
+46
+
+    
+    (ii)  penicillium;
+            
+47
+
+    
+    (iii)  alternaria;
+            
+48
+
+    
+    (iv)  aspergillus;
+            
+49
+
+    
+    (v)  fuarium;
+            
+50
+
+    
+    (vi)  trichoderma;
+            
+51
+
+    
+    (vii)  memnoniella;
+            
+52
+
+    
+    (viii)  mucor; and
+            
+53
+
+    
+    (ix)  stachybotrys chartarum.
+            
+54
+
+    
+    Section 3.  
+Section  
+26-48-201
+
+ is enacted to read:
+            
+55
+
+    
+ Part 2.  Department Responsibilities
+
+            
+56
+
+    
+     26-48-201.  Department to provide public information.
+            
+57
+
+    
+    (1)  The department shall prepare information concerning:
+            
+58
+
+    
+    (a)  the health impacts of mold on a person who occupies real property containing mold;
+
+            
+59
+
+
+    
+and
+            
+60
+
+    
+    (b)  recommended practices for a person who owns or occupies real property containing
+            
+61
+
+    
+mold.
+            
+62
+
+    
+    (2)  The department shall use any reasonable means to make the information prepared
+            
+63
+
+    
+under Subsection (1) available and accessible to the public.
+            
+64
+
+    
+    Section 4.  
+Section  
+26-48-202
+
+ is enacted to read:
+            
+65
+
+    
+     26-48-202.  Rulemaking authority.
+            
+66
+
+    
+    In accordance with Title 63, Chapter 46a, Utah Administrative Rulemaking Act, the
+            
+67
+
+    
+department shall make rules establishing minimum standards of mold exposure within real
+            
+68
+
+    
+property for purposes of Section 
+
+57-22-4.2
+
+.
+            
+69
+
+    
+    Section 5.  
+Section  
+57-22-2
+
+ is amended to read:
+            
+70
+
+    
+     57-22-2.  Definitions.
+            
+71
+
+    
+    As used in this chapter:
+            
+72
+
+    
+    (1)  "Mold" is as defined in Section 
+
+26-48-102
+
+.
+            
+73
+
+    
+    [(1)] (2)  "Owner" means the owner, lessor, or sublessor of a residential rental unit.  A
+            
+74
+
+    
+managing agent, leasing agent, or resident manager is considered an owner for purposes of
+            
+75
+
+    
+notice and other communication required or allowed under this chapter unless the agent or
+            
+76
+
+    
+manager specifies otherwise in writing in the rental agreement.
+            
+77
+
+    
+    [(2)] (3)  "Rental agreement" means any agreement, written or oral, which establishes or
+            
+78
+
+    
+modifies the terms, conditions, rules, or any other provisions regarding the use and occupancy
+            
+79
+
+    
+of a residential rental unit.
+            
+80
+
+    
+    [(3)] (4)  "Renter" means any person entitled under a rental agreement to occupy a
+            
+81
+
+    
+residential rental unit to the exclusion of others.
+            
+82
+
+    
+    [(4)] (5)  "Residential rental unit" means a renter's principal place of residence and
+            
+83
+
+    
+includes the appurtenances, grounds, and facilities held out for the use of the residential renter
+            
+84
+
+    
+generally, and any other area or facility provided to the renter in the rental agreement.  It does
+            
+85
+
+    
+not include facilities contained in a boarding or rooming house or similar facility, mobile home
+            
+86
+
+    
+lot, or recreational property rented on an occasional basis.
+            
+87
+
+    
+    Section 6.  
+Section  
+57-22-4.2
+
+ is enacted to read:
+            
+88
+
+    
+     57-22-4.2.  Owner's duties -- Mold -- Civil action.
+            
+89
+
+    
+    (1)  An owner shall comply with Subsection (2) if the owner knows that a residential
+
+            
+90
+
+
+    
+rental unit contains visible or invisible mold exceeding the minimum standards established by
+            
+91
+
+    
+the Department of Health under Section 
+
+26-48-202
+
+.
+            
+92
+
+    
+    (2)  An owner described in Subsection (1) shall provide written notice to:
+            
+93
+
+    
+    (a)  a prospective renter prior to entering into a rental agreement; and
+            
+94
+
+    
+    (b)  a renter within five calendar days after the owner becomes aware of a condition
+            
+95
+
+    
+described in Subsection (1).
+            
+96
+
+    
+    (3)  This section does not require an owner to conduct air or surface tests to determine
+            
+97
+
+    
+whether a rental unit contains visible or invisible mold.
+            
+98
+
+    
+    (4) (a)  A renter may bring an action against an owner for a violation of this section.
+            
+99
+
+    
+    (b)  In an action under Subsection (4)(a), a renter may recover the greater of:
+            
+100
+
+    
+    (i)  actual damages; or
+            
+101
+
+    
+    (ii)  $1,000.
+
+
+
+
+ Legislative Review Note
+    as of   1-30-04  1:56 PM
+
+A limited legal review of this legislation raises no obvious constitutional or statutory concerns.
+
+ Office of Legislative Research and General Counsel
+[Bill Documents][Bills Directory]
+
+
+
+
+
+
+
+
+
+Who represents me?
+
+
+
+
+
+Remember my Legislators
+
+
+
+
+
+State Senate
+		350 North State, Suite 320
+		PO Box 145115
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1035
+		Fax: (801) 326-1475
+
+
+
+House of Representatives
+		350 North State, Suite 350
+		PO Box 145030
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1029
+		Fax: (801) 326-1544
+
+
+
+
+
+
+
+
+
+
+Home
+Mobile Site
+Site Map
+Calendar
+Code / Constitution
+House
+Senate
+
+Terms of Use/Privacy Policy
+
+ADA
+Utah.gov
+
+
+
+
+
+
+

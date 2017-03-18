@@ -1,0 +1,416 @@
+Sponsors: []Modifications:     53A-1-707.(1) (a)  In order to enhance the educational technology initiative programs authorized underthis chapter, there is established a pilot program for the acquisition and refurbishing of donatedcomputers to be used in the state's public schools.(b) (i)  There is appropriated from the Uniform School Fund for fiscal year 1998-99,$500,000 to the State Board of Education for the purpose of acquiring repaired, refurbished, orupgraded donated computers for use in the state's public schools.(ii)  The board may use the appropriation to purchase parts and supplies required to repair,refurbish, or upgrade the donated computers.(c)  This pilot program is established to supplement and not supplant the technologyprograms authorized and funded pursuant to Sections 53A-1-701 and 53A-1-702.(2) (a)  The State Board of Education and the Department of Corrections shall administerthe program as provided under this section.(b)  The board and department may contract or work with nonprofit organizations tocoordinate the overall program, particularly in the areas of obtaining donated computers andpublicizing the program.(c)  Representatives from the board and department shall establish policies for the program,to include:(i)  the selection of schools to receive computers, which schools would pay to the UtahCorrectional Industries $100 per computer to cover the costs incurred under Subsection (4)(c)(ii);(ii)  standards for computers, including warrantees; and(iii)  the solicitation of donated computers from the private sector.(3) (a)  The State Board of Education, through the State Superintendent of PublicInstruction, shall conduct a survey of computer needs in the state's 40 school districts.(b)  The state superintendent shall complete the survey by July 15, 1998.(4) (a)  In conjunction with the survey, the State Board of Education, in collaboration withthe Department of Corrections, shall establish an applied technology training and recyclingprogram to provide inmates with skills to refurbish computers in order to increase the number ofquality computers in the state's public schools.(b)  The training and recycling program shall take place at a state correctional facilitydesignated by the Department of Corrections.(c) (i)  As part of the program, the Utah Correctional Industries shall establish a computerrefurbishing facility in industrial space made available at the designated correctional facility.(ii)  The Utah Correctional Industries is responsible for pickup and delivery of thecomputers and staffing of the refurbishing facility.(d)  An applied technology center or correctional educational program shall supply anelectronics and computer repair curriculum for the program at the correctional facility.(5)  To ensure that inmates at the designated correctional facility do not have unauthorizedaccess to the hardware and software components of the program, the Department of Correctionsand the Utah Correctional Industries shall establish appropriate security policies and procedures.(6)  The State Board of Education and Department of Corrections shall closely monitor thepilot program and present a progress report to the Education Interim Committee prior to the 1999General Session, together with recommendations for continuance, expansion, or termination of theprogram.This act takes effect on July 1, 1998.Full text:
+
+
+
+Utah State Legislature
+
+
+
+
+
+
+
+
+
+
+
+
+Legislators
+
+By Session (1896-Current)
+Alphabetical (Historical)
+Find by Address/Map
+More
+
+
+Bills
+
+Bills/Bill Requests
+Passed Bills
+2017 Bills
+
+Keyword Search
+Reading Calendars
+Tracking Service
+More
+
+
+Committees
+
+All Committees
+Appropriations
+Commissions
+
+Independent Legislative Ethics Commission
+Interim
+Standing
+Subcommittees
+Task Forces
+Bills In Committees
+
+
+Utah Code / Constitution
+
+
+Title/Chapter/Section
+Keyword Search 
+
+Utah Constitution
+Laws of Utah 1851-ongoing
+Utah Territorial Laws 
+More
+
+
+Senate
+
+Main Page 
+About The Senate 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Extraordinary Sessions 
+Reading Calendars 
+Past Floor Debates 
+Senate Journals 
+
+
+House
+
+Main Page
+About the House 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Reading Calendars 
+Past Floor Debates 
+Journals 
+Conflict of Interest Forms 
+
+
+Legislative Guide 
+
+Legislative Guide
+Civic Programs
+GRAMA (Records Requests)
+
+
+Publications
+
+Search Publications
+Appropriations
+Audits
+Bagels & Briefings
+Briefing Papers
+Digest of Legislation
+Legislative Drafting Manual
+
+Journals
+
+Interim Highlights
+
+Legislative Rules
+GRAMA (Records Requests)
+Public Email
+State Organization Charts
+YouTube Channel
+Requests for Proposals and Legal Notices
+More
+
+
+Legislative Histories
+
+Legislative History Resources
+How to Research
+Bill Drafting/Research Files (1990-Ongoing)
+
+Working Bills (1896-1989)
+Interim Committee Histories (1990-Ongoing) 
+Journals
+Past House Floor Debates
+Past Senate Floor Debates
+More
+
+
+Staff Offices
+
+All Legislative Offices
+Auditor General
+Fiscal Analyst
+Printing
+Research and General Counsel
+Staff Awards
+Job Opportunities
+More
+
+
+Links of Interest
+
+Utah Administrative Rules
+Courts
+Utah State Capitol
+State of Utah
+Federal Legislation
+More
+
+
+
+
+
+
+ 
+
+Download Zipped Introduced WP 6.1 HB0007.ZIP 7,587 Bytes
+[Status][Bill Documents][Fiscal Note][Bills Directory]
+
+
+H.B. 7
+
+
+
+
+
+
+
+
+
+1     COMPUTERS FOR PUBLIC SCHOOLS PILOT PROGRAM
+
+
+
+
+2    1998 GENERAL SESSION
+
+
+3    STATE OF UTAH
+
+
+4     Sponsor: Sheryl L. Allen
+
+
+5    Lloyd W. Frandsen
+
+6    Ron  Bigelow
+
+7    Duane  Bourdeaux
+
+8    Judy Ann Buffmire
+Dave  Hogue
+Susan J. Koehn
+Keele  Johnson
+Patricia B. Larson
+Tammy J. Rowan
+Richard M. Siddoway
+A. Lamont Tyler
+Bill  Wright
+
+
+9    AN ACT RELATING TO PUBLIC SCHOOLS; ESTABLISHING A PILOT PROGRAM FOR
+
+10    THE ACQUISITION AND REFURBISHING OF DONATED COMPUTERS TO BE USED
+
+11    IN PUBLIC SCHOOLS; PROVIDING A $500,000 APPROPRIATION; PROVIDING FOR
+
+12    ADMINISTRATION; PROVIDING FOR A REFURBISHING FACILITY TO BE
+
+13    ESTABLISHED AT A STATE CORRECTIONAL FACILITY; PROVIDING FOR
+
+14    SECURITY PROCEDURES; PROVIDING FOR A PROGRESS REPORT; AND
+
+15    PROVIDING AN EFFECTIVE DATE.
+
+16    This act affects sections of Utah Code Annotated 1953 as follows:
+
+17    ENACTS:
+
+18         53A-1-707, Utah Code Annotated 1953
+
+19    Be it enacted by the Legislature of the state of Utah:
+
+20        Section 1.  Section  53A-1-707 is enacted to read:
+
+21         53A-1-707.  Pilot program for acquisition of computers -- Appropriation --
+
+22     Administration of program -- Training and refurbishing facility -- Security procedures.
+
+23        (1) (a)  In order to enhance the educational technology initiative programs authorized under
+
+24    this chapter, there is established a pilot program for the acquisition and refurbishing of donated
+
+25    computers to be used in the state's public schools.
+
+26        (b) (i)  There is appropriated from the Uniform School Fund for fiscal year 1998-99,
+
+27    $500,000 to the State Board of Education for the purpose of acquiring repaired, refurbished, or
+
+28    upgraded donated computers for use in the state's public schools.
+
+
+1        (ii)  The board may use the appropriation to purchase parts and supplies required to repair,
+
+2    refurbish, or upgrade the donated computers.
+
+3        (c)  This pilot program is established to supplement and not supplant the technology
+
+4    programs authorized and funded pursuant to Sections 53A-1-701 and 53A-1-702.
+
+5        (2) (a)  The State Board of Education and the Department of Corrections shall administer
+
+6    the program as provided under this section.
+
+7        (b)  The board and department may contract or work with nonprofit organizations to
+
+8    coordinate the overall program, particularly in the areas of obtaining donated computers and
+
+9    publicizing the program.
+
+10        (c)  Representatives from the board and department shall establish policies for the program,
+
+11    to include:
+
+12        (i)  the selection of schools to receive computers, which schools would pay to the Utah
+
+13    Correctional Industries $100 per computer to cover the costs incurred under Subsection (4)(c)(ii);
+
+14        (ii)  standards for computers, including warrantees; and
+
+15        (iii)  the solicitation of donated computers from the private sector.
+
+16        (3) (a)  The State Board of Education, through the State Superintendent of Public
+
+17    Instruction, shall conduct a survey of computer needs in the state's 40 school districts.
+
+18        (b)  The state superintendent shall complete the survey by July 15, 1998.
+
+19        (4) (a)  In conjunction with the survey, the State Board of Education, in collaboration with
+
+20    the Department of Corrections, shall establish an applied technology training and recycling
+
+21    program to provide inmates with skills to refurbish computers in order to increase the number of
+
+22    quality computers in the state's public schools.
+
+23        (b)  The training and recycling program shall take place at a state correctional facility
+
+24    designated by the Department of Corrections.
+
+25        (c) (i)  As part of the program, the Utah Correctional Industries shall establish a computer
+
+26    refurbishing facility in industrial space made available at the designated correctional facility.
+
+27        (ii)  The Utah Correctional Industries is responsible for pickup and delivery of the
+
+28    computers and staffing of the refurbishing facility.
+
+29        (d)  An applied technology center or correctional educational program shall supply an
+
+30    electronics and computer repair curriculum for the program at the correctional facility.
+
+31        (5)  To ensure that inmates at the designated correctional facility do not have unauthorized
+
+- 2 -
+
+
+1    access to the hardware and software components of the program, the Department of Corrections
+
+2    and the Utah Correctional Industries shall establish appropriate security policies and procedures.
+
+3        (6)  The State Board of Education and Department of Corrections shall closely monitor the
+
+4    pilot program and present a progress report to the Education Interim Committee prior to the 1999
+
+5    General Session, together with recommendations for continuance, expansion, or termination of the
+
+6    program.
+
+7        Section 2.   Effective date.
+
+8        This act takes effect on July 1, 1998.
+
+
+
+
+ Legislative Review Note
+    as of  11-20-97  1:16 PM
+
+
+A limited legal review of this bill raises no obvious constitutional or statutory concerns.
+
+ Office of Legislative Research and General Counsel
+
+
+ Committee Note
+
+
+The Education Interim Committee recommended this bill.
+
+- 3 -
+[Bill Documents][Bills Directory]
+
+
+
+
+
+
+
+
+
+Who represents me?
+
+
+
+
+
+Remember my Legislators
+
+
+
+
+
+State Senate
+		350 North State, Suite 320
+		PO Box 145115
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1035
+		Fax: (801) 326-1475
+
+
+
+House of Representatives
+		350 North State, Suite 350
+		PO Box 145030
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1029
+		Fax: (801) 326-1544
+
+
+
+
+
+
+
+
+
+
+Home
+Mobile Site
+Site Map
+Calendar
+Code / Constitution
+House
+Senate
+
+Terms of Use/Privacy Policy
+
+ADA
+Utah.gov
+
+
+
+
+
+
+

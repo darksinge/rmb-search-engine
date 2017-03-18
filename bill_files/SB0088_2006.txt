@@ -1,0 +1,770 @@
+Sponsors: []Modifications: (3) (a)  Notwithstanding the provisions of Subsection (1)(b), the division or its designeemay disclose portions of a driving record, in accordance with this Subsection (3), to an insureras defined under Section 
+
+31A-1-301
+
+, or a designee of an insurer, for purposes of assessingdriving risk on the insurer's current motor vehicle insurance policyholders.(b)  The disclosure under Subsection (3)(a) shall:(i)  include the licensed driver's name, driver license number, date of birth, and anindication of whether the driver has had a moving traffic violation that is a reportable violation,as defined under Section 
+
+53-3-102
+
+ during the previous month;(ii)  be limited to the records of drivers who, at the time of the disclosure, are coveredunder a motor vehicle insurance policy of the insurer; and(iii)  be made under a contract with the insurer or a designee of an insurer.(c)  The contract under Subsection (3)(b)(iii) shall specify:(i)  the criteria for searching and compiling the driving records being requested;(ii)  the frequency of the disclosures;(iii)  the format of the disclosures, which may be in bulk electronic form; and(iv)  a reasonable charge for the driving record disclosures under Subsection (3).(4)(5)(6)(6)(7); and(f)  the procedures, requirements, and formats necessary for the implementation ofSubsection (3).Full text:
+
+
+
+Utah State Legislature
+
+
+
+
+
+
+
+
+
+
+
+
+Legislators
+
+By Session (1896-Current)
+Alphabetical (Historical)
+Find by Address/Map
+More
+
+
+Bills
+
+Bills/Bill Requests
+Passed Bills
+2017 Bills
+
+Keyword Search
+Reading Calendars
+Tracking Service
+More
+
+
+Committees
+
+All Committees
+Appropriations
+Commissions
+
+Independent Legislative Ethics Commission
+Interim
+Standing
+Subcommittees
+Task Forces
+Bills In Committees
+
+
+Utah Code / Constitution
+
+
+Title/Chapter/Section
+Keyword Search 
+
+Utah Constitution
+Laws of Utah 1851-ongoing
+Utah Territorial Laws 
+More
+
+
+Senate
+
+Main Page 
+About The Senate 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Extraordinary Sessions 
+Reading Calendars 
+Past Floor Debates 
+Senate Journals 
+
+
+House
+
+Main Page
+About the House 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Reading Calendars 
+Past Floor Debates 
+Journals 
+Conflict of Interest Forms 
+
+
+Legislative Guide 
+
+Legislative Guide
+Civic Programs
+GRAMA (Records Requests)
+
+
+Publications
+
+Search Publications
+Appropriations
+Audits
+Bagels & Briefings
+Briefing Papers
+Digest of Legislation
+Legislative Drafting Manual
+
+Journals
+
+Interim Highlights
+
+Legislative Rules
+GRAMA (Records Requests)
+Public Email
+State Organization Charts
+YouTube Channel
+Requests for Proposals and Legal Notices
+More
+
+
+Legislative Histories
+
+Legislative History Resources
+How to Research
+Bill Drafting/Research Files (1990-Ongoing)
+
+Working Bills (1896-1989)
+Interim Committee Histories (1990-Ongoing) 
+Journals
+Past House Floor Debates
+Past Senate Floor Debates
+More
+
+
+Staff Offices
+
+All Legislative Offices
+Auditor General
+Fiscal Analyst
+Printing
+Research and General Counsel
+Staff Awards
+Job Opportunities
+More
+
+
+Links of Interest
+
+Utah Administrative Rules
+Courts
+Utah State Capitol
+State of Utah
+Federal Legislation
+More
+
+
+
+
+
+
+ 
+
+Download Zipped Enrolled WordPerfect SB0088.ZIP
+[Introduced][Status][Bill Documents][Fiscal Note][Bills Directory]
+
+
+S.B. 88 Enrolled
+
+
+
+
+
+            
+1
+
+    
+ DISCLOSURE OF DRIVER LICENSE
+
+            
+2
+
+    
+ RECORDS
+
+
+
+            
+3
+
+    
+2006 GENERAL SESSION
+
+            
+4
+
+    
+STATE OF UTAH
+
+            
+5
+
+    
+
+
+ Chief Sponsor:  Mark B. Madsen
+
+
+
+            
+6
+
+    
+
+
+
+House Sponsor:  
+
+
+
+
+
+
+Fred R. Hunsaker
+
+
+
+
+
+            
+7
+
+    
+
+            
+8
+
+    
+ LONG TITLE
+            
+9
+
+    
+ General Description:
+            
+10
+
+    
+    This bill modifies the Uniform Driver License Act to amend disclosure of driving
+            
+11
+
+    
+record provisions.
+            
+12
+
+    
+ Highlighted Provisions:
+            
+13
+
+    
+    This bill:
+            
+14
+
+    
+    .    allows the Driver License Division to disclose portions of a driving record to an
+            
+15
+
+    
+insurer or a designee of an insurer for purposes of assessing the driving risk of
+            
+16
+
+    
+drivers covered by the insurer;
+            
+17
+
+    
+    .    requires the disclosure to include certain information to identify drivers with 
+            
+18
+
+    
+reportable moving traffic violations which resulted from the operation of a motor
+            
+19
+
+    
+vehicle;
+            
+20
+
+    
+    .    requires the disclosure to be made under a contract with the insurer or its designee
+            
+21
+
+    
+that specifies the criteria for searching and compiling the driving records being
+            
+22
+
+    
+requested, the frequency of the disclosures, and the format of the disclosures, which
+            
+23
+
+    
+may be in bulk electronic form;
+            
+24
+
+    
+    .    requires the contract to include a reasonable charge for the driving record
+            
+25
+
+    
+disclosures; and
+            
+26
+
+    
+    .    makes technical changes.
+            
+27
+
+    
+ Monies Appropriated in this Bill:
+            
+28
+
+    
+    None
+            
+29
+
+    
+ Other Special Clauses:
+
+            
+30
+
+
+    
+    None
+            
+31
+
+    
+ Utah Code Sections Affected:
+            
+32
+
+    
+AMENDS:
+            
+33
+
+    
+     53-3-109, as last amended by Chapters 161 and 332, Laws of Utah 2004
+            
+34
+
+    
+
+            
+35
+
+    
+Be it enacted by the Legislature of the state of Utah:
+            
+36
+
+    
+    Section 1.  
+Section  
+53-3-109
+
+ is amended to read:
+            
+37
+
+    
+     53-3-109.  Records -- Access -- Fees -- Rulemaking.
+            
+38
+
+    
+    (1) (a)  Except as provided in this section, all records of the division shall be classified
+            
+39
+
+    
+and disclosed in accordance with Title 63, Chapter 2, Government Records Access and
+            
+40
+
+    
+Management Act.
+            
+41
+
+    
+    (b)  The division may only disclose personal identifying information:
+            
+42
+
+    
+    (i)  when the division determines it is in the interest of the public safety to disclose the
+            
+43
+
+    
+information; and
+            
+44
+
+    
+    (ii)  in accordance with the federal Driver's Privacy Protection Act of 1994, 18 U.S.C.
+            
+45
+
+    
+Chapter 123.
+            
+46
+
+    
+    (c)  The division may disclose personal identifying information to a licensed private
+            
+47
+
+    
+investigator holding a valid agency or registrant license, with a legitimate business need.
+            
+48
+
+    
+    (2)  A person who receives personal identifying information shall be advised by the
+            
+49
+
+    
+division that the person may not:
+            
+50
+
+    
+    (a)  disclose the personal identifying information from that record to any other person;
+            
+51
+
+    
+or
+            
+52
+
+    
+    (b)  use the personal identifying information from that record for advertising or
+            
+53
+
+    
+solicitation purposes.
+            
+54
+
+    
+    (3) (a)  Notwithstanding the provisions of Subsection (1)(b), the division or its designee
+            
+55
+
+    
+may disclose portions of a driving record, in accordance with this Subsection (3), to an insurer
+            
+56
+
+    
+as defined under Section 
+
+31A-1-301
+
+, or a designee of an insurer, for purposes of assessing
+            
+57
+
+    
+driving risk on the insurer's current motor vehicle insurance policyholders.
+
+            
+58
+
+
+    
+    (b)  The disclosure under Subsection (3)(a) shall:
+            
+59
+
+    
+    (i)  include the licensed driver's name, driver license number, date of birth, and an
+            
+60
+
+    
+indication of whether the driver has had a moving traffic violation that is a reportable violation,
+            
+61
+
+    
+as defined under Section 
+
+53-3-102
+
+ during the previous month;
+            
+62
+
+    
+    (ii)  be limited to the records of drivers who, at the time of the disclosure, are covered
+            
+63
+
+    
+under a motor vehicle insurance policy of the insurer; and
+            
+64
+
+    
+    (iii)  be made under a contract with the insurer or a designee of an insurer.
+            
+65
+
+    
+    (c)  The contract under Subsection (3)(b)(iii) shall specify:
+            
+66
+
+    
+    (i)  the criteria for searching and compiling the driving records being requested;
+            
+67
+
+    
+    (ii)  the frequency of the disclosures;
+            
+68
+
+    
+    (iii)  the format of the disclosures, which may be in bulk electronic form; and
+            
+69
+
+    
+    (iv)  a reasonable charge for the driving record disclosures under Subsection (3).
+            
+70
+
+    
+    [(3)] (4)  The division may:
+            
+71
+
+    
+    (a)  collect fees in accordance with Section 
+
+53-3-105
+
+ for searching and compiling its
+            
+72
+
+    
+files or furnishing a report on the driving record of a person; and
+            
+73
+
+    
+    (b)  prepare under the seal of the division and deliver upon request, a certified copy of
+            
+74
+
+    
+any record of the division, and charge a fee under Section 
+
+63-38-3.2
+
+ for each document
+            
+75
+
+    
+authenticated.
+            
+76
+
+    
+    [(4)] (5)  Each certified copy of a driving record furnished in accordance with this
+            
+77
+
+    
+section is admissible in any court proceeding in the same manner as the original.
+            
+78
+
+    
+    [(5)] (6) (a)  A driving record furnished under this section may only report on the
+            
+79
+
+    
+driving record of a person for a period of ten years.
+            
+80
+
+    
+    (b)  Subsection [(5)] (6)(a) does not apply to court or law enforcement reports and to
+            
+81
+
+    
+reports of commercial driver license violations.
+            
+82
+
+    
+    [(6)] (7)  In accordance with Title 63, Chapter 46a, Utah Administrative Rulemaking
+            
+83
+
+    
+Act, the division may make rules to designate:
+            
+84
+
+    
+    (a)  what information shall be included in a report on the driving record of a person;
+            
+85
+
+    
+    (b)  the form of a report or copy of the report which may include electronic format;
+
+            
+86
+
+
+    
+    (c)  the form of a certified copy, as required under Section 
+
+53-3-216
+
+, which may include
+            
+87
+
+    
+electronic format;
+            
+88
+
+    
+    (d)  the form of a signature required under this chapter which may include electronic
+            
+89
+
+    
+format; [and]
+            
+90
+
+    
+    (e)  the form of written request to the division required under this chapter which may
+            
+91
+
+    
+include electronic format[.]; and
+            
+92
+
+    
+    (f)  the procedures, requirements, and formats necessary for the implementation of
+            
+93
+
+    
+Subsection (3).
+[Bill Documents][Bills Directory]
+
+
+
+
+
+
+
+
+
+Who represents me?
+
+
+
+
+
+Remember my Legislators
+
+
+
+
+
+State Senate
+		350 North State, Suite 320
+		PO Box 145115
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1035
+		Fax: (801) 326-1475
+
+
+
+House of Representatives
+		350 North State, Suite 350
+		PO Box 145030
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1029
+		Fax: (801) 326-1544
+
+
+
+
+
+
+
+
+
+
+Home
+Mobile Site
+Site Map
+Calendar
+Code / Constitution
+House
+Senate
+
+Terms of Use/Privacy Policy
+
+ADA
+Utah.gov
+
+
+
+
+
+
+

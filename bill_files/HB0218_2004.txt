@@ -1,0 +1,782 @@
+Sponsors: []Modifications: all treatmentand prescription drugs related to, or any specific or class ofprescription drugs; and(iii)  may offer an individual policy that may establish separate cost sharingrequirements including, deductibles and maximum limits that are specific to covered servicesand supplies, including specific drugs, when utilized for the treatment and care of theconditions listed in Subsection (6)(b).The following mayexcept when a mastectomy has been performed or the condition is due to cancer:(A)  conditions of the bones or joints of the ankle, arm, elbow, foot, hand, hip, knee,leg, wrist, shoulder, spine, and toes, including bone spurs, bunions, carpal tunnel syndrome,club foot, hammertoe, syndactylism, and treatment and prosthetic devices related toamputation;(B)  anal fistula, breast implants, breast reduction, cystocele, enuresos, hemorrhoids,hydrocele, hyospadius, uterine leiomyoma, variocele, spermatocele, endometriosis;(C)  cleft lip, cleft palate, deviated nasal septum, and other sinus related conditions;(D)  goiter and other thyroid related conditions, hemangioma, hernia, keloids,migraines, scar revisions, varicose veins, abdominoplasty;(E)  cataracts, cornia transplant, detached retina, glaucoma, keratoconus, maculardegeneration, strabismus;(F)  Baker cyst;(G)  allergies; and(H)  any specific or class of prescription drugs.Full text:
+
+
+
+Utah State Legislature
+
+
+
+
+
+
+
+
+
+
+
+
+Legislators
+
+By Session (1896-Current)
+Alphabetical (Historical)
+Find by Address/Map
+More
+
+
+Bills
+
+Bills/Bill Requests
+Passed Bills
+2017 Bills
+
+Keyword Search
+Reading Calendars
+Tracking Service
+More
+
+
+Committees
+
+All Committees
+Appropriations
+Commissions
+
+Independent Legislative Ethics Commission
+Interim
+Standing
+Subcommittees
+Task Forces
+Bills In Committees
+
+
+Utah Code / Constitution
+
+
+Title/Chapter/Section
+Keyword Search 
+
+Utah Constitution
+Laws of Utah 1851-ongoing
+Utah Territorial Laws 
+More
+
+
+Senate
+
+Main Page 
+About The Senate 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Extraordinary Sessions 
+Reading Calendars 
+Past Floor Debates 
+Senate Journals 
+
+
+House
+
+Main Page
+About the House 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Reading Calendars 
+Past Floor Debates 
+Journals 
+Conflict of Interest Forms 
+
+
+Legislative Guide 
+
+Legislative Guide
+Civic Programs
+GRAMA (Records Requests)
+
+
+Publications
+
+Search Publications
+Appropriations
+Audits
+Bagels & Briefings
+Briefing Papers
+Digest of Legislation
+Legislative Drafting Manual
+
+Journals
+
+Interim Highlights
+
+Legislative Rules
+GRAMA (Records Requests)
+Public Email
+State Organization Charts
+YouTube Channel
+Requests for Proposals and Legal Notices
+More
+
+
+Legislative Histories
+
+Legislative History Resources
+How to Research
+Bill Drafting/Research Files (1990-Ongoing)
+
+Working Bills (1896-1989)
+Interim Committee Histories (1990-Ongoing) 
+Journals
+Past House Floor Debates
+Past Senate Floor Debates
+More
+
+
+Staff Offices
+
+All Legislative Offices
+Auditor General
+Fiscal Analyst
+Printing
+Research and General Counsel
+Staff Awards
+Job Opportunities
+More
+
+
+Links of Interest
+
+Utah Administrative Rules
+Courts
+Utah State Capitol
+State of Utah
+Federal Legislation
+More
+
+
+
+
+
+
+ 
+
+Download Zipped Introduced WordPerfect HB0218.ZIP
+[Status][Bill Documents][Fiscal Note][Bills Directory]
+
+
+H.B. 218
+
+
+
+
+
+            
+1
+
+    
+ PRIVATE HEALTH INSURANCE - WAIVER
+
+            
+2
+
+    
+ OF HEALTH CONDITION
+
+
+
+            
+3
+
+    
+2004 GENERAL SESSION
+
+            
+4
+
+    
+STATE OF UTAH
+
+            
+5
+
+    
+
+
+ Sponsor: Chad E. Bennion
+
+
+
+            
+6
+
+    
+
+            
+7
+
+    
+ LONG TITLE
+            
+8
+
+    
+ General Description:
+            
+9
+
+    
+    This bill amends the Individual, Small Employer Group Health Insurance Act to create
+            
+10
+
+    
+condition-specific exclusion riders.
+            
+11
+
+    
+ Highlighted Provisions:
+            
+12
+
+    
+    This bill:
+            
+13
+
+    
+    .    takes away the commissioner's rulemaking authority to designate the health
+            
+14
+
+    
+conditions that may be excluded from health insurance coverage;
+            
+15
+
+    
+    .    establishes in statute the specific health conditions that  may be excluded from
+            
+16
+
+    
+health insurance coverage;
+            
+17
+
+    
+    .    expands what is excluded from coverage by excluding treatment and prescription
+            
+18
+
+    
+drugs related to that specific condition; and
+            
+19
+
+    
+    .    provides that conditions related to cancer or a mastectomy may not be excluded
+            
+20
+
+    
+from coverage.
+            
+21
+
+    
+ Monies Appropriated in this Bill:
+            
+22
+
+    
+    None
+            
+23
+
+    
+ Other Special Clauses:
+            
+24
+
+    
+    None
+            
+25
+
+    
+ Utah Code Sections Affected:
+            
+26
+
+    
+AMENDS:
+            
+27
+
+    
+     31A-30-107.5, as last amended by Chapter 252, Laws of Utah 2003
+
+            
+28
+
+
+    
+
+            
+29
+
+    
+Be it enacted by the Legislature of the state of Utah:
+            
+30
+
+    
+    Section 1.  
+Section  
+31A-30-107.5
+
+ is amended to read:
+            
+31
+
+    
+     31A-30-107.5.  Limitations and exclusions.
+            
+32
+
+    
+    (1)  A health benefit plan may impose a preexisting condition exclusion only if:
+            
+33
+
+    
+    (a)  the exclusion relates to a condition, regardless of the cause of the condition, for
+            
+34
+
+    
+which medical advise, diagnosis, care, or treatment was recommended or received within the
+            
+35
+
+    
+six-month period ending on the enrollment date;
+            
+36
+
+    
+    (b)  the exclusion extends for a period of:
+            
+37
+
+    
+    (i)  not more than 12 months after the enrollment date; or
+            
+38
+
+    
+    (ii)  in the case of a late enrollee, 18 months after the enrollment date; and
+            
+39
+
+    
+    (c)  the period described in Subsection (1)(b) is reduced by the aggregate of the periods
+            
+40
+
+    
+of creditable coverage applicable to the participant or beneficiary as of the enrollment date.
+            
+41
+
+    
+    (2)  Creditable coverage shall be provided for the period of time the individual was
+            
+42
+
+    
+previously covered by:
+            
+43
+
+    
+    (a)  public or private health insurance; or
+            
+44
+
+    
+    (b)  any other group health plan as defined in 42 U.S.C. Section 300gg-91.
+            
+45
+
+    
+    (3) (a)  The period of continuous coverage under Subsection (1)(c) may not include any
+            
+46
+
+    
+waiting period for the effective date of the new coverage applied by the employer or the carrier.
+            
+47
+
+    
+    (b)  This Subsection (3) does not preclude application of any waiting period applicable
+            
+48
+
+    
+to all new enrollees under the plan.
+            
+49
+
+    
+    (4) (a)  Credit for previous coverage as provided under Subsection (1)(c) need not be
+            
+50
+
+    
+given for any condition that was previously excluded under a condition-specific exclusion rider
+            
+51
+
+    
+issued pursuant to Subsection (6).
+            
+52
+
+    
+    (b)  A new preexisting waiting period may be applied to any condition that was
+            
+53
+
+    
+excluded by a rider under the terms of previous individual coverage.
+            
+54
+
+    
+    (5) (a)  For purposes of Subsection (1)(c), a period of creditable coverage may not be
+            
+55
+
+    
+counted with respect to enrollment of an individual under a health benefit plan, if:
+            
+56
+
+    
+    (i)  after the period and before the enrollment date, there was a 63-day period during all
+            
+57
+
+    
+of which the individual was not covered under any creditable coverage; or
+            
+58
+
+    
+    (ii)  the insured fails to provide notification of previous coverage to the covered carrier
+
+            
+59
+
+
+    
+within 36 months of the coverage effective date if the covered carrier has previously requested
+            
+60
+
+    
+the notification.
+            
+61
+
+    
+    (b) (i)  Credit for previous coverage as provided under Subsection (1)(c) need not be
+            
+62
+
+    
+given for any condition that was previously excluded in compliance with Subsection (6).
+            
+63
+
+    
+    (ii)  A new preexisting waiting period may be applied to any condition that was
+            
+64
+
+    
+excluded under the terms of previous individual coverage.
+            
+65
+
+    
+    (6) (a)  An individual carrier:
+            
+66
+
+    
+    (i)  shall offer a health benefit plan in compliance with Subsection (1); [and]
+            
+67
+
+    
+    (ii)  may, when the individual carrier and the insured mutually agree in writing to a
+            
+68
+
+    
+condition-specific exclusion rider, offer to issue an individual policy that excludes all treatment
+            
+69
+
+    
+and prescription drugs related to a specific physical condition, or any specific or class of
+            
+70
+
+    
+prescription drugs consistent with Subsection (6)(b)[.]; and
+            
+71
+
+    
+    (iii)  may offer an individual policy that may establish separate cost sharing
+            
+72
+
+    
+requirements including, deductibles and maximum limits that are specific to covered services
+            
+73
+
+    
+and supplies, including specific drugs, when utilized for the treatment and care of the
+            
+74
+
+    
+conditions listed in Subsection (6)(b).
+            
+75
+
+    
+    (b) (i)  [The commissioner shall establish by rule a list of life threatening physical
+            
+76
+
+    
+conditions that may] The following may not be the subject of a condition-specific exclusion
+            
+77
+
+    
+rider[.] except when a mastectomy has been performed or the condition is due to cancer:
+            
+78
+
+    
+    (A)  conditions of the bones or joints of the ankle, arm, elbow, foot, hand, hip, knee,
+            
+79
+
+    
+leg, wrist, shoulder, spine, and toes, including bone spurs, bunions, carpal tunnel syndrome,
+            
+80
+
+    
+club foot, hammertoe, syndactylism, and treatment and prosthetic devices related to
+            
+81
+
+    
+amputation;
+            
+82
+
+    
+    (B)  anal fistula, breast implants, breast reduction, cystocele, enuresos, hemorrhoids,
+            
+83
+
+    
+hydrocele, hyospadius, uterine leiomyoma, variocele, spermatocele, endometriosis;
+            
+84
+
+    
+    (C)  cleft lip, cleft palate, deviated nasal septum, and other sinus related conditions;
+            
+85
+
+    
+    (D)  goiter and other thyroid related conditions, hemangioma, hernia, keloids,
+            
+86
+
+    
+migraines, scar revisions, varicose veins, abdominoplasty;
+            
+87
+
+    
+    (E)  cataracts, cornia transplant, detached retina, glaucoma, keratoconus, macular
+            
+88
+
+    
+degeneration, strabismus;
+            
+89
+
+    
+    (F)  Baker cyst;
+
+            
+90
+
+
+    
+    (G)  allergies; and
+            
+91
+
+    
+    (H)  any specific or class of prescription drugs.
+            
+92
+
+    
+    (ii)  A condition-specific exclusion rider:
+            
+93
+
+    
+    (A)  shall be limited to the excluded condition; and
+            
+94
+
+    
+    (B)  may not extend to any secondary medical condition that may or may not be directly
+            
+95
+
+    
+related to the excluded condition.
+            
+96
+
+    
+    (7)  Notwithstanding the other provisions of this section, a health benefit plan may
+            
+97
+
+    
+impose a limitation period if:
+            
+98
+
+    
+    (a)  each policy that imposes a limitation period under the health benefit plan specifies
+            
+99
+
+    
+the physical condition that is excluded from coverage during the limitation period;
+            
+100
+
+    
+    (b)  the limitation period does not exceed 12 months;
+            
+101
+
+    
+    (c)  the limitation period is applied uniformly; and
+            
+102
+
+    
+    (d)  the limitation period is reduced in compliance with Subsection (1)(c).
+
+
+
+
+ Legislative Review Note
+    as of   1-19-04  8:59 AM
+
+A limited legal review of this legislation raises no obvious constitutional or statutory concerns.
+
+ Office of Legislative Research and General Counsel
+[Bill Documents][Bills Directory]
+
+
+
+
+
+
+
+
+
+Who represents me?
+
+
+
+
+
+Remember my Legislators
+
+
+
+
+
+State Senate
+		350 North State, Suite 320
+		PO Box 145115
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1035
+		Fax: (801) 326-1475
+
+
+
+House of Representatives
+		350 North State, Suite 350
+		PO Box 145030
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1029
+		Fax: (801) 326-1544
+
+
+
+
+
+
+
+
+
+
+Home
+Mobile Site
+Site Map
+Calendar
+Code / Constitution
+House
+Senate
+
+Terms of Use/Privacy Policy
+
+ADA
+Utah.gov
+
+
+
+
+
+
+

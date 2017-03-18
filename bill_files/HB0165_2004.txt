@@ -1,0 +1,1365 @@
+Sponsors: []Modifications:     13-39-101.This chapter is known as the "Child Protection Registry."    13-39-102.As used in this chapter:(1)  "Contact point" means an electronic identification to which a communication maybe sent, including:(a)  an email address;(b)  an instant message identity, subject to rules made by the division under Subsection
+
+13-39-203
+
+(1);(c)  a telephone number;(d)  a facsimile number; or(e)  an electronic address:(i)  similar to a contact point listed in this Subsection (1); and(ii)  defined as a contact point by rule made by the division under Subsection
+
+13-39-203
+
+(1).(2)  "Division" means the Division of Consumer Protection in the Department ofCommerce.(3)  "Registry" means the child protection registry established in Section 
+
+13-39-201
+
+.    13-39-201.(1)  The division shall:(a)  establish and operate a child protection registry to compile and secure a list ofcontact points the division has received pursuant to this section; or(b)  contract with a third party to establish and secure the registry described inSubsection (1)(a).(2) (a)  A person may register a contact point with the division pursuant to rulesestablished by the division under Subsection 
+
+13-39-203
+
+(1) if:(i)  the contact point belongs to a minor; or(ii)  a minor has access to the contact point.(b)  A school or other institution that primarily serves minors may register its domainname with the division pursuant to rules made by the division under Subsection 
+
+13-39-203
+
+(1).(3)  A person desiring to send a communication described in Subsection 
+
+13-39-202
+
+(1)to a contact point or domain shall:(a)  use a mechanism established by rule made by the division under Subsection
+
+13-39-203
+
+(2); and(b)  pay a fee for use of the mechanism described in Subsection (3)(a) determined bythe division in accordance with Section 
+
+63-38-3.2
+
+.    13-39-202.(1)  A person may not directly or indirectly send, cause to be sent, or conspire with athird party to send, a communication to a contact point or domain that has been registered formore than 30 calendar days with the division under Section 
+
+13-39-201
+
+ if the communication:(a)  advertises a product or service that a minor is prohibited by law from purchasing; or(b)  contains or advertises material that is harmful to minors, as defined in Section
+
+76-10-1201
+
+.(2)  The consent of a minor is not a defense to a violation of this section.    13-39-203.In accordance with Title 63, Chapter 46a, Utah Administrative Rulemaking Act, thedivision shall make rules to establish procedures under which:(1) (a)  a person may register a contact point with the division under Section 
+
+13-39-201
+
+,including:(i)  the information necessary to register an instant message identity; and(ii)  for purposes of Subsection 
+
+13-39-102
+
+(1)(e), an electronic address that is similar toa contact point listed in Subsection 
+
+13-39-102
+
+(1); and(b)  a school or other institution that primarily serves minors may register its domainname with the division under Section 
+
+13-39-201
+
+; and(2)  the division shall:(a)  provide a mechanism under which a person described in Subsection 
+
+13-39-201
+
+(3)may verify compliance with the registry to remove registered contact points from the person'scommunications; and(b)  establish the mechanism described in Subsection (2)(a) in a manner that protectsthe privacy and security of a contact point registered with the division under Section
+
+13-39-201
+
+.    13-39-301.(1)  A person who violates Section 
+
+13-39-202
+
+ commits a computer crime and:(a)  is guilty of a class B misdemeanor for a first offense with respect to a contact pointregistered with the division under Subsection 
+
+13-39-201
+
+(2)(a); and(b)  is guilty of a class A misdemeanor:(i)  for each subsequent violation with respect to a contact point registered with thedivision under Subsection 
+
+13-39-201
+
+(2)(a); or(ii)  for each violation with respect to a domain name registered with the division underSubsection 
+
+13-39-201
+
+(2)(b).(2)  A person commits a computer crime and is guilty of a second degree felony if theperson:(a)  uses information obtained from the division under this chapter to violate Section
+
+13-39-202
+
+;(b)  improperly:(i)  obtains contact points from the registry; or(ii)  attempts to obtain contact points from the registry; or(c)  uses, or transfers to a third party to use, information from the registry to send asolicitation.(3)  A criminal conviction or penalty under this section does not relieve a person fromcivil liability in an action under Section 
+
+13-39-302
+
+.(4)  Each communication sent in violation of Section 
+
+13-39-202
+
+ is a separate offenseunder this section.    13-39-302.(1)  For a violation of Section 
+
+13-39-202
+
+, an action may be brought by:(a)  a user of a contact point or domain name registered with the division under Section
+
+13-39-201
+
+; or(b)  a legal guardian of a user described in Subsection (1)(a).(2)  In each action under Subsection (1):(a)  a person described in Subsection (1) may recover the greater of:(i)  actual damages; or(ii)  $1,000 for each communication sent in violation of Section 
+
+13-39-202
+
+; and(b)  the prevailing party shall be awarded costs and reasonable attorney fees.    13-39-303.(1)  The division shall:(a)  investigate violations of this chapter; and(b)  assess cease and desist orders and administrative fines under this section forviolations of this chapter.(2)  A person who violates this chapter is subject to:(a)  a cease and desist order; and(b)  an administrative fine of not more than $2,500 for each separate communicationsent in violation of Section 
+
+13-39-202
+
+.(3) (a)  A person who intentionally violates this chapter is subject to an administrativefine of not more than $5,000 for each communication intentionally sent in violation of Section
+
+13-39-202
+
+.(b)  For purposes of this section, a person intentionally violates this chapter if theviolation occurs after the division, attorney general, or a district or county attorney notifies theperson by certified mail that the person is in violation of this chapter.(4)  All administrative fines collected under this section shall be deposited in theConsumer Protection Education and Training Fund created in Section 
+
+13-2-8
+
+.    13-39-304.It is a defense to an action brought under this chapter that a person:(1)  reasonably relied on the mechanism established by the division under Subsection
+
+13-39-203
+
+(2); and(2)  took reasonable measures to comply with this chapter.Full text:
+
+
+
+Utah State Legislature
+
+
+
+
+
+
+
+
+
+
+
+
+Legislators
+
+By Session (1896-Current)
+Alphabetical (Historical)
+Find by Address/Map
+More
+
+
+Bills
+
+Bills/Bill Requests
+Passed Bills
+2017 Bills
+
+Keyword Search
+Reading Calendars
+Tracking Service
+More
+
+
+Committees
+
+All Committees
+Appropriations
+Commissions
+
+Independent Legislative Ethics Commission
+Interim
+Standing
+Subcommittees
+Task Forces
+Bills In Committees
+
+
+Utah Code / Constitution
+
+
+Title/Chapter/Section
+Keyword Search 
+
+Utah Constitution
+Laws of Utah 1851-ongoing
+Utah Territorial Laws 
+More
+
+
+Senate
+
+Main Page 
+About The Senate 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Extraordinary Sessions 
+Reading Calendars 
+Past Floor Debates 
+Senate Journals 
+
+
+House
+
+Main Page
+About the House 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Reading Calendars 
+Past Floor Debates 
+Journals 
+Conflict of Interest Forms 
+
+
+Legislative Guide 
+
+Legislative Guide
+Civic Programs
+GRAMA (Records Requests)
+
+
+Publications
+
+Search Publications
+Appropriations
+Audits
+Bagels & Briefings
+Briefing Papers
+Digest of Legislation
+Legislative Drafting Manual
+
+Journals
+
+Interim Highlights
+
+Legislative Rules
+GRAMA (Records Requests)
+Public Email
+State Organization Charts
+YouTube Channel
+Requests for Proposals and Legal Notices
+More
+
+
+Legislative Histories
+
+Legislative History Resources
+How to Research
+Bill Drafting/Research Files (1990-Ongoing)
+
+Working Bills (1896-1989)
+Interim Committee Histories (1990-Ongoing) 
+Journals
+Past House Floor Debates
+Past Senate Floor Debates
+More
+
+
+Staff Offices
+
+All Legislative Offices
+Auditor General
+Fiscal Analyst
+Printing
+Research and General Counsel
+Staff Awards
+Job Opportunities
+More
+
+
+Links of Interest
+
+Utah Administrative Rules
+Courts
+Utah State Capitol
+State of Utah
+Federal Legislation
+More
+
+
+
+
+
+
+ 
+
+Download Zipped Introduced WordPerfect HB0165.ZIP
+[Status][Bill Documents][Fiscal Note][Bills Directory]
+
+
+H.B. 165
+
+
+
+
+
+            
+1
+
+    
+ CHILD PROTECTION REGISTRY
+
+
+
+            
+2
+
+    
+2004 GENERAL SESSION
+
+            
+3
+
+    
+STATE OF UTAH
+
+            
+4
+
+    
+
+
+ Sponsor: Michael R. Styler
+
+
+
+            
+5
+
+    
+
+            
+6
+
+    
+ LONG TITLE
+            
+7
+
+    
+ General Description:
+            
+8
+
+    
+    This bill enacts provisions within the Commerce and Trade Code related to a child
+            
+9
+
+    
+protection registry.
+            
+10
+
+    
+ Highlighted Provisions:
+            
+11
+
+    
+    This bill:
+            
+12
+
+    
+    .    defines terms;
+            
+13
+
+    
+    .    requires the Division of Consumer Protection to establish a registry of contact
+            
+14
+
+    
+points for minors;
+            
+15
+
+    
+    .    prohibits a person from sending certain materials to a registered contact point; and
+            
+16
+
+    
+    .    provides criminal, administrative, and civil penalties.
+            
+17
+
+    
+ Monies Appropriated in this Bill:
+            
+18
+
+    
+    None
+            
+19
+
+    
+ Other Special Clauses:
+            
+20
+
+    
+    None
+            
+21
+
+    
+ Utah Code Sections Affected:
+            
+22
+
+    
+ENACTS:
+            
+23
+
+    
+     13-39-101, Utah Code Annotated 1953
+            
+24
+
+    
+     13-39-102, Utah Code Annotated 1953
+            
+25
+
+    
+     13-39-201, Utah Code Annotated 1953
+            
+26
+
+    
+     13-39-202, Utah Code Annotated 1953
+            
+27
+
+    
+     13-39-203, Utah Code Annotated 1953
+
+            
+28
+
+
+    
+     13-39-301, Utah Code Annotated 1953
+            
+29
+
+    
+     13-39-302, Utah Code Annotated 1953
+            
+30
+
+    
+     13-39-303, Utah Code Annotated 1953
+            
+31
+
+    
+     13-39-304, Utah Code Annotated 1953
+            
+32
+
+    
+
+            
+33
+
+    
+Be it enacted by the Legislature of the state of Utah:
+            
+34
+
+    
+    Section 1.  
+Section  
+13-39-101
+
+ is enacted to read:
+            
+35
+
+    
+ CHAPTER 39.  CHILD PROTECTION REGISTRY
+
+            
+36
+
+    
+ Part 1.  General Provisions
+
+            
+37
+
+    
+     13-39-101.  Title.
+            
+38
+
+    
+    This chapter is known as the "Child Protection Registry."
+            
+39
+
+    
+    Section 2.  
+Section  
+13-39-102
+
+ is enacted to read:
+            
+40
+
+    
+     13-39-102.  Definitions.
+            
+41
+
+    
+    As used in this chapter:
+            
+42
+
+    
+    (1)  "Contact point" means an electronic identification to which a communication may
+            
+43
+
+    
+be sent, including:
+            
+44
+
+    
+    (a)  an email address;
+            
+45
+
+    
+    (b)  an instant message identity, subject to rules made by the division under Subsection
+            
+46
+
+    
+
+
+13-39-203
+
+(1);
+            
+47
+
+    
+    (c)  a telephone number;
+            
+48
+
+    
+    (d)  a facsimile number; or
+            
+49
+
+    
+    (e)  an electronic address:
+            
+50
+
+    
+    (i)  similar to a contact point listed in this Subsection (1); and
+            
+51
+
+    
+    (ii)  defined as a contact point by rule made by the division under Subsection
+            
+52
+
+    
+
+
+13-39-203
+
+(1).
+            
+53
+
+    
+    (2)  "Division" means the Division of Consumer Protection in the Department of
+            
+54
+
+    
+Commerce.
+            
+55
+
+    
+    (3)  "Registry" means the child protection registry established in Section 
+
+13-39-201
+
+.
+            
+56
+
+    
+    Section 3.  
+Section  
+13-39-201
+
+ is enacted to read:
+            
+57
+
+    
+ Part 2.  Operation of the Child Protection Registry
+
+            
+58
+
+    
+     13-39-201.  Establishment of child protection registry.
+
+            
+59
+
+
+    
+    (1)  The division shall:
+            
+60
+
+    
+    (a)  establish and operate a child protection registry to compile and secure a list of
+            
+61
+
+    
+contact points the division has received pursuant to this section; or
+            
+62
+
+    
+    (b)  contract with a third party to establish and secure the registry described in
+            
+63
+
+    
+Subsection (1)(a).
+            
+64
+
+    
+    (2) (a)  A person may register a contact point with the division pursuant to rules
+            
+65
+
+    
+established by the division under Subsection 
+
+13-39-203
+
+(1) if:
+            
+66
+
+    
+    (i)  the contact point belongs to a minor; or
+            
+67
+
+    
+    (ii)  a minor has access to the contact point.
+            
+68
+
+    
+    (b)  A school or other institution that primarily serves minors may register its domain
+            
+69
+
+    
+name with the division pursuant to rules made by the division under Subsection 
+
+13-39-203
+
+(1).
+            
+70
+
+    
+    (3)  A person desiring to send a communication described in Subsection 
+
+13-39-202
+
+(1)
+            
+71
+
+    
+to a contact point or domain shall:
+            
+72
+
+    
+    (a)  use a mechanism established by rule made by the division under Subsection
+            
+73
+
+    
+
+
+13-39-203
+
+(2); and
+            
+74
+
+    
+    (b)  pay a fee for use of the mechanism described in Subsection (3)(a) determined by
+            
+75
+
+    
+the division in accordance with Section 
+
+63-38-3.2
+
+.
+            
+76
+
+    
+    Section 4.  
+Section  
+13-39-202
+
+ is enacted to read:
+            
+77
+
+    
+     13-39-202.  Prohibition of sending certain materials to a registered contact point.
+            
+78
+
+    
+    (1)  A person may not directly or indirectly send, cause to be sent, or conspire with a
+            
+79
+
+    
+third party to send, a communication to a contact point or domain that has been registered for
+            
+80
+
+    
+more than 30 calendar days with the division under Section 
+
+13-39-201
+
+ if the communication:
+            
+81
+
+    
+    (a)  advertises a product or service that a minor is prohibited by law from purchasing; or
+            
+82
+
+    
+    (b)  contains or advertises material that is harmful to minors, as defined in Section
+            
+83
+
+    
+
+
+76-10-1201
+
+.
+            
+84
+
+    
+    (2)  The consent of a minor is not a defense to a violation of this section.
+            
+85
+
+    
+    Section 5.  
+Section  
+13-39-203
+
+ is enacted to read:
+            
+86
+
+    
+     13-39-203.  Rulemaking authority.
+            
+87
+
+    
+    In accordance with Title 63, Chapter 46a, Utah Administrative Rulemaking Act, the
+            
+88
+
+    
+division shall make rules to establish procedures under which:
+            
+89
+
+    
+    (1) (a)  a person may register a contact point with the division under Section 
+
+13-39-201
+
+,
+
+            
+90
+
+
+    
+including:
+            
+91
+
+    
+    (i)  the information necessary to register an instant message identity; and
+            
+92
+
+    
+    (ii)  for purposes of Subsection 
+
+13-39-102
+
+(1)(e), an electronic address that is similar to
+            
+93
+
+    
+a contact point listed in Subsection 
+
+13-39-102
+
+(1); and
+            
+94
+
+    
+    (b)  a school or other institution that primarily serves minors may register its domain
+            
+95
+
+    
+name with the division under Section 
+
+13-39-201
+
+; and
+            
+96
+
+    
+    (2)  the division shall:
+            
+97
+
+    
+    (a)  provide a mechanism under which a person described in Subsection 
+
+13-39-201
+
+(3)
+            
+98
+
+    
+may verify compliance with the registry to remove registered contact points from the person's
+            
+99
+
+    
+communications; and
+            
+100
+
+    
+    (b)  establish the mechanism described in Subsection (2)(a) in a manner that protects
+            
+101
+
+    
+the privacy and security of a contact point registered with the division under Section
+            
+102
+
+    
+
+
+13-39-201
+
+.
+            
+103
+
+    
+    Section 6.  
+Section  
+13-39-301
+
+ is enacted to read:
+            
+104
+
+    
+ Part 3.  Enforcement
+
+            
+105
+
+    
+     13-39-301.  Criminal penalty.
+            
+106
+
+    
+    (1)  A person who violates Section 
+
+13-39-202
+
+ commits a computer crime and:
+            
+107
+
+    
+    (a)  is guilty of a class B misdemeanor for a first offense with respect to a contact point
+            
+108
+
+    
+registered with the division under Subsection 
+
+13-39-201
+
+(2)(a); and
+            
+109
+
+    
+    (b)  is guilty of a class A misdemeanor:
+            
+110
+
+    
+    (i)  for each subsequent violation with respect to a contact point registered with the
+            
+111
+
+    
+division under Subsection 
+
+13-39-201
+
+(2)(a); or
+            
+112
+
+    
+    (ii)  for each violation with respect to a domain name registered with the division under
+            
+113
+
+    
+Subsection 
+
+13-39-201
+
+(2)(b).
+            
+114
+
+    
+    (2)  A person commits a computer crime and is guilty of a second degree felony if the
+            
+115
+
+    
+person:
+            
+116
+
+    
+    (a)  uses information obtained from the division under this chapter to violate Section
+            
+117
+
+    
+
+
+13-39-202
+
+;
+            
+118
+
+    
+    (b)  improperly:
+            
+119
+
+    
+    (i)  obtains contact points from the registry; or
+            
+120
+
+    
+    (ii)  attempts to obtain contact points from the registry; or
+
+            
+121
+
+
+    
+    (c)  uses, or transfers to a third party to use, information from the registry to send a
+            
+122
+
+    
+solicitation.
+            
+123
+
+    
+    (3)  A criminal conviction or penalty under this section does not relieve a person from
+            
+124
+
+    
+civil liability in an action under Section 
+
+13-39-302
+
+.
+            
+125
+
+    
+    (4)  Each communication sent in violation of Section 
+
+13-39-202
+
+ is a separate offense
+            
+126
+
+    
+under this section.
+            
+127
+
+    
+    Section 7.  
+Section  
+13-39-302
+
+ is enacted to read:
+            
+128
+
+    
+     13-39-302.  Civil action for violation.
+            
+129
+
+    
+    (1)  For a violation of Section 
+
+13-39-202
+
+, an action may be brought by:
+            
+130
+
+    
+    (a)  a user of a contact point or domain name registered with the division under Section
+            
+131
+
+    
+
+
+13-39-201
+
+; or
+            
+132
+
+    
+    (b)  a legal guardian of a user described in Subsection (1)(a).
+            
+133
+
+    
+    (2)  In each action under Subsection (1):
+            
+134
+
+    
+    (a)  a person described in Subsection (1) may recover the greater of:
+            
+135
+
+    
+    (i)  actual damages; or
+            
+136
+
+    
+    (ii)  $1,000 for each communication sent in violation of Section 
+
+13-39-202
+
+; and
+            
+137
+
+    
+    (b)  the prevailing party shall be awarded costs and reasonable attorney fees.
+            
+138
+
+    
+    Section 8.  
+Section  
+13-39-303
+
+ is enacted to read:
+            
+139
+
+    
+     13-39-303.  Administrative enforcement.
+            
+140
+
+    
+    (1)  The division shall:
+            
+141
+
+    
+    (a)  investigate violations of this chapter; and
+            
+142
+
+    
+    (b)  assess cease and desist orders and administrative fines under this section for
+            
+143
+
+    
+violations of this chapter.
+            
+144
+
+    
+    (2)  A person who violates this chapter is subject to:
+            
+145
+
+    
+    (a)  a cease and desist order; and
+            
+146
+
+    
+    (b)  an administrative fine of not more than $2,500 for each separate communication
+            
+147
+
+    
+sent in violation of Section 
+
+13-39-202
+
+.
+            
+148
+
+    
+    (3) (a)  A person who intentionally violates this chapter is subject to an administrative
+            
+149
+
+    
+fine of not more than $5,000 for each communication intentionally sent in violation of Section
+            
+150
+
+    
+
+
+13-39-202
+
+.
+            
+151
+
+    
+    (b)  For purposes of this section, a person intentionally violates this chapter if the
+
+            
+152
+
+
+    
+violation occurs after the division, attorney general, or a district or county attorney notifies the
+            
+153
+
+    
+person by certified mail that the person is in violation of this chapter.
+            
+154
+
+    
+    (4)  All administrative fines collected under this section shall be deposited in the
+            
+155
+
+    
+Consumer Protection Education and Training Fund created in Section 
+
+13-2-8
+
+.
+            
+156
+
+    
+    Section 9.  
+Section  
+13-39-304
+
+ is enacted to read:
+            
+157
+
+    
+     13-39-304.  Defenses.
+            
+158
+
+    
+    It is a defense to an action brought under this chapter that a person:
+            
+159
+
+    
+    (1)  reasonably relied on the mechanism established by the division under Subsection
+            
+160
+
+    
+
+
+13-39-203
+
+(2); and
+            
+161
+
+    
+    (2)  took reasonable measures to comply with this chapter.
+
+
+
+
+ Legislative Review Note
+    as of   1-29-04  3:06 PM
+
+
+This bill regulates, among other things, the sending of certain commercial email messages to
+addresses contained on a registry. Congress recently passed the CAN-SPAM Act of 2003 that,
+with some exemptions, preempts a state from regulating commercial email. The act permits
+state regulations of commercial email that:
+        .    prohibit falsity or deception;
+           .    are not specific to email; or
+           .    relate to acts of fraud or computer crime.
+   If this bill were challenged, a court would evaluate whether this bill falls into one of those
+exemptions.
+
+ Office of Legislative Research and General Counsel
+[Bill Documents][Bills Directory]
+
+
+
+
+
+
+
+
+
+Who represents me?
+
+
+
+
+
+Remember my Legislators
+
+
+
+
+
+State Senate
+		350 North State, Suite 320
+		PO Box 145115
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1035
+		Fax: (801) 326-1475
+
+
+
+House of Representatives
+		350 North State, Suite 350
+		PO Box 145030
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1029
+		Fax: (801) 326-1544
+
+
+
+
+
+
+
+
+
+
+Home
+Mobile Site
+Site Map
+Calendar
+Code / Constitution
+House
+Senate
+
+Terms of Use/Privacy Policy
+
+ADA
+Utah.gov
+
+
+
+
+
+
+

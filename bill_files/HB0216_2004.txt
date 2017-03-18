@@ -1,0 +1,1511 @@
+Sponsors: []Modifications:     13-39-101.This chapter is known as the"Internet Privacy Act."    13-39-102.As used in this chapter:(1) (a)  Except as provided in Subsection (1)(b), "consumer" means a person who is aresident of the state who:(i) (A)  enters into a contract with an Internet service provider for access to the Internetfor personal, family, or household purposes; and(B)  receives the access described in Subsection (1)(a)(i)(A); or(ii)  accesses a website operated by a website operator.(b)  "Consumer" does not include a person who resells the access described inSubsection (1)(a)(i)(A).(2)  "Division" means the Division of Consumer Protection in the Department ofCommerce.(3)  "Internet business" means:(a)  an Internet service provider; or(b)  a website operator.(4) (a)  Except as provided in Subsection (4)(b), "Internet service provider" means aperson who:(i)  provides a consumer:(A)  authenticated access to the Internet; or(B)  authenticated presence on the Internet; and(ii)  provides the access or presence described in Subsection (4)(a)(i) by providingtransit routing of Internet protocol packets for and on behalf of the consumer.(b)  "Internet service provider" does not include a person that offers on a commoncarrier basis:(i)  access to telecommunications facilities; or(ii)  telecommunication services by means of telecommunications facilities.(5)  "Ordinary course of business" means activities related to an Internet business:(a)  collecting debts owed to the Internet business;(b)  processing a request for materials or services to be provided by the Internetbusiness; or(c)  transferring ownership.(6) (a)  "Personally identifiable information" means information that identifies:(i)  a consumer by:(A)  name;(B)  account number;(C)  physical address;(D)  email address;(E)  telephone number;(F)  Social Security number;(G)  credit card information; or(H)  bank account information;(ii)  a consumer as having requested or obtained specific materials or services from anInternet business;(iii)  an Internet site visited by a consumer; or(iv)  any of the contents of a consumer's data-storage device.(b)  "Personally identifiable information" does not include:(i)  information:(A)  in aggregate or summary form; and(B)  from which the identity of an individual consumer is not ascertainable; or(ii)  information:(A)  from which all information identifying an individual consumer has been removed;and(B)  that cannot be combined with other information to identify an individual consumer.(7)  "Website operator" means a person who:(a) (i)  is domiciled in the state; or(ii)  knowingly transacts business with residents of the state;(b)  operates a website on the Internet for a commercial purpose; and(c)  collects or maintains personally identifiable information about a consumer.    13-39-103.(1)  Except as provided in Subsection (2), this chapter does not limit any greaterprotection of the privacy of personally identifiable information under other law.(2)  This chapter does not limit the authority under:(a)  other state law under which a peace officer or prosecuting authority may obtaininformation; or(b)  federal law to obtain information including any federal law under which a peaceofficer or prosecuting authority may obtain information.    13-39-201.Except as provided in Section 
+
+13-39-202
+
+ or 
+
+13-39-203
+
+, an Internet business may notknowingly disclose to any person the personally identifiable information concerning aconsumer of the Internet business.    13-39-202.Notwithstanding Section 
+
+13-39-201
+
+, an Internet business shall disclose personallyidentifiable information concerning a consumer:(1)  to the extent not otherwise prohibited by law, pursuant to:(a)  a subpoena;(b)  a warrant; or(c)  subject to the requirements of Subsections (2) and (3), a court order;(2)  pursuant to a court order in a civil proceeding if the person seeking the personallyidentifiable information shows:(a)  a compelling need for the information; and(b)  that the compelling need described in Subsection (2)(a) cannot be accommodatedby other means;(3)  only to the extent necessary to establish a fact described in Subsection (3)(b), to acourt in a civil action if:(a)  the civil action is:(i)  commenced by the Internet business; and(ii)  brought:(A)  for conversion; or(B)  to enforce collection of the following that are unpaid:(I)  subscription fees; or(II)  purchase amounts;(b)  disclosure of the personally identifiable information is necessary to establish thefact of:(i)  conversion; or(ii)  the failure to pay an amount described in Subsection (3)(a)(ii)(B); and(c)  the court finds that there are appropriate safeguards against unauthorized disclosureof the personally identifiable information; or(4)  to the consumer who is the subject of the personally identifiable information upon written or electronic request by the consumer.    13-39-203.(1)  Notwithstanding Section 
+
+13-39-201
+
+, an Internet business may disclose personallyidentifiable information concerning a consumer to:(a)  any person, if the Internet business obtains the authorization of the consumer inaccordance with Subsection (2); or(b)  any person to the extent authorized under Title 77, Chapter 23a, Interception ofCommunications Act.(2) (a)  An Internet business may obtain a consumer's authorization of the disclosure ofpersonally identifiable information related to the consumer only if:(i)  the contract between the Internet business and the consumer complies withSubsection (3); and(ii)  the authorization is obtained in accordance with the contract described inSubsection (2)(a)(i).(b)  An Internet business's requests from a consumer for authorization to disclosepersonally identifiable information related to the consumer shall reasonably describe:(i)  the types of persons to whom personally identifiable information may be disclosed;and(ii)  the anticipated uses of the personally identifiable information that is disclosed.(3) (a)  A contract between an Internet business and a consumer shall notify theconsumer as to whether the contract requires that for an authorization described in Subsection(2) to be effective the consumer must:(i)  affirmatively respond to a request by the Internet business for authorization:(A)  in writing; or(B)  by electronic means; or(ii)  fail to respond to a request by the Internet business for authorization in the timeperiod specified in the request for authorization.(b)  The notice required by this Subsection (3) shall be:(i)  conspicuous; and(ii)  written so that a consumer without technical knowledge of the Internet canunderstand the notice.    13-39-301.An Internet business shall take reasonable steps to maintain the security and privacy ofa consumer's personally identifiable information.    13-39-302.(1)  An Internet business shall provide consumers notice of:(a)  the privacy policy of the Internet business;(b)  subject to Section 
+
+13-39-203
+
+, the procedure followed by the Internet business toobtain authorization from the consumer for disclosure of personally identifiable information;and(c)  the services provided by the Internet business that allow a consumer to increase theprivacy of the consumer's personally identifiable information.(2)  The notice required by Subsection (1) shall be:(a)  conspicuous; and(b)  written so that a consumer without technical knowledge of the Internet canunderstand the notice.    13-39-401.(1)  A consumer may bring a civil action in a court of competent jurisdiction against anInternet business for a violation of this chapter.(2) (a)  If an Internet business is found to have violated this chapter in a civil actionbrought under Subsection (1), the Internet business is liable to the consumer for the greater of:(i)  $500 for each violation of this chapter; or(ii)  actual damages.(b)  In addition to amounts described in Subsection (2)(a), the court may award aconsumer:(i)  reasonable attorney fees; and(ii)  court costs.(3)  A person may not bring a class action under this chapter.    13-39-402.In an action under this chapter, it is a defense that the Internet business has establishedand implemented reasonable practices and procedures to prevent a violation of this chapter.    13-39-403.(1)  A consumer whose personally identifiable information is disclosed in violation ofthis chapter may file a complaint with the division.(2)  If the division receives a complaint described in Subsection (1), the division mayinvestigate and assess the administrative fines described in Subsection (3) for violations of thischapter.(3)  Any person who violates this chapter is subject to:(a)  a cease and desist order; and(b)  an administrative fine of not less than $100 or more than $1,000 for each separateviolation.(4)  All administrative fines collected under this chapter shall be deposited in theConsumer Protection Education and Training Fund created in Section 
+
+13-2-8
+
+.(5)  Upon referral from the division, the attorney general or any district or countyattorney may bring an action in any court of competent jurisdiction for the collection ofadministrative fines assessed by the division under this section.Full text:
+
+
+
+Utah State Legislature
+
+
+
+
+
+
+
+
+
+
+
+
+Legislators
+
+By Session (1896-Current)
+Alphabetical (Historical)
+Find by Address/Map
+More
+
+
+Bills
+
+Bills/Bill Requests
+Passed Bills
+2017 Bills
+
+Keyword Search
+Reading Calendars
+Tracking Service
+More
+
+
+Committees
+
+All Committees
+Appropriations
+Commissions
+
+Independent Legislative Ethics Commission
+Interim
+Standing
+Subcommittees
+Task Forces
+Bills In Committees
+
+
+Utah Code / Constitution
+
+
+Title/Chapter/Section
+Keyword Search 
+
+Utah Constitution
+Laws of Utah 1851-ongoing
+Utah Territorial Laws 
+More
+
+
+Senate
+
+Main Page 
+About The Senate 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Extraordinary Sessions 
+Reading Calendars 
+Past Floor Debates 
+Senate Journals 
+
+
+House
+
+Main Page
+About the House 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Reading Calendars 
+Past Floor Debates 
+Journals 
+Conflict of Interest Forms 
+
+
+Legislative Guide 
+
+Legislative Guide
+Civic Programs
+GRAMA (Records Requests)
+
+
+Publications
+
+Search Publications
+Appropriations
+Audits
+Bagels & Briefings
+Briefing Papers
+Digest of Legislation
+Legislative Drafting Manual
+
+Journals
+
+Interim Highlights
+
+Legislative Rules
+GRAMA (Records Requests)
+Public Email
+State Organization Charts
+YouTube Channel
+Requests for Proposals and Legal Notices
+More
+
+
+Legislative Histories
+
+Legislative History Resources
+How to Research
+Bill Drafting/Research Files (1990-Ongoing)
+
+Working Bills (1896-1989)
+Interim Committee Histories (1990-Ongoing) 
+Journals
+Past House Floor Debates
+Past Senate Floor Debates
+More
+
+
+Staff Offices
+
+All Legislative Offices
+Auditor General
+Fiscal Analyst
+Printing
+Research and General Counsel
+Staff Awards
+Job Opportunities
+More
+
+
+Links of Interest
+
+Utah Administrative Rules
+Courts
+Utah State Capitol
+State of Utah
+Federal Legislation
+More
+
+
+
+
+
+
+ 
+
+Download Zipped Introduced WordPerfect HB0216.ZIP
+[Status][Bill Documents][Fiscal Note][Bills Directory]
+
+
+H.B. 216
+
+
+
+
+
+            
+1
+
+    
+ INTERNET PRIVACY ACT
+
+
+
+            
+2
+
+    
+2004 GENERAL SESSION
+
+            
+3
+
+    
+STATE OF UTAH
+
+            
+4
+
+    
+
+
+ Sponsor: Wayne A. Harper
+
+
+
+            
+5
+
+    
+
+            
+6
+
+    
+ LONG TITLE
+            
+7
+
+    
+ General Description:
+            
+8
+
+    
+    This bill modifies Commerce and Trade provisions to enact the Internet Privacy Act.
+            
+9
+
+    
+ Highlighted Provisions:
+            
+10
+
+    
+    This bill:
+            
+11
+
+    
+    .    enacts provisions governing the disclosure of personally identifiable information by
+            
+12
+
+    
+an Internet business;
+            
+13
+
+    
+    .    requires an Internet business to provide privacy notices; and
+            
+14
+
+    
+    .    enacts remedies for violations.
+            
+15
+
+    
+ Monies Appropriated in this Bill:
+            
+16
+
+    
+    None
+            
+17
+
+    
+ Other Special Clauses:
+            
+18
+
+    
+    None
+            
+19
+
+    
+ Utah Code Sections Affected:
+            
+20
+
+    
+ENACTS:
+            
+21
+
+    
+     13-39-101, Utah Code Annotated 1953
+            
+22
+
+    
+     13-39-102, Utah Code Annotated 1953
+            
+23
+
+    
+     13-39-103, Utah Code Annotated 1953
+            
+24
+
+    
+     13-39-201, Utah Code Annotated 1953
+            
+25
+
+    
+     13-39-202, Utah Code Annotated 1953
+            
+26
+
+    
+     13-39-203, Utah Code Annotated 1953
+            
+27
+
+    
+     13-39-301, Utah Code Annotated 1953
+
+            
+28
+
+
+    
+     13-39-302, Utah Code Annotated 1953
+            
+29
+
+    
+     13-39-401, Utah Code Annotated 1953
+            
+30
+
+    
+     13-39-402, Utah Code Annotated 1953
+            
+31
+
+    
+     13-39-403, Utah Code Annotated 1953
+            
+32
+
+    
+
+            
+33
+
+    
+Be it enacted by the Legislature of the state of Utah:
+            
+34
+
+    
+    Section 1.  
+Section  
+13-39-101
+
+ is enacted to read:
+            
+35
+
+    
+ CHAPTER 39.  INTERNET PRIVACY ACT
+
+            
+36
+
+    
+ Part 1.  General Provisions
+
+            
+37
+
+    
+     13-39-101.  Title.
+            
+38
+
+    
+    This chapter is known as the"Internet Privacy Act."
+            
+39
+
+    
+    Section 2.  
+Section  
+13-39-102
+
+ is enacted to read:
+            
+40
+
+    
+     13-39-102.  Definitions.
+            
+41
+
+    
+    As used in this chapter:
+            
+42
+
+    
+    (1) (a)  Except as provided in Subsection (1)(b), "consumer" means a person who is a
+            
+43
+
+    
+resident of the state who:
+            
+44
+
+    
+    (i) (A)  enters into a contract with an Internet service provider for access to the Internet
+            
+45
+
+    
+for personal, family, or household purposes; and
+            
+46
+
+    
+    (B)  receives the access described in Subsection (1)(a)(i)(A); or
+            
+47
+
+    
+    (ii)  accesses a website operated by a website operator.
+            
+48
+
+    
+    (b)  "Consumer" does not include a person who resells the access described in
+            
+49
+
+    
+Subsection (1)(a)(i)(A).
+            
+50
+
+    
+    (2)  "Division" means the Division of Consumer Protection in the Department of
+            
+51
+
+    
+Commerce.
+            
+52
+
+    
+    (3)  "Internet business" means:
+            
+53
+
+    
+    (a)  an Internet service provider; or
+            
+54
+
+    
+    (b)  a website operator.
+            
+55
+
+    
+    (4) (a)  Except as provided in Subsection (4)(b), "Internet service provider" means a
+            
+56
+
+    
+person who:
+            
+57
+
+    
+    (i)  provides a consumer:
+            
+58
+
+    
+    (A)  authenticated access to the Internet; or
+
+            
+59
+
+
+    
+    (B)  authenticated presence on the Internet; and
+            
+60
+
+    
+    (ii)  provides the access or presence described in Subsection (4)(a)(i) by providing
+            
+61
+
+    
+transit routing of Internet protocol packets for and on behalf of the consumer.
+            
+62
+
+    
+    (b)  "Internet service provider" does not include a person that offers on a common
+            
+63
+
+    
+carrier basis:
+            
+64
+
+    
+    (i)  access to telecommunications facilities; or
+            
+65
+
+    
+    (ii)  telecommunication services by means of telecommunications facilities.
+            
+66
+
+    
+    (5)  "Ordinary course of business" means activities related to an Internet business:
+            
+67
+
+    
+    (a)  collecting debts owed to the Internet business;
+            
+68
+
+    
+    (b)  processing a request for materials or services to be provided by the Internet
+            
+69
+
+    
+business; or
+            
+70
+
+    
+    (c)  transferring ownership.
+            
+71
+
+    
+    (6) (a)  "Personally identifiable information" means information that identifies:
+            
+72
+
+    
+    (i)  a consumer by:
+            
+73
+
+    
+    (A)  name;
+            
+74
+
+    
+    (B)  account number;
+            
+75
+
+    
+    (C)  physical address;
+            
+76
+
+    
+    (D)  email address;
+            
+77
+
+    
+    (E)  telephone number;
+            
+78
+
+    
+    (F)  Social Security number;
+            
+79
+
+    
+    (G)  credit card information; or
+            
+80
+
+    
+    (H)  bank account information;
+            
+81
+
+    
+    (ii)  a consumer as having requested or obtained specific materials or services from an
+            
+82
+
+    
+Internet business;
+            
+83
+
+    
+    (iii)  an Internet site visited by a consumer; or
+            
+84
+
+    
+    (iv)  any of the contents of a consumer's data-storage device.
+            
+85
+
+    
+    (b)  "Personally identifiable information" does not include:
+            
+86
+
+    
+    (i)  information:
+            
+87
+
+    
+    (A)  in aggregate or summary form; and
+            
+88
+
+    
+    (B)  from which the identity of an individual consumer is not ascertainable; or
+            
+89
+
+    
+    (ii)  information:
+
+            
+90
+
+
+    
+    (A)  from which all information identifying an individual consumer has been removed;
+            
+91
+
+    
+and
+            
+92
+
+    
+    (B)  that cannot be combined with other information to identify an individual consumer.
+            
+93
+
+    
+    (7)  "Website operator" means a person who:
+            
+94
+
+    
+    (a) (i)  is domiciled in the state; or
+            
+95
+
+    
+    (ii)  knowingly transacts business with residents of the state;
+            
+96
+
+    
+    (b)  operates a website on the Internet for a commercial purpose; and
+            
+97
+
+    
+    (c)  collects or maintains personally identifiable information about a consumer.
+            
+98
+
+    
+    Section 3.  
+Section  
+13-39-103
+
+ is enacted to read:
+            
+99
+
+    
+     13-39-103.  Other law.
+            
+100
+
+    
+    (1)  Except as provided in Subsection (2), this chapter does not limit any greater
+            
+101
+
+    
+protection of the privacy of personally identifiable information under other law.
+            
+102
+
+    
+    (2)  This chapter does not limit the authority under:
+            
+103
+
+    
+    (a)  other state law under which a peace officer or prosecuting authority may obtain
+            
+104
+
+    
+information; or
+            
+105
+
+    
+    (b)  federal law to obtain information including any federal law under which a peace
+            
+106
+
+    
+officer or prosecuting authority may obtain information.
+            
+107
+
+    
+    Section 4.  
+Section  
+13-39-201
+
+ is enacted to read:
+            
+108
+
+    
+ Part 2.  Disclosure of Personally Identifiable Information
+
+            
+109
+
+    
+     13-39-201.  Disclosure of personally identifiable information.
+            
+110
+
+    
+    Except as provided in Section 
+
+13-39-202
+
+ or 
+
+13-39-203
+
+, an Internet business may not
+            
+111
+
+    
+knowingly disclose to any person the personally identifiable information concerning a
+            
+112
+
+    
+consumer of the Internet business.
+            
+113
+
+    
+    Section 5.  
+Section  
+13-39-202
+
+ is enacted to read:
+            
+114
+
+    
+     13-39-202.  When disclosure of personally identifiable information is required.
+            
+115
+
+    
+    Notwithstanding Section 
+
+13-39-201
+
+, an Internet business shall disclose personally
+            
+116
+
+    
+identifiable information concerning a consumer:
+            
+117
+
+    
+    (1)  to the extent not otherwise prohibited by law, pursuant to:
+            
+118
+
+    
+    (a)  a subpoena;
+            
+119
+
+    
+    (b)  a warrant; or
+            
+120
+
+    
+    (c)  subject to the requirements of Subsections (2) and (3), a court order;
+
+            
+121
+
+
+    
+    (2)  pursuant to a court order in a civil proceeding if the person seeking the personally
+            
+122
+
+    
+identifiable information shows:
+            
+123
+
+    
+    (a)  a compelling need for the information; and
+            
+124
+
+    
+    (b)  that the compelling need described in Subsection (2)(a) cannot be accommodated
+            
+125
+
+    
+by other means;
+            
+126
+
+    
+    (3)  only to the extent necessary to establish a fact described in Subsection (3)(b), to a
+            
+127
+
+    
+court in a civil action if:
+            
+128
+
+    
+    (a)  the civil action is:
+            
+129
+
+    
+    (i)  commenced by the Internet business; and
+            
+130
+
+    
+    (ii)  brought:
+            
+131
+
+    
+    (A)  for conversion; or
+            
+132
+
+    
+    (B)  to enforce collection of the following that are unpaid:
+            
+133
+
+    
+    (I)  subscription fees; or
+            
+134
+
+    
+    (II)  purchase amounts;
+            
+135
+
+    
+    (b)  disclosure of the personally identifiable information is necessary to establish the
+            
+136
+
+    
+fact of:
+            
+137
+
+    
+    (i)  conversion; or
+            
+138
+
+    
+    (ii)  the failure to pay an amount described in Subsection (3)(a)(ii)(B); and
+            
+139
+
+    
+    (c)  the court finds that there are appropriate safeguards against unauthorized disclosure
+            
+140
+
+    
+of the personally identifiable information; or
+            
+141
+
+    
+    (4)  to the consumer who is the subject of the personally identifiable information upon 
+            
+142
+
+    
+written or electronic request by the consumer.
+            
+143
+
+    
+    Section 6.  
+Section  
+13-39-203
+
+ is enacted to read:
+            
+144
+
+    
+     13-39-203.  When disclosure of personally identifiable information is permitted --
+            
+145
+
+    
+ Authorization -- Contract requirements.
+            
+146
+
+    
+    (1)  Notwithstanding Section 
+
+13-39-201
+
+, an Internet business may disclose personally
+            
+147
+
+    
+identifiable information concerning a consumer to:
+            
+148
+
+    
+    (a)  any person, if the Internet business obtains the authorization of the consumer in
+            
+149
+
+    
+accordance with Subsection (2); or
+            
+150
+
+    
+    (b)  any person to the extent authorized under Title 77, Chapter 23a, Interception of
+            
+151
+
+    
+Communications Act.
+
+            
+152
+
+
+    
+    (2) (a)  An Internet business may obtain a consumer's authorization of the disclosure of
+            
+153
+
+    
+personally identifiable information related to the consumer only if:
+            
+154
+
+    
+    (i)  the contract between the Internet business and the consumer complies with
+            
+155
+
+    
+Subsection (3); and
+            
+156
+
+    
+    (ii)  the authorization is obtained in accordance with the contract described in
+            
+157
+
+    
+Subsection (2)(a)(i).
+            
+158
+
+    
+    (b)  An Internet business's requests from a consumer for authorization to disclose
+            
+159
+
+    
+personally identifiable information related to the consumer shall reasonably describe:
+            
+160
+
+    
+    (i)  the types of persons to whom personally identifiable information may be disclosed;
+            
+161
+
+    
+and
+            
+162
+
+    
+    (ii)  the anticipated uses of the personally identifiable information that is disclosed.
+            
+163
+
+    
+    (3) (a)  A contract between an Internet business and a consumer shall notify the
+            
+164
+
+    
+consumer as to whether the contract requires that for an authorization described in Subsection
+            
+165
+
+    
+(2) to be effective the consumer must:
+            
+166
+
+    
+    (i)  affirmatively respond to a request by the Internet business for authorization:
+            
+167
+
+    
+    (A)  in writing; or
+            
+168
+
+    
+    (B)  by electronic means; or
+            
+169
+
+    
+    (ii)  fail to respond to a request by the Internet business for authorization in the time
+            
+170
+
+    
+period specified in the request for authorization.
+            
+171
+
+    
+    (b)  The notice required by this Subsection (3) shall be:
+            
+172
+
+    
+    (i)  conspicuous; and
+            
+173
+
+    
+    (ii)  written so that a consumer without technical knowledge of the Internet can
+            
+174
+
+    
+understand the notice.
+            
+175
+
+    
+    Section 7.  
+Section  
+13-39-301
+
+ is enacted to read:
+            
+176
+
+    
+ Part 3.  Security and Privacy Measures
+
+            
+177
+
+    
+     13-39-301.  Security of information.
+            
+178
+
+    
+    An Internet business shall take reasonable steps to maintain the security and privacy of
+            
+179
+
+    
+a consumer's personally identifiable information.
+            
+180
+
+    
+    Section 8.  
+Section  
+13-39-302
+
+ is enacted to read:
+            
+181
+
+    
+     13-39-302.  Privacy notices.
+            
+182
+
+    
+    (1)  An Internet business shall provide consumers notice of:
+
+            
+183
+
+
+    
+    (a)  the privacy policy of the Internet business;
+            
+184
+
+    
+    (b)  subject to Section 
+
+13-39-203
+
+, the procedure followed by the Internet business to
+            
+185
+
+    
+obtain authorization from the consumer for disclosure of personally identifiable information;
+            
+186
+
+    
+and
+            
+187
+
+    
+    (c)  the services provided by the Internet business that allow a consumer to increase the
+            
+188
+
+    
+privacy of the consumer's personally identifiable information.
+            
+189
+
+    
+    (2)  The notice required by Subsection (1) shall be:
+            
+190
+
+    
+    (a)  conspicuous; and
+            
+191
+
+    
+    (b)  written so that a consumer without technical knowledge of the Internet can
+            
+192
+
+    
+understand the notice.
+            
+193
+
+    
+    Section 9.  
+Section  
+13-39-401
+
+ is enacted to read:
+            
+194
+
+    
+ Part 4.  Remedies
+
+            
+195
+
+    
+     13-39-401.  Civil liability -- Prohibition of class action.
+            
+196
+
+    
+    (1)  A consumer may bring a civil action in a court of competent jurisdiction against an
+            
+197
+
+    
+Internet business for a violation of this chapter.
+            
+198
+
+    
+    (2) (a)  If an Internet business is found to have violated this chapter in a civil action
+            
+199
+
+    
+brought under Subsection (1), the Internet business is liable to the consumer for the greater of:
+            
+200
+
+    
+    (i)  $500 for each violation of this chapter; or
+            
+201
+
+    
+    (ii)  actual damages.
+            
+202
+
+    
+    (b)  In addition to amounts described in Subsection (2)(a), the court may award a
+            
+203
+
+    
+consumer:
+            
+204
+
+    
+    (i)  reasonable attorney fees; and
+            
+205
+
+    
+    (ii)  court costs.
+            
+206
+
+    
+    (3)  A person may not bring a class action under this chapter.
+            
+207
+
+    
+    Section 10.  
+Section  
+13-39-402
+
+ is enacted to read:
+            
+208
+
+    
+     13-39-402.  Defenses.
+            
+209
+
+    
+    In an action under this chapter, it is a defense that the Internet business has established
+            
+210
+
+    
+and implemented reasonable practices and procedures to prevent a violation of this chapter.
+            
+211
+
+    
+    Section 11.  
+Section  
+13-39-403
+
+ is enacted to read:
+            
+212
+
+    
+     13-39-403.  Administrative remedies.
+            
+213
+
+    
+    (1)  A consumer whose personally identifiable information is disclosed in violation of
+
+            
+214
+
+
+    
+this chapter may file a complaint with the division.
+            
+215
+
+    
+    (2)  If the division receives a complaint described in Subsection (1), the division may
+            
+216
+
+    
+investigate and assess the administrative fines described in Subsection (3) for violations of this
+            
+217
+
+    
+chapter.
+            
+218
+
+    
+    (3)  Any person who violates this chapter is subject to:
+            
+219
+
+    
+    (a)  a cease and desist order; and
+            
+220
+
+    
+    (b)  an administrative fine of not less than $100 or more than $1,000 for each separate
+            
+221
+
+    
+violation.
+            
+222
+
+    
+    (4)  All administrative fines collected under this chapter shall be deposited in the
+            
+223
+
+    
+Consumer Protection Education and Training Fund created in Section 
+
+13-2-8
+
+.
+            
+224
+
+    
+    (5)  Upon referral from the division, the attorney general or any district or county
+            
+225
+
+    
+attorney may bring an action in any court of competent jurisdiction for the collection of
+            
+226
+
+    
+administrative fines assessed by the division under this section.
+
+
+
+
+ Legislative Review Note
+    as of  10-6-03  2:17 PM
+
+
+This bill regulates Internet businesses who provide services to Utah residents.  Case law
+surrounding regulation of Internet activities is evolving.  State regulations of Internet activities
+have been challenged for violating principles such as the Commerce Clause of the United
+States Constitution.  Some courts have indicated that the need for national uniformity might
+limit a state's ability to regulate Internet activities.  Other court rulings indicate that regulations
+like those contained in this bill could be upheld because the regulations do not impose a greater
+burden on out of state Internet businesses than is imposed on in state Internet businesses and
+regulate only service that is provided to Utah residents.
+
+
+ Office of Legislative Research and General Counsel
+[Bill Documents][Bills Directory]
+
+
+
+
+
+
+
+
+
+Who represents me?
+
+
+
+
+
+Remember my Legislators
+
+
+
+
+
+State Senate
+		350 North State, Suite 320
+		PO Box 145115
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1035
+		Fax: (801) 326-1475
+
+
+
+House of Representatives
+		350 North State, Suite 350
+		PO Box 145030
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1029
+		Fax: (801) 326-1544
+
+
+
+
+
+
+
+
+
+
+Home
+Mobile Site
+Site Map
+Calendar
+Code / Constitution
+House
+Senate
+
+Terms of Use/Privacy Policy
+
+ADA
+Utah.gov
+
+
+
+
+
+
+

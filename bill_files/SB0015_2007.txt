@@ -1,0 +1,850 @@
+Sponsors: []Modifications:     35A-4-312.5.(1)  As used in this section:(a)  "Personal identifying information" has the same meaning as defined in Section
+
+76-6-1102
+
+.(b)  "Suspected misuse of personal identifying information" includes:(i)  a Social Security number under which wages are being reported by two or moreindividuals; or(ii)  a Social Security number of an individual under the age of 16 with reported wagesexceeding $1,000 for a single reporting quarter.(2)  Notwithstanding Section 
+
+35A-4-312
+
+, if the department records disclose a suspectedmisuse of personal identifying information by an individual other than the purported owner ofthe information, the department may:(a)  inform the purported owner of the information or, if the purported owner is a minor,the minor's parent or guardian, of the suspected misuse; and(b)  provide information of the suspected misuse to an appropriate law enforcementagency responsible for investigating an identity fraud violation.CFull text:
+
+
+
+Utah State Legislature
+
+
+
+
+
+
+
+
+
+
+
+
+Legislators
+
+By Session (1896-Current)
+Alphabetical (Historical)
+Find by Address/Map
+More
+
+
+Bills
+
+Bills/Bill Requests
+Passed Bills
+2017 Bills
+
+Keyword Search
+Reading Calendars
+Tracking Service
+More
+
+
+Committees
+
+All Committees
+Appropriations
+Commissions
+
+Independent Legislative Ethics Commission
+Interim
+Standing
+Subcommittees
+Task Forces
+Bills In Committees
+
+
+Utah Code / Constitution
+
+
+Title/Chapter/Section
+Keyword Search 
+
+Utah Constitution
+Laws of Utah 1851-ongoing
+Utah Territorial Laws 
+More
+
+
+Senate
+
+Main Page 
+About The Senate 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Extraordinary Sessions 
+Reading Calendars 
+Past Floor Debates 
+Senate Journals 
+
+
+House
+
+Main Page
+About the House 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Reading Calendars 
+Past Floor Debates 
+Journals 
+Conflict of Interest Forms 
+
+
+Legislative Guide 
+
+Legislative Guide
+Civic Programs
+GRAMA (Records Requests)
+
+
+Publications
+
+Search Publications
+Appropriations
+Audits
+Bagels & Briefings
+Briefing Papers
+Digest of Legislation
+Legislative Drafting Manual
+
+Journals
+
+Interim Highlights
+
+Legislative Rules
+GRAMA (Records Requests)
+Public Email
+State Organization Charts
+YouTube Channel
+Requests for Proposals and Legal Notices
+More
+
+
+Legislative Histories
+
+Legislative History Resources
+How to Research
+Bill Drafting/Research Files (1990-Ongoing)
+
+Working Bills (1896-1989)
+Interim Committee Histories (1990-Ongoing) 
+Journals
+Past House Floor Debates
+Past Senate Floor Debates
+More
+
+
+Staff Offices
+
+All Legislative Offices
+Auditor General
+Fiscal Analyst
+Printing
+Research and General Counsel
+Staff Awards
+Job Opportunities
+More
+
+
+Links of Interest
+
+Utah Administrative Rules
+Courts
+Utah State Capitol
+State of Utah
+Federal Legislation
+More
+
+
+
+
+
+
+ 
+
+Download Zipped Enrolled WordPerfect SB0015.ZIP
+[Introduced][Amended][Status][Bill Documents][Fiscal Note][Bills Directory]
+
+
+S.B. 15 Enrolled
+
+
+
+
+
+            
+1
+
+    
+ WORKFORCE SERVICES - REPORTING
+
+            
+2
+
+    
+ MISUSE OF PERSONAL IDENTIFYING
+
+            
+3
+
+    
+ INFORMATION
+
+
+
+            
+4
+
+    
+2007 GENERAL SESSION
+
+            
+5
+
+    
+STATE OF UTAH
+
+            
+6
+
+    
+
+
+ Chief Sponsor:  Carlene M. Walker
+
+
+
+            
+7
+
+    
+
+
+
+House Sponsor:  
+
+
+
+
+
+
+David  Clark
+
+
+
+
+
+            
+8
+
+    
+Cosponsors:
+            
+9
+
+    
+Dan R. EastmanJohn W. HickmanPeter C. Knudson
+            
+10
+
+    
+
+            
+11
+
+    
+ LONG TITLE
+            
+12
+
+    
+ General Description:
+            
+13
+
+    
+    This bill modifies the Employment Security Act by allowing the Department of
+            
+14
+
+    
+Workforce Services to disclose to an individual and law enforcement agencies
+            
+15
+
+    
+responsible for investigating identity fraud the suspected misuse of the individual's
+            
+16
+
+    
+personal identifying information.
+            
+17
+
+    
+ Highlighted Provisions:
+            
+18
+
+    
+    This bill:
+            
+19
+
+    
+    .    provides that the Department of Workforce Services may disclose to an individual
+            
+20
+
+    
+the suspected misuse of the individual's personal identifying information;
+            
+21
+
+    
+    .    provides that the suspected misuse may also be reported to appropriate law
+            
+22
+
+    
+enforcement agencies responsible for investigating identity fraud violations;
+            
+23
+
+    
+    .    provides that the suspected use of personal identifying information includes a Social
+            
+24
+
+    
+Security number under which wages are being reported by two or more individuals
+            
+25
+
+    
+or that of an individual under the age of 16 with reported wages exceeding $1,000
+            
+26
+
+    
+for a single reporting quarter; and
+            
+27
+
+    
+    .    reduces from a class A to a class C misdemeanor a violation of the disclosure
+            
+28
+
+    
+provisions of Section 
+
+35A-4-312
+
+.
+            
+29
+
+    
+ Monies Appropriated in this Bill:
+
+            
+30
+
+
+    
+    None
+            
+31
+
+    
+ Other Special Clauses:
+            
+32
+
+    
+    None
+            
+33
+
+    
+ Utah Code Sections Affected:
+            
+34
+
+    
+AMENDS:
+            
+35
+
+    
+     76-8-1301, as enacted by Chapter 135, Laws of Utah 2003
+            
+36
+
+    
+ENACTS:
+            
+37
+
+    
+     35A-4-312.5, Utah Code Annotated 1953
+            
+38
+
+    
+
+            
+39
+
+    
+Be it enacted by the Legislature of the state of Utah:
+            
+40
+
+    
+    Section 1.  
+Section  
+35A-4-312.5
+
+ is enacted to read:
+            
+41
+
+    
+     35A-4-312.5.  Suspected misuse of personal identifying information.
+            
+42
+
+    
+    (1)  As used in this section:
+            
+43
+
+    
+    (a)  "Personal identifying information" has the same meaning as defined in Section
+            
+44
+
+    
+
+
+76-6-1102
+
+.
+            
+45
+
+    
+    (b)  "Suspected misuse of personal identifying information" includes:
+            
+46
+
+    
+    (i)  a Social Security number under which wages are being reported by two or more
+            
+47
+
+    
+individuals; or
+            
+48
+
+    
+    (ii)  a Social Security number of an individual under the age of 16 with reported wages
+            
+49
+
+    
+exceeding $1,000 for a single reporting quarter.
+            
+50
+
+    
+    (2)  Notwithstanding Section 
+
+35A-4-312
+
+, if the department records disclose a suspected
+            
+51
+
+    
+misuse of personal identifying information by an individual other than the purported owner of
+            
+52
+
+    
+the information, the department may:
+            
+53
+
+    
+    (a)  inform the purported owner of the information or, if the purported owner is a minor,
+            
+54
+
+    
+the minor's parent or guardian, of the suspected misuse; and
+            
+55
+
+    
+    (b)  provide information of the suspected misuse to an appropriate law enforcement
+            
+56
+
+    
+agency responsible for investigating an identity fraud violation.
+            
+57
+
+    
+    Section 2.  
+Section  
+76-8-1301
+
+ is amended to read:
+
+            
+58
+
+
+    
+     76-8-1301.  False statements regarding unemployment compensation -- Penalties.
+            
+59
+
+    
+    (1) (a)  A person who makes a false statement or representation knowing it to be false
+            
+60
+
+    
+or knowingly fails to disclose a material fact, to obtain or increase a benefit or other payment
+            
+61
+
+    
+under Title 35A, Chapter 4, Employment Security Act, or under the Unemployment
+            
+62
+
+    
+Compensation Law of any state or of the federal government for any person is guilty of
+            
+63
+
+    
+unemployment insurance fraud.
+            
+64
+
+    
+    (b)  A violation of Subsection (1)(a) is:
+            
+65
+
+    
+    (i)  a class B misdemeanor when the value of the money obtained or sought to be
+            
+66
+
+    
+obtained is less than $300;
+            
+67
+
+    
+    (ii)  a class A misdemeanor when the value of the money obtained or sought to be
+            
+68
+
+    
+obtained is or exceeds $300 but is less than $1,000;
+            
+69
+
+    
+    (iii)  a third degree felony when the value of the money obtained or sought to be
+            
+70
+
+    
+obtained is or exceeds $1,000 but is less than $5,000; or
+            
+71
+
+    
+    (iv)  a second degree felony when the value of the money obtained or sought to be
+            
+72
+
+    
+obtained is or exceeds $5,000.
+            
+73
+
+    
+    (c)  The determination of the degree of an offense under Subsection (1)(b) shall be
+            
+74
+
+    
+measured by the total value of all money obtained or sought to be obtained by the unlawful
+            
+75
+
+    
+conduct.
+            
+76
+
+    
+    (2) (a)  An officer or agent of an employing unit as defined in Section 
+
+35A-4-202
+
+ or any
+            
+77
+
+    
+other person who makes a false statement or representation knowing it to be false, or who
+            
+78
+
+    
+knowingly fails to disclose a material fact, to prevent or reduce the payment of unemployment
+            
+79
+
+    
+compensation benefits to an individual entitled to those benefits, or to avoid becoming or
+            
+80
+
+    
+remaining a subject employer or to avoid or reduce any contribution or other payment required
+            
+81
+
+    
+from an employing unit under Title 35A, Chapter 4, Employment Security Act, or under the
+            
+82
+
+    
+Unemployment Compensation Law of any state or of the federal government, or who willfully
+            
+83
+
+    
+fails or refuses to make a contribution or other payment or to furnish any report required in
+            
+84
+
+    
+Title 35A, Chapter 4, Employment Security Act, or to produce or permit the inspection or
+            
+85
+
+    
+copying of records as required under that chapter is guilty of unemployment insurance fraud.
+
+            
+86
+
+
+    
+    (b)  A violation of Subsection (2)(a) is:
+            
+87
+
+    
+    (i)  a class B misdemeanor when the value of the money obtained or sought to be
+            
+88
+
+    
+obtained is less than $300;
+            
+89
+
+    
+    (ii)  a class A misdemeanor when the value of the money obtained or sought to be
+            
+90
+
+    
+obtained is or exceeds $300 but is less than $1,000;
+            
+91
+
+    
+    (iii)  a third degree felony when the value of the money obtained or sought to be
+            
+92
+
+    
+obtained is or exceeds $1,000 but is less than $5,000; or
+            
+93
+
+    
+    (iv)  a second degree felony when the value of the money obtained or sought to be
+            
+94
+
+    
+obtained is or exceeds $5,000.
+            
+95
+
+    
+    (3) (a)  A person who willfully violates any provision of Title 35A, Chapter 4,
+            
+96
+
+    
+Employment Security Act, or any order or rule made under that chapter, the violation of which
+            
+97
+
+    
+is made unlawful or the observance of which is required under the terms of that chapter, and
+            
+98
+
+    
+for which a penalty is neither prescribed in that chapter nor provided by any other applicable
+            
+99
+
+    
+statute is guilty of a class A misdemeanor.
+            
+100
+
+    
+    (b)  Each day a violation of Subsection (3)(a) continues shall be a separate offense.
+            
+101
+
+    
+    (4)  A person is guilty of a class [A] C misdemeanor if:
+            
+102
+
+    
+    (a)  as an employee of the Department of Workforce Services, in willful violation of
+            
+103
+
+    
+Section 
+
+35A-4-312
+
+, the employee makes a disclosure of information obtained from an
+            
+104
+
+    
+employing unit or individual in the administration of Title 35A, Chapter 4, Employment
+            
+105
+
+    
+Security Act; or
+            
+106
+
+    
+    (b)  the person has obtained a list of applicants for work or of claimants or recipients of
+            
+107
+
+    
+benefits under Title 35A, Chapter 4, Employment Security Act, and uses or permits the use of
+            
+108
+
+    
+the list for any political purpose.
+[Bill Documents][Bills Directory]
+
+
+
+
+
+
+
+
+
+Who represents me?
+
+
+
+
+
+Remember my Legislators
+
+
+
+
+
+State Senate
+		350 North State, Suite 320
+		PO Box 145115
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1035
+		Fax: (801) 326-1475
+
+
+
+House of Representatives
+		350 North State, Suite 350
+		PO Box 145030
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1029
+		Fax: (801) 326-1544
+
+
+
+
+
+
+
+
+
+
+Home
+Mobile Site
+Site Map
+Calendar
+Code / Constitution
+House
+Senate
+
+Terms of Use/Privacy Policy
+
+ADA
+Utah.gov
+
+
+
+
+
+
+

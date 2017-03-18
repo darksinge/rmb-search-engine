@@ -1,0 +1,499 @@
+Sponsors: []Modifications: licensedbe licensedlicensingused(3)  An applicant for licensure as a dealer or for renewal of licensure shall demonstrate tothe division the applicant's or licensee's financial responsibility before the issuance of or renewalof a license.(a)  Evidence of financial responsibility shall be demonstrated by providing the divisionwith a license bond, cash deposit, financial statements prepared by an independent certified publicaccountant, or by division review of the applicant's or licensee's financial statements, at the optionof the licensee and in accordance with rules established by the division in accordance with Title63, Chapter 46a, Utah Administrative Rulemaking Act.(b)  The financial responsibility of a corporation shall be established independently of andwithout reliance upon the assets or guarantees of its officers, directors, and stockholders, but uponshowing of reasonable need, the division may inquire into the financial responsibility of thecorporation's officers and directors as a criterion in determining the corporation's financialresponsibility.licensureusedpermanentlyFull text:
+
+
+
+Utah State Legislature
+
+
+
+
+
+
+
+
+
+
+
+
+Legislators
+
+By Session (1896-Current)
+Alphabetical (Historical)
+Find by Address/Map
+More
+
+
+Bills
+
+Bills/Bill Requests
+Passed Bills
+2017 Bills
+
+Keyword Search
+Reading Calendars
+Tracking Service
+More
+
+
+Committees
+
+All Committees
+Appropriations
+Commissions
+
+Independent Legislative Ethics Commission
+Interim
+Standing
+Subcommittees
+Task Forces
+Bills In Committees
+
+
+Utah Code / Constitution
+
+
+Title/Chapter/Section
+Keyword Search 
+
+Utah Constitution
+Laws of Utah 1851-ongoing
+Utah Territorial Laws 
+More
+
+
+Senate
+
+Main Page 
+About The Senate 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Extraordinary Sessions 
+Reading Calendars 
+Past Floor Debates 
+Senate Journals 
+
+
+House
+
+Main Page
+About the House 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Reading Calendars 
+Past Floor Debates 
+Journals 
+Conflict of Interest Forms 
+
+
+Legislative Guide 
+
+Legislative Guide
+Civic Programs
+GRAMA (Records Requests)
+
+
+Publications
+
+Search Publications
+Appropriations
+Audits
+Bagels & Briefings
+Briefing Papers
+Digest of Legislation
+Legislative Drafting Manual
+
+Journals
+
+Interim Highlights
+
+Legislative Rules
+GRAMA (Records Requests)
+Public Email
+State Organization Charts
+YouTube Channel
+Requests for Proposals and Legal Notices
+More
+
+
+Legislative Histories
+
+Legislative History Resources
+How to Research
+Bill Drafting/Research Files (1990-Ongoing)
+
+Working Bills (1896-1989)
+Interim Committee Histories (1990-Ongoing) 
+Journals
+Past House Floor Debates
+Past Senate Floor Debates
+More
+
+
+Staff Offices
+
+All Legislative Offices
+Auditor General
+Fiscal Analyst
+Printing
+Research and General Counsel
+Staff Awards
+Job Opportunities
+More
+
+
+Links of Interest
+
+Utah Administrative Rules
+Courts
+Utah State Capitol
+State of Utah
+Federal Legislation
+More
+
+
+
+
+
+
+ 
+
+Download Zipped Introduced WP 6.1 HB0411.ZIP 9,581 Bytes
+[Status][Bill Documents][Fiscal Note][Bills Directory]
+
+
+H.B. 411
+
+
+
+
+
+1     LICENSING THE SALE OF FACTORY BUILT
+
+
+2     HOUSING
+
+
+
+
+3    1998 GENERAL SESSION
+
+
+4    STATE OF UTAH
+
+
+5     Sponsor:  Lloyd W. Frandsen
+
+
+6    AN ACT RELATING TO OCCUPATIONS AND PROFESSIONS; REQUIRING LICENSURE
+
+7    OF PERSONS ENGAGED IN THE SALE OF FACTORY BUILT HOUSING; REQUIRING
+
+8    LICENSEES TO DEMONSTRATE FINANCIAL RESPONSIBILITY; AND MAKING
+
+9    TECHNICAL CHANGES.
+
+10    This act affects sections of Utah Code Annotated 1953 as follows:
+
+11    AMENDS:
+
+12         58-56-3, as last amended by Chapter 218, Laws of Utah 1995
+
+13         58-56-16, as last amended by Chapter 252, Laws of Utah 1993
+
+14         58-56-17, as last amended by Chapter 385, Laws of Utah 1997
+
+15    Be it enacted by the Legislature of the state of Utah:
+
+16        Section 1.  Section  58-56-3 is amended to read:
+
+17         58-56-3.  Definitions.  
+
+18        In addition to the definitions in Section 58-1-102, as used in this chapter:
+
+19        (1)  "ANSI" means American National Standards Institute, Inc.
+
+20        (2)  "Code(s)" means the NEC, building code, mechanical code, or plumbing code as
+
+21    defined in this section and as applied in context.
+
+22        (3)  "Commission" means the Uniform Building Code Commission created under this
+
+23    chapter.
+
+24        (4)  "Compliance agency" means an agency of the state or any of its political subdivisions
+
+25    which issue permits for construction regulated under the codes, or any other agency of the state
+
+26    or its political subdivisions specifically empowered to enforce compliance with the codes.
+
+27        (5)  "Factory built housing" means manufactured homes or mobile homes.
+
+
+1        (6)  "HUD code" means the Federal Manufactured Housing Construction and Safety
+
+2    Standards Act.
+
+3        (7)  "Installation standard" means the standard adopted and published by the National
+
+4    Conference of States on Building Codes and Standards (NCSBCS), for the installation of
+
+5    manufactured homes titled "The Standard for Manufactured Home Installations," the
+
+6    accompanying manufacturer's instructions for the installation of the manufactured home, or such
+
+7    equivalent standard as adopted by rule.
+
+8        (8)  "Local regulator" means each political subdivision of the state which is empowered
+
+9    to engage in the regulation of construction, alteration, remodeling, building, repair, and other
+
+10    activities subject to the codes adopted pursuant to this chapter.
+
+11        (9)  "Manufactured home" means a transportable factory built housing unit constructed on
+
+12    or after June 15, 1976, according to the Federal Home Construction and Safety Standards Act of
+
+13    1974 (HUD Code), in one or more sections, which, in the traveling mode, is eight body feet or
+
+14    more in width or 40 body feet or more in length, or when erected on site, is 400 or more square
+
+15    feet, and which is built on a permanent chassis and designed to be used as a dwelling with or
+
+16    without a permanent foundation when connected to the required utilities, and includes the
+
+17    plumbing, heating, air-conditioning, and electrical systems.  All manufactured homes constructed
+
+18    on or after June 15, 1976, shall be identifiable by the manufacturer's data plate bearing the date the
+
+19    unit was manufactured and a HUD label attached to the exterior of the home certifying the home
+
+20    was manufactured to HUD standards.
+
+21        (10)  "Factory built housing set-up contractor" means an individual licensed by the division
+
+22    to set up or install factory built housing on a temporary or permanent basis.  The scope of the work
+
+23    included under the license includes the placement and or securing of the factory built housing on
+
+24    a permanent or temporary foundation, securing the units together if required, and connection of
+
+25    the utilities to the factory built housing unit, but does not include site preparation, construction of
+
+26    a permanent foundation, and construction of utility services to the near proximity of the factory
+
+27    built housing unit.  If a dealer is not licensed as a factory built housing set up contractor, that
+
+28    individual must subcontract the connection services to individuals who are licensed by the division
+
+29    to perform those specific functions under Title 58, Chapter 55, Utah Construction Trades
+
+30    Licensing Act.
+
+31        (11)  "Mobile home" means a transportable factory built housing unit built prior to June
+
+- 2 -
+
+
+1    15, 1976, in accordance with a state mobile home code which existed prior to the Federal
+
+2    Manufactured Housing and Safety Standards Act (HUD Code).
+
+3        (12)  "Modular unit" means a structure built from sections which are manufactured in
+
+4    accordance with the construction standards adopted pursuant to Section 58-56-4 and transported
+
+5    to a building site, the purpose of which is for human habitation, occupancy, or use.
+
+6        (13)  "NEC" means the National Electrical Code.
+
+7        (14)  "Opinion" means a written, nonbinding, and advisory statement issued by the
+
+8    commission concerning an interpretation of the meaning of the codes or the application of the
+
+9    codes in a specific circumstance issued in response to a specific request by a party to the issue.
+
+10        (15)  "State regulator" means an agency of the state which is empowered to engage in the
+
+11    regulation of construction, alteration, remodeling, building, repair, and other activities subject to
+
+12    the codes adopted pursuant to this chapter.
+
+13        (16)  "Unlawful conduct" as defined in Section 58-1-501 includes:
+
+14        (a)  engaging in the sale of factory built housing without being [registered] licensed with
+
+15    the division as a dealer, unless the sale is exempt under Section 58-56-16; and
+
+16        (b)  selling factory built housing within the state as a dealer without collecting and
+
+17    remitting to the division the fee required by Section 58-56-17.
+
+18        Section 2.  Section  58-56-16 is amended to read:
+
+19         58-56-16.  Licensure of dealers.  
+
+20        (1)  Each person engaged in the sale of factory built housing in the state shall [annually
+
+21    register] be licensed with the division as a dealer and shall pay an annual [registration] licensing
+
+22    fee of $15.
+
+23        (2)  Subsection (1) does not apply to:
+
+24        (a)  a person not regularly engaged in the sale of factory built housing who is selling a unit
+
+25    he owns for his own account;
+
+26        (b)  a principal broker licensed under Title 61, Chapter 2, Division of Real Estate; or
+
+27        (c)  a sales agent or associate broker licensed under Title 61, Chapter 2, Division of Real
+
+28    Estate, who sells used factory built housing as an agent for, and under the supervision, of the
+
+29    licensed principal broker with whom he is affiliated.
+
+30        (3)  An applicant for licensure as a dealer or for renewal of licensure shall demonstrate to
+
+31    the division the applicant's or licensee's financial responsibility before the issuance of or renewal
+
+- 3 -
+
+
+1    of a license.
+
+2        (a)  Evidence of financial responsibility shall be demonstrated by providing the division
+
+3    with a license bond, cash deposit, financial statements prepared by an independent certified public
+
+4    accountant, or by division review of the applicant's or licensee's financial statements, at the option
+
+5    of the licensee and in accordance with rules established by the division in accordance with Title
+
+6    63, Chapter 46a, Utah Administrative Rulemaking Act.
+
+7        (b)  The financial responsibility of a corporation shall be established independently of and
+
+8    without reliance upon the assets or guarantees of its officers, directors, and stockholders, but upon
+
+9    showing of reasonable need, the division may inquire into the financial responsibility of the
+
+10    corporation's officers and directors as a criterion in determining the corporation's financial
+
+11    responsibility.
+
+12        Section 3.  Section  58-56-17 is amended to read:
+
+13         58-56-17.  Fees on sale -- Escrow agents.
+
+14        (1)  Each dealer shall collect and remit a fee of $75 to the division for each factory built
+
+15    home the dealer sells that has not been permanently affixed to real property.  The fee shall be
+
+16    payable within 30 days following the close of each calendar quarter for all units sold during that
+
+17    calendar quarter.  The fee shall be deposited in a restricted account as provided in Section
+
+18    58-56-17.5.
+
+19        (2)  Any principal real estate broker, associate broker, or sales agent exempt from
+
+20    [registration] licensure as a dealer under Section 58-56-16 who sells a used factory built home that
+
+21    has not been permanently affixed to real property shall close the sale only through a qualified
+
+22    escrow agent in this state registered with the Insurance Department or the Department of Financial
+
+23    Institutions.
+
+24        [(3)  Each escrow agent through which a sale is closed under Subsection (2) shall remit all
+
+25    required sales tax to the state.]
+
+
+- 4 -
+
+
+
+
+ Legislative Review Note
+    as of   2-4-98  4:18 PM
+
+
+A limited legal review of this bill raises no obvious constitutional or statutory concerns.
+
+ Office of Legislative Research and General Counsel
+
+
+- 5 -
+[Bill Documents][Bills Directory]
+
+
+
+
+
+
+
+
+
+Who represents me?
+
+
+
+
+
+Remember my Legislators
+
+
+
+
+
+State Senate
+		350 North State, Suite 320
+		PO Box 145115
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1035
+		Fax: (801) 326-1475
+
+
+
+House of Representatives
+		350 North State, Suite 350
+		PO Box 145030
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1029
+		Fax: (801) 326-1544
+
+
+
+
+
+
+
+
+
+
+Home
+Mobile Site
+Site Map
+Calendar
+Code / Constitution
+House
+Senate
+
+Terms of Use/Privacy Policy
+
+ADA
+Utah.gov
+
+
+
+
+
+
+

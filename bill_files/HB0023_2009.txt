@@ -1,0 +1,1428 @@
+Sponsors: []Modifications: (A)(B)(C)andThis bill has retrospective operation for a taxable year beginning on or after January 1,2009.Full text:
+
+
+
+Utah State Legislature
+
+
+
+
+
+
+
+
+
+
+
+
+Legislators
+
+By Session (1896-Current)
+Alphabetical (Historical)
+Find by Address/Map
+More
+
+
+Bills
+
+Bills/Bill Requests
+Passed Bills
+2017 Bills
+
+Keyword Search
+Reading Calendars
+Tracking Service
+More
+
+
+Committees
+
+All Committees
+Appropriations
+Commissions
+
+Independent Legislative Ethics Commission
+Interim
+Standing
+Subcommittees
+Task Forces
+Bills In Committees
+
+
+Utah Code / Constitution
+
+
+Title/Chapter/Section
+Keyword Search 
+
+Utah Constitution
+Laws of Utah 1851-ongoing
+Utah Territorial Laws 
+More
+
+
+Senate
+
+Main Page 
+About The Senate 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Extraordinary Sessions 
+Reading Calendars 
+Past Floor Debates 
+Senate Journals 
+
+
+House
+
+Main Page
+About the House 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Reading Calendars 
+Past Floor Debates 
+Journals 
+Conflict of Interest Forms 
+
+
+Legislative Guide 
+
+Legislative Guide
+Civic Programs
+GRAMA (Records Requests)
+
+
+Publications
+
+Search Publications
+Appropriations
+Audits
+Bagels & Briefings
+Briefing Papers
+Digest of Legislation
+Legislative Drafting Manual
+
+Journals
+
+Interim Highlights
+
+Legislative Rules
+GRAMA (Records Requests)
+Public Email
+State Organization Charts
+YouTube Channel
+Requests for Proposals and Legal Notices
+More
+
+
+Legislative Histories
+
+Legislative History Resources
+How to Research
+Bill Drafting/Research Files (1990-Ongoing)
+
+Working Bills (1896-1989)
+Interim Committee Histories (1990-Ongoing) 
+Journals
+Past House Floor Debates
+Past Senate Floor Debates
+More
+
+
+Staff Offices
+
+All Legislative Offices
+Auditor General
+Fiscal Analyst
+Printing
+Research and General Counsel
+Staff Awards
+Job Opportunities
+More
+
+
+Links of Interest
+
+Utah Administrative Rules
+Courts
+Utah State Capitol
+State of Utah
+Federal Legislation
+More
+
+
+
+
+
+
+ 
+
+Download Zipped Introduced WordPerfect HB0023.ZIP
+[Status][Bill Documents][Fiscal Note][Bills Directory]
+
+
+H.B. 23
+
+
+
+
+
+            
+1
+
+    
+ CERTIFIED TAX RATE AMENDMENTS
+
+
+
+            
+2
+
+    
+2009 GENERAL SESSION
+
+            
+3
+
+    
+STATE OF UTAH
+
+            
+4
+
+    
+
+
+ Chief Sponsor:  Fred R. Hunsaker
+
+
+
+            
+5
+
+    
+
+
+
+Senate Sponsor:  
+
+
+
+
+
+
+____________
+
+
+
+
+
+            
+6
+
+    
+
+            
+7
+
+    
+ LONG TITLE
+            
+8
+
+    
+ Committee Note:
+            
+9
+
+    
+    The Revenue and Taxation Interim Committee recommended this bill.
+            
+10
+
+    
+ General Description:
+            
+11
+
+    
+    This bill amends provisions in the Property Tax Act relating to the calculation of a
+            
+12
+
+    
+taxing entity's certified tax rate.
+            
+13
+
+    
+ Highlighted Provisions:
+            
+14
+
+    
+    This bill:
+            
+15
+
+    
+    .    includes the revenue a taxing entity collects from redemptions as "ad valorem
+            
+16
+
+    
+property tax revenues" for purposes of calculating the taxing entity's certified tax
+            
+17
+
+    
+rate;
+            
+18
+
+    
+    .    defines terms; and
+            
+19
+
+    
+    .    makes technical changes.
+            
+20
+
+    
+ Monies Appropriated in this Bill:
+            
+21
+
+    
+    None
+            
+22
+
+    
+ Other Special Clauses:
+            
+23
+
+    
+    This bill has retrospective operation for taxable years beginning on or after January 1,
+            
+24
+
+    
+2009.
+            
+25
+
+    
+ Utah Code Sections Affected:
+            
+26
+
+    
+AMENDS:
+            
+27
+
+    
+     59-2-924, as last amended by Laws of Utah 2008, Chapters 61, 118, 231, 236, 330, 360,
+
+            
+28
+
+
+    
+and 382
+            
+29
+
+    
+
+            
+30
+
+    
+Be it enacted by the Legislature of the state of Utah:
+            
+31
+
+    
+    Section 1.  
+Section  
+59-2-924
+
+ is amended to read:
+            
+32
+
+    
+     59-2-924.  Report of valuation of property to county auditor and commission --
+            
+33
+
+    
+ Transmittal by auditor to governing bodies -- Certified tax rate -- Calculation of certified
+            
+34
+
+    
+ tax rate -- Rulemaking authority -- Adoption of tentative budget.
+            
+35
+
+    
+    (1)  Before June 1 of each year, the county assessor of each county shall deliver to the
+            
+36
+
+    
+county auditor and the commission the following statements:
+            
+37
+
+    
+    (a)  a statement containing the aggregate valuation of all taxable real property assessed
+            
+38
+
+    
+by a county assessor in accordance with Part 3, County Assessment, for each taxing entity; and
+            
+39
+
+    
+    (b)  a statement containing the taxable value of all personal property assessed by a
+            
+40
+
+    
+county assessor in accordance with Part 3, County Assessment, from the prior year end values.
+            
+41
+
+    
+    (2)  The county auditor shall, on or before June 8, transmit to the governing body of
+            
+42
+
+    
+each taxing entity:
+            
+43
+
+    
+    (a)  the statements described in Subsections (1)(a) and (b);
+            
+44
+
+    
+    (b)  an estimate of the revenue from personal property;
+            
+45
+
+    
+    (c)  the certified tax rate; and
+            
+46
+
+    
+    (d)  all forms necessary to submit a tax levy request.
+            
+47
+
+    
+    (3) (a)  The "certified tax rate" means a tax rate that will provide the same ad valorem
+            
+48
+
+    
+property tax revenues for a taxing entity as were budgeted by that taxing entity for the prior
+            
+49
+
+    
+year.
+            
+50
+
+    
+    (b)  For purposes of this Subsection (3):
+            
+51
+
+    
+    (i)  "Ad valorem property tax revenues" do not include:
+            
+52
+
+    
+    [(A)  collections from redemptions;]
+            
+53
+
+    
+    [(B)] (A)  interest;
+            
+54
+
+    
+    [(C)] (B)  penalties; and
+            
+55
+
+    
+    [(D)] (C)  revenue received by a taxing entity from personal property that is:
+            
+56
+
+    
+    (I)  assessed by a county assessor in accordance with Part 3, County Assessment; and
+            
+57
+
+    
+    (II)  semiconductor manufacturing equipment.
+            
+58
+
+    
+    (ii)  "Aggregate taxable value of all property taxed" means:
+
+            
+59
+
+
+    
+    (A)  the aggregate taxable value of all real property assessed by a county assessor in
+            
+60
+
+    
+accordance with Part 3, County Assessment, for the current year;
+            
+61
+
+    
+    (B)  the aggregate taxable year end value of all personal property assessed by a county
+            
+62
+
+    
+assessor in accordance with Part 3, County Assessment, for the prior year; and
+            
+63
+
+    
+    (C)  the aggregate taxable value of all real and personal property assessed by the
+            
+64
+
+    
+commission in accordance with Part 2, Assessment of Property, for the current year.
+            
+65
+
+    
+    (c) (i)  Except as otherwise provided in this section, the certified tax rate shall be
+            
+66
+
+    
+calculated by dividing the ad valorem property tax revenues budgeted for the prior year by the
+            
+67
+
+    
+taxing entity by the amount calculated under Subsection (3)(c)(ii).
+            
+68
+
+    
+    (ii)  For purposes of Subsection (3)(c)(i), the legislative body of a taxing entity shall
+            
+69
+
+    
+calculate an amount as follows:
+            
+70
+
+    
+    (A)  calculate for the taxing entity the difference between:
+            
+71
+
+    
+    (I)  the aggregate taxable value of all property taxed; and
+            
+72
+
+    
+    (II)  any redevelopment adjustments for the current calendar year;
+            
+73
+
+    
+    (B)  after making the calculation required by Subsection (3)(c)(ii)(A), calculate an
+            
+74
+
+    
+amount determined by increasing or decreasing the amount calculated under Subsection
+            
+75
+
+    
+(3)(c)(ii)(A) by the average of the percentage net change in the value of taxable property for the
+            
+76
+
+    
+equalization period for the three calendar years immediately preceding the current calendar
+            
+77
+
+    
+year;
+            
+78
+
+    
+    (C)  after making the calculation required by Subsection (3)(c)(ii)(B), calculate the
+            
+79
+
+    
+product of:
+            
+80
+
+    
+    (I)  the amount calculated under Subsection (3)(c)(ii)(B); and
+            
+81
+
+    
+    (II)  the percentage of property taxes collected for the five calendar years immediately
+            
+82
+
+    
+preceding the current calendar year; and
+            
+83
+
+    
+    (D)  after making the calculation required by Subsection (3)(c)(ii)(C), calculate an
+            
+84
+
+    
+amount determined by subtracting from the amount calculated under Subsection (3)(c)(ii)(C)
+            
+85
+
+    
+any new growth as defined in this section:
+            
+86
+
+    
+    (I)  within the taxing entity; and
+            
+87
+
+    
+    (II)  for the following calendar year:
+            
+88
+
+    
+    (Aa)  for new growth from real property assessed by a county assessor in accordance
+            
+89
+
+    
+with Part 3, County Assessment and all property assessed by the commission in accordance
+
+            
+90
+
+
+    
+with Section 
+
+59-2-201
+
+, the current calendar year; and
+            
+91
+
+    
+    (Bb)  for new growth from personal property assessed by a county assessor in
+            
+92
+
+    
+accordance with Part 3, County Assessment, the prior calendar year.
+            
+93
+
+    
+    (iii)  For purposes of Subsection (3)(c)(ii)(A), the aggregate taxable value of all
+            
+94
+
+    
+property taxed:
+            
+95
+
+    
+    (A)  except as provided in Subsection (3)(c)(iii)(B) or (3)(c)(ii)(C), is as defined in
+            
+96
+
+    
+Subsection (3)(b)(ii);
+            
+97
+
+    
+    (B)  does not include the total taxable value of personal property contained on the tax
+            
+98
+
+    
+rolls of the taxing entity that is:
+            
+99
+
+    
+    (I)  assessed by a county assessor in accordance with Part 3, County Assessment; and
+            
+100
+
+    
+    (II)  semiconductor manufacturing equipment; and
+            
+101
+
+    
+    (C)  for personal property assessed by a county assessor in accordance with Part 3,
+            
+102
+
+    
+County Assessment, the taxable value of personal property is the year end value of the personal
+            
+103
+
+    
+property contained on the prior year's tax rolls of the entity.
+            
+104
+
+    
+    (iv)  For purposes of Subsection (3)(c)(ii)(B), for calendar years beginning on or after
+            
+105
+
+    
+January 1, 2007, the value of taxable property does not include the value of personal property
+            
+106
+
+    
+that is:
+            
+107
+
+    
+    (A)  within the taxing entity assessed by a county assessor in accordance with Part 3,
+            
+108
+
+    
+County Assessment; and
+            
+109
+
+    
+    (B)  semiconductor manufacturing equipment.
+            
+110
+
+    
+    (v)  For purposes of Subsection (3)(c)(ii)(C)(II), for calendar years beginning on or after
+            
+111
+
+    
+January 1, 2007, the percentage of property taxes collected does not include property taxes
+            
+112
+
+    
+collected from personal property that is:
+            
+113
+
+    
+    (A)  within the taxing entity assessed by a county assessor in accordance with Part 3,
+            
+114
+
+    
+County Assessment; and
+            
+115
+
+    
+    (B)  semiconductor manufacturing equipment.
+            
+116
+
+    
+    (vi)  For purposes of Subsection (3)(c)(ii)(B), for calendar years beginning on or after
+            
+117
+
+    
+January 1, 2009, the value of taxable property does not include the value of personal property
+            
+118
+
+    
+that is within the taxing entity assessed by a county assessor in accordance with Part 3, County
+            
+119
+
+    
+Assessment.
+            
+120
+
+    
+    (vii)  In accordance with Title 63G, Chapter 3, Utah Administrative Rulemaking Act,
+
+            
+121
+
+
+    
+the commission may prescribe rules for calculating redevelopment adjustments for a calendar
+            
+122
+
+    
+year.
+            
+123
+
+    
+    (d) (i)  In accordance with Title 63G, Chapter 3, Utah Administrative Rulemaking Act,
+            
+124
+
+    
+the commission shall make rules determining the calculation of ad valorem property tax
+            
+125
+
+    
+revenues budgeted by a taxing entity.
+            
+126
+
+    
+    (ii)  For purposes of Subsection (3)(d)(i), ad valorem property tax revenues budgeted by
+            
+127
+
+    
+a taxing entity shall be calculated in the same manner as budgeted property tax revenues are
+            
+128
+
+    
+calculated for purposes of Section 
+
+59-2-913
+
+.
+            
+129
+
+    
+    (e)  The certified tax rates for the taxing entities described in this Subsection (3)(e) shall
+            
+130
+
+    
+be calculated as follows:
+            
+131
+
+    
+    (i)  except as provided in Subsection (3)(e)(ii), for new taxing entities the certified tax
+            
+132
+
+    
+rate is zero;
+            
+133
+
+    
+    (ii)  for each municipality incorporated on or after July 1, 1996, the certified tax rate is:
+            
+134
+
+    
+    (A)  in a county of the first, second, or third class, the levy imposed for municipal-type
+            
+135
+
+    
+services under Sections 
+
+17-34-1
+
+ and 
+
+17-36-9
+
+; and
+            
+136
+
+    
+    (B)  in a county of the fourth, fifth, or sixth class, the levy imposed for general county
+            
+137
+
+    
+purposes and such other levies imposed solely for the municipal-type services identified in
+            
+138
+
+    
+Section 
+
+17-34-1
+
+ and Subsection 
+
+17-36-3
+
+(22); and
+            
+139
+
+    
+    (iii)  for debt service voted on by the public, the certified tax rate shall be the actual
+            
+140
+
+    
+levy imposed by that section, except that the certified tax rates for the following levies shall be
+            
+141
+
+    
+calculated in accordance with Section 
+
+59-2-913
+
+ and this section:
+            
+142
+
+    
+    (A)  school leeways provided for under Sections 
+
+11-2-7
+
+, 
+
+53A-16-110
+
+, 
+
+[53A-17a-125
+
+,]
+            
+143
+
+    
+
+53A-17a-127
+
+, 
+
+53A-17a-133
+
+, 
+
+53A-17a-134
+
+, 
+
+53A-17a-143
+
+, and
+
+53A-17a-145
+
+[, and
+            
+144
+
+    
+
+
+53A-21-103
+
+]; and
+            
+145
+
+    
+    (B)  levies to pay for the costs of state legislative mandates or judicial or administrative
+            
+146
+
+    
+orders under Section 
+
+59-2-1604
+
+.
+            
+147
+
+    
+    (f) (i)  A judgment levy imposed under Section 
+
+59-2-1328
+
+ or 
+
+59-2-1330
+
+ shall be
+            
+148
+
+    
+established at that rate which is sufficient to generate only the revenue required to satisfy one
+            
+149
+
+    
+or more eligible judgments, as defined in Section 
+
+59-2-102
+
+.
+            
+150
+
+    
+    (ii)  The ad valorem property tax revenue generated by the judgment levy shall not be
+            
+151
+
+    
+considered in establishing the taxing entity's aggregate certified tax rate.
+
+            
+152
+
+
+    
+    (g)  The ad valorem property tax revenue generated by the capital outlay levy described
+            
+153
+
+    
+in Section 
+
+53A-16-107
+
+ within a taxing entity in a county of the first class:
+            
+154
+
+    
+    (i)  may not be considered in establishing the school district's aggregate certified tax
+            
+155
+
+    
+rate; and
+            
+156
+
+    
+    (ii)  shall be included by the commission in establishing a certified tax rate for that
+            
+157
+
+    
+capital outlay levy determined in accordance with the calculation described in Subsection
+            
+158
+
+    
+
+59-2-913
+
+(3).
+            
+159
+
+    
+    (4) (a)  For the purpose of calculating the certified tax rate, the county auditor shall use:
+            
+160
+
+    
+    (i)  the taxable value of real property assessed by a county assessor contained on the
+            
+161
+
+    
+assessment roll;
+            
+162
+
+    
+    (ii)  the taxable value of real and personal property assessed by the commission; and
+            
+163
+
+    
+    (iii)  the taxable year end value of personal property assessed by a county assessor
+            
+164
+
+    
+contained on the prior year's assessment roll.
+            
+165
+
+    
+    (b)  For purposes of Subsection (4)(a)(i), the taxable value of real property on the
+            
+166
+
+    
+assessment roll does not include new growth as defined in Subsection (4)(c).
+            
+167
+
+    
+    (c)  "New growth" means:
+            
+168
+
+    
+    (i)  the difference between the increase in taxable value of the following property of the
+            
+169
+
+    
+taxing entity from the previous calendar year to the current year:
+            
+170
+
+    
+    (A)  real property assessed by a county assessor in accordance with Part 3, County
+            
+171
+
+    
+Assessment; and
+            
+172
+
+    
+    (B)  property assessed by the commission under Section 
+
+59-2-201
+
+; plus
+            
+173
+
+    
+    (ii)  the difference between the increase in taxable year end value of personal property
+            
+174
+
+    
+of the taxing entity from the year prior to the previous calendar year to the previous calendar
+            
+175
+
+    
+year; minus
+            
+176
+
+    
+    (iii)  the amount of an increase in taxable value described in Subsection (4)(e).
+            
+177
+
+    
+    (d)  For purposes of Subsection (4)(c)(ii), the taxable value of personal property of the
+            
+178
+
+    
+taxing entity does not include the taxable value of personal property that is:
+            
+179
+
+    
+    (i)  contained on the tax rolls of the taxing entity if that property is assessed by a county
+            
+180
+
+    
+assessor in accordance with Part 3, County Assessment; and
+            
+181
+
+    
+    (ii)  semiconductor manufacturing equipment.
+            
+182
+
+    
+    (e)  Subsection (4)(c)(iii) applies to the following increases in taxable value:
+
+            
+183
+
+
+    
+    (i)  the amount of increase to locally assessed real property taxable values resulting
+            
+184
+
+    
+from factoring, reappraisal, or any other adjustments; or
+            
+185
+
+    
+    (ii)  the amount of an increase in the taxable value of property assessed by the
+            
+186
+
+    
+commission under Section 
+
+59-2-201
+
+ resulting from a change in the method of apportioning the
+            
+187
+
+    
+taxable value prescribed by:
+            
+188
+
+    
+    (A)  the Legislature;
+            
+189
+
+    
+    (B)  a court;
+            
+190
+
+    
+    (C)  the commission in an administrative rule; or
+            
+191
+
+    
+    (D)  the commission in an administrative order.
+            
+192
+
+    
+    (f)  For purposes of Subsection (4)(a)(ii), the taxable year end value of personal
+            
+193
+
+    
+property on the prior year's assessment roll does not include:
+            
+194
+
+    
+    (i)  new growth as defined in Subsection (4)(c); or
+            
+195
+
+    
+    (ii)  the total taxable year end value of personal property contained on the prior year's
+            
+196
+
+    
+tax rolls of the taxing entity that is:
+            
+197
+
+    
+    (A)  assessed by a county assessor in accordance with Part 3, County Assessment; and
+            
+198
+
+    
+    (B)  semiconductor manufacturing equipment.
+            
+199
+
+    
+    (5) (a)  On or before June 22, each taxing entity shall annually adopt a tentative budget.
+            
+200
+
+    
+    (b)  If the taxing entity intends to exceed the certified tax rate, it shall notify the county
+            
+201
+
+    
+auditor of:
+            
+202
+
+    
+    (i)  its intent to exceed the certified tax rate; and
+            
+203
+
+    
+    (ii)  the amount by which it proposes to exceed the certified tax rate.
+            
+204
+
+    
+    (c)  The county auditor shall notify all property owners of any intent to exceed the
+            
+205
+
+    
+certified tax rate in accordance with Subsection 
+
+59-2-919
+
+(3).
+            
+206
+
+    
+    Section 2.   Retrospective operation.
+            
+207
+
+    
+    This bill has retrospective operation for a taxable year beginning on or after January 1,
+            
+208
+
+    
+2009.
+
+
+
+
+ Legislative Review Note
+    as of   8-27-08  12:42 PM
+
+ Office of Legislative Research and General Counsel
+[Bill Documents][Bills Directory]
+
+
+
+
+
+
+
+
+
+Who represents me?
+
+
+
+
+
+Remember my Legislators
+
+
+
+
+
+State Senate
+		350 North State, Suite 320
+		PO Box 145115
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1035
+		Fax: (801) 326-1475
+
+
+
+House of Representatives
+		350 North State, Suite 350
+		PO Box 145030
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1029
+		Fax: (801) 326-1544
+
+
+
+
+
+
+
+
+
+
+Home
+Mobile Site
+Site Map
+Calendar
+Code / Constitution
+House
+Senate
+
+Terms of Use/Privacy Policy
+
+ADA
+Utah.gov
+
+
+
+
+
+
+

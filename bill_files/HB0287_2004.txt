@@ -1,0 +1,2227 @@
+Sponsors: []Modifications: the record, including not being required to manipulate records in such a way as to create arecord that the governmental entity does not otherwise maintain, including:(i)  a compilation of records; or(ii)  a summary of one or more records.mayan existingthe governmentalentity's(i)the requester's;(ii)(a)Except as provided in Subsection (1)(b), a(b)  Notwithstanding the other provisions in this section except when Subsection (4)applies, if a governmental entity determines that a requested compilation of records has acommercial value as compared to similar documents available in the market place, thegovernmental entity shall charge fair commercial value for providing the compilation ofrecords to the person requesting the compilation of records.(c)  Acharged under this section(a)Subject to Subsections (2)(b) and (c), whenprovides(i)(ii)(iii)(i)(ii)(b) (i)  An hourly charge for the cost of staff time may not exceed the salary of thelowest paid employee who, in the discretion of the custodian of the record, has the necessaryskill and training to perform the request.(ii)    A charge may not be made for the first quarter hour of staff time.(c)  Subsection (1) and this Subsection (2) may not be interpreted as requiring agovernmental entity to manipulate records in such a way as to create a record that thegovernmental entity does not otherwise maintain including:(i)  a compilation of records; or(ii)  a summary of one or more records.provided in this Subsection (3).that are set onthe basis of costthe governmental entity:(i);(ii)(i);(ii)(a)(i)(a):(i);(ii)(b)(11) (a)  A governmental entity may disclose a private record to a private entity that thegovernmental entity could not otherwise disclose under this chapter:(i)  at the discretion of the chief administrative officer of the governmental entity; and(ii)  only if:(A)  the chief administrative officer determines that disclosure will provide a significantpublic benefit to the governmental entity or its citizens;(B)  disclosure is pursuant to a contractual arrangement between the governmentalentity and the private entity; and(C)  the private entity by contract agrees that, except when otherwise provided by thecontract, the private entity shall:(I)  maintain the privacy of the record; and(II)  prevent disclosure of the record.(b)  The contract described in Subsection (11)(a) may be exclusive or nonexclusive:(i)  depending on the nature of the services provided under the contract; and(ii)  at the discretion of the chief administrative officer of the governmental entity.:(i);(ii);(iii);(iv)  birthdate;(v);(vi);(vii); and(m)  a record concerning any individual that would disclose both:(i)  that individual's name; and(ii)  that individual's:(A)  home address;(B)  home telephone number;(C)  Social Security number;(D)  birthdate; or(E)  marital status.; and(f)  records concerning an individual that disclose personal status information such asrace, religion, or disability, but not including records that are classified as private underSubsection (1)(b).:(i);(ii);(iii);(iv);(v);(vi);(vii);(viii)Full text:
+
+
+
+Utah State Legislature
+
+
+
+
+
+
+
+
+
+
+
+
+Legislators
+
+By Session (1896-Current)
+Alphabetical (Historical)
+Find by Address/Map
+More
+
+
+Bills
+
+Bills/Bill Requests
+Passed Bills
+2017 Bills
+
+Keyword Search
+Reading Calendars
+Tracking Service
+More
+
+
+Committees
+
+All Committees
+Appropriations
+Commissions
+
+Independent Legislative Ethics Commission
+Interim
+Standing
+Subcommittees
+Task Forces
+Bills In Committees
+
+
+Utah Code / Constitution
+
+
+Title/Chapter/Section
+Keyword Search 
+
+Utah Constitution
+Laws of Utah 1851-ongoing
+Utah Territorial Laws 
+More
+
+
+Senate
+
+Main Page 
+About The Senate 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Extraordinary Sessions 
+Reading Calendars 
+Past Floor Debates 
+Senate Journals 
+
+
+House
+
+Main Page
+About the House 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Reading Calendars 
+Past Floor Debates 
+Journals 
+Conflict of Interest Forms 
+
+
+Legislative Guide 
+
+Legislative Guide
+Civic Programs
+GRAMA (Records Requests)
+
+
+Publications
+
+Search Publications
+Appropriations
+Audits
+Bagels & Briefings
+Briefing Papers
+Digest of Legislation
+Legislative Drafting Manual
+
+Journals
+
+Interim Highlights
+
+Legislative Rules
+GRAMA (Records Requests)
+Public Email
+State Organization Charts
+YouTube Channel
+Requests for Proposals and Legal Notices
+More
+
+
+Legislative Histories
+
+Legislative History Resources
+How to Research
+Bill Drafting/Research Files (1990-Ongoing)
+
+Working Bills (1896-1989)
+Interim Committee Histories (1990-Ongoing) 
+Journals
+Past House Floor Debates
+Past Senate Floor Debates
+More
+
+
+Staff Offices
+
+All Legislative Offices
+Auditor General
+Fiscal Analyst
+Printing
+Research and General Counsel
+Staff Awards
+Job Opportunities
+More
+
+
+Links of Interest
+
+Utah Administrative Rules
+Courts
+Utah State Capitol
+State of Utah
+Federal Legislation
+More
+
+
+
+
+
+
+ 
+
+Download Zipped Introduced WordPerfect HB0287.ZIP
+[Status][Bill Documents][Fiscal Note][Bills Directory]
+
+
+H.B. 287
+
+
+
+
+
+            
+1
+
+    
+ GOVERNMENT RECORDS ACCESS AND
+
+            
+2
+
+    
+ MANAGEMENT ACT REVISIONS
+
+
+
+            
+3
+
+    
+2004 GENERAL SESSION
+
+            
+4
+
+    
+STATE OF UTAH
+
+            
+5
+
+    
+
+
+ Sponsor: Douglas C. Aagard
+
+
+
+            
+6
+
+    
+
+            
+7
+
+    
+ LONG TITLE
+            
+8
+
+    
+ General Description:
+            
+9
+
+    
+    This bill modifies the Government Records Access and Management Act to address
+            
+10
+
+    
+issues related to access to and classification of records.
+            
+11
+
+    
+ Highlighted Provisions:
+            
+12
+
+    
+    This bill:
+            
+13
+
+    
+    .    provides that a governmental entity is not required to manipulate electronic data to
+            
+14
+
+    
+provide compilations, summaries, or other records not maintained by the
+            
+15
+
+    
+governmental entity;
+            
+16
+
+    
+    .    requires governmental entities to charge fair market value for records under certain
+            
+17
+
+    
+circumstances;
+            
+18
+
+    
+    .    allows for the sharing of private records with a private entity under a contract
+            
+19
+
+    
+between the governmental entity and the private entity;
+            
+20
+
+    
+    .    provides for certain information to be a private record; and
+            
+21
+
+    
+    .    makes technical changes.
+            
+22
+
+    
+ Monies Appropriated in this Bill:
+            
+23
+
+    
+    None
+            
+24
+
+    
+ Other Special Clauses:
+            
+25
+
+    
+    None
+            
+26
+
+    
+ Utah Code Sections Affected:
+            
+27
+
+    
+AMENDS:
+
+            
+28
+
+
+    
+     63-2-201, as last amended by Chapter 191, Laws of Utah 2002
+            
+29
+
+    
+     63-2-203, as last amended by Chapter 48, Laws of Utah 1999
+            
+30
+
+    
+     63-2-206, as last amended by Chapters 63 and 63, Laws of Utah 2002
+            
+31
+
+    
+     63-2-302, as last amended by Chapters 39, 252 and 298, Laws of Utah 2003
+            
+32
+
+    
+
+            
+33
+
+    
+Be it enacted by the Legislature of the state of Utah:
+            
+34
+
+    
+    Section 1.  
+Section  
+63-2-201
+
+ is amended to read:
+            
+35
+
+    
+     63-2-201.  Right to inspect records and receive copies of records.
+            
+36
+
+    
+    (1)  Every person has the right to inspect a public record free of charge, and the right to
+            
+37
+
+    
+take a copy of a public record during normal working hours, subject to Sections 
+
+63-2-203
+
+ and
+            
+38
+
+    
+
+63-2-204
+
+.
+            
+39
+
+    
+    (2)  All records are public unless otherwise expressly provided by statute.
+            
+40
+
+    
+    (3)  The following records are not public:
+            
+41
+
+    
+    (a)  records that are private, controlled, or protected under Sections 
+
+63-2-302
+
+,
+            
+42
+
+    
+
+63-2-302.5
+
+, 
+
+63-2-303
+
+, and 
+
+63-2-304
+
+; and
+            
+43
+
+    
+    (b)  records to which access is restricted pursuant to court rule, another state statute,
+            
+44
+
+    
+federal statute, or federal regulation, including records for which access is governed or
+            
+45
+
+    
+restricted as a condition of participation in a state or federal program or for receiving state or
+            
+46
+
+    
+federal funds.
+            
+47
+
+    
+    (4)  Only those records specified in Section 
+
+63-2-302
+
+, 
+
+63-2-302.5
+
+, 
+
+63-2-303
+
+, or
+            
+48
+
+    
+
+63-2-304
+
+ may be classified private, controlled, or protected.
+            
+49
+
+    
+    (5) (a)  A governmental entity may not disclose a record that is private, controlled, or
+            
+50
+
+    
+protected to any person except as provided in Subsection (5)(b), Section 
+
+63-2-202
+
+, 
+
+63-2-206, or
+            
+51
+
+    
+
+63-2-302.5
+
+
+.
+            
+52
+
+    
+    (b)  A governmental entity may disclose records that are private under Subsection
+            
+53
+
+    
+
+63-2-302
+
+(2) or protected under Section 
+
+63-2-304
+
+ to persons other than those specified in
+            
+54
+
+    
+Section 
+
+63-2-202
+
+ or 
+
+63-2-206
+
+ if the head of a governmental entity, or a designee, determines
+            
+55
+
+    
+that there is no interest in restricting access to the record, or that the interests favoring access
+            
+56
+
+    
+outweighs the interest favoring restriction of access.
+            
+57
+
+    
+    (6) (a)  The disclosure of records to which access is governed or limited pursuant to
+            
+58
+
+    
+court rule, another state statute, federal statute, or federal regulation, including records for
+
+            
+59
+
+
+    
+which access is governed or limited as a condition of participation in a state or federal program
+            
+60
+
+    
+or for receiving state or federal funds, is governed by the specific provisions of that statute,
+            
+61
+
+    
+rule, or regulation.
+            
+62
+
+    
+    (b)  This chapter applies to records described in Subsection (6)(a) insofar as this chapter
+            
+63
+
+    
+is not inconsistent with the statute, rule, or regulation.
+            
+64
+
+    
+    (7)  A governmental entity shall provide a person with a certified copy of a record if:
+            
+65
+
+    
+    (a)  the person requesting the record has a right to inspect [it] the record;
+            
+66
+
+    
+    (b)  the person identifies the record with reasonable specificity; and
+            
+67
+
+    
+    (c)  the person pays the lawful fees.
+            
+68
+
+    
+    (8) (a)  A governmental entity is not required to create a record in response to a
+            
+69
+
+    
+request[.], including not being required to manipulate records in such a way as to create a
+            
+70
+
+    
+record that the governmental entity does not otherwise maintain, including:
+            
+71
+
+    
+    (i)  a compilation of records; or
+            
+72
+
+    
+    (ii)  a summary of one or more records.
+            
+73
+
+    
+    (b)  Upon request, a governmental entity [shall] may provide [a] an existing record in a
+            
+74
+
+    
+particular format if:
+            
+75
+
+    
+    (i)  the governmental entity is able to do so without unreasonably interfering with the
+            
+76
+
+    
+governmental entity's duties and responsibilities; and
+            
+77
+
+    
+    (ii)  the requester agrees to pay the governmental entity for [its] the governmental
+            
+78
+
+    
+entity's costs incurred in providing the record in the requested format in accordance with
+            
+79
+
+    
+Section 
+
+63-2-203
+
+.
+            
+80
+
+    
+    (c)  Nothing in this section requires a governmental entity to fulfill a person's records
+            
+81
+
+    
+request if the request unreasonably duplicates prior records requests from that person.
+            
+82
+
+    
+    (9)  If a person requests copies of more than 50 pages of records from a governmental
+            
+83
+
+    
+entity, and, if the records are contained in files that do not contain records that are exempt from
+            
+84
+
+    
+disclosure, the governmental entity may:
+            
+85
+
+    
+    (a)  provide the requester with the facilities for copying the requested records and
+            
+86
+
+    
+require that the requester make the copies [himself]; or
+            
+87
+
+    
+    (b) (i)  allow the requester to provide [his] the requester's own copying facilities and
+            
+88
+
+    
+personnel to make the copies at the governmental entity's offices; and
+            
+89
+
+    
+    (ii)  waive the fees for copying the records.
+
+            
+90
+
+
+    
+    (10) (a)  A governmental entity that owns an intellectual property right and that offers
+            
+91
+
+    
+the intellectual property right for sale or license may control by ordinance or policy the
+            
+92
+
+    
+duplication and distribution of the material based on terms the governmental entity considers to
+            
+93
+
+    
+be in the public interest.
+            
+94
+
+    
+    (b)  Nothing in this chapter shall be construed to limit or impair the rights or protections
+            
+95
+
+    
+granted to the governmental entity under federal copyright or patent law as a result of its
+            
+96
+
+    
+ownership of the intellectual property right.
+            
+97
+
+    
+    (11)  A governmental entity may not use the physical form, electronic or otherwise, in
+            
+98
+
+    
+which a record is stored to deny, or unreasonably hinder the rights of persons to inspect and
+            
+99
+
+    
+receive copies of a record under this chapter.
+            
+100
+
+    
+    Section 2.  
+Section  
+63-2-203
+
+ is amended to read:
+            
+101
+
+    
+     63-2-203.  Fees.
+            
+102
+
+    
+    (1) (a)  [A] Except as provided in Subsection (1)(b), a governmental entity may charge
+            
+103
+
+    
+a reasonable fee to cover the governmental entity's actual cost of duplicating a record.  [This]
+            
+104
+
+    
+    (b)  Notwithstanding the other provisions in this section except when Subsection (4)
+            
+105
+
+    
+applies, if a governmental entity determines that a requested compilation of records has a
+            
+106
+
+    
+commercial value as compared to similar documents available in the market place, the
+            
+107
+
+    
+governmental entity shall charge fair commercial value for providing the compilation of
+            
+108
+
+    
+records to the person requesting the compilation of records.
+            
+109
+
+    
+    (c)  A fee charged under this section shall be approved by the governmental entity's
+            
+110
+
+    
+executive officer.
+            
+111
+
+    
+    (2) (a)  [When] Subject to Subsections (2)(b) and (c), when a governmental entity
+            
+112
+
+    
+[compiles] provides a record in a form other than that normally maintained by the
+            
+113
+
+    
+governmental entity, the actual costs under this section may include the following:
+            
+114
+
+    
+    [(a)] (i)  the cost of staff time for summarizing, compiling, or tailoring the record either
+            
+115
+
+    
+into an organization or media to meet the person's request;
+            
+116
+
+    
+    [(b)] (ii)  the cost of staff time for search, retrieval, and other direct administrative costs
+            
+117
+
+    
+for complying with a request[.  The hourly charge may not exceed the salary of the lowest paid
+            
+118
+
+    
+employee who, in the discretion of the custodian of records, has the necessary skill and training
+            
+119
+
+    
+to perform the request; provided, however, that no charge may be made for the first quarter
+            
+120
+
+    
+hour of staff time]; and
+
+            
+121
+
+
+    
+    [(c)] (iii)  in the case of fees for a record that is the result of computer output other than
+            
+122
+
+    
+word processing, the actual incremental cost of providing the electronic services and products
+            
+123
+
+    
+together with a reasonable portion of the costs associated with formatting or interfacing the
+            
+124
+
+    
+information for particular users, and the administrative costs as set forth in Subsections
+            
+125
+
+    
+(2)(a)(i) and [(b)] (ii).
+            
+126
+
+    
+    (b) (i)  An hourly charge for the cost of staff time may not exceed the salary of the
+            
+127
+
+    
+lowest paid employee who, in the discretion of the custodian of the record, has the necessary
+            
+128
+
+    
+skill and training to perform the request.
+            
+129
+
+    
+    (ii)    A charge may not be made for the first quarter hour of staff time.
+            
+130
+
+    
+    (c)  Subsection (1) and this Subsection (2) may not be interpreted as requiring a
+            
+131
+
+    
+governmental entity to manipulate records in such a way as to create a record that the
+            
+132
+
+    
+governmental entity does not otherwise maintain including:
+            
+133
+
+    
+    (i)  a compilation of records; or
+            
+134
+
+    
+    (ii)  a summary of one or more records.
+            
+135
+
+    
+    (3)  Fees shall be established as [follows:] provided in this Subsection (3).
+            
+136
+
+    
+    (a)  Governmental entities with fees established by the Legislature shall establish the
+            
+137
+
+    
+fees defined in Subsection (2), or other actual costs associated with this section through the
+            
+138
+
+    
+budget process.  Governmental entities with fees established by the Legislature that are set on
+            
+139
+
+    
+the basis of cost may use the procedures of  Section 
+
+63-38-3.2
+
+ to set fees until the Legislature
+            
+140
+
+    
+establishes fees through the budget process.  A fee set by a governmental entity in accordance
+            
+141
+
+    
+with Section 
+
+63-38-3.2
+
+ expires on May 1, 1995.
+            
+142
+
+    
+    (b)  Political subdivisions shall establish fees by ordinance or written formal policy
+            
+143
+
+    
+adopted by the governing body.
+            
+144
+
+    
+    (c)  The judiciary shall establish fees by rules of the judicial council.
+            
+145
+
+    
+    (4)  A governmental entity may fulfill a record request without charge and is
+            
+146
+
+    
+encouraged to do so when [it] the governmental entity determines that:
+            
+147
+
+    
+    (a)  releasing the record primarily benefits the public rather than a person;
+            
+148
+
+    
+    (b)  the individual requesting the record is:
+            
+149
+
+    
+    (i)  the subject of the record[,]; or
+            
+150
+
+    
+    (ii)  an individual specified in Subsection 
+
+63-2-202
+
+(1) or (2); or
+            
+151
+
+    
+    (c) (i)  the requester's legal rights are directly implicated by the information in the
+
+            
+152
+
+
+    
+record[,]; and
+            
+153
+
+    
+    (ii)  the requester is impecunious.
+            
+154
+
+    
+    (5)  A governmental entity may not charge a fee for:
+            
+155
+
+    
+    (a)  reviewing a record to determine whether it is subject to disclosure, except as
+            
+156
+
+    
+permitted by Subsection (2)[(b)] (a)(i); or
+            
+157
+
+    
+    (b)  inspecting a record.
+            
+158
+
+    
+    (6) (a)  A person who believes that there has been an unreasonable denial of a fee
+            
+159
+
+    
+waiver under Subsection (4) may appeal the denial in the same manner as a person appeals
+            
+160
+
+    
+when inspection of a public record is denied under Section 
+
+63-2-205
+
+.
+            
+161
+
+    
+    (b)  The adjudicative body hearing the appeal has the same authority when a fee waiver
+            
+162
+
+    
+or reduction is denied as it has when the inspection of a public record is denied.
+            
+163
+
+    
+    (7) (a)  All fees received under this section by a governmental entity subject to
+            
+164
+
+    
+Subsection (3)(a) shall be retained by the governmental entity as a dedicated credit.
+            
+165
+
+    
+    (b)  Those funds shall be used to recover the actual cost and expenses incurred by the
+            
+166
+
+    
+governmental entity in providing the requested record or record series.
+            
+167
+
+    
+    (8) (a)  A governmental entity may require payment of past fees and future estimated
+            
+168
+
+    
+fees before beginning to process a request if:
+            
+169
+
+    
+    (i)  fees are expected to exceed $50[,]; or [if]
+            
+170
+
+    
+    (ii)  the requester has not paid fees from previous requests.
+            
+171
+
+    
+    (b)  Any prepaid amount in excess of fees due shall be returned to the requester.
+            
+172
+
+    
+    (9)  This section does not alter, repeal, or reduce fees established by other statutes or
+            
+173
+
+    
+legislative acts.
+            
+174
+
+    
+    (10) (a)  Notwithstanding Subsection (3)(b), fees for voter registration records shall be
+            
+175
+
+    
+set as provided in this Subsection (10).
+            
+176
+
+    
+    (b)  The lieutenant governor shall:
+            
+177
+
+    
+    (i)  after consultation with county clerks, establish uniform fees for voter registration
+            
+178
+
+    
+and voter history records that meet the requirements of this section; and
+            
+179
+
+    
+    (ii)  obtain legislative approval of those fees by following the procedures and
+            
+180
+
+    
+requirements of Section 
+
+63-38-3.2
+
+.
+            
+181
+
+    
+    Section 3.  
+Section  
+63-2-206
+
+ is amended to read:
+            
+182
+
+    
+     63-2-206.  Sharing records.
+
+            
+183
+
+
+    
+    (1)  A governmental entity may provide a record that is private, controlled, or protected
+            
+184
+
+    
+to another governmental entity, a government-managed corporation, a political subdivision, the
+            
+185
+
+    
+federal government, or another state if the requesting entity:
+            
+186
+
+    
+    (a)  serves as a repository or archives for purposes of historical preservation,
+            
+187
+
+    
+administrative maintenance, or destruction;
+            
+188
+
+    
+    (b)  enforces, litigates, or investigates civil, criminal, or administrative law, and the
+            
+189
+
+    
+record is necessary to a proceeding or investigation;
+            
+190
+
+    
+    (c)  is authorized by state statute to conduct an audit and the record is needed for that
+            
+191
+
+    
+purpose; or
+            
+192
+
+    
+    (d)  is one that collects information for presentence, probationary, or parole purposes.
+            
+193
+
+    
+    (2)  A governmental entity may provide a private or controlled record or record series to
+            
+194
+
+    
+another governmental entity, a political subdivision, a government-managed corporation, the
+            
+195
+
+    
+federal government, or another state if the requesting entity provides written assurance:
+            
+196
+
+    
+    (a)  that the record or record series is necessary to the performance of the governmental
+            
+197
+
+    
+entity's duties and functions;
+            
+198
+
+    
+    (b)  that the record or record series will be used for a purpose similar to the purpose for
+            
+199
+
+    
+which the information in the record or record series was collected or obtained; and
+            
+200
+
+    
+    (c)  that the use of the record or record series produces a public benefit that outweighs
+            
+201
+
+    
+the individual privacy right that protects the record or record series.
+            
+202
+
+    
+    (3)  A governmental entity may provide a record or record series that is protected under
+            
+203
+
+    
+Subsection 
+
+63-2-304
+
+(1) or (2) to another governmental entity, a political subdivision, a
+            
+204
+
+    
+government-managed corporation, the federal government, or another state if:
+            
+205
+
+    
+    (a)  the record is necessary to the performance of the requesting entity's duties and
+            
+206
+
+    
+functions; or
+            
+207
+
+    
+    (b)  the record will be used for a purpose similar to the purpose for which the
+            
+208
+
+    
+information in the record or record series was collected or obtained.
+            
+209
+
+    
+    (4) (a)  A governmental entity shall provide a private, controlled, or protected record to
+            
+210
+
+    
+another governmental entity, a political subdivision, a government-managed corporation, the
+            
+211
+
+    
+federal government, or another state if the requesting entity:
+            
+212
+
+    
+    (i)  is entitled by law to inspect the record;
+            
+213
+
+    
+    (ii)  is required to inspect the record as a condition of participating in a state or federal
+
+            
+214
+
+
+    
+program or for receiving state or federal funds; or
+            
+215
+
+    
+    (iii)  is an entity described in Subsection (1)(a), (b), (c), or (d).
+            
+216
+
+    
+    (b)  Subsection (4)(a)(iii) applies only if the record is a record described in Subsection
+            
+217
+
+    
+
+63-2-304
+
+(4).
+            
+218
+
+    
+    (5)  Before disclosing a record or record series under this section to another
+            
+219
+
+    
+governmental entity, another state, the United States, or a foreign government, the originating
+            
+220
+
+    
+governmental entity shall:
+            
+221
+
+    
+    (a)  inform the recipient of the record's classification and the accompanying restrictions
+            
+222
+
+    
+on access; and
+            
+223
+
+    
+    (b)  if the recipient is not a governmental entity to which this chapter applies, obtain the
+            
+224
+
+    
+recipient's written agreement which may be by mechanical or electronic transmission that it
+            
+225
+
+    
+will abide by those restrictions on access unless a statute, federal regulation, or interstate
+            
+226
+
+    
+agreement otherwise governs the sharing of the record or record series.
+            
+227
+
+    
+    (6)  A governmental entity may disclose a record to another state, the United States, or a
+            
+228
+
+    
+foreign government for the reasons listed in Subsections (1), (2), and (3) without complying
+            
+229
+
+    
+with the procedures of Subsection (2) or (5) if disclosure is authorized by executive agreement,
+            
+230
+
+    
+treaty, federal statute, compact, federal regulation, or state statute.
+            
+231
+
+    
+    (7) (a)  Subject to Subsection (7)(b), a governmental entity receiving a record under this
+            
+232
+
+    
+section is subject to the same restrictions on disclosure of the record as the originating entity.
+            
+233
+
+    
+    (b)  The classification of a record already held by a governmental entity and the
+            
+234
+
+    
+applicable restrictions on disclosure of that record are not affected by the governmental entity's
+            
+235
+
+    
+receipt under this section of a record with a different classification that contains information
+            
+236
+
+    
+that is also included in the previously held record.
+            
+237
+
+    
+    (8)  Notwithstanding any other provision of this section, if a more specific court rule or
+            
+238
+
+    
+order, state statute, federal statute, or federal regulation prohibits or requires sharing
+            
+239
+
+    
+information, that rule, order, statute, or federal regulation controls.
+            
+240
+
+    
+    (9)  The following records may not be shared under this section:
+            
+241
+
+    
+    (a)  records held by the Division of Oil, Gas and Mining that pertain to any person and
+            
+242
+
+    
+that are gathered under authority of Title 40, Chapter 6, Board and Division of Oil, Gas and
+            
+243
+
+    
+Mining; and
+            
+244
+
+    
+    (b)  records of publicly funded libraries as described in Subsection 
+
+63-2-302
+
+(1)(c).
+
+            
+245
+
+
+    
+    (10)  Records that may evidence or relate to a violation of law may be disclosed to a
+            
+246
+
+    
+government prosecutor, peace officer, or auditor.
+            
+247
+
+    
+    (11) (a)  A governmental entity may disclose a private record to a private entity that the
+            
+248
+
+    
+governmental entity could not otherwise disclose under this chapter:
+            
+249
+
+    
+    (i)  at the discretion of the chief administrative officer of the governmental entity; and
+            
+250
+
+    
+    (ii)  only if:
+            
+251
+
+    
+    (A)  the chief administrative officer determines that disclosure will provide a significant
+            
+252
+
+    
+public benefit to the governmental entity or its citizens;
+            
+253
+
+    
+    (B)  disclosure is pursuant to a contractual arrangement between the governmental
+            
+254
+
+    
+entity and the private entity; and
+            
+255
+
+    
+    (C)  the private entity by contract agrees that, except when otherwise provided by the
+            
+256
+
+    
+contract, the private entity shall:
+            
+257
+
+    
+    (I)  maintain the privacy of the record; and
+            
+258
+
+    
+    (II)  prevent disclosure of the record.
+            
+259
+
+    
+    (b)  The contract described in Subsection (11)(a) may be exclusive or nonexclusive:
+            
+260
+
+    
+    (i)  depending on the nature of the services provided under the contract; and
+            
+261
+
+    
+    (ii)  at the discretion of the chief administrative officer of the governmental entity.
+            
+262
+
+    
+    Section 4.  
+Section  
+63-2-302
+
+ is amended to read:
+            
+263
+
+    
+     63-2-302.  Private records.
+            
+264
+
+    
+    (1)  The following records are private:
+            
+265
+
+    
+    (a)  records concerning an individual's eligibility for unemployment insurance benefits,
+            
+266
+
+    
+social services, welfare benefits, or the determination of benefit levels;
+            
+267
+
+    
+    (b)  records containing data on individuals describing medical history, diagnosis,
+            
+268
+
+    
+condition, treatment, evaluation, or similar medical data;
+            
+269
+
+    
+    (c)  records of publicly funded libraries that when examined alone or with other records
+            
+270
+
+    
+identify a patron;
+            
+271
+
+    
+    (d)  records received or generated for a Senate or House Ethics Committee concerning
+            
+272
+
+    
+any alleged violation of the rules on legislative ethics, prior to the meeting, and after the
+            
+273
+
+    
+meeting, if the ethics committee meeting was closed to the public;
+            
+274
+
+    
+    (e)  records received or generated for a Senate confirmation committee concerning
+            
+275
+
+    
+character, professional competence, or physical or mental health of an individual:
+
+            
+276
+
+
+    
+    (i)  if prior to the meeting, the chair of the committee determines release of the records:
+            
+277
+
+    
+    (A)  reasonably could be expected to interfere with the investigation undertaken by the
+            
+278
+
+    
+committee; or
+            
+279
+
+    
+    (B)  would create a danger of depriving a person of a right to a fair proceeding or
+            
+280
+
+    
+impartial hearing; and
+            
+281
+
+    
+    (ii)  after the meeting, if the meeting was closed to the public;
+            
+282
+
+    
+    (f)  employment records concerning a current or former employee of, or applicant for
+            
+283
+
+    
+employment with, a governmental entity that would disclose that individual's:
+            
+284
+
+    
+    (i)  home address[,];
+            
+285
+
+    
+    (ii)  home telephone number[,];
+            
+286
+
+    
+    (iii)  Social Security number[,];
+            
+287
+
+    
+    (iv)  birthdate;
+            
+288
+
+    
+    (v)  insurance coverage[,];
+            
+289
+
+    
+    (vi)  marital status[,]; or
+            
+290
+
+    
+    (vii)  payroll deductions;
+            
+291
+
+    
+    (g)  records or parts of records under Section 
+
+63-2-302.5
+
+ that a current or former
+            
+292
+
+    
+employee identifies as private according to the requirements of that section;
+            
+293
+
+    
+    (h)  that part of a record indicating a person's Social Security number or federal
+            
+294
+
+    
+employer identification number if provided under Section 
+
+31A-23a-104
+
+, 
+
+31A-26-202
+
+,
+            
+295
+
+    
+
+58-1-301
+
+, 
+
+61-1-4
+
+, or 
+
+61-2-6
+
+;
+            
+296
+
+    
+    (i)  that part of a voter registration record identifying a voter's driver license or
+            
+297
+
+    
+identification card number, Social Security number, or last four digits of the Social Security
+            
+298
+
+    
+number;
+            
+299
+
+    
+    (j)  a record that:
+            
+300
+
+    
+    (i)  contains information about an individual;
+            
+301
+
+    
+    (ii)  is voluntarily provided by the individual; and
+            
+302
+
+    
+    (iii)  goes into an electronic database that:
+            
+303
+
+    
+    (A)  is designated by and administered under the authority of the Chief Information
+            
+304
+
+    
+Officer; and
+            
+305
+
+    
+    (B) acts as a repository of information about the individual that can be electronically
+            
+306
+
+    
+retrieved and used to facilitate the individual's online interaction with a state agency;
+
+            
+307
+
+
+    
+    (k)  information provided to the Commissioner of Insurance under Subsection
+            
+308
+
+    
+
+31A-23a-115
+
+(2)(a); [and]
+            
+309
+
+    
+    (l)  information obtained through a criminal background check under Title 11, Chapter
+            
+310
+
+    
+40, Criminal Background Checks by Political Subdivisions Operating Water Systems[.]; and
+            
+311
+
+    
+    (m)  a record concerning any individual that would disclose both:
+            
+312
+
+    
+    (i)  that individual's name; and
+            
+313
+
+    
+    (ii)  that individual's:
+            
+314
+
+    
+    (A)  home address;
+            
+315
+
+    
+    (B)  home telephone number;
+            
+316
+
+    
+    (C)  Social Security number;
+            
+317
+
+    
+    (D)  birthdate; or
+            
+318
+
+    
+    (E)  marital status.
+            
+319
+
+    
+    (2)  The following records are private if properly classified by a governmental entity:
+            
+320
+
+    
+    (a)  records concerning a current or former employee of, or applicant for employment
+            
+321
+
+    
+with a governmental entity, including performance evaluations and personal status information
+            
+322
+
+    
+such as race, religion, or disabilities, but not including records that are public under Subsection
+            
+323
+
+    
+
+63-2-301
+
+(1)(b) or 
+
+63-2-301
+
+(2)(o), or private under Subsection(1)(b);
+            
+324
+
+    
+    (b)  records describing an individual's finances, except that the following are public:
+            
+325
+
+    
+    (i)  records described in Subsection 
+
+63-2-301
+
+(1);
+            
+326
+
+    
+    (ii)  information provided to the governmental entity for the purpose of complying with
+            
+327
+
+    
+a financial assurance requirement; or
+            
+328
+
+    
+    (iii)  records that must be disclosed in accordance with another statute;
+            
+329
+
+    
+    (c)  records of independent state agencies if the disclosure of those records would
+            
+330
+
+    
+conflict with the fiduciary obligations of the agency;
+            
+331
+
+    
+    (d)  other records containing data on individuals the disclosure of which constitutes a
+            
+332
+
+    
+clearly unwarranted invasion of personal privacy; [and]
+            
+333
+
+    
+    (e)  records provided by the United States or by a government entity outside the state
+            
+334
+
+    
+that are given with the requirement that the records be managed as private records, if the
+            
+335
+
+    
+providing entity states in writing that the record would not be subject to public disclosure if
+            
+336
+
+    
+retained by it[.]; and
+            
+337
+
+    
+    (f)  records concerning an individual that disclose personal status information such as
+
+            
+338
+
+
+    
+race, religion, or disability, but not including records that are classified as private under
+            
+339
+
+    
+Subsection (1)(b).
+            
+340
+
+    
+    (3) (a)  As used in this Subsection (3), "medical records" means:
+            
+341
+
+    
+    (i)  medical reports[,];
+            
+342
+
+    
+    (ii)  records[,];
+            
+343
+
+    
+    (iii)  statements[,];
+            
+344
+
+    
+    (iv)  history[,];
+            
+345
+
+    
+    (v)  diagnosis[,];
+            
+346
+
+    
+    (vi)  condition[,];
+            
+347
+
+    
+    (vii)  treatment[,]; and
+            
+348
+
+    
+    (viii)  evaluation.
+            
+349
+
+    
+    (b)  Medical records in the possession of the University of Utah Hospital, its clinics,
+            
+350
+
+    
+doctors, or affiliated entities are not private records or controlled records under Section
+            
+351
+
+    
+
+63-2-303
+
+ when the records are sought:
+            
+352
+
+    
+    (i)  in connection with any legal or administrative proceeding in which the patient's
+            
+353
+
+    
+physical, mental, or emotional condition is an element of any claim or defense; or
+            
+354
+
+    
+    (ii)  after a patient's death, in any legal or administrative proceeding in which any party
+            
+355
+
+    
+relies upon the condition as an element of the claim or defense.
+            
+356
+
+    
+    (c)  Medical records are subject to production in a legal or administrative proceeding
+            
+357
+
+    
+according to state or federal statutes or rules of procedure and evidence as if the medical
+            
+358
+
+    
+records were in the possession of a nongovernmental medical care provider.
+
+
+
+
+ Legislative Review Note
+    as of   2-5-04  10:34 AM
+
+A limited legal review of this legislation raises no obvious constitutional or statutory concerns.
+
+ Office of Legislative Research and General Counsel
+[Bill Documents][Bills Directory]
+
+
+
+
+
+
+
+
+
+Who represents me?
+
+
+
+
+
+Remember my Legislators
+
+
+
+
+
+State Senate
+		350 North State, Suite 320
+		PO Box 145115
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1035
+		Fax: (801) 326-1475
+
+
+
+House of Representatives
+		350 North State, Suite 350
+		PO Box 145030
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1029
+		Fax: (801) 326-1544
+
+
+
+
+
+
+
+
+
+
+Home
+Mobile Site
+Site Map
+Calendar
+Code / Constitution
+House
+Senate
+
+Terms of Use/Privacy Policy
+
+ADA
+Utah.gov
+
+
+
+
+
+
+

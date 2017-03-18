@@ -1,0 +1,540 @@
+Sponsors: []Modifications: and in Section 19-5-104; and(q)  notwithstanding the provisions of Section 19-4-112, make rules governing irrigationsystems which convey sewage treatment facility effluent in pipelines under pressure, and whichare constructed after May 4, 1998March 16, 1991March 16, 1991orFull text:
+
+
+
+Utah State Legislature
+
+
+
+
+
+
+
+
+
+
+
+
+Legislators
+
+By Session (1896-Current)
+Alphabetical (Historical)
+Find by Address/Map
+More
+
+
+Bills
+
+Bills/Bill Requests
+Passed Bills
+2017 Bills
+
+Keyword Search
+Reading Calendars
+Tracking Service
+More
+
+
+Committees
+
+All Committees
+Appropriations
+Commissions
+
+Independent Legislative Ethics Commission
+Interim
+Standing
+Subcommittees
+Task Forces
+Bills In Committees
+
+
+Utah Code / Constitution
+
+
+Title/Chapter/Section
+Keyword Search 
+
+Utah Constitution
+Laws of Utah 1851-ongoing
+Utah Territorial Laws 
+More
+
+
+Senate
+
+Main Page 
+About The Senate 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Extraordinary Sessions 
+Reading Calendars 
+Past Floor Debates 
+Senate Journals 
+
+
+House
+
+Main Page
+About the House 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Reading Calendars 
+Past Floor Debates 
+Journals 
+Conflict of Interest Forms 
+
+
+Legislative Guide 
+
+Legislative Guide
+Civic Programs
+GRAMA (Records Requests)
+
+
+Publications
+
+Search Publications
+Appropriations
+Audits
+Bagels & Briefings
+Briefing Papers
+Digest of Legislation
+Legislative Drafting Manual
+
+Journals
+
+Interim Highlights
+
+Legislative Rules
+GRAMA (Records Requests)
+Public Email
+State Organization Charts
+YouTube Channel
+Requests for Proposals and Legal Notices
+More
+
+
+Legislative Histories
+
+Legislative History Resources
+How to Research
+Bill Drafting/Research Files (1990-Ongoing)
+
+Working Bills (1896-1989)
+Interim Committee Histories (1990-Ongoing) 
+Journals
+Past House Floor Debates
+Past Senate Floor Debates
+More
+
+
+Staff Offices
+
+All Legislative Offices
+Auditor General
+Fiscal Analyst
+Printing
+Research and General Counsel
+Staff Awards
+Job Opportunities
+More
+
+
+Links of Interest
+
+Utah Administrative Rules
+Courts
+Utah State Capitol
+State of Utah
+Federal Legislation
+More
+
+
+
+
+
+
+ 
+
+Download Zipped Introduced WP 6.1 HB0252.ZIP 10,499 Bytes
+[Status][Bill Documents][Fiscal Note][Bills Directory]
+
+
+H.B. 252
+
+
+
+
+
+
+
+
+
+1     WATER QUALITY ACT AMENDMENTS
+
+
+
+
+2    1998 GENERAL SESSION
+
+
+3    STATE OF UTAH
+
+
+4     Sponsor: David Ure
+
+
+5    AN ACT RELATING TO THE ENVIRONMENTAL QUALITY CODE; GRANTING
+
+6    RULEMAKING AUTHORITY TO THE WATER QUALITY BOARD TO REGULATE
+
+7    IRRIGATION SYSTEMS WHICH CONVEY SEWAGE TREATMENT FACILITY
+
+8    EFFLUENT; AND MAKING TECHNICAL CHANGES.
+
+9    This act affects sections of Utah Code Annotated 1953 as follows:
+
+10    AMENDS:
+
+11         19-4-112, as renumbered and amended by Chapter 112, Laws of Utah 1991
+
+12         19-5-104, as last amended by Chapter 114, Laws of Utah 1995
+
+13    Be it enacted by the Legislature of the state of Utah:
+
+14        Section 1.  Section  19-4-112 is amended to read:
+
+15         19-4-112.  Limit on authority of department and board to control irrigation facilities
+
+16     -- Precautions relating to nonpotable water systems.  
+
+17        (1)  Except as provided in this section and in Section 19-5-104, nothing contained in this
+
+18    chapter authorizes the department or board to:
+
+19        (a)  exercise administrative control over water used solely for irrigation purposes, whether
+
+20    conveyed in pipes, ditches, canals, or by other facilities; or
+
+21        (b)  adopt rules relating to the construction, operation, and maintenance of facilities for
+
+22    conveying  irrigation water to the place of use.
+
+23        (2)  Where nonpotable water is conveyed in pipelines under pressure in areas served by a
+
+24    potable water system, the following precautions shall be observed:
+
+25        (a)  a distinctive coloring or other marking on all exposed portions of the nonpotable
+
+26    system shall be used;
+
+27        (b)  potable and nonpotable water system service lines and extensions shall be completely
+
+
+1    separated and shall be installed in separate trenches;
+
+2        (c)  all hydrants and sprinkling system control valves shall be operated by a removable key
+
+3    so that it is not possible to turn on the hydrant or valve without a key;
+
+4        (d)  there shall be no cross connection between the potable and nonpotable water systems;
+
+5        (e)  the nonpotable system shall not be extended into any building except greenhouses or
+
+6    other buildings for plant and animal production; and
+
+7        (f)  no connection in the nonpotable water system shall be made except by the persons
+
+8    responsible for its management. 
+
+9        Section 2.  Section  19-5-104 is amended to read:
+
+10         19-5-104.  Powers and duties of board.
+
+11        (1)  The board has the following powers and duties, but the board shall give priority to
+
+12    pollution that results in hazards to the public health:
+
+13        (a)  develop programs for the prevention, control, and abatement of new or existing
+
+14    pollution of the waters of the state;
+
+15        (b)  advise, consult, and cooperate with other agencies of the state, the federal government,
+
+16    other states, and interstate agencies, and with affected groups, political subdivisions, and industries
+
+17    to further the purposes of this chapter;
+
+18        (c)  encourage, participate in, or conduct studies, investigations, research, and
+
+19    demonstrations relating to water pollution and causes of water pollution as  the board finds
+
+20    necessary to discharge its duties;
+
+21        (d)  collect and disseminate information relating to water pollution and the prevention,
+
+22    control, and abatement of water pollution;
+
+23        (e)  adopt, modify, or repeal standards of quality of the waters of the state and classify
+
+24    those waters according to their reasonable uses in the interest of the public under conditions the
+
+25    board may prescribe for the prevention, control, and abatement of pollution;
+
+26        (f)  make rules in accordance with Title 63, Chapter 46a, Utah Administrative Rulemaking
+
+27    Act, to:
+
+28        (i)  implement awarding construction loans to political subdivisions and municipal
+
+29    authorities under Section 11-8-2, including:
+
+30        (A)  requirements pertaining to applications for loans;
+
+31        (B)  requirements for determination of eligible projects;
+
+- 2 -
+
+
+1        (C)  requirements for determination of the costs upon which loans are based, which costs
+
+2    may include engineering, financial, legal, and administrative expenses necessary for the
+
+3    construction, reconstruction, and improvement of sewage treatment plants, including major
+
+4    interceptors, collection systems, and other facilities appurtenant to the plant;
+
+5        (D)  a priority schedule for awarding loans, in which the board may consider in addition
+
+6    to water pollution control needs any financial needs relevant, including per capita cost, in making
+
+7    a determination of priority; and
+
+8        (E)  requirements for determination of the amount of the loan, taking into consideration the
+
+9    availability of federal grants in determining the eligible project costs and in establishing priorities;
+
+10        (ii)  set effluent limitations and standards subject to Section 19-5-116;
+
+11        (iii)  implement or effectuate the powers and duties of the board; and
+
+12        (iv)  protect the public health for the design, construction, operation, and maintenance of
+
+13    individual wastewater disposal systems, liquid scavenger operations, and vault and earthen pit
+
+14    privies;
+
+15        (g)  issue, modify, or revoke orders:
+
+16        (i)  prohibiting or abating discharges;
+
+17        (ii)  requiring the construction of new treatment works or any parts of them, or requiring
+
+18    the modification, extension, or alteration of existing treatment works as specified by board rule or
+
+19    any parts of them, or the adoption of other remedial measures to prevent, control, or abate
+
+20    pollution; 
+
+21        (iii)  setting standards of water quality, classifying waters or evidencing any other
+
+22    determination by the board under this chapter; and
+
+23        (iv)  requiring compliance with this chapter and with rules made under this chapter;
+
+24        (h)  review plans, specifications, or other data relative to disposal systems or any part of
+
+25    disposal systems, and issue construction permits for the installation or modification of treatment
+
+26    works or any parts of them;
+
+27        (i)  after public notice and opportunity for a public hearing, issue, continue in effect,
+
+28    revoke, modify, or deny discharge permits under reasonable conditions the board may prescribe
+
+29    to control the management of sewage sludge or to prevent or control the discharge of pollutants,
+
+30    including effluent limitations for the discharge of wastes into the waters of the state;
+
+31        (j)  give reasonable consideration in the exercise of its powers and duties to the economic
+
+- 3 -
+
+
+1    impact of water pollution control on industry and agriculture;
+
+2        (k)  exercise all incidental powers necessary to carry out the purposes of this chapter,
+
+3    including delegation to the department of its duties as appropriate to improve administrative
+
+4    efficiency;
+
+5        (l)  meet the requirements of federal law related to water pollution;
+
+6        (m)  establish and conduct a continuing planning process for control of water pollution
+
+7    including the specification and implementation of maximum daily loads of pollutants;
+
+8        (n)  make rules governing inspection, monitoring, recordkeeping, and reporting
+
+9    requirements for underground injections and require permits for them,  to protect drinking water
+
+10    sources, except for wells, pits, and ponds covered by Section 40-6-5 regarding gas and oil,
+
+11    recognizing that underground injection endangers drinking water sources if:
+
+12        (i)  injection may result in the presence of any contaminant in underground water which
+
+13    supplies or can reasonably be expected to supply any public water system, as defined in Section
+
+14    19-4-102; and
+
+15        (ii)  the presence of the contaminant may result in the public water system not complying
+
+16    with any national primary drinking water standards or may otherwise adversely affect the health
+
+17    of persons; 
+
+18        (o)  make rules governing sewage sludge management, including permitting, inspecting,
+
+19    monitoring, recordkeeping, and reporting requirements; [and]
+
+20        (p)  adopt and enforce rules and establish fees to cover the costs of testing for certification
+
+21    of operators of treatment works and sewerage systems operated by political subdivisions; and
+
+22        (q)  notwithstanding the provisions of Section 19-4-112, make rules governing irrigation
+
+23    systems which convey sewage treatment facility effluent in pipelines under pressure, and which
+
+24    are constructed after May 4, 1998.
+
+25        (2)  In establishing certification rules under Subsection (1)(p), the board shall:
+
+26        (a)  base the requirements for certification on the size, treatment process type, and
+
+27    complexity of the treatment works and sewerage systems operated by political subdivisions;
+
+28        (b)  allow operators until three years after the date of adoption of the rules to obtain initial
+
+29    certification;
+
+30        (c)  allow new operators one year from the date they are hired by a treatment plant or
+
+31    sewerage system or three years after the date of adoption of the rules, whichever occurs later, to
+
+- 4 -
+
+
+1    obtain certification;
+
+2        (d)  issue certification upon application and without testing, at a grade level comparable
+
+3    to the grade of current certification to operators who are currently certified under the voluntary
+
+4    certification plan for wastewater works operators as recognized by the board; and
+
+5        (e)  issue a certification upon application and without testing that is valid only at the
+
+6    treatment works or sewerage system where that operator is currently employed if the operator:
+
+7        (i)  is in charge of and responsible for the treatment works or sewerage system on [the
+
+8    effective date of this act] March 16, 1991;
+
+9        (ii)  has been employed at least ten years in the operation of that treatment works or
+
+10    sewerage system prior to [the effective date of this act] March 16, 1991; or
+
+11        (iii)  demonstrates to the board his capability to operate the treatment works or sewerage
+
+12    system at which he is currently employed by providing employment history and references as
+
+13    required by the board. 
+
+
+
+
+ Legislative Review Note
+    as of  12-29-97  8:45 AM
+
+
+A limited legal review of this bill raises no obvious constitutional or statutory concerns.
+
+ Office of Legislative Research and General Counsel
+
+
+- 5 -
+[Bill Documents][Bills Directory]
+
+
+
+
+
+
+
+
+
+Who represents me?
+
+
+
+
+
+Remember my Legislators
+
+
+
+
+
+State Senate
+		350 North State, Suite 320
+		PO Box 145115
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1035
+		Fax: (801) 326-1475
+
+
+
+House of Representatives
+		350 North State, Suite 350
+		PO Box 145030
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1029
+		Fax: (801) 326-1544
+
+
+
+
+
+
+
+
+
+
+Home
+Mobile Site
+Site Map
+Calendar
+Code / Constitution
+House
+Senate
+
+Terms of Use/Privacy Policy
+
+ADA
+Utah.gov
+
+
+
+
+
+
+
