@@ -94,13 +94,10 @@ def run_main():
 		if bill_name and yeas and nays:
 			#print(current_bill, ': ', bill_name, ': \nYeas: ', yeas, '\nNays: ', nays, '\nAbsent: ', absent)
 			v_yeas, v_nays, v_absents = get_vote_names(yeas, nays, absent, representatives)
-			votes.append({'bill': bill_name, 'yeas': yeas, 'nays': nays, 'absent': absent, 'vote_yea': v_yeas, 'vote_nay': v_nays, 'vote_absent': v_absents})
+			votes.append({'bill': bill_name, 'yeas': yeas, 'nays': nays, 'absent': absent, 'vote_yea': v_yeas,
+						  'vote_nay': v_nays, 'vote_absent': v_absents})
 		if content_size < 10: # or end_condition(current_bill)
 			last_page = True
 		else:
 			current_bill += 1
 	make_df(full_r_list, votes, 'congress')
-	
-run_main()
-	
-
