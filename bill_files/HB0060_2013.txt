@@ -1,0 +1,955 @@
+Sponsors: []Modifications: 50after:(a); and(b)  set a schedule for the review proceeding.(3)  The board shall hold a hearing on the merits within 60 days after the initial hearing.75underis(a).(b)  Ifseek a permit,authorization, approval, exception, or waiver in a timely manner, the board(c)  There is a presumption that the utility has sought a permit, authorization, approval,exception, or waiver in a timely manner if the utility has complied with:(i)  the notice and filing requirements of Chapter 18, Siting of High Voltage Power LineAct; or(ii)  the timing requirements imposed by a local government land use ordinance.chapterFull text:
+
+
+
+Utah State Legislature
+
+
+
+
+
+
+
+
+
+
+
+
+Legislators
+
+By Session (1896-Current)
+Alphabetical (Historical)
+Find by Address/Map
+More
+
+
+Bills
+
+Bills/Bill Requests
+Passed Bills
+2017 Bills
+
+Keyword Search
+Reading Calendars
+Tracking Service
+More
+
+
+Committees
+
+All Committees
+Appropriations
+Commissions
+
+Independent Legislative Ethics Commission
+Interim
+Standing
+Subcommittees
+Task Forces
+Bills In Committees
+
+
+Utah Code / Constitution
+
+
+Title/Chapter/Section
+Keyword Search 
+
+Utah Constitution
+Laws of Utah 1851-ongoing
+Utah Territorial Laws 
+More
+
+
+Senate
+
+Main Page 
+About The Senate 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Extraordinary Sessions 
+Reading Calendars 
+Past Floor Debates 
+Senate Journals 
+
+
+House
+
+Main Page
+About the House 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Reading Calendars 
+Past Floor Debates 
+Journals 
+Conflict of Interest Forms 
+
+
+Legislative Guide 
+
+Legislative Guide
+Civic Programs
+GRAMA (Records Requests)
+
+
+Publications
+
+Search Publications
+Appropriations
+Audits
+Bagels & Briefings
+Briefing Papers
+Digest of Legislation
+Legislative Drafting Manual
+
+Journals
+
+Interim Highlights
+
+Legislative Rules
+GRAMA (Records Requests)
+Public Email
+State Organization Charts
+YouTube Channel
+Requests for Proposals and Legal Notices
+More
+
+
+Legislative Histories
+
+Legislative History Resources
+How to Research
+Bill Drafting/Research Files (1990-Ongoing)
+
+Working Bills (1896-1989)
+Interim Committee Histories (1990-Ongoing) 
+Journals
+Past House Floor Debates
+Past Senate Floor Debates
+More
+
+
+Staff Offices
+
+All Legislative Offices
+Auditor General
+Fiscal Analyst
+Printing
+Research and General Counsel
+Staff Awards
+Job Opportunities
+More
+
+
+Links of Interest
+
+Utah Administrative Rules
+Courts
+Utah State Capitol
+State of Utah
+Federal Legislation
+More
+
+
+
+
+
+
+ 
+
+Download Zipped Introduced WordPerfect HB0060.ZIP
+[Status][Bill Documents][Fiscal Note][Bills Directory]
+
+
+H.B. 60
+
+
+
+
+
+            
+1
+
+    
+ UTILITY FACILITY SITING
+
+
+
+            
+2
+
+    
+2013 GENERAL SESSION
+
+            
+3
+
+    
+STATE OF UTAH
+
+            
+4
+
+    
+
+
+ Chief Sponsor: Douglas V. Sagers
+
+
+
+            
+5
+
+    
+
+
+
+Senate Sponsor:
+
+
+
+
+
+
+ Evan J. Vickers
+
+
+
+
+
+            
+6
+
+    
+
+            
+7
+
+    
+ LONG TITLE
+            
+8
+
+    
+ General Description:
+            
+9
+
+    
+    This bill addresses the review of utility siting decisions by the Utility Facility Review
+            
+10
+
+    
+Board.
+            
+11
+
+    
+ Highlighted Provisions:
+            
+12
+
+    
+    This bill:
+            
+13
+
+    
+    .    modifies the time period for hearings and decisions of the Utility Facility Review
+            
+14
+
+    
+Board;
+            
+15
+
+    
+    .    establishes a deadline for the board to hold a hearing on the merits;
+            
+16
+
+    
+    .    establishes a presumption that the utility has taken certain action under specified
+            
+17
+
+    
+circumstances; and
+            
+18
+
+    
+    .    makes technical changes.
+            
+19
+
+    
+ Money Appropriated in this Bill:
+            
+20
+
+    
+    None
+            
+21
+
+    
+ Other Special Clauses:
+            
+22
+
+    
+    None
+            
+23
+
+    
+ Utah Code Sections Affected:
+            
+24
+
+    
+AMENDS:
+            
+25
+
+    
+     54-14-301, as last amended by Laws of Utah 2010, Chapter 286
+            
+26
+
+    
+     54-14-304, as enacted by Laws of Utah 1997, Chapter 197
+            
+27
+
+    
+     54-14-305, as last amended by Laws of Utah 2011, Chapter 340
+
+            
+28
+
+
+    
+     54-18-305, as enacted by Laws of Utah 2009, Chapter 316
+            
+29
+
+    
+
+            
+30
+
+    
+Be it enacted by the Legislature of the state of Utah:
+            
+31
+
+    
+    Section 1.  
+Section  
+54-14-301
+
+ is amended to read:
+            
+32
+
+    
+     54-14-301.  Creation, purpose, and composition of board.
+            
+33
+
+    
+    (1)  The Utility Facility Review Board is created [within the Department of Commerce]
+            
+34
+
+    
+to resolve disputes between local governments and public utilities regarding the siting and
+            
+35
+
+    
+construction of facilities as provided in this part.
+            
+36
+
+    
+    (2)  The board shall be composed of:
+            
+37
+
+    
+    (a)  the three members of the commission;
+            
+38
+
+    
+    (b)  an individual appointed by the governor from a list of nominees of the Utah League
+            
+39
+
+    
+of Cities and Towns; and
+            
+40
+
+    
+    (c)  an individual appointed by the governor from a list of nominees of the Utah
+            
+41
+
+    
+Association of Counties.
+            
+42
+
+    
+    (3)  The chair of the commission shall serve as chair of the board.
+            
+43
+
+    
+    (4)  Members of the commission shall serve as members of the board during their terms
+            
+44
+
+    
+of office as commissioners and until their successors on the commission have been appointed
+            
+45
+
+    
+and taken office.
+            
+46
+
+    
+    (5) (a)  Members of the board who are not commissioners:
+            
+47
+
+    
+    (i)  shall have four-year terms, except the initial term of the individual first appointed
+            
+48
+
+    
+by the governor from nominees of the Utah Association of Counties shall be two years;
+            
+49
+
+    
+    (ii)  may be appointed for one succeeding term; and
+            
+50
+
+    
+    (iii)  may continue to serve until their successor takes office.
+            
+51
+
+    
+    (b)  Vacancies in the board of members who are not commissioners shall be filled for
+            
+52
+
+    
+the unexpired term.
+            
+53
+
+    
+    (6)  Three members of the board constitute a quorum.
+            
+54
+
+    
+    (7)  A member of the board may be removed for cause by the governor.
+            
+55
+
+    
+    (8)  A member may not receive compensation or benefits for the member's service, but
+            
+56
+
+    
+may receive per diem and travel expenses in accordance with:
+            
+57
+
+    
+    (a)  Section 
+
+63A-3-106
+
+;
+            
+58
+
+    
+    (b)  Section 
+
+63A-3-107
+
+; and
+
+            
+59
+
+
+    
+    (c)  rules made by the Division of Finance pursuant to Sections 
+
+63A-3-106
+
+ and
+            
+60
+
+    
+
+63A-3-107
+
+.
+            
+61
+
+    
+    Section 2.  
+Section  
+54-14-304
+
+ is amended to read:
+            
+62
+
+    
+     54-14-304.  Initial hearing.
+            
+63
+
+    
+    (1)  The board shall convene an initial hearing within [40] 50 days [of] after the date
+            
+64
+
+    
+review is initiated.
+            
+65
+
+    
+    (2)  At the initial hearing, the board shall:
+            
+66
+
+    
+    (a)  determine how the review will take place, including whether it will be conducted as
+            
+67
+
+    
+a formal or informal adjudicative proceeding[.]; and
+            
+68
+
+    
+    (b)  set a schedule for the review proceeding.
+            
+69
+
+    
+    (3)  The board shall hold a hearing on the merits within 60 days after the initial hearing.
+            
+70
+
+    
+    Section 3.  
+Section  
+54-14-305
+
+ is amended to read:
+            
+71
+
+    
+     54-14-305.  Written decisions of board.
+            
+72
+
+    
+    (1)  The board shall issue a written decision on the review expeditiously and, in any
+            
+73
+
+    
+event, not later than [45] 75 days following the initial hearing.
+            
+74
+
+    
+    (2)  The written decision shall:
+            
+75
+
+    
+    (a)  specify whether the facility should be constructed and, if so, whether any
+            
+76
+
+    
+requirements or conditions imposed by the local government may not be imposed because they
+            
+77
+
+    
+impair the ability of the public utility to provide safe, reliable, and adequate service to its
+            
+78
+
+    
+customers; and
+            
+79
+
+    
+    (b)  resolve any dispute regarding:
+            
+80
+
+    
+    (i)  the standard cost or estimated excess cost of the facility;
+            
+81
+
+    
+    (ii)  the date on which construction of the facility should commence in order to avoid a
+            
+82
+
+    
+significant risk of impairment of safe, reliable, and adequate service to customers of the public
+            
+83
+
+    
+utility;
+            
+84
+
+    
+    (iii)  whether the public utility has sought a permit, authorization, approval, exception,
+            
+85
+
+    
+or waiver with respect to a facility sufficiently in advance of the date construction should
+            
+86
+
+    
+commence, based upon reasonably foreseeable conditions, to allow the local government
+            
+87
+
+    
+reasonable time to pay for any estimated excess cost;
+            
+88
+
+    
+    (iv)  apportionment of the actual excess cost of the facility between the local
+            
+89
+
+    
+government and the public utility [pursuant to] under Subsection 
+
+54-14-303
+
+(1)(g); or
+
+            
+90
+
+
+    
+    (v)  the proposed location and siting of a facility subject to [Title 54,] Chapter 18, Siting
+            
+91
+
+    
+of High Voltage Power Line Act, and in accordance with Section 
+
+54-14-102
+
+.
+            
+92
+
+    
+    (3) (a)  Notwithstanding Subsection (6), the written decision of the board may designate
+            
+93
+
+    
+the facility route for a high voltage transmission line pursuant to a dispute described under
+            
+94
+
+    
+Section 
+
+54-14-304
+
+.
+            
+95
+
+    
+    (b)  The public utility [shall be] is entitled to recover from its ratepayers any actual
+            
+96
+
+    
+excess costs apportioned to it under Subsection (2)(b)(iv).
+            
+97
+
+    
+    (4)  If the board determines that a facility that a local government has prohibited should
+            
+98
+
+    
+be constructed, the written decision shall specify any general location parameters required to
+            
+99
+
+    
+provide safe, reliable, adequate, and efficient service to the customers of the public utility.
+            
+100
+
+    
+    (5)  The written decision shall leave to the local government any issue that does not
+            
+101
+
+    
+affect the provision of safe, reliable, adequate, and efficient service to customers of the public
+            
+102
+
+    
+utility or that does not involve an estimated excess cost.
+            
+103
+
+    
+    (6)  With respect to local government requirements or conditions that impose an
+            
+104
+
+    
+estimated excess cost but do not impair the provision of safe, reliable, and adequate service to
+            
+105
+
+    
+the customers of the public utility, the written decision shall leave each siting issue to the local
+            
+106
+
+    
+government except determination of the estimated excess cost and determination of when the
+            
+107
+
+    
+construction of the facility should commence.
+            
+108
+
+    
+    (7) (a)  In determining when the construction of the facility should commence, the
+            
+109
+
+    
+board shall consider whether the public utility sought a permit, authorization, approval,
+            
+110
+
+    
+exception, or waiver from the local government in a timely manner based upon reasonably
+            
+111
+
+    
+foreseeable conditions[, and, if].
+            
+112
+
+    
+    (b)  If the board determines that the public utility did not [do so, it] seek a permit,
+            
+113
+
+    
+authorization, approval, exception, or waiver in a timely manner, the board shall allow
+            
+114
+
+    
+sufficient time for the local government to pay any actual excess cost that may be imposed as a
+            
+115
+
+    
+result of requirements or conditions the local government has imposed that do not impair the
+            
+116
+
+    
+provision of safe, reliable, and adequate service to customers of the public utility.
+            
+117
+
+    
+    (c)  There is a presumption that the utility has sought a permit, authorization, approval,
+            
+118
+
+    
+exception, or waiver in a timely manner if the utility has complied with:
+            
+119
+
+    
+    (i)  the notice and filing requirements of Chapter 18, Siting of High Voltage Power Line
+            
+120
+
+    
+Act; or
+
+            
+121
+
+
+    
+    (ii)  the timing requirements imposed by a local government land use ordinance.
+            
+122
+
+    
+    Section 4.  
+Section  
+54-18-305
+
+ is amended to read:
+            
+123
+
+    
+     54-18-305.  Appeal of high voltage power line route.
+            
+124
+
+    
+    This [section] chapter does not affect a public utility's or local government's right to
+            
+125
+
+    
+appeal a high voltage power line route to the Utility Facility Review Board in accordance with
+            
+126
+
+    
+the provisions of [Title 54,] Chapter 14, Utility Facility Review Board Act.
+
+
+
+
+ Legislative Review Note
+    as of  12-7-12  10:53 AM
+
+ Office of Legislative Research and General Counsel
+[Bill Documents][Bills Directory]
+
+
+
+
+
+
+
+
+
+Who represents me?
+
+
+
+
+
+Remember my Legislators
+
+
+
+
+
+State Senate
+		350 North State, Suite 320
+		PO Box 145115
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1035
+		Fax: (801) 326-1475
+
+
+
+House of Representatives
+		350 North State, Suite 350
+		PO Box 145030
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1029
+		Fax: (801) 326-1544
+
+
+
+
+
+
+
+
+
+
+Home
+Mobile Site
+Site Map
+Calendar
+Code / Constitution
+House
+Senate
+
+Terms of Use/Privacy Policy
+
+ADA
+Utah.gov
+
+
+
+
+
+
+

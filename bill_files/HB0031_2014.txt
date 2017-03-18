@@ -1,0 +1,7697 @@
+Sponsors: []Modifications: Section 
+
+19-1-105
+
+
+(12)(13)    19-12-101.This chapter is known as the "Pollution Control Act."    19-12-102.As used in this chapter:(1)  "Air contaminant" is as defined in Section 
+
+19-2-102
+
+
+.(2)  "Air contaminant source" is as defined in Section 
+
+19-2-102
+
+
+.(3)  "Air pollution" is as defined in Section 
+
+19-2-102
+
+
+.(4)  "Director" means:(a)  for purposes of an application or certification under this chapter related to airpollution, the director of the Division of Air Quality; or(b)  for purposes of an application or certification under this chapter related to waterpollution, the director of the Division of Water Quality.(5) (a)  "Freestanding pollution control property" means tangible personal propertylocated in the state, regardless of whether a purchaser purchases the tangible personal propertyvoluntarily or a governmental entity requires the purchaser to purchase the tangible personalproperty, if:(i)  the primary purpose of the tangible personal property is the prevention, control, orreduction of air or water pollution by:(A)  the disposal or elimination of, or redesign to eliminate, waste, and the use oftreatment works for industrial waste; or(B)  the disposal, elimination, or reduction of, or redesign to eliminate or reduce, aircontaminants, air pollution, or air contamination sources, and the use of one or more aircleaning devices; and(ii)  the tangible personal property is not used at, in the construction of, or incorporatedinto a pollution control facility.(b)  "Freestanding pollution control property" does not include:(i)  the following used for human waste:(A)  a septic tank; or(B)  other property;
+(ii)  property installed, constructed, or used for the moving of sewage to a collectionfacility of a public or quasi-public sewerage system;(iii)  the following used for the comfort of personnel:(A)  an air conditioner;(B)  a fan; or(C)  an item similar to Subsection (5)(b)(iii)(A) or (B); or(iv)  office equipment or an office supply if the primary purpose of the office equipmentor office supply is not the prevention, control, or reduction of air or water pollution by:(A)  the disposal or elimination of, or redesign to eliminate, waste, and the use oftreatment works for industrial waste; or(B)  the disposal, elimination, or reduction of, or redesign to eliminate or reduce, aircontaminants, air pollution, or air contamination sources, and the use of one or more aircleaning devices.(6) (a)  "Pollution control facility" means real property in the state, regardless ofwhether a purchaser purchases the real property voluntarily or a governmental entity requiresthe purchaser to purchase the real property, if the primary purpose of the real property is theprevention, control, or reduction of air pollution or water pollution by:(i)  the disposal or elimination of, or redesign to eliminate:(A)  waste; and(B)  the use of treatment works for industrial waste; or(ii) (A)  the disposal, elimination, or reduction of, or redesign to eliminate or reduce, aircontaminants, air pollution, or air contamination sources; and(B)  the use of one or more air cleaning devices.(b)  "Pollution control facility" includes:(i)  an addition to real property described in Subsection (6)(a);(ii)  the reconstruction of real property described in Subsection (6)(a); or(iii)  an improvement to real property described in Subsection (6)(a).(c)  "Pollution control facility" does not include:(i)  the following used for human waste:(A)  a septic tank; or(B)  another facility;(ii)  property installed, constructed, or used for the moving of sewage to a collectionfacility of a public or quasi-public sewerage system;(iii)  the following used for the comfort of personnel:(A)  an air conditioner;(B)  a fan; or(C)  an item similar to Subsection (6)(c)(iii)(A) or (B); or(iv)  office equipment or an office supply if the primary purpose of the office equipmentor office supply is not the prevention, control, or reduction of air or water pollution by:(A)  the disposal or elimination of, or redesign to eliminate, waste, and the use oftreatment works for industrial waste; or(B)  the disposal, elimination, or reduction of, or redesign to eliminate, or reduce, aircontaminants, air pollution, or air contamination sources, and the use of one or more aircleaning devices.(7)  "Treatment works" is as defined in Section 
+
+19-5-102
+
+
+.(8)  "Waste" is as defined in Section 
+
+19-5-102
+
+
+.(9)  "Water pollution" has the same meaning as "pollution" under Section 
+
+19-5-102
+
+
+.    19-12-201.(1)  Except as provided in Subsection (2), a purchase or lease of the following isexempt from a tax imposed under Title 59, Chapter 12, Sales and Use Tax Act:(a)  freestanding pollution control property;(b)  tangible personal property, including tangible personal property that has aneconomic life of less than three years, if the tangible personal property is:(i)  incorporated into freestanding pollution control property; or(ii)  used at, used in the construction of, or incorporated into a pollution control facility;(c)  a part, if the part is used in the repair or replacement of property described inSubsection (1)(a) or (b);(d)  a product transferred electronically, if the property transferred electronically is:(i)  incorporated into freestanding pollution control property; or(ii)  used at, used in the construction of, or incorporated into a pollution control facility;or(e)  a service, if the service is performed on:(i)  freestanding pollution control property;(ii)  a pollution control facility; or(iii)  property described in Subsection (1)(b), a part described in Subsection (1)(c), or aproduct described in Subsection (1)(d).(2)  A purchase or lease of office equipment or an office supply is not exempt under thissection if the primary purpose of the office equipment or office supply is not the prevention,control, or reduction of air or water pollution by:(a)  the disposal or elimination of, or redesign to eliminate, waste, and the use oftreatment works for industrial waste; or(b)  the disposal, elimination, or reduction of, or redesign to eliminate or reduce, aircontaminants, air pollution, or air contamination sources, and the use of one or more aircleaning devices.    19-12-202.(1)  Before a person may claim a sales and use tax exemption under Section 
+
+19-12-201
+
+
+,the person shall obtain certification issued in accordance with Section 
+
+19-12-303
+
+
+.(2)  For purposes of Subsection (1), if a certification relates to air pollution:(a)  a person shall submit an application under Section 
+
+19-12-301
+
+
+ or 
+
+19-12-302
+
+
+ to thedirector of the Division of Air Quality; and(b)  the director of the Division of Air Quality shall perform the duties described in:(i)  Section 
+
+19-12-303
+
+
+ related to certification; and(ii)  Section 
+
+19-12-304
+
+
+ related to revocation of certification.(3)  For purposes of Subsection (1), if a certification relates to water pollution:(a)  a person shall submit an application under Section 
+
+19-12-301
+
+
+ or 
+
+19-12-302
+
+
+ to thedirector of the Division of Water Quality; and(b)  the director of the Division of Water Quality shall perform the duties described in:(i)  Section 
+
+19-12-303
+
+
+ related to certification; and(ii)  Section 
+
+19-12-304
+
+
+ related to revocation of certification.    19-12-203.(1)  A person who pays a tax under Title 59, Chapter 12, Sales and Use Tax Act, on apurchase or lease that would otherwise be exempt under Section 
+
+19-12-201
+
+
+, except that thedirector has not issued a certification under Section 
+
+19-12-303
+
+
+, may obtain a refund of the taxif:(a)  the director subsequently issues a certification under Section 
+
+19-12-303
+
+
+; and(b)  the person files a claim for the refund with the State Tax Commission on or beforethe earlier of:(i)  three years after the date the director issues the certification under Section
+
+19-12-303
+
+
+; or(ii)  six years after the date the person pays the tax under Title 59, Chapter 12, Sales andUse Tax Act.(2)  A person who pays a tax under Title 59, Chapter 12, Sales and Use Tax Act, on apurchase or lease that is exempt under Section 
+
+19-12-201
+
+
+, may obtain a refund of the tax if theperson files a claim for the refund with the State Tax Commission within three years after thedate the person pays the tax under Title 59, Chapter 12, Sales and Use Tax Act.(3) (a)  If a person files a claim for a refund of taxes under Subsection (1) within 180days after the date the director issues a certification under Section 
+
+19-12-303
+
+
+, interest shall beadded to the amount of the refund the State Tax Commission grants:(i)  at the interest rate prescribed in Section 
+
+59-1-402
+
+
+; and(ii)  beginning on the date the person pays the tax under Title 59, Chapter 12, Sales andUse Tax Act, for which the person is claiming the refund.(b)  If a person files a claim for a refund of taxes under Subsection (1) more than 180days after the date the director issues a certification under Section 
+
+19-12-303
+
+
+, interest shall beadded to the amount of the refund the State Tax Commission grants:(i)  at the interest rate prescribed in Section 
+
+59-1-402
+
+
+; and(ii)  beginning 30 days after the date the person files the claim for a refund.(4)  If a person files a claim for a refund of taxes under Subsection (2), interest shall beadded to the amount of the refund the State Tax Commission grants:(a)  at the interest rate prescribed in Section 
+
+59-1-402
+
+
+; and(b)  beginning 30 days after the date the person files the claim for the refund.    19-12-301.(1)  The following may apply to the director for certification of a pollution controlfacility erected, constructed, installed, or acquired, or to be erected, constructed, installed, oracquired:(a)  an owner, including a contract purchaser, of a trade or business that includes apollution control facility;(b)  a person who, as a lessee or in accordance with an agreement, conducts a trade orbusiness that includes a pollution control facility; or(c)  a person who operates a pollution control facility in accordance with an agreementwith a person described in Subsection (1)(a) or (b).(2)  A person may file an application under this section after:(a)  the person enters into a firm construction contract with another person; or(b)  construction has commenced.(3)  An application for certification under this section shall:(a)  be in a form the director prescribes; and(b)  contain:(i)  a description of the pollution control facility;(ii)  for a purchase or lease of property, a part, a product, or a service for which a personseeks to claim a sales and use tax exemption under Section 
+
+19-12-201
+
+
+, a description of theproperty, part, product, or service;(iii)  the existing or proposed operation procedure for the pollution control facility; and(iv)  a statement of the purpose served or to be served by the pollution control facility.(4)  The director may require an application to contain additional information thedirector finds necessary to determine whether to grant certification under Section 
+
+19-12-303
+
+
+.(5)  This section does not apply to the certification of freestanding pollution controlproperty.    19-12-302.(1)  The following may apply to the director for certification of freestanding pollutioncontrol property:(a)  an owner, including a contract purchaser, of the freestanding pollution controlproperty;(b)  a person who leases the freestanding pollution control property; or(c)  a person who operates the freestanding pollution control property under anagreement with a person described in Subsection (1)(a) or (b).(2)  An application for certification under this section shall:(a)  be in a form the director prescribes; and(b)  contain:(i)  a description of the freestanding pollution control property;(ii)  for a purchase or lease of property, a part, a product, or a service for which a personseeks to claim a sales and use tax exemption under Section 
+
+19-12-201
+
+
+, a description of theproperty, part, product, or service;(iii)  the existing or proposed operational procedure for the freestanding pollutioncontrol property; and(iv)  a statement of the purpose served or to be served by the freestanding pollutioncontrol property.(3)  The director may require an application to contain additional information thedirector finds necessary to determine whether to grant certification under Section 
+
+19-12-303
+
+
+.(4)  This section does not apply to the certification of a pollution control facility.    19-12-303.(1)  The director shall issue a written certification to a person no later than 120 daysafter the date the person files an application under Section 
+
+19-12-301
+
+
+ or 
+
+19-12-302
+
+
+ if thedirector determines that:(a)  for a pollution control facility:(i)  the application meets the requirements of Subsection 
+
+19-12-301
+
+
+(3);(ii)  the facility that is the subject of the application is a pollution control facility;(iii)  the person who files the application is a person described in Subsection
+
+19-12-301
+
+
+(1); and(iv)  the purchases or leases for which the person seeks to claim a sales and use taxexemption are exempt under Section 
+
+19-12-201
+
+
+; or(b)  for freestanding pollution control property:(i)  the application meets the requirements of Subsection 
+
+19-12-302
+
+
+(2);(ii)  the property that is the subject of the application is freestanding pollution controlproperty;(iii)  the person who files the application is a person described in Subsection
+
+19-12-302
+
+
+(1); and(iv)  the purchases or leases for which the person seeks to claim a sales and use taxexemption are exempt under Section 
+
+19-12-201
+
+
+.(2)  If the director denies certification under this section to a person who files anapplication, the director shall provide a written statement of the reason for the denial to theperson no later than 120 days after the date the person files the application.(3)  The director may not require the certification of:(a)  a replacement of freestanding pollution control property; or(b)  property, a part, a product, or a service described in Subsections 
+
+19-12-201
+
+
+(1)(b)through (e) used or performed in a repair or replacement related to:(i)  a pollution control facility; or(ii)  freestanding pollution control property.(4)  The director may issue one certification under this section of two or more:(a)  pollution control facilities that constitute an operational unit; or(b)  freestanding pollution control properties that constitute an operational unit.(5)  If the director does not issue or deny a certification under this section within 120days after the date a person files an application, the director shall issue a certification to theperson at the person's request.    19-12-304.(1)  The director may revoke a certification issued under Section 
+
+19-12-303
+
+
+ if thedirector determines that:(a)  the certification was obtained by fraud or gross misrepresentation; or(b) (i)  for a pollution control facility, a requirement of Subsection 
+
+19-12-303
+
+
+(1)(a) isnot met; or(ii)  for freestanding pollution control property, a requirement of Subsection
+
+19-12-303
+
+
+(1)(b) is not met.(2)  A shutdown of a pollution control facility or freestanding pollution control propertydue to force majeure, including obsolescence, is not cause to revoke the certification of thepollution control facility or freestanding pollution control property.(3)  The director shall provide notice of the director's determination to revoke acertification by issuing a notice of agency action.(4)  The holder of a certification may obtain judicial review of the decision of thedirector to revoke the certification.(5)  A revocation under this section is final and conclusive unless the holder of thecertification obtains judicial review in accordance with Subsection (4).(6)  If a revocation is affirmed on appeal, the revocation is final on the date the holderreceives the notice described in Subsection (3).(7)  If a revocation becomes final under this section, the director shall notify the StateTax Commission of the revocation.(8)  If the director revokes a certification under this section:(a)  the prior sales and use tax exemptions the holder of the certification claimed underSection 
+
+19-12-201
+
+
+ are forfeited; and(b)  the State Tax Commission shall collect taxes not paid by the holder of thecertification:(i)  as a result of claiming the sales and use tax exemptions under Subsection (8)(a); and(ii)  to the extent permitted by Title 59, Chapter 1, Part 14, Assessment, Collections,and Refunds Act.    19-12-305.(1)  In accordance with Title 63G, Chapter 3, Utah Administrative Rulemaking Act, forpurposes of a certification related to air pollution, the Air Quality Board may make rulesestablishing procedures for:(a)  processing and evaluating an application for certification; and(b)  the issuance and revocation of a certification.(2)  In accordance with Title 63G, Chapter 3, Utah Administrative Rulemaking Act, forpurposes of a certification related to water pollution, the Water Quality Board may make rulesestablishing procedures for:(a)  processing and evaluating an application for certification; and(b)  the issuance or revocation of a certification.
+
+19-12-203
+
+
+(11)  purchases or leases exempt under Section 
+
+19-12-201
+
+
+;Full text:
+
+
+
+Utah State Legislature
+
+
+
+
+
+
+
+
+
+
+
+
+Legislators
+
+By Session (1896-Current)
+Alphabetical (Historical)
+Find by Address/Map
+More
+
+
+Bills
+
+Bills/Bill Requests
+Passed Bills
+2017 Bills
+
+Keyword Search
+Reading Calendars
+Tracking Service
+More
+
+
+Committees
+
+All Committees
+Appropriations
+Commissions
+
+Independent Legislative Ethics Commission
+Interim
+Standing
+Subcommittees
+Task Forces
+Bills In Committees
+
+
+Utah Code / Constitution
+
+
+Title/Chapter/Section
+Keyword Search 
+
+Utah Constitution
+Laws of Utah 1851-ongoing
+Utah Territorial Laws 
+More
+
+
+Senate
+
+Main Page 
+About The Senate 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Extraordinary Sessions 
+Reading Calendars 
+Past Floor Debates 
+Senate Journals 
+
+
+House
+
+Main Page
+About the House 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Reading Calendars 
+Past Floor Debates 
+Journals 
+Conflict of Interest Forms 
+
+
+Legislative Guide 
+
+Legislative Guide
+Civic Programs
+GRAMA (Records Requests)
+
+
+Publications
+
+Search Publications
+Appropriations
+Audits
+Bagels & Briefings
+Briefing Papers
+Digest of Legislation
+Legislative Drafting Manual
+
+Journals
+
+Interim Highlights
+
+Legislative Rules
+GRAMA (Records Requests)
+Public Email
+State Organization Charts
+YouTube Channel
+Requests for Proposals and Legal Notices
+More
+
+
+Legislative Histories
+
+Legislative History Resources
+How to Research
+Bill Drafting/Research Files (1990-Ongoing)
+
+Working Bills (1896-1989)
+Interim Committee Histories (1990-Ongoing) 
+Journals
+Past House Floor Debates
+Past Senate Floor Debates
+More
+
+
+Staff Offices
+
+All Legislative Offices
+Auditor General
+Fiscal Analyst
+Printing
+Research and General Counsel
+Staff Awards
+Job Opportunities
+More
+
+
+Links of Interest
+
+Utah Administrative Rules
+Courts
+Utah State Capitol
+State of Utah
+Federal Legislation
+More
+
+
+
+
+
+
+ 
+
+H.B. 31
+
+
+
+
+
+            
+1
+
+    
+ POLLUTION CONTROL AMENDMENTS
+
+
+
+            
+2
+
+    
+2014 GENERAL SESSION
+
+            
+3
+
+    
+STATE OF UTAH
+
+            
+4
+
+    
+
+
+ Chief Sponsor:  Ryan D. Wilcox
+
+
+
+            
+5
+
+    
+
+
+
+Senate Sponsor:  
+
+
+
+
+
+
+Deidre M. Henderson
+
+
+
+
+
+            
+6
+
+    
+
+            
+7
+
+    
+ LONG TITLE
+            
+8
+
+    
+ Committee Note:
+            
+9
+
+    
+    The Revenue and Taxation Interim Committee recommended this bill.
+            
+10
+
+    
+ General Description:
+            
+11
+
+    
+    This bill addresses provisions related to pollution control.
+            
+12
+
+    
+ Highlighted Provisions:
+            
+13
+
+    
+    This bill:
+            
+14
+
+    
+    .    addresses definitions;
+            
+15
+
+    
+    .    repeals provisions related to pollution control;
+            
+16
+
+    
+    .    enacts the Pollution Control Act chapter, including:
+            
+17
+
+    
+        .    defining terms;
+            
+18
+
+    
+        .    addressing a sales and use tax exemption related to pollution control;
+            
+19
+
+    
+        .    addressing the process for claiming a refund of sales and use taxes paid;
+            
+20
+
+    
+        .    addressing the certification process for purposes of the sales and use tax
+            
+21
+
+    
+exemption;
+            
+22
+
+    
+        .    addressing the revocation of certification; and
+            
+23
+
+    
+        .    addressing rulemaking authority by the Air Quality Board or Water Quality
+            
+24
+
+    
+Board; and
+            
+25
+
+    
+    .    makes technical and conforming changes.
+            
+26
+
+    
+ Money Appropriated in this Bill:
+            
+27
+
+    
+    None
+
+            
+28
+
+
+    
+ Other Special Clauses:
+            
+29
+
+    
+    None
+            
+30
+
+    
+ Utah Code Sections Affected:
+            
+31
+
+    
+AMENDS:
+            
+32
+
+    
+     
+19-2-102
+, as last amended by Laws of Utah 2012, Chapter 360
+            
+33
+
+    
+     
+59-1-1410
+, as last amended by Laws of Utah 2012, Chapter 424
+            
+34
+
+    
+     
+59-12-104
+, as last amended by Laws of Utah 2013, Chapters 82, 223, 229, 234, and 441
+            
+35
+
+    
+ENACTS:
+            
+36
+
+    
+     
+19-12-101
+, Utah Code Annotated 1953
+            
+37
+
+    
+     
+19-12-102
+, Utah Code Annotated 1953
+            
+38
+
+    
+     
+19-12-201
+, Utah Code Annotated 1953
+            
+39
+
+    
+     
+19-12-202
+, Utah Code Annotated 1953
+            
+40
+
+    
+     
+19-12-203
+, Utah Code Annotated 1953
+            
+41
+
+    
+     
+19-12-301
+, Utah Code Annotated 1953
+            
+42
+
+    
+     
+19-12-302
+, Utah Code Annotated 1953
+            
+43
+
+    
+     
+19-12-303
+, Utah Code Annotated 1953
+            
+44
+
+    
+     
+19-12-304
+, Utah Code Annotated 1953
+            
+45
+
+    
+     
+19-12-305
+, Utah Code Annotated 1953
+            
+46
+
+    
+REPEALS:
+            
+47
+
+    
+     
+19-2-123
+, as renumbered and amended by Laws of Utah 1991, Chapter 112
+            
+48
+
+    
+     
+19-2-124
+, as last amended by Laws of Utah 2011, Chapter 142
+            
+49
+
+    
+     
+19-2-125
+, as last amended by Laws of Utah 2008, Chapter 30
+            
+50
+
+    
+     
+19-2-126
+, as last amended by Laws of Utah 1994, Chapter 135
+            
+51
+
+    
+     
+19-2-127
+, as renumbered and amended by Laws of Utah 1991, Chapter 112
+            
+52
+
+    
+
+            
+53
+
+    
+Be it enacted by the Legislature of the state of Utah:
+            
+54
+
+    
+    Section 1.  
+Section  
+19-2-102
+
+ is amended to read:
+            
+55
+
+    
+     19-2-102.  Definitions.
+            
+56
+
+    
+    As used in this chapter:
+            
+57
+
+    
+    (1)  "Air contaminant" means any particulate matter or any gas, vapor, suspended solid,
+            
+58
+
+    
+or any combination of them, excluding steam and water vapors.
+
+            
+59
+
+
+    
+    (2)  "Air contaminant source" means all sources of emission of air contaminants
+            
+60
+
+    
+whether privately or publicly owned or operated.
+            
+61
+
+    
+    (3)  "Air pollution" means the presence in the ambient air of one or more air
+            
+62
+
+    
+contaminants in the quantities and duration and under conditions and circumstances as is or
+            
+63
+
+    
+tends to be injurious to human health or welfare, animal or plant life, or property, or would
+            
+64
+
+    
+unreasonably interfere with the enjoyment of life or use of property, as determined by the rules
+            
+65
+
+    
+adopted by the board.
+            
+66
+
+    
+    (4)  "Ambient air" means the surrounding or outside air.
+            
+67
+
+    
+    (5)  "Asbestos" means the asbestiform varieties of serpentine (chrysotile), riebeckite
+            
+68
+
+    
+(crocidolite), cummingtonite-grunerite, anthophyllite, and actinolite-tremolite.
+            
+69
+
+    
+    (6)  "Asbestos-containing material" means any material containing more than 1%
+            
+70
+
+    
+asbestos, as determined using the method adopted in 40 CFR Part 61, Subpart M, National
+            
+71
+
+    
+Emission Standard for Asbestos.
+            
+72
+
+    
+    (7)  "Asbestos inspection" means an activity undertaken to determine the presence or
+            
+73
+
+    
+location, or to assess the condition of, asbestos-containing material or suspected
+            
+74
+
+    
+asbestos-containing material, whether by visual or physical examination, or by taking samples
+            
+75
+
+    
+of the material.
+            
+76
+
+    
+    (8) [(a)]  "Board" means the Air Quality Board.
+            
+77
+
+    
+    [(b)  "Board" means, as used in Sections 
+
+19-2-123
+
+
+ through 
+
+19-2-126
+
+
+, the Air Quality
+            
+78
+
+    
+Board or the Water Quality Board.]
+            
+79
+
+    
+    (9)  "Clean school bus" has the same meaning as defined in 42 U.S.C. Sec. 16091.
+            
+80
+
+    
+    (10)  "Director" means the director of the Division of Air Quality.
+            
+81
+
+    
+    (11)  "Division" means the Division of Air Quality[,] created in [Subsection
+            
+82
+
+    
+
+
+19-1-105
+
+
+(1)(a)] Section 
+
+19-1-105
+
+
+.
+            
+83
+
+    
+    [(12) (a)  "Facility" means machinery, equipment, structures, or any part or accessories
+            
+84
+
+    
+of them, installed or acquired for the primary purpose of controlling or disposing of air
+            
+85
+
+    
+pollution.]
+            
+86
+
+    
+    [(b)  "Facility" does not include an air conditioner, fan, or other similar facility for the
+            
+87
+
+    
+comfort of personnel.]
+            
+88
+
+    
+    [(13)] (12)  "Friable asbestos-containing material" means any material containing more
+            
+89
+
+    
+than 1% asbestos, as determined using the method adopted in 40 CFR Part 61, Subpart M,
+
+            
+90
+
+
+    
+National Emission Standard for Asbestos, that hand pressure can crumble, pulverize, or reduce
+            
+91
+
+    
+to powder when dry.
+            
+92
+
+    
+    [(14)] (13)  "Indirect source" means a facility, building, structure, or installation which
+            
+93
+
+    
+attracts or may attract mobile source activity that results in emissions of a pollutant for which
+            
+94
+
+    
+there is a national standard.
+            
+95
+
+    
+    [(15) (a)  "Pollution control facility" or "facility" means, as used in Sections 
+
+19-2-123
+
+
+
+            
+96
+
+    
+through 
+
+19-2-126
+
+
+, any land, structure, building, installation, excavation, machinery, equipment,
+            
+97
+
+    
+or device, or any addition to, reconstruction, replacement or improvement of, land or an
+            
+98
+
+    
+existing structure, building, installation, excavation, machinery, equipment, or device
+            
+99
+
+    
+reasonably used, erected, constructed, acquired, or installed by any person if the primary
+            
+100
+
+    
+purpose of the use, erection, construction, acquisition, or installation is the prevention, control,
+            
+101
+
+    
+or reduction of air or water pollution by:]
+            
+102
+
+    
+    [(i)  the disposal or elimination of or redesign to eliminate waste and the use of
+            
+103
+
+    
+treatment works for industrial waste as defined in Title 19, Chapter 5, Water Quality Act; or]
+            
+104
+
+    
+    [(ii)  the disposal, elimination, or reduction of or redesign to eliminate or reduce air
+            
+105
+
+    
+contaminants or air pollution or air contamination sources and the use of air cleaning devices.]
+            
+106
+
+    
+    [(b)  "Pollution control facility" or "facility" does not include air conditioners, septic
+            
+107
+
+    
+tanks, or other facilities for human waste, nor any property installed, constructed, or used for
+            
+108
+
+    
+the moving of sewage to the collection facilities of a public or quasi-public sewerage system.]
+            
+109
+
+    
+    Section 2.  
+Section  
+19-12-101
+
+ is enacted to read:
+            
+110
+
+    
+ CHAPTER 12.  POLLUTION CONTROL ACT
+
+            
+111
+
+    
+ Part 1.  General Provisions
+
+            
+112
+
+    
+     19-12-101.  Title.
+            
+113
+
+    
+    This chapter is known as the "Pollution Control Act."
+            
+114
+
+    
+    Section 3.  
+Section  
+19-12-102
+
+ is enacted to read:
+            
+115
+
+    
+     19-12-102.  Definitions.
+            
+116
+
+    
+    As used in this chapter:
+            
+117
+
+    
+    (1)  "Air contaminant" is as defined in Section 
+
+19-2-102
+
+
+.
+            
+118
+
+    
+    (2)  "Air contaminant source" is as defined in Section 
+
+19-2-102
+
+
+.
+            
+119
+
+    
+    (3)  "Air pollution" is as defined in Section 
+
+19-2-102
+
+
+.
+            
+120
+
+    
+    (4)  "Director" means:
+
+            
+121
+
+
+    
+    (a)  for purposes of an application or certification under this chapter related to air
+            
+122
+
+    
+pollution, the director of the Division of Air Quality; or
+            
+123
+
+    
+    (b)  for purposes of an application or certification under this chapter related to water
+            
+124
+
+    
+pollution, the director of the Division of Water Quality.
+            
+125
+
+    
+    (5) (a)  "Freestanding pollution control property" means tangible personal property
+            
+126
+
+    
+located in the state, regardless of whether a purchaser purchases the tangible personal property
+            
+127
+
+    
+voluntarily or a governmental entity requires the purchaser to purchase the tangible personal
+            
+128
+
+    
+property, if:
+            
+129
+
+    
+    (i)  the primary purpose of the tangible personal property is the prevention, control, or
+            
+130
+
+    
+reduction of air or water pollution by:
+            
+131
+
+    
+    (A)  the disposal or elimination of, or redesign to eliminate, waste, and the use of
+            
+132
+
+    
+treatment works for industrial waste; or
+            
+133
+
+    
+    (B)  the disposal, elimination, or reduction of, or redesign to eliminate or reduce, air
+            
+134
+
+    
+contaminants, air pollution, or air contamination sources, and the use of one or more air
+            
+135
+
+    
+cleaning devices; and
+            
+136
+
+    
+    (ii)  the tangible personal property is not used at, in the construction of, or incorporated
+            
+137
+
+    
+into a pollution control facility.
+            
+138
+
+    
+    (b)  "Freestanding pollution control property" does not include:
+            
+139
+
+    
+    (i)  the following used for human waste:
+            
+140
+
+    
+    (A)  a septic tank; or
+            
+141
+
+    
+    (B)  other property;
+            
+142
+
+    
+    
+
+
+
+
+(ii)  property installed, constructed, or used for the moving of sewage to a collection
+            
+143
+
+    
+facility of a public or quasi-public sewerage system;
+            
+144
+
+    
+    (iii)  the following used for the comfort of personnel:
+            
+145
+
+    
+    (A)  an air conditioner;
+            
+146
+
+    
+    (B)  a fan; or
+            
+147
+
+    
+    (C)  an item similar to Subsection (5)(b)(iii)(A) or (B); or
+            
+148
+
+    
+    (iv)  office equipment or an office supply if the primary purpose of the office equipment
+            
+149
+
+    
+or office supply is not the prevention, control, or reduction of air or water pollution by:
+            
+150
+
+    
+    (A)  the disposal or elimination of, or redesign to eliminate, waste, and the use of
+            
+151
+
+    
+treatment works for industrial waste; or
+
+            
+152
+
+
+    
+    (B)  the disposal, elimination, or reduction of, or redesign to eliminate or reduce, air
+            
+153
+
+    
+contaminants, air pollution, or air contamination sources, and the use of one or more air
+            
+154
+
+    
+cleaning devices.
+            
+155
+
+    
+    (6) (a)  "Pollution control facility" means real property in the state, regardless of
+            
+156
+
+    
+whether a purchaser purchases the real property voluntarily or a governmental entity requires
+            
+157
+
+    
+the purchaser to purchase the real property, if the primary purpose of the real property is the
+            
+158
+
+    
+prevention, control, or reduction of air pollution or water pollution by:
+            
+159
+
+    
+    (i)  the disposal or elimination of, or redesign to eliminate:
+            
+160
+
+    
+    (A)  waste; and
+            
+161
+
+    
+    (B)  the use of treatment works for industrial waste; or
+            
+162
+
+    
+    (ii) (A)  the disposal, elimination, or reduction of, or redesign to eliminate or reduce, air
+            
+163
+
+    
+contaminants, air pollution, or air contamination sources; and
+            
+164
+
+    
+    (B)  the use of one or more air cleaning devices.
+            
+165
+
+    
+    (b)  "Pollution control facility" includes:
+            
+166
+
+    
+    (i)  an addition to real property described in Subsection (6)(a);
+            
+167
+
+    
+    (ii)  the reconstruction of real property described in Subsection (6)(a); or
+            
+168
+
+    
+    (iii)  an improvement to real property described in Subsection (6)(a).
+            
+169
+
+    
+    (c)  "Pollution control facility" does not include:
+            
+170
+
+    
+    (i)  the following used for human waste:
+            
+171
+
+    
+    (A)  a septic tank; or
+            
+172
+
+    
+    (B)  another facility;
+            
+173
+
+    
+    (ii)  property installed, constructed, or used for the moving of sewage to a collection
+            
+174
+
+    
+facility of a public or quasi-public sewerage system;
+            
+175
+
+    
+    (iii)  the following used for the comfort of personnel:
+            
+176
+
+    
+    (A)  an air conditioner;
+            
+177
+
+    
+    (B)  a fan; or
+            
+178
+
+    
+    (C)  an item similar to Subsection (6)(c)(iii)(A) or (B); or
+            
+179
+
+    
+    (iv)  office equipment or an office supply if the primary purpose of the office equipment
+            
+180
+
+    
+or office supply is not the prevention, control, or reduction of air or water pollution by:
+            
+181
+
+    
+    (A)  the disposal or elimination of, or redesign to eliminate, waste, and the use of
+            
+182
+
+    
+treatment works for industrial waste; or
+
+            
+183
+
+
+    
+    (B)  the disposal, elimination, or reduction of, or redesign to eliminate, or reduce, air
+            
+184
+
+    
+contaminants, air pollution, or air contamination sources, and the use of one or more air
+            
+185
+
+    
+cleaning devices.
+            
+186
+
+    
+    (7)  "Treatment works" is as defined in Section 
+
+19-5-102
+
+
+.
+            
+187
+
+    
+    (8)  "Waste" is as defined in Section 
+
+19-5-102
+
+
+.
+            
+188
+
+    
+    (9)  "Water pollution" has the same meaning as "pollution" under Section 
+
+19-5-102
+
+
+.
+            
+189
+
+    
+    Section 4.  
+Section  
+19-12-201
+
+ is enacted to read:
+            
+190
+
+    
+ Part 2.  Sales and Use Tax Provisions
+
+            
+191
+
+    
+     19-12-201.  Sales and use tax exemption for certain purchases or leases related to
+            
+192
+
+    
+ pollution control.
+            
+193
+
+    
+    (1)  Except as provided in Subsection (2), a purchase or lease of the following is
+            
+194
+
+    
+exempt from a tax imposed under Title 59, Chapter 12, Sales and Use Tax Act:
+            
+195
+
+    
+    (a)  freestanding pollution control property;
+            
+196
+
+    
+    (b)  tangible personal property, including tangible personal property that has an
+            
+197
+
+    
+economic life of less than three years, if the tangible personal property is:
+            
+198
+
+    
+    (i)  incorporated into freestanding pollution control property; or
+            
+199
+
+    
+    (ii)  used at, used in the construction of, or incorporated into a pollution control facility;
+            
+200
+
+    
+    (c)  a part, if the part is used in the repair or replacement of property described in
+            
+201
+
+    
+Subsection (1)(a) or (b);
+            
+202
+
+    
+    (d)  a product transferred electronically, if the property transferred electronically is:
+            
+203
+
+    
+    (i)  incorporated into freestanding pollution control property; or
+            
+204
+
+    
+    (ii)  used at, used in the construction of, or incorporated into a pollution control facility;
+            
+205
+
+    
+or
+            
+206
+
+    
+    (e)  a service, if the service is performed on:
+            
+207
+
+    
+    (i)  freestanding pollution control property;
+            
+208
+
+    
+    (ii)  a pollution control facility; or
+            
+209
+
+    
+    (iii)  property described in Subsection (1)(b), a part described in Subsection (1)(c), or a
+            
+210
+
+    
+product described in Subsection (1)(d).
+            
+211
+
+    
+    (2)  A purchase or lease of office equipment or an office supply is not exempt under this
+            
+212
+
+    
+section if the primary purpose of the office equipment or office supply is not the prevention,
+            
+213
+
+    
+control, or reduction of air or water pollution by:
+
+            
+214
+
+
+    
+    (a)  the disposal or elimination of, or redesign to eliminate, waste, and the use of
+            
+215
+
+    
+treatment works for industrial waste; or
+            
+216
+
+    
+    (b)  the disposal, elimination, or reduction of, or redesign to eliminate or reduce, air
+            
+217
+
+    
+contaminants, air pollution, or air contamination sources, and the use of one or more air
+            
+218
+
+    
+cleaning devices.
+            
+219
+
+    
+    Section 5.  
+Section  
+19-12-202
+
+ is enacted to read:
+            
+220
+
+    
+     19-12-202.  Certification required before claiming a sales and use tax exemption.
+            
+221
+
+    
+    (1)  Before a person may claim a sales and use tax exemption under Section 
+
+19-12-201
+
+
+,
+            
+222
+
+    
+the person shall obtain certification issued in accordance with Section 
+
+19-12-303
+
+
+.
+            
+223
+
+    
+    (2)  For purposes of Subsection (1), if a certification relates to air pollution:
+            
+224
+
+    
+    (a)  a person shall submit an application under Section 
+
+19-12-301
+
+
+ or 
+
+19-12-302
+
+
+ to the
+            
+225
+
+    
+director of the Division of Air Quality; and
+            
+226
+
+    
+    (b)  the director of the Division of Air Quality shall perform the duties described in:
+            
+227
+
+    
+    (i)  Section 
+
+19-12-303
+
+
+ related to certification; and
+            
+228
+
+    
+    (ii)  Section 
+
+19-12-304
+
+
+ related to revocation of certification.
+            
+229
+
+    
+    (3)  For purposes of Subsection (1), if a certification relates to water pollution:
+            
+230
+
+    
+    (a)  a person shall submit an application under Section 
+
+19-12-301
+
+
+ or 
+
+19-12-302
+
+
+ to the
+            
+231
+
+    
+director of the Division of Water Quality; and
+            
+232
+
+    
+    (b)  the director of the Division of Water Quality shall perform the duties described in:
+            
+233
+
+    
+    (i)  Section 
+
+19-12-303
+
+
+ related to certification; and
+            
+234
+
+    
+    (ii)  Section 
+
+19-12-304
+
+
+ related to revocation of certification.
+            
+235
+
+    
+    Section 6.  
+Section  
+19-12-203
+
+ is enacted to read:
+            
+236
+
+    
+     19-12-203.  Refunds -- Interest.
+            
+237
+
+    
+    (1)  A person who pays a tax under Title 59, Chapter 12, Sales and Use Tax Act, on a
+            
+238
+
+    
+purchase or lease that would otherwise be exempt under Section 
+
+19-12-201
+
+
+, except that the
+            
+239
+
+    
+director has not issued a certification under Section 
+
+19-12-303
+
+
+, may obtain a refund of the tax
+            
+240
+
+    
+if:
+            
+241
+
+    
+    (a)  the director subsequently issues a certification under Section 
+
+19-12-303
+
+
+; and
+            
+242
+
+    
+    (b)  the person files a claim for the refund with the State Tax Commission on or before
+            
+243
+
+    
+the earlier of:
+            
+244
+
+    
+    (i)  three years after the date the director issues the certification under Section
+
+            
+245
+
+
+    
+
+
+19-12-303
+
+
+; or
+            
+246
+
+    
+    (ii)  six years after the date the person pays the tax under Title 59, Chapter 12, Sales and
+            
+247
+
+    
+Use Tax Act.
+            
+248
+
+    
+    (2)  A person who pays a tax under Title 59, Chapter 12, Sales and Use Tax Act, on a
+            
+249
+
+    
+purchase or lease that is exempt under Section 
+
+19-12-201
+
+
+, may obtain a refund of the tax if the
+            
+250
+
+    
+person files a claim for the refund with the State Tax Commission within three years after the
+            
+251
+
+    
+date the person pays the tax under Title 59, Chapter 12, Sales and Use Tax Act.
+            
+252
+
+    
+    (3) (a)  If a person files a claim for a refund of taxes under Subsection (1) within 180
+            
+253
+
+    
+days after the date the director issues a certification under Section 
+
+19-12-303
+
+
+, interest shall be
+            
+254
+
+    
+added to the amount of the refund the State Tax Commission grants:
+            
+255
+
+    
+    (i)  at the interest rate prescribed in Section 
+
+59-1-402
+
+
+; and
+            
+256
+
+    
+    (ii)  beginning on the date the person pays the tax under Title 59, Chapter 12, Sales and
+            
+257
+
+    
+Use Tax Act, for which the person is claiming the refund.
+            
+258
+
+    
+    (b)  If a person files a claim for a refund of taxes under Subsection (1) more than 180
+            
+259
+
+    
+days after the date the director issues a certification under Section 
+
+19-12-303
+
+
+, interest shall be
+            
+260
+
+    
+added to the amount of the refund the State Tax Commission grants:
+            
+261
+
+    
+    (i)  at the interest rate prescribed in Section 
+
+59-1-402
+
+
+; and
+            
+262
+
+    
+    (ii)  beginning 30 days after the date the person files the claim for a refund.
+            
+263
+
+    
+    (4)  If a person files a claim for a refund of taxes under Subsection (2), interest shall be
+            
+264
+
+    
+added to the amount of the refund the State Tax Commission grants:
+            
+265
+
+    
+    (a)  at the interest rate prescribed in Section 
+
+59-1-402
+
+
+; and
+            
+266
+
+    
+    (b)  beginning 30 days after the date the person files the claim for the refund.
+            
+267
+
+    
+    Section 7.  
+Section  
+19-12-301
+
+ is enacted to read:
+            
+268
+
+    
+ Part 3.  Procedures for Certification and Revocation of Certification
+
+            
+269
+
+    
+     19-12-301.  Application for certification of a pollution control facility.
+            
+270
+
+    
+    (1)  The following may apply to the director for certification of a pollution control
+            
+271
+
+    
+facility erected, constructed, installed, or acquired, or to be erected, constructed, installed, or
+            
+272
+
+    
+acquired:
+            
+273
+
+    
+    (a)  an owner, including a contract purchaser, of a trade or business that includes a
+            
+274
+
+    
+pollution control facility;
+            
+275
+
+    
+    (b)  a person who, as a lessee or in accordance with an agreement, conducts a trade or
+
+            
+276
+
+
+    
+business that includes a pollution control facility; or
+            
+277
+
+    
+    (c)  a person who operates a pollution control facility in accordance with an agreement
+            
+278
+
+    
+with a person described in Subsection (1)(a) or (b).
+            
+279
+
+    
+    (2)  A person may file an application under this section after:
+            
+280
+
+    
+    (a)  the person enters into a firm construction contract with another person; or
+            
+281
+
+    
+    (b)  construction has commenced.
+            
+282
+
+    
+    (3)  An application for certification under this section shall:
+            
+283
+
+    
+    (a)  be in a form the director prescribes; and
+            
+284
+
+    
+    (b)  contain:
+            
+285
+
+    
+    (i)  a description of the pollution control facility;
+            
+286
+
+    
+    (ii)  for a purchase or lease of property, a part, a product, or a service for which a person
+            
+287
+
+    
+seeks to claim a sales and use tax exemption under Section 
+
+19-12-201
+
+
+, a description of the
+            
+288
+
+    
+property, part, product, or service;
+            
+289
+
+    
+    (iii)  the existing or proposed operation procedure for the pollution control facility; and
+            
+290
+
+    
+    (iv)  a statement of the purpose served or to be served by the pollution control facility.
+            
+291
+
+    
+    (4)  The director may require an application to contain additional information the
+            
+292
+
+    
+director finds necessary to determine whether to grant certification under Section 
+
+19-12-303
+
+
+.
+            
+293
+
+    
+    (5)  This section does not apply to the certification of freestanding pollution control
+            
+294
+
+    
+property.
+            
+295
+
+    
+    Section 8.  
+Section  
+19-12-302
+
+ is enacted to read:
+            
+296
+
+    
+     19-12-302.  Application for certification of freestanding pollution control property.
+            
+297
+
+    
+    (1)  The following may apply to the director for certification of freestanding pollution
+            
+298
+
+    
+control property:
+            
+299
+
+    
+    (a)  an owner, including a contract purchaser, of the freestanding pollution control
+            
+300
+
+    
+property;
+            
+301
+
+    
+    (b)  a person who leases the freestanding pollution control property; or
+            
+302
+
+    
+    (c)  a person who operates the freestanding pollution control property under an
+            
+303
+
+    
+agreement with a person described in Subsection (1)(a) or (b).
+            
+304
+
+    
+    (2)  An application for certification under this section shall:
+            
+305
+
+    
+    (a)  be in a form the director prescribes; and
+            
+306
+
+    
+    (b)  contain:
+
+            
+307
+
+
+    
+    (i)  a description of the freestanding pollution control property;
+            
+308
+
+    
+    (ii)  for a purchase or lease of property, a part, a product, or a service for which a person
+            
+309
+
+    
+seeks to claim a sales and use tax exemption under Section 
+
+19-12-201
+
+
+, a description of the
+            
+310
+
+    
+property, part, product, or service;
+            
+311
+
+    
+    (iii)  the existing or proposed operational procedure for the freestanding pollution
+            
+312
+
+    
+control property; and
+            
+313
+
+    
+    (iv)  a statement of the purpose served or to be served by the freestanding pollution
+            
+314
+
+    
+control property.
+            
+315
+
+    
+    (3)  The director may require an application to contain additional information the
+            
+316
+
+    
+director finds necessary to determine whether to grant certification under Section 
+
+19-12-303
+
+
+.
+            
+317
+
+    
+    (4)  This section does not apply to the certification of a pollution control facility.
+            
+318
+
+    
+    Section 9.  
+Section  
+19-12-303
+
+ is enacted to read:
+            
+319
+
+    
+     19-12-303.  Certification of pollution control facility or freestanding pollution
+            
+320
+
+    
+ control property.
+            
+321
+
+    
+    (1)  The director shall issue a written certification to a person no later than 120 days
+            
+322
+
+    
+after the date the person files an application under Section 
+
+19-12-301
+
+
+ or 
+
+19-12-302
+
+
+ if the
+            
+323
+
+    
+director determines that:
+            
+324
+
+    
+    (a)  for a pollution control facility:
+            
+325
+
+    
+    (i)  the application meets the requirements of Subsection 
+
+19-12-301
+
+
+(3);
+            
+326
+
+    
+    (ii)  the facility that is the subject of the application is a pollution control facility;
+            
+327
+
+    
+    (iii)  the person who files the application is a person described in Subsection
+            
+328
+
+    
+
+
+19-12-301
+
+
+(1); and
+            
+329
+
+    
+    (iv)  the purchases or leases for which the person seeks to claim a sales and use tax
+            
+330
+
+    
+exemption are exempt under Section 
+
+19-12-201
+
+
+; or
+            
+331
+
+    
+    (b)  for freestanding pollution control property:
+            
+332
+
+    
+    (i)  the application meets the requirements of Subsection 
+
+19-12-302
+
+
+(2);
+            
+333
+
+    
+    (ii)  the property that is the subject of the application is freestanding pollution control
+            
+334
+
+    
+property;
+            
+335
+
+    
+    (iii)  the person who files the application is a person described in Subsection
+            
+336
+
+    
+
+
+19-12-302
+
+
+(1); and
+            
+337
+
+    
+    (iv)  the purchases or leases for which the person seeks to claim a sales and use tax
+
+            
+338
+
+
+    
+exemption are exempt under Section 
+
+19-12-201
+
+
+.
+            
+339
+
+    
+    (2)  If the director denies certification under this section to a person who files an
+            
+340
+
+    
+application, the director shall provide a written statement of the reason for the denial to the
+            
+341
+
+    
+person no later than 120 days after the date the person files the application.
+            
+342
+
+    
+    (3)  The director may not require the certification of:
+            
+343
+
+    
+    (a)  a replacement of freestanding pollution control property; or
+            
+344
+
+    
+    (b)  property, a part, a product, or a service described in Subsections 
+
+19-12-201
+
+
+(1)(b)
+            
+345
+
+    
+through (e) used or performed in a repair or replacement related to:
+            
+346
+
+    
+    (i)  a pollution control facility; or
+            
+347
+
+    
+    (ii)  freestanding pollution control property.
+            
+348
+
+    
+    (4)  The director may issue one certification under this section of two or more:
+            
+349
+
+    
+    (a)  pollution control facilities that constitute an operational unit; or
+            
+350
+
+    
+    (b)  freestanding pollution control properties that constitute an operational unit.
+            
+351
+
+    
+    (5)  If the director does not issue or deny a certification under this section within 120
+            
+352
+
+    
+days after the date a person files an application, the director shall issue a certification to the
+            
+353
+
+    
+person at the person's request.
+            
+354
+
+    
+    Section 10.  
+Section  
+19-12-304
+
+ is enacted to read:
+            
+355
+
+    
+     19-12-304.  Revocation of certification.
+            
+356
+
+    
+    (1)  The director may revoke a certification issued under Section 
+
+19-12-303
+
+
+ if the
+            
+357
+
+    
+director determines that:
+            
+358
+
+    
+    (a)  the certification was obtained by fraud or gross misrepresentation; or
+            
+359
+
+    
+    (b) (i)  for a pollution control facility, a requirement of Subsection 
+
+19-12-303
+
+
+(1)(a) is
+            
+360
+
+    
+not met; or
+            
+361
+
+    
+    (ii)  for freestanding pollution control property, a requirement of Subsection
+            
+362
+
+    
+
+
+19-12-303
+
+
+(1)(b) is not met.
+            
+363
+
+    
+    (2)  A shutdown of a pollution control facility or freestanding pollution control property
+            
+364
+
+    
+due to force majeure, including obsolescence, is not cause to revoke the certification of the
+            
+365
+
+    
+pollution control facility or freestanding pollution control property.
+            
+366
+
+    
+    (3)  The director shall provide notice of the director's determination to revoke a
+            
+367
+
+    
+certification by issuing a notice of agency action.
+            
+368
+
+    
+    (4)  The holder of a certification may obtain judicial review of the decision of the
+
+            
+369
+
+
+    
+director to revoke the certification.
+            
+370
+
+    
+    (5)  A revocation under this section is final and conclusive unless the holder of the
+            
+371
+
+    
+certification obtains judicial review in accordance with Subsection (4).
+            
+372
+
+    
+    (6)  If a revocation is affirmed on appeal, the revocation is final on the date the holder
+            
+373
+
+    
+receives the notice described in Subsection (3).
+            
+374
+
+    
+    (7)  If a revocation becomes final under this section, the director shall notify the State
+            
+375
+
+    
+Tax Commission of the revocation.
+            
+376
+
+    
+    (8)  If the director revokes a certification under this section:
+            
+377
+
+    
+    (a)  the prior sales and use tax exemptions the holder of the certification claimed under
+            
+378
+
+    
+Section 
+
+19-12-201
+
+
+ are forfeited; and
+            
+379
+
+    
+    (b)  the State Tax Commission shall collect taxes not paid by the holder of the
+            
+380
+
+    
+certification:
+            
+381
+
+    
+    (i)  as a result of claiming the sales and use tax exemptions under Subsection (8)(a); and
+            
+382
+
+    
+    (ii)  to the extent permitted by Title 59, Chapter 1, Part 14, Assessment, Collections,
+            
+383
+
+    
+and Refunds Act.
+            
+384
+
+    
+    Section 11.  
+Section  
+19-12-305
+
+ is enacted to read:
+            
+385
+
+    
+     19-12-305.  Rulemaking authority.
+            
+386
+
+    
+    (1)  In accordance with Title 63G, Chapter 3, Utah Administrative Rulemaking Act, for
+            
+387
+
+    
+purposes of a certification related to air pollution, the Air Quality Board may make rules
+            
+388
+
+    
+establishing procedures for:
+            
+389
+
+    
+    (a)  processing and evaluating an application for certification; and
+            
+390
+
+    
+    (b)  the issuance and revocation of a certification.
+            
+391
+
+    
+    (2)  In accordance with Title 63G, Chapter 3, Utah Administrative Rulemaking Act, for
+            
+392
+
+    
+purposes of a certification related to water pollution, the Water Quality Board may make rules
+            
+393
+
+    
+establishing procedures for:
+            
+394
+
+    
+    (a)  processing and evaluating an application for certification; and
+            
+395
+
+    
+    (b)  the issuance or revocation of a certification.
+            
+396
+
+    
+    Section 12.  
+Section  
+59-1-1410
+
+ is amended to read:
+            
+397
+
+    
+     59-1-1410.  Action for collection of tax, fee, or charge -- Action for refund or
+            
+398
+
+    
+ credit of tax, fee, or charge -- Denial of refund claim under appeal -- Appeal of denied
+            
+399
+
+    
+ refund claim.
+
+            
+400
+
+
+    
+    (1) (a)  Except as provided in Subsections (3) through (7) and Sections 
+
+59-5-114
+
+
+,
+            
+401
+
+    
+
+59-7-519
+
+
+, 
+
+59-10-536
+
+
+, and 
+
+59-11-113
+
+
+, the commission shall assess a tax, fee, or charge within
+            
+402
+
+    
+three years after the day on which a person files a return.
+            
+403
+
+    
+    (b)  Except as provided in Subsections (3) through (7), if the commission does not
+            
+404
+
+    
+assess a tax, fee, or charge within the three-year period provided in Subsection (1)(a), the
+            
+405
+
+    
+commission may not commence a proceeding to collect the tax, fee, or charge.
+            
+406
+
+    
+    (2) (a)  Except as provided in Subsection (2)(b), for purposes of this part, a return filed
+            
+407
+
+    
+before the last day prescribed by statute or rule for filing the return is considered to be filed on
+            
+408
+
+    
+the last day for filing the return.
+            
+409
+
+    
+    (b)  A return of withholding tax under Chapter 10, Part 4, Withholding of Tax, is
+            
+410
+
+    
+considered to be filed on April 15 of the succeeding calendar year if the return:
+            
+411
+
+    
+    (i)  is for a period ending with or within a calendar year; and
+            
+412
+
+    
+    (ii)  is filed before April 15 of the succeeding calendar year.
+            
+413
+
+    
+    (3)  The commission may assess a tax, fee, or charge or commence a proceeding for the
+            
+414
+
+    
+collection of a tax, fee, or charge at any time if:
+            
+415
+
+    
+    (a)  a person:
+            
+416
+
+    
+    (i)  files a:
+            
+417
+
+    
+    (A)  false return with intent to evade; or
+            
+418
+
+    
+    (B)  fraudulent return with intent to evade; or
+            
+419
+
+    
+    (ii)  fails to file a return; or
+            
+420
+
+    
+    (b)  the commission estimates the amount of tax, fee, or charge due in accordance with
+            
+421
+
+    
+Subsection 
+
+59-1-1406
+
+
+(2).
+            
+422
+
+    
+    (4)  The commission may extend the period to make an assessment or to commence a
+            
+423
+
+    
+proceeding to collect a tax, fee, or charge if:
+            
+424
+
+    
+    (a)  the three-year period under Subsection (1) has not expired; and
+            
+425
+
+    
+    (b)  the commission and the person sign a written agreement:
+            
+426
+
+    
+    (i)  authorizing the extension; and
+            
+427
+
+    
+    (ii)  providing for the length of the extension.
+            
+428
+
+    
+    (5)  The commission may make an assessment as provided in Subsection (6) if:
+            
+429
+
+    
+    (a)  the commission delays an audit at the request of a person;
+            
+430
+
+    
+    (b)  the person subsequently refuses to agree to an extension request by the commission;
+
+            
+431
+
+
+    
+and
+            
+432
+
+    
+    (c)  the three-year period under Subsection (1) expires before the commission
+            
+433
+
+    
+completes the audit.
+            
+434
+
+    
+    (6)  An assessment under Subsection (5) shall be:
+            
+435
+
+    
+    (a)  for the time period for which the commission could not make the assessment
+            
+436
+
+    
+because of the expiration of the three-year period; and
+            
+437
+
+    
+    (b)  in an amount equal to the difference between:
+            
+438
+
+    
+    (i)  the commission's estimate of the amount of tax, fee, or charge the person would
+            
+439
+
+    
+have been assessed for the time period described in Subsection (6)(a); and
+            
+440
+
+    
+    (ii)  the amount of tax, fee, or charge the person actually paid for the time period
+            
+441
+
+    
+described in Subsection (6)(a).
+            
+442
+
+    
+    (7)  If a person erroneously pays a liability, overpays a liability, pays a liability more
+            
+443
+
+    
+than once, or the commission erroneously receives, collects, or computes a liability, the
+            
+444
+
+    
+commission shall:
+            
+445
+
+    
+    (a)  credit the liability against any amount of liability the person owes; and
+            
+446
+
+    
+    (b)  refund any balance to:
+            
+447
+
+    
+    (i)  the person; or
+            
+448
+
+    
+    (ii) (A)  the person's assign;
+            
+449
+
+    
+    (B)  the person's personal representative;
+            
+450
+
+    
+    (C)  the person's successor; or
+            
+451
+
+    
+    (D)  a person similar to Subsections (7)(b)(ii)(A) through (C) as determined by the
+            
+452
+
+    
+commission by rule made in accordance with Title 63G, Chapter 3, Utah Administrative
+            
+453
+
+    
+Rulemaking Act.
+            
+454
+
+    
+    (8) (a)  Except as provided in Subsection (8)(b) or Section [
+
+19-2-124
+
+
+] 
+
+19-12-203
+
+
+,
+            
+455
+
+    
+
+59-7-522
+
+
+, 
+
+59-10-529
+
+
+, or 
+
+59-12-110
+
+
+, the commission may not make a credit or refund unless a
+            
+456
+
+    
+person files a claim with the commission within the later of:
+            
+457
+
+    
+    (i)  three years from the due date of the return, including the period of any extension of
+            
+458
+
+    
+time provided in statute for filing the return; or
+            
+459
+
+    
+    (ii)  two years from the date the tax was paid.
+            
+460
+
+    
+    (b)  The commission shall extend the time period for a person to file a claim under
+            
+461
+
+    
+Subsection (8)(a) if:
+
+            
+462
+
+
+    
+    (i)  the time period described in Subsection (8)(a) has not expired; and
+            
+463
+
+    
+    (ii)  the commission and the person sign a written agreement:
+            
+464
+
+    
+    (A)  authorizing the extension; and
+            
+465
+
+    
+    (B)  providing for the length of the extension.
+            
+466
+
+    
+    (9)  If the commission denies a claim for a credit or refund, a person may request a
+            
+467
+
+    
+redetermination of the denial by filing a petition or request for agency action with the
+            
+468
+
+    
+commission:
+            
+469
+
+    
+    (a) (i)  within a 30-day period after the day on which the commission mails a notice of
+            
+470
+
+    
+denial for the claim for credit or refund; or
+            
+471
+
+    
+    (ii)  within a 90-day period after the day on which the commission mails a notice of
+            
+472
+
+    
+denial for the claim for credit or refund, if the notice is addressed to a person outside the
+            
+473
+
+    
+United States or the District of Columbia; and
+            
+474
+
+    
+    (b)  in accordance with:
+            
+475
+
+    
+    (i)  Section 
+
+59-1-501
+
+
+; and
+            
+476
+
+    
+    (ii)  Title 63G, Chapter 4, Administrative Procedures Act.
+            
+477
+
+    
+    (10)  The action of the commission on a person's petition for redetermination of a denial
+            
+478
+
+    
+of a claim for credit or refund is final 30 days after the day on which the commission sends the
+            
+479
+
+    
+commission's decision or order, unless the person seeks judicial review.
+            
+480
+
+    
+    Section 13.  
+Section  
+59-12-104
+
+ is amended to read:
+            
+481
+
+    
+     59-12-104.  Exemptions.
+            
+482
+
+    
+    The following sales and uses are exempt from the taxes imposed by this chapter:
+            
+483
+
+    
+    (1)  sales of aviation fuel, motor fuel, and special fuel subject to a Utah state excise tax
+            
+484
+
+    
+under Chapter 13, Motor and Special Fuel Tax Act;
+            
+485
+
+    
+    (2)  subject to Section 
+
+59-12-104.6
+
+
+, sales to the state, its institutions, and its political
+            
+486
+
+    
+subdivisions; however, this exemption does not apply to sales of:
+            
+487
+
+    
+    (a)  construction materials except:
+            
+488
+
+    
+    (i)  construction materials purchased by or on behalf of institutions of the public
+            
+489
+
+    
+education system as defined in Utah Constitution Article X, Section 2, provided the
+            
+490
+
+    
+construction materials are clearly identified and segregated and installed or converted to real
+            
+491
+
+    
+property which is owned by institutions of the public education system; and
+            
+492
+
+    
+    (ii)  construction materials purchased by the state, its institutions, or its political
+
+            
+493
+
+
+    
+subdivisions which are installed or converted to real property by employees of the state, its
+            
+494
+
+    
+institutions, or its political subdivisions; or
+            
+495
+
+    
+    (b)  tangible personal property in connection with the construction, operation,
+            
+496
+
+    
+maintenance, repair, or replacement of a project, as defined in Section 
+
+11-13-103
+
+
+, or facilities
+            
+497
+
+    
+providing additional project capacity, as defined in Section 
+
+11-13-103
+
+
+;
+            
+498
+
+    
+    (3) (a)  sales of an item described in Subsection (3)(b) from a vending machine if:
+            
+499
+
+    
+    (i)  the proceeds of each sale do not exceed $1; and
+            
+500
+
+    
+    (ii)  the seller or operator of the vending machine reports an amount equal to 150% of
+            
+501
+
+    
+the cost of the item described in Subsection (3)(b) as goods consumed; and
+            
+502
+
+    
+    (b)  Subsection (3)(a) applies to:
+            
+503
+
+    
+    (i)  food and food ingredients; or
+            
+504
+
+    
+    (ii)  prepared food;
+            
+505
+
+    
+    (4) (a)  sales of the following to a commercial airline carrier for in-flight consumption:
+            
+506
+
+    
+    (i)  alcoholic beverages;
+            
+507
+
+    
+    (ii)  food and food ingredients; or
+            
+508
+
+    
+    (iii)  prepared food;
+            
+509
+
+    
+    (b)  sales of tangible personal property or a product transferred electronically:
+            
+510
+
+    
+    (i)  to a passenger;
+            
+511
+
+    
+    (ii)  by a commercial airline carrier; and
+            
+512
+
+    
+    (iii)  during a flight for in-flight consumption or in-flight use by the passenger; or
+            
+513
+
+    
+    (c)  services related to Subsection (4)(a) or (b);
+            
+514
+
+    
+    (5) (a) (i)  beginning on July 1, 2008, and ending on September 30, 2008, sales of parts
+            
+515
+
+    
+and equipment:
+            
+516
+
+    
+    (A) (I)  by an establishment described in NAICS Code 336411 or 336412 of the 2002
+            
+517
+
+    
+North American Industry Classification System of the federal Executive Office of the
+            
+518
+
+    
+President, Office of Management and Budget; and
+            
+519
+
+    
+    (II)  for:
+            
+520
+
+    
+    (Aa)  installation in an aircraft, including services relating to the installation of parts or
+            
+521
+
+    
+equipment in the aircraft;
+            
+522
+
+    
+    (Bb)  renovation of an aircraft; or
+            
+523
+
+    
+    (Cc)  repair of an aircraft; or
+
+            
+524
+
+
+    
+    (B)  for installation in an aircraft operated by a common carrier in interstate or foreign
+            
+525
+
+    
+commerce; or
+            
+526
+
+    
+    (ii)  beginning on October 1, 2008, sales of parts and equipment for installation in an
+            
+527
+
+    
+aircraft operated by a common carrier in interstate or foreign commerce; and
+            
+528
+
+    
+    (b)  notwithstanding the time period of Subsection 
+
+59-1-1410
+
+
+(8) for filing for a refund,
+            
+529
+
+    
+a person may claim the exemption allowed by Subsection (5)(a)(i)(B) for a sale by filing for a
+            
+530
+
+    
+refund:
+            
+531
+
+    
+    (i)  if the sale is made on or after July 1, 2008, but on or before September 30, 2008;
+            
+532
+
+    
+    (ii)  as if Subsection (5)(a)(i)(B) were in effect on the day on which the sale is made;
+            
+533
+
+    
+    (iii)  if the person did not claim the exemption allowed by Subsection (5)(a)(i)(B) for
+            
+534
+
+    
+the sale prior to filing for the refund;
+            
+535
+
+    
+    (iv)  for sales and use taxes paid under this chapter on the sale;
+            
+536
+
+    
+    (v)  in accordance with Section 
+
+59-1-1410
+
+
+; and
+            
+537
+
+    
+    (vi)  subject to any extension allowed for filing for a refund under Section 
+
+59-1-1410
+
+
+, if
+            
+538
+
+    
+the person files for the refund on or before September 30, 2011;
+            
+539
+
+    
+    (6)  sales of commercials, motion picture films, prerecorded audio program tapes or
+            
+540
+
+    
+records, and prerecorded video tapes by a producer, distributor, or studio to a motion picture
+            
+541
+
+    
+exhibitor, distributor, or commercial television or radio broadcaster;
+            
+542
+
+    
+    (7) (a)  subject to Subsection (7)(b), sales of cleaning or washing of tangible personal
+            
+543
+
+    
+property if the cleaning or washing of the tangible personal property is not assisted cleaning or
+            
+544
+
+    
+washing of tangible personal property;
+            
+545
+
+    
+    (b)  if a seller that sells at the same business location assisted cleaning or washing of
+            
+546
+
+    
+tangible personal property and cleaning or washing of tangible personal property that is not
+            
+547
+
+    
+assisted cleaning or washing of tangible personal property, the exemption described in
+            
+548
+
+    
+Subsection (7)(a) applies if the seller separately accounts for the sales of the assisted cleaning
+            
+549
+
+    
+or washing of the tangible personal property; and
+            
+550
+
+    
+    (c)  for purposes of Subsection (7)(b) and in accordance with Title 63G, Chapter 3,
+            
+551
+
+    
+Utah Administrative Rulemaking Act, the commission may make rules:
+            
+552
+
+    
+    (i)  governing the circumstances under which sales are at the same business location;
+            
+553
+
+    
+and
+            
+554
+
+    
+    (ii)  establishing the procedures and requirements for a seller to separately account for
+
+            
+555
+
+
+    
+sales of assisted cleaning or washing of tangible personal property;
+            
+556
+
+    
+    (8)  sales made to or by religious or charitable institutions in the conduct of their regular
+            
+557
+
+    
+religious or charitable functions and activities, if the requirements of Section 
+
+59-12-104.1
+
+
+ are
+            
+558
+
+    
+fulfilled;
+            
+559
+
+    
+    (9)  sales of a vehicle of a type required to be registered under the motor vehicle laws of
+            
+560
+
+    
+this state if the vehicle is:
+            
+561
+
+    
+    (a)  not registered in this state; and
+            
+562
+
+    
+    (b) (i)  not used in this state; or
+            
+563
+
+    
+    (ii)  used in this state:
+            
+564
+
+    
+    (A)  if the vehicle is not used to conduct business, for a time period that does not
+            
+565
+
+    
+exceed the longer of:
+            
+566
+
+    
+    (I)  30 days in any calendar year; or
+            
+567
+
+    
+    (II)  the time period necessary to transport the vehicle to the borders of this state; or
+            
+568
+
+    
+    (B)  if the vehicle is used to conduct business, for the time period necessary to transport
+            
+569
+
+    
+the vehicle to the borders of this state;
+            
+570
+
+    
+    (10) (a)  amounts paid for an item described in Subsection (10)(b) if:
+            
+571
+
+    
+    (i)  the item is intended for human use; and
+            
+572
+
+    
+    (ii) (A)  a prescription was issued for the item; or
+            
+573
+
+    
+    (B)  the item was purchased by a hospital or other medical facility; and
+            
+574
+
+    
+    (b) (i)  Subsection (10)(a) applies to:
+            
+575
+
+    
+    (A)  a drug;
+            
+576
+
+    
+    (B)  a syringe; or
+            
+577
+
+    
+    (C)  a stoma supply; and
+            
+578
+
+    
+    (ii)  in accordance with Title 63G, Chapter 3, Utah Administrative Rulemaking Act, the
+            
+579
+
+    
+commission may by rule define the terms:
+            
+580
+
+    
+    (A)  "syringe"; or
+            
+581
+
+    
+    (B)  "stoma supply";
+            
+582
+
+    
+    [(11)  sales or use of property, materials, or services used in the construction of or
+            
+583
+
+    
+incorporated in pollution control facilities allowed by Sections 
+
+19-2-123
+
+
+ through 
+
+19-2-127
+
+
+;]
+            
+584
+
+    
+    (11)  purchases or leases exempt under Section 
+
+19-12-201
+
+
+;
+            
+585
+
+    
+    (12) (a)  sales of an item described in Subsection (12)(c) served by:
+
+            
+586
+
+
+    
+    (i)  the following if the item described in Subsection (12)(c) is not available to the
+            
+587
+
+    
+general public:
+            
+588
+
+    
+    (A)  a church; or
+            
+589
+
+    
+    (B)  a charitable institution;
+            
+590
+
+    
+    (ii)  an institution of higher education if:
+            
+591
+
+    
+    (A)  the item described in Subsection (12)(c) is not available to the general public; or
+            
+592
+
+    
+    (B)  the item described in Subsection (12)(c) is prepaid as part of a student meal plan
+            
+593
+
+    
+offered by the institution of higher education; or
+            
+594
+
+    
+    (b)  sales of an item described in Subsection (12)(c) provided for a patient by:
+            
+595
+
+    
+    (i)  a medical facility; or
+            
+596
+
+    
+    (ii)  a nursing facility; and
+            
+597
+
+    
+    (c)  Subsections (12)(a) and (b) apply to:
+            
+598
+
+    
+    (i)  food and food ingredients;
+            
+599
+
+    
+    (ii)  prepared food; or
+            
+600
+
+    
+    (iii)  alcoholic beverages;
+            
+601
+
+    
+    (13) (a)  except as provided in Subsection (13)(b), the sale of tangible personal property
+            
+602
+
+    
+or a product transferred electronically by a person:
+            
+603
+
+    
+    (i)  regardless of the number of transactions involving the sale of that tangible personal
+            
+604
+
+    
+property or product transferred electronically by that person; and
+            
+605
+
+    
+    (ii)  not regularly engaged in the business of selling that type of tangible personal
+            
+606
+
+    
+property or product transferred electronically;
+            
+607
+
+    
+    (b)  this Subsection (13) does not apply if:
+            
+608
+
+    
+    (i)  the sale is one of a series of sales of a character to indicate that the person is
+            
+609
+
+    
+regularly engaged in the business of selling that type of tangible personal property or product
+            
+610
+
+    
+transferred electronically;
+            
+611
+
+    
+    (ii)  the person holds that person out as regularly engaged in the business of selling that
+            
+612
+
+    
+type of tangible personal property or product transferred electronically;
+            
+613
+
+    
+    (iii)  the person sells an item of tangible personal property or product transferred
+            
+614
+
+    
+electronically that the person purchased as a sale that is exempt under Subsection (25); or
+            
+615
+
+    
+     (iv)  the sale is of a vehicle or vessel required to be titled or registered under the laws of
+            
+616
+
+    
+this state in which case the tax is based upon:
+
+            
+617
+
+
+    
+    (A)  the bill of sale or other written evidence of value of the vehicle or vessel being
+            
+618
+
+    
+sold; or
+            
+619
+
+    
+    (B)  in the absence of a bill of sale or other written evidence of value, the fair market
+            
+620
+
+    
+value of the vehicle or vessel being sold at the time of the sale as determined by the
+            
+621
+
+    
+commission; and
+            
+622
+
+    
+    (c)  in accordance with Title 63G, Chapter 3, Utah Administrative Rulemaking Act, the
+            
+623
+
+    
+commission shall make rules establishing the circumstances under which:
+            
+624
+
+    
+    (i)  a person is regularly engaged in the business of selling a type of tangible personal
+            
+625
+
+    
+property or product transferred electronically;
+            
+626
+
+    
+    (ii)  a sale of tangible personal property or a product transferred electronically is one of
+            
+627
+
+    
+a series of sales of a character to indicate that a person is regularly engaged in the business of
+            
+628
+
+    
+selling that type of tangible personal property or product transferred electronically; or
+            
+629
+
+    
+    (iii)  a person holds that person out as regularly engaged in the business of selling a type
+            
+630
+
+    
+of tangible personal property or product transferred electronically;
+            
+631
+
+    
+    (14) (a)  except as provided in Subsection (14)(b), amounts paid or charged on or after
+            
+632
+
+    
+July 1, 2006, for a purchase or lease by a manufacturing facility except for a cogeneration
+            
+633
+
+    
+facility, of the following:
+            
+634
+
+    
+    (i)  machinery and equipment that:
+            
+635
+
+    
+    (A)  are used:
+            
+636
+
+    
+    (I)  for a manufacturing facility except for a manufacturing facility that is a scrap
+            
+637
+
+    
+recycler described in Subsection 
+
+59-12-102
+
+
+(64)(b):
+            
+638
+
+    
+    (Aa)  in the manufacturing process;
+            
+639
+
+    
+    (Bb)  to manufacture an item sold as tangible personal property; and
+            
+640
+
+    
+    (Cc)  beginning on July 1, 2009, in a manufacturing facility described in this Subsection
+            
+641
+
+    
+(14)(a)(i)(A)(I) in the state; or
+            
+642
+
+    
+    (II)  for a manufacturing facility that is a scrap recycler described in Subsection
+            
+643
+
+    
+
+59-12-102
+
+
+(64)(b):
+            
+644
+
+    
+    (Aa)  to process an item sold as tangible personal property; and
+            
+645
+
+    
+    (Bb)  beginning on July 1, 2009, in a manufacturing facility described in this Subsection
+            
+646
+
+    
+(14)(a)(i)(A)(II) in the state; and
+            
+647
+
+    
+    (B)  have an economic life of three or more years; and
+
+            
+648
+
+
+    
+    (ii)  normal operating repair or replacement parts that:
+            
+649
+
+    
+    (A)  have an economic life of three or more years; and
+            
+650
+
+    
+    (B)  are used:
+            
+651
+
+    
+    (I)  for a manufacturing facility except for a manufacturing facility that is a scrap
+            
+652
+
+    
+recycler described in Subsection 
+
+59-12-102
+
+
+(64)(b):
+            
+653
+
+    
+    (Aa)  in the manufacturing process; and
+            
+654
+
+    
+    (Bb)  in a manufacturing facility described in this Subsection (14)(a)(ii)(B)(I) in the
+            
+655
+
+    
+state; or
+            
+656
+
+    
+    (II)  for a manufacturing facility that is a scrap recycler described in Subsection
+            
+657
+
+    
+
+59-12-102
+
+
+(64)(b):
+            
+658
+
+    
+    (Aa)  to process an item sold as tangible personal property; and
+            
+659
+
+    
+    (Bb)  in a manufacturing facility described in this Subsection (14)(a)(ii)(B)(II) in the
+            
+660
+
+    
+state;
+            
+661
+
+    
+    (b)  amounts paid or charged on or after July 1, 2005, for a purchase or lease by a
+            
+662
+
+    
+manufacturing facility that is a cogeneration facility placed in service on or after May 1, 2006,
+            
+663
+
+    
+of the following:
+            
+664
+
+    
+    (i)  machinery and equipment that:
+            
+665
+
+    
+    (A)  are used:
+            
+666
+
+    
+    (I)  in the manufacturing process;
+            
+667
+
+    
+    (II)  to manufacture an item sold as tangible personal property; and
+            
+668
+
+    
+    (III)  beginning on July 1, 2009, in a manufacturing facility described in this Subsection
+            
+669
+
+    
+(14)(b) in the state; and
+            
+670
+
+    
+    (B)  have an economic life of three or more years; and
+            
+671
+
+    
+    (ii)  normal operating repair or replacement parts that:
+            
+672
+
+    
+    (A)  are used:
+            
+673
+
+    
+    (I)  in the manufacturing process; and
+            
+674
+
+    
+    (II)  in a manufacturing facility described in this Subsection (14)(b) in the state; and
+            
+675
+
+    
+    (B)  have an economic life of three or more years;
+            
+676
+
+    
+    (c)  amounts paid or charged for a purchase or lease made on or after January 1, 2008,
+            
+677
+
+    
+by an establishment described in NAICS Subsector 212, Mining (except Oil and Gas), or
+            
+678
+
+    
+NAICS Code 213113, Support Activities for Coal Mining, 213114, Support Activities for
+
+            
+679
+
+
+    
+Metal Mining, or 213115, Support Activities for Nonmetallic Minerals (except Fuels) Mining,
+            
+680
+
+    
+of the 2002 North American Industry Classification System of the federal Executive Office of
+            
+681
+
+    
+the President, Office of Management and Budget, of the following:
+            
+682
+
+    
+    (i)  machinery and equipment that:
+            
+683
+
+    
+    (A)  are used:
+            
+684
+
+    
+    (I) (Aa)  in the production process, other than the production of real property; or
+            
+685
+
+    
+    (Bb)  in research and development; and
+            
+686
+
+    
+    (II)  beginning on July 1, 2009, in an establishment described in this Subsection (14)(c)
+            
+687
+
+    
+in the state; and
+            
+688
+
+    
+    (B)  have an economic life of three or more years; and
+            
+689
+
+    
+    (ii)  normal operating repair or replacement parts that:
+            
+690
+
+    
+    (A)  have an economic life of three or more years; and
+            
+691
+
+    
+    (B)  are used in:
+            
+692
+
+    
+    (I) (Aa)  the production process, except for the production of real property; and
+            
+693
+
+    
+    (Bb)  an establishment described in this Subsection (14)(c) in the state; or
+            
+694
+
+    
+    (II) (Aa)  research and development; and
+            
+695
+
+    
+    (Bb)  in an establishment described in this Subsection (14)(c) in the state;
+            
+696
+
+    
+    (d) (i)  amounts paid or charged for a purchase or lease made on or after July 1, 2010,
+            
+697
+
+    
+but on or before June 30, 2014, by an establishment described in NAICS Code 518112, Web
+            
+698
+
+    
+Search Portals, of the 2002 North American Industry Classification System of the federal
+            
+699
+
+    
+Executive Office of the President, Office of Management and Budget, of the following:
+            
+700
+
+    
+    (A)  machinery and equipment that:
+            
+701
+
+    
+    (I)  are used in the operation of the web search portal;
+            
+702
+
+    
+    (II)  have an economic life of three or more years; and
+            
+703
+
+    
+    (III)  are used in a new or expanding establishment described in this Subsection (14)(d)
+            
+704
+
+    
+in the state; and
+            
+705
+
+    
+    (B)  normal operating repair or replacement parts that:
+            
+706
+
+    
+    (I)  are used in the operation of the web search portal;
+            
+707
+
+    
+    (II)  have an economic life of three or more years; and
+            
+708
+
+    
+    (III)  are used in a new or expanding establishment described in this Subsection (14)(d)
+            
+709
+
+    
+in the state; or
+
+            
+710
+
+
+    
+    (ii)  amounts paid or charged for a purchase or lease made on or after July 1, 2014, by
+            
+711
+
+    
+an establishment described in NAICS Code 518112, Web Search Portals, of the 2002 North
+            
+712
+
+    
+American Industry Classification System of the federal Executive Office of the President,
+            
+713
+
+    
+Office of Management and Budget, of the following:
+            
+714
+
+    
+    (A)  machinery and equipment that:
+            
+715
+
+    
+    (I)  are used in the operation of the web search portal; and
+            
+716
+
+    
+    (II)  have an economic life of three or more years; and
+            
+717
+
+    
+    (B)  normal operating repair or replacement parts that:
+            
+718
+
+    
+    (I)  are used in the operation of the web search portal; and
+            
+719
+
+    
+    (II)  have an economic life of three or more years;
+            
+720
+
+    
+    (e)  for purposes of this Subsection (14) and in accordance with Title 63G, Chapter 3,
+            
+721
+
+    
+Utah Administrative Rulemaking Act, the commission:
+            
+722
+
+    
+    (i)  shall by rule define the term "establishment"; and
+            
+723
+
+    
+    (ii)  may by rule define what constitutes:
+            
+724
+
+    
+    (A)  processing an item sold as tangible personal property;
+            
+725
+
+    
+    (B)  the production process, except for the production of real property;
+            
+726
+
+    
+    (C)  research and development; or
+            
+727
+
+    
+    (D)  a new or expanding establishment described in Subsection (14)(d) in the state; and
+            
+728
+
+    
+    (f)  on or before October 1, 2011, and every five years after October 1, 2011, the
+            
+729
+
+    
+commission shall:
+            
+730
+
+    
+    (i)  review the exemptions described in this Subsection (14) and make
+            
+731
+
+    
+recommendations to the Revenue and Taxation Interim Committee concerning whether the
+            
+732
+
+    
+exemptions should be continued, modified, or repealed; and
+            
+733
+
+    
+    (ii)  include in its report:
+            
+734
+
+    
+    (A)  an estimate of the cost of the exemptions;
+            
+735
+
+    
+    (B)  the purpose and effectiveness of the exemptions; and
+            
+736
+
+    
+    (C)  the benefits of the exemptions to the state;
+            
+737
+
+    
+    (15) (a)  sales of the following if the requirements of Subsection (15)(b) are met:
+            
+738
+
+    
+    (i)  tooling;
+            
+739
+
+    
+    (ii)  special tooling;
+            
+740
+
+    
+    (iii)  support equipment;
+
+            
+741
+
+
+    
+    (iv)  special test equipment; or
+            
+742
+
+    
+    (v)  parts used in the repairs or renovations of tooling or equipment described in
+            
+743
+
+    
+Subsections (15)(a)(i) through (iv); and
+            
+744
+
+    
+    (b)  sales of tooling, equipment, or parts described in Subsection (15)(a) are exempt if:
+            
+745
+
+    
+    (i)  the tooling, equipment, or parts are used or consumed exclusively in the
+            
+746
+
+    
+performance of any aerospace or electronics industry contract with the United States
+            
+747
+
+    
+government or any subcontract under that contract; and
+            
+748
+
+    
+    (ii)  under the terms of the contract or subcontract described in Subsection (15)(b)(i),
+            
+749
+
+    
+title to the tooling, equipment, or parts is vested in the United States government as evidenced
+            
+750
+
+    
+by:
+            
+751
+
+    
+    (A)  a government identification tag placed on the tooling, equipment, or parts; or
+            
+752
+
+    
+    (B)  listing on a government-approved property record if placing a government
+            
+753
+
+    
+identification tag on the tooling, equipment, or parts is impractical;
+            
+754
+
+    
+    (16)  sales of newspapers or newspaper subscriptions;
+            
+755
+
+    
+    (17) (a)  except as provided in Subsection (17)(b), tangible personal property or a
+            
+756
+
+    
+product transferred electronically traded in as full or part payment of the purchase price, except
+            
+757
+
+    
+that for purposes of calculating sales or use tax upon vehicles not sold by a vehicle dealer,
+            
+758
+
+    
+trade-ins are limited to other vehicles only, and the tax is based upon:
+            
+759
+
+    
+    (i)  the bill of sale or other written evidence of value of the vehicle being sold and the
+            
+760
+
+    
+vehicle being traded in; or
+            
+761
+
+    
+    (ii)  in the absence of a bill of sale or other written evidence of value, the then existing
+            
+762
+
+    
+fair market value of the vehicle being sold and the vehicle being traded in, as determined by the
+            
+763
+
+    
+commission; and
+            
+764
+
+    
+    (b) Subsection (17)(a) does not apply to the following items of tangible personal
+            
+765
+
+    
+property or products transferred electronically traded in as full or part payment of the purchase
+            
+766
+
+    
+price:
+            
+767
+
+    
+    (i)  money;
+            
+768
+
+    
+    (ii)  electricity;
+            
+769
+
+    
+    (iii)  water;
+            
+770
+
+    
+    (iv)  gas; or
+            
+771
+
+    
+    (v)  steam;
+
+            
+772
+
+
+    
+    (18) (a) (i)  except as provided in Subsection (18)(b), sales of tangible personal property
+            
+773
+
+    
+or a product transferred electronically used or consumed primarily and directly in farming
+            
+774
+
+    
+operations, regardless of whether the tangible personal property or product transferred
+            
+775
+
+    
+electronically:
+            
+776
+
+    
+    (A)  becomes part of real estate; or
+            
+777
+
+    
+    (B)  is installed by a:
+            
+778
+
+    
+    (I)  farmer;
+            
+779
+
+    
+    (II)  contractor; or
+            
+780
+
+    
+    (III)  subcontractor; or
+            
+781
+
+    
+    (ii)  sales of parts used in the repairs or renovations of tangible personal property or a
+            
+782
+
+    
+product transferred electronically if the tangible personal property or product transferred
+            
+783
+
+    
+electronically is exempt under Subsection (18)(a)(i); and
+            
+784
+
+    
+    (b) amounts paid or charged for the following are subject to the taxes imposed by this
+            
+785
+
+    
+chapter:
+            
+786
+
+    
+    (i) (A)  subject to Subsection (18)(b)(i)(B), the following if used in a manner that is
+            
+787
+
+    
+incidental to farming:
+            
+788
+
+    
+    (I)  machinery;
+            
+789
+
+    
+    (II)  equipment;
+            
+790
+
+    
+    (III)  materials; or
+            
+791
+
+    
+    (IV)  supplies; and
+            
+792
+
+    
+    (B)  tangible personal property that is considered to be used in a manner that is
+            
+793
+
+    
+incidental to farming includes:
+            
+794
+
+    
+    (I)  hand tools; or
+            
+795
+
+    
+    (II)  maintenance and janitorial equipment and supplies;
+            
+796
+
+    
+    (ii) (A)  subject to Subsection (18)(b)(ii)(B), tangible personal property or a product
+            
+797
+
+    
+transferred electronically if the tangible personal property or product transferred electronically
+            
+798
+
+    
+is used in an activity other than farming; and
+            
+799
+
+    
+    (B)  tangible personal property or a product transferred electronically that is considered
+            
+800
+
+    
+to be used in an activity other than farming includes:
+            
+801
+
+    
+    (I)  office equipment and supplies; or
+            
+802
+
+    
+    (II)  equipment and supplies used in:
+
+            
+803
+
+
+    
+    (Aa)  the sale or distribution of farm products;
+            
+804
+
+    
+    (Bb)  research; or
+            
+805
+
+    
+    (Cc)  transportation; or
+            
+806
+
+    
+    (iii)  a vehicle required to be registered by the laws of this state during the period
+            
+807
+
+    
+ending two years after the date of the vehicle's purchase;
+            
+808
+
+    
+    (19)  sales of hay;
+            
+809
+
+    
+    (20)  exclusive sale during the harvest season of seasonal crops, seedling plants, or
+            
+810
+
+    
+garden, farm, or other agricultural produce if the seasonal crops are, seedling plants are, or
+            
+811
+
+    
+garden, farm, or other agricultural produce is sold by:
+            
+812
+
+    
+    (a)  the producer of the seasonal crops, seedling plants, or garden, farm, or other
+            
+813
+
+    
+agricultural produce;
+            
+814
+
+    
+    (b)  an employee of the producer described in Subsection (20)(a); or
+            
+815
+
+    
+    (c)  a member of the immediate family of the producer described in Subsection (20)(a);
+            
+816
+
+    
+    (21)  purchases made using a coupon as defined in 7 U.S.C. Sec. 2012 that is issued
+            
+817
+
+    
+under the Food Stamp Program, 7 U.S.C. Sec. 2011 et seq.;
+            
+818
+
+    
+    (22)  sales of nonreturnable containers, nonreturnable labels, nonreturnable bags,
+            
+819
+
+    
+nonreturnable shipping cases, and nonreturnable casings to a manufacturer, processor,
+            
+820
+
+    
+wholesaler, or retailer for use in packaging tangible personal property to be sold by that
+            
+821
+
+    
+manufacturer, processor, wholesaler, or retailer;
+            
+822
+
+    
+    (23)  a product stored in the state for resale;
+            
+823
+
+    
+    (24) (a)  purchases of a product if:
+            
+824
+
+    
+    (i)  the product is:
+            
+825
+
+    
+    (A)  purchased outside of this state;
+            
+826
+
+    
+    (B)  brought into this state:
+            
+827
+
+    
+    (I)  at any time after the purchase described in Subsection (24)(a)(i)(A); and
+            
+828
+
+    
+    (II)  by a nonresident person who is not living or working in this state at the time of the
+            
+829
+
+    
+purchase;
+            
+830
+
+    
+    (C)  used for the personal use or enjoyment of the nonresident person described in
+            
+831
+
+    
+Subsection (24)(a)(i)(B)(II) while that nonresident person is within the state; and
+            
+832
+
+    
+    (D)  not used in conducting business in this state; and
+            
+833
+
+    
+    (ii)  for:
+
+            
+834
+
+
+    
+    (A)  a product other than a boat described in Subsection (24)(a)(ii)(B), the first use of
+            
+835
+
+    
+the product for a purpose for which the product is designed occurs outside of this state;
+            
+836
+
+    
+    (B)  a boat, the boat is registered outside of this state; or
+            
+837
+
+    
+    (C)  a vehicle other than a vehicle sold to an authorized carrier, the vehicle is registered
+            
+838
+
+    
+outside of this state;
+            
+839
+
+    
+    (b)  the exemption provided for in Subsection (24)(a) does not apply to:
+            
+840
+
+    
+    (i)  a lease or rental of a product; or
+            
+841
+
+    
+    (ii)  a sale of a vehicle exempt under Subsection (33); and
+            
+842
+
+    
+    (c)  in accordance with Title 63G, Chapter 3, Utah Administrative Rulemaking Act, for
+            
+843
+
+    
+purposes of Subsection (24)(a), the commission may by rule define what constitutes the
+            
+844
+
+    
+following:
+            
+845
+
+    
+    (i)  conducting business in this state if that phrase has the same meaning in this
+            
+846
+
+    
+Subsection (24) as in Subsection (63);
+            
+847
+
+    
+    (ii)  the first use of a product if that phrase has the same meaning in this Subsection (24)
+            
+848
+
+    
+as in Subsection (63); or
+            
+849
+
+    
+    (iii)  a purpose for which a product is designed if that phrase has the same meaning in
+            
+850
+
+    
+this Subsection (24) as in Subsection (63);
+            
+851
+
+    
+    (25)  a product purchased for resale in this state, in the regular course of business, either
+            
+852
+
+    
+in its original form or as an ingredient or component part of a manufactured or compounded
+            
+853
+
+    
+product;
+            
+854
+
+    
+    (26)  a product upon which a sales or use tax was paid to some other state, or one of its
+            
+855
+
+    
+subdivisions, except that the state shall be paid any difference between the tax paid and the tax
+            
+856
+
+    
+imposed by this part and Part 2, Local Sales and Use Tax Act, and no adjustment is allowed if
+            
+857
+
+    
+the tax paid was greater than the tax imposed by this part and Part 2, Local Sales and Use Tax
+            
+858
+
+    
+Act;
+            
+859
+
+    
+    (27)  any sale of a service described in Subsections 
+
+59-12-103
+
+
+(1)(b), (c), and (d) to a
+            
+860
+
+    
+person for use in compounding a service taxable under the subsections;
+            
+861
+
+    
+    (28)  purchases made in accordance with the special supplemental nutrition program for
+            
+862
+
+    
+women, infants, and children established in 42 U.S.C. Sec. 1786;
+            
+863
+
+    
+    (29)  beginning on July 1, 1999, through June 30, 2014, sales or leases of rolls, rollers,
+            
+864
+
+    
+refractory brick, electric motors, or other replacement parts used in the furnaces, mills, or ovens
+
+            
+865
+
+
+    
+of a steel mill described in SIC Code 3312 of the 1987 Standard Industrial Classification
+            
+866
+
+    
+Manual of the federal Executive Office of the President, Office of Management and Budget;
+            
+867
+
+    
+    (30)  sales of a boat of a type required to be registered under Title 73, Chapter 18, State
+            
+868
+
+    
+Boating Act, a boat trailer, or an outboard motor if the boat, boat trailer, or outboard motor is:
+            
+869
+
+    
+    (a)  not registered in this state; and
+            
+870
+
+    
+    (b) (i)  not used in this state; or
+            
+871
+
+    
+    (ii)  used in this state:
+            
+872
+
+    
+    (A)  if the boat, boat trailer, or outboard motor is not used to conduct business, for a
+            
+873
+
+    
+time period that does not exceed the longer of:
+            
+874
+
+    
+    (I)  30 days in any calendar year; or
+            
+875
+
+    
+    (II)  the time period necessary to transport the boat, boat trailer, or outboard motor to
+            
+876
+
+    
+the borders of this state; or
+            
+877
+
+    
+    (B)  if the boat, boat trailer, or outboard motor is used to conduct business, for the time
+            
+878
+
+    
+period necessary to transport the boat, boat trailer, or outboard motor to the borders of this
+            
+879
+
+    
+state;
+            
+880
+
+    
+    (31)  sales of aircraft manufactured in Utah;
+            
+881
+
+    
+    (32)  amounts paid for the purchase of telecommunications service for purposes of
+            
+882
+
+    
+providing telecommunications service;
+            
+883
+
+    
+    (33)  sales, leases, or uses of the following:
+            
+884
+
+    
+    (a)  a vehicle by an authorized carrier; or
+            
+885
+
+    
+    (b)  tangible personal property that is installed on a vehicle:
+            
+886
+
+    
+    (i)  sold or leased to or used by an authorized carrier; and
+            
+887
+
+    
+    (ii)  before the vehicle is placed in service for the first time;
+            
+888
+
+    
+    (34) (a)  45% of the sales price of any new manufactured home; and
+            
+889
+
+    
+    (b)  100% of the sales price of any used manufactured home;
+            
+890
+
+    
+    (35)  sales relating to schools and fundraising sales;
+            
+891
+
+    
+    (36)  sales or rentals of durable medical equipment if:
+            
+892
+
+    
+    (a)  a person presents a prescription for the durable medical equipment; and
+            
+893
+
+    
+    (b)  the durable medical equipment is used for home use only;
+            
+894
+
+    
+    (37) (a)  sales to a ski resort of electricity to operate a passenger ropeway as defined in
+            
+895
+
+    
+Section 
+
+72-11-102
+
+
+; and
+
+            
+896
+
+
+    
+    (b)  the commission shall by rule determine the method for calculating sales exempt
+            
+897
+
+    
+under Subsection (37)(a) that are not separately metered and accounted for in utility billings;
+            
+898
+
+    
+    (38)  sales to a ski resort of:
+            
+899
+
+    
+    (a)  snowmaking equipment;
+            
+900
+
+    
+    (b)  ski slope grooming equipment;
+            
+901
+
+    
+    (c)  passenger ropeways as defined in Section 
+
+72-11-102
+
+
+; or
+            
+902
+
+    
+    (d)  parts used in the repairs or renovations of equipment or passenger ropeways
+            
+903
+
+    
+described in Subsections (38)(a) through (c);
+            
+904
+
+    
+    (39)  sales of natural gas, electricity, heat, coal, fuel oil, or other fuels for industrial use;
+            
+905
+
+    
+    (40) (a)  subject to Subsection (40)(b), sales or rentals of the right to use or operate for
+            
+906
+
+    
+amusement, entertainment, or recreation an unassisted amusement device as defined in Section
+            
+907
+
+    
+
+59-12-102
+
+
+;
+            
+908
+
+    
+    (b)  if a seller that sells or rents at the same business location the right to use or operate
+            
+909
+
+    
+for amusement, entertainment, or recreation one or more unassisted amusement devices and
+            
+910
+
+    
+one or more assisted amusement devices, the exemption described in Subsection (40)(a)
+            
+911
+
+    
+applies if the seller separately accounts for the sales or rentals of the right to use or operate for
+            
+912
+
+    
+amusement, entertainment, or recreation for the assisted amusement devices; and
+            
+913
+
+    
+    (c)  for purposes of Subsection (40)(b) and in accordance with Title 63G, Chapter 3,
+            
+914
+
+    
+Utah Administrative Rulemaking Act, the commission may make rules:
+            
+915
+
+    
+    (i)  governing the circumstances under which sales are at the same business location;
+            
+916
+
+    
+and
+            
+917
+
+    
+    (ii)  establishing the procedures and requirements for a seller to separately account for
+            
+918
+
+    
+the sales or rentals of the right to use or operate for amusement, entertainment, or recreation for
+            
+919
+
+    
+assisted amusement devices;
+            
+920
+
+    
+    (41) (a)  sales of photocopies by:
+            
+921
+
+    
+    (i)  a governmental entity; or
+            
+922
+
+    
+    (ii)  an entity within the state system of public education, including:
+            
+923
+
+    
+    (A)  a school; or
+            
+924
+
+    
+    (B)  the State Board of Education; or
+            
+925
+
+    
+    (b)  sales of publications by a governmental entity;
+            
+926
+
+    
+    (42)  amounts paid for admission to an athletic event at an institution of higher
+
+            
+927
+
+
+    
+education that is subject to the provisions of Title IX of the Education Amendments of 1972,
+            
+928
+
+    
+20 U.S.C. Sec. 1681 et seq.;
+            
+929
+
+    
+    (43) (a)  sales made to or by:
+            
+930
+
+    
+    (i)  an area agency on aging; or
+            
+931
+
+    
+    (ii)  a senior citizen center owned by a county, city, or town; or
+            
+932
+
+    
+    (b)  sales made by a senior citizen center that contracts with an area agency on aging;
+            
+933
+
+    
+    (44)  sales or leases of semiconductor fabricating, processing, research, or development
+            
+934
+
+    
+materials regardless of whether the semiconductor fabricating, processing, research, or
+            
+935
+
+    
+development materials:
+            
+936
+
+    
+    (a)  actually come into contact with a semiconductor; or
+            
+937
+
+    
+    (b)  ultimately become incorporated into real property;
+            
+938
+
+    
+    (45)  an amount paid by or charged to a purchaser for accommodations and services
+            
+939
+
+    
+described in Subsection 
+
+59-12-103
+
+
+(1)(i) to the extent the amount is exempt under Section
+            
+940
+
+    
+
+59-12-104.2
+
+
+;
+            
+941
+
+    
+    (46)  beginning on September 1, 2001, the lease or use of a vehicle issued a temporary
+            
+942
+
+    
+sports event registration certificate in accordance with Section 
+
+41-3-306
+
+
+ for the event period
+            
+943
+
+    
+specified on the temporary sports event registration certificate;
+            
+944
+
+    
+    (47) (a)  sales or uses of electricity, if the sales or uses are made under a tariff adopted
+            
+945
+
+    
+by the Public Service Commission of Utah only for purchase of electricity produced from a
+            
+946
+
+    
+new alternative energy source, as designated in the tariff by the Public Service Commission of
+            
+947
+
+    
+Utah; and
+            
+948
+
+    
+    (b)  the exemption under Subsection (47)(a) applies to the portion of the tariff rate a
+            
+949
+
+    
+customer pays under the tariff described in Subsection (47)(a) that exceeds the tariff rate under
+            
+950
+
+    
+the tariff described in Subsection (47)(a) that the customer would have paid absent the tariff;
+            
+951
+
+    
+    (48)  sales or rentals of mobility enhancing equipment if a person presents a
+            
+952
+
+    
+prescription for the mobility enhancing equipment;
+            
+953
+
+    
+    (49)  sales of water in a:
+            
+954
+
+    
+    (a)  pipe;
+            
+955
+
+    
+    (b)  conduit;
+            
+956
+
+    
+    (c)  ditch; or
+            
+957
+
+    
+    (d)  reservoir;
+
+            
+958
+
+
+    
+    (50)  sales of currency or coins that constitute legal tender of a state, the United States,
+            
+959
+
+    
+or a foreign nation;
+            
+960
+
+    
+    (51) (a)  sales of an item described in Subsection (51)(b) if the item:
+            
+961
+
+    
+    (i)  does not constitute legal tender of a state, the United States, or a foreign nation; and
+            
+962
+
+    
+    (ii)  has a gold, silver, or platinum content of 50% or more; and
+            
+963
+
+    
+    (b)  Subsection (51)(a) applies to a gold, silver, or platinum:
+            
+964
+
+    
+    (i)  ingot;
+            
+965
+
+    
+    (ii)  bar;
+            
+966
+
+    
+    (iii)  medallion; or
+            
+967
+
+    
+    (iv)  decorative coin;
+            
+968
+
+    
+    (52)  amounts paid on a sale-leaseback transaction;
+            
+969
+
+    
+    (53)  sales of a prosthetic device:
+            
+970
+
+    
+    (a)  for use on or in a human; and
+            
+971
+
+    
+    (b) (i)  for which a prescription is required; or
+            
+972
+
+    
+    (ii)  if the prosthetic device is purchased by a hospital or other medical facility;
+            
+973
+
+    
+    (54) (a)  except as provided in Subsection (54)(b), purchases, leases, or rentals of
+            
+974
+
+    
+machinery or equipment by an establishment described in Subsection (54)(c) if the machinery
+            
+975
+
+    
+or equipment is primarily used in the production or postproduction of the following media for
+            
+976
+
+    
+commercial distribution:
+            
+977
+
+    
+    (i)  a motion picture;
+            
+978
+
+    
+    (ii)  a television program;
+            
+979
+
+    
+    (iii)  a movie made for television;
+            
+980
+
+    
+    (iv)  a music video;
+            
+981
+
+    
+    (v)  a commercial;
+            
+982
+
+    
+    (vi)  a documentary; or
+            
+983
+
+    
+    (vii)  a medium similar to Subsections (54)(a)(i) through (vi) as determined by the
+            
+984
+
+    
+commission by administrative rule made in accordance with Subsection (54)(d); or
+            
+985
+
+    
+    (b) purchases, leases, or rentals of machinery or equipment by an establishment
+            
+986
+
+    
+described in Subsection (54)(c) that is used for the production or postproduction of the
+            
+987
+
+    
+following are subject to the taxes imposed by this chapter:
+            
+988
+
+    
+    (i)  a live musical performance;
+
+            
+989
+
+
+    
+    (ii)  a live news program; or
+            
+990
+
+    
+    (iii)  a live sporting event;
+            
+991
+
+    
+    (c)  the following establishments listed in the 1997 North American Industry
+            
+992
+
+    
+Classification System of the federal Executive Office of the President, Office of Management
+            
+993
+
+    
+and Budget, apply to Subsections (54)(a) and (b):
+            
+994
+
+    
+    (i)  NAICS Code 512110; or
+            
+995
+
+    
+    (ii)  NAICS Code 51219; and
+            
+996
+
+    
+    (d)  in accordance with Title 63G, Chapter 3, Utah Administrative Rulemaking Act, the
+            
+997
+
+    
+commission may by rule:
+            
+998
+
+    
+    (i)  prescribe what constitutes a medium similar to Subsections (54)(a)(i) through (vi);
+            
+999
+
+    
+or
+            
+1000
+
+    
+    (ii)  define:
+            
+1001
+
+    
+    (A)  "commercial distribution";
+            
+1002
+
+    
+    (B)  "live musical performance";
+            
+1003
+
+    
+    (C)  "live news program"; or
+            
+1004
+
+    
+    (D)  "live sporting event";
+            
+1005
+
+    
+    (55) (a)  leases of seven or more years or purchases made on or after July 1, 2004, but
+            
+1006
+
+    
+on or before June 30, 2027, of tangible personal property that:
+            
+1007
+
+    
+    (i)  is leased or purchased for or by a facility that:
+            
+1008
+
+    
+    (A)  is an alternative energy electricity production facility;
+            
+1009
+
+    
+    (B)  is located in the state; and
+            
+1010
+
+    
+    (C) (I)  becomes operational on or after July 1, 2004; or
+            
+1011
+
+    
+    (II)  has its generation capacity increased by one or more megawatts on or after July 1,
+            
+1012
+
+    
+2004, as a result of the use of the tangible personal property;
+            
+1013
+
+    
+    (ii)  has an economic life of five or more years; and
+            
+1014
+
+    
+    (iii)  is used to make the facility or the increase in capacity of the facility described in
+            
+1015
+
+    
+Subsection (55)(a)(i) operational up to the point of interconnection with an existing
+            
+1016
+
+    
+transmission grid including:
+            
+1017
+
+    
+    (A)  a wind turbine;
+            
+1018
+
+    
+    (B)  generating equipment;
+            
+1019
+
+    
+    (C)  a control and monitoring system;
+
+            
+1020
+
+
+    
+    (D)  a power line;
+            
+1021
+
+    
+    (E)  substation equipment;
+            
+1022
+
+    
+    (F)  lighting;
+            
+1023
+
+    
+    (G)  fencing;
+            
+1024
+
+    
+    (H)  pipes; or
+            
+1025
+
+    
+    (I)  other equipment used for locating a power line or pole; and
+            
+1026
+
+    
+    (b)  this Subsection (55) does not apply to:
+            
+1027
+
+    
+    (i) tangible personal property used in construction of:
+            
+1028
+
+    
+    (A)  a new alternative energy electricity production facility; or
+            
+1029
+
+    
+    (B)  the increase in the capacity of an alternative energy electricity production facility;
+            
+1030
+
+    
+    (ii)  contracted services required for construction and routine maintenance activities;
+            
+1031
+
+    
+and
+            
+1032
+
+    
+    (iii)  unless the tangible personal property is used or acquired for an increase in capacity
+            
+1033
+
+    
+of the facility described in Subsection (55)(a)(i)(C)(II), tangible personal property used or
+            
+1034
+
+    
+acquired after:
+            
+1035
+
+    
+    (A)  the alternative energy electricity production facility described in Subsection
+            
+1036
+
+    
+(55)(a)(i) is operational as described in Subsection (55)(a)(iii); or
+            
+1037
+
+    
+    (B)  the increased capacity described in Subsection (55)(a)(i) is operational as described
+            
+1038
+
+    
+in Subsection (55)(a)(iii);
+            
+1039
+
+    
+    (56) (a)  leases of seven or more years or purchases made on or after July 1, 2004, but
+            
+1040
+
+    
+on or before June 30, 2027, of tangible personal property that:
+            
+1041
+
+    
+    (i)  is leased or purchased for or by a facility that:
+            
+1042
+
+    
+    (A)  is a waste energy production facility;
+            
+1043
+
+    
+    (B)  is located in the state; and
+            
+1044
+
+    
+    (C) (I)  becomes operational on or after July 1, 2004; or
+            
+1045
+
+    
+    (II)  has its generation capacity increased by one or more megawatts on or after July 1,
+            
+1046
+
+    
+2004, as a result of the use of the tangible personal property;
+            
+1047
+
+    
+    (ii)  has an economic life of five or more years; and
+            
+1048
+
+    
+    (iii)  is used to make the facility or the increase in capacity of the facility described in
+            
+1049
+
+    
+Subsection (56)(a)(i) operational up to the point of interconnection with an existing
+            
+1050
+
+    
+transmission grid including:
+
+            
+1051
+
+
+    
+    (A)  generating equipment;
+            
+1052
+
+    
+    (B)  a control and monitoring system;
+            
+1053
+
+    
+    (C)  a power line;
+            
+1054
+
+    
+    (D)  substation equipment;
+            
+1055
+
+    
+    (E)  lighting;
+            
+1056
+
+    
+    (F)  fencing;
+            
+1057
+
+    
+    (G)  pipes; or
+            
+1058
+
+    
+    (H)  other equipment used for locating a power line or pole; and
+            
+1059
+
+    
+    (b)  this Subsection (56) does not apply to:
+            
+1060
+
+    
+    (i) tangible personal property used in construction of:
+            
+1061
+
+    
+    (A)  a new waste energy facility; or
+            
+1062
+
+    
+    (B)  the increase in the capacity of a waste energy facility;
+            
+1063
+
+    
+    (ii)  contracted services required for construction and routine maintenance activities;
+            
+1064
+
+    
+and
+            
+1065
+
+    
+    (iii)  unless the tangible personal property is used or acquired for an increase in capacity
+            
+1066
+
+    
+described in Subsection (56)(a)(i)(C)(II), tangible personal property used or acquired after:
+            
+1067
+
+    
+    (A)  the waste energy facility described in Subsection (56)(a)(i) is operational as
+            
+1068
+
+    
+described in Subsection (56)(a)(iii); or
+            
+1069
+
+    
+    (B)  the increased capacity described in Subsection (56)(a)(i) is operational as described
+            
+1070
+
+    
+in Subsection (56)(a)(iii);
+            
+1071
+
+    
+    (57) (a)  leases of five or more years or purchases made on or after July 1, 2004 but on
+            
+1072
+
+    
+or before June 30, 2027, of tangible personal property that:
+            
+1073
+
+    
+    (i)  is leased or purchased for or by a facility that:
+            
+1074
+
+    
+    (A)  is located in the state;
+            
+1075
+
+    
+    (B)  produces fuel from alternative energy, including:
+            
+1076
+
+    
+    (I)  methanol; or
+            
+1077
+
+    
+    (II)  ethanol; and
+            
+1078
+
+    
+    (C) (I)  becomes operational on or after July 1, 2004; or
+            
+1079
+
+    
+    (II)  has its capacity to produce fuel increase by 25% or more on or after July 1, 2004, as
+            
+1080
+
+    
+a result of the installation of the tangible personal property;
+            
+1081
+
+    
+    (ii)  has an economic life of five or more years; and
+
+            
+1082
+
+
+    
+    (iii)  is installed on the facility described in Subsection (57)(a)(i);
+            
+1083
+
+    
+    (b)  this Subsection (57) does not apply to:
+            
+1084
+
+    
+    (i) tangible personal property used in construction of:
+            
+1085
+
+    
+    (A)  a new facility described in Subsection (57)(a)(i); or
+            
+1086
+
+    
+    (B)  the increase in capacity of the facility described in Subsection (57)(a)(i); or
+            
+1087
+
+    
+    (ii)  contracted services required for construction and routine maintenance activities;
+            
+1088
+
+    
+and
+            
+1089
+
+    
+    (iii)  unless the tangible personal property is used or acquired for an increase in capacity
+            
+1090
+
+    
+described in Subsection (57)(a)(i)(C)(II), tangible personal property used or acquired after:
+            
+1091
+
+    
+    (A)  the facility described in Subsection (57)(a)(i) is operational; or
+            
+1092
+
+    
+    (B)  the increased capacity described in Subsection (57)(a)(i) is operational;
+            
+1093
+
+    
+    (58) (a)  subject to Subsection (58)(b) or (c), sales of tangible personal property or a
+            
+1094
+
+    
+product transferred electronically to a person within this state if that tangible personal property
+            
+1095
+
+    
+or product transferred electronically is subsequently shipped outside the state and incorporated
+            
+1096
+
+    
+pursuant to contract into and becomes a part of real property located outside of this state;
+            
+1097
+
+    
+    (b)  the exemption under Subsection (58)(a) is not allowed to the extent that the other
+            
+1098
+
+    
+state or political entity to which the tangible personal property is shipped imposes a sales, use,
+            
+1099
+
+    
+gross receipts, or other similar transaction excise tax on the transaction against which the other
+            
+1100
+
+    
+state or political entity allows a credit for sales and use taxes imposed by this chapter; and
+            
+1101
+
+    
+    (c)  notwithstanding the time period of Subsection 
+
+59-1-1410
+
+
+(8) for filing for a refund,
+            
+1102
+
+    
+a person may claim the exemption allowed by this Subsection (58) for a sale by filing for a
+            
+1103
+
+    
+refund:
+            
+1104
+
+    
+    (i)  if the sale is made on or after July 1, 2004, but on or before June 30, 2008;
+            
+1105
+
+    
+    (ii)  as if this Subsection (58) as in effect on July 1, 2008, were in effect on the day on
+            
+1106
+
+    
+which the sale is made;
+            
+1107
+
+    
+    (iii)  if the person did not claim the exemption allowed by this Subsection (58) for the
+            
+1108
+
+    
+sale prior to filing for the refund;
+            
+1109
+
+    
+    (iv)  for sales and use taxes paid under this chapter on the sale;
+            
+1110
+
+    
+    (v)  in accordance with Section 
+
+59-1-1410
+
+
+; and
+            
+1111
+
+    
+    (vi)  subject to any extension allowed for filing for a refund under Section 
+
+59-1-1410
+
+
+, if
+            
+1112
+
+    
+the person files for the refund on or before June 30, 2011;
+
+            
+1113
+
+
+    
+    (59)  purchases:
+            
+1114
+
+    
+    (a)  of one or more of the following items in printed or electronic format:
+            
+1115
+
+    
+    (i)  a list containing information that includes one or more:
+            
+1116
+
+    
+    (A)  names; or
+            
+1117
+
+    
+    (B)  addresses; or
+            
+1118
+
+    
+    (ii)  a database containing information that includes one or more:
+            
+1119
+
+    
+    (A)  names; or
+            
+1120
+
+    
+    (B)  addresses; and
+            
+1121
+
+    
+    (b)  used to send direct mail;
+            
+1122
+
+    
+    (60)  redemptions or repurchases of a product by a person if that product was:
+            
+1123
+
+    
+    (a)  delivered to a pawnbroker as part of a pawn transaction; and
+            
+1124
+
+    
+    (b)  redeemed or repurchased within the time period established in a written agreement
+            
+1125
+
+    
+between the person and the pawnbroker for redeeming or repurchasing the product;
+            
+1126
+
+    
+    (61) (a)  purchases or leases of an item described in Subsection (61)(b) if the item:
+            
+1127
+
+    
+    (i)  is purchased or leased by, or on behalf of, a telecommunications service provider;
+            
+1128
+
+    
+and
+            
+1129
+
+    
+    (ii)  has a useful economic life of one or more years; and
+            
+1130
+
+    
+    (b)  the following apply to Subsection (61)(a):
+            
+1131
+
+    
+    (i)  telecommunications enabling or facilitating equipment, machinery, or software;
+            
+1132
+
+    
+    (ii)  telecommunications equipment, machinery, or software required for 911 service;
+            
+1133
+
+    
+    (iii)  telecommunications maintenance or repair equipment, machinery, or software;
+            
+1134
+
+    
+    (iv)  telecommunications switching or routing equipment, machinery, or software; or
+            
+1135
+
+    
+    (v)  telecommunications transmission equipment, machinery, or software;
+            
+1136
+
+    
+    (62) (a)  beginning on July 1, 2006, and ending on June 30, 2027, purchases of tangible
+            
+1137
+
+    
+personal property or a product transferred electronically that are used in the research and
+            
+1138
+
+    
+development of alternative energy technology; and
+            
+1139
+
+    
+    (b)  in accordance with Title 63G, Chapter 3, Utah Administrative Rulemaking Act, the
+            
+1140
+
+    
+commission may, for purposes of Subsection (62)(a), make rules defining what constitutes
+            
+1141
+
+    
+purchases of tangible personal property or a product transferred electronically that are used in
+            
+1142
+
+    
+the research and development of alternative energy technology;
+            
+1143
+
+    
+    (63) (a)  purchases of tangible personal property or a product transferred electronically
+
+            
+1144
+
+
+    
+if:
+            
+1145
+
+    
+    (i)  the tangible personal property or product transferred electronically is:
+            
+1146
+
+    
+    (A)  purchased outside of this state;
+            
+1147
+
+    
+    (B)  brought into this state at any time after the purchase described in Subsection
+            
+1148
+
+    
+(63)(a)(i)(A); and
+            
+1149
+
+    
+    (C)  used in conducting business in this state; and
+            
+1150
+
+    
+    (ii)  for:
+            
+1151
+
+    
+    (A)  tangible personal property or a product transferred electronically other than the
+            
+1152
+
+    
+tangible personal property described in Subsection (63)(a)(ii)(B), the first use of the property
+            
+1153
+
+    
+for a purpose for which the property is designed occurs outside of this state; or
+            
+1154
+
+    
+    (B)  a vehicle other than a vehicle sold to an authorized carrier, the vehicle is registered
+            
+1155
+
+    
+outside of this state;
+            
+1156
+
+    
+    (b)  the exemption provided for in Subsection (63)(a) does not apply to:
+            
+1157
+
+    
+    (i)  a lease or rental of tangible personal property or a product transferred electronically;
+            
+1158
+
+    
+or
+            
+1159
+
+    
+    (ii)  a sale of a vehicle exempt under Subsection (33); and
+            
+1160
+
+    
+    (c)  in accordance with Title 63G, Chapter 3, Utah Administrative Rulemaking Act, for
+            
+1161
+
+    
+purposes of Subsection (63)(a), the commission may by rule define what constitutes the
+            
+1162
+
+    
+following:
+            
+1163
+
+    
+    (i)  conducting business in this state if that phrase has the same meaning in this
+            
+1164
+
+    
+Subsection (63) as in Subsection (24);
+            
+1165
+
+    
+    (ii)  the first use of tangible personal property or a product transferred electronically if
+            
+1166
+
+    
+that phrase has the same meaning in this Subsection (63) as in Subsection (24); or
+            
+1167
+
+    
+    (iii)  a purpose for which tangible personal property or a product transferred
+            
+1168
+
+    
+electronically is designed if that phrase has the same meaning in this Subsection (63) as in
+            
+1169
+
+    
+Subsection (24);
+            
+1170
+
+    
+    (64)  sales of disposable home medical equipment or supplies if:
+            
+1171
+
+    
+    (a)  a person presents a prescription for the disposable home medical equipment or
+            
+1172
+
+    
+supplies;
+            
+1173
+
+    
+    (b)  the disposable home medical equipment or supplies are used exclusively by the
+            
+1174
+
+    
+person to whom the prescription described in Subsection (64)(a) is issued; and
+
+            
+1175
+
+
+    
+    (c)  the disposable home medical equipment and supplies are listed as eligible for
+            
+1176
+
+    
+payment under:
+            
+1177
+
+    
+    (i)  Title XVIII, federal Social Security Act; or
+            
+1178
+
+    
+    (ii)  the state plan for medical assistance under Title XIX, federal Social Security Act;
+            
+1179
+
+    
+    (65)  sales:
+            
+1180
+
+    
+    (a)  to a public transit district under Title 17B, Chapter 2a, Part 8, Public Transit
+            
+1181
+
+    
+District Act; or
+            
+1182
+
+    
+    (b)  of tangible personal property to a subcontractor of a public transit district, if the
+            
+1183
+
+    
+tangible personal property is:
+            
+1184
+
+    
+    (i)  clearly identified; and
+            
+1185
+
+    
+    (ii)  installed or converted to real property owned by the public transit district;
+            
+1186
+
+    
+    (66)  sales of construction materials:
+            
+1187
+
+    
+    (a)  purchased on or after July 1, 2010;
+            
+1188
+
+    
+    (b)  purchased by, on behalf of, or for the benefit of an international airport:
+            
+1189
+
+    
+    (i)  located within a county of the first class; and
+            
+1190
+
+    
+    (ii)  that has a United States customs office on its premises; and
+            
+1191
+
+    
+    (c)  if the construction materials are:
+            
+1192
+
+    
+    (i)  clearly identified;
+            
+1193
+
+    
+    (ii)  segregated; and
+            
+1194
+
+    
+    (iii)  installed or converted to real property:
+            
+1195
+
+    
+    (A)  owned or operated by the international airport described in Subsection (66)(b); and
+            
+1196
+
+    
+    (B)  located at the international airport described in Subsection (66)(b);
+            
+1197
+
+    
+    (67)  sales of construction materials:
+            
+1198
+
+    
+    (a)  purchased on or after July 1, 2008;
+            
+1199
+
+    
+    (b)  purchased by, on behalf of, or for the benefit of a new airport:
+            
+1200
+
+    
+    (i)  located within a county of the second class; and
+            
+1201
+
+    
+    (ii)  that is owned or operated by a city in which an airline as defined in Section
+            
+1202
+
+    
+
+59-2-102
+
+
+ is headquartered; and
+            
+1203
+
+    
+    (c)  if the construction materials are:
+            
+1204
+
+    
+    (i)  clearly identified;
+            
+1205
+
+    
+    (ii)  segregated; and
+
+            
+1206
+
+
+    
+    (iii)  installed or converted to real property:
+            
+1207
+
+    
+    (A)  owned or operated by the new airport described in Subsection (67)(b);
+            
+1208
+
+    
+    (B)  located at the new airport described in Subsection (67)(b); and
+            
+1209
+
+    
+    (C)  as part of the construction of the new airport described in Subsection (67)(b);
+            
+1210
+
+    
+    (68)  sales of fuel to a common carrier that is a railroad for use in a locomotive engine;
+            
+1211
+
+    
+    (69)  purchases and sales described in Section 
+
+63H-4-111
+
+
+;
+            
+1212
+
+    
+    (70) (a)  sales of tangible personal property to an aircraft maintenance, repair, and
+            
+1213
+
+    
+overhaul provider for use in the maintenance, repair, overhaul, or refurbishment in this state of
+            
+1214
+
+    
+a fixed wing turbine powered aircraft if that fixed wing turbine powered aircraft's registration
+            
+1215
+
+    
+lists a state or country other than this state as the location of registry of the fixed wing turbine
+            
+1216
+
+    
+powered aircraft; or
+            
+1217
+
+    
+    (b)  sales of tangible personal property by an aircraft maintenance, repair, and overhaul
+            
+1218
+
+    
+provider in connection with the maintenance, repair, overhaul, or refurbishment in this state of
+            
+1219
+
+    
+a fixed wing turbine powered aircraft if that fixed wing turbine powered aircraft's registration
+            
+1220
+
+    
+lists a state or country other than this state as the location of registry of the fixed wing turbine
+            
+1221
+
+    
+powered aircraft;
+            
+1222
+
+    
+    (71)  subject to Section 
+
+59-12-104.4
+
+
+, sales of a textbook for a higher education course:
+            
+1223
+
+    
+    (a)  to a person admitted to an institution of higher education; and
+            
+1224
+
+    
+    (b)  by a seller, other than a bookstore owned by an institution of higher education, if
+            
+1225
+
+    
+51% or more of that seller's sales revenue for the previous calendar quarter are sales of a
+            
+1226
+
+    
+textbook for a higher education course;
+            
+1227
+
+    
+    (72)  a license fee or tax a municipality imposes in accordance with Subsection
+            
+1228
+
+    
+
+10-1-203
+
+
+(5) on a purchaser from a business for which the municipality provides an enhanced
+            
+1229
+
+    
+level of municipal services;
+            
+1230
+
+    
+    (73)  amounts paid or charged for construction materials used in the construction of a
+            
+1231
+
+    
+new or expanding life science research and development facility in the state, if the construction
+            
+1232
+
+    
+materials are:
+            
+1233
+
+    
+    (a)  clearly identified;
+            
+1234
+
+    
+    (b)  segregated; and
+            
+1235
+
+    
+    (c)  installed or converted to real property;
+            
+1236
+
+    
+    (74)  amounts paid or charged for:
+
+            
+1237
+
+
+    
+    (a)  a purchase or lease of machinery and equipment that:
+            
+1238
+
+    
+    (i)  are used in performing qualified research:
+            
+1239
+
+    
+    (A)  as defined in Section 
+
+59-7-612
+
+
+;
+            
+1240
+
+    
+    (B)  in the state; and
+            
+1241
+
+    
+    (C)  with respect to which the purchaser pays or incurs a qualified research expense as
+            
+1242
+
+    
+defined in Section 
+
+59-7-612
+
+
+; and
+            
+1243
+
+    
+    (ii)  have an economic life of three or more years; and
+            
+1244
+
+    
+    (b)  normal operating repair or replacement parts:
+            
+1245
+
+    
+    (i)  for the machinery and equipment described in Subsection (74)(a); and
+            
+1246
+
+    
+    (ii)  that have an economic life of three or more years;
+            
+1247
+
+    
+    (75)  a sale or lease of tangible personal property used in the preparation of prepared
+            
+1248
+
+    
+food if:
+            
+1249
+
+    
+    (a)  for a sale:
+            
+1250
+
+    
+    (i)  the ownership of the seller and the ownership of the purchaser are identical; and
+            
+1251
+
+    
+    (ii)  the seller or the purchaser paid a tax under this chapter on the purchase of that
+            
+1252
+
+    
+tangible personal property prior to making the sale; or
+            
+1253
+
+    
+    (b)  for a lease:
+            
+1254
+
+    
+    (i)  the ownership of the lessor and the ownership of the lessee are identical; and
+            
+1255
+
+    
+    (ii)  the lessor or the lessee paid a tax under this chapter on the purchase of that tangible
+            
+1256
+
+    
+personal property prior to making the lease;
+            
+1257
+
+    
+    (76) (a)  purchases of machinery or equipment if:
+            
+1258
+
+    
+    (i)  the purchaser is an establishment described in NAICS Subsector 713, Amusement,
+            
+1259
+
+    
+Gambling, and Recreation Industries, of the 2012 North American Industry Classification
+            
+1260
+
+    
+System of the federal Executive Office of the President, Office of Management and Budget;
+            
+1261
+
+    
+    (ii)  the machinery or equipment:
+            
+1262
+
+    
+    (A)  has an economic life of three or more years; and
+            
+1263
+
+    
+    (B)  is used by one or more persons who pay admission or user fees described in
+            
+1264
+
+    
+Subsection 
+
+59-12-103
+
+
+(1)(f) to the purchaser of the machinery and equipment; and
+            
+1265
+
+    
+    (iii)  51% or more of the purchaser's sales revenue for the previous calendar quarter is:
+            
+1266
+
+    
+    (A)  amounts paid or charged as admission or user fees described in Subsection
+            
+1267
+
+    
+
+59-12-103
+
+
+(1)(f); and
+
+            
+1268
+
+
+    
+    (B)  subject to taxation under this chapter;
+            
+1269
+
+    
+    (b)  in accordance with Title 63G, Chapter 3, Utah Administrative Rulemaking Act, the
+            
+1270
+
+    
+commission may make rules for verifying that 51% of a purchaser's sales revenue for the
+            
+1271
+
+    
+previous calendar quarter is:
+            
+1272
+
+    
+    (i)  amounts paid or charged as admission or user fees described in Subsection
+            
+1273
+
+    
+
+59-12-103
+
+
+(1)(f); and
+            
+1274
+
+    
+    (ii)  subject to taxation under this chapter; and
+            
+1275
+
+    
+    (c)  on or before the November 2018 interim meeting, and every five years after the
+            
+1276
+
+    
+November 2018 interim meeting, the commission shall review the exemption provided in this
+            
+1277
+
+    
+Subsection (76) and report to the Revenue and Taxation Interim Committee on:
+            
+1278
+
+    
+    (i)  the revenue lost to the state and local taxing jurisdictions as a result of the
+            
+1279
+
+    
+exemption;
+            
+1280
+
+    
+    (ii)  the purpose and effectiveness of the exemption; and
+            
+1281
+
+    
+    (iii)  whether the exemption benefits the state;
+            
+1282
+
+    
+    (77)  purchases of a short-term lodging consumable by a business that provides
+            
+1283
+
+    
+accommodations and services described in Subsection 
+
+59-12-103
+
+
+(1)(i);
+            
+1284
+
+    
+    (78)  amounts paid or charged to access a database:
+            
+1285
+
+    
+    (a)  if the primary purpose for accessing the database is to view or retrieve information
+            
+1286
+
+    
+from the database; and
+            
+1287
+
+    
+    (b)  not including amounts paid or charged for a:
+            
+1288
+
+    
+    (i)  digital audiowork;
+            
+1289
+
+    
+    (ii)  digital audio-visual work; or
+            
+1290
+
+    
+    (iii)  digital book;
+            
+1291
+
+    
+    (79)  amounts paid or charged for a purchase or lease made by an electronic financial
+            
+1292
+
+    
+payment service, of:
+            
+1293
+
+    
+    (a)  machinery and equipment that:
+            
+1294
+
+    
+    (i)  are used in the operation of the electronic financial payment service; and
+            
+1295
+
+    
+    (ii)  have an economic life of three or more years; and
+            
+1296
+
+    
+    (b)  normal operating repair or replacement parts that:
+            
+1297
+
+    
+    (i)  are used in the operation of the electronic financial payment service; and
+            
+1298
+
+    
+    (ii)  have an economic life of three or more years; and
+
+            
+1299
+
+
+    
+    (80)  beginning on April 1, 2013, sales of a fuel cell as defined in Section 
+
+54-15-102
+
+
+.
+            
+1300
+
+    
+    Section 14.  Repealer.
+            
+1301
+
+    
+    This bill repeals:
+            
+1302
+
+    
+    Section 
+19-2-123
+,  Tax relief to encourage investment in facilities -- Sales and use
+            
+1303
+
+    
+ tax exemption.
+            
+1304
+
+    
+    Section 
+19-2-124
+,  Application for certification of pollution control facility --
+            
+1305
+
+    
+ Refunds -- Interest.
+            
+1306
+
+    
+    Section 
+19-2-125
+,  Action on application for certification.
+            
+1307
+
+    
+    Section 
+19-2-126
+,  Revocation of certification -- Grounds -- Procedure.
+            
+1308
+
+    
+    Section 
+19-2-127
+,  Rules for administering certification for tax relief.
+
+
+
+
+ Legislative Review Note
+    as of  11-21-13  10:40 AM
+
+ Office of Legislative Research and General Counsel
+[Bill Documents][Bills Directory]
+
+
+
+
+
+
+
+
+
+Who represents me?
+
+
+
+
+
+Remember my Legislators
+
+
+
+
+
+State Senate
+		350 North State, Suite 320
+		PO Box 145115
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1035
+		Fax: (801) 326-1475
+
+
+
+House of Representatives
+		350 North State, Suite 350
+		PO Box 145030
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1029
+		Fax: (801) 326-1544
+
+
+
+
+
+
+
+
+
+
+Home
+Mobile Site
+Site Map
+Calendar
+Code / Constitution
+House
+Senate
+
+Terms of Use/Privacy Policy
+
+ADA
+Utah.gov
+
+
+
+
+
+
+

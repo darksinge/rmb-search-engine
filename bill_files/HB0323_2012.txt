@@ -1,0 +1,2027 @@
+Sponsors: []Modifications: ,,Section,(i)  Subject to Subsection (3)(d)(ii), theonfor which the return is filed, including both cash and charge sales(ii)  For a sale that includes the delivery or installation of tangible personal property at alocation other than a seller's place of business described in Subsection (1)(a)(i), if the deliveryor installation is separately stated on an invoice or receipt, a seller may compute the tax due onthe sale for purposes of Subsection (3)(d)(i) based on the amount the seller receives for thatsale during each period for which the seller receives payment for the sale.onfor which the return is filed, including both cash andcharge purchases(c)To the extent bad debt is included in a computation made in accordance withSubsections (3)(d) and (e), atheSectionsand
+
+59-1-402
+
+This bill takes effect on July 1, 2012.Full text:
+
+
+
+Utah State Legislature
+
+
+
+
+
+
+
+
+
+
+
+
+Legislators
+
+By Session (1896-Current)
+Alphabetical (Historical)
+Find by Address/Map
+More
+
+
+Bills
+
+Bills/Bill Requests
+Passed Bills
+2017 Bills
+
+Keyword Search
+Reading Calendars
+Tracking Service
+More
+
+
+Committees
+
+All Committees
+Appropriations
+Commissions
+
+Independent Legislative Ethics Commission
+Interim
+Standing
+Subcommittees
+Task Forces
+Bills In Committees
+
+
+Utah Code / Constitution
+
+
+Title/Chapter/Section
+Keyword Search 
+
+Utah Constitution
+Laws of Utah 1851-ongoing
+Utah Territorial Laws 
+More
+
+
+Senate
+
+Main Page 
+About The Senate 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Extraordinary Sessions 
+Reading Calendars 
+Past Floor Debates 
+Senate Journals 
+
+
+House
+
+Main Page
+About the House 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Reading Calendars 
+Past Floor Debates 
+Journals 
+Conflict of Interest Forms 
+
+
+Legislative Guide 
+
+Legislative Guide
+Civic Programs
+GRAMA (Records Requests)
+
+
+Publications
+
+Search Publications
+Appropriations
+Audits
+Bagels & Briefings
+Briefing Papers
+Digest of Legislation
+Legislative Drafting Manual
+
+Journals
+
+Interim Highlights
+
+Legislative Rules
+GRAMA (Records Requests)
+Public Email
+State Organization Charts
+YouTube Channel
+Requests for Proposals and Legal Notices
+More
+
+
+Legislative Histories
+
+Legislative History Resources
+How to Research
+Bill Drafting/Research Files (1990-Ongoing)
+
+Working Bills (1896-1989)
+Interim Committee Histories (1990-Ongoing) 
+Journals
+Past House Floor Debates
+Past Senate Floor Debates
+More
+
+
+Staff Offices
+
+All Legislative Offices
+Auditor General
+Fiscal Analyst
+Printing
+Research and General Counsel
+Staff Awards
+Job Opportunities
+More
+
+
+Links of Interest
+
+Utah Administrative Rules
+Courts
+Utah State Capitol
+State of Utah
+Federal Legislation
+More
+
+
+
+
+
+
+ 
+
+Download Zipped Introduced WordPerfect HB0323.ZIP
+[Status][Bill Documents][Fiscal Note][Bills Directory]
+
+
+H.B. 323
+
+
+
+
+
+            
+1
+
+    
+ SALES AND USE TAX COLLECTION AMENDMENTS
+
+
+
+            
+2
+
+    
+2012 GENERAL SESSION
+
+            
+3
+
+    
+STATE OF UTAH
+
+            
+4
+
+    
+
+
+ Chief Sponsor:  David G. Butterfield
+
+
+
+            
+5
+
+    
+
+
+
+Senate Sponsor: 
+
+
+
+
+
+
+  Lyle W. Hillyard
+
+
+
+
+
+            
+6
+
+    
+
+            
+7
+
+    
+ LONG TITLE
+            
+8
+
+    
+ General Description:
+            
+9
+
+    
+    This bill makes changes to the collection and remittance of sales and use taxes.
+            
+10
+
+    
+ Highlighted Provisions:
+            
+11
+
+    
+    This bill:
+            
+12
+
+    
+    .    changes the timing of sales and use tax collection and remittance for certain sales
+            
+13
+
+    
+involving delivery or installation;
+            
+14
+
+    
+    .    addresses a deduction for bad debt; and
+            
+15
+
+    
+    .    makes technical and conforming changes.
+            
+16
+
+    
+ Money Appropriated in this Bill:
+            
+17
+
+    
+    None
+            
+18
+
+    
+ Other Special Clauses:
+            
+19
+
+    
+    This bill takes effect on July 1, 2012.
+            
+20
+
+    
+ Utah Code Sections Affected:
+            
+21
+
+    
+AMENDS:
+            
+22
+
+    
+     59-12-107, as last amended by Laws of Utah 2009, Chapter 212
+            
+23
+
+    
+
+            
+24
+
+    
+Be it enacted by the Legislature of the state of Utah:
+            
+25
+
+    
+    Section 1.  
+Section  
+59-12-107
+
+ is amended to read:
+            
+26
+
+    
+     59-12-107.  Collection, remittance, and payment of tax by sellers or other persons
+            
+27
+
+    
+ -- Returns -- Reports -- Direct payment by purchaser of vehicle -- Other liability for
+
+            
+28
+
+
+    
+ collection -- Rulemaking authority -- Credits -- Treatment of bad debt -- Penalties.
+            
+29
+
+    
+    (1) (a)  Except as provided in Subsection (1)(d) [or], Section 
+
+59-12-107.1
+
+, or Section
+            
+30
+
+    
+
+59-12-123
+
+, and subject to Subsection (1)(e), each seller shall pay or collect and remit the sales
+            
+31
+
+    
+and use taxes imposed by this chapter if within this state the seller:
+            
+32
+
+    
+    (i)  has or utilizes:
+            
+33
+
+    
+    (A)  an office;
+            
+34
+
+    
+    (B)  a distribution house;
+            
+35
+
+    
+    (C)  a sales house;
+            
+36
+
+    
+    (D)  a warehouse;
+            
+37
+
+    
+    (E)  a service enterprise; or
+            
+38
+
+    
+    (F)  a place of business similar to Subsections (1)(a)(i)(A) through (E);
+            
+39
+
+    
+    (ii)  maintains a stock of goods;
+            
+40
+
+    
+    (iii)  regularly solicits orders, regardless of whether or not the orders are accepted in the
+            
+41
+
+    
+state, unless the seller's only activity in the state is:
+            
+42
+
+    
+    (A)  advertising; or
+            
+43
+
+    
+    (B)  solicitation by:
+            
+44
+
+    
+    (I)  direct mail;
+            
+45
+
+    
+    (II)  electronic mail;
+            
+46
+
+    
+    (III)  the Internet;
+            
+47
+
+    
+    (IV)  telecommunications service; or
+            
+48
+
+    
+    (V)  a means similar to Subsection (1)(a)(iii)(A) or (B);
+            
+49
+
+    
+    (iv)  regularly engages in the delivery of property in the state other than by:
+            
+50
+
+    
+    (A)  common carrier; or
+            
+51
+
+    
+    (B)  United States mail; or
+            
+52
+
+    
+    (v)  regularly engages in an activity directly related to the leasing or servicing of
+            
+53
+
+    
+property located within the state.
+            
+54
+
+    
+    (b)  A seller that does not meet one or more of the criteria provided for in Subsection
+            
+55
+
+    
+(1)(a):
+            
+56
+
+    
+    (i)  except as provided in Subsection (1)(b)(ii), may voluntarily:
+            
+57
+
+    
+    (A)  collect a tax on a transaction described in Subsection 
+
+59-12-103
+
+(1); and
+            
+58
+
+    
+    (B)  remit the tax to the commission as provided in this part; or
+
+            
+59
+
+
+    
+    (ii)  notwithstanding Subsection (1)(b)(i), shall collect a tax on a transaction described
+            
+60
+
+    
+in Subsection 
+
+59-12-103
+
+(1) if Section 
+
+59-12-103.1
+
+ requires the seller to collect the tax.
+            
+61
+
+    
+    (c)  The collection and remittance of a tax under this chapter by a seller that is
+            
+62
+
+    
+registered under the agreement may not be used as a factor in determining whether that seller is
+            
+63
+
+    
+required by Subsection (1)(a) to:
+            
+64
+
+    
+    (i)  pay a tax, fee, or charge under:
+            
+65
+
+    
+    (A)  Title 10, Chapter 1, Part 3, Municipal Energy Sales and Use Tax Act;
+            
+66
+
+    
+    (B)  Title 10, Chapter 1, Part 4, Municipal Telecommunications License Tax Act;
+            
+67
+
+    
+    (C)  Section 
+
+19-6-714
+
+;
+            
+68
+
+    
+    (D)  Section 
+
+19-6-805
+
+;
+            
+69
+
+    
+    (E)  Section 
+
+69-2-5
+
+;
+            
+70
+
+    
+    (F)  Section 
+
+69-2-5.5
+
+;
+            
+71
+
+    
+    (G)  Section 
+
+69-2-5.6
+
+; or
+            
+72
+
+    
+    (H)  this title; or
+            
+73
+
+    
+    (ii)  collect and remit a tax, fee, or charge under:
+            
+74
+
+    
+    (A)  Title 10, Chapter 1, Part 3, Municipal Energy Sales and Use Tax Act;
+            
+75
+
+    
+    (B)  Title 10, Chapter 1, Part 4, Municipal Telecommunications License Tax Act;
+            
+76
+
+    
+    (C)  Section 
+
+19-6-714
+
+;
+            
+77
+
+    
+    (D)  Section 
+
+19-6-805
+
+;
+            
+78
+
+    
+    (E)  Section 
+
+69-2-5
+
+;
+            
+79
+
+    
+    (F)  Section 
+
+69-2-5.5
+
+;
+            
+80
+
+    
+    (G)  Section 
+
+69-2-5.6
+
+; or
+            
+81
+
+    
+    (H)  this title.
+            
+82
+
+    
+    (d)  A person shall pay a use tax imposed by this chapter on a transaction described in
+            
+83
+
+    
+Subsection 
+
+59-12-103
+
+(1) if:
+            
+84
+
+    
+    (i)  the seller did not collect a tax imposed by this chapter on the transaction; and
+            
+85
+
+    
+    (ii)  the person:
+            
+86
+
+    
+    (A)  stores the tangible personal property or product transferred electronically in the
+            
+87
+
+    
+state;
+            
+88
+
+    
+    (B)  uses the tangible personal property or product transferred electronically in the state;
+            
+89
+
+    
+or
+
+            
+90
+
+
+    
+    (C)  consumes the tangible personal property or product transferred electronically in the
+            
+91
+
+    
+state.
+            
+92
+
+    
+    (e)  The ownership of property that is located at the premises of a printer's facility with
+            
+93
+
+    
+which the retailer has contracted for printing and that consists of the final printed product,
+            
+94
+
+    
+property that becomes a part of the final printed product, or copy from which the printed
+            
+95
+
+    
+product is produced, shall not result in the retailer being considered to have or maintain an
+            
+96
+
+    
+office, distribution house, sales house, warehouse, service enterprise, or other place of
+            
+97
+
+    
+business, or to maintain a stock of goods, within this state.
+            
+98
+
+    
+    (f) (i)  As used in this Subsection (1)(f):
+            
+99
+
+    
+    (A)  "Affiliated group" is as defined in Section 
+
+59-7-101
+
+, except that "affiliated group"
+            
+100
+
+    
+includes a corporation that is qualified to do business but is not otherwise doing business in
+            
+101
+
+    
+this state.
+            
+102
+
+    
+    (B)  "Common ownership" is as defined in Section 
+
+59-7-101
+
+.
+            
+103
+
+    
+    (C)  "Related seller" means a seller that:
+            
+104
+
+    
+    (I)  is not required to pay or collect and remit sales and use taxes under Subsection
+            
+105
+
+    
+(1)(a) or Section 
+
+59-12-103.1
+
+;
+            
+106
+
+    
+    (II)  is:
+            
+107
+
+    
+    (Aa)  related to a seller that is required to pay or collect and remit sales and use taxes
+            
+108
+
+    
+under Subsection (1)(a) as part of an affiliated group or because of common ownership; or
+            
+109
+
+    
+    (Bb)  a limited liability company owned by the parent corporation of an affiliated group
+            
+110
+
+    
+if that parent corporation of the affiliated group is required to pay or collect and remit sales and
+            
+111
+
+    
+use taxes under Subsection (1)(a); and
+            
+112
+
+    
+    (III)  does not voluntarily collect and remit a tax under Subsection (1)(b)(i).
+            
+113
+
+    
+    (ii)  A seller is not required to pay or collect and remit sales and use taxes under
+            
+114
+
+    
+Subsection (1)(a):
+            
+115
+
+    
+    (A)  if the seller is a related seller;
+            
+116
+
+    
+    (B)  if the seller to which the related seller is related does not engage in any of the
+            
+117
+
+    
+following activities on behalf of the related seller:
+            
+118
+
+    
+    (I)  advertising;
+            
+119
+
+    
+    (II)  marketing;
+            
+120
+
+    
+    (III)  sales; or
+
+            
+121
+
+
+    
+    (IV)  other services; and
+            
+122
+
+    
+    (C)  if the seller to which the related seller is related accepts the return of an item sold
+            
+123
+
+    
+by the related seller, the seller to which the related seller is related accepts the return of that
+            
+124
+
+    
+item:
+            
+125
+
+    
+    (I)  sold by a seller that is not a related seller; and
+            
+126
+
+    
+    (II)  on the same terms as the return of an item sold by that seller to which the related
+            
+127
+
+    
+seller is related.
+            
+128
+
+    
+    (2) (a)  Except as provided in Section 
+
+59-12-107.1
+
+, a tax under this chapter shall be
+            
+129
+
+    
+collected from a purchaser.
+            
+130
+
+    
+    (b)  A seller may not collect as tax an amount, without regard to fractional parts of one
+            
+131
+
+    
+cent, in excess of the tax computed at the rates prescribed by this chapter.
+            
+132
+
+    
+    (c) (i)  Each seller shall:
+            
+133
+
+    
+    (A)  give the purchaser a receipt for the tax collected; or
+            
+134
+
+    
+    (B)  bill the tax as a separate item and declare the name of this state and the seller's
+            
+135
+
+    
+sales and use tax license number on the invoice for the sale.
+            
+136
+
+    
+    (ii)  The receipt or invoice is prima facie evidence that the seller has collected the tax
+            
+137
+
+    
+and relieves the purchaser of the liability for reporting the tax to the commission as a
+            
+138
+
+    
+consumer.
+            
+139
+
+    
+    (d)  A seller is not required to maintain a separate account for the tax collected, but is
+            
+140
+
+    
+considered to be a person charged with receipt, safekeeping, and transfer of public money.
+            
+141
+
+    
+    (e)  Taxes collected by a seller pursuant to this chapter shall be held in trust for the
+            
+142
+
+    
+benefit of the state and for payment to the commission in the manner and at the time provided
+            
+143
+
+    
+for in this chapter.
+            
+144
+
+    
+    (f)  If any seller, during any reporting period, collects as a tax an amount in excess of
+            
+145
+
+    
+the lawful state and local percentage of total taxable sales allowed under this chapter, the seller
+            
+146
+
+    
+shall remit to the commission the full amount of the tax imposed under this chapter, plus any
+            
+147
+
+    
+excess.
+            
+148
+
+    
+    (g)  If the accounting methods regularly employed by the seller in the transaction of the
+            
+149
+
+    
+seller's business are such that reports of sales made during a calendar month or quarterly period
+            
+150
+
+    
+will impose unnecessary hardships, the commission may accept reports at intervals that will, in
+            
+151
+
+    
+the commission's opinion, better suit the convenience of the taxpayer or seller and will not
+
+            
+152
+
+
+    
+jeopardize collection of the tax.
+            
+153
+
+    
+    (3) (a)  Except as provided in Subsections (4) through (6) and Section 
+
+59-12-108
+
+, the
+            
+154
+
+    
+sales or use tax imposed by this chapter is due and payable to the commission quarterly on or
+            
+155
+
+    
+before the last day of the month next succeeding each calendar quarterly period.
+            
+156
+
+    
+    (b) (i)  Each seller shall, on or before the last day of the month next succeeding each
+            
+157
+
+    
+calendar quarterly period, file with the commission a return for the preceding quarterly period.
+            
+158
+
+    
+    (ii)  The seller shall remit with the return under Subsection (3)(b)(i) the amount of the
+            
+159
+
+    
+tax required under this chapter to be collected or paid for the period covered by the return.
+            
+160
+
+    
+    (c)  Except as provided in Subsection (4)(c), a return shall contain information and be in
+            
+161
+
+    
+a form the commission prescribes by rule.
+            
+162
+
+    
+    (d)  [The] (i)  Subject to Subsection (3)(d)(ii), the sales tax as computed in the return
+            
+163
+
+    
+shall be based [upon] on the total nonexempt sales made during the period[, including both
+            
+164
+
+    
+cash and charge sales] for which the return is filed, including both cash and charge sales.
+            
+165
+
+    
+    (ii)  For a sale that includes the delivery or installation of tangible personal property at a
+            
+166
+
+    
+location other than a seller's place of business described in Subsection (1)(a)(i), if the delivery
+            
+167
+
+    
+or installation is separately stated on an invoice or receipt, a seller may compute the tax due on
+            
+168
+
+    
+the sale for purposes of Subsection (3)(d)(i) based on the amount the seller receives for that
+            
+169
+
+    
+sale during each period for which the seller receives payment for the sale.
+            
+170
+
+    
+    (e)  The use tax as computed in the return shall be based [upon] on the total amount of
+            
+171
+
+    
+purchases for storage, use, or other consumption in this state made during the period[,
+            
+172
+
+    
+including both by cash and by charge] for which the return is filed, including both cash and
+            
+173
+
+    
+charge purchases.
+            
+174
+
+    
+    (f) (i)  Subject to Subsection (3)(f)(ii) and in accordance with Title 63G, Chapter 3,
+            
+175
+
+    
+Utah Administrative Rulemaking Act, the commission may by rule extend the time for making
+            
+176
+
+    
+returns and paying the taxes.
+            
+177
+
+    
+    (ii)  An extension under Subsection (3)(f)(i) may not be for more than 90 days.
+            
+178
+
+    
+    (g)  The commission may require returns and payment of the tax to be made for other
+            
+179
+
+    
+than quarterly periods if the commission considers it necessary in order to ensure the payment
+            
+180
+
+    
+of the tax imposed by this chapter.
+            
+181
+
+    
+    (h) (i)  The commission may require a seller that files a simplified electronic return with
+            
+182
+
+    
+the commission to file an additional electronic report with the commission.
+
+            
+183
+
+
+    
+    (ii)  In accordance with Title 63G, Chapter 3, Utah Administrative Rulemaking Act, the
+            
+184
+
+    
+commission may make rules providing:
+            
+185
+
+    
+    (A)  the information required to be included in the additional electronic report described
+            
+186
+
+    
+in Subsection (3)(h)(i); and
+            
+187
+
+    
+    (B)  one or more due dates for filing the additional electronic report described in
+            
+188
+
+    
+Subsection (3)(h)(i).
+            
+189
+
+    
+    (4) (a)  As used in this Subsection (4) and Subsection (5)(b), "remote seller" means a
+            
+190
+
+    
+seller that is:
+            
+191
+
+    
+    (i)  registered under the agreement;
+            
+192
+
+    
+    (ii)  described in Subsection (1)(b); and
+            
+193
+
+    
+    (iii)  not a:
+            
+194
+
+    
+    (A)  model 1 seller;
+            
+195
+
+    
+    (B)  model 2 seller; or
+            
+196
+
+    
+    (C)  model 3 seller.
+            
+197
+
+    
+    (b) (i)  Except as provided in Subsection (4)(b)(ii), a tax a remote seller collects in
+            
+198
+
+    
+accordance with Subsection (1)(b) is due and payable:
+            
+199
+
+    
+    (A)  to the commission;
+            
+200
+
+    
+    (B)  annually; and
+            
+201
+
+    
+    (C)  on or before the last day of the month immediately following the last day of each
+            
+202
+
+    
+calendar year.
+            
+203
+
+    
+    (ii)  The commission may require that a tax a remote seller collects in accordance with
+            
+204
+
+    
+Subsection (1)(b) be due and payable:
+            
+205
+
+    
+    (A)  to the commission; and
+            
+206
+
+    
+    (B)  on the last day of the month immediately following any month in which the seller
+            
+207
+
+    
+accumulates a total of at least $1,000 in agreement sales and use tax.
+            
+208
+
+    
+    (c) (i)  If a remote seller remits a tax to the commission in accordance with Subsection
+            
+209
+
+    
+(4)(b), the remote seller shall file a return:
+            
+210
+
+    
+    (A)  with the commission;
+            
+211
+
+    
+    (B)  with respect to the tax;
+            
+212
+
+    
+    (C)  containing information prescribed by the commission; and
+            
+213
+
+    
+    (D)  on a form prescribed by the commission.
+
+            
+214
+
+
+    
+    (ii)  In accordance with Title 63G, Chapter 3, Utah Administrative Rulemaking Act, the
+            
+215
+
+    
+commission shall make rules prescribing:
+            
+216
+
+    
+    (A)  the information required to be contained in a return described in Subsection
+            
+217
+
+    
+(4)[(a)](c)(i); and
+            
+218
+
+    
+    (B)  the form described in Subsection (4)(c)(i)(D).
+            
+219
+
+    
+    (d)  A tax a remote seller collects in accordance with this Subsection (4) shall be
+            
+220
+
+    
+calculated on the basis of the total amount of taxable transactions under Subsection
+            
+221
+
+    
+
+59-12-103
+
+(1) the remote seller completes, including:
+            
+222
+
+    
+    (i)  a cash transaction; and
+            
+223
+
+    
+    (ii)  a charge transaction.
+            
+224
+
+    
+    (5) (a)  Except as provided in Subsection (5)(b), a tax a seller that files a simplified
+            
+225
+
+    
+electronic return collects in accordance with this chapter is due and payable:
+            
+226
+
+    
+    (i)  monthly on or before the last day of the month immediately following the month for
+            
+227
+
+    
+which the seller collects a tax under this chapter; and
+            
+228
+
+    
+    (ii)  for the month for which the seller collects a tax under this chapter.
+            
+229
+
+    
+    (b)  A tax a remote seller that files a simplified electronic return collects in accordance
+            
+230
+
+    
+with this chapter is due and payable as provided in Subsection (4).
+            
+231
+
+    
+    (6) (a)  On each vehicle sale made by other than a regular licensed vehicle dealer, the
+            
+232
+
+    
+purchaser shall pay the sales or use tax directly to the commission if the vehicle is subject to
+            
+233
+
+    
+titling or registration under the laws of this state.
+            
+234
+
+    
+    (b)  The commission shall collect the tax described in Subsection (6)(a) when the
+            
+235
+
+    
+vehicle is titled or registered.
+            
+236
+
+    
+    (7)  If any sale of tangible personal property or any other taxable transaction under
+            
+237
+
+    
+Subsection 
+
+59-12-103
+
+(1), is made by a wholesaler to a retailer, the wholesaler is not
+            
+238
+
+    
+responsible for the collection or payment of the tax imposed on the sale and the retailer is
+            
+239
+
+    
+responsible for the collection or payment of the tax imposed on the sale if:
+            
+240
+
+    
+    (a)  the retailer represents that the personal property is purchased by the retailer for
+            
+241
+
+    
+resale; and
+            
+242
+
+    
+    (b)  the personal property is not subsequently resold.
+            
+243
+
+    
+    (8)  If any sale of property or service subject to the tax is made to a person prepaying
+            
+244
+
+    
+sales or use tax in accordance with Title 63M, Chapter 5, Resource Development Act, or to a
+
+            
+245
+
+
+    
+contractor or subcontractor of that person, the person to whom such payment or consideration
+            
+246
+
+    
+is payable is not responsible for the collection or payment of the sales or use tax and the person
+            
+247
+
+    
+prepaying the sales or use tax is responsible for the collection or payment of the sales or use tax
+            
+248
+
+    
+if the person prepaying the sales or use tax represents that the amount prepaid as sales or use
+            
+249
+
+    
+tax has not been fully credited against sales or use tax due and payable under the rules
+            
+250
+
+    
+promulgated by the commission.
+            
+251
+
+    
+    (9) (a)  For purposes of this Subsection (9):
+            
+252
+
+    
+    (i)  Except as provided in Subsection (9)(a)(ii), "bad debt" is as defined in Section 166,
+            
+253
+
+    
+Internal Revenue Code.
+            
+254
+
+    
+    (ii)  Notwithstanding Subsection (9)(a)(i), "bad debt" does not include:
+            
+255
+
+    
+    (A)  an amount included in the purchase price of tangible personal property, a product
+            
+256
+
+    
+transferred electronically, or a service that is:
+            
+257
+
+    
+    (I)  not a transaction described in Subsection 
+
+59-12-103
+
+(1); or
+            
+258
+
+    
+    (II)  exempt under Section 
+
+59-12-104
+
+;
+            
+259
+
+    
+    (B)  a financing charge;
+            
+260
+
+    
+    (C)  interest;
+            
+261
+
+    
+    (D)  a tax imposed under this chapter on the purchase price of tangible personal
+            
+262
+
+    
+property, a product transferred electronically, or a service;
+            
+263
+
+    
+    (E)  an uncollectible amount on tangible personal property or a product transferred
+            
+264
+
+    
+electronically that:
+            
+265
+
+    
+    (I)  is subject to a tax under this chapter; and
+            
+266
+
+    
+    (II)  remains in the possession of a seller until the full purchase price is paid;
+            
+267
+
+    
+    (F)  an expense incurred in attempting to collect any debt; or
+            
+268
+
+    
+    (G)  an amount that a seller does not collect on repossessed property.
+            
+269
+
+    
+    (b)  [A] To the extent bad debt is included in a computation made in accordance with
+            
+270
+
+    
+Subsections (3)(d) and (e), a seller may deduct the bad debt from the total amount from which
+            
+271
+
+    
+a tax under this chapter is calculated on a return.
+            
+272
+
+    
+    (c)  A seller may file a refund claim with the commission if:
+            
+273
+
+    
+    (i)  the amount of bad debt for the time period described in Subsection (9)(e) exceeds
+            
+274
+
+    
+the amount of the seller's sales that are subject to a tax under this chapter for that same time
+            
+275
+
+    
+period; and
+
+            
+276
+
+
+    
+    (ii)  as provided in Section
+
+
+
+59-1-1410
+
+.
+            
+277
+
+    
+    (d)  A bad debt deduction under this section may not include interest.
+            
+278
+
+    
+    (e)  A bad debt may be deducted under this Subsection (9) on a return for the time
+            
+279
+
+    
+period during which the bad debt:
+            
+280
+
+    
+    (i)  is written off as uncollectible in the seller's books and records; and
+            
+281
+
+    
+    (ii)  would be eligible for a bad debt deduction:
+            
+282
+
+    
+    (A)  for federal income tax purposes; and
+            
+283
+
+    
+    (B)  if the seller were required to file a federal income tax return.
+            
+284
+
+    
+    (f)  If a seller recovers any portion of bad debt for which the seller makes a deduction or
+            
+285
+
+    
+claims a refund under this Subsection (9), the seller shall report and remit a tax under this
+            
+286
+
+    
+chapter:
+            
+287
+
+    
+    (i)  on the portion of the bad debt the seller recovers; and
+            
+288
+
+    
+    (ii)  on a return filed for the time period for which the portion of the bad debt is
+            
+289
+
+    
+recovered.
+            
+290
+
+    
+    (g)  For purposes of reporting a recovery of a portion of bad debt under Subsection
+            
+291
+
+    
+(9)(f), a seller shall apply amounts received on the bad debt in the following order:
+            
+292
+
+    
+    (i)  in a proportional amount:
+            
+293
+
+    
+    (A)  to the purchase price of the tangible personal property, product transferred
+            
+294
+
+    
+electronically, or service; and
+            
+295
+
+    
+    (B)  to the tax due under this chapter on the tangible personal property, product
+            
+296
+
+    
+transferred electronically, or service; and
+            
+297
+
+    
+    (ii)  to:
+            
+298
+
+    
+    (A)  interest charges;
+            
+299
+
+    
+    (B)  service charges; and
+            
+300
+
+    
+    (C)  other charges.
+            
+301
+
+    
+    (h)  A seller's certified service provider may make a deduction or claim a refund for bad
+            
+302
+
+    
+debt on behalf of the seller:
+            
+303
+
+    
+    (i)  in accordance with this Subsection (9); and
+            
+304
+
+    
+    (ii)  if the certified service provider credits or refunds the entire amount of the bad debt
+            
+305
+
+    
+deduction or refund to the seller.
+            
+306
+
+    
+    (i)  A seller may allocate bad debt among the states that are members of the agreement
+
+            
+307
+
+
+    
+if the seller's books and records support that allocation.
+            
+308
+
+    
+    (10) (a)  A seller may not, with intent to evade any tax, fail to timely remit the full
+            
+309
+
+    
+amount of tax required by this chapter.
+            
+310
+
+    
+    (b)  A violation of this section is punishable as provided in Section 
+
+59-1-401
+
+.
+            
+311
+
+    
+    (c)  Each person who fails to pay any tax to the state or any amount of tax required to be
+            
+312
+
+    
+paid to the state, except amounts determined to be due by the commission under Chapter 1,
+            
+313
+
+    
+Part 14, Assessment, Collections, and Refunds Act, or Section 
+
+59-12-111
+
+, within the time
+            
+314
+
+    
+required by this chapter, or who fails to file any return as required by this chapter, shall pay, in
+            
+315
+
+    
+addition to the tax, penalties and interest as provided in [Section] Sections
+
+59-1-401
+
+and
+            
+316
+
+    
+
+
+59-1-402
+
+.
+            
+317
+
+    
+    (d)  For purposes of prosecution under this section, each quarterly tax period in which a
+            
+318
+
+    
+seller, with intent to evade any tax, collects a tax and fails to timely remit the full amount of the
+            
+319
+
+    
+tax required to be remitted, constitutes a separate offense.
+            
+320
+
+    
+    Section 2.   Effective date.
+            
+321
+
+    
+    This bill takes effect on July 1, 2012.
+
+
+
+
+ Legislative Review Note
+    as of   1-16-12  6:19 PM
+
+ Office of Legislative Research and General Counsel
+[Bill Documents][Bills Directory]
+
+
+
+
+
+
+
+
+
+Who represents me?
+
+
+
+
+
+Remember my Legislators
+
+
+
+
+
+State Senate
+		350 North State, Suite 320
+		PO Box 145115
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1035
+		Fax: (801) 326-1475
+
+
+
+House of Representatives
+		350 North State, Suite 350
+		PO Box 145030
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1029
+		Fax: (801) 326-1544
+
+
+
+
+
+
+
+
+
+
+Home
+Mobile Site
+Site Map
+Calendar
+Code / Constitution
+House
+Senate
+
+Terms of Use/Privacy Policy
+
+ADA
+Utah.gov
+
+
+
+
+
+
+

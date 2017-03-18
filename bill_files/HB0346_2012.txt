@@ -1,0 +1,2133 @@
+Sponsors: []Modifications: (a)(b)(11) (a)  The court, in determining the defendant's competency to stand trial, shallconsider the totality of the circumstances, which includes the information presented underSubsection (11)(b) in addition to the expert testimony, studies, and reports provided under thissection.(b)  The information to be considered by the court shall include all available andrelevant evidence, witnesses, and testimony to ensure that there is no manipulation of theprocess or a wrongful or artificial attempt or motivation on the part of the defendant to avoidbeing found competent to stand trial.(c)  All witnesses and evidence regarding the defendant's personal contact withindividuals which may relate to the competency of the defendant to stand trial shall beconsidered by the court and applied to its determination of the defendant's competency underthis section.(12)(13) (a)(12)(b)(14)(15)(16)forforundergocivil commitment proceedingsFull text:
+
+
+
+Utah State Legislature
+
+
+
+
+
+
+
+
+
+
+
+
+Legislators
+
+By Session (1896-Current)
+Alphabetical (Historical)
+Find by Address/Map
+More
+
+
+Bills
+
+Bills/Bill Requests
+Passed Bills
+2017 Bills
+
+Keyword Search
+Reading Calendars
+Tracking Service
+More
+
+
+Committees
+
+All Committees
+Appropriations
+Commissions
+
+Independent Legislative Ethics Commission
+Interim
+Standing
+Subcommittees
+Task Forces
+Bills In Committees
+
+
+Utah Code / Constitution
+
+
+Title/Chapter/Section
+Keyword Search 
+
+Utah Constitution
+Laws of Utah 1851-ongoing
+Utah Territorial Laws 
+More
+
+
+Senate
+
+Main Page 
+About The Senate 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Extraordinary Sessions 
+Reading Calendars 
+Past Floor Debates 
+Senate Journals 
+
+
+House
+
+Main Page
+About the House 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Reading Calendars 
+Past Floor Debates 
+Journals 
+Conflict of Interest Forms 
+
+
+Legislative Guide 
+
+Legislative Guide
+Civic Programs
+GRAMA (Records Requests)
+
+
+Publications
+
+Search Publications
+Appropriations
+Audits
+Bagels & Briefings
+Briefing Papers
+Digest of Legislation
+Legislative Drafting Manual
+
+Journals
+
+Interim Highlights
+
+Legislative Rules
+GRAMA (Records Requests)
+Public Email
+State Organization Charts
+YouTube Channel
+Requests for Proposals and Legal Notices
+More
+
+
+Legislative Histories
+
+Legislative History Resources
+How to Research
+Bill Drafting/Research Files (1990-Ongoing)
+
+Working Bills (1896-1989)
+Interim Committee Histories (1990-Ongoing) 
+Journals
+Past House Floor Debates
+Past Senate Floor Debates
+More
+
+
+Staff Offices
+
+All Legislative Offices
+Auditor General
+Fiscal Analyst
+Printing
+Research and General Counsel
+Staff Awards
+Job Opportunities
+More
+
+
+Links of Interest
+
+Utah Administrative Rules
+Courts
+Utah State Capitol
+State of Utah
+Federal Legislation
+More
+
+
+
+
+
+
+ 
+
+Download Zipped Introduced WordPerfect HB0346.ZIP
+[Status][Bill Documents][Fiscal Note][Bills Directory]
+
+
+H.B. 346
+
+
+
+
+
+            
+1
+
+    
+ AMENDMENTS REGARDING COMPETENCY TO STAND
+
+            
+2
+
+    
+ TRIAL
+
+
+
+            
+3
+
+    
+2012 GENERAL SESSION
+
+            
+4
+
+    
+STATE OF UTAH
+
+            
+5
+
+    
+
+
+ Chief Sponsor: LaVar Christensen
+
+
+
+            
+6
+
+    
+
+
+
+Senate Sponsor:
+
+
+
+
+
+
+ Mark B. Madsen
+
+
+
+
+
+            
+7
+
+    
+
+            
+8
+
+    
+ LONG TITLE
+            
+9
+
+    
+ General Description:
+            
+10
+
+    
+    This bill modifies the Code of Criminal Procedure regarding the procedures for
+            
+11
+
+    
+determining a defendant's competency to stand trial.
+            
+12
+
+    
+ Highlighted Provisions:
+            
+13
+
+    
+    This bill:
+            
+14
+
+    
+    .    modifies the hearing procedure for determining if a defendant is competent to stand
+            
+15
+
+    
+trial to include for the court's consideration all available and relevant evidence,
+            
+16
+
+    
+including testimony of witnesses who have been in contact with the defendant; and
+            
+17
+
+    
+    .    provides that a defendant who is not restored to competency to stand trial after
+            
+18
+
+    
+forensic treatment shall be temporarily detained and undergo civil commitment
+            
+19
+
+    
+proceedings.
+            
+20
+
+    
+ Money Appropriated in this Bill:
+            
+21
+
+    
+    None
+            
+22
+
+    
+ Other Special Clauses:
+            
+23
+
+    
+    None
+            
+24
+
+    
+ Utah Code Sections Affected:
+            
+25
+
+    
+AMENDS:
+            
+26
+
+    
+     77-15-5, as last amended by Laws of Utah 2008, Chapter 212
+            
+27
+
+    
+     77-15-6, as last amended by Laws of Utah 2008, Chapter 212
+
+            
+28
+
+
+    
+     77-15-6.5, as last amended by Laws of Utah 2008, Chapter 212
+            
+29
+
+    
+
+            
+30
+
+    
+Be it enacted by the Legislature of the state of Utah:
+            
+31
+
+    
+    Section 1.  
+Section  
+77-15-5
+
+ is amended to read:
+            
+32
+
+    
+     77-15-5.  Order for hearing -- Stay of other proceedings -- Examinations of
+            
+33
+
+    
+ defendant -- Scope of examination and report.
+            
+34
+
+    
+    (1) (a)  When a petition is filed pursuant to Section 
+
+77-15-3
+
+ raising the issue of the
+            
+35
+
+    
+defendant's competency to stand trial or when the court raises the issue of the defendant's
+            
+36
+
+    
+competency pursuant to Section 
+
+77-15-4
+
+, the court in which proceedings are pending shall stay
+            
+37
+
+    
+all proceedings.  If the proceedings are in a court other than the district court in which the
+            
+38
+
+    
+petition is filed, the district court shall notify that court of the filing of the petition.
+            
+39
+
+    
+    (b)  The district court in which the petition is filed shall pass upon the sufficiency of the
+            
+40
+
+    
+allegations of incompetency.  If a petition is opposed by either party, the court shall, prior to
+            
+41
+
+    
+granting or denying the petition, hold a limited hearing solely for the purpose of determining
+            
+42
+
+    
+the sufficiency of the petition.  If the court finds that the allegations of incompetency raise a
+            
+43
+
+    
+bona fide doubt as to the defendant's competency to stand trial, it shall enter an order for a
+            
+44
+
+    
+hearing on the mental condition of the person who is the subject of the petition.
+            
+45
+
+    
+    (2) (a)  After the granting of a petition and prior to a full competency hearing, the court
+            
+46
+
+    
+may order the Department of Human Services to examine the person and to report to the court
+            
+47
+
+    
+concerning the defendant's mental condition.
+            
+48
+
+    
+    (b)  The defendant shall be examined by at least two mental health experts not involved
+            
+49
+
+    
+in the current treatment of the defendant.
+            
+50
+
+    
+    (c)  If the issue is sufficiently raised in the petition or if it becomes apparent that the
+            
+51
+
+    
+defendant may be incompetent due to mental retardation, at least one expert experienced in
+            
+52
+
+    
+mental retardation assessment shall evaluate the defendant.  Upon appointment of the experts,
+            
+53
+
+    
+the petitioner or other party as directed by the court shall provide information and materials to
+            
+54
+
+    
+the examiners relevant to a determination of the defendant's competency and shall provide
+            
+55
+
+    
+copies of the charging document, arrest or incident reports pertaining to the charged offense,
+            
+56
+
+    
+known criminal history information, and known prior mental health evaluations and treatments.
+            
+57
+
+    
+    (d)  The prosecuting and defense attorneys shall cooperate in providing the relevant
+            
+58
+
+    
+information and materials to the examiners, and the court may make the necessary orders to
+
+            
+59
+
+
+    
+provide the information listed in Subsection (2)(c) to the examiners.  The court may provide in
+            
+60
+
+    
+its order for a competency examination of a defendant that custodians of mental health records
+            
+61
+
+    
+pertaining to the defendant shall provide those records to the examiners without the need for
+            
+62
+
+    
+consent of the defendant or further order of the court.
+            
+63
+
+    
+    (3)  During the examination under Subsection (2), unless the court or the executive
+            
+64
+
+    
+director of the department directs otherwise, the defendant shall be retained in the same
+            
+65
+
+    
+custody or status he was in at the time the examination was ordered.
+            
+66
+
+    
+    (4)  The experts shall in the conduct of their examination and in their report to the court
+            
+67
+
+    
+consider and address, in addition to any other factors determined to be relevant by the experts:
+            
+68
+
+    
+    (a)  the defendant's present capacity to:
+            
+69
+
+    
+    (i)  comprehend and appreciate the charges or allegations against him;
+            
+70
+
+    
+    (ii)  disclose to counsel pertinent facts, events, and states of mind;
+            
+71
+
+    
+    (iii)  comprehend and appreciate the range and nature of possible penalties, if
+            
+72
+
+    
+applicable, that may be imposed in the proceedings against him;
+            
+73
+
+    
+    (iv)  engage in reasoned choice of legal strategies and options;
+            
+74
+
+    
+    (v)  understand the adversary nature of the proceedings against him;
+            
+75
+
+    
+    (vi)  manifest appropriate courtroom behavior; and
+            
+76
+
+    
+    (vii)  testify relevantly, if applicable;
+            
+77
+
+    
+    (b)  the impact of the mental disorder, or mental retardation, if any, on the nature and
+            
+78
+
+    
+quality of the defendant's relationship with counsel;
+            
+79
+
+    
+    (c)  if psychoactive medication is currently being administered:
+            
+80
+
+    
+    (i)  whether the medication is necessary to maintain the defendant's competency; and
+            
+81
+
+    
+    (ii)  the effect of the medication, if any, on the defendant's demeanor and affect and
+            
+82
+
+    
+ability to participate in the proceedings.
+            
+83
+
+    
+    (5)  If the expert's opinion is that the defendant is incompetent to proceed, the expert
+            
+84
+
+    
+shall indicate in the report:
+            
+85
+
+    
+    (a)  which of the above factors contributes to the defendant's incompetency;
+            
+86
+
+    
+    (b)  the nature of the defendant's mental disorder or mental retardation and its
+            
+87
+
+    
+relationship to the factors contributing to the defendant's incompetency;
+            
+88
+
+    
+    (c)  the treatment or treatments appropriate and available; and
+            
+89
+
+    
+    (d)  the defendant's capacity to give informed consent to treatment to restore
+
+            
+90
+
+
+    
+competency.
+            
+91
+
+    
+    (6)  The experts examining the defendant shall provide an initial report to the court and
+            
+92
+
+    
+the prosecuting and defense attorneys within 30 days of the receipt of the court's order.  The
+            
+93
+
+    
+report shall inform the court of the examiner's opinion concerning the competency of the
+            
+94
+
+    
+defendant to stand trial, or, in the alternative, the examiner may inform the court in writing that
+            
+95
+
+    
+additional time is needed to complete the report.  If the examiner informs the court that
+            
+96
+
+    
+additional time is needed, the examiner shall have up to an additional 30 days to provide the
+            
+97
+
+    
+report to the court and counsel.  The examiner must provide the report within 60 days from the
+            
+98
+
+    
+receipt of the court's order unless, for good cause shown, the court authorizes an additional
+            
+99
+
+    
+period of time to complete the examination and provide the report.
+            
+100
+
+    
+    (7)  Any written report submitted by the experts shall:
+            
+101
+
+    
+    (a)  identify the specific matters referred for evaluation;
+            
+102
+
+    
+    (b)  describe the procedures, techniques, and tests used in the examination and the
+            
+103
+
+    
+purpose or purposes for each;
+            
+104
+
+    
+    (c)  state the expert's clinical observations, findings, and opinions on each issue referred
+            
+105
+
+    
+for examination by the court, and indicate specifically those issues, if any, on which the expert
+            
+106
+
+    
+could not give an opinion; and
+            
+107
+
+    
+    (d)  identify the sources of information used by the expert and present the basis for the
+            
+108
+
+    
+expert's clinical findings and opinions.
+            
+109
+
+    
+    (8) (a)  Any statement made by the defendant in the course of any competency
+            
+110
+
+    
+examination, whether the examination is with or without the consent of the defendant, any
+            
+111
+
+    
+testimony by the expert based upon such statement, and any other fruits of the statement may
+            
+112
+
+    
+not be admitted in evidence against the defendant in any criminal proceeding except on an
+            
+113
+
+    
+issue respecting mental condition on which the defendant has introduced evidence.  The
+            
+114
+
+    
+evidence may be admitted, however, where relevant to a determination of the defendant's
+            
+115
+
+    
+competency.
+            
+116
+
+    
+    (b)  Prior to examining the defendant, examiners should specifically advise the
+            
+117
+
+    
+defendant of the limits of confidentiality as provided under Subsection (8)(a).
+            
+118
+
+    
+    (9)  When the report is received the court shall set a date for a mental hearing which
+            
+119
+
+    
+shall be held in not less than five and not more than 15 days, unless the court enlarges the time
+            
+120
+
+    
+for good cause.  Any person or organization directed by the department to conduct the
+
+            
+121
+
+
+    
+examination may be subpoenaed to testify at the hearing.  If the experts are in conflict as to the
+            
+122
+
+    
+competency of the defendant, all experts should be called to testify at the hearing if reasonably
+            
+123
+
+    
+available.  The court may call any examiner to testify at the hearing who is not called by the
+            
+124
+
+    
+parties.  If the court calls an examiner, counsel for the parties may cross-examine the expert.
+            
+125
+
+    
+    (10)  A person shall be presumed competent unless the court, by a preponderance of the
+            
+126
+
+    
+evidence, finds the person incompetent to proceed.  The burden of proof is upon the proponent
+            
+127
+
+    
+of incompetency at the hearing.  An adjudication of incompetency to proceed shall not operate
+            
+128
+
+    
+as an adjudication of incompetency to give informed consent for medical treatment or for any
+            
+129
+
+    
+other purpose, unless specifically set forth in the court order.
+            
+130
+
+    
+    (11) (a)  The court, in determining the defendant's competency to stand trial, shall
+            
+131
+
+    
+consider the totality of the circumstances, which includes the information presented under
+            
+132
+
+    
+Subsection (11)(b) in addition to the expert testimony, studies, and reports provided under this
+            
+133
+
+    
+section.
+            
+134
+
+    
+    (b)  The information to be considered by the court shall include all available and
+            
+135
+
+    
+relevant evidence, witnesses, and testimony to ensure that there is no manipulation of the
+            
+136
+
+    
+process or a wrongful or artificial attempt or motivation on the part of the defendant to avoid
+            
+137
+
+    
+being found competent to stand trial.
+            
+138
+
+    
+    (c)  All witnesses and evidence regarding the defendant's personal contact with
+            
+139
+
+    
+individuals which may relate to the competency of the defendant to stand trial shall be
+            
+140
+
+    
+considered by the court and applied to its determination of the defendant's competency under
+            
+141
+
+    
+this section.
+            
+142
+
+    
+    [(11)] (12) (a)  If the court finds the defendant incompetent to stand trial, its order shall
+            
+143
+
+    
+contain findings addressing each of the factors in Subsections (4)(a) and (b) of this section. 
+            
+144
+
+    
+The order issued pursuant to Subsection 
+
+77-15-6
+
+(1) which the court sends to the facility where
+            
+145
+
+    
+the defendant is committed or to the person who is responsible for assessing his progress
+            
+146
+
+    
+toward competency shall be provided contemporaneously with the transportation and
+            
+147
+
+    
+commitment order of the defendant, unless exigent circumstances require earlier commitment
+            
+148
+
+    
+in which case the court shall forward the order within five working days of the order of
+            
+149
+
+    
+transportation and commitment of the defendant.
+            
+150
+
+    
+    (b)  The order finding the defendant incompetent to stand trial shall be accompanied by:
+            
+151
+
+    
+    (i)  copies of the reports of the experts filed with the court pursuant to the order of
+
+            
+152
+
+
+    
+examination if not provided previously;
+            
+153
+
+    
+    (ii)  copies of any of the psychiatric, psychological, or social work reports submitted to
+            
+154
+
+    
+the court relative to the mental condition of the defendant; and
+            
+155
+
+    
+    (iii)  any other documents made available to the court by either the defense or the
+            
+156
+
+    
+prosecution, pertaining to the defendant's current or past mental condition.
+            
+157
+
+    
+    [(12)] (13) (a)  If the court finds it necessary to order the defendant transported prior to
+            
+158
+
+    
+the completion of findings and compilation of documents required under Subsection [(11)]
+            
+159
+
+    
+(12), the transportation and commitment order delivering the defendant to the Utah State
+            
+160
+
+    
+Hospital, or other mental health facility as directed by the executive director of the Department
+            
+161
+
+    
+of Human Services or his designee, shall indicate that the defendant's commitment is based
+            
+162
+
+    
+upon a finding of incompetency, and the mental health facility's copy of the order shall be
+            
+163
+
+    
+accompanied by the reports of any experts filed with the court pursuant to the order of
+            
+164
+
+    
+examination.
+            
+165
+
+    
+    (b)  The executive director of the Department of Human Services or his designee may
+            
+166
+
+    
+refuse to accept a defendant as a patient unless he is accompanied by a transportation and
+            
+167
+
+    
+commitment order which is accompanied by the reports.
+            
+168
+
+    
+    [(13)] (14)  Upon a finding of incompetency to stand trial by the court, the prosecuting
+            
+169
+
+    
+and defense attorneys shall provide information and materials relevant to the defendant's
+            
+170
+
+    
+competency to the facility where the defendant is committed or to the person responsible for
+            
+171
+
+    
+assessing his progress towards competency.  In addition to any other materials, the prosecuting
+            
+172
+
+    
+attorney shall provide:
+            
+173
+
+    
+    (a)  copies of the charging document and supporting affidavits or other documents used
+            
+174
+
+    
+in the determination of probable cause;
+            
+175
+
+    
+    (b)  arrest or incident reports prepared by a law enforcement agency pertaining to the
+            
+176
+
+    
+charged offense; and
+            
+177
+
+    
+    (c)  information concerning the defendant's known criminal history.
+            
+178
+
+    
+    [(14)] (15)  The court may make any reasonable order to insure compliance with this
+            
+179
+
+    
+section.
+            
+180
+
+    
+    [(15)] (16)  Failure to comply with this section shall not result in the dismissal of
+            
+181
+
+    
+criminal charges.
+            
+182
+
+    
+    Section 2.  
+Section  
+77-15-6
+
+ is amended to read:
+
+            
+183
+
+
+    
+     77-15-6.  Commitment on finding of incompetency to stand trial -- Subsequent
+            
+184
+
+    
+ hearings -- Notice to prosecuting attorneys.
+            
+185
+
+    
+    (1)  Except as provided in Subsection (5), if after hearing[,] the person is found to be
+            
+186
+
+    
+incompetent to stand trial, the court shall order the defendant committed to the custody of the
+            
+187
+
+    
+executive director of the Department of Human Services or his designee for the purpose of
+            
+188
+
+    
+treatment intended to restore the defendant to competency.  The court may recommend but not
+            
+189
+
+    
+order placement of the defendant.  The court may, however, order that the defendant be placed
+            
+190
+
+    
+in a secure setting rather than a nonsecure setting.  The director or his designee shall designate
+            
+191
+
+    
+the specific placement of the defendant during the period of evaluation and treatment to restore
+            
+192
+
+    
+competency.
+            
+193
+
+    
+    (2)  The examiner or examiners designated by the executive director to assess the
+            
+194
+
+    
+defendant's progress toward competency may not be involved in the routine treatment of the
+            
+195
+
+    
+defendant.  The examiner or examiners shall provide a full report to the court and prosecuting
+            
+196
+
+    
+and defense attorneys within 90 days of arrival of the defendant at the treating facility.  If any
+            
+197
+
+    
+examiner is unable to complete the assessment within 90 days, that examiner shall provide to
+            
+198
+
+    
+the court and counsel a summary progress report which informs the court that additional time is
+            
+199
+
+    
+necessary to complete the assessment, in which case the examiner shall have up to an
+            
+200
+
+    
+additional 90 days to provide the full report.  The full report shall assess:
+            
+201
+
+    
+    (a)  the facility's or program's capacity to provide appropriate treatment for the
+            
+202
+
+    
+defendant;
+            
+203
+
+    
+    (b)  the nature of treatments provided to the defendant;
+            
+204
+
+    
+    (c)  what progress toward competency restoration has been made with respect to the
+            
+205
+
+    
+factors identified by the court in its initial order;
+            
+206
+
+    
+    (d)  the defendant's current level of mental disorder or mental retardation and need for
+            
+207
+
+    
+treatment, if any; and
+            
+208
+
+    
+    (e)  the likelihood of restoration of competency and the amount of time estimated to
+            
+209
+
+    
+achieve it.
+            
+210
+
+    
+    (3)  The court on its own motion or upon motion by either party or by the executive
+            
+211
+
+    
+director may appoint additional mental health examiners to examine the defendant and advise
+            
+212
+
+    
+the court on his current mental status and progress toward competency restoration.
+            
+213
+
+    
+    (4)  Upon receipt of the full report, the court shall hold a hearing to determine the
+
+            
+214
+
+
+    
+defendant's current status.  At the hearing, the burden of proving that the defendant is
+            
+215
+
+    
+competent is on the proponent of competency.  Following the hearing, the court shall determine
+            
+216
+
+    
+by a preponderance of evidence whether the defendant is:
+            
+217
+
+    
+    (a)  competent to stand trial;
+            
+218
+
+    
+    (b)  incompetent to stand trial with a substantial probability that the defendant may
+            
+219
+
+    
+become competent in the foreseeable future; or
+            
+220
+
+    
+    (c)  incompetent to stand trial without a substantial probability that the defendant may
+            
+221
+
+    
+become competent in the foreseeable future.
+            
+222
+
+    
+    (5) (a)  If the court enters a finding pursuant to Subsection (4)(a), the court shall
+            
+223
+
+    
+proceed with the trial or such other procedures as may be necessary to adjudicate the charges.
+            
+224
+
+    
+    (b)  If the court enters a finding pursuant to Subsection (4)(b), the court may order that
+            
+225
+
+    
+the defendant remain committed to the custody of the executive director of the Department of
+            
+226
+
+    
+Human Services or his designee for the purpose of treatment intended to restore the defendant
+            
+227
+
+    
+to competency.
+            
+228
+
+    
+    (c)  If the court enters a finding pursuant to Subsection (4)(c), the court shall order [the
+            
+229
+
+    
+defendant released from the custody of the director unless the prosecutor informs the court]
+            
+230
+
+    
+that commitment proceedings pursuant to Title 62A, Chapter 5, Services [to] for People with
+            
+231
+
+    
+Disabilities, or Title 62A, Chapter 15, Substance Abuse and Mental Health Act, will be
+            
+232
+
+    
+initiated.  These commitment proceedings must be initiated within seven days after the court's
+            
+233
+
+    
+order entering the finding in Subsection (4)(c), unless the court enlarges the time for good
+            
+234
+
+    
+cause shown.  The defendant may be ordered to remain in the custody of the director until
+            
+235
+
+    
+commitment proceedings have been concluded.  If the defendant is committed, the court which
+            
+236
+
+    
+entered the order pursuant to Subsection (4)(c), shall be notified by the director at least 10 days
+            
+237
+
+    
+prior to any release of the committed person.
+            
+238
+
+    
+    (6)  If the defendant is recommitted to the department pursuant to Subsection (5)(b), the
+            
+239
+
+    
+court shall hold a hearing one year following the recommitment.
+            
+240
+
+    
+    (7)  At the hearing held pursuant to Subsection (6), except for defendants charged with
+            
+241
+
+    
+the crimes listed in Subsection (8), a defendant who has not been restored to competency shall
+            
+242
+
+    
+be [ordered released or] temporarily detained pending civil commitment proceedings under the
+            
+243
+
+    
+same terms as provided in Subsection (5)(c).
+            
+244
+
+    
+    (8)  If the defendant has been charged with aggravated murder, murder, attempted
+
+            
+245
+
+
+    
+murder, manslaughter, or a first degree felony and the court determines that the defendant is
+            
+246
+
+    
+making reasonable progress towards restoration of competency at the time of the hearing held
+            
+247
+
+    
+pursuant to Subsection (6), the court may order the defendant recommitted for a period not to
+            
+248
+
+    
+exceed 18 months for the purpose of treatment to restore the defendant to competency with a
+            
+249
+
+    
+mandatory review hearing at the end of the 18-month period.
+            
+250
+
+    
+    (9)  Except for defendants charged with aggravated murder or murder, a defendant who
+            
+251
+
+    
+has not been restored to competency at the time of the hearing held pursuant to Subsection (8)
+            
+252
+
+    
+shall be [ordered released or] temporarily detained pending civil commitment proceedings
+            
+253
+
+    
+under the same terms as provided in Subsection (5)(c).
+            
+254
+
+    
+    (10)  If the defendant has been charged with aggravated murder or murder and the court
+            
+255
+
+    
+determines that he is making reasonable progress towards restoration of competency at the time
+            
+256
+
+    
+of the mandatory review hearing held pursuant to Subsection (8), the court may order the
+            
+257
+
+    
+defendant recommitted for a period not to exceed 36 months for the purpose of treatment to
+            
+258
+
+    
+restore him to competency.
+            
+259
+
+    
+    (11)  If the defendant is recommitted to the department pursuant to Subsection (10), the
+            
+260
+
+    
+court shall hold a hearing no later than at 18-month intervals following the recommitment for
+            
+261
+
+    
+the purpose of determining the defendant's competency status.
+            
+262
+
+    
+    (12)  A defendant who has not been restored to competency at the expiration of the
+            
+263
+
+    
+additional 36-month commitment period ordered pursuant to Subsection (10) shall be [ordered
+            
+264
+
+    
+released or] temporarily detained pending civil commitment proceedings under the same terms
+            
+265
+
+    
+as provided in Subsection (5)(c).
+            
+266
+
+    
+    (13)  In no event may the maximum period of detention under this section exceed the
+            
+267
+
+    
+maximum period of incarceration which the defendant could receive if he were convicted of
+            
+268
+
+    
+the charged offense.  This Subsection (13) does not preclude pursuing involuntary civil
+            
+269
+
+    
+commitment nor does it place any time limit on civil commitments.
+            
+270
+
+    
+    (14)  Neither release from a pretrial incompetency commitment under the provisions of
+            
+271
+
+    
+this section nor civil commitment requires dismissal of criminal charges.  The court may retain
+            
+272
+
+    
+jurisdiction over the criminal case and may order periodic reviews to assess the defendant's
+            
+273
+
+    
+competency to stand trial.
+            
+274
+
+    
+    (15)  A defendant who is civilly committed pursuant to Title 62A, Chapter 5, Services
+            
+275
+
+    
+[to] for People with Disabilities, or Title 62A, Chapter 15, Substance Abuse and Mental Health
+
+            
+276
+
+
+    
+Act, may still be adjudicated competent to stand trial under this chapter.
+            
+277
+
+    
+    (16) (a)  The remedy for a violation of the time periods specified in this section, other
+            
+278
+
+    
+than those specified in Subsection (5)(c), (7), (9), (12), or (13), shall be a motion to compel the
+            
+279
+
+    
+hearing, or mandamus, but not release from detention or dismissal of the criminal charges.
+            
+280
+
+    
+    (b)  The remedy for a violation of the time periods specified in Subsection (5)(c), (7),
+            
+281
+
+    
+(9), (12), or (13) shall not be dismissal of the criminal charges.
+            
+282
+
+    
+    (17)  In cases in which the treatment of the defendant is precluded by court order for a
+            
+283
+
+    
+period of time, that time period may not be considered in computing time limitations under this
+            
+284
+
+    
+section.
+            
+285
+
+    
+    (18)  At any time that the defendant becomes competent to stand trial, the clinical
+            
+286
+
+    
+director of the hospital or other facility or the executive director of the Department of Human
+            
+287
+
+    
+Services shall certify that fact to the court.  The court shall conduct a hearing within 15
+            
+288
+
+    
+working days of the receipt of the clinical director's or executive director's report, unless the
+            
+289
+
+    
+court enlarges the time for good cause.
+            
+290
+
+    
+    (19)  The court may order a hearing or rehearing at any time on its own motion or upon
+            
+291
+
+    
+recommendations of the clinical director of the hospital or other facility or the executive
+            
+292
+
+    
+director of the Department of Human Services.
+            
+293
+
+    
+    (20)  Notice of a hearing on competency to stand trial shall be given to the prosecuting
+            
+294
+
+    
+attorney.  If the hearing is held in the county where the defendant is confined, notice shall also
+            
+295
+
+    
+be given to the prosecuting attorney for that county.
+            
+296
+
+    
+    Section 3.  
+Section  
+77-15-6.5
+
+ is amended to read:
+            
+297
+
+    
+     77-15-6.5.  Petition for involuntary medication of incompetent defendant.
+            
+298
+
+    
+    (1)  As used in this section:
+            
+299
+
+    
+    (a)  "Executive director" means the executive director of the Department of Human
+            
+300
+
+    
+Services or the executive director's designee.
+            
+301
+
+    
+    (b)  "Final order" means a court order that determines the rights of the parties and
+            
+302
+
+    
+concerning which appellate remedies have been exhausted or the time for appeal has expired.
+            
+303
+
+    
+    (2) (a)  At any time after a defendant has been found incompetent to proceed and has
+            
+304
+
+    
+been committed to the Department of Human Services under Section 
+
+77-15-6
+
+ for treatment to
+            
+305
+
+    
+restore competency, the executive director shall notify the court, prosecuting attorney, and
+            
+306
+
+    
+attorney for the defendant if the executive director has determined that the defendant is not
+
+            
+307
+
+
+    
+responding to treatment and is unlikely to be restored to competency without the involuntary
+            
+308
+
+    
+administration of antipsychotic medication.
+            
+309
+
+    
+    (b)  The executive director shall provide the notification under Subsection (2)(a) only if
+            
+310
+
+    
+there is no basis for involuntarily medicating the defendant for reasons other than to restore the
+            
+311
+
+    
+defendant's competency.
+            
+312
+
+    
+    (3)  In the notice under Subsection (2)(a), the executive director shall state whether the
+            
+313
+
+    
+executive director believes:
+            
+314
+
+    
+    (a)  medication is necessary to render the defendant competent;
+            
+315
+
+    
+    (b)  medication is substantially likely to render the defendant competent;
+            
+316
+
+    
+    (c)  medication is substantially unlikely to produce side effects which would
+            
+317
+
+    
+significantly interfere with the defendant's ability to assist in his defense;
+            
+318
+
+    
+    (d)  no less intrusive means are available, and whether any of those means have been
+            
+319
+
+    
+attempted to render the defendant competent; and
+            
+320
+
+    
+    (e)  medication is medically appropriate and is in the defendant's best medical interest
+            
+321
+
+    
+in light of his medical condition.
+            
+322
+
+    
+    (4) (a)  Upon receipt of the notice under Subsection (2)(a), the court shall conduct a
+            
+323
+
+    
+hearing within 30 days, unless the court extends the time for good cause, to determine whether
+            
+324
+
+    
+the court should convene a hearing regarding the involuntary medication of the defendant.
+            
+325
+
+    
+    (b)  The prosecuting attorney shall represent the state at any hearing under this section.
+            
+326
+
+    
+    (c)  The court shall consider whether the following factors apply in determining
+            
+327
+
+    
+whether the defendant should be involuntarily medicated:
+            
+328
+
+    
+    (i)  important state interests are at stake in restoring the defendant's competency;
+            
+329
+
+    
+    (ii)  involuntary medication will significantly further the important state interests, in
+            
+330
+
+    
+that the medication proposed:
+            
+331
+
+    
+    (A)  is substantially likely to render the defendant competent to stand trial; and
+            
+332
+
+    
+    (B)  is substantially unlikely to produce side effects which would significantly interfere
+            
+333
+
+    
+with the defendant's ability to assist the defense counsel in conducting his defense;
+            
+334
+
+    
+    (iii)  involuntary medication is necessary to further important state interests, because
+            
+335
+
+    
+any alternate less intrusive treatments are unlikely to achieve substantially the same results; and
+            
+336
+
+    
+    (iv)  the administration of the proposed medication is medically appropriate, as it is in
+            
+337
+
+    
+the defendant's best medical interest in light of his medical condition.
+
+            
+338
+
+
+    
+    (5)  In determining whether the proposed treatment is medically appropriate and is in
+            
+339
+
+    
+the defendant's best medical interest, the potential penalty the defendant may be subject to, if
+            
+340
+
+    
+the defendant is convicted of any charged offense, is not a relevant consideration.
+            
+341
+
+    
+    (6) (a)  If the court finds by clear and convincing evidence that the involuntary
+            
+342
+
+    
+administration of antipsychotic medication is appropriate, it shall make findings addressing
+            
+343
+
+    
+each of the factors in Subsection (4)(c) and shall issue an order authorizing the Department of
+            
+344
+
+    
+Human Services to involuntarily administer antipsychotic medication to the defendant in order
+            
+345
+
+    
+to restore his competency, subject to the periodic reviews and other procedures provided in
+            
+346
+
+    
+Section 
+
+77-15-6
+
+.
+            
+347
+
+    
+    (b)  When issuing an order under Subsection (6)(a), the court shall consider ordering
+            
+348
+
+    
+less intrusive means for administering the drugs, such as a court order to the defendant
+            
+349
+
+    
+enforceable by the contempt power, before ordering more intrusive methods of involuntary
+            
+350
+
+    
+medication.
+            
+351
+
+    
+    (7)  The provisions in Section 
+
+77-15-6
+
+ establishing time limitations for treatment of
+            
+352
+
+    
+incompetent defendants before they must [be either released or civilly committed] undergo
+            
+353
+
+    
+civil commitment proceedings are tolled from the time the executive director gives notice to
+            
+354
+
+    
+the court and the parties under Subsection (2) until:
+            
+355
+
+    
+    (a)  the court has issued a final order for the involuntary medication of the defendant,
+            
+356
+
+    
+and the defendant has been medicated under that order; or
+            
+357
+
+    
+    (b)  the court has issued a final order that the defendant will not be involuntarily
+            
+358
+
+    
+medicated.
+            
+359
+
+    
+    (8)  This section applies only when the prosecution seeks an order of involuntary
+            
+360
+
+    
+medication solely for the purpose of rendering a defendant competent to proceed.
+
+
+
+
+ Legislative Review Note
+    as of   2-13-12  12:36 PM
+
+ Office of Legislative Research and General Counsel
+[Bill Documents][Bills Directory]
+
+
+
+
+
+
+
+
+
+Who represents me?
+
+
+
+
+
+Remember my Legislators
+
+
+
+
+
+State Senate
+		350 North State, Suite 320
+		PO Box 145115
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1035
+		Fax: (801) 326-1475
+
+
+
+House of Representatives
+		350 North State, Suite 350
+		PO Box 145030
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1029
+		Fax: (801) 326-1544
+
+
+
+
+
+
+
+
+
+
+Home
+Mobile Site
+Site Map
+Calendar
+Code / Constitution
+House
+Senate
+
+Terms of Use/Privacy Policy
+
+ADA
+Utah.gov
+
+
+
+
+
+
+

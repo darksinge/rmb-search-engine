@@ -1,0 +1,561 @@
+Sponsors: []Modifications:     26-18-16.(1)  In accordance with Subsection (2), and within appropriations from the Legislature,the department may amend the state Medicaid plan to:(a)  create continuous eligibility for up to 12 months for an individual who has qualifiedfor the state Medicaid program;(b)  provide incentives in managed care contracts for an individual to obtain appropriatecare in appropriate settings; and(c)  require the managed care system to accept the risk of managing the Medicaidpopulation assigned to the plan amendment in return for receiving the benefits of providingquality and cost effective care.(2)  If the department amends the state Medicaid plan under Subsection (1)(a) or (b),the department:(a)  shall ensure that the plan amendment:(i)  is cost effective for the state Medicaid program;(ii)  increases the quality and continuity of care for recipients; and(iii)  calculates and transfers administrative savings from continuous enrollment fromthe Department of Workforce Services to the Department of Health; and(b)  may limit the plan amendment under Subsection (1)(a) or (b) to select geographicareas or specific Medicaid populations.(3)  The department may seek approval for a state plan amendment, waiver, or ademonstration project from the Secretary of Health and Human Services if necessary toimplement a plan amendment under Subsection (1)(a) or (b).Full text:
+
+
+
+Utah State Legislature
+
+
+
+
+
+
+
+
+
+
+
+
+Legislators
+
+By Session (1896-Current)
+Alphabetical (Historical)
+Find by Address/Map
+More
+
+
+Bills
+
+Bills/Bill Requests
+Passed Bills
+2017 Bills
+
+Keyword Search
+Reading Calendars
+Tracking Service
+More
+
+
+Committees
+
+All Committees
+Appropriations
+Commissions
+
+Independent Legislative Ethics Commission
+Interim
+Standing
+Subcommittees
+Task Forces
+Bills In Committees
+
+
+Utah Code / Constitution
+
+
+Title/Chapter/Section
+Keyword Search 
+
+Utah Constitution
+Laws of Utah 1851-ongoing
+Utah Territorial Laws 
+More
+
+
+Senate
+
+Main Page 
+About The Senate 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Extraordinary Sessions 
+Reading Calendars 
+Past Floor Debates 
+Senate Journals 
+
+
+House
+
+Main Page
+About the House 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Reading Calendars 
+Past Floor Debates 
+Journals 
+Conflict of Interest Forms 
+
+
+Legislative Guide 
+
+Legislative Guide
+Civic Programs
+GRAMA (Records Requests)
+
+
+Publications
+
+Search Publications
+Appropriations
+Audits
+Bagels & Briefings
+Briefing Papers
+Digest of Legislation
+Legislative Drafting Manual
+
+Journals
+
+Interim Highlights
+
+Legislative Rules
+GRAMA (Records Requests)
+Public Email
+State Organization Charts
+YouTube Channel
+Requests for Proposals and Legal Notices
+More
+
+
+Legislative Histories
+
+Legislative History Resources
+How to Research
+Bill Drafting/Research Files (1990-Ongoing)
+
+Working Bills (1896-1989)
+Interim Committee Histories (1990-Ongoing) 
+Journals
+Past House Floor Debates
+Past Senate Floor Debates
+More
+
+
+Staff Offices
+
+All Legislative Offices
+Auditor General
+Fiscal Analyst
+Printing
+Research and General Counsel
+Staff Awards
+Job Opportunities
+More
+
+
+Links of Interest
+
+Utah Administrative Rules
+Courts
+Utah State Capitol
+State of Utah
+Federal Legislation
+More
+
+
+
+
+
+
+ 
+
+Download Zipped Introduced WordPerfect HB0098.ZIP
+[Status][Bill Documents][Fiscal Note][Bills Directory]
+
+
+H.B. 98
+
+
+
+
+
+            
+1
+
+    
+ CONTINUOUS ELIGIBILITY FOR MEDICAID
+
+
+
+            
+2
+
+    
+2012 GENERAL SESSION
+
+            
+3
+
+    
+STATE OF UTAH
+
+            
+4
+
+    
+
+
+ Chief Sponsor:  Dean Sanpei
+
+
+
+            
+5
+
+    
+
+
+
+Senate Sponsor:  
+
+
+
+
+
+
+____________
+
+
+
+
+
+            
+6
+
+    
+
+            
+7
+
+    
+ LONG TITLE
+            
+8
+
+    
+ General Description:
+            
+9
+
+    
+    This bill amends the Medical Assistance Act to permit the state Medicaid program to
+            
+10
+
+    
+amend the state plan to allow continuous eligibility for an individual for up to 12
+            
+11
+
+    
+months and to implement payment and delivery reform.
+            
+12
+
+    
+ Highlighted Provisions:
+            
+13
+
+    
+    This bill:
+            
+14
+
+    
+    .    authorizes the state Medicaid program to amend the state plan to:
+            
+15
+
+    
+        .    permit 12 month continuous eligibility for an individual if it would increase
+            
+16
+
+    
+quality of care and if it is cost effective; and
+            
+17
+
+    
+        .    include in Medicaid managed care contracts incentives for seeking appropriate
+            
+18
+
+    
+care in appropriate settings;
+            
+19
+
+    
+    .    authorizes the Medicaid program to select certain populations or geographic areas to
+            
+20
+
+    
+include in the amendments to the state Medicaid plan; and
+            
+21
+
+    
+    .    authorizes the Medicaid program to apply for a waiver or demonstration project, if
+            
+22
+
+    
+necessary to implement 12 month continuous enrollment or incentives for seeking
+            
+23
+
+    
+appropriate care.
+            
+24
+
+    
+ Money Appropriated in this Bill:
+            
+25
+
+    
+    None
+            
+26
+
+    
+ Other Special Clauses:
+            
+27
+
+    
+    None
+
+            
+28
+
+
+    
+ Utah Code Sections Affected:
+            
+29
+
+    
+ENACTS:
+            
+30
+
+    
+     26-18-16, Utah Code Annotated 1953
+            
+31
+
+    
+
+            
+32
+
+    
+Be it enacted by the Legislature of the state of Utah:
+            
+33
+
+    
+    Section 1.  
+Section  
+26-18-16
+
+ is enacted to read:
+            
+34
+
+    
+     26-18-16.  Medicaid -- Continuous eligibility -- Promoting payment and delivery
+            
+35
+
+    
+ reform.
+            
+36
+
+    
+    (1)  In accordance with Subsection (2), and within appropriations from the Legislature,
+            
+37
+
+    
+the department may amend the state Medicaid plan to:
+            
+38
+
+    
+    (a)  create continuous eligibility for up to 12 months for an individual who has qualified
+            
+39
+
+    
+for the state Medicaid program;
+            
+40
+
+    
+    (b)  provide incentives in managed care contracts for an individual to obtain appropriate
+            
+41
+
+    
+care in appropriate settings; and
+            
+42
+
+    
+    (c)  require the managed care system to accept the risk of managing the Medicaid
+            
+43
+
+    
+population assigned to the plan amendment in return for receiving the benefits of providing
+            
+44
+
+    
+quality and cost effective care.
+            
+45
+
+    
+    (2)  If the department amends the state Medicaid plan under Subsection (1)(a) or (b),
+            
+46
+
+    
+the department:
+            
+47
+
+    
+    (a)  shall ensure that the plan amendment:
+            
+48
+
+    
+    (i)  is cost effective for the state Medicaid program;
+            
+49
+
+    
+    (ii)  increases the quality and continuity of care for recipients; and
+            
+50
+
+    
+    (iii)  calculates and transfers administrative savings from continuous enrollment from
+            
+51
+
+    
+the Department of Workforce Services to the Department of Health; and
+            
+52
+
+    
+    (b)  may limit the plan amendment under Subsection (1)(a) or (b) to select geographic
+            
+53
+
+    
+areas or specific Medicaid populations.
+            
+54
+
+    
+    (3)  The department may seek approval for a state plan amendment, waiver, or a
+            
+55
+
+    
+demonstration project from the Secretary of Health and Human Services if necessary to
+            
+56
+
+    
+implement a plan amendment under Subsection (1)(a) or (b).
+
+
+
+
+
+ Legislative Review Note
+    as of   1-23-12  9:23 AM
+
+ Office of Legislative Research and General Counsel
+[Bill Documents][Bills Directory]
+
+
+
+
+
+
+
+
+
+Who represents me?
+
+
+
+
+
+Remember my Legislators
+
+
+
+
+
+State Senate
+		350 North State, Suite 320
+		PO Box 145115
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1035
+		Fax: (801) 326-1475
+
+
+
+House of Representatives
+		350 North State, Suite 350
+		PO Box 145030
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1029
+		Fax: (801) 326-1544
+
+
+
+
+
+
+
+
+
+
+Home
+Mobile Site
+Site Map
+Calendar
+Code / Constitution
+House
+Senate
+
+Terms of Use/Privacy Policy
+
+ADA
+Utah.gov
+
+
+
+
+
+
+

@@ -1,0 +1,533 @@
+Sponsors: []Modifications: 11Full text:
+
+
+
+Utah State Legislature
+
+
+
+
+
+
+
+
+
+
+
+
+Legislators
+
+By Session (1896-Current)
+Alphabetical (Historical)
+Find by Address/Map
+More
+
+
+Bills
+
+Bills/Bill Requests
+Passed Bills
+2017 Bills
+
+Keyword Search
+Reading Calendars
+Tracking Service
+More
+
+
+Committees
+
+All Committees
+Appropriations
+Commissions
+
+Independent Legislative Ethics Commission
+Interim
+Standing
+Subcommittees
+Task Forces
+Bills In Committees
+
+
+Utah Code / Constitution
+
+
+Title/Chapter/Section
+Keyword Search 
+
+Utah Constitution
+Laws of Utah 1851-ongoing
+Utah Territorial Laws 
+More
+
+
+Senate
+
+Main Page 
+About The Senate 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Extraordinary Sessions 
+Reading Calendars 
+Past Floor Debates 
+Senate Journals 
+
+
+House
+
+Main Page
+About the House 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Reading Calendars 
+Past Floor Debates 
+Journals 
+Conflict of Interest Forms 
+
+
+Legislative Guide 
+
+Legislative Guide
+Civic Programs
+GRAMA (Records Requests)
+
+
+Publications
+
+Search Publications
+Appropriations
+Audits
+Bagels & Briefings
+Briefing Papers
+Digest of Legislation
+Legislative Drafting Manual
+
+Journals
+
+Interim Highlights
+
+Legislative Rules
+GRAMA (Records Requests)
+Public Email
+State Organization Charts
+YouTube Channel
+Requests for Proposals and Legal Notices
+More
+
+
+Legislative Histories
+
+Legislative History Resources
+How to Research
+Bill Drafting/Research Files (1990-Ongoing)
+
+Working Bills (1896-1989)
+Interim Committee Histories (1990-Ongoing) 
+Journals
+Past House Floor Debates
+Past Senate Floor Debates
+More
+
+
+Staff Offices
+
+All Legislative Offices
+Auditor General
+Fiscal Analyst
+Printing
+Research and General Counsel
+Staff Awards
+Job Opportunities
+More
+
+
+Links of Interest
+
+Utah Administrative Rules
+Courts
+Utah State Capitol
+State of Utah
+Federal Legislation
+More
+
+
+
+
+
+
+ 
+
+Download Zipped Introduced WordPerfect HB0291.ZIP
+[Status][Bill Documents][Fiscal Note][Bills Directory]
+
+
+H.B. 291
+
+
+
+
+
+            
+1
+
+    
+ MOTOR VEHICLE SAFETY INSPECTION AMENDMENTS
+
+
+
+            
+2
+
+    
+2013 GENERAL SESSION
+
+            
+3
+
+    
+STATE OF UTAH
+
+            
+4
+
+    
+
+
+ Chief Sponsor:  Jeremy A. Peterson
+
+
+
+            
+5
+
+    
+
+
+
+Senate Sponsor: 
+
+
+
+
+
+
+  Stuart C. Reid
+
+
+
+
+
+            
+6
+
+    
+
+            
+7
+
+    
+ LONG TITLE
+            
+8
+
+    
+ General Description:
+            
+9
+
+    
+    This bill modifies the Motor Vehicle Business Regulation Act by amending provisions
+            
+10
+
+    
+relating to safety inspection requirements.
+            
+11
+
+    
+ Highlighted Provisions:
+            
+12
+
+    
+    This bill:
+            
+13
+
+    
+    .    changes the amount of time that a motor vehicle has to receive and pass a safety
+            
+14
+
+    
+inspection, if required in the current year, for the motor vehicle to be eligible for a
+            
+15
+
+    
+temporary permit issued by a licensed motor vehicle dealer.
+            
+16
+
+    
+ Money Appropriated in this Bill:
+            
+17
+
+    
+    None
+            
+18
+
+    
+ Other Special Clauses:
+            
+19
+
+    
+    None
+            
+20
+
+    
+ Utah Code Sections Affected:
+            
+21
+
+    
+AMENDS:
+            
+22
+
+    
+     41-3-303, as last amended by Laws of Utah 2012, Chapter 356
+            
+23
+
+    
+
+            
+24
+
+    
+Be it enacted by the Legislature of the state of Utah:
+            
+25
+
+    
+    Section 1.  
+Section  
+41-3-303
+
+ is amended to read:
+            
+26
+
+    
+     41-3-303.  Temporary permits -- Inspections required before issuance.
+            
+27
+
+    
+    (1)  A dealer licensed in accordance with this chapter may not issue a temporary permit
+
+            
+28
+
+
+    
+under Section 
+
+41-3-302
+
+ unless:
+            
+29
+
+    
+    (a) (i)  the motor vehicle for which the temporary permit is issued has received and
+            
+30
+
+    
+passed the safety inspection if required in the current year under Section 
+
+53-8-205
+
+ within the
+            
+31
+
+    
+previous [six] 11 months;
+            
+32
+
+    
+    (ii)  the safety inspection certificate was issued in the name of a licensed and bonded
+            
+33
+
+    
+dealer; and
+            
+34
+
+    
+    (iii)  a copy of the safety inspection certificate is given to the customer; and
+            
+35
+
+    
+    (b)  the motor vehicle passed the emission inspection test required by Section
+            
+36
+
+    
+
+41-6a-1642
+
+.
+            
+37
+
+    
+    (2)  Notwithstanding Subsection (1)(a), a dealer may issue a temporary permit without a
+            
+38
+
+    
+safety inspection certificate if the motor vehicle complies with the safety inspection as
+            
+39
+
+    
+provided in Section 
+
+41-1a-205
+
+.
+            
+40
+
+    
+    (3)  Notwithstanding Subsection (1)(b), a dealer may issue a temporary permit without
+            
+41
+
+    
+proof of an emission inspection if:
+            
+42
+
+    
+    (a)  the motor vehicle is exempt from emission inspection as provided in Section
+            
+43
+
+    
+
+41-6a-1642
+
+;
+            
+44
+
+    
+    (b)  the purchaser is a resident of a county that does not require emission inspections; or
+            
+45
+
+    
+    (c)  the motor vehicle is otherwise exempt from emission inspections.
+            
+46
+
+    
+    (4)  Notwithstanding Subsection (1), a dealer may sell a motor vehicle as is without
+            
+47
+
+    
+having it safety or emission inspected provided that no temporary permit is issued.
+
+
+
+
+ Legislative Review Note
+    as of   1-23-13  3:53 PM
+
+ Office of Legislative Research and General Counsel
+[Bill Documents][Bills Directory]
+
+
+
+
+
+
+
+
+
+Who represents me?
+
+
+
+
+
+Remember my Legislators
+
+
+
+
+
+State Senate
+		350 North State, Suite 320
+		PO Box 145115
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1035
+		Fax: (801) 326-1475
+
+
+
+House of Representatives
+		350 North State, Suite 350
+		PO Box 145030
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1029
+		Fax: (801) 326-1544
+
+
+
+
+
+
+
+
+
+
+Home
+Mobile Site
+Site Map
+Calendar
+Code / Constitution
+House
+Senate
+
+Terms of Use/Privacy Policy
+
+ADA
+Utah.gov
+
+
+
+
+
+
+

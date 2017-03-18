@@ -1,0 +1,2281 @@
+Sponsors: []Modifications: :(a);(b)a:(i);(ii)afor a fee, or in connection withservices for which a fee is charged, provides or contractsrelease:(A);(B);(C);(D);(E);;(iii); and(iv)  meets the education and experience standards established by the board underSubsection 
+
+19-6-403
+
+(1)(a)(vii).(A);(B)a personoffersrelease:(A);(B);(C);(D);(E)(i);(ii)a persona persondwelling hasaaanaa:(a);(b),, or loss of use of(a).(b)  "Regulated substance"(a)a regulated substance(b)  A release of a regulated substance from an underground storage tank or petroleumstorage tank isfrom that tank systemaaaaaanaunderground storage tank(ii)  registration of an underground storage tank operator;(iii)an underground storage(iv)(v),,an undergroundstorage or petroleum storage(vi)(vii)Professional(a)A loanbe for more than(i)(ii)and(iii)(A)(B)(C).(b)  A loan made under this section shall:(i)(ii)(iii)(iv)fund(a)Subsection(1)(a)(iii)(a)(b)(a)The executive secretary shall issue a certificate of compliance to theowner or operator of aatanktankdoes notFull text:
+
+
+
+Utah State Legislature
+
+
+
+
+
+
+
+
+
+
+
+
+Legislators
+
+By Session (1896-Current)
+Alphabetical (Historical)
+Find by Address/Map
+More
+
+
+Bills
+
+Bills/Bill Requests
+Passed Bills
+2017 Bills
+
+Keyword Search
+Reading Calendars
+Tracking Service
+More
+
+
+Committees
+
+All Committees
+Appropriations
+Commissions
+
+Independent Legislative Ethics Commission
+Interim
+Standing
+Subcommittees
+Task Forces
+Bills In Committees
+
+
+Utah Code / Constitution
+
+
+Title/Chapter/Section
+Keyword Search 
+
+Utah Constitution
+Laws of Utah 1851-ongoing
+Utah Territorial Laws 
+More
+
+
+Senate
+
+Main Page 
+About The Senate 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Extraordinary Sessions 
+Reading Calendars 
+Past Floor Debates 
+Senate Journals 
+
+
+House
+
+Main Page
+About the House 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Reading Calendars 
+Past Floor Debates 
+Journals 
+Conflict of Interest Forms 
+
+
+Legislative Guide 
+
+Legislative Guide
+Civic Programs
+GRAMA (Records Requests)
+
+
+Publications
+
+Search Publications
+Appropriations
+Audits
+Bagels & Briefings
+Briefing Papers
+Digest of Legislation
+Legislative Drafting Manual
+
+Journals
+
+Interim Highlights
+
+Legislative Rules
+GRAMA (Records Requests)
+Public Email
+State Organization Charts
+YouTube Channel
+Requests for Proposals and Legal Notices
+More
+
+
+Legislative Histories
+
+Legislative History Resources
+How to Research
+Bill Drafting/Research Files (1990-Ongoing)
+
+Working Bills (1896-1989)
+Interim Committee Histories (1990-Ongoing) 
+Journals
+Past House Floor Debates
+Past Senate Floor Debates
+More
+
+
+Staff Offices
+
+All Legislative Offices
+Auditor General
+Fiscal Analyst
+Printing
+Research and General Counsel
+Staff Awards
+Job Opportunities
+More
+
+
+Links of Interest
+
+Utah Administrative Rules
+Courts
+Utah State Capitol
+State of Utah
+Federal Legislation
+More
+
+
+
+
+
+
+ 
+
+Download Zipped Introduced WordPerfect HB0343.ZIP
+[Status][Bill Documents][Fiscal Note][Bills Directory]
+
+
+H.B. 343
+
+
+
+
+
+            
+1
+
+    
+ UNDERGROUND STORAGE TANK AMENDMENTS
+
+
+
+            
+2
+
+    
+2012 GENERAL SESSION
+
+            
+3
+
+    
+STATE OF UTAH
+
+            
+4
+
+    
+
+
+ Chief Sponsor: Kay L. McIff
+
+
+
+            
+5
+
+    
+
+
+
+Senate Sponsor:
+
+
+
+
+
+
+ Kevin T. Van Tassell
+
+
+
+
+
+            
+6
+
+    
+
+            
+7
+
+    
+ LONG TITLE
+            
+8
+
+    
+ General Description:
+            
+9
+
+    
+    This bill modifies certain requirements relating to the Petroleum Storage Tank Trust
+            
+10
+
+    
+Fund.
+            
+11
+
+    
+ Highlighted Provisions:
+            
+12
+
+    
+    This bill:
+            
+13
+
+    
+    .    modifies the definition of "certified underground storage tank consultant";
+            
+14
+
+    
+    .    grants rulemaking authority relating to the registration of underground storage tank
+            
+15
+
+    
+operators;
+            
+16
+
+    
+    .    provides for the identification of underground storage tanks that do not qualify for a
+            
+17
+
+    
+certificate of compliance; and
+            
+18
+
+    
+    .    makes technical changes.
+            
+19
+
+    
+ Money Appropriated in this Bill:
+            
+20
+
+    
+    None
+            
+21
+
+    
+ Other Special Clauses:
+            
+22
+
+    
+    None
+            
+23
+
+    
+ Utah Code Sections Affected:
+            
+24
+
+    
+AMENDS:
+            
+25
+
+    
+     19-6-402, as last amended by Laws of Utah 2010, Chapter 324
+            
+26
+
+    
+     19-6-403, as last amended by Laws of Utah 2008, Chapters 56 and 382
+            
+27
+
+    
+     19-6-405.3, as last amended by Laws of Utah 2010, Chapter 186
+
+            
+28
+
+
+    
+     19-6-411, as last amended by Laws of Utah 1998, Chapter 95
+            
+29
+
+    
+
+            
+30
+
+    
+Be it enacted by the Legislature of the state of Utah:
+            
+31
+
+    
+    Section 1.  
+Section  
+19-6-402
+
+ is amended to read:
+            
+32
+
+    
+     19-6-402.  Definitions.
+            
+33
+
+    
+    As used in this part:
+            
+34
+
+    
+    (1)  "Abatement action" means action taken to limit, reduce, mitigate, or eliminate:
+            
+35
+
+    
+    (a)  a release from an underground storage tank or petroleum storage tank[,]; or [to limit
+            
+36
+
+    
+or reduce, mitigate, or eliminate]
+            
+37
+
+    
+    (b)  the damage caused by that release.
+            
+38
+
+    
+    (2)  "Board" means the Solid and Hazardous Waste Control Board created in Section
+            
+39
+
+    
+
+19-1-106
+
+.
+            
+40
+
+    
+    (3)  "Bodily injury" means bodily harm, sickness, disease, or death sustained by [any] a
+            
+41
+
+    
+person.
+            
+42
+
+    
+    (4)  "Certificate of compliance" means a certificate issued to a facility by the executive
+            
+43
+
+    
+secretary:
+            
+44
+
+    
+    (a)  demonstrating that an owner or operator of a facility containing one or more
+            
+45
+
+    
+petroleum storage tanks has met the requirements of this part; and
+            
+46
+
+    
+    (b)  listing all tanks at the facility, specifying:
+            
+47
+
+    
+    (i)  which tanks may receive petroleum; and
+            
+48
+
+    
+    (ii)  which tanks have not met the requirements for compliance.
+            
+49
+
+    
+    (5)  "Certificate of registration" means a certificate issued to a facility by the executive
+            
+50
+
+    
+secretary demonstrating that an owner or operator of a facility containing one or more
+            
+51
+
+    
+underground storage tanks has:
+            
+52
+
+    
+    (a)  registered the tanks; and
+            
+53
+
+    
+    (b)  paid the annual underground storage tank fee.
+            
+54
+
+    
+    (6) (a)  "Certified underground storage tank consultant" means [any] a person who:
+            
+55
+
+    
+    (i)  [meets the education and experience standards established by the board under
+            
+56
+
+    
+Subsection 
+
+19-6-403
+
+(1)(a)(vi) in order to provide or contract] for a fee, or in connection with
+            
+57
+
+    
+services for which a fee is charged, provides or contracts to provide information, opinions, or
+            
+58
+
+    
+advice relating to underground storage tank release:
+
+            
+59
+
+
+    
+    (A)  management[, release];
+            
+60
+
+    
+    (B)  abatement[,];
+            
+61
+
+    
+    (C)  investigation[,];
+            
+62
+
+    
+    (D)  corrective action[,]; or
+            
+63
+
+    
+    (E)  evaluation [for a fee, or in connection with the services for which a fee is charged;
+            
+64
+
+    
+and];
+            
+65
+
+    
+    (ii)  has submitted an application to the board [and];
+            
+66
+
+    
+    (iii)  received a written statement of certification from the board[.]; and
+            
+67
+
+    
+    (iv)  meets the education and experience standards established by the board under
+            
+68
+
+    
+Subsection 
+
+19-6-403
+
+(1)(a)(vii).
+            
+69
+
+    
+    (b)  "Certified underground storage tank consultant" does not include:
+            
+70
+
+    
+    (i) (A)  an employee of the owner or operator of the underground storage tank[,]; or
+            
+71
+
+    
+    (B)  an employee of a business operation that has a business relationship with the owner
+            
+72
+
+    
+or operator of the underground storage tank, and [that] markets petroleum products or manages
+            
+73
+
+    
+underground storage tanks; or
+            
+74
+
+    
+    (ii)  [persons] a person licensed to practice law in this state who [offer] offers only legal
+            
+75
+
+    
+advice on underground storage tank release:
+            
+76
+
+    
+    (A)  management[, release];
+            
+77
+
+    
+    (B)  abatement[,];
+            
+78
+
+    
+    (C)  investigation[,];
+            
+79
+
+    
+    (D)  corrective action[,]; or
+            
+80
+
+    
+    (E)  evaluation.
+            
+81
+
+    
+    (7)  "Closed" means an underground storage tank no longer in use that has been:
+            
+82
+
+    
+    (a)  emptied and cleaned to remove all liquids and accumulated sludges; and
+            
+83
+
+    
+    (b) (i)  [either] removed from the ground; or
+            
+84
+
+    
+    (ii)  filled with an inert solid material.
+            
+85
+
+    
+    (8)  "Corrective action plan" means a plan for correcting a release from a petroleum
+            
+86
+
+    
+storage tank that includes provisions for [all or] any of the following:
+            
+87
+
+    
+    (a)  cleanup or removal of the release;
+            
+88
+
+    
+    (b)  containment or isolation of the release;
+            
+89
+
+    
+    (c)  treatment of the release;
+
+            
+90
+
+
+    
+    (d)  correction of the cause of the release;
+            
+91
+
+    
+    (e)  monitoring and maintenance of the site of the release;
+            
+92
+
+    
+    (f)  provision of alternative water supplies to [persons] a person whose drinking water
+            
+93
+
+    
+has become contaminated by the release; or
+            
+94
+
+    
+    (g)  temporary or permanent relocation, whichever is determined by the executive
+            
+95
+
+    
+secretary to be more cost-effective, of [persons] a person whose [dwellings have] dwelling has
+            
+96
+
+    
+been determined by the executive secretary to be no longer habitable due to the release.
+            
+97
+
+    
+    (9)  "Costs" means [any] money expended for:
+            
+98
+
+    
+    (a)  investigation;
+            
+99
+
+    
+    (b)  abatement action;
+            
+100
+
+    
+    (c)  corrective action;
+            
+101
+
+    
+    (d)  judgments, awards, and settlements for bodily injury or property damage to third
+            
+102
+
+    
+parties;
+            
+103
+
+    
+    (e)  legal and claims adjusting costs incurred by the state in connection with judgments,
+            
+104
+
+    
+awards, or settlements for bodily injury or property damage to third parties; or
+            
+105
+
+    
+    (f)  costs incurred by the state risk manager in determining the actuarial soundness of
+            
+106
+
+    
+the fund.
+            
+107
+
+    
+    (10)  "Covered by the fund" means the requirements of Section 
+
+19-6-424
+
+ have been
+            
+108
+
+    
+met.
+            
+109
+
+    
+    (11)  "Dwelling" means a building that is usually occupied by a person lodging there at
+            
+110
+
+    
+night.
+            
+111
+
+    
+    (12)  "Enforcement proceedings" means a civil action or the procedures to enforce
+            
+112
+
+    
+orders established by Section 
+
+19-6-425
+
+.
+            
+113
+
+    
+    (13)  "Executive secretary" means the executive secretary of the board.
+            
+114
+
+    
+    (14)  "Facility" means all underground storage tanks located on a single parcel of
+            
+115
+
+    
+property or on any property adjacent or contiguous to that parcel.
+            
+116
+
+    
+    (15)  "Fund" means the Petroleum Storage Tank Trust Fund created in Section
+            
+117
+
+    
+
+19-6-409
+
+.
+            
+118
+
+    
+    (16)  "Loan fund" means the Petroleum Storage Tank Loan Fund created in Section
+            
+119
+
+    
+
+19-6-405.3
+
+.
+            
+120
+
+    
+    (17)  "Operator" means [any] a person in control of or who is responsible on a daily
+
+            
+121
+
+
+    
+basis for the maintenance of an underground storage tank that is in use for the storage, use, or
+            
+122
+
+    
+dispensing of a regulated substance.
+            
+123
+
+    
+    (18)  "Owner" means:
+            
+124
+
+    
+    (a)  in the case of an underground storage tank in use on or after November 8, 1984,
+            
+125
+
+    
+[any] a person who owns an underground storage tank used for the storage, use, or dispensing
+            
+126
+
+    
+of a regulated substance; and
+            
+127
+
+    
+    (b)  in the case of [any] an underground storage tank in use before November 8, 1984,
+            
+128
+
+    
+but not in use on or after November 8, 1984, [any] a person who owned the tank immediately
+            
+129
+
+    
+before the discontinuance of its use for the storage, use, or dispensing of a regulated substance.
+            
+130
+
+    
+    (19)  "Petroleum" includes crude oil or [any] a fraction of crude oil that is liquid at:
+            
+131
+
+    
+    (a)  60 degrees Fahrenheit; and [at]
+            
+132
+
+    
+    (b)  a pressure of 14.7 pounds per square inch absolute.
+            
+133
+
+    
+    (20)  "Petroleum storage tank" means a tank that:
+            
+134
+
+    
+    (a) (i)  is underground;
+            
+135
+
+    
+    (ii)  is regulated under Subtitle I of the Resource Conservation and Recovery Act, 42
+            
+136
+
+    
+U.S.C. Section 6991c, et seq.; and
+            
+137
+
+    
+    (iii)  contains petroleum; or
+            
+138
+
+    
+    (b)  [is a tank that] the owner or operator voluntarily submits for participation in the
+            
+139
+
+    
+Petroleum Storage Tank Trust Fund under Section 
+
+19-6-415
+
+.
+            
+140
+
+    
+    (21)  "Petroleum Storage Tank Restricted Account" means the account created in
+            
+141
+
+    
+Section 
+
+19-6-405.5
+
+.
+            
+142
+
+    
+    (22)  "Program" means the Environmental Assurance Program under Section
+            
+143
+
+    
+
+19-6-410.5
+
+.
+            
+144
+
+    
+    (23)  "Property damage" means physical injury to [or], destruction of, or loss of use of
+            
+145
+
+    
+tangible property [including loss of use of that property].
+            
+146
+
+    
+    (24) (a)  "Regulated substance" means petroleum and petroleum-based substances
+            
+147
+
+    
+comprised of a complex blend of hydrocarbons derived from crude oil through processes of
+            
+148
+
+    
+separation, conversion, upgrading, and finishing[, and].
+            
+149
+
+    
+    (b)  "Regulated substance" includes motor fuels, jet fuels, distillate fuel oils, residual
+            
+150
+
+    
+fuel oils, lubricants, petroleum solvents, and used oils.
+            
+151
+
+    
+    (25) (a)  "Release" means [any] spilling, leaking, emitting, discharging, escaping,
+
+            
+152
+
+
+    
+leaching, or disposing a regulated substance from an underground storage tank or petroleum
+            
+153
+
+    
+storage tank.  [The entire release is]
+            
+154
+
+    
+    (b)  A release of a regulated substance from an underground storage tank or petroleum
+            
+155
+
+    
+storage tank is considered a single release from that tank system.
+            
+156
+
+    
+    (26) (a)  "Responsible party" means [any] a person who:
+            
+157
+
+    
+    (i)  is the owner or operator of a facility;
+            
+158
+
+    
+    (ii)  owns or has legal or equitable title in a facility or an underground storage tank;
+            
+159
+
+    
+    (iii)  owned or had legal or equitable title in [the] a facility at the time [any] petroleum
+            
+160
+
+    
+was received or contained at the facility;
+            
+161
+
+    
+    (iv)  operated or otherwise controlled activities at [the] a facility at the time [any]
+            
+162
+
+    
+petroleum was received or contained at the facility; or
+            
+163
+
+    
+    (v)  is an underground storage tank installation company.
+            
+164
+
+    
+    (b)  "Responsible party" as defined in Subsections (26)(a)(i), (ii), and (iii) does not
+            
+165
+
+    
+include:
+            
+166
+
+    
+    (i)  [any] a person who is not an operator and, without participating in the management
+            
+167
+
+    
+of a facility and otherwise not engaged in petroleum production, refining, and marketing, holds
+            
+168
+
+    
+indicia of ownership:
+            
+169
+
+    
+    (A)  primarily to protect his security interest in the facility; or
+            
+170
+
+    
+    (B)  as a fiduciary or custodian under Title 75, Utah Uniform Probate Code, or under an
+            
+171
+
+    
+employee benefit plan; or
+            
+172
+
+    
+    (ii)  governmental ownership or control of property by involuntary transfers as provided
+            
+173
+
+    
+in CERCLA Section 101(20)(D), 42 U.S.C. Sec. 9601(20)(D).
+            
+174
+
+    
+    (c)  The exemption created by Subsection (26)(b)(i)(B) does not apply to actions taken
+            
+175
+
+    
+by the state or its officials or agencies under this part.
+            
+176
+
+    
+    (d)  The terms and activities "indicia of ownership," "primarily to protect a security
+            
+177
+
+    
+interest," "participation in management," and "security interest" under this part are in
+            
+178
+
+    
+accordance with 40 CFR Part 280, Subpart I, as amended, and 42 U.S.C. Sec. 6991b(h)(9).
+            
+179
+
+    
+    (e)  The terms "participate in management" and "indicia of ownership" as defined in 40
+            
+180
+
+    
+CFR Part 280, Subpart I, as amended, and 42 U.S.C. Sec. 6991b(h)(9) include and apply to the
+            
+181
+
+    
+fiduciaries listed in Subsection (26)(b)(i)(B).
+            
+182
+
+    
+    (27)  "Soil test" means a test, established or approved by board rule, to detect the
+
+            
+183
+
+
+    
+presence of petroleum in soil.
+            
+184
+
+    
+    (28)  "State cleanup appropriation" means [the] money appropriated by the Legislature
+            
+185
+
+    
+to the department to fund the investigation, abatement, and corrective action regarding releases
+            
+186
+
+    
+not covered by the fund.
+            
+187
+
+    
+    (29)  "Underground storage tank" means [any] a tank regulated under Subtitle I,
+            
+188
+
+    
+Resource Conservation and Recovery Act, 42 U.S.C. Sec. 6991c, et seq., including:
+            
+189
+
+    
+    (a)  a petroleum storage tank;
+            
+190
+
+    
+    (b)  underground pipes and lines connected to a storage tank; and
+            
+191
+
+    
+    (c)  [any] an underground ancillary equipment and containment system.
+            
+192
+
+    
+    (30)  "Underground storage tank installation company" means [any] a person, firm,
+            
+193
+
+    
+partnership, corporation, governmental entity, association, or other organization who installs
+            
+194
+
+    
+underground storage tanks.
+            
+195
+
+    
+    (31)  "Underground storage tank installation company permit" means a permit issued to
+            
+196
+
+    
+an underground storage tank installation company by the executive secretary.
+            
+197
+
+    
+    (32)  "Underground storage tank technician" means a person employed by and acting
+            
+198
+
+    
+under the direct supervision of a certified underground storage tank consultant to assist in
+            
+199
+
+    
+carrying out the functions described in Subsection (6)(a).
+            
+200
+
+    
+    Section 2.  
+Section  
+19-6-403
+
+ is amended to read:
+            
+201
+
+    
+     19-6-403.  Powers and duties of board.
+            
+202
+
+    
+    The board shall regulate an underground storage tank or petroleum storage tank by:
+            
+203
+
+    
+    (1)  in accordance with Title 63G, Chapter 3, Utah Administrative Rulemaking Act,
+            
+204
+
+    
+making rules that:
+            
+205
+
+    
+    (a)  provide for the:
+            
+206
+
+    
+    (i)  certification of an underground storage tank installer, inspector, tester, or remover;
+            
+207
+
+    
+    (ii)  registration of an underground storage tank operator;
+            
+208
+
+    
+    [(ii)] (iii)  registration of [a] an underground storage tank;
+            
+209
+
+    
+    [(iii)] (iv)  administration of the petroleum storage tank program;
+            
+210
+
+    
+    [(iv)] (v)  format of, and required information in, a record kept by [a] an underground
+            
+211
+
+    
+storage or petroleum storage tank owner or operator who is participating in the fund;
+            
+212
+
+    
+    [(v)] (vi)  voluntary participation in the fund for:
+            
+213
+
+    
+    (A)  an above ground petroleum storage tank; and
+
+            
+214
+
+
+    
+    (B)  a tank:
+            
+215
+
+    
+    (I)  exempt from regulation under 40 C.F.R., Part 280, Subpart (B); and
+            
+216
+
+    
+    (II)  specified in Section 
+
+19-6-415
+
+; and
+            
+217
+
+    
+    [(vi)] (vii)  certification of an underground storage tank consultant including:
+            
+218
+
+    
+    (A)  a minimum education or experience requirement; and
+            
+219
+
+    
+    (B)  a recognition of the educational requirement of a professional engineer licensed
+            
+220
+
+    
+under Title 58, Chapter 22, Professional Engineers and Professional Land Surveyors Licensing
+            
+221
+
+    
+Act, as meeting the education requirement for certification;
+            
+222
+
+    
+    (b)  adopt the requirements for an underground storage tank contained in:
+            
+223
+
+    
+    (i)  the Solid Waste Disposal Act, Subchapter IX, 42 U.S.C. Sec. 6991, et seq., as may
+            
+224
+
+    
+be amended in the future; and
+            
+225
+
+    
+    (ii)  an applicable federal requirement authorized by the federal law referenced in
+            
+226
+
+    
+Subsection (1)(b)(i); and
+            
+227
+
+    
+    (c)  comply with the requirements of the Solid Waste Disposal Act, Subchapter IX, 42
+            
+228
+
+    
+U.S.C. Sec. 6991c, et seq., as may be amended in the future, for the state's assumption of
+            
+229
+
+    
+primacy in the regulation of an underground storage tank; and
+            
+230
+
+    
+    (2)  applying the provisions of this part.
+            
+231
+
+    
+    Section 3.  
+Section  
+19-6-405.3
+
+ is amended to read:
+            
+232
+
+    
+     19-6-405.3.  Creation of Petroleum Storage Tank Loan Fund -- Purposes -- Loan
+            
+233
+
+    
+ eligibility -- Loan restrictions -- Rulemaking.
+            
+234
+
+    
+    (1)  There is created a revolving loan fund known as the Petroleum Storage Tank Loan
+            
+235
+
+    
+Fund.
+            
+236
+
+    
+    (2)  The sources of money for the loan fund are:
+            
+237
+
+    
+    (a)  appropriations to the loan fund;
+            
+238
+
+    
+    (b)  principal and interest received from the repayment of loans made by the executive
+            
+239
+
+    
+secretary under Subsection (3); and
+            
+240
+
+    
+    (c)  all investment income derived from money in the fund.
+            
+241
+
+    
+    (3)  The executive secretary may loan, in accordance with this section, money available
+            
+242
+
+    
+in the loan fund to a person to be used for:
+            
+243
+
+    
+    (a)  upgrading a petroleum storage tank;
+            
+244
+
+    
+    (b)  replacing an underground storage tank; or
+
+            
+245
+
+
+    
+    (c)  permanently closing an underground storage tank.
+            
+246
+
+    
+    (4)  A person may apply to the executive secretary for a loan under Subsection (3) if all
+            
+247
+
+    
+tanks owned or operated by that person are in substantial compliance with all state and federal
+            
+248
+
+    
+requirements or will be brought into substantial compliance using money from the loan fund.
+            
+249
+
+    
+    (5)  The executive secretary shall consider loan applications under Subsection (4) to
+            
+250
+
+    
+meet the following objectives:
+            
+251
+
+    
+    (a)  support availability of gasoline in rural parts of the state;
+            
+252
+
+    
+    (b)  support small businesses; and
+            
+253
+
+    
+    (c)  reduce the threat of a petroleum release endangering the environment.
+            
+254
+
+    
+    (6) (a)  [Loans] A loan made under this section may not be for more than:
+            
+255
+
+    
+    [(a)  be for more than] (i)  $150,000 for all tanks at any one facility;
+            
+256
+
+    
+    [(b)  be for more than] (ii)  $50,000 per tank; and
+            
+257
+
+    
+    [(c)  be for more than] (iii)  80% of the total cost of:
+            
+258
+
+    
+    [(i)] (A)  upgrading a tank;
+            
+259
+
+    
+    [(ii)] (B)  replacing the underground storage tank; or
+            
+260
+
+    
+    [(iii)] (C)  permanently closing the underground storage tank[;].
+            
+261
+
+    
+    (b)  A loan made under this section shall:
+            
+262
+
+    
+    [(d)] (i)  have a fixed annual interest rate of 3%;
+            
+263
+
+    
+    [(e)] (ii)  have a term no longer than 10 years;
+            
+264
+
+    
+    [(f)] (iii)  be made on the condition the loan applicant obtains adequate security for the
+            
+265
+
+    
+loan as established by board rule under Subsection (7); and
+            
+266
+
+    
+    [(g)] (iv)  comply with rules made by the board under Subsection (7) .
+            
+267
+
+    
+    (7)   In accordance with Title 63G, Chapter 3, Utah Administrative Rulemaking Act, the
+            
+268
+
+    
+board shall make rules establishing:
+            
+269
+
+    
+    (a)  form, content, and procedure for a loan application;
+            
+270
+
+    
+     (b)  criteria and procedures for prioritizing a loan application;
+            
+271
+
+    
+    (c)  requirements and procedures for securing a loan;
+            
+272
+
+    
+    (d)  procedures for making a loan;
+            
+273
+
+    
+    (e)  procedures for administering and ensuring repayment of a loan, including late
+            
+274
+
+    
+payment penalties; and
+            
+275
+
+    
+    (f) procedures for recovering on a defaulted loan.
+
+            
+276
+
+
+    
+    (8)  A decision by the executive secretary to loan money from the loan fund and
+            
+277
+
+    
+otherwise administer the loan fund is not subject to Title 63G, Chapter 4, Administrative
+            
+278
+
+    
+Procedures Act.
+            
+279
+
+    
+    (9)  The Legislature shall appropriate money from the loan fund to the department for
+            
+280
+
+    
+the administration of the loan fund.
+            
+281
+
+    
+    (10)   The executive secretary may enter into an agreement with a public entity or
+            
+282
+
+    
+private organization to perform a task associated with administration of the loan fund.
+            
+283
+
+    
+    Section 4.  
+Section  
+19-6-411
+
+ is amended to read:
+            
+284
+
+    
+     19-6-411.  Petroleum storage tank fee for program participants.
+            
+285
+
+    
+    (1)  In addition to the underground storage tank registration fee paid in Section
+            
+286
+
+    
+
+19-6-408
+
+, the owner or operator of a petroleum storage tank who elects to participate in the
+            
+287
+
+    
+environmental assurance program under Section 
+
+19-6-410.5
+
+ shall also pay an annual petroleum
+            
+288
+
+    
+storage tank fee to the department for each facility as follows:
+            
+289
+
+    
+    [(a)  on and after July 1, 1990, through June 30, 1993, an annual fee of:]
+            
+290
+
+    
+    [(i)  $250 for each tank:]
+            
+291
+
+    
+    [(A)  located at a facility engaged in petroleum production, refining, or marketing; or]
+            
+292
+
+    
+    [(B)  with an annual monthly throughput of more than 10,000 gallons; and]
+            
+293
+
+    
+    [(ii)  $125 for each tank:]
+            
+294
+
+    
+    [(A)  not located at a facility engaged in petroleum production, refining, or marketing;
+            
+295
+
+    
+and]
+            
+296
+
+    
+    [(B)  with an annual monthly throughput of 10,000 gallons or less;]
+            
+297
+
+    
+    [(b)  on and after July 1, 1993, through June 30, 1994, an annual fee of:]
+            
+298
+
+    
+    [(i)  $150 for each tank:]
+            
+299
+
+    
+    [(A)  located at a facility engaged in petroleum production, refining, or marketing; or]
+            
+300
+
+    
+    [(B)  with an average monthly throughput of more than 10,000 gallons; and]
+            
+301
+
+    
+    [(ii)  $75 for each tank:]
+            
+302
+
+    
+    [(A)  not located at a facility engaged in petroleum production, refining, or marketing;
+            
+303
+
+    
+and]
+            
+304
+
+    
+    [(B)  with an average monthly throughput of 10,000 gallons or less; and]
+            
+305
+
+    
+    [(c)] (a)  [on and after July 1, 1994,] an annual fee of:
+            
+306
+
+    
+    (i)  $50 for each tank in a facility with an annual facility throughput rate of 400,000
+
+            
+307
+
+
+    
+gallons or less;
+            
+308
+
+    
+    (ii)  $150 for each tank in a facility with an annual facility throughput rate of more than
+            
+309
+
+    
+400,000 gallons; and
+            
+310
+
+    
+    (iii)  $150 for each tank in a facility regarding which:
+            
+311
+
+    
+    (A)  the facility's throughput rate is not reported to the department within 30 days after
+            
+312
+
+    
+the date this throughput information is requested by the department; or
+            
+313
+
+    
+    (B)  the owner or operator elects to pay the fee under this [subsection] Subsection
+            
+314
+
+    
+(1)(a)(iii), rather than report under Subsection (1)[(c)](a)(i) or (ii); and
+            
+315
+
+    
+    [(d)] (b)  [on and after July 1, 1998,] for any new tank:
+            
+316
+
+    
+    (i)  which is installed to replace an existing tank at an existing facility, any annual
+            
+317
+
+    
+petroleum storage tank fee paid for the current fiscal year for the existing tank is applicable to
+            
+318
+
+    
+the new tank; and
+            
+319
+
+    
+    (ii)  installed at a new facility or at an existing facility, which is not a replacement for
+            
+320
+
+    
+another existing tank, the fees are as provided in Subsection (1)[(c)](a) of this section.
+            
+321
+
+    
+    (2) (a)  As a condition of receiving a permit and being eligible for benefits under
+            
+322
+
+    
+Section 
+
+19-6-419
+
+ from the Petroleum Storage Tank Trust Fund, each underground storage tank
+            
+323
+
+    
+installation company shall pay to the department the following fees to be deposited in the fund:
+            
+324
+
+    
+    (i)  an annual fee of:
+            
+325
+
+    
+    (A)  $2,000 per underground storage tank installation company if the installation
+            
+326
+
+    
+company has installed 15 or fewer underground storage tanks within the 12 months preceding
+            
+327
+
+    
+the fee due date; or
+            
+328
+
+    
+    (B)  $4,000 per underground storage tank installation company if the installation
+            
+329
+
+    
+company has installed 16 or more underground storage tanks within the 12 months preceding
+            
+330
+
+    
+the fee due date; and
+            
+331
+
+    
+    (ii)  $200 for each underground storage tank installed in the state, to be paid prior to
+            
+332
+
+    
+completion of installation.
+            
+333
+
+    
+    (b)  The board shall make rules specifying which portions of an underground storage
+            
+334
+
+    
+tank installation shall be subject to the permitting fees when less than a full underground
+            
+335
+
+    
+storage tank system is installed.
+            
+336
+
+    
+    (3) (a)  Fees under Subsection (1) are due on or before July 1 annually.
+            
+337
+
+    
+    (b)  If the department does not receive the fee on or before July 1, the department shall
+
+            
+338
+
+
+    
+impose a late penalty of $60 per facility.
+            
+339
+
+    
+    (c) (i)  The fee and the late penalty accrue interest at 12% per annum.
+            
+340
+
+    
+    (ii)  If the fee, the late penalty, and all accrued interest are not received by the
+            
+341
+
+    
+department within 60 days after July 1, the eligibility of the owner or operator to receive
+            
+342
+
+    
+payments for claims against the fund lapses on the 61st day after July 1.
+            
+343
+
+    
+    (iii)  In order for the owner or operator to reinstate eligibility to receive payments for
+            
+344
+
+    
+claims against the fund, the owner or operator shall meet the requirements of Subsection
+            
+345
+
+    
+
+19-6-428
+
+(3).
+            
+346
+
+    
+    (4) (a) (i)  Fees under Subsection (2)(a)(i) are due on or before July 1 annually.  If the
+            
+347
+
+    
+department does not receive the fees on or before July 1, the department shall impose a late
+            
+348
+
+    
+penalty of $60 per installation company.  The fee and the late penalty accrue interest at 12% per
+            
+349
+
+    
+annum.
+            
+350
+
+    
+    (ii)  If the fee, late penalty, and all accrued interest due are not received by the
+            
+351
+
+    
+department within 60 days after July 1, the underground storage tank installation company's
+            
+352
+
+    
+permit and eligibility to receive payments for claims against the fund lapse on the 61st day after
+            
+353
+
+    
+July 1.
+            
+354
+
+    
+    (b) (i)  Fees under Subsection (2)(a)(ii) are due prior to completion of installation.  If
+            
+355
+
+    
+the department does not receive the fees prior to completion of installation, the department
+            
+356
+
+    
+shall impose a late penalty of $60 per facility.  The fee and the late penalty accrue interest at
+            
+357
+
+    
+12% per annum.
+            
+358
+
+    
+    (ii)  If the fee, late penalty, and all accrued interest are not received by the department
+            
+359
+
+    
+within 60 days after the underground storage tank installation is completed, eligibility to
+            
+360
+
+    
+receive payments for claims against the fund for that tank lapse on the 61st day after the tank
+            
+361
+
+    
+installation is completed.
+            
+362
+
+    
+    (c)  The executive secretary may not reissue the underground storage tank installation
+            
+363
+
+    
+company permit until the fee, late penalty, and all accrued interest are received by the
+            
+364
+
+    
+department.
+            
+365
+
+    
+    (5)  If the state risk manager determines the fees established in Subsections (1) and (2)
+            
+366
+
+    
+and the environmental assurance fee established in Section 
+
+19-6-410.5
+
+ are insufficient to
+            
+367
+
+    
+maintain the fund on an actuarially sound basis, he shall petition the Legislature to increase the
+            
+368
+
+    
+petroleum storage tank and underground storage tank installation company permit fees, and the
+
+            
+369
+
+
+    
+environmental assurance fee to a level that will sustain the fund on an actuarially sound basis.
+            
+370
+
+    
+    (6)  The executive secretary may waive all or part of the fees required to be paid on or
+            
+371
+
+    
+before May 5, 1997, for a petroleum storage tank under this section if no fuel has been
+            
+372
+
+    
+dispensed from the tank on or after July 1, 1991.
+            
+373
+
+    
+    (7) (a)  [Each] The executive secretary shall issue a certificate of compliance to the
+            
+374
+
+    
+owner or operator of a petroleum storage tank or underground storage tank, for which payment
+            
+375
+
+    
+of fees has been made and other requirements have been met to qualify for a certificate of
+            
+376
+
+    
+compliance under this part[, shall be issued a form of identification, as determined by the board
+            
+377
+
+    
+under Subsection (7)(b)].
+            
+378
+
+    
+    (b)  The board shall make rules providing for the identification, through a tag or other
+            
+379
+
+    
+readily identifiable method, of a petroleum storage [tanks] tank or underground storage [tanks]
+            
+380
+
+    
+tank under Subsection (7)(a) that does not qualify for a certificate of compliance under this
+            
+381
+
+    
+part.
+
+
+
+
+ Legislative Review Note
+    as of   2-6-12  10:34 AM
+
+ Office of Legislative Research and General Counsel
+[Bill Documents][Bills Directory]
+
+
+
+
+
+
+
+
+
+Who represents me?
+
+
+
+
+
+Remember my Legislators
+
+
+
+
+
+State Senate
+		350 North State, Suite 320
+		PO Box 145115
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1035
+		Fax: (801) 326-1475
+
+
+
+House of Representatives
+		350 North State, Suite 350
+		PO Box 145030
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1029
+		Fax: (801) 326-1544
+
+
+
+
+
+
+
+
+
+
+Home
+Mobile Site
+Site Map
+Calendar
+Code / Constitution
+House
+Senate
+
+Terms of Use/Privacy Policy
+
+ADA
+Utah.gov
+
+
+
+
+
+
+

@@ -1,0 +1,3400 @@
+Sponsors: []Modifications:     31A-44-101.This chapter is known as the "Pharmacy Benefit Manager Act."    31A-44-102.For purposes of this chapter:(1)  "Contracted pharmacy" or "pharmacy" means a pharmacy, as defined in Section
+
+58-17b-102
+
+
+, participating in the network of a pharmacy benefit manager through a directcontract or through a contract with a pharmacy services administration organization or grouppurchasing organization.(2)  "Dispense" or "dispensed" is as defined in Section 
+
+58-17b-102
+
+
+.(3)  "Drug" is as defined in Section 
+
+58-37-2
+
+
+.(4)  "Generic exclusivity period" means the period designated by the Food and DrugAdministration following a successful challenge of an existing patent for an innovator drugduring which a subsequent manufacturer of a pharmaceutically and therapeutically equivalentversion of the innovator drug may market the pharmaceutically and therapeutically equivalentversion without competition from other multiple source drug manufacturers.(5)  "Maximum allowable cost" means:(a)  a maximum reimbursement amount for a group of pharmaceutically andtherapeutically equivalent multiple source drugs that are listed in the most recent edition of theApproved Drug Products with Therapeutic Equivalence Evaluations published by the Food andDrug Administration and for which there are no less than three nationally available equivalentdrug products; or(b)  any similar reimbursement amount that is used by a pharmacy benefit manager toreimburse pharmacies for multiple source drugs.(6)  "Multiple source drug" means a drug for which there are three or more drugproducts that are:(a)  rated by the Food and Drug Administration as therapeutically equivalent orbioequivalent;(b)  determined by the Food and Drug Administration to be pharmaceutically equivalentor bioequivalent; and(c)  sold or marketed in the United States during the same calendar quarter.(7)  "Nationally available" means a product that is available for purchase in packagesizes commonly purchased by retail pharmacies or chain-operated warehouses in sufficientsupply from national pharmaceutical wholesalers and is not obsolete or temporarilyunavailable.(8)  "Obsolete" means a product that may be listed in national drug pricing compendiabut is no longer actively marketed by the product manufacturer or labeler.(9)  "Pharmacy benefit manager" means a person or entity that provides pharmacybenefit management services on behalf of a self-insured employer, insurance company, healthmaintenance organization, or other plan sponsor as defined by administrative rule adopted bythe commissioner.(10)  "Pharmacy benefit manager service" means any of the following services providedto a health benefit plan, or to a participant of the health benefit plan:(a)  negotiating the amount to be paid by a health benefit plan for a prescription drug; or(b)  administering or managing prescription drug benefits provided by the health benefitplan for the benefit of a participant of the health benefit plan, including:(i)  mail service pharmacy;(ii)  specialty pharmacy;(iii)  claims processing;(iv)  payment of a claim;(v)  retail network management;(vi)  clinical formulary development;(vii)  clinical formulary management services;(viii)  rebate contracting;(ix)  rebate administration;(x)  a participant compliance program;(xi)  a therapeutic intervention program;(xii)  a disease management program; or(xiii)  a service that is similar to, or related to, a service described in Subsection (10)(a)or Subsections (10)(b)(i) through (xii).(11)  "Prescription" is as defined in Section 
+
+58-37-2
+
+
+.(12)  "Prescription drug" means a drug that is provided by prescription.(13)  "Temporarily unavailable" means a product that is experiencing short-term supplyinterruptions, and only an inconsistent or intermittent supply is available in the current market.    31A-44-201.(1)  A person may not perform, offer to perform, or advertise any service as a pharmacybenefit manager in Utah without a valid license as a pharmacy benefit manager.(2)  A person may not utilize the services of another person as a pharmacy benefitmanager if the person knows or has reason to know that the other person does not have alicense as required under Subsection (1).    31A-44-202.(1)  To obtain a license as a pharmacy benefit manager, a person shall:(a)  make an application for a license to the commissioner on forms and in a mannerestablished by the commissioner, by rule, made in accordance with Title 63G, Chapter 3, UtahAdministrative Rulemaking Act; and(b)  pay a nonrefundable application fee.(2)  The application described in Subsection (1)(a) shall:(a)  state the applicant's:(i)  name;(ii)  address;(iii)  Social Security number or federal employer identification number; and(iv)  personal history, experience, education, and business record;(b)  if the applicant is a natural person, state whether the applicant is 18 years of age orolder;(c)  state whether the applicant has committed an act that is a ground for denial,suspension, or revocation described in Section 
+
+31A-44-301
+
+
+; and(d)  include any other information required by rule.(3)  The commissioner may require the applicant to submit documentation that isreasonably necessary to verify the information contained in the application.(4)  An applicant's Social Security number contained in an application filed under thissection is a private record under Section 
+
+63G-2-302
+
+
+.    31A-44-203.(1)  The commissioner shall issue a license to act as a pharmacy benefit manager to aperson who:(a)  satisfies the character requirements described in Section 
+
+31A-44-204
+
+
+;(b)  has not committed an act that is a ground for denial, suspension, or revocationunder Section 
+
+31A-44-301
+
+
+;(c)  if a nonresident, complies with Section 
+
+31A-44-205
+
+
+; and(d)  pays the applicable fees under Sections 
+
+31A-3-103
+
+
+ and 
+
+31A-44-202
+
+
+.(2)  A person who is a licensed pharmacy benefit manager or who is an applicant for apharmacy benefit manager license shall, in accordance with Subsection (3), provide a report tothe commissioner of:(a)  any administrative action taken against the person:(i)  in another jurisdiction; or(ii)  by another regulatory agency in this state; and(b)  any criminal prosecution brought against the person in any jurisdiction.(3)  A person who is required to file a report described in Subsection (2) shall:(a)  file the report:(i)  at the time the person applies for a pharmacy benefit manager license; and(ii)  if an administrative action or prosecution described in Subsection (2) occurs afterthe person applies for a pharmacy benefit manager license:(A)  for an administrative action, within 30 days after the day on which the finaldisposition of the administrative action occurs; or(B)  for a criminal prosecution, within 30 days after the day on which the initialappearance before a court occurs; and(b)  include a copy of the complaint and other legal documents relating to the initiationor disposition of the action or prosecution described in Subsection (2).(4) (a)  The department may require a person who applies for a pharmacy benefitmanager license to submit to a criminal background check as a condition of receiving a license.(b)  A person, if required to submit to a criminal background check under Subsection(4)(a), shall:(i)  submit a fingerprint card in a form acceptable to the department; and(ii)  consent to a fingerprint background check by:(A)  the Utah Bureau of Criminal Identification; and(B)  the Federal Bureau of Investigation.(c)  The department may request the following relating to a person who submits to acriminal background check under this Subsection (4):(i)  criminal background information maintained pursuant to Title 53, Chapter 10, Part2, Bureau of Criminal Identification, from the Bureau of Criminal Identification; and(ii)  complete Federal Bureau of Investigation criminal background checks through thenational criminal history system.(d)  Information obtained by the department from the review of criminal history recordsreceived under this Subsection (4) shall be used by the department for the purposes of:(i)  determining if a person satisfies the character requirements described in Section
+
+31A-44-204
+
+
+ for issuance or renewal of a license;(ii)  determining if a person has failed to maintain the character requirements describedin Section 
+
+31A-44-204
+
+
+; and(iii)  preventing a person who violates the federal Violent Crime Control and LawEnforcement Act of 1994, 18 U.S.C. Sec. 1033, from providing pharmacy benefit managementservices in the state.(e)  If the commissioner requests the criminal background information described in thisSubsection (4), the commissioner shall:(i)  pay to the Department of Public Safety the costs incurred by the Department ofPublic Safety in providing the commissioner criminal background information described inSubsection (4)(c)(i);(ii)  pay to the Federal Bureau of Investigation the costs incurred by the Federal Bureauof Investigation in providing the department criminal background information described inSubsection (4)(c)(ii); and(iii)  charge the person applying for a license, or for consent to provide pharmacybenefit management services in the state, a fee equal to the aggregate of Subsections (4)(e)(i)and (ii).(5)  The commissioner may deny a license application to act as a licensed pharmacybenefit manager to a person who:(a)  fails to satisfy the requirements of this section; or(b)  commits an act that is a ground for denial, suspension, or revocation described inSection 
+
+31A-44-301
+
+
+.    31A-44-204.An applicant for a license under this chapter shall demonstrate to the commissionerthat:(1)  the applicant has the good faith intent to engage in business as a pharmacy benefitmanager; and(2) (a)  if the applicant is a natural person, the applicant is:(i)  competent and trustworthy; and(ii)  at least 18 years old; or(b)  if the applicant is an entity, the entity and all partners, directors, principal officers,or persons having comparable power over the entity are trustworthy.    31A-44-205.(1)  The commissioner shall waive any license requirement for a license under thischapter and issue a nonresident pharmacy benefit manager license to a person who is anonresident pharmacy benefit manager, if:(a)  the person has a valid license from the person's home state;(b)  the person applies for a nonresident pharmacy benefit manager license;(c)  the person submits to the commissioner a copy of the application for a pharmacybenefit manager license that the nonresident license applicant submitted to the applicant's homestate;(d)  the person pays the applicable fees under Sections 
+
+31A-3-103
+
+
+ and 
+
+31A-44-202
+
+
+;(e)  the nonresident license applicant's license in the applicant's home state is in goodstanding; and(f)  the nonresident license applicant's home state awards nonresident pharmacy benefitmanager licenses to residents of this state on the same basis as this state awards licenses toresidents of that home state.(2)  A nonresident applicant shall execute, in a form acceptable to the commissioner, anagreement to be subject to the jurisdiction of the Utah commissioner and courts on any matterrelated to the applicant's pharmacy benefit manager activities and insurance activities in Utah,on the basis of:(a)  service of process under Sections 
+
+31A-2-309
+
+
+ and 
+
+31A-2-310
+
+
+; or(b)  other service authorized in the Utah Rules of Civil Procedure.(3)  The commissioner may verify the pharmacy benefit manager's licensing statusthrough any applicable database.(4)  The commissioner may not assess a greater fee for an insurance license or relatedservice to a person not residing in this state based solely on the fact that the person does notreside in this state.    31A-44-206.(1)  A license issued under this chapter shall be in a form prescribed by thecommissioner and shall include:(a)  the name, address, and telephone number of the licensee;(b)  the date of license issuance; and(c)  any other information the commissioner considers advisable.(2)  A pharmacy benefit manager doing business under any name other than thepharmacy benefit manager's legal name shall notify the commissioner before using the assumedname in this state.(3) (a)  An organization shall be licensed as an agency if the organization acts as apharmacy benefit manager.(b)  An agency license issued under Subsection (3)(a) shall include the names of eachnatural person licensed under this chapter who is authorized to act as a pharmacy benefitmanager for, or on behalf of, the organization in this state.    31A-44-301.(1)  A license issued under this chapter remains in force until:(a)  revoked or suspended under Subsection (4) or Section 
+
+31A-4-302
+
+
+;(b)  surrendered to the commissioner and accepted by the commissioner in lieu ofadministrative action;(c)  the licensee dies or is adjudicated incompetent as defined under:(i)  Title 75, Chapter 5, Part 3, Guardians of Incapacitated Persons; or(ii)  Title 75, Chapter 5, Part 4, Protection of Property of Persons Under Disability andMinors;(d)  lapsed under Section 
+
+31A-44-303
+
+
+; or(e)  voluntarily surrendered.(2)  The following may be reinstated within one year after the day on which the licenseis no longer in force:(a)  a lapsed license; or(b)  a voluntarily surrendered license, except that a voluntarily surrendered license maynot be reinstated after the license period in which the license is voluntarily surrendered.(3)  Unless otherwise stated in the written agreement for the voluntary surrender of alicense, submission and acceptance of a voluntary surrender of a license does not prevent thedepartment from pursuing additional disciplinary or other action authorized under:(a)  this title; or(b)  rules made under this title in accordance with Title 63G, Chapter 3, UtahAdministrative Rulemaking Act.(4) (a)  If the commissioner makes a finding under Subsection (4)(b), as part of anadjudicative proceeding under Title 63G, Chapter 4, Administrative Procedures Act, thecommissioner may, with respect to the license or license application to which the findingrelates:(i)  revoke the license;(ii)  suspend the license for a specified period of 12 months or less;(iii)  limit the license in whole or in part; or(iv)  deny the license application.(b)  The commissioner may take an action described in Subsection (4)(a) if thecommissioner finds that the licensee or applicant:(i)  is unqualified for a license under Section 
+
+31A-44-202
+
+
+, 
+
+31A-44-203
+
+
+, or 
+
+31A-44-204
+
+
+;(ii)  has violated:(A)  an insurance statute, including a statute in this chapter;(B)  a rule that is valid under Subsection 
+
+31A-2-201
+
+
+(3); or(C)  an order that is valid under Subsection 
+
+31A-2-201
+
+
+(4);(iii)  is insolvent or the subject of receivership, conservatorship, rehabilitation, or otherdelinquency proceedings in any state;(iv)  fails to pay a final judgment rendered against the person in this state within 60days after the day on which the judgment becomes final;(v)  is an affiliate of, or under the same general management or interlocking directorateor ownership as, another pharmacy benefit manager that transacts business in this state withouta license;(vi)  refuses:(A)  to be examined; or(B)  to produce its accounts, records, and files for examination;(vii)  has an officer who refuses to:(A)  give information with respect to the pharmacy benefit manager's affairs; or(B)  perform any other legal obligation as to an examination;(viii)  provides information in a license application that is:(A)  incorrect;(B)  misleading;(C)  incomplete; or(D)  materially untrue;(ix)  has violated an insurance law, valid rule, or valid order of the insurancedepartment of another state, district, or territory of the United States;(x)  has violated a law, rule, or order of another state, province, district, or territory ofthe United States that relates to regulation of a pharmacy benefit manager;(xi)  has obtained or attempted to obtain a license through misrepresentation or fraud;(xii)  has improperly withheld, misappropriated, or converted money or propertiesreceived in the course of doing business as a pharmacy benefit manager;(xiii)  has intentionally misrepresented the terms of an actual or proposed contract;(xiv)  has been convicted of a felony;(xv)  has admitted, or been found to have committed, an insurance unfair trade practiceor fraud;(xvi)  in the conduct of business in this state or elsewhere has:(A)  used fraudulent, coercive, or dishonest practices; or(B)  demonstrated incompetence, untrustworthiness, or financial irresponsibility;(xvii)  has had an insurance license, a pharmacy benefit manager license, or theirequivalent, denied, suspended, or revoked in any other state, province, district, or territory ofthe United States;(xviii)  has forged another's name to a document relating to the provision of a pharmacybenefit management service;(xix)  has improperly used notes or any other reference material to complete anexamination for a license;(xx)  has knowingly accepted a pharmacy benefit management service from anindividual who is not licensed;(xxi)  has failed to comply with an administrative or court order imposing a childsupport obligation;(xxii)  has failed to:(A)  pay state income tax; or(B)  comply with an administrative or court order directing payment of state incometax;(xxiii)  has violated or permitted others to violate the federal Violent Crime Control andLaw Enforcement Act of 1994, 18 U.S.C. Sec. 1033; or(xxiv)  has engaged in methods and practices in the conduct of business that endangerthe legitimate interests of customers and the public.(c)  For purposes of this section, if a license is held by an agency, both the agency itselfand any individual designated under the license are considered to be the holders of the agencylicense.(d)  If an individual designated under the agency license commits an act or fails toperform a duty that is a ground for suspending, revoking, or limiting the individual's license,the commissioner may suspend, revoke, or limit the license of:(i)  the individual;(ii)  the agency, if the agency:(A)  is reckless or negligent in the agency's supervision of the individual; or(B)  knowingly participated in the act or failure to act that is the grounds forsuspending, revoking, or limiting the license; or(iii) (A)  the individual; and(B)  the agency, if the agency meets the requirements of Subsection (4)(d)(ii).(5)  A licensee under this chapter is subject to the penalties for acting as a licenseewithout a license if:(a)  the licensee's license is:(i)  revoked;(ii)  suspended;(iii)  limited;(iv)  surrendered in lieu of administrative action;(v)  lapsed; or(vi)  voluntarily surrendered; and(b)  the licensee:(i)  continues to act as a licensee; or(ii)  violates the terms of the license limitation.(6)  A licensee under this chapter shall immediately report to the commissioner:(a)  any revocation, suspension, or limitation of the person's license in any other state,province, district, or territory of the United States;(b)  the imposition of a disciplinary sanction imposed on that person by any other state,province, district, or territory of the United States; or(c)  a judgment or injunction entered against the person on the basis of conductinvolving:(i)  fraud;(ii)  deceit;(iii)  misrepresentation; or(iv)  a violation of an insurance or pharmacy benefit manager law or rule.(7) (a)  An order revoking a license under Subsection (4) or an agreement to surrender alicense in lieu of administrative action may specify a time, not to exceed five years, withinwhich the former licensee may not apply for a new license.(b)  If no time is specified in the order or agreement described in Subsection (7)(a), theformer licensee may not apply for a new license for five years from the day on which the orderor agreement is made without the express written approval of the commissioner.(8)  The commissioner shall promptly withhold, suspend, restrict, or reinstate the use ofa license issued under this part if so ordered by the court.(9)  The commissioner shall, by rule, prescribe the license renewal and reinstatementprocedures in accordance with Title 63G, Chapter 3, Utah Administrative Rulemaking Act.    31A-44-302.(1)  The commissioner may place a licensee on probation for a period not to exceed 24months as follows:(a)  after an adjudicative proceeding under Title 63G, Chapter 4, AdministrativeProcedures Act, for any circumstances that would justify a suspension under Section
+
+31A-44-301
+
+
+; or(b)  at the issuance of a new license:(i)  with an admitted violation under 18 U.S.C. Sec. 1033; or(ii)  with a response to a background information question on a new license applicationindicating that:(A)  the person has been convicted of a crime that is listed by rule made in accordancewith Title 63G, Chapter 3, Utah Administrative Rulemaking Act, as a crime that is grounds forprobation;(B)  the person is currently charged with a crime that is listed by rule made inaccordance with Title 63G, Chapter 3, Utah Administrative Rulemaking Act, as a crime that isgrounds for probation, regardless of whether adjudication is withheld;(C)  the person has been involved in an administrative proceeding regarding anyprofessional or occupational license; or(D)  any business in which the person is or was an owner, partner, officer, or directorhas been involved in an administrative proceeding regarding any professional or occupationallicense.(2)  The commissioner may place a licensee on probation for a specified period nolonger than 24 months if the licensee has admitted to a violation under 18 U.S.C. Sec. 1033.(3)  A probation order under this section shall state the conditions for retention of thelicense, which shall be reasonable.(4)  A violation of the probation is grounds for revocation pursuant to any proceedingauthorized under Title 63G, Chapter 4, Administrative Procedures Act.    31A-44-303.(1)  A license issued under this chapter shall lapse if the licensee fails to:(a)  timely pay a fee under Sections 
+
+31A-3-103
+
+
+ and 
+
+31A-44-202
+
+
+;(b)  submit a completed renewal application as required by Section 
+
+31A-44-202
+
+
+; and(c)  maintain an active license in a resident state if the licensee is a nonresident licensee.(2)  A licensee whose license lapses due to the following may request an actiondescribed in Subsection (3):(a)  military service;(b)  voluntary service for a period of time designated by the person for whom thelicensee provides voluntary service; or(c)  other extenuating circumstances, such as long-term medical disability.(3)  A licensee described in Subsection (2) may request:(a)  reinstatement of the license no later than one year after the day on which the licenselapses; and(b)  waiver of any of the following imposed for failure to comply with renewalprocedures:(i)  an examination requirement;(ii)  reinstatement fees set under Section 
+
+31A-3-103
+
+
+; or(iii)  other sanctions imposed for failure to comply with renewal procedures.(4)  If a license issued under this chapter is voluntarily surrendered, the license may bereinstated:(a)  during the license period in which the license is voluntarily surrendered; and(b)  no later than one year after the day on which the license is voluntarily surrendered.    31A-44-401.(1)  Prior to the expiration of any generic exclusivity period, a pharmacy benefitmanager shall not use maximum allowable cost as a basis for reimbursement to a pharmacy fora multiple source drug.(2)  A pharmacy benefit manager may use maximum allowable cost as a basis forreimbursement to a pharmacy for a drug if:(a)  there are at least three or more therapeutically equivalent multiple source drugs thathave been coded as A rated by the Food and Drug Administration; and(b)  the drugs identified in Subsection (2)(a) are available at a significant costdifference.(3)  The maximum allowable cost shall be determined using comparable and currentdata on drug prices obtained from multiple nationally recognized, comprehensive data sources,including wholesalers, drug file vendors, and pharmaceutical manufacturers for drugs that arenationally available and readily available for purchase by all pharmacies in the state.(4)  For every drug for which the pharmacy benefit manager uses maximum allowablecost to reimburse a contracted pharmacy, the pharmacy benefit manager shall:(a)  include in the contract with the pharmacy:(i)  information identifying the national drug pricing compendia and other data sourcesused to obtain the drug price data; and(ii)  the methodology used to calculate the maximum allowable cost;(b)  notify the contracted pharmacy at least 30 days prior to the initial implementationof a maximum allowable cost for a specific drug;(c)  notify the contracted pharmacy at least 30 days prior to the discontinuation of amaximum allowable cost for a specific drug;(d)  review and make necessary adjustments to the maximum allowable cost, using themost recent data sources identified in Subsection (4)(a)(i), at least once per week, and notifythe contracted pharmacy of all adjustments within three business days of the adjustment;(e)  provide a process for the contracted pharmacy to appeal the maximum allowablecost in accordance with Subsection (5); and(f)  include in the contract with a contracted pharmacy a process to provide a weeklyupdate to the pharmacy product pricing files used to reimburse the pharmacy.(5) (a)  The right to appeal in Subsection (4)(e) shall be:(i)  limited to 60 days following the initial claim adjudication; and(ii)  investigated and resolved by the pharmacy benefit manager within seven businessdays.(b)  If the appeal is denied, the pharmacy benefit manager shall provide the contractedpharmacy the reason for the denial and notify the contracted pharmacy where the drug productmay be purchased at a price at or below the maximum allowable cost.(c)  If the appeal is not denied:(i)  the pharmacy benefit manager shall make a payment adjustment to a pharmacyretroactively to the date of the claim adjudication, if it is determined that the maximumallowable cost has been applied incorrectly; and(ii)  when the change in maximum allowable cost for an adjusted cost rate becomeseffective, all pharmacies in the pharmacy network shall be informed that the adjudicated claimmay be submitted for payment again at the adjusted cost rate.    31A-44-402.A pharmacy benefit manager shall:(1)  have a written agreement with each health benefit plan to which the pharmacybenefit manager provides a pharmacy benefit management service; and(2)  comply with the audit provisions of Section 
+
+58-17b-622
+
+
+.    31A-44-403.The commissioner shall establish and impose a fee on a pharmacy benefit manager topay the costs of administering this chapter.  The fee imposed under this section shall be adedicated credit, as defined in Section 
+
+51-5-3
+
+
+, to the department to pay for the cost ofadministering this chapter.    31A-44-404.(1)  A pharmacy benefit manager that is found by the commissioner, after a hearingconducted in accordance with Title 63G, Chapter 4, Administrative Procedures Act, to be inviolation of any provisions of this title, shall:(a)  for each separate violation, pay a civil penalty in an amount designated by thecommissioner by rule; and(b)  be subject to revocation or suspension of the pharmacy benefit manager's license.(2)  The penalties imposed under this section shall be a dedicated credit, as defined inSection 
+
+51-5-3
+
+
+, to the department to pay for the cost of administering this chapter and the costof market conduct reviews conducted by the department.(3)  Nothing in this section affects the right of the commissioner to impose any otherpenalties provided in this title.    31A-44-405.The commissioner may adopt administrative rules in accordance with Title 63G,Chapter 3, Utah Administrative Rulemaking Act, to enforce the provisions of this chapter.This bill takes effect on July 1, 2014.Full text:
+
+
+
+Utah State Legislature
+
+
+
+
+
+
+
+
+
+
+
+
+Legislators
+
+By Session (1896-Current)
+Alphabetical (Historical)
+Find by Address/Map
+More
+
+
+Bills
+
+Bills/Bill Requests
+Passed Bills
+2017 Bills
+
+Keyword Search
+Reading Calendars
+Tracking Service
+More
+
+
+Committees
+
+All Committees
+Appropriations
+Commissions
+
+Independent Legislative Ethics Commission
+Interim
+Standing
+Subcommittees
+Task Forces
+Bills In Committees
+
+
+Utah Code / Constitution
+
+
+Title/Chapter/Section
+Keyword Search 
+
+Utah Constitution
+Laws of Utah 1851-ongoing
+Utah Territorial Laws 
+More
+
+
+Senate
+
+Main Page 
+About The Senate 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Extraordinary Sessions 
+Reading Calendars 
+Past Floor Debates 
+Senate Journals 
+
+
+House
+
+Main Page
+About the House 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Reading Calendars 
+Past Floor Debates 
+Journals 
+Conflict of Interest Forms 
+
+
+Legislative Guide 
+
+Legislative Guide
+Civic Programs
+GRAMA (Records Requests)
+
+
+Publications
+
+Search Publications
+Appropriations
+Audits
+Bagels & Briefings
+Briefing Papers
+Digest of Legislation
+Legislative Drafting Manual
+
+Journals
+
+Interim Highlights
+
+Legislative Rules
+GRAMA (Records Requests)
+Public Email
+State Organization Charts
+YouTube Channel
+Requests for Proposals and Legal Notices
+More
+
+
+Legislative Histories
+
+Legislative History Resources
+How to Research
+Bill Drafting/Research Files (1990-Ongoing)
+
+Working Bills (1896-1989)
+Interim Committee Histories (1990-Ongoing) 
+Journals
+Past House Floor Debates
+Past Senate Floor Debates
+More
+
+
+Staff Offices
+
+All Legislative Offices
+Auditor General
+Fiscal Analyst
+Printing
+Research and General Counsel
+Staff Awards
+Job Opportunities
+More
+
+
+Links of Interest
+
+Utah Administrative Rules
+Courts
+Utah State Capitol
+State of Utah
+Federal Legislation
+More
+
+
+
+
+
+
+ 
+
+H.B. 113
+
+
+
+
+
+            
+1
+
+    
+ PHARMACY BENEFIT MANAGER AMENDMENTS
+
+
+
+            
+2
+
+    
+2014 GENERAL SESSION
+
+            
+3
+
+    
+STATE OF UTAH
+
+            
+4
+
+    
+
+
+ Chief Sponsor:  Bradley G. Last
+
+
+
+            
+5
+
+    
+
+
+
+Senate Sponsor:  
+
+
+
+
+
+
+____________
+
+
+
+
+
+            
+6
+
+    
+
+            
+7
+
+    
+ LONG TITLE
+            
+8
+
+    
+ General Description:
+            
+9
+
+    
+    This bill amends the Insurance Code to create a license for pharmacy benefit managers.
+            
+10
+
+    
+ Highlighted Provisions:
+            
+11
+
+    
+    This bill:
+            
+12
+
+    
+    .    establishes the Pharmacy Benefit Manager Act;
+            
+13
+
+    
+    .    defines terms;
+            
+14
+
+    
+    .    requires a license to operate as a pharmacy benefit manager;
+            
+15
+
+    
+    .    establishes:
+            
+16
+
+    
+        .    a license application process; and
+            
+17
+
+    
+        .    general requirements for a license;
+            
+18
+
+    
+    .    provides for license probation, termination, or surrender under certain conditions;
+            
+19
+
+    
+    .    establishes general duties regarding:
+            
+20
+
+    
+        .    maximum allowable cost reimbursement to a contracted pharmacy; and
+            
+21
+
+    
+        .    average reimbursement rates for multisource drugs;
+            
+22
+
+    
+    .    permits the Insurance Department to establish fees to pay the cost of administering
+            
+23
+
+    
+the licensing chapter and designates the fee as a dedicated credit to the department;
+            
+24
+
+    
+    .    authorizes the commissioner of insurance to impose penalties for a violation of the
+            
+25
+
+    
+chapter and designates the penalties as a dedicated credit to the department; and
+            
+26
+
+    
+    .    authorizes administrative rules.
+            
+27
+
+    
+ Money Appropriated in this Bill:
+
+            
+28
+
+
+    
+    None
+            
+29
+
+    
+ Other Special Clauses:
+            
+30
+
+    
+    This bill takes effect on July 1, 2014.
+            
+31
+
+    
+ Utah Code Sections Affected:
+            
+32
+
+    
+ENACTS:
+            
+33
+
+    
+     
+31A-44-101
+, Utah Code Annotated 1953
+            
+34
+
+    
+     
+31A-44-102
+, Utah Code Annotated 1953
+            
+35
+
+    
+     
+31A-44-201
+, Utah Code Annotated 1953
+            
+36
+
+    
+     
+31A-44-202
+, Utah Code Annotated 1953
+            
+37
+
+    
+     
+31A-44-203
+, Utah Code Annotated 1953
+            
+38
+
+    
+     
+31A-44-204
+, Utah Code Annotated 1953
+            
+39
+
+    
+     
+31A-44-205
+, Utah Code Annotated 1953
+            
+40
+
+    
+     
+31A-44-206
+, Utah Code Annotated 1953
+            
+41
+
+    
+     
+31A-44-301
+, Utah Code Annotated 1953
+            
+42
+
+    
+     
+31A-44-302
+, Utah Code Annotated 1953
+            
+43
+
+    
+     
+31A-44-303
+, Utah Code Annotated 1953
+            
+44
+
+    
+     
+31A-44-401
+, Utah Code Annotated 1953
+            
+45
+
+    
+     
+31A-44-402
+, Utah Code Annotated 1953
+            
+46
+
+    
+     
+31A-44-403
+, Utah Code Annotated 1953
+            
+47
+
+    
+     
+31A-44-404
+, Utah Code Annotated 1953
+            
+48
+
+    
+     
+31A-44-405
+, Utah Code Annotated 1953
+            
+49
+
+    
+
+            
+50
+
+    
+Be it enacted by the Legislature of the state of Utah:
+            
+51
+
+    
+    Section 1.  
+Section  
+31A-44-101
+
+ is enacted to read:
+            
+52
+
+    
+ CHAPTER 44.  PHARMACY BENEFIT MANAGER ACT
+
+            
+53
+
+    
+ Part 1.  General Provisions
+
+            
+54
+
+    
+     31A-44-101.  Title.
+            
+55
+
+    
+    This chapter is known as the "Pharmacy Benefit Manager Act."
+            
+56
+
+    
+    Section 2.  
+Section  
+31A-44-102
+
+ is enacted to read:
+            
+57
+
+    
+     31A-44-102.  Definitions.
+            
+58
+
+    
+    For purposes of this chapter:
+
+            
+59
+
+
+    
+    (1)  "Contracted pharmacy" or "pharmacy" means a pharmacy, as defined in Section
+            
+60
+
+    
+
+
+58-17b-102
+
+
+, participating in the network of a pharmacy benefit manager through a direct
+            
+61
+
+    
+contract or through a contract with a pharmacy services administration organization or group
+            
+62
+
+    
+purchasing organization.
+            
+63
+
+    
+    (2)  "Dispense" or "dispensed" is as defined in Section 
+
+58-17b-102
+
+
+.
+            
+64
+
+    
+    (3)  "Drug" is as defined in Section 
+
+58-37-2
+
+
+.
+            
+65
+
+    
+    (4)  "Generic exclusivity period" means the period designated by the Food and Drug
+            
+66
+
+    
+Administration following a successful challenge of an existing patent for an innovator drug
+            
+67
+
+    
+during which a subsequent manufacturer of a pharmaceutically and therapeutically equivalent
+            
+68
+
+    
+version of the innovator drug may market the pharmaceutically and therapeutically equivalent
+            
+69
+
+    
+version without competition from other multiple source drug manufacturers.
+            
+70
+
+    
+    (5)  "Maximum allowable cost" means:
+            
+71
+
+    
+    (a)  a maximum reimbursement amount for a group of pharmaceutically and
+            
+72
+
+    
+therapeutically equivalent multiple source drugs that are listed in the most recent edition of the
+            
+73
+
+    
+Approved Drug Products with Therapeutic Equivalence Evaluations published by the Food and
+            
+74
+
+    
+Drug Administration and for which there are no less than three nationally available equivalent
+            
+75
+
+    
+drug products; or
+            
+76
+
+    
+    (b)  any similar reimbursement amount that is used by a pharmacy benefit manager to
+            
+77
+
+    
+reimburse pharmacies for multiple source drugs.
+            
+78
+
+    
+    (6)  "Multiple source drug" means a drug for which there are three or more drug
+            
+79
+
+    
+products that are:
+            
+80
+
+    
+    (a)  rated by the Food and Drug Administration as therapeutically equivalent or
+            
+81
+
+    
+bioequivalent;
+            
+82
+
+    
+    (b)  determined by the Food and Drug Administration to be pharmaceutically equivalent
+            
+83
+
+    
+or bioequivalent; and
+            
+84
+
+    
+    (c)  sold or marketed in the United States during the same calendar quarter.
+            
+85
+
+    
+    (7)  "Nationally available" means a product that is available for purchase in package
+            
+86
+
+    
+sizes commonly purchased by retail pharmacies or chain-operated warehouses in sufficient
+            
+87
+
+    
+supply from national pharmaceutical wholesalers and is not obsolete or temporarily
+            
+88
+
+    
+unavailable.
+            
+89
+
+    
+    (8)  "Obsolete" means a product that may be listed in national drug pricing compendia
+
+            
+90
+
+
+    
+but is no longer actively marketed by the product manufacturer or labeler.
+            
+91
+
+    
+    (9)  "Pharmacy benefit manager" means a person or entity that provides pharmacy
+            
+92
+
+    
+benefit management services on behalf of a self-insured employer, insurance company, health
+            
+93
+
+    
+maintenance organization, or other plan sponsor as defined by administrative rule adopted by
+            
+94
+
+    
+the commissioner.
+            
+95
+
+    
+    (10)  "Pharmacy benefit manager service" means any of the following services provided
+            
+96
+
+    
+to a health benefit plan, or to a participant of the health benefit plan:
+            
+97
+
+    
+    (a)  negotiating the amount to be paid by a health benefit plan for a prescription drug; or
+            
+98
+
+    
+    (b)  administering or managing prescription drug benefits provided by the health benefit
+            
+99
+
+    
+plan for the benefit of a participant of the health benefit plan, including:
+            
+100
+
+    
+    (i)  mail service pharmacy;
+            
+101
+
+    
+    (ii)  specialty pharmacy;
+            
+102
+
+    
+    (iii)  claims processing;
+            
+103
+
+    
+    (iv)  payment of a claim;
+            
+104
+
+    
+    (v)  retail network management;
+            
+105
+
+    
+    (vi)  clinical formulary development;
+            
+106
+
+    
+    (vii)  clinical formulary management services;
+            
+107
+
+    
+    (viii)  rebate contracting;
+            
+108
+
+    
+    (ix)  rebate administration;
+            
+109
+
+    
+    (x)  a participant compliance program;
+            
+110
+
+    
+    (xi)  a therapeutic intervention program;
+            
+111
+
+    
+    (xii)  a disease management program; or
+            
+112
+
+    
+    (xiii)  a service that is similar to, or related to, a service described in Subsection (10)(a)
+            
+113
+
+    
+or Subsections (10)(b)(i) through (xii).
+            
+114
+
+    
+    (11)  "Prescription" is as defined in Section 
+
+58-37-2
+
+
+.
+            
+115
+
+    
+    (12)  "Prescription drug" means a drug that is provided by prescription.
+            
+116
+
+    
+    (13)  "Temporarily unavailable" means a product that is experiencing short-term supply
+            
+117
+
+    
+interruptions, and only an inconsistent or intermittent supply is available in the current market.
+            
+118
+
+    
+    Section 3.  
+Section  
+31A-44-201
+
+ is enacted to read:
+            
+119
+
+    
+ Part 2.  Licensing
+
+            
+120
+
+    
+     31A-44-201.  License required.
+
+            
+121
+
+
+    
+    (1)  A person may not perform, offer to perform, or advertise any service as a pharmacy
+            
+122
+
+    
+benefit manager in Utah without a valid license as a pharmacy benefit manager.
+            
+123
+
+    
+    (2)  A person may not utilize the services of another person as a pharmacy benefit
+            
+124
+
+    
+manager if the person knows or has reason to know that the other person does not have a
+            
+125
+
+    
+license as required under Subsection (1).
+            
+126
+
+    
+    Section 4.  
+Section  
+31A-44-202
+
+ is enacted to read:
+            
+127
+
+    
+     31A-44-202.  Application for license.
+            
+128
+
+    
+    (1)  To obtain a license as a pharmacy benefit manager, a person shall:
+            
+129
+
+    
+    (a)  make an application for a license to the commissioner on forms and in a manner
+            
+130
+
+    
+established by the commissioner, by rule, made in accordance with Title 63G, Chapter 3, Utah
+            
+131
+
+    
+Administrative Rulemaking Act; and
+            
+132
+
+    
+    (b)  pay a nonrefundable application fee.
+            
+133
+
+    
+    (2)  The application described in Subsection (1)(a) shall:
+            
+134
+
+    
+    (a)  state the applicant's:
+            
+135
+
+    
+    (i)  name;
+            
+136
+
+    
+    (ii)  address;
+            
+137
+
+    
+    (iii)  Social Security number or federal employer identification number; and
+            
+138
+
+    
+    (iv)  personal history, experience, education, and business record;
+            
+139
+
+    
+    (b)  if the applicant is a natural person, state whether the applicant is 18 years of age or
+            
+140
+
+    
+older;
+            
+141
+
+    
+    (c)  state whether the applicant has committed an act that is a ground for denial,
+            
+142
+
+    
+suspension, or revocation described in Section 
+
+31A-44-301
+
+
+; and
+            
+143
+
+    
+    (d)  include any other information required by rule.
+            
+144
+
+    
+    (3)  The commissioner may require the applicant to submit documentation that is
+            
+145
+
+    
+reasonably necessary to verify the information contained in the application.
+            
+146
+
+    
+    (4)  An applicant's Social Security number contained in an application filed under this
+            
+147
+
+    
+section is a private record under Section 
+
+63G-2-302
+
+
+.
+            
+148
+
+    
+    Section 5.  
+Section  
+31A-44-203
+
+ is enacted to read:
+            
+149
+
+    
+     31A-44-203.  General requirements for issuing a license.
+            
+150
+
+    
+    (1)  The commissioner shall issue a license to act as a pharmacy benefit manager to a
+            
+151
+
+    
+person who:
+
+            
+152
+
+
+    
+    (a)  satisfies the character requirements described in Section 
+
+31A-44-204
+
+
+;
+            
+153
+
+    
+    (b)  has not committed an act that is a ground for denial, suspension, or revocation
+            
+154
+
+    
+under Section 
+
+31A-44-301
+
+
+;
+            
+155
+
+    
+    (c)  if a nonresident, complies with Section 
+
+31A-44-205
+
+
+; and
+            
+156
+
+    
+    (d)  pays the applicable fees under Sections 
+
+31A-3-103
+
+
+ and 
+
+31A-44-202
+
+
+.
+            
+157
+
+    
+    (2)  A person who is a licensed pharmacy benefit manager or who is an applicant for a
+            
+158
+
+    
+pharmacy benefit manager license shall, in accordance with Subsection (3), provide a report to
+            
+159
+
+    
+the commissioner of:
+            
+160
+
+    
+    (a)  any administrative action taken against the person:
+            
+161
+
+    
+    (i)  in another jurisdiction; or
+            
+162
+
+    
+    (ii)  by another regulatory agency in this state; and
+            
+163
+
+    
+    (b)  any criminal prosecution brought against the person in any jurisdiction.
+            
+164
+
+    
+    (3)  A person who is required to file a report described in Subsection (2) shall:
+            
+165
+
+    
+    (a)  file the report:
+            
+166
+
+    
+    (i)  at the time the person applies for a pharmacy benefit manager license; and
+            
+167
+
+    
+    (ii)  if an administrative action or prosecution described in Subsection (2) occurs after
+            
+168
+
+    
+the person applies for a pharmacy benefit manager license:
+            
+169
+
+    
+    (A)  for an administrative action, within 30 days after the day on which the final
+            
+170
+
+    
+disposition of the administrative action occurs; or
+            
+171
+
+    
+    (B)  for a criminal prosecution, within 30 days after the day on which the initial
+            
+172
+
+    
+appearance before a court occurs; and
+            
+173
+
+    
+    (b)  include a copy of the complaint and other legal documents relating to the initiation
+            
+174
+
+    
+or disposition of the action or prosecution described in Subsection (2).
+            
+175
+
+    
+    (4) (a)  The department may require a person who applies for a pharmacy benefit
+            
+176
+
+    
+manager license to submit to a criminal background check as a condition of receiving a license.
+            
+177
+
+    
+    (b)  A person, if required to submit to a criminal background check under Subsection
+            
+178
+
+    
+(4)(a), shall:
+            
+179
+
+    
+    (i)  submit a fingerprint card in a form acceptable to the department; and
+            
+180
+
+    
+    (ii)  consent to a fingerprint background check by:
+            
+181
+
+    
+    (A)  the Utah Bureau of Criminal Identification; and
+            
+182
+
+    
+    (B)  the Federal Bureau of Investigation.
+
+            
+183
+
+
+    
+    (c)  The department may request the following relating to a person who submits to a
+            
+184
+
+    
+criminal background check under this Subsection (4):
+            
+185
+
+    
+    (i)  criminal background information maintained pursuant to Title 53, Chapter 10, Part
+            
+186
+
+    
+2, Bureau of Criminal Identification, from the Bureau of Criminal Identification; and
+            
+187
+
+    
+    (ii)  complete Federal Bureau of Investigation criminal background checks through the
+            
+188
+
+    
+national criminal history system.
+            
+189
+
+    
+    (d)  Information obtained by the department from the review of criminal history records
+            
+190
+
+    
+received under this Subsection (4) shall be used by the department for the purposes of:
+            
+191
+
+    
+    (i)  determining if a person satisfies the character requirements described in Section
+            
+192
+
+    
+
+
+31A-44-204
+
+
+ for issuance or renewal of a license;
+            
+193
+
+    
+    (ii)  determining if a person has failed to maintain the character requirements described
+            
+194
+
+    
+in Section 
+
+31A-44-204
+
+
+; and
+            
+195
+
+    
+    (iii)  preventing a person who violates the federal Violent Crime Control and Law
+            
+196
+
+    
+Enforcement Act of 1994, 18 U.S.C. Sec. 1033, from providing pharmacy benefit management
+            
+197
+
+    
+services in the state.
+            
+198
+
+    
+    (e)  If the commissioner requests the criminal background information described in this
+            
+199
+
+    
+Subsection (4), the commissioner shall:
+            
+200
+
+    
+    (i)  pay to the Department of Public Safety the costs incurred by the Department of
+            
+201
+
+    
+Public Safety in providing the commissioner criminal background information described in
+            
+202
+
+    
+Subsection (4)(c)(i);
+            
+203
+
+    
+    (ii)  pay to the Federal Bureau of Investigation the costs incurred by the Federal Bureau
+            
+204
+
+    
+of Investigation in providing the department criminal background information described in
+            
+205
+
+    
+Subsection (4)(c)(ii); and
+            
+206
+
+    
+    (iii)  charge the person applying for a license, or for consent to provide pharmacy
+            
+207
+
+    
+benefit management services in the state, a fee equal to the aggregate of Subsections (4)(e)(i)
+            
+208
+
+    
+and (ii).
+            
+209
+
+    
+    (5)  The commissioner may deny a license application to act as a licensed pharmacy
+            
+210
+
+    
+benefit manager to a person who:
+            
+211
+
+    
+    (a)  fails to satisfy the requirements of this section; or
+            
+212
+
+    
+    (b)  commits an act that is a ground for denial, suspension, or revocation described in
+            
+213
+
+    
+Section 
+
+31A-44-301
+
+
+.
+
+            
+214
+
+
+    
+    Section 6.  
+Section  
+31A-44-204
+
+ is enacted to read:
+            
+215
+
+    
+     31A-44-204.  Character requirements.
+            
+216
+
+    
+    An applicant for a license under this chapter shall demonstrate to the commissioner
+            
+217
+
+    
+that:
+            
+218
+
+    
+    (1)  the applicant has the good faith intent to engage in business as a pharmacy benefit
+            
+219
+
+    
+manager; and
+            
+220
+
+    
+    (2) (a)  if the applicant is a natural person, the applicant is:
+            
+221
+
+    
+    (i)  competent and trustworthy; and
+            
+222
+
+    
+    (ii)  at least 18 years old; or
+            
+223
+
+    
+    (b)  if the applicant is an entity, the entity and all partners, directors, principal officers,
+            
+224
+
+    
+or persons having comparable power over the entity are trustworthy.
+            
+225
+
+    
+    Section 7.  
+Section  
+31A-44-205
+
+ is enacted to read:
+            
+226
+
+    
+     31A-44-205.  Nonresident jurisdictional agreement.
+            
+227
+
+    
+    (1)  The commissioner shall waive any license requirement for a license under this
+            
+228
+
+    
+chapter and issue a nonresident pharmacy benefit manager license to a person who is a
+            
+229
+
+    
+nonresident pharmacy benefit manager, if:
+            
+230
+
+    
+    (a)  the person has a valid license from the person's home state;
+            
+231
+
+    
+    (b)  the person applies for a nonresident pharmacy benefit manager license;
+            
+232
+
+    
+    (c)  the person submits to the commissioner a copy of the application for a pharmacy
+            
+233
+
+    
+benefit manager license that the nonresident license applicant submitted to the applicant's home
+            
+234
+
+    
+state;
+            
+235
+
+    
+    (d)  the person pays the applicable fees under Sections 
+
+31A-3-103
+
+
+ and 
+
+31A-44-202
+
+
+;
+            
+236
+
+    
+    (e)  the nonresident license applicant's license in the applicant's home state is in good
+            
+237
+
+    
+standing; and
+            
+238
+
+    
+    (f)  the nonresident license applicant's home state awards nonresident pharmacy benefit
+            
+239
+
+    
+manager licenses to residents of this state on the same basis as this state awards licenses to
+            
+240
+
+    
+residents of that home state.
+            
+241
+
+    
+    (2)  A nonresident applicant shall execute, in a form acceptable to the commissioner, an
+            
+242
+
+    
+agreement to be subject to the jurisdiction of the Utah commissioner and courts on any matter
+            
+243
+
+    
+related to the applicant's pharmacy benefit manager activities and insurance activities in Utah,
+            
+244
+
+    
+on the basis of:
+
+            
+245
+
+
+    
+    (a)  service of process under Sections 
+
+31A-2-309
+
+
+ and 
+
+31A-2-310
+
+
+; or
+            
+246
+
+    
+    (b)  other service authorized in the Utah Rules of Civil Procedure.
+            
+247
+
+    
+    (3)  The commissioner may verify the pharmacy benefit manager's licensing status
+            
+248
+
+    
+through any applicable database.
+            
+249
+
+    
+    (4)  The commissioner may not assess a greater fee for an insurance license or related
+            
+250
+
+    
+service to a person not residing in this state based solely on the fact that the person does not
+            
+251
+
+    
+reside in this state.
+            
+252
+
+    
+    Section 8.  
+Section  
+31A-44-206
+
+ is enacted to read:
+            
+253
+
+    
+     31A-44-206.  Form and contents of license.
+            
+254
+
+    
+    (1)  A license issued under this chapter shall be in a form prescribed by the
+            
+255
+
+    
+commissioner and shall include:
+            
+256
+
+    
+    (a)  the name, address, and telephone number of the licensee;
+            
+257
+
+    
+    (b)  the date of license issuance; and
+            
+258
+
+    
+    (c)  any other information the commissioner considers advisable.
+            
+259
+
+    
+    (2)  A pharmacy benefit manager doing business under any name other than the
+            
+260
+
+    
+pharmacy benefit manager's legal name shall notify the commissioner before using the assumed
+            
+261
+
+    
+name in this state.
+            
+262
+
+    
+    (3) (a)  An organization shall be licensed as an agency if the organization acts as a
+            
+263
+
+    
+pharmacy benefit manager.
+            
+264
+
+    
+    (b)  An agency license issued under Subsection (3)(a) shall include the names of each
+            
+265
+
+    
+natural person licensed under this chapter who is authorized to act as a pharmacy benefit
+            
+266
+
+    
+manager for, or on behalf of, the organization in this state.
+            
+267
+
+    
+    Section 9.  
+Section  
+31A-44-301
+
+ is enacted to read:
+            
+268
+
+    
+ Part 3.  License Probation and Termination
+
+            
+269
+
+    
+     31A-44-301.  Revocation, suspension, surrender, lapsing, limiting, or otherwise
+            
+270
+
+    
+ terminating a license -- Rulemaking for renewal and reinstatement.
+            
+271
+
+    
+    (1)  A license issued under this chapter remains in force until:
+            
+272
+
+    
+    (a)  revoked or suspended under Subsection (4) or Section 
+
+31A-4-302
+
+
+;
+            
+273
+
+    
+    (b)  surrendered to the commissioner and accepted by the commissioner in lieu of
+            
+274
+
+    
+administrative action;
+            
+275
+
+    
+    (c)  the licensee dies or is adjudicated incompetent as defined under:
+
+            
+276
+
+
+    
+    (i)  Title 75, Chapter 5, Part 3, Guardians of Incapacitated Persons; or
+            
+277
+
+    
+    (ii)  Title 75, Chapter 5, Part 4, Protection of Property of Persons Under Disability and
+            
+278
+
+    
+Minors;
+            
+279
+
+    
+    (d)  lapsed under Section 
+
+31A-44-303
+
+
+; or
+            
+280
+
+    
+    (e)  voluntarily surrendered.
+            
+281
+
+    
+    (2)  The following may be reinstated within one year after the day on which the license
+            
+282
+
+    
+is no longer in force:
+            
+283
+
+    
+    (a)  a lapsed license; or
+            
+284
+
+    
+    (b)  a voluntarily surrendered license, except that a voluntarily surrendered license may
+            
+285
+
+    
+not be reinstated after the license period in which the license is voluntarily surrendered.
+            
+286
+
+    
+    (3)  Unless otherwise stated in the written agreement for the voluntary surrender of a
+            
+287
+
+    
+license, submission and acceptance of a voluntary surrender of a license does not prevent the
+            
+288
+
+    
+department from pursuing additional disciplinary or other action authorized under:
+            
+289
+
+    
+    (a)  this title; or
+            
+290
+
+    
+    (b)  rules made under this title in accordance with Title 63G, Chapter 3, Utah
+            
+291
+
+    
+Administrative Rulemaking Act.
+            
+292
+
+    
+    (4) (a)  If the commissioner makes a finding under Subsection (4)(b), as part of an
+            
+293
+
+    
+adjudicative proceeding under Title 63G, Chapter 4, Administrative Procedures Act, the
+            
+294
+
+    
+commissioner may, with respect to the license or license application to which the finding
+            
+295
+
+    
+relates:
+            
+296
+
+    
+    (i)  revoke the license;
+            
+297
+
+    
+    (ii)  suspend the license for a specified period of 12 months or less;
+            
+298
+
+    
+    (iii)  limit the license in whole or in part; or
+            
+299
+
+    
+    (iv)  deny the license application.
+            
+300
+
+    
+    (b)  The commissioner may take an action described in Subsection (4)(a) if the
+            
+301
+
+    
+commissioner finds that the licensee or applicant:
+            
+302
+
+    
+    (i)  is unqualified for a license under Section 
+
+31A-44-202
+
+
+, 
+
+31A-44-203
+
+
+, or 
+
+31A-44-204
+
+
+;
+            
+303
+
+    
+    (ii)  has violated:
+            
+304
+
+    
+    (A)  an insurance statute, including a statute in this chapter;
+            
+305
+
+    
+    (B)  a rule that is valid under Subsection 
+
+31A-2-201
+
+
+(3); or
+            
+306
+
+    
+    (C)  an order that is valid under Subsection 
+
+31A-2-201
+
+
+(4);
+
+            
+307
+
+
+    
+    (iii)  is insolvent or the subject of receivership, conservatorship, rehabilitation, or other
+            
+308
+
+    
+delinquency proceedings in any state;
+            
+309
+
+    
+    (iv)  fails to pay a final judgment rendered against the person in this state within 60
+            
+310
+
+    
+days after the day on which the judgment becomes final;
+            
+311
+
+    
+    (v)  is an affiliate of, or under the same general management or interlocking directorate
+            
+312
+
+    
+or ownership as, another pharmacy benefit manager that transacts business in this state without
+            
+313
+
+    
+a license;
+            
+314
+
+    
+    (vi)  refuses:
+            
+315
+
+    
+    (A)  to be examined; or
+            
+316
+
+    
+    (B)  to produce its accounts, records, and files for examination;
+            
+317
+
+    
+    (vii)  has an officer who refuses to:
+            
+318
+
+    
+    (A)  give information with respect to the pharmacy benefit manager's affairs; or
+            
+319
+
+    
+    (B)  perform any other legal obligation as to an examination;
+            
+320
+
+    
+    (viii)  provides information in a license application that is:
+            
+321
+
+    
+    (A)  incorrect;
+            
+322
+
+    
+    (B)  misleading;
+            
+323
+
+    
+    (C)  incomplete; or
+            
+324
+
+    
+    (D)  materially untrue;
+            
+325
+
+    
+    (ix)  has violated an insurance law, valid rule, or valid order of the insurance
+            
+326
+
+    
+department of another state, district, or territory of the United States;
+            
+327
+
+    
+    (x)  has violated a law, rule, or order of another state, province, district, or territory of
+            
+328
+
+    
+the United States that relates to regulation of a pharmacy benefit manager;
+            
+329
+
+    
+    (xi)  has obtained or attempted to obtain a license through misrepresentation or fraud;
+            
+330
+
+    
+    (xii)  has improperly withheld, misappropriated, or converted money or properties
+            
+331
+
+    
+received in the course of doing business as a pharmacy benefit manager;
+            
+332
+
+    
+    (xiii)  has intentionally misrepresented the terms of an actual or proposed contract;
+            
+333
+
+    
+    (xiv)  has been convicted of a felony;
+            
+334
+
+    
+    (xv)  has admitted, or been found to have committed, an insurance unfair trade practice
+            
+335
+
+    
+or fraud;
+            
+336
+
+    
+    (xvi)  in the conduct of business in this state or elsewhere has:
+            
+337
+
+    
+    (A)  used fraudulent, coercive, or dishonest practices; or
+
+            
+338
+
+
+    
+    (B)  demonstrated incompetence, untrustworthiness, or financial irresponsibility;
+            
+339
+
+    
+    (xvii)  has had an insurance license, a pharmacy benefit manager license, or their
+            
+340
+
+    
+equivalent, denied, suspended, or revoked in any other state, province, district, or territory of
+            
+341
+
+    
+the United States;
+            
+342
+
+    
+    (xviii)  has forged another's name to a document relating to the provision of a pharmacy
+            
+343
+
+    
+benefit management service;
+            
+344
+
+    
+    (xix)  has improperly used notes or any other reference material to complete an
+            
+345
+
+    
+examination for a license;
+            
+346
+
+    
+    (xx)  has knowingly accepted a pharmacy benefit management service from an
+            
+347
+
+    
+individual who is not licensed;
+            
+348
+
+    
+    (xxi)  has failed to comply with an administrative or court order imposing a child
+            
+349
+
+    
+support obligation;
+            
+350
+
+    
+    (xxii)  has failed to:
+            
+351
+
+    
+    (A)  pay state income tax; or
+            
+352
+
+    
+    (B)  comply with an administrative or court order directing payment of state income
+            
+353
+
+    
+tax;
+            
+354
+
+    
+    (xxiii)  has violated or permitted others to violate the federal Violent Crime Control and
+            
+355
+
+    
+Law Enforcement Act of 1994, 18 U.S.C. Sec. 1033; or
+            
+356
+
+    
+    (xxiv)  has engaged in methods and practices in the conduct of business that endanger
+            
+357
+
+    
+the legitimate interests of customers and the public.
+            
+358
+
+    
+    (c)  For purposes of this section, if a license is held by an agency, both the agency itself
+            
+359
+
+    
+and any individual designated under the license are considered to be the holders of the agency
+            
+360
+
+    
+license.
+            
+361
+
+    
+    (d)  If an individual designated under the agency license commits an act or fails to
+            
+362
+
+    
+perform a duty that is a ground for suspending, revoking, or limiting the individual's license,
+            
+363
+
+    
+the commissioner may suspend, revoke, or limit the license of:
+            
+364
+
+    
+    (i)  the individual;
+            
+365
+
+    
+    (ii)  the agency, if the agency:
+            
+366
+
+    
+    (A)  is reckless or negligent in the agency's supervision of the individual; or
+            
+367
+
+    
+    (B)  knowingly participated in the act or failure to act that is the grounds for
+            
+368
+
+    
+suspending, revoking, or limiting the license; or
+
+            
+369
+
+
+    
+    (iii) (A)  the individual; and
+            
+370
+
+    
+    (B)  the agency, if the agency meets the requirements of Subsection (4)(d)(ii).
+            
+371
+
+    
+    (5)  A licensee under this chapter is subject to the penalties for acting as a licensee
+            
+372
+
+    
+without a license if:
+            
+373
+
+    
+    (a)  the licensee's license is:
+            
+374
+
+    
+    (i)  revoked;
+            
+375
+
+    
+    (ii)  suspended;
+            
+376
+
+    
+    (iii)  limited;
+            
+377
+
+    
+    (iv)  surrendered in lieu of administrative action;
+            
+378
+
+    
+    (v)  lapsed; or
+            
+379
+
+    
+    (vi)  voluntarily surrendered; and
+            
+380
+
+    
+    (b)  the licensee:
+            
+381
+
+    
+    (i)  continues to act as a licensee; or
+            
+382
+
+    
+    (ii)  violates the terms of the license limitation.
+            
+383
+
+    
+    (6)  A licensee under this chapter shall immediately report to the commissioner:
+            
+384
+
+    
+    (a)  any revocation, suspension, or limitation of the person's license in any other state,
+            
+385
+
+    
+province, district, or territory of the United States;
+            
+386
+
+    
+    (b)  the imposition of a disciplinary sanction imposed on that person by any other state,
+            
+387
+
+    
+province, district, or territory of the United States; or
+            
+388
+
+    
+    (c)  a judgment or injunction entered against the person on the basis of conduct
+            
+389
+
+    
+involving:
+            
+390
+
+    
+    (i)  fraud;
+            
+391
+
+    
+    (ii)  deceit;
+            
+392
+
+    
+    (iii)  misrepresentation; or
+            
+393
+
+    
+    (iv)  a violation of an insurance or pharmacy benefit manager law or rule.
+            
+394
+
+    
+    (7) (a)  An order revoking a license under Subsection (4) or an agreement to surrender a
+            
+395
+
+    
+license in lieu of administrative action may specify a time, not to exceed five years, within
+            
+396
+
+    
+which the former licensee may not apply for a new license.
+            
+397
+
+    
+    (b)  If no time is specified in the order or agreement described in Subsection (7)(a), the
+            
+398
+
+    
+former licensee may not apply for a new license for five years from the day on which the order
+            
+399
+
+    
+or agreement is made without the express written approval of the commissioner.
+
+            
+400
+
+
+    
+    (8)  The commissioner shall promptly withhold, suspend, restrict, or reinstate the use of
+            
+401
+
+    
+a license issued under this part if so ordered by the court.
+            
+402
+
+    
+    (9)  The commissioner shall, by rule, prescribe the license renewal and reinstatement
+            
+403
+
+    
+procedures in accordance with Title 63G, Chapter 3, Utah Administrative Rulemaking Act.
+            
+404
+
+    
+    Section 10.  
+Section  
+31A-44-302
+
+ is enacted to read:
+            
+405
+
+    
+     31A-44-302.  Probation -- Grounds for revocation.
+            
+406
+
+    
+    (1)  The commissioner may place a licensee on probation for a period not to exceed 24
+            
+407
+
+    
+months as follows:
+            
+408
+
+    
+    (a)  after an adjudicative proceeding under Title 63G, Chapter 4, Administrative
+            
+409
+
+    
+Procedures Act, for any circumstances that would justify a suspension under Section
+            
+410
+
+    
+
+
+31A-44-301
+
+
+; or
+            
+411
+
+    
+    (b)  at the issuance of a new license:
+            
+412
+
+    
+    (i)  with an admitted violation under 18 U.S.C. Sec. 1033; or
+            
+413
+
+    
+    (ii)  with a response to a background information question on a new license application
+            
+414
+
+    
+indicating that:
+            
+415
+
+    
+    (A)  the person has been convicted of a crime that is listed by rule made in accordance
+            
+416
+
+    
+with Title 63G, Chapter 3, Utah Administrative Rulemaking Act, as a crime that is grounds for
+            
+417
+
+    
+probation;
+            
+418
+
+    
+    (B)  the person is currently charged with a crime that is listed by rule made in
+            
+419
+
+    
+accordance with Title 63G, Chapter 3, Utah Administrative Rulemaking Act, as a crime that is
+            
+420
+
+    
+grounds for probation, regardless of whether adjudication is withheld;
+            
+421
+
+    
+    (C)  the person has been involved in an administrative proceeding regarding any
+            
+422
+
+    
+professional or occupational license; or
+            
+423
+
+    
+    (D)  any business in which the person is or was an owner, partner, officer, or director
+            
+424
+
+    
+has been involved in an administrative proceeding regarding any professional or occupational
+            
+425
+
+    
+license.
+            
+426
+
+    
+    (2)  The commissioner may place a licensee on probation for a specified period no
+            
+427
+
+    
+longer than 24 months if the licensee has admitted to a violation under 18 U.S.C. Sec. 1033.
+            
+428
+
+    
+    (3)  A probation order under this section shall state the conditions for retention of the
+            
+429
+
+    
+license, which shall be reasonable.
+            
+430
+
+    
+    (4)  A violation of the probation is grounds for revocation pursuant to any proceeding
+
+            
+431
+
+
+    
+authorized under Title 63G, Chapter 4, Administrative Procedures Act.
+            
+432
+
+    
+    Section 11.  
+Section  
+31A-44-303
+
+ is enacted to read:
+            
+433
+
+    
+     31A-44-303.  License lapse and voluntary surrender.
+            
+434
+
+    
+    (1)  A license issued under this chapter shall lapse if the licensee fails to:
+            
+435
+
+    
+    (a)  timely pay a fee under Sections 
+
+31A-3-103
+
+
+ and 
+
+31A-44-202
+
+
+;
+            
+436
+
+    
+    (b)  submit a completed renewal application as required by Section 
+
+31A-44-202
+
+
+; and
+            
+437
+
+    
+    (c)  maintain an active license in a resident state if the licensee is a nonresident licensee.
+            
+438
+
+    
+    (2)  A licensee whose license lapses due to the following may request an action
+            
+439
+
+    
+described in Subsection (3):
+            
+440
+
+    
+    (a)  military service;
+            
+441
+
+    
+    (b)  voluntary service for a period of time designated by the person for whom the
+            
+442
+
+    
+licensee provides voluntary service; or
+            
+443
+
+    
+    (c)  other extenuating circumstances, such as long-term medical disability.
+            
+444
+
+    
+    (3)  A licensee described in Subsection (2) may request:
+            
+445
+
+    
+    (a)  reinstatement of the license no later than one year after the day on which the license
+            
+446
+
+    
+lapses; and
+            
+447
+
+    
+    (b)  waiver of any of the following imposed for failure to comply with renewal
+            
+448
+
+    
+procedures:
+            
+449
+
+    
+    (i)  an examination requirement;
+            
+450
+
+    
+    (ii)  reinstatement fees set under Section 
+
+31A-3-103
+
+
+; or
+            
+451
+
+    
+    (iii)  other sanctions imposed for failure to comply with renewal procedures.
+            
+452
+
+    
+    (4)  If a license issued under this chapter is voluntarily surrendered, the license may be
+            
+453
+
+    
+reinstated:
+            
+454
+
+    
+    (a)  during the license period in which the license is voluntarily surrendered; and
+            
+455
+
+    
+    (b)  no later than one year after the day on which the license is voluntarily surrendered.
+            
+456
+
+    
+    Section 12.  
+Section  
+31A-44-401
+
+ is enacted to read:
+            
+457
+
+    
+ Part 4.  General Duties - Enforcement
+
+            
+458
+
+    
+     31A-44-401.  Maximum allowable cost reimbursement -- Appeal process.
+            
+459
+
+    
+    (1)  Prior to the expiration of any generic exclusivity period, a pharmacy benefit
+            
+460
+
+    
+manager shall not use maximum allowable cost as a basis for reimbursement to a pharmacy for
+            
+461
+
+    
+a multiple source drug.
+
+            
+462
+
+
+    
+    (2)  A pharmacy benefit manager may use maximum allowable cost as a basis for
+            
+463
+
+    
+reimbursement to a pharmacy for a drug if:
+            
+464
+
+    
+    (a)  there are at least three or more therapeutically equivalent multiple source drugs that
+            
+465
+
+    
+have been coded as A rated by the Food and Drug Administration; and
+            
+466
+
+    
+    (b)  the drugs identified in Subsection (2)(a) are available at a significant cost
+            
+467
+
+    
+difference.
+            
+468
+
+    
+    (3)  The maximum allowable cost shall be determined using comparable and current
+            
+469
+
+    
+data on drug prices obtained from multiple nationally recognized, comprehensive data sources,
+            
+470
+
+    
+including wholesalers, drug file vendors, and pharmaceutical manufacturers for drugs that are
+            
+471
+
+    
+nationally available and readily available for purchase by all pharmacies in the state.
+            
+472
+
+    
+    (4)  For every drug for which the pharmacy benefit manager uses maximum allowable
+            
+473
+
+    
+cost to reimburse a contracted pharmacy, the pharmacy benefit manager shall:
+            
+474
+
+    
+    (a)  include in the contract with the pharmacy:
+            
+475
+
+    
+    (i)  information identifying the national drug pricing compendia and other data sources
+            
+476
+
+    
+used to obtain the drug price data; and
+            
+477
+
+    
+    (ii)  the methodology used to calculate the maximum allowable cost;
+            
+478
+
+    
+    (b)  notify the contracted pharmacy at least 30 days prior to the initial implementation
+            
+479
+
+    
+of a maximum allowable cost for a specific drug;
+            
+480
+
+    
+    (c)  notify the contracted pharmacy at least 30 days prior to the discontinuation of a
+            
+481
+
+    
+maximum allowable cost for a specific drug;
+            
+482
+
+    
+    (d)  review and make necessary adjustments to the maximum allowable cost, using the
+            
+483
+
+    
+most recent data sources identified in Subsection (4)(a)(i), at least once per week, and notify
+            
+484
+
+    
+the contracted pharmacy of all adjustments within three business days of the adjustment;
+            
+485
+
+    
+    (e)  provide a process for the contracted pharmacy to appeal the maximum allowable
+            
+486
+
+    
+cost in accordance with Subsection (5); and
+            
+487
+
+    
+    (f)  include in the contract with a contracted pharmacy a process to provide a weekly
+            
+488
+
+    
+update to the pharmacy product pricing files used to reimburse the pharmacy.
+            
+489
+
+    
+    (5) (a)  The right to appeal in Subsection (4)(e) shall be:
+            
+490
+
+    
+    (i)  limited to 60 days following the initial claim adjudication; and
+            
+491
+
+    
+    (ii)  investigated and resolved by the pharmacy benefit manager within seven business
+            
+492
+
+    
+days.
+
+            
+493
+
+
+    
+    (b)  If the appeal is denied, the pharmacy benefit manager shall provide the contracted
+            
+494
+
+    
+pharmacy the reason for the denial and notify the contracted pharmacy where the drug product
+            
+495
+
+    
+may be purchased at a price at or below the maximum allowable cost.
+            
+496
+
+    
+    (c)  If the appeal is not denied:
+            
+497
+
+    
+    (i)  the pharmacy benefit manager shall make a payment adjustment to a pharmacy
+            
+498
+
+    
+retroactively to the date of the claim adjudication, if it is determined that the maximum
+            
+499
+
+    
+allowable cost has been applied incorrectly; and
+            
+500
+
+    
+    (ii)  when the change in maximum allowable cost for an adjusted cost rate becomes
+            
+501
+
+    
+effective, all pharmacies in the pharmacy network shall be informed that the adjudicated claim
+            
+502
+
+    
+may be submitted for payment again at the adjusted cost rate.
+            
+503
+
+    
+    Section 13.  
+Section  
+31A-44-402
+
+ is enacted to read:
+            
+504
+
+    
+     31A-44-402.  General duties of a pharmacy benefit manager.
+            
+505
+
+    
+    A pharmacy benefit manager shall:
+            
+506
+
+    
+    (1)  have a written agreement with each health benefit plan to which the pharmacy
+            
+507
+
+    
+benefit manager provides a pharmacy benefit management service; and
+            
+508
+
+    
+    (2)  comply with the audit provisions of Section 
+
+58-17b-622
+
+
+.
+            
+509
+
+    
+    Section 14.  
+Section  
+31A-44-403
+
+ is enacted to read:
+            
+510
+
+    
+     31A-44-403.  Fees -- Dedicated credit.
+            
+511
+
+    
+    The commissioner shall establish and impose a fee on a pharmacy benefit manager to
+            
+512
+
+    
+pay the costs of administering this chapter.  The fee imposed under this section shall be a
+            
+513
+
+    
+dedicated credit, as defined in Section 
+
+51-5-3
+
+
+, to the department to pay for the cost of
+            
+514
+
+    
+administering this chapter.
+            
+515
+
+    
+    Section 15.  
+Section  
+31A-44-404
+
+ is enacted to read:
+            
+516
+
+    
+     31A-44-404.  Penalties imposed by commissioner -- Dedicated credit.
+            
+517
+
+    
+    (1)  A pharmacy benefit manager that is found by the commissioner, after a hearing
+            
+518
+
+    
+conducted in accordance with Title 63G, Chapter 4, Administrative Procedures Act, to be in
+            
+519
+
+    
+violation of any provisions of this title, shall:
+            
+520
+
+    
+    (a)  for each separate violation, pay a civil penalty in an amount designated by the
+            
+521
+
+    
+commissioner by rule; and
+            
+522
+
+    
+    (b)  be subject to revocation or suspension of the pharmacy benefit manager's license.
+            
+523
+
+    
+    (2)  The penalties imposed under this section shall be a dedicated credit, as defined in
+
+            
+524
+
+
+    
+Section 
+
+51-5-3
+
+
+, to the department to pay for the cost of administering this chapter and the cost
+            
+525
+
+    
+of market conduct reviews conducted by the department.
+            
+526
+
+    
+    (3)  Nothing in this section affects the right of the commissioner to impose any other
+            
+527
+
+    
+penalties provided in this title.
+            
+528
+
+    
+    Section 16.  
+Section  
+31A-44-405
+
+ is enacted to read:
+            
+529
+
+    
+     31A-44-405.  Administrative Rules.
+            
+530
+
+    
+    The commissioner may adopt administrative rules in accordance with Title 63G,
+            
+531
+
+    
+Chapter 3, Utah Administrative Rulemaking Act, to enforce the provisions of this chapter.
+            
+532
+
+    
+    Section 17.   Effective date.
+            
+533
+
+    
+    This bill takes effect on July 1, 2014.
+
+
+
+
+ Legislative Review Note
+    as of   2-5-14  4:00 PM
+
+ Office of Legislative Research and General Counsel
+[Bill Documents][Bills Directory]
+
+
+
+
+
+
+
+
+
+Who represents me?
+
+
+
+
+
+Remember my Legislators
+
+
+
+
+
+State Senate
+		350 North State, Suite 320
+		PO Box 145115
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1035
+		Fax: (801) 326-1475
+
+
+
+House of Representatives
+		350 North State, Suite 350
+		PO Box 145030
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1029
+		Fax: (801) 326-1544
+
+
+
+
+
+
+
+
+
+
+Home
+Mobile Site
+Site Map
+Calendar
+Code / Constitution
+House
+Senate
+
+Terms of Use/Privacy Policy
+
+ADA
+Utah.gov
+
+
+
+
+
+
+

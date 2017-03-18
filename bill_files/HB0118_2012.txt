@@ -1,0 +1,1028 @@
+Sponsors: []Modifications: (2)(1)(a)(b)this sectionmaybe broughtSectionto the subscriberto the subscriberFull text:
+
+
+
+Utah State Legislature
+
+
+
+
+
+
+
+
+
+
+
+
+Legislators
+
+By Session (1896-Current)
+Alphabetical (Historical)
+Find by Address/Map
+More
+
+
+Bills
+
+Bills/Bill Requests
+Passed Bills
+2017 Bills
+
+Keyword Search
+Reading Calendars
+Tracking Service
+More
+
+
+Committees
+
+All Committees
+Appropriations
+Commissions
+
+Independent Legislative Ethics Commission
+Interim
+Standing
+Subcommittees
+Task Forces
+Bills In Committees
+
+
+Utah Code / Constitution
+
+
+Title/Chapter/Section
+Keyword Search 
+
+Utah Constitution
+Laws of Utah 1851-ongoing
+Utah Territorial Laws 
+More
+
+
+Senate
+
+Main Page 
+About The Senate 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Extraordinary Sessions 
+Reading Calendars 
+Past Floor Debates 
+Senate Journals 
+
+
+House
+
+Main Page
+About the House 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Reading Calendars 
+Past Floor Debates 
+Journals 
+Conflict of Interest Forms 
+
+
+Legislative Guide 
+
+Legislative Guide
+Civic Programs
+GRAMA (Records Requests)
+
+
+Publications
+
+Search Publications
+Appropriations
+Audits
+Bagels & Briefings
+Briefing Papers
+Digest of Legislation
+Legislative Drafting Manual
+
+Journals
+
+Interim Highlights
+
+Legislative Rules
+GRAMA (Records Requests)
+Public Email
+State Organization Charts
+YouTube Channel
+Requests for Proposals and Legal Notices
+More
+
+
+Legislative Histories
+
+Legislative History Resources
+How to Research
+Bill Drafting/Research Files (1990-Ongoing)
+
+Working Bills (1896-1989)
+Interim Committee Histories (1990-Ongoing) 
+Journals
+Past House Floor Debates
+Past Senate Floor Debates
+More
+
+
+Staff Offices
+
+All Legislative Offices
+Auditor General
+Fiscal Analyst
+Printing
+Research and General Counsel
+Staff Awards
+Job Opportunities
+More
+
+
+Links of Interest
+
+Utah Administrative Rules
+Courts
+Utah State Capitol
+State of Utah
+Federal Legislation
+More
+
+
+
+
+
+
+ 
+
+Download Zipped Introduced WordPerfect HB0118.ZIP
+[Status][Bill Documents][Fiscal Note][Bills Directory]
+
+
+H.B. 118
+
+
+
+
+
+            
+1
+
+    
+ STORAGE OF ELECTRONIC RECORDS
+
+
+
+            
+2
+
+    
+2012 GENERAL SESSION
+
+            
+3
+
+    
+STATE OF UTAH
+
+            
+4
+
+    
+
+
+ Chief Sponsor: Bradley M. Daw
+
+
+
+            
+5
+
+    
+
+
+
+Senate Sponsor:
+
+
+
+
+
+
+ Stephen H. Urquhart
+
+
+
+
+
+            
+6
+
+    
+
+            
+7
+
+    
+ LONG TITLE
+            
+8
+
+    
+ General Description:
+            
+9
+
+    
+    This bill eliminates provisions regarding access to electronic records by government
+            
+10
+
+    
+agencies and requires a search warrant in all cases.
+            
+11
+
+    
+ Highlighted Provisions:
+            
+12
+
+    
+    This bill:
+            
+13
+
+    
+    .    eliminates the provision that allows access to electronic records on a server longer
+            
+14
+
+    
+than 180 days; and
+            
+15
+
+    
+    .    requires a search warrant in all cases for the contents of electronic records.
+            
+16
+
+    
+ Money Appropriated in this Bill:
+            
+17
+
+    
+    None
+            
+18
+
+    
+ Other Special Clauses:
+            
+19
+
+    
+    None
+            
+20
+
+    
+ Utah Code Sections Affected:
+            
+21
+
+    
+AMENDS:
+            
+22
+
+    
+     77-23b-4, as enacted by Laws of Utah 1988, Chapter 251
+            
+23
+
+    
+     77-23b-6, as last amended by Laws of Utah 1993, Chapter 38
+            
+24
+
+    
+
+            
+25
+
+    
+Be it enacted by the Legislature of the state of Utah:
+            
+26
+
+    
+    Section 1.  
+Section  
+77-23b-4
+
+ is amended to read:
+            
+27
+
+    
+     77-23b-4.  Disclosure by a provider -- Grounds for requiring disclosure -- Court
+
+            
+28
+
+
+    
+ order.
+            
+29
+
+    
+    (1) [(a)]  A government entity may only require the disclosure by a provider of
+            
+30
+
+    
+electronic communication services of the contents of an electronic communication that is in
+            
+31
+
+    
+electronic storage in an electronic communication system [for 180 days or less] pursuant to a
+            
+32
+
+    
+warrant issued under the Utah Rules of Criminal Procedure or an equivalent federal warrant.
+            
+33
+
+    
+    [(b)  A governmental entity may require the disclosure, by a provider of electronic
+            
+34
+
+    
+communication systems, of the contents of an electronic communication that has been in
+            
+35
+
+    
+electronic storage in an electronic communication system for more than 180 days under
+            
+36
+
+    
+Subsection (2).]
+            
+37
+
+    
+    [(2) (a)  A governmental entity may require a provider of remote computing services to
+            
+38
+
+    
+disclose the contents of any electronic communications to which Subsection (2)(a) is made
+            
+39
+
+    
+applicable by Subsection (2)(b):]
+            
+40
+
+    
+    [(i)  without required notice to the subscriber or customer, if the governmental entity
+            
+41
+
+    
+obtains a warrant issued under the Utah Rules of Criminal Procedure or an equivalent federal
+            
+42
+
+    
+warrant; or]
+            
+43
+
+    
+    [(ii)  with prior notice from the governmental agency to the subscriber or customer if
+            
+44
+
+    
+the governmental entity:]
+            
+45
+
+    
+    [(A)  uses an administrative subpoena authorized by a state or federal statute or a state
+            
+46
+
+    
+or federal grand jury subpoena; or]
+            
+47
+
+    
+    [(B)  obtains a court order for disclosure under Subsection (4), except delayed notice
+            
+48
+
+    
+may be given under Section 
+
+77-23b-6
+
+.]
+            
+49
+
+    
+    [(b)] (2)  Subsection [(2)(a)] (1) applies to any electronic communication that is held or
+            
+50
+
+    
+maintained on that service:
+            
+51
+
+    
+    [(i)] (a)  on behalf of and received by means of electronic transmission from or created
+            
+52
+
+    
+by means of computer processing of communications received by means of electronic
+            
+53
+
+    
+transmission from a subscriber or customer of the remote computing service; and
+            
+54
+
+    
+    [(ii)] (b)  solely for the purpose of providing storage or computer processing services to
+            
+55
+
+    
+the subscriber or customer, if the provider is not authorized to access the contents of any
+            
+56
+
+    
+communication for purposes of providing any services other than storage or computer
+            
+57
+
+    
+processing.
+            
+58
+
+    
+    (3) (a) (i)  Except under Subsection (3)(a)(ii), a provider of electronic communication
+
+            
+59
+
+
+    
+services or remote computing services may disclose a record or other information pertaining to
+            
+60
+
+    
+a subscriber to or customer of the service, not including the contents of communication
+            
+61
+
+    
+covered by Subsection (1) [or (2)], to any person other than a governmental agency.
+            
+62
+
+    
+    (ii)  A provider of electronic communication services or remote computing services
+            
+63
+
+    
+shall disclose a record or other information pertaining to a subscriber to or customer of the
+            
+64
+
+    
+service, not including the contents of communication covered by Subsection (1) [or (2)], to a
+            
+65
+
+    
+governmental entity only when the entity:
+            
+66
+
+    
+    (A)  uses an administrative subpoena authorized by a state or federal statute or a state or
+            
+67
+
+    
+federal grand jury subpoena;
+            
+68
+
+    
+    (B)  obtains a warrant issued under the Utah Rules of Criminal Procedure or an
+            
+69
+
+    
+equivalent federal warrant;
+            
+70
+
+    
+    (C)  obtains a court order for the disclosure under Subsection (4); or
+            
+71
+
+    
+    (D)  has the consent of the subscriber or customer to the disclosure.
+            
+72
+
+    
+    (b)  A governmental entity receiving records or information under this subsection is not
+            
+73
+
+    
+required to provide notice to a subscriber or customer.
+            
+74
+
+    
+    (4) (a)  A court order for disclosure under [Subsection (2) or (3)] this section may be
+            
+75
+
+    
+issued only if the governmental entity shows there is reason to believe the contents of a wire or
+            
+76
+
+    
+electronic communication, or the records or other information sought, are relevant to a
+            
+77
+
+    
+legitimate law enforcement inquiry.
+            
+78
+
+    
+    (b)  A court issuing an order under this section, on a motion made promptly by the
+            
+79
+
+    
+service provider, may quash or modify the order, if the information or records requested are
+            
+80
+
+    
+unusually voluminous in nature or compliance with the order otherwise would cause an undue
+            
+81
+
+    
+burden on the provider.
+            
+82
+
+    
+    (5)  A cause of action [does] may not [lie] be brought in any court against any provider
+            
+83
+
+    
+of wire or electronic communications services, its officers, employees, agents, or other
+            
+84
+
+    
+specified persons, for providing information, facilities, or assistance in accordance with the
+            
+85
+
+    
+terms of a court order, warrant, subpoena, or certification under this chapter.
+            
+86
+
+    
+    Section 2.  
+Section  
+77-23b-6
+
+ is amended to read:
+            
+87
+
+    
+     77-23b-6.  Notifying subscriber or customer of court order -- Requested delay --
+            
+88
+
+    
+ Grounds -- Limits.
+            
+89
+
+    
+    (1) (a)  The governmental entity acting under [Subsection] Section
+
+77-23b-4
+
+[(2)] may:
+
+            
+90
+
+
+    
+    (i)  if a court order is sought, include in the application a request for an order delaying
+            
+91
+
+    
+[the] notification [requirement under Subsection 
+
+77-23b-4
+
+(2)] to the subscriber for not to
+            
+92
+
+    
+exceed 90 days and, if the court determines there is reason to believe that notification of
+            
+93
+
+    
+existence of the court order may have an adverse result [under Subsection (1)(b)], the court
+            
+94
+
+    
+shall grant the order; or
+            
+95
+
+    
+    (ii)  if an administrative subpoena authorized by a state or federal statute or a state or
+            
+96
+
+    
+federal grand jury subpoena is obtained, delay [the] notification [required under Subsection
+            
+97
+
+    
+
+
+77-23b-4
+
+(2)] to the subscriber for not to exceed 90 days, upon the execution of a written
+            
+98
+
+    
+certification of a supervisory official that there is reason to believe that the notification of the
+            
+99
+
+    
+existence of the subpoena may have an adverse result [under Subsection (1)(b)].
+            
+100
+
+    
+    (b)  An adverse result [under Subsection (1)(a)] is:
+            
+101
+
+    
+    (i)  endangering the life or physical safety of an individual;
+            
+102
+
+    
+    (ii)  flight from prosecution;
+            
+103
+
+    
+    (iii)  destruction of or tampering with evidence;
+            
+104
+
+    
+    (iv)  intimidation of potential witnesses; or
+            
+105
+
+    
+    (v)  otherwise seriously jeopardizing an investigation or unduly delaying a trial.
+            
+106
+
+    
+    (c)  The governmental entity shall maintain a true copy of certification under
+            
+107
+
+    
+Subsection (1)(a)(ii).
+            
+108
+
+    
+    (d)  Extensions of the delay of notification under Section 
+
+77-23b-4
+
+ of up to 90 days
+            
+109
+
+    
+each, may be granted by the court upon application, or by certification by a governmental
+            
+110
+
+    
+entity, but only in accordance with Subsection (2).
+            
+111
+
+    
+    (e)  On expiration of the period of delay of notification under Subsection (1)(a) or (d),
+            
+112
+
+    
+the governmental entity shall serve upon, or deliver by registered or first class mail, to the
+            
+113
+
+    
+customer or subscriber a copy of the process or request together with a notice:
+            
+114
+
+    
+    (i)  stating with reasonable specificity the nature of the law enforcement inquiry; and
+            
+115
+
+    
+    (ii)  informing the customer or subscriber:
+            
+116
+
+    
+    (A)  that information maintained for the customer or subscriber by the service provider
+            
+117
+
+    
+named in the process or request was supplied to or requested by that governmental authority
+            
+118
+
+    
+and the date the supplying or request took place;
+            
+119
+
+    
+    (B)  that notification of the customer or subscriber was delayed;
+            
+120
+
+    
+    (C)  which governmental entity or court made the certification or determination
+
+            
+121
+
+
+    
+pursuant to which that delay was made; and
+            
+122
+
+    
+    (D)  which provision of this chapter allows the delay.
+            
+123
+
+    
+    (f)  As used in this subsection, "supervisory official" means the investigative agent in
+            
+124
+
+    
+charge or assistant investigative agent in charge or an equivalent of an investigative agency's
+            
+125
+
+    
+headquarters or regional office; a county sheriff or chief deputy sheriff, or police chief or
+            
+126
+
+    
+assistant police chief; the officer in charge of an investigative task force or the assistant officer
+            
+127
+
+    
+in charge; or the attorney general, an assistant attorney general, a county attorney or district
+            
+128
+
+    
+attorney,  a deputy county attorney or deputy district attorney, or the chief prosecuting attorney
+            
+129
+
+    
+of any political subdivision of the state.
+            
+130
+
+    
+    (2)  A governmental entity acting under Section 
+
+77-23b-4
+
+, when not required to notify
+            
+131
+
+    
+the subscriber or customer [under Subsection 
+
+77-23b-4
+
+(2)(a)], or to the extent that it may delay
+            
+132
+
+    
+notice under Subsection (1), may apply to a court for an order commanding the provider of
+            
+133
+
+    
+electronic communications service or remote computing service to whom a warrant, subpoena,
+            
+134
+
+    
+or court order is directed, for a period of time the court considers appropriate, to not notify any
+            
+135
+
+    
+other person of the existence of the warrant, subpoena, or court order.  The court shall enter the
+            
+136
+
+    
+order if it determines that there is reason to believe that notification of the existence of the
+            
+137
+
+    
+warrant, subpoena, or court order will result in:
+            
+138
+
+    
+    (a)  endangering the life or physical safety of an individual;
+            
+139
+
+    
+    (b)  flight from prosecution;
+            
+140
+
+    
+    (c)  destruction of or tampering with evidence;
+            
+141
+
+    
+    (d)  intimidation of potential witnesses; or
+            
+142
+
+    
+    (e)  otherwise seriously jeopardizing an investigation or unduly delaying a trial.
+
+
+
+
+ Legislative Review Note
+    as of   1-30-12  5:44 PM
+
+ Office of Legislative Research and General Counsel
+[Bill Documents][Bills Directory]
+
+
+
+
+
+
+
+
+
+Who represents me?
+
+
+
+
+
+Remember my Legislators
+
+
+
+
+
+State Senate
+		350 North State, Suite 320
+		PO Box 145115
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1035
+		Fax: (801) 326-1475
+
+
+
+House of Representatives
+		350 North State, Suite 350
+		PO Box 145030
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1029
+		Fax: (801) 326-1544
+
+
+
+
+
+
+
+
+
+
+Home
+Mobile Site
+Site Map
+Calendar
+Code / Constitution
+House
+Senate
+
+Terms of Use/Privacy Policy
+
+ADA
+Utah.gov
+
+
+
+
+
+
+

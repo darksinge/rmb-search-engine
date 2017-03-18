@@ -1,0 +1,4008 @@
+Sponsors: []Modifications: 201220112012Chapter 1,(a)  IFC, Chapter 1, Section 102.9, is amended by adding the following immediatelybefore the period:  "on an emergency basis if:(a)  the facts known to the fire code official show that an immediate and significantdanger to the public health, safety, or welfare exists; and(b)  the threat requires immediate action by the fire code official.(2)  In issuing its emergency order, the fire code official shall:(a)  limit the order to require only the action necessary to prevent or avoid the danger tothe public health, safety, or welfare; and(b)  give immediate notice to the persons who are required to comply with the order,that includes a brief statement of the reasons for the fire code official's order.(3)  If the emergency order issued under this section will result in the continuedinfringement or impairment of any legal right or interest of any party, the party shall have aright to appeal the fire code official's order to the Utah Fire Prevention Board."(b)(c)109.3Chapter 2,(a)  IFC, Chapter 2, Section 202, General Definitions, the following definition is addedfor Ambulatory Surgical Center: "AMBULATORY SURGICAL CENTER.  A building orportion of a building licensed by the Utah Department of Health where procedures areperformed that may render patients incapable of self preservation where care is less than 24hours."(b)  IFC, Chapter 2, Section 202, General Definitions, FOSTER CARE FACILITIES isamended as follows: the word "Foster" is changed to the word "Child."(c)facilitiesOn line four after the word "supervision" add thewords "child care centers."(d)  IFC, Chapter 2, Section 202, General Definitions, Occupancy Classification,Educational Group E, Five or fewer children is amended as follows: On line one the word"five" is deleted and replaced with the word "four" in both places.(e)  IFC, Chapter 2, Section 202, General Definitions, Occupancy Classification,Educational Group E, Five or fewer children in a dwelling unit, the word "five" is deleted andreplaced with the word "four" in both places.(f)  IFC, Chapter 2, Section 202, General Definitions, Occupancy Classification,Educational Group E, a new section is added as follows: "Child Day Care -- ResidentialCertificate or a Family License.  Areas used for child day care purposes with a ResidentialCertificate R430-50 or a Family License, as defined in Utah Administrative Code, R430-90,Licensed Family Child Care, may be located in a Group R-2 or R-3 occupancy as provided inResidential Group R-3, or shall comply with the International Residential Code in accordancewith Section R101.2."(g)  IFC, Chapter 2, Section 202, General Definitions, Occupancy Classification,Educational Group E, a new section is added as follows: "Child Care Centers.  Areas used forHourly Child Care Centers, as defined in Utah Administrative Code, R430-60, Child CareCenter as defined in Utah Administrative Code, R430-100, or Out of School Time Programs,as defined in Utah Administrative Code, R430-70, may be classified as accessoryoccupancies."(h)8(i)  IFC, Chapter 2, Section 202, General Definitions, Occupancy Classification,Institutional Group I, Five or fewer persons receiving care is amended as follows: On line fourafter "International Residential Code" the rest of the section is deleted.(j)"five"word "three"(ii)  On line six the word "foster" is deleted and replaced with the word "child".(iii)"Psychiatric hospitals"to the list(k)Classification asGroup Etwo(ii)  On line three delete the words "2 1/2 years or less of age" and replace with thewords "under the age of two".(l)  IFC, Chapter 2, Section 202, General Definitions, Occupancy Classification,Institutional Group Care I, Group I-4, Day care facilities, Five or fewer occupants receivingcare in a dwelling unit, is amended as follows: On lines one and two the word "five" is deletedand replaced with the word "four".(m)Group R-3,the words "and single family dwellings complying with the IRC" are added after the word"Residential occupancies".(n)  IFC, Chapter 2, Section 202, General Definitions, Occupancy Classification,Residential Group R-3, Care facilities within a dwelling, is amended as follows: On line threeafter the word "dwelling" insert "other than child care".(o)  IFC, Chapter 2, Section 202, General Definitions, Occupancy Classification,Residential Group R-3, a new section is added as follows: "Child Care.  Areas used for childcare purposes may be located in a residential dwelling unit when all of the following conditionsare met:1. Compliance with Utah Administrative Code, R710-8, Day Care Rules, as enactedunder the authority of the Utah Fire Prevention Board;2.  Use is approved by the Utah Department of Health under the authority of the UtahCode, Title 26, Chapter 39, Utah Child Care Licensing Act, and in any of the followingcategories:1.1.  Utah Administrative Code, R430-50, Residential Certificate Child Care; or1.2.  Utah Administrative Code, R430-90, Licensed Family Child Care; and3.  Compliance with all zoning regulations of the local regulator."(p)  IFC, Chapter 2, Section 202, General Definitions, RECORD DRAWINGS, thedefinition for "RECORD DRAWINGS" is modified by deleting the words "a fire alarmsystem" and replacing them with "any fire protection system".    15A-5-202.5.(1)  For IFC, Chapter 3, General Requirements:(a)  IFC, Chapter 3, Section 304.1.2, Vegetation, is amended as follows: Delete line sixand replace it with: "the Utah Administrative Code, R652-122-200, Minimum Standards forWildland Fire Ordinance".(b)  IFC, Chapter 3, Section 308.1.2, Throwing or Placing Sources of Ignition, isamended as follows: On line three after the word "matches" add the words "fireworks, lighters,sky lanterns".(c)  IFC, Chapter 3, Section 310.8, Hazardous Environmental Conditions, is deleted andrewritten as follows: "When the fire code official determines that hazardous environmentalconditions necessitate controlled use of any ignition source, including fireworks, lighters,matches, and smoking materials, the ignition or use of the source in mountainous,brush-covered, or forest-covered areas is prohibited except in approved areas as allowed by theAHJ."(d)  IFC, Chapter 3, Section 311.1.1, Abandoned Premises, is amended as follows: Online 10 delete the words "International Property Maintenance Code and the".(e)  IFC, Chapter 3, Section 311.5, Placards, is amended as follows: On line three deletethe word "shall" and replace it with the word "may".(f)  IFC, Chapter 3, Section 315.2.1, Ceiling Clearance, is amended to add thefollowing: "Exception: Where storage is not directly below the sprinkler heads, storage isallowed to be placed to the ceiling on wall-mounted shelves that are protected by fire sprinklerheads in occupancies meeting classification as light or ordinary hazard."(2)  IFC, Chapter 4, Emergency Planning and Preparedness:(a)  IFC, Chapter 4, Section 404.2, Where required, Subsection 8, is amended asfollows: After the word "buildings" add "to include sororities and fraternity houses".(b)  IFC, Chapter 4, Section 405.2, Table 405.2, is amended to add the followingfootnotes:(i)  "e.  Secondary schools in Group E occupancies shall have an emergency evacuationdrill for fire conducted at least every two months, to a total of four emergency evacuation drillsduring the nine-month school year.  The first emergency evacuation drill for fire shall beconducted within 10 school days after the beginning of classes, and the third emergencyevacuation drill for fire shall be conducted 10 school days after the beginning of the nextcalendar year.  The second and fourth emergency evacuation drills may be substituted by asecurity or safety drill to include shelter in place, earthquake drill, or lock down for violence."(ii)  "f.  In Group E occupancies, excluding secondary schools, if the AHJ approves, themonthly required emergency evacuation drill can be substituted by a security or safety drill toinclude shelter in place, earthquake drill, or lock down for violence.  The routine emergencyevacuation drill for fire must by conducted at least every other evacuation drill."(iii)  "g.  A-3 occupancies in academic buildings of institutions of higher learning arerequired to have one emergency evacuation drill per year, provided the following conditions aremet:(A)  The building has a fire alarm system in accordance with Section 907.2.(B)  The rooms classified as assembly shall have fire safety floor plans as required inSection 404.3.2(4) posted.(C)  The building is not classified a high-rise building.(D)  The building does not contain hazardous materials over the allowable quantities bycode."(1)Chapter 5,(b)  In IFC, Chapter 5, Section 506.1, Where Required, is deleted and rewritten asfollows:  "Where access to or within a structure or an area is restricted because of securedopenings or where immediate access is necessary for life-saving or fire-fighting purposes, thefire code official, after consultation with the building owner, may require a key box to beinstalled in an approved location.  The key box shall contain keys to gain necessary access asrequired by the fire code official."(c)(d)(2)Chapter 6,(a)  In IFC, Chapter 6, Section 605.11.3.3.1, Access, is deleted and rewritten as follows:"There shall be a minimum three foot wide (914 mm) clear perimeter around the edges of theroof."(b)  In IFC, Chapter 6, Section 605.11.3.3.2, Pathways, is deleted and rewritten asfollows: "The solar installation shall be designed to provide designated pathways. Thepathways shall meet the following requirements:1.  The pathway shall be over areas capable of supporting the live load of fire fightersaccessing the roof.2.  The centerline axis pathways shall be provided in both axes of the roof. Centerlineaxis pathways shall run where the roof structure is capable of supporting the live load of firefighters accessing the roof.3.  Smoke and heat vents required by Section 910.2.1 or 910.2.2 of this Code, shall beprovided with a clear pathway width of not less than three feet (914 mm) to vents.4.  Access to roof area required by Section 504.2 or 1009.16 of this Code, shall beprovided with a clear pathway width of not less than three feet (914 mm) around accessopening and at least three feet (914 mm) clear pathway to parapet or roof edge."(c)  In IFC, Chapter 6, Section 605.11.3.2, Residential Systems for One and TwoFamily Dwellings, is deleted and rewritten as follows: "Access to residential systems for oneand two family dwellings shall be provided in accordance with Sections 605.11.3.2.1 through605.11.3.2.4.Exception: Reduction in pathways and clear access width shall be permitted whereshown that a rational approach has been used and that such reductions are warranted whenapproved by the Fire Code Official."(d)  In IFC, Chapter 6, Section 605.11.3.3.3, Smoke Ventilation, is deleted andrewritten as follows: "The solar installation shall be designed to meet the followingrequirements:1.  Arrays shall be no greater than 150 feet (45.720 mm) by 150 feet (45.720 mm) indistance in either axis in order to create opportunities for fire department smoke ventilationoperations.2.  Smoke ventilation options between array sections shall be one of the following:2.1.  A pathway six feet (1829 mm) or greater in width.2.2.  A three foot (914 mm) or greater in width pathway and bordering roof skylights orsmoke and heat vents when required by Section 910.2.1 or Section 910.2.2 of this Code.2.3.  Smoke and heat vents designed for remote operation using devices that can beconnected to the vent by mechanical, electrical, or any other suitable means, shall be protectedas necessary to remain operable for the design period. Controls for remote operation shall belocated in a control panel, clearly identified and located in an approved location."(e)  InKey Location(f)  In(3)Chapter 7,(2)  IFC, Chapter 9, Section 901.4.6, Pump and Riser Room Size, is deleted andreplaced with the following: "Pump and Riser Room Size.  Fire pump and automatic sprinklersystem riser rooms shall be designed with adequate space for all installed equipment necessaryfor the installation and to provide sufficient working space around the stationary equipment. Clearances around equipment shall be in accordance with manufacturer requirements and notless than the following minimum elements:901.4.6.1  A minimum clear and unobstructed distance of 12-inches shall be providedfrom the installed equipment to the elements of permanent construction.    901.4.6.2  A minimum clear and unobstructed distance of 12-inches shall be providedbetween all other installed equipment and appliances.    901.4.6.3  A clear and unobstructed width of 36-inches shall be provided in front of allinstalled equipment and appliances, to allow for inspection, service, repair or replacementwithout removing such elements of permanent construction or disabling the function of arequired fire-resistance-rated assembly.    901.4.6.4  Automatic sprinkler system riser rooms shall be provided with a clear andunobstructed passageway to the riser room of not less than 36-inches, and openings into theroom shall be clear and unobstructed, with doors swinging in the outward direction from theroom and the opening providing a clear width of not less than 34-inches and a clear height ofthe door opening shall not be less than 80-inches.    901.4.6.5  Fire pump rooms shall be provided with a clear and unobstructedpassageway to the fire pump room of not less than 72-inches, and openings into the room shallbe clear, unobstructed and large enough to allow for the removal of the largest piece ofequipment, with doors swinging in the outward direction from the room and the openingproviding a clear width of not less than 68-inches and a clear height of the door opening shallnot be less than 80-inches."Ambulatorytwofloorand delete the last paragraph(10)(11)(12)(13)(14)(15)(16)(17)(18)(19)  IFC, Chapter 9, Section 905.3.9 is a new subsection as follows: "Open ParkingGarages.  Open parking garages shall be equipped with an approved Class I manual standpipesystem when fire department access is not provided for firefighting operations to within 150feet of all portions of the open parking garage as measured from the approved fire departmentvehicle access.  Class I manual standpipe shall be accessible throughout the parking garagesuch that all portions of the parking structure are protected within 150 feet of a hoseconnection.Exception: Open parking garages equipped throughout with an automatic sprinklersystem in accordance with Section 903.3.1.1."(20)  IFC, Chapter 9, Section 905.8, Dry Standpipes, Exception is deleted and rewrittenas follows: "Where subject to freezing conditions and approved by the fire code official."(21)111103.6(22)  IFC, Chapter 9, Section 907.2.3 Group E:(a)  The first sentence is deleted and rewritten as follows: "A manual fire alarm systemthat initiates the occupant notification system in accordance with Section 907.5 and installed inaccordance with Section 907.6 shall be installed in Group E occupancies."(b)  Exception number 3, on line five, delete the words, "emergency voice/alarmcommunication system" and replace with "occupant notification system."(23)907.8, Inspection, testing, and maintenance(24)  IFC, Chapter 9, Section 908.7, Carbon Monoxide Alarms, is amended as follows:On line four after the word "alarms" insert the following sentence: "A minimum of one carbonmonoxide alarm shall be installed on each habitable level." The entire Exception is deleted.deleteand"Group(c)78"8special egress locks(3)  "In IFC, Chapter 10, Section [B] 1009.7.2, Stair Treads and Risers, Exception 5 isdeleted and replaced with the following: "5.  In Group R-3 occupancies, within dwelling unitsin Group R-2 occupancies, and in Group U occupancies that are accessory to a Group R-3occupancy, or accessory to individual dwelling units in Group R-2 occupancies, the maximumriser height shall be 8 inches (203 mm) and the minimum tread depth shall be 9 inches (229mm).  The minimum winder tread depth at the walk line shall be 10 inches (254 mm), and theminimum winder tread depth shall be 6 inches (152 mm).  A nosing not less than 0.75 inch(19.1 mm) but not more than 1.25 inches (32 mm) shall be provided on stairways with solidrisers where the tread depth is less than 10 inches (254 mm)."[B] 1009.1510121012(5)(6)1030.2.1, Security Devices andEgress Locksthree    15A-5-205.5.(1)  In IFC, Chapter 11, section 1103.2 Emergency Responder Radio Coverage inExisting Buildings, is amended as follows: On line two after the title, the following is added:"When required by the fire code official".(2)  IFC, Chapter 11, Section 1103.5, Sprinkler Systems, is amended to add thefollowing new subsection: "1103.5.3 Group A-2.  An automatic fire sprinkler system shall beprovided throughout existing Group A-2 occupancies where indoor pyrotechnics are used."(3)  IFC, Chapter 11, Section 1103.6, Standpipes, is deleted.(4)  In IFC, Chapter 11, 1103.7, Fire Alarm Systems, is deleted and rewritten asfollows: "1103.7, Fire Alarm Systems.  The following shall have an approved fire alarm systeminstalled in accordance with Utah Administrative Code Section R710-4:1.  a building with an occupant load of 300 or more persons that is owned or operatedby the state;2.  a building with an occupant load of 300 or more persons that is owned or operatedby an institution of higher education; and3.  a building with an occupant load of 50 or more persons that is owned or operated bya school district, private school, or charter school.Exception: the requirements of this section do not apply to a building designated as anInstitutional Group I (as defined in IFC 202) occupancy.(5)  IFC, Chapter 11, 1103.7.1 Group E, 1103.7.2 Group I-1, 1103.7.3 Group I-2,1103.7.4 Group I-3, 1103.7.5 Group R-1, 1103.7.5.1 Group R-1 Hotel and Motel Manual FireAlarm System, 1103.7.5.1.1 Group R-1 Hotel and Motel Automatic Smoke Detection System,1103.7.5.2 Group R-1 Boarding and Rooming Houses Manual Fire Alarm System, 1103.7.5.2.1Group R-1 Boarding and Rooming Houses Automatic Smoke Detection System, 1103.7.6Group R-2 and 1103.7.7 Group R-4, are deleted.(6)  IFC, Chapter 11, Section 1103.9, Carbon Monoxide Alarms, is deleted andrewritten as follows: "Existing Group I or R occupancies located in a building containing afuel-burning appliance or a building which has an attached garage shall be equipped withsingle-station carbon monoxide alarms.  A minimum of one carbon monoxide alarm shall beinstalled on each habitable level.  The carbon monoxide alarms shall be listed as complyingwith UL 2034, and be installed maintained in accordance with NFPA 720 and themanufacturer's instructions.  An open parking garage, as defined in the International BuildingCode, or an enclosed parking garage ventilated in accordance with Section 404 of theInternational Building Code shall not be deemed to be an attached garage."565601.3Chapter 57,575701.4575706.1575706.2Chapter 61,616101.2616103.1616109.126109.12(d)  IFC, Chapter 61, Section 6109.15.1, Automated Cylinder Exchange Stations, isamended as follows: Item # 4 is deleted.616110.18020101010.4.110.4.1.2(2)1010.4.210.4.2.2(2)1010.10, Fire10.10.21010.151010.152323.8.5.923.8.5.9.3(8)2626.3.426.3.4.7(9)10.4.3 Inspection, Testing, and Maintenance Personnel,Subsection 10.4.3.1(1)This bill takes effect on July 1, 2013.Full text:
+
+
+
+Utah State Legislature
+
+
+
+
+
+
+
+
+
+
+
+
+Legislators
+
+By Session (1896-Current)
+Alphabetical (Historical)
+Find by Address/Map
+More
+
+
+Bills
+
+Bills/Bill Requests
+Passed Bills
+2017 Bills
+
+Keyword Search
+Reading Calendars
+Tracking Service
+More
+
+
+Committees
+
+All Committees
+Appropriations
+Commissions
+
+Independent Legislative Ethics Commission
+Interim
+Standing
+Subcommittees
+Task Forces
+Bills In Committees
+
+
+Utah Code / Constitution
+
+
+Title/Chapter/Section
+Keyword Search 
+
+Utah Constitution
+Laws of Utah 1851-ongoing
+Utah Territorial Laws 
+More
+
+
+Senate
+
+Main Page 
+About The Senate 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Extraordinary Sessions 
+Reading Calendars 
+Past Floor Debates 
+Senate Journals 
+
+
+House
+
+Main Page
+About the House 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Reading Calendars 
+Past Floor Debates 
+Journals 
+Conflict of Interest Forms 
+
+
+Legislative Guide 
+
+Legislative Guide
+Civic Programs
+GRAMA (Records Requests)
+
+
+Publications
+
+Search Publications
+Appropriations
+Audits
+Bagels & Briefings
+Briefing Papers
+Digest of Legislation
+Legislative Drafting Manual
+
+Journals
+
+Interim Highlights
+
+Legislative Rules
+GRAMA (Records Requests)
+Public Email
+State Organization Charts
+YouTube Channel
+Requests for Proposals and Legal Notices
+More
+
+
+Legislative Histories
+
+Legislative History Resources
+How to Research
+Bill Drafting/Research Files (1990-Ongoing)
+
+Working Bills (1896-1989)
+Interim Committee Histories (1990-Ongoing) 
+Journals
+Past House Floor Debates
+Past Senate Floor Debates
+More
+
+
+Staff Offices
+
+All Legislative Offices
+Auditor General
+Fiscal Analyst
+Printing
+Research and General Counsel
+Staff Awards
+Job Opportunities
+More
+
+
+Links of Interest
+
+Utah Administrative Rules
+Courts
+Utah State Capitol
+State of Utah
+Federal Legislation
+More
+
+
+
+
+
+
+ 
+
+Download Zipped Introduced WordPerfect HB0217.ZIP
+[Status][Bill Documents][Fiscal Note][Bills Directory]
+
+
+H.B. 217
+
+
+
+
+
+            
+1
+
+    
+ STATE FIRE CODE ACT AMENDMENTS
+
+
+
+            
+2
+
+    
+2013 GENERAL SESSION
+
+            
+3
+
+    
+STATE OF UTAH
+
+            
+4
+
+    
+
+
+ Chief Sponsor:  James A. Dunnigan
+
+
+
+            
+5
+
+    
+
+
+
+Senate Sponsor:  
+
+
+
+
+
+
+____________
+
+
+
+
+
+            
+6
+
+    
+
+            
+7
+
+    
+ LONG TITLE
+            
+8
+
+    
+ General Description:
+            
+9
+
+    
+    This bill amends the State Fire Code Act.
+            
+10
+
+    
+ Highlighted Provisions:
+            
+11
+
+    
+    This bill:
+            
+12
+
+    
+    .    updates the editions of nationally recognized codes that are incorporated by
+            
+13
+
+    
+reference;
+            
+14
+
+    
+    .    amends provisions related to certain group care facilities and ambulatory surgical
+            
+15
+
+    
+facilities;
+            
+16
+
+    
+    .    requires evacuation fire drills for secondary schools;
+            
+17
+
+    
+    .    modifies requirements regarding solar panels;
+            
+18
+
+    
+    .    modifies requirements regarding pump and riser rooms;
+            
+19
+
+    
+    .    modifies requirements regarding the installation of automatic sprinkler systems; and
+            
+20
+
+    
+    .    makes technical changes.
+            
+21
+
+    
+ Money Appropriated in this Bill:
+            
+22
+
+    
+    None
+            
+23
+
+    
+ Other Special Clauses:
+            
+24
+
+    
+    This bill takes effect on July 1, 2013.
+            
+25
+
+    
+ Utah Code Sections Affected:
+            
+26
+
+    
+AMENDS:
+            
+27
+
+    
+     15A-5-103, as enacted by Laws of Utah 2011, Chapter 14
+
+            
+28
+
+
+    
+     15A-5-202, as last amended by Laws of Utah 2012, Chapter 148
+            
+29
+
+    
+     15A-5-203, as enacted by Laws of Utah 2011, Chapter 14
+            
+30
+
+    
+     15A-5-204, as last amended by Laws of Utah 2012, Chapter 148
+            
+31
+
+    
+     15A-5-205, as enacted by Laws of Utah 2011, Chapter 14
+            
+32
+
+    
+     15A-5-206, as enacted by Laws of Utah 2011, Chapter 14
+            
+33
+
+    
+     15A-5-207, as enacted by Laws of Utah 2011, Chapter 14
+            
+34
+
+    
+     15A-5-302, as enacted by Laws of Utah 2011, Chapter 14
+            
+35
+
+    
+     15A-5-401, as enacted by Laws of Utah 2011, Chapter 14
+            
+36
+
+    
+ENACTS:
+            
+37
+
+    
+     15A-5-202.5, Utah Code Annotated 1953
+            
+38
+
+    
+     15A-5-205.5, Utah Code Annotated 1953
+            
+39
+
+    
+
+            
+40
+
+    
+Be it enacted by the Legislature of the state of Utah:
+            
+41
+
+    
+    Section 1.  
+Section  
+15A-5-103
+
+ is amended to read:
+            
+42
+
+    
+     15A-5-103.  Nationally recognized codes incorporated by reference.
+            
+43
+
+    
+    The following codes are incorporated by reference into the State Fire Code:
+            
+44
+
+    
+    (1)  the International Fire Code, [2009] 2012 edition, excluding appendices, as issued
+            
+45
+
+    
+by the International Code Council, Inc., except as amended by Part 2, Statewide Amendments
+            
+46
+
+    
+and Additions to IFC Incorporated as Part of State Fire Code;
+            
+47
+
+    
+    (2)  National Fire Protection Association, NFPA 96, Standard for Ventilation Control
+            
+48
+
+    
+and Fire Protection of Commercial Cooking Operations, [2008] 2011 edition, except as
+            
+49
+
+    
+amended by Part 3, Statewide Amendments and Additions to NFPA Incorporated as Part of
+            
+50
+
+    
+State Fire Code; and
+            
+51
+
+    
+    (3)  National Fire Protection Association, NFPA 1403, Standard on Live Fire Training
+            
+52
+
+    
+Evolutions, [2007] 2012 edition, except as amended by Part 3, Statewide Amendments and
+            
+53
+
+    
+Additions to NFPA Incorporated as Part of State Fire Code.
+            
+54
+
+    
+    Section 2.  
+Section  
+15A-5-202
+
+ is amended to read:
+            
+55
+
+    
+     15A-5-202.  Amendments and additions to IFC related to administration, permits,
+            
+56
+
+    
+ definitions, general, and emergency planning.
+            
+57
+
+    
+    (1)  For IFC, Chapter 1, Scope and Administration:
+            
+58
+
+    
+    (a)  IFC, Chapter 1, Section 102.9, is amended by adding the following immediately
+
+            
+59
+
+
+    
+before the period:  "on an emergency basis if:
+            
+60
+
+    
+    (a)  the facts known to the fire code official show that an immediate and significant
+            
+61
+
+    
+danger to the public health, safety, or welfare exists; and
+            
+62
+
+    
+    (b)  the threat requires immediate action by the fire code official.
+            
+63
+
+    
+    (2)  In issuing its emergency order, the fire code official shall:
+            
+64
+
+    
+    (a)  limit the order to require only the action necessary to prevent or avoid the danger to
+            
+65
+
+    
+the public health, safety, or welfare; and
+            
+66
+
+    
+    (b)  give immediate notice to the persons who are required to comply with the order,
+            
+67
+
+    
+that includes a brief statement of the reasons for the fire code official's order.
+            
+68
+
+    
+    (3)  If the emergency order issued under this section will result in the continued
+            
+69
+
+    
+infringement or impairment of any legal right or interest of any party, the party shall have a
+            
+70
+
+    
+right to appeal the fire code official's order to the Utah Fire Prevention Board."
+            
+71
+
+    
+    [(a)] (b)  IFC, Chapter 1, Section 105.6.16, Flammable and combustible liquids, is
+            
+72
+
+    
+amended to add the following section: "12.  The owner of an underground tank that is out of
+            
+73
+
+    
+service for longer than one year shall receive a Temporary Closure Notice from the Department
+            
+74
+
+    
+of Environmental Quality and a copy shall be given to the AHJ."
+            
+75
+
+    
+    [(b)] (c)  IFC, Chapter 1, Section [109.2] 109.3, Notice of violation, is amended as
+            
+76
+
+    
+follows: On line three, after the words "is in violation of this code," insert in the section the
+            
+77
+
+    
+phrase "or other pertinent laws or ordinances".
+            
+78
+
+    
+    (2)  For IFC, Chapter 2, Definitions:
+            
+79
+
+    
+    (a)  IFC, Chapter 2, Section 202, General Definitions, the following definition is added
+            
+80
+
+    
+for Ambulatory Surgical Center: "AMBULATORY SURGICAL CENTER.  A building or
+            
+81
+
+    
+portion of a building licensed by the Utah Department of Health where procedures are
+            
+82
+
+    
+performed that may render patients incapable of self preservation where care is less than 24
+            
+83
+
+    
+hours."
+            
+84
+
+    
+    (b)  IFC, Chapter 2, Section 202, General Definitions, FOSTER CARE FACILITIES is
+            
+85
+
+    
+amended as follows: the word "Foster" is changed to the word "Child."
+            
+86
+
+    
+    [(a)] (c)  IFC, Chapter 2, Section 202, General Definitions, Occupancy Classification,
+            
+87
+
+    
+Educational Group E, Day care facilities, is amended as follows: On line three delete the word
+            
+88
+
+    
+"five" and replace it with the word "four".  On line four after the word "supervision" add the
+            
+89
+
+    
+words "child care centers."
+
+            
+90
+
+
+    
+    (d)  IFC, Chapter 2, Section 202, General Definitions, Occupancy Classification,
+            
+91
+
+    
+Educational Group E, Five or fewer children is amended as follows: On line one the word
+            
+92
+
+    
+"five" is deleted and replaced with the word "four" in both places.
+            
+93
+
+    
+    (e)  IFC, Chapter 2, Section 202, General Definitions, Occupancy Classification,
+            
+94
+
+    
+Educational Group E, Five or fewer children in a dwelling unit, the word "five" is deleted and
+            
+95
+
+    
+replaced with the word "four" in both places.
+            
+96
+
+    
+    (f)  IFC, Chapter 2, Section 202, General Definitions, Occupancy Classification,
+            
+97
+
+    
+Educational Group E, a new section is added as follows: "Child Day Care -- Residential
+            
+98
+
+    
+Certificate or a Family License.  Areas used for child day care purposes with a Residential
+            
+99
+
+    
+Certificate R430-50 or a Family License, as defined in Utah Administrative Code, R430-90,
+            
+100
+
+    
+Licensed Family Child Care, may be located in a Group R-2 or R-3 occupancy as provided in
+            
+101
+
+    
+Residential Group R-3, or shall comply with the International Residential Code in accordance
+            
+102
+
+    
+with Section R101.2."
+            
+103
+
+    
+    (g)  IFC, Chapter 2, Section 202, General Definitions, Occupancy Classification,
+            
+104
+
+    
+Educational Group E, a new section is added as follows: "Child Care Centers.  Areas used for
+            
+105
+
+    
+Hourly Child Care Centers, as defined in Utah Administrative Code, R430-60, Child Care
+            
+106
+
+    
+Center as defined in Utah Administrative Code, R430-100, or Out of School Time Programs,
+            
+107
+
+    
+as defined in Utah Administrative Code, R430-70, may be classified as accessory
+            
+108
+
+    
+occupancies."
+            
+109
+
+    
+    [(b)] (h)  IFC, Chapter 2, Section 202, General Definitions, Occupancy Classification,
+            
+110
+
+    
+Institutional Group I, Group I-1, is amended as follows: On line [10] 8 add "Type I" in front of
+            
+111
+
+    
+the words "Assisted living facilities".
+            
+112
+
+    
+    (i)  IFC, Chapter 2, Section 202, General Definitions, Occupancy Classification,
+            
+113
+
+    
+Institutional Group I, Five or fewer persons receiving care is amended as follows: On line four
+            
+114
+
+    
+after "International Residential Code" the rest of the section is deleted.
+            
+115
+
+    
+    [(c)] (j)  IFC, Chapter 2, Section 202, General Definitions, Occupancy Classification,
+            
+116
+
+    
+Institutional Group I, Group I-2, is amended as follows:
+            
+117
+
+    
+    (i)  On line three delete the word ["for"] "five" and insert the [following into the
+            
+118
+
+    
+sentence "on a 24-hour basis of more than three"] word "three".
+            
+119
+
+    
+    (ii)  On line six the word "foster" is deleted and replaced with the word "child".
+            
+120
+
+    
+    [(ii)] (iii)  On line 10, after the words ["Nursing homes"] "Psychiatric hospitals", add
+
+            
+121
+
+
+    
+the following to the list: "both intermediate nursing care and skilled nursing care facilities,
+            
+122
+
+    
+ambulatory surgical centers with five or more operating rooms [where care is less than 24
+            
+123
+
+    
+hours], and Type II assisted living facilities.  Type II assisted living facilities with five or fewer
+            
+124
+
+    
+persons shall be classified as a Group R-4.  Type II assisted living facilities with at least six and
+            
+125
+
+    
+not more than 16 residents shall be classified as a Group I-1 facility".
+            
+126
+
+    
+    [(d)] (k)  IFC, Chapter 2, Section 202, General Definitions, Occupancy Classification,
+            
+127
+
+    
+Institutional Group I, Group I-4, Day care facilities, [Child care facility] Classification as
+            
+128
+
+    
+Group E, is amended as follows:
+            
+129
+
+    
+    (i)  On line [three] two delete the word "five" and replace it with the word "four".
+            
+130
+
+    
+    [(ii)  On line two of the exception delete the word "five" and replace it with the word
+            
+131
+
+    
+"four".]
+            
+132
+
+    
+    (ii)  On line three delete the words "2 1/2 years or less of age" and replace with the
+            
+133
+
+    
+words "under the age of two".
+            
+134
+
+    
+    (l)  IFC, Chapter 2, Section 202, General Definitions, Occupancy Classification,
+            
+135
+
+    
+Institutional Group Care I, Group I-4, Day care facilities, Five or fewer occupants receiving
+            
+136
+
+    
+care in a dwelling unit, is amended as follows: On lines one and two the word "five" is deleted
+            
+137
+
+    
+and replaced with the word "four".
+            
+138
+
+    
+    [(e)] (m)  IFC, Chapter 2, Section 202, General Definitions, Occupancy Classification,
+            
+139
+
+    
+Residential [Group R, R-2, is amended to add the following: "Exception: Boarding houses
+            
+140
+
+    
+accommodating 10 persons or less shall be classified as Residential Group R-3."]  Group R-3,
+            
+141
+
+    
+the words "and single family dwellings complying with the IRC" are added after the word
+            
+142
+
+    
+"Residential occupancies".
+            
+143
+
+    
+    [(3)  For IFC, General Requirements:]
+            
+144
+
+    
+    [(a)  IFC, Chapter 3, Section 304.1.2, Vegetation, is amended as follows: Delete line six
+            
+145
+
+    
+and replace it with: "the Utah Administrative Code, R652-122-200, Minimum Standards for
+            
+146
+
+    
+Wildland Fire Ordinance".]
+            
+147
+
+    
+    [(b)  IFC, Chapter 3, Section 310.8, Hazardous Environmental Conditions, is deleted
+            
+148
+
+    
+and rewritten as follows: "When the fire code official determines that hazardous environmental
+            
+149
+
+    
+conditions necessitate controlled use of any ignition source, including fireworks, lighters,
+            
+150
+
+    
+matches, and smoking materials, the ignition or use of the source in mountainous,
+            
+151
+
+    
+brush-covered, or forest-covered areas is prohibited except in approved areas as allowed by the
+
+            
+152
+
+
+    
+AHJ."]
+            
+153
+
+    
+    [(c)  IFC, Chapter 3, Section 311.1.1, Abandoned premises, is amended as follows: On
+            
+154
+
+    
+line 10 delete the words "International Property Maintenance Code and the".]
+            
+155
+
+    
+    [(d)  IFC, Chapter 3, Section 311.5, Placards, is amended as follows: On line three
+            
+156
+
+    
+delete the word "shall" and replace it with the word "may".]
+            
+157
+
+    
+    [(e)  IFC, Chapter 3, Section 315.2.1, Ceiling clearance, is amended to add the
+            
+158
+
+    
+following: "Exception: Where storage is not directly below the sprinkler heads, storage is
+            
+159
+
+    
+allowed to be placed to the ceiling on wall-mounted shelves that are protected by fire sprinkler
+            
+160
+
+    
+heads in occupancies meeting classification as light or ordinary hazard."]
+            
+161
+
+    
+    (n)  IFC, Chapter 2, Section 202, General Definitions, Occupancy Classification,
+            
+162
+
+    
+Residential Group R-3, Care facilities within a dwelling, is amended as follows: On line three
+            
+163
+
+    
+after the word "dwelling" insert "other than child care".
+            
+164
+
+    
+    (o)  IFC, Chapter 2, Section 202, General Definitions, Occupancy Classification,
+            
+165
+
+    
+Residential Group R-3, a new section is added as follows: "Child Care.  Areas used for child
+            
+166
+
+    
+care purposes may be located in a residential dwelling unit when all of the following conditions
+            
+167
+
+    
+are met:
+            
+168
+
+    
+    1. Compliance with Utah Administrative Code, R710-8, Day Care Rules, as enacted
+            
+169
+
+    
+under the authority of the Utah Fire Prevention Board;
+            
+170
+
+    
+    2.  Use is approved by the Utah Department of Health under the authority of the Utah
+            
+171
+
+    
+Code, Title 26, Chapter 39, Utah Child Care Licensing Act, and in any of the following
+            
+172
+
+    
+categories:
+            
+173
+
+    
+    1.1.  Utah Administrative Code, R430-50, Residential Certificate Child Care; or
+            
+174
+
+    
+    1.2.  Utah Administrative Code, R430-90, Licensed Family Child Care; and
+            
+175
+
+    
+    3.  Compliance with all zoning regulations of the local regulator."
+            
+176
+
+    
+    (p)  IFC, Chapter 2, Section 202, General Definitions, RECORD DRAWINGS, the
+            
+177
+
+    
+definition for "RECORD DRAWINGS" is modified by deleting the words "a fire alarm
+            
+178
+
+    
+system" and replacing them with "any fire protection system".
+            
+179
+
+    
+    Section 3.  
+Section  
+15A-5-202.5
+
+ is enacted to read:
+            
+180
+
+    
+     15A-5-202.5.  Amendments and additions to Chapters 3 and 4 of IFC.
+            
+181
+
+    
+    (1)  For IFC, Chapter 3, General Requirements:
+            
+182
+
+    
+    (a)  IFC, Chapter 3, Section 304.1.2, Vegetation, is amended as follows: Delete line six
+
+            
+183
+
+
+    
+and replace it with: "the Utah Administrative Code, R652-122-200, Minimum Standards for
+            
+184
+
+    
+Wildland Fire Ordinance".
+            
+185
+
+    
+    (b)  IFC, Chapter 3, Section 308.1.2, Throwing or Placing Sources of Ignition, is
+            
+186
+
+    
+amended as follows: On line three after the word "matches" add the words "fireworks, lighters,
+            
+187
+
+    
+sky lanterns".
+            
+188
+
+    
+    (c)  IFC, Chapter 3, Section 310.8, Hazardous Environmental Conditions, is deleted and
+            
+189
+
+    
+rewritten as follows: "When the fire code official determines that hazardous environmental
+            
+190
+
+    
+conditions necessitate controlled use of any ignition source, including fireworks, lighters,
+            
+191
+
+    
+matches, and smoking materials, the ignition or use of the source in mountainous,
+            
+192
+
+    
+brush-covered, or forest-covered areas is prohibited except in approved areas as allowed by the
+            
+193
+
+    
+AHJ."
+            
+194
+
+    
+    (d)  IFC, Chapter 3, Section 311.1.1, Abandoned Premises, is amended as follows: On
+            
+195
+
+    
+line 10 delete the words "International Property Maintenance Code and the".
+            
+196
+
+    
+    (e)  IFC, Chapter 3, Section 311.5, Placards, is amended as follows: On line three delete
+            
+197
+
+    
+the word "shall" and replace it with the word "may".
+            
+198
+
+    
+    (f)  IFC, Chapter 3, Section 315.2.1, Ceiling Clearance, is amended to add the
+            
+199
+
+    
+following: "Exception: Where storage is not directly below the sprinkler heads, storage is
+            
+200
+
+    
+allowed to be placed to the ceiling on wall-mounted shelves that are protected by fire sprinkler
+            
+201
+
+    
+heads in occupancies meeting classification as light or ordinary hazard."
+            
+202
+
+    
+    (2)  IFC, Chapter 4, Emergency Planning and Preparedness:
+            
+203
+
+    
+    (a)  IFC, Chapter 4, Section 404.2, Where required, Subsection 8, is amended as
+            
+204
+
+    
+follows: After the word "buildings" add "to include sororities and fraternity houses".
+            
+205
+
+    
+    (b)  IFC, Chapter 4, Section 405.2, Table 405.2, is amended to add the following
+            
+206
+
+    
+footnotes:
+            
+207
+
+    
+    (i)  "e.  Secondary schools in Group E occupancies shall have an emergency evacuation
+            
+208
+
+    
+drill for fire conducted at least every two months, to a total of four emergency evacuation drills
+            
+209
+
+    
+during the nine-month school year.  The first emergency evacuation drill for fire shall be
+            
+210
+
+    
+conducted within 10 school days after the beginning of classes, and the third emergency
+            
+211
+
+    
+evacuation drill for fire shall be conducted 10 school days after the beginning of the next
+            
+212
+
+    
+calendar year.  The second and fourth emergency evacuation drills may be substituted by a
+            
+213
+
+    
+security or safety drill to include shelter in place, earthquake drill, or lock down for violence."
+
+            
+214
+
+
+    
+    (ii)  "f.  In Group E occupancies, excluding secondary schools, if the AHJ approves, the
+            
+215
+
+    
+monthly required emergency evacuation drill can be substituted by a security or safety drill to
+            
+216
+
+    
+include shelter in place, earthquake drill, or lock down for violence.  The routine emergency
+            
+217
+
+    
+evacuation drill for fire must by conducted at least every other evacuation drill."
+            
+218
+
+    
+    (iii)  "g.  A-3 occupancies in academic buildings of institutions of higher learning are
+            
+219
+
+    
+required to have one emergency evacuation drill per year, provided the following conditions are
+            
+220
+
+    
+met:
+            
+221
+
+    
+    (A)  The building has a fire alarm system in accordance with Section 907.2.
+            
+222
+
+    
+    (B)  The rooms classified as assembly shall have fire safety floor plans as required in
+            
+223
+
+    
+Section 404.3.2(4) posted.
+            
+224
+
+    
+    (C)  The building is not classified a high-rise building.
+            
+225
+
+    
+    (D)  The building does not contain hazardous materials over the allowable quantities by
+            
+226
+
+    
+code."
+            
+227
+
+    
+    Section 4.  
+Section  
+15A-5-203
+
+ is amended to read:
+            
+228
+
+    
+     15A-5-203.  Amendments and additions to IFC related to fire safety, building, and
+            
+229
+
+    
+ site requirements.
+            
+230
+
+    
+    [(1)  For IFC, Emergency Planning and Preparedness:]
+            
+231
+
+    
+    [(a)  IFC, Chapter 4, Section 404.2, Where required, Subsection 8, is amended as
+            
+232
+
+    
+follows: After the word "buildings" add "to include sororities and fraternity houses".]
+            
+233
+
+    
+    [(b)  IFC, Chapter 4, Section 405.2, Table 405.2, is amended to add the following
+            
+234
+
+    
+footnotes:]
+            
+235
+
+    
+    [(i)  "e.  Secondary schools in Group E occupancies shall have an emergency evacuation
+            
+236
+
+    
+drill conducted at least every two months, to a total of four emergency evacuation drills during
+            
+237
+
+    
+the nine-month school year.  The first emergency evacuation drill shall be conducted within 10
+            
+238
+
+    
+school days of the beginning of classes."]
+            
+239
+
+    
+    [(ii)  "f.  In Group E occupancies, excluding secondary schools, if the AHJ approves,
+            
+240
+
+    
+the monthly required emergency evacuation drill can be substituted by a security or safety drill
+            
+241
+
+    
+to include shelter in place, earthquake drill, or lock down for violence.  The routine emergency
+            
+242
+
+    
+evacuation drill for fire must by conducted at least every other evacuation drill."]
+            
+243
+
+    
+    [(iii)  "g.  A-3 occupancies in academic buildings of institutions of higher learning are
+            
+244
+
+    
+required to have one emergency evacuation drill per year, provided the following conditions are
+
+            
+245
+
+
+    
+met:]
+            
+246
+
+    
+    [(A)  The building has a fire alarm system in accordance with Section 907.2.]
+            
+247
+
+    
+    [(B)  The rooms classified as assembly shall have fire safety floor plans as required in
+            
+248
+
+    
+Section 404.3.2(4) posted.]
+            
+249
+
+    
+    [(C)  The building is not classified a high-rise building.]
+            
+250
+
+    
+    [(D)  The building does not contain hazardous materials over the allowable quantities
+            
+251
+
+    
+by code."]
+            
+252
+
+    
+    [(2)] (1)  For IFC, Chapter 5, Fire Service Features:
+            
+253
+
+    
+    (a)  In IFC, Chapter 5, a new Section 501.5, Access grade and fire flow, is added as
+            
+254
+
+    
+follows: "An authority having jurisdiction over a structure built in accordance with the
+            
+255
+
+    
+requirements of the International Residential Code as adopted in the State Construction Code,
+            
+256
+
+    
+may require an automatic fire sprinkler system for the structure only by ordinance and only if
+            
+257
+
+    
+any of the following conditions exist:
+            
+258
+
+    
+    (i)  the structure:
+            
+259
+
+    
+    (A)  is located in an urban-wildland interface area as provided in the Utah Wildland
+            
+260
+
+    
+Urban Interface Code adopted as a construction code under the State Construction Code; and
+            
+261
+
+    
+    (B)  does not meet the requirements described in Utah Code, Subsection
+            
+262
+
+    
+
+65A-8-203
+
+(3)(a) and Utah Administrative Code, R652-122-200, Minimum Standards for
+            
+263
+
+    
+Wildland Fire Ordinance;
+            
+264
+
+    
+    (ii)  the structure is in an area where a public water distribution system with fire
+            
+265
+
+    
+hydrants does not exist as required in Utah Administrative Code, R309-550-5, Water Main
+            
+266
+
+    
+Design;
+            
+267
+
+    
+    (iii)  the only fire apparatus access road has a grade greater than 10% for more than 500
+            
+268
+
+    
+continual feet; or
+            
+269
+
+    
+    (iv) (A)  the water supply to the structure does not provide at least 500 gallons fire flow
+            
+270
+
+    
+per minute for a minimum of 30 minutes, if the total square foot living space of the structure is
+            
+271
+
+    
+equal to or less than 5,000 square feet;
+            
+272
+
+    
+    (B)  the water supply to the structure does not provide at least 750 gallons per minute
+            
+273
+
+    
+fire flow for a minimum of 30 minutes, if the total square foot living space exceeds 5,000
+            
+274
+
+    
+square feet, but is equal to or less than 10,000 square feet; or
+            
+275
+
+    
+    (C)  the water supply to the structure does not provide at least 1,000 gallons per minute
+
+            
+276
+
+
+    
+fire flow for a minimum of 30 minutes, if the total square foot living space exceeds 10,000
+            
+277
+
+    
+square feet."
+            
+278
+
+    
+    (b)  In IFC, Chapter 5, Section 506.1, Where Required, is deleted and rewritten as
+            
+279
+
+    
+follows:  "Where access to or within a structure or an area is restricted because of secured
+            
+280
+
+    
+openings or where immediate access is necessary for life-saving or fire-fighting purposes, the
+            
+281
+
+    
+fire code official, after consultation with the building owner, may require a key box to be
+            
+282
+
+    
+installed in an approved location.  The key box shall contain keys to gain necessary access as
+            
+283
+
+    
+required by the fire code official."
+            
+284
+
+    
+    [(b)] (c)  In IFC, Chapter 5, a new Section 507.1.1, Isolated one- and two-family
+            
+285
+
+    
+dwellings, is added as follows: "Fire flow may be reduced for an isolated one- and two-family
+            
+286
+
+    
+dwelling when the authority having jurisdiction over the dwelling determines that the
+            
+287
+
+    
+development of a full fire-flow requirement is impractical."
+            
+288
+
+    
+    [(c)] (d)  In IFC, Chapter 5, a new Section 507.1.2, Pre-existing subdivision lots, is
+            
+289
+
+    
+added as follows "Total water supply requirements shall not exceed the fire flows described in
+            
+290
+
+    
+Section 501.5(iv) for the largest one- or two-family dwelling, protected by an automatic fire
+            
+291
+
+    
+sprinkler system, on a subdivision lot platted before December 31, 1980, unless the
+            
+292
+
+    
+municipality or county in which the lot is located provides the required fire flow capacity."
+            
+293
+
+    
+    [(3)] (2)  For IFC, Chapter 6, Building Services and Systems:
+            
+294
+
+    
+    (a)  In IFC, Chapter 6, Section 605.11.3.3.1, Access, is deleted and rewritten as follows:
+            
+295
+
+    
+"There shall be a minimum three foot wide (914 mm) clear perimeter around the edges of the
+            
+296
+
+    
+roof."
+            
+297
+
+    
+    (b)  In IFC, Chapter 6, Section 605.11.3.3.2, Pathways, is deleted and rewritten as
+            
+298
+
+    
+follows: "The solar installation shall be designed to provide designated pathways. The
+            
+299
+
+    
+pathways shall meet the following requirements:
+            
+300
+
+    
+    1.  The pathway shall be over areas capable of supporting the live load of fire fighters
+            
+301
+
+    
+accessing the roof.
+            
+302
+
+    
+    2.  The centerline axis pathways shall be provided in both axes of the roof. Centerline
+            
+303
+
+    
+axis pathways shall run where the roof structure is capable of supporting the live load of fire
+            
+304
+
+    
+fighters accessing the roof.
+            
+305
+
+    
+    3.  Smoke and heat vents required by Section 910.2.1 or 910.2.2 of this Code, shall be
+            
+306
+
+    
+provided with a clear pathway width of not less than three feet (914 mm) to vents.
+
+            
+307
+
+
+    
+    4.  Access to roof area required by Section 504.2 or 1009.16 of this Code, shall be
+            
+308
+
+    
+provided with a clear pathway width of not less than three feet (914 mm) around access
+            
+309
+
+    
+opening and at least three feet (914 mm) clear pathway to parapet or roof edge."
+            
+310
+
+    
+    (c)  In IFC, Chapter 6, Section 605.11.3.2, Residential Systems for One and Two
+            
+311
+
+    
+Family Dwellings, is deleted and rewritten as follows: "Access to residential systems for one
+            
+312
+
+    
+and two family dwellings shall be provided in accordance with Sections 605.11.3.2.1 through
+            
+313
+
+    
+605.11.3.2.4.
+            
+314
+
+    
+    Exception: Reduction in pathways and clear access width shall be permitted where
+            
+315
+
+    
+shown that a rational approach has been used and that such reductions are warranted when
+            
+316
+
+    
+approved by the Fire Code Official."
+            
+317
+
+    
+    (d)  In IFC, Chapter 6, Section 605.11.3.3.3, Smoke Ventilation, is deleted and
+            
+318
+
+    
+rewritten as follows: "The solar installation shall be designed to meet the following
+            
+319
+
+    
+requirements:
+            
+320
+
+    
+    1.  Arrays shall be no greater than 150 feet (45.720 mm) by 150 feet (45.720 mm) in
+            
+321
+
+    
+distance in either axis in order to create opportunities for fire department smoke ventilation
+            
+322
+
+    
+operations.
+            
+323
+
+    
+    2.  Smoke ventilation options between array sections shall be one of the following:
+            
+324
+
+    
+    2.1.  A pathway six feet (1829 mm) or greater in width.
+            
+325
+
+    
+    2.2.  A three foot (914 mm) or greater in width pathway and bordering roof skylights or
+            
+326
+
+    
+smoke and heat vents when required by Section 910.2.1 or Section 910.2.2 of this Code.
+            
+327
+
+    
+    2.3.  Smoke and heat vents designed for remote operation using devices that can be
+            
+328
+
+    
+connected to the vent by mechanical, electrical, or any other suitable means, shall be protected
+            
+329
+
+    
+as necessary to remain operable for the design period. Controls for remote operation shall be
+            
+330
+
+    
+located in a control panel, clearly identified and located in an approved location."
+            
+331
+
+    
+    [(a)] (e)  In IFC, Chapter 6, Section 607.4, Elevator [keys] Key Location, is deleted and
+            
+332
+
+    
+rewritten as follows: "Firefighter service keys shall be kept in a "Supra-Stor-a-key" elevator
+            
+333
+
+    
+key box or similar box with corresponding key system that is adjacent to the elevator for
+            
+334
+
+    
+immediate use by the fire department.  The key box shall contain one key for each elevator, one
+            
+335
+
+    
+key for lobby control, and any other keys necessary for emergency service.  The elevator key
+            
+336
+
+    
+box shall be accessed using a 6049 numbered key.  [All existing elevator key box locks that do
+            
+337
+
+    
+not use the numbered 6049 key shall be changed to the 6049 key by December 31, 2011.]"
+
+            
+338
+
+
+    
+    [(b)] (f)  In IFC, Chapter 6, Section 609.1, General, is amended as follows: On line
+            
+339
+
+    
+three, after the word "Code", add the words "and NFPA 96".
+            
+340
+
+    
+    [(4)] (3)  For IFC, Chapter 7, Fire-Resistance-Rated Construction, IFC, Chapter 7,
+            
+341
+
+    
+Section 703.2, is amended to add the following: "Exception: In Group E Occupancies, where
+            
+342
+
+    
+the corridor serves an occupant load greater than 30 and the building does not have an
+            
+343
+
+    
+automatic fire sprinkler system installed, the door closers may be of the friction hold-open type
+            
+344
+
+    
+on classrooms' doors with a rating of 20 minutes or less only."
+            
+345
+
+    
+    Section 5.  
+Section  
+15A-5-204
+
+ is amended to read:
+            
+346
+
+    
+     15A-5-204.  Amendments and additions to IFC related to fire protection systems.
+            
+347
+
+    
+    For IFC, Fire Protection Systems:
+            
+348
+
+    
+    (1)  IFC, Chapter 9, Section 901.2, Construction Documents, is amended to add the
+            
+349
+
+    
+following at the end of the section: "The code official has the authority to request record
+            
+350
+
+    
+drawings ("as builts")  to verify any modifications to the previously approved construction
+            
+351
+
+    
+documents."
+            
+352
+
+    
+    [(2)  IFC, Chapter 9, Section 902.1, Definitions, RECORD DRAWINGS, is deleted and
+            
+353
+
+    
+rewritten as follows: "Drawings ("as builts")  that document all aspects of a fire protection
+            
+354
+
+    
+system as installed."]
+            
+355
+
+    
+    (2)  IFC, Chapter 9, Section 901.4.6, Pump and Riser Room Size, is deleted and
+            
+356
+
+    
+replaced with the following: "Pump and Riser Room Size.  Fire pump and automatic sprinkler
+            
+357
+
+    
+system riser rooms shall be designed with adequate space for all installed equipment necessary
+            
+358
+
+    
+for the installation and to provide sufficient working space around the stationary equipment. 
+            
+359
+
+    
+Clearances around equipment shall be in accordance with manufacturer requirements and not
+            
+360
+
+    
+less than the following minimum elements:
+            
+361
+
+    
+    901.4.6.1  A minimum clear and unobstructed distance of 12-inches shall be provided
+            
+362
+
+    
+from the installed equipment to the elements of permanent construction.
+            
+363
+
+    
+    901.4.6.2  A minimum clear and unobstructed distance of 12-inches shall be provided
+            
+364
+
+    
+between all other installed equipment and appliances.
+            
+365
+
+    
+    901.4.6.3  A clear and unobstructed width of 36-inches shall be provided in front of all
+            
+366
+
+    
+installed equipment and appliances, to allow for inspection, service, repair or replacement
+            
+367
+
+    
+without removing such elements of permanent construction or disabling the function of a
+            
+368
+
+    
+required fire-resistance-rated assembly.
+
+            
+369
+
+
+    
+    901.4.6.4  Automatic sprinkler system riser rooms shall be provided with a clear and
+            
+370
+
+    
+unobstructed passageway to the riser room of not less than 36-inches, and openings into the
+            
+371
+
+    
+room shall be clear and unobstructed, with doors swinging in the outward direction from the
+            
+372
+
+    
+room and the opening providing a clear width of not less than 34-inches and a clear height of
+            
+373
+
+    
+the door opening shall not be less than 80-inches.
+            
+374
+
+    
+    901.4.6.5  Fire pump rooms shall be provided with a clear and unobstructed
+            
+375
+
+    
+passageway to the fire pump room of not less than 72-inches, and openings into the room shall
+            
+376
+
+    
+be clear, unobstructed and large enough to allow for the removal of the largest piece of
+            
+377
+
+    
+equipment, with doors swinging in the outward direction from the room and the opening
+            
+378
+
+    
+providing a clear width of not less than 68-inches and a clear height of the door opening shall
+            
+379
+
+    
+not be less than 80-inches."
+            
+380
+
+    
+    (3)  IFC, Chapter 9, Section 903.2.1.2, Group A-2, is amended to add the following
+            
+381
+
+    
+subsection: "4.  An automatic fire sprinkler system shall be provided throughout Group A-2
+            
+382
+
+    
+occupancies where indoor pyrotechnics are used."
+            
+383
+
+    
+    (4)  IFC, Chapter 9, Section 903.2.2, [Group B ambulatory] Ambulatory Health Care
+            
+384
+
+    
+Facilities, is amended as follows: On line [three] two delete the words "all fire areas floor" and
+            
+385
+
+    
+replace with the word "buildings" and delete the last paragraph.
+            
+386
+
+    
+    (5)  IFC, Chapter 9, Section 903.2.4, Group F-1, Subsection 2, is deleted and rewritten
+            
+387
+
+    
+as follows: "A Group F-1 fire area is located more than three stories above the lowest level of
+            
+388
+
+    
+fire department vehicle access."
+            
+389
+
+    
+    (6)  IFC, Chapter 9, Section 903.2.7, Group M, Subsection 2, is deleted and rewritten as
+            
+390
+
+    
+follows: "A Group M fire area is located more than three stories above the lowest level of fire
+            
+391
+
+    
+department vehicle access."
+            
+392
+
+    
+    (7)  IFC, Chapter 9, Section 903.2.8 Group R, is amended to add the following:
+            
+393
+
+    
+"Exception: Detached one- and two-family dwellings and multiple single-family dwellings
+            
+394
+
+    
+(townhouses) constructed in accordance with the International Residential Code for one- and
+            
+395
+
+    
+two-family dwellings."
+            
+396
+
+    
+    (8)  IFC, Chapter 9, Section 903.2.8, Group R, is amended to add a second exception as
+            
+397
+
+    
+follows: "Exception: Group R-4 fire areas not more than 4,500 gross square feet and not
+            
+398
+
+    
+containing more than 16 residents, provided the building is equipped throughout with an
+            
+399
+
+    
+approved fire alarm system that is interconnected and receives its primary power from the
+
+            
+400
+
+
+    
+building wiring and a commercial power system."
+            
+401
+
+    
+    (9)  IFC, Chapter 9, Section 903.2.9, Group S-1, Subsection 2, is deleted and rewritten
+            
+402
+
+    
+as follows: "A Group S-1 fire area is located more than three stories above the lowest level of
+            
+403
+
+    
+fire department vehicle access."
+            
+404
+
+    
+    [(10)  (a)  IFC, Chapter 9, Section 903.2.10, Group S-2 enclosed parking garages, is
+            
+405
+
+    
+deleted and rewritten as follows: "An automatic sprinkler system shall be provided throughout
+            
+406
+
+    
+buildings classified as parking garages in accordance with Section 406.2 of the International
+            
+407
+
+    
+Building Code or where located beneath other groups."]
+            
+408
+
+    
+    [(b)  IFC, Chapter 9, Section 903.2.10, Group S-2 enclosed parking garages, the
+            
+409
+
+    
+exception is deleted and rewritten as follows: "Exception: Parking garages of less than 5,000
+            
+410
+
+    
+square feet (464m2) accessory to Group R-3 occupancies."]
+            
+411
+
+    
+    [(c)  IFC, Chapter 9, Section 903.2.10, Group S-2 enclosed parking garages, is amended
+            
+412
+
+    
+to add a second exception, as follows: "Exception: Open parking garages not located beneath
+            
+413
+
+    
+other groups if one of the following conditions are met:]
+            
+414
+
+    
+[1.  Access is provided for fire fighting operations to within 150 feet (45,720mm) of all
+            
+415
+
+    
+portions of the parking garage as measured from the approved fire department vehicle access,
+            
+416
+
+    
+or]
+            
+417
+
+    
+[2.  Class I standpipes are installed throughout the parking garage."]
+            
+418
+
+    
+    [(11)  IFC, Chapter 9, Section 903.2.10.1, Commercial parking garages, is deleted and
+            
+419
+
+    
+rewritten as follows: "An automatic sprinkler system shall be provided throughout buildings
+            
+420
+
+    
+used for storage of commercial trucks or buses."]
+            
+421
+
+    
+    [(12)] (10)  IFC, Chapter 9, Section 903.3.1.1 is amended by adding the following
+            
+422
+
+    
+subsection: "903.3.1.1.2 Antifreeze Limitations.  Antifreeze used in a new automatic sprinkler
+            
+423
+
+    
+system installed in accordance with NFPA 13 may not exceed a maximum concentration of
+            
+424
+
+    
+38% premixed propylene glycol or 48% premixed glycerin, and the capacity of the system may
+            
+425
+
+    
+not exceed 150 gallons."
+            
+426
+
+    
+    [(13)] (11)  IFC, Chapter 9, Section 903.3.1.2 is amended by adding the following
+            
+427
+
+    
+subsection: "903.3.1.2.2 Antifreeze Limitations.  Antifreeze used in a new automatic sprinkler
+            
+428
+
+    
+system installed in accordance with NFPA 13R may not exceed a maximum concentration of
+            
+429
+
+    
+38% premixed propylene glycol or 48% premixed glycerin, and the capacity of the system may
+            
+430
+
+    
+not exceed 150 gallons."
+
+            
+431
+
+
+    
+    [(14)] (12)  IFC, Chapter 9, Section 903.3.1.3 is amended by adding the following
+            
+432
+
+    
+subsection: "903.3.1.3.1 Antifreeze Limitations.  Antifreeze used in a new automatic sprinkler
+            
+433
+
+    
+system installed in accordance with NFPA 13D may not exceed a maximum concentration of
+            
+434
+
+    
+38% premixed propylene glycol or 48% premixed glycerin, and the capacity of the system may
+            
+435
+
+    
+not exceed 150 gallons."
+            
+436
+
+    
+    [(15)] (13)  IFC, Chapter 9, Section 903.3.5, Water supplies, is amended as follows: On
+            
+437
+
+    
+line six, after the word "Code", add "and as amended in Utah's State Construction Code".
+            
+438
+
+    
+    [(16)] (14)  IFC, Chapter 9, Section 903.5 is amended to add the following subsection:
+            
+439
+
+    
+"903.5.1 Tag and Information.  A tag shall be attached to the riser indicating the date the
+            
+440
+
+    
+antifreeze solution was tested.  The tag shall also indicate the type and concentration of
+            
+441
+
+    
+antifreeze solution by volume with which the system is filled, the name of the contractor that
+            
+442
+
+    
+tested the antifreeze solution, the contractor's license number, and a warning to test the
+            
+443
+
+    
+concentration of the antifreeze solutions at yearly intervals."
+            
+444
+
+    
+    [(17)  IFC, Chapter 9, Section 903.6, Existing Buildings, and Chapter 46, Section
+            
+445
+
+    
+4603.4, Sprinkler systems, are amended to add the following subsection to each section:
+            
+446
+
+    
+"903.6.3 Group A-2 and 4603.4.3 Group A-2.  An automatic fire sprinkler system shall be
+            
+447
+
+    
+provided throughout existing Group A-2 occupancies where indoor pyrotechnics are used."]
+            
+448
+
+    
+    [(18)] (15)  IFC, Chapter 9, Section 904.11, Commercial cooking systems, is deleted
+            
+449
+
+    
+and rewritten as follows: "The automatic fire extinguishing system for commercial cooking
+            
+450
+
+    
+systems shall be of a type recognized for protection of commercial cooking equipment and
+            
+451
+
+    
+exhaust systems.  Pre-engineered automatic extinguishing systems shall be tested in accordance
+            
+452
+
+    
+with UL300 and listed and labeled for the intended application.  The system shall be installed
+            
+453
+
+    
+in accordance with this code, its listing and the manufacturer's installation instructions.  The
+            
+454
+
+    
+exception in Section 904.11 is not deleted and shall remain as currently written in the IFC."
+            
+455
+
+    
+    [(19)] (16)  IFC, Chapter 9, Section 904.11.3, Carbon dioxide systems, and Section
+            
+456
+
+    
+904.11.3.1, Ventilation system, are deleted and rewritten as follows:
+            
+457
+
+    
+    (a)  "Existing automatic fire extinguishing systems used for commercial cooking that
+            
+458
+
+    
+use dry chemical are prohibited and shall be removed from service."
+            
+459
+
+    
+    (b)  "Existing wet chemical fire extinguishing systems used for commercial cooking
+            
+460
+
+    
+that are not UL300 listed and labeled are prohibited and shall be either removed or upgraded to
+            
+461
+
+    
+a UL300 listed and labeled system."
+
+            
+462
+
+
+    
+    [(20)] (17)  IFC, Chapter 9, Section 904.11.4, Special provisions for automatic sprinkler
+            
+463
+
+    
+systems, is amended to add the following subsection: "904.11.4.2 Existing automatic fire
+            
+464
+
+    
+sprinkler systems protecting commercial cooking equipment, hood, and exhaust systems that
+            
+465
+
+    
+generate appreciable depth of cooking oils shall be replaced with a UL300 system that is listed
+            
+466
+
+    
+and labeled for the intended application."
+            
+467
+
+    
+    [(21)] (18)  IFC, Chapter 9, Section 904.11.6.2, Extinguishing system service, is
+            
+468
+
+    
+amended to add the following: "Exception: Automatic fire extinguishing systems located in
+            
+469
+
+    
+occupancies where usage is limited and less than six consecutive months may be serviced
+            
+470
+
+    
+annually if the annual service is conducted immediately before the period of usage, and
+            
+471
+
+    
+approval is received from the AHJ."
+            
+472
+
+    
+    (19)  IFC, Chapter 9, Section 905.3.9 is a new subsection as follows: "Open Parking
+            
+473
+
+    
+Garages.  Open parking garages shall be equipped with an approved Class I manual standpipe
+            
+474
+
+    
+system when fire department access is not provided for firefighting operations to within 150
+            
+475
+
+    
+feet of all portions of the open parking garage as measured from the approved fire department
+            
+476
+
+    
+vehicle access.  Class I manual standpipe shall be accessible throughout the parking garage
+            
+477
+
+    
+such that all portions of the parking structure are protected within 150 feet of a hose
+            
+478
+
+    
+connection.
+            
+479
+
+    
+    Exception: Open parking garages equipped throughout with an automatic sprinkler
+            
+480
+
+    
+system in accordance with Section 903.3.1.1."
+            
+481
+
+    
+    (20)  IFC, Chapter 9, Section 905.8, Dry Standpipes, Exception is deleted and rewritten
+            
+482
+
+    
+as follows: "Where subject to freezing conditions and approved by the fire code official."
+            
+483
+
+    
+    [(22)] (21)  IFC, Chapter 9, Section 905.11, Existing buildings, and IFC, Chapter [46]
+            
+484
+
+    
+11, Section [4603.5] 1103.6, Standpipes, are deleted.
+            
+485
+
+    
+    [(23)  IFC, Chapter 9, Section 907.3, Where required in existing buildings and
+            
+486
+
+    
+structures, is deleted, and IFC, Chapter 46, Section 4603.6, Fire alarm systems, is deleted and
+            
+487
+
+    
+rewritten as follows: "An approved automatic fire detection system shall be installed in
+            
+488
+
+    
+accordance with the provisions of this code and NFPA 72.  Devices, combinations of devices,
+            
+489
+
+    
+appliances, and equipment shall be approved.  The automatic fire detectors shall be smoke
+            
+490
+
+    
+detectors, except an approved alternative type of detector shall be installed in spaces such as
+            
+491
+
+    
+boiler rooms where, during normal operation, products of combustion are present in sufficient
+            
+492
+
+    
+quantity to actuate a smoke detector."]
+
+            
+493
+
+
+    
+    (22)  IFC, Chapter 9, Section 907.2.3 Group E:
+            
+494
+
+    
+    (a)  The first sentence is deleted and rewritten as follows: "A manual fire alarm system
+            
+495
+
+    
+that initiates the occupant notification system in accordance with Section 907.5 and installed in
+            
+496
+
+    
+accordance with Section 907.6 shall be installed in Group E occupancies."
+            
+497
+
+    
+    (b)  Exception number 3, on line five, delete the words, "emergency voice/alarm
+            
+498
+
+    
+communication system" and replace with "occupant notification system."
+            
+499
+
+    
+    [(24)] (23)  IFC, Chapter 9, [Section 907.9.5, Maintenance, inspection, and testing]
+            
+500
+
+    
+907.8, Inspection, testing, and maintenance, is amended to add the following sentences at the
+            
+501
+
+    
+end of the section: "Increases in nuisance alarms shall require the fire alarm system to be tested
+            
+502
+
+    
+for sensitivity.  Fire alarm systems that continue after sensitivity testing with unwarranted
+            
+503
+
+    
+nuisance alarms shall be replaced as directed by the AHJ."
+            
+504
+
+    
+    [(25)  IFC, Chapter 9, Section 907.10, Carbon monoxide alarms, is added as follows:
+            
+505
+
+    
+"Carbon monoxide alarms shall be installed on each habitable level of a dwelling unit or
+            
+506
+
+    
+sleeping unit in Groups R-2, R-3, R-4, and I-1 equipped with fuel burning appliances.]
+            
+507
+
+    
+[901.10.21.1.  If more than one carbon monoxide detector is required, they shall be
+            
+508
+
+    
+interconnected as required in IFC, Chapter 9, Section 907.2.11.3.]
+            
+509
+
+    
+[901.10.21.2.  In new construction, carbon monoxide detectors shall receive their primary
+            
+510
+
+    
+power as required in IFC, Chapter 9, Section 907.2.11.4.]
+            
+511
+
+    
+[901.10.21.3.  Upon completion of the installation, the carbon monoxide detector system will
+            
+512
+
+    
+meet the requirements listed in NFPA 720, Installation of Carbon Monoxide Detection and
+            
+513
+
+    
+Warning Equipment and UL2034, Standard for Single and Multiple Station Carbon Monoxide
+            
+514
+
+    
+Alarms."]
+            
+515
+
+    
+    (24)  IFC, Chapter 9, Section 908.7, Carbon Monoxide Alarms, is amended as follows:
+            
+516
+
+    
+On line four after the word "alarms" insert the following sentence: "A minimum of one carbon
+            
+517
+
+    
+monoxide alarm shall be installed on each habitable level." The entire Exception is deleted.
+            
+518
+
+    
+    Section 6.  
+Section  
+15A-5-205
+
+ is amended to read:
+            
+519
+
+    
+     15A-5-205.   Amendments and additions to IFC related to means of egress and
+            
+520
+
+    
+ special processes and uses.
+            
+521
+
+    
+    [For IFC, Means of Egress:]
+            
+522
+
+    
+    (1)  IFC, Chapter 10, Section 1008.1.9.6, Special locking arrangements in Group I-2, is
+            
+523
+
+    
+amended as follows:
+
+            
+524
+
+
+    
+    (a)  The section title "Special locking arrangements in Group I-2." is rewritten to read
+            
+525
+
+    
+"Special locking arrangements in Groups I-1 and I-2."
+            
+526
+
+    
+    (b)  On line three, [after] delete the word "Group", and add the words "Group ["]I-1
+            
+527
+
+    
+and".
+            
+528
+
+    
+    [(c)  On line two and line four delete the word "delayed" and replace it with the word
+            
+529
+
+    
+"controlled".]
+            
+530
+
+    
+    [(d)  Beginning on line 11, the entire sentence that begins with "A building occupant" is
+            
+531
+
+    
+deleted.]
+            
+532
+
+    
+    [(e)] (c)  After existing Item [6] 7 add Item [7] 8 as follows: ["7] "8.  The secure area or
+            
+533
+
+    
+unit with [controlled egress doors] special egress locks shall be located at the level of exit
+            
+534
+
+    
+discharge in Type V construction."
+            
+535
+
+    
+    (2)  In IFC, Chapter 10, Section 1008.1.9.7, Delayed egress locks, Item 7 is added after
+            
+536
+
+    
+the existing Item 6 as follows: "7.  The secure area or unit with delayed egress locks shall be
+            
+537
+
+    
+located at the level of exit discharge in Type V construction."
+            
+538
+
+    
+    [(3)  IFC, Chapter 10, Section 1009.4.2, Riser height and tread depth, is amended as
+            
+539
+
+    
+follows:]
+            
+540
+
+    
+    [(a)  On line six of Exception 5 delete "7¾ inches (197mm)" and replace it with "8
+            
+541
+
+    
+inches".]
+            
+542
+
+    
+    [(b)  On line seven of Exception 5 delete "10 inches (254mm)" and replace it with "9
+            
+543
+
+    
+inches".]
+            
+544
+
+    
+    (3)  "In IFC, Chapter 10, Section [B] 1009.7.2, Stair Treads and Risers, Exception 5 is
+            
+545
+
+    
+deleted and replaced with the following: "5.  In Group R-3 occupancies, within dwelling units
+            
+546
+
+    
+in Group R-2 occupancies, and in Group U occupancies that are accessory to a Group R-3
+            
+547
+
+    
+occupancy, or accessory to individual dwelling units in Group R-2 occupancies, the maximum
+            
+548
+
+    
+riser height shall be 8 inches (203 mm) and the minimum tread depth shall be 9 inches (229
+            
+549
+
+    
+mm).  The minimum winder tread depth at the walk line shall be 10 inches (254 mm), and the
+            
+550
+
+    
+minimum winder tread depth shall be 6 inches (152 mm).  A nosing not less than 0.75 inch
+            
+551
+
+    
+(19.1 mm) but not more than 1.25 inches (32 mm) shall be provided on stairways with solid
+            
+552
+
+    
+risers where the tread depth is less than 10 inches (254 mm)."
+            
+553
+
+    
+    (4)  IFC, Chapter 10, Section 1009.12 [B] 1009.15, Handrails, is amended to add the
+            
+554
+
+    
+following exception: "6.  In occupancies in Group R-3, as applicable in Section [101.2] 1012
+
+            
+555
+
+
+    
+and in occupancies in Group U, which are accessory to an occupancy in Group R-3, as
+            
+556
+
+    
+applicable in Section [101.2] 1012, handrails shall be provided on at least one side of stairways
+            
+557
+
+    
+consisting of four or more risers."
+            
+558
+
+    
+    [(5)  IFC, Chapter 10, Section 1013.2, Height, is amended to add the following
+            
+559
+
+    
+exception: "5.  For occupancies in Group R-3 and within individual dwelling units in
+            
+560
+
+    
+occupancies in Group R-2, as applicable in Section 101.2, guards shall form a protective barrier
+            
+561
+
+    
+not less than 36 inches (914mm)."]
+            
+562
+
+    
+    [(6)  IFC, Chapter 10, Section 1015.2.2, Three or more exits or exit access doorways, is
+            
+563
+
+    
+amended to add the following sentence at the end of the section: "Additional exits or exit
+            
+564
+
+    
+access doorways shall be arranged a reasonable distance apart so that if one becomes blocked,
+            
+565
+
+    
+the others will be available."]
+            
+566
+
+    
+    [(7)] (5)  IFC, Chapter 10, Section 1024, Luminous Egress Path Markings, is deleted.
+            
+567
+
+    
+    [(8)] (6)  IFC, Chapter 10, Section [1030.2, Reliability] 1030.2.1, Security Devices and
+            
+568
+
+    
+Egress Locks, is amended to add the following: On line [six] three, after the word "fire", add
+            
+569
+
+    
+the words "and building".
+            
+570
+
+    
+    Section 7.  
+Section  
+15A-5-205.5
+
+ is enacted to read:
+            
+571
+
+    
+     15A-5-205.5.  Amendments to Chapter 11 of IFC.
+            
+572
+
+    
+    (1)  In IFC, Chapter 11, section 1103.2 Emergency Responder Radio Coverage in
+            
+573
+
+    
+Existing Buildings, is amended as follows: On line two after the title, the following is added:
+            
+574
+
+    
+"When required by the fire code official".
+            
+575
+
+    
+    (2)  IFC, Chapter 11, Section 1103.5, Sprinkler Systems, is amended to add the
+            
+576
+
+    
+following new subsection: "1103.5.3 Group A-2.  An automatic fire sprinkler system shall be
+            
+577
+
+    
+provided throughout existing Group A-2 occupancies where indoor pyrotechnics are used."
+            
+578
+
+    
+    (3)  IFC, Chapter 11, Section 1103.6, Standpipes, is deleted.
+            
+579
+
+    
+    (4)  In IFC, Chapter 11, 1103.7, Fire Alarm Systems, is deleted and rewritten as
+            
+580
+
+    
+follows: "1103.7, Fire Alarm Systems.  The following shall have an approved fire alarm system
+            
+581
+
+    
+installed in accordance with Utah Administrative Code Section R710-4:
+            
+582
+
+    
+    1.  a building with an occupant load of 300 or more persons that is owned or operated
+            
+583
+
+    
+by the state;
+            
+584
+
+    
+    2.  a building with an occupant load of 300 or more persons that is owned or operated
+            
+585
+
+    
+by an institution of higher education; and
+
+            
+586
+
+
+    
+    3.  a building with an occupant load of 50 or more persons that is owned or operated by
+            
+587
+
+    
+a school district, private school, or charter school.
+            
+588
+
+    
+    Exception: the requirements of this section do not apply to a building designated as an
+            
+589
+
+    
+Institutional Group I (as defined in IFC 202) occupancy.
+            
+590
+
+    
+    (5)  IFC, Chapter 11, 1103.7.1 Group E, 1103.7.2 Group I-1, 1103.7.3 Group I-2,
+            
+591
+
+    
+1103.7.4 Group I-3, 1103.7.5 Group R-1, 1103.7.5.1 Group R-1 Hotel and Motel Manual Fire
+            
+592
+
+    
+Alarm System, 1103.7.5.1.1 Group R-1 Hotel and Motel Automatic Smoke Detection System,
+            
+593
+
+    
+1103.7.5.2 Group R-1 Boarding and Rooming Houses Manual Fire Alarm System, 1103.7.5.2.1
+            
+594
+
+    
+Group R-1 Boarding and Rooming Houses Automatic Smoke Detection System, 1103.7.6
+            
+595
+
+    
+Group R-2 and 1103.7.7 Group R-4, are deleted.
+            
+596
+
+    
+    (6)  IFC, Chapter 11, Section 1103.9, Carbon Monoxide Alarms, is deleted and
+            
+597
+
+    
+rewritten as follows: "Existing Group I or R occupancies located in a building containing a
+            
+598
+
+    
+fuel-burning appliance or a building which has an attached garage shall be equipped with
+            
+599
+
+    
+single-station carbon monoxide alarms.  A minimum of one carbon monoxide alarm shall be
+            
+600
+
+    
+installed on each habitable level.  The carbon monoxide alarms shall be listed as complying
+            
+601
+
+    
+with UL 2034, and be installed maintained in accordance with NFPA 720 and the
+            
+602
+
+    
+manufacturer's instructions.  An open parking garage, as defined in the International Building
+            
+603
+
+    
+Code, or an enclosed parking garage ventilated in accordance with Section 404 of the
+            
+604
+
+    
+International Building Code shall not be deemed to be an attached garage."
+            
+605
+
+    
+    Section 8.  
+Section  
+15A-5-206
+
+ is amended to read:
+            
+606
+
+    
+     15A-5-206.  Amendments and additions to IFC related to hazardous materials,
+            
+607
+
+    
+ explosives, fireworks, and flammable and combustible liquids.
+            
+608
+
+    
+    (1)  For IFC, Explosives and Fireworks, IFC, Chapter [33] 56, Section [3301.1.3]
+            
+609
+
+    
+5601.3, Fireworks, Exception 4 is amended to add the following sentence at the end of the
+            
+610
+
+    
+exception: "The use of fireworks for display and retail sales is allowed as set forth in Utah
+            
+611
+
+    
+Code, Title 53, Chapter 7, Utah Fire Prevention and Safety Act, Sections 
+
+53-7-220
+
+ through
+            
+612
+
+    
+
+53-7-225
+
+; Utah Code, Title 11, Chapter 3, County and Municipal Fireworks Act; Utah
+            
+613
+
+    
+Administrative Code, R710-2; and the State Fire Code."
+            
+614
+
+    
+    (2)  For IFC, Chapter 57, Flammable and Combustible Liquids:
+            
+615
+
+    
+    (a)  IFC, Chapter [34] 57, Section [3401.4] 5701.4, Permits, is amended to add the
+            
+616
+
+    
+following at the end of the section: "The owner of an underground tank that is out of service for
+
+            
+617
+
+
+    
+longer than one year shall receive a Temporary Closure Notice from the Department of
+            
+618
+
+    
+Environmental Quality, and a copy shall be given to the AHJ."
+            
+619
+
+    
+    (b)  IFC, Chapter [34] 57, Section [3406.1] 5706.1, General, is amended to add the
+            
+620
+
+    
+following special operation: "8.  Sites approved by the AHJ".
+            
+621
+
+    
+    (c)  IFC, Chapter [34] 57, Section [3406.2] 5706.2, Storage and dispensing of
+            
+622
+
+    
+flammable and combustible liquids on farms and construction sites, is amended to add the
+            
+623
+
+    
+following: On line five, after the words "borrow pits", add the words "and sites approved by the
+            
+624
+
+    
+AHJ".
+            
+625
+
+    
+    (3)  For IFC, Chapter 61, Liquefied Petroleum Gas:
+            
+626
+
+    
+    (a)  IFC, Chapter [38] 61, Section [3801.2] 6101.2, Permits, is amended as follows: On
+            
+627
+
+    
+line two, after the word "105.7", add "and the adopted LP Gas rules".
+            
+628
+
+    
+    (b)  IFC, Chapter [38] 61, Section [3803.1] 6103.1, General, is deleted and rewritten as
+            
+629
+
+    
+follows: "General.  LP Gas equipment shall be installed in accordance with NFPA 54, NFPA
+            
+630
+
+    
+58, the adopted LP Gas rules, and the International Fuel Gas Code, except as otherwise
+            
+631
+
+    
+provided in this chapter."
+            
+632
+
+    
+    (c)  Chapter [38] 61, Section [3809.12] 6109.12, Location of storage outside of
+            
+633
+
+    
+buildings, is amended as follows: In Table [3809.12] 6109.12, Doorway or opening to a
+            
+634
+
+    
+building with two or more means of egress, with regard to quantities 720 or less and 721 --
+            
+635
+
+    
+2,500, the currently stated "5" is deleted and replaced with "10".
+            
+636
+
+    
+    [(d)  IFC, Chapter 38, Section 3809.14, Alternative location and protection of storage,
+            
+637
+
+    
+is amended as follows: Delete "20" from line three and replace it with "10".]
+            
+638
+
+    
+    (d)  IFC, Chapter 61, Section 6109.15.1, Automated Cylinder Exchange Stations, is
+            
+639
+
+    
+amended as follows: Item # 4 is deleted.
+            
+640
+
+    
+    (e)  IFC, Chapter [38] 61, Section [3810.1] 6110.1, Temporarily out of service, is
+            
+641
+
+    
+amended as follows: On line two, after the word "discontinued", add the words "for more than
+            
+642
+
+    
+one year or longer as allowed by the AHJ,".
+            
+643
+
+    
+    Section 9.  
+Section  
+15A-5-207
+
+ is amended to read:
+            
+644
+
+    
+     15A-5-207.  Amendments and additions to IFC related to existing buildings and
+            
+645
+
+    
+ referenced standards.
+            
+646
+
+    
+    IFC, Chapter [47] 80, Referenced Standards, is amended as follows:
+            
+647
+
+    
+    (1)  Under the heading NFPA - National Fire Protection Association, delete the existing
+
+            
+648
+
+
+    
+"Standard reference number" with regard to the edition and replace it with the following:
+            
+649
+
+    
+    (a)  "NFPA, Standard 10, Portable Fire Extinguishers, 2010 edition";
+            
+650
+
+    
+    (b)  "NFPA, Standard 11, Low-, Medium- and High-expansion Foam, 2010 edition";
+            
+651
+
+    
+    (c)  "NFPA, Standard 12, Carbon Dioxide Extinguishing Systems, 2008 edition";
+            
+652
+
+    
+    (d)  "NFPA, Standard 12A, Halon 1301 Fire Extinguishing System, 2009 edition";
+            
+653
+
+    
+    (e)  "NFPA, Standard 13, Installation of Sprinkler Systems, 2010 edition";
+            
+654
+
+    
+    (f)  "NFPA, Standard 13D, Installation of Sprinkler Systems in One- and Two-family
+            
+655
+
+    
+Dwellings and Manufactured Homes, 2010 edition";
+            
+656
+
+    
+    (g)  "NFPA, Standard 13R, Installation of Sprinkler Systems in Residential
+            
+657
+
+    
+Occupancies up to and Including Four Stories in Height, 2010 edition";
+            
+658
+
+    
+    (h)  "NFPA, Standard 14, Installation of Standpipe and Hose Systems, 2010 edition";
+            
+659
+
+    
+    (i)  "NFPA, Standard 17, Dry Chemical Extinguishing Systems, 2009 edition";
+            
+660
+
+    
+    (j)  "NFPA, Standard 17A, Wet Chemical Extinguishing Systems, 2009 edition";
+            
+661
+
+    
+    (k)  "NFPA, Standard 20, Installation of Stationary Pumps for Fire Protection, 2010
+            
+662
+
+    
+edition";
+            
+663
+
+    
+    (l)  "NFPA, Standard 22, Water Tanks for Private Fire Protection, 2008 edition";
+            
+664
+
+    
+    (m)  "NFPA, Standard 24, Installation of Private Fire Service Mains and Their
+            
+665
+
+    
+Appurtenances, 2010 edition";
+            
+666
+
+    
+    (n)  "NFPA, Standard 72, National Fire Alarm Code, 2010 edition," all "Referenced in
+            
+667
+
+    
+code section numbers" remain the same, except the exclusion of Table 508.1.5;
+            
+668
+
+    
+    (o)  "NFPA, Standard 92B, Smoke Management Systems in Malls, Atria and Large
+            
+669
+
+    
+Spaces, 2009 edition";
+            
+670
+
+    
+    (p)  "NFPA, Standard 101, Life Safety Code, 2009 edition";
+            
+671
+
+    
+    (q)  "NFPA, Standard 110, Emergency and Standby Power Systems, 2010 edition";
+            
+672
+
+    
+    (r)  "NFPA 720, Installation of Carbon Monoxide (CO) Detection and Warning
+            
+673
+
+    
+Equipment, 2009 edition";
+            
+674
+
+    
+    (s)  "NFPA, Standard 750, Water Mist Fire Protection Systems, 2010 edition"; and
+            
+675
+
+    
+    (t)  "NFPA, Standard 1123, Fireworks Display, 2010 edition."
+            
+676
+
+    
+    (2)  Under the heading UL -- Underwriters Laboratories, Inc., add the following:
+            
+677
+
+    
+"UL2034, Standard for Single and Multiple Station Carbon Monoxide Alarms, 1998."
+            
+678
+
+    
+    Section 10.  
+Section  
+15A-5-302
+
+ is amended to read:
+
+            
+679
+
+
+    
+     15A-5-302.  Amendments and additions to NFPA related to National Fire Alarm
+            
+680
+
+    
+ Code.
+            
+681
+
+    
+    For NFPA 72, National Fire Alarm Code:
+            
+682
+
+    
+    (1)  NFPA 72, Chapter 2, Section 2.2, NFPA Publications, is amended to add the
+            
+683
+
+    
+following NFPA standard: "NFPA 20, Standard for the Installation of Stationary Pumps for
+            
+684
+
+    
+Fire Protection, [2007] 2010 edition."
+            
+685
+
+    
+    (2)  NFPA 72, Chapter [4] 10, Section [4.3.2] 10.4.1, System Designer, Subsection
+            
+686
+
+    
+[4.3.2.2(2)] 10.4.1.2(2), is deleted and rewritten as follows: "National Institute of Certification
+            
+687
+
+    
+in Engineering Technologies (NICET) fire alarm level II certified personnel."
+            
+688
+
+    
+    (3)  NFPA 72, Chapter [4] 10, Section [4.3.3] 10.4.2, System Installer, Subsection
+            
+689
+
+    
+[4.3.3(2)] 10.4.2.2(2), is deleted and rewritten as follows: "National Institute of Certification in
+            
+690
+
+    
+Engineering Technologies (NICET) fire alarm level II certified personnel."
+            
+691
+
+    
+    (4)  NFPA 72, Chapter [4] 10, Section [4.4.3.7,] 10.10, Fire Alarm Signal Deactivation,
+            
+692
+
+    
+Subsection [4.4.3.7.2] 10.10.2, is amended to add the following sentence: "When approved by
+            
+693
+
+    
+the AHJ, the audible notification appliances may be deactivated during the investigation mode
+            
+694
+
+    
+to prevent unauthorized reentry into the building."
+            
+695
+
+    
+    (5)  NFPA 72, Chapter [4] 10, Section [4.4.5] 10.15, Protection of Fire Alarm System,
+            
+696
+
+    
+is deleted and rewritten as follows: "Automatic smoke detection shall be provided at the
+            
+697
+
+    
+location of each fire alarm control unit(s), notification appliance circuit power extenders, and
+            
+698
+
+    
+supervising station transmitting equipment to provide notification of fire at the location."
+            
+699
+
+    
+    (6)  In NFPA 72, Chapter [4] 10, Section [4.4.5] 10.15, a new Exception 1 is added as
+            
+700
+
+    
+follows: "When ambient conditions prohibit installation of automatic smoke detection,
+            
+701
+
+    
+automatic heat detection shall be permitted."
+            
+702
+
+    
+    (7)  In NFPA 72, Chapter [6] 23, Section [6.8.5.9] 23.8.5.9, Signal Initiation -- Fire
+            
+703
+
+    
+Pump, Subsection [6.8.5.9.3] 23.8.5.9.3 is added as follows: "Automatic fire pumps shall be
+            
+704
+
+    
+supervised in accordance with NFPA 20, Standard for the Installation of Stationary Pumps for
+            
+705
+
+    
+Fire Protection, and the AHJ."
+            
+706
+
+    
+    [(8)  NFPA 72, Chapter 7, Section 7.4.1, General Requirements, Subsection 7.4.1.2, is
+            
+707
+
+    
+amended as follows: On line three delete "110dBA" and replace it with "120dBA".]
+            
+708
+
+    
+    [(9)] (8)  NFPA 72, Chapter [8] 26, Section [8.3.4] 26.3.4, Indication of Central Station
+            
+709
+
+    
+Service, Subsection [8.3.4.7] 26.3.4.7 is amended as follows: On line two, after the word
+
+            
+710
+
+
+    
+"notified", insert the words "without delay".
+            
+711
+
+    
+    [(10)] (9)  NFPA 72, Chapter 10, Section [10.2.2.5, Service Personnel Qualifications
+            
+712
+
+    
+and Experience, Subsection 10.2.2.5.1] 10.4.3 Inspection, Testing, and Maintenance Personnel,
+            
+713
+
+    
+Subsection 10.4.3.1, is deleted and rewritten as follows: "Service personnel shall be qualified
+            
+714
+
+    
+and experienced in the inspection, testing, and maintenance of fire alarm systems.  Qualified
+            
+715
+
+    
+personnel shall meet the certification requirements stated in Utah Administrative Code,
+            
+716
+
+    
+R710-11-3, Fire Alarm System Inspecting and Testing."
+            
+717
+
+    
+    Section 11.  
+Section  
+15A-5-401
+
+ is amended to read:
+            
+718
+
+    
+     15A-5-401.  Grandfathering of local ordinances related to automatic sprinkler
+            
+719
+
+    
+ systems.
+            
+720
+
+    
+    An ordinance adopted by a legislative body of a political subdivision that is in effect on
+            
+721
+
+    
+June 30, 2010, and that imposes a requirement related to an automatic sprinkler system for a
+            
+722
+
+    
+structure built in accordance with the requirements of the International Residential Code as
+            
+723
+
+    
+adopted in the State Construction Code may remain in effect on or after July 1, 2010,
+            
+724
+
+    
+notwithstanding that the ordinance is not authorized under Subsection 
+
+15A-5-203
+
+[(2)](1).
+            
+725
+
+    
+    Section 12.   Effective date.
+            
+726
+
+    
+    This bill takes effect on July 1, 2013.
+
+
+
+
+ Legislative Review Note
+    as of   2-1-13  6:05 PM
+
+ Office of Legislative Research and General Counsel
+[Bill Documents][Bills Directory]
+
+
+
+
+
+
+
+
+
+Who represents me?
+
+
+
+
+
+Remember my Legislators
+
+
+
+
+
+State Senate
+		350 North State, Suite 320
+		PO Box 145115
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1035
+		Fax: (801) 326-1475
+
+
+
+House of Representatives
+		350 North State, Suite 350
+		PO Box 145030
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1029
+		Fax: (801) 326-1544
+
+
+
+
+
+
+
+
+
+
+Home
+Mobile Site
+Site Map
+Calendar
+Code / Constitution
+House
+Senate
+
+Terms of Use/Privacy Policy
+
+ADA
+Utah.gov
+
+
+
+
+
+
+

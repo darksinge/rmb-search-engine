@@ -1,0 +1,1206 @@
+Sponsors: []Modifications: (c)  "Fluoride" means a chemical compound that contains the fluoride ion and is used tofluoridate drinking water, including:(i)  fluorosilicic acid;(ii)  sodium fluorosilicate; or(iii)  sodium fluoride.(d)  "Fluoride supplier" means a person who:(i)  manufactures, distributes, or packages or repackages fluoride;(ii)  is NSF/ANSI Standard 60 certified; (iii)  has evidence of the person's NSF/ANSI Standard 60 certification displayed on thewebsite of a certification body accredited by the International Accreditation Forum, including:(A)  NSF;(B)  the Underwriter Laboratory; or(C)  the Water Quality Association; and(iv)  provides fluoride in compliance with applicable NSF/ANSI Standard 60certification requirements.(e)fluoridefluoridefluoridefluoridefluoridefluoridefluoridefluorideof fluoride to or the removal offluorideadding fluoride to orfluoridefluoridefluoridefluoridefluoridefluoridefluoridefluoride(8)  If a local health department requires a public water system to add fluoride to publicdrinking water supplies under Subsection (3), the public water system shall fluoridate thepublic drinking water supplies with fluoride manufactured, distributed, packaged, and, ifapplicable, repackaged by a fluoride supplier who has provided copies of the original, dateddocuments used to obtain and maintain NSF/ANSI Standard 60 certification to:(a)  the local health department that oversees the public water system; and(b)  the division.(9)  A public water system described in Subsection (8) shall obtain, for each quantity offluoride acquired to fluoridate public drinking water supplies, a batch-specific certificate ofanalysis that represents the complete composition of the formulation of the undiluted rawfluoride substance, in percent or parts by weight, for each chemical and contaminant in thebatch.(10)  A local health department shall:(a)  order the temporary removal of fluoride from a public water system within theboundaries of the local health department if the public water system:(i)  violates Subsection (8) or (9); or(ii)  is unable to fluoridate public drinking water supplies in accordance withSubsections (8) and (9); and(b)  review and maintain the certification documents submitted to the local healthdepartment under Subsection (8).(11)  A public water system described in Subsection (8) shall:(a)  review and maintain certificates of analysis obtained under Subsection (9); and(b)  upon request of a member of the public, provide a copy of a certificate of analysisobtained under Subsection (9) to the member of the public.(12)  A local health department may order the temporary removal of fluoride from apublic water system within the boundaries of the local health department if the public watersystem violates a provision of Subsection (11).(13)  If a local health department orders the removal of fluoride from a public watersystem under Subsection (10)(a) or (12), the local health department shall:(a)  issue a public notice regarding the temporary removal of fluoride from the publicwater system; and(b)  when the public water system demonstrates its ability to fluoridate in accordancewith Subsections (8), (9), and (11), revoke the removal requirement.(14)  The division shall review and maintain the certification documents submitted tothe division under Subsection (8).SectionSection,Full text:
+
+
+
+Utah State Legislature
+
+
+
+
+
+
+
+
+
+
+
+
+Legislators
+
+By Session (1896-Current)
+Alphabetical (Historical)
+Find by Address/Map
+More
+
+
+Bills
+
+Bills/Bill Requests
+Passed Bills
+2017 Bills
+
+Keyword Search
+Reading Calendars
+Tracking Service
+More
+
+
+Committees
+
+All Committees
+Appropriations
+Commissions
+
+Independent Legislative Ethics Commission
+Interim
+Standing
+Subcommittees
+Task Forces
+Bills In Committees
+
+
+Utah Code / Constitution
+
+
+Title/Chapter/Section
+Keyword Search 
+
+Utah Constitution
+Laws of Utah 1851-ongoing
+Utah Territorial Laws 
+More
+
+
+Senate
+
+Main Page 
+About The Senate 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Extraordinary Sessions 
+Reading Calendars 
+Past Floor Debates 
+Senate Journals 
+
+
+House
+
+Main Page
+About the House 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Reading Calendars 
+Past Floor Debates 
+Journals 
+Conflict of Interest Forms 
+
+
+Legislative Guide 
+
+Legislative Guide
+Civic Programs
+GRAMA (Records Requests)
+
+
+Publications
+
+Search Publications
+Appropriations
+Audits
+Bagels & Briefings
+Briefing Papers
+Digest of Legislation
+Legislative Drafting Manual
+
+Journals
+
+Interim Highlights
+
+Legislative Rules
+GRAMA (Records Requests)
+Public Email
+State Organization Charts
+YouTube Channel
+Requests for Proposals and Legal Notices
+More
+
+
+Legislative Histories
+
+Legislative History Resources
+How to Research
+Bill Drafting/Research Files (1990-Ongoing)
+
+Working Bills (1896-1989)
+Interim Committee Histories (1990-Ongoing) 
+Journals
+Past House Floor Debates
+Past Senate Floor Debates
+More
+
+
+Staff Offices
+
+All Legislative Offices
+Auditor General
+Fiscal Analyst
+Printing
+Research and General Counsel
+Staff Awards
+Job Opportunities
+More
+
+
+Links of Interest
+
+Utah Administrative Rules
+Courts
+Utah State Capitol
+State of Utah
+Federal Legislation
+More
+
+
+
+
+
+
+ 
+
+Download Zipped Introduced WordPerfect HB0072.ZIP
+[Status][Bill Documents][Fiscal Note][Bills Directory]
+
+
+H.B. 72
+
+
+
+
+
+            
+1
+
+    
+ SAFE DRINKING WATER DISCLOSURE ACT
+
+
+
+            
+2
+
+    
+2013 GENERAL SESSION
+
+            
+3
+
+    
+STATE OF UTAH
+
+            
+4
+
+    
+
+
+ Chief Sponsor:  Roger E. Barrus
+
+
+
+            
+5
+
+    
+
+
+
+Senate Sponsor: 
+
+
+
+
+
+
+  Jerry W. Stevenson
+
+
+
+
+
+            
+6
+
+    
+
+            
+7
+
+    
+ LONG TITLE
+            
+8
+
+    
+ General Description:
+            
+9
+
+    
+    This bill requires that a public water system that fluoridates public water supplies meet
+            
+10
+
+    
+certain requirements, requires a local health department to order temporary removal of
+            
+11
+
+    
+fluoride from public water supplies under certain circumstances, and allows a local
+            
+12
+
+    
+health department to order temporary removal of fluoride from public water supplies
+            
+13
+
+    
+under certain circumstances.
+            
+14
+
+    
+ Highlighted Provisions:
+            
+15
+
+    
+    This bill:
+            
+16
+
+    
+    .    defines terms;
+            
+17
+
+    
+    .    requires that a public water system that fluoridates public water supplies under order
+            
+18
+
+    
+of a local health department meet certain requirements;
+            
+19
+
+    
+    .    requires that a public water system:
+            
+20
+
+    
+        .    review and maintain certain records relating to the fluoride the public water
+            
+21
+
+    
+system uses to fluoridate public water supplies under order of a local health
+            
+22
+
+    
+department; and
+            
+23
+
+    
+        .    provide copies of the records upon request of a member of the public;
+            
+24
+
+    
+    .    requires a local health department to:
+            
+25
+
+    
+        .    review and maintain certain records relating to fluoride used to fluoridate public
+            
+26
+
+    
+water supplies; and
+            
+27
+
+    
+        .    order a public water system to temporarily remove fluoride from public water
+
+            
+28
+
+
+    
+supplies under certain circumstances and give public notice of the removal;
+            
+29
+
+    
+    .    allows a local health department to order a public water system to temporarily
+            
+30
+
+    
+remove fluoride from public water supplies under certain circumstances and give
+            
+31
+
+    
+public notice of the removal;
+            
+32
+
+    
+    .    requires the Division of Drinking Water to review and maintain certain records; and
+            
+33
+
+    
+    .    makes technical changes.
+            
+34
+
+    
+ Money Appropriated in this Bill:
+            
+35
+
+    
+    None
+            
+36
+
+    
+ Other Special Clauses:
+            
+37
+
+    
+    None
+            
+38
+
+    
+ Utah Code Sections Affected:
+            
+39
+
+    
+AMENDS:
+            
+40
+
+    
+     19-4-111, as last amended by Laws of Utah 2009, Chapter 371
+            
+41
+
+    
+     19-4-111.1, as enacted by Laws of Utah 2002, Chapter 16
+            
+42
+
+    
+     19-4-111.2, as last amended by Laws of Utah 2009, Chapter 371
+            
+43
+
+    
+
+            
+44
+
+    
+Be it enacted by the Legislature of the state of Utah:
+            
+45
+
+    
+    Section 1.  
+Section  
+19-4-111
+
+ is amended to read:
+            
+46
+
+    
+     19-4-111.  Fluoride added to or removed from water -- Election or shareholder
+            
+47
+
+    
+ vote required.
+            
+48
+
+    
+    (1)  As used in this section:
+            
+49
+
+    
+    (a)  "Corporate public water system" means a public water system that is owned by a
+            
+50
+
+    
+corporation engaged in distributing water only to its shareholders.
+            
+51
+
+    
+    (b)  "Corporation" is as defined in Section 
+
+16-4-102
+
+.
+            
+52
+
+    
+    [(c)  "Fluorine" includes a derivative or compound of fluorine.]
+            
+53
+
+    
+    (c)  "Fluoride" means a chemical compound that contains the fluoride ion and is used to
+            
+54
+
+    
+fluoridate drinking water, including:
+            
+55
+
+    
+    (i)  fluorosilicic acid;
+            
+56
+
+    
+    (ii)  sodium fluorosilicate; or
+            
+57
+
+    
+    (iii)  sodium fluoride.
+            
+58
+
+    
+    (d)  "Fluoride supplier" means a person who:
+
+            
+59
+
+
+    
+    (i)  manufactures, distributes, or packages or repackages fluoride;
+            
+60
+
+    
+    (ii)  is NSF/ANSI Standard 60 certified; 
+            
+61
+
+    
+    (iii)  has evidence of the person's NSF/ANSI Standard 60 certification displayed on the
+            
+62
+
+    
+website of a certification body accredited by the International Accreditation Forum, including:
+            
+63
+
+    
+    (A)  NSF;
+            
+64
+
+    
+    (B)  the Underwriter Laboratory; or
+            
+65
+
+    
+    (C)  the Water Quality Association; and
+            
+66
+
+    
+    (iv)  provides fluoride in compliance with applicable NSF/ANSI Standard 60
+            
+67
+
+    
+certification requirements.
+            
+68
+
+    
+    [(d)] (e)  "Removal" means ceasing to add [fluorine] fluoride to a public water supply,
+            
+69
+
+    
+the addition having been previously approved by the voters of a political subdivision.
+            
+70
+
+    
+    (2) (a)  Except as provided in Subsection (7) or Subsection 
+
+19-4-104
+
+(1)(a)(i), public
+            
+71
+
+    
+water supplies, whether state, county, municipal, or district, may not have [fluorine] fluoride
+            
+72
+
+    
+added to or removed from the water supply without the approval of a majority of voters in an
+            
+73
+
+    
+election in the area affected.
+            
+74
+
+    
+    (b)  An election shall be held:
+            
+75
+
+    
+    (i)  upon the filing of an initiative petition requesting the action in accordance with state
+            
+76
+
+    
+law governing initiative petitions;
+            
+77
+
+    
+    (ii)  in the case of a municipal, local district, special service district, or county water
+            
+78
+
+    
+system that is functionally separate from any other water system, upon the passage of a
+            
+79
+
+    
+resolution by the legislative body or local district or special service district board representing
+            
+80
+
+    
+the affected voters, submitting the question to the affected voters at a municipal general
+            
+81
+
+    
+election; or
+            
+82
+
+    
+    (iii)  in a county of the first or second class, upon the passage of a resolution by the
+            
+83
+
+    
+county legislative body to place an opinion question relating to all public water systems within
+            
+84
+
+    
+the county, except as provided in Subsection (3), on the ballot at a general election.
+            
+85
+
+    
+    (3)  If a majority of voters on an opinion question under Subsection (2)(b)(iii) approve
+            
+86
+
+    
+the addition of [fluorine] fluoride to or the removal of [fluorine] fluoride from the public water
+            
+87
+
+    
+supplies within the county, the local health departments shall require the addition of [fluorine]
+            
+88
+
+    
+fluoride to or the removal of [fluorine] fluoride from all public water supplies within that
+            
+89
+
+    
+county other than those systems:
+
+            
+90
+
+
+    
+    (a)  that are functionally separate from any other public water systems in that county;
+            
+91
+
+    
+and
+            
+92
+
+    
+    (b)  where a majority of the voters served by the public water system voted against the
+            
+93
+
+    
+addition or removal of [fluorine] fluoride on the opinion question under Subsection (2)(b)(iii).
+            
+94
+
+    
+    (4)  Nothing contained in this section prohibits the addition of chlorine or other water
+            
+95
+
+    
+purifying agents.
+            
+96
+
+    
+    (5)  Any political subdivision that, prior to November 2, 1976, decided to and was
+            
+97
+
+    
+adding [fluorine] fluoride to the drinking water is considered to have complied with Subsection
+            
+98
+
+    
+(2).
+            
+99
+
+    
+    (6)  In an election held pursuant to Subsection (2)(b)(i), (ii), or (iii), where a majority of
+            
+100
+
+    
+the voters approve the addition [to or removal of fluorine] of fluoride to or the removal of
+            
+101
+
+    
+fluoride from the public water supplies, no election to consider adding fluoride to or removing
+            
+102
+
+    
+[fluorine] fluoride from [or adding fluorine to] the public water supplies shall be held for a
+            
+103
+
+    
+period of four years from the date of approval by the majority of voters beginning with
+            
+104
+
+    
+elections held in November 2000.
+            
+105
+
+    
+    (7) (a)  A supplier may not add [fluorine] fluoride to or remove [fluorine] fluoride from
+            
+106
+
+    
+a corporate public water system unless the majority of the votes cast by the shareholders of the
+            
+107
+
+    
+corporate public water system authorize the supplier to add or remove the [fluorine] fluoride.
+            
+108
+
+    
+    (b)  If a corporate public water system's shareholders do not vote to add [fluorine]
+            
+109
+
+    
+fluoride under Subsection (7)(a), the supplier shall annually provide notice to a person who
+            
+110
+
+    
+receives water from the corporate public water system of the average amount of [fluorine]
+            
+111
+
+    
+fluoride in the water.
+            
+112
+
+    
+    (c)  A vote of the corporate public water system's shareholders under Subsection (7)(a)
+            
+113
+
+    
+does not require a supplier of another public water system, including a public water system that
+            
+114
+
+    
+provides water to the corporate public water system, to add [fluorine] fluoride to or remove
+            
+115
+
+    
+[fluorine] fluoride from the public water system.
+            
+116
+
+    
+    (8)  If a local health department requires a public water system to add fluoride to public
+            
+117
+
+    
+drinking water supplies under Subsection (3), the public water system shall fluoridate the
+            
+118
+
+    
+public drinking water supplies with fluoride manufactured, distributed, packaged, and, if
+            
+119
+
+    
+applicable, repackaged by a fluoride supplier who has provided copies of the original, dated
+            
+120
+
+    
+documents used to obtain and maintain NSF/ANSI Standard 60 certification to:
+
+            
+121
+
+
+    
+    (a)  the local health department that oversees the public water system; and
+            
+122
+
+    
+    (b)  the division.
+            
+123
+
+    
+    (9)  A public water system described in Subsection (8) shall obtain, for each quantity of
+            
+124
+
+    
+fluoride acquired to fluoridate public drinking water supplies, a batch-specific certificate of
+            
+125
+
+    
+analysis that represents the complete composition of the formulation of the undiluted raw
+            
+126
+
+    
+fluoride substance, in percent or parts by weight, for each chemical and contaminant in the
+            
+127
+
+    
+batch.
+            
+128
+
+    
+    (10)  A local health department shall:
+            
+129
+
+    
+    (a)  order the temporary removal of fluoride from a public water system within the
+            
+130
+
+    
+boundaries of the local health department if the public water system:
+            
+131
+
+    
+    (i)  violates Subsection (8) or (9); or
+            
+132
+
+    
+    (ii)  is unable to fluoridate public drinking water supplies in accordance with
+            
+133
+
+    
+Subsections (8) and (9); and
+            
+134
+
+    
+    (b)  review and maintain the certification documents submitted to the local health
+            
+135
+
+    
+department under Subsection (8).
+            
+136
+
+    
+    (11)  A public water system described in Subsection (8) shall:
+            
+137
+
+    
+    (a)  review and maintain certificates of analysis obtained under Subsection (9); and
+            
+138
+
+    
+    (b)  upon request of a member of the public, provide a copy of a certificate of analysis
+            
+139
+
+    
+obtained under Subsection (9) to the member of the public.
+            
+140
+
+    
+    (12)  A local health department may order the temporary removal of fluoride from a
+            
+141
+
+    
+public water system within the boundaries of the local health department if the public water
+            
+142
+
+    
+system violates a provision of Subsection (11).
+            
+143
+
+    
+    (13)  If a local health department orders the removal of fluoride from a public water
+            
+144
+
+    
+system under Subsection (10)(a) or (12), the local health department shall:
+            
+145
+
+    
+    (a)  issue a public notice regarding the temporary removal of fluoride from the public
+            
+146
+
+    
+water system; and
+            
+147
+
+    
+    (b)  when the public water system demonstrates its ability to fluoridate in accordance
+            
+148
+
+    
+with Subsections (8), (9), and (11), revoke the removal requirement.
+            
+149
+
+    
+    (14)  The division shall review and maintain the certification documents submitted to
+            
+150
+
+    
+the division under Subsection (8).
+            
+151
+
+    
+    Section 2.  
+Section  
+19-4-111.1
+
+ is amended to read:
+
+            
+152
+
+
+    
+     19-4-111.1.  Provision of fluoridated water -- Request of resident.
+            
+153
+
+    
+    A public water system in a county of the first or second class whose entire water
+            
+154
+
+    
+inventory is fluoridated may supply water to a residence or business in a municipality that is
+            
+155
+
+    
+located in two counties, one that has approved fluoridation and one that has not approved
+            
+156
+
+    
+fluoridation in accordance with [Subsection] Section
+
+19-4-111
+
+[(1)] if:
+            
+157
+
+    
+    (1)  the owner requests that the public water system supply water to the residence or
+            
+158
+
+    
+business;
+            
+159
+
+    
+    (2)  no reasonable alternative water supply exists; and
+            
+160
+
+    
+    (3)  the owner's request can be fulfilled without affecting other residences or businesses
+            
+161
+
+    
+in the municipality or county that has not approved fluoridation.
+            
+162
+
+    
+    Section 3.  
+Section  
+19-4-111.2
+
+ is amended to read:
+            
+163
+
+    
+     19-4-111.2.  Provision of fluoridated water -- Emergency circumstances.
+            
+164
+
+    
+    (1)  A public water system that is simultaneously supplying water to a municipality or
+            
+165
+
+    
+county that approved fluoridation in accordance with Section 
+
+19-4-111
+
+ and a municipality or
+            
+166
+
+    
+county that has not approved fluoridation may provide water from its fluoridated inventory to a
+            
+167
+
+    
+municipality or county that has not approved fluoridation if:
+            
+168
+
+    
+    (a)  as a result of a short-term emergency, the only water available is from the public
+            
+169
+
+    
+water system's fluoridated inventory;
+            
+170
+
+    
+    (b)  the public water system ceases providing fluoridated water to the municipality or
+            
+171
+
+    
+county that has not approved fluoridation in accordance with [Subsection] Section
+            
+172
+
+    
+
+19-4-111
+
+[(2)] in a time consistent with repair times following best industrial practice; and
+            
+173
+
+    
+    (c)  where feasible, provide prompt notice to the affected area.
+            
+174
+
+    
+    (2) (a)  A resident of an affected area that does not wish to receive fluoridated water
+            
+175
+
+    
+during an emergency may contact the public water system to have delivery of fluoridated water
+            
+176
+
+    
+to their residence or business terminated.
+            
+177
+
+    
+    (b)  The resident shall determine when to resume delivery of water and shall contact the
+            
+178
+
+    
+public water system to have delivery of water resumed.
+
+
+
+
+
+ Legislative Review Note
+    as of   1-16-13  10:21 AM
+
+ Office of Legislative Research and General Counsel
+[Bill Documents][Bills Directory]
+
+
+
+
+
+
+
+
+
+Who represents me?
+
+
+
+
+
+Remember my Legislators
+
+
+
+
+
+State Senate
+		350 North State, Suite 320
+		PO Box 145115
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1035
+		Fax: (801) 326-1475
+
+
+
+House of Representatives
+		350 North State, Suite 350
+		PO Box 145030
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1029
+		Fax: (801) 326-1544
+
+
+
+
+
+
+
+
+
+
+Home
+Mobile Site
+Site Map
+Calendar
+Code / Constitution
+House
+Senate
+
+Terms of Use/Privacy Policy
+
+ADA
+Utah.gov
+
+
+
+
+
+
+

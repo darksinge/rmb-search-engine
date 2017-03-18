@@ -1,0 +1,625 @@
+Sponsors: []Modifications:     32B-5-311.(1)  As used in this section:(a)  "Breathalyzer" means:(i)  a device that uses electromechanical fuel cell sensor technology in the blood alcoholcontent testing process; or(ii)  a single-use, disposable alcohol breath tester that is cleared with the United StatesFood and Drug Administration as a Class 1 medical device with at least 99.8% accuracy andhaving a detection cut-off of 0.08 relative percent blood alcohol concentration.(b)  "Calibration" means the manual setting of specific levels on a breathalyzer by aperson trained to reset the device to ensure as accurate results as possible.(c) (i)  "Financial transaction card" means a card, code, or other means of access to aperson's account issued to a person that allows the person to obtain, purchase, or receive goods,services, money, or anything else of value.(ii)  "Financial transaction card" includes:(A)  a credit card;(B)  a credit plate;(C)  a bank services card;(D)  a banking card;(E)  a check guarantee card;(F)  a debit card;(G)  a telephone credit card; or(H)  a device for access as defined in Section 
+
+7-16a-102
+
+
+.(2)  If a retail licensee voluntarily installs, or sells or otherwise provides, a breathalyzeron its premises:(a)  the breathalyzer may not store financial transaction card data or associatebreathalyzer results with financial transaction card data;(b)  for a breathalyzer described in Subsection (1)(a)(i):(i)  the breathalyzer shall collect data that can be downloaded by a third-party thatperforms the calibration of the breathalyzer, except that the downloaded information may notbe used for any purpose other than calibration;(ii)  the retail licensee shall ensure that a breathalyzer installed inside of the licensedpremises is calibrated by a third-party the sooner of every:(A)  30 days; or(B)  300 uses;(iii)  the owner of the breathalyzer shall annually report to the department compliancewith the calibration requirements of this section for the breathalyzer; and(iv)  the breathalyzer may be able to be shut down remotely; and(c)  the breathalyzer shall provide a notice to the user of the breathalyzer that the timingof when a breathalyzer test is taken may affect the results of the breathalyzer test.(3)  Data from a breathalyzer installed in the licensed premises of, or sold or otherwiseprovided by, a retail licensee may not be used for enforcement purposes.(4)  If a retail licensee or owner of the breathalyzer violates this section, the departmentmay require the retail licensee to remove the installed breathalyzer described in Subsection(1)(a)(i) or not sell or otherwise provide a breathalyzer described in Subsection (1)(a)(ii).Full text:
+
+
+
+Utah State Legislature
+
+
+
+
+
+
+
+
+
+
+
+
+Legislators
+
+By Session (1896-Current)
+Alphabetical (Historical)
+Find by Address/Map
+More
+
+
+Bills
+
+Bills/Bill Requests
+Passed Bills
+2017 Bills
+
+Keyword Search
+Reading Calendars
+Tracking Service
+More
+
+
+Committees
+
+All Committees
+Appropriations
+Commissions
+
+Independent Legislative Ethics Commission
+Interim
+Standing
+Subcommittees
+Task Forces
+Bills In Committees
+
+
+Utah Code / Constitution
+
+
+Title/Chapter/Section
+Keyword Search 
+
+Utah Constitution
+Laws of Utah 1851-ongoing
+Utah Territorial Laws 
+More
+
+
+Senate
+
+Main Page 
+About The Senate 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Extraordinary Sessions 
+Reading Calendars 
+Past Floor Debates 
+Senate Journals 
+
+
+House
+
+Main Page
+About the House 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Reading Calendars 
+Past Floor Debates 
+Journals 
+Conflict of Interest Forms 
+
+
+Legislative Guide 
+
+Legislative Guide
+Civic Programs
+GRAMA (Records Requests)
+
+
+Publications
+
+Search Publications
+Appropriations
+Audits
+Bagels & Briefings
+Briefing Papers
+Digest of Legislation
+Legislative Drafting Manual
+
+Journals
+
+Interim Highlights
+
+Legislative Rules
+GRAMA (Records Requests)
+Public Email
+State Organization Charts
+YouTube Channel
+Requests for Proposals and Legal Notices
+More
+
+
+Legislative Histories
+
+Legislative History Resources
+How to Research
+Bill Drafting/Research Files (1990-Ongoing)
+
+Working Bills (1896-1989)
+Interim Committee Histories (1990-Ongoing) 
+Journals
+Past House Floor Debates
+Past Senate Floor Debates
+More
+
+
+Staff Offices
+
+All Legislative Offices
+Auditor General
+Fiscal Analyst
+Printing
+Research and General Counsel
+Staff Awards
+Job Opportunities
+More
+
+
+Links of Interest
+
+Utah Administrative Rules
+Courts
+Utah State Capitol
+State of Utah
+Federal Legislation
+More
+
+
+
+
+
+
+ 
+
+H.B. 190
+
+
+
+
+
+            
+1
+
+    
+ BREATHALYZER AMENDMENTS
+
+
+
+            
+2
+
+    
+2014 GENERAL SESSION
+
+            
+3
+
+    
+STATE OF UTAH
+
+            
+4
+
+    
+
+
+ Chief Sponsor:  Gregory H. Hughes
+
+
+
+            
+5
+
+    
+
+
+
+Senate Sponsor: 
+
+
+
+
+
+
+  Deidre M. Henderson
+
+
+
+
+
+            
+6
+
+    
+
+            
+7
+
+    
+ LONG TITLE
+            
+8
+
+    
+ General Description:
+            
+9
+
+    
+    This bill addresses use of breathalyzers.
+            
+10
+
+    
+ Highlighted Provisions:
+            
+11
+
+    
+    This bill:
+            
+12
+
+    
+    .    defines terms; and
+            
+13
+
+    
+    .    addresses installation or provision of breathalyzers.
+            
+14
+
+    
+ Money Appropriated in this Bill:
+            
+15
+
+    
+    None
+            
+16
+
+    
+ Other Special Clauses:
+            
+17
+
+    
+    None
+            
+18
+
+    
+ Utah Code Sections Affected:
+            
+19
+
+    
+ENACTS:
+            
+20
+
+    
+     
+32B-5-311
+, Utah Code Annotated 1953
+            
+21
+
+    
+
+            
+22
+
+    
+Be it enacted by the Legislature of the state of Utah:
+            
+23
+
+    
+    Section 1.  
+Section  
+32B-5-311
+
+ is enacted to read:
+            
+24
+
+    
+     32B-5-311.  Use of breathalyzers.
+            
+25
+
+    
+    (1)  As used in this section:
+            
+26
+
+    
+    (a)  "Breathalyzer" means:
+            
+27
+
+    
+    (i)  a device that uses electromechanical fuel cell sensor technology in the blood alcohol
+
+            
+28
+
+
+    
+content testing process; or
+            
+29
+
+    
+    (ii)  a single-use, disposable alcohol breath tester that is cleared with the United States
+            
+30
+
+    
+Food and Drug Administration as a Class 1 medical device with at least 99.8% accuracy and
+            
+31
+
+    
+having a detection cut-off of 0.08 relative percent blood alcohol concentration.
+            
+32
+
+    
+    (b)  "Calibration" means the manual setting of specific levels on a breathalyzer by a
+            
+33
+
+    
+person trained to reset the device to ensure as accurate results as possible.
+            
+34
+
+    
+    (c) (i)  "Financial transaction card" means a card, code, or other means of access to a
+            
+35
+
+    
+person's account issued to a person that allows the person to obtain, purchase, or receive goods,
+            
+36
+
+    
+services, money, or anything else of value.
+            
+37
+
+    
+    (ii)  "Financial transaction card" includes:
+            
+38
+
+    
+    (A)  a credit card;
+            
+39
+
+    
+    (B)  a credit plate;
+            
+40
+
+    
+    (C)  a bank services card;
+            
+41
+
+    
+    (D)  a banking card;
+            
+42
+
+    
+    (E)  a check guarantee card;
+            
+43
+
+    
+    (F)  a debit card;
+            
+44
+
+    
+    (G)  a telephone credit card; or
+            
+45
+
+    
+    (H)  a device for access as defined in Section 
+
+7-16a-102
+
+
+.
+            
+46
+
+    
+    (2)  If a retail licensee voluntarily installs, or sells or otherwise provides, a breathalyzer
+            
+47
+
+    
+on its premises:
+            
+48
+
+    
+    (a)  the breathalyzer may not store financial transaction card data or associate
+            
+49
+
+    
+breathalyzer results with financial transaction card data;
+            
+50
+
+    
+    (b)  for a breathalyzer described in Subsection (1)(a)(i):
+            
+51
+
+    
+    (i)  the breathalyzer shall collect data that can be downloaded by a third-party that
+            
+52
+
+    
+performs the calibration of the breathalyzer, except that the downloaded information may not
+            
+53
+
+    
+be used for any purpose other than calibration;
+            
+54
+
+    
+    (ii)  the retail licensee shall ensure that a breathalyzer installed inside of the licensed
+            
+55
+
+    
+premises is calibrated by a third-party the sooner of every:
+            
+56
+
+    
+    (A)  30 days; or
+            
+57
+
+    
+    (B)  300 uses;
+            
+58
+
+    
+    (iii)  the owner of the breathalyzer shall annually report to the department compliance
+
+            
+59
+
+
+    
+with the calibration requirements of this section for the breathalyzer; and
+            
+60
+
+    
+    (iv)  the breathalyzer may be able to be shut down remotely; and
+            
+61
+
+    
+    (c)  the breathalyzer shall provide a notice to the user of the breathalyzer that the timing
+            
+62
+
+    
+of when a breathalyzer test is taken may affect the results of the breathalyzer test.
+            
+63
+
+    
+    (3)  Data from a breathalyzer installed in the licensed premises of, or sold or otherwise
+            
+64
+
+    
+provided by, a retail licensee may not be used for enforcement purposes.
+            
+65
+
+    
+    (4)  If a retail licensee or owner of the breathalyzer violates this section, the department
+            
+66
+
+    
+may require the retail licensee to remove the installed breathalyzer described in Subsection
+            
+67
+
+    
+(1)(a)(i) or not sell or otherwise provide a breathalyzer described in Subsection (1)(a)(ii).
+
+
+
+
+ Legislative Review Note
+    as of   2-27-14  11:58 AM
+
+ Office of Legislative Research and General Counsel
+[Bill Documents][Bills Directory]
+
+
+
+
+
+
+
+
+
+Who represents me?
+
+
+
+
+
+Remember my Legislators
+
+
+
+
+
+State Senate
+		350 North State, Suite 320
+		PO Box 145115
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1035
+		Fax: (801) 326-1475
+
+
+
+House of Representatives
+		350 North State, Suite 350
+		PO Box 145030
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1029
+		Fax: (801) 326-1544
+
+
+
+
+
+
+
+
+
+
+Home
+Mobile Site
+Site Map
+Calendar
+Code / Constitution
+House
+Senate
+
+Terms of Use/Privacy Policy
+
+ADA
+Utah.gov
+
+
+
+
+
+
+

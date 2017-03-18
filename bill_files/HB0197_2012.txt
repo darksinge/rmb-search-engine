@@ -1,0 +1,583 @@
+Sponsors: []Modifications:     53A-6-901.(1)  The board may award grants to institutions of higher education or nonprofiteducational organizations for programs that provide mentoring and training leading to asecondary education license with an endorsement in mathematics for an individual who:(a)  is not a teacher in a public or private school;(b)  does not have a teaching license;(c)  has a bachelor's degree or higher; and(d)  demonstrates a high level of mathematics competency by:(i)  successfully completing substantial course work in mathematics; and(ii)  passing a mathematics content exam.(2) (a)  The board shall make rules in accordance with Title 63G, Chapter 3, UtahAdministrative Rulemaking Act, that establish criteria for awarding grants under this section.(b)  In awarding grants, the board shall consider the amount or percent of matchingfunds provided by the grant recipient.Under the terms and conditions of Title 63J, Chapter 1, Budgetary Procedures Act, thefollowing sums of money are appropriated from resources not otherwise appropriated, orreduced from amounts previously appropriated, out of the funds or accounts indicated for thefiscal year beginning July 1, 2012 and ending June 30, 2013.  These are additions to anyamounts previously appropriated for fiscal year 2013.To State Board of EducationFrom Education Fund, ongoing                    $500,000Schedule of Programs:Math Teacher Training        $500,000(1)  Except as provided in Subsection (2), if approved by two-thirds of all the memberselected to each house, this bill takes effect upon approval by the governor, or the day followingthe constitutional time limit of Utah Constitution Article VII, Section 8, without the governor'ssignature, or in the case of a veto override.(2)  Uncodified Section 2, Appropriation, takes effect on July 1, 2012.Full text:
+
+
+
+Utah State Legislature
+
+
+
+
+
+
+
+
+
+
+
+
+Legislators
+
+By Session (1896-Current)
+Alphabetical (Historical)
+Find by Address/Map
+More
+
+
+Bills
+
+Bills/Bill Requests
+Passed Bills
+2017 Bills
+
+Keyword Search
+Reading Calendars
+Tracking Service
+More
+
+
+Committees
+
+All Committees
+Appropriations
+Commissions
+
+Independent Legislative Ethics Commission
+Interim
+Standing
+Subcommittees
+Task Forces
+Bills In Committees
+
+
+Utah Code / Constitution
+
+
+Title/Chapter/Section
+Keyword Search 
+
+Utah Constitution
+Laws of Utah 1851-ongoing
+Utah Territorial Laws 
+More
+
+
+Senate
+
+Main Page 
+About The Senate 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Extraordinary Sessions 
+Reading Calendars 
+Past Floor Debates 
+Senate Journals 
+
+
+House
+
+Main Page
+About the House 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Reading Calendars 
+Past Floor Debates 
+Journals 
+Conflict of Interest Forms 
+
+
+Legislative Guide 
+
+Legislative Guide
+Civic Programs
+GRAMA (Records Requests)
+
+
+Publications
+
+Search Publications
+Appropriations
+Audits
+Bagels & Briefings
+Briefing Papers
+Digest of Legislation
+Legislative Drafting Manual
+
+Journals
+
+Interim Highlights
+
+Legislative Rules
+GRAMA (Records Requests)
+Public Email
+State Organization Charts
+YouTube Channel
+Requests for Proposals and Legal Notices
+More
+
+
+Legislative Histories
+
+Legislative History Resources
+How to Research
+Bill Drafting/Research Files (1990-Ongoing)
+
+Working Bills (1896-1989)
+Interim Committee Histories (1990-Ongoing) 
+Journals
+Past House Floor Debates
+Past Senate Floor Debates
+More
+
+
+Staff Offices
+
+All Legislative Offices
+Auditor General
+Fiscal Analyst
+Printing
+Research and General Counsel
+Staff Awards
+Job Opportunities
+More
+
+
+Links of Interest
+
+Utah Administrative Rules
+Courts
+Utah State Capitol
+State of Utah
+Federal Legislation
+More
+
+
+
+
+
+
+ 
+
+Download Zipped Introduced WordPerfect HB0197.ZIP
+[Status][Bill Documents][Fiscal Note][Bills Directory]
+
+
+H.B. 197
+
+
+
+
+
+            
+1
+
+    
+ GRANTS FOR MATH TEACHER TRAINING
+
+
+
+            
+2
+
+    
+2012 GENERAL SESSION
+
+            
+3
+
+    
+STATE OF UTAH
+
+            
+4
+
+    
+
+
+ Chief Sponsor:  Rebecca P. Edwards
+
+
+
+            
+5
+
+    
+
+
+
+Senate Sponsor: 
+
+
+
+
+
+
+  Howard A. Stephenson
+
+
+
+
+
+            
+6
+
+    
+
+            
+7
+
+    
+ LONG TITLE
+            
+8
+
+    
+ General Description:
+            
+9
+
+    
+    This bill appropriates money for math teacher training programs.
+            
+10
+
+    
+ Highlighted Provisions:
+            
+11
+
+    
+    This bill:
+            
+12
+
+    
+    .    appropriates money to the State Board of Education to award grants to institutions
+            
+13
+
+    
+of higher education or nonprofit education organizations for math teacher training
+            
+14
+
+    
+programs;
+            
+15
+
+    
+    .    specifies the qualifications of individuals eligible to receive the training; and
+            
+16
+
+    
+    .    requires the State Board of Education to make rules establishing criteria for
+            
+17
+
+    
+awarding grants for math teacher training programs.
+            
+18
+
+    
+ Money Appropriated in this Bill:
+            
+19
+
+    
+    This bill appropriates:
+            
+20
+
+    
+    .    to the State Board of Education, as an ongoing appropriation:
+            
+21
+
+    
+        .    from the Education Fund, $500,000.
+            
+22
+
+    
+ Other Special Clauses:
+            
+23
+
+    
+    This bill provides an effective date.
+            
+24
+
+    
+ Utah Code Sections Affected:
+            
+25
+
+    
+ENACTS:
+            
+26
+
+    
+     53A-6-901, Utah Code Annotated 1953
+            
+27
+
+    
+
+
+            
+28
+
+
+    
+Be it enacted by the Legislature of the state of Utah:
+            
+29
+
+    
+    Section 1.  
+Section  
+53A-6-901
+
+ is enacted to read:
+            
+30
+
+    
+ Part 9.  Grant Program for Teacher Training in Math
+
+            
+31
+
+    
+     53A-6-901.  Grants for math teacher training programs.
+            
+32
+
+    
+    (1)  The board may award grants to institutions of higher education or nonprofit
+            
+33
+
+    
+educational organizations for programs that provide mentoring and training leading to a
+            
+34
+
+    
+secondary education license with an endorsement in mathematics for an individual who:
+            
+35
+
+    
+    (a)  is not a teacher in a public or private school;
+            
+36
+
+    
+    (b)  does not have a teaching license;
+            
+37
+
+    
+    (c)  has a bachelor's degree or higher; and
+            
+38
+
+    
+    (d)  demonstrates a high level of mathematics competency by:
+            
+39
+
+    
+    (i)  successfully completing substantial course work in mathematics; and
+            
+40
+
+    
+    (ii)  passing a mathematics content exam.
+            
+41
+
+    
+    (2) (a)  The board shall make rules in accordance with Title 63G, Chapter 3, Utah
+            
+42
+
+    
+Administrative Rulemaking Act, that establish criteria for awarding grants under this section.
+            
+43
+
+    
+    (b)  In awarding grants, the board shall consider the amount or percent of matching
+            
+44
+
+    
+funds provided by the grant recipient.
+            
+45
+
+    
+    Section 2.   Appropriation.
+            
+46
+
+    
+    Under the terms and conditions of Title 63J, Chapter 1, Budgetary Procedures Act, the
+            
+47
+
+    
+following sums of money are appropriated from resources not otherwise appropriated, or
+            
+48
+
+    
+reduced from amounts previously appropriated, out of the funds or accounts indicated for the
+            
+49
+
+    
+fiscal year beginning July 1, 2012 and ending June 30, 2013.  These are additions to any
+            
+50
+
+    
+amounts previously appropriated for fiscal year 2013.
+            
+51
+
+    
+    To State Board of Education
+            
+52
+
+    
+        From Education Fund, ongoing                    $500,000
+            
+53
+
+    
+        Schedule of Programs:
+            
+54
+
+    
+            Math Teacher Training        $500,000
+            
+55
+
+    
+    Section 3.   Effective date.
+            
+56
+
+    
+    (1)  Except as provided in Subsection (2), if approved by two-thirds of all the members
+            
+57
+
+    
+elected to each house, this bill takes effect upon approval by the governor, or the day following
+            
+58
+
+    
+the constitutional time limit of Utah Constitution Article VII, Section 8, without the governor's
+
+            
+59
+
+
+    
+signature, or in the case of a veto override.
+            
+60
+
+    
+    (2)  Uncodified Section 2, Appropriation, takes effect on July 1, 2012.
+
+
+
+
+ Legislative Review Note
+    as of   2-2-12  2:20 PM
+
+ Office of Legislative Research and General Counsel
+[Bill Documents][Bills Directory]
+
+
+
+
+
+
+
+
+
+Who represents me?
+
+
+
+
+
+Remember my Legislators
+
+
+
+
+
+State Senate
+		350 North State, Suite 320
+		PO Box 145115
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1035
+		Fax: (801) 326-1475
+
+
+
+House of Representatives
+		350 North State, Suite 350
+		PO Box 145030
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1029
+		Fax: (801) 326-1544
+
+
+
+
+
+
+
+
+
+
+Home
+Mobile Site
+Site Map
+Calendar
+Code / Constitution
+House
+Senate
+
+Terms of Use/Privacy Policy
+
+ADA
+Utah.gov
+
+
+
+
+
+
+

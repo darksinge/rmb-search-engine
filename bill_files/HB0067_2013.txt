@@ -1,0 +1,4430 @@
+Sponsors: []Modifications: (30) (a)  Subject to Subsection (30)(b), "qualifying exempt primary residential rentalpersonal property" means household furnishings, furniture, and equipment that:(i)  are used exclusively within a dwelling unit that is the primary residence of a tenant;and(ii)  after applying the residential exemption described in Section 
+
+59-2-103
+
+, are exemptfrom taxation under this chapter in accordance with Subsection 
+
+59-2-1115
+
+(2).(b)  In accordance with Title 63G, Chapter 3, Utah Administrative Rulemaking Act, thecommission may by rule define the term "dwelling unit" for purposes of this Subsection (30)and Subsection (32).(31)(32) (a)  Subject to Subsection (32)(b),(b)  Subject to Subsection (32)(c), "residential property":(i)  except as provided in Subsection (32)(b)(ii), includes household furnishings,furniture, and equipment if the household furnishings, furniture, and equipment are usedexclusively within a dwelling unit that is the primary residence of a tenant; and(ii)(c)  In accordance with Title 63G, Chapter 3, Utah Administrative Rulemaking Act, thecommission may by rule define the term "dwelling unit" for purposes of Subsection (30) andthis Subsection (32).(33)(34)(35)(36)(37)(7) (a)  Subsections (2) through (6) do not apply to qualifying exempt primaryresidential rental personal property.(b)  For a calendar year in which a taxpayer qualifies for an exemption described inSubsection 
+
+59-2-1115
+
+(2) for qualifying exempt primary residential rental personal property, asigned statement described in Section 
+
+59-2-306
+
+ with respect to the qualifying exempt primaryresidential rental personal property may only require the taxpayer to certify, under penalty ofperjury, that the taxpayer qualifies for the exemption under Subsection 
+
+59-2-1115
+
+(2).real property that isreal property that isreal property that istaxable$10,000In addition to the exemption under Subsection (2)(a), an(3)  Notwithstanding Section 
+
+59-2-306
+
+ and subject to Subsection (4), for a calendaryear in which a taxpayer qualifies for an exemption described in Subsection (2), a signedstatement described in Section 
+
+59-2-306
+
+ with respect to the taxable tangible personal propertythat is exempt under Subsection (2) may only require the taxpayer to certify, under penalty ofperjury, that the taxpayer qualifies for the exemption under Subsection (2).(4)  A signed statement with respect to qualifying exempt primary residential rentalpersonal property is as provided in Section 
+
+59-2-103.5
+
+.(5)This bill has retrospective operation to January 1, 2013.Full text:
+
+
+
+Utah State Legislature
+
+
+
+
+
+
+
+
+
+
+
+
+Legislators
+
+By Session (1896-Current)
+Alphabetical (Historical)
+Find by Address/Map
+More
+
+
+Bills
+
+Bills/Bill Requests
+Passed Bills
+2017 Bills
+
+Keyword Search
+Reading Calendars
+Tracking Service
+More
+
+
+Committees
+
+All Committees
+Appropriations
+Commissions
+
+Independent Legislative Ethics Commission
+Interim
+Standing
+Subcommittees
+Task Forces
+Bills In Committees
+
+
+Utah Code / Constitution
+
+
+Title/Chapter/Section
+Keyword Search 
+
+Utah Constitution
+Laws of Utah 1851-ongoing
+Utah Territorial Laws 
+More
+
+
+Senate
+
+Main Page 
+About The Senate 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Extraordinary Sessions 
+Reading Calendars 
+Past Floor Debates 
+Senate Journals 
+
+
+House
+
+Main Page
+About the House 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Reading Calendars 
+Past Floor Debates 
+Journals 
+Conflict of Interest Forms 
+
+
+Legislative Guide 
+
+Legislative Guide
+Civic Programs
+GRAMA (Records Requests)
+
+
+Publications
+
+Search Publications
+Appropriations
+Audits
+Bagels & Briefings
+Briefing Papers
+Digest of Legislation
+Legislative Drafting Manual
+
+Journals
+
+Interim Highlights
+
+Legislative Rules
+GRAMA (Records Requests)
+Public Email
+State Organization Charts
+YouTube Channel
+Requests for Proposals and Legal Notices
+More
+
+
+Legislative Histories
+
+Legislative History Resources
+How to Research
+Bill Drafting/Research Files (1990-Ongoing)
+
+Working Bills (1896-1989)
+Interim Committee Histories (1990-Ongoing) 
+Journals
+Past House Floor Debates
+Past Senate Floor Debates
+More
+
+
+Staff Offices
+
+All Legislative Offices
+Auditor General
+Fiscal Analyst
+Printing
+Research and General Counsel
+Staff Awards
+Job Opportunities
+More
+
+
+Links of Interest
+
+Utah Administrative Rules
+Courts
+Utah State Capitol
+State of Utah
+Federal Legislation
+More
+
+
+
+
+
+
+ 
+
+Download Zipped Introduced WordPerfect HB0067.ZIP
+[Status][Bill Documents][Fiscal Note][Bills Directory]
+
+
+H.B. 67
+
+
+
+
+
+            
+1
+
+    
+ PERSONAL PROPERTY TAXATION REVISIONS
+
+
+
+            
+2
+
+    
+2013 GENERAL SESSION
+
+            
+3
+
+    
+STATE OF UTAH
+
+            
+4
+
+    
+
+
+ Chief Sponsor: Gage Froerer
+
+
+
+            
+5
+
+    
+
+
+
+Senate Sponsor:
+
+
+
+
+
+
+ Wayne A. Harper
+
+
+
+
+
+            
+6
+
+    
+
+            
+7
+
+    
+ LONG TITLE
+            
+8
+
+    
+ General Description:
+            
+9
+
+    
+    This bill addresses the property taxation of personal property.
+            
+10
+
+    
+ Highlighted Provisions:
+            
+11
+
+    
+    This bill:
+            
+12
+
+    
+    .    applies the primary residential exemption to household furnishings, furniture, and
+            
+13
+
+    
+equipment used exclusively within a rental primary residential property;
+            
+14
+
+    
+    .    increases a property tax exemption for personal property;
+            
+15
+
+    
+    .    repeals a consumer price index adjustment for purposes of the property tax
+            
+16
+
+    
+exemption for personal property;
+            
+17
+
+    
+    .    provides that a signed statement submitted to a county assessor may only contain
+            
+18
+
+    
+certain information under certain circumstances;
+            
+19
+
+    
+    .    addresses property tax exemption, abatement, and deferral provisions relative to the
+            
+20
+
+    
+primary residential exemption; and
+            
+21
+
+    
+    .    makes technical and conforming changes.
+            
+22
+
+    
+ Money Appropriated in this Bill:
+            
+23
+
+    
+    None
+            
+24
+
+    
+ Other Special Clauses:
+            
+25
+
+    
+    This bill has retrospective operation to January 1, 2013.
+            
+26
+
+    
+ Utah Code Sections Affected:
+            
+27
+
+    
+AMENDS:
+
+            
+28
+
+
+    
+     59-2-102, as last amended by Laws of Utah 2012, Chapter 240
+            
+29
+
+    
+     59-2-103.5, as last amended by Laws of Utah 2011, Chapter 410
+            
+30
+
+    
+     59-2-1105, as last amended by Laws of Utah 2012, Chapter 92
+            
+31
+
+    
+     59-2-1108, as last amended by Laws of Utah 2007, Chapter 306
+            
+32
+
+    
+     59-2-1109, as last amended by Laws of Utah 2011, Chapter 366
+            
+33
+
+    
+     59-2-1115, as last amended by Laws of Utah 2012, Chapter 313
+            
+34
+
+    
+
+            
+35
+
+    
+Be it enacted by the Legislature of the state of Utah:
+            
+36
+
+    
+    Section 1.  
+Section  
+59-2-102
+
+ is amended to read:
+            
+37
+
+    
+     59-2-102.  Definitions.
+            
+38
+
+    
+    As used in this chapter and title:
+            
+39
+
+    
+    (1)  "Aerial applicator" means aircraft or rotorcraft used exclusively for the purpose of
+            
+40
+
+    
+engaging in dispensing activities directly affecting agriculture or horticulture with an
+            
+41
+
+    
+airworthiness certificate from the Federal Aviation Administration certifying the aircraft or
+            
+42
+
+    
+rotorcraft's use for agricultural and pest control purposes.
+            
+43
+
+    
+    (2)  "Air charter service" means an air carrier operation which requires the customer to
+            
+44
+
+    
+hire an entire aircraft rather than book passage in whatever capacity is available on a scheduled
+            
+45
+
+    
+trip.
+            
+46
+
+    
+    (3)  "Air contract service" means an air carrier operation available only to customers
+            
+47
+
+    
+who engage the services of the carrier through a contractual agreement and excess capacity on
+            
+48
+
+    
+any trip and is not available to the public at large.
+            
+49
+
+    
+    (4)  "Aircraft" is as defined in Section 
+
+72-10-102
+
+.
+            
+50
+
+    
+    (5) (a)  Except as provided in Subsection (5)(b), "airline" means an air carrier that:
+            
+51
+
+    
+    (i)  operates:
+            
+52
+
+    
+    (A)  on an interstate route; and
+            
+53
+
+    
+    (B)  on a scheduled basis; and
+            
+54
+
+    
+    (ii)  offers to fly one or more passengers or cargo on the basis of available capacity on a
+            
+55
+
+    
+regularly scheduled route.
+            
+56
+
+    
+    (b)  "Airline" does not include an:
+            
+57
+
+    
+    (i)  air charter service; or
+            
+58
+
+    
+    (ii)  air contract service.
+
+            
+59
+
+
+    
+    (6)  "Assessment roll" means a permanent record of the assessment of property as
+            
+60
+
+    
+assessed by the county assessor and the commission and may be maintained manually or as a
+            
+61
+
+    
+computerized file as a consolidated record or as multiple records by type, classification, or
+            
+62
+
+    
+categories.
+            
+63
+
+    
+    (7) (a)  "Certified revenue levy" means a property tax levy that provides an amount of
+            
+64
+
+    
+ad valorem property tax revenue equal to the sum of:
+            
+65
+
+    
+    (i)  the amount of ad valorem property tax revenue to be generated statewide in the
+            
+66
+
+    
+previous year from imposing a school minimum basic tax rate, as specified in Subsection
+            
+67
+
+    
+
+53A-17a-135
+
+(1)(a), or multicounty assessing and collecting levy, as specified in Section
+            
+68
+
+    
+
+59-2-1602
+
+; and
+            
+69
+
+    
+    (ii)  the product of:
+            
+70
+
+    
+    (A)  new growth, as defined in:
+            
+71
+
+    
+    (I)  Section 
+
+59-2-924
+
+; and
+            
+72
+
+    
+    (II)  rules of the commission; and
+            
+73
+
+    
+    (B)  the school minimum basic tax rate or multicounty assessing and collecting levy
+            
+74
+
+    
+certified by the commission for the previous year.
+            
+75
+
+    
+    (b)  For purposes of this Subsection (7), "ad valorem property tax revenue" does not
+            
+76
+
+    
+include property tax revenue received by a taxing entity from personal property that is:
+            
+77
+
+    
+    (i)  assessed by a county assessor in accordance with Part 3, County Assessment; and
+            
+78
+
+    
+    (ii)  semiconductor manufacturing equipment.
+            
+79
+
+    
+    (c)  For purposes of calculating the certified revenue levy described in this Subsection
+            
+80
+
+    
+(7), the commission shall use:
+            
+81
+
+    
+    (i)  the taxable value of real property assessed by a county assessor contained on the
+            
+82
+
+    
+assessment roll;
+            
+83
+
+    
+    (ii)  the taxable value of real and personal property assessed by the commission; and
+            
+84
+
+    
+    (iii)  the taxable year end value of personal property assessed by a county assessor
+            
+85
+
+    
+contained on the prior year's assessment roll.
+            
+86
+
+    
+    (8)  "County-assessed commercial vehicle" means:
+            
+87
+
+    
+    (a)  any commercial vehicle, trailer, or semitrailer which is not apportioned under
+            
+88
+
+    
+Section 
+
+41-1a-301
+
+ and is not operated interstate to transport the vehicle owner's goods or
+            
+89
+
+    
+property in furtherance of the owner's commercial enterprise;
+
+            
+90
+
+
+    
+    (b)  any passenger vehicle owned by a business and used by its employees for
+            
+91
+
+    
+transportation as a company car or vanpool vehicle; and
+            
+92
+
+    
+    (c)  vehicles which are:
+            
+93
+
+    
+    (i)  especially constructed for towing or wrecking, and which are not otherwise used to
+            
+94
+
+    
+transport goods, merchandise, or people for compensation;
+            
+95
+
+    
+    (ii)  used or licensed as taxicabs or limousines;
+            
+96
+
+    
+    (iii)  used as rental passenger cars, travel trailers, or motor homes;
+            
+97
+
+    
+    (iv)  used or licensed in this state for use as ambulances or hearses;
+            
+98
+
+    
+    (v)  especially designed and used for garbage and rubbish collection; or
+            
+99
+
+    
+    (vi)  used exclusively to transport students or their instructors to or from any private,
+            
+100
+
+    
+public, or religious school or school activities.
+            
+101
+
+    
+    (9) (a)  Except as provided in Subsection (9)(b), for purposes of Section 
+
+59-2-801
+
+,
+            
+102
+
+    
+"designated tax area" means a tax area created by the overlapping boundaries of only the
+            
+103
+
+    
+following taxing entities:
+            
+104
+
+    
+    (i)  a county; and
+            
+105
+
+    
+    (ii)  a school district.
+            
+106
+
+    
+    (b)  Notwithstanding Subsection (9)(a), "designated tax area" includes a tax area created
+            
+107
+
+    
+by the overlapping boundaries of:
+            
+108
+
+    
+    (i)  the taxing entities described in Subsection (9)(a); and
+            
+109
+
+    
+    (ii) (A)  a city or town if the boundaries of the school district under Subsection (9)(a)
+            
+110
+
+    
+and the boundaries of the city or town are identical; or
+            
+111
+
+    
+    (B)  a special service district if the boundaries of the school district under Subsection
+            
+112
+
+    
+(9)(a) are located entirely within the special service district.
+            
+113
+
+    
+    (10)  "Eligible judgment" means a final and unappealable judgment or order under
+            
+114
+
+    
+Section 
+
+59-2-1330
+
+:
+            
+115
+
+    
+    (a)  that became a final and unappealable judgment or order no more than 14 months
+            
+116
+
+    
+prior to the day on which the notice required by Section 
+
+59-2-919.1
+
+ is required to be mailed;
+            
+117
+
+    
+and
+            
+118
+
+    
+    (b)  for which a taxing entity's share of the final and unappealable judgment or order is
+            
+119
+
+    
+greater than or equal to the lesser of:
+            
+120
+
+    
+    (i)  $5,000; or
+
+            
+121
+
+
+    
+    (ii)  2.5% of the total ad valorem property taxes collected by the taxing entity in the
+            
+122
+
+    
+previous fiscal year.
+            
+123
+
+    
+    (11) (a)  "Escaped property" means any property, whether personal, land, or any
+            
+124
+
+    
+improvements to the property, subject to taxation and is:
+            
+125
+
+    
+    (i)  inadvertently omitted from the tax rolls, assigned to the incorrect parcel, or assessed
+            
+126
+
+    
+to the wrong taxpayer by the assessing authority;
+            
+127
+
+    
+    (ii)  undervalued or omitted from the tax rolls because of the failure of the taxpayer to
+            
+128
+
+    
+comply with the reporting requirements of this chapter; or
+            
+129
+
+    
+    (iii)  undervalued because of errors made by the assessing authority based upon
+            
+130
+
+    
+incomplete or erroneous information furnished by the taxpayer.
+            
+131
+
+    
+    (b)  Property which is undervalued because of the use of a different valuation
+            
+132
+
+    
+methodology or because of a different application of the same valuation methodology is not
+            
+133
+
+    
+"escaped property."
+            
+134
+
+    
+    (12)  "Fair market value" means the amount at which property would change hands
+            
+135
+
+    
+between a willing buyer and a willing seller, neither being under any compulsion to buy or sell
+            
+136
+
+    
+and both having reasonable knowledge of the relevant facts.  For purposes of taxation, "fair
+            
+137
+
+    
+market value" shall be determined using the current zoning laws applicable to the property in
+            
+138
+
+    
+question, except in cases where there is a reasonable probability of a change in the zoning laws
+            
+139
+
+    
+affecting that property in the tax year in question and the change would have an appreciable
+            
+140
+
+    
+influence upon the value.
+            
+141
+
+    
+    (13)  "Farm machinery and equipment," for purposes of the exemption provided under
+            
+142
+
+    
+Section 
+
+59-2-1101
+
+, means tractors, milking equipment and storage and cooling facilities, feed
+            
+143
+
+    
+handling equipment, irrigation equipment, harvesters, choppers, grain drills and planters, tillage
+            
+144
+
+    
+tools, scales, combines, spreaders, sprayers, haying equipment, and any other machinery or
+            
+145
+
+    
+equipment used primarily for agricultural purposes; but does not include vehicles required to be
+            
+146
+
+    
+registered with the Motor Vehicle Division or vehicles or other equipment used for business
+            
+147
+
+    
+purposes other than farming.
+            
+148
+
+    
+    (14)  "Geothermal fluid" means water in any form at temperatures greater than 120
+            
+149
+
+    
+degrees centigrade naturally present in a geothermal system.
+            
+150
+
+    
+    (15)  "Geothermal resource" means:
+            
+151
+
+    
+    (a)  the natural heat of the earth at temperatures greater than 120 degrees centigrade;
+
+            
+152
+
+
+    
+and
+            
+153
+
+    
+    (b)  the energy, in whatever form, including pressure, present in, resulting from, created
+            
+154
+
+    
+by, or which may be extracted from that natural heat, directly or through a material medium.
+            
+155
+
+    
+    (16) (a)  "Goodwill" means:
+            
+156
+
+    
+    (i)  acquired goodwill that is reported as goodwill on the books and records:
+            
+157
+
+    
+    (A)  of a taxpayer; and
+            
+158
+
+    
+    (B)  that are maintained for financial reporting purposes; or
+            
+159
+
+    
+    (ii)  the ability of a business to:
+            
+160
+
+    
+    (A)  generate income:
+            
+161
+
+    
+    (I)  that exceeds a normal rate of return on assets; and
+            
+162
+
+    
+    (II)  resulting from a factor described in Subsection (16)(b); or
+            
+163
+
+    
+    (B)  obtain an economic or competitive advantage resulting from a factor described in
+            
+164
+
+    
+Subsection (16)(b).
+            
+165
+
+    
+    (b)  The following factors apply to Subsection (16)(a)(ii):
+            
+166
+
+    
+    (i)  superior management skills;
+            
+167
+
+    
+    (ii)  reputation;
+            
+168
+
+    
+    (iii)  customer relationships;
+            
+169
+
+    
+    (iv)  patronage; or
+            
+170
+
+    
+    (v)  a factor similar to Subsections (16)(b)(i) through (iv).
+            
+171
+
+    
+    (c)  "Goodwill" does not include:
+            
+172
+
+    
+    (i)  the intangible property described in Subsection (20)(a) or (b);
+            
+173
+
+    
+    (ii)  locational attributes of real property, including:
+            
+174
+
+    
+    (A)  zoning;
+            
+175
+
+    
+    (B)  location;
+            
+176
+
+    
+    (C)  view;
+            
+177
+
+    
+    (D)  a geographic feature;
+            
+178
+
+    
+    (E)  an easement;
+            
+179
+
+    
+    (F)  a covenant;
+            
+180
+
+    
+    (G)  proximity to raw materials;
+            
+181
+
+    
+    (H)  the condition of surrounding property; or
+            
+182
+
+    
+    (I)  proximity to markets;
+
+            
+183
+
+
+    
+    (iii)  value attributable to the identification of an improvement to real property,
+            
+184
+
+    
+including:
+            
+185
+
+    
+    (A)  reputation of the designer, builder, or architect of the improvement;
+            
+186
+
+    
+    (B)  a name given to, or associated with, the improvement; or
+            
+187
+
+    
+    (C)  the historic significance of an improvement; or
+            
+188
+
+    
+    (iv)  the enhancement or assemblage value specifically attributable to the interrelation
+            
+189
+
+    
+of the existing tangible property in place working together as a unit.
+            
+190
+
+    
+    (17)  "Governing body" means:
+            
+191
+
+    
+    (a)  for a county, city, or town, the legislative body of the county, city, or town;
+            
+192
+
+    
+    (b)  for a local district under Title 17B, Limited Purpose Local Government Entities -
+            
+193
+
+    
+Local Districts, the local district's board of trustees;
+            
+194
+
+    
+    (c)  for a school district, the local board of education; or
+            
+195
+
+    
+    (d)  for a special service district under Title 17D, Chapter 1, Special Service District
+            
+196
+
+    
+Act:
+            
+197
+
+    
+    (i)  the legislative body of the county or municipality that created the special service
+            
+198
+
+    
+district, to the extent that the county or municipal legislative body has not delegated authority
+            
+199
+
+    
+to an administrative control board established under Section 
+
+17D-1-301
+
+; or
+            
+200
+
+    
+    (ii)  the administrative control board, to the extent that the county or municipal
+            
+201
+
+    
+legislative body has delegated authority to an administrative control board established under
+            
+202
+
+    
+Section 
+
+17D-1-301
+
+.
+            
+203
+
+    
+    (18) (a)  For purposes of Section 
+
+59-2-103
+
+:
+            
+204
+
+    
+    (i)  "household" means the association of persons who live in the same dwelling,
+            
+205
+
+    
+sharing its furnishings, facilities, accommodations, and expenses; and
+            
+206
+
+    
+    (ii)  "household" includes married individuals, who are not legally separated, that have
+            
+207
+
+    
+established domiciles at separate locations within the state.
+            
+208
+
+    
+    (b)  In accordance with Title 63G, Chapter 3, Utah Administrative Rulemaking Act, the
+            
+209
+
+    
+commission may make rules defining the term "domicile."
+            
+210
+
+    
+    (19) (a)  Except as provided in Subsection (19)(c), "improvement" means a building,
+            
+211
+
+    
+structure, fixture, fence, or other item that is permanently attached to land, regardless of
+            
+212
+
+    
+whether the title has been acquired to the land, if:
+            
+213
+
+    
+    (i) (A)  attachment to land is essential to the operation or use of the item; and
+
+            
+214
+
+
+    
+    (B)  the manner of attachment to land suggests that the item will remain attached to the
+            
+215
+
+    
+land in the same place over the useful life of the item; or
+            
+216
+
+    
+    (ii)  removal of the item would:
+            
+217
+
+    
+    (A)  cause substantial damage to the item; or
+            
+218
+
+    
+    (B)  require substantial alteration or repair of a structure to which the item is attached.
+            
+219
+
+    
+    (b)  "Improvement" includes:
+            
+220
+
+    
+    (i)  an accessory to an item described in Subsection (19)(a) if the accessory is:
+            
+221
+
+    
+    (A)  essential to the operation of the item described in Subsection (19)(a); and
+            
+222
+
+    
+    (B)  installed solely to serve the operation of the item described in Subsection (19)(a);
+            
+223
+
+    
+and
+            
+224
+
+    
+    (ii)  an item described in Subsection (19)(a) that:
+            
+225
+
+    
+    (A)  is temporarily detached from the land for repairs; and
+            
+226
+
+    
+    (B)  remains located on the land.
+            
+227
+
+    
+    (c)  Notwithstanding Subsections (19)(a) and (b), "improvement" does not include:
+            
+228
+
+    
+    (i)  an item considered to be personal property pursuant to rules made in accordance
+            
+229
+
+    
+with Section 
+
+59-2-107
+
+;
+            
+230
+
+    
+    (ii)  a moveable item that is attached to land:
+            
+231
+
+    
+    (A)  for stability only; or
+            
+232
+
+    
+    (B)  for an obvious temporary purpose;
+            
+233
+
+    
+    (iii) (A)  manufacturing equipment and machinery; or
+            
+234
+
+    
+    (B)  essential accessories to manufacturing equipment and machinery;
+            
+235
+
+    
+    (iv)  an item attached to the land in a manner that facilitates removal without substantial
+            
+236
+
+    
+damage to:
+            
+237
+
+    
+    (A)  the land; or
+            
+238
+
+    
+    (B)  the item; or
+            
+239
+
+    
+    (v)  a transportable factory-built housing unit as defined in Section 
+
+59-2-1502
+
+ if that
+            
+240
+
+    
+transportable factory-built housing unit is considered to be personal property under Section
+            
+241
+
+    
+
+59-2-1503
+
+.
+            
+242
+
+    
+    (20)  "Intangible property" means:
+            
+243
+
+    
+    (a)  property that is capable of private ownership separate from tangible property,
+            
+244
+
+    
+including:
+
+            
+245
+
+
+    
+    (i)  money;
+            
+246
+
+    
+    (ii)  credits;
+            
+247
+
+    
+    (iii)  bonds;
+            
+248
+
+    
+    (iv)  stocks;
+            
+249
+
+    
+    (v)  representative property;
+            
+250
+
+    
+    (vi)  franchises;
+            
+251
+
+    
+    (vii)  licenses;
+            
+252
+
+    
+    (viii)  trade names;
+            
+253
+
+    
+    (ix)  copyrights; and
+            
+254
+
+    
+    (x)  patents;
+            
+255
+
+    
+    (b)  a low-income housing tax credit;
+            
+256
+
+    
+    (c)  goodwill; or
+            
+257
+
+    
+    (d)  a renewable energy tax credit or incentive, including:
+            
+258
+
+    
+    (i)  a federal renewable energy production tax credit under Section 45, Internal Revenue
+            
+259
+
+    
+Code;
+            
+260
+
+    
+    (ii)  a federal energy credit for qualified renewable electricity production facilities under
+            
+261
+
+    
+Section 48, Internal Revenue Code;
+            
+262
+
+    
+    (iii)  a federal grant for a renewable energy property under American Recovery and
+            
+263
+
+    
+Reinvestment Act of 2009, Pub. L. No. 111-5, Section 1603; and
+            
+264
+
+    
+    (iv)  a tax credit under Subsection 
+
+59-7-614
+
+(2)(c).
+            
+265
+
+    
+    (21)  "Low-income housing tax credit" means:
+            
+266
+
+    
+    (a)  a federal low-income housing tax credit under Section 42, Internal Revenue Code;
+            
+267
+
+    
+or
+            
+268
+
+    
+    (b)  a low-income housing tax credit under:
+            
+269
+
+    
+    (i)  Section 
+
+59-7-607
+
+; or
+            
+270
+
+    
+    (ii)  Section 
+
+59-10-1010
+
+.
+            
+271
+
+    
+    (22)  "Metalliferous minerals" includes gold, silver, copper, lead, zinc, and uranium.
+            
+272
+
+    
+    (23)  "Mine" means a natural deposit of either metalliferous or nonmetalliferous
+            
+273
+
+    
+valuable mineral.
+            
+274
+
+    
+    (24)  "Mining" means the process of producing, extracting, leaching, evaporating, or
+            
+275
+
+    
+otherwise removing a mineral from a mine.
+
+            
+276
+
+
+    
+    (25) (a)  "Mobile flight equipment" means tangible personal property that is:
+            
+277
+
+    
+    (i)  owned or operated by an:
+            
+278
+
+    
+    (A)  air charter service;
+            
+279
+
+    
+    (B)  air contract service; or
+            
+280
+
+    
+    (C)  airline; and
+            
+281
+
+    
+    (ii) (A)  capable of flight;
+            
+282
+
+    
+    (B)  attached to an aircraft that is capable of flight; or
+            
+283
+
+    
+    (C)  contained in an aircraft that is capable of flight if the tangible personal property is
+            
+284
+
+    
+intended to be used:
+            
+285
+
+    
+    (I)  during multiple flights;
+            
+286
+
+    
+    (II)  during a takeoff, flight, or landing; and
+            
+287
+
+    
+    (III)  as a service provided by an air charter service, air contract service, or airline.
+            
+288
+
+    
+    (b) (i)  "Mobile flight equipment" does not include a spare part other than a spare
+            
+289
+
+    
+engine that is rotated:
+            
+290
+
+    
+    (A)  at regular intervals; and
+            
+291
+
+    
+    (B)  with an engine that is attached to the aircraft.
+            
+292
+
+    
+    (ii)  In accordance with Title 63G, Chapter 3, Utah Administrative Rulemaking Act, the
+            
+293
+
+    
+commission may make rules defining the term "regular intervals."
+            
+294
+
+    
+    (26)  "Nonmetalliferous minerals" includes, but is not limited to, oil, gas, coal, salts,
+            
+295
+
+    
+sand, rock, gravel, and all carboniferous materials.
+            
+296
+
+    
+    (27)  "Personal property" includes:
+            
+297
+
+    
+    (a)  every class of property as defined in Subsection (28) which is the subject of
+            
+298
+
+    
+ownership and not included within the meaning of the terms "real estate" and "improvements";
+            
+299
+
+    
+    (b)  gas and water mains and pipes laid in roads, streets, or alleys;
+            
+300
+
+    
+    (c)  bridges and ferries;
+            
+301
+
+    
+    (d)  livestock which, for the purposes of the exemption provided under Section
+            
+302
+
+    
+
+59-2-1112
+
+, means all domestic animals, honeybees, poultry, fur-bearing animals, and fish; and
+            
+303
+
+    
+    (e)  outdoor advertising structures as defined in Section 
+
+72-7-502
+
+.
+            
+304
+
+    
+    (28) (a)  "Property" means property that is subject to assessment and taxation according
+            
+305
+
+    
+to its value.
+            
+306
+
+    
+    (b)  "Property" does not include intangible property as defined in this section.
+
+            
+307
+
+
+    
+    (29)  "Public utility," for purposes of this chapter, means the operating property of a
+            
+308
+
+    
+railroad, gas corporation, oil or gas transportation or pipeline company, coal slurry pipeline
+            
+309
+
+    
+company, electrical corporation, telephone corporation, sewerage corporation, or heat
+            
+310
+
+    
+corporation where the company performs the service for, or delivers the commodity to, the
+            
+311
+
+    
+public generally or companies serving the public generally, or in the case of a gas corporation
+            
+312
+
+    
+or an electrical corporation, where the gas or electricity is sold or furnished to any member or
+            
+313
+
+    
+consumers within the state for domestic, commercial, or industrial use.  Public utility also
+            
+314
+
+    
+means the operating property of any entity or person defined under Section 
+
+54-2-1
+
+ except water
+            
+315
+
+    
+corporations.
+            
+316
+
+    
+    (30) (a)  Subject to Subsection (30)(b), "qualifying exempt primary residential rental
+            
+317
+
+    
+personal property" means household furnishings, furniture, and equipment that:
+            
+318
+
+    
+    (i)  are used exclusively within a dwelling unit that is the primary residence of a tenant;
+            
+319
+
+    
+and
+            
+320
+
+    
+    (ii)  after applying the residential exemption described in Section 
+
+59-2-103
+
+, are exempt
+            
+321
+
+    
+from taxation under this chapter in accordance with Subsection 
+
+59-2-1115
+
+(2).
+            
+322
+
+    
+    (b)  In accordance with Title 63G, Chapter 3, Utah Administrative Rulemaking Act, the
+            
+323
+
+    
+commission may by rule define the term "dwelling unit" for purposes of this Subsection (30)
+            
+324
+
+    
+and Subsection (32).
+            
+325
+
+    
+    [(30)] (31)  "Real estate" or "real property" includes:
+            
+326
+
+    
+    (a)  the possession of, claim to, ownership of, or right to the possession of land;
+            
+327
+
+    
+    (b)  all mines, minerals, and quarries in and under the land, all timber belonging to
+            
+328
+
+    
+individuals or corporations growing or being on the lands of this state or the United States, and
+            
+329
+
+    
+all rights and privileges appertaining to these; and
+            
+330
+
+    
+    (c)  improvements.
+            
+331
+
+    
+    [(31)] (32) (a)  Subject to Subsection (32)(b), "residential property," for the purposes of
+            
+332
+
+    
+the reductions and adjustments under this chapter, means any property used for residential
+            
+333
+
+    
+purposes as a primary residence.  [It]
+            
+334
+
+    
+    (b)  Subject to Subsection (32)(c), "residential property":
+            
+335
+
+    
+    (i)  except as provided in Subsection (32)(b)(ii), includes household furnishings,
+            
+336
+
+    
+furniture, and equipment if the household furnishings, furniture, and equipment are used
+            
+337
+
+    
+exclusively within a dwelling unit that is the primary residence of a tenant; and
+
+            
+338
+
+
+    
+    (ii)  does not include property used for transient residential use or condominiums used
+            
+339
+
+    
+in rental pools.
+            
+340
+
+    
+    (c)  In accordance with Title 63G, Chapter 3, Utah Administrative Rulemaking Act, the
+            
+341
+
+    
+commission may by rule define the term "dwelling unit" for purposes of Subsection (30) and
+            
+342
+
+    
+this Subsection (32).
+            
+343
+
+    
+    [(32)] (33) (a)  "State-assessed commercial vehicle" means:
+            
+344
+
+    
+    (i)  any commercial vehicle, trailer, or semitrailer which operates interstate or intrastate
+            
+345
+
+    
+to transport passengers, freight, merchandise, or other property for hire; or
+            
+346
+
+    
+    (ii)  any commercial vehicle, trailer, or semitrailer which operates interstate and
+            
+347
+
+    
+transports the vehicle owner's goods or property in furtherance of the owner's commercial
+            
+348
+
+    
+enterprise.
+            
+349
+
+    
+    (b)  "State-assessed commercial vehicle" does not include vehicles used for hire which
+            
+350
+
+    
+are specified in Subsection (8)(c) as county-assessed commercial vehicles.
+            
+351
+
+    
+    [(33)] (34)  "Taxable value" means fair market value less any applicable reduction
+            
+352
+
+    
+allowed for residential property under Section 
+
+59-2-103
+
+.
+            
+353
+
+    
+    [(34)] (35)  "Tax area" means a geographic area created by the overlapping boundaries
+            
+354
+
+    
+of one or more taxing entities.
+            
+355
+
+    
+    [(35)] (36)  "Taxing entity" means any county, city, town, school district, special taxing
+            
+356
+
+    
+district, local district under Title 17B, Limited Purpose Local Government Entities - Local
+            
+357
+
+    
+Districts, or other political subdivision of the state with the authority to levy a tax on property.
+            
+358
+
+    
+    [(36)] (37)  "Tax roll" means a permanent record of the taxes charged on property, as
+            
+359
+
+    
+extended on the assessment roll and may be maintained on the same record or records as the
+            
+360
+
+    
+assessment roll or may be maintained on a separate record properly indexed to the assessment
+            
+361
+
+    
+roll.  It includes tax books, tax lists, and other similar materials.
+            
+362
+
+    
+    Section 2.  
+Section  
+59-2-103.5
+
+ is amended to read:
+            
+363
+
+    
+     59-2-103.5.  Procedures to obtain an exemption for residential property --
+            
+364
+
+    
+ Procedure if property owner or property no longer qualifies to receive a residential
+            
+365
+
+    
+ exemption.
+            
+366
+
+    
+    (1)  Subject to the other provisions of this section, a county legislative body may by
+            
+367
+
+    
+ordinance require that in order for residential property to be allowed a residential exemption in
+            
+368
+
+    
+accordance with Section 
+
+59-2-103
+
+, an owner of the residential property shall file with the
+
+            
+369
+
+
+    
+county board of equalization a statement:
+            
+370
+
+    
+    (a)  on a form prescribed by the commission by rule;
+            
+371
+
+    
+    (b)  signed by all of the owners of the residential property;
+            
+372
+
+    
+    (c)  certifying that the residential property is residential property; and
+            
+373
+
+    
+    (d)  containing other information as required by the commission by rule.
+            
+374
+
+    
+    (2) (a)  Subject to Section 
+
+59-2-103
+
+ and except as provided in Subsection (3), a county
+            
+375
+
+    
+board of equalization shall allow an owner described in Subsection (1) a residential exemption
+            
+376
+
+    
+for the residential property described in Subsection (1) if:
+            
+377
+
+    
+    (i)  the county legislative body enacts the ordinance described in Subsection (1); and
+            
+378
+
+    
+    (ii)  the county board of equalization determines that the requirements of Subsection (1)
+            
+379
+
+    
+are met.
+            
+380
+
+    
+    (b)  A county board of equalization may require an owner of the residential property
+            
+381
+
+    
+described in Subsection (1) to file the statement described in Subsection (1) only if:
+            
+382
+
+    
+    (i)  that residential property was ineligible for the residential exemption authorized
+            
+383
+
+    
+under Section 
+
+59-2-103
+
+ during the calendar year immediately preceding the calendar year for
+            
+384
+
+    
+which the owner is seeking to claim the residential exemption for that residential property;
+            
+385
+
+    
+    (ii)  an ownership interest in that residential property changes; or
+            
+386
+
+    
+    (iii)  the county board of equalization determines that there is reason to believe that that
+            
+387
+
+    
+residential property no longer qualifies for the residential exemption in accordance with
+            
+388
+
+    
+Section 
+
+59-2-103
+
+.
+            
+389
+
+    
+    (3)  Notwithstanding Subsection (2)(a), if a county legislative body does not enact an
+            
+390
+
+    
+ordinance requiring an owner to file a statement in accordance with this section, the county
+            
+391
+
+    
+board of equalization:
+            
+392
+
+    
+    (a)  may not require an owner to file a statement for residential property to be eligible
+            
+393
+
+    
+for a residential exemption in accordance with Section 
+
+59-2-103
+
+; and
+            
+394
+
+    
+    (b)  shall allow a residential exemption for residential property in accordance with
+            
+395
+
+    
+Section 
+
+59-2-103
+
+.
+            
+396
+
+    
+    (4) (a)  In accordance with Title 63G, Chapter 3, Utah Administrative Rulemaking Act,
+            
+397
+
+    
+the commission shall make rules providing:
+            
+398
+
+    
+    (i)  the form for the statement described in Subsection (1); and
+            
+399
+
+    
+    (ii)  the contents of the form for the statement described in Subsection (1).
+
+            
+400
+
+
+    
+    (b)  The commission shall make the form described in Subsection (4)(a) available to
+            
+401
+
+    
+counties.
+            
+402
+
+    
+    (5)  Except as provided in Subsection (6), if a property owner no longer qualifies to
+            
+403
+
+    
+receive a residential exemption authorized under Section 
+
+59-2-103
+
+ for that property owner's
+            
+404
+
+    
+primary residence, the property owner shall:
+            
+405
+
+    
+    (a)  file a written statement with the county board of equalization of the county in which
+            
+406
+
+    
+the property is located:
+            
+407
+
+    
+    (i)  on a form provided by the county board of equalization; and
+            
+408
+
+    
+    (ii)  notifying the county board of equalization that the property owner no longer
+            
+409
+
+    
+qualifies to receive a residential exemption authorized under Section 
+
+59-2-103
+
+ for that property
+            
+410
+
+    
+owner's primary residence; and
+            
+411
+
+    
+    (b)  declare on the property owner's individual income tax return under Chapter 10,
+            
+412
+
+    
+Individual Income Tax Act, for the taxable year for which the property owner no longer
+            
+413
+
+    
+qualifies to receive a residential exemption authorized under Section 
+
+59-2-103
+
+ for that property
+            
+414
+
+    
+owner's primary residence, that the property owner no longer qualifies to receive a residential
+            
+415
+
+    
+exemption authorized under Section 
+
+59-2-103
+
+ for that property owner's primary residence.
+            
+416
+
+    
+    (6)  A property owner is not required to file a written statement or make the declaration
+            
+417
+
+    
+described in Subsection (5) if the property owner:
+            
+418
+
+    
+    (a)  changes primary residences;
+            
+419
+
+    
+    (b)  qualified to receive a residential exemption authorized under Section 
+
+59-2-103
+
+ for
+            
+420
+
+    
+the residence that was the property owner's former primary residence; and
+            
+421
+
+    
+    (c)  qualifies to receive a residential exemption authorized under Section 
+
+59-2-103
+
+ for
+            
+422
+
+    
+the residence that is the property owner's current primary residence.
+            
+423
+
+    
+    (7) (a)  Subsections (2) through (6) do not apply to qualifying exempt primary
+            
+424
+
+    
+residential rental personal property.
+            
+425
+
+    
+    (b)  For a calendar year in which a taxpayer qualifies for an exemption described in
+            
+426
+
+    
+Subsection 
+
+59-2-1115
+
+(2) for qualifying exempt primary residential rental personal property, a
+            
+427
+
+    
+signed statement described in Section 
+
+59-2-306
+
+ with respect to the qualifying exempt primary
+            
+428
+
+    
+residential rental personal property may only require the taxpayer to certify, under penalty of
+            
+429
+
+    
+perjury, that the taxpayer qualifies for the exemption under Subsection 
+
+59-2-1115
+
+(2).
+            
+430
+
+    
+    Section 3.  
+Section  
+59-2-1105
+
+ is amended to read:
+
+            
+431
+
+
+    
+     59-2-1105.  Application for United States Armed Forces exemption -- Rulemaking
+            
+432
+
+    
+ authority -- Statement -- County authority to make refunds.
+            
+433
+
+    
+    (1) (a)  Except as provided in Subsection 
+
+59-2-1101
+
+(2)(c), an exemption under Section
+            
+434
+
+    
+
+59-2-1104
+
+ may be allowed only if the interest of the claimant is on record on January 1 of the
+            
+435
+
+    
+year the exemption is claimed.
+            
+436
+
+    
+    (b)  If the claimant has an interest in real property under a contract, the exemption under
+            
+437
+
+    
+Section 
+
+59-2-1104
+
+ may be allowed if it is proved to the satisfaction of the county that the
+            
+438
+
+    
+claimant is:
+            
+439
+
+    
+    (i)  the purchaser under the contract; and
+            
+440
+
+    
+    (ii)  obligated to pay the taxes on the property beginning January 1 of the year the
+            
+441
+
+    
+exemption is claimed.
+            
+442
+
+    
+    (c)  If the claimant is the grantor of a trust holding title to real or tangible personal
+            
+443
+
+    
+property on which an exemption under Section 
+
+59-2-1104
+
+ is claimed, the claimant may claim
+            
+444
+
+    
+the portion of the exemption under Section 
+
+59-2-1104
+
+ and be treated as the owner of that
+            
+445
+
+    
+portion of the property held in trust for which the claimant proves to the satisfaction of the
+            
+446
+
+    
+county that:
+            
+447
+
+    
+    (i)  title to the portion of the trust will revest in the claimant upon the exercise of a
+            
+448
+
+    
+power:
+            
+449
+
+    
+    (A)  by:
+            
+450
+
+    
+    (I)  the claimant as grantor of the trust;
+            
+451
+
+    
+    (II)  a nonadverse party; or
+            
+452
+
+    
+    (III)  both the claimant and a nonadverse party; and
+            
+453
+
+    
+    (B)  regardless of whether the power is a power:
+            
+454
+
+    
+    (I)  to revoke;
+            
+455
+
+    
+    (II)  to terminate;
+            
+456
+
+    
+    (III)  to alter;
+            
+457
+
+    
+    (IV)  to amend; or
+            
+458
+
+    
+    (V)  to appoint;
+            
+459
+
+    
+    (ii)  the claimant is obligated to pay the taxes on that portion of the trust property
+            
+460
+
+    
+beginning January 1 of the year the claimant claims the exemption; and
+            
+461
+
+    
+    (iii)  the claimant meets the requirements under this part for the exemption.
+
+            
+462
+
+
+    
+    (2) (a) (i)  A claimant applying for an exemption under Section 
+
+59-2-1104
+
+ shall file an
+            
+463
+
+    
+application:
+            
+464
+
+    
+    (A)  with the county in which that claimant resides; and
+            
+465
+
+    
+    (B)  except as provided in Subsection (2)(b) or (e), on or before September 1 of the year
+            
+466
+
+    
+in which that claimant is applying for the exemption in accordance with this section.
+            
+467
+
+    
+    (ii)  A county shall provide a claimant who files an application for an exemption in
+            
+468
+
+    
+accordance with this section with a receipt:
+            
+469
+
+    
+    (A)  stating that the county received the claimant's application; and
+            
+470
+
+    
+    (B)  no later than 30 days after the day on which the claimant filed the application in
+            
+471
+
+    
+accordance with this section.
+            
+472
+
+    
+    (b)  Notwithstanding Subsection (2)(a)(i)(B) or (2)(e):
+            
+473
+
+    
+    (i)  subject to Subsection (2)(b)(iv), for a claimant who applies for an exemption under
+            
+474
+
+    
+Section 
+
+59-2-1104
+
+ on or after January 1, 2004, a county shall extend the deadline for filing the
+            
+475
+
+    
+application required by Subsection (2)(a) to September 1 of the year after the year the claimant
+            
+476
+
+    
+would otherwise be required to file the application under Subsection (2)(a)(i)(B) if:
+            
+477
+
+    
+    (A)  on or after January 1, 2004, a military entity issues a written decision that the:
+            
+478
+
+    
+    (I)  veteran has a disability; or
+            
+479
+
+    
+    (II)  deceased veteran with a disability with respect to whom the claimant applies for a
+            
+480
+
+    
+veteran's exemption had a disability at the time the deceased veteran with a disability died; and
+            
+481
+
+    
+    (B)  the date the written decision described in Subsection (2)(b)(i)(A) takes effect is in
+            
+482
+
+    
+any year prior to the current calendar year;
+            
+483
+
+    
+    (ii)  subject to Subsections (2)(b)(iv) and (2)(d), for a claimant who applies for an
+            
+484
+
+    
+exemption under Section 
+
+59-2-1104
+
+ on or after January 1, 2004, a county shall allow the
+            
+485
+
+    
+claimant to amend the application required by Subsection (2)(a) on or before September 1 of
+            
+486
+
+    
+the year after the year the claimant filed the application under Subsection (2)(a)(i)(B) if:
+            
+487
+
+    
+    (A)  on or after January 1, 2004, a military entity issues a written decision that the
+            
+488
+
+    
+percentage of disability has changed for the:
+            
+489
+
+    
+    (I)  veteran with a disability; or
+            
+490
+
+    
+    (II)  deceased veteran with a disability with respect to whom the claimant applies for the
+            
+491
+
+    
+exemption; and
+            
+492
+
+    
+    (B)  the date the written decision described in Subsection (2)(b)(ii)(A) takes effect is in
+
+            
+493
+
+
+    
+any year prior to the current calendar year;
+            
+494
+
+    
+    (iii)  subject to Subsections (2)(b)(iv) and (2)(d), for a claimant who applies for an
+            
+495
+
+    
+exemption under Section 
+
+59-2-1104
+
+ on or after January 1, 2004, a county shall extend the
+            
+496
+
+    
+deadline for filing the application required by Subsection (2)(a) to September 1 of the year after
+            
+497
+
+    
+the year the claimant would otherwise be required to file the application under Subsection
+            
+498
+
+    
+(2)(a)(i)(B) if the county legislative body determines that:
+            
+499
+
+    
+    (A)  the claimant or a member of the claimant's immediate family had an illness or
+            
+500
+
+    
+injury that prevented the claimant from filing the application on or before the deadline for
+            
+501
+
+    
+filing the application established in Subsection (2)(a)(i)(B);
+            
+502
+
+    
+    (B)  a member of the claimant's immediate family died during the calendar year the
+            
+503
+
+    
+claimant was required to file the application under Subsection (2)(a)(i)(B);
+            
+504
+
+    
+    (C)  the claimant was not physically present in the state for a time period of at least six
+            
+505
+
+    
+consecutive months during the calendar year the claimant was required to file the application
+            
+506
+
+    
+under Subsection (2)(a)(i)(B); or
+            
+507
+
+    
+    (D)  the failure of the claimant to file the application on or before the deadline for filing
+            
+508
+
+    
+the application established in Subsection (2)(a)(i)(B):
+            
+509
+
+    
+    (I)  would be against equity or good conscience; and
+            
+510
+
+    
+    (II)  was beyond the reasonable control of the claimant; and
+            
+511
+
+    
+    (iv)  a county may extend the deadline for filing an application or amending an
+            
+512
+
+    
+application under this Subsection (2) until December 31 if the county finds that good cause
+            
+513
+
+    
+exists to extend the deadline.
+            
+514
+
+    
+    (c)  The following shall accompany the initial application for an exemption under
+            
+515
+
+    
+Section 
+
+59-2-1104
+
+:
+            
+516
+
+    
+    (i)  a copy of the veteran's certificate of discharge from military service; or
+            
+517
+
+    
+    (ii)  other satisfactory evidence of eligible military service, including orders for
+            
+518
+
+    
+qualifying active duty military service, if applicable.
+            
+519
+
+    
+    (d)  In accordance with Title 63G, Chapter 3, Utah Administrative Rulemaking Act, the
+            
+520
+
+    
+commission may by rule:
+            
+521
+
+    
+    (i)  establish procedures and requirements for amending an application under
+            
+522
+
+    
+Subsection (2)(b)(ii);
+            
+523
+
+    
+    (ii)  for purposes of Subsection (2)(b)(iii), define the terms:
+
+            
+524
+
+
+    
+    (A)  "immediate family"; or
+            
+525
+
+    
+    (B)  "physically present"; or
+            
+526
+
+    
+    (iii)  for purposes of Subsection (2)(b)(iii), prescribe the circumstances under which the
+            
+527
+
+    
+failure of a claimant to file an application on or before the deadline for filing the application
+            
+528
+
+    
+established in Subsection (2)(a)(i)(B):
+            
+529
+
+    
+    (A)  would be against equity or good conscience; and
+            
+530
+
+    
+    (B)  is beyond the reasonable control of a claimant.
+            
+531
+
+    
+    (e)  Except as provided in Subsection (2)(g), if a claimant has on file with the county
+            
+532
+
+    
+the application described in Subsection (2)(a), the county may not require the claimant to file
+            
+533
+
+    
+another application described in Subsection (2)(a) unless:
+            
+534
+
+    
+    (i)  the claimant applies all or a portion of an exemption under Section 
+
+59-2-1104
+
+ to any
+            
+535
+
+    
+tangible personal property;
+            
+536
+
+    
+    (ii)  the percentage of disability has changed for the:
+            
+537
+
+    
+    (A)  veteran with a disability; or
+            
+538
+
+    
+    (B)  deceased veteran with a disability with respect to whom a claimant applies for a
+            
+539
+
+    
+veteran's exemption under this section;
+            
+540
+
+    
+    (iii)  the veteran with a disability dies;
+            
+541
+
+    
+    (iv)  the claimant's ownership interest in the claimant's primary residence changes;
+            
+542
+
+    
+    (v)  the claimant's occupancy of the primary residence for which the claimant claims an
+            
+543
+
+    
+exemption under Section 
+
+59-2-1104
+
+ changes; or
+            
+544
+
+    
+    (vi)  the claimant who files an application for an exemption under Section 
+
+59-2-1104
+
+
+            
+545
+
+    
+with respect to a deceased veteran with a disability or veteran who was killed in action or died
+            
+546
+
+    
+in the line of duty is a person other than the claimant who filed the application described in
+            
+547
+
+    
+Subsection (2)(a) for the exemption:
+            
+548
+
+    
+    (A)  for the calendar year immediately preceding the current calendar year; and
+            
+549
+
+    
+    (B)  with respect to that deceased veteran with a disability or veteran who was killed in
+            
+550
+
+    
+action or died in the line of duty.
+            
+551
+
+    
+    (f)  The county may verify that the real property that is residential property for which
+            
+552
+
+    
+the claimant claims an exemption under Section 
+
+59-2-1104
+
+ is the claimant's primary residence.
+            
+553
+
+    
+    (g)  A member of an active component of the United States Armed Forces or reserve
+            
+554
+
+    
+component of the United States Armed Forces who performed qualifying active duty military
+
+            
+555
+
+
+    
+service shall:
+            
+556
+
+    
+    (i)  file the application described in Subsection (2)(a) in the year after the year during
+            
+557
+
+    
+which the member completes the qualifying active duty military service; and
+            
+558
+
+    
+    (ii)  if the member meets the requirements of Section 
+
+59-2-1104
+
+ and this section to
+            
+559
+
+    
+receive an exemption under Section 
+
+59-2-1104
+
+, claim one exemption only in the year the
+            
+560
+
+    
+member files the application described in Subsection (2)(g)(i).
+            
+561
+
+    
+    (3) (a) (i)  Subject to Subsection (3)(a)(ii), a claimant except for a claimant described in
+            
+562
+
+    
+Subsection (2)(g) who files an application for an exemption under Section 
+
+59-2-1104
+
+ shall
+            
+563
+
+    
+have on file with the county a statement:
+            
+564
+
+    
+    (A)  issued by a military entity; and
+            
+565
+
+    
+    (B)  listing the percentage of disability for the veteran with a disability or deceased
+            
+566
+
+    
+veteran with a disability with respect to whom a claimant applies for the exemption.
+            
+567
+
+    
+    (ii)  If a claimant except for a claimant described in Subsection (2)(g) has on file with
+            
+568
+
+    
+the county the statement described in Subsection (3)(a)(i), the county may not require the
+            
+569
+
+    
+claimant to file another statement described in Subsection (3)(a)(i) unless:
+            
+570
+
+    
+    (A)  the claimant who files an application under this section for an exemption under
+            
+571
+
+    
+Section 
+
+59-2-1104
+
+ with respect to a deceased veteran with a disability or veteran who was
+            
+572
+
+    
+killed in action or died in the line of duty is a person other than the claimant who filed the
+            
+573
+
+    
+statement described in Subsection (3)(a)(i) for the exemption:
+            
+574
+
+    
+    (I)  for the calendar year immediately preceding the current calendar year; and
+            
+575
+
+    
+    (II)  with respect to that deceased veteran with a disability or veteran who was killed in
+            
+576
+
+    
+action or died in the line of duty; or
+            
+577
+
+    
+    (B)  the percentage of disability has changed for a:
+            
+578
+
+    
+    (I)  veteran with a disability; or
+            
+579
+
+    
+    (II)  deceased veteran with a disability with respect to whom the claimant applies for an
+            
+580
+
+    
+exemption under Section 
+
+59-2-1104
+
+.
+            
+581
+
+    
+    (b)  For a claimant filing an application in accordance with Subsection (2)(b)(i), the
+            
+582
+
+    
+claimant shall include with the application required by Subsection (2) a statement issued by a
+            
+583
+
+    
+military entity listing the date the written decision described in Subsection (2)(b)(i)(A) takes
+            
+584
+
+    
+effect.
+            
+585
+
+    
+    (c)  For a claimant amending an application in accordance with Subsection (2)(b)(ii),
+
+            
+586
+
+
+    
+the claimant shall provide to the county a statement issued by a military entity listing the date
+            
+587
+
+    
+the written decision described in Subsection (2)(b)(ii)(A) takes effect.
+            
+588
+
+    
+    (4) (a)  For purposes of this Subsection (4):
+            
+589
+
+    
+    (i)  "Property taxes due" means the taxes due on a claimant's property:
+            
+590
+
+    
+    (A)  for which an exemption under Section 
+
+59-2-1104
+
+ is granted by a county; and
+            
+591
+
+    
+    (B)  for the calendar year for which the exemption is granted.
+            
+592
+
+    
+    (ii)  "Property taxes paid" is an amount equal to the sum of:
+            
+593
+
+    
+    (A)  the amount of the property taxes the claimant paid for the calendar year for which
+            
+594
+
+    
+the claimant is applying for an exemption under Section 
+
+59-2-1104
+
+; and
+            
+595
+
+    
+    (B)  the exemption the county granted for the calendar year described in Subsection
+            
+596
+
+    
+(4)(a)(ii)(A).
+            
+597
+
+    
+    (b)  A county granting an exemption under Section 
+
+59-2-1104
+
+ to a claimant shall refund
+            
+598
+
+    
+to that claimant an amount equal to the amount by which the claimant's property taxes paid
+            
+599
+
+    
+exceed the claimant's property taxes due, if that amount is $1 or more.
+            
+600
+
+    
+    Section 4.  
+Section  
+59-2-1108
+
+ is amended to read:
+            
+601
+
+    
+     59-2-1108.  Indigent persons -- Deferral of taxes -- Interest rate -- Treatment of
+            
+602
+
+    
+ deferred taxes.
+            
+603
+
+    
+    (1) (a)  The county may, after giving notice, defer any tax levied on real property that is
+            
+604
+
+    
+residential property, subject to the conditions of Section 
+
+59-2-1109
+
+.
+            
+605
+
+    
+    (b)  If the owner of the property described in Subsection (1)(a) is poor, the property may
+            
+606
+
+    
+not be subjected to a tax sale during the period of deferment.
+            
+607
+
+    
+    (2) (a)  Taxes deferred by the county accumulate with interest as a lien against the
+            
+608
+
+    
+property until the property is sold or otherwise disposed of.
+            
+609
+
+    
+    (b)  Deferred taxes under this section:
+            
+610
+
+    
+    (i)  bear interest at an interest rate equal to the lesser of:
+            
+611
+
+    
+    (A)  6%; or
+            
+612
+
+    
+    (B)  the federal funds rate target:
+            
+613
+
+    
+    (I) established by the Federal Open Markets Committee; and
+            
+614
+
+    
+    (II)  that exists on the January 1 immediately preceding the day on which the taxes are
+            
+615
+
+    
+deferred; and
+            
+616
+
+    
+    (ii)  have the same status as a lien under Sections 
+
+59-2-1301
+
+ and 
+
+59-2-1325
+
+.
+
+            
+617
+
+
+    
+    (3)  Deferral may be granted by the county at any time if:
+            
+618
+
+    
+    (a)  the holder of any mortgage or trust deed outstanding on the property gives written
+            
+619
+
+    
+approval of the application; and
+            
+620
+
+    
+    (b)  the applicant is not the owner of income producing assets that could be liquidated
+            
+621
+
+    
+to pay the tax.
+            
+622
+
+    
+    (4)  Any assets transferred to relatives in the prior three-year period shall be considered
+            
+623
+
+    
+by the county in making the county's determination.
+            
+624
+
+    
+    Section 5.  
+Section  
+59-2-1109
+
+ is amended to read:
+            
+625
+
+    
+     59-2-1109.  Indigent persons -- Deferral or abatement -- Application -- County
+            
+626
+
+    
+ authority to make refunds.
+            
+627
+
+    
+    (1)  A person under the age of 65 years is not eligible for a deferral or abatement
+            
+628
+
+    
+provided for poor people under Sections 
+
+59-2-1107
+
+ and 
+
+59-2-1108
+
+ unless:
+            
+629
+
+    
+    (a)  the county finds that extreme hardship would prevail if the grants were not made; or
+            
+630
+
+    
+    (b)  the person has a disability.
+            
+631
+
+    
+    (2) (a)  An application for the deferral or abatement shall be filed on or before
+            
+632
+
+    
+September 1 with the county in which the property is located.
+            
+633
+
+    
+    (b)  The application shall include a signed statement setting forth the eligibility of the
+            
+634
+
+    
+applicant for the deferral or abatement.
+            
+635
+
+    
+    (c)  Both husband and wife shall sign the application if the husband and wife seek a
+            
+636
+
+    
+deferral or abatement on a residence:
+            
+637
+
+    
+    (i)  in which they both reside; and
+            
+638
+
+    
+    (ii)  which they own as joint tenants.
+            
+639
+
+    
+    (d)  A county may extend the deadline for filing under Subsection (2)(a) until December
+            
+640
+
+    
+31 if the county finds that good cause exists to extend the deadline.
+            
+641
+
+    
+    (3) (a)  For purposes of this Subsection (3):
+            
+642
+
+    
+    (i)  "Property taxes due" means the taxes due on a person's property:
+            
+643
+
+    
+    (A)  for which an abatement is granted by a county under Section 
+
+59-2-1107
+
+; and
+            
+644
+
+    
+    (B)  for the calendar year for which the abatement is granted.
+            
+645
+
+    
+    (ii)  "Property taxes paid" is an amount equal to the sum of:
+            
+646
+
+    
+    (A)  the amount of the property taxes the person paid for the taxable year for which the
+            
+647
+
+    
+person is applying for the abatement; and
+
+            
+648
+
+
+    
+    (B)  the amount of the abatement the county grants under Section 
+
+59-2-1107
+
+.
+            
+649
+
+    
+    (b)  A county granting an abatement to a person under Section 
+
+59-2-1107
+
+ shall refund
+            
+650
+
+    
+to that person an amount equal to the amount by which the person's property taxes paid exceed
+            
+651
+
+    
+the person's property taxes due, if that amount is $1 or more.
+            
+652
+
+    
+    (4)  For purposes of this section:
+            
+653
+
+    
+    (a)  a poor person is any person:
+            
+654
+
+    
+    (i)  whose total household income as defined in Section 
+
+59-2-1202
+
+ is less than the
+            
+655
+
+    
+maximum household income certified to a homeowner's credit under Subsection 
+
+59-2-1208
+
+(1);
+            
+656
+
+    
+    (ii)  who resides for not less than 10 months of each year in the residence for which the
+            
+657
+
+    
+tax relief, deferral, or abatement is requested; and
+            
+658
+
+    
+    (iii)  who is unable to meet the tax assessed on the person's real property that is
+            
+659
+
+    
+residential property as the tax becomes due; and
+            
+660
+
+    
+    (b)  "residence" includes a mobile home as defined under Section 
+
+70D-2-401
+
+.
+            
+661
+
+    
+    (5)  If the claimant is the grantor of a trust holding title to real or tangible personal
+            
+662
+
+    
+property on which an abatement or deferral is claimed, the claimant may claim the portion of
+            
+663
+
+    
+the abatement or deferral under Section 
+
+59-2-1107
+
+ or 
+
+59-2-1108
+
+ and be treated as the owner of
+            
+664
+
+    
+that portion of the property held in trust for which the claimant proves to the satisfaction of the
+            
+665
+
+    
+county that:
+            
+666
+
+    
+    (a)  title to the portion of the trust will revest in the claimant upon the exercise of a
+            
+667
+
+    
+power:
+            
+668
+
+    
+    (i)  by:
+            
+669
+
+    
+    (A)  the claimant as grantor of the trust;
+            
+670
+
+    
+    (B)  a nonadverse party; or
+            
+671
+
+    
+    (C)  both the claimant and a nonadverse party; and
+            
+672
+
+    
+    (ii)  regardless of whether the power is a power:
+            
+673
+
+    
+    (A)  to revoke;
+            
+674
+
+    
+    (B)  to terminate;
+            
+675
+
+    
+    (C)  to alter;
+            
+676
+
+    
+    (D)  to amend; or
+            
+677
+
+    
+    (E)  to appoint;
+            
+678
+
+    
+    (b)  the claimant is obligated to pay the taxes on that portion of the trust property
+
+            
+679
+
+
+    
+beginning January 1 of the year the claimant claims the abatement or deferral; and
+            
+680
+
+    
+    (c)  the claimant meets the requirements under this part for the abatement or deferral.
+            
+681
+
+    
+    (6)  The commission shall adopt rules to implement this section.
+            
+682
+
+    
+    (7)  Any poor person may qualify for:
+            
+683
+
+    
+    (a)  the deferral of taxes under Section 
+
+59-2-1108
+
+;
+            
+684
+
+    
+    (b)  if the person meets the requisites of this section, for the abatement of taxes under
+            
+685
+
+    
+Section 
+
+59-2-1107
+
+; or
+            
+686
+
+    
+    (c)  both:
+            
+687
+
+    
+    (i)  the deferral described in Subsection (7)(a); and
+            
+688
+
+    
+    (ii)  the abatement described in Subsection (7)(b).
+            
+689
+
+    
+    Section 6.  
+Section  
+59-2-1115
+
+ is amended to read:
+            
+690
+
+    
+     59-2-1115.  Exemption of certain tangible personal property.
+            
+691
+
+    
+    (1)  For purposes of this section:
+            
+692
+
+    
+    (a) (i)  "Acquisition cost" means all costs required to put an item of tangible personal
+            
+693
+
+    
+property into service; and
+            
+694
+
+    
+    (ii)  includes:
+            
+695
+
+    
+    (A)  the purchase price for a new or used item;
+            
+696
+
+    
+    (B)  the cost of freight and shipping;
+            
+697
+
+    
+    (C)  the cost of installation, engineering, erection, or assembly; and
+            
+698
+
+    
+    (D)  sales and use taxes.
+            
+699
+
+    
+    (b) (i)  "Item of taxable tangible personal property" does not include an improvement to
+            
+700
+
+    
+real property or a part that will become an improvement.
+            
+701
+
+    
+    (ii)  In accordance with Title 63G, Chapter 3, Utah Administrative Rulemaking Act, the
+            
+702
+
+    
+commission may make rules defining the term "item of taxable tangible personal property."
+            
+703
+
+    
+    (c) (i)  "Taxable tangible personal property" means tangible personal property that is
+            
+704
+
+    
+subject to taxation under this chapter.
+            
+705
+
+    
+    (ii)  "Taxable tangible personal property" does not include:
+            
+706
+
+    
+    (A)  tangible personal property required by law to be registered with the state before it
+            
+707
+
+    
+is used:
+            
+708
+
+    
+    (I)  on a public highway;
+            
+709
+
+    
+    (II)  on a public waterway;
+
+            
+710
+
+
+    
+    (III)  on public land; or
+            
+711
+
+    
+    (IV)  in the air;
+            
+712
+
+    
+    (B)  a mobile home as defined in Section 
+
+41-1a-102
+
+; or
+            
+713
+
+    
+    (C)  a manufactured home as defined in Section 
+
+41-1a-102
+
+.
+            
+714
+
+    
+    (2) (a)  The taxable tangible personal property of a taxpayer is exempt from taxation if
+            
+715
+
+    
+the taxable tangible personal property has a total aggregate [fair market] taxable value per
+            
+716
+
+    
+county of [$3,500] $10,000 or less.
+            
+717
+
+    
+    (b)  [An] In addition to the exemption under Subsection (2)(a), an item of taxable
+            
+718
+
+    
+tangible personal property, except for an item of noncapitalized personal property as defined in
+            
+719
+
+    
+Section 
+
+59-2-108
+
+, is exempt from taxation if the item of taxable tangible personal property:
+            
+720
+
+    
+    (i)  has an acquisition cost of $1,000 or less;
+            
+721
+
+    
+    (ii)  has reached a percent good of 15% or less according to a personal property
+            
+722
+
+    
+schedule published by the commission pursuant to Section 
+
+59-2-107
+
+; and
+            
+723
+
+    
+    (iii)  is in a personal property schedule with a residual value of 15% or less.
+            
+724
+
+    
+    [(3) (a)  For calendar years beginning on or after January 1, 2008, the commission shall
+            
+725
+
+    
+increase the dollar amount described in Subsection (2)(a):]
+            
+726
+
+    
+    [(i)  by a percentage equal to the percentage difference between the consumer price
+            
+727
+
+    
+index for the preceding calendar year and the consumer price index for calendar year 2006;
+            
+728
+
+    
+and]
+            
+729
+
+    
+    [(ii)  up to the nearest $100 increment.]
+            
+730
+
+    
+    [(b)  For purposes of this Subsection (3), the commission shall calculate the consumer
+            
+731
+
+    
+price index as provided in Sections 1(f)(4) and 1(f)(5), Internal Revenue Code.]
+            
+732
+
+    
+    [(c)  If the percentage difference under Subsection (3)(a)(i) is zero or a negative
+            
+733
+
+    
+percentage, the consumer price index increase for the year is zero.]
+            
+734
+
+    
+    (3)  Notwithstanding Section 
+
+59-2-306
+
+ and subject to Subsection (4), for a calendar
+            
+735
+
+    
+year in which a taxpayer qualifies for an exemption described in Subsection (2), a signed
+            
+736
+
+    
+statement described in Section 
+
+59-2-306
+
+ with respect to the taxable tangible personal property
+            
+737
+
+    
+that is exempt under Subsection (2) may only require the taxpayer to certify, under penalty of
+            
+738
+
+    
+perjury, that the taxpayer qualifies for the exemption under Subsection (2).
+            
+739
+
+    
+    (4)  A signed statement with respect to qualifying exempt primary residential rental
+            
+740
+
+    
+personal property is as provided in Section 
+
+59-2-103.5
+
+.
+
+            
+741
+
+
+    
+    [(4)] (5)  In accordance with Title 63G, Chapter 3, Utah Administrative Rulemaking
+            
+742
+
+    
+Act, the commission may make rules to administer this section and provide for uniform
+            
+743
+
+    
+implementation.
+            
+744
+
+    
+    Section 7.   Retrospective operation.
+            
+745
+
+    
+    This bill has retrospective operation to January 1, 2013.
+
+
+
+
+ Legislative Review Note
+    as of   1-9-13  2:44 PM
+
+ Office of Legislative Research and General Counsel
+[Bill Documents][Bills Directory]
+
+
+
+
+
+
+
+
+
+Who represents me?
+
+
+
+
+
+Remember my Legislators
+
+
+
+
+
+State Senate
+		350 North State, Suite 320
+		PO Box 145115
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1035
+		Fax: (801) 326-1475
+
+
+
+House of Representatives
+		350 North State, Suite 350
+		PO Box 145030
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1029
+		Fax: (801) 326-1544
+
+
+
+
+
+
+
+
+
+
+Home
+Mobile Site
+Site Map
+Calendar
+Code / Constitution
+House
+Senate
+
+Terms of Use/Privacy Policy
+
+ADA
+Utah.gov
+
+
+
+
+
+
+

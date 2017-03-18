@@ -1,0 +1,583 @@
+Sponsors: []Modifications:     53-10-104.5.(1)  As used in this section:(a)  "Call location information" means the best available location information, includinginformation obtained by use of historical cellular site information or a mobile locator tool.(b)  "Law enforcement agency" or "agency" has the same definition as in Section
+
+53-1-102
+
+.(c)  "Mobile telecommunications service" has the same definition as in Section 
+
+54-8b-2
+
+.(d)  "Telecommunication device" has the same definition as in Section 
+
+76-6-409.5
+
+.(2)  A mobile telecommunications service shall provide call location informationregarding a telecommunication device user upon the request of a law enforcement agency or apublic safety communications center if the agency or center determines the locationinformation is necessary in order to respond to:(a)  a call for emergency services; or(b)  an emergency situation that involves the risk of death or serious bodily injury asdefined in Section 
+
+76-1-601
+
+.(3)  The mobile telecommunications service may establish procedures for its voluntaryresponse to a request for location under Subsection (2).(4)  A mobile telecommunications service that, acting in good faith, providesinformation as requested under Subsection (2) may not be held civilly liable for providing theinformation.(5) (a)  The division shall obtain contact information from all mobiletelecommunications that provide services in this state to facilitate communicating locationrequests under Subsection (2).(b)  The division shall provide the contact information to all public safetycommunications centers in the state and shall provide updates to the contact information.Full text:
+
+
+
+Utah State Legislature
+
+
+
+
+
+
+
+
+
+
+
+
+Legislators
+
+By Session (1896-Current)
+Alphabetical (Historical)
+Find by Address/Map
+More
+
+
+Bills
+
+Bills/Bill Requests
+Passed Bills
+2017 Bills
+
+Keyword Search
+Reading Calendars
+Tracking Service
+More
+
+
+Committees
+
+All Committees
+Appropriations
+Commissions
+
+Independent Legislative Ethics Commission
+Interim
+Standing
+Subcommittees
+Task Forces
+Bills In Committees
+
+
+Utah Code / Constitution
+
+
+Title/Chapter/Section
+Keyword Search 
+
+Utah Constitution
+Laws of Utah 1851-ongoing
+Utah Territorial Laws 
+More
+
+
+Senate
+
+Main Page 
+About The Senate 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Extraordinary Sessions 
+Reading Calendars 
+Past Floor Debates 
+Senate Journals 
+
+
+House
+
+Main Page
+About the House 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Reading Calendars 
+Past Floor Debates 
+Journals 
+Conflict of Interest Forms 
+
+
+Legislative Guide 
+
+Legislative Guide
+Civic Programs
+GRAMA (Records Requests)
+
+
+Publications
+
+Search Publications
+Appropriations
+Audits
+Bagels & Briefings
+Briefing Papers
+Digest of Legislation
+Legislative Drafting Manual
+
+Journals
+
+Interim Highlights
+
+Legislative Rules
+GRAMA (Records Requests)
+Public Email
+State Organization Charts
+YouTube Channel
+Requests for Proposals and Legal Notices
+More
+
+
+Legislative Histories
+
+Legislative History Resources
+How to Research
+Bill Drafting/Research Files (1990-Ongoing)
+
+Working Bills (1896-1989)
+Interim Committee Histories (1990-Ongoing) 
+Journals
+Past House Floor Debates
+Past Senate Floor Debates
+More
+
+
+Staff Offices
+
+All Legislative Offices
+Auditor General
+Fiscal Analyst
+Printing
+Research and General Counsel
+Staff Awards
+Job Opportunities
+More
+
+
+Links of Interest
+
+Utah Administrative Rules
+Courts
+Utah State Capitol
+State of Utah
+Federal Legislation
+More
+
+
+
+
+
+
+ 
+
+Download Zipped Introduced WordPerfect HB0104.ZIP
+[Status][Bill Documents][Fiscal Note][Bills Directory]
+
+
+H.B. 104
+
+
+
+
+
+            
+1
+
+    
+ WIRELESS CALL LOCATION INFORMATION
+
+
+
+            
+2
+
+    
+2013 GENERAL SESSION
+
+            
+3
+
+    
+STATE OF UTAH
+
+            
+4
+
+    
+
+
+ Chief Sponsor:  Mark A. Wheatley
+
+
+
+            
+5
+
+    
+
+
+
+Senate Sponsor: 
+
+
+
+
+
+
+  Gene Davis
+
+
+
+
+
+            
+6
+
+    
+
+            
+7
+
+    
+ LONG TITLE
+            
+8
+
+    
+ General Description:
+            
+9
+
+    
+    This bill modifies Department of Public Safety provisions regarding emergency
+            
+10
+
+    
+location of calls.
+            
+11
+
+    
+ Highlighted Provisions:
+            
+12
+
+    
+    This bill:
+            
+13
+
+    
+    .    provides that mobile telecommunications services shall provide call location
+            
+14
+
+    
+information to law enforcement agencies and public safety communications centers
+            
+15
+
+    
+in cases of emergency;
+            
+16
+
+    
+    .    authorizes the mobile telecommunications services to establish request procedures;
+            
+17
+
+    
+and
+            
+18
+
+    
+    .    provides that a mobile telecommunications service is not civilly liable for providing
+            
+19
+
+    
+information in good faith. 
+            
+20
+
+    
+ Money Appropriated in this Bill:
+            
+21
+
+    
+    None
+            
+22
+
+    
+ Other Special Clauses:
+            
+23
+
+    
+    None
+            
+24
+
+    
+ Utah Code Sections Affected:
+            
+25
+
+    
+ENACTS:
+            
+26
+
+    
+     53-10-104.5, Utah Code Annotated 1953
+            
+27
+
+    
+
+
+            
+28
+
+
+    
+Be it enacted by the Legislature of the state of Utah:
+            
+29
+
+    
+    Section 1.  
+Section  
+53-10-104.5
+
+ is enacted to read:
+            
+30
+
+    
+     53-10-104.5.  Wireless service -- Call location in emergencies.
+            
+31
+
+    
+    (1)  As used in this section:
+            
+32
+
+    
+    (a)  "Call location information" means the best available location information, including
+            
+33
+
+    
+information obtained by use of historical cellular site information or a mobile locator tool.
+            
+34
+
+    
+    (b)  "Law enforcement agency" or "agency" has the same definition as in Section
+            
+35
+
+    
+
+
+53-1-102
+
+.
+            
+36
+
+    
+    (c)  "Mobile telecommunications service" has the same definition as in Section 
+
+54-8b-2
+
+.
+            
+37
+
+    
+    (d)  "Telecommunication device" has the same definition as in Section 
+
+76-6-409.5
+
+.
+            
+38
+
+    
+    (2)  A mobile telecommunications service shall provide call location information
+            
+39
+
+    
+regarding a telecommunication device user upon the request of a law enforcement agency or a
+            
+40
+
+    
+public safety communications center if the agency or center determines the location
+            
+41
+
+    
+information is necessary in order to respond to:
+            
+42
+
+    
+    (a)  a call for emergency services; or
+            
+43
+
+    
+    (b)  an emergency situation that involves the risk of death or serious bodily injury as
+            
+44
+
+    
+defined in Section 
+
+76-1-601
+
+.
+            
+45
+
+    
+    (3)  The mobile telecommunications service may establish procedures for its voluntary
+            
+46
+
+    
+response to a request for location under Subsection (2).
+            
+47
+
+    
+    (4)  A mobile telecommunications service that, acting in good faith, provides
+            
+48
+
+    
+information as requested under Subsection (2) may not be held civilly liable for providing the
+            
+49
+
+    
+information.
+            
+50
+
+    
+    (5) (a)  The division shall obtain contact information from all mobile
+            
+51
+
+    
+telecommunications that provide services in this state to facilitate communicating location
+            
+52
+
+    
+requests under Subsection (2).
+            
+53
+
+    
+    (b)  The division shall provide the contact information to all public safety
+            
+54
+
+    
+communications centers in the state and shall provide updates to the contact information.
+
+
+
+
+
+ Legislative Review Note
+    as of   1-31-13  4:05 PM
+
+ Office of Legislative Research and General Counsel
+[Bill Documents][Bills Directory]
+
+
+
+
+
+
+
+
+
+Who represents me?
+
+
+
+
+
+Remember my Legislators
+
+
+
+
+
+State Senate
+		350 North State, Suite 320
+		PO Box 145115
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1035
+		Fax: (801) 326-1475
+
+
+
+House of Representatives
+		350 North State, Suite 350
+		PO Box 145030
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1029
+		Fax: (801) 326-1544
+
+
+
+
+
+
+
+
+
+
+Home
+Mobile Site
+Site Map
+Calendar
+Code / Constitution
+House
+Senate
+
+Terms of Use/Privacy Policy
+
+ADA
+Utah.gov
+
+
+
+
+
+
+

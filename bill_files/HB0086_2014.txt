@@ -1,0 +1,887 @@
+Sponsors: []Modifications: (1)  "Assessment area" is as defined in Section 
+
+11-42-102
+
+
+.(2)  "Assessment bonds" is as defined in Section 
+
+11-42-102
+
+
+.(3)(4)(5)(6)(7)(8)(9)(10)(11)  "Project area" is as defined in Section 
+
+17C-1-102
+
+
+.(12)(13)(14)(15)  "Tax increment bond" is as defined in Section 
+
+11-27-2
+
+
+.Subject to the other requirements of this part, the:(i); or(ii) (A)  finance the purchase of one or more assessment bonds or tax increment bondsissued by a municipality to facilitate an energy delivery project in a specific assessment area orproject area; and(B)  administer an assessment area or project area that generates revenue to pay the debtservice on an assessment bond or a tax increment bond described in Subsection (1)(a)(ii)(A).Full text:
+
+
+
+Utah State Legislature
+
+
+
+
+
+
+
+
+
+
+
+
+Legislators
+
+By Session (1896-Current)
+Alphabetical (Historical)
+Find by Address/Map
+More
+
+
+Bills
+
+Bills/Bill Requests
+Passed Bills
+2017 Bills
+
+Keyword Search
+Reading Calendars
+Tracking Service
+More
+
+
+Committees
+
+All Committees
+Appropriations
+Commissions
+
+Independent Legislative Ethics Commission
+Interim
+Standing
+Subcommittees
+Task Forces
+Bills In Committees
+
+
+Utah Code / Constitution
+
+
+Title/Chapter/Section
+Keyword Search 
+
+Utah Constitution
+Laws of Utah 1851-ongoing
+Utah Territorial Laws 
+More
+
+
+Senate
+
+Main Page 
+About The Senate 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Extraordinary Sessions 
+Reading Calendars 
+Past Floor Debates 
+Senate Journals 
+
+
+House
+
+Main Page
+About the House 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Reading Calendars 
+Past Floor Debates 
+Journals 
+Conflict of Interest Forms 
+
+
+Legislative Guide 
+
+Legislative Guide
+Civic Programs
+GRAMA (Records Requests)
+
+
+Publications
+
+Search Publications
+Appropriations
+Audits
+Bagels & Briefings
+Briefing Papers
+Digest of Legislation
+Legislative Drafting Manual
+
+Journals
+
+Interim Highlights
+
+Legislative Rules
+GRAMA (Records Requests)
+Public Email
+State Organization Charts
+YouTube Channel
+Requests for Proposals and Legal Notices
+More
+
+
+Legislative Histories
+
+Legislative History Resources
+How to Research
+Bill Drafting/Research Files (1990-Ongoing)
+
+Working Bills (1896-1989)
+Interim Committee Histories (1990-Ongoing) 
+Journals
+Past House Floor Debates
+Past Senate Floor Debates
+More
+
+
+Staff Offices
+
+All Legislative Offices
+Auditor General
+Fiscal Analyst
+Printing
+Research and General Counsel
+Staff Awards
+Job Opportunities
+More
+
+
+Links of Interest
+
+Utah Administrative Rules
+Courts
+Utah State Capitol
+State of Utah
+Federal Legislation
+More
+
+
+
+
+
+
+ 
+
+H.B. 86
+
+
+
+
+
+            
+1
+
+    
+ UTAH ENERGY INFRASTRUCTURE AUTHORITY ACT
+
+            
+2
+
+    
+ AMENDMENTS
+
+
+
+            
+3
+
+    
+2014 GENERAL SESSION
+
+            
+4
+
+    
+STATE OF UTAH
+
+            
+5
+
+    
+
+
+ Chief Sponsor:  Roger E. Barrus
+
+
+
+            
+6
+
+    
+
+
+
+Senate Sponsor: 
+
+
+
+
+
+
+  Kevin T. Van Tassell
+
+
+
+
+
+            
+7
+
+    
+
+            
+8
+
+    
+ LONG TITLE
+            
+9
+
+    
+ General Description:
+            
+10
+
+    
+    This bill addresses bonding authority under the Utah Energy Infrastructure Authority
+            
+11
+
+    
+Act.
+            
+12
+
+    
+ Highlighted Provisions:
+            
+13
+
+    
+    This bill:
+            
+14
+
+    
+    .    defines terms;
+            
+15
+
+    
+    .    addresses the purposes for which a bond may be issued under the Utah Energy
+            
+16
+
+    
+Infrastructure Authority Act; and
+            
+17
+
+    
+    .    makes technical and conforming changes.
+            
+18
+
+    
+ Money Appropriated in this Bill:
+            
+19
+
+    
+    None
+            
+20
+
+    
+ Other Special Clauses:
+            
+21
+
+    
+    None
+            
+22
+
+    
+ Utah Code Sections Affected:
+            
+23
+
+    
+AMENDS:
+            
+24
+
+    
+     
+63H-2-102
+, as last amended by Laws of Utah 2012, Chapter 37
+            
+25
+
+    
+     
+63H-2-401
+, as last amended by Laws of Utah 2012, Chapter 37
+            
+26
+
+    
+
+            
+27
+
+    
+Be it enacted by the Legislature of the state of Utah:
+
+            
+28
+
+
+    
+    Section 1.  
+Section  
+63H-2-102
+
+ is amended to read:
+            
+29
+
+    
+     63H-2-102.  Definitions.
+            
+30
+
+    
+    As used in this chapter:
+            
+31
+
+    
+    (1)  "Assessment area" is as defined in Section 
+
+11-42-102
+
+
+.
+            
+32
+
+    
+    (2)  "Assessment bonds" is as defined in Section 
+
+11-42-102
+
+
+.
+            
+33
+
+    
+    [(1)] (3)  "Authority" means the Utah Energy Infrastructure Authority created in Section
+            
+34
+
+    
+
+63H-2-201
+
+
+.
+            
+35
+
+    
+    [(2)] (4)  "Authority bond" means a bond issued by the authority in accordance with
+            
+36
+
+    
+Part 4, Bonding.
+            
+37
+
+    
+    [(3)] (5)  "Board" means the board created under Section 
+
+63H-2-202
+
+
+.
+            
+38
+
+    
+    [(4)] (6)  "Community" means the county, city, or town in which is located a qualifying
+            
+39
+
+    
+energy delivery project financed by an authority bond.
+            
+40
+
+    
+    [(5)] (7)  "Electric interlocal entity" has the same meaning as defined in Section
+            
+41
+
+    
+
+11-13-103
+
+
+.
+            
+42
+
+    
+    [(6)] (8)  "Energy advisor" means the governor's energy advisor appointed under
+            
+43
+
+    
+Section 
+
+63M-4-201
+
+
+.
+            
+44
+
+    
+    [(7)] (9)  "Energy delivery project" means a project that is designed to:
+            
+45
+
+    
+    (a)  increase the capacity for the delivery of energy to a user of energy inside or outside
+            
+46
+
+    
+the state; or
+            
+47
+
+    
+    (b)  increase the capability of an existing energy delivery system or related facility to
+            
+48
+
+    
+deliver energy to a user of energy inside or outside the state.
+            
+49
+
+    
+    [(8)] (10)  "Independent state agency" is as defined in Section 
+
+63E-1-102
+
+
+.
+            
+50
+
+    
+    (11)  "Project area" is as defined in Section 
+
+17C-1-102
+
+
+.
+            
+51
+
+    
+    [(9)] (12)  "Public entity" means:
+            
+52
+
+    
+    (a)  the United States or an agency of the United States;
+            
+53
+
+    
+    (b)  the state or an agency of the state;
+            
+54
+
+    
+    (c)  a political subdivision of the state or an agency of a political subdivision of the
+            
+55
+
+    
+state;
+            
+56
+
+    
+    (d)  another state or an agency of that state; or
+            
+57
+
+    
+    (e)  a political subdivision of another state or an agency of that political subdivision.
+            
+58
+
+    
+    [(10)] (13)  "Qualifying energy delivery project" means a project approved by the board
+
+            
+59
+
+
+    
+in accordance with Part 3, Qualifying Energy Delivery Projects.
+            
+60
+
+    
+    [(11)] (14)  "Record" means information that is:
+            
+61
+
+    
+    (a)  inscribed on a tangible medium; or
+            
+62
+
+    
+    (b) (i)  stored in an electronic or other medium; and
+            
+63
+
+    
+    (ii)  retrievable in perceivable form.
+            
+64
+
+    
+    (15)  "Tax increment bond" is as defined in Section 
+
+11-27-2
+
+
+.
+            
+65
+
+    
+    Section 2.  
+Section  
+63H-2-401
+
+ is amended to read:
+            
+66
+
+    
+     63H-2-401.  Resolution authorizing issuance of authority bond -- Characteristics
+            
+67
+
+    
+ of bond.
+            
+68
+
+    
+    (1) (a)  [The] Subject to the other requirements of this part, the authority may issue a
+            
+69
+
+    
+bond [subject to the requirements of this part] to:
+            
+70
+
+    
+    (i)  finance, in whole or in part, a qualifying energy delivery project[.]; or
+            
+71
+
+    
+    (ii) (A)  finance the purchase of one or more assessment bonds or tax increment bonds
+            
+72
+
+    
+issued by a municipality to facilitate an energy delivery project in a specific assessment area or
+            
+73
+
+    
+project area; and
+            
+74
+
+    
+    (B)  administer an assessment area or project area that generates revenue to pay the debt
+            
+75
+
+    
+service on an assessment bond or a tax increment bond described in Subsection (1)(a)(ii)(A).
+            
+76
+
+    
+    (b)  The authority may not issue a bond under this part unless before the issuance of the
+            
+77
+
+    
+bond, the board adopts a resolution authorizing the issuance of the bond.
+            
+78
+
+    
+    (2) (a)  If provided in a resolution authorizing the issuance of an authority bond or in
+            
+79
+
+    
+the trust indenture under which the authority bond is issued, an authority bond may be:
+            
+80
+
+    
+    (i)  issued in one or more series; and
+            
+81
+
+    
+    (ii)  sold:
+            
+82
+
+    
+    (A)  at a public or private sale; and
+            
+83
+
+    
+    (B)  in the manner provided in the resolution or indenture.
+            
+84
+
+    
+    (b)  An authority bond shall:
+            
+85
+
+    
+    (i)  bear the date provided in the resolution authorizing the issuance of the authority
+            
+86
+
+    
+bond or the trust indenture under which the authority bond is issued;
+            
+87
+
+    
+    (ii)  be payable at the time provided in the resolution authorizing the issuance of the
+            
+88
+
+    
+authority bond or the trust indenture under which the authority bond is issued;
+            
+89
+
+    
+    (iii)  bear interest at the rate provided in the resolution authorizing the issuance of the
+
+            
+90
+
+
+    
+authority bond or the trust indenture under which the authority bond is issued;
+            
+91
+
+    
+    (iv)  be in the denomination and in the form provided in the resolution authorizing the
+            
+92
+
+    
+issuance of the authority bond or the trust indenture under which the authority bond is issued;
+            
+93
+
+    
+    (v)  carry the conversion or registration privileges provided in the resolution authorizing
+            
+94
+
+    
+the issuance of the authority bond or the trust indenture under which the authority bond is
+            
+95
+
+    
+issued;
+            
+96
+
+    
+    (vi)  have the rank or priority as provided in the resolution authorizing the issuance of
+            
+97
+
+    
+the authority bond or the trust indenture under which the authority bond is issued;
+            
+98
+
+    
+    (vii)  be executed in the manner as provided in the resolution authorizing the issuance
+            
+99
+
+    
+of the authority bond or the trust indenture under which the authority bond is issued;
+            
+100
+
+    
+    (viii)  be subject to the terms of redemption or tender, with or without premium, as
+            
+101
+
+    
+provided in the resolution authorizing the issuance of the authority bond or the trust indenture
+            
+102
+
+    
+under which the authority bond is issued;
+            
+103
+
+    
+    (ix)  be payable in the medium of payment and at the place as provided in the resolution
+            
+104
+
+    
+authorizing the issuance of the authority bond or the trust indenture under which the authority
+            
+105
+
+    
+bond is issued; and
+            
+106
+
+    
+    (x)  have other characteristics as provided in the resolution authorizing the issuance of
+            
+107
+
+    
+the authority bond or the trust indenture under which the authority bond is issued.
+
+
+
+
+ Legislative Review Note
+    as of   1-28-14  5:09 PM
+
+ Office of Legislative Research and General Counsel
+[Bill Documents][Bills Directory]
+
+
+
+
+
+
+
+
+
+Who represents me?
+
+
+
+
+
+Remember my Legislators
+
+
+
+
+
+State Senate
+		350 North State, Suite 320
+		PO Box 145115
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1035
+		Fax: (801) 326-1475
+
+
+
+House of Representatives
+		350 North State, Suite 350
+		PO Box 145030
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1029
+		Fax: (801) 326-1544
+
+
+
+
+
+
+
+
+
+
+Home
+Mobile Site
+Site Map
+Calendar
+Code / Constitution
+House
+Senate
+
+Terms of Use/Privacy Policy
+
+ADA
+Utah.gov
+
+
+
+
+
+
+

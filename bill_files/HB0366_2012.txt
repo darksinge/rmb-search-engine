@@ -1,0 +1,618 @@
+Sponsors: []Modifications: (1)(2)  In the process of determining an individual's eligibility for a public benefit orservice under this title or under federal law, if the department determines that a valid SocialSecurity number is being used by an unauthorized individual, the department shall:(a)  inform the individual who the department determines to be the likely actual ownerof the Social Security number or, if the likely actual owner is a minor, the minor's parent orguardian, of the suspected misuse; and(b)  subject to federal law, provide information of the suspected misuse to anappropriate law enforcement agency responsible for investigating identity fraud.(3)  If the department learns or determines that providing information under Subsection(2)(b) is prohibited by federal law, the department shall notify the Legislative ManagementCommittee.Under the terms and conditions of Title 63J, Chapter 1, Budgetary Procedures Act, thefollowing sums of money are appropriated from resources not otherwise appropriated, orreduced from amounts previously appropriated, out of the funds or accounts indicated for thefiscal year beginning July 1, 2012 and ending June 30, 2013.  These are additions to anyamounts previously appropriated for fiscal year 2013.To Department of Workforce ServicesFrom General Fund                            $10,000Schedule of Programs:Unemployment Insurance            $5,000Eligibility Services                $5,000The Legislature intends that the appropriations under this section be used by theDepartment of Workforce Services to report suspected misuse of Social Security numbers asprovided under Section 
+
+35A-4-312.5
+
+ and Subsection 
+
+35A-1-104.5
+
+(2).This bill takes effect on July 1, 2012.Full text:
+
+
+
+Utah State Legislature
+
+
+
+
+
+
+
+
+
+
+
+
+Legislators
+
+By Session (1896-Current)
+Alphabetical (Historical)
+Find by Address/Map
+More
+
+
+Bills
+
+Bills/Bill Requests
+Passed Bills
+2017 Bills
+
+Keyword Search
+Reading Calendars
+Tracking Service
+More
+
+
+Committees
+
+All Committees
+Appropriations
+Commissions
+
+Independent Legislative Ethics Commission
+Interim
+Standing
+Subcommittees
+Task Forces
+Bills In Committees
+
+
+Utah Code / Constitution
+
+
+Title/Chapter/Section
+Keyword Search 
+
+Utah Constitution
+Laws of Utah 1851-ongoing
+Utah Territorial Laws 
+More
+
+
+Senate
+
+Main Page 
+About The Senate 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Extraordinary Sessions 
+Reading Calendars 
+Past Floor Debates 
+Senate Journals 
+
+
+House
+
+Main Page
+About the House 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Reading Calendars 
+Past Floor Debates 
+Journals 
+Conflict of Interest Forms 
+
+
+Legislative Guide 
+
+Legislative Guide
+Civic Programs
+GRAMA (Records Requests)
+
+
+Publications
+
+Search Publications
+Appropriations
+Audits
+Bagels & Briefings
+Briefing Papers
+Digest of Legislation
+Legislative Drafting Manual
+
+Journals
+
+Interim Highlights
+
+Legislative Rules
+GRAMA (Records Requests)
+Public Email
+State Organization Charts
+YouTube Channel
+Requests for Proposals and Legal Notices
+More
+
+
+Legislative Histories
+
+Legislative History Resources
+How to Research
+Bill Drafting/Research Files (1990-Ongoing)
+
+Working Bills (1896-1989)
+Interim Committee Histories (1990-Ongoing) 
+Journals
+Past House Floor Debates
+Past Senate Floor Debates
+More
+
+
+Staff Offices
+
+All Legislative Offices
+Auditor General
+Fiscal Analyst
+Printing
+Research and General Counsel
+Staff Awards
+Job Opportunities
+More
+
+
+Links of Interest
+
+Utah Administrative Rules
+Courts
+Utah State Capitol
+State of Utah
+Federal Legislation
+More
+
+
+
+
+
+
+ 
+
+Download Zipped Introduced WordPerfect HB0366.ZIP
+[Status][Bill Documents][Fiscal Note][Bills Directory]
+
+
+H.B. 366
+
+
+
+
+
+            
+1
+
+    
+ RECEIPT OF WELFARE BENEFITS AMENDMENTS
+
+
+
+            
+2
+
+    
+2012 GENERAL SESSION
+
+            
+3
+
+    
+STATE OF UTAH
+
+            
+4
+
+    
+
+
+ Chief Sponsor:  John Dougall
+
+
+
+            
+5
+
+    
+
+
+
+Senate Sponsor: 
+
+
+
+
+
+
+  John L. Valentine
+
+
+
+
+
+            
+6
+
+    
+
+            
+7
+
+    
+ LONG TITLE
+            
+8
+
+    
+ General Description:
+            
+9
+
+    
+    This bill modifies the Utah Workforce Services Code by adding duties to the
+            
+10
+
+    
+Department of Workforce Services related to reporting misuse of an individual Social
+            
+11
+
+    
+Security number.
+            
+12
+
+    
+ Highlighted Provisions:
+            
+13
+
+    
+    This bill:
+            
+14
+
+    
+    .    requires the Department of Workforces Services to inform the owner of a Social
+            
+15
+
+    
+Security number and an appropriate law enforcement agency if, in the process of
+            
+16
+
+    
+determining an individual's eligibility for a public benefit, the department learns a
+            
+17
+
+    
+valid Social Security number is being used by an unauthorized individual; and
+            
+18
+
+    
+    .    makes technical changes.
+            
+19
+
+    
+ Money Appropriated in this Bill:
+            
+20
+
+    
+    This bill appropriates:
+            
+21
+
+    
+    .    to the Department of Workforce Services, as an ongoing appropriation:
+            
+22
+
+    
+        .    from the General Fund, $10,000, subject to the intent language restricting the
+            
+23
+
+    
+use of the funds for a specific purpose.
+            
+24
+
+    
+ Other Special Clauses:
+            
+25
+
+    
+    This bill takes effect on July 1, 2012.
+            
+26
+
+    
+ Utah Code Sections Affected:
+            
+27
+
+    
+AMENDS:
+
+            
+28
+
+
+    
+     35A-1-104.5, as enacted by Laws of Utah 2008, Chapter 383
+            
+29
+
+    
+
+            
+30
+
+    
+Be it enacted by the Legislature of the state of Utah:
+            
+31
+
+    
+    Section 1.  
+Section  
+35A-1-104.5
+
+ is amended to read:
+            
+32
+
+    
+     35A-1-104.5.  Other department duties -- Strategic plan for health system reform
+            
+33
+
+    
+ -- Reporting suspected misuse of a Social Security number.
+            
+34
+
+    
+    (1)  The department shall work with the Department of Health, the Insurance
+            
+35
+
+    
+Department, the Governor's Office of Economic Development, and the Legislature to develop
+            
+36
+
+    
+the health system reform in accordance with Title 63M, Chapter 1, Part 25, Health System
+            
+37
+
+    
+Reform Act.
+            
+38
+
+    
+    (2)  In the process of determining an individual's eligibility for a public benefit or
+            
+39
+
+    
+service under this title or under federal law, if the department determines that a valid Social
+            
+40
+
+    
+Security number is being used by an unauthorized individual, the department shall:
+            
+41
+
+    
+    (a)  inform the individual who the department determines to be the likely actual owner
+            
+42
+
+    
+of the Social Security number or, if the likely actual owner is a minor, the minor's parent or
+            
+43
+
+    
+guardian, of the suspected misuse; and
+            
+44
+
+    
+    (b)  subject to federal law, provide information of the suspected misuse to an
+            
+45
+
+    
+appropriate law enforcement agency responsible for investigating identity fraud.
+            
+46
+
+    
+    (3)  If the department learns or determines that providing information under Subsection
+            
+47
+
+    
+(2)(b) is prohibited by federal law, the department shall notify the Legislative Management
+            
+48
+
+    
+Committee.
+            
+49
+
+    
+    Section 2.   Appropriation.
+            
+50
+
+    
+    Under the terms and conditions of Title 63J, Chapter 1, Budgetary Procedures Act, the
+            
+51
+
+    
+following sums of money are appropriated from resources not otherwise appropriated, or
+            
+52
+
+    
+reduced from amounts previously appropriated, out of the funds or accounts indicated for the
+            
+53
+
+    
+fiscal year beginning July 1, 2012 and ending June 30, 2013.  These are additions to any
+            
+54
+
+    
+amounts previously appropriated for fiscal year 2013.
+            
+55
+
+    
+    To Department of Workforce Services
+            
+56
+
+    
+        From General Fund                            $10,000
+            
+57
+
+    
+        Schedule of Programs:
+            
+58
+
+    
+            Unemployment Insurance            $5,000
+
+            
+59
+
+
+    
+            Eligibility Services                $5,000
+            
+60
+
+    
+    The Legislature intends that the appropriations under this section be used by the
+            
+61
+
+    
+Department of Workforce Services to report suspected misuse of Social Security numbers as
+            
+62
+
+    
+provided under Section 
+
+35A-4-312.5
+
+ and Subsection 
+
+35A-1-104.5
+
+(2).
+            
+63
+
+    
+    Section 3.   Effective date.
+            
+64
+
+    
+    This bill takes effect on July 1, 2012.
+
+
+
+
+ Legislative Review Note
+    as of   2-6-12  10:15 AM
+
+ Office of Legislative Research and General Counsel
+[Bill Documents][Bills Directory]
+
+
+
+
+
+
+
+
+
+Who represents me?
+
+
+
+
+
+Remember my Legislators
+
+
+
+
+
+State Senate
+		350 North State, Suite 320
+		PO Box 145115
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1035
+		Fax: (801) 326-1475
+
+
+
+House of Representatives
+		350 North State, Suite 350
+		PO Box 145030
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1029
+		Fax: (801) 326-1544
+
+
+
+
+
+
+
+
+
+
+Home
+Mobile Site
+Site Map
+Calendar
+Code / Constitution
+House
+Senate
+
+Terms of Use/Privacy Policy
+
+ADA
+Utah.gov
+
+
+
+
+
+
+

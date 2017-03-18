@@ -1,0 +1,587 @@
+Sponsors: []Modifications: :(a); and(b)  offer the patient a choice regarding to which pharmacy the practitioner will issuethe electronic prescription.(6)(5)  An entity that facilitates the electronic prescribing process under this section shall:(a)  provide the practitioner with insurance formulary information for a patient's insurer,if available, to the entity; and(b)  transmit to the pharmacy the prescription with the particular drug prescribed by thepractitioner.(6)This bill takes effect July 1, 2012.Full text:
+
+
+
+Utah State Legislature
+
+
+
+
+
+
+
+
+
+
+
+
+Legislators
+
+By Session (1896-Current)
+Alphabetical (Historical)
+Find by Address/Map
+More
+
+
+Bills
+
+Bills/Bill Requests
+Passed Bills
+2017 Bills
+
+Keyword Search
+Reading Calendars
+Tracking Service
+More
+
+
+Committees
+
+All Committees
+Appropriations
+Commissions
+
+Independent Legislative Ethics Commission
+Interim
+Standing
+Subcommittees
+Task Forces
+Bills In Committees
+
+
+Utah Code / Constitution
+
+
+Title/Chapter/Section
+Keyword Search 
+
+Utah Constitution
+Laws of Utah 1851-ongoing
+Utah Territorial Laws 
+More
+
+
+Senate
+
+Main Page 
+About The Senate 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Extraordinary Sessions 
+Reading Calendars 
+Past Floor Debates 
+Senate Journals 
+
+
+House
+
+Main Page
+About the House 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Reading Calendars 
+Past Floor Debates 
+Journals 
+Conflict of Interest Forms 
+
+
+Legislative Guide 
+
+Legislative Guide
+Civic Programs
+GRAMA (Records Requests)
+
+
+Publications
+
+Search Publications
+Appropriations
+Audits
+Bagels & Briefings
+Briefing Papers
+Digest of Legislation
+Legislative Drafting Manual
+
+Journals
+
+Interim Highlights
+
+Legislative Rules
+GRAMA (Records Requests)
+Public Email
+State Organization Charts
+YouTube Channel
+Requests for Proposals and Legal Notices
+More
+
+
+Legislative Histories
+
+Legislative History Resources
+How to Research
+Bill Drafting/Research Files (1990-Ongoing)
+
+Working Bills (1896-1989)
+Interim Committee Histories (1990-Ongoing) 
+Journals
+Past House Floor Debates
+Past Senate Floor Debates
+More
+
+
+Staff Offices
+
+All Legislative Offices
+Auditor General
+Fiscal Analyst
+Printing
+Research and General Counsel
+Staff Awards
+Job Opportunities
+More
+
+
+Links of Interest
+
+Utah Administrative Rules
+Courts
+Utah State Capitol
+State of Utah
+Federal Legislation
+More
+
+
+
+
+
+
+ 
+
+Download Zipped Introduced WordPerfect HB0122.ZIP
+[Status][Bill Documents][Fiscal Note][Bills Directory]
+
+
+H.B. 122
+
+
+
+
+
+            
+1
+
+    
+ E-PRESCRIBING AMENDMENTS
+
+
+
+            
+2
+
+    
+2012 GENERAL SESSION
+
+            
+3
+
+    
+STATE OF UTAH
+
+            
+4
+
+    
+
+
+ Chief Sponsor:  Evan J. Vickers
+
+
+
+            
+5
+
+    
+
+
+
+Senate Sponsor:  
+
+
+
+
+
+
+____________
+
+
+
+
+
+            
+6
+
+    
+
+            
+7
+
+    
+ LONG TITLE
+            
+8
+
+    
+ General Description:
+            
+9
+
+    
+    This bill amends the Electronic Prescribing Act.
+            
+10
+
+    
+ Highlighted Provisions:
+            
+11
+
+    
+    This bill:
+            
+12
+
+    
+    .    requires a practitioner to offer the patient a choice regarding to which pharmacy the
+            
+13
+
+    
+prescription is transmitted;
+            
+14
+
+    
+    .    requires the entity transmitting the prescription to transmit the prescription with the
+            
+15
+
+    
+particular drug prescribed by the practitioner; and
+            
+16
+
+    
+    .    requires the entity that facilitates the electronic prescribing process to provide the
+            
+17
+
+    
+practitioner with insurance formulary information, if available.
+            
+18
+
+    
+ Money Appropriated in this Bill:
+            
+19
+
+    
+    None
+            
+20
+
+    
+ Other Special Clauses:
+            
+21
+
+    
+    This bill takes effect July 1, 2012.
+            
+22
+
+    
+ Utah Code Sections Affected:
+            
+23
+
+    
+AMENDS:
+            
+24
+
+    
+     58-82-201 (Effective 07/01/12), as enacted by Laws of Utah 2009, Chapter 47
+            
+25
+
+    
+
+            
+26
+
+    
+Be it enacted by the Legislature of the state of Utah:
+            
+27
+
+    
+    Section 1.  
+Section  
+58-82-201 (Effective 07/01/12)
+
+ is amended to read:
+
+            
+28
+
+
+    
+     58-82-201 (Effective 07/01/12).  Electronic prescriptions -- Restrictions --
+            
+29
+
+    
+ Rulemaking authority.
+            
+30
+
+    
+    (1)  Subject to the provisions of this section, a practitioner shall:
+            
+31
+
+    
+    (a)  provide each existing patient of the practitioner with the option of participating in
+            
+32
+
+    
+electronic prescribing for prescriptions issued for the patient, if the practitioner prescribes a
+            
+33
+
+    
+drug or device for the patient on or after July 1, 2012[.]; and
+            
+34
+
+    
+    (b)  offer the patient a choice regarding to which pharmacy the practitioner will issue
+            
+35
+
+    
+the electronic prescription.
+            
+36
+
+    
+    (2)  A practitioner may not issue a prescription through electronic prescribing for a
+            
+37
+
+    
+drug, device, or federal controlled substance that the practitioner is prohibited by federal law or
+            
+38
+
+    
+federal rule from issuing through electronic prescribing.
+            
+39
+
+    
+    (3)  A pharmacy shall:
+            
+40
+
+    
+    (a)  accept an electronic prescription that is transmitted in accordance with the
+            
+41
+
+    
+requirements of this section and division rules; and
+            
+42
+
+    
+    (b)  dispense a drug or device as directed in an electronic prescription described in
+            
+43
+
+    
+Subsection (3)(a).
+            
+44
+
+    
+    (4)  The division shall make rules to ensure that:
+            
+45
+
+    
+    (a)  except as provided in Subsection [(5)] (6), practitioners and pharmacies comply
+            
+46
+
+    
+with this section;
+            
+47
+
+    
+    (b)  electronic prescribing is conducted in a secure manner, consistent with industry
+            
+48
+
+    
+standards; and
+            
+49
+
+    
+    (c)  each patient is fully informed of the patient's rights, restrictions, and obligations
+            
+50
+
+    
+pertaining to electronic prescribing.
+            
+51
+
+    
+    (5)  An entity that facilitates the electronic prescribing process under this section shall:
+            
+52
+
+    
+    (a)  provide the practitioner with insurance formulary information for a patient's insurer,
+            
+53
+
+    
+if available, to the entity; and
+            
+54
+
+    
+    (b)  transmit to the pharmacy the prescription with the particular drug prescribed by the
+            
+55
+
+    
+practitioner.
+            
+56
+
+    
+    [(5)] (6)  The division may, by rule, grant an exemption from the requirements of this
+            
+57
+
+    
+section to a pharmacy or a practitioner to the extent that the pharmacy or practitioner can
+            
+58
+
+    
+establish, to the satisfaction of the division, that compliance with the requirements of this
+
+            
+59
+
+
+    
+section would impose an extreme financial hardship on the pharmacy or practitioner.
+            
+60
+
+    
+    Section 2.   Effective date.
+            
+61
+
+    
+    This bill takes effect July 1, 2012.
+
+
+
+
+ Legislative Review Note
+    as of   1-31-12  10:03 AM
+
+ Office of Legislative Research and General Counsel
+[Bill Documents][Bills Directory]
+
+
+
+
+
+
+
+
+
+Who represents me?
+
+
+
+
+
+Remember my Legislators
+
+
+
+
+
+State Senate
+		350 North State, Suite 320
+		PO Box 145115
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1035
+		Fax: (801) 326-1475
+
+
+
+House of Representatives
+		350 North State, Suite 350
+		PO Box 145030
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1029
+		Fax: (801) 326-1544
+
+
+
+
+
+
+
+
+
+
+Home
+Mobile Site
+Site Map
+Calendar
+Code / Constitution
+House
+Senate
+
+Terms of Use/Privacy Policy
+
+ADA
+Utah.gov
+
+
+
+
+
+
+

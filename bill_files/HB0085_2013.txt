@@ -1,0 +1,704 @@
+Sponsors: []Modifications: For a race between candidates, if the difference between thenumber of votes cast for the candidate who receives the highest number of votes in the race andanother candidate in the race is equal to or less than .25% of the total number of votes cast forall candidates in the race, that other:(i)  for a municipal primary election, with the municipal clerk, within three days afterthe canvass; or(ii)  for all other elections,generalraceFor a ballot proposition or a bond proposition, if the proposition passes orfails by a margin that is equal to or less than .25% of the total votes cast for or against theproposition, anytheelection where thewith:(i)  the municipal clerk, if the election is a municipal election;(ii)  the local district clerk, if the election is a local district election;(iii)  the county clerk, for propositions voted on entirely within a single county; or(iv)  the lieutenant governor, for statewide propositions and multicounty propositions.Full text:
+
+
+
+Utah State Legislature
+
+
+
+
+
+
+
+
+
+
+
+
+Legislators
+
+By Session (1896-Current)
+Alphabetical (Historical)
+Find by Address/Map
+More
+
+
+Bills
+
+Bills/Bill Requests
+Passed Bills
+2017 Bills
+
+Keyword Search
+Reading Calendars
+Tracking Service
+More
+
+
+Committees
+
+All Committees
+Appropriations
+Commissions
+
+Independent Legislative Ethics Commission
+Interim
+Standing
+Subcommittees
+Task Forces
+Bills In Committees
+
+
+Utah Code / Constitution
+
+
+Title/Chapter/Section
+Keyword Search 
+
+Utah Constitution
+Laws of Utah 1851-ongoing
+Utah Territorial Laws 
+More
+
+
+Senate
+
+Main Page 
+About The Senate 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Extraordinary Sessions 
+Reading Calendars 
+Past Floor Debates 
+Senate Journals 
+
+
+House
+
+Main Page
+About the House 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Reading Calendars 
+Past Floor Debates 
+Journals 
+Conflict of Interest Forms 
+
+
+Legislative Guide 
+
+Legislative Guide
+Civic Programs
+GRAMA (Records Requests)
+
+
+Publications
+
+Search Publications
+Appropriations
+Audits
+Bagels & Briefings
+Briefing Papers
+Digest of Legislation
+Legislative Drafting Manual
+
+Journals
+
+Interim Highlights
+
+Legislative Rules
+GRAMA (Records Requests)
+Public Email
+State Organization Charts
+YouTube Channel
+Requests for Proposals and Legal Notices
+More
+
+
+Legislative Histories
+
+Legislative History Resources
+How to Research
+Bill Drafting/Research Files (1990-Ongoing)
+
+Working Bills (1896-1989)
+Interim Committee Histories (1990-Ongoing) 
+Journals
+Past House Floor Debates
+Past Senate Floor Debates
+More
+
+
+Staff Offices
+
+All Legislative Offices
+Auditor General
+Fiscal Analyst
+Printing
+Research and General Counsel
+Staff Awards
+Job Opportunities
+More
+
+
+Links of Interest
+
+Utah Administrative Rules
+Courts
+Utah State Capitol
+State of Utah
+Federal Legislation
+More
+
+
+
+
+
+
+ 
+
+Download Zipped Introduced WordPerfect HB0085.ZIP
+[Status][Bill Documents][Fiscal Note][Bills Directory]
+
+
+H.B. 85
+
+
+
+
+
+            
+1
+
+    
+ VOTING RECOUNT AMENDMENTS
+
+
+
+            
+2
+
+    
+2013 GENERAL SESSION
+
+            
+3
+
+    
+STATE OF UTAH
+
+            
+4
+
+    
+
+
+ Chief Sponsor: Craig Hall
+
+
+
+            
+5
+
+    
+
+
+
+Senate Sponsor: 
+
+
+
+
+
+
+____________
+
+
+
+
+
+            
+6
+
+    
+
+            
+7
+
+    
+ LONG TITLE
+            
+8
+
+    
+ General Description:
+            
+9
+
+    
+    This bill amends the Election Code by changing the formula for determining when a
+            
+10
+
+    
+voting recount may be requested.
+            
+11
+
+    
+ Highlighted Provisions:
+            
+12
+
+    
+    This bill:
+            
+13
+
+    
+    .    changes the formula for determining when a voting recount may be requested; and
+            
+14
+
+    
+    .    makes technical and conforming changes.
+            
+15
+
+    
+ Money Appropriated in this Bill:
+            
+16
+
+    
+    None
+            
+17
+
+    
+ Other Special Clauses:
+            
+18
+
+    
+    None
+            
+19
+
+    
+ Utah Code Sections Affected:
+            
+20
+
+    
+AMENDS:
+            
+21
+
+    
+     20A-4-401, as last amended by Laws of Utah 2007, Chapter 329
+            
+22
+
+    
+
+            
+23
+
+    
+Be it enacted by the Legislature of the state of Utah:
+            
+24
+
+    
+    Section 1.  
+Section  
+20A-4-401
+
+ is amended to read:
+            
+25
+
+    
+     20A-4-401.  Recounts -- Procedure.
+            
+26
+
+    
+    (1) (a) [(i)  For any regular primary, regular general, or municipal general election, or
+            
+27
+
+    
+the Western States Presidential primary, when any candidate loses by not more than a total of
+
+            
+28
+
+
+    
+one vote per voting precinct, the] For a race between candidates, if the difference between the
+            
+29
+
+    
+number of votes cast for the candidate who receives the highest number of votes in the race and
+            
+30
+
+    
+another candidate in the race is equal to or less than .25% of the total number of votes cast for
+            
+31
+
+    
+all candidates in the race, that other candidate may file a request for a recount:
+            
+32
+
+    
+    (i)  for a municipal primary election, with the municipal clerk, within three days after
+            
+33
+
+    
+the canvass; or
+            
+34
+
+    
+    (ii)  for all other elections, within seven days after the canvass with:
+            
+35
+
+    
+    (A)  the municipal clerk, if the election is a municipal general election;
+            
+36
+
+    
+    (B)  the local district clerk, if the election is a local district election;
+            
+37
+
+    
+    (C)  the county clerk, for races [or ballot propositions] voted on entirely within a single
+            
+38
+
+    
+county; or
+            
+39
+
+    
+    (D)  the lieutenant governor, for statewide races and [ballot propositions and for]
+            
+40
+
+    
+multicounty races [and ballot propositions].
+            
+41
+
+    
+    [(ii)  For any municipal primary election, when any candidate loses by not more than a
+            
+42
+
+    
+total of one vote per voting precinct, the candidate may file a request for a recount with the
+            
+43
+
+    
+appropriate election officer within three days after the canvass.]
+            
+44
+
+    
+    (b)  The election officer shall:
+            
+45
+
+    
+    (i)  supervise the recount;
+            
+46
+
+    
+    (ii)  recount all ballots cast for that [office] race;
+            
+47
+
+    
+    (iii)  reexamine all unopened absentee ballots to ensure compliance with Chapter 3, Part
+            
+48
+
+    
+3, Absentee Voting; and
+            
+49
+
+    
+    (iv)  declare elected the person receiving the highest number of votes on the recount.
+            
+50
+
+    
+    (2) (a)  [Any] For a ballot proposition or a bond proposition, if the proposition passes or
+            
+51
+
+    
+fails by a margin that is equal to or less than .25% of the total votes cast for or against the
+            
+52
+
+    
+proposition, any 10 voters who voted in [an election when any ballot proposition or bond] the
+            
+53
+
+    
+election where the proposition was on the ballot may file a request for a recount [with the
+            
+54
+
+    
+appropriate election officer] within seven days of the canvass[.] with:
+            
+55
+
+    
+    (i)  the municipal clerk, if the election is a municipal election;
+            
+56
+
+    
+    (ii)  the local district clerk, if the election is a local district election;
+            
+57
+
+    
+    (iii)  the county clerk, for propositions voted on entirely within a single county; or
+            
+58
+
+    
+    (iv)  the lieutenant governor, for statewide propositions and multicounty propositions.
+
+            
+59
+
+
+    
+    (b)  The election officer shall:
+            
+60
+
+    
+    (i)  supervise the recount;
+            
+61
+
+    
+    (ii)  recount all ballots cast for that ballot proposition or bond proposition;
+            
+62
+
+    
+    (iii)  reexamine all unopened absentee ballots to ensure compliance with Chapter 3, Part
+            
+63
+
+    
+3, Absentee Voting; and
+            
+64
+
+    
+    (iv)  declare the ballot proposition or bond proposition to have "passed" or "failed"
+            
+65
+
+    
+based upon the results of the recount.
+            
+66
+
+    
+    (c)  Proponents and opponents of the ballot proposition or bond proposition may
+            
+67
+
+    
+designate representatives to witness the recount.
+            
+68
+
+    
+    (d)  The voters requesting the recount shall pay the costs of the recount.
+            
+69
+
+    
+    (3)  Costs incurred by recount under Subsection (1) may not be assessed against the
+            
+70
+
+    
+person requesting the recount.
+            
+71
+
+    
+    (4) (a)  Upon completion of the recount, the election officer shall immediately convene
+            
+72
+
+    
+the board of canvassers.
+            
+73
+
+    
+    (b)  The board of canvassers shall:
+            
+74
+
+    
+    (i)  canvass the election returns for the race or proposition that was the subject of the
+            
+75
+
+    
+recount; and
+            
+76
+
+    
+    (ii)  with the assistance of the election officer, prepare and sign the report required by
+            
+77
+
+    
+Section 
+
+20A-4-304
+
+ or Section 
+
+20A-4-306
+
+.
+            
+78
+
+    
+    (c)  If the recount is for a statewide or multicounty race or for a statewide proposition,
+            
+79
+
+    
+the board of county canvassers shall prepare and transmit a separate report to the lieutenant
+            
+80
+
+    
+governor as required by Subsection 
+
+20A-4-304
+
+(3).
+            
+81
+
+    
+    (d)  The canvassers' report prepared as provided in this Subsection (4) is the official
+            
+82
+
+    
+result of the race or proposition that is the subject of the recount.
+
+
+
+
+ Legislative Review Note
+    as of   1-8-13  3:41 PM
+
+ Office of Legislative Research and General Counsel
+[Bill Documents][Bills Directory]
+
+
+
+
+
+
+
+
+
+Who represents me?
+
+
+
+
+
+Remember my Legislators
+
+
+
+
+
+State Senate
+		350 North State, Suite 320
+		PO Box 145115
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1035
+		Fax: (801) 326-1475
+
+
+
+House of Representatives
+		350 North State, Suite 350
+		PO Box 145030
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1029
+		Fax: (801) 326-1544
+
+
+
+
+
+
+
+
+
+
+Home
+Mobile Site
+Site Map
+Calendar
+Code / Constitution
+House
+Senate
+
+Terms of Use/Privacy Policy
+
+ADA
+Utah.gov
+
+
+
+
+
+
+

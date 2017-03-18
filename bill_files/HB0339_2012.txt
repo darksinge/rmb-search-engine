@@ -1,0 +1,3647 @@
+Sponsors: []Modifications: (10)   "Business reply mail envelope" means an envelope that may be mailed free ofcharge by the sender.(11)(12)(13)(14)(15)(16)(17)(18)(19)(20)(21)(22)(23)(24)(25)(26)(27)(28)(29)(30)(31)(32)(33)(34)(35)(36)(37)(38)(39)(40)(41)(42)(43)(44)(45)(46)(47)(48)(49)(50)(51)(52)(53)(54)(55)(56)(57)(58)(59)(60)(61)(62)(63)(64)(65)(66)(67)(68)(69)(70)(71)(72)(73)(74)(75)(76)(77)(78)(79)(80)(81)(81)(82)(83)(84)(85)(86)(87)(88)(89)(90)(91)(92)(93)(94)(c)  a business reply mail envelope;(d)(e)(c)  a business reply mail envelope;(d)(e)(a)less than 30 days before the election(i)(ii)(b)  Twenty-eight days before election day, the election officer shall mail an officialabsentee ballot, postage paid, to all absentee voters, other than to a uniformed-service voter oran overseas voter, who have submitted a properly filled out and signed absentee voterapplication before the day on which the ballots are mailed and enclose an envelope printed asrequired by Subsection (2).the, unless voting in accordance with Section 
+
+20A-3-302
+
+ or
+
+20A-3-302.5
+
+,thea military-overseas ballot, submitted inaccordance with Section 
+
+20A-16-404
+
+.locked in a secure place in the election officer'sthe election officer(5) (a)  An election officer shall notify a voter if a poll worker rejects the voter's ballotand specify the reason for the rejection.(b)  An election officer shall give the notice described in Subsection (5)(a) to a voter nolater than seven days after:(i)  election day if the election officer receives the ballot before or on election day; and(ii)  the canvass if the election officer receives the ballot after election day and beforethe end of the canvass.(6)(vii)  the number of ballots that were rejected; and(viii)Full text:
+
+
+
+Utah State Legislature
+
+
+
+
+
+
+
+
+
+
+
+
+Legislators
+
+By Session (1896-Current)
+Alphabetical (Historical)
+Find by Address/Map
+More
+
+
+Bills
+
+Bills/Bill Requests
+Passed Bills
+2017 Bills
+
+Keyword Search
+Reading Calendars
+Tracking Service
+More
+
+
+Committees
+
+All Committees
+Appropriations
+Commissions
+
+Independent Legislative Ethics Commission
+Interim
+Standing
+Subcommittees
+Task Forces
+Bills In Committees
+
+
+Utah Code / Constitution
+
+
+Title/Chapter/Section
+Keyword Search 
+
+Utah Constitution
+Laws of Utah 1851-ongoing
+Utah Territorial Laws 
+More
+
+
+Senate
+
+Main Page 
+About The Senate 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Extraordinary Sessions 
+Reading Calendars 
+Past Floor Debates 
+Senate Journals 
+
+
+House
+
+Main Page
+About the House 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Reading Calendars 
+Past Floor Debates 
+Journals 
+Conflict of Interest Forms 
+
+
+Legislative Guide 
+
+Legislative Guide
+Civic Programs
+GRAMA (Records Requests)
+
+
+Publications
+
+Search Publications
+Appropriations
+Audits
+Bagels & Briefings
+Briefing Papers
+Digest of Legislation
+Legislative Drafting Manual
+
+Journals
+
+Interim Highlights
+
+Legislative Rules
+GRAMA (Records Requests)
+Public Email
+State Organization Charts
+YouTube Channel
+Requests for Proposals and Legal Notices
+More
+
+
+Legislative Histories
+
+Legislative History Resources
+How to Research
+Bill Drafting/Research Files (1990-Ongoing)
+
+Working Bills (1896-1989)
+Interim Committee Histories (1990-Ongoing) 
+Journals
+Past House Floor Debates
+Past Senate Floor Debates
+More
+
+
+Staff Offices
+
+All Legislative Offices
+Auditor General
+Fiscal Analyst
+Printing
+Research and General Counsel
+Staff Awards
+Job Opportunities
+More
+
+
+Links of Interest
+
+Utah Administrative Rules
+Courts
+Utah State Capitol
+State of Utah
+Federal Legislation
+More
+
+
+
+
+
+
+ 
+
+Download Zipped Introduced WordPerfect HB0339.ZIP
+[Status][Bill Documents][Fiscal Note][Bills Directory]
+
+
+H.B. 339
+
+
+
+
+
+            
+1
+
+    
+ ELECTION BALLOT AMENDMENTS
+
+
+
+            
+2
+
+    
+2012 GENERAL SESSION
+
+            
+3
+
+    
+STATE OF UTAH
+
+            
+4
+
+    
+
+
+ Chief Sponsor:  Steve Eliason
+
+
+
+            
+5
+
+    
+
+
+
+Senate Sponsor: 
+
+
+
+
+
+
+  Curtis S. Bramble
+
+
+
+
+
+            
+6
+
+    
+
+            
+7
+
+    
+ LONG TITLE
+            
+8
+
+    
+ General Description:
+            
+9
+
+    
+    This bill modifies provisions in Title 20A, Election Code, related to election ballots.
+            
+10
+
+    
+ Highlighted Provisions:
+            
+11
+
+    
+    This bill:
+            
+12
+
+    
+    .    provides a definition;
+            
+13
+
+    
+    .    requires an election officer to include a business reply mail envelope with an
+            
+14
+
+    
+absentee ballot in certain circumstances;
+            
+15
+
+    
+    .    changes the date on which an election officer mails an absentee ballot;
+            
+16
+
+    
+    .    requires the election officer to notify a voter if the voter's absentee ballot is rejected
+            
+17
+
+    
+and the reason the absentee ballot was rejected;
+            
+18
+
+    
+    .    requires the election officer to report all absentee ballots that were rejected;
+            
+19
+
+    
+    .    requires an elections officer to ensure that an absentee or provisional ballot is not
+            
+20
+
+    
+accessible until the ballot is counted; and
+            
+21
+
+    
+    .    makes technical changes.
+            
+22
+
+    
+ Money Appropriated in this Bill:
+            
+23
+
+    
+    None
+            
+24
+
+    
+ Other Special Clauses:
+            
+25
+
+    
+    None
+            
+26
+
+    
+ Utah Code Sections Affected:
+            
+27
+
+    
+AMENDS:
+
+            
+28
+
+
+    
+     20A-1-102, as last amended by Laws of Utah 2011, Chapters 17, 40, 310, and 335
+            
+29
+
+    
+     20A-3-302, as last amended by Laws of Utah 2005, Chapter 71
+            
+30
+
+    
+     20A-3-302.5, as enacted by Laws of Utah 2009, Chapter 24
+            
+31
+
+    
+     20A-3-305, as last amended by Laws of Utah 2010, Chapter 197
+            
+32
+
+    
+     20A-3-306, as last amended by Laws of Utah 2009, Chapter 191
+            
+33
+
+    
+     20A-3-307, as last amended by Laws of Utah 2010, Chapter 324
+            
+34
+
+    
+     20A-3-308, as last amended by Laws of Utah 2011, Chapter 327
+            
+35
+
+    
+     20A-4-304, as last amended by Laws of Utah 2008, Chapter 82
+            
+36
+
+    
+
+            
+37
+
+    
+Be it enacted by the Legislature of the state of Utah:
+            
+38
+
+    
+    Section 1.  
+Section  
+20A-1-102
+
+ is amended to read:
+            
+39
+
+    
+     20A-1-102.  Definitions.
+            
+40
+
+    
+    As used in this title:
+            
+41
+
+    
+    (1)  "Active voter" means a registered voter who has not been classified as an inactive
+            
+42
+
+    
+voter by the county clerk.
+            
+43
+
+    
+    (2)  "Automatic tabulating equipment" means apparatus that automatically examines
+            
+44
+
+    
+and counts votes recorded on paper ballots or ballot sheets and tabulates the results.
+            
+45
+
+    
+    (3) (a)  "Ballot" means the storage medium, whether paper, mechanical, or electronic,
+            
+46
+
+    
+upon which a voter records the voter's votes.
+            
+47
+
+    
+    (b)  "Ballot" includes ballot sheets, paper ballots, electronic ballots, and secrecy
+            
+48
+
+    
+envelopes.
+            
+49
+
+    
+    (4)  "Ballot sheet":
+            
+50
+
+    
+    (a)  means a ballot that:
+            
+51
+
+    
+    (i)  consists of paper or a card where the voter's votes are marked or recorded; and
+            
+52
+
+    
+    (ii)  can be counted using automatic tabulating equipment; and
+            
+53
+
+    
+    (b)  includes punch card ballots and other ballots that are machine-countable.
+            
+54
+
+    
+    (5)  "Ballot label" means the cards, papers, booklet, pages, or other materials that:
+            
+55
+
+    
+    (a)  contain the names of offices and candidates and statements of ballot propositions to
+            
+56
+
+    
+be voted on; and
+            
+57
+
+    
+    (b)  are used in conjunction with ballot sheets that do not display that information.
+            
+58
+
+    
+    (6)  "Ballot proposition" means a question, issue, or proposal that is submitted to voters
+
+            
+59
+
+
+    
+on the ballot for their approval or rejection including:
+            
+60
+
+    
+    (a)  an opinion question specifically authorized by the Legislature;
+            
+61
+
+    
+    (b)  a constitutional amendment;
+            
+62
+
+    
+    (c)  an initiative;
+            
+63
+
+    
+    (d)  a referendum;
+            
+64
+
+    
+    (e)  a bond proposition;
+            
+65
+
+    
+    (f)  a judicial retention question; or
+            
+66
+
+    
+    (g)  any other ballot question specifically authorized by the Legislature.
+            
+67
+
+    
+    (7)  "Board of canvassers" means the entities established by Sections 
+
+20A-4-301
+
+ and
+            
+68
+
+    
+
+20A-4-306
+
+ to canvass election returns.
+            
+69
+
+    
+    (8)  "Bond election" means an election held for the purpose of approving or rejecting
+            
+70
+
+    
+the proposed issuance of bonds by a government entity.
+            
+71
+
+    
+    (9)  "Book voter registration form" means voter registration forms contained in a bound
+            
+72
+
+    
+book that are used by election officers and registration agents to register persons to vote.
+            
+73
+
+    
+    (10)   "Business reply mail envelope" means an envelope that may be mailed free of
+            
+74
+
+    
+charge by the sender.
+            
+75
+
+    
+    [(10)] (11)  "By-mail voter registration form" means a voter registration form designed
+            
+76
+
+    
+to be completed by the voter and mailed to the election officer.
+            
+77
+
+    
+    [(11)] (12)  "Canvass" means the review of election returns and the official declaration
+            
+78
+
+    
+of election results by the board of canvassers.
+            
+79
+
+    
+    [(12)] (13)  "Canvassing judge" means a poll worker designated to assist in counting
+            
+80
+
+    
+ballots at the canvass.
+            
+81
+
+    
+    [(13)] (14)  "Contracting election officer" means an election officer who enters into a
+            
+82
+
+    
+contract or interlocal agreement with a provider election officer.
+            
+83
+
+    
+    [(14)] (15)  "Convention" means the political party convention at which party officers
+            
+84
+
+    
+and delegates are selected.
+            
+85
+
+    
+    [(15)] (16)  "Counting center" means one or more locations selected by the election
+            
+86
+
+    
+officer in charge of the election for the automatic counting of ballots.
+            
+87
+
+    
+    [(16)] (17)  "Counting judge" means a poll worker designated to count the ballots
+            
+88
+
+    
+during election day.
+            
+89
+
+    
+    [(17)] (18)  "Counting poll watcher" means a person selected as provided in Section
+
+            
+90
+
+
+    
+
+20A-3-201
+
+ to witness the counting of ballots.
+            
+91
+
+    
+    [(18)] (19)  "Counting room" means a suitable and convenient private place or room,
+            
+92
+
+    
+immediately adjoining the place where the election is being held, for use by the poll workers
+            
+93
+
+    
+and counting judges to count ballots during election day.
+            
+94
+
+    
+    [(19)] (20)  "County officers" means those county officers that are required by law to be
+            
+95
+
+    
+elected.
+            
+96
+
+    
+    [(20)] (21)  "Date of the election" or "election day" or "day of the election":
+            
+97
+
+    
+    (a)  means the day that is specified in the calendar year as the day that the election
+            
+98
+
+    
+occurs; and
+            
+99
+
+    
+    (b)  does not include:
+            
+100
+
+    
+    (i)  deadlines established for absentee voting; or
+            
+101
+
+    
+    (ii)  any early voting or early voting period as provided under Chapter 3, Part 6, Early
+            
+102
+
+    
+Voting.
+            
+103
+
+    
+    [(21)] (22)  "Elected official" means:
+            
+104
+
+    
+    (a)  a person elected to an office under Section 
+
+20A-1-303
+
+;
+            
+105
+
+    
+    (b)  a person who is considered to be elected to a municipal office in accordance with
+            
+106
+
+    
+Subsection 
+
+20A-1-206
+
+(1)(c)(ii); or
+            
+107
+
+    
+    (c)  a person who is considered to be elected to a local district office in accordance with
+            
+108
+
+    
+Subsection 
+
+20A-1-206
+
+(3)(c)(ii).
+            
+109
+
+    
+    [(22)] (23)  "Election" means a regular general election, a municipal general election, a
+            
+110
+
+    
+statewide special election, a local special election, a regular primary election, a municipal
+            
+111
+
+    
+primary election, and a local district election.
+            
+112
+
+    
+    [(23)] (24)  "Election Assistance Commission" means the commission established by
+            
+113
+
+    
+Public Law 107-252, the Help America Vote Act of 2002.
+            
+114
+
+    
+    [(24)] (25)  "Election cycle" means the period beginning on the first day persons are
+            
+115
+
+    
+eligible to file declarations of candidacy and ending when the canvass is completed.
+            
+116
+
+    
+    [(25)] (26)  "Election judge" means a poll worker that is assigned to:
+            
+117
+
+    
+    (a)  preside over other poll workers at a polling place;
+            
+118
+
+    
+    (b)  act as the presiding election judge; or
+            
+119
+
+    
+    (c)  serve as a canvassing judge, counting judge, or receiving judge.
+            
+120
+
+    
+    [(26)] (27)  "Election officer" means:
+
+            
+121
+
+
+    
+    (a)  the lieutenant governor, for all statewide ballots and elections;
+            
+122
+
+    
+    (b)  the county clerk for:
+            
+123
+
+    
+    (i)  a county ballot and election; and
+            
+124
+
+    
+    (ii)  a ballot and election as a provider election officer as provided in Section
+            
+125
+
+    
+
+20A-5-400.1
+
+ or 
+
+20A-5-400.5
+
+;
+            
+126
+
+    
+    (c)  the municipal clerk for:
+            
+127
+
+    
+    (i)  a municipal ballot and election; and
+            
+128
+
+    
+    (ii)  a ballot and election as a provider election officer as provided in Section
+            
+129
+
+    
+
+20A-5-400.1
+
+ or 
+
+20A-5-400.5
+
+;
+            
+130
+
+    
+    (d)  the local district clerk or chief executive officer for:
+            
+131
+
+    
+    (i)  a local district ballot and election; and
+            
+132
+
+    
+    (ii)  a ballot and election as a provider election officer as provided in Section
+            
+133
+
+    
+
+20A-5-400.1
+
+ or 
+
+20A-5-400.5
+
+; or
+            
+134
+
+    
+    (e)  the business administrator or superintendent of a school district for:
+            
+135
+
+    
+    (i)  a school district ballot and election; and
+            
+136
+
+    
+    (ii)  a ballot and election as a provider election officer as provided in Section
+            
+137
+
+    
+
+20A-5-400.1
+
+ or 
+
+20A-5-400.5
+
+.
+            
+138
+
+    
+    [(27)] (28)  "Election official" means:
+            
+139
+
+    
+    (a)  for an election other than a bond election, the count of votes cast in the election and
+            
+140
+
+    
+the election returns requested by the board of canvassers; or
+            
+141
+
+    
+    (b)  any election officer, election judge, or poll worker.
+            
+142
+
+    
+    [(28)] (29)  "Election results" means:
+            
+143
+
+    
+    (a)  for an election other than a bond election, the count of votes cast in the election and
+            
+144
+
+    
+the election returns requested by the board of canvassers; or
+            
+145
+
+    
+    (b)  for bond elections, the count of those votes cast for and against the bond
+            
+146
+
+    
+proposition plus any or all of the election returns that the board of canvassers may request.
+            
+147
+
+    
+    [(29)] (30)  "Election returns" includes the pollbook, all affidavits of registration, the
+            
+148
+
+    
+military and overseas absentee voter registration and voting certificates, one of the tally sheets,
+            
+149
+
+    
+any unprocessed absentee ballots, all counted ballots, all excess ballots, all unused ballots, all
+            
+150
+
+    
+spoiled ballots, the ballot disposition form, and the total votes cast form.
+            
+151
+
+    
+    [(30)] (31)  "Electronic ballot" means a ballot that is recorded using a direct electronic
+
+            
+152
+
+
+    
+voting device or other voting device that records and stores ballot information by electronic
+            
+153
+
+    
+means.
+            
+154
+
+    
+    [(31)] (32)  "Electronic signature" means an electronic sound, symbol, or process
+            
+155
+
+    
+attached to or logically associated with a record and executed or adopted by a person with the
+            
+156
+
+    
+intent to sign the record.
+            
+157
+
+    
+    [(32)] (33) (a)  "Electronic voting device" means a voting device that uses electronic
+            
+158
+
+    
+ballots.
+            
+159
+
+    
+    (b)  "Electronic voting device" includes a direct recording electronic voting device.
+            
+160
+
+    
+    [(33)] (34)  "Inactive voter" means a registered voter who has:
+            
+161
+
+    
+    (a)  been sent the notice required by Section 
+
+20A-2-306
+
+; and
+            
+162
+
+    
+    (b)  failed to respond to that notice.
+            
+163
+
+    
+    [(34)] (35)  "Inspecting poll watcher" means a person selected as provided in this title to
+            
+164
+
+    
+witness the receipt and safe deposit of voted and counted ballots.
+            
+165
+
+    
+    [(35)] (36)  "Judicial office" means the office filled by any judicial officer.
+            
+166
+
+    
+    [(36)] (37)  "Judicial officer" means any justice or judge of a court of record or any
+            
+167
+
+    
+county court judge.
+            
+168
+
+    
+    [(37)] (38)  "Local district" means a local government entity under Title 17B, Limited
+            
+169
+
+    
+Purpose Local Government Entities - Local Districts, and includes a special service district
+            
+170
+
+    
+under Title 17D, Chapter 1, Special Service District Act.
+            
+171
+
+    
+    [(38)] (39)  "Local district officers" means those local district officers that are required
+            
+172
+
+    
+by law to be elected.
+            
+173
+
+    
+    [(39)] (40)  "Local election" means a regular municipal election, a local special
+            
+174
+
+    
+election, a local district election, and a bond election.
+            
+175
+
+    
+    [(40)] (41)  "Local political subdivision" means a county, a municipality, a local
+            
+176
+
+    
+district, or a local school district.
+            
+177
+
+    
+    [(41)] (42)  "Local special election" means a special election called by the governing
+            
+178
+
+    
+body of a local political subdivision in which all registered voters of the local political
+            
+179
+
+    
+subdivision may vote.
+            
+180
+
+    
+    [(42)] (43)  "Municipal executive" means:
+            
+181
+
+    
+    (a)  the mayor in the council-mayor form of government defined in Section 
+
+10-3b-102
+
+;
+            
+182
+
+    
+or
+
+            
+183
+
+
+    
+    (b)  the mayor in the council-manager form of government defined in Subsection
+            
+184
+
+    
+
+10-3b-103
+
+(6).
+            
+185
+
+    
+    [(43)] (44)  "Municipal general election" means the election held in municipalities and
+            
+186
+
+    
+local districts on the first Tuesday after the first Monday in November of each odd-numbered
+            
+187
+
+    
+year for the purposes established in Section 
+
+20A-1-202
+
+.
+            
+188
+
+    
+    [(44)] (45)  "Municipal legislative body" means the council of the city or town in any
+            
+189
+
+    
+form of municipal government.
+            
+190
+
+    
+    [(45)] (46)  "Municipal office" means an elective office in a municipality.
+            
+191
+
+    
+    [(46)] (47)  "Municipal officers" means those municipal officers that are required by
+            
+192
+
+    
+law to be elected.
+            
+193
+
+    
+    [(47)] (48)  "Municipal primary election" means an election held to nominate
+            
+194
+
+    
+candidates for municipal office.
+            
+195
+
+    
+    [(48)] (49)  "Official ballot" means the ballots distributed by the election officer to the
+            
+196
+
+    
+poll workers to be given to voters to record their votes.
+            
+197
+
+    
+    [(49)] (50)  "Official endorsement" means:
+            
+198
+
+    
+    (a)  the information on the ballot that identifies:
+            
+199
+
+    
+    (i)  the ballot as an official ballot;
+            
+200
+
+    
+    (ii)  the date of the election; and
+            
+201
+
+    
+    (iii)  the facsimile signature of the election officer; and
+            
+202
+
+    
+    (b)  the information on the ballot stub that identifies:
+            
+203
+
+    
+    (i)  the poll worker's initials; and
+            
+204
+
+    
+    (ii)  the ballot number.
+            
+205
+
+    
+    [(50)] (51)  "Official register" means the official record furnished to election officials
+            
+206
+
+    
+by the election officer that contains the information required by Section 
+
+20A-5-401
+
+.
+            
+207
+
+    
+    [(51)] (52)  "Paper ballot" means a paper that contains:
+            
+208
+
+    
+    (a)  the names of offices and candidates and statements of ballot propositions to be
+            
+209
+
+    
+voted on; and
+            
+210
+
+    
+    (b)  spaces for the voter to record the voter's vote for each office and for or against each
+            
+211
+
+    
+ballot proposition.
+            
+212
+
+    
+    [(52)] (53)  "Political party" means an organization of registered voters that has
+            
+213
+
+    
+qualified to participate in an election by meeting the requirements of Chapter 8, Political Party
+
+            
+214
+
+
+    
+Formation and Procedures.
+            
+215
+
+    
+    [(53)] (54) (a)  "Poll worker" means a person assigned by an election official to assist
+            
+216
+
+    
+with an election, voting, or counting votes.
+            
+217
+
+    
+    (b)  "Poll worker" includes election judges.
+            
+218
+
+    
+    (c)  "Poll worker" does not include a watcher.
+            
+219
+
+    
+    [(54)] (55)  "Pollbook" means a record of the names of voters in the order that they
+            
+220
+
+    
+appear to cast votes.
+            
+221
+
+    
+    [(55)] (56)  "Polling place" means the building where voting is conducted.
+            
+222
+
+    
+    [(56)] (57)  "Position" means a square, circle, rectangle, or other geometric shape on a
+            
+223
+
+    
+ballot in which the voter marks the voter's choice.
+            
+224
+
+    
+    [(57)] (58)  "Provider election officer" means an election officer who enters into a
+            
+225
+
+    
+contract or interlocal agreement with a contracting election officer to conduct an election for
+            
+226
+
+    
+the contracting election officer's local political subdivision in accordance with Section
+            
+227
+
+    
+
+20A-5-400.1
+
+.
+            
+228
+
+    
+    [(58)] (59)  "Provisional ballot" means a ballot voted provisionally by a person:
+            
+229
+
+    
+    (a)  whose name is not listed on the official register at the polling place;
+            
+230
+
+    
+    (b)  whose legal right to vote is challenged as provided in this title; or
+            
+231
+
+    
+    (c)  whose identity was not sufficiently established by a poll worker.
+            
+232
+
+    
+    [(59)] (60)  "Provisional ballot envelope" means an envelope printed in the form
+            
+233
+
+    
+required by Section 
+
+20A-6-105
+
+ that is used to identify provisional ballots and to provide
+            
+234
+
+    
+information to verify a person's legal right to vote.
+            
+235
+
+    
+    [(60)] (61)  "Primary convention" means the political party conventions at which
+            
+236
+
+    
+nominees for the regular primary election are selected.
+            
+237
+
+    
+    [(61)] (62)  "Protective counter" means a separate counter, which cannot be reset, that:
+            
+238
+
+    
+    (a)  is built into a voting machine; and
+            
+239
+
+    
+    (b)  records the total number of movements of the operating lever.
+            
+240
+
+    
+    [(62)] (63)  "Qualify" or "qualified" means to take the oath of office and begin
+            
+241
+
+    
+performing the duties of the position for which the person was elected.
+            
+242
+
+    
+    [(63)] (64)  "Receiving judge" means the poll worker that checks the voter's name in the
+            
+243
+
+    
+official register, provides the voter with a ballot, and removes the ballot stub from the ballot
+            
+244
+
+    
+after the voter has voted.
+
+            
+245
+
+
+    
+    [(64)] (65)  "Registration form" means a book voter registration form and a by-mail
+            
+246
+
+    
+voter registration form.
+            
+247
+
+    
+    [(65)] (66)  "Regular ballot" means a ballot that is not a provisional ballot.
+            
+248
+
+    
+    [(66)] (67)  "Regular general election" means the election held throughout the state on
+            
+249
+
+    
+the first Tuesday after the first Monday in November of each even-numbered year for the
+            
+250
+
+    
+purposes established in Section 
+
+20A-1-201
+
+.
+            
+251
+
+    
+    [(67)] (68)  "Regular primary election" means the election on the fourth Tuesday of
+            
+252
+
+    
+June of each even-numbered year, to nominate candidates of political parties and nonpolitical
+            
+253
+
+    
+groups to advance to the regular general election.
+            
+254
+
+    
+    [(68)] (69)  "Resident" means a person who resides within a specific voting precinct in
+            
+255
+
+    
+Utah.
+            
+256
+
+    
+    [(69)] (70)  "Sample ballot" means a mock ballot similar in form to the official ballot
+            
+257
+
+    
+printed and distributed as provided in Section 
+
+20A-5-405
+
+.
+            
+258
+
+    
+    [(70)] (71)  "Scratch vote" means to mark or punch the straight party ticket and then
+            
+259
+
+    
+mark or punch the ballot for one or more candidates who are members of different political
+            
+260
+
+    
+parties.
+            
+261
+
+    
+    [(71)] (72)  "Secrecy envelope" means the envelope given to a voter along with the
+            
+262
+
+    
+ballot into which the voter places the ballot after the voter has voted it in order to preserve the
+            
+263
+
+    
+secrecy of the voter's vote.
+            
+264
+
+    
+    [(72)] (73)  "Special election" means an election held as authorized by Section
+            
+265
+
+    
+
+20A-1-204
+
+.
+            
+266
+
+    
+    [(73)] (74)  "Spoiled ballot" means each ballot that:
+            
+267
+
+    
+    (a)  is spoiled by the voter;
+            
+268
+
+    
+    (b)  is unable to be voted because it was spoiled by the printer or a poll worker; or
+            
+269
+
+    
+    (c)  lacks the official endorsement.
+            
+270
+
+    
+    [(74)] (75)  "Statewide special election" means a special election called by the governor
+            
+271
+
+    
+or the Legislature in which all registered voters in Utah may vote.
+            
+272
+
+    
+    [(75)] (76)  "Stub" means the detachable part of each ballot.
+            
+273
+
+    
+    [(76)] (77)  "Substitute ballots" means replacement ballots provided by an election
+            
+274
+
+    
+officer to the poll workers when the official ballots are lost or stolen.
+            
+275
+
+    
+    [(77)] (78)  "Ticket" means each list of candidates for each political party or for each
+
+            
+276
+
+
+    
+group of petitioners.
+            
+277
+
+    
+    [(78)] (79)  "Transfer case" means the sealed box used to transport voted ballots to the
+            
+278
+
+    
+counting center.
+            
+279
+
+    
+    [(79)] (80)  "Vacancy" means the absence of a person to serve in any position created
+            
+280
+
+    
+by statute, whether that absence occurs because of death, disability, disqualification,
+            
+281
+
+    
+resignation, or other cause.
+            
+282
+
+    
+    [(80)] (81)  "Valid voter identification" means:
+            
+283
+
+    
+    (a)  a form of identification that bears the name and photograph of the voter which may
+            
+284
+
+    
+include:
+            
+285
+
+    
+    (i)  a currently valid Utah driver license;
+            
+286
+
+    
+    (ii)  a currently valid identification card that is issued by:
+            
+287
+
+    
+    (A)  the state; or
+            
+288
+
+    
+    (B)  a branch, department, or agency of the United States;
+            
+289
+
+    
+    (iii)  a currently valid Utah permit to carry a concealed weapon;
+            
+290
+
+    
+    (iv)  a currently valid United States passport; or
+            
+291
+
+    
+    (v)  a currently valid United States military identification card;
+            
+292
+
+    
+    (b)  one of the following identification cards, whether or not the card includes a
+            
+293
+
+    
+photograph of the voter:
+            
+294
+
+    
+    (i)  a valid tribal identification card;
+            
+295
+
+    
+    (ii)  a Bureau of Indian Affairs card; or
+            
+296
+
+    
+    (iii)  a tribal treaty card; or
+            
+297
+
+    
+    (c)  two forms of identification not listed under Subsection [(80)] (81)(a) or (b) but that
+            
+298
+
+    
+bear the name of the voter and provide evidence that the voter resides in the voting precinct,
+            
+299
+
+    
+which may include:
+            
+300
+
+    
+    (i)  a current utility bill or a legible copy thereof, dated within the 90 days before the
+            
+301
+
+    
+election;
+            
+302
+
+    
+    (ii)  a bank or other financial account statement, or a legible copy thereof;
+            
+303
+
+    
+    (iii)  a certified birth certificate;
+            
+304
+
+    
+    (iv)  a valid Social Security card;
+            
+305
+
+    
+    (v)  a check issued by the state or the federal government or a legible copy thereof;
+            
+306
+
+    
+    (vi)  a paycheck from the voter's employer, or a legible copy thereof;
+
+            
+307
+
+
+    
+    (vii)  a currently valid Utah hunting or fishing license;
+            
+308
+
+    
+    (viii)  certified naturalization documentation;
+            
+309
+
+    
+    (ix)  a currently valid license issued by an authorized agency of the United States;
+            
+310
+
+    
+    (x)  a certified copy of court records showing the voter's adoption or name change;
+            
+311
+
+    
+    (xi)  a valid Medicaid card, Medicare card, or Electronic Benefits Transfer Card;
+            
+312
+
+    
+    (xii)  a currently valid identification card issued by:
+            
+313
+
+    
+    (A)  a local government within the state;
+            
+314
+
+    
+    (B)  an employer for an employee; or
+            
+315
+
+    
+    (C)  a college, university, technical school, or professional school located within the
+            
+316
+
+    
+state; or
+            
+317
+
+    
+    (xiii)  a current Utah vehicle registration.
+            
+318
+
+    
+    [(81)] (82)  "Valid write-in candidate" means a candidate who has qualified as a
+            
+319
+
+    
+write-in candidate by following the procedures and requirements of this title.
+            
+320
+
+    
+    [(82)] (83)  "Voter" means a person who:
+            
+321
+
+    
+    (a)  meets the requirements for voting in an election;
+            
+322
+
+    
+    (b)  meets the requirements of election registration;
+            
+323
+
+    
+    (c)  is registered to vote; and
+            
+324
+
+    
+    (d)  is listed in the official register book.
+            
+325
+
+    
+    [(83)] (84)  "Voter registration deadline" means the registration deadline provided in
+            
+326
+
+    
+Section 
+
+20A-2-102.5
+
+.
+            
+327
+
+    
+    [(84)] (85)  "Voting area" means the area within six feet of the voting booths, voting
+            
+328
+
+    
+machines, and ballot box.
+            
+329
+
+    
+    [(85)] (86)  "Voting booth" means:
+            
+330
+
+    
+    (a)  the space or compartment within a polling place that is provided for the preparation
+            
+331
+
+    
+of ballots, including the voting machine enclosure or curtain; or
+            
+332
+
+    
+    (b)  a voting device that is free standing.
+            
+333
+
+    
+    [(86)] (87)  "Voting device" means:
+            
+334
+
+    
+    (a)  an apparatus in which ballot sheets are used in connection with a punch device for
+            
+335
+
+    
+piercing the ballots by the voter;
+            
+336
+
+    
+    (b)  a device for marking the ballots with ink or another substance;
+            
+337
+
+    
+    (c)  an electronic voting device or other device used to make selections and cast a ballot
+
+            
+338
+
+
+    
+electronically, or any component thereof;
+            
+339
+
+    
+    (d)  an automated voting system under Section 
+
+20A-5-302
+
+; or
+            
+340
+
+    
+    (e)  any other method for recording votes on ballots so that the ballot may be tabulated
+            
+341
+
+    
+by means of automatic tabulating equipment.
+            
+342
+
+    
+    [(87)] (88)  "Voting machine" means a machine designed for the sole purpose of
+            
+343
+
+    
+recording and tabulating votes cast by voters at an election.
+            
+344
+
+    
+    [(88)] (89)  "Voting poll watcher" means a person appointed as provided in this title to
+            
+345
+
+    
+witness the distribution of ballots and the voting process.
+            
+346
+
+    
+    [(89)] (90)  "Voting precinct" means the smallest voting unit established as provided by
+            
+347
+
+    
+law within which qualified voters vote at one polling place.
+            
+348
+
+    
+    [(90)] (91)  "Watcher" means a voting poll watcher, a counting poll watcher, an
+            
+349
+
+    
+inspecting poll watcher, and a testing watcher.
+            
+350
+
+    
+    [(91)] (92)  "Western States Presidential Primary" means the election established in
+            
+351
+
+    
+Chapter 9, Part 8.
+            
+352
+
+    
+    [(92)] (93)  "Write-in ballot" means a ballot containing any write-in votes.
+            
+353
+
+    
+    [(93)] (94)  "Write-in vote" means a vote cast for a person whose name is not printed on
+            
+354
+
+    
+the ballot according to the procedures established in this title.
+            
+355
+
+    
+    Section 2.  
+Section  
+20A-3-302
+
+ is amended to read:
+            
+356
+
+    
+     20A-3-302.  Absentee voting -- No polling place for remote districts.
+            
+357
+
+    
+    (1)  Whenever, on the 60th day before an election, there are 500 or fewer persons
+            
+358
+
+    
+registered to vote in a voting precinct, the county legislative body of the county in which the
+            
+359
+
+    
+voting precinct is located may elect to administer an election entirely by absentee ballot.
+            
+360
+
+    
+    (2)  If the county legislative body of the county in which the voting precinct is located
+            
+361
+
+    
+decides to administer an election entirely by absentee ballot, the county clerk shall mail to each
+            
+362
+
+    
+registered voter within that voting precinct:
+            
+363
+
+    
+    (a)  an absentee ballot;
+            
+364
+
+    
+    (b)  a statement that there will be no polling place for the election;
+            
+365
+
+    
+    (c)  a business reply mail envelope;
+            
+366
+
+    
+    [(c)] (d)  instructions for returning the ballot that include an express notice about any
+            
+367
+
+    
+relevant deadlines that the voter must meet in order for his vote to be counted; and
+            
+368
+
+    
+    [(d)] (e)  a warning, on a separate page of colored paper in bold face print, indicating
+
+            
+369
+
+
+    
+that if the voter fails to follow the instructions included with the absentee ballot, he will be
+            
+370
+
+    
+unable to vote in that election because there will be no polling place in the voting precinct on
+            
+371
+
+    
+the day of the election.
+            
+372
+
+    
+    (3)  Any voter who votes by absentee ballot under this subsection is not required to
+            
+373
+
+    
+apply for an absentee ballot as required by this part.
+            
+374
+
+    
+    (4) (a)  The county clerk of a county that administers an election entirely by absentee
+            
+375
+
+    
+ballot shall:
+            
+376
+
+    
+    (i)  obtain, in person, the signatures of each voter within that voting precinct before the
+            
+377
+
+    
+election; and
+            
+378
+
+    
+    (ii)  maintain the signatures on file in the county clerk's office.
+            
+379
+
+    
+    (b) (i)  Upon receiving the returned absentee ballots, the county clerk shall compare the
+            
+380
+
+    
+signature on each absentee ballot with the voter's signature that is maintained on file and verify
+            
+381
+
+    
+that the signatures are the same.
+            
+382
+
+    
+    (ii)  If the county clerk questions the authenticity of the signature on the absentee ballot,
+            
+383
+
+    
+the clerk shall immediately contact the voter to verify the signature.
+            
+384
+
+    
+    (iii)  If the voter does not confirm his signature on the absentee ballot, the county clerk
+            
+385
+
+    
+shall:
+            
+386
+
+    
+    (A)  immediately send another absentee ballot and other voting materials as required by
+            
+387
+
+    
+this subsection to the voter; and
+            
+388
+
+    
+    (B)  disqualify the initial absentee ballot.
+            
+389
+
+    
+    Section 3.  
+Section  
+20A-3-302.5
+
+ is amended to read:
+            
+390
+
+    
+     20A-3-302.5.  Absentee voting -- No polling place in elections for certain districts.
+            
+391
+
+    
+    (1)  As used in this section, "district" means a:
+            
+392
+
+    
+    (a)  local district, as defined in Section 
+
+17B-1-102
+
+; or
+            
+393
+
+    
+    (b)  special service district, as defined in Section 
+
+17D-1-102
+
+.
+            
+394
+
+    
+    (2)  Notwithstanding Sections 
+
+17B-1-306
+
+ and 
+
+17D-1-303
+
+, at least 60 days before the
+            
+395
+
+    
+day of an election, a district may elect to administer an election entirely by absentee ballot.
+            
+396
+
+    
+    (3)  If a district decides to administer an election entirely by absentee ballot, the district
+            
+397
+
+    
+shall mail to each registered voter within the district:
+            
+398
+
+    
+    (a)  an absentee ballot;
+            
+399
+
+    
+    (b)  a statement that there will be no polling place for the election;
+
+            
+400
+
+
+    
+    (c)  a business reply mail envelope;
+            
+401
+
+    
+    [(c)] (d)  instructions for returning the ballot that include an express notice about any
+            
+402
+
+    
+relevant deadlines that the voter must meet in order for the voter's vote to be counted; and
+            
+403
+
+    
+    [(d)] (e)  a warning, on a separate page of colored paper in bold face print, indicating
+            
+404
+
+    
+that if the voter fails to follow the instructions included with the absentee ballot, the voter will
+            
+405
+
+    
+be unable to vote in that election because there will be no polling place on the day of the
+            
+406
+
+    
+election.
+            
+407
+
+    
+    (4)  Any voter who votes by absentee ballot under this section is not required to apply
+            
+408
+
+    
+for an absentee ballot as required by this part.
+            
+409
+
+    
+    (5) (a)  A district that administers an election entirely by absentee ballot shall:
+            
+410
+
+    
+    (i) (A)  obtain, in person, the signatures of each voter within the district before the
+            
+411
+
+    
+election; and
+            
+412
+
+    
+    (B)  maintain the signatures on file in the district's office; or
+            
+413
+
+    
+    (ii)  obtain the signatures of each voter within the district from the county clerk.
+            
+414
+
+    
+    (b) (i)  Upon receiving the returned absentee ballots, the district shall compare the
+            
+415
+
+    
+signature on each absentee ballot with the voter's signature that is maintained on file and verify
+            
+416
+
+    
+that the signatures are the same.
+            
+417
+
+    
+    (ii)  If the district questions the authenticity of the signature on the absentee ballot, the
+            
+418
+
+    
+district shall immediately contact the voter to verify the signature.
+            
+419
+
+    
+    (iii)  If the voter does not confirm the voter's signature on the absentee ballot, the
+            
+420
+
+    
+district shall:
+            
+421
+
+    
+    (A)  immediately send another absentee ballot and other voting materials as required by
+            
+422
+
+    
+this section to the voter; and
+            
+423
+
+    
+    (B)  disqualify the initial absentee ballot.
+            
+424
+
+    
+    Section 4.  
+Section  
+20A-3-305
+
+ is amended to read:
+            
+425
+
+    
+     20A-3-305.  Mailing of ballot to voter -- Enclose self-addressed envelope --
+            
+426
+
+    
+ Affidavit.
+            
+427
+
+    
+    (1) (a)  Upon timely receipt of an absentee voter application properly filled out and
+            
+428
+
+    
+signed[, or as soon after receipt of the application as the official absentee ballots for the voting
+            
+429
+
+    
+precinct in which the applicant resides have been printed] less than 30 days before the election,
+            
+430
+
+    
+the election officer shall either:
+
+            
+431
+
+
+    
+    [(a)] (i)  give the applicant an official absentee ballot and envelope to vote in the office;
+            
+432
+
+    
+or
+            
+433
+
+    
+    [(b)] (ii)  mail an official absentee ballot, postage paid, to the absentee voter and
+            
+434
+
+    
+enclose an envelope printed as required in Subsection (2).
+            
+435
+
+    
+    (b)  Twenty-eight days before election day, the election officer shall mail an official
+            
+436
+
+    
+absentee ballot, postage paid, to all absentee voters, other than to a uniformed-service voter or
+            
+437
+
+    
+an overseas voter, who have submitted a properly filled out and signed absentee voter
+            
+438
+
+    
+application before the day on which the ballots are mailed and enclose an envelope printed as
+            
+439
+
+    
+required by Subsection (2).
+            
+440
+
+    
+    (2)  The election officer shall ensure that:
+            
+441
+
+    
+    (a)  the name, official title, and post office address of the election officer is printed on
+            
+442
+
+    
+the front of the envelope; and
+            
+443
+
+    
+    (b)  a printed affidavit in substantially the following form is printed on the back of the
+            
+444
+
+    
+envelope:
+            
+445
+
+    
+"County of ____    State of ____
+            
+446
+
+    
+    I, ____, solemnly swear that: I am a qualified resident voter of the ____ voting precinct
+            
+447
+
+    
+in ____ County, Utah and that I am entitled to vote in that voting precinct at the next election. 
+            
+448
+
+    
+I am not a convicted felon currently incarcerated for commission of a felony.
+            
+449
+
+    
+______________________________
+
+            
+450
+
+    
+Signature of Absentee Voter"
+
+            
+451
+
+    
+    (3)  If the election officer determines that the absentee voter is required to show valid
+            
+452
+
+    
+voter identification, the election officer shall:
+            
+453
+
+    
+    (a)  issue the voter a provisional ballot in accordance with Section 
+
+20A-3-105.5
+
+;
+            
+454
+
+    
+    (b)  instruct the voter to include a copy of the voter's valid voter identification with the
+            
+455
+
+    
+return ballot;
+            
+456
+
+    
+    (c)  provide the voter clear instructions on how to vote a provisional ballot; and
+            
+457
+
+    
+    (d)  comply with the requirements of Subsection (2).
+            
+458
+
+    
+    Section 5.  
+Section  
+20A-3-306
+
+ is amended to read:
+            
+459
+
+    
+     20A-3-306.  Voting ballot -- Returning ballot.
+            
+460
+
+    
+    (1) (a)  To vote a mail-in absentee ballot, the absentee voter shall:
+            
+461
+
+    
+    (i)  complete and sign the affidavit on the envelope;
+
+            
+462
+
+
+    
+    (ii)  mark [his] the votes on the absentee ballot;
+            
+463
+
+    
+    (iii)  place the voted absentee ballot in the envelope;
+            
+464
+
+    
+    (iv)  securely seal the envelope; and
+            
+465
+
+    
+    (v)  attach postage, unless voting in accordance with Section 
+
+20A-3-302
+
+ or
+            
+466
+
+    
+
+
+20A-3-302.5
+
+, and deposit the envelope in the mail or deliver it in person to the election officer
+            
+467
+
+    
+from whom the ballot was obtained.
+            
+468
+
+    
+    (b)  To vote an absentee ballot in person at the office of the election officer, the absent
+            
+469
+
+    
+voter shall:
+            
+470
+
+    
+    (i)  complete and sign the affidavit on the envelope;
+            
+471
+
+    
+    (ii)  mark [his] the votes on the absent-voter ballot;
+            
+472
+
+    
+    (iii)  place the voted absent-voter ballot in the envelope;
+            
+473
+
+    
+    (iv)  securely seal the envelope; and
+            
+474
+
+    
+    (v)  give the ballot and envelope to the election officer.
+            
+475
+
+    
+    (2)  An absentee ballot is not valid unless:
+            
+476
+
+    
+    (a)  in the case of an absentee ballot that is voted in person, it is applied for and cast in
+            
+477
+
+    
+person at the office of the appropriate election officer no later than the Friday before election
+            
+478
+
+    
+day; or
+            
+479
+
+    
+    (b)  in the case of [an absentee ballot that is returned by mail or transmitted
+            
+480
+
+    
+electronically under Section 
+
+20A-3-408.5
+
+, it is:] a military-overseas ballot, submitted in
+            
+481
+
+    
+accordance with Section 
+
+20A-16-404
+
+.
+            
+482
+
+    
+    [(i)  clearly postmarked or electronically transmitted before election day; and]
+            
+483
+
+    
+    [(ii)  received in the office of the election officer before noon on the day of the official
+            
+484
+
+    
+canvass following the election.]
+            
+485
+
+    
+    Section 6.  
+Section  
+20A-3-307
+
+ is amended to read:
+            
+486
+
+    
+     20A-3-307.  Processing of absentee ballot.
+            
+487
+
+    
+    (1)  Except as provided in Subsection (2), upon receipt of an envelope containing an
+            
+488
+
+    
+absentee ballot, the election officer shall:
+            
+489
+
+    
+    (a)  enclose the unopened envelope containing the absentee ballot and the written
+            
+490
+
+    
+application of the absentee voter in a larger envelope;
+            
+491
+
+    
+    (b)  seal that envelope and endorse it with:
+            
+492
+
+    
+    (i)  the name or number of the proper voting precinct;
+
+            
+493
+
+
+    
+    (ii)  the name and official title of the election officer; and
+            
+494
+
+    
+    (iii)  the words "This envelope contains an absentee ballot and may only be opened on
+            
+495
+
+    
+election day at the polls while the polls are open."; and
+            
+496
+
+    
+    (c)  safely keep the envelope [in his] locked in a secure place in the election officer's
+            
+497
+
+    
+office until it is delivered by [him] the election officer to the proper election judges.
+            
+498
+
+    
+    (2)  If the election officer receives envelopes containing absentee ballots too late to
+            
+499
+
+    
+transmit them to the election judges on election day, the election officer shall retain those
+            
+500
+
+    
+absentee ballots in a safe and secure place until they can be processed as provided in Section
+            
+501
+
+    
+
+20A-3-309
+
+.
+            
+502
+
+    
+    (3) (a)  Except as provided in Subsection (3)(c), when reasonably possible, the election
+            
+503
+
+    
+officer shall deliver or mail valid absentee ballots to the appropriate voting precinct election
+            
+504
+
+    
+judges so that they may be processed at the voting precinct on election day.
+            
+505
+
+    
+    (b)  If the election officer is unable to determine the voting precinct to which an
+            
+506
+
+    
+absentee ballot should be sent, or if a valid absentee ballot is received too late for delivery on
+            
+507
+
+    
+election day to election judges, the election officer shall retain the absentee ballot in a safe
+            
+508
+
+    
+place until it can be processed as required by Section 
+
+20A-3-309
+
+.
+            
+509
+
+    
+    (c)  When the absentee ballots will be centrally counted, the election officer shall
+            
+510
+
+    
+deliver those absentee ballots to the counting center on election day for counting.
+            
+511
+
+    
+    Section 7.  
+Section  
+20A-3-308
+
+ is amended to read:
+            
+512
+
+    
+     20A-3-308.  Absentee ballots in the custody of poll workers -- Disposition.
+            
+513
+
+    
+    (1) (a)  Voting precinct poll workers shall open envelopes containing absentee ballots
+            
+514
+
+    
+that are in their custody on election day at the polling places during the time the polls are open
+            
+515
+
+    
+as provided in this Subsection (1).
+            
+516
+
+    
+    (b)  The poll workers shall:
+            
+517
+
+    
+    (i)  first, open the outer envelope only; and
+            
+518
+
+    
+    (ii)  compare the signature of the voter on the application with the signature on the
+            
+519
+
+    
+affidavit.
+            
+520
+
+    
+    (2) (a)  The poll workers shall carefully open and remove the absentee voter envelope
+            
+521
+
+    
+so as not to destroy the affidavit on the envelope if they find that:
+            
+522
+
+    
+    (i)  the affidavit is sufficient;
+            
+523
+
+    
+    (ii)  the signatures correspond; and
+
+            
+524
+
+
+    
+    (iii)  the applicant is registered to vote in that voting precinct and has not voted in that
+            
+525
+
+    
+election.
+            
+526
+
+    
+    (b)  If, after opening the absentee voter envelope, the poll worker finds that a
+            
+527
+
+    
+provisional ballot envelope is enclosed, the poll worker shall:
+            
+528
+
+    
+    (i)  record, in the official register, whether:
+            
+529
+
+    
+    (A)  the voter included valid voter identification; or
+            
+530
+
+    
+    (B)  a covered voter, as defined in Section 
+
+20A-16-102
+
+, did not provide valid voter
+            
+531
+
+    
+identification as permitted by Public Law 107-252, the Help America Vote Act of 2002;
+            
+532
+
+    
+    (ii)  if any type of identification was included, record the type of identification provided
+            
+533
+
+    
+by the voter in the appropriate space in the official register;
+            
+534
+
+    
+    (iii)  record the provisional ballot number on the official register; and
+            
+535
+
+    
+    (iv)  place the provisional ballot envelope with the other provisional ballot envelopes to
+            
+536
+
+    
+be transmitted to the county clerk.
+            
+537
+
+    
+    (c)  If the absentee ballot is not a provisional ballot, the poll workers shall:
+            
+538
+
+    
+    (i)  remove the absentee ballot from the envelope without unfolding it or permitting it to
+            
+539
+
+    
+be opened or examined;
+            
+540
+
+    
+    (ii)  initial the stub in the same manner as for other ballots;
+            
+541
+
+    
+    (iii)  remove the stub from the ballot;
+            
+542
+
+    
+    (iv)  deposit the ballot in the ballot box; and
+            
+543
+
+    
+    (v)  mark the official register and pollbook to show that the voter has voted.
+            
+544
+
+    
+    (3)  If the poll workers determine that the affidavit is insufficient, or that the signatures
+            
+545
+
+    
+do not correspond, or that the applicant is not a registered voter in the voting precinct, they
+            
+546
+
+    
+shall:
+            
+547
+
+    
+    (a)  disallow the vote; and
+            
+548
+
+    
+    (b)  without opening the absentee voter envelope, mark across the face of the envelope:
+            
+549
+
+    
+    (i)  "Rejected as defective"; or
+            
+550
+
+    
+    (ii)  "Rejected as not a registered voter."
+            
+551
+
+    
+    (4)  The poll workers shall deposit the absentee voter envelope, when the absentee
+            
+552
+
+    
+ballot is voted, and the absentee voter envelope with its contents unopened when the absent
+            
+553
+
+    
+vote is rejected, in the ballot box containing the ballots.
+            
+554
+
+    
+    (5) (a)  An election officer shall notify a voter if a poll worker rejects the voter's ballot
+
+            
+555
+
+
+    
+and specify the reason for the rejection.
+            
+556
+
+    
+    (b)  An election officer shall give the notice described in Subsection (5)(a) to a voter no
+            
+557
+
+    
+later than seven days after:
+            
+558
+
+    
+    (i)  election day if the election officer receives the ballot before or on election day; and
+            
+559
+
+    
+    (ii)  the canvass if the election officer receives the ballot after election day and before
+            
+560
+
+    
+the end of the canvass.
+            
+561
+
+    
+    [(5)] (6)  The election officer shall retain and preserve the absentee voter envelopes in
+            
+562
+
+    
+the manner provided by law for the retention and preservation of official ballots voted at that
+            
+563
+
+    
+election.
+            
+564
+
+    
+    Section 8.  
+Section  
+20A-4-304
+
+ is amended to read:
+            
+565
+
+    
+     20A-4-304.  Declaration of results -- Canvassers' report.
+            
+566
+
+    
+    (1)  Each board of canvassers shall:
+            
+567
+
+    
+    (a)  declare "elected" or "nominated" those persons who:
+            
+568
+
+    
+    (i)  had the highest number of votes; and
+            
+569
+
+    
+    (ii)  sought election or nomination to an office completely within the board's
+            
+570
+
+    
+jurisdiction;
+            
+571
+
+    
+    (b)  declare:
+            
+572
+
+    
+    (i)  "approved" those ballot propositions that:
+            
+573
+
+    
+    (A)  had more "yes" votes than "no" votes; and
+            
+574
+
+    
+    (B)  were submitted only to the voters within the board's jurisdiction;
+            
+575
+
+    
+    (ii)  "rejected" those ballot propositions that:
+            
+576
+
+    
+    (A)  had more "no" votes than "yes" votes or an equal number of "no" votes and "yes"
+            
+577
+
+    
+votes; and
+            
+578
+
+    
+    (B)  were submitted only to the voters within the board's jurisdiction;
+            
+579
+
+    
+    (c)  certify the vote totals for persons and for and against ballot propositions that were
+            
+580
+
+    
+submitted to voters within and beyond the board's jurisdiction and transmit those vote totals to
+            
+581
+
+    
+the lieutenant governor; and
+            
+582
+
+    
+    (d)  if applicable, certify the results of each local district election to the local district
+            
+583
+
+    
+clerk.
+            
+584
+
+    
+    (2) (a)  As soon as the result is declared, the election officer shall prepare a report of the
+            
+585
+
+    
+result, which shall contain:
+
+            
+586
+
+
+    
+    (i)  the total number of votes cast in the board's jurisdiction;
+            
+587
+
+    
+    (ii)  the names of each candidate whose name appeared on the ballot;
+            
+588
+
+    
+    (iii)  the title of each ballot proposition that appeared on the ballot;
+            
+589
+
+    
+    (iv)  each office that appeared on the ballot;
+            
+590
+
+    
+    (v)  from each voting precinct:
+            
+591
+
+    
+    (A)  the number of votes for each candidate; and
+            
+592
+
+    
+    (B)  the number of votes for and against each ballot proposition;
+            
+593
+
+    
+    (vi)  the total number of votes given in the board's jurisdiction to each candidate, and
+            
+594
+
+    
+for and against each ballot proposition; [and]
+            
+595
+
+    
+    (vii)  the number of ballots that were rejected; and
+            
+596
+
+    
+    [(vii)] (viii)  a statement certifying that the information contained in the report is
+            
+597
+
+    
+accurate.
+            
+598
+
+    
+    (b)  The election officer and the board of canvassers shall:
+            
+599
+
+    
+    (i)  review the report to ensure that it is correct; and
+            
+600
+
+    
+    (ii)  sign the report.
+            
+601
+
+    
+    (c)  The election officer shall:
+            
+602
+
+    
+    (i)  record or file the certified report in a book kept for that purpose;
+            
+603
+
+    
+    (ii)  prepare and transmit a certificate of nomination or election under the officer's seal
+            
+604
+
+    
+to each nominated or elected candidate;
+            
+605
+
+    
+    (iii)  publish a copy of the certified report:
+            
+606
+
+    
+    (A)  in one or more conspicuous places within the jurisdiction;
+            
+607
+
+    
+    (B)  in a conspicuous place on the county's website; and
+            
+608
+
+    
+    (C)  in a newspaper with general circulation in the board's jurisdiction; and
+            
+609
+
+    
+    (iv)  file a copy of the certified report with the lieutenant governor.
+            
+610
+
+    
+    (3)  When there has been a regular general or a statewide special election for statewide
+            
+611
+
+    
+officers, for officers that appear on the ballot in more than one county, or for a statewide or two
+            
+612
+
+    
+or more county ballot proposition, each board of canvassers shall:
+            
+613
+
+    
+    (a)  prepare a separate report detailing the number of votes for each candidate and the
+            
+614
+
+    
+number of votes for and against each ballot proposition; and
+            
+615
+
+    
+    (b)  transmit it by registered mail to the lieutenant governor.
+            
+616
+
+    
+    (4)  In each county election, municipal election, school election, local district election,
+
+            
+617
+
+
+    
+and local special election, the election officer shall transmit the reports to the lieutenant
+            
+618
+
+    
+governor within 14 days after the date of the election.
+            
+619
+
+    
+    (5)  In regular primary elections and in the Western States Presidential Primary, the
+            
+620
+
+    
+board shall transmit to the lieutenant governor:
+            
+621
+
+    
+    (a)  the county totals for multi-county races, to be telephoned or faxed to the lieutenant
+            
+622
+
+    
+governor:
+            
+623
+
+    
+    (i)  not later than the second Tuesday after the primary election for the regular primary
+            
+624
+
+    
+election; and
+            
+625
+
+    
+    (ii)  not later than the Tuesday following the election for the Western States Presidential
+            
+626
+
+    
+Primary; and
+            
+627
+
+    
+    (b)  a complete tabulation showing voting totals for all primary races, precinct by
+            
+628
+
+    
+precinct, to be mailed to the lieutenant governor on or before the third Friday following the
+            
+629
+
+    
+primary election.
+
+
+
+
+ Legislative Review Note
+    as of   2-17-12  10:14 AM
+
+ Office of Legislative Research and General Counsel
+[Bill Documents][Bills Directory]
+
+
+
+
+
+
+
+
+
+Who represents me?
+
+
+
+
+
+Remember my Legislators
+
+
+
+
+
+State Senate
+		350 North State, Suite 320
+		PO Box 145115
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1035
+		Fax: (801) 326-1475
+
+
+
+House of Representatives
+		350 North State, Suite 350
+		PO Box 145030
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1029
+		Fax: (801) 326-1544
+
+
+
+
+
+
+
+
+
+
+Home
+Mobile Site
+Site Map
+Calendar
+Code / Constitution
+House
+Senate
+
+Terms of Use/Privacy Policy
+
+ADA
+Utah.gov
+
+
+
+
+
+
+

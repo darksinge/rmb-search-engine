@@ -1,0 +1,606 @@
+Sponsors: []Modifications:     63G-15-101.This chapter is known as the "State Issued Identification Number Act."    63G-15-102.As used in this chapter:(1)  "Government entity" means the state and its political subdivisions as both aredefined in this section.(2)  "Political subdivision" is as defined in Section 
+
+63G-7-102
+
+.(3)  "State":(a)  means the state of Utah;(b)  except as provided in Subsection (3)(c), includes each office, department, division,agency, authority, commission, board, institution, hospital, college, university, or otherinstrumentality of the state; and(c)  does not include the State Tax Commission.    63G-15-201.(1)  A government entity may not use a Social Security number as an identificationnumber for an individual unless:(a)  required to use a Social Security number by state statute or federal law; and(b)  the government entity has verified that the nine digit number is the individual'sSocial Security number.(2)  If a government entity is not permitted to use a Social Security number inaccordance with Subsection (1), the government entity may not create or use any combinationof nine digits or letters as an identification number for an individual.Full text:
+
+
+
+Utah State Legislature
+
+
+
+
+
+
+
+
+
+
+
+
+Legislators
+
+By Session (1896-Current)
+Alphabetical (Historical)
+Find by Address/Map
+More
+
+
+Bills
+
+Bills/Bill Requests
+Passed Bills
+2017 Bills
+
+Keyword Search
+Reading Calendars
+Tracking Service
+More
+
+
+Committees
+
+All Committees
+Appropriations
+Commissions
+
+Independent Legislative Ethics Commission
+Interim
+Standing
+Subcommittees
+Task Forces
+Bills In Committees
+
+
+Utah Code / Constitution
+
+
+Title/Chapter/Section
+Keyword Search 
+
+Utah Constitution
+Laws of Utah 1851-ongoing
+Utah Territorial Laws 
+More
+
+
+Senate
+
+Main Page 
+About The Senate 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Extraordinary Sessions 
+Reading Calendars 
+Past Floor Debates 
+Senate Journals 
+
+
+House
+
+Main Page
+About the House 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Reading Calendars 
+Past Floor Debates 
+Journals 
+Conflict of Interest Forms 
+
+
+Legislative Guide 
+
+Legislative Guide
+Civic Programs
+GRAMA (Records Requests)
+
+
+Publications
+
+Search Publications
+Appropriations
+Audits
+Bagels & Briefings
+Briefing Papers
+Digest of Legislation
+Legislative Drafting Manual
+
+Journals
+
+Interim Highlights
+
+Legislative Rules
+GRAMA (Records Requests)
+Public Email
+State Organization Charts
+YouTube Channel
+Requests for Proposals and Legal Notices
+More
+
+
+Legislative Histories
+
+Legislative History Resources
+How to Research
+Bill Drafting/Research Files (1990-Ongoing)
+
+Working Bills (1896-1989)
+Interim Committee Histories (1990-Ongoing) 
+Journals
+Past House Floor Debates
+Past Senate Floor Debates
+More
+
+
+Staff Offices
+
+All Legislative Offices
+Auditor General
+Fiscal Analyst
+Printing
+Research and General Counsel
+Staff Awards
+Job Opportunities
+More
+
+
+Links of Interest
+
+Utah Administrative Rules
+Courts
+Utah State Capitol
+State of Utah
+Federal Legislation
+More
+
+
+
+
+
+
+ 
+
+Download Zipped Introduced WordPerfect HB0019.ZIP
+[Status][Bill Documents][Fiscal Note][Bills Directory]
+
+
+H.B. 19
+
+
+
+
+
+            
+1
+
+    
+ STATE ISSUED IDENTIFICATION NUMBERS
+
+
+
+            
+2
+
+    
+2012 GENERAL SESSION
+
+            
+3
+
+    
+STATE OF UTAH
+
+            
+4
+
+    
+
+
+ Chief Sponsor:  Wayne A. Harper
+
+
+
+            
+5
+
+    
+
+
+
+Senate Sponsor:  
+
+
+
+
+
+
+____________
+
+
+
+
+
+            
+6
+
+    
+
+            
+7
+
+    
+ LONG TITLE
+            
+8
+
+    
+ Committee Note:
+            
+9
+
+    
+    The Government Operations and Political Subdivisions Interim Committee
+            
+10
+
+    
+recommended this bill.
+            
+11
+
+    
+ General Description:
+            
+12
+
+    
+    This bill amends the General Government Title.
+            
+13
+
+    
+ Highlighted Provisions:
+            
+14
+
+    
+    This bill:
+            
+15
+
+    
+    .    enacts the "State Issued Identification Number Act";
+            
+16
+
+    
+    .    defines terms;
+            
+17
+
+    
+    .    exempts the State Tax Commission; and
+            
+18
+
+    
+    .    prohibits the state and its political subdivisions from:
+            
+19
+
+    
+        .    using a Social Security number to identify an individual unless required to use a
+            
+20
+
+    
+Social Security number by federal or state law; and
+            
+21
+
+    
+        .    creating and assigning to an individual a nine digit identification number except
+            
+22
+
+    
+when required to use a Social Security number.
+            
+23
+
+    
+ Money Appropriated in this Bill:
+            
+24
+
+    
+    None
+            
+25
+
+    
+ Other Special Clauses:
+            
+26
+
+    
+    None
+            
+27
+
+    
+ Utah Code Sections Affected:
+
+            
+28
+
+
+    
+ENACTS:
+            
+29
+
+    
+     63G-15-101, Utah Code Annotated 1953
+            
+30
+
+    
+     63G-15-102, Utah Code Annotated 1953
+            
+31
+
+    
+     63G-15-201, Utah Code Annotated 1953
+            
+32
+
+    
+
+            
+33
+
+    
+Be it enacted by the Legislature of the state of Utah:
+            
+34
+
+    
+    Section 1.  
+Section  
+63G-15-101
+
+ is enacted to read:
+            
+35
+
+    
+ CHAPTER 15.  STATE ISSUED IDENTIFICATION NUMBER ACT
+
+            
+36
+
+    
+ Part 1.  General Provisions
+
+            
+37
+
+    
+     63G-15-101.  Title.
+            
+38
+
+    
+    This chapter is known as the "State Issued Identification Number Act."
+            
+39
+
+    
+    Section 2.  
+Section  
+63G-15-102
+
+ is enacted to read:
+            
+40
+
+    
+     63G-15-102.  Definitions.
+            
+41
+
+    
+    As used in this chapter:
+            
+42
+
+    
+    (1)  "Government entity" means the state and its political subdivisions as both are
+            
+43
+
+    
+defined in this section.
+            
+44
+
+    
+    (2)  "Political subdivision" is as defined in Section 
+
+63G-7-102
+
+.
+            
+45
+
+    
+    (3)  "State":
+            
+46
+
+    
+    (a)  means the state of Utah;
+            
+47
+
+    
+    (b)  except as provided in Subsection (3)(c), includes each office, department, division,
+            
+48
+
+    
+agency, authority, commission, board, institution, hospital, college, university, or other
+            
+49
+
+    
+instrumentality of the state; and
+            
+50
+
+    
+    (c)  does not include the State Tax Commission.
+            
+51
+
+    
+    Section 3.  
+Section  
+63G-15-201
+
+ is enacted to read:
+            
+52
+
+    
+ Part 2.  State Issued Identification Numbers
+
+            
+53
+
+    
+     63G-15-201.  Restrictions for state issued identification numbers.
+            
+54
+
+    
+    (1)  A government entity may not use a Social Security number as an identification
+            
+55
+
+    
+number for an individual unless:
+            
+56
+
+    
+    (a)  required to use a Social Security number by state statute or federal law; and
+            
+57
+
+    
+    (b)  the government entity has verified that the nine digit number is the individual's
+            
+58
+
+    
+Social Security number.
+
+            
+59
+
+
+    
+    (2)  If a government entity is not permitted to use a Social Security number in
+            
+60
+
+    
+accordance with Subsection (1), the government entity may not create or use any combination
+            
+61
+
+    
+of nine digits or letters as an identification number for an individual.
+
+
+
+
+ Legislative Review Note
+    as of  11-17-11  8:23 AM
+
+ Office of Legislative Research and General Counsel
+[Bill Documents][Bills Directory]
+
+
+
+
+
+
+
+
+
+Who represents me?
+
+
+
+
+
+Remember my Legislators
+
+
+
+
+
+State Senate
+		350 North State, Suite 320
+		PO Box 145115
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1035
+		Fax: (801) 326-1475
+
+
+
+House of Representatives
+		350 North State, Suite 350
+		PO Box 145030
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1029
+		Fax: (801) 326-1544
+
+
+
+
+
+
+
+
+
+
+Home
+Mobile Site
+Site Map
+Calendar
+Code / Constitution
+House
+Senate
+
+Terms of Use/Privacy Policy
+
+ADA
+Utah.gov
+
+
+
+
+
+
+

@@ -1,0 +1,8055 @@
+Sponsors: []Modifications: (3)(4)(5) (a)(b)    24-1-101.(1)  This title is known as the "Forfeiture of Property Act."(2)  This chapter is known as "General Provisions."    24-1-102.As used in this title:(1)  "Account" means the Criminal Forfeiture Restricted Account created in Section
+
+24-4-115
+
+.(2) (a)  "Acquittal" means a finding by a jury or a judge at trial that a claimant is notguilty.(b)  An acquittal does not include:(i)  a verdict of guilty on a lesser or reduced charge;(ii)  a plea of guilty to a lesser or reduced charge; or(iii)  dismissal of a charge as a result of a negotiated plea agreement.(3)  "Agency" means any agency of municipal, county, or state government, includinglaw enforcement agencies, law enforcement personnel, and multijurisdictional task forces.(4) (a)  "Claimant" means any:(i)  owner of property as defined in this section;(ii)  interest holder as defined in this section; or(iii)  person from whom property is seized for forfeiture.(b)  A claimant does not include a person or entity who disclaims in writing ownershipof or interest in property.(5)  "Commission" means the Utah Commission on Criminal and Juvenile Justice.(6)  "Complaint" means a civil in rem complaint seeking the forfeiture of any real orpersonal property under this title.(7)  "Constructive seizure" means a seizure of property where the property is left in thecontrol of the owner and the seizing agency posts the property with a notice of intent to seekforfeiture.(8) (a)  "Contraband" means any property, item, or substance that is unlawful toproduce or to possess under state or federal law.(b)  All controlled substances that are possessed, transferred, distributed, or offered fordistribution in violation of Title 58, Chapter 37, Utah Controlled Substances Act, arecontraband.(9)  "Innocent owner" means a claimant who:(a)  held an ownership interest in property at the time the conduct subjecting theproperty to forfeiture occurred, and:(i)  did not have actual knowledge of the conduct subjecting the property to forfeiture;or(ii)  upon learning of the conduct subjecting the property to forfeiture, took reasonablesteps to prohibit the illegal use of the property; or(b)  acquired an ownership interest in the property and who had no knowledge that theillegal conduct subjecting the property to forfeiture had occurred or that the property had beenseized for forfeiture, and:(i)  acquired the property in a bona fide transaction for value;(ii)  was a person, including a minor child, who acquired an interest in the propertythrough probate or inheritance; or(iii)  was a spouse who acquired an interest in property through dissolution of marriageor by operation of law.(10) (a)  "Interest holder" means a secured party as defined in Section 
+
+70A-9a-102
+
+, amortgagee, lien creditor, or the beneficiary of a security interest or encumbrance pertaining toan interest in property, whose interest would be perfected against a good faith purchaser forvalue.(b)  "Interest holder" does not mean a person who holds property for the benefit of or asan agent or nominee for another person, or who is not in substantial compliance with anystatute requiring an interest in property to be recorded or reflected in public records in order toperfect the interest against a good faith purchaser for value.(11)  "Known address" means any address provided by a claimant to the agency at thetime the property was seized, or the claimant's most recent address on record with agovernmental entity if no address was provided at the time of the seizure.(12)  "Legal costs" means the costs and expenses incurred by a party in a forfeitureaction.(13)  "Legislative body" means:(a) (i)  the Legislature, county commission, county council, city commission, citycouncil, or town council that has fiscal oversight and budgetary approval authority over anagency; or(ii)  the agency's governing political subdivision; or(b)  the lead governmental entity of a multijurisdictional task force, as designated in amemorandum of understanding executed by the agencies participating in the task force.(14)  "Multijurisdictional task force" means a law enforcement task force or otheragency comprised of persons who are employed by or acting under the authority of differentgovernmental entities, including federal, state, county or municipal governments, or anycombination of these agencies.(15)  "Owner" means any person or entity, other than an interest holder, that possesses abona fide legal or equitable interest in real or personal property.(16) (a)  "Proceeds" means:(i)  property of any kind that is obtained directly or indirectly as a result of thecommission of an offense that gives rise to forfeiture; and(ii)  any property acquired directly or indirectly from, produced through, realizedthrough, or caused by an act or omission regarding property under Subsection (16)(a)(i).(b)  "Proceeds" includes any property of any kind without reduction for expensesincurred in the acquisition, maintenance, or production of that property, or any other purposeregarding property under Subsection (16)(a)(i).(c)  "Proceeds" is not limited to the net gain or profit realized from the offense thatgives rise to forfeiture.(17)  "Program" means the State Asset Forfeiture Grant Program established in Section
+
+24-4-117
+
+.(18)  "Property" means all property, whether real or personal, tangible or intangible, butdoes not include contraband.(19)  "Prosecuting attorney" means:(a)  the attorney general and any assistant attorney general;(b)  any district attorney or deputy district attorney;(c)  any county attorney or assistant county attorney; and(d)  any other attorney authorized to commence an action on behalf of the state underthis title.(20)  "Public interest use" means a:(a)  use by a government agency as determined by the legislative body of the agency'sjurisdiction; or(b)  donation of the property to a nonprofit charity registered with the state.(21)  "Real property" means land and includes any building, fixture, improvement,appurtenance, structure, or other development that is affixed permanently to land.    24-1-103.(1)  A state district court has jurisdiction over any action filed in accordance with thistitle regarding:(a)  all interests in property if the property is within this state at the time the action isfiled; and(b)  a claimant's interests in the property, if the claimant is subject to the personaljurisdiction of the district court.(2) (a)  In addition to the venue provided for under Title 78B, Chapter 3, Part 3, Placeof Trial - Venue, or any other provisions of law, a proceeding for forfeiture under this title maybe maintained in the judicial district in which:(i)  any part of the property is found; or(ii)  a civil or criminal action could be maintained against a claimant for the conductalleged to constitute grounds for forfeiture.(b)  A claimant may obtain a change of venue under Section 
+
+78B-3-309
+
+.    24-2-101.This chapter is known as "Seizure of Property."    24-2-102.(1)  Property may be seized by a peace officer or any other person authorized by lawupon process issued by a court having jurisdiction over the property in accordance with theUtah Rules of Criminal Procedure relating to search warrants or administrative warrants.(2)  Property may be seized under this chapter when:(a)  the seizure is incident to an arrest;(b)  the property seized is the subject of a prior judgment in favor of the state in acriminal injunction or forfeiture proceeding under this title; or(c)  the peace officer or other person authorized by law has probable cause to believethat the property:(i)  is directly or indirectly dangerous to health or safety;(ii)  is evidence of a crime;(iii)  has been used or was intended to be used to commit a crime; or(iv)  is proceeds of a crime.    24-2-103.(1) (a)  When property is seized by a peace officer, the peace officer or the officer'semploying agency shall provide a receipt to the person from whom the property was seized.(b)  The receipt shall describe the:(i)  property seized;(ii)  date of seizure; and(iii)  name and contact information of the officer's employing agency.(c)  A copy of the receipt shall be maintained by the agency.(d)  If custody of the property is transferred to another agency, a copy of the receiptunder Subsection (1)(a) shall be provided with the property.(2)  The agency responsible for maintaining the property shall:(a)  hold all seized property in safe custody until it can be disposed of as provided inthis title; and(b)  maintain a record of the property that includes:(i)  a detailed inventory of all property seized;(ii)  the name of the person from whom it was seized; and(iii)  the agency's case number.(3)  Property seized under this title is not recoverable by replevin, but is considered inthe agency's custody subject only to the orders of the court or the official having jurisdiction.(4)  All controlled substances or other contraband that is seized by a peace officer maybe processed for evidentiary or investigative purposes, including sampling or other preservationprocedure prior to disposal or destruction.(5) (a)  An agency shall deposit property in the form of cash or other readily negotiableinstruments into a separate, restricted, interest-bearing account maintained by the agency solelyfor the purpose of managing and protecting the property from commingling, loss, ordevaluation.(b)  Each agency shall have written policies for the identification, tracking,management, and safekeeping of seized property, which shall include a prohibition against thetransfer, sale, or auction of seized property to any employee of the agency.(6)  If a peace officer or the officer's employing agency records an interview of a minorchild during an investigation of a violation of Section 
+
+76-5-402.1
+
+, 
+
+76-5-402.3
+
+, 
+
+76-5-403.1
+
+, or
+
+76-5-404.1
+
+, the agency shall retain a copy of the recording for 18 years following the date ofthe last recording unless the prosecuting attorney requests in writing that the recording beretained for an additional period of time.(7)  Title 13, Chapter 32a, Pawnshop and Secondhand Merchandise TransactionInformation Act, governs the disposition of property held by a pawn or secondhand business inthe course of its business.    24-3-101.This chapter is known as "Property Held as Evidence."    24-3-102.(1)  When property is received in evidence by the court, the clerk of the court shallretain the property or the clerk shall return the property to the custody of the peace officer orthe agency employing the peace officer.(2)  The property shall be retained by the clerk or the officer or the officer's agency untilall direct appeals and retrials are final, at which time the property shall be disposed of inaccordance with this title.(3)  If the prosecuting attorney considers it necessary to retain control over the evidencein anticipation of possible collateral attacks upon the judgment or for use in a potentialprosecution, the prosecutor may decline to authorize the disposal of the property under thischapter.    24-3-103.(1)  When the prosecuting attorney determines that property no longer needs to be heldas evidence, the prosecuting attorney may:(a)  petition the court to apply any property that is money towards restitution, fines,fees, or monetary judgments owed by the owner of the property;(b)  petition the court for an order transferring ownership of any weapons to the seizingagency for its use and disposal as the seizing agency determines, if the owner:(i)  is the person who committed the crime for which the weapon was seized; or(ii)  may not lawfully possess the weapon; or(c)  notify the agency that has possession of the property that the property may be:(i)  returned to the rightful owner, if the rightful owner may lawfully possess it; or(ii)  disposed of, if the property is contraband.(2)  The agency shall exercise due diligence in attempting to notify the rightful owner ofthe property to advise the owner that the property is to be returned.(3)  Before the agency may release property to a person claiming ownership of theproperty, the person shall establish to the agency that the person:(a)  is the rightful owner; and(b)  may lawfully possess the property.(4) (a)  When property is returned to the owner, a receipt listing in detail the propertyreturned shall be signed by the owner.(b)  The receipt shall be retained by the agency and a copy shall be provided to theowner.(5)  If the agency is unable to locate the rightful owner of the property or if the rightfulowner is not entitled to lawfully possess the property, the agency may:(a)  apply the property to a public interest use;(b)  sell the property at public auction and apply the proceeds of the sale to a publicinterest use; or(c)  destroy the property if it is unfit for a public interest use or for sale.(6)  Before applying the property or the proceeds from the sale of the property to apublic interest use, the agency shall obtain from the legislative body of its jurisdiction:(a)  permission to apply the property or the proceeds to public interest use; and(b)  the designation and approval of the public interest use of the property or theproceeds.    24-3-104.(1) (a)  A person claiming ownership of property held as evidence may file a petitionwith the court for the return of the property.(b)  The petition may be filed in:(i)  the court in which criminal proceedings have commenced regarding the conduct forwhich the property is held as evidence; or(ii)  the district court of the jurisdiction where the property was seized, if there are nopending criminal proceedings.(c)  A copy of the petition shall be served on the prosecuting attorney and the agencywhich has possession of the property.(2)  The court shall provide an opportunity for an expedited hearing.  After theopportunity for an expedited hearing, the court may order that the property be:(a)  returned to the rightful owner as determined by the court;(b)  applied directly or by proceeds of the sale of the property toward restitution, fines,or fees owed by the rightful owner in an amount set by the court;(c)  converted to a public interest use;(d)  held for further legal action;(e)  sold at public auction and the proceeds of the sale applied to a public interest use;or(f)  destroyed.(3)  Before the court can order property be returned to a person claiming ownership ofproperty, the person shall establish by clear and convincing evidence that the person:(a)  is the rightful owner; and(b)  may lawfully possess the property.(4)  If the court orders the property to be returned, the agency that possesses theproperty shall return the property to the claimant as expeditiously as possible.    24-4-101.This chapter is known as "Property Held for Forfeiture."    24-4-102.(1)  Except as provided in Subsection (3), all property that has been used to facilitatethe commission of a federal or state offense and any proceeds of criminal activity may beforfeited under this chapter, including:(a)  real property, including things growing on, affixed to, and found in land; and(b)  tangible and intangible personal property, including money, rights, privileges,interests, claims, and securities of any kind.(2)  If the property is used to facilitate a violation of Section 
+
+76-10-1204
+
+, 
+
+76-10-1205
+
+,
+
+76-10-1206
+
+, or 
+
+76-10-1222
+
+, the property subject to forfeiture under this section is limited toproperty, the seizure or forfeiture of which would not constitute a prior restraint on the exerciseof an affected party's rights under the First Amendment to the Constitution of the United Statesor Utah Constitution, Article I, Section 15, or would not otherwise unlawfully interfere with theexercise of those rights.(3)  A motor vehicle used in a violation of Section 
+
+41-6a-502
+
+, 
+
+41-6a-517
+
+, a localordinance that complies with the requirements of Subsection 
+
+41-6a-510
+
+(1), Subsection
+
+58-37-8
+
+(2)(g), or Section 
+
+76-5-207
+
+ may not be forfeited unless:(a)  the operator of the vehicle has previously been convicted of a violation, committedafter May 12, 2009, of:(i)  a felony driving under the influence violation under Section 
+
+41-6a-502
+
+;(ii)  a felony violation under Subsection 
+
+58-37-8
+
+(2)(g); or(iii)  automobile homicide under Section 
+
+76-5-207
+
+; or(b)  the operator of the vehicle was driving on a denied, suspended, revoked, ordisqualified license; and(i)  the denial, suspension, revocation, or disqualification under Subsection (3)(c) wasimposed because of a violation under:(A)  Section 
+
+41-6a-502
+
+;(B)  Section 
+
+41-6a-517
+
+;(C)  a local ordinance that complies with the requirements of Subsection 
+
+41-6a-510
+
+(1);(D)  Section 
+
+41-6a-520
+
+;(E)  Subsection 
+
+58-37-8
+
+(2)(g);(F)  Section 
+
+76-5-207
+
+; or(G)  a criminal prohibition that the person was charged with violating as a result of aplea bargain after having been originally charged with violating one or more of the sections orordinances described in Subsections (3)(b)(i)(A) through (F); or(ii)  the denial, suspension, revocation, or disqualification described in Subsections(3)(b)(i)(A) through (G):(A)  is an extension imposed under Subsection 
+
+53-3-220
+
+(2) of a denial, suspension,revocation, or disqualification; and(B)  the original denial, suspension, revocation, or disqualification was imposedbecause of a violation described in Subsections (3)(b)(i)(A) through (G).    24-4-103.(1) (a)  Within 30 days from the date that property is seized, an agency seeking to forfeitproperty shall serve a notice of intent to seek forfeiture upon any claimants known to theagency.(b)  The notice of intent to seek forfeiture shall describe the:(i)  date of the seizure;(ii)  property seized;(iii)  claimant's rights and obligations under this chapter, including the availability ofhardship relief in appropriate circumstances; and(iv)  statutory basis for the forfeiture, including the judicial proceedings by whichproperty may be forfeited under this chapter.(c)  The notice of intent to seek forfeiture shall be served by:(i)  certified mail, return receipt requested, to the claimant's known address; or(ii)  personal service.(d)  The court may void any forfeiture made without notice under Subsection (1)(a),unless the agency demonstrates:(i)  good cause for the failure to give notice to the claimant; or(ii)  that the claimant had actual notice of the seizure.(2) (a)  Once the agency has served each claimant with a notice of intent to seekforfeiture, but no later than 60 days from the date that property is seized, the agency shallpresent a written request for forfeiture to the prosecuting attorney.(b)  The written request shall:(i)  describe the property to be forfeited; and(ii)  include a copy of all reports, supporting documents, and other evidence necessaryfor the prosecuting attorney to determine the legal sufficiency for filing a forfeiture action.    24-4-104.(1) (a)  Within 90 days from the date the property is seized, the prosecuting attorneymay elect to file a complaint for civil forfeiture in the appropriate district court.(b)  The complaint shall describe with reasonable particularity the:(i)  property that is the subject of the forfeiture proceeding;(ii)  date and place of seizure; and(iii)  factual allegations that constitute a basis for forfeiture.(2) (a)  After the complaint is filed, the prosecuting attorney shall serve a copy of thecomplaint and summons upon each claimant known to the prosecuting attorney within 30 days.(b)  Service of the complaint and summons shall be by:(i)  personal service;(ii)  certified mail, return receipt requested, to the claimant's known address; or(iii)  if the prosecuting attorney demonstrates to the court that service cannot reasonablybe made by personal service or certified mail, the court may then allow service by electronicpublication on Utah's Public Legal Notice Website established in Subsection 
+
+45-1-101
+
+(2)(b).(c)  Service is effective upon the earlier of:(i)  personal service;(ii)  mailing of a written notice; or(iii)  electronic publication.(d)  Upon motion of the prosecuting attorney and a showing of good cause, the courtmay extend the period to complete service under this section for an additional 60 days.(3) (a)  In any case where the prosecuting attorney files a complaint for forfeiture, aclaimant may file an answer to the complaint.(b)  The answer shall be filed within 30 days after the complaint is served upon theclaimant as provided in Subsection (2)(b).(4)  Except as otherwise provided in this chapter, forfeiture proceedings are governedby the Utah Rules of Civil Procedure.(5)  The court shall take all reasonable steps to expedite civil forfeiture proceedings andshall give these proceedings the same priority as is given to criminal cases.(6)  In all suits or actions brought under this section for the civil forfeiture of anyproperty, the burden of proof is on the prosecuting attorney to establish by clear and convincingevidence the extent to which, if any, the property is subject to forfeiture.(7)  A claimant may file an answer to a complaint for civil forfeiture without postingbond with respect to the property subject to forfeiture.    24-4-105.(1)  If a claimant is criminally prosecuted for conduct giving rise to the forfeiture, theprosecuting attorney may elect to seek forfeiture of the claimant's interest in the propertythrough the criminal case.(2)  If the prosecuting attorney elects to seek forfeiture of the claimant's interest in theproperty through the criminal case, the information or indictment shall state that the claimant'sinterest in the property is subject to forfeiture and the basis for the forfeiture.(3) (a)  Upon application of the prosecuting attorney, the court may enter restrainingorders or injunctions, or take other reasonable actions to preserve for forfeiture under thissection, any property subject to forfeiture if, after notice to known claimants and claimants whocan be identified after due diligence and who are known to have an interest in the property, andafter affording those persons an opportunity for a hearing, the court determines that:(i)  there is a substantial probability that the state will prevail on the issue of forfeitureand that failure to enter the order will result in the property being sold, transferred, destroyed,or removed from the jurisdiction of the court or otherwise made unavailable for forfeiture; and(ii)  the need to preserve the availability of the property or prevent its sale, transfer,destruction, or removal through the entry of the requested order outweighs the hardship againstany party against whom the order is to be entered.(b)  A temporary restraining order may be entered ex parte upon application of theprosecuting attorney before or after an information or indictment has been filed with respect tothe property, if the prosecuting attorney demonstrates that:(i)  there is probable cause to believe that the property with respect to which the order issought would, in the event of a conviction, be subject to forfeiture under this section; and(ii)  provision of notice would jeopardize the availability of the property for forfeitureor would jeopardize an ongoing criminal investigation.(c)  The temporary order expires not more than 10 days after entry unless extended forgood cause shown or unless the party against whom it is entered consents to an extension.(d)  After service of the temporary order upon any claimants known to the prosecutingattorney, a hearing concerning the order entered under this section shall be held as soon aspracticable and prior to the expiration of the temporary order.(e)  The court is not bound by the Utah Rules of Evidence regarding evidence it mayreceive and consider at any hearing under this section.(4) (a)  Upon conviction of a claimant for conduct giving rise to criminal forfeiture, theprosecutor shall ask the finder of fact to make a specific finding as to whether the property orany part of it is subject to forfeiture.(b)  A determination of whether property is subject to forfeiture under this section shallbe proven beyond a reasonable doubt.(5) (a)  Upon conviction of a claimant for violating any provision of state lawsubjecting a claimant's property to forfeiture and a finding by the trier of fact that the propertyis subject to forfeiture, the court shall enter a judgment and order the property forfeited to thestate upon the terms stated by the court in its order.(b)  Following the entry of an order declaring property forfeited, the court may, uponapplication of the prosecuting attorney, enter appropriate restraining orders or injunctions,require the execution of satisfactory performance bonds, appoint receivers, conservators,appraisers, accountants, or trustees, or take any other action to protect the interest of the state inproperty ordered forfeited.(6) (a) (i)  After property is ordered forfeited under this section, the seizing agency shalldirect the disposition of the property under Section 
+
+24-4-115
+
+.(ii)  Any property right or interest under this Subsection (6)(a) not exercisable by ortransferable for value to the state expires and does not revert to the defendant.(iii)  The defendant or any person acting in concert with or on behalf of the defendant isnot eligible to purchase forfeited property at any sale held by the seizing agency unlessapproved by the judge.(b)  The court may stay the sale or disposition of the property pending the conclusion ofany appeal of the criminal case giving rise to the forfeiture if the defendant demonstrates thatproceeding with the sale or disposition of the property may result in irreparable injury, harm, orloss.(7)  Except as provided under Subsection (3) or (10), a party claiming an interest inproperty subject to forfeiture under this section:(a)  may not intervene in a trial or appeal of a criminal case involving the forfeiture ofproperty under this section; and(b)  may not commence an action at law or equity concerning the validity of the party'salleged interests in the property subsequent to the filing of an indictment or an informationalleging that the property is subject to forfeiture under this section.(8)  The district court that has jurisdiction of a case under this part may enter ordersunder this section without regard to the location of any property that may be subject toforfeiture under this section or that has been ordered forfeited under this section.(9)  To facilitate the identification or location of property declared forfeited and tofacilitate the disposition of petitions for remission or mitigation of forfeiture after the entry ofan order declaring property forfeited to the state, the court may, upon application of theprosecuting attorney, order that the testimony of any witness relating to the forfeited propertybe taken by deposition, and that any book, paper, document, record, recording, or othermaterial shall be produced as provided for depositions and discovery under the Utah Rules ofCivil Procedure.(10) (a) (i)  Following the entry of an order of forfeiture under this section, theprosecuting attorney shall publish notice of the order's intent to dispose of the property byelectronic publication on Utah's Public Legal Notice Website established in Subsection
+
+45-1-101
+
+(2)(b).(ii)  The prosecuting attorney shall also send written notice to any claimants, other thanthe defendant, known to the prosecuting attorney to have an interest in the property, at theclaimant's last known address.(b) (i)  Any claimant, other than the defendant, asserting a legal interest in property thathas been ordered forfeited to the state under this section may, within 30 days after the noticehas been published or the claimant receives the written notice under Subsection (10)(a),whichever is earlier, petition the court for a hearing to adjudicate the validity of the claimant'salleged interest in the property.(ii)  Any genuine issue of material fact, including issues of standing, may be tried to ajury upon demand of any party.(c)  The petition shall:(i)  be in writing and signed by the claimant under penalty of perjury;(ii)  set forth the nature and extent of the claimant's right, title, or interest in theproperty, the time and circumstances of the claimant's acquisition of the right, title, or interestin the property; and(iii)  set forth any additional facts supporting the claimant's claim and the relief sought.(d)  The trial or hearing on the petition shall be expedited to the extent practicable.  Thecourt may consolidate a trial or hearing on the petition and any petition filed by any claimantother than the defendant under this section.  The court shall permit the parties to conductpretrial discovery pursuant to the Utah Rules of Civil Procedure.(e) (i)  At the trial or hearing, the claimant may testify and present evidence andwitnesses on the claimant's own behalf and cross-examine witnesses who appear at the hearing. The prosecuting attorney may present evidence and witnesses in rebuttal and in defense of theclaim to the property and cross-examine witnesses who appear.(ii)  In addition to testimony and evidence presented at the trial or hearing, the courtmay consider the relevant portion of the record of the criminal case that resulted in the order offorfeiture.(iii)  Any trial or hearing shall be conducted pursuant to the Utah Rules of Evidence.(f)  The court shall amend the order of forfeiture in accordance with its determination, ifafter the trial or hearing, the court or jury determines that the petitioner has established by apreponderance of the evidence that:(i)  the claimant has a legal right, title, or interest in the property, and the right, title, orinterest renders the order of forfeiture invalid in whole or in part because the right, title, orinterest was vested in the claimant rather than the defendant or was superior to any right, title,or interest of the defendant at the time of the commission of the acts or conduct that gave riseto the forfeiture of the property under this section; or(ii)  the claimant acquired the right, title, or interest in the property in a bona fidetransaction for value, and, at the time of acquisition, the claimant did not know that theproperty was subject to forfeiture.(g)  Following the court's disposition of all petitions filed under this Subsection (10), orif no petitions are filed following the expiration of the period provided in Subsection (10)(b)for the filing of petitions, the state has clear title to property subject to the order of forfeitureand may warrant good title to any subsequent purchaser or transferee.    24-4-106.The right to trial by jury applies to forfeiture proceedings under this chapter.    24-4-107.(1)  An innocent owner's interest in property may not be forfeited.(2)  In a forfeiture proceeding under this chapter, the prosecuting attorney has theburden of establishing evidence that a claimant:(a)  is responsible for the conduct giving rise to the forfeiture, subject to Subsection (4);(b)  knew of the conduct giving rise to the forfeiture, and allowed the property to beused in furtherance of the conduct;(c)  acquired the property with notice of its actual or constructive seizure for forfeitureunder this chapter;(d)  acquired the property knowing the property was subject to forfeiture under thischapter; or(e)  acquired the property in an effort to conceal, prevent, hinder, or delay its lawfulseizure or forfeiture under any provision of state law.(3) (a)  A claimant under this chapter is not required to take steps to prevent illegal useor criminal activity regarding the property that the claimant reasonably believes would be likelyto result in physical harm or danger to any person.(b)  A claimant may demonstrate that the claimant took reasonable action to prohibit theillegal use of the property by:(i)  making a timely notification to a law enforcement agency of information that led theclaimant to know that conduct subjecting the property to seizure would occur, was occurring,or has occurred;(ii)  timely revoking or attempting to revoke permission to use the property regardingthose engaging in the illegal conduct; or(iii)  taking reasonable actions to discourage or prevent the illegal use of the property.(4)  If the state relies on Subsection (2)(a) to establish that a claimant is not an innocentowner, and if the claimant is criminally charged with the conduct giving rise to the forfeitureand is acquitted of that charge on the merits:(a)  the property subject to the forfeiture or the open market value of the property, if theproperty has been disposed of under Subsection 
+
+24-4-108
+
+(13), shall be returned to theclaimant; and(b)  any payments required under this chapter regarding holding the property shall bepaid to the claimant.(5)  A person may not assert under this chapter an ownership interest in contraband.(6)  Property is presumed to be subject to forfeiture under this chapter if the prosecutingattorney establishes that:(a)  the claimant has engaged in conduct giving cause for forfeiture;(b)  the property was acquired by the claimant during that period of the conduct givingcause for forfeiture or within a reasonable time after that period; and(c)  there was no likely source for the purchase or acquisition of the property other thanthe conduct giving cause for forfeiture.(7)  A finding that property is the proceeds of conduct giving cause for forfeiture doesnot require proof that the property was the proceeds of any particular exchange or transaction.    24-4-108.(1)  After the seizing agency gives notice that the property is to be held for forfeiture, aperson or entity may not alienate, convey, sequester, or attach that property until the courtissues a final order of dismissal or an order of forfeiture regarding the property.(2)  The seizing agency or the prosecuting attorney may authorize the release ofproperty held for forfeiture to a claimant if retention of actual custody is unnecessary.(3)  With the consent of a court of competent jurisdiction, the prosecuting attorney maydiscontinue forfeiture proceedings and transfer the action to another state or federal agency thathas initiated forfeiture proceedings involving the same property.(4)  Property held for forfeiture is considered to be in the custody of the district courtand subject only to:(a)  the orders and decrees of the court having jurisdiction over the property or theforfeiture proceedings; and(b)  the acts of the agency that possesses the property or the prosecuting attorneypursuant to this chapter.(5) (a)  A claimant may obtain release of property held for forfeiture by posting with thedistrict court a surety bond or cash in an amount equal to the current fair market value of theproperty as determined by the court or by the parties' stipulation.(b)  The district court may refuse to order the release of the property if:(i)  the bond tendered is inadequate;(ii)  the property is contraband or is retained as evidence; or(iii)  the property is particularly altered or designed for use in conduct giving cause forforfeiture.(c)  If a surety bond or cash is posted and the court later determines that the property issubject to forfeiture, the court shall order the forfeiture of the surety bond or cash in lieu of theproperty.(6)  A claimant is entitled to the immediate release of property held for forfeiturepending the final determination of forfeiture if:(a)  the claimant had a possessory interest in the property at the time of seizure;(b)  continued possession by the agency or the state pending the final disposition of theforfeiture proceedings will cause substantial hardship to the claimant, such as:(i)  preventing the functioning of a legitimate business;(ii)  preventing any individual from working;(iii)  preventing any child from attending elementary or secondary school;(iv)  preventing or hindering any person from receiving necessary medical care;(v)  hindering the care of an elderly or disabled dependent child or adult;(vi)  leaving any individual homeless; or(vii)  any other condition that the court determines causes a substantial hardship;(c)  the hardship from the continued possession of the property by the agency outweighsthe risk that the property will be destroyed, damaged, lost, concealed, or transferred if it isreturned to the claimant during the pendency of the proceeding; and(d)  determination of substantial hardship under this Subsection (6) is based upon theproperty's use prior to the seizure.(7)  After the seizing agency gives notice that the property is to be held for forfeiture, aclaimant may file a motion for hardship release:(a)  in the court in which forfeiture proceedings have commenced; or(b)  in any district court having jurisdiction over the property, if forfeiture proceedingshave not yet commenced.(8)  The motion for hardship release shall also be served upon the prosecuting attorneyor the seizing agency within 10 days after filing the motion.(9)  The court shall render a decision on a motion for hardship filed under this sectionnot later than 20 days after the date of filing, or 10 days after service upon the prosecutingattorney or seizing agency, whichever is earlier, unless this period is extended by the agreementof both parties or by the court for good cause shown.(10) (a)  If the claimant demonstrates substantial hardship pursuant to this section, thecourt shall order the property immediately released to the claimant pending completion ofproceedings by the government to obtain forfeiture of the property.(b)  The court may place conditions on release of the property as it finds necessary andappropriate to preserve the availability of the property or its equivalent for forfeiture.(11)  The hardship release under this section does not apply to:(a)  contraband;(b)  currency or other monetary instrument or electronic funds; or(c)  property that is likely to be used to commit additional illegal acts if returned to theclaimant.(12) (a)  The court may order property that is held for forfeiture to be sold, as allowedby Subsection (13), leased, rented, or operated to satisfy a specified interest of any claimant, orto preserve the interests of any party on motion of that party.(b)  The court may enter orders under Subsection (12)(a) after written notice to personsknown to have an interest in the property, and after an opportunity for a hearing.(13) (a)  A sale may be ordered under Subsection (12) when the property is liable toperish, waste, or be significantly reduced in value, or when the expenses of maintaining theproperty are disproportionate to its value.(b)  A third party designated by the court shall dispose of the property by commerciallyreasonable public sale and distribute the proceeds in the following order of priority:(i)  first, for the payment of reasonable expenses incurred in connection with the sale;(ii)  second, for the satisfaction of any interests, including those of interest holders, inthe order of their priority as determined by Title 70A, Uniform Commercial Code; and(iii)  third, any balance of the proceeds shall be preserved in the actual or constructivecustody of the court, in an interest-bearing account, subject to further proceedings under thischapter.    24-4-109.In any proceeding to forfeit currency or other negotiable instruments under this chapter,the court shall award a prevailing party postjudgment interest on the currency or negotiableinstruments at the interest rate established under Section 
+
+15-1-4
+
+.    24-4-110.(1)  In any forfeiture proceeding under this chapter, the court may award a prevailingparty reasonable:(a)  legal costs; and(b)  attorney fees.(2)  The legal costs and attorney fees awarded by the court to the prevailing party maynot exceed 20% of the value of the property.(3)  A party that prevails only in part is entitled to recover reasonable legal costs andattorney fees only on those issues on which the party prevailed.    24-4-111.(1)  If property seized for forfeiture is returned by operation of this chapter, a claimanthas a civil right of action against a seizing agency for any claim based upon the negligentdestruction, loss, damage, or other injury to seized property while in the possession or custodyof the agency.(2)  As used in this section, "damage or other injury" does not include normaldepreciation, deterioration, or ordinary wear and tear.    24-4-112.In any civil or criminal proceeding under this chapter in which a judgment is entered infavor of a claimant, or where a forfeiture proceeding against a claimant is voluntarily dismissedby the prosecuting attorney, the seizing agency may not charge that claimant any fee or cost forholding seized property.    24-4-113.(1) (a)  A claimant's interest in property that is used to facilitate a crime, excludingcontraband, is not subject to forfeiture under any provision of state law if the forfeiture issubstantially disproportionate to the use of the property in committing or facilitating a violationof state law and the value of the property.(b)  Forfeiture of property used solely in a manner that is merely incidental and notinstrumental to the commission or facilitation of a violation of law is not proportional.(2) (a)  In determining proportionality, the court shall consider:(i)  the conduct giving cause for the forfeiture;(ii)  what portion of the forfeiture, if any, is remedial in nature;(iii)  the gravity of the conduct for which the claimant is responsible in light of theoffense; and(iv)  the value of the property.(b)  If the court finds that the forfeiture is substantially disproportional to the conductfor which the claimant is responsible, it shall reduce or eliminate the forfeiture, as it findsappropriate.(3)  The prosecuting attorney has the burden to demonstrate that any forfeiture isproportional to the conduct giving rise to the forfeiture.(4)  In all cases the court shall decide questions of proportionality.(5)  Forfeiture of any proceeds is proportional.    24-4-114.(1) (a)  Seizing agencies or prosecuting attorneys authorized to bring forfeitureproceedings under this chapter may not directly or indirectly transfer property held forforfeiture and not already named in a criminal indictment to any federal agency or anygovernmental entity not created under and subject to state law unless:(i)  the conduct giving rise to the investigation or seizure is interstate in nature andsufficiently complex to justify the transfer;(ii)  the property may only be forfeited under federal law; or(iii)  pursuing forfeiture under state law would unreasonably burden prosecutingattorneys or state law enforcement agencies.(b)  In making a determination under this section, a court may conduct an in camerainspection of evidence provided by the prosecuting attorney or seizing agency.(2)  All property, money, or other things of value received by an agency pursuant tofederal law, which authorizes the sharing or transfer of all or a portion of forfeited property orthe proceeds of the sale of forfeited property to an agency:(a)  shall be used in compliance with federal laws and regulations relating to equitablesharing;(b)  may be used for those law enforcement purposes specified in Subsection
+
+24-4-117
+
+(9); and(c)  may not be used for those law enforcement purposes prohibited in Subsection
+
+24-4-117
+
+(10).(3)  A state or local law enforcement agency awarded any equitable share of propertyforfeited by the federal government may only use the award money after approval of the use bythe agency's legislative body.(4)  Each year, every agency awarded any equitable share of property forfeited by thefederal government shall file with the commission:(a)  a copy of that agency's federal equitable sharing certification; and(b)  information, on a form provided by the commission, that details all awards receivedfrom the federal government during the preceding reporting period, including:(i)  the agency's case number or other identification;(ii)  the amount of the award;(iii)  the date of the award;(iv)  the identity of any federal agency involved in the forfeiture;(v)  how the awarded property has been used; and(vi)  a statement signed by both the agency's executive officer or designee and by theagency's legal counsel confirming that the agency has only used the awarded property for crimereduction or law enforcement purposes authorized under Section 
+
+24-4-117
+
+, and only uponapproval by the agency's legislative body.    24-4-115.(1)  Upon finding that property is subject to forfeiture under this chapter, the court shallorder the property forfeited to the state.(2) (a)  If the property is not currency, the seizing agency shall authorize a public orotherwise commercially reasonable sale of that property that is not required by law to bedestroyed and that is not harmful to the public.(b)  If the property forfeited is an alcoholic product as defined in Section 
+
+32B-1-102
+
+, itshall be disposed of as follows:(i)  an alcoholic product shall be sold if the alcoholic product is:(A)  unadulterated, pure, and free from any crude, unrectified, or impure form of ethylicalcohol, or any other deleterious substance or liquid; and(B)  otherwise in saleable condition; or(ii)  an alcoholic product and its package shall be destroyed if the alcoholic product isimpure, adulterated, or otherwise unfit for sale.(c)  If the property forfeited is a cigarette or other tobacco product as defined in Section
+
+59-14-102
+
+, it shall be destroyed, except that prior to the destruction of any cigarette or othertobacco product seized pursuant to this part, the lawful holder of the trademark rights in thecigarette or tobacco product brand shall be permitted to inspect the cigarette.(d)  The proceeds of the sale of forfeited property shall remain segregated from otherproperty, equipment, or assets of the seizing agency until transferred to the state in accordancewith this chapter.(3)  From the forfeited property, both currency and the proceeds or revenue from thesale of the property, the seizing agency shall:(a)  deduct the seizing agency's direct costs and expenses of obtaining and maintainingthe property pending forfeiture; and(b)  pay the legal costs and attorney fees associated with the litigation of the forfeitureproceeding.(4)  If the forfeiture arises from any violation relating to wildlife resources, theremaining currency and the proceeds or revenue from the sale of the property shall be depositedin the Wildlife Resources Account created in Section 
+
+23-14-13
+
+.(5)  The remaining currency and the proceeds or revenue from the sale of the propertyshall then be transferred to the commission and deposited into the account.    24-4-116.(1)  There is created within the General Fund a restricted account known as the"Criminal Forfeiture Restricted Account."(2)  Proceeds from forfeited property and forfeited money through state forfeitures shallbe deposited into the account.(3)  Money in the account shall be appropriated to the commission for implementing theprogram under Section 
+
+24-4-117
+
+.    24-4-117.(1)  There is created the State Asset Forfeiture Grant Program.(2)  The program shall fund crime prevention and law enforcement activities that havethe purpose of:(a)  deterring crime by depriving criminals of the profits and proceeds of their illegalactivities;(b)  weakening criminal enterprises by removing the instrumentalities of crime;(c)  reducing crimes involving substance abuse by supporting the creation,administration, or operation of drug court programs throughout the state;(d)  encouraging cooperation between local, state, and multijurisdictional lawenforcement agencies;(e)  allowing the costs and expenses of law enforcement to be defrayed by the forfeitedproceeds of crime; and(f)  increasing the equitability and accountability of the use of forfeited property used toassist law enforcement in reducing and preventing crime.(3) (a)  When property is forfeited under this chapter and transferred to the account, thecommission shall allocate and administer grants from the account to state, local, ormultijurisdictional law enforcement agencies or political subdivisions of the state incompliance with this section and to further the program purposes under Subsection (2).(b)  The commission may retain up to 3% of the annual appropriation from the accountto pay for administrative costs incurred by the commission, including salary and benefits,equipment, supplies, or travel costs that are directly related to the administration of theprogram.(4)  Agencies or political subdivisions shall apply for an award from the program bycompleting and submitting forms specified by the commission.(5)  In granting the awards, the commission shall ensure that the amount of each awardtakes into consideration the:(a)  demonstrated needs of the agency;(b)  demonstrated ability of the agency to appropriately use the award;(c)  degree to which the agency's need is offset through the agency's participation infederal equitable sharing or through other federal and state grant programs; and(d)  agency's cooperation with other state and local agencies and task forces.(6)  Applying agencies or political subdivisions shall demonstrate compliance with allreporting and policy requirements applicable under this chapter and under Title 63M, Chapter7, Criminal Justice and Substance Abuse, in order to qualify as a potential award recipient.(7) (a)  Recipient law enforcement agencies may only use award money after approvalby the agency's legislative body.(b)  The award money is nonlapsing.(8)  A recipient law enforcement agency or political subdivision shall use awards onlyfor law enforcement purposes as described in this section, and only as these purposes arespecified by the agency or political subdivision in its application for the award.(9)  Permissible law enforcement purposes for which award money may be usedinclude:(a)  controlled substance interdiction and enforcement activities;(b)  drug court programs;(c)  activities calculated to enhance future law enforcement investigations;(d)  law enforcement training that includes:(i)  implementation of the Fourth Amendment to the United States Constitution andUtah Constitution, Article I, Section 7, and that addresses the protection of the individual'sright of due process;(ii)  protection of the rights of innocent property holders; and(iii)  the Tenth Amendment to the United States Constitution regarding states'sovereignty and the states' reserved rights;(e)  law enforcement or detention facilities;(f)  law enforcement operations or equipment that are not routine costs or operationalexpenses;(g)  drug, gang, or crime prevention education programs that are sponsored in whole orin part by the law enforcement agency or its legislative body;(h)  matching funds for other state or federal law enforcement grants; and(i)  the payment of legal costs, attorney fees, and postjudgment interest in forfeitureactions.(10)  Law enforcement purposes for which award money may not be granted or usedinclude:(a)  payment of salaries, retirement benefits, or bonuses to any person;(b)  payment of expenses not related to law enforcement;(c)  uses not specified in the agency's award application;(d)  uses not approved by the agency's legislative body;(e)  payments, transfers, or pass-through funding to entities other than law enforcementagencies; or(f)  uses, payments, or expenses that are not within the scope of the agency's functions.(11) (a)  For each fiscal year, any state, local, or multijurisdictional agency or politicalsubdivision that received an award shall prepare, and file with the commission, a report in aform specified by the commission.(b)  The report shall include the following regarding each award:(i)  the agency's name;(ii)  the amount of the award;(iii)  the date of the award;(iv)  how the award has been used; and(v)  a statement signed by both the agency's or political subdivision's executive officeror designee and by the agency's legal counsel, that:(A)  the agency or political subdivision has complied with all inventory, policy, andreporting requirements of this chapter; and(B)  all awards were used for crime reduction or law enforcement purposes as specifiedin the application and only upon approval by the agency's or political subdivision's legislativebody.(12) (a)  The commission shall report in writing to the legislative Law Enforcement andCriminal Justice Interim Committee annually regarding the forfeited property transferred to theaccount, awards made by the program, uses of program awards, and any equitable share ofproperty forfeited by the federal government as reported by agencies pursuant to Subsection
+
+24-4-114
+
+(4).(b)  The report shall be submitted annually on or before November 1.(5)State AssetForfeiture Grant Program
+
+24-4-117
+
+(4)(2)(3)(4)(5)    77-24a-1.(1)  "Lost or mislaid property":(a)  means any property that comes into the possession of a peace officer or lawenforcement agency:(i)  that is not claimed by anyone who is identified as the owner of the property; or(ii)  for which no owner or interest holder can be found after a reasonable and diligentsearch;(b)  includes any property received by a peace officer or law enforcement agency from aperson claiming to have found the property; and(c)  does not include property seized by a peace officer pursuant to Title 24, Forfeitureand Disposition of Property Act.(2)  "Public interest use" means:(a)  use by a governmental agency as determined by the agency's legislative body; or(b)  donation to a nonprofit charity registered with the state.lost or mislaid(1)who finds lost or mislaiddelivers:(a)  the manner in whichthe person's;(b)  that the personowns;(c)  that, to the person's knowledge,;(d)  that the person'sthe property;(e)the person(2)  Additionalproperty(1)the owner(2)providing personal identification, identifyinglost or mislaidthe owner of the propertyonUtah's Public Legal Notice Website established in Subsection 
+
+45-1-101
+
+(2)(b); andlost or mislaidlost or mislaidlost or mislaidlost or mislaid:(a)  apply the property to a public interest use as provided in Subsection (4);(b)  sell the property at public auction and apply the proceeds of the sale to a publicinterest use; or(c)  destroy the property if it is unfit for a public interest use or sale.(4)  Before applying the lost or mislaid property to a public interest use, the agencyhaving possession of the property shall obtain from the agency's legislative body:(a)  permission to apply the property to a public interest use; and(b)  the designation and approval of the public interest use of the property.(5)This bill takes effect on July 1, 2013.Full text:
+
+
+
+Utah State Legislature
+
+
+
+
+
+
+
+
+
+
+
+
+Legislators
+
+By Session (1896-Current)
+Alphabetical (Historical)
+Find by Address/Map
+More
+
+
+Bills
+
+Bills/Bill Requests
+Passed Bills
+2017 Bills
+
+Keyword Search
+Reading Calendars
+Tracking Service
+More
+
+
+Committees
+
+All Committees
+Appropriations
+Commissions
+
+Independent Legislative Ethics Commission
+Interim
+Standing
+Subcommittees
+Task Forces
+Bills In Committees
+
+
+Utah Code / Constitution
+
+
+Title/Chapter/Section
+Keyword Search 
+
+Utah Constitution
+Laws of Utah 1851-ongoing
+Utah Territorial Laws 
+More
+
+
+Senate
+
+Main Page 
+About The Senate 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Extraordinary Sessions 
+Reading Calendars 
+Past Floor Debates 
+Senate Journals 
+
+
+House
+
+Main Page
+About the House 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Reading Calendars 
+Past Floor Debates 
+Journals 
+Conflict of Interest Forms 
+
+
+Legislative Guide 
+
+Legislative Guide
+Civic Programs
+GRAMA (Records Requests)
+
+
+Publications
+
+Search Publications
+Appropriations
+Audits
+Bagels & Briefings
+Briefing Papers
+Digest of Legislation
+Legislative Drafting Manual
+
+Journals
+
+Interim Highlights
+
+Legislative Rules
+GRAMA (Records Requests)
+Public Email
+State Organization Charts
+YouTube Channel
+Requests for Proposals and Legal Notices
+More
+
+
+Legislative Histories
+
+Legislative History Resources
+How to Research
+Bill Drafting/Research Files (1990-Ongoing)
+
+Working Bills (1896-1989)
+Interim Committee Histories (1990-Ongoing) 
+Journals
+Past House Floor Debates
+Past Senate Floor Debates
+More
+
+
+Staff Offices
+
+All Legislative Offices
+Auditor General
+Fiscal Analyst
+Printing
+Research and General Counsel
+Staff Awards
+Job Opportunities
+More
+
+
+Links of Interest
+
+Utah Administrative Rules
+Courts
+Utah State Capitol
+State of Utah
+Federal Legislation
+More
+
+
+
+
+
+
+ 
+
+Download Zipped Introduced WordPerfect HB0384.ZIP
+[Status][Bill Documents][Fiscal Note][Bills Directory]
+
+
+H.B. 384
+
+
+
+
+
+            
+1
+
+    
+ PROPERTY DISPOSITION AMENDMENTS
+
+
+
+            
+2
+
+    
+2013 GENERAL SESSION
+
+            
+3
+
+    
+STATE OF UTAH
+
+            
+4
+
+    
+
+
+ Chief Sponsor: Brad L. Dee
+
+
+
+            
+5
+
+    
+
+
+
+Senate Sponsor:
+
+
+
+
+
+
+ Curtis S. Bramble
+
+
+
+
+
+            
+6
+
+    
+
+            
+7
+
+    
+ LONG TITLE
+            
+8
+
+    
+ General Description:
+            
+9
+
+    
+    This bill modifies the Utah Code regarding forfeiture provisions and consolidates
+            
+10
+
+    
+provisions regarding forfeiture and disposition of property, including mislaid property.
+            
+11
+
+    
+ Highlighted Provisions:
+            
+12
+
+    
+    This bill:
+            
+13
+
+    
+    .    repeals the current Title 24, Forfeiture Procedures, and enacts a new Title 24,
+            
+14
+
+    
+Forfeiture of Property Act, which reinstates forfeiture provisions and also includes
+            
+15
+
+    
+various forfeiture provisions previously located in other sections of the Utah Code;
+            
+16
+
+    
+    .    provides that the provisions regarding attorney fees and costs are modified to
+            
+17
+
+    
+establish that the prevailing party in a forfeiture action may not claim fees and costs
+            
+18
+
+    
+in excess of 20% of the value of the property;
+            
+19
+
+    
+    .    renames the Crime Reduction Assistance Program to the State Asset Forfeiture
+            
+20
+
+    
+Grant Program;
+            
+21
+
+    
+    .    amends sections of the code that include various forfeiture provisions by moving
+            
+22
+
+    
+those sections into Title 24, Forfeiture of Property Act;
+            
+23
+
+    
+    .    includes tobacco products, in addition to cigarettes, in the tobacco forfeiture
+            
+24
+
+    
+provisions;
+            
+25
+
+    
+    .    amends Title 77, Chapter 24a, regarding unclaimed personal property, to address
+            
+26
+
+    
+lost or mislaid personal property and procedures regarding turning found property to
+            
+27
+
+    
+law enforcement, the claiming of the property by a rightful owner, and disposition
+
+            
+28
+
+
+    
+of unclaimed property;
+            
+29
+
+    
+    .    provides that all property that has been used to facilitate the commission of a crime
+            
+30
+
+    
+and any proceeds of criminal activity are subject to forfeiture unless a specific law
+            
+31
+
+    
+addresses forfeiture, such as DUI and wildlife offense issues; and
+            
+32
+
+    
+    .    amends affected references in other sections.
+            
+33
+
+    
+ Money Appropriated in this Bill:
+            
+34
+
+    
+    None
+            
+35
+
+    
+ Other Special Clauses:
+            
+36
+
+    
+    This bill takes effect on July 1, 2013.
+            
+37
+
+    
+ Utah Code Sections Affected:
+            
+38
+
+    
+AMENDS:
+            
+39
+
+    
+     23-20-1, as last amended by Laws of Utah 2011, Chapter 297
+            
+40
+
+    
+     32B-4-206, as last amended by Laws of Utah 2011, Chapters 307 and 334
+            
+41
+
+    
+     41-6a-527, as last amended by Laws of Utah 2012, Chapter 81
+            
+42
+
+    
+     53-7-406, as enacted by Laws of Utah 2007, Chapter 362
+            
+43
+
+    
+     63J-1-602.1, as last amended by Laws of Utah 2012, Chapter 332
+            
+44
+
+    
+     76-6-903, as last amended by Laws of Utah 1999, Chapter 51
+            
+45
+
+    
+     76-10-1603.5, as last amended by Laws of Utah 2007, Chapters 129 and 180
+            
+46
+
+    
+     77-24a-2, as enacted by Laws of Utah 1986, Chapter 131
+            
+47
+
+    
+     77-24a-3, as enacted by Laws of Utah 1986, Chapter 131
+            
+48
+
+    
+     77-24a-4, as enacted by Laws of Utah 1986, Chapter 131
+            
+49
+
+    
+     77-24a-5, as last amended by Laws of Utah 2009, Chapter 388
+            
+50
+
+    
+ENACTS:
+            
+51
+
+    
+     24-1-101, Utah Code Annotated 1953
+            
+52
+
+    
+     24-1-102, Utah Code Annotated 1953
+            
+53
+
+    
+     24-1-103, Utah Code Annotated 1953
+            
+54
+
+    
+     24-2-101, Utah Code Annotated 1953
+            
+55
+
+    
+     24-2-102, Utah Code Annotated 1953
+            
+56
+
+    
+     24-2-103, Utah Code Annotated 1953
+            
+57
+
+    
+     24-3-101, Utah Code Annotated 1953
+            
+58
+
+    
+     24-3-102, Utah Code Annotated 1953
+
+            
+59
+
+
+    
+     24-3-103, Utah Code Annotated 1953
+            
+60
+
+    
+     24-3-104, Utah Code Annotated 1953
+            
+61
+
+    
+     24-4-101, Utah Code Annotated 1953
+            
+62
+
+    
+     24-4-102, Utah Code Annotated 1953
+            
+63
+
+    
+     24-4-103, Utah Code Annotated 1953
+            
+64
+
+    
+     24-4-104, Utah Code Annotated 1953
+            
+65
+
+    
+     24-4-105, Utah Code Annotated 1953
+            
+66
+
+    
+     24-4-106, Utah Code Annotated 1953
+            
+67
+
+    
+     24-4-107, Utah Code Annotated 1953
+            
+68
+
+    
+     24-4-108, Utah Code Annotated 1953
+            
+69
+
+    
+     24-4-109, Utah Code Annotated 1953
+            
+70
+
+    
+     24-4-110, Utah Code Annotated 1953
+            
+71
+
+    
+     24-4-111, Utah Code Annotated 1953
+            
+72
+
+    
+     24-4-112, Utah Code Annotated 1953
+            
+73
+
+    
+     24-4-113, Utah Code Annotated 1953
+            
+74
+
+    
+     24-4-114, Utah Code Annotated 1953
+            
+75
+
+    
+     24-4-115, Utah Code Annotated 1953
+            
+76
+
+    
+     24-4-116, Utah Code Annotated 1953
+            
+77
+
+    
+     24-4-117, Utah Code Annotated 1953
+            
+78
+
+    
+REPEALS AND REENACTS:
+            
+79
+
+    
+     77-24a-1, as last amended by Laws of Utah 2005, Chapter 126
+            
+80
+
+    
+REPEALS:
+            
+81
+
+    
+     24-1-1, as last amended by Laws of Utah 2002, Chapter 185
+            
+82
+
+    
+     24-1-2, as last amended by Laws of Utah 2004, Chapter 296
+            
+83
+
+    
+     24-1-3, as last amended by Laws of Utah 2007, Chapter 272
+            
+84
+
+    
+     24-1-3.5, as last amended by Laws of Utah 2008, Chapter 3
+            
+85
+
+    
+     24-1-4, as last amended by Laws of Utah 2009, Chapter 388
+            
+86
+
+    
+     24-1-5, as enacted by Statewide Initiative B, Nov. 7, 2000
+            
+87
+
+    
+     24-1-6, as last amended by Laws of Utah 2004, Chapter 296
+            
+88
+
+    
+     24-1-7, as last amended by Laws of Utah 2011, Chapter 366
+            
+89
+
+    
+     24-1-8, as last amended by Laws of Utah 2011, Chapter 297
+
+            
+90
+
+
+    
+     24-1-9, as enacted by Statewide Initiative B, Nov. 7, 2000
+            
+91
+
+    
+     24-1-10, as last amended by Laws of Utah 2004, Chapter 296
+            
+92
+
+    
+     24-1-11, as last amended by Laws of Utah 2004, Chapter 296
+            
+93
+
+    
+     24-1-12, as last amended by Laws of Utah 2004, Chapter 296
+            
+94
+
+    
+     24-1-13, as enacted by Statewide Initiative B, Nov. 7, 2000
+            
+95
+
+    
+     24-1-14, as last amended by Laws of Utah 2004, Chapter 296
+            
+96
+
+    
+     24-1-15, as last amended by Laws of Utah 2007, Chapter 180
+            
+97
+
+    
+     24-1-17, as enacted by Laws of Utah 2004, Chapter 296
+            
+98
+
+    
+     24-1-18, as enacted by Laws of Utah 2004, Chapter 296
+            
+99
+
+    
+     24-1-19, as last amended by Laws of Utah 2011, Chapter 342
+            
+100
+
+    
+     24-1-20, as last amended by Laws of Utah 2011, Chapter 342
+            
+101
+
+    
+     41-6a-211, as renumbered and amended by Laws of Utah 2005, Chapter 2
+            
+102
+
+    
+     58-37-13, as last amended by Laws of Utah 2002, Chapter 185
+            
+103
+
+    
+     76-3-501, as last amended by Laws of Utah 2002, Chapter 185
+            
+104
+
+    
+     76-10-525, as enacted by Laws of Utah 1973, Chapter 196
+            
+105
+
+    
+     76-10-1107, as last amended by Laws of Utah 2007, Chapter 180
+            
+106
+
+    
+     76-10-1908, as last amended by Laws of Utah 2002, Chapter 185
+            
+107
+
+    
+     77-24-1, as last amended by Laws of Utah 2005, Chapter 126
+            
+108
+
+    
+     77-24-1.5, as last amended by Laws of Utah 2011, Chapter 130
+            
+109
+
+    
+     77-24-2, as last amended by Laws of Utah 2012, Chapters 47 and 284
+            
+110
+
+    
+     77-24-3, as enacted by Laws of Utah 1980, Chapter 15
+            
+111
+
+    
+     77-24-4, as last amended by Laws of Utah 2005, Chapter 126
+            
+112
+
+    
+     77-24-5, as last amended by Laws of Utah 2005, Chapter 126
+            
+113
+
+    
+
+            
+114
+
+    
+Be it enacted by the Legislature of the state of Utah:
+            
+115
+
+    
+    Section 1.  
+Section  
+23-20-1
+
+ is amended to read:
+            
+116
+
+    
+     23-20-1.  Enforcement authority of conservation officers -- Seizure and disposition
+            
+117
+
+    
+ of property.
+            
+118
+
+    
+    (1)  Conservation officers of the division shall enforce the provisions of this title with
+            
+119
+
+    
+the same authority and following the same procedures as other law enforcement officers.
+            
+120
+
+    
+    (2) (a)  Conservation officers shall seize any protected wildlife illegally taken or held.
+
+            
+121
+
+
+    
+    (b) (i)  Upon determination of a defendant's guilt by the court, the protected wildlife
+            
+122
+
+    
+shall be confiscated by the court and sold or otherwise disposed of by the division.
+            
+123
+
+    
+    (ii)  Proceeds of the sales shall be deposited in the Wildlife Resources Account.
+            
+124
+
+    
+    (iii)  Migratory wildfowl may not be sold, but shall be given to a charitable institution
+            
+125
+
+    
+or used for other charitable purposes.
+            
+126
+
+    
+    [(3)  Materials and devices used for the unlawful taking or possessing of protected
+            
+127
+
+    
+wildlife shall be seized, and upon a finding by the court that they were used in the unlawful
+            
+128
+
+    
+taking or possessing of protected wildlife, the materials and devices shall be subject to criminal
+            
+129
+
+    
+or civil forfeiture under the procedures and substantive protections established in Title 24,
+            
+130
+
+    
+Chapter 1, Utah Uniform Forfeiture Procedures Act.]
+            
+131
+
+    
+    [(4)] (3) (a)  Conservation officers may seize and impound a vehicle used for the
+            
+132
+
+    
+unlawful taking or possessing of protected wildlife for any of the following purposes:
+            
+133
+
+    
+    (i)  to provide for the safekeeping of the vehicle, if the owner or operator is arrested;
+            
+134
+
+    
+    (ii)  to search the vehicle as provided in Subsection (2)(a) or as provided by a search
+            
+135
+
+    
+warrant; or
+            
+136
+
+    
+    (iii)  to inspect the vehicle for evidence that protected wildlife was unlawfully taken or
+            
+137
+
+    
+possessed.
+            
+138
+
+    
+    (b)  The division shall store any seized vehicle in a public or private garage, state
+            
+139
+
+    
+impound lot, or other secured storage facility.
+            
+140
+
+    
+    [(5)] (4)  A seized vehicle shall be released to the owner no later than 30 days after the
+            
+141
+
+    
+date the vehicle is seized, unless the vehicle was used for the unlawful taking or possessing of
+            
+142
+
+    
+wildlife by a person who is charged with committing a felony under this title.
+            
+143
+
+    
+    [(6) (a)  Upon a finding by a court that the person who used the vehicle for the unlawful
+            
+144
+
+    
+taking or possessing of wildlife is guilty of a felony under this title, the vehicle may be subject
+            
+145
+
+    
+to criminal or civil forfeiture under the procedures and substantive protections established in
+            
+146
+
+    
+Title 24, Chapter 1, Utah Uniform Forfeiture Procedures Act.]
+            
+147
+
+    
+    [(b)] (5) (a)  The owner of a seized vehicle is liable for the payment of any impound fee
+            
+148
+
+    
+if the owner used the vehicle for the unlawful taking or possessing of wildlife and is found by a
+            
+149
+
+    
+court to be guilty of a violation of this title.
+            
+150
+
+    
+    [(c)] (b)  The owner of a seized vehicle is not liable for the payment of any impound fee
+            
+151
+
+    
+or, if the fees have been paid, is entitled to reimbursement of the fees paid, if:
+
+            
+152
+
+
+    
+    (i)  no charges are filed or all charges are dropped which involve the use of the vehicle
+            
+153
+
+    
+for the unlawful taking or possessing of wildlife;
+            
+154
+
+    
+    (ii)  the person charged with using the vehicle for the unlawful taking or possessing of
+            
+155
+
+    
+wildlife is found by a court to be not guilty; or
+            
+156
+
+    
+    (iii)  the owner did not consent to a use of the vehicle which violates this chapter.
+            
+157
+
+    
+    Section 2.  
+Section  
+24-1-101
+
+ is enacted to read:
+            
+158
+
+    
+ TITLE 24.  FORFEITURE OF PROPERTY ACT
+
+            
+159
+
+    
+ CHAPTER 1.  GENERAL PROVISIONS
+
+            
+160
+
+    
+     24-1-101.  Title.
+            
+161
+
+    
+    (1)  This title is known as the "Forfeiture of Property Act."
+            
+162
+
+    
+    (2)  This chapter is known as "General Provisions."
+            
+163
+
+    
+    Section 3.  
+Section  
+24-1-102
+
+ is enacted to read:
+            
+164
+
+    
+     24-1-102.  Definitions.
+            
+165
+
+    
+    As used in this title:
+            
+166
+
+    
+    (1)  "Account" means the Criminal Forfeiture Restricted Account created in Section
+            
+167
+
+    
+
+
+24-4-115
+
+.
+            
+168
+
+    
+    (2) (a)  "Acquittal" means a finding by a jury or a judge at trial that a claimant is not
+            
+169
+
+    
+guilty.
+            
+170
+
+    
+    (b)  An acquittal does not include:
+            
+171
+
+    
+    (i)  a verdict of guilty on a lesser or reduced charge;
+            
+172
+
+    
+    (ii)  a plea of guilty to a lesser or reduced charge; or
+            
+173
+
+    
+    (iii)  dismissal of a charge as a result of a negotiated plea agreement.
+            
+174
+
+    
+    (3)  "Agency" means any agency of municipal, county, or state government, including
+            
+175
+
+    
+law enforcement agencies, law enforcement personnel, and multijurisdictional task forces.
+            
+176
+
+    
+    (4) (a)  "Claimant" means any:
+            
+177
+
+    
+    (i)  owner of property as defined in this section;
+            
+178
+
+    
+    (ii)  interest holder as defined in this section; or
+            
+179
+
+    
+    (iii)  person from whom property is seized for forfeiture.
+            
+180
+
+    
+    (b)  A claimant does not include a person or entity who disclaims in writing ownership
+            
+181
+
+    
+of or interest in property.
+            
+182
+
+    
+    (5)  "Commission" means the Utah Commission on Criminal and Juvenile Justice.
+
+            
+183
+
+
+    
+    (6)  "Complaint" means a civil in rem complaint seeking the forfeiture of any real or
+            
+184
+
+    
+personal property under this title.
+            
+185
+
+    
+    (7)  "Constructive seizure" means a seizure of property where the property is left in the
+            
+186
+
+    
+control of the owner and the seizing agency posts the property with a notice of intent to seek
+            
+187
+
+    
+forfeiture.
+            
+188
+
+    
+    (8) (a)  "Contraband" means any property, item, or substance that is unlawful to
+            
+189
+
+    
+produce or to possess under state or federal law.
+            
+190
+
+    
+    (b)  All controlled substances that are possessed, transferred, distributed, or offered for
+            
+191
+
+    
+distribution in violation of Title 58, Chapter 37, Utah Controlled Substances Act, are
+            
+192
+
+    
+contraband.
+            
+193
+
+    
+    (9)  "Innocent owner" means a claimant who:
+            
+194
+
+    
+    (a)  held an ownership interest in property at the time the conduct subjecting the
+            
+195
+
+    
+property to forfeiture occurred, and:
+            
+196
+
+    
+    (i)  did not have actual knowledge of the conduct subjecting the property to forfeiture;
+            
+197
+
+    
+or
+            
+198
+
+    
+    (ii)  upon learning of the conduct subjecting the property to forfeiture, took reasonable
+            
+199
+
+    
+steps to prohibit the illegal use of the property; or
+            
+200
+
+    
+    (b)  acquired an ownership interest in the property and who had no knowledge that the
+            
+201
+
+    
+illegal conduct subjecting the property to forfeiture had occurred or that the property had been
+            
+202
+
+    
+seized for forfeiture, and:
+            
+203
+
+    
+    (i)  acquired the property in a bona fide transaction for value;
+            
+204
+
+    
+    (ii)  was a person, including a minor child, who acquired an interest in the property
+            
+205
+
+    
+through probate or inheritance; or
+            
+206
+
+    
+    (iii)  was a spouse who acquired an interest in property through dissolution of marriage
+            
+207
+
+    
+or by operation of law.
+            
+208
+
+    
+    (10) (a)  "Interest holder" means a secured party as defined in Section 
+
+70A-9a-102
+
+, a
+            
+209
+
+    
+mortgagee, lien creditor, or the beneficiary of a security interest or encumbrance pertaining to
+            
+210
+
+    
+an interest in property, whose interest would be perfected against a good faith purchaser for
+            
+211
+
+    
+value.
+            
+212
+
+    
+    (b)  "Interest holder" does not mean a person who holds property for the benefit of or as
+            
+213
+
+    
+an agent or nominee for another person, or who is not in substantial compliance with any
+
+            
+214
+
+
+    
+statute requiring an interest in property to be recorded or reflected in public records in order to
+            
+215
+
+    
+perfect the interest against a good faith purchaser for value.
+            
+216
+
+    
+    (11)  "Known address" means any address provided by a claimant to the agency at the
+            
+217
+
+    
+time the property was seized, or the claimant's most recent address on record with a
+            
+218
+
+    
+governmental entity if no address was provided at the time of the seizure.
+            
+219
+
+    
+    (12)  "Legal costs" means the costs and expenses incurred by a party in a forfeiture
+            
+220
+
+    
+action.
+            
+221
+
+    
+    (13)  "Legislative body" means:
+            
+222
+
+    
+    (a) (i)  the Legislature, county commission, county council, city commission, city
+            
+223
+
+    
+council, or town council that has fiscal oversight and budgetary approval authority over an
+            
+224
+
+    
+agency; or
+            
+225
+
+    
+    (ii)  the agency's governing political subdivision; or
+            
+226
+
+    
+    (b)  the lead governmental entity of a multijurisdictional task force, as designated in a
+            
+227
+
+    
+memorandum of understanding executed by the agencies participating in the task force.
+            
+228
+
+    
+    (14)  "Multijurisdictional task force" means a law enforcement task force or other
+            
+229
+
+    
+agency comprised of persons who are employed by or acting under the authority of different
+            
+230
+
+    
+governmental entities, including federal, state, county or municipal governments, or any
+            
+231
+
+    
+combination of these agencies.
+            
+232
+
+    
+    (15)  "Owner" means any person or entity, other than an interest holder, that possesses a
+            
+233
+
+    
+bona fide legal or equitable interest in real or personal property.
+            
+234
+
+    
+    (16) (a)  "Proceeds" means:
+            
+235
+
+    
+    (i)  property of any kind that is obtained directly or indirectly as a result of the
+            
+236
+
+    
+commission of an offense that gives rise to forfeiture; and
+            
+237
+
+    
+    (ii)  any property acquired directly or indirectly from, produced through, realized
+            
+238
+
+    
+through, or caused by an act or omission regarding property under Subsection (16)(a)(i).
+            
+239
+
+    
+    (b)  "Proceeds" includes any property of any kind without reduction for expenses
+            
+240
+
+    
+incurred in the acquisition, maintenance, or production of that property, or any other purpose
+            
+241
+
+    
+regarding property under Subsection (16)(a)(i).
+            
+242
+
+    
+    (c)  "Proceeds" is not limited to the net gain or profit realized from the offense that
+            
+243
+
+    
+gives rise to forfeiture.
+            
+244
+
+    
+    (17)  "Program" means the State Asset Forfeiture Grant Program established in Section
+
+            
+245
+
+
+    
+
+
+24-4-117
+
+.
+            
+246
+
+    
+    (18)  "Property" means all property, whether real or personal, tangible or intangible, but
+            
+247
+
+    
+does not include contraband.
+            
+248
+
+    
+    (19)  "Prosecuting attorney" means:
+            
+249
+
+    
+    (a)  the attorney general and any assistant attorney general;
+            
+250
+
+    
+    (b)  any district attorney or deputy district attorney;
+            
+251
+
+    
+    (c)  any county attorney or assistant county attorney; and
+            
+252
+
+    
+    (d)  any other attorney authorized to commence an action on behalf of the state under
+            
+253
+
+    
+this title.
+            
+254
+
+    
+    (20)  "Public interest use" means a:
+            
+255
+
+    
+    (a)  use by a government agency as determined by the legislative body of the agency's
+            
+256
+
+    
+jurisdiction; or
+            
+257
+
+    
+    (b)  donation of the property to a nonprofit charity registered with the state.
+            
+258
+
+    
+    (21)  "Real property" means land and includes any building, fixture, improvement,
+            
+259
+
+    
+appurtenance, structure, or other development that is affixed permanently to land.
+            
+260
+
+    
+    Section 4.  
+Section  
+24-1-103
+
+ is enacted to read:
+            
+261
+
+    
+     24-1-103.  Jurisdiction and venue.
+            
+262
+
+    
+    (1)  A state district court has jurisdiction over any action filed in accordance with this
+            
+263
+
+    
+title regarding:
+            
+264
+
+    
+    (a)  all interests in property if the property is within this state at the time the action is
+            
+265
+
+    
+filed; and
+            
+266
+
+    
+    (b)  a claimant's interests in the property, if the claimant is subject to the personal
+            
+267
+
+    
+jurisdiction of the district court.
+            
+268
+
+    
+    (2) (a)  In addition to the venue provided for under Title 78B, Chapter 3, Part 3, Place
+            
+269
+
+    
+of Trial - Venue, or any other provisions of law, a proceeding for forfeiture under this title may
+            
+270
+
+    
+be maintained in the judicial district in which:
+            
+271
+
+    
+    (i)  any part of the property is found; or
+            
+272
+
+    
+    (ii)  a civil or criminal action could be maintained against a claimant for the conduct
+            
+273
+
+    
+alleged to constitute grounds for forfeiture.
+            
+274
+
+    
+    (b)  A claimant may obtain a change of venue under Section 
+
+78B-3-309
+
+.
+            
+275
+
+    
+    Section 5.  
+Section  
+24-2-101
+
+ is enacted to read:
+
+            
+276
+
+
+    
+ CHAPTER 2.  SEIZURE OF PROPERTY
+
+            
+277
+
+    
+     24-2-101.  Title.
+            
+278
+
+    
+    This chapter is known as "Seizure of Property."
+            
+279
+
+    
+    Section 6.  
+Section  
+24-2-102
+
+ is enacted to read:
+            
+280
+
+    
+     24-2-102.  Grounds for seizing property.
+            
+281
+
+    
+    (1)  Property may be seized by a peace officer or any other person authorized by law
+            
+282
+
+    
+upon process issued by a court having jurisdiction over the property in accordance with the
+            
+283
+
+    
+Utah Rules of Criminal Procedure relating to search warrants or administrative warrants.
+            
+284
+
+    
+    (2)  Property may be seized under this chapter when:
+            
+285
+
+    
+    (a)  the seizure is incident to an arrest;
+            
+286
+
+    
+    (b)  the property seized is the subject of a prior judgment in favor of the state in a
+            
+287
+
+    
+criminal injunction or forfeiture proceeding under this title; or
+            
+288
+
+    
+    (c)  the peace officer or other person authorized by law has probable cause to believe
+            
+289
+
+    
+that the property:
+            
+290
+
+    
+    (i)  is directly or indirectly dangerous to health or safety;
+            
+291
+
+    
+    (ii)  is evidence of a crime;
+            
+292
+
+    
+    (iii)  has been used or was intended to be used to commit a crime; or
+            
+293
+
+    
+    (iv)  is proceeds of a crime.
+            
+294
+
+    
+    Section 7.  
+Section  
+24-2-103
+
+ is enacted to read:
+            
+295
+
+    
+     24-2-103.  Property seized by a peace officer -- Custody and control of property.
+            
+296
+
+    
+    (1) (a)  When property is seized by a peace officer, the peace officer or the officer's
+            
+297
+
+    
+employing agency shall provide a receipt to the person from whom the property was seized.
+            
+298
+
+    
+    (b)  The receipt shall describe the:
+            
+299
+
+    
+    (i)  property seized;
+            
+300
+
+    
+    (ii)  date of seizure; and
+            
+301
+
+    
+    (iii)  name and contact information of the officer's employing agency.
+            
+302
+
+    
+    (c)  A copy of the receipt shall be maintained by the agency.
+            
+303
+
+    
+    (d)  If custody of the property is transferred to another agency, a copy of the receipt
+            
+304
+
+    
+under Subsection (1)(a) shall be provided with the property.
+            
+305
+
+    
+    (2)  The agency responsible for maintaining the property shall:
+            
+306
+
+    
+    (a)  hold all seized property in safe custody until it can be disposed of as provided in
+
+            
+307
+
+
+    
+this title; and
+            
+308
+
+    
+    (b)  maintain a record of the property that includes:
+            
+309
+
+    
+    (i)  a detailed inventory of all property seized;
+            
+310
+
+    
+    (ii)  the name of the person from whom it was seized; and
+            
+311
+
+    
+    (iii)  the agency's case number.
+            
+312
+
+    
+    (3)  Property seized under this title is not recoverable by replevin, but is considered in
+            
+313
+
+    
+the agency's custody subject only to the orders of the court or the official having jurisdiction.
+            
+314
+
+    
+    (4)  All controlled substances or other contraband that is seized by a peace officer may
+            
+315
+
+    
+be processed for evidentiary or investigative purposes, including sampling or other preservation
+            
+316
+
+    
+procedure prior to disposal or destruction.
+            
+317
+
+    
+    (5) (a)  An agency shall deposit property in the form of cash or other readily negotiable
+            
+318
+
+    
+instruments into a separate, restricted, interest-bearing account maintained by the agency solely
+            
+319
+
+    
+for the purpose of managing and protecting the property from commingling, loss, or
+            
+320
+
+    
+devaluation.
+            
+321
+
+    
+    (b)  Each agency shall have written policies for the identification, tracking,
+            
+322
+
+    
+management, and safekeeping of seized property, which shall include a prohibition against the
+            
+323
+
+    
+transfer, sale, or auction of seized property to any employee of the agency.
+            
+324
+
+    
+    (6)  If a peace officer or the officer's employing agency records an interview of a minor
+            
+325
+
+    
+child during an investigation of a violation of Section 
+
+76-5-402.1
+
+, 
+
+76-5-402.3
+
+, 
+
+76-5-403.1
+
+, or
+            
+326
+
+    
+
+
+76-5-404.1
+
+, the agency shall retain a copy of the recording for 18 years following the date of
+            
+327
+
+    
+the last recording unless the prosecuting attorney requests in writing that the recording be
+            
+328
+
+    
+retained for an additional period of time.
+            
+329
+
+    
+    (7)  Title 13, Chapter 32a, Pawnshop and Secondhand Merchandise Transaction
+            
+330
+
+    
+Information Act, governs the disposition of property held by a pawn or secondhand business in
+            
+331
+
+    
+the course of its business.
+            
+332
+
+    
+    Section 8.  
+Section  
+24-3-101
+
+ is enacted to read:
+            
+333
+
+    
+ CHAPTER 3.  PROPERTY HELD AS EVIDENCE
+
+            
+334
+
+    
+     24-3-101.  Title.
+            
+335
+
+    
+    This chapter is known as "Property Held as Evidence."
+            
+336
+
+    
+    Section 9.  
+Section  
+24-3-102
+
+ is enacted to read:
+            
+337
+
+    
+     24-3-102.  Property received in evidence.
+
+            
+338
+
+
+    
+    (1)  When property is received in evidence by the court, the clerk of the court shall
+            
+339
+
+    
+retain the property or the clerk shall return the property to the custody of the peace officer or
+            
+340
+
+    
+the agency employing the peace officer.
+            
+341
+
+    
+    (2)  The property shall be retained by the clerk or the officer or the officer's agency until
+            
+342
+
+    
+all direct appeals and retrials are final, at which time the property shall be disposed of in
+            
+343
+
+    
+accordance with this title.
+            
+344
+
+    
+    (3)  If the prosecuting attorney considers it necessary to retain control over the evidence
+            
+345
+
+    
+in anticipation of possible collateral attacks upon the judgment or for use in a potential
+            
+346
+
+    
+prosecution, the prosecutor may decline to authorize the disposal of the property under this
+            
+347
+
+    
+chapter.
+            
+348
+
+    
+    Section 10.  
+Section  
+24-3-103
+
+ is enacted to read:
+            
+349
+
+    
+     24-3-103.  Property no longer needed as evidence -- Disposition of property.
+            
+350
+
+    
+    (1)  When the prosecuting attorney determines that property no longer needs to be held
+            
+351
+
+    
+as evidence, the prosecuting attorney may:
+            
+352
+
+    
+    (a)  petition the court to apply any property that is money towards restitution, fines,
+            
+353
+
+    
+fees, or monetary judgments owed by the owner of the property;
+            
+354
+
+    
+    (b)  petition the court for an order transferring ownership of any weapons to the seizing
+            
+355
+
+    
+agency for its use and disposal as the seizing agency determines, if the owner:
+            
+356
+
+    
+    (i)  is the person who committed the crime for which the weapon was seized; or
+            
+357
+
+    
+    (ii)  may not lawfully possess the weapon; or
+            
+358
+
+    
+    (c)  notify the agency that has possession of the property that the property may be:
+            
+359
+
+    
+    (i)  returned to the rightful owner, if the rightful owner may lawfully possess it; or
+            
+360
+
+    
+    (ii)  disposed of, if the property is contraband.
+            
+361
+
+    
+    (2)  The agency shall exercise due diligence in attempting to notify the rightful owner of
+            
+362
+
+    
+the property to advise the owner that the property is to be returned.
+            
+363
+
+    
+    (3)  Before the agency may release property to a person claiming ownership of the
+            
+364
+
+    
+property, the person shall establish to the agency that the person:
+            
+365
+
+    
+    (a)  is the rightful owner; and
+            
+366
+
+    
+    (b)  may lawfully possess the property.
+            
+367
+
+    
+    (4) (a)  When property is returned to the owner, a receipt listing in detail the property
+            
+368
+
+    
+returned shall be signed by the owner.
+
+            
+369
+
+
+    
+    (b)  The receipt shall be retained by the agency and a copy shall be provided to the
+            
+370
+
+    
+owner.
+            
+371
+
+    
+    (5)  If the agency is unable to locate the rightful owner of the property or if the rightful
+            
+372
+
+    
+owner is not entitled to lawfully possess the property, the agency may:
+            
+373
+
+    
+    (a)  apply the property to a public interest use;
+            
+374
+
+    
+    (b)  sell the property at public auction and apply the proceeds of the sale to a public
+            
+375
+
+    
+interest use; or
+            
+376
+
+    
+    (c)  destroy the property if it is unfit for a public interest use or for sale.
+            
+377
+
+    
+    (6)  Before applying the property or the proceeds from the sale of the property to a
+            
+378
+
+    
+public interest use, the agency shall obtain from the legislative body of its jurisdiction:
+            
+379
+
+    
+    (a)  permission to apply the property or the proceeds to public interest use; and
+            
+380
+
+    
+    (b)  the designation and approval of the public interest use of the property or the
+            
+381
+
+    
+proceeds.
+            
+382
+
+    
+    Section 11.  
+Section  
+24-3-104
+
+ is enacted to read:
+            
+383
+
+    
+     24-3-104.  Petition to return property held as evidence.
+            
+384
+
+    
+    (1) (a)  A person claiming ownership of property held as evidence may file a petition
+            
+385
+
+    
+with the court for the return of the property.
+            
+386
+
+    
+    (b)  The petition may be filed in:
+            
+387
+
+    
+    (i)  the court in which criminal proceedings have commenced regarding the conduct for
+            
+388
+
+    
+which the property is held as evidence; or
+            
+389
+
+    
+    (ii)  the district court of the jurisdiction where the property was seized, if there are no
+            
+390
+
+    
+pending criminal proceedings.
+            
+391
+
+    
+    (c)  A copy of the petition shall be served on the prosecuting attorney and the agency
+            
+392
+
+    
+which has possession of the property.
+            
+393
+
+    
+    (2)  The court shall provide an opportunity for an expedited hearing.  After the
+            
+394
+
+    
+opportunity for an expedited hearing, the court may order that the property be:
+            
+395
+
+    
+    (a)  returned to the rightful owner as determined by the court;
+            
+396
+
+    
+    (b)  applied directly or by proceeds of the sale of the property toward restitution, fines,
+            
+397
+
+    
+or fees owed by the rightful owner in an amount set by the court;
+            
+398
+
+    
+    (c)  converted to a public interest use;
+            
+399
+
+    
+    (d)  held for further legal action;
+
+            
+400
+
+
+    
+    (e)  sold at public auction and the proceeds of the sale applied to a public interest use;
+            
+401
+
+    
+or
+            
+402
+
+    
+    (f)  destroyed.
+            
+403
+
+    
+    (3)  Before the court can order property be returned to a person claiming ownership of
+            
+404
+
+    
+property, the person shall establish by clear and convincing evidence that the person:
+            
+405
+
+    
+    (a)  is the rightful owner; and
+            
+406
+
+    
+    (b)  may lawfully possess the property.
+            
+407
+
+    
+    (4)  If the court orders the property to be returned, the agency that possesses the
+            
+408
+
+    
+property shall return the property to the claimant as expeditiously as possible.
+            
+409
+
+    
+    Section 12.  
+Section  
+24-4-101
+
+ is enacted to read:
+            
+410
+
+    
+ CHAPTER 4.  PROPERTY HELD FOR FORFEITURE
+
+            
+411
+
+    
+     24-4-101.  Title.
+            
+412
+
+    
+    This chapter is known as "Property Held for Forfeiture."
+            
+413
+
+    
+    Section 13.  
+Section  
+24-4-102
+
+ is enacted to read:
+            
+414
+
+    
+     24-4-102.  Property subject to forfeiture.
+            
+415
+
+    
+    (1)  Except as provided in Subsection (3), all property that has been used to facilitate
+            
+416
+
+    
+the commission of a federal or state offense and any proceeds of criminal activity may be
+            
+417
+
+    
+forfeited under this chapter, including:
+            
+418
+
+    
+    (a)  real property, including things growing on, affixed to, and found in land; and
+            
+419
+
+    
+    (b)  tangible and intangible personal property, including money, rights, privileges,
+            
+420
+
+    
+interests, claims, and securities of any kind.
+            
+421
+
+    
+    (2)  If the property is used to facilitate a violation of Section 
+
+76-10-1204
+
+, 
+
+76-10-1205
+
+,
+            
+422
+
+    
+
+
+76-10-1206
+
+, or 
+
+76-10-1222
+
+, the property subject to forfeiture under this section is limited to
+            
+423
+
+    
+property, the seizure or forfeiture of which would not constitute a prior restraint on the exercise
+            
+424
+
+    
+of an affected party's rights under the First Amendment to the Constitution of the United States
+            
+425
+
+    
+or Utah Constitution, Article I, Section 15, or would not otherwise unlawfully interfere with the
+            
+426
+
+    
+exercise of those rights.
+            
+427
+
+    
+    (3)  A motor vehicle used in a violation of Section 
+
+41-6a-502
+
+, 
+
+41-6a-517
+
+, a local
+            
+428
+
+    
+ordinance that complies with the requirements of Subsection 
+
+41-6a-510
+
+(1), Subsection
+            
+429
+
+    
+
+
+58-37-8
+
+(2)(g), or Section 
+
+76-5-207
+
+ may not be forfeited unless:
+            
+430
+
+    
+    (a)  the operator of the vehicle has previously been convicted of a violation, committed
+
+            
+431
+
+
+    
+after May 12, 2009, of:
+            
+432
+
+    
+    (i)  a felony driving under the influence violation under Section 
+
+41-6a-502
+
+;
+            
+433
+
+    
+    (ii)  a felony violation under Subsection 
+
+58-37-8
+
+(2)(g); or
+            
+434
+
+    
+    (iii)  automobile homicide under Section 
+
+76-5-207
+
+; or
+            
+435
+
+    
+    (b)  the operator of the vehicle was driving on a denied, suspended, revoked, or
+            
+436
+
+    
+disqualified license; and
+            
+437
+
+    
+    (i)  the denial, suspension, revocation, or disqualification under Subsection (3)(c) was
+            
+438
+
+    
+imposed because of a violation under:
+            
+439
+
+    
+    (A)  Section 
+
+41-6a-502
+
+;
+            
+440
+
+    
+    (B)  Section 
+
+41-6a-517
+
+;
+            
+441
+
+    
+    (C)  a local ordinance that complies with the requirements of Subsection 
+
+41-6a-510
+
+(1);
+            
+442
+
+    
+    (D)  Section 
+
+41-6a-520
+
+;
+            
+443
+
+    
+    (E)  Subsection 
+
+58-37-8
+
+(2)(g);
+            
+444
+
+    
+    (F)  Section 
+
+76-5-207
+
+; or
+            
+445
+
+    
+    (G)  a criminal prohibition that the person was charged with violating as a result of a
+            
+446
+
+    
+plea bargain after having been originally charged with violating one or more of the sections or
+            
+447
+
+    
+ordinances described in Subsections (3)(b)(i)(A) through (F); or
+            
+448
+
+    
+    (ii)  the denial, suspension, revocation, or disqualification described in Subsections
+            
+449
+
+    
+(3)(b)(i)(A) through (G):
+            
+450
+
+    
+    (A)  is an extension imposed under Subsection 
+
+53-3-220
+
+(2) of a denial, suspension,
+            
+451
+
+    
+revocation, or disqualification; and
+            
+452
+
+    
+    (B)  the original denial, suspension, revocation, or disqualification was imposed
+            
+453
+
+    
+because of a violation described in Subsections (3)(b)(i)(A) through (G).
+            
+454
+
+    
+    Section 14.  
+Section  
+24-4-103
+
+ is enacted to read:
+            
+455
+
+    
+     24-4-103.  Initiating forfeiture proceedings -- Notice of intent to seek forfeiture.
+            
+456
+
+    
+    (1) (a)  Within 30 days from the date that property is seized, an agency seeking to forfeit
+            
+457
+
+    
+property shall serve a notice of intent to seek forfeiture upon any claimants known to the
+            
+458
+
+    
+agency.
+            
+459
+
+    
+    (b)  The notice of intent to seek forfeiture shall describe the:
+            
+460
+
+    
+    (i)  date of the seizure;
+            
+461
+
+    
+    (ii)  property seized;
+
+            
+462
+
+
+    
+    (iii)  claimant's rights and obligations under this chapter, including the availability of
+            
+463
+
+    
+hardship relief in appropriate circumstances; and
+            
+464
+
+    
+    (iv)  statutory basis for the forfeiture, including the judicial proceedings by which
+            
+465
+
+    
+property may be forfeited under this chapter.
+            
+466
+
+    
+    (c)  The notice of intent to seek forfeiture shall be served by:
+            
+467
+
+    
+    (i)  certified mail, return receipt requested, to the claimant's known address; or
+            
+468
+
+    
+    (ii)  personal service.
+            
+469
+
+    
+    (d)  The court may void any forfeiture made without notice under Subsection (1)(a),
+            
+470
+
+    
+unless the agency demonstrates:
+            
+471
+
+    
+    (i)  good cause for the failure to give notice to the claimant; or
+            
+472
+
+    
+    (ii)  that the claimant had actual notice of the seizure.
+            
+473
+
+    
+    (2) (a)  Once the agency has served each claimant with a notice of intent to seek
+            
+474
+
+    
+forfeiture, but no later than 60 days from the date that property is seized, the agency shall
+            
+475
+
+    
+present a written request for forfeiture to the prosecuting attorney.
+            
+476
+
+    
+    (b)  The written request shall:
+            
+477
+
+    
+    (i)  describe the property to be forfeited; and
+            
+478
+
+    
+    (ii)  include a copy of all reports, supporting documents, and other evidence necessary
+            
+479
+
+    
+for the prosecuting attorney to determine the legal sufficiency for filing a forfeiture action.
+            
+480
+
+    
+    Section 15.  
+Section  
+24-4-104
+
+ is enacted to read:
+            
+481
+
+    
+     24-4-104.  Civil forfeiture procedure.
+            
+482
+
+    
+    (1) (a)  Within 90 days from the date the property is seized, the prosecuting attorney
+            
+483
+
+    
+may elect to file a complaint for civil forfeiture in the appropriate district court.
+            
+484
+
+    
+    (b)  The complaint shall describe with reasonable particularity the:
+            
+485
+
+    
+    (i)  property that is the subject of the forfeiture proceeding;
+            
+486
+
+    
+    (ii)  date and place of seizure; and
+            
+487
+
+    
+    (iii)  factual allegations that constitute a basis for forfeiture.
+            
+488
+
+    
+    (2) (a)  After the complaint is filed, the prosecuting attorney shall serve a copy of the
+            
+489
+
+    
+complaint and summons upon each claimant known to the prosecuting attorney within 30 days.
+            
+490
+
+    
+    (b)  Service of the complaint and summons shall be by:
+            
+491
+
+    
+    (i)  personal service;
+            
+492
+
+    
+    (ii)  certified mail, return receipt requested, to the claimant's known address; or
+
+            
+493
+
+
+    
+    (iii)  if the prosecuting attorney demonstrates to the court that service cannot reasonably
+            
+494
+
+    
+be made by personal service or certified mail, the court may then allow service by electronic
+            
+495
+
+    
+publication on Utah's Public Legal Notice Website established in Subsection 
+
+45-1-101
+
+(2)(b).
+            
+496
+
+    
+    (c)  Service is effective upon the earlier of:
+            
+497
+
+    
+    (i)  personal service;
+            
+498
+
+    
+    (ii)  mailing of a written notice; or
+            
+499
+
+    
+    (iii)  electronic publication.
+            
+500
+
+    
+    (d)  Upon motion of the prosecuting attorney and a showing of good cause, the court
+            
+501
+
+    
+may extend the period to complete service under this section for an additional 60 days.
+            
+502
+
+    
+    (3) (a)  In any case where the prosecuting attorney files a complaint for forfeiture, a
+            
+503
+
+    
+claimant may file an answer to the complaint.
+            
+504
+
+    
+    (b)  The answer shall be filed within 30 days after the complaint is served upon the
+            
+505
+
+    
+claimant as provided in Subsection (2)(b).
+            
+506
+
+    
+    (4)  Except as otherwise provided in this chapter, forfeiture proceedings are governed
+            
+507
+
+    
+by the Utah Rules of Civil Procedure.
+            
+508
+
+    
+    (5)  The court shall take all reasonable steps to expedite civil forfeiture proceedings and
+            
+509
+
+    
+shall give these proceedings the same priority as is given to criminal cases.
+            
+510
+
+    
+    (6)  In all suits or actions brought under this section for the civil forfeiture of any
+            
+511
+
+    
+property, the burden of proof is on the prosecuting attorney to establish by clear and convincing
+            
+512
+
+    
+evidence the extent to which, if any, the property is subject to forfeiture.
+            
+513
+
+    
+    (7)  A claimant may file an answer to a complaint for civil forfeiture without posting
+            
+514
+
+    
+bond with respect to the property subject to forfeiture.
+            
+515
+
+    
+    Section 16.  
+Section  
+24-4-105
+
+ is enacted to read:
+            
+516
+
+    
+     24-4-105.  Criminal forfeiture procedure.
+            
+517
+
+    
+    (1)  If a claimant is criminally prosecuted for conduct giving rise to the forfeiture, the
+            
+518
+
+    
+prosecuting attorney may elect to seek forfeiture of the claimant's interest in the property
+            
+519
+
+    
+through the criminal case.
+            
+520
+
+    
+    (2)  If the prosecuting attorney elects to seek forfeiture of the claimant's interest in the
+            
+521
+
+    
+property through the criminal case, the information or indictment shall state that the claimant's
+            
+522
+
+    
+interest in the property is subject to forfeiture and the basis for the forfeiture.
+            
+523
+
+    
+    (3) (a)  Upon application of the prosecuting attorney, the court may enter restraining
+
+            
+524
+
+
+    
+orders or injunctions, or take other reasonable actions to preserve for forfeiture under this
+            
+525
+
+    
+section, any property subject to forfeiture if, after notice to known claimants and claimants who
+            
+526
+
+    
+can be identified after due diligence and who are known to have an interest in the property, and
+            
+527
+
+    
+after affording those persons an opportunity for a hearing, the court determines that:
+            
+528
+
+    
+    (i)  there is a substantial probability that the state will prevail on the issue of forfeiture
+            
+529
+
+    
+and that failure to enter the order will result in the property being sold, transferred, destroyed,
+            
+530
+
+    
+or removed from the jurisdiction of the court or otherwise made unavailable for forfeiture; and
+            
+531
+
+    
+    (ii)  the need to preserve the availability of the property or prevent its sale, transfer,
+            
+532
+
+    
+destruction, or removal through the entry of the requested order outweighs the hardship against
+            
+533
+
+    
+any party against whom the order is to be entered.
+            
+534
+
+    
+    (b)  A temporary restraining order may be entered ex parte upon application of the
+            
+535
+
+    
+prosecuting attorney before or after an information or indictment has been filed with respect to
+            
+536
+
+    
+the property, if the prosecuting attorney demonstrates that:
+            
+537
+
+    
+    (i)  there is probable cause to believe that the property with respect to which the order is
+            
+538
+
+    
+sought would, in the event of a conviction, be subject to forfeiture under this section; and
+            
+539
+
+    
+    (ii)  provision of notice would jeopardize the availability of the property for forfeiture
+            
+540
+
+    
+or would jeopardize an ongoing criminal investigation.
+            
+541
+
+    
+    (c)  The temporary order expires not more than 10 days after entry unless extended for
+            
+542
+
+    
+good cause shown or unless the party against whom it is entered consents to an extension.
+            
+543
+
+    
+    (d)  After service of the temporary order upon any claimants known to the prosecuting
+            
+544
+
+    
+attorney, a hearing concerning the order entered under this section shall be held as soon as
+            
+545
+
+    
+practicable and prior to the expiration of the temporary order.
+            
+546
+
+    
+    (e)  The court is not bound by the Utah Rules of Evidence regarding evidence it may
+            
+547
+
+    
+receive and consider at any hearing under this section.
+            
+548
+
+    
+    (4) (a)  Upon conviction of a claimant for conduct giving rise to criminal forfeiture, the
+            
+549
+
+    
+prosecutor shall ask the finder of fact to make a specific finding as to whether the property or
+            
+550
+
+    
+any part of it is subject to forfeiture.
+            
+551
+
+    
+    (b)  A determination of whether property is subject to forfeiture under this section shall
+            
+552
+
+    
+be proven beyond a reasonable doubt.
+            
+553
+
+    
+    (5) (a)  Upon conviction of a claimant for violating any provision of state law
+            
+554
+
+    
+subjecting a claimant's property to forfeiture and a finding by the trier of fact that the property
+
+            
+555
+
+
+    
+is subject to forfeiture, the court shall enter a judgment and order the property forfeited to the
+            
+556
+
+    
+state upon the terms stated by the court in its order.
+            
+557
+
+    
+    (b)  Following the entry of an order declaring property forfeited, the court may, upon
+            
+558
+
+    
+application of the prosecuting attorney, enter appropriate restraining orders or injunctions,
+            
+559
+
+    
+require the execution of satisfactory performance bonds, appoint receivers, conservators,
+            
+560
+
+    
+appraisers, accountants, or trustees, or take any other action to protect the interest of the state in
+            
+561
+
+    
+property ordered forfeited.
+            
+562
+
+    
+    (6) (a) (i)  After property is ordered forfeited under this section, the seizing agency shall
+            
+563
+
+    
+direct the disposition of the property under Section 
+
+24-4-115
+
+.
+            
+564
+
+    
+    (ii)  Any property right or interest under this Subsection (6)(a) not exercisable by or
+            
+565
+
+    
+transferable for value to the state expires and does not revert to the defendant.
+            
+566
+
+    
+    (iii)  The defendant or any person acting in concert with or on behalf of the defendant is
+            
+567
+
+    
+not eligible to purchase forfeited property at any sale held by the seizing agency unless
+            
+568
+
+    
+approved by the judge.
+            
+569
+
+    
+    (b)  The court may stay the sale or disposition of the property pending the conclusion of
+            
+570
+
+    
+any appeal of the criminal case giving rise to the forfeiture if the defendant demonstrates that
+            
+571
+
+    
+proceeding with the sale or disposition of the property may result in irreparable injury, harm, or
+            
+572
+
+    
+loss.
+            
+573
+
+    
+    (7)  Except as provided under Subsection (3) or (10), a party claiming an interest in
+            
+574
+
+    
+property subject to forfeiture under this section:
+            
+575
+
+    
+    (a)  may not intervene in a trial or appeal of a criminal case involving the forfeiture of
+            
+576
+
+    
+property under this section; and
+            
+577
+
+    
+    (b)  may not commence an action at law or equity concerning the validity of the party's
+            
+578
+
+    
+alleged interests in the property subsequent to the filing of an indictment or an information
+            
+579
+
+    
+alleging that the property is subject to forfeiture under this section.
+            
+580
+
+    
+    (8)  The district court that has jurisdiction of a case under this part may enter orders
+            
+581
+
+    
+under this section without regard to the location of any property that may be subject to
+            
+582
+
+    
+forfeiture under this section or that has been ordered forfeited under this section.
+            
+583
+
+    
+    (9)  To facilitate the identification or location of property declared forfeited and to
+            
+584
+
+    
+facilitate the disposition of petitions for remission or mitigation of forfeiture after the entry of
+            
+585
+
+    
+an order declaring property forfeited to the state, the court may, upon application of the
+
+            
+586
+
+
+    
+prosecuting attorney, order that the testimony of any witness relating to the forfeited property
+            
+587
+
+    
+be taken by deposition, and that any book, paper, document, record, recording, or other
+            
+588
+
+    
+material shall be produced as provided for depositions and discovery under the Utah Rules of
+            
+589
+
+    
+Civil Procedure.
+            
+590
+
+    
+    (10) (a) (i)  Following the entry of an order of forfeiture under this section, the
+            
+591
+
+    
+prosecuting attorney shall publish notice of the order's intent to dispose of the property by
+            
+592
+
+    
+electronic publication on Utah's Public Legal Notice Website established in Subsection
+            
+593
+
+    
+
+
+45-1-101
+
+(2)(b).
+            
+594
+
+    
+    (ii)  The prosecuting attorney shall also send written notice to any claimants, other than
+            
+595
+
+    
+the defendant, known to the prosecuting attorney to have an interest in the property, at the
+            
+596
+
+    
+claimant's last known address.
+            
+597
+
+    
+    (b) (i)  Any claimant, other than the defendant, asserting a legal interest in property that
+            
+598
+
+    
+has been ordered forfeited to the state under this section may, within 30 days after the notice
+            
+599
+
+    
+has been published or the claimant receives the written notice under Subsection (10)(a),
+            
+600
+
+    
+whichever is earlier, petition the court for a hearing to adjudicate the validity of the claimant's
+            
+601
+
+    
+alleged interest in the property.
+            
+602
+
+    
+    (ii)  Any genuine issue of material fact, including issues of standing, may be tried to a
+            
+603
+
+    
+jury upon demand of any party.
+            
+604
+
+    
+    (c)  The petition shall:
+            
+605
+
+    
+    (i)  be in writing and signed by the claimant under penalty of perjury;
+            
+606
+
+    
+    (ii)  set forth the nature and extent of the claimant's right, title, or interest in the
+            
+607
+
+    
+property, the time and circumstances of the claimant's acquisition of the right, title, or interest
+            
+608
+
+    
+in the property; and
+            
+609
+
+    
+    (iii)  set forth any additional facts supporting the claimant's claim and the relief sought.
+            
+610
+
+    
+    (d)  The trial or hearing on the petition shall be expedited to the extent practicable.  The
+            
+611
+
+    
+court may consolidate a trial or hearing on the petition and any petition filed by any claimant
+            
+612
+
+    
+other than the defendant under this section.  The court shall permit the parties to conduct
+            
+613
+
+    
+pretrial discovery pursuant to the Utah Rules of Civil Procedure.
+            
+614
+
+    
+    (e) (i)  At the trial or hearing, the claimant may testify and present evidence and
+            
+615
+
+    
+witnesses on the claimant's own behalf and cross-examine witnesses who appear at the hearing. 
+            
+616
+
+    
+The prosecuting attorney may present evidence and witnesses in rebuttal and in defense of the
+
+            
+617
+
+
+    
+claim to the property and cross-examine witnesses who appear.
+            
+618
+
+    
+    (ii)  In addition to testimony and evidence presented at the trial or hearing, the court
+            
+619
+
+    
+may consider the relevant portion of the record of the criminal case that resulted in the order of
+            
+620
+
+    
+forfeiture.
+            
+621
+
+    
+    (iii)  Any trial or hearing shall be conducted pursuant to the Utah Rules of Evidence.
+            
+622
+
+    
+    (f)  The court shall amend the order of forfeiture in accordance with its determination, if
+            
+623
+
+    
+after the trial or hearing, the court or jury determines that the petitioner has established by a
+            
+624
+
+    
+preponderance of the evidence that:
+            
+625
+
+    
+    (i)  the claimant has a legal right, title, or interest in the property, and the right, title, or
+            
+626
+
+    
+interest renders the order of forfeiture invalid in whole or in part because the right, title, or
+            
+627
+
+    
+interest was vested in the claimant rather than the defendant or was superior to any right, title,
+            
+628
+
+    
+or interest of the defendant at the time of the commission of the acts or conduct that gave rise
+            
+629
+
+    
+to the forfeiture of the property under this section; or
+            
+630
+
+    
+    (ii)  the claimant acquired the right, title, or interest in the property in a bona fide
+            
+631
+
+    
+transaction for value, and, at the time of acquisition, the claimant did not know that the
+            
+632
+
+    
+property was subject to forfeiture.
+            
+633
+
+    
+    (g)  Following the court's disposition of all petitions filed under this Subsection (10), or
+            
+634
+
+    
+if no petitions are filed following the expiration of the period provided in Subsection (10)(b)
+            
+635
+
+    
+for the filing of petitions, the state has clear title to property subject to the order of forfeiture
+            
+636
+
+    
+and may warrant good title to any subsequent purchaser or transferee.
+            
+637
+
+    
+    Section 17.  
+Section  
+24-4-106
+
+ is enacted to read:
+            
+638
+
+    
+     24-4-106.  Trial by jury.
+            
+639
+
+    
+    The right to trial by jury applies to forfeiture proceedings under this chapter.
+            
+640
+
+    
+    Section 18.  
+Section  
+24-4-107
+
+ is enacted to read:
+            
+641
+
+    
+     24-4-107.  Innocent owners.
+            
+642
+
+    
+    (1)  An innocent owner's interest in property may not be forfeited.
+            
+643
+
+    
+    (2)  In a forfeiture proceeding under this chapter, the prosecuting attorney has the
+            
+644
+
+    
+burden of establishing evidence that a claimant:
+            
+645
+
+    
+    (a)  is responsible for the conduct giving rise to the forfeiture, subject to Subsection (4);
+            
+646
+
+    
+    (b)  knew of the conduct giving rise to the forfeiture, and allowed the property to be
+            
+647
+
+    
+used in furtherance of the conduct;
+
+            
+648
+
+
+    
+    (c)  acquired the property with notice of its actual or constructive seizure for forfeiture
+            
+649
+
+    
+under this chapter;
+            
+650
+
+    
+    (d)  acquired the property knowing the property was subject to forfeiture under this
+            
+651
+
+    
+chapter; or
+            
+652
+
+    
+    (e)  acquired the property in an effort to conceal, prevent, hinder, or delay its lawful
+            
+653
+
+    
+seizure or forfeiture under any provision of state law.
+            
+654
+
+    
+    (3) (a)  A claimant under this chapter is not required to take steps to prevent illegal use
+            
+655
+
+    
+or criminal activity regarding the property that the claimant reasonably believes would be likely
+            
+656
+
+    
+to result in physical harm or danger to any person.
+            
+657
+
+    
+    (b)  A claimant may demonstrate that the claimant took reasonable action to prohibit the
+            
+658
+
+    
+illegal use of the property by:
+            
+659
+
+    
+    (i)  making a timely notification to a law enforcement agency of information that led the
+            
+660
+
+    
+claimant to know that conduct subjecting the property to seizure would occur, was occurring,
+            
+661
+
+    
+or has occurred;
+            
+662
+
+    
+    (ii)  timely revoking or attempting to revoke permission to use the property regarding
+            
+663
+
+    
+those engaging in the illegal conduct; or
+            
+664
+
+    
+    (iii)  taking reasonable actions to discourage or prevent the illegal use of the property.
+            
+665
+
+    
+    (4)  If the state relies on Subsection (2)(a) to establish that a claimant is not an innocent
+            
+666
+
+    
+owner, and if the claimant is criminally charged with the conduct giving rise to the forfeiture
+            
+667
+
+    
+and is acquitted of that charge on the merits:
+            
+668
+
+    
+    (a)  the property subject to the forfeiture or the open market value of the property, if the
+            
+669
+
+    
+property has been disposed of under Subsection 
+
+24-4-108
+
+(13), shall be returned to the
+            
+670
+
+    
+claimant; and
+            
+671
+
+    
+    (b)  any payments required under this chapter regarding holding the property shall be
+            
+672
+
+    
+paid to the claimant.
+            
+673
+
+    
+    (5)  A person may not assert under this chapter an ownership interest in contraband.
+            
+674
+
+    
+    (6)  Property is presumed to be subject to forfeiture under this chapter if the prosecuting
+            
+675
+
+    
+attorney establishes that:
+            
+676
+
+    
+    (a)  the claimant has engaged in conduct giving cause for forfeiture;
+            
+677
+
+    
+    (b)  the property was acquired by the claimant during that period of the conduct giving
+            
+678
+
+    
+cause for forfeiture or within a reasonable time after that period; and
+
+            
+679
+
+
+    
+    (c)  there was no likely source for the purchase or acquisition of the property other than
+            
+680
+
+    
+the conduct giving cause for forfeiture.
+            
+681
+
+    
+    (7)  A finding that property is the proceeds of conduct giving cause for forfeiture does
+            
+682
+
+    
+not require proof that the property was the proceeds of any particular exchange or transaction.
+            
+683
+
+    
+    Section 19.  
+Section  
+24-4-108
+
+ is enacted to read:
+            
+684
+
+    
+     24-4-108.  Release of property held for forfeiture on certain grounds.
+            
+685
+
+    
+    (1)  After the seizing agency gives notice that the property is to be held for forfeiture, a
+            
+686
+
+    
+person or entity may not alienate, convey, sequester, or attach that property until the court
+            
+687
+
+    
+issues a final order of dismissal or an order of forfeiture regarding the property.
+            
+688
+
+    
+    (2)  The seizing agency or the prosecuting attorney may authorize the release of
+            
+689
+
+    
+property held for forfeiture to a claimant if retention of actual custody is unnecessary.
+            
+690
+
+    
+    (3)  With the consent of a court of competent jurisdiction, the prosecuting attorney may
+            
+691
+
+    
+discontinue forfeiture proceedings and transfer the action to another state or federal agency that
+            
+692
+
+    
+has initiated forfeiture proceedings involving the same property.
+            
+693
+
+    
+    (4)  Property held for forfeiture is considered to be in the custody of the district court
+            
+694
+
+    
+and subject only to:
+            
+695
+
+    
+    (a)  the orders and decrees of the court having jurisdiction over the property or the
+            
+696
+
+    
+forfeiture proceedings; and
+            
+697
+
+    
+    (b)  the acts of the agency that possesses the property or the prosecuting attorney
+            
+698
+
+    
+pursuant to this chapter.
+            
+699
+
+    
+    (5) (a)  A claimant may obtain release of property held for forfeiture by posting with the
+            
+700
+
+    
+district court a surety bond or cash in an amount equal to the current fair market value of the
+            
+701
+
+    
+property as determined by the court or by the parties' stipulation.
+            
+702
+
+    
+    (b)  The district court may refuse to order the release of the property if:
+            
+703
+
+    
+    (i)  the bond tendered is inadequate;
+            
+704
+
+    
+    (ii)  the property is contraband or is retained as evidence; or
+            
+705
+
+    
+    (iii)  the property is particularly altered or designed for use in conduct giving cause for
+            
+706
+
+    
+forfeiture.
+            
+707
+
+    
+    (c)  If a surety bond or cash is posted and the court later determines that the property is
+            
+708
+
+    
+subject to forfeiture, the court shall order the forfeiture of the surety bond or cash in lieu of the
+            
+709
+
+    
+property.
+
+            
+710
+
+
+    
+    (6)  A claimant is entitled to the immediate release of property held for forfeiture
+            
+711
+
+    
+pending the final determination of forfeiture if:
+            
+712
+
+    
+    (a)  the claimant had a possessory interest in the property at the time of seizure;
+            
+713
+
+    
+    (b)  continued possession by the agency or the state pending the final disposition of the
+            
+714
+
+    
+forfeiture proceedings will cause substantial hardship to the claimant, such as:
+            
+715
+
+    
+    (i)  preventing the functioning of a legitimate business;
+            
+716
+
+    
+    (ii)  preventing any individual from working;
+            
+717
+
+    
+    (iii)  preventing any child from attending elementary or secondary school;
+            
+718
+
+    
+    (iv)  preventing or hindering any person from receiving necessary medical care;
+            
+719
+
+    
+    (v)  hindering the care of an elderly or disabled dependent child or adult;
+            
+720
+
+    
+    (vi)  leaving any individual homeless; or
+            
+721
+
+    
+    (vii)  any other condition that the court determines causes a substantial hardship;
+            
+722
+
+    
+    (c)  the hardship from the continued possession of the property by the agency outweighs
+            
+723
+
+    
+the risk that the property will be destroyed, damaged, lost, concealed, or transferred if it is
+            
+724
+
+    
+returned to the claimant during the pendency of the proceeding; and
+            
+725
+
+    
+    (d)  determination of substantial hardship under this Subsection (6) is based upon the
+            
+726
+
+    
+property's use prior to the seizure.
+            
+727
+
+    
+    (7)  After the seizing agency gives notice that the property is to be held for forfeiture, a
+            
+728
+
+    
+claimant may file a motion for hardship release:
+            
+729
+
+    
+    (a)  in the court in which forfeiture proceedings have commenced; or
+            
+730
+
+    
+    (b)  in any district court having jurisdiction over the property, if forfeiture proceedings
+            
+731
+
+    
+have not yet commenced.
+            
+732
+
+    
+    (8)  The motion for hardship release shall also be served upon the prosecuting attorney
+            
+733
+
+    
+or the seizing agency within 10 days after filing the motion.
+            
+734
+
+    
+    (9)  The court shall render a decision on a motion for hardship filed under this section
+            
+735
+
+    
+not later than 20 days after the date of filing, or 10 days after service upon the prosecuting
+            
+736
+
+    
+attorney or seizing agency, whichever is earlier, unless this period is extended by the agreement
+            
+737
+
+    
+of both parties or by the court for good cause shown.
+            
+738
+
+    
+    (10) (a)  If the claimant demonstrates substantial hardship pursuant to this section, the
+            
+739
+
+    
+court shall order the property immediately released to the claimant pending completion of
+            
+740
+
+    
+proceedings by the government to obtain forfeiture of the property.
+
+            
+741
+
+
+    
+    (b)  The court may place conditions on release of the property as it finds necessary and
+            
+742
+
+    
+appropriate to preserve the availability of the property or its equivalent for forfeiture.
+            
+743
+
+    
+    (11)  The hardship release under this section does not apply to:
+            
+744
+
+    
+    (a)  contraband;
+            
+745
+
+    
+    (b)  currency or other monetary instrument or electronic funds; or
+            
+746
+
+    
+    (c)  property that is likely to be used to commit additional illegal acts if returned to the
+            
+747
+
+    
+claimant.
+            
+748
+
+    
+    (12) (a)  The court may order property that is held for forfeiture to be sold, as allowed
+            
+749
+
+    
+by Subsection (13), leased, rented, or operated to satisfy a specified interest of any claimant, or
+            
+750
+
+    
+to preserve the interests of any party on motion of that party.
+            
+751
+
+    
+    (b)  The court may enter orders under Subsection (12)(a) after written notice to persons
+            
+752
+
+    
+known to have an interest in the property, and after an opportunity for a hearing.
+            
+753
+
+    
+    (13) (a)  A sale may be ordered under Subsection (12) when the property is liable to
+            
+754
+
+    
+perish, waste, or be significantly reduced in value, or when the expenses of maintaining the
+            
+755
+
+    
+property are disproportionate to its value.
+            
+756
+
+    
+    (b)  A third party designated by the court shall dispose of the property by commercially
+            
+757
+
+    
+reasonable public sale and distribute the proceeds in the following order of priority:
+            
+758
+
+    
+    (i)  first, for the payment of reasonable expenses incurred in connection with the sale;
+            
+759
+
+    
+    (ii)  second, for the satisfaction of any interests, including those of interest holders, in
+            
+760
+
+    
+the order of their priority as determined by Title 70A, Uniform Commercial Code; and
+            
+761
+
+    
+    (iii)  third, any balance of the proceeds shall be preserved in the actual or constructive
+            
+762
+
+    
+custody of the court, in an interest-bearing account, subject to further proceedings under this
+            
+763
+
+    
+chapter.
+            
+764
+
+    
+    Section 20.  
+Section  
+24-4-109
+
+ is enacted to read:
+            
+765
+
+    
+     24-4-109.  Postjudgment interest.
+            
+766
+
+    
+    In any proceeding to forfeit currency or other negotiable instruments under this chapter,
+            
+767
+
+    
+the court shall award a prevailing party postjudgment interest on the currency or negotiable
+            
+768
+
+    
+instruments at the interest rate established under Section 
+
+15-1-4
+
+.
+            
+769
+
+    
+    Section 21.  
+Section  
+24-4-110
+
+ is enacted to read:
+            
+770
+
+    
+     24-4-110.  Attorney fees and costs.
+            
+771
+
+    
+    (1)  In any forfeiture proceeding under this chapter, the court may award a prevailing
+
+            
+772
+
+
+    
+party reasonable:
+            
+773
+
+    
+    (a)  legal costs; and
+            
+774
+
+    
+    (b)  attorney fees.
+            
+775
+
+    
+    (2)  The legal costs and attorney fees awarded by the court to the prevailing party may
+            
+776
+
+    
+not exceed 20% of the value of the property.
+            
+777
+
+    
+    (3)  A party that prevails only in part is entitled to recover reasonable legal costs and
+            
+778
+
+    
+attorney fees only on those issues on which the party prevailed.
+            
+779
+
+    
+    Section 22.  
+Section  
+24-4-111
+
+ is enacted to read:
+            
+780
+
+    
+     24-4-111.  Compensation for damaged property.
+            
+781
+
+    
+    (1)  If property seized for forfeiture is returned by operation of this chapter, a claimant
+            
+782
+
+    
+has a civil right of action against a seizing agency for any claim based upon the negligent
+            
+783
+
+    
+destruction, loss, damage, or other injury to seized property while in the possession or custody
+            
+784
+
+    
+of the agency.
+            
+785
+
+    
+    (2)  As used in this section, "damage or other injury" does not include normal
+            
+786
+
+    
+depreciation, deterioration, or ordinary wear and tear.
+            
+787
+
+    
+    Section 23.  
+Section  
+24-4-112
+
+ is enacted to read:
+            
+788
+
+    
+     24-4-112.  Limitation on fees for holding seized property.
+            
+789
+
+    
+    In any civil or criminal proceeding under this chapter in which a judgment is entered in
+            
+790
+
+    
+favor of a claimant, or where a forfeiture proceeding against a claimant is voluntarily dismissed
+            
+791
+
+    
+by the prosecuting attorney, the seizing agency may not charge that claimant any fee or cost for
+            
+792
+
+    
+holding seized property.
+            
+793
+
+    
+    Section 24.  
+Section  
+24-4-113
+
+ is enacted to read:
+            
+794
+
+    
+     24-4-113.  Proportionality.
+            
+795
+
+    
+    (1) (a)  A claimant's interest in property that is used to facilitate a crime, excluding
+            
+796
+
+    
+contraband, is not subject to forfeiture under any provision of state law if the forfeiture is
+            
+797
+
+    
+substantially disproportionate to the use of the property in committing or facilitating a violation
+            
+798
+
+    
+of state law and the value of the property.
+            
+799
+
+    
+    (b)  Forfeiture of property used solely in a manner that is merely incidental and not
+            
+800
+
+    
+instrumental to the commission or facilitation of a violation of law is not proportional.
+            
+801
+
+    
+    (2) (a)  In determining proportionality, the court shall consider:
+            
+802
+
+    
+    (i)  the conduct giving cause for the forfeiture;
+
+            
+803
+
+
+    
+    (ii)  what portion of the forfeiture, if any, is remedial in nature;
+            
+804
+
+    
+    (iii)  the gravity of the conduct for which the claimant is responsible in light of the
+            
+805
+
+    
+offense; and
+            
+806
+
+    
+    (iv)  the value of the property.
+            
+807
+
+    
+    (b)  If the court finds that the forfeiture is substantially disproportional to the conduct
+            
+808
+
+    
+for which the claimant is responsible, it shall reduce or eliminate the forfeiture, as it finds
+            
+809
+
+    
+appropriate.
+            
+810
+
+    
+    (3)  The prosecuting attorney has the burden to demonstrate that any forfeiture is
+            
+811
+
+    
+proportional to the conduct giving rise to the forfeiture.
+            
+812
+
+    
+    (4)  In all cases the court shall decide questions of proportionality.
+            
+813
+
+    
+    (5)  Forfeiture of any proceeds is proportional.
+            
+814
+
+    
+    Section 25.  
+Section  
+24-4-114
+
+ is enacted to read:
+            
+815
+
+    
+     24-4-114.  Transfer and sharing procedures.
+            
+816
+
+    
+    (1) (a)  Seizing agencies or prosecuting attorneys authorized to bring forfeiture
+            
+817
+
+    
+proceedings under this chapter may not directly or indirectly transfer property held for
+            
+818
+
+    
+forfeiture and not already named in a criminal indictment to any federal agency or any
+            
+819
+
+    
+governmental entity not created under and subject to state law unless:
+            
+820
+
+    
+    (i)  the conduct giving rise to the investigation or seizure is interstate in nature and
+            
+821
+
+    
+sufficiently complex to justify the transfer;
+            
+822
+
+    
+    (ii)  the property may only be forfeited under federal law; or
+            
+823
+
+    
+    (iii)  pursuing forfeiture under state law would unreasonably burden prosecuting
+            
+824
+
+    
+attorneys or state law enforcement agencies.
+            
+825
+
+    
+    (b)  In making a determination under this section, a court may conduct an in camera
+            
+826
+
+    
+inspection of evidence provided by the prosecuting attorney or seizing agency.
+            
+827
+
+    
+    (2)  All property, money, or other things of value received by an agency pursuant to
+            
+828
+
+    
+federal law, which authorizes the sharing or transfer of all or a portion of forfeited property or
+            
+829
+
+    
+the proceeds of the sale of forfeited property to an agency:
+            
+830
+
+    
+    (a)  shall be used in compliance with federal laws and regulations relating to equitable
+            
+831
+
+    
+sharing;
+            
+832
+
+    
+    (b)  may be used for those law enforcement purposes specified in Subsection
+            
+833
+
+    
+
+
+24-4-117
+
+(9); and
+
+            
+834
+
+
+    
+    (c)  may not be used for those law enforcement purposes prohibited in Subsection
+            
+835
+
+    
+
+
+24-4-117
+
+(10).
+            
+836
+
+    
+    (3)  A state or local law enforcement agency awarded any equitable share of property
+            
+837
+
+    
+forfeited by the federal government may only use the award money after approval of the use by
+            
+838
+
+    
+the agency's legislative body.
+            
+839
+
+    
+    (4)  Each year, every agency awarded any equitable share of property forfeited by the
+            
+840
+
+    
+federal government shall file with the commission:
+            
+841
+
+    
+    (a)  a copy of that agency's federal equitable sharing certification; and
+            
+842
+
+    
+    (b)  information, on a form provided by the commission, that details all awards received
+            
+843
+
+    
+from the federal government during the preceding reporting period, including:
+            
+844
+
+    
+    (i)  the agency's case number or other identification;
+            
+845
+
+    
+    (ii)  the amount of the award;
+            
+846
+
+    
+    (iii)  the date of the award;
+            
+847
+
+    
+    (iv)  the identity of any federal agency involved in the forfeiture;
+            
+848
+
+    
+    (v)  how the awarded property has been used; and
+            
+849
+
+    
+    (vi)  a statement signed by both the agency's executive officer or designee and by the
+            
+850
+
+    
+agency's legal counsel confirming that the agency has only used the awarded property for crime
+            
+851
+
+    
+reduction or law enforcement purposes authorized under Section 
+
+24-4-117
+
+, and only upon
+            
+852
+
+    
+approval by the agency's legislative body.
+            
+853
+
+    
+    Section 26.  
+Section  
+24-4-115
+
+ is enacted to read:
+            
+854
+
+    
+     24-4-115.  Disposition and allocation of forfeiture property.
+            
+855
+
+    
+    (1)  Upon finding that property is subject to forfeiture under this chapter, the court shall
+            
+856
+
+    
+order the property forfeited to the state.
+            
+857
+
+    
+    (2) (a)  If the property is not currency, the seizing agency shall authorize a public or
+            
+858
+
+    
+otherwise commercially reasonable sale of that property that is not required by law to be
+            
+859
+
+    
+destroyed and that is not harmful to the public.
+            
+860
+
+    
+    (b)  If the property forfeited is an alcoholic product as defined in Section 
+
+32B-1-102
+
+, it
+            
+861
+
+    
+shall be disposed of as follows:
+            
+862
+
+    
+    (i)  an alcoholic product shall be sold if the alcoholic product is:
+            
+863
+
+    
+    (A)  unadulterated, pure, and free from any crude, unrectified, or impure form of ethylic
+            
+864
+
+    
+alcohol, or any other deleterious substance or liquid; and
+
+            
+865
+
+
+    
+    (B)  otherwise in saleable condition; or
+            
+866
+
+    
+    (ii)  an alcoholic product and its package shall be destroyed if the alcoholic product is
+            
+867
+
+    
+impure, adulterated, or otherwise unfit for sale.
+            
+868
+
+    
+    (c)  If the property forfeited is a cigarette or other tobacco product as defined in Section
+            
+869
+
+    
+
+
+59-14-102
+
+, it shall be destroyed, except that prior to the destruction of any cigarette or other
+            
+870
+
+    
+tobacco product seized pursuant to this part, the lawful holder of the trademark rights in the
+            
+871
+
+    
+cigarette or tobacco product brand shall be permitted to inspect the cigarette.
+            
+872
+
+    
+    (d)  The proceeds of the sale of forfeited property shall remain segregated from other
+            
+873
+
+    
+property, equipment, or assets of the seizing agency until transferred to the state in accordance
+            
+874
+
+    
+with this chapter.
+            
+875
+
+    
+    (3)  From the forfeited property, both currency and the proceeds or revenue from the
+            
+876
+
+    
+sale of the property, the seizing agency shall:
+            
+877
+
+    
+    (a)  deduct the seizing agency's direct costs and expenses of obtaining and maintaining
+            
+878
+
+    
+the property pending forfeiture; and
+            
+879
+
+    
+    (b)  pay the legal costs and attorney fees associated with the litigation of the forfeiture
+            
+880
+
+    
+proceeding.
+            
+881
+
+    
+    (4)  If the forfeiture arises from any violation relating to wildlife resources, the
+            
+882
+
+    
+remaining currency and the proceeds or revenue from the sale of the property shall be deposited
+            
+883
+
+    
+in the Wildlife Resources Account created in Section 
+
+23-14-13
+
+.
+            
+884
+
+    
+    (5)  The remaining currency and the proceeds or revenue from the sale of the property
+            
+885
+
+    
+shall then be transferred to the commission and deposited into the account.
+            
+886
+
+    
+    Section 27.  
+Section  
+24-4-116
+
+ is enacted to read:
+            
+887
+
+    
+     24-4-116.  Criminal Forfeiture Restricted Account.
+            
+888
+
+    
+    (1)  There is created within the General Fund a restricted account known as the
+            
+889
+
+    
+"Criminal Forfeiture Restricted Account."
+            
+890
+
+    
+    (2)  Proceeds from forfeited property and forfeited money through state forfeitures shall
+            
+891
+
+    
+be deposited into the account.
+            
+892
+
+    
+    (3)  Money in the account shall be appropriated to the commission for implementing the
+            
+893
+
+    
+program under Section 
+
+24-4-117
+
+.
+            
+894
+
+    
+    Section 28.  
+Section  
+24-4-117
+
+ is enacted to read:
+            
+895
+
+    
+     24-4-117.  State Asset Forfeiture Grant Program.
+
+            
+896
+
+
+    
+    (1)  There is created the State Asset Forfeiture Grant Program.
+            
+897
+
+    
+    (2)  The program shall fund crime prevention and law enforcement activities that have
+            
+898
+
+    
+the purpose of:
+            
+899
+
+    
+    (a)  deterring crime by depriving criminals of the profits and proceeds of their illegal
+            
+900
+
+    
+activities;
+            
+901
+
+    
+    (b)  weakening criminal enterprises by removing the instrumentalities of crime;
+            
+902
+
+    
+    (c)  reducing crimes involving substance abuse by supporting the creation,
+            
+903
+
+    
+administration, or operation of drug court programs throughout the state;
+            
+904
+
+    
+    (d)  encouraging cooperation between local, state, and multijurisdictional law
+            
+905
+
+    
+enforcement agencies;
+            
+906
+
+    
+    (e)  allowing the costs and expenses of law enforcement to be defrayed by the forfeited
+            
+907
+
+    
+proceeds of crime; and
+            
+908
+
+    
+    (f)  increasing the equitability and accountability of the use of forfeited property used to
+            
+909
+
+    
+assist law enforcement in reducing and preventing crime.
+            
+910
+
+    
+    (3) (a)  When property is forfeited under this chapter and transferred to the account, the
+            
+911
+
+    
+commission shall allocate and administer grants from the account to state, local, or
+            
+912
+
+    
+multijurisdictional law enforcement agencies or political subdivisions of the state in
+            
+913
+
+    
+compliance with this section and to further the program purposes under Subsection (2).
+            
+914
+
+    
+    (b)  The commission may retain up to 3% of the annual appropriation from the account
+            
+915
+
+    
+to pay for administrative costs incurred by the commission, including salary and benefits,
+            
+916
+
+    
+equipment, supplies, or travel costs that are directly related to the administration of the
+            
+917
+
+    
+program.
+            
+918
+
+    
+    (4)  Agencies or political subdivisions shall apply for an award from the program by
+            
+919
+
+    
+completing and submitting forms specified by the commission.
+            
+920
+
+    
+    (5)  In granting the awards, the commission shall ensure that the amount of each award
+            
+921
+
+    
+takes into consideration the:
+            
+922
+
+    
+    (a)  demonstrated needs of the agency;
+            
+923
+
+    
+    (b)  demonstrated ability of the agency to appropriately use the award;
+            
+924
+
+    
+    (c)  degree to which the agency's need is offset through the agency's participation in
+            
+925
+
+    
+federal equitable sharing or through other federal and state grant programs; and
+            
+926
+
+    
+    (d)  agency's cooperation with other state and local agencies and task forces.
+
+            
+927
+
+
+    
+    (6)  Applying agencies or political subdivisions shall demonstrate compliance with all
+            
+928
+
+    
+reporting and policy requirements applicable under this chapter and under Title 63M, Chapter
+            
+929
+
+    
+7, Criminal Justice and Substance Abuse, in order to qualify as a potential award recipient.
+            
+930
+
+    
+    (7) (a)  Recipient law enforcement agencies may only use award money after approval
+            
+931
+
+    
+by the agency's legislative body.
+            
+932
+
+    
+    (b)  The award money is nonlapsing.
+            
+933
+
+    
+    (8)  A recipient law enforcement agency or political subdivision shall use awards only
+            
+934
+
+    
+for law enforcement purposes as described in this section, and only as these purposes are
+            
+935
+
+    
+specified by the agency or political subdivision in its application for the award.
+            
+936
+
+    
+    (9)  Permissible law enforcement purposes for which award money may be used
+            
+937
+
+    
+include:
+            
+938
+
+    
+    (a)  controlled substance interdiction and enforcement activities;
+            
+939
+
+    
+    (b)  drug court programs;
+            
+940
+
+    
+    (c)  activities calculated to enhance future law enforcement investigations;
+            
+941
+
+    
+    (d)  law enforcement training that includes:
+            
+942
+
+    
+    (i)  implementation of the Fourth Amendment to the United States Constitution and
+            
+943
+
+    
+Utah Constitution, Article I, Section 7, and that addresses the protection of the individual's
+            
+944
+
+    
+right of due process;
+            
+945
+
+    
+    (ii)  protection of the rights of innocent property holders; and
+            
+946
+
+    
+    (iii)  the Tenth Amendment to the United States Constitution regarding states'
+            
+947
+
+    
+sovereignty and the states' reserved rights;
+            
+948
+
+    
+    (e)  law enforcement or detention facilities;
+            
+949
+
+    
+    (f)  law enforcement operations or equipment that are not routine costs or operational
+            
+950
+
+    
+expenses;
+            
+951
+
+    
+    (g)  drug, gang, or crime prevention education programs that are sponsored in whole or
+            
+952
+
+    
+in part by the law enforcement agency or its legislative body;
+            
+953
+
+    
+    (h)  matching funds for other state or federal law enforcement grants; and
+            
+954
+
+    
+    (i)  the payment of legal costs, attorney fees, and postjudgment interest in forfeiture
+            
+955
+
+    
+actions.
+            
+956
+
+    
+    (10)  Law enforcement purposes for which award money may not be granted or used
+            
+957
+
+    
+include:
+
+            
+958
+
+
+    
+    (a)  payment of salaries, retirement benefits, or bonuses to any person;
+            
+959
+
+    
+    (b)  payment of expenses not related to law enforcement;
+            
+960
+
+    
+    (c)  uses not specified in the agency's award application;
+            
+961
+
+    
+    (d)  uses not approved by the agency's legislative body;
+            
+962
+
+    
+    (e)  payments, transfers, or pass-through funding to entities other than law enforcement
+            
+963
+
+    
+agencies; or
+            
+964
+
+    
+    (f)  uses, payments, or expenses that are not within the scope of the agency's functions.
+            
+965
+
+    
+    (11) (a)  For each fiscal year, any state, local, or multijurisdictional agency or political
+            
+966
+
+    
+subdivision that received an award shall prepare, and file with the commission, a report in a
+            
+967
+
+    
+form specified by the commission.
+            
+968
+
+    
+    (b)  The report shall include the following regarding each award:
+            
+969
+
+    
+    (i)  the agency's name;
+            
+970
+
+    
+    (ii)  the amount of the award;
+            
+971
+
+    
+    (iii)  the date of the award;
+            
+972
+
+    
+    (iv)  how the award has been used; and
+            
+973
+
+    
+    (v)  a statement signed by both the agency's or political subdivision's executive officer
+            
+974
+
+    
+or designee and by the agency's legal counsel, that:
+            
+975
+
+    
+    (A)  the agency or political subdivision has complied with all inventory, policy, and
+            
+976
+
+    
+reporting requirements of this chapter; and
+            
+977
+
+    
+    (B)  all awards were used for crime reduction or law enforcement purposes as specified
+            
+978
+
+    
+in the application and only upon approval by the agency's or political subdivision's legislative
+            
+979
+
+    
+body.
+            
+980
+
+    
+    (12) (a)  The commission shall report in writing to the legislative Law Enforcement and
+            
+981
+
+    
+Criminal Justice Interim Committee annually regarding the forfeited property transferred to the
+            
+982
+
+    
+account, awards made by the program, uses of program awards, and any equitable share of
+            
+983
+
+    
+property forfeited by the federal government as reported by agencies pursuant to Subsection
+            
+984
+
+    
+
+
+24-4-114
+
+(4).
+            
+985
+
+    
+    (b)  The report shall be submitted annually on or before November 1.
+            
+986
+
+    
+    Section 29.  
+Section  
+32B-4-206
+
+ is amended to read:
+            
+987
+
+    
+     32B-4-206.  Searches, seizures, forfeitures, and fines.
+            
+988
+
+    
+    [(1)  The following are subject to forfeiture pursuant to Title 24, Chapter 1, Utah
+
+            
+989
+
+
+    
+Uniform Forfeiture Procedures Act:]
+            
+990
+
+    
+    [(a)  an alcoholic product possessed, purchased, used, stored, sold, offered for sale,
+            
+991
+
+    
+furnished, given, received, warehoused, manufactured, distributed, shipped, carried,
+            
+992
+
+    
+transported, or adulterated in violation of this title or commission rules;]
+            
+993
+
+    
+    [(b)  a container or property used or intended for use as a container for an alcoholic
+            
+994
+
+    
+product in violation of this title or commission rules;]
+            
+995
+
+    
+    [(c)  raw materials, products, and equipment used, or intended for use, in
+            
+996
+
+    
+manufacturing, processing, delivering, importing, exporting, or adulterating an alcoholic
+            
+997
+
+    
+product in violation of this title or commission rules;]
+            
+998
+
+    
+    [(d)  implements, furniture, fixtures, or other personal property used or kept for a
+            
+999
+
+    
+violation of this title or commission rules;]
+            
+1000
+
+    
+    [(e)  conveyances including an aircraft, vehicle, or vessel used or intended for use, to
+            
+1001
+
+    
+transport or in any manner facilitate the transportation, sale, receipt, possession, or
+            
+1002
+
+    
+concealment of property described in Subsection (1)(a), (b), (c), or (d); and]
+            
+1003
+
+    
+    [(f)  a record used or intended for use in violation of this title or commission rules.]
+            
+1004
+
+    
+    [(2) (a)  Property subject to forfeiture under this title may be seized by a peace officer of
+            
+1005
+
+    
+this state or any other person authorized by law upon process issued by a court having
+            
+1006
+
+    
+jurisdiction over the property in accordance with the Utah Rules of Criminal Procedure relating
+            
+1007
+
+    
+to search warrants or administrative warrants.]
+            
+1008
+
+    
+    [(b)  Notwithstanding Subsection (2)(a), seizure without process may be made when:]
+            
+1009
+
+    
+    [(i)  the seizure is incident to an arrest or search under a search warrant or an inspection
+            
+1010
+
+    
+under an administrative inspection warrant;]
+            
+1011
+
+    
+    [(ii)  the property subject to seizure has been the subject of a prior judgment in favor of
+            
+1012
+
+    
+the state in a criminal injunction or forfeiture proceeding under this title;]
+            
+1013
+
+    
+    [(iii)  the peace officer or other person authorized by law has probable cause to believe
+            
+1014
+
+    
+that the property is directly or indirectly dangerous to health or safety; or]
+            
+1015
+
+    
+    [(iv)  the peace officer or other person authorized by law has probable cause to believe
+            
+1016
+
+    
+that the property is being or has been used, intended to be used, held, or kept in violation of this
+            
+1017
+
+    
+title or commission rules.]
+            
+1018
+
+    
+    [(3)  If property is seized pursuant to a search or administrative warrant, a peace officer
+            
+1019
+
+    
+or other person authorized by law shall comply with the requirements of the Utah Rules of
+
+            
+1020
+
+
+    
+Criminal Procedure.]
+            
+1021
+
+    
+    [(4) (a)  If property is seized without process:]
+            
+1022
+
+    
+    [(i)  the peace officer or other person authorized by law shall make a return of the peace
+            
+1023
+
+    
+officer's or person's acts without delay directly to the district court of the county in which the
+            
+1024
+
+    
+property was located; and]
+            
+1025
+
+    
+    [(ii)  the district court shall have jurisdiction of the case.]
+            
+1026
+
+    
+    [(b)  A return shall describe:]
+            
+1027
+
+    
+    [(i)  the property seized;]
+            
+1028
+
+    
+    [(ii)  the place where the property is seized; and]
+            
+1029
+
+    
+    [(iii)  any person in apparent possession of the property.]
+            
+1030
+
+    
+    [(c)  A peace officer or other person described in Subsection (4)(a) shall promptly:]
+            
+1031
+
+    
+    [(i)  deliver a written inventory of anything seized to any person in apparent authority at
+            
+1032
+
+    
+the premises where the seizure is made; or]
+            
+1033
+
+    
+    [(ii)  post a written inventory of anything seized in a conspicuous place at the premises.]
+            
+1034
+
+    
+    [(d)  A written inventory under this Subsection (4) shall state the place where the
+            
+1035
+
+    
+property is being held.]
+            
+1036
+
+    
+    [(5)  Property taken or detained under this section is not repleviable but is considered in
+            
+1037
+
+    
+custody of the law enforcement agency making the seizure subject only to the orders of the
+            
+1038
+
+    
+court or the official having jurisdiction.  When property is seized under this title, the
+            
+1039
+
+    
+appropriate person or agency may:]
+            
+1040
+
+    
+    [(a)  place the property under seal;]
+            
+1041
+
+    
+    [(b)  remove the property to a place designated by:]
+            
+1042
+
+    
+    [(i)  the person or agency; or]
+            
+1043
+
+    
+    [(ii)  the warrant under which the property is seized; or]
+            
+1044
+
+    
+    [(c)  take custody of the property and remove the property to an appropriate location for
+            
+1045
+
+    
+disposition in accordance with law.]
+            
+1046
+
+    
+    [(6)  When property is subject to forfeiture under this section, a proceeding shall be
+            
+1047
+
+    
+instituted in accordance with Title 24, Chapter 1, Utah Uniform Forfeiture Procedures Act.]
+            
+1048
+
+    
+    [(7)  When property is ordered forfeited under Title 24, Chapter 1, Utah Uniform
+            
+1049
+
+    
+Forfeiture Procedures Act, by a finding of a court that no person is entitled to recover the
+            
+1050
+
+    
+property, the property, if an alcohol container or product used as a container for an alcoholic
+
+            
+1051
+
+
+    
+product, shall be disposed of as follows:]
+            
+1052
+
+    
+    [(a)  An alcoholic product shall be sold in accordance with Section 
+
+24-1-17
+
+ if the
+            
+1053
+
+    
+alcoholic product is:]
+            
+1054
+
+    
+    [(i)  unadulterated, pure, and free from crude, unrectified, or impure form of ethylic
+            
+1055
+
+    
+alcohol, or any other deleterious substance or liquid; and]
+            
+1056
+
+    
+    [(ii)  otherwise in saleable condition.]
+            
+1057
+
+    
+    [(b)  If the alcoholic product is impure, adulterated, or otherwise unfit for sale, the
+            
+1058
+
+    
+department shall destroy the alcoholic product and its container under competent supervision.]
+            
+1059
+
+    
+    [(8)]  Except when otherwise provided, a fine or forfeiture levied under this title shall
+            
+1060
+
+    
+be paid to the county treasurer of the county in which the prosecution occurred.
+            
+1061
+
+    
+    Section 30.  
+Section  
+41-6a-527
+
+ is amended to read:
+            
+1062
+
+    
+     41-6a-527.  Seizure and impoundment of vehicles by peace officers -- Impound
+            
+1063
+
+    
+ requirements -- Removal of vehicle by owner.
+            
+1064
+
+    
+    (1)  If a peace officer arrests, cites, or refers for administrative action the operator of a
+            
+1065
+
+    
+vehicle for violating Section 
+
+41-6a-502
+
+, 
+
+41-6a-517
+
+, 
+
+41-6a-518.2
+
+, 
+
+41-6a-520
+
+, 
+
+41-6a-530
+
+,
+            
+1066
+
+    
+
+41-6a-606
+
+, 
+
+53-3-231
+
+, 
+
+53-3-232
+
+, Subsections 
+
+53-3-227
+
+(3)(a)(i) through (vi), Subsection
+            
+1067
+
+    
+
+53-3-227
+
+(3)(a)(ix), or a local ordinance similar to Section 
+
+41-6a-502
+
+ which complies with
+            
+1068
+
+    
+Subsection 
+
+41-6a-510
+
+(1), the peace officer shall seize and impound the vehicle in accordance
+            
+1069
+
+    
+with Section 
+
+41-6a-1406
+
+, except as provided under Subsection (2).
+            
+1070
+
+    
+    (2)  If a registered owner of the vehicle, other than the operator, is present at the time of
+            
+1071
+
+    
+arrest, the peace officer may release the vehicle to that registered owner, but only if:
+            
+1072
+
+    
+    (a)  the registered owner:
+            
+1073
+
+    
+    (i)  requests to remove the vehicle from the scene; and
+            
+1074
+
+    
+    (ii)  presents to the peace officer sufficient identification to prove ownership of the
+            
+1075
+
+    
+vehicle or motorboat;
+            
+1076
+
+    
+    (b)  the registered owner identifies a driver with a valid operator's license who:
+            
+1077
+
+    
+    (i)  complies with all restrictions of his operator's license; and
+            
+1078
+
+    
+    (ii)  would not, in the judgment of the officer, be in violation of Section 
+
+41-6a-502
+
+,
+            
+1079
+
+    
+
+41-6a-517
+
+, 
+
+41-6a-518.2
+
+, 
+
+41-6a-520
+
+, 
+
+41-6a-530
+
+, 
+
+53-3-231
+
+, 
+
+53-3-232
+
+, or a local ordinance
+            
+1080
+
+    
+similar to Section 
+
+41-6a-502
+
+ which complies with Subsection 
+
+41-6a-510
+
+(1) if permitted to
+            
+1081
+
+    
+operate the vehicle; and
+
+            
+1082
+
+
+    
+    (c)  the vehicle itself is legally operable.
+            
+1083
+
+    
+    (3)  If necessary for transportation of a motorboat for impoundment under this section,
+            
+1084
+
+    
+the motorboat's trailer may be used to transport the motorboat.
+            
+1085
+
+    
+    [(4)  A motor vehicle is subject to criminal or civil forfeiture under the procedures and
+            
+1086
+
+    
+substantive protections established in Title 24, Chapter 1, Utah Uniform Forfeiture Procedures
+            
+1087
+
+    
+Act, upon a finding by the court that:]
+            
+1088
+
+    
+    [(a)  the motor vehicle was used in a violation of Section 
+
+41-6a-502
+
+, 
+
+41-6a-517
+
+, a local
+            
+1089
+
+    
+ordinance which complies with the requirements of Subsection 
+
+41-6a-510
+
+(1), Subsection
+            
+1090
+
+    
+
+
+58-37-8
+
+(2)(g), or Section 
+
+76-5-207
+
+;]
+            
+1091
+
+    
+    [(b)  the operator of the vehicle has previously been convicted of a violation committed
+            
+1092
+
+    
+after May 12, 2009, of:]
+            
+1093
+
+    
+    [(i)  a felony driving under the influence violation under Section 
+
+41-6a-502
+
+;]
+            
+1094
+
+    
+    [(ii)  a felony violation of Subsection 
+
+58-37-8
+
+(2)(g); or]
+            
+1095
+
+    
+    [(iii)  automobile homicide under Section 
+
+76-5-207
+
+;]
+            
+1096
+
+    
+    [(c)  the operator of the vehicle was driving on a denied, suspended, revoked, or
+            
+1097
+
+    
+disqualified license; and]
+            
+1098
+
+    
+    [(d) (i)  the denial, suspension, revocation, or disqualification under Subsection (4)(c)
+            
+1099
+
+    
+was imposed because of a violation of:]
+            
+1100
+
+    
+    [(A)  Section 
+
+41-6a-502
+
+;]
+            
+1101
+
+    
+    [(B)  Section 
+
+41-6a-517
+
+;]
+            
+1102
+
+    
+    [(C)  a local ordinance which complies with the requirements of Subsection
+            
+1103
+
+    
+
+
+41-6a-510
+
+(1);]
+            
+1104
+
+    
+    [(D)  Section 
+
+41-6a-520
+
+;]
+            
+1105
+
+    
+    [(E)  Subsection 
+
+58-37-8
+
+(2)(g);]
+            
+1106
+
+    
+    [(F)  Section 
+
+76-5-207
+
+; or]
+            
+1107
+
+    
+    [(G)  a criminal prohibition that the person was charged with violating as a result of a
+            
+1108
+
+    
+plea bargain after having been originally charged with violating one or more of the sections or
+            
+1109
+
+    
+ordinances described in Subsections (4)(d)(i)(A) through (F); or]
+            
+1110
+
+    
+    [(ii) (A)  the denial, suspension, revocation, or disqualification described in Subsection
+            
+1111
+
+    
+(4)(c) is an extension imposed under Subsection 
+
+53-3-220
+
+(2) of a denial, suspension,
+            
+1112
+
+    
+revocation, or disqualification; and]
+
+            
+1113
+
+
+    
+    [(B)  the original denial, suspension, revocation, or disqualification was imposed
+            
+1114
+
+    
+because of a violation described in Subsection (4)(d)(i)(A) through (G).]
+            
+1115
+
+    
+    Section 31.  
+Section  
+53-7-406
+
+ is amended to read:
+            
+1116
+
+    
+     53-7-406.  Penalties.
+            
+1117
+
+    
+    (1) (a)  Except as provided in Subsection (1)(b), a manufacturer, wholesale dealer,
+            
+1118
+
+    
+agent, or any other person or entity who knowingly sells or offers to sell cigarettes, other than
+            
+1119
+
+    
+through retail sale, in violation of Section 
+
+53-7-403
+
+:
+            
+1120
+
+    
+    (i)  for a first offense shall be liable for a civil penalty not to exceed $10,000 per each
+            
+1121
+
+    
+sale of cigarettes; and
+            
+1122
+
+    
+    (ii)  for a subsequent offense shall be liable for a civil penalty not to exceed $25,000 per
+            
+1123
+
+    
+each sale of such cigarettes.
+            
+1124
+
+    
+    (b)  A penalty imposed under Subsection (1)(a) may not exceed $100,000 during any
+            
+1125
+
+    
+30-day period against any one entity described in Subsection (1).
+            
+1126
+
+    
+    (2) (a)  Except as provided in Subsection (2)(b), a retail dealer who knowingly sells
+            
+1127
+
+    
+cigarettes in violation of Section 
+
+53-7-403
+
+ shall:
+            
+1128
+
+    
+    (i)  for a first offense for each sale or offer for sale of cigarettes, if the total number of
+            
+1129
+
+    
+cigarettes sold or offered for sale:
+            
+1130
+
+    
+    (A)  does not exceed 1,000 cigarettes, be liable for a civil penalty not to exceed $500
+            
+1131
+
+    
+for each sale or offer of sale; and
+            
+1132
+
+    
+    (B)  does exceed 1,000 cigarettes, be liable for a civil penalty not to exceed $1,000 for
+            
+1133
+
+    
+each sale or offer of sale; and
+            
+1134
+
+    
+    (ii)  for a subsequent offense, if the total number of cigarettes sold or offered for sale:
+            
+1135
+
+    
+    (A)  does not exceed 1,000 cigarettes, be liable for a civil penalty not to exceed $2,000
+            
+1136
+
+    
+for each sale or offer of sale; and
+            
+1137
+
+    
+    (B)  does exceed 1,000 cigarettes, be liable for a civil penalty not to exceed $5,000 for
+            
+1138
+
+    
+each sale or offer of sale.
+            
+1139
+
+    
+    (b)  A penalty imposed under Subsection (2)(a) against any retail dealer shall not
+            
+1140
+
+    
+exceed $25,000 during a 30-day period.
+            
+1141
+
+    
+    (3)  In addition to any penalty prescribed by law, any corporation, partnership, sole
+            
+1142
+
+    
+proprietor, limited partnership, or association engaged in the manufacture of cigarettes that
+            
+1143
+
+    
+knowingly makes a false certification pursuant to Section 
+
+53-7-404
+
+ shall, for each false
+
+            
+1144
+
+
+    
+certification:
+            
+1145
+
+    
+    (a)  for a first offense, be liable for a civil penalty of at least $75,000; and
+            
+1146
+
+    
+    (b)  for a subsequent offense, be liable for a civil penalty not to exceed $250,000.
+            
+1147
+
+    
+    (4)  Any person violating any other provision in this part shall be liable for a civil
+            
+1148
+
+    
+penalty for each violation:
+            
+1149
+
+    
+    (a)  for a first offense, not to exceed $1,000; and
+            
+1150
+
+    
+    (b)  for a subsequent offense, not to exceed $5,000.
+            
+1151
+
+    
+    [(5)  Any cigarettes that have been sold or offered for sale that do not comply with the
+            
+1152
+
+    
+performance standard required by Section 
+
+53-7-403
+
+ shall be subject to forfeiture under Title 24,
+            
+1153
+
+    
+Chapter 1, Utah Uniform Forfeiture Procedures Act, and, upon being forfeited, shall be
+            
+1154
+
+    
+destroyed, provided, however, that prior to the destruction of any cigarette seized pursuant to
+            
+1155
+
+    
+this part, the true holder of the trademark rights in the cigarette brand shall be permitted to
+            
+1156
+
+    
+inspect the cigarette.]
+            
+1157
+
+    
+    [(6)] (5)  In addition to any other remedy provided by law, the state fire marshal or
+            
+1158
+
+    
+attorney general may file an action in district court for a violation of this part, including
+            
+1159
+
+    
+petitioning for injunctive relief or to recover any costs or damages suffered by the state because
+            
+1160
+
+    
+of a violation of this part, including enforcement costs relating to the specific violation and
+            
+1161
+
+    
+attorney fees.  Each violation of this part or of rules or regulations adopted under this part
+            
+1162
+
+    
+constitutes a separate civil violation for which the state fire marshal or attorney general may
+            
+1163
+
+    
+obtain relief.
+            
+1164
+
+    
+    Section 32.  
+Section  
+63J-1-602.1
+
+ is amended to read:
+            
+1165
+
+    
+     63J-1-602.1.  List of nonlapsing accounts and funds -- General authority and Title
+            
+1166
+
+    
+ 1 through Title 30.
+            
+1167
+
+    
+    (1)  Appropriations made to the Legislature and its committees.
+            
+1168
+
+    
+    (2)  The Percent-for-Art Program created in Section 
+
+9-6-404
+
+.
+            
+1169
+
+    
+    (3)  The Martin Luther King, Jr. Civil Rights Support Restricted Account created in
+            
+1170
+
+    
+Section 
+
+9-18-102
+
+.
+            
+1171
+
+    
+    (4)  The LeRay McAllister Critical Land Conservation Program created in Section
+            
+1172
+
+    
+
+11-38-301
+
+.
+            
+1173
+
+    
+    (5)  An appropriation made to the Division of Wildlife Resources for the appraisal and
+            
+1174
+
+    
+purchase of lands under the Pelican Management Act, as provided in Section 
+
+23-21a-6
+
+.
+
+            
+1175
+
+
+    
+    (6)  Award money under the [Crime Reduction Assistance Program] State Asset
+            
+1176
+
+    
+Forfeiture Grant Program, as provided under Section [
+
+24-1-19
+
+] 
+
+24-4-117
+
+.
+            
+1177
+
+    
+    (7)  Funds collected from the emergency medical services grant program, as provided in
+            
+1178
+
+    
+Section 
+
+26-8a-207
+
+.
+            
+1179
+
+    
+    (8)  The Prostate Cancer Support Restricted Account created in Section 
+
+26-21a-303
+
+.
+            
+1180
+
+    
+    (9)  State funds appropriated for matching federal funds in the Children's Health
+            
+1181
+
+    
+Insurance Program as provided in Section 
+
+26-40-108
+
+.
+            
+1182
+
+    
+    (10)  The Utah Health Care Workforce Financial Assistance Program created in Section
+            
+1183
+
+    
+
+26-46-102
+
+.
+            
+1184
+
+    
+    Section 33.  
+Section  
+76-6-903
+
+ is amended to read:
+            
+1185
+
+    
+     76-6-903.  Penalties.
+            
+1186
+
+    
+    (1)  A person is guilty of a class B misdemeanor if that person:
+            
+1187
+
+    
+    (a)  violates this part; or
+            
+1188
+
+    
+    (b)  counsels, procures, solicits, or employs any other person to violate this part.
+            
+1189
+
+    
+    (2)  A person is guilty of a third degree felony if:
+            
+1190
+
+    
+    (a)  that person commits a second or subsequent violation described in Subsection (1);
+            
+1191
+
+    
+or
+            
+1192
+
+    
+    (b)  the amount calculated under Subsection (3) for a violation described in Subsection
+            
+1193
+
+    
+(1) exceeds $500.
+            
+1194
+
+    
+    (3)  The amount described in Subsection (2)(b) is calculated by adding the:
+            
+1195
+
+    
+    (a)  commercial or archaeological value of the antiquities involved in the violation; and
+            
+1196
+
+    
+    (b)  cost of the restoration and repair of the antiquities involved in the violation.
+            
+1197
+
+    
+    [(4) (a)  All property used in conjunction with the criminal activity, together with all
+            
+1198
+
+    
+photographs and records, shall be forfeited to the state.]
+            
+1199
+
+    
+    [(b)] (4)  All articles and material discovered, collected, excavated, or offered for sale
+            
+1200
+
+    
+or exchange shall be surrendered to the landowner.
+            
+1201
+
+    
+    Section 34.  
+Section  
+76-10-1603.5
+
+ is amended to read:
+            
+1202
+
+    
+     76-10-1603.5.  Violation a felony -- Costs -- Fines -- Divestiture -- Restrictions --
+            
+1203
+
+    
+ Dissolution or reorganization -- Prior restraint.
+            
+1204
+
+    
+    (1)  A person who violates any provision of Section 
+
+76-10-1603
+
+ is guilty of a second
+            
+1205
+
+    
+degree felony.  In addition to penalties prescribed by law, the court may order the person found
+
+            
+1206
+
+
+    
+guilty of the felony to pay to the state, if the attorney general brought the action, or to the
+            
+1207
+
+    
+county, if the county attorney or district attorney brought the action, the costs of investigating
+            
+1208
+
+    
+and prosecuting the offense and the costs of securing the forfeitures provided for in this
+            
+1209
+
+    
+section.  [The person shall forfeit:]
+            
+1210
+
+    
+    [(a)  any interest acquired or maintained in violation of any provision of Section
+            
+1211
+
+    
+
+
+76-10-1603
+
+;]
+            
+1212
+
+    
+    [(b)  any interest in, security of, claim against, or property or contractual right of any
+            
+1213
+
+    
+kind affording a source of influence over any enterprise which the person has established,
+            
+1214
+
+    
+operated, controlled, conducted, or participated in the conduct of in violation of Section
+            
+1215
+
+    
+
+
+76-10-1603
+
+; and]
+            
+1216
+
+    
+    [(c)  any property constituting or derived from the net proceeds which the person
+            
+1217
+
+    
+obtained, directly or indirectly, from the conduct constituting the pattern of unlawful activity or
+            
+1218
+
+    
+from any act or conduct constituting the pattern of unlawful activity proven as part of the
+            
+1219
+
+    
+violation of any provision of Section 
+
+76-10-1603
+
+.]
+            
+1220
+
+    
+    [(2)  If a violation of Section 
+
+76-10-1603
+
+ is based on a pattern of unlawful activity
+            
+1221
+
+    
+consisting of acts or conduct in violation of Section 
+
+76-10-1204
+
+, 
+
+76-10-1205
+
+, 
+
+76-10-1206
+
+, or
+            
+1222
+
+    
+
+
+76-10-1222
+
+, the property subject to forfeiture under this section is limited to property, the
+            
+1223
+
+    
+seizure or forfeiture of which would not constitute a prior restraint on the exercise of an
+            
+1224
+
+    
+affected party's rights under the First Amendment to the Constitution of the United States or
+            
+1225
+
+    
+Utah Constitution Article I, Section 15, or would not otherwise unlawfully interfere with the
+            
+1226
+
+    
+exercise of those rights.]
+            
+1227
+
+    
+    [(3)] (2)  In lieu of a fine otherwise authorized by law for a violation of Section
+            
+1228
+
+    
+
+76-10-1603
+
+, a defendant who derives net proceeds from a conduct prohibited by Section
+            
+1229
+
+    
+
+76-10-1603
+
+ may be fined not more than twice the amount of the net proceeds.
+            
+1230
+
+    
+    [(4)  Property subject to forfeiture in accordance with the procedures and substantive
+            
+1231
+
+    
+protections of Title 24, Chapter 1, Utah Uniform Forfeiture Procedures Act:]
+            
+1232
+
+    
+    [(a)  includes:]
+            
+1233
+
+    
+    [(i)  real property, including things growing on, affixed to, and found in land; and]
+            
+1234
+
+    
+    [(ii)  tangible and intangible personal property including money, rights, privileges,
+            
+1235
+
+    
+interests, claims, and securities of any kind; but]
+            
+1236
+
+    
+    [(b)  does not include property exchanged or to be exchanged for services rendered in
+
+            
+1237
+
+
+    
+connection with the defense of the charges or any related criminal case.]
+            
+1238
+
+    
+    [(5)] (3)  Upon conviction for violating any provision of Section 
+
+76-10-1603
+
+, and in
+            
+1239
+
+    
+addition to any penalty prescribed by law [and in addition to any forfeitures provided for in this
+            
+1240
+
+    
+section], the court may do any or all of the following:
+            
+1241
+
+    
+    (a)  order restitution to any victim or rightful owner of property obtained, directly or
+            
+1242
+
+    
+indirectly, from:
+            
+1243
+
+    
+    (i)  the conduct constituting the pattern of unlawful activity; or
+            
+1244
+
+    
+    (ii)  any act or conduct constituting the pattern of unlawful activity that is proven as part
+            
+1245
+
+    
+of the violation of any provision of Section 
+
+76-10-1603
+
+;
+            
+1246
+
+    
+    (b)  order the person to divest himself of any interest in or any control, direct or
+            
+1247
+
+    
+indirect, of any enterprise;
+            
+1248
+
+    
+    (c)  impose reasonable restrictions on the future activities or investments of any person,
+            
+1249
+
+    
+including prohibiting the person from engaging in the same type of endeavor as the enterprise
+            
+1250
+
+    
+engaged in, to the extent the Utah Constitution and the Constitution of the United States
+            
+1251
+
+    
+permit; or
+            
+1252
+
+    
+    (d)  order the dissolution or reorganization of any enterprise.
+            
+1253
+
+    
+    [(6)] (4)  If a violation of Section 
+
+76-10-1603
+
+ is based on a pattern of unlawful activity
+            
+1254
+
+    
+consisting of acts or conduct in violation of Section 
+
+76-10-1204
+
+, 
+
+76-10-1205
+
+, 
+
+76-10-1206
+
+, or
+            
+1255
+
+    
+
+76-10-1222
+
+, the court may not enter any order that would amount to a prior restraint on the
+            
+1256
+
+    
+exercise of an affected party's rights under the First Amendment to the Constitution of the
+            
+1257
+
+    
+United States or Utah Constitution Article I, Section 15.
+            
+1258
+
+    
+    [(7)  All rights, title, and interest in forfeitable property described in Subsections (1)
+            
+1259
+
+    
+and (2) are subject to forfeiture proceedings in accordance with the procedures and substantive
+            
+1260
+
+    
+protections of Title 24, Chapter 1, Utah Uniform Forfeiture Procedures Act.]
+            
+1261
+
+    
+    [(8)] (5)  For purposes of this section, the "net proceeds" of an offense means property
+            
+1262
+
+    
+acquired as a result of the violation minus the direct costs of acquiring the property.
+            
+1263
+
+    
+    Section 35.  
+Section  
+77-24a-1
+
+ is repealed and reenacted to read:
+            
+1264
+
+    
+ CHAPTER 24a.  LOST OR MISLAID PERSONAL PROPERTY
+
+            
+1265
+
+    
+     77-24a-1.  Definition.
+            
+1266
+
+    
+    (1)  "Lost or mislaid property":
+            
+1267
+
+    
+    (a)  means any property that comes into the possession of a peace officer or law
+
+            
+1268
+
+
+    
+enforcement agency:
+            
+1269
+
+    
+    (i)  that is not claimed by anyone who is identified as the owner of the property; or
+            
+1270
+
+    
+    (ii)  for which no owner or interest holder can be found after a reasonable and diligent
+            
+1271
+
+    
+search;
+            
+1272
+
+    
+    (b)  includes any property received by a peace officer or law enforcement agency from a
+            
+1273
+
+    
+person claiming to have found the property; and
+            
+1274
+
+    
+    (c)  does not include property seized by a peace officer pursuant to Title 24, Forfeiture
+            
+1275
+
+    
+and Disposition of Property Act.
+            
+1276
+
+    
+    (2)  "Public interest use" means:
+            
+1277
+
+    
+    (a)  use by a governmental agency as determined by the agency's legislative body; or
+            
+1278
+
+    
+    (b)  donation to a nonprofit charity registered with the state.
+            
+1279
+
+    
+    Section 36.  
+Section  
+77-24a-2
+
+ is amended to read:
+            
+1280
+
+    
+     77-24a-2.  Disposition by police agency.
+            
+1281
+
+    
+    All [unclaimed] lost or mislaid property coming into the possession of a peace officer
+            
+1282
+
+    
+or law enforcement agency shall be turned over to, held, and disposed of only by the local law
+            
+1283
+
+    
+enforcement agency whose authority extends to the area where the item was found.
+            
+1284
+
+    
+    Section 37.  
+Section  
+77-24a-3
+
+ is amended to read:
+            
+1285
+
+    
+     77-24a-3.  Statement of finder of property.
+            
+1286
+
+    
+    (1)  A person [finding unclaimed] who finds lost or mislaid property and [delivering]
+            
+1287
+
+    
+delivers it to a local law enforcement agency shall sign a statement included in a form provided
+            
+1288
+
+    
+by the agency, stating [how]:
+            
+1289
+
+    
+    (a)  the manner in which the property came into [his] the person's possession, including
+            
+1290
+
+    
+the time, date, and place[, and stating that he];
+            
+1291
+
+    
+    (b)  that the person does not know who [the owner of] owns the property [is, that];
+            
+1292
+
+    
+    (c)  that, to the person's knowledge, the property was not [to his knowledge] stolen[,
+            
+1293
+
+    
+that his];
+            
+1294
+
+    
+    (d)  that the person's possession of [it] the property is not unlawful[,]; and [providing]
+            
+1295
+
+    
+    (e)  any information [he] the person is aware of which could lead to a determination of
+            
+1296
+
+    
+the owner.  [Other]
+            
+1297
+
+    
+    (2)  Additional information may be requested by the agency receiving the [item]
+            
+1298
+
+    
+property, as necessary.
+
+            
+1299
+
+
+    
+    Section 38.  
+Section  
+77-24a-4
+
+ is amended to read:
+            
+1300
+
+    
+     77-24a-4.  Locating owner of property.
+            
+1301
+
+    
+    (1)  The local law enforcement agency shall take reasonable steps to determine the
+            
+1302
+
+    
+identity and location of the owner, and notify [him] the owner that the property is in custody.
+            
+1303
+
+    
+    (2)  The owner may obtain the property only by [making identification of himself and
+            
+1304
+
+    
+of] providing personal identification, identifying the property, and paying any costs incurred by
+            
+1305
+
+    
+the agency, including costs for advertising or storage.
+            
+1306
+
+    
+    Section 39.  
+Section  
+77-24a-5
+
+ is amended to read:
+            
+1307
+
+    
+     77-24a-5.  Disposition of unclaimed property.
+            
+1308
+
+    
+    (1) (a)  If the owner of any [unclaimed] lost or mislaid property cannot be determined or
+            
+1309
+
+    
+notified, or if [he] the owner of the property is determined and notified, and fails to appear and
+            
+1310
+
+    
+claim the property after three months of its receipt by the local law enforcement agency, the
+            
+1311
+
+    
+agency shall:
+            
+1312
+
+    
+    (i)  publish [at least one] notice of the intent to dispose of the unclaimed property[:] on
+            
+1313
+
+    
+Utah's Public Legal Notice Website established in Subsection 
+
+45-1-101
+
+(2)(b); and
+            
+1314
+
+    
+    [(A)  in a newspaper of general circulation within the county; and]
+            
+1315
+
+    
+    [(B)  as required in Section 
+
+45-1-101
+
+; and]
+            
+1316
+
+    
+    (ii)  post a similar notice in a public place designated for notice within the law
+            
+1317
+
+    
+enforcement agency.
+            
+1318
+
+    
+    (b)  The notice shall:
+            
+1319
+
+    
+    (i)  give a general description of the item; and
+            
+1320
+
+    
+    (ii)  the date of intended disposition.
+            
+1321
+
+    
+    (c)  The agency may not dispose of the [unclaimed] lost or mislaid property until at
+            
+1322
+
+    
+least eight days after the date of publication and posting.
+            
+1323
+
+    
+    (2) (a)  If no claim is made for the [unclaimed] lost or mislaid property within nine days
+            
+1324
+
+    
+of publication and posting, the agency shall notify the person who turned the property over to
+            
+1325
+
+    
+the local law enforcement agency, if it was turned over by a person under Section 
+
+77-24a-3
+
+.
+            
+1326
+
+    
+    (b)  Except as provided in Subsection (4), if that person has complied with the
+            
+1327
+
+    
+provisions of this chapter, the person may take the [unclaimed] lost or mislaid property if the
+            
+1328
+
+    
+person:
+            
+1329
+
+    
+    (i)  pays the costs incurred for advertising and storage; and
+
+            
+1330
+
+
+    
+    (ii)  signs a receipt for the item.
+            
+1331
+
+    
+    (3)  If the person who found the [unclaimed] lost or mislaid property fails to take the
+            
+1332
+
+    
+property under the provisions of this chapter, the agency shall [dispose of that property and any
+            
+1333
+
+    
+other property that is not claimed under this chapter as provided by Section 
+
+77-24-4
+
+.]:
+            
+1334
+
+    
+    (a)  apply the property to a public interest use as provided in Subsection (4);
+            
+1335
+
+    
+    (b)  sell the property at public auction and apply the proceeds of the sale to a public
+            
+1336
+
+    
+interest use; or
+            
+1337
+
+    
+    (c)  destroy the property if it is unfit for a public interest use or sale.
+            
+1338
+
+    
+    (4)  Before applying the lost or mislaid property to a public interest use, the agency
+            
+1339
+
+    
+having possession of the property shall obtain from the agency's legislative body:
+            
+1340
+
+    
+    (a)  permission to apply the property to a public interest use; and
+            
+1341
+
+    
+    (b)  the designation and approval of the public interest use of the property.
+            
+1342
+
+    
+    [(4)] (5)  Any person employed by a law enforcement agency who finds property may
+            
+1343
+
+    
+not claim or receive property under this section.
+            
+1344
+
+    
+    Section 40.  Repealer.
+            
+1345
+
+    
+    This bill repeals:
+            
+1346
+
+    
+    Section  24-1-1,  Title.
+            
+1347
+
+    
+    Section  24-1-2,  Purpose.
+            
+1348
+
+    
+    Section  24-1-3,  Definitions.
+            
+1349
+
+    
+    Section  24-1-3.5,  Jurisdiction and venue.
+            
+1350
+
+    
+    Section  24-1-4,  Civil Procedures.
+            
+1351
+
+    
+    Section  24-1-5,  No bond required in civil cases.
+            
+1352
+
+    
+    Section  24-1-6,  Innocent owners.
+            
+1353
+
+    
+    Section  24-1-7,  Hardship release of seized property.
+            
+1354
+
+    
+    Section  24-1-8,  Criminal procedures.
+            
+1355
+
+    
+    Section  24-1-9,  Appointment of counsel for indigent claimants in civil and criminal
+            
+1356
+
+    
+ forfeiture proceedings.
+            
+1357
+
+    
+    Section  24-1-10,  Prejudgment and postjudgment interest.
+            
+1358
+
+    
+    Section  24-1-11,  Attorneys' fees and costs.
+            
+1359
+
+    
+    Section  24-1-12,  Compensation for damaged property.
+            
+1360
+
+    
+    Section  24-1-13,  Limitation on fees for holding seized property.
+
+            
+1361
+
+
+    
+    Section  24-1-14,  Proportionality.
+            
+1362
+
+    
+    Section  24-1-15,  Transfer and sharing procedures.
+            
+1363
+
+    
+    Section  24-1-17,  Disposition and allocation of forfeiture property.
+            
+1364
+
+    
+    Section  24-1-18,  Criminal Forfeiture Restricted Account.
+            
+1365
+
+    
+    Section  24-1-19,  Crime Reduction Assistance Program.
+            
+1366
+
+    
+    Section  24-1-20,  State Law Enforcement Forfeiture Account created -- Revenue
+            
+1367
+
+    
+ sources -- Use of account designated.
+            
+1368
+
+    
+    Section  41-6a-211,  Vehicle subject to forfeiture -- Seizure -- Procedure.
+            
+1369
+
+    
+    Section  58-37-13,  Property subject to forfeiture -- Seizure -- Procedure.
+            
+1370
+
+    
+    Section  76-3-501,  Vehicle subject to forfeiture -- Seizure -- Procedure.
+            
+1371
+
+    
+    Section  76-10-525,  Disposition of weapons after use for court purposes.
+            
+1372
+
+    
+    Section  76-10-1107,  Seizure and sale of devices or equipment used for gambling.
+            
+1373
+
+    
+    Section  76-10-1908,  Forfeiture -- Grounds -- Procedure -- Disposition of property
+            
+1374
+
+    
+ seized.
+            
+1375
+
+    
+    Section  77-24-1,  Definitions.
+            
+1376
+
+    
+    Section  77-24-1.5,  Safekeeping by officer pending disposition -- Records required.
+            
+1377
+
+    
+    Section  77-24-2,  Property not needed as evidence -- Child interview retention --
+            
+1378
+
+    
+ Return procedure -- Conflict resolution for secondhand merchandise.
+            
+1379
+
+    
+    Section  77-24-3,  Receipt from owner of returned property.
+            
+1380
+
+    
+    Section  77-24-4,  Disposition of property.
+            
+1381
+
+    
+    Section  77-24-5,  Property seized from person -- Duplicate receipts.
+            
+1382
+
+    
+    Section 41.   Effective date.
+            
+1383
+
+    
+    This bill takes effect on July 1, 2013.
+
+
+
+
+ Legislative Review Note
+    as of   2-27-13  3:33 PM
+
+ Office of Legislative Research and General Counsel
+[Bill Documents][Bills Directory]
+
+
+
+
+
+
+
+
+
+Who represents me?
+
+
+
+
+
+Remember my Legislators
+
+
+
+
+
+State Senate
+		350 North State, Suite 320
+		PO Box 145115
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1035
+		Fax: (801) 326-1475
+
+
+
+House of Representatives
+		350 North State, Suite 350
+		PO Box 145030
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1029
+		Fax: (801) 326-1544
+
+
+
+
+
+
+
+
+
+
+Home
+Mobile Site
+Site Map
+Calendar
+Code / Constitution
+House
+Senate
+
+Terms of Use/Privacy Policy
+
+ADA
+Utah.gov
+
+
+
+
+
+
+

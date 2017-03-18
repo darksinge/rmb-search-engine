@@ -1,0 +1,568 @@
+Sponsors: []Modifications: oran insurance company investigating a claim for physical loss of described propertyFull text:
+
+
+
+Utah State Legislature
+
+
+
+
+
+
+
+
+
+
+
+
+Legislators
+
+By Session (1896-Current)
+Alphabetical (Historical)
+Find by Address/Map
+More
+
+
+Bills
+
+Bills/Bill Requests
+Passed Bills
+2017 Bills
+
+Keyword Search
+Reading Calendars
+Tracking Service
+More
+
+
+Committees
+
+All Committees
+Appropriations
+Commissions
+
+Independent Legislative Ethics Commission
+Interim
+Standing
+Subcommittees
+Task Forces
+Bills In Committees
+
+
+Utah Code / Constitution
+
+
+Title/Chapter/Section
+Keyword Search 
+
+Utah Constitution
+Laws of Utah 1851-ongoing
+Utah Territorial Laws 
+More
+
+
+Senate
+
+Main Page 
+About The Senate 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Extraordinary Sessions 
+Reading Calendars 
+Past Floor Debates 
+Senate Journals 
+
+
+House
+
+Main Page
+About the House 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Reading Calendars 
+Past Floor Debates 
+Journals 
+Conflict of Interest Forms 
+
+
+Legislative Guide 
+
+Legislative Guide
+Civic Programs
+GRAMA (Records Requests)
+
+
+Publications
+
+Search Publications
+Appropriations
+Audits
+Bagels & Briefings
+Briefing Papers
+Digest of Legislation
+Legislative Drafting Manual
+
+Journals
+
+Interim Highlights
+
+Legislative Rules
+GRAMA (Records Requests)
+Public Email
+State Organization Charts
+YouTube Channel
+Requests for Proposals and Legal Notices
+More
+
+
+Legislative Histories
+
+Legislative History Resources
+How to Research
+Bill Drafting/Research Files (1990-Ongoing)
+
+Working Bills (1896-1989)
+Interim Committee Histories (1990-Ongoing) 
+Journals
+Past House Floor Debates
+Past Senate Floor Debates
+More
+
+
+Staff Offices
+
+All Legislative Offices
+Auditor General
+Fiscal Analyst
+Printing
+Research and General Counsel
+Staff Awards
+Job Opportunities
+More
+
+
+Links of Interest
+
+Utah Administrative Rules
+Courts
+Utah State Capitol
+State of Utah
+Federal Legislation
+More
+
+
+
+
+
+
+ 
+
+Download Zipped Introduced WordPerfect HB0239.ZIP
+[Status][Bill Documents][Fiscal Note][Bills Directory]
+
+
+H.B. 239
+
+
+
+
+
+            
+1
+
+    
+ PAWNSHOP RECORD AMENDMENTS
+
+
+
+            
+2
+
+    
+2012 GENERAL SESSION
+
+            
+3
+
+    
+STATE OF UTAH
+
+            
+4
+
+    
+
+
+ Chief Sponsor:  Richard A. Greenwood
+
+
+
+            
+5
+
+    
+
+
+
+Senate Sponsor: 
+
+
+
+
+
+
+  Curtis S. Bramble
+
+
+
+
+
+            
+6
+
+    
+
+            
+7
+
+    
+ LONG TITLE
+            
+8
+
+    
+ General Description:
+            
+9
+
+    
+    This bill amends Title 13, Chapter 32a, Pawnshop and Secondhand Merchandise
+            
+10
+
+    
+Transaction Information Act, modifying procedures relating to access of pawn and
+            
+11
+
+    
+purchase transaction records.
+            
+12
+
+    
+ Highlighted Provisions:
+            
+13
+
+    
+    This bill:
+            
+14
+
+    
+    .    permits law enforcement and the Division of Consumer Protection to access pawn
+            
+15
+
+    
+and purchase transaction records on a central database on behalf of an insurance
+            
+16
+
+    
+company investigating a claim for physical loss of property; and
+            
+17
+
+    
+    .    makes technical changes.
+            
+18
+
+    
+ Money Appropriated in this Bill:
+            
+19
+
+    
+    None
+            
+20
+
+    
+ Other Special Clauses:
+            
+21
+
+    
+    None
+            
+22
+
+    
+ Utah Code Sections Affected:
+            
+23
+
+    
+AMENDS:
+            
+24
+
+    
+     13-32a-106.5, as last amended by Laws of Utah 2009, Chapter 272
+            
+25
+
+    
+
+            
+26
+
+    
+Be it enacted by the Legislature of the state of Utah:
+            
+27
+
+    
+    Section 1.  
+Section  
+13-32a-106.5
+
+ is amended to read:
+
+            
+28
+
+
+    
+     13-32a-106.5.  Confidentiality of pawn and purchase transactions.
+            
+29
+
+    
+    (1)  All pawn and purchase transaction records delivered to a local law enforcement
+            
+30
+
+    
+official or transmitted to the central database pursuant to Section 
+
+13-32a-106
+
+ are protected
+            
+31
+
+    
+records under Section 
+
+63G-2-305
+
+.  These records may be used only by law enforcement
+            
+32
+
+    
+officials and the division and only for the law enforcement and administrative enforcement
+            
+33
+
+    
+purposes of:
+            
+34
+
+    
+    (a)  investigating possible criminal conduct involving the property delivered to the
+            
+35
+
+    
+pawnbroker or secondhand business in a pawn or purchase transaction;
+            
+36
+
+    
+    (b)  investigating a possible violation of the record keeping or reporting requirements of
+            
+37
+
+    
+this chapter when the local law enforcement official, based on a review of the records and
+            
+38
+
+    
+information received, has reason to believe that a violation has occurred;
+            
+39
+
+    
+    (c)  responding to an inquiry from a person claiming ownership of described property or
+            
+40
+
+    
+an insurance company investigating a claim for physical loss of described property by
+            
+41
+
+    
+searching the database to determine if property matching the description has been delivered to a
+            
+42
+
+    
+pawnbroker or secondhand business by another person in a pawn or purchase transaction and if
+            
+43
+
+    
+so, obtaining from the database:
+            
+44
+
+    
+    (i)  a description of the property;
+            
+45
+
+    
+    (ii)  the name and address of the pawnbroker or secondhand business who received the
+            
+46
+
+    
+property; and
+            
+47
+
+    
+    (iii)  the name, address, and date of birth of the conveying person; and
+            
+48
+
+    
+    (d) taking enforcement action under Section 
+
+13-2-5
+
+ against a pawnbroker or
+            
+49
+
+    
+secondhand business.
+            
+50
+
+    
+    (2) (a)  A person may not knowingly and intentionally use, release, publish, or
+            
+51
+
+    
+otherwise make available to any person or entity any information obtained from the database
+            
+52
+
+    
+for any purpose other than those specified in Subsection (1).
+            
+53
+
+    
+    (b)  Each separate violation of Subsection (2)(a) is a class B misdemeanor.
+            
+54
+
+    
+    (c)  Each separate violation of Subsection (2)(a) is subject to a civil penalty not to
+            
+55
+
+    
+exceed $250.
+
+
+
+
+
+ Legislative Review Note
+    as of   1-27-12  5:30 PM
+
+ Office of Legislative Research and General Counsel
+[Bill Documents][Bills Directory]
+
+
+
+
+
+
+
+
+
+Who represents me?
+
+
+
+
+
+Remember my Legislators
+
+
+
+
+
+State Senate
+		350 North State, Suite 320
+		PO Box 145115
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1035
+		Fax: (801) 326-1475
+
+
+
+House of Representatives
+		350 North State, Suite 350
+		PO Box 145030
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1029
+		Fax: (801) 326-1544
+
+
+
+
+
+
+
+
+
+
+Home
+Mobile Site
+Site Map
+Calendar
+Code / Constitution
+House
+Senate
+
+Terms of Use/Privacy Policy
+
+ADA
+Utah.gov
+
+
+
+
+
+
+

@@ -1,0 +1,762 @@
+Sponsors: []Modifications:     53A-13-111.(1)  The State Board of Education shall provide for an educational program on the useof information technology, which shall be offered by high schools.(2)  An educational program on the use of information technology shall:(a)  provide instruction on skills and competencies essential for the workplace andrequested by employers;(b)  include the following components:(i)  a curriculum;(ii)  online access to the curriculum;(iii)  instructional software for classroom and student use;(iv)  certification of skills and competencies most frequently requested by employers;(v)  professional development for teachers; and(vi)  deployment and program support, including integration with existing curriculumstandards; and(c)  be made available to high school students, faculty, and staff.    53B-1-111.(1)  The State Board of Regents shall provide for an educational program on the use ofinformation technology, which shall be offered by Salt Lake Community College and the UtahCollege of Applied Technology.(2)  An educational program on the use of information technology shall:(a)  provide instruction on skills and competencies essential for the workplace andrequested by employers;(b)  include the following components:(i)  a curriculum;(ii)  online access to the curriculum;(iii)  instructional software for classroom and student use;(iv)  certification of skills and competencies most frequently requested by employers;(v)  professional development for faculty; and(vi)  deployment and program support, including integration with existing curriculumstandards; and(c)  be made available to students, faculty, and staff of participating institutions.Under the terms and conditions of Title 63J, Chapter 1, Budgetary Procedures Act, thefollowing sums of money are appropriated from resources not otherwise appropriated out of thefunds or accounts indicated for the fiscal year beginning July 1, 2012 and ending June 30,2013.  These are additions to amounts previously appropriated for fiscal year 2013.Item 1.  To State Board of Education - Utah State Office of Education -     Initiative ProgramsFrom Education Fund$400,000Schedule of Programs:Contracts and Grants$400,000The Legislature intends that the appropriation under this section is:(1)  nonlapsing; and(2)  to be used for an educational program on the use of information technology asprovided in Section 
+
+53A-13-111
+
+.Item 2.  To State Board of Regents - Education ExcellenceFrom General Fund$85,000Schedule of Programs:Education Excellence$85,000The Legislature intends that the appropriation under this section is:(1)  nonlapsing; and(2)  to be used for an educational program on the use of information technology asprovided in Section 
+
+53B-1-111
+
+.(1)  Except as provided in Subsection (2), this bill takes effect on May 8, 2012.(2)  Uncodified Section 3, Appropriation, takes effect on July 1, 2012.Full text:
+
+
+
+Utah State Legislature
+
+
+
+
+
+
+
+
+
+
+
+
+Legislators
+
+By Session (1896-Current)
+Alphabetical (Historical)
+Find by Address/Map
+More
+
+
+Bills
+
+Bills/Bill Requests
+Passed Bills
+2017 Bills
+
+Keyword Search
+Reading Calendars
+Tracking Service
+More
+
+
+Committees
+
+All Committees
+Appropriations
+Commissions
+
+Independent Legislative Ethics Commission
+Interim
+Standing
+Subcommittees
+Task Forces
+Bills In Committees
+
+
+Utah Code / Constitution
+
+
+Title/Chapter/Section
+Keyword Search 
+
+Utah Constitution
+Laws of Utah 1851-ongoing
+Utah Territorial Laws 
+More
+
+
+Senate
+
+Main Page 
+About The Senate 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Extraordinary Sessions 
+Reading Calendars 
+Past Floor Debates 
+Senate Journals 
+
+
+House
+
+Main Page
+About the House 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Reading Calendars 
+Past Floor Debates 
+Journals 
+Conflict of Interest Forms 
+
+
+Legislative Guide 
+
+Legislative Guide
+Civic Programs
+GRAMA (Records Requests)
+
+
+Publications
+
+Search Publications
+Appropriations
+Audits
+Bagels & Briefings
+Briefing Papers
+Digest of Legislation
+Legislative Drafting Manual
+
+Journals
+
+Interim Highlights
+
+Legislative Rules
+GRAMA (Records Requests)
+Public Email
+State Organization Charts
+YouTube Channel
+Requests for Proposals and Legal Notices
+More
+
+
+Legislative Histories
+
+Legislative History Resources
+How to Research
+Bill Drafting/Research Files (1990-Ongoing)
+
+Working Bills (1896-1989)
+Interim Committee Histories (1990-Ongoing) 
+Journals
+Past House Floor Debates
+Past Senate Floor Debates
+More
+
+
+Staff Offices
+
+All Legislative Offices
+Auditor General
+Fiscal Analyst
+Printing
+Research and General Counsel
+Staff Awards
+Job Opportunities
+More
+
+
+Links of Interest
+
+Utah Administrative Rules
+Courts
+Utah State Capitol
+State of Utah
+Federal Legislation
+More
+
+
+
+
+
+
+ 
+
+Download Zipped Introduced WordPerfect HB0514.ZIP
+[Status][Bill Documents][Fiscal Note][Bills Directory]
+
+
+H.B. 514
+
+
+
+
+
+            
+1
+
+    
+ PUBLIC AND HIGHER EDUCATION TECHNOLOGY
+
+            
+2
+
+    
+ AMENDMENTS
+
+
+
+            
+3
+
+    
+2012 GENERAL SESSION
+
+            
+4
+
+    
+STATE OF UTAH
+
+            
+5
+
+    
+
+
+ Chief Sponsor:  Merlynn T. Newbold
+
+
+
+            
+6
+
+    
+
+
+
+Senate Sponsor:  
+
+
+
+
+
+
+____________
+
+
+
+
+
+            
+7
+
+    
+
+            
+8
+
+    
+ LONG TITLE
+            
+9
+
+    
+ General Description:
+            
+10
+
+    
+    This bill provides for an educational program on the use of information technology
+            
+11
+
+    
+within the public education and higher education systems.
+            
+12
+
+    
+ Highlighted Provisions:
+            
+13
+
+    
+    This bill:
+            
+14
+
+    
+    .    directs the State Board of Education and the State Board of Regents to provide for
+            
+15
+
+    
+an educational program on the use of information technology; and
+            
+16
+
+    
+    .    specifies the components of an educational program on the use of information
+            
+17
+
+    
+technology.
+            
+18
+
+    
+ Money Appropriated in this Bill:
+            
+19
+
+    
+    This bill appropriates for the fiscal year beginning July 1, 2012 and ending June 30,
+            
+20
+
+    
+2013:
+            
+21
+
+    
+    .    to the State Board of Education - Utah State Office of Education - Initiative
+            
+22
+
+    
+Programs, as an ongoing appropriation:
+            
+23
+
+    
+        .    from the Education Fund, $400,000; and
+            
+24
+
+    
+    .    to the State Board of Regents - Education Excellence, as an ongoing appropriation:
+            
+25
+
+    
+        .    from the Education Fund, $85,000.
+            
+26
+
+    
+ Other Special Clauses:
+            
+27
+
+    
+    This bill provides an effective date.
+
+            
+28
+
+
+    
+ Utah Code Sections Affected:
+            
+29
+
+    
+ENACTS:
+            
+30
+
+    
+     53A-13-111, Utah Code Annotated 1953
+            
+31
+
+    
+     53B-1-111, Utah Code Annotated 1953
+            
+32
+
+    
+
+            
+33
+
+    
+Be it enacted by the Legislature of the state of Utah:
+            
+34
+
+    
+    Section 1.  
+Section  
+53A-13-111
+
+ is enacted to read:
+            
+35
+
+    
+     53A-13-111.  Educational program on the use of information technology.
+            
+36
+
+    
+    (1)  The State Board of Education shall provide for an educational program on the use
+            
+37
+
+    
+of information technology, which shall be offered by high schools.
+            
+38
+
+    
+    (2)  An educational program on the use of information technology shall:
+            
+39
+
+    
+    (a)  provide instruction on skills and competencies essential for the workplace and
+            
+40
+
+    
+requested by employers;
+            
+41
+
+    
+    (b)  include the following components:
+            
+42
+
+    
+    (i)  a curriculum;
+            
+43
+
+    
+    (ii)  online access to the curriculum;
+            
+44
+
+    
+    (iii)  instructional software for classroom and student use;
+            
+45
+
+    
+    (iv)  certification of skills and competencies most frequently requested by employers;
+            
+46
+
+    
+    (v)  professional development for teachers; and
+            
+47
+
+    
+    (vi)  deployment and program support, including integration with existing curriculum
+            
+48
+
+    
+standards; and
+            
+49
+
+    
+    (c)  be made available to high school students, faculty, and staff.
+            
+50
+
+    
+    Section 2.  
+Section  
+53B-1-111
+
+ is enacted to read:
+            
+51
+
+    
+     53B-1-111.  Educational program on the use of information technology.
+            
+52
+
+    
+    (1)  The State Board of Regents shall provide for an educational program on the use of
+            
+53
+
+    
+information technology, which shall be offered by Salt Lake Community College and the Utah
+            
+54
+
+    
+College of Applied Technology.
+            
+55
+
+    
+    (2)  An educational program on the use of information technology shall:
+            
+56
+
+    
+    (a)  provide instruction on skills and competencies essential for the workplace and
+            
+57
+
+    
+requested by employers;
+            
+58
+
+    
+    (b)  include the following components:
+
+            
+59
+
+
+    
+    (i)  a curriculum;
+            
+60
+
+    
+    (ii)  online access to the curriculum;
+            
+61
+
+    
+    (iii)  instructional software for classroom and student use;
+            
+62
+
+    
+    (iv)  certification of skills and competencies most frequently requested by employers;
+            
+63
+
+    
+    (v)  professional development for faculty; and
+            
+64
+
+    
+    (vi)  deployment and program support, including integration with existing curriculum
+            
+65
+
+    
+standards; and
+            
+66
+
+    
+    (c)  be made available to students, faculty, and staff of participating institutions.
+            
+67
+
+    
+    Section 3.   Appropriation.
+            
+68
+
+    
+    Under the terms and conditions of Title 63J, Chapter 1, Budgetary Procedures Act, the
+            
+69
+
+    
+following sums of money are appropriated from resources not otherwise appropriated out of the
+            
+70
+
+    
+funds or accounts indicated for the fiscal year beginning July 1, 2012 and ending June 30,
+            
+71
+
+    
+2013.  These are additions to amounts previously appropriated for fiscal year 2013.
+            
+72
+
+    
+    Item 1.  To State Board of Education - Utah State Office of Education - 
+            
+73
+
+    
+    Initiative Programs
+            
+74
+
+    
+        From Education Fund$400,000
+
+            
+75
+
+    
+        Schedule of Programs:
+            
+76
+
+    
+            Contracts and Grants                $400,000
+            
+77
+
+    
+    The Legislature intends that the appropriation under this section is:
+            
+78
+
+    
+    (1)  nonlapsing; and
+            
+79
+
+    
+    (2)  to be used for an educational program on the use of information technology as
+            
+80
+
+    
+provided in Section 
+
+53A-13-111
+
+.
+            
+81
+
+    
+    Item 2.  To State Board of Regents - Education Excellence
+            
+82
+
+    
+        From General Fund$85,000
+
+            
+83
+
+    
+        Schedule of Programs:
+            
+84
+
+    
+            Education Excellence                $85,000
+            
+85
+
+    
+    The Legislature intends that the appropriation under this section is:
+            
+86
+
+    
+    (1)  nonlapsing; and
+            
+87
+
+    
+    (2)  to be used for an educational program on the use of information technology as
+            
+88
+
+    
+provided in Section 
+
+53B-1-111
+
+.
+            
+89
+
+    
+    Section 4.   Effective date.
+
+            
+90
+
+
+    
+    (1)  Except as provided in Subsection (2), this bill takes effect on May 8, 2012.
+            
+91
+
+    
+    (2)  Uncodified Section 3, Appropriation, takes effect on July 1, 2012.
+
+
+
+
+ Legislative Review Note
+    as of   2-28-12  3:42 PM
+
+ Office of Legislative Research and General Counsel
+[Bill Documents][Bills Directory]
+
+
+
+
+
+
+
+
+
+Who represents me?
+
+
+
+
+
+Remember my Legislators
+
+
+
+
+
+State Senate
+		350 North State, Suite 320
+		PO Box 145115
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1035
+		Fax: (801) 326-1475
+
+
+
+House of Representatives
+		350 North State, Suite 350
+		PO Box 145030
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1029
+		Fax: (801) 326-1544
+
+
+
+
+
+
+
+
+
+
+Home
+Mobile Site
+Site Map
+Calendar
+Code / Constitution
+House
+Senate
+
+Terms of Use/Privacy Policy
+
+ADA
+Utah.gov
+
+
+
+
+
+
+

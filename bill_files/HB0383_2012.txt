@@ -1,0 +1,3690 @@
+Sponsors: []Modifications: (10)  In IRC, Section R310.1.1, the existing exception is numbered as exception 1, anda new exception 2 is added as follows: "2.  An existing bedroom window if meeting theminimum opening requirement would compromise the structural integrity of the building orcannot be accomplished in accordance with current setback, window well, or other buildingcode requirements."(11)(12)(13)(14)(15)(16)(17)(18)Full text:
+
+
+
+Utah State Legislature
+
+
+
+
+
+
+
+
+
+
+
+
+Legislators
+
+By Session (1896-Current)
+Alphabetical (Historical)
+Find by Address/Map
+More
+
+
+Bills
+
+Bills/Bill Requests
+Passed Bills
+2017 Bills
+
+Keyword Search
+Reading Calendars
+Tracking Service
+More
+
+
+Committees
+
+All Committees
+Appropriations
+Commissions
+
+Independent Legislative Ethics Commission
+Interim
+Standing
+Subcommittees
+Task Forces
+Bills In Committees
+
+
+Utah Code / Constitution
+
+
+Title/Chapter/Section
+Keyword Search 
+
+Utah Constitution
+Laws of Utah 1851-ongoing
+Utah Territorial Laws 
+More
+
+
+Senate
+
+Main Page 
+About The Senate 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Extraordinary Sessions 
+Reading Calendars 
+Past Floor Debates 
+Senate Journals 
+
+
+House
+
+Main Page
+About the House 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Reading Calendars 
+Past Floor Debates 
+Journals 
+Conflict of Interest Forms 
+
+
+Legislative Guide 
+
+Legislative Guide
+Civic Programs
+GRAMA (Records Requests)
+
+
+Publications
+
+Search Publications
+Appropriations
+Audits
+Bagels & Briefings
+Briefing Papers
+Digest of Legislation
+Legislative Drafting Manual
+
+Journals
+
+Interim Highlights
+
+Legislative Rules
+GRAMA (Records Requests)
+Public Email
+State Organization Charts
+YouTube Channel
+Requests for Proposals and Legal Notices
+More
+
+
+Legislative Histories
+
+Legislative History Resources
+How to Research
+Bill Drafting/Research Files (1990-Ongoing)
+
+Working Bills (1896-1989)
+Interim Committee Histories (1990-Ongoing) 
+Journals
+Past House Floor Debates
+Past Senate Floor Debates
+More
+
+
+Staff Offices
+
+All Legislative Offices
+Auditor General
+Fiscal Analyst
+Printing
+Research and General Counsel
+Staff Awards
+Job Opportunities
+More
+
+
+Links of Interest
+
+Utah Administrative Rules
+Courts
+Utah State Capitol
+State of Utah
+Federal Legislation
+More
+
+
+
+
+
+
+ 
+
+Download Zipped Introduced WordPerfect HB0383.ZIP
+[Status][Bill Documents][Fiscal Note][Bills Directory]
+
+
+H.B. 383
+
+
+
+
+
+            
+1
+
+    
+ INTERNATIONAL RESIDENTIAL CODE AMENDMENTS
+
+
+
+            
+2
+
+    
+2012 GENERAL SESSION
+
+            
+3
+
+    
+STATE OF UTAH
+
+            
+4
+
+    
+
+
+ Chief Sponsor:  Jeremy A. Peterson
+
+
+
+            
+5
+
+    
+
+
+
+Senate Sponsor:  
+
+
+
+
+
+
+____________
+
+
+
+
+
+            
+6
+
+    
+
+            
+7
+
+    
+ LONG TITLE
+            
+8
+
+    
+ General Description:
+            
+9
+
+    
+    This bill modifies a provision of the adopted International Residential Code.
+            
+10
+
+    
+ Highlighted Provisions:
+            
+11
+
+    
+    This bill:
+            
+12
+
+    
+    .    provides an exception to an emergency escape and rescue opening provision of the
+            
+13
+
+    
+adopted International Residential Code.
+            
+14
+
+    
+ Money Appropriated in this Bill:
+            
+15
+
+    
+    None
+            
+16
+
+    
+ Other Special Clauses:
+            
+17
+
+    
+    None
+            
+18
+
+    
+ Utah Code Sections Affected:
+            
+19
+
+    
+AMENDS:
+            
+20
+
+    
+     15A-3-202, as enacted by Laws of Utah 2011, Chapter 14
+            
+21
+
+    
+
+            
+22
+
+    
+Be it enacted by the Legislature of the state of Utah:
+            
+23
+
+    
+    Section 1.  
+Section  
+15A-3-202
+
+ is amended to read:
+            
+24
+
+    
+     15A-3-202.  Amendments to Chapters 1 through 5 of IRC.
+            
+25
+
+    
+    (1)  In IRC, Section 109:
+            
+26
+
+    
+    (a)  A new IRC, Section 109.1.5, is added as follows: "R109.1.5 Weather-resistant
+            
+27
+
+    
+exterior wall envelope inspections.  An inspection shall be made of the weather-resistant
+
+            
+28
+
+
+    
+exterior wall envelope as required by Section R703.1 and flashings as required by Section
+            
+29
+
+    
+R703.8 to prevent water from entering the weather-resistive barrier."
+            
+30
+
+    
+    (b)  The remaining sections are renumbered as follows: R109.1.6 Other inspections;
+            
+31
+
+    
+R109.1.6.1 Fire- and smoke-resistance-rated construction inspection; R109.1.6.2 Reinforced
+            
+32
+
+    
+masonry, insulating concrete form (ICF) and conventionally formed concrete wall inspection;
+            
+33
+
+    
+and R109.1.7 Final inspection.
+            
+34
+
+    
+    (2)  IRC, Section R114.1, is deleted and replaced with the following: "R114.1 Notice to
+            
+35
+
+    
+owner.  Upon notice from the building official that work on any building or structure is being
+            
+36
+
+    
+prosecuted contrary to the provisions of this code or other pertinent laws or ordinances or in an
+            
+37
+
+    
+unsafe and dangerous manner, such work shall be immediately stopped.  The stop work order
+            
+38
+
+    
+shall be in writing and shall be given to the owner of the property involved, or to the owner's
+            
+39
+
+    
+agent or to the person doing the work; and shall state the conditions under which work will be
+            
+40
+
+    
+permitted to resume."
+            
+41
+
+    
+    (3)  In IRC, Section R202, the following definition is added: "CERTIFIED
+            
+42
+
+    
+BACKFLOW PREVENTER ASSEMBLY TESTER: A person who has shown competence to
+            
+43
+
+    
+test Backflow prevention assemblies to the satisfaction of the authority having jurisdiction
+            
+44
+
+    
+under Utah Code, Subsection 
+
+19-4-104
+
+(4)."
+            
+45
+
+    
+    (4)  In IRC, Section R202, the definition of "Cross Connection" is deleted and replaced
+            
+46
+
+    
+with the following: "CROSS CONNECTION.  Any physical connection or potential
+            
+47
+
+    
+connection or arrangement between two otherwise separate piping systems, one of which
+            
+48
+
+    
+contains potable water and the other either water of unknown or questionable safety or steam,
+            
+49
+
+    
+gas, or chemical, whereby there exists the possibility for flow from one system to the other,
+            
+50
+
+    
+with the direction of flow depending on the pressure differential between the two systems (see
+            
+51
+
+    
+"Backflow, Water Distribution")."
+            
+52
+
+    
+    (5)  In IRC, Section R202, the definition of "Potable Water" is deleted and replaced
+            
+53
+
+    
+with the following: "POTABLE WATER.  Water free from impurities present in amounts
+            
+54
+
+    
+sufficient to cause disease or harmful physiological effects and conforming to the Utah Code,
+            
+55
+
+    
+Title 19, Chapters 4, Safe Drinking Water Act, and 5, Water Quality Act, and the regulations of
+            
+56
+
+    
+the public health authority having jurisdiction."
+            
+57
+
+    
+    (6)  IRC, Figure R301.2(5), is deleted and replaced with Table R301.2(5a) and Table
+            
+58
+
+    
+R301.2(5b) as follows:
+
+
+
+
+            
+59
+
+
+    
+
+
+"TABLE NO. R301.2(5a)
+
+
+
+
+            
+60
+
+    
+
+
+STATE OF UTAH - REGIONAL SNOW LOAD FACTORS
+
+
+
+
+            
+61
+
+    
+
+
+
+
+      COUNTY
+    
+
+      Po
+
+
+      S
+    
+
+      Ao
+
+
+
+
+            
+62
+
+    
+
+
+
+
+      Beaver
+    
+
+      43
+    
+
+      63
+    
+
+      6.2
+    
+
+
+
+            
+63
+
+    
+
+
+
+
+      Box Elder
+    
+
+      43
+    
+
+      63
+    
+
+      5.2
+    
+
+
+
+            
+64
+
+    
+
+
+
+
+      Cache
+    
+
+      50
+    
+
+      63
+    
+
+      4.5
+    
+
+
+
+            
+65
+
+    
+
+
+
+
+      Carbon
+    
+
+      43
+    
+
+      63
+    
+
+      5.2
+    
+
+
+
+            
+66
+
+    
+
+
+
+
+      Daggett
+    
+
+      43
+    
+
+      63
+    
+
+      6.5
+    
+
+
+
+            
+67
+
+    
+
+
+
+
+      Davis
+    
+
+      43
+    
+
+      63
+    
+
+      4.5
+    
+
+
+
+            
+68
+
+    
+
+
+
+
+      Duchesne
+    
+
+      43
+    
+
+      63
+    
+
+      6.5
+    
+
+
+
+            
+69
+
+    
+
+
+
+
+      Emery
+    
+
+      43
+    
+
+      63
+    
+
+      6.0
+    
+
+
+
+            
+70
+
+    
+
+
+
+
+      Garfield
+    
+
+      43
+    
+
+      63
+    
+
+      6.0
+    
+
+
+
+            
+71
+
+    
+
+
+
+
+      Grand
+    
+
+      36
+    
+
+      63
+    
+
+      6.5
+    
+
+
+
+            
+72
+
+    
+
+
+
+
+      Iron
+    
+
+      43
+    
+
+      63
+    
+
+      5.8
+    
+
+
+
+            
+73
+
+    
+
+
+
+
+      Juab
+    
+
+      43
+    
+
+      63
+    
+
+      5.2
+    
+
+
+
+            
+74
+
+    
+
+
+
+
+      Kane
+    
+
+      36
+    
+
+      63
+    
+
+      5.7
+    
+
+
+
+            
+75
+
+    
+
+
+
+
+      Millard
+    
+
+      43
+    
+
+      63
+    
+
+      5.3
+    
+
+
+
+            
+76
+
+    
+
+
+
+
+      Morgan
+    
+
+      57
+    
+
+      63
+    
+
+      4.5
+    
+
+
+
+            
+77
+
+    
+
+
+
+
+      Piute
+    
+
+      43
+    
+
+      63
+    
+
+      6.2
+    
+
+
+
+            
+78
+
+    
+
+
+
+
+      Rich
+    
+
+      57
+    
+
+      63
+    
+
+      4.1
+    
+
+
+
+            
+79
+
+    
+
+
+
+
+      Salt Lake
+    
+
+      43
+    
+
+      63
+    
+
+      4.5
+    
+
+
+
+            
+80
+
+    
+
+
+
+
+      San Juan
+    
+
+      43
+    
+
+      63
+    
+
+      6.5
+    
+
+
+
+            
+81
+
+    
+
+
+
+
+      Sanpete
+    
+
+      43
+    
+
+      63
+    
+
+      5.2
+    
+
+
+
+            
+82
+
+    
+
+
+
+
+      Sevier
+    
+
+      43
+    
+
+      63
+    
+
+      6.0
+    
+
+
+
+            
+83
+
+    
+
+
+
+
+      Summit
+    
+
+      86
+    
+
+      63
+    
+
+      5.0
+    
+
+
+
+            
+84
+
+    
+
+
+
+
+      Tooele
+    
+
+      43
+    
+
+      63
+    
+
+      4.5
+    
+
+
+
+            
+85
+
+    
+
+
+
+
+      Uintah
+    
+
+      43
+    
+
+      63
+    
+
+      7.0
+    
+
+
+
+            
+86
+
+    
+
+
+
+
+      Utah
+    
+
+      43
+    
+
+      63
+    
+
+      4.5
+    
+
+
+
+            
+87
+
+
+    
+
+
+
+
+      Wasatch
+    
+
+      86
+    
+
+      63
+    
+
+      5.0
+    
+
+
+
+            
+88
+
+    
+
+
+
+
+      Washington
+    
+
+      29
+    
+
+      63
+    
+
+      6.0
+    
+
+
+
+            
+89
+
+    
+
+
+
+
+      Wayne
+    
+
+      36
+    
+
+      63
+    
+
+      6.5
+    
+
+
+
+            
+90
+
+    
+
+
+
+
+      Weber
+    
+
+      43
+    
+
+      63
+    
+
+      4.5
+    
+
+
+
+
+
+            
+91
+
+    
+
+
+TABLE NO. R301.2(5b)
+
+
+
+
+            
+92
+
+    
+
+
+RECOMMENDED SNOW LOADS FOR SELECTED UTAH CITIES AND TOWNS(2)
+
+
+
+
+            
+93
+
+    
+
+
+
+
+
+
+
+
+      Roof Snow
+Load (PSF)
+    
+
+      Ground Snow
+Load (PSF)
+    
+
+
+
+            
+94
+
+    
+
+
+
+
+      Beaver County
+    
+
+
+
+
+
+
+
+
+
+            
+95
+
+    
+
+
+
+
+          Beaver
+    
+
+      5,920 ft.
+    
+
+      43
+    
+
+      62
+    
+
+
+
+            
+96
+
+    
+
+
+
+
+      Box Elder County
+    
+
+
+
+
+
+
+
+
+
+            
+97
+
+    
+
+
+
+
+          Brigham City
+    
+
+      4,300 ft.
+    
+
+      30
+    
+
+      43
+    
+
+
+
+            
+98
+
+    
+
+
+
+
+          Tremonton
+    
+
+      4,290 ft.
+    
+
+      30
+    
+
+      43
+    
+
+
+
+            
+99
+
+    
+
+
+
+
+      Cache County
+    
+
+
+
+
+
+
+
+
+
+            
+100
+
+    
+
+
+
+
+          Logan
+    
+
+      4,530 ft.
+    
+
+      35
+    
+
+      50
+    
+
+
+
+            
+101
+
+    
+
+
+
+
+          Smithfield
+    
+
+      4,595 ft.
+    
+
+      35
+    
+
+      50
+    
+
+
+
+            
+102
+
+    
+
+
+
+
+      Carbon County
+    
+
+
+
+
+
+
+
+
+
+            
+103
+
+    
+
+
+
+
+          Price
+    
+
+      5,550 ft.
+    
+
+      30
+    
+
+      43
+    
+
+
+
+            
+104
+
+    
+
+
+
+
+      Daggett County
+    
+
+
+
+
+
+
+
+
+
+            
+105
+
+    
+
+
+
+
+          Manila
+    
+
+      5,377 ft.
+    
+
+      30
+    
+
+      43
+    
+
+
+
+            
+106
+
+    
+
+
+
+
+      Davis County
+    
+
+
+
+
+
+
+
+
+
+            
+107
+
+    
+
+
+
+
+          Bountiful
+    
+
+      4,300 ft.
+    
+
+      30
+    
+
+      43
+    
+
+
+
+            
+108
+
+    
+
+
+
+
+          Farmington
+    
+
+      4,270 ft.
+    
+
+      30
+    
+
+      43
+    
+
+
+
+            
+109
+
+    
+
+
+
+
+          Layton
+    
+
+      4,400 ft.
+    
+
+      30
+    
+
+      43
+    
+
+
+
+            
+110
+
+    
+
+
+
+
+          Fruit Heights
+    
+
+      4,500 ft.
+    
+
+      40
+    
+
+      57
+    
+
+
+
+            
+111
+
+    
+
+
+
+
+      Duchesne County
+    
+
+
+
+
+
+
+
+
+
+            
+112
+
+    
+
+
+
+
+          Duchesne
+    
+
+      5,510 ft.
+    
+
+      30
+    
+
+      43
+    
+
+
+
+            
+113
+
+    
+
+
+
+
+          Roosevelt
+    
+
+      5,104 ft.
+    
+
+      30
+    
+
+      43
+    
+
+
+
+            
+114
+
+
+    
+
+
+
+
+      Emery County
+    
+
+
+
+
+
+
+
+
+
+            
+115
+
+    
+
+
+
+
+          Castle Dale
+    
+
+      5,660 ft.
+    
+
+      30
+    
+
+      43
+    
+
+
+
+            
+116
+
+    
+
+
+
+
+          Green River
+    
+
+      4,070 ft.
+    
+
+      25
+    
+
+      36
+    
+
+
+
+            
+117
+
+    
+
+
+
+
+      Garfield County
+    
+
+
+
+
+
+
+
+
+
+            
+118
+
+    
+
+
+
+
+          Panguitch
+    
+
+      6,600 ft.
+    
+
+      30
+    
+
+      43
+    
+
+
+
+            
+119
+
+    
+
+
+
+
+      Grand County
+    
+
+
+
+
+
+
+
+
+
+            
+120
+
+    
+
+
+
+
+          Moab
+    
+
+      3,965 ft.
+    
+
+      25
+    
+
+      36
+    
+
+
+
+            
+121
+
+    
+
+
+
+
+      Iron County
+    
+
+
+
+
+
+
+
+
+
+            
+122
+
+    
+
+
+
+
+          Cedar City
+    
+
+      5,831 ft.
+    
+
+      30
+    
+
+      43
+    
+
+
+
+            
+123
+
+    
+
+
+
+
+      Juab County
+    
+
+
+
+
+
+
+
+
+
+            
+124
+
+    
+
+
+
+
+          Nephi
+    
+
+      5,130 ft.
+    
+
+      30
+    
+
+      43
+    
+
+
+
+            
+125
+
+    
+
+
+
+
+      Kane County
+    
+
+
+
+
+
+
+
+
+
+            
+126
+
+    
+
+
+
+
+          Kanab
+    
+
+      5,000 ft.
+    
+
+      25
+    
+
+      36
+    
+
+
+
+            
+127
+
+    
+
+
+
+
+      Millard County
+    
+
+
+
+
+
+
+
+
+
+            
+128
+
+    
+
+
+
+
+          Fillmore
+    
+
+      5,000 ft.
+    
+
+      30
+    
+
+      43
+    
+
+
+
+            
+129
+
+    
+
+
+
+
+          Delta
+    
+
+      4,623 ft.
+    
+
+      30
+    
+
+      43
+    
+
+
+
+            
+130
+
+    
+
+
+
+
+      Morgan County
+    
+
+
+
+
+
+
+
+
+
+            
+131
+
+    
+
+
+
+
+          Morgan
+    
+
+      5,064 ft.
+    
+
+      40
+    
+
+      57
+    
+
+
+
+            
+132
+
+    
+
+
+
+
+      Piute County
+    
+
+
+
+
+
+
+
+
+
+            
+133
+
+    
+
+
+
+
+          Piute
+    
+
+      5,996 ft.
+    
+
+      30
+    
+
+      43
+    
+
+
+
+            
+134
+
+    
+
+
+
+
+      Rich County
+    
+
+
+
+
+
+
+
+
+
+            
+135
+
+    
+
+
+
+
+          Woodruff
+    
+
+      6,315 ft.
+    
+
+      40
+    
+
+      57
+    
+
+
+
+            
+136
+
+    
+
+
+
+
+      Salt Lake County
+    
+
+
+
+
+
+
+
+
+
+            
+137
+
+    
+
+
+
+
+          Murray
+    
+
+      4,325 ft.
+    
+
+      30
+    
+
+      43
+    
+
+
+
+            
+138
+
+    
+
+
+
+
+          Salt Lake City
+    
+
+      4,300 ft.
+    
+
+      30
+    
+
+      43
+    
+
+
+
+            
+139
+
+    
+
+
+
+
+          Sandy
+    
+
+      4,500 ft.
+    
+
+      30
+    
+
+      43
+    
+
+
+
+            
+140
+
+    
+
+
+
+
+          West Jordan
+    
+
+      4,375 ft.
+    
+
+      30
+    
+
+      43
+    
+
+
+
+            
+141
+
+    
+
+
+
+
+          West Valley
+    
+
+      4,250 ft.
+    
+
+      30
+    
+
+      43
+    
+
+
+
+            
+142
+
+
+    
+
+
+
+
+      San Juan County
+    
+
+
+
+
+
+
+
+
+
+            
+143
+
+    
+
+
+
+
+          Blanding
+    
+
+      6,200 ft.
+    
+
+      30
+    
+
+      43
+    
+
+
+
+            
+144
+
+    
+
+
+
+
+          Monticello
+    
+
+      6,820 ft.
+    
+
+      35
+    
+
+      50
+    
+
+
+
+            
+145
+
+    
+
+
+
+
+      Sanpete County
+    
+
+
+
+
+
+
+
+
+
+            
+146
+
+    
+
+
+
+
+          Fairview
+    
+
+      6,750 ft.
+    
+
+      35
+    
+
+      50
+    
+
+
+
+            
+147
+
+    
+
+
+
+
+          Mt. Pleasant
+    
+
+      5,900 ft.
+    
+
+      30
+    
+
+      43
+    
+
+
+
+            
+148
+
+    
+
+
+
+
+          Manti
+    
+
+      5,740 ft.
+    
+
+      30
+    
+
+      43
+    
+
+
+
+            
+149
+
+    
+
+
+
+
+          Ephraim
+    
+
+      5,540 ft.
+    
+
+      30
+    
+
+      43
+    
+
+
+
+            
+150
+
+    
+
+
+
+
+          Gunnison
+    
+
+      5,145 ft.
+    
+
+      30
+    
+
+      43
+    
+
+
+
+            
+151
+
+    
+
+
+
+
+      Sevier County
+    
+
+
+
+
+
+
+
+
+
+            
+152
+
+    
+
+
+
+
+          Salina
+    
+
+      5,130 ft.
+    
+
+      30
+    
+
+      43
+    
+
+
+
+            
+153
+
+    
+
+
+
+
+          Richfield
+    
+
+      5,270 ft.
+    
+
+      30
+    
+
+      43
+    
+
+
+
+            
+154
+
+    
+
+
+
+
+      Summit County
+    
+
+
+
+
+
+
+
+
+
+            
+155
+
+    
+
+
+
+
+          Coalville
+    
+
+      5,600 ft.
+    
+
+      60
+    
+
+      86
+    
+
+
+
+            
+156
+
+    
+
+
+
+
+          Kamas
+    
+
+      6,500 ft.
+    
+
+      70
+    
+
+      100
+    
+
+
+
+            
+157
+
+    
+
+
+
+
+          Park City
+    
+
+      6,800 ft.
+    
+
+      100
+    
+
+      142
+    
+
+
+
+            
+158
+
+    
+
+
+
+
+          Park City
+    
+
+      8,400 ft.
+    
+
+      162
+    
+
+      231
+    
+
+
+
+            
+159
+
+    
+
+
+
+
+          Summit Park
+    
+
+      7,200 ft.
+    
+
+      90
+    
+
+      128
+    
+
+
+
+            
+160
+
+    
+
+
+
+
+      Tooele County
+    
+
+
+
+
+
+
+
+
+
+            
+161
+
+    
+
+
+
+
+          Tooele
+    
+
+      5,100 ft.
+    
+
+      30
+    
+
+      43
+    
+
+
+
+            
+162
+
+    
+
+
+
+
+      Uintah County
+    
+
+
+
+
+
+
+
+
+
+            
+163
+
+    
+
+
+
+
+          Vernal
+    
+
+      5,280 ft.
+    
+
+      30
+    
+
+      43
+    
+
+
+
+            
+164
+
+    
+
+
+
+
+      Utah County
+    
+
+
+
+
+
+
+
+
+
+            
+165
+
+    
+
+
+
+
+          American Fork
+    
+
+      4,500 ft.
+    
+
+      30
+    
+
+      43
+    
+
+
+
+            
+166
+
+    
+
+
+
+
+          Orem
+    
+
+      4,650 ft.
+    
+
+      30
+    
+
+      43
+    
+
+
+
+            
+167
+
+    
+
+
+
+
+          Pleasant Grove
+    
+
+      5,000 ft.
+    
+
+      30
+    
+
+      43
+    
+
+
+
+            
+168
+
+    
+
+
+
+
+          Provo
+    
+
+      5,000 ft.
+    
+
+      30
+    
+
+      43
+    
+
+
+
+            
+169
+
+    
+
+
+
+
+          Spanish Fork
+    
+
+      4,720 ft.
+    
+
+      30
+    
+
+      43
+    
+
+
+
+            
+170
+
+
+    
+
+
+
+
+      Wasatch County
+    
+
+
+
+
+
+
+
+
+
+            
+171
+
+    
+
+
+
+
+          Heber
+    
+
+      5,630 ft.
+    
+
+      60
+    
+
+      86
+    
+
+
+
+            
+172
+
+    
+
+
+
+
+      Washington County
+    
+
+
+
+
+
+
+
+
+
+            
+173
+
+    
+
+
+
+
+          Central
+    
+
+      5,209 ft.
+    
+
+      25
+    
+
+      36
+    
+
+
+
+            
+174
+
+    
+
+
+
+
+          Dameron
+    
+
+      4,550 ft.
+    
+
+      25
+    
+
+      36
+    
+
+
+
+            
+175
+
+    
+
+
+
+
+          Leeds
+    
+
+      3,460 ft.
+    
+
+      20
+    
+
+      29
+    
+
+
+
+            
+176
+
+    
+
+
+
+
+          Rockville
+    
+
+      3,700 ft.
+    
+
+      25
+    
+
+      36
+    
+
+
+
+            
+177
+
+    
+
+
+
+
+          Santa Clara
+    
+
+      2,850 ft.
+    
+
+      15 (1)
+    
+
+      21
+    
+
+
+
+            
+178
+
+    
+
+
+
+
+          St. George
+    
+
+      2,750 ft.
+    
+
+      15 (1)
+    
+
+      21
+    
+
+
+
+            
+179
+
+    
+
+
+
+
+      Wayne County
+    
+
+
+
+
+
+
+
+
+
+            
+180
+
+    
+
+
+
+
+          Loa
+    
+
+      7,080 ft.
+    
+
+      30
+    
+
+      43
+    
+
+
+
+            
+181
+
+    
+
+
+
+
+          Hanksville
+    
+
+      4,308 ft.
+    
+
+      25
+    
+
+      36
+    
+
+
+
+            
+182
+
+    
+
+
+
+
+      Weber County
+    
+
+
+
+
+
+
+
+
+
+            
+183
+
+    
+
+
+
+
+          North Ogden
+    
+
+      4,500 ft.
+    
+
+      40
+    
+
+      57
+    
+
+
+
+            
+184
+
+    
+
+
+
+
+          Ogden
+    
+
+      4,350 ft.
+    
+
+      30
+    
+
+      43
+    
+
+
+
+            
+185
+
+    
+
+
+      NOTES
+    
+
+
+
+            
+186
+
+    
+
+
+      (1)  The IRC requires a minimum live load - See R301.6.
+    
+
+
+
+            
+187
+
+    
+
+
+      (2)  This table is informational only in that actual site elevations may vary.  Table is only
+valid if site elevation is within 100 feet of the listed elevation."
+    
+
+
+            
+188
+
+    
+    (7)  IRC, Section R301.6, is deleted and replaced with the following: "R301.6 Utah
+            
+189
+
+    
+Snow Loads.  The ground snow load, Pg, to be used in the determination of design snow loads
+            
+190
+
+    
+for buildings and other structures shall be determined by using the following formula: Pg = (Po2
+            
+191
+
+    
++ S2(A-Ao)2)0.5 for A greater than Ao, and Pg = Po for A less than or equal to Ao.
+            
+192
+
+    
+WHERE:
+            
+193
+
+    
+Pg = Ground snow load at a given elevation (psf);
+            
+194
+
+    
+Po = Base ground snow load (psf) from Table No. R301.2(5a);
+            
+195
+
+    
+S = Change in ground snow load with elevation (psf/100 ft.) From Table No. R301.2(5a);
+            
+196
+
+    
+A = Elevation above sea level at the site (ft./1,000);
+            
+197
+
+    
+Ao = Base ground snow elevation from Table R301.2(5a) (ft./1,000).
+
+            
+198
+
+
+    
+The building official may round the roof snow load to the nearest 5 psf.  The ground snow
+            
+199
+
+    
+load, Pg, may be adjusted by the building official when a licensed engineer or architect submits
+            
+200
+
+    
+data substantiating the adjustments.  A record of such action together with the substantiating
+            
+201
+
+    
+data shall be provided to the division for a permanent record.
+            
+202
+
+    
+The building official may also directly adopt roof snow loads in accordance with Table
+            
+203
+
+    
+R301.2(5b), provided the site is no more than 100 ft. higher than the listed elevation.
+            
+204
+
+    
+Where the minimum roof live load in accordance with Table R301.6 is greater than the design
+            
+205
+
+    
+roof snow load, such roof live load shall be used for design, however, it shall not be reduced to
+            
+206
+
+    
+a load lower than the design roof snow load.  Drifting need not be considered for roof snow
+            
+207
+
+    
+loads less than 20 psf."
+            
+208
+
+    
+    (8)  In IRC, Section R302.2, the words "Exception: A" are deleted and replaced with the
+            
+209
+
+    
+following: "Exceptions: 1.  A common 2-hour fire-resistance-rated wall is permitted for
+            
+210
+
+    
+townhouses if such walls do not contain plumbing or mechanical equipment, ducts or vents in
+            
+211
+
+    
+the cavity of the common wall.  Electrical installation shall be installed in accordance with
+            
+212
+
+    
+Chapters 34 through 43.  Penetrations of electrical outlet boxes shall be in accordance with
+            
+213
+
+    
+Section R302.4.
+            
+214
+
+    
+    2.  In buildings equipped with an automatic residential fire sprinkler system, a".
+            
+215
+
+    
+    (9)  In IRC, Section R302.2.4, a new exception 6 is added as follows: "6.  Townhouses
+            
+216
+
+    
+separated by a common 2-hour fire-resistance-rated wall as provided in Section R302.2."
+            
+217
+
+    
+    (10)  In IRC, Section R310.1.1, the existing exception is numbered as exception 1, and
+            
+218
+
+    
+a new exception 2 is added as follows: "2.  An existing bedroom window if meeting the
+            
+219
+
+    
+minimum opening requirement would compromise the structural integrity of the building or
+            
+220
+
+    
+cannot be accomplished in accordance with current setback, window well, or other building
+            
+221
+
+    
+code requirements."
+            
+222
+
+    
+    [(10)] (11)  IRC, Sections R311.7.4 through R311.7.4.3, are deleted and replaced with
+            
+223
+
+    
+the following: "R311.7.4 Stair treads and risers.  R311.7.4.1 Riser height.  The maximum riser
+            
+224
+
+    
+height shall be 8 inches (203 mm).  The riser shall be measured vertically between leading
+            
+225
+
+    
+edges of the adjacent treads.  The greatest riser height within any flight of stairs shall not
+            
+226
+
+    
+exceed the smallest by more than 3/8 inch (9.5 mm).
+            
+227
+
+    
+R311.7.4.2 Tread depth.  The minimum tread depth shall be 9 inches (228 mm).  The tread
+            
+228
+
+    
+depth shall be measured horizontally between the vertical planes of the foremost projection of
+
+            
+229
+
+
+    
+adjacent treads and at a right angle to the tread's leading edge.  The greatest tread depth within
+            
+230
+
+    
+any flight of stairs shall not exceed the smallest by more than 3/8 inch (9.5 mm).  Winder
+            
+231
+
+    
+treads shall have a minimum tread depth of 10 inches (254 mm) measured as above at a point
+            
+232
+
+    
+12 inches (305 mm) from the side where the treads are narrower.  Winder treads shall have a
+            
+233
+
+    
+minimum tread depth of 6 inches (152 mm) at any point.  Within any flight of stairs, the
+            
+234
+
+    
+greatest winder tread depth at the 12-inch (305 mm) walk line shall not exceed the smallest by
+            
+235
+
+    
+more than 3/8 inch (9.5 mm).
+            
+236
+
+    
+R311.7.4.3 Profile.  The radius of curvature at the leading edge of the tread shall be no greater
+            
+237
+
+    
+than 9/16 inch (14.3 mm).  A nosing not less than 3/4 inch (19 mm) but not more than 1 1/4
+            
+238
+
+    
+inches (32 mm) shall be provided on stairways with solid risers.  The greatest nosing projection
+            
+239
+
+    
+shall not exceed the smallest nosing projection by more than 3/8 inch (9.5 mm) between two
+            
+240
+
+    
+stories, including the nosing at the level of floors and landings.  Beveling of nosing shall not
+            
+241
+
+    
+exceed 1/2 inch (12.7 mm).  Risers shall be vertical or sloped from the underside of the leading
+            
+242
+
+    
+edge of the tread above at an angle not more than 30 degrees (0.51 rad) from the vertical.  Open
+            
+243
+
+    
+risers are permitted, provided that the opening between treads does not permit the passage of a
+            
+244
+
+    
+4-inch diameter (102 mm) sphere.
+            
+245
+
+    
+Exceptions.
+            
+246
+
+    
+1.  A nosing is not required where the tread depth is a minimum of 10 inches (254 mm).
+            
+247
+
+    
+2.  The opening between adjacent treads is not limited on stairs with a total rise of 30 inches
+            
+248
+
+    
+(762 mm) or less."
+            
+249
+
+    
+    [(11)] (12)  In IRC, Section R312.2, the words "adjacent fixed seating" are deleted.
+            
+250
+
+    
+    [(12)] (13)  IRC, Section R313, is deleted.
+            
+251
+
+    
+    [(13)] (14)  IRC, Section R315.1, is deleted and replaced with the following: "R315.1
+            
+252
+
+    
+Carbon monoxide alarms.  For new construction, a listed carbon monoxide alarm shall be
+            
+253
+
+    
+installed on each habitable level of dwelling units within which fuel-fired appliances are
+            
+254
+
+    
+installed and in dwelling units that have attached garages."
+            
+255
+
+    
+    [(14)] (15)  IRC, Section R315.3, is deleted and replaced with the following: "R315.3
+            
+256
+
+    
+Alarm requirements.  Listed single- and multiple-station carbon monoxide alarms shall comply
+            
+257
+
+    
+with UL 2034 and shall be installed in accordance with the provision of this code and NFPA
+            
+258
+
+    
+720."
+            
+259
+
+    
+    [(15)] (16)  In IRC, Section R403.1.6, a new Exception 4 is added as follows: "4. 
+
+            
+260
+
+
+    
+When anchor bolt spacing does not exceed 32 inches (813 mm) apart, anchor bolts may be
+            
+261
+
+    
+placed with a minimum of two bolts per plate section located not less than 4 inches (102 mm)
+            
+262
+
+    
+from each end of each plate section at interior bearing walls, interior braced wall lines, and at
+            
+263
+
+    
+all exterior walls."
+            
+264
+
+    
+    [(16)] (17)  In IRC, Section R403.1.6.1, a new exception is added at the end of Item 2
+            
+265
+
+    
+and Item 3 as follows: "Exception: When anchor bolt spacing does not exceed 32 inches (816
+            
+266
+
+    
+mm) apart, anchor bolts may be placed with a minimum of two bolts per plate section located
+            
+267
+
+    
+not less than 4 inches (102 mm) from each end of each plate section at interior bearing walls,
+            
+268
+
+    
+interior braced wall lines, and at all exterior walls."
+            
+269
+
+    
+    [(17)] (18)  In IRC, Section R404.1, a new exception is added as follows: "Exception:
+            
+270
+
+    
+As an alternative to complying with Sections R404.1 through R404.1.5.3, concrete and
+            
+271
+
+    
+masonry foundation walls may be designed in accordance with IBC Sections 1807.1.5 and
+            
+272
+
+    
+1807.1.6 as amended in Section 1807.1.6.4 and Table 1807.1.6.4 under these rules."
+
+
+
+
+ Legislative Review Note
+    as of   2-3-12  11:25 AM
+
+ Office of Legislative Research and General Counsel
+[Bill Documents][Bills Directory]
+
+
+
+
+
+
+
+
+
+Who represents me?
+
+
+
+
+
+Remember my Legislators
+
+
+
+
+
+State Senate
+		350 North State, Suite 320
+		PO Box 145115
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1035
+		Fax: (801) 326-1475
+
+
+
+House of Representatives
+		350 North State, Suite 350
+		PO Box 145030
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1029
+		Fax: (801) 326-1544
+
+
+
+
+
+
+
+
+
+
+Home
+Mobile Site
+Site Map
+Calendar
+Code / Constitution
+House
+Senate
+
+Terms of Use/Privacy Policy
+
+ADA
+Utah.gov
+
+
+
+
+
+
+

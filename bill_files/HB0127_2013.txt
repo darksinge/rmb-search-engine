@@ -1,0 +1,954 @@
+Sponsors: []Modifications:     41-1a-1501.This part is known as the "Motor Vehicle Event Data Recorder Act."    41-1a-1502.As used in this part:(1)  "Event data" means records of one or more of the following categories ofinformation regarding a motor vehicle that are captured by an event data recorder:(a)  whether the vehicle's air bag deployed;(b)  vehicle speed;(c)  vehicle direction;(d)  vehicle location;(e)  vehicle steering performance;(f)  vehicle brake performance or use; or(g)  vehicle seatbelt status or use.(2)  "Event data recorder" means a device or feature that is installed by themanufacturer of a motor vehicle for the purpose of capturing or transmitting retrievable eventdata.(3)  "Owner" means:(a)  a person having all the incidents of ownership of a motor vehicle, including legaltitle to the motor vehicle, regardless of whether the person lends, rents, or creates a securityinterest in the vehicle;(b)  a person entitled to possession of a motor vehicle as the purchaser under a securityagreement; or(c)  a person entitled to possession of a motor vehicle as a lessee under a written leaseagreement if the lease agreement is intended to last for more than three months at its inception.    41-1a-1503.(1) (a)  Event data that is recorded on an event data recorder:(i)  is private;(ii)  is the personal information of the motor vehicle's owner; and(iii)  except as provided in Subsection (2), may not be retrieved by a person who is notthe owner of the motor vehicle.(b)  If a motor vehicle is owned by more than one person, all owners must consent tothe retrieval or use of the data from a motor vehicle event data recorder.(2)  Event data that is recorded on an event data recorder may be retrieved, obtained, orused by a person who is not the owner of the motor vehicle in the following circumstances:(a)  the owner of the motor vehicle or the owner's agent has consented to the retrieval ofthe data;(b)  the data is retrieved by a motor vehicle dealer, motor vehicle manufacturer, or by anautomotive technician to diagnose, service, or repair the motor vehicle at the request of theowner or the owner's agent;(c)  the data is subject to discovery pursuant to the rules of civil procedure in a claimarising out of a motor vehicle accident;(d)  a court or administrative agency having jurisdiction orders the data to be retrieved;(e)  a peace officer retrieves the data pursuant to a court order as part of an investigationof a suspected violation of a law that has caused, or contributed to the cause of, an accidentresulting in damage of property or injury to a person; or(f)  to facilitate or determine the need for emergency medical care for the driver orpassenger of a motor vehicle that is involved in a motor vehicle crash or other emergency,including the retrieval of data from a company that provides subscription services to the ownerof a motor vehicle for in-vehicle safety and security communications.(3)  Except as provided in Subsection (4), a person who has retrieved, obtained, or usedevent data under Subsection (2) may not release event data that is recorded on an event datarecorder.(4)  A person may release event data that is recorded on an event data recorder in thefollowing circumstances:(a)  the owner of the motor vehicle or the owner's agent has consented to the release ofthe data;(b)  the data is subject to discovery pursuant to the rules of civil procedure in a claimarising out of a motor vehicle accident;(c)  the data is released pursuant to a court order as part of an investigation of asuspected violation of a law that has caused, or contributed to the cause of, an accidentresulting in damage of property or injury to a person; or(d)  if the identity of the owner or driver is not disclosed, the data is released to a motorvehicle safety and medical research entity or data processor in order to advance motor vehiclesafety, security, or traffic management.(5)  Data from an event data recorder may be retrieved, obtained, and used by asubscription service provider pursuant to a subscription agreement if the subscription serviceprovider discloses in the subscription service agreement that the data may be stored andtransmitted.    41-1a-1504.(1)  Event data on a motor vehicle event data recorder does not become the property ofthe lienholder or insurer solely because the lienholder or insurer succeeds in ownership of amotor vehicle as a result of an accident.(2)  An insurer may not condition the payment or settlement of an owner's claim on theowner's consent to the retrieval or use of the event data on a motor vehicle event data recorder.(3)  An insurer or lessor of a motor vehicle may not require an owner to consent to theretrieval or use of the data on a motor vehicle event data recorder as a condition of providingthe policy or lease.Full text:
+
+
+
+Utah State Legislature
+
+
+
+
+
+
+
+
+
+
+
+
+Legislators
+
+By Session (1896-Current)
+Alphabetical (Historical)
+Find by Address/Map
+More
+
+
+Bills
+
+Bills/Bill Requests
+Passed Bills
+2017 Bills
+
+Keyword Search
+Reading Calendars
+Tracking Service
+More
+
+
+Committees
+
+All Committees
+Appropriations
+Commissions
+
+Independent Legislative Ethics Commission
+Interim
+Standing
+Subcommittees
+Task Forces
+Bills In Committees
+
+
+Utah Code / Constitution
+
+
+Title/Chapter/Section
+Keyword Search 
+
+Utah Constitution
+Laws of Utah 1851-ongoing
+Utah Territorial Laws 
+More
+
+
+Senate
+
+Main Page 
+About The Senate 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Extraordinary Sessions 
+Reading Calendars 
+Past Floor Debates 
+Senate Journals 
+
+
+House
+
+Main Page
+About the House 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Reading Calendars 
+Past Floor Debates 
+Journals 
+Conflict of Interest Forms 
+
+
+Legislative Guide 
+
+Legislative Guide
+Civic Programs
+GRAMA (Records Requests)
+
+
+Publications
+
+Search Publications
+Appropriations
+Audits
+Bagels & Briefings
+Briefing Papers
+Digest of Legislation
+Legislative Drafting Manual
+
+Journals
+
+Interim Highlights
+
+Legislative Rules
+GRAMA (Records Requests)
+Public Email
+State Organization Charts
+YouTube Channel
+Requests for Proposals and Legal Notices
+More
+
+
+Legislative Histories
+
+Legislative History Resources
+How to Research
+Bill Drafting/Research Files (1990-Ongoing)
+
+Working Bills (1896-1989)
+Interim Committee Histories (1990-Ongoing) 
+Journals
+Past House Floor Debates
+Past Senate Floor Debates
+More
+
+
+Staff Offices
+
+All Legislative Offices
+Auditor General
+Fiscal Analyst
+Printing
+Research and General Counsel
+Staff Awards
+Job Opportunities
+More
+
+
+Links of Interest
+
+Utah Administrative Rules
+Courts
+Utah State Capitol
+State of Utah
+Federal Legislation
+More
+
+
+
+
+
+
+ 
+
+Download Zipped Introduced WordPerfect HB0127.ZIP
+[Status][Bill Documents][Fiscal Note][Bills Directory]
+
+
+H.B. 127
+
+
+
+
+
+            
+1
+
+    
+ MOTOR VEHICLE EVENT DATA RECORDERS
+
+
+
+            
+2
+
+    
+2013 GENERAL SESSION
+
+            
+3
+
+    
+STATE OF UTAH
+
+            
+4
+
+    
+
+
+ Chief Sponsor: David E. Lifferth
+
+
+
+            
+5
+
+    
+
+
+
+Senate Sponsor:
+
+
+
+
+
+
+ Mark B. Madsen
+
+
+
+
+
+            
+6
+
+    
+
+            
+7
+
+    
+ LONG TITLE
+            
+8
+
+    
+ General Description:
+            
+9
+
+    
+    This bill modifies the Traffic Code by enacting provisions relating to event data
+            
+10
+
+    
+recorders in motor vehicles.
+            
+11
+
+    
+ Highlighted Provisions:
+            
+12
+
+    
+    This bill:
+            
+13
+
+    
+    .    provides definitions;
+            
+14
+
+    
+    .    provides that event data that is recorded on an event data recorder is the personal
+            
+15
+
+    
+information of the motor vehicle's owner;
+            
+16
+
+    
+    .    provides that, except in certain circumstances, event data that is recorded on an
+            
+17
+
+    
+event data recorder may not be retrieved, obtained, or used by a person who is not
+            
+18
+
+    
+the owner of the motor vehicle;
+            
+19
+
+    
+    .    specifies circumstances that event data that is recorded on an event data recorder
+            
+20
+
+    
+may be retrieved, obtained, or used by a person who is not the owner of the motor
+            
+21
+
+    
+vehicle;
+            
+22
+
+    
+    .    provides that a person who has retrieved, obtained, or used event data that is
+            
+23
+
+    
+recorded on an event data recorder may not release that event data except in certain
+            
+24
+
+    
+circumstances;
+            
+25
+
+    
+    .    provides that data from an event data recorder may be retrieved, obtained, and used
+            
+26
+
+    
+by a subscription service provider pursuant to a subscription agreement if the
+            
+27
+
+    
+subscription service provider discloses in the subscription service agreement that
+
+            
+28
+
+
+    
+the data may be stored and transmitted;
+            
+29
+
+    
+    .    provides that event data on a motor vehicle event data recorder does not become the
+            
+30
+
+    
+property of the lienholder or insurer solely because the lienholder or insurer
+            
+31
+
+    
+succeeds in ownership of a motor vehicle as a result of an accident;
+            
+32
+
+    
+    .    provides that an insurer may not condition the payment or settlement of an owner's
+            
+33
+
+    
+claim on the owner's consent to the retrieval or use of the event data on a motor
+            
+34
+
+    
+vehicle event data recorder; and     
+            
+35
+
+    
+    .    provides that an insurer or lessor of a motor vehicle may not require an owner to
+            
+36
+
+    
+consent to the retrieval or use of the data on a motor vehicle event data recorder as a
+            
+37
+
+    
+condition of providing the policy or lease.
+            
+38
+
+    
+ Money Appropriated in this Bill:
+            
+39
+
+    
+    None
+            
+40
+
+    
+ Other Special Clauses:
+            
+41
+
+    
+    None
+            
+42
+
+    
+ Utah Code Sections Affected:
+            
+43
+
+    
+ENACTS:
+            
+44
+
+    
+     41-1a-1501, Utah Code Annotated 1953
+            
+45
+
+    
+     41-1a-1502, Utah Code Annotated 1953
+            
+46
+
+    
+     41-1a-1503, Utah Code Annotated 1953
+            
+47
+
+    
+     41-1a-1504, Utah Code Annotated 1953
+            
+48
+
+    
+
+            
+49
+
+    
+Be it enacted by the Legislature of the state of Utah:
+            
+50
+
+    
+    Section 1.  
+Section  
+41-1a-1501
+
+ is enacted to read:
+            
+51
+
+    
+ Part 15.  Motor Vehicle Event Data Recorder Act
+
+            
+52
+
+    
+     41-1a-1501.  Title.
+            
+53
+
+    
+    This part is known as the "Motor Vehicle Event Data Recorder Act."
+            
+54
+
+    
+    Section 2.  
+Section  
+41-1a-1502
+
+ is enacted to read:
+            
+55
+
+    
+     41-1a-1502.  Definitions.
+            
+56
+
+    
+    As used in this part:
+            
+57
+
+    
+    (1)  "Event data" means records of one or more of the following categories of
+            
+58
+
+    
+information regarding a motor vehicle that are captured by an event data recorder:
+
+            
+59
+
+
+    
+    (a)  whether the vehicle's air bag deployed;
+            
+60
+
+    
+    (b)  vehicle speed;
+            
+61
+
+    
+    (c)  vehicle direction;
+            
+62
+
+    
+    (d)  vehicle location;
+            
+63
+
+    
+    (e)  vehicle steering performance;
+            
+64
+
+    
+    (f)  vehicle brake performance or use; or
+            
+65
+
+    
+    (g)  vehicle seatbelt status or use.
+            
+66
+
+    
+    (2)  "Event data recorder" means a device or feature that is installed by the
+            
+67
+
+    
+manufacturer of a motor vehicle for the purpose of capturing or transmitting retrievable event
+            
+68
+
+    
+data.
+            
+69
+
+    
+    (3)  "Owner" means:
+            
+70
+
+    
+    (a)  a person having all the incidents of ownership of a motor vehicle, including legal
+            
+71
+
+    
+title to the motor vehicle, regardless of whether the person lends, rents, or creates a security
+            
+72
+
+    
+interest in the vehicle;
+            
+73
+
+    
+    (b)  a person entitled to possession of a motor vehicle as the purchaser under a security
+            
+74
+
+    
+agreement; or
+            
+75
+
+    
+    (c)  a person entitled to possession of a motor vehicle as a lessee under a written lease
+            
+76
+
+    
+agreement if the lease agreement is intended to last for more than three months at its inception.
+            
+77
+
+    
+    Section 3.  
+Section  
+41-1a-1503
+
+ is enacted to read:
+            
+78
+
+    
+     41-1a-1503.  Event data recorders -- Retrieval or disclosure of event data.
+            
+79
+
+    
+    (1) (a)  Event data that is recorded on an event data recorder:
+            
+80
+
+    
+    (i)  is private;
+            
+81
+
+    
+    (ii)  is the personal information of the motor vehicle's owner; and
+            
+82
+
+    
+    (iii)  except as provided in Subsection (2), may not be retrieved by a person who is not
+            
+83
+
+    
+the owner of the motor vehicle.
+            
+84
+
+    
+    (b)  If a motor vehicle is owned by more than one person, all owners must consent to
+            
+85
+
+    
+the retrieval or use of the data from a motor vehicle event data recorder.
+            
+86
+
+    
+    (2)  Event data that is recorded on an event data recorder may be retrieved, obtained, or
+            
+87
+
+    
+used by a person who is not the owner of the motor vehicle in the following circumstances:
+            
+88
+
+    
+    (a)  the owner of the motor vehicle or the owner's agent has consented to the retrieval of
+            
+89
+
+    
+the data;
+
+            
+90
+
+
+    
+    (b)  the data is retrieved by a motor vehicle dealer, motor vehicle manufacturer, or by an
+            
+91
+
+    
+automotive technician to diagnose, service, or repair the motor vehicle at the request of the
+            
+92
+
+    
+owner or the owner's agent;
+            
+93
+
+    
+    (c)  the data is subject to discovery pursuant to the rules of civil procedure in a claim
+            
+94
+
+    
+arising out of a motor vehicle accident;
+            
+95
+
+    
+    (d)  a court or administrative agency having jurisdiction orders the data to be retrieved;
+            
+96
+
+    
+    (e)  a peace officer retrieves the data pursuant to a court order as part of an investigation
+            
+97
+
+    
+of a suspected violation of a law that has caused, or contributed to the cause of, an accident
+            
+98
+
+    
+resulting in damage of property or injury to a person; or
+            
+99
+
+    
+    (f)  to facilitate or determine the need for emergency medical care for the driver or
+            
+100
+
+    
+passenger of a motor vehicle that is involved in a motor vehicle crash or other emergency,
+            
+101
+
+    
+including the retrieval of data from a company that provides subscription services to the owner
+            
+102
+
+    
+of a motor vehicle for in-vehicle safety and security communications.
+            
+103
+
+    
+    (3)  Except as provided in Subsection (4), a person who has retrieved, obtained, or used
+            
+104
+
+    
+event data under Subsection (2) may not release event data that is recorded on an event data
+            
+105
+
+    
+recorder.
+            
+106
+
+    
+    (4)  A person may release event data that is recorded on an event data recorder in the
+            
+107
+
+    
+following circumstances:
+            
+108
+
+    
+    (a)  the owner of the motor vehicle or the owner's agent has consented to the release of
+            
+109
+
+    
+the data;
+            
+110
+
+    
+    (b)  the data is subject to discovery pursuant to the rules of civil procedure in a claim
+            
+111
+
+    
+arising out of a motor vehicle accident;
+            
+112
+
+    
+    (c)  the data is released pursuant to a court order as part of an investigation of a
+            
+113
+
+    
+suspected violation of a law that has caused, or contributed to the cause of, an accident
+            
+114
+
+    
+resulting in damage of property or injury to a person; or
+            
+115
+
+    
+    (d)  if the identity of the owner or driver is not disclosed, the data is released to a motor
+            
+116
+
+    
+vehicle safety and medical research entity or data processor in order to advance motor vehicle
+            
+117
+
+    
+safety, security, or traffic management.
+            
+118
+
+    
+    (5)  Data from an event data recorder may be retrieved, obtained, and used by a
+            
+119
+
+    
+subscription service provider pursuant to a subscription agreement if the subscription service
+            
+120
+
+    
+provider discloses in the subscription service agreement that the data may be stored and
+
+            
+121
+
+
+    
+transmitted.
+            
+122
+
+    
+    Section 4.  
+Section  
+41-1a-1504
+
+ is enacted to read:
+            
+123
+
+    
+     41-1a-1504.  Effect of ownership transfer on ownership of data.
+            
+124
+
+    
+    (1)  Event data on a motor vehicle event data recorder does not become the property of
+            
+125
+
+    
+the lienholder or insurer solely because the lienholder or insurer succeeds in ownership of a
+            
+126
+
+    
+motor vehicle as a result of an accident.
+            
+127
+
+    
+    (2)  An insurer may not condition the payment or settlement of an owner's claim on the
+            
+128
+
+    
+owner's consent to the retrieval or use of the event data on a motor vehicle event data recorder.
+            
+129
+
+    
+    (3)  An insurer or lessor of a motor vehicle may not require an owner to consent to the
+            
+130
+
+    
+retrieval or use of the data on a motor vehicle event data recorder as a condition of providing
+            
+131
+
+    
+the policy or lease.
+
+
+
+
+ Legislative Review Note
+    as of   2-7-13  6:59 PM
+
+ Office of Legislative Research and General Counsel
+[Bill Documents][Bills Directory]
+
+
+
+
+
+
+
+
+
+Who represents me?
+
+
+
+
+
+Remember my Legislators
+
+
+
+
+
+State Senate
+		350 North State, Suite 320
+		PO Box 145115
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1035
+		Fax: (801) 326-1475
+
+
+
+House of Representatives
+		350 North State, Suite 350
+		PO Box 145030
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1029
+		Fax: (801) 326-1544
+
+
+
+
+
+
+
+
+
+
+Home
+Mobile Site
+Site Map
+Calendar
+Code / Constitution
+House
+Senate
+
+Terms of Use/Privacy Policy
+
+ADA
+Utah.gov
+
+
+
+
+
+
+

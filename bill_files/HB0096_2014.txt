@@ -1,0 +1,3429 @@
+Sponsors: []Modifications:     53A-1b-101.This chapter is known as "School Readiness Initiative."    53A-1b-102.As used in this part:(1)  "Board" means the School Readiness Board, created in Section 
+
+53A-1b-103
+
+
+.(2)  "Economically disadvantaged" means a student who:(a)  is eligible to receive free lunch;(b)  is eligible to receive reduced price lunch; or(c) (i)  is not otherwise accounted for in Subsection (2)(a) or (b); and(ii) (A)  is enrolled in a Provision 2 or Provision 3 school, as defined by the UnitedStates Department of Agriculture;(B)  has a Declaration of Household Income on file;(C)  is eligible for a fee waiver; or(D)  is enrolled at a school that does not offer a lunch program and is a sibling of astudent accounted for in Subsection (2)(a) or (b).(3)  "Eligible home-based educational technology provider" means a provider thatintends to offer a home-based educational technology program.(4)  "Eligible LEA" means an LEA that has a data system capacity to collectlongitudinal academic outcome data, including special education use by student, by identifyingeach student with a statewide unique student identifier.(5) (a)  "Eligible private provider" means a child care program that:(i) (A)  except as provided in Subsection (5)(b), is licensed under Title 26, Chapter 39,Utah Child Care Licensing Act; or(B)  is exempt from licensure under Section 
+
+26-39-403
+
+
+; and(ii)  meets other criteria as established by the board, consistent with Utah Constitution,Article X, Section 1.(b)  "Eligible private provider" does not include residential child care, as defined inSection 
+
+26-39-102
+
+
+.(6)  "Eligible student" means a student who is economically disadvantaged.(7)  "Local Education Agency" or "LEA" means a school district or charter school.(8)  "Performance outcome measure" means a cost avoidance in special education useor other remedial services for a student funded pursuant to a contract under this part.(9) (a)  "Private entity" means a private investor or investors that enter into aresults-based school readiness contract.(b)  "Private entity" includes an authorized representative of the private investor orinvestors.(10)  "Results-based school readiness contract" means a contract entered into by theboard, a private entity, and a provider of early childhood education that may result inrepayment to a private entity if certain performance outcome measures are achieved.    53A-1b-103.(1)  There is created a School Readiness Board within the Governor's Office ofManagement and Budget composed of:(a)  the director of the Department of Workforces Services or the director's designee;(b)  one member appointed by the State Board of Education;(c)  one member appointed by the chair of the State Charter School Board;(d)  one member appointed by the speaker of the House of Representatives; and(e)  one member appointed by the president of the Senate.(2) (a)  A member described in Subsections (1)(c), (d), and (e) shall serve for a term oftwo years.(b)  If a vacancy occurs for a member described in Subsection (1)(c), (d), or (e), theperson appointing the member shall appoint a replacement to serve the remainder of themember's term.(3)  A member may not receive compensation or benefits for the member's service.(4)  Upon request, the Governor's Office of Management and Budget shall provide staffsupport to the board.(5) (a)  The board members shall elect a chair of the board from the board'smembership.(b)  The board shall meet upon the call of the chair or a majority of the board members.    53A-1b-104.(1)  There is created a special revenue fund in the Education Fund known as the"School Readiness Special Revenue Fund" to fund:(a)  the High Quality School Readiness Grant Program described in Section
+
+53A-1b-106
+
+
+; and(b)  results-based school readiness contracts for eligible students to participate in:(i)  a high quality preschool program described in:(A)  Section 
+
+53A-1b-107
+
+
+; or(B)  Section 53A-1b-108; or(ii)  an eligible home-based educational technology program described in Section
+
+53A-1b-109
+
+
+.(2)  The special revenue fund consists of:(a)  money appropriated to the restricted account by the Legislature;(b)  all income and interest derived from the deposit and investment of money in theaccount;(c)  federal grants; and(d)  private donations.(3)  The board may annually use funds in the special revenue fund for the followingpurposes:(a)  to award grants under the High Quality School Readiness Grant Program describedin Section 
+
+53A-1b-106
+
+
+;(b)  to contract with an independent evaluator as required in Subsection 
+
+53A-1b-110
+
+
+(3);(c)  in accordance with Section 
+
+53A-1b-110
+
+
+, to make payments to one or more privateentities that the board has entered into a results-based contract with if the independentevaluator selected by the board determines that the performance-based results have been met;and(d)  up to 2% annually for administration costs and to monitor the programs describedin this part.    53A-1b-105.(1)  A high quality school readiness program run by an eligible LEA or eligible privateprovider shall include the following components:(a)  an evidence-based curriculum that is aligned with all of the developmental domainsand academic content areas defined in the Utah Early Childhood Standards adopted by theState Board of Education, and incorporates intentional and differentiated instruction in wholegroup, small group, and child-directed learning, including the following academic contentareas:(i)  oral language and listening comprehension;(ii)  phonological awareness and prereading;(iii)  alphabet and word knowledge;(iv)  prewriting;(v)  book knowledge and print awareness;(vi)  numeracy;(vii)  creative arts;(viii)  science and technology; and(ix)  social studies, health, and safety;(b)  ongoing, focused, and intensive professional development for staff of the schoolreadiness program;(c)  ongoing assessment of a student's educational growth and developmental progressto inform instruction;(d)  a pre- and post-assessment, selected by the board in accordance with Section
+
+53A-1b-110
+
+
+, of each student;(e)  for a preschool program run by an eligible LEA, a class size that does not exceed 20students, with one adult for every 10 students in the class;(f)  ongoing program evaluation and data collection to monitor program goalachievement and implementation of required program components;(g)  family engagement, including ongoing communication between home and school,and parent education opportunities based on each family's circumstances;(h)  for a preschool program run by an eligible LEA, each teacher having at leastobtained:(i)  the minimum standard of a child development associate certification; or(ii)  an associate or bachelor's degree in an early childhood education related field; and(i)  for a preschool program run by an eligible private provider, by a teacher's secondyear, each teacher having at least obtained:(i)  the minimum standard of a child development associate certification; or(ii)  an associate or bachelor's degree in an early childhood education related field.(2)  A high quality school readiness program run by a home-based educationaltechnology provider shall:(a)  be an evidence-based and age appropriate individualized interactive instructionassessment and feedback technology program that teaches eligible students early learning skillsneeded to be successful upon entry into kindergarten;(b)  require regular parental engagement with the student in the student's use of thehome-based educational technology program;(c)  be aligned with the Utah early childhood core standards;(d)  require the administration of the pre- and post-assessment, designated by the boardin accordance with Section 
+
+53A-1b-110
+
+
+, of each eligible student; and(e)  require technology providers to ensure successful implementation and utilization ofthe technology program.    53A-1b-106.(1)  The High Quality School Readiness Grant Program is created to provide grants tothe following, in order to upgrade an existing preschool or home-based technology program toa high quality school readiness program:(a)  an eligible private provider;(b)  an eligible LEA; or(c)  an eligible home-based educational technology provider.(2)  The State Board of Education shall:(a)  solicit proposals from eligible LEAs; and(b)  make recommendations to the board to award grants to respondents based oncriteria described in Subsection (5).(3)  The Department of Workforce Services shall:(a)  solicit proposals from eligible private providers and eligible home-basededucational technology providers; and(b)  make recommendations to the board to award grants to respondents based oncriteria described in Subsection (5).(4)  Subject to legislative appropriations, the board shall award grants to respondentsbased on:(a)  the recommendations of the State Board of Education;(b)  the recommendations of the Department of Workforce Services; and(c)  the criteria described in Subsection (5).(5)  In awarding a grant under Subsection (4), the State Board of Education, Departmentof Workforce Services, and the board shall consider:(a)  a respondent's capacity to effectively implement the components described inSection 
+
+53A-1b-105
+
+
+;(b)  the percentage of a respondent's students who are economically disadvantaged; and(c)  the level of administrative support and leadership at a respondent's program toeffectively implement, monitor, and evaluate the program.(6)  To receive a grant under this section, a respondent that is an eligible LEA shallsubmit a proposal to the State Board of Education detailing:(a)  the respondent's strategy to implement the high quality components described inSubsection 
+
+53A-1b-105
+
+
+(1);(b)  the number of students the respondent plans to serve, categorized by age andeconomically disadvantaged status;(c)  the number of high quality preschool classrooms the respondent plans to operate;and(d)  the estimated cost per student.(7)  To receive a grant under this section, a respondent that is an eligible privateprovider or an eligible home-based educational technology provider shall submit a proposal tothe Department of Workforce Services detailing:(a)  the respondent's strategy to implement the high quality components described inSection 
+
+53A-1b-105
+
+
+;(b)  the number of students the respondent plans to serve, categorized by age andeconomically disadvantaged status;(c)  for a respondent that is an eligible private provider, the number of high qualitypreschool classrooms the respondent plans to operate; and(d)  the estimated cost per student.(8)  All recipients of grants under this section shall establish a preschool or home-basededucational technology program with the components described in Section 
+
+53A-1b-105
+
+
+.(9) (a)  A grant recipient shall allow classroom or other visits by an independentevaluator chosen by the board in accordance with Section 
+
+53A-1b-110
+
+
+.(b)  The independent evaluator shall:(i)  determine whether a grant recipient has effectively implemented the componentsdescribed in Section 
+
+53A-1b-105
+
+
+; and(ii)  report the independent evaluator's findings to the board.(10) (a)  A grant recipient that is an eligible LEA shall assign a statewide uniquestudent identifier to each eligible student funded pursuant to a grant received under this section.(b)  A grant recipient that is an eligible private provider or an eligible home-basededucational technology provider shall work in conjunction with the State Board of Education toassign a statewide unique student identifier to each eligible student funded pursuant to a grantreceived under this section.(11)  A grant recipient that is an LEA shall report annually to the board and the StateBoard of Education the following:(a)  number of students served by the preschool, reported by economicallydisadvantaged status;(b)  attendance;(c)  cost per student; and(d)  assessment results.(12)  A grant recipient that is an eligible private provider or an eligible home-basededucational technology provider shall report annually to the board and the Department ofWorkforce Services the following:(a)  number of students served by the preschool or program, reported by economicallydisadvantaged status;(b)  attendance;(c)  cost per student; and(d)  assessment results.(13)  The State Board of Education and the Department of Workforce Services shallmake rules to effectively administer and monitor the High Quality School Readiness GrantProgram, including:(a)  requiring grant recipients to use the pre- and post-assessment selected by the boardin accordance with Section 
+
+53A-1b-110
+
+
+; and(b)  establishing reporting requirements for grant recipients.(14)  At the request of the board, the State Board of Education and the Department ofWorkforce Services shall report the information received from grant recipients described inSubsections (11) and (12) to the board.    53A-1b-107.(1)  To receive funding pursuant to a results-based contract awarded under Section
+
+53A-1b-110
+
+
+, an eligible LEA shall establish or currently operate a high quality preschool withthe components described in Subsection 
+
+53A-1b-105
+
+
+(1).(2)  An eligible LEA shall assign a statewide unique student identifier to each eligiblestudent funded pursuant to a results-based contract issued under this part.(3)  An eligible LEA may not use funds awarded pursuant to a results-based contract tosupplant funds for an existing high quality preschool program, but may use the funds tosupplement an existing high quality preschool program.(4)  If permitted under Title 1 of the No Child Left Behind Act of 2001, 20 U.S.C. Sec.6301-6578, an LEA may charge a sliding scale fee to a student participating in a high qualitypreschool program under this section, based on household income.(5)  An LEA that receives funds under this section shall report annually to the board thede-identified information described in Section 
+
+53A-1b-111
+
+
+.(6) (a)  An eligible LEA may contract with an eligible private provider to provide thehigh quality preschool program to a portion of the LEA's eligible students funded by aresults-based contract.(b)  The board shall determine in a results-based contract the portion of an LEA'seligible students funded by the results-based contract to be served by an eligible privateprovider.(7)  To receive funding pursuant to a results-based contract, an eligible private providershall:(a)  offer a preschool program that contains the components described in Subsection
+
+53A-1b-105
+
+
+(1);(b)  allow classroom visits by the evaluator chosen in accordance with Section
+
+53A-1b-110
+
+
+ and the private entity, to ensure the components described in this section areimplemented;(c)  allow the evaluator chosen in accordance with Section 
+
+53A-1b-110
+
+
+ to administerthe required pre- and post-assessments to eligible students funded under this part; and(d)  report the information described in Section 
+
+53A-1b-111
+
+
+ to the board and thecontracting LEA.(8)  An LEA may provide the eligible private provider with:(a)  professional development;(b)  staffing or staff support;(c)  materials; and(d)  assessments.(9) (a)  If permitted under Title 1 of the No Child Left Behind Act of 2001, 20 U.S.C.Sec. 6301-6578, an eligible private provider may charge a sliding scale fee to a studentparticipating in a high quality preschool program under this section, based on householdincome.(b)  The eligible private provider may use grants, scholarships, or other funds to helpfund the preschool program.(10)  A contractual partnership established under Subsection (6) shall be consistent withUtah Constitution, Article X, Section 1.(11)  The evaluator selected pursuant to Section 
+
+53A-1b-110
+
+
+ shall annually evaluate:(a)  the quality and outcomes of the high quality preschool program funded by aresults-based contract between a private entity and the board, including:(i)  adherence to required components described in Subsection 
+
+53A-1b-105
+
+
+(1); and(ii)  the pre- and post-assessment results of the assessment, designated by the boardunder Section 
+
+53A-1b-110
+
+
+, of eligible students in the high quality preschool program; and(b)  whether the performance outcome measures set in the results-based contract havebeen met, using de-identified data reported in Section 
+
+53A-1b-111
+
+
+.    53A-1b-108.(1)  To receive funding pursuant to a results-based contract awarded under Section
+
+53A-1b-110
+
+
+, an eligible private provider shall:(a)  establish or currently operate a high quality preschool with the componentsdescribed in Subsection 
+
+53A-1b-105
+
+
+(1);(b)  allow classroom visits by the evaluator chosen in accordance with Section
+
+53A-1b-110
+
+
+ and the private entity, to ensure the components described in Section 
+
+53A-1b-110
+
+
+are being implemented; and(c)  allow the evaluator chosen in accordance with Section 
+
+53A-1b-110
+
+
+ to administerthe required pre- and post-assessments to eligible students funded under this part.(2)  An eligible private provider shall work in conjunction with the State Board ofEducation to assign a statewide unique student identifier to each eligible student fundedpursuant to a results-based contract.(3)  An eligible private provider may not use funds awarded pursuant to a results-basedcontract to supplant funds for an existing high quality preschool program, but may use thefunds to supplement an existing high quality preschool program.(4) (a)  If permitted under Title 1 of the No Child Left Behind Act of 2001, 20 U.S.C.Sec. 6301-6578, an eligible private provider may charge a sliding scale fee to a studentparticipating in a high quality preschool program under this section, based on householdincome.(b)  The eligible private provider may use grants, scholarships, or other funds to helpfund the preschool program.(5)  An eligible private provider that receives funds under this section shall reportannually to the board the de-identified information described in Section 
+
+53A-1b-111
+
+
+.(6)  The State Board of Education shall report annually to the board aggregatedlongitudinal data on eligible students currently receiving funding under this section and anyeligible students who previously received funding under this section, including:(a)  academic achievement outcomes;(b)  special education use; and(c)  English language learner services.(7)  The evaluator selected pursuant to Section 
+
+53A-1b-110
+
+
+ shall annually evaluate:(a)  the quality and outcomes of a high quality preschool program funded by aresults-based contract between a private entity and the board, including:(i)  adherence to required components described in Subsection 
+
+53A-1b-105
+
+
+(1); and(ii)  the pre- and post-assessment results of the assessment, designated by the boardunder Section 
+
+53A-1b-110
+
+
+, of eligible students in the high quality preschool program; and(b)  whether the performance outcome measures set in the results-based contract havebeen met, using de-identified or aggregated data reported in Subsections (5) and (6).    53A-1b-109.(1)  To receive funding pursuant to a results-based contract awarded under Section
+
+53A-1b-110
+
+
+, an eligible home-based educational technology provider shall administer ahome-based educational technology program designed to prepare eligible students forkindergarten.(2)  An eligible home-based educational technology provider described in Subsection(1) shall establish or currently operate a high quality school readiness program with thecomponents described in Subsection 
+
+53A-1b-105
+
+
+(2).(3)  An eligible home-based educational technology provider shall work in conjunctionwith the State Board of Education to assign a statewide unique student identifier to eacheligible student funded pursuant to a results-based contract.(4)  An eligible home-based educational technology provider that receives funds underthis section shall report annually to the board the following de-identified information foreligible students funded in whole or in part pursuant to a results-based contract:(a)  number of eligible students served by the home-based educational technologyprogram, reported by economically disadvantaged status and English language learner status;(b)  average time, and range of time usage, an eligible student spent using the programper week;(c)  cost per eligible student;(d)  assessment results of the pre- and post-assessments selected by the board; and(e)  number of eligible students served by the home-based educational technologyprogram who participated in any other public or private preschool program, including the typeof preschool attended.(5)  The State Board of Education shall report annually to the board aggregatedlongitudinal data on eligible students currently receiving funding under this section and anyeligible students who previously received funding under this section, including:(a)  academic achievement outcomes;(b)  special education use; and(c)  English language learner services.(6)  The evaluator selected pursuant to Section 
+
+53A-1b-110
+
+
+ shall annually evaluate:(a)  the quality and outcomes of a home-based educational technology program fundedby a results-based contract between a private entity and the board, including the pre- andpost-assessment results, on the assessment designated by the board under Section 
+
+53A-1b-110
+
+
+,of eligible students in the program; and(b)  whether the performance outcome measures set in the results-based contract havebeen met, using de-identified or aggregated data reported in Subsections (4) and (5).    53A-1b-110.(1) (a)  The board may negotiate and enter into a results-based contract with a privateentity, selected through a competitive process, to fund:(i)  a high quality preschool program described in Section 
+
+53A-1b-107
+
+
+;(ii)  a high quality preschool program described in Section 
+
+53A-1b-108
+
+
+; or(iii)  a home-based education technology program described in Section 
+
+53A-1b-109
+
+
+.(b)  The board may not issue a results-based contract if the total outstanding obligationsof results-based contracts issued by the board under this part would exceed $15,000,000 at anyone time.(c)  The board may provide for a repayment to a private entity to include a return ofinvestment and an additional return on investment, dependent on achievement of specificperformance outcome measures set in the results-based contract.(d)  The additional return on investment described in Subsection (1)(c) may not exceed5% above the yield to maturity for the current rate the state receives for the state's generalobligation bonds at the time of the issuance of the results-based school readiness contract.(e)  Funding obtained for an early education program under this part is not aprocurement item under Section 
+
+63G-6a-103
+
+
+.(2)  A contract shall include:(a)  a requirement that the repayment to the private entity be conditioned on specificperformance outcome measures set in the results-based contract;(b)  a requirement for an independent evaluator to determine whether the performanceoutcomes have been achieved;(c)  a provision that repayment to the private entity is:(i)  based upon available money in the School Readiness Special Revenue Fund; and(ii)  subject to legislative appropriation; and(d)  that the private entity is not eligible to receive or view any personally identifiablestudent data of students funded through a results-based contract.(3)  The board shall select an independent, nationally recognized early childhoodeducation evaluator, selected through a request for proposals process, to annually evaluate:(a)  performance outcome measures set in a results-based contract of the board; and(b)  a High Quality School Readiness Grant Program recipient's program.(4)  The board shall select a uniform assessment that:(a)  is a nationally norm-based measure of age-appropriate cognitive or language skills;(b)  has established reliability; and(c)  has established validity with other similar measures and with later school outcomes.(5) (a)  At the end of each year of a results-based contract after a student funded througha results-based contract completes kindergarten, the independent evaluator shall determinewhether the performance outcome measures set in the results-based contract have been met.(b)  If the independent evaluator determines under Subsection (5)(a) that theperformance outcome measures have been met, the board may pay the private entity accordingto the terms of the results-based contract.(6) (a)  The board shall ensure that a parent or guardian of an eligible studentparticipating in a program funded pursuant to a results-based contract has given permission andsigned an acknowledgment that the student's data may be shared with an independent evaluatorfor research and evaluation purposes.(b)  The board shall maintain documentation of parental permission required inSubsection (6)(a).    53A-1b-111.(1)  An eligible LEA, eligible private provider, or eligible home-based educationaltechnology provider that receives funds pursuant to a results-based contract under this partshall report annually to the board the following de-identified information for eligible studentsfunded in whole or in part pursuant to a results-based contract:(a)  number of eligible students served by the recipient's preschool or home-basededucational technology program, reported by economically disadvantaged status and Englishlanguage learner status;(b)  attendance;(c)  cost per eligible student;(d)  assessment results of the pre- and post-assessments selected by the board; and(e)  aggregated longitudinal data on eligible students currently receiving funding underthis part and any eligible students who previously received funding under this part, including:(i)  academic achievement outcomes;(ii)  special education use; and(iii)  English language learner services.(2)  For each year of a results-based contract, the board shall report to the EducationInterim Committee the following:(a)  information collected under Subsection (1) for each participating LEA, privateprovider, and home-based educational technology provider; and(b)  the terms of the results-based contract, including:(i)  the name of each private entity and funding source;(ii)  the amount of money each private entity has invested;(iii)  the performance outcome measures set in the results-based contract by whichrepayment will be determined; and(iv)  the repayment schedule to the private entity if the performance outcomes are met.Under the terms and conditions of Title 63J, Chapter 1, Budgetary Procedures Act, forthe fiscal year beginning July 1, 2014, and ending June 30, 2015, the following sums of moneyare appropriated from resources not otherwise appropriated, or reduced from amountspreviously appropriated, out of the funds or accounts indicated.  These sums of money are inaddition to any amounts previously appropriated for fiscal year 2015.To General Fund Restricted - School Readiness Special Revenue FundFrom General Fund$5,000,000
+
+            
+506
+
+    
+        Schedule of Programs:
+            
+507
+
+    
+            General Fund Restricted - School Readiness
+            
+508
+
+    
+            Special Revenue Fund            $5,000,000
+            
+509
+
+    
+    Section 13.   Effective date.
+            
+510
+
+    
+    (1)  Except as provided in Subsection (2), this bill takes effect on May 13, 2014.
+            
+511
+
+    
+    (2)  Uncodified Section 12, Appropriation, takes effect on July 1, 2014.
+
+
+
+
+ Legislative Review Note
+    as of   1-30-14  5:56 AM
+
+ Office of Legislative Research and General Counsel
+[Bill Documents][Bills Directory]
+
+
+Schedule of Programs:General Fund Restricted - School Readiness            Special Revenue Fund$5,000,000(1)  Except as provided in Subsection (2), this bill takes effect on May 13, 2014.(2)  Uncodified Section 12, Appropriation, takes effect on July 1, 2014.Full text:
+
+
+
+Utah State Legislature
+
+
+
+
+
+
+
+
+
+
+
+
+Legislators
+
+By Session (1896-Current)
+Alphabetical (Historical)
+Find by Address/Map
+More
+
+
+Bills
+
+Bills/Bill Requests
+Passed Bills
+2017 Bills
+
+Keyword Search
+Reading Calendars
+Tracking Service
+More
+
+
+Committees
+
+All Committees
+Appropriations
+Commissions
+
+Independent Legislative Ethics Commission
+Interim
+Standing
+Subcommittees
+Task Forces
+Bills In Committees
+
+
+Utah Code / Constitution
+
+
+Title/Chapter/Section
+Keyword Search 
+
+Utah Constitution
+Laws of Utah 1851-ongoing
+Utah Territorial Laws 
+More
+
+
+Senate
+
+Main Page 
+About The Senate 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Extraordinary Sessions 
+Reading Calendars 
+Past Floor Debates 
+Senate Journals 
+
+
+House
+
+Main Page
+About the House 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Reading Calendars 
+Past Floor Debates 
+Journals 
+Conflict of Interest Forms 
+
+
+Legislative Guide 
+
+Legislative Guide
+Civic Programs
+GRAMA (Records Requests)
+
+
+Publications
+
+Search Publications
+Appropriations
+Audits
+Bagels & Briefings
+Briefing Papers
+Digest of Legislation
+Legislative Drafting Manual
+
+Journals
+
+Interim Highlights
+
+Legislative Rules
+GRAMA (Records Requests)
+Public Email
+State Organization Charts
+YouTube Channel
+Requests for Proposals and Legal Notices
+More
+
+
+Legislative Histories
+
+Legislative History Resources
+How to Research
+Bill Drafting/Research Files (1990-Ongoing)
+
+Working Bills (1896-1989)
+Interim Committee Histories (1990-Ongoing) 
+Journals
+Past House Floor Debates
+Past Senate Floor Debates
+More
+
+
+Staff Offices
+
+All Legislative Offices
+Auditor General
+Fiscal Analyst
+Printing
+Research and General Counsel
+Staff Awards
+Job Opportunities
+More
+
+
+Links of Interest
+
+Utah Administrative Rules
+Courts
+Utah State Capitol
+State of Utah
+Federal Legislation
+More
+
+
+
+
+
+
+ 
+
+H.B. 96
+
+
+
+
+
+            
+1
+
+    
+ UTAH SCHOOL READINESS INITIATIVE
+
+
+
+            
+2
+
+    
+2014 GENERAL SESSION
+
+            
+3
+
+    
+STATE OF UTAH
+
+            
+4
+
+    
+
+
+ Chief Sponsor:  Gregory H. Hughes
+
+
+
+            
+5
+
+    
+
+
+
+Senate Sponsor: 
+
+
+
+
+
+
+  Stephen H. Urquhart
+
+
+
+
+
+            
+6
+
+    
+
+            
+7
+
+    
+ LONG TITLE
+            
+8
+
+    
+ General Description:
+            
+9
+
+    
+    This bill creates the School Readiness Board, which provides grants to certain early
+            
+10
+
+    
+childhood education programs, and may enter into certain contracts with private entities
+            
+11
+
+    
+to provide funding for early childhood education programs for at-risk students. 
+            
+12
+
+    
+ Highlighted Provisions:
+            
+13
+
+    
+    This bill:
+            
+14
+
+    
+    .    creates the School Readiness Special Revenue Fund;
+            
+15
+
+    
+    .    creates the School Readiness Board (board) to negotiate contracts with private
+            
+16
+
+    
+entities to fund certain early childhood education programs and award grants to
+            
+17
+
+    
+certain early childhood education programs;
+            
+18
+
+    
+    .    details components of a high quality school readiness program that may be funded
+            
+19
+
+    
+through a results-based contract between the board and private entities;
+            
+20
+
+    
+    .    describes a home-based educational technology program that may be funded
+            
+21
+
+    
+through a results-based contract between the board and a private entity or entities;
+            
+22
+
+    
+    .    requires the State Board of Education and the Department of Workforce Services to:
+            
+23
+
+    
+        .    solicit proposals from qualifying early childhood education programs for quality
+            
+24
+
+    
+school readiness grants;
+            
+25
+
+    
+        .    make recommendations to the board to award grants to qualifying early
+            
+26
+
+    
+childhood education programs;
+            
+27
+
+    
+        .    monitor and evaluate the programs; and
+
+            
+28
+
+
+    
+        .    develop policies and enact rules;
+            
+29
+
+    
+    .    requires the board to award grants to qualifying early childhood education programs
+            
+30
+
+    
+based on recommendations of the State Board of Education and the Department of
+            
+31
+
+    
+Workforce Services and other criteria;
+            
+32
+
+    
+    .    requires the Governor's Office of Management and Budget to staff the board;
+            
+33
+
+    
+    .    requires the repayment to private entities to be conditioned on meeting performance
+            
+34
+
+    
+outcomes set in the contract;
+            
+35
+
+    
+    .    requires an independent evaluation of the performance outcomes;
+            
+36
+
+    
+    .    allows the board no more than $15,000,000 of outstanding obligations at any one
+            
+37
+
+    
+time;
+            
+38
+
+    
+    .    exempts the awarding of a results-based contract from general procurement
+            
+39
+
+    
+requirements; and
+            
+40
+
+    
+    .    establishes reporting requirements.
+            
+41
+
+    
+ Money Appropriated in this Bill:
+            
+42
+
+    
+    This bill appropriates in fiscal year 2015:
+            
+43
+
+    
+    .    to the General Fund Restricted - School Readiness Special Revenue Fund, as an
+            
+44
+
+    
+ongoing appropriation:
+            
+45
+
+    
+        .    from the General Fund, $5,000,000.
+            
+46
+
+    
+ Other Special Clauses:
+            
+47
+
+    
+    This bill provides an effective date.
+            
+48
+
+    
+ Utah Code Sections Affected:
+            
+49
+
+    
+ENACTS:
+            
+50
+
+    
+     
+53A-1b-101
+, Utah Code Annotated 1953
+            
+51
+
+    
+     
+53A-1b-102
+, Utah Code Annotated 1953
+            
+52
+
+    
+     
+53A-1b-103
+, Utah Code Annotated 1953
+            
+53
+
+    
+     
+53A-1b-104
+, Utah Code Annotated 1953
+            
+54
+
+    
+     
+53A-1b-105
+, Utah Code Annotated 1953
+            
+55
+
+    
+     
+53A-1b-106
+, Utah Code Annotated 1953
+            
+56
+
+    
+     
+53A-1b-107
+, Utah Code Annotated 1953
+            
+57
+
+    
+     
+53A-1b-108
+, Utah Code Annotated 1953
+            
+58
+
+    
+     
+53A-1b-109
+, Utah Code Annotated 1953
+
+            
+59
+
+
+    
+     
+53A-1b-110
+, Utah Code Annotated 1953
+            
+60
+
+    
+     
+53A-1b-111
+, Utah Code Annotated 1953
+            
+61
+
+    
+
+            
+62
+
+    
+Be it enacted by the Legislature of the state of Utah:
+            
+63
+
+    
+    Section 1.  
+Section  
+53A-1b-101
+
+ is enacted to read:
+            
+64
+
+    
+ CHAPTER 1b.  SCHOOL READINESS INITIATIVE
+
+            
+65
+
+    
+ Part 1.  School Readiness Initiative Act
+
+            
+66
+
+    
+     53A-1b-101.  Title.
+            
+67
+
+    
+    This chapter is known as "School Readiness Initiative."
+            
+68
+
+    
+    Section 2.  
+Section  
+53A-1b-102
+
+ is enacted to read:
+            
+69
+
+    
+     53A-1b-102.  Definitions.
+            
+70
+
+    
+    As used in this part:
+            
+71
+
+    
+    (1)  "Board" means the School Readiness Board, created in Section 
+
+53A-1b-103
+
+
+.
+            
+72
+
+    
+    (2)  "Economically disadvantaged" means a student who:
+            
+73
+
+    
+    (a)  is eligible to receive free lunch;
+            
+74
+
+    
+    (b)  is eligible to receive reduced price lunch; or
+            
+75
+
+    
+    (c) (i)  is not otherwise accounted for in Subsection (2)(a) or (b); and
+            
+76
+
+    
+    (ii) (A)  is enrolled in a Provision 2 or Provision 3 school, as defined by the United
+            
+77
+
+    
+States Department of Agriculture;
+            
+78
+
+    
+    (B)  has a Declaration of Household Income on file;
+            
+79
+
+    
+    (C)  is eligible for a fee waiver; or
+            
+80
+
+    
+    (D)  is enrolled at a school that does not offer a lunch program and is a sibling of a
+            
+81
+
+    
+student accounted for in Subsection (2)(a) or (b).
+            
+82
+
+    
+    (3)  "Eligible home-based educational technology provider" means a provider that
+            
+83
+
+    
+intends to offer a home-based educational technology program.
+            
+84
+
+    
+    (4)  "Eligible LEA" means an LEA that has a data system capacity to collect
+            
+85
+
+    
+longitudinal academic outcome data, including special education use by student, by identifying
+            
+86
+
+    
+each student with a statewide unique student identifier.
+            
+87
+
+    
+    (5) (a)  "Eligible private provider" means a child care program that:
+            
+88
+
+    
+    (i) (A)  except as provided in Subsection (5)(b), is licensed under Title 26, Chapter 39,
+            
+89
+
+    
+Utah Child Care Licensing Act; or
+
+            
+90
+
+
+    
+    (B)  is exempt from licensure under Section 
+
+26-39-403
+
+
+; and
+            
+91
+
+    
+    (ii)  meets other criteria as established by the board, consistent with Utah Constitution,
+            
+92
+
+    
+Article X, Section 1.
+            
+93
+
+    
+    (b)  "Eligible private provider" does not include residential child care, as defined in
+            
+94
+
+    
+Section 
+
+26-39-102
+
+
+.
+            
+95
+
+    
+    (6)  "Eligible student" means a student who is economically disadvantaged.
+            
+96
+
+    
+    (7)  "Local Education Agency" or "LEA" means a school district or charter school.
+            
+97
+
+    
+    (8)  "Performance outcome measure" means a cost avoidance in special education use
+            
+98
+
+    
+or other remedial services for a student funded pursuant to a contract under this part.
+            
+99
+
+    
+    (9) (a)  "Private entity" means a private investor or investors that enter into a
+            
+100
+
+    
+results-based school readiness contract.
+            
+101
+
+    
+    (b)  "Private entity" includes an authorized representative of the private investor or
+            
+102
+
+    
+investors.
+            
+103
+
+    
+    (10)  "Results-based school readiness contract" means a contract entered into by the
+            
+104
+
+    
+board, a private entity, and a provider of early childhood education that may result in
+            
+105
+
+    
+repayment to a private entity if certain performance outcome measures are achieved.
+            
+106
+
+    
+    Section 3.  
+Section  
+53A-1b-103
+
+ is enacted to read:
+            
+107
+
+    
+     53A-1b-103.  Establishment of the School Readiness Board -- Membership.
+            
+108
+
+    
+    (1)  There is created a School Readiness Board within the Governor's Office of
+            
+109
+
+    
+Management and Budget composed of:
+            
+110
+
+    
+    (a)  the director of the Department of Workforces Services or the director's designee;
+            
+111
+
+    
+    (b)  one member appointed by the State Board of Education;
+            
+112
+
+    
+    (c)  one member appointed by the chair of the State Charter School Board;
+            
+113
+
+    
+    (d)  one member appointed by the speaker of the House of Representatives; and
+            
+114
+
+    
+    (e)  one member appointed by the president of the Senate.
+            
+115
+
+    
+    (2) (a)  A member described in Subsections (1)(c), (d), and (e) shall serve for a term of
+            
+116
+
+    
+two years.
+            
+117
+
+    
+    (b)  If a vacancy occurs for a member described in Subsection (1)(c), (d), or (e), the
+            
+118
+
+    
+person appointing the member shall appoint a replacement to serve the remainder of the
+            
+119
+
+    
+member's term.
+            
+120
+
+    
+    (3)  A member may not receive compensation or benefits for the member's service.
+
+            
+121
+
+
+    
+    (4)  Upon request, the Governor's Office of Management and Budget shall provide staff
+            
+122
+
+    
+support to the board.
+            
+123
+
+    
+    (5) (a)  The board members shall elect a chair of the board from the board's
+            
+124
+
+    
+membership.
+            
+125
+
+    
+    (b)  The board shall meet upon the call of the chair or a majority of the board members.
+            
+126
+
+    
+    Section 4.  
+Section  
+53A-1b-104
+
+ is enacted to read:
+            
+127
+
+    
+     53A-1b-104.  School Readiness Special Revenue Fund -- Creation -- Funding --
+            
+128
+
+    
+ Distribution of funds.
+            
+129
+
+    
+    (1)  There is created a special revenue fund in the Education Fund known as the
+            
+130
+
+    
+"School Readiness Special Revenue Fund" to fund:
+            
+131
+
+    
+    (a)  the High Quality School Readiness Grant Program described in Section
+            
+132
+
+    
+
+
+53A-1b-106
+
+
+; and
+            
+133
+
+    
+    (b)  results-based school readiness contracts for eligible students to participate in:
+            
+134
+
+    
+    (i)  a high quality preschool program described in:
+            
+135
+
+    
+    (A)  Section 
+
+53A-1b-107
+
+
+; or
+            
+136
+
+    
+    (B)  Section 53A-1b-108; or
+            
+137
+
+    
+    (ii)  an eligible home-based educational technology program described in Section
+            
+138
+
+    
+
+
+53A-1b-109
+
+
+.
+            
+139
+
+    
+    (2)  The special revenue fund consists of:
+            
+140
+
+    
+    (a)  money appropriated to the restricted account by the Legislature;
+            
+141
+
+    
+    (b)  all income and interest derived from the deposit and investment of money in the
+            
+142
+
+    
+account;
+            
+143
+
+    
+    (c)  federal grants; and
+            
+144
+
+    
+    (d)  private donations.
+            
+145
+
+    
+    (3)  The board may annually use funds in the special revenue fund for the following
+            
+146
+
+    
+purposes:
+            
+147
+
+    
+    (a)  to award grants under the High Quality School Readiness Grant Program described
+            
+148
+
+    
+in Section 
+
+53A-1b-106
+
+
+;
+            
+149
+
+    
+    (b)  to contract with an independent evaluator as required in Subsection 
+
+53A-1b-110
+
+
+(3);
+            
+150
+
+    
+    (c)  in accordance with Section 
+
+53A-1b-110
+
+
+, to make payments to one or more private
+            
+151
+
+    
+entities that the board has entered into a results-based contract with if the independent
+
+            
+152
+
+
+    
+evaluator selected by the board determines that the performance-based results have been met;
+            
+153
+
+    
+and
+            
+154
+
+    
+    (d)  up to 2% annually for administration costs and to monitor the programs described
+            
+155
+
+    
+in this part.
+            
+156
+
+    
+    Section 5.  
+Section  
+53A-1b-105
+
+ is enacted to read:
+            
+157
+
+    
+     53A-1b-105.  Elements of a high quality school readiness program.
+            
+158
+
+    
+    (1)  A high quality school readiness program run by an eligible LEA or eligible private
+            
+159
+
+    
+provider shall include the following components:
+            
+160
+
+    
+    (a)  an evidence-based curriculum that is aligned with all of the developmental domains
+            
+161
+
+    
+and academic content areas defined in the Utah Early Childhood Standards adopted by the
+            
+162
+
+    
+State Board of Education, and incorporates intentional and differentiated instruction in whole
+            
+163
+
+    
+group, small group, and child-directed learning, including the following academic content
+            
+164
+
+    
+areas:
+            
+165
+
+    
+    (i)  oral language and listening comprehension;
+            
+166
+
+    
+    (ii)  phonological awareness and prereading;
+            
+167
+
+    
+    (iii)  alphabet and word knowledge;
+            
+168
+
+    
+    (iv)  prewriting;
+            
+169
+
+    
+    (v)  book knowledge and print awareness;
+            
+170
+
+    
+    (vi)  numeracy;
+            
+171
+
+    
+    (vii)  creative arts;
+            
+172
+
+    
+    (viii)  science and technology; and
+            
+173
+
+    
+    (ix)  social studies, health, and safety;
+            
+174
+
+    
+    (b)  ongoing, focused, and intensive professional development for staff of the school
+            
+175
+
+    
+readiness program;
+            
+176
+
+    
+    (c)  ongoing assessment of a student's educational growth and developmental progress
+            
+177
+
+    
+to inform instruction;
+            
+178
+
+    
+    (d)  a pre- and post-assessment, selected by the board in accordance with Section
+            
+179
+
+    
+
+
+53A-1b-110
+
+
+, of each student;
+            
+180
+
+    
+    (e)  for a preschool program run by an eligible LEA, a class size that does not exceed 20
+            
+181
+
+    
+students, with one adult for every 10 students in the class;
+            
+182
+
+    
+    (f)  ongoing program evaluation and data collection to monitor program goal
+
+            
+183
+
+
+    
+achievement and implementation of required program components;
+            
+184
+
+    
+    (g)  family engagement, including ongoing communication between home and school,
+            
+185
+
+    
+and parent education opportunities based on each family's circumstances;
+            
+186
+
+    
+    (h)  for a preschool program run by an eligible LEA, each teacher having at least
+            
+187
+
+    
+obtained:
+            
+188
+
+    
+    (i)  the minimum standard of a child development associate certification; or
+            
+189
+
+    
+    (ii)  an associate or bachelor's degree in an early childhood education related field; and
+            
+190
+
+    
+    (i)  for a preschool program run by an eligible private provider, by a teacher's second
+            
+191
+
+    
+year, each teacher having at least obtained:
+            
+192
+
+    
+    (i)  the minimum standard of a child development associate certification; or
+            
+193
+
+    
+    (ii)  an associate or bachelor's degree in an early childhood education related field.
+            
+194
+
+    
+    (2)  A high quality school readiness program run by a home-based educational
+            
+195
+
+    
+technology provider shall:
+            
+196
+
+    
+    (a)  be an evidence-based and age appropriate individualized interactive instruction
+            
+197
+
+    
+assessment and feedback technology program that teaches eligible students early learning skills
+            
+198
+
+    
+needed to be successful upon entry into kindergarten;
+            
+199
+
+    
+    (b)  require regular parental engagement with the student in the student's use of the
+            
+200
+
+    
+home-based educational technology program;
+            
+201
+
+    
+    (c)  be aligned with the Utah early childhood core standards;
+            
+202
+
+    
+    (d)  require the administration of the pre- and post-assessment, designated by the board
+            
+203
+
+    
+in accordance with Section 
+
+53A-1b-110
+
+
+, of each eligible student; and
+            
+204
+
+    
+    (e)  require technology providers to ensure successful implementation and utilization of
+            
+205
+
+    
+the technology program.
+            
+206
+
+    
+    Section 6.  
+Section  
+53A-1b-106
+
+ is enacted to read:
+            
+207
+
+    
+     53A-1b-106.  High Quality School Readiness Grant Program.
+            
+208
+
+    
+    (1)  The High Quality School Readiness Grant Program is created to provide grants to
+            
+209
+
+    
+the following, in order to upgrade an existing preschool or home-based technology program to
+            
+210
+
+    
+a high quality school readiness program:
+            
+211
+
+    
+    (a)  an eligible private provider;
+            
+212
+
+    
+    (b)  an eligible LEA; or
+            
+213
+
+    
+    (c)  an eligible home-based educational technology provider.
+
+            
+214
+
+
+    
+    (2)  The State Board of Education shall:
+            
+215
+
+    
+    (a)  solicit proposals from eligible LEAs; and
+            
+216
+
+    
+    (b)  make recommendations to the board to award grants to respondents based on
+            
+217
+
+    
+criteria described in Subsection (5).
+            
+218
+
+    
+    (3)  The Department of Workforce Services shall:
+            
+219
+
+    
+    (a)  solicit proposals from eligible private providers and eligible home-based
+            
+220
+
+    
+educational technology providers; and
+            
+221
+
+    
+    (b)  make recommendations to the board to award grants to respondents based on
+            
+222
+
+    
+criteria described in Subsection (5).
+            
+223
+
+    
+    (4)  Subject to legislative appropriations, the board shall award grants to respondents
+            
+224
+
+    
+based on:
+            
+225
+
+    
+    (a)  the recommendations of the State Board of Education;
+            
+226
+
+    
+    (b)  the recommendations of the Department of Workforce Services; and
+            
+227
+
+    
+    (c)  the criteria described in Subsection (5).
+            
+228
+
+    
+    (5)  In awarding a grant under Subsection (4), the State Board of Education, Department
+            
+229
+
+    
+of Workforce Services, and the board shall consider:
+            
+230
+
+    
+    (a)  a respondent's capacity to effectively implement the components described in
+            
+231
+
+    
+Section 
+
+53A-1b-105
+
+
+;
+            
+232
+
+    
+    (b)  the percentage of a respondent's students who are economically disadvantaged; and
+            
+233
+
+    
+    (c)  the level of administrative support and leadership at a respondent's program to
+            
+234
+
+    
+effectively implement, monitor, and evaluate the program.
+            
+235
+
+    
+    (6)  To receive a grant under this section, a respondent that is an eligible LEA shall
+            
+236
+
+    
+submit a proposal to the State Board of Education detailing:
+            
+237
+
+    
+    (a)  the respondent's strategy to implement the high quality components described in
+            
+238
+
+    
+Subsection 
+
+53A-1b-105
+
+
+(1);
+            
+239
+
+    
+    (b)  the number of students the respondent plans to serve, categorized by age and
+            
+240
+
+    
+economically disadvantaged status;
+            
+241
+
+    
+    (c)  the number of high quality preschool classrooms the respondent plans to operate;
+            
+242
+
+    
+and
+            
+243
+
+    
+    (d)  the estimated cost per student.
+            
+244
+
+    
+    (7)  To receive a grant under this section, a respondent that is an eligible private
+
+            
+245
+
+
+    
+provider or an eligible home-based educational technology provider shall submit a proposal to
+            
+246
+
+    
+the Department of Workforce Services detailing:
+            
+247
+
+    
+    (a)  the respondent's strategy to implement the high quality components described in
+            
+248
+
+    
+Section 
+
+53A-1b-105
+
+
+;
+            
+249
+
+    
+    (b)  the number of students the respondent plans to serve, categorized by age and
+            
+250
+
+    
+economically disadvantaged status;
+            
+251
+
+    
+    (c)  for a respondent that is an eligible private provider, the number of high quality
+            
+252
+
+    
+preschool classrooms the respondent plans to operate; and
+            
+253
+
+    
+    (d)  the estimated cost per student.
+            
+254
+
+    
+    (8)  All recipients of grants under this section shall establish a preschool or home-based
+            
+255
+
+    
+educational technology program with the components described in Section 
+
+53A-1b-105
+
+
+.
+            
+256
+
+    
+    (9) (a)  A grant recipient shall allow classroom or other visits by an independent
+            
+257
+
+    
+evaluator chosen by the board in accordance with Section 
+
+53A-1b-110
+
+
+.
+            
+258
+
+    
+    (b)  The independent evaluator shall:
+            
+259
+
+    
+    (i)  determine whether a grant recipient has effectively implemented the components
+            
+260
+
+    
+described in Section 
+
+53A-1b-105
+
+
+; and
+            
+261
+
+    
+    (ii)  report the independent evaluator's findings to the board.
+            
+262
+
+    
+    (10) (a)  A grant recipient that is an eligible LEA shall assign a statewide unique
+            
+263
+
+    
+student identifier to each eligible student funded pursuant to a grant received under this section.
+            
+264
+
+    
+    (b)  A grant recipient that is an eligible private provider or an eligible home-based
+            
+265
+
+    
+educational technology provider shall work in conjunction with the State Board of Education to
+            
+266
+
+    
+assign a statewide unique student identifier to each eligible student funded pursuant to a grant
+            
+267
+
+    
+received under this section.
+            
+268
+
+    
+    (11)  A grant recipient that is an LEA shall report annually to the board and the State
+            
+269
+
+    
+Board of Education the following:
+            
+270
+
+    
+    (a)  number of students served by the preschool, reported by economically
+            
+271
+
+    
+disadvantaged status;
+            
+272
+
+    
+    (b)  attendance;
+            
+273
+
+    
+    (c)  cost per student; and
+            
+274
+
+    
+    (d)  assessment results.
+            
+275
+
+    
+    (12)  A grant recipient that is an eligible private provider or an eligible home-based
+
+            
+276
+
+
+    
+educational technology provider shall report annually to the board and the Department of
+            
+277
+
+    
+Workforce Services the following:
+            
+278
+
+    
+    (a)  number of students served by the preschool or program, reported by economically
+            
+279
+
+    
+disadvantaged status;
+            
+280
+
+    
+    (b)  attendance;
+            
+281
+
+    
+    (c)  cost per student; and
+            
+282
+
+    
+    (d)  assessment results.
+            
+283
+
+    
+    (13)  The State Board of Education and the Department of Workforce Services shall
+            
+284
+
+    
+make rules to effectively administer and monitor the High Quality School Readiness Grant
+            
+285
+
+    
+Program, including:
+            
+286
+
+    
+    (a)  requiring grant recipients to use the pre- and post-assessment selected by the board
+            
+287
+
+    
+in accordance with Section 
+
+53A-1b-110
+
+
+; and
+            
+288
+
+    
+    (b)  establishing reporting requirements for grant recipients.
+            
+289
+
+    
+    (14)  At the request of the board, the State Board of Education and the Department of
+            
+290
+
+    
+Workforce Services shall report the information received from grant recipients described in
+            
+291
+
+    
+Subsections (11) and (12) to the board.
+            
+292
+
+    
+    Section 7.  
+Section  
+53A-1b-107
+
+ is enacted to read:
+            
+293
+
+    
+     53A-1b-107.  High quality preschool programs for eligible LEAs.
+            
+294
+
+    
+    (1)  To receive funding pursuant to a results-based contract awarded under Section
+            
+295
+
+    
+
+
+53A-1b-110
+
+
+, an eligible LEA shall establish or currently operate a high quality preschool with
+            
+296
+
+    
+the components described in Subsection 
+
+53A-1b-105
+
+
+(1).
+            
+297
+
+    
+    (2)  An eligible LEA shall assign a statewide unique student identifier to each eligible
+            
+298
+
+    
+student funded pursuant to a results-based contract issued under this part.
+            
+299
+
+    
+    (3)  An eligible LEA may not use funds awarded pursuant to a results-based contract to
+            
+300
+
+    
+supplant funds for an existing high quality preschool program, but may use the funds to
+            
+301
+
+    
+supplement an existing high quality preschool program.
+            
+302
+
+    
+    (4)  If permitted under Title 1 of the No Child Left Behind Act of 2001, 20 U.S.C. Sec.
+            
+303
+
+    
+6301-6578, an LEA may charge a sliding scale fee to a student participating in a high quality
+            
+304
+
+    
+preschool program under this section, based on household income.
+            
+305
+
+    
+    (5)  An LEA that receives funds under this section shall report annually to the board the
+            
+306
+
+    
+de-identified information described in Section 
+
+53A-1b-111
+
+
+.
+
+            
+307
+
+
+    
+    (6) (a)  An eligible LEA may contract with an eligible private provider to provide the
+            
+308
+
+    
+high quality preschool program to a portion of the LEA's eligible students funded by a
+            
+309
+
+    
+results-based contract.
+            
+310
+
+    
+    (b)  The board shall determine in a results-based contract the portion of an LEA's
+            
+311
+
+    
+eligible students funded by the results-based contract to be served by an eligible private
+            
+312
+
+    
+provider.
+            
+313
+
+    
+    (7)  To receive funding pursuant to a results-based contract, an eligible private provider
+            
+314
+
+    
+shall:
+            
+315
+
+    
+    (a)  offer a preschool program that contains the components described in Subsection
+            
+316
+
+    
+
+
+53A-1b-105
+
+
+(1);
+            
+317
+
+    
+    (b)  allow classroom visits by the evaluator chosen in accordance with Section
+            
+318
+
+    
+
+
+53A-1b-110
+
+
+ and the private entity, to ensure the components described in this section are
+            
+319
+
+    
+implemented;
+            
+320
+
+    
+    (c)  allow the evaluator chosen in accordance with Section 
+
+53A-1b-110
+
+
+ to administer
+            
+321
+
+    
+the required pre- and post-assessments to eligible students funded under this part; and
+            
+322
+
+    
+    (d)  report the information described in Section 
+
+53A-1b-111
+
+
+ to the board and the
+            
+323
+
+    
+contracting LEA.
+            
+324
+
+    
+    (8)  An LEA may provide the eligible private provider with:
+            
+325
+
+    
+    (a)  professional development;
+            
+326
+
+    
+    (b)  staffing or staff support;
+            
+327
+
+    
+    (c)  materials; and
+            
+328
+
+    
+    (d)  assessments.
+            
+329
+
+    
+    (9) (a)  If permitted under Title 1 of the No Child Left Behind Act of 2001, 20 U.S.C.
+            
+330
+
+    
+Sec. 6301-6578, an eligible private provider may charge a sliding scale fee to a student
+            
+331
+
+    
+participating in a high quality preschool program under this section, based on household
+            
+332
+
+    
+income.
+            
+333
+
+    
+    (b)  The eligible private provider may use grants, scholarships, or other funds to help
+            
+334
+
+    
+fund the preschool program.
+            
+335
+
+    
+    (10)  A contractual partnership established under Subsection (6) shall be consistent with
+            
+336
+
+    
+Utah Constitution, Article X, Section 1.
+            
+337
+
+    
+    (11)  The evaluator selected pursuant to Section 
+
+53A-1b-110
+
+
+ shall annually evaluate:
+
+            
+338
+
+
+    
+    (a)  the quality and outcomes of the high quality preschool program funded by a
+            
+339
+
+    
+results-based contract between a private entity and the board, including:
+            
+340
+
+    
+    (i)  adherence to required components described in Subsection 
+
+53A-1b-105
+
+
+(1); and
+            
+341
+
+    
+    (ii)  the pre- and post-assessment results of the assessment, designated by the board
+            
+342
+
+    
+under Section 
+
+53A-1b-110
+
+
+, of eligible students in the high quality preschool program; and
+            
+343
+
+    
+    (b)  whether the performance outcome measures set in the results-based contract have
+            
+344
+
+    
+been met, using de-identified data reported in Section 
+
+53A-1b-111
+
+
+.
+            
+345
+
+    
+    Section 8.  
+Section  
+53A-1b-108
+
+ is enacted to read:
+            
+346
+
+    
+     53A-1b-108.  High quality preschool programs for eligible private providers.
+            
+347
+
+    
+    (1)  To receive funding pursuant to a results-based contract awarded under Section
+            
+348
+
+    
+
+
+53A-1b-110
+
+
+, an eligible private provider shall:
+            
+349
+
+    
+    (a)  establish or currently operate a high quality preschool with the components
+            
+350
+
+    
+described in Subsection 
+
+53A-1b-105
+
+
+(1);
+            
+351
+
+    
+    (b)  allow classroom visits by the evaluator chosen in accordance with Section
+            
+352
+
+    
+
+
+53A-1b-110
+
+
+ and the private entity, to ensure the components described in Section 
+
+53A-1b-110
+
+
+
+            
+353
+
+    
+are being implemented; and
+            
+354
+
+    
+    (c)  allow the evaluator chosen in accordance with Section 
+
+53A-1b-110
+
+
+ to administer
+            
+355
+
+    
+the required pre- and post-assessments to eligible students funded under this part.
+            
+356
+
+    
+    (2)  An eligible private provider shall work in conjunction with the State Board of
+            
+357
+
+    
+Education to assign a statewide unique student identifier to each eligible student funded
+            
+358
+
+    
+pursuant to a results-based contract.
+            
+359
+
+    
+    (3)  An eligible private provider may not use funds awarded pursuant to a results-based
+            
+360
+
+    
+contract to supplant funds for an existing high quality preschool program, but may use the
+            
+361
+
+    
+funds to supplement an existing high quality preschool program.
+            
+362
+
+    
+    (4) (a)  If permitted under Title 1 of the No Child Left Behind Act of 2001, 20 U.S.C.
+            
+363
+
+    
+Sec. 6301-6578, an eligible private provider may charge a sliding scale fee to a student
+            
+364
+
+    
+participating in a high quality preschool program under this section, based on household
+            
+365
+
+    
+income.
+            
+366
+
+    
+    (b)  The eligible private provider may use grants, scholarships, or other funds to help
+            
+367
+
+    
+fund the preschool program.
+            
+368
+
+    
+    (5)  An eligible private provider that receives funds under this section shall report
+
+            
+369
+
+
+    
+annually to the board the de-identified information described in Section 
+
+53A-1b-111
+
+
+.
+            
+370
+
+    
+    (6)  The State Board of Education shall report annually to the board aggregated
+            
+371
+
+    
+longitudinal data on eligible students currently receiving funding under this section and any
+            
+372
+
+    
+eligible students who previously received funding under this section, including:
+            
+373
+
+    
+    (a)  academic achievement outcomes;
+            
+374
+
+    
+    (b)  special education use; and
+            
+375
+
+    
+    (c)  English language learner services.
+            
+376
+
+    
+    (7)  The evaluator selected pursuant to Section 
+
+53A-1b-110
+
+
+ shall annually evaluate:
+            
+377
+
+    
+    (a)  the quality and outcomes of a high quality preschool program funded by a
+            
+378
+
+    
+results-based contract between a private entity and the board, including:
+            
+379
+
+    
+    (i)  adherence to required components described in Subsection 
+
+53A-1b-105
+
+
+(1); and
+            
+380
+
+    
+    (ii)  the pre- and post-assessment results of the assessment, designated by the board
+            
+381
+
+    
+under Section 
+
+53A-1b-110
+
+
+, of eligible students in the high quality preschool program; and
+            
+382
+
+    
+    (b)  whether the performance outcome measures set in the results-based contract have
+            
+383
+
+    
+been met, using de-identified or aggregated data reported in Subsections (5) and (6).
+            
+384
+
+    
+    Section 9.  
+Section  
+53A-1b-109
+
+ is enacted to read:
+            
+385
+
+    
+     53A-1b-109.  Home-based educational technology for school readiness.
+            
+386
+
+    
+    (1)  To receive funding pursuant to a results-based contract awarded under Section
+            
+387
+
+    
+
+
+53A-1b-110
+
+
+, an eligible home-based educational technology provider shall administer a
+            
+388
+
+    
+home-based educational technology program designed to prepare eligible students for
+            
+389
+
+    
+kindergarten.
+            
+390
+
+    
+    (2)  An eligible home-based educational technology provider described in Subsection
+            
+391
+
+    
+(1) shall establish or currently operate a high quality school readiness program with the
+            
+392
+
+    
+components described in Subsection 
+
+53A-1b-105
+
+
+(2).
+            
+393
+
+    
+    (3)  An eligible home-based educational technology provider shall work in conjunction
+            
+394
+
+    
+with the State Board of Education to assign a statewide unique student identifier to each
+            
+395
+
+    
+eligible student funded pursuant to a results-based contract.
+            
+396
+
+    
+    (4)  An eligible home-based educational technology provider that receives funds under
+            
+397
+
+    
+this section shall report annually to the board the following de-identified information for
+            
+398
+
+    
+eligible students funded in whole or in part pursuant to a results-based contract:
+            
+399
+
+    
+    (a)  number of eligible students served by the home-based educational technology
+
+            
+400
+
+
+    
+program, reported by economically disadvantaged status and English language learner status;
+            
+401
+
+    
+    (b)  average time, and range of time usage, an eligible student spent using the program
+            
+402
+
+    
+per week;
+            
+403
+
+    
+    (c)  cost per eligible student;
+            
+404
+
+    
+    (d)  assessment results of the pre- and post-assessments selected by the board; and
+            
+405
+
+    
+    (e)  number of eligible students served by the home-based educational technology
+            
+406
+
+    
+program who participated in any other public or private preschool program, including the type
+            
+407
+
+    
+of preschool attended.
+            
+408
+
+    
+    (5)  The State Board of Education shall report annually to the board aggregated
+            
+409
+
+    
+longitudinal data on eligible students currently receiving funding under this section and any
+            
+410
+
+    
+eligible students who previously received funding under this section, including:
+            
+411
+
+    
+    (a)  academic achievement outcomes;
+            
+412
+
+    
+    (b)  special education use; and
+            
+413
+
+    
+    (c)  English language learner services.
+            
+414
+
+    
+    (6)  The evaluator selected pursuant to Section 
+
+53A-1b-110
+
+
+ shall annually evaluate:
+            
+415
+
+    
+    (a)  the quality and outcomes of a home-based educational technology program funded
+            
+416
+
+    
+by a results-based contract between a private entity and the board, including the pre- and
+            
+417
+
+    
+post-assessment results, on the assessment designated by the board under Section 
+
+53A-1b-110
+
+
+,
+            
+418
+
+    
+of eligible students in the program; and
+            
+419
+
+    
+    (b)  whether the performance outcome measures set in the results-based contract have
+            
+420
+
+    
+been met, using de-identified or aggregated data reported in Subsections (4) and (5).
+            
+421
+
+    
+    Section 10.  
+Section  
+53A-1b-110
+
+ is enacted to read:
+            
+422
+
+    
+     53A-1b-110.  Results-based school readiness contracts -- Board duties --
+            
+423
+
+    
+ Independent evaluator.
+            
+424
+
+    
+    (1) (a)  The board may negotiate and enter into a results-based contract with a private
+            
+425
+
+    
+entity, selected through a competitive process, to fund:
+            
+426
+
+    
+    (i)  a high quality preschool program described in Section 
+
+53A-1b-107
+
+
+;
+            
+427
+
+    
+    (ii)  a high quality preschool program described in Section 
+
+53A-1b-108
+
+
+; or
+            
+428
+
+    
+    (iii)  a home-based education technology program described in Section 
+
+53A-1b-109
+
+
+.
+            
+429
+
+    
+    (b)  The board may not issue a results-based contract if the total outstanding obligations
+            
+430
+
+    
+of results-based contracts issued by the board under this part would exceed $15,000,000 at any
+
+            
+431
+
+
+    
+one time.
+            
+432
+
+    
+    (c)  The board may provide for a repayment to a private entity to include a return of
+            
+433
+
+    
+investment and an additional return on investment, dependent on achievement of specific
+            
+434
+
+    
+performance outcome measures set in the results-based contract.
+            
+435
+
+    
+    (d)  The additional return on investment described in Subsection (1)(c) may not exceed
+            
+436
+
+    
+5% above the yield to maturity for the current rate the state receives for the state's general
+            
+437
+
+    
+obligation bonds at the time of the issuance of the results-based school readiness contract.
+            
+438
+
+    
+    (e)  Funding obtained for an early education program under this part is not a
+            
+439
+
+    
+procurement item under Section 
+
+63G-6a-103
+
+
+.
+            
+440
+
+    
+    (2)  A contract shall include:
+            
+441
+
+    
+    (a)  a requirement that the repayment to the private entity be conditioned on specific
+            
+442
+
+    
+performance outcome measures set in the results-based contract;
+            
+443
+
+    
+    (b)  a requirement for an independent evaluator to determine whether the performance
+            
+444
+
+    
+outcomes have been achieved;
+            
+445
+
+    
+    (c)  a provision that repayment to the private entity is:
+            
+446
+
+    
+    (i)  based upon available money in the School Readiness Special Revenue Fund; and
+            
+447
+
+    
+    (ii)  subject to legislative appropriation; and
+            
+448
+
+    
+    (d)  that the private entity is not eligible to receive or view any personally identifiable
+            
+449
+
+    
+student data of students funded through a results-based contract.
+            
+450
+
+    
+    (3)  The board shall select an independent, nationally recognized early childhood
+            
+451
+
+    
+education evaluator, selected through a request for proposals process, to annually evaluate:
+            
+452
+
+    
+    (a)  performance outcome measures set in a results-based contract of the board; and
+            
+453
+
+    
+    (b)  a High Quality School Readiness Grant Program recipient's program.
+            
+454
+
+    
+    (4)  The board shall select a uniform assessment that:
+            
+455
+
+    
+    (a)  is a nationally norm-based measure of age-appropriate cognitive or language skills;
+            
+456
+
+    
+    (b)  has established reliability; and
+            
+457
+
+    
+    (c)  has established validity with other similar measures and with later school outcomes.
+            
+458
+
+    
+    (5) (a)  At the end of each year of a results-based contract after a student funded through
+            
+459
+
+    
+a results-based contract completes kindergarten, the independent evaluator shall determine
+            
+460
+
+    
+whether the performance outcome measures set in the results-based contract have been met.
+            
+461
+
+    
+    (b)  If the independent evaluator determines under Subsection (5)(a) that the
+
+            
+462
+
+
+    
+performance outcome measures have been met, the board may pay the private entity according
+            
+463
+
+    
+to the terms of the results-based contract.
+            
+464
+
+    
+    (6) (a)  The board shall ensure that a parent or guardian of an eligible student
+            
+465
+
+    
+participating in a program funded pursuant to a results-based contract has given permission and
+            
+466
+
+    
+signed an acknowledgment that the student's data may be shared with an independent evaluator
+            
+467
+
+    
+for research and evaluation purposes.
+            
+468
+
+    
+    (b)  The board shall maintain documentation of parental permission required in
+            
+469
+
+    
+Subsection (6)(a).
+            
+470
+
+    
+    Section 11.  
+Section  
+53A-1b-111
+
+ is enacted to read:
+            
+471
+
+    
+     53A-1b-111.  Reporting requirements for recipients of a results-based school
+            
+472
+
+    
+ readiness contract -- Reporting requirements for the School Readiness Board.
+            
+473
+
+    
+    (1)  An eligible LEA, eligible private provider, or eligible home-based educational
+            
+474
+
+    
+technology provider that receives funds pursuant to a results-based contract under this part
+            
+475
+
+    
+shall report annually to the board the following de-identified information for eligible students
+            
+476
+
+    
+funded in whole or in part pursuant to a results-based contract:
+            
+477
+
+    
+    (a)  number of eligible students served by the recipient's preschool or home-based
+            
+478
+
+    
+educational technology program, reported by economically disadvantaged status and English
+            
+479
+
+    
+language learner status;
+            
+480
+
+    
+    (b)  attendance;
+            
+481
+
+    
+    (c)  cost per eligible student;
+            
+482
+
+    
+    (d)  assessment results of the pre- and post-assessments selected by the board; and
+            
+483
+
+    
+    (e)  aggregated longitudinal data on eligible students currently receiving funding under
+            
+484
+
+    
+this part and any eligible students who previously received funding under this part, including:
+            
+485
+
+    
+    (i)  academic achievement outcomes;
+            
+486
+
+    
+    (ii)  special education use; and
+            
+487
+
+    
+    (iii)  English language learner services.
+            
+488
+
+    
+    (2)  For each year of a results-based contract, the board shall report to the Education
+            
+489
+
+    
+Interim Committee the following:
+            
+490
+
+    
+    (a)  information collected under Subsection (1) for each participating LEA, private
+            
+491
+
+    
+provider, and home-based educational technology provider; and
+            
+492
+
+    
+    (b)  the terms of the results-based contract, including:
+
+            
+493
+
+
+    
+    (i)  the name of each private entity and funding source;
+            
+494
+
+    
+    (ii)  the amount of money each private entity has invested;
+            
+495
+
+    
+    (iii)  the performance outcome measures set in the results-based contract by which
+            
+496
+
+    
+repayment will be determined; and
+            
+497
+
+    
+    (iv)  the repayment schedule to the private entity if the performance outcomes are met.
+            
+498
+
+    
+    Section 12.   Appropriation.
+            
+499
+
+    
+    Under the terms and conditions of Title 63J, Chapter 1, Budgetary Procedures Act, for
+            
+500
+
+    
+the fiscal year beginning July 1, 2014, and ending June 30, 2015, the following sums of money
+            
+501
+
+    
+are appropriated from resources not otherwise appropriated, or reduced from amounts
+            
+502
+
+    
+previously appropriated, out of the funds or accounts indicated.  These sums of money are in
+            
+503
+
+    
+addition to any amounts previously appropriated for fiscal year 2015.
+            
+504
+
+    
+    To General Fund Restricted - School Readiness Special Revenue Fund
+            
+505
+
+    
+        From General Fund$5,000,000
+
+            
+506
+
+    
+        Schedule of Programs:
+            
+507
+
+    
+            General Fund Restricted - School Readiness
+            
+508
+
+    
+            Special Revenue Fund            $5,000,000
+            
+509
+
+    
+    Section 13.   Effective date.
+            
+510
+
+    
+    (1)  Except as provided in Subsection (2), this bill takes effect on May 13, 2014.
+            
+511
+
+    
+    (2)  Uncodified Section 12, Appropriation, takes effect on July 1, 2014.
+
+
+
+
+ Legislative Review Note
+    as of   1-30-14  5:56 AM
+
+ Office of Legislative Research and General Counsel
+[Bill Documents][Bills Directory]
+
+
+
+
+
+
+
+
+
+Who represents me?
+
+
+
+
+
+Remember my Legislators
+
+
+
+
+
+State Senate
+		350 North State, Suite 320
+		PO Box 145115
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1035
+		Fax: (801) 326-1475
+
+
+
+House of Representatives
+		350 North State, Suite 350
+		PO Box 145030
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1029
+		Fax: (801) 326-1544
+
+
+
+
+
+
+
+
+
+
+Home
+Mobile Site
+Site Map
+Calendar
+Code / Constitution
+House
+Senate
+
+Terms of Use/Privacy Policy
+
+ADA
+Utah.gov
+
+
+
+
+
+
+

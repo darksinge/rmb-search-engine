@@ -1,0 +1,986 @@
+Sponsors: []Modifications: anetworktheprovide and maintain the public safety network for all state and localgovernmental agencies:(a)  within the current Utah Communications Agency Network for the state and localgovernmental agencies that currently subscribe to the Utah Communications Agency Network;and(b)  outside of the current Utah Communications Agency Network for state and localgovernmental agencies that do not currently subscribe to the Utah Communications AgencyNetwork;(11)  maintain the current high-band network; and(12)152115sixFive,three, and one having an initial term of four years(iii)  The five governor-appointed state representatives shall consist of:(A)  the executive director of the Utah Department of Transportation or the director'sdesignee;(B)  the commissioner of public safety or the commissioner's designee;(C)  the executive director of the Department of Natural Resources or the director'sdesignee;(D)  the executive director of the Department of Corrections or the director's designee;and(E)  the chief information officer or the officer's designee.sixththe treasurer'sTwelveFull text:
+
+
+
+Utah State Legislature
+
+
+
+
+
+
+
+
+
+
+
+
+Legislators
+
+By Session (1896-Current)
+Alphabetical (Historical)
+Find by Address/Map
+More
+
+
+Bills
+
+Bills/Bill Requests
+Passed Bills
+2017 Bills
+
+Keyword Search
+Reading Calendars
+Tracking Service
+More
+
+
+Committees
+
+All Committees
+Appropriations
+Commissions
+
+Independent Legislative Ethics Commission
+Interim
+Standing
+Subcommittees
+Task Forces
+Bills In Committees
+
+
+Utah Code / Constitution
+
+
+Title/Chapter/Section
+Keyword Search 
+
+Utah Constitution
+Laws of Utah 1851-ongoing
+Utah Territorial Laws 
+More
+
+
+Senate
+
+Main Page 
+About The Senate 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Extraordinary Sessions 
+Reading Calendars 
+Past Floor Debates 
+Senate Journals 
+
+
+House
+
+Main Page
+About the House 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Reading Calendars 
+Past Floor Debates 
+Journals 
+Conflict of Interest Forms 
+
+
+Legislative Guide 
+
+Legislative Guide
+Civic Programs
+GRAMA (Records Requests)
+
+
+Publications
+
+Search Publications
+Appropriations
+Audits
+Bagels & Briefings
+Briefing Papers
+Digest of Legislation
+Legislative Drafting Manual
+
+Journals
+
+Interim Highlights
+
+Legislative Rules
+GRAMA (Records Requests)
+Public Email
+State Organization Charts
+YouTube Channel
+Requests for Proposals and Legal Notices
+More
+
+
+Legislative Histories
+
+Legislative History Resources
+How to Research
+Bill Drafting/Research Files (1990-Ongoing)
+
+Working Bills (1896-1989)
+Interim Committee Histories (1990-Ongoing) 
+Journals
+Past House Floor Debates
+Past Senate Floor Debates
+More
+
+
+Staff Offices
+
+All Legislative Offices
+Auditor General
+Fiscal Analyst
+Printing
+Research and General Counsel
+Staff Awards
+Job Opportunities
+More
+
+
+Links of Interest
+
+Utah Administrative Rules
+Courts
+Utah State Capitol
+State of Utah
+Federal Legislation
+More
+
+
+
+
+
+
+ 
+
+Download Zipped Introduced WordPerfect HB0172.ZIP
+[Status][Bill Documents][Fiscal Note][Bills Directory]
+
+
+H.B. 172
+
+
+
+
+
+            
+1
+
+    
+ PUBLIC SAFETY RADIO COMMUNICATION AMENDMENTS
+
+
+
+            
+2
+
+    
+2013 GENERAL SESSION
+
+            
+3
+
+    
+STATE OF UTAH
+
+            
+4
+
+    
+
+
+ Chief Sponsor: Brad L. Dee
+
+
+
+            
+5
+
+    
+
+
+
+Senate Sponsor:
+
+
+
+
+
+
+ Evan J. Vickers
+
+
+
+
+
+            
+6
+
+    
+
+            
+7
+
+    
+ LONG TITLE
+            
+8
+
+    
+ General Description:
+            
+9
+
+    
+    This bill modifies the Utah Communications Agency Network Act regarding functions
+            
+10
+
+    
+and board membership.
+            
+11
+
+    
+ Highlighted Provisions:
+            
+12
+
+    
+    This bill:
+            
+13
+
+    
+    .    directs that the Utah Communications Agency Network (UCAN) operate on a
+            
+14
+
+    
+statewide basis;
+            
+15
+
+    
+    .    provides that UCAN provide the public safety network for all state and local
+            
+16
+
+    
+governmental agencies:
+            
+17
+
+    
+        .    that currently subscribe to UCAN; and
+            
+18
+
+    
+        .    that currently do not subscribe to UCAN;
+            
+19
+
+    
+    .    provides that UCAN maintain the current high-band network;
+            
+20
+
+    
+    .    increases the membership of the UCAN executive committee from 17 to 21
+            
+21
+
+    
+members and specifies the state agencies the members represent; and
+            
+22
+
+    
+    .    changes the quorum requirement. 
+            
+23
+
+    
+ Money Appropriated in this Bill:
+            
+24
+
+    
+    None
+            
+25
+
+    
+ Other Special Clauses:
+            
+26
+
+    
+    None
+            
+27
+
+    
+ Utah Code Sections Affected:
+
+            
+28
+
+
+    
+AMENDS:
+            
+29
+
+    
+     63C-7-102, as enacted by Laws of Utah 1997, Chapter 136
+            
+30
+
+    
+     63C-7-202, as last amended by Laws of Utah 1999, Chapter 141
+            
+31
+
+    
+     63C-7-204, as enacted by Laws of Utah 1997, Chapter 136
+            
+32
+
+    
+     63C-7-205, as last amended by Laws of Utah 2009, Chapter 34
+            
+33
+
+    
+
+            
+34
+
+    
+Be it enacted by the Legislature of the state of Utah:
+            
+35
+
+    
+    Section 1.  
+Section  
+63C-7-102
+
+ is amended to read:
+            
+36
+
+    
+     63C-7-102.  Purpose.
+            
+37
+
+    
+    The purpose of this chapter is to establish an independent state agency and a board and
+            
+38
+
+    
+executive committee to administer the creation, administration, and maintenance of the Utah
+            
+39
+
+    
+Communications Agency Network to provide a public safety communications [services]
+            
+40
+
+    
+network and facilities on a [regional or] statewide basis for the benefit and use of public
+            
+41
+
+    
+agencies and the state and federal agencies.
+            
+42
+
+    
+    Section 2.  
+Section  
+63C-7-202
+
+ is amended to read:
+            
+43
+
+    
+     63C-7-202.  Powers of the Utah Communications Agency Network.
+            
+44
+
+    
+    The Utah Communications Agency Network shall have the power to:
+            
+45
+
+    
+    (1)  sue and be sued in its own name;
+            
+46
+
+    
+    (2)  have an official seal and power to alter that seal at will;
+            
+47
+
+    
+    (3)  make and execute contracts and all other instruments necessary or convenient for
+            
+48
+
+    
+the performance of its duties and the exercise of its powers and functions under this chapter,
+            
+49
+
+    
+including contracts with private companies licensed under Title 26, Chapter 8a, Utah
+            
+50
+
+    
+Emergency Medical Services System Act;
+            
+51
+
+    
+    (4)  own, acquire, construct, operate, maintain, and repair a communications network,
+            
+52
+
+    
+and dispose of any portion of it;
+            
+53
+
+    
+    (5)  borrow money and incur indebtedness;
+            
+54
+
+    
+    (6)  issue bonds as provided in this chapter;
+            
+55
+
+    
+    (7)  enter into agreements with public agencies, the state, and federal government to
+            
+56
+
+    
+provide communications network services on terms and conditions it considers to be in the best
+            
+57
+
+    
+interest of its members;
+            
+58
+
+    
+    (8)  acquire, by gift, grant, purchase, or by exercise of eminent domain, any real
+
+            
+59
+
+
+    
+property or personal property in connection with the acquisition and construction of a
+            
+60
+
+    
+communications network and all related facilities and rights-of-way which it owns, operates,
+            
+61
+
+    
+and maintains;
+            
+62
+
+    
+    (9)  contract with other public agencies, the state, or federal government to provide
+            
+63
+
+    
+public safety communications services in excess of those required to meet the needs or
+            
+64
+
+    
+requirements of its members and the state and federal government if:
+            
+65
+
+    
+    (a)  it is determined by the executive committee to be necessary to accomplish the
+            
+66
+
+    
+purposes and realize the benefits of this chapter; and
+            
+67
+
+    
+    (b)  any excess is sold to other public agencies, the state, or federal government and is
+            
+68
+
+    
+sold on terms that assure that the cost of providing the excess service will be received by the
+            
+69
+
+    
+Utah Communications Agency Network; [and]
+            
+70
+
+    
+    (10)  provide and maintain the public safety network for all state and local
+            
+71
+
+    
+governmental agencies:
+            
+72
+
+    
+    (a)  within the current Utah Communications Agency Network for the state and local
+            
+73
+
+    
+governmental agencies that currently subscribe to the Utah Communications Agency Network;
+            
+74
+
+    
+and
+            
+75
+
+    
+    (b)  outside of the current Utah Communications Agency Network for state and local
+            
+76
+
+    
+governmental agencies that do not currently subscribe to the Utah Communications Agency
+            
+77
+
+    
+Network;
+            
+78
+
+    
+    (11)  maintain the current high-band network; and
+            
+79
+
+    
+    (12)  perform all other duties authorized by this chapter.
+            
+80
+
+    
+    Section 3.  
+Section  
+63C-7-204
+
+ is amended to read:
+            
+81
+
+    
+     63C-7-204.  Powers of the board.
+            
+82
+
+    
+    The board shall:
+            
+83
+
+    
+    (1)  adopt bylaws by a majority vote of its members which vote of both member
+            
+84
+
+    
+representatives and state representatives may be made by proxy as prescribed in the bylaws;
+            
+85
+
+    
+    (2)  elect [10] 15 member representatives to the executive committee, except that the
+            
+86
+
+    
+state representatives are not permitted to vote in that election;
+            
+87
+
+    
+    (3)  recommend to the executive committee broad policies for the long-term
+            
+88
+
+    
+construction and operation of the communications network; and
+            
+89
+
+    
+    (4)  dissolve the Utah Communications Agency Network as provided in Section
+
+            
+90
+
+
+    
+
+63C-7-209
+
+.
+            
+91
+
+    
+    Section 4.  
+Section  
+63C-7-205
+
+ is amended to read:
+            
+92
+
+    
+     63C-7-205.  Executive committee established -- Terms -- Vacancies.
+            
+93
+
+    
+    (1)  The executive committee shall consist of the following [17] 21 individuals:
+            
+94
+
+    
+    (a)  [12] 15 member representatives elected by the board at its annual meetings; and
+            
+95
+
+    
+    (b)  [five] six state representatives.
+            
+96
+
+    
+    (2) (a) (i)  [Four] Five of the state representatives shall be appointed by the governor,
+            
+97
+
+    
+with two of the positions having an initial term of two years [and], two having an initial term of
+            
+98
+
+    
+[four] three years, and one having an initial term of four years.
+            
+99
+
+    
+    (ii)  Successor state representatives shall each serve for a term of four years.
+            
+100
+
+    
+    (iii)  The five governor-appointed state representatives shall consist of:
+            
+101
+
+    
+    (A)  the executive director of the Utah Department of Transportation or the director's
+            
+102
+
+    
+designee;
+            
+103
+
+    
+    (B)  the commissioner of public safety or the commissioner's designee;
+            
+104
+
+    
+    (C)  the executive director of the Department of Natural Resources or the director's
+            
+105
+
+    
+designee;
+            
+106
+
+    
+    (D)  the executive director of the Department of Corrections or the director's designee;
+            
+107
+
+    
+and
+            
+108
+
+    
+    (E)  the chief information officer or the officer's designee.
+            
+109
+
+    
+    (b)  The [fifth] sixth state representative shall be the Utah State Treasurer[, who shall
+            
+110
+
+    
+serve ex officio,] or [his] the treasurer's designee.
+            
+111
+
+    
+    (c)  A vacancy on the executive committee for a state representative shall be filled for
+            
+112
+
+    
+the unexpired term by appointment by the governor.
+            
+113
+
+    
+    (3) (a) (i)  One-half of the positions for member representatives elected by the board
+            
+114
+
+    
+shall have an initial term of two years and one-half of the positions shall have an initial term of
+            
+115
+
+    
+four years.
+            
+116
+
+    
+    (ii)  Successor member representatives of the executive committee shall each serve for a
+            
+117
+
+    
+term of four years, so that the term of office for six of the member representatives expires every
+            
+118
+
+    
+two years.
+            
+119
+
+    
+    (b)  The member representatives of the executive committee shall be removable, with or
+            
+120
+
+    
+without cause, by a majority vote of the board.  A vacancy on the executive committee for a
+
+            
+121
+
+
+    
+member representative shall be filled for the unexpired term by a majority of the remaining
+            
+122
+
+    
+member representatives of the executive committee.
+            
+123
+
+    
+    (4)  The executive committee shall elect annually one of its members as chair.
+            
+124
+
+    
+    (5)  The executive committee shall meet on an as-needed basis and as provided in the
+            
+125
+
+    
+bylaws.
+            
+126
+
+    
+    (6)  The executive committee shall also elect a vice chair, secretary, and treasurer to
+            
+127
+
+    
+perform those functions provided in the bylaws.
+            
+128
+
+    
+    (a)  The vice chair shall be a member of the executive committee.
+            
+129
+
+    
+    (b)  The secretary and treasurer need not be members of the executive committee, but
+            
+130
+
+    
+shall not have voting powers if they are not members of the executive committee.
+            
+131
+
+    
+    (c)  The offices of chair, vice chair, secretary, and treasurer shall be held by separate
+            
+132
+
+    
+individuals.
+            
+133
+
+    
+    (7)  Each member representative and state representative shall have one vote, including
+            
+134
+
+    
+the chair, at all meetings of the executive committee.
+            
+135
+
+    
+    (8)  [Ten] Twelve members of the executive committee constitute a quorum.  A vote of
+            
+136
+
+    
+a majority of the quorum at any meeting of the executive committee is necessary to take action
+            
+137
+
+    
+on behalf of the executive committee.
+
+
+
+
+ Legislative Review Note
+    as of   2-11-13  11:03 AM
+
+ Office of Legislative Research and General Counsel
+[Bill Documents][Bills Directory]
+
+
+
+
+
+
+
+
+
+Who represents me?
+
+
+
+
+
+Remember my Legislators
+
+
+
+
+
+State Senate
+		350 North State, Suite 320
+		PO Box 145115
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1035
+		Fax: (801) 326-1475
+
+
+
+House of Representatives
+		350 North State, Suite 350
+		PO Box 145030
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1029
+		Fax: (801) 326-1544
+
+
+
+
+
+
+
+
+
+
+Home
+Mobile Site
+Site Map
+Calendar
+Code / Constitution
+House
+Senate
+
+Terms of Use/Privacy Policy
+
+ADA
+Utah.gov
+
+
+
+
+
+
+

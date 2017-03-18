@@ -1,0 +1,2838 @@
+Sponsors: []Modifications:     31A-22-640.(1)  For purposes of this section "pharmacy benefits manager or coordinator" means aperson or entity that provides pharmacy benefit management services as defined in Section
+
+49-20-502
+
+ on behalf of an insurer as defined in Subsection 
+
+31A-22-636
+
+(1).(2)  An insurer and an insurer's pharmacy benefits manager or coordinator is subject tothe pharmacy audit provisions of Section 
+
+58-17b-622
+
+.:(a)  require each responder to comply with the pharmacy audit provisions of Section
+
+58-17b-622
+
+; and(b)(7)(8)providespharmacy benefit management services as defined in Section 
+
+49-20-502
+
+    58-17b-622.(1)  For purposes of this section:(a)  "Audit" means a review of the records of a pharmacy by or on behalf of an entitythat finances or reimburses the cost of health care services or pharmaceutical products.(b)  "Entity" includes:(i)  a pharmacy benefits manager or coordinator;(ii)  a health benefit plan;(iii)  a third party administrator as defined in Section 
+
+31A-1-301
+
+;(iv)  a state agency; or(v)  a company, group, or agent that represents, or is engaged by, one of the entitiesdescribed in Subsections (1)(b)(i) through (iv).(c)  "Health benefit plan" means:(i)  a health benefit plan as defined in Section 
+
+31A-1-301
+
+; or(ii)  a health, dental, medical, Medicare supplement, or conversion program offeredunder Title 49, Chapter 20, Public Employees' Benefit and Insurance Program Act.(2) (a)  Except as provided in Subsection (2)(b), this section applies to:(i)  a contract for the audit of a pharmacy entered into, amended, or renewed on or afterJuly 1, 2012; and(ii)  an entity that conducts an audit of the pharmacy records of a pharmacy licensedunder this chapter.(b)  This section does not apply to an audit of pharmacy records for the purpose ofdetecting fraud in the state Medicaid program if the audit is conducted:(i)  under the provisions of Title 63J, Chapter 4a, Office of Inspector General ofMedicaid Services; and(ii)  by the Office of the Inspector General, or its designee.(3) (a)  An audit that involves clinical or professional judgement shall be conducted byor in consultation with a pharmacist licensed under this chapter.(b)  If an audit is conducted on site at a pharmacy, the entity conducting the audit:(i)  shall give the pharmacy 14 days advanced written notice of:(A)  the audit; and(B)  the prescription numbers included in the audit; and(ii)  may not audit a pharmacy during the first seven calendar days of the month, unlessthe pharmacy agrees to the timing of the audit.(c)  An entity may not audit claims:(i)  submitted more than 24 months prior to the audit, unless required by federal law; or(ii)  that exceed:(A)  the lesser of:(I)  1% of the average monthly prescription claims submitted by the pharmacy to theentity conducting the audit; or(II)  200 prescription claims; or(B)  the number of claims for which the entity has substantiated or documenteddiscrepancies.(4)  An entity may not:(a)  include dispensing fees in the calculations of overpayments;(b)  recoup funds for a clerical or record keeping error in a required document unless:(i)  the entity can provide proof of intent to commit fraud; or(ii)  the clerical error resulted in financial harm to the entity or a consumer;(c)  collect any funds, charge-backs, or penalties until the audit and all appeals are final;(d)  charge interest on disputed claims during the audit and any appeals to the audit;(e)  receive payment for the audit based on a percentage of the amount recovered in theaudit; or(f)  except when required by state or federal law, share audit information or pharmacyrecords with another entity that is conducting a subsequent or new audit of the pharmacy.(5)  A pharmacy subject to an audit may use the following records to validate a claimfor a prescription, refill, or change in a prescription:(a)  electronic or physical copies of records of a health care facility, or a health careprovider with prescribing authority; and(b)  any prescription that complies with state law.(6) (a)  An entity that audits a pharmacy shall provide the pharmacy with a preliminaryaudit report, delivered to the pharmacy or its corporate office of record within 60 days aftercompletion of the audit.(b)  A pharmacy has 30 days following receipt of the preliminary audit report torespond to questions, provide additional documentation, and comment on and clarify findingsof the audit.(7)  If an audit results in the dispute or denial of a claim, the entity conducting the auditshall allow the pharmacy to re-submit a claim using any commercially reasonable method,including fax, mail, or electronic claims submission.(8) (a)  Within 120 days after the completion of the appeals process under Subsection(9), a final audit report shall be delivered to the pharmacy or its corporate office of record, andto the health benefit plan for whom the audit was conducted.(b)  The final audit report shall include a disclosure of any money recovered by theentity that conducted the audit.(9) (a)  An entity that audits a pharmacy shall establish a written appeals process forappealing a preliminary audit report and a final audit report, and shall provide the pharmacywith notice of the written appeals process at the time the notice of audit is provided to thepharmacy.(b)  The appeals process under Subsection (9)(a) shall offer the pharmacy the option tosubmit an appeal of the final audit report:(i)  directly to the health benefit plan;(ii)  to mediation; or(iii)  to a civil action.(10)  A pharmacy or pharmacist injured as a result of a violation of this section maybring a civil action against the person, corporation, or business entity that violated this sectionfor recovery of damages occurring as a result of the violation.Full text:
+
+
+
+Utah State Legislature
+
+
+
+
+
+
+
+
+
+
+
+
+Legislators
+
+By Session (1896-Current)
+Alphabetical (Historical)
+Find by Address/Map
+More
+
+
+Bills
+
+Bills/Bill Requests
+Passed Bills
+2017 Bills
+
+Keyword Search
+Reading Calendars
+Tracking Service
+More
+
+
+Committees
+
+All Committees
+Appropriations
+Commissions
+
+Independent Legislative Ethics Commission
+Interim
+Standing
+Subcommittees
+Task Forces
+Bills In Committees
+
+
+Utah Code / Constitution
+
+
+Title/Chapter/Section
+Keyword Search 
+
+Utah Constitution
+Laws of Utah 1851-ongoing
+Utah Territorial Laws 
+More
+
+
+Senate
+
+Main Page 
+About The Senate 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Extraordinary Sessions 
+Reading Calendars 
+Past Floor Debates 
+Senate Journals 
+
+
+House
+
+Main Page
+About the House 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Reading Calendars 
+Past Floor Debates 
+Journals 
+Conflict of Interest Forms 
+
+
+Legislative Guide 
+
+Legislative Guide
+Civic Programs
+GRAMA (Records Requests)
+
+
+Publications
+
+Search Publications
+Appropriations
+Audits
+Bagels & Briefings
+Briefing Papers
+Digest of Legislation
+Legislative Drafting Manual
+
+Journals
+
+Interim Highlights
+
+Legislative Rules
+GRAMA (Records Requests)
+Public Email
+State Organization Charts
+YouTube Channel
+Requests for Proposals and Legal Notices
+More
+
+
+Legislative Histories
+
+Legislative History Resources
+How to Research
+Bill Drafting/Research Files (1990-Ongoing)
+
+Working Bills (1896-1989)
+Interim Committee Histories (1990-Ongoing) 
+Journals
+Past House Floor Debates
+Past Senate Floor Debates
+More
+
+
+Staff Offices
+
+All Legislative Offices
+Auditor General
+Fiscal Analyst
+Printing
+Research and General Counsel
+Staff Awards
+Job Opportunities
+More
+
+
+Links of Interest
+
+Utah Administrative Rules
+Courts
+Utah State Capitol
+State of Utah
+Federal Legislation
+More
+
+
+
+
+
+
+ 
+
+Download Zipped Introduced WordPerfect HB0076.ZIP
+[Status][Bill Documents][Fiscal Note][Bills Directory]
+
+
+H.B. 76
+
+
+
+
+
+            
+1
+
+    
+ PHARMACY AUDIT RIGHTS
+
+
+
+            
+2
+
+    
+2012 GENERAL SESSION
+
+            
+3
+
+    
+STATE OF UTAH
+
+            
+4
+
+    
+
+
+ Chief Sponsor:  Evan J. Vickers
+
+
+
+            
+5
+
+    
+
+
+
+Senate Sponsor:  
+
+
+
+
+
+
+____________
+
+
+
+
+
+            
+6
+
+    
+
+            
+7
+
+    
+ LONG TITLE
+            
+8
+
+    
+ General Description:
+            
+9
+
+    
+    This bill requires health benefit plans, the Public Employees' Benefits and Insurance
+            
+10
+
+    
+Program, and pharmacy benefit managers to implement certain pharmacy audit
+            
+11
+
+    
+procedures when auditing pharmacy claims.
+            
+12
+
+    
+ Highlighted Provisions:
+            
+13
+
+    
+    This bill:
+            
+14
+
+    
+    .    requires a health insurer and a pharmacy benefits manager for a health insurer to
+            
+15
+
+    
+comply with pharmacy audit rights established in the Pharmacy Practice Act;
+            
+16
+
+    
+    .    requires the Public Employees' Benefit and Insurance Program to comply with
+            
+17
+
+    
+pharmacy audit rights established in the Pharmacy Practice Act;
+            
+18
+
+    
+    .    amends the definition of pharmacy benefits manager in the Pharmacy Practice Act
+            
+19
+
+    
+to be consistent with the definition of pharmacy benefits manager in the Pharmacy
+            
+20
+
+    
+Benefits Manager Act; and
+            
+21
+
+    
+    .    enacts pharmacy audit rights in the Pharmacy Practices Act that include:
+            
+22
+
+    
+        .    definitions;
+            
+23
+
+    
+        *    requirements for notice of an audit;
+            
+24
+
+    
+        .    limits on the types of claims that may be audited;
+            
+25
+
+    
+        *    requirements for an entity conducting an audit; and
+            
+26
+
+    
+        *    procedures to appeal an audit.
+            
+27
+
+    
+ Money Appropriated in this Bill:
+
+            
+28
+
+
+    
+    None
+            
+29
+
+    
+ Other Special Clauses:
+            
+30
+
+    
+    None
+            
+31
+
+    
+ Utah Code Sections Affected:
+            
+32
+
+    
+AMENDS:
+            
+33
+
+    
+     49-20-503, as enacted by Laws of Utah 2011, Chapter 83
+            
+34
+
+    
+     58-17b-102, as last amended by Laws of Utah 2010, Chapter 101
+            
+35
+
+    
+ENACTS:
+            
+36
+
+    
+     31A-22-640, Utah Code Annotated 1953
+            
+37
+
+    
+     58-17b-622, Utah Code Annotated 1953
+            
+38
+
+    
+
+            
+39
+
+    
+Be it enacted by the Legislature of the state of Utah:
+            
+40
+
+    
+    Section 1.  
+Section  
+31A-22-640
+
+ is enacted to read:
+            
+41
+
+    
+     31A-22-640.  Pharmacy benefit management services -- Audit restrictions.
+            
+42
+
+    
+    (1)  For purposes of this section "pharmacy benefits manager or coordinator" means a
+            
+43
+
+    
+person or entity that provides pharmacy benefit management services as defined in Section
+            
+44
+
+    
+
+
+49-20-502
+
+ on behalf of an insurer as defined in Subsection 
+
+31A-22-636
+
+(1).
+            
+45
+
+    
+    (2)  An insurer and an insurer's pharmacy benefits manager or coordinator is subject to
+            
+46
+
+    
+the pharmacy audit provisions of Section 
+
+58-17b-622
+
+.
+            
+47
+
+    
+    Section 2.  
+Section  
+49-20-503
+
+ is amended to read:
+            
+48
+
+    
+     49-20-503.  Request for proposals for pharmacy benefits manager for Public
+            
+49
+
+    
+ Employees' Benefit and Insurance Program.
+            
+50
+
+    
+    (1)  When the board issues a request for proposals for a pharmacy benefits manager to
+            
+51
+
+    
+provide pharmacy benefits management services for the program, the request for proposals
+            
+52
+
+    
+shall:
+            
+53
+
+    
+    (a)  require each responder to comply with the pharmacy audit provisions of Section
+            
+54
+
+    
+
+
+58-17b-622
+
+; and
+            
+55
+
+    
+    (b)  provide each responder with the option to include, among the billing options
+            
+56
+
+    
+proposed, a billing option that complies with the requirements described in this section.
+            
+57
+
+    
+    (2)  The billing option described in Subsection (1) shall require the pharmacy benefits
+            
+58
+
+    
+manager to, on at least a monthly basis, submit to the board an invoice for all pharmacy
+
+            
+59
+
+
+    
+services paid by the pharmacy benefits manager on behalf of the program since the last request
+            
+60
+
+    
+for payment or reimbursement.
+            
+61
+
+    
+    (3)  The invoice described in Subsection (2) shall state, as a separate item from any
+            
+62
+
+    
+other amount:
+            
+63
+
+    
+    (a)  the total amount due to the pharmacy benefits manager for all pharmacy services
+            
+64
+
+    
+billed in the invoice; and
+            
+65
+
+    
+    (b)  the total amount paid by the pharmacy benefits manager for the same pharmacy
+            
+66
+
+    
+services for which payment is sought in that invoice.
+            
+67
+
+    
+    Section 3.  
+Section  
+58-17b-102
+
+ is amended to read:
+            
+68
+
+    
+     58-17b-102.  Definitions.
+            
+69
+
+    
+    In addition to the definitions in Section 
+
+58-1-102
+
+, as used in this chapter:
+            
+70
+
+    
+    (1)  "Administering" means:
+            
+71
+
+    
+    (a)  the direct application of a prescription drug or device, whether by injection,
+            
+72
+
+    
+inhalation, ingestion, or by any other means, to the body of a human patient or research subject
+            
+73
+
+    
+by another person; or
+            
+74
+
+    
+    (b)  the placement by a veterinarian with the owner or caretaker of an animal or group
+            
+75
+
+    
+of animals of a prescription drug for the purpose of injection, inhalation, ingestion, or any other
+            
+76
+
+    
+means directed to the body of the animal by the owner or caretaker in accordance with written
+            
+77
+
+    
+or verbal directions of the veterinarian.
+            
+78
+
+    
+    (2)  "Adulterated drug or device" means a drug or device considered adulterated under
+            
+79
+
+    
+21 U.S.C.S. Sec. 351 (2003).
+            
+80
+
+    
+    (3) (a)  "Analytical laboratory" means a facility in possession of prescription drugs for
+            
+81
+
+    
+the purpose of analysis.
+            
+82
+
+    
+    (b)  "Analytical laboratory" does not include a laboratory possessing prescription drugs
+            
+83
+
+    
+used as standards and controls in performing drug monitoring or drug screening analysis if the
+            
+84
+
+    
+prescription drugs are prediluted in a human or animal body fluid, human or animal body fluid
+            
+85
+
+    
+components, organic solvents, or inorganic buffers at a concentration not exceeding one
+            
+86
+
+    
+milligram per milliliter when labeled or otherwise designated as being for in vitro diagnostic
+            
+87
+
+    
+use.
+            
+88
+
+    
+    (4)  "Animal euthanasia agency" means an agency performing euthanasia on animals by
+            
+89
+
+    
+the use of prescription drugs.
+
+            
+90
+
+
+    
+    (5)  "Automated pharmacy systems" includes mechanical systems which perform
+            
+91
+
+    
+operations or activities, other than compounding or administration, relative to the storage,
+            
+92
+
+    
+packaging, dispensing, or distribution of medications, and which collect, control, and maintain
+            
+93
+
+    
+all transaction information.
+            
+94
+
+    
+    (6)  "Beyond use date" means the date determined by a pharmacist and placed on a
+            
+95
+
+    
+prescription label at the time of dispensing that indicates to the patient or caregiver a time
+            
+96
+
+    
+beyond which the contents of the prescription are not recommended to be used.
+            
+97
+
+    
+    [(8)] (7)  "Board of pharmacy" or "board" means the Utah State Board of Pharmacy
+            
+98
+
+    
+created in Section 
+
+58-17b-201
+
+.
+            
+99
+
+    
+    [(7)] (8)  "Branch pharmacy" means a pharmacy or other facility in a rural or medically
+            
+100
+
+    
+underserved area, used for the storage and dispensing of prescription drugs, which is dependent
+            
+101
+
+    
+upon, stocked by, and supervised by a pharmacist in another licensed pharmacy designated and
+            
+102
+
+    
+approved by the division as the parent pharmacy.
+            
+103
+
+    
+    (9)  "Centralized prescription processing" means the processing by a pharmacy of a
+            
+104
+
+    
+request from another pharmacy to fill or refill a prescription drug order or to perform
+            
+105
+
+    
+processing functions such as dispensing, drug utilization review, claims adjudication, refill
+            
+106
+
+    
+authorizations, and therapeutic interventions.
+            
+107
+
+    
+    (10)  "Class A pharmacy" means a pharmacy located in Utah that is authorized as a
+            
+108
+
+    
+retail pharmacy to compound or dispense a drug or dispense a device to the public under a
+            
+109
+
+    
+prescription order.
+            
+110
+
+    
+    (11)  "Class B pharmacy":
+            
+111
+
+    
+    (a)  means a pharmacy located in Utah:
+            
+112
+
+    
+    (i)  that is authorized to provide pharmaceutical care for patients in an institutional
+            
+113
+
+    
+setting; and
+            
+114
+
+    
+    (ii)  whose primary purpose is to provide a physical environment for patients to obtain
+            
+115
+
+    
+health care services; and
+            
+116
+
+    
+    (b) (i)  includes closed-door, hospital, clinic, nuclear, and branch pharmacies; and
+            
+117
+
+    
+    (ii)  pharmaceutical administration and sterile product preparation facilities.
+            
+118
+
+    
+    (12)  "Class C pharmacy" means a pharmacy located in Utah that is authorized to
+            
+119
+
+    
+engage in the manufacture, production, wholesale, or distribution of drugs or devices.
+            
+120
+
+    
+    (13)  "Class D pharmacy" means a nonresident pharmacy.
+
+            
+121
+
+
+    
+    (14)  "Class E pharmacy" means all other pharmacies.
+            
+122
+
+    
+    (15)  "Closed-door pharmacy" means a pharmacy that provides pharmaceutical care to a
+            
+123
+
+    
+defined and exclusive group of patients who have access to the services of the pharmacy
+            
+124
+
+    
+because they are treated by or have an affiliation with a specific entity, including a health
+            
+125
+
+    
+maintenance organization or an infusion company, but not including a hospital pharmacy, a
+            
+126
+
+    
+retailer of goods to the general public, or the office of a practitioner.
+            
+127
+
+    
+    (16)  "Collaborative pharmacy practice" means a practice of pharmacy whereby one or
+            
+128
+
+    
+more pharmacists have jointly agreed, on a voluntary basis, to work in conjunction with one or
+            
+129
+
+    
+more practitioners under protocol whereby the pharmacist may perform certain pharmaceutical
+            
+130
+
+    
+care functions authorized by the practitioner or practitioners under certain specified conditions
+            
+131
+
+    
+or limitations.
+            
+132
+
+    
+    (17)  "Collaborative pharmacy practice agreement" means a written and signed
+            
+133
+
+    
+agreement between one or more pharmacists and one or more practitioners that provides for
+            
+134
+
+    
+collaborative pharmacy practice for the purpose of drug therapy management of patients and
+            
+135
+
+    
+prevention of disease of human subjects.
+            
+136
+
+    
+    (18) (a)  "Compounding" means the preparation, mixing, assembling, packaging, or
+            
+137
+
+    
+labeling of a limited quantity drug, sterile product, or device:
+            
+138
+
+    
+    (i)  as the result of a practitioner's prescription order or initiative based on the
+            
+139
+
+    
+practitioner, patient, or pharmacist relationship in the course of professional practice;
+            
+140
+
+    
+    (ii)  for the purpose of, or as an incident to, research, teaching, or chemical analysis and
+            
+141
+
+    
+not for sale or dispensing; or
+            
+142
+
+    
+    (iii)  in anticipation of prescription drug orders based on routine, regularly observed
+            
+143
+
+    
+prescribing patterns.
+            
+144
+
+    
+    (b)  "Compounding" does not include:
+            
+145
+
+    
+    (i)  the preparation of prescription drugs by a pharmacist or pharmacy intern for sale to
+            
+146
+
+    
+another pharmacist or pharmaceutical facility;
+            
+147
+
+    
+    (ii)  the preparation by a pharmacist or pharmacy intern of any prescription drug in a
+            
+148
+
+    
+dosage form which is regularly and commonly available from a manufacturer in quantities and
+            
+149
+
+    
+strengths prescribed by a practitioner; or
+            
+150
+
+    
+    (iii)  the preparation of a prescription drug, sterile product, or device which has been
+            
+151
+
+    
+withdrawn from the market for safety reasons.
+
+            
+152
+
+
+    
+    (19)  "Confidential information" has the same meaning as "protected health
+            
+153
+
+    
+information" under the Standards for Privacy of Individually Identifiable Health Information,
+            
+154
+
+    
+45 C.F.R. Parts 160 and 164.
+            
+155
+
+    
+    (20)  "Controlled substance" has the same definition as in Section 
+
+58-37-2
+
+.
+            
+156
+
+    
+    (21)  "Dietary supplement" has the same meaning as Public Law Title 103, Chapter
+            
+157
+
+    
+417, Sec. 3a(ff) which is incorporated by reference.
+            
+158
+
+    
+    (22)  "Dispense" means the interpretation, evaluation, and implementation of a
+            
+159
+
+    
+prescription drug order or device or nonprescription drug or device under a lawful order of a
+            
+160
+
+    
+practitioner in a suitable container appropriately labeled for subsequent administration to or use
+            
+161
+
+    
+by a patient, research subject, or an animal.
+            
+162
+
+    
+    (23)  "Distribute" means to deliver a drug or device other than by administering or
+            
+163
+
+    
+dispensing.
+            
+164
+
+    
+    (24) (a)  "Drug" means:
+            
+165
+
+    
+    (i)  a substance recognized in the official United States Pharmacopoeia, Official
+            
+166
+
+    
+Homeopathic Pharmacopoeia of the United States, or Official National Formulary, or any
+            
+167
+
+    
+supplement to any of them, intended for use in the diagnosis, cure, mitigation, treatment, or
+            
+168
+
+    
+prevention of disease in humans or animals;
+            
+169
+
+    
+    (ii)  a substance that is required by any applicable federal or state law or rule to be
+            
+170
+
+    
+dispensed by prescription only or is restricted to administration by practitioners only;
+            
+171
+
+    
+    (iii)  a substance other than food intended to affect the structure or any function of the
+            
+172
+
+    
+body of humans or other animals; and
+            
+173
+
+    
+    (iv)  substances intended for use as a component of any substance specified in
+            
+174
+
+    
+Subsections (24)(a)(i), (ii), (iii), and (iv).
+            
+175
+
+    
+    (b)  "Drug" does not include dietary supplements.
+            
+176
+
+    
+    (25)  "Drug product equivalent" means a drug product that is designated as the
+            
+177
+
+    
+therapeutic equivalent of another drug product in the Approved Drug Products with
+            
+178
+
+    
+Therapeutic Equivalence Evaluations prepared by the Center for Drug Evaluation and Research
+            
+179
+
+    
+of the Federal Food and Drug Administration.
+            
+180
+
+    
+    (26)  "Drug regimen review" includes the following activities:
+            
+181
+
+    
+    (a)  evaluation of the prescription drug order and patient record for:
+            
+182
+
+    
+    (i)  known allergies;
+
+            
+183
+
+
+    
+    (ii)  rational therapy-contraindications;
+            
+184
+
+    
+    (iii)  reasonable dose and route of administration; and
+            
+185
+
+    
+    (iv)  reasonable directions for use;
+            
+186
+
+    
+    (b)  evaluation of the prescription drug order and patient record for duplication of
+            
+187
+
+    
+therapy;
+            
+188
+
+    
+    (c)  evaluation of the prescription drug order and patient record for the following
+            
+189
+
+    
+interactions:
+            
+190
+
+    
+    (i)  drug-drug;
+            
+191
+
+    
+    (ii)  drug-food;
+            
+192
+
+    
+    (iii)  drug-disease; and
+            
+193
+
+    
+    (iv)  adverse drug reactions; and
+            
+194
+
+    
+    (d)  evaluation of the prescription drug order and patient record for proper utilization,
+            
+195
+
+    
+including over- or under-utilization, and optimum therapeutic outcomes.
+            
+196
+
+    
+    (27)  "Drug sample" means a prescription drug packaged in small quantities consistent
+            
+197
+
+    
+with limited dosage therapy of the particular drug, which is marked "sample", is not intended to
+            
+198
+
+    
+be sold, and is intended to be provided to practitioners for the immediate needs of patients for
+            
+199
+
+    
+trial purposes or to provide the drug to the patient until a prescription can be filled by the
+            
+200
+
+    
+patient.
+            
+201
+
+    
+    (28)  "Electronic signature" means a trusted, verifiable, and secure electronic sound,
+            
+202
+
+    
+symbol, or process attached to or logically associated with a record and executed or adopted by
+            
+203
+
+    
+a person with the intent to sign the record.
+            
+204
+
+    
+    (29)  "Electronic transmission" means transmission of information in electronic form or
+            
+205
+
+    
+the transmission of the exact visual image of a document by way of electronic equipment.
+            
+206
+
+    
+    (30)  "Extern" means a college of pharmacy student enrolled in a college coordinated
+            
+207
+
+    
+practical experience program in a health care setting under the supervision of a preceptor, as
+            
+208
+
+    
+defined in this act, and approved by a college of pharmacy.
+            
+209
+
+    
+    (31)  "Hospital pharmacy" means a pharmacy providing pharmaceutical care to
+            
+210
+
+    
+inpatients of a general acute hospital or specialty hospital licensed by the Department of Health
+            
+211
+
+    
+under Title 26, Chapter 21, Health Care Facility Licensing and Inspection Act.
+            
+212
+
+    
+    (32)  "Legend drug" has the same meaning as prescription drug.
+            
+213
+
+    
+    (33)  "Licensed pharmacy technician" means an individual licensed with the division,
+
+            
+214
+
+
+    
+that may, under the supervision of a pharmacist, perform the activities involved in the
+            
+215
+
+    
+technician practice of pharmacy.
+            
+216
+
+    
+    (34)  "Manufacturer" means a person or business physically located in Utah licensed to
+            
+217
+
+    
+be engaged in the manufacturing of drugs or devices.
+            
+218
+
+    
+    (35) (a)  "Manufacturing" means:
+            
+219
+
+    
+    (i)  the production, preparation, propagation, conversion, or processing of a drug or
+            
+220
+
+    
+device, either directly or indirectly, by extraction from substances of natural origin or
+            
+221
+
+    
+independently by means of chemical or biological synthesis, or by a combination of extraction
+            
+222
+
+    
+and chemical synthesis, and includes any packaging or repackaging of the substance or labeling
+            
+223
+
+    
+or relabeling of its container; and
+            
+224
+
+    
+    (ii)  the promotion and marketing of such drugs or devices.
+            
+225
+
+    
+    (b)  "Manufacturing" includes the preparation and promotion of commercially available
+            
+226
+
+    
+products from bulk compounds for resale by pharmacies, practitioners, or other persons.
+            
+227
+
+    
+    (c)  "Manufacturing" does not include the preparation or compounding of a drug by a
+            
+228
+
+    
+pharmacist, pharmacy intern, or practitioner for that individual's own use or the preparation,
+            
+229
+
+    
+compounding, packaging, labeling of a drug, or incident to research, teaching, or chemical
+            
+230
+
+    
+analysis.
+            
+231
+
+    
+    (36)  "Medical order" means a lawful order of a practitioner which may include a
+            
+232
+
+    
+prescription drug order.
+            
+233
+
+    
+    (37)  "Medication profile" or "profile" means a record system maintained as to drugs or
+            
+234
+
+    
+devices prescribed for a pharmacy patient to enable a pharmacist or pharmacy intern to analyze
+            
+235
+
+    
+the profile to provide pharmaceutical care.
+            
+236
+
+    
+    (38)  "Misbranded drug or device" means a drug or device considered misbranded under
+            
+237
+
+    
+21 U.S.C.S. Sec. 352 (2003).
+            
+238
+
+    
+    (39) (a)  "Nonprescription drug" means a drug which:
+            
+239
+
+    
+    (i)  may be sold without a prescription; and
+            
+240
+
+    
+    (ii)  is labeled for use by the consumer in accordance with federal law.
+            
+241
+
+    
+    (b)  "Nonprescription drug" includes homeopathic remedies.
+            
+242
+
+    
+    (40)  "Nonresident pharmacy" means a pharmacy located outside of Utah that sells to a
+            
+243
+
+    
+person in Utah.
+            
+244
+
+    
+    (41)  "Nuclear pharmacy" means a pharmacy providing radio-pharmaceutical service.
+
+            
+245
+
+
+    
+    (42)  "Out-of-state mail service pharmacy" means a pharmaceutical facility located
+            
+246
+
+    
+outside the state that is licensed and in good standing in another state, that:
+            
+247
+
+    
+    (a)  ships, mails, or delivers by any lawful means a dispensed legend drug to a patient in
+            
+248
+
+    
+this state pursuant to a lawfully issued prescription;
+            
+249
+
+    
+    (b)  provides information to a patient in this state on drugs or devices which may
+            
+250
+
+    
+include, but is not limited to, advice relating to therapeutic values, potential hazards, and uses;
+            
+251
+
+    
+or
+            
+252
+
+    
+    (c)  counsels pharmacy patients residing in this state concerning adverse and therapeutic
+            
+253
+
+    
+effects of drugs.
+            
+254
+
+    
+    (43)  "Patient counseling" means the written and oral communication by the pharmacist
+            
+255
+
+    
+or pharmacy intern of information, to the patient or caregiver, in order to ensure proper use of
+            
+256
+
+    
+drugs, devices, and dietary supplements.
+            
+257
+
+    
+    (44)  "Pharmaceutical administration facility" means a facility, agency, or institution in
+            
+258
+
+    
+which:
+            
+259
+
+    
+    (a)  prescription drugs or devices are held, stored, or are otherwise under the control of
+            
+260
+
+    
+the facility or agency for administration to patients of that facility or agency;
+            
+261
+
+    
+    (b)  prescription drugs are dispensed to the facility or agency by a licensed pharmacist
+            
+262
+
+    
+or pharmacy intern with whom the facility has established a prescription drug supervising
+            
+263
+
+    
+relationship under which the pharmacist or pharmacy intern provides counseling to the facility
+            
+264
+
+    
+or agency staff as required, and oversees drug control, accounting, and destruction; and
+            
+265
+
+    
+    (c)  prescription drugs are professionally administered in accordance with the order of a
+            
+266
+
+    
+practitioner by an employee or agent of the facility or agency.
+            
+267
+
+    
+    (45) (a)  "Pharmaceutical care" means carrying out the following in collaboration with a
+            
+268
+
+    
+prescribing practitioner, and in accordance with division rule:
+            
+269
+
+    
+    (i)  designing, implementing, and monitoring a therapeutic drug plan intended to
+            
+270
+
+    
+achieve favorable outcomes related to a specific patient for the purpose of curing or preventing
+            
+271
+
+    
+the patient's disease;
+            
+272
+
+    
+    (ii)  eliminating or reducing a patient's symptoms; or
+            
+273
+
+    
+    (iii)  arresting or slowing a disease process.
+            
+274
+
+    
+    (b)  "Pharmaceutical care" does not include prescribing of drugs without consent of a
+            
+275
+
+    
+prescribing practitioner.
+
+            
+276
+
+
+    
+    (46)  "Pharmaceutical facility" means a business engaged in the dispensing, delivering,
+            
+277
+
+    
+distributing, manufacturing, or wholesaling of prescription drugs or devices within or into this
+            
+278
+
+    
+state.
+            
+279
+
+    
+    (47) (a)  "Pharmaceutical wholesaler or distributor" means a pharmaceutical facility
+            
+280
+
+    
+engaged in the business of wholesale vending or selling of any prescription drug or device to
+            
+281
+
+    
+other than the consumer or user of the prescription drug or device, which the pharmaceutical
+            
+282
+
+    
+facility has not produced, manufactured, compounded, or dispensed.
+            
+283
+
+    
+    (b)  "Pharmaceutical wholesaler or distributor" does not include a pharmaceutical
+            
+284
+
+    
+facility carrying out the following business activities:
+            
+285
+
+    
+    (i)  intracompany sales;
+            
+286
+
+    
+    (ii)  the sale, purchase, or trade of a prescription drug or device, or offer to sell,
+            
+287
+
+    
+purchase or trade a prescription drug or device between hospitals or other health care facilities
+            
+288
+
+    
+that are under common ownership or control of the management and operation of the facilities;
+            
+289
+
+    
+    (iii)  the sale, purchase, or trade of a prescription drug or device, or offer to sell,
+            
+290
+
+    
+purchase, or trade a prescription drug or device for emergency medical reasons, or to supply
+            
+291
+
+    
+another pharmaceutical facility to alleviate a temporary shortage; or
+            
+292
+
+    
+    (iv)  the distribution of a prescription drug or device as a sample by representatives of a
+            
+293
+
+    
+manufacturer.
+            
+294
+
+    
+    (48)  "Pharmacist" means an individual licensed by this state to engage in the practice
+            
+295
+
+    
+of pharmacy.
+            
+296
+
+    
+    (49)  "Pharmacist-in-charge" means a pharmacist currently licensed in good standing
+            
+297
+
+    
+who accepts responsibility for the operation of a pharmacy in conformance with all laws and
+            
+298
+
+    
+rules pertinent to the practice of pharmacy and the distribution of drugs, and who is personally
+            
+299
+
+    
+in full and actual charge of the pharmacy and all personnel.
+            
+300
+
+    
+    (50)  "Pharmacist preceptor" means a licensed pharmacist in good standing with two or
+            
+301
+
+    
+more years of licensed experience.  The preceptor serves as a teacher, example of professional
+            
+302
+
+    
+conduct, and supervisor of interns in the professional practice of pharmacy.
+            
+303
+
+    
+    (51)  "Pharmacy" means any place where:
+            
+304
+
+    
+    (a)  drugs are dispensed;
+            
+305
+
+    
+    (b)  pharmaceutical care is provided;
+            
+306
+
+    
+    (c)  drugs are processed or handled for eventual use by a patient; or
+
+            
+307
+
+
+    
+    (d)  drugs are used for the purpose of analysis or research.
+            
+308
+
+    
+    (52)  "Pharmacy benefits manager or coordinator" means a person or entity that
+            
+309
+
+    
+[administers the prescription drug or device portion of a health insurance plan] provides
+            
+310
+
+    
+pharmacy benefit management services as defined in Section 
+
+49-20-502
+
+ on behalf of a
+            
+311
+
+    
+self-insured employer, insurance company, health maintenance organization, or other plan
+            
+312
+
+    
+sponsor, as defined by rule.
+            
+313
+
+    
+    (53)  "Pharmacy intern" means an individual licensed by this state to engage in practice
+            
+314
+
+    
+as a pharmacy intern.
+            
+315
+
+    
+    (54)  "Pharmacy technician training program" means an approved technician training
+            
+316
+
+    
+program providing education for pharmacy technicians.
+            
+317
+
+    
+    (55) (a)  "Practice as a licensed pharmacy technician" means engaging in practice as a
+            
+318
+
+    
+pharmacy technician under the general supervision of a licensed pharmacist and in accordance
+            
+319
+
+    
+with a scope of practice defined by division rule made in collaboration with the board.
+            
+320
+
+    
+    (b)  "Practice as a licensed pharmacy technician" does not include:
+            
+321
+
+    
+    (i)  performing a drug utilization review, prescription drug order clarification from a
+            
+322
+
+    
+prescriber, final review of the prescription and prescribed drug prepared for dispensing,
+            
+323
+
+    
+dispensing of the drug, or counseling a patient with respect to a prescription drug;
+            
+324
+
+    
+    (ii)  counseling regarding nonprescription drugs and dietary supplements unless
+            
+325
+
+    
+delegated by the supervising pharmacist; or
+            
+326
+
+    
+    (iii)  receiving new prescription drug orders when communicating telephonically or
+            
+327
+
+    
+electronically unless the original information is recorded so the pharmacist may review the
+            
+328
+
+    
+prescription drug order as transmitted.
+            
+329
+
+    
+    (56)  "Practice of pharmacy" includes the following:
+            
+330
+
+    
+    (a)  providing pharmaceutical care;
+            
+331
+
+    
+    (b)  collaborative pharmacy practice in accordance with a collaborative pharmacy
+            
+332
+
+    
+practice agreement;
+            
+333
+
+    
+    (c)  compounding, packaging, labeling, dispensing, administering, and the coincident
+            
+334
+
+    
+distribution of prescription drugs or devices, provided that the administration of a prescription
+            
+335
+
+    
+drug or device is:
+            
+336
+
+    
+    (i)  pursuant to a lawful order of a practitioner when one is required by law; and
+            
+337
+
+    
+    (ii)  in accordance with written guidelines or protocols:
+
+            
+338
+
+
+    
+    (A)  established by the licensed facility in which the prescription drug or device is to be
+            
+339
+
+    
+administered on an inpatient basis; or
+            
+340
+
+    
+    (B)  approved by the division, in collaboration with the board and the Physicians
+            
+341
+
+    
+Licensing Board, created in Section 
+
+58-67-201
+
+, if the prescription drug or device is to be
+            
+342
+
+    
+administered on an outpatient basis solely by a licensed pharmacist;
+            
+343
+
+    
+    (d)  participating in drug utilization review;
+            
+344
+
+    
+    (e)  ensuring proper and safe storage of drugs and devices;
+            
+345
+
+    
+    (f)  maintaining records of drugs and devices in accordance with state and federal law
+            
+346
+
+    
+and the standards and ethics of the profession;
+            
+347
+
+    
+    (g)  providing information on drugs or devices, which may include advice relating to
+            
+348
+
+    
+therapeutic values, potential hazards, and uses;
+            
+349
+
+    
+    (h)  providing drug product equivalents;
+            
+350
+
+    
+    (i)  supervising pharmacist's supportive personnel, pharmacy interns, and pharmacy
+            
+351
+
+    
+technicians;
+            
+352
+
+    
+    (j)  providing patient counseling, including adverse and therapeutic effects of drugs;
+            
+353
+
+    
+    (k)  providing emergency refills as defined by rule;
+            
+354
+
+    
+    (l)  telepharmacy; and
+            
+355
+
+    
+    (m)  formulary management intervention.
+            
+356
+
+    
+    (57)  "Practice of telepharmacy" means the practice of pharmacy through the use of
+            
+357
+
+    
+telecommunications and information technologies.
+            
+358
+
+    
+    (58)  "Practice of telepharmacy across state lines" means the practice of pharmacy
+            
+359
+
+    
+through the use of telecommunications and information technologies that occurs when the
+            
+360
+
+    
+patient is physically located within one jurisdiction and the pharmacist is located in another
+            
+361
+
+    
+jurisdiction.
+            
+362
+
+    
+    (59)  "Practitioner" means an individual currently licensed, registered, or otherwise
+            
+363
+
+    
+authorized by the appropriate jurisdiction to prescribe and administer drugs in the course of
+            
+364
+
+    
+professional practice.
+            
+365
+
+    
+    (60)  "Prescribe" means to issue a prescription:
+            
+366
+
+    
+    (a)  orally or in writing; or
+            
+367
+
+    
+    (b)  by telephone, facsimile transmission, computer, or other electronic means of
+            
+368
+
+    
+communication as defined by division rule.
+
+            
+369
+
+
+    
+    (61)  "Prescription" means an order issued:
+            
+370
+
+    
+    (a)  by a licensed practitioner in the course of that practitioner's professional practice or
+            
+371
+
+    
+by collaborative pharmacy practice agreement; and
+            
+372
+
+    
+    (b)  for a controlled substance or other prescription drug or device for use by a patient
+            
+373
+
+    
+or an animal.
+            
+374
+
+    
+    (62)  "Prescription device" means an instrument, apparatus, implement, machine,
+            
+375
+
+    
+contrivance, implant, in vitro reagent, or other similar or related article, and any component
+            
+376
+
+    
+part or accessory, which is required under federal or state law to be prescribed by a practitioner
+            
+377
+
+    
+and dispensed by or through a person or entity licensed under this chapter or exempt from
+            
+378
+
+    
+licensure under this chapter.
+            
+379
+
+    
+    (63)  "Prescription drug" means a drug that is required by federal or state law or rule to
+            
+380
+
+    
+be dispensed only by prescription or is restricted to administration only by practitioners.
+            
+381
+
+    
+    (64)  "Retail pharmacy" means a pharmaceutical facility dispensing prescription drugs
+            
+382
+
+    
+and devices to the general public.
+            
+383
+
+    
+    (65)  "Self-audit" means an internal evaluation of a pharmacy to determine compliance
+            
+384
+
+    
+with this chapter.
+            
+385
+
+    
+    (66)  "Supervising pharmacist" means a pharmacist who is overseeing the operation of
+            
+386
+
+    
+the pharmacy during a given day or shift.
+            
+387
+
+    
+    (67)  "Supportive personnel" means unlicensed individuals who:
+            
+388
+
+    
+    (a)  may assist a pharmacist, pharmacist preceptor, pharmacy intern, or licensed
+            
+389
+
+    
+pharmacy technician in nonjudgmental duties not included in the definition of the practice of
+            
+390
+
+    
+pharmacy, practice of a pharmacy intern, or practice of a licensed pharmacy technician, and as
+            
+391
+
+    
+those duties may be further defined by division rule adopted in collaboration with the board;
+            
+392
+
+    
+and
+            
+393
+
+    
+    (b)  are supervised by a pharmacist in accordance with rules adopted by the division in
+            
+394
+
+    
+collaboration with the board.
+            
+395
+
+    
+    (68)  "Unlawful conduct" is as defined in Sections 
+
+58-1-501
+
+ and 
+
+58-17b-501
+
+.
+            
+396
+
+    
+    (69)  "Unprofessional conduct" is as defined in Sections 
+
+58-1-501
+
+ and 
+
+58-17b-502
+
+ and
+            
+397
+
+    
+may be further defined by rule.
+            
+398
+
+    
+    (70)  "Veterinary pharmaceutical facility" means a pharmaceutical facility that
+            
+399
+
+    
+dispenses drugs intended for use by animals or for sale to veterinarians for the administration
+
+            
+400
+
+
+    
+for animals.
+            
+401
+
+    
+    Section 4.  
+Section  
+58-17b-622
+
+ is enacted to read:
+            
+402
+
+    
+     58-17b-622.  Pharmacy benefit management services -- Auditing of pharmacy
+            
+403
+
+    
+ records -- Appeals.
+            
+404
+
+    
+    (1)  For purposes of this section:
+            
+405
+
+    
+    (a)  "Audit" means a review of the records of a pharmacy by or on behalf of an entity
+            
+406
+
+    
+that finances or reimburses the cost of health care services or pharmaceutical products.
+            
+407
+
+    
+    (b)  "Entity" includes:
+            
+408
+
+    
+    (i)  a pharmacy benefits manager or coordinator;
+            
+409
+
+    
+    (ii)  a health benefit plan;
+            
+410
+
+    
+    (iii)  a third party administrator as defined in Section 
+
+31A-1-301
+
+;
+            
+411
+
+    
+    (iv)  a state agency; or
+            
+412
+
+    
+    (v)  a company, group, or agent that represents, or is engaged by, one of the entities
+            
+413
+
+    
+described in Subsections (1)(b)(i) through (iv).
+            
+414
+
+    
+    (c)  "Health benefit plan" means:
+            
+415
+
+    
+    (i)  a health benefit plan as defined in Section 
+
+31A-1-301
+
+; or
+            
+416
+
+    
+    (ii)  a health, dental, medical, Medicare supplement, or conversion program offered
+            
+417
+
+    
+under Title 49, Chapter 20, Public Employees' Benefit and Insurance Program Act.
+            
+418
+
+    
+    (2) (a)  Except as provided in Subsection (2)(b), this section applies to:
+            
+419
+
+    
+    (i)  a contract for the audit of a pharmacy entered into, amended, or renewed on or after
+            
+420
+
+    
+July 1, 2012; and
+            
+421
+
+    
+    (ii)  an entity that conducts an audit of the pharmacy records of a pharmacy licensed
+            
+422
+
+    
+under this chapter.
+            
+423
+
+    
+    (b)  This section does not apply to an audit of pharmacy records for the purpose of
+            
+424
+
+    
+detecting fraud in the state Medicaid program if the audit is conducted:
+            
+425
+
+    
+    (i)  under the provisions of Title 63J, Chapter 4a, Office of Inspector General of
+            
+426
+
+    
+Medicaid Services; and
+            
+427
+
+    
+    (ii)  by the Office of the Inspector General, or its designee.
+            
+428
+
+    
+    (3) (a)  An audit that involves clinical or professional judgement shall be conducted by
+            
+429
+
+    
+or in consultation with a pharmacist licensed under this chapter.
+            
+430
+
+    
+    (b)  If an audit is conducted on site at a pharmacy, the entity conducting the audit:
+
+            
+431
+
+
+    
+    (i)  shall give the pharmacy 14 days advanced written notice of:
+            
+432
+
+    
+    (A)  the audit; and
+            
+433
+
+    
+    (B)  the prescription numbers included in the audit; and
+            
+434
+
+    
+    (ii)  may not audit a pharmacy during the first seven calendar days of the month, unless
+            
+435
+
+    
+the pharmacy agrees to the timing of the audit.
+            
+436
+
+    
+    (c)  An entity may not audit claims:
+            
+437
+
+    
+    (i)  submitted more than 24 months prior to the audit, unless required by federal law; or
+            
+438
+
+    
+    (ii)  that exceed:
+            
+439
+
+    
+    (A)  the lesser of:
+            
+440
+
+    
+    (I)  1% of the average monthly prescription claims submitted by the pharmacy to the
+            
+441
+
+    
+entity conducting the audit; or
+            
+442
+
+    
+    (II)  200 prescription claims; or
+            
+443
+
+    
+    (B)  the number of claims for which the entity has substantiated or documented
+            
+444
+
+    
+discrepancies.
+            
+445
+
+    
+    (4)  An entity may not:
+            
+446
+
+    
+    (a)  include dispensing fees in the calculations of overpayments;
+            
+447
+
+    
+    (b)  recoup funds for a clerical or record keeping error in a required document unless:
+            
+448
+
+    
+    (i)  the entity can provide proof of intent to commit fraud; or
+            
+449
+
+    
+    (ii)  the clerical error resulted in financial harm to the entity or a consumer;
+            
+450
+
+    
+    (c)  collect any funds, charge-backs, or penalties until the audit and all appeals are final;
+            
+451
+
+    
+    (d)  charge interest on disputed claims during the audit and any appeals to the audit;
+            
+452
+
+    
+    (e)  receive payment for the audit based on a percentage of the amount recovered in the
+            
+453
+
+    
+audit; or
+            
+454
+
+    
+    (f)  except when required by state or federal law, share audit information or pharmacy
+            
+455
+
+    
+records with another entity that is conducting a subsequent or new audit of the pharmacy.
+            
+456
+
+    
+    (5)  A pharmacy subject to an audit may use the following records to validate a claim
+            
+457
+
+    
+for a prescription, refill, or change in a prescription:
+            
+458
+
+    
+    (a)  electronic or physical copies of records of a health care facility, or a health care
+            
+459
+
+    
+provider with prescribing authority; and
+            
+460
+
+    
+    (b)  any prescription that complies with state law.
+            
+461
+
+    
+    (6) (a)  An entity that audits a pharmacy shall provide the pharmacy with a preliminary
+
+            
+462
+
+
+    
+audit report, delivered to the pharmacy or its corporate office of record within 60 days after
+            
+463
+
+    
+completion of the audit.
+            
+464
+
+    
+    (b)  A pharmacy has 30 days following receipt of the preliminary audit report to
+            
+465
+
+    
+respond to questions, provide additional documentation, and comment on and clarify findings
+            
+466
+
+    
+of the audit.
+            
+467
+
+    
+    (7)  If an audit results in the dispute or denial of a claim, the entity conducting the audit
+            
+468
+
+    
+shall allow the pharmacy to re-submit a claim using any commercially reasonable method,
+            
+469
+
+    
+including fax, mail, or electronic claims submission.
+            
+470
+
+    
+    (8) (a)  Within 120 days after the completion of the appeals process under Subsection
+            
+471
+
+    
+(9), a final audit report shall be delivered to the pharmacy or its corporate office of record, and
+            
+472
+
+    
+to the health benefit plan for whom the audit was conducted.
+            
+473
+
+    
+    (b)  The final audit report shall include a disclosure of any money recovered by the
+            
+474
+
+    
+entity that conducted the audit.
+            
+475
+
+    
+    (9) (a)  An entity that audits a pharmacy shall establish a written appeals process for
+            
+476
+
+    
+appealing a preliminary audit report and a final audit report, and shall provide the pharmacy
+            
+477
+
+    
+with notice of the written appeals process at the time the notice of audit is provided to the
+            
+478
+
+    
+pharmacy.
+            
+479
+
+    
+    (b)  The appeals process under Subsection (9)(a) shall offer the pharmacy the option to
+            
+480
+
+    
+submit an appeal of the final audit report:
+            
+481
+
+    
+    (i)  directly to the health benefit plan;
+            
+482
+
+    
+    (ii)  to mediation; or
+            
+483
+
+    
+    (iii)  to a civil action.
+            
+484
+
+    
+    (10)  A pharmacy or pharmacist injured as a result of a violation of this section may
+            
+485
+
+    
+bring a civil action against the person, corporation, or business entity that violated this section
+            
+486
+
+    
+for recovery of damages occurring as a result of the violation.
+
+
+
+
+ Legislative Review Note
+    as of   1-3-12  10:49 AM
+
+ Office of Legislative Research and General Counsel
+[Bill Documents][Bills Directory]
+
+
+
+
+
+
+
+
+
+Who represents me?
+
+
+
+
+
+Remember my Legislators
+
+
+
+
+
+State Senate
+		350 North State, Suite 320
+		PO Box 145115
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1035
+		Fax: (801) 326-1475
+
+
+
+House of Representatives
+		350 North State, Suite 350
+		PO Box 145030
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1029
+		Fax: (801) 326-1544
+
+
+
+
+
+
+
+
+
+
+Home
+Mobile Site
+Site Map
+Calendar
+Code / Constitution
+House
+Senate
+
+Terms of Use/Privacy Policy
+
+ADA
+Utah.gov
+
+
+
+
+
+
+

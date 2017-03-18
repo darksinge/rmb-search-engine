@@ -1,0 +1,2786 @@
+Sponsors: []Modifications:     41-6a-1118.(1)  As used in this section:(a)  "Division" means the Driver License Division created in Section 
+
+53-3-103
+
+
+.(b)  "Mobility vehicle" means a vehicle that:(i)  is certified by the division for use by a person with a physical disability; and(ii)  complies with the requirements specified by the division in rules made underSubsection (3).(c)  "Mobility vehicle certification" means evidence that a vehicle meets therequirements for certification by the division as a mobility vehicle.(d)  "Mobility vehicle permit" means a permit issued by the division granting authorityand specifying the conditions for a person with a physical disability to operate a mobilityvehicle on a public highway.(e)  "Physical disability" means a bodily impairment that prevents an individual fromqualifying to obtain a license certificate.(2)  A person may operate a mobility vehicle on a public highway in accordance withrules made by the division under Subsection (3).(3)  In accordance with Title 63G, Chapter 3, Utah Administrative Rulemaking Act, thedivision shall make rules:(a)  establishing procedures for certification of a vehicle to be operated as a mobilityvehicle;(b)  specifying the vehicle requirements for a vehicle to qualify as a mobility vehicle;(c)  for acceptable documentation of a mobility vehicle permit applicant's identity,Social Security number if applicable, Utah resident status, and Utah residence address;(d)  establishing procedures for the issuance of a mobility vehicle permit to anindividual with a physical disability;(e)  for examining applicants for a mobility vehicle permit, as necessary for the safetyand welfare of the applicant and the traveling public; and(f)  granting authority and specifying the conditions and restrictions for a person tooperate a mobility vehicle on a public highway.(4)  An application for a mobility vehicle permit shall be:(a)  made upon a form furnished by the division;(b)  accompanied by a nonrefundable fee set under Section 
+
+53-3-105
+
+
+; and(c)  accompanied by a medical questionnaire form that includes information:(i)  that establishes the applicant has a physical disability as defined under Subsection(1)(e); and(ii)  to determine whether it would be a public safety hazard to permit the applicant todrive a mobility vehicle on a public highway.(5)  An application and fee for a mobility vehicle permit entitle the applicant to:(a)  not more than three attempts to pass both the knowledge and skills tests within sixmonths of the date of application; and(b)  a mobility vehicle permit after all tests are passed and requirements are completed.(6)  A mobility vehicle permit expires on the birth date of the applicant in the fifth yearfollowing the year the mobility vehicle permit was issued.(7)  A person may not hold both a license certificate and a mobility vehicle permit.(29)  An original mobility vehicle permit application under Section 
+
+41-6a-1118
+
+
+ is $25.(30)  A renewal of a mobility vehicle permit under Section 
+
+41-6a-1118
+
+
+ is $25.(31)  A duplicate mobility vehicle permit under Section 
+
+41-6a-1118
+
+
+ is $10.or permitor mobility vehicleor mobility vehicleor a mobilityvehicle permitor mobility vehicle(b)  The division may grant a restricted mobility vehicle permit to an impaired personwho is otherwise qualified to obtain a mobility vehicle permit.(c)or mobility vehicle permit(d)or mobility vehicle permit(e)or mobility vehicle permitor mobility vehicleor mobility vehicle permitThis bill takes effect on July 1, 2014.Full text:
+
+
+
+Utah State Legislature
+
+
+
+
+
+
+
+
+
+
+
+
+Legislators
+
+By Session (1896-Current)
+Alphabetical (Historical)
+Find by Address/Map
+More
+
+
+Bills
+
+Bills/Bill Requests
+Passed Bills
+2017 Bills
+
+Keyword Search
+Reading Calendars
+Tracking Service
+More
+
+
+Committees
+
+All Committees
+Appropriations
+Commissions
+
+Independent Legislative Ethics Commission
+Interim
+Standing
+Subcommittees
+Task Forces
+Bills In Committees
+
+
+Utah Code / Constitution
+
+
+Title/Chapter/Section
+Keyword Search 
+
+Utah Constitution
+Laws of Utah 1851-ongoing
+Utah Territorial Laws 
+More
+
+
+Senate
+
+Main Page 
+About The Senate 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Extraordinary Sessions 
+Reading Calendars 
+Past Floor Debates 
+Senate Journals 
+
+
+House
+
+Main Page
+About the House 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Reading Calendars 
+Past Floor Debates 
+Journals 
+Conflict of Interest Forms 
+
+
+Legislative Guide 
+
+Legislative Guide
+Civic Programs
+GRAMA (Records Requests)
+
+
+Publications
+
+Search Publications
+Appropriations
+Audits
+Bagels & Briefings
+Briefing Papers
+Digest of Legislation
+Legislative Drafting Manual
+
+Journals
+
+Interim Highlights
+
+Legislative Rules
+GRAMA (Records Requests)
+Public Email
+State Organization Charts
+YouTube Channel
+Requests for Proposals and Legal Notices
+More
+
+
+Legislative Histories
+
+Legislative History Resources
+How to Research
+Bill Drafting/Research Files (1990-Ongoing)
+
+Working Bills (1896-1989)
+Interim Committee Histories (1990-Ongoing) 
+Journals
+Past House Floor Debates
+Past Senate Floor Debates
+More
+
+
+Staff Offices
+
+All Legislative Offices
+Auditor General
+Fiscal Analyst
+Printing
+Research and General Counsel
+Staff Awards
+Job Opportunities
+More
+
+
+Links of Interest
+
+Utah Administrative Rules
+Courts
+Utah State Capitol
+State of Utah
+Federal Legislation
+More
+
+
+
+
+
+
+ 
+
+H.B. 130
+
+
+
+
+
+            
+1
+
+    
+ MOBILITY AND PEDESTRIAN VEHICLES
+
+
+
+            
+2
+
+    
+2014 GENERAL SESSION
+
+            
+3
+
+    
+STATE OF UTAH
+
+            
+4
+
+    
+
+
+ Chief Sponsor:  John G. Mathis
+
+
+
+            
+5
+
+    
+
+
+
+Senate Sponsor: 
+
+
+
+
+
+
+  Kevin T. Van Tassell
+
+
+
+
+
+            
+6
+
+    
+
+            
+7
+
+    
+ LONG TITLE
+            
+8
+
+    
+ General Description:
+            
+9
+
+    
+    This bill modifies provisions relating to pedestrian and mobility vehicles.
+            
+10
+
+    
+ Highlighted Provisions:
+            
+11
+
+    
+    This bill:
+            
+12
+
+    
+    .    provides definitions;
+            
+13
+
+    
+    .    repeals the requirement that the Department of Public Safety make rules to
+            
+14
+
+    
+authorize a person to operate a pedestrian vehicle on a public highway or sidewalk;
+            
+15
+
+    
+    .    provides that a mobility vehicle is a vehicle that:
+            
+16
+
+    
+        .    is certified by the Driver License Division for use by a person with a physical
+            
+17
+
+    
+disability; and
+            
+18
+
+    
+        .    complies with the requirements specified by the Driver License Division in
+            
+19
+
+    
+administrative rules;
+            
+20
+
+    
+    .    grants the Driver License Division rulemaking authority to make rules regarding the
+            
+21
+
+    
+eligibility, procedures, and requirements for operating a mobility vehicle on a
+            
+22
+
+    
+highway;
+            
+23
+
+    
+    .    specifies application procedures and fees for a mobility vehicle permit;
+            
+24
+
+    
+    .    prohibits a person from holding a driver license and a mobility vehicle permit;
+            
+25
+
+    
+    .    repeals the provisions authorizing a mobility vehicle to be operated on a sidewalk;
+            
+26
+
+    
+    .    provides that an applicant for a mobility vehicle permit is subject to medical review
+            
+27
+
+    
+provisions;
+
+            
+28
+
+
+    
+    .    authorizes the Driver License Division to deny, suspend, disqualify, or revoke a
+            
+29
+
+    
+mobility vehicle permit in certain circumstances; and
+            
+30
+
+    
+    .    makes technical and conforming changes.
+            
+31
+
+    
+ Money Appropriated in this Bill:
+            
+32
+
+    
+    None
+            
+33
+
+    
+ Other Special Clauses:
+            
+34
+
+    
+    This bill takes effect on July 1, 2014.
+            
+35
+
+    
+ Utah Code Sections Affected:
+            
+36
+
+    
+AMENDS:
+            
+37
+
+    
+     
+41-6a-1011
+, as last amended by Laws of Utah 2011, Chapter 366
+            
+38
+
+    
+     
+53-3-105
+, as last amended by Laws of Utah 2011, Chapter 428
+            
+39
+
+    
+     
+53-3-221
+, as last amended by Laws of Utah 2013, Chapter 411
+            
+40
+
+    
+     
+53-3-304
+, as last amended by Laws of Utah 2008, Chapter 382
+            
+41
+
+    
+ENACTS:
+            
+42
+
+    
+     
+41-6a-1118
+, Utah Code Annotated 1953
+            
+43
+
+    
+
+            
+44
+
+    
+Be it enacted by the Legislature of the state of Utah:
+            
+45
+
+    
+    Section 1.  
+Section  
+41-6a-1011
+
+ is amended to read:
+            
+46
+
+    
+     41-6a-1011.  Pedestrian vehicles.
+            
+47
+
+    
+    (1)  As used in this section:
+            
+48
+
+    
+    (a) (i)  "Pedestrian vehicle" means a self-propelled conveyance designed, manufactured,
+            
+49
+
+    
+and intended for the exclusive use of a person with a physical disability.
+            
+50
+
+    
+    (ii)  A "pedestrian vehicle" may not:
+            
+51
+
+    
+    (A)  exceed 48 inches in width;
+            
+52
+
+    
+    (B)  have an engine or motor with more than 300 cubic centimeters displacement or
+            
+53
+
+    
+with more than 12 brake horsepower; and
+            
+54
+
+    
+    (C)  be capable of developing a speed in excess of 30 miles per hour.
+            
+55
+
+    
+    (b)   "Physical disability" means any bodily impairment which precludes a person from
+            
+56
+
+    
+walking or otherwise moving about as a pedestrian.
+            
+57
+
+    
+    (2) [(a)]  A pedestrian vehicle operated by a person with a physical disability is exempt
+            
+58
+
+    
+from vehicle registration, inspection, and operator license requirements.
+
+            
+59
+
+
+    
+    [(b)  Authority to operate a pedestrian vehicle on public highways or sidewalks shall be
+            
+60
+
+    
+granted according to rules promulgated by the commissioner of public safety.]
+            
+61
+
+    
+    (3) (a)  A person with a physical disability may operate a pedestrian vehicle with a
+            
+62
+
+    
+motor of not more than .5 brake horsepower capable of developing a speed of not more than
+            
+63
+
+    
+eight miles per hour:
+            
+64
+
+    
+    (i)  on the sidewalk; and
+            
+65
+
+    
+    (ii)  in all places where pedestrians are allowed.
+            
+66
+
+    
+    (b)   A permit, license, registration, authority, application, or restriction may not be
+            
+67
+
+    
+required or imposed on a person with a physical disability who operates a pedestrian vehicle
+            
+68
+
+    
+under this Subsection (3).
+            
+69
+
+    
+    (c)  The provisions of this Subsection (3) supercede the provision of Subsection (2)(b).
+            
+70
+
+    
+    Section 2.  
+Section  
+41-6a-1118
+
+ is enacted to read:
+            
+71
+
+    
+     41-6a-1118.  Mobility vehicles.
+            
+72
+
+    
+    (1)  As used in this section:
+            
+73
+
+    
+    (a)  "Division" means the Driver License Division created in Section 
+
+53-3-103
+
+
+.
+            
+74
+
+    
+    (b)  "Mobility vehicle" means a vehicle that:
+            
+75
+
+    
+    (i)  is certified by the division for use by a person with a physical disability; and
+            
+76
+
+    
+    (ii)  complies with the requirements specified by the division in rules made under
+            
+77
+
+    
+Subsection (3).
+            
+78
+
+    
+    (c)  "Mobility vehicle certification" means evidence that a vehicle meets the
+            
+79
+
+    
+requirements for certification by the division as a mobility vehicle.
+            
+80
+
+    
+    (d)  "Mobility vehicle permit" means a permit issued by the division granting authority
+            
+81
+
+    
+and specifying the conditions for a person with a physical disability to operate a mobility
+            
+82
+
+    
+vehicle on a public highway.
+            
+83
+
+    
+    (e)  "Physical disability" means a bodily impairment that prevents an individual from
+            
+84
+
+    
+qualifying to obtain a license certificate.
+            
+85
+
+    
+    (2)  A person may operate a mobility vehicle on a public highway in accordance with
+            
+86
+
+    
+rules made by the division under Subsection (3).
+            
+87
+
+    
+    (3)  In accordance with Title 63G, Chapter 3, Utah Administrative Rulemaking Act, the
+            
+88
+
+    
+division shall make rules:
+            
+89
+
+    
+    (a)  establishing procedures for certification of a vehicle to be operated as a mobility
+
+            
+90
+
+
+    
+vehicle;
+            
+91
+
+    
+    (b)  specifying the vehicle requirements for a vehicle to qualify as a mobility vehicle;
+            
+92
+
+    
+    (c)  for acceptable documentation of a mobility vehicle permit applicant's identity,
+            
+93
+
+    
+Social Security number if applicable, Utah resident status, and Utah residence address;
+            
+94
+
+    
+    (d)  establishing procedures for the issuance of a mobility vehicle permit to an
+            
+95
+
+    
+individual with a physical disability;
+            
+96
+
+    
+    (e)  for examining applicants for a mobility vehicle permit, as necessary for the safety
+            
+97
+
+    
+and welfare of the applicant and the traveling public; and
+            
+98
+
+    
+    (f)  granting authority and specifying the conditions and restrictions for a person to
+            
+99
+
+    
+operate a mobility vehicle on a public highway.
+            
+100
+
+    
+    (4)  An application for a mobility vehicle permit shall be:
+            
+101
+
+    
+    (a)  made upon a form furnished by the division;
+            
+102
+
+    
+    (b)  accompanied by a nonrefundable fee set under Section 
+
+53-3-105
+
+
+; and
+            
+103
+
+    
+    (c)  accompanied by a medical questionnaire form that includes information:
+            
+104
+
+    
+    (i)  that establishes the applicant has a physical disability as defined under Subsection
+            
+105
+
+    
+(1)(e); and
+            
+106
+
+    
+    (ii)  to determine whether it would be a public safety hazard to permit the applicant to
+            
+107
+
+    
+drive a mobility vehicle on a public highway.
+            
+108
+
+    
+    (5)  An application and fee for a mobility vehicle permit entitle the applicant to:
+            
+109
+
+    
+    (a)  not more than three attempts to pass both the knowledge and skills tests within six
+            
+110
+
+    
+months of the date of application; and
+            
+111
+
+    
+    (b)  a mobility vehicle permit after all tests are passed and requirements are completed.
+            
+112
+
+    
+    (6)  A mobility vehicle permit expires on the birth date of the applicant in the fifth year
+            
+113
+
+    
+following the year the mobility vehicle permit was issued.
+            
+114
+
+    
+    (7)  A person may not hold both a license certificate and a mobility vehicle permit.
+            
+115
+
+    
+    Section 3.  
+Section  
+53-3-105
+
+ is amended to read:
+            
+116
+
+    
+     53-3-105.  Fees for licenses, renewals, extensions, reinstatements, rescheduling,
+            
+117
+
+    
+ and identification cards.
+            
+118
+
+    
+    The following fees apply under this chapter:
+            
+119
+
+    
+    (1)  An original class D license application under Section 
+
+53-3-205
+
+
+ is $25.
+            
+120
+
+    
+    (2)  An original provisional license application for a class D license under Section
+
+            
+121
+
+
+    
+
+53-3-205
+
+
+ is $30.
+            
+122
+
+    
+    (3)  An original application for a motorcycle endorsement under Section 
+
+53-3-205
+
+
+ is
+            
+123
+
+    
+$9.50.
+            
+124
+
+    
+    (4)  An original application for a taxicab endorsement under Section 
+
+53-3-205
+
+
+ is $7.
+            
+125
+
+    
+    (5)  A learner permit application under Section 
+
+53-3-210.5
+
+
+ is $15.
+            
+126
+
+    
+    (6)  A renewal of a class D license under Section 
+
+53-3-214
+
+
+ is $25 unless Subsection
+            
+127
+
+    
+(10) applies.
+            
+128
+
+    
+    (7)  A renewal of a provisional license application for a class D license under Section
+            
+129
+
+    
+
+53-3-214
+
+
+ is $25.
+            
+130
+
+    
+    (8)  A renewal of a motorcycle endorsement under Section 
+
+53-3-214
+
+
+ is $9.50.
+            
+131
+
+    
+    (9)  A renewal of a taxicab endorsement under Section 
+
+53-3-214
+
+
+ is $7.
+            
+132
+
+    
+    (10)  A renewal of a class D license for a person 65 and older under Section 
+
+53-3-214
+
+
+ is
+            
+133
+
+    
+$13.
+            
+134
+
+    
+    (11)  An extension of a class D license under Section 
+
+53-3-214
+
+
+ is $20 unless Subsection
+            
+135
+
+    
+(15) applies.
+            
+136
+
+    
+    (12)  An extension of a provisional license application for a class D license under
+            
+137
+
+    
+Section 
+
+53-3-214
+
+
+ is $20.
+            
+138
+
+    
+    (13)  An extension of a motorcycle endorsement under Section 
+
+53-3-214
+
+
+ is $9.50.
+            
+139
+
+    
+    (14)  An extension of a taxicab endorsement under Section 
+
+53-3-214
+
+
+ is $7.
+            
+140
+
+    
+    (15)  An extension of a class D license for a person 65 and older under Section
+            
+141
+
+    
+
+53-3-214
+
+
+ is $11.
+            
+142
+
+    
+    (16)  An original or renewal application for a commercial class A, B, or C license or an
+            
+143
+
+    
+original or renewal of a provisional commercial class A or B license under Part 4, Uniform
+            
+144
+
+    
+Commercial Driver License Act, is:
+            
+145
+
+    
+    (a)  $40 for the knowledge test; and
+            
+146
+
+    
+    (b)  $60 for the skills test.
+            
+147
+
+    
+    (17)  Each original CDL endorsement for passengers, hazardous material, double or
+            
+148
+
+    
+triple trailers, or tankers is $7.
+            
+149
+
+    
+    (18)  An original CDL endorsement for a school bus under Part 4, Uniform Commercial
+            
+150
+
+    
+Driver License Act, is $7.
+            
+151
+
+    
+    (19)  A renewal of a CDL endorsement under Part 4, Uniform Commercial Driver
+
+            
+152
+
+
+    
+License Act, is $7.
+            
+153
+
+    
+    (20) (a)  A retake of a CDL knowledge test provided for in Section 
+
+53-3-205
+
+
+ is $20.
+            
+154
+
+    
+    (b)  A retake of a CDL skills test provided for in Section 
+
+53-3-205
+
+
+ is $40.
+            
+155
+
+    
+    (21)  A retake of a CDL endorsement test provided for in Section 
+
+53-3-205
+
+
+ is $7.
+            
+156
+
+    
+    (22)  A duplicate class A, B, C, or D license certificate under Section 
+
+53-3-215
+
+
+ is $18.
+            
+157
+
+    
+    (23) (a)  A license reinstatement application under Section 
+
+53-3-205
+
+
+ is $30.
+            
+158
+
+    
+    (b)  A license reinstatement application under Section 
+
+53-3-205
+
+
+ for an alcohol, drug, or
+            
+159
+
+    
+combination of alcohol and any drug-related offense is $35 in addition to the fee under
+            
+160
+
+    
+Subsection (23)(a).
+            
+161
+
+    
+    (24) (a)  An administrative fee for license reinstatement after an alcohol, drug, or
+            
+162
+
+    
+combination of alcohol and any drug-related offense under Section 
+
+41-6a-520
+
+
+, 
+
+53-3-223
+
+
+, or
+            
+163
+
+    
+
+53-3-231
+
+
+ or an alcohol, drug, or combination of alcohol and any drug-related offense under
+            
+164
+
+    
+Part 4, Uniform Commercial Driver License Act, is $170.
+            
+165
+
+    
+    (b)  This administrative fee is in addition to the fees under Subsection (23).
+            
+166
+
+    
+    (25) (a)  An administrative fee for providing the driving record of a driver under
+            
+167
+
+    
+Section 
+
+53-3-104
+
+
+ or 
+
+53-3-420
+
+
+ is $6.
+            
+168
+
+    
+    (b)  The division may not charge for a report furnished under Section 
+
+53-3-104
+
+
+ to a
+            
+169
+
+    
+municipal, county, state, or federal agency.
+            
+170
+
+    
+    (26)  A rescheduling fee under Section 
+
+53-3-205
+
+
+ or 
+
+53-3-407
+
+
+ is $25.
+            
+171
+
+    
+    (27) (a)  Except as provided under Subsections (27)(b) and (c), an identification card
+            
+172
+
+    
+application under Section 
+
+53-3-808
+
+
+ is $18.
+            
+173
+
+    
+    (b)  An identification card application under Section 
+
+53-3-808
+
+
+ for a person with a
+            
+174
+
+    
+disability, as defined in 42 U.S.C. Sec. 12102, is $13.
+            
+175
+
+    
+    (c)  A fee may not be charged for an identification card application if the person
+            
+176
+
+    
+applying:
+            
+177
+
+    
+    (i)  has not been issued a Utah driver license;
+            
+178
+
+    
+    (ii)  is indigent; and
+            
+179
+
+    
+    (iii)  is at least 18 years of age.
+            
+180
+
+    
+    (28)  In addition to any license application fees collected under this chapter, the division
+            
+181
+
+    
+shall impose on individuals submitting fingerprints in accordance with Section 
+
+53-3-205.5
+
+
+ the
+            
+182
+
+    
+fees that the Bureau of Criminal Identification is authorized to collect for the services the
+
+            
+183
+
+
+    
+Bureau of Criminal Identification provides under Section 
+
+53-3-205.5
+
+
+.
+            
+184
+
+    
+    (29)  An original mobility vehicle permit application under Section 
+
+41-6a-1118
+
+
+ is $25.
+            
+185
+
+    
+    (30)  A renewal of a mobility vehicle permit under Section 
+
+41-6a-1118
+
+
+ is $25.
+            
+186
+
+    
+    (31)  A duplicate mobility vehicle permit under Section 
+
+41-6a-1118
+
+
+ is $10.
+            
+187
+
+    
+    Section 4.  
+Section  
+53-3-221
+
+ is amended to read:
+            
+188
+
+    
+     53-3-221.  Offenses that may result in denial, suspension, disqualification, or
+            
+189
+
+    
+ revocation of license without hearing -- Additional grounds for suspension -- Point system
+            
+190
+
+    
+ for traffic violations -- Notice and hearing -- Reporting of traffic violation procedures.
+            
+191
+
+    
+    (1)  By following the emergency procedures in Title 63G, Chapter 4, Administrative
+            
+192
+
+    
+Procedures Act, the division may immediately deny, suspend, disqualify, or revoke the license
+            
+193
+
+    
+or permit of any person without hearing and without receiving a record of the person's
+            
+194
+
+    
+conviction of crime when the division has been notified or has reason to believe the person:
+            
+195
+
+    
+    (a)  has committed any offenses for which mandatory suspension or revocation of a
+            
+196
+
+    
+license is required upon conviction under Section 
+
+53-3-220
+
+
+;
+            
+197
+
+    
+    (b)  has, by reckless or unlawful driving of a motor vehicle, caused or contributed to an
+            
+198
+
+    
+accident resulting in death or injury to any other person, or serious property damage;
+            
+199
+
+    
+    (c)  is incompetent to drive a motor vehicle or mobility vehicle or is afflicted with
+            
+200
+
+    
+mental or physical infirmities or disabilities rendering it unsafe for the person to drive a motor
+            
+201
+
+    
+vehicle or mobility vehicle upon the highways;
+            
+202
+
+    
+    (d)  has committed a serious violation of the motor vehicle laws of this state;
+            
+203
+
+    
+    (e)  has knowingly committed a violation of Section 
+
+53-3-229
+
+
+; or
+            
+204
+
+    
+    (f)  has been convicted of serious offenses against traffic laws governing the movement
+            
+205
+
+    
+of motor vehicles with a frequency that indicates a disrespect for traffic laws and a disregard
+            
+206
+
+    
+for the safety of other persons on the highways.
+            
+207
+
+    
+    (2) (a)  The division may suspend the license of a person under Subsection (1) when the
+            
+208
+
+    
+person has failed to comply with the terms stated on a traffic citation issued in this state, except
+            
+209
+
+    
+this Subsection (2) does not apply to highway weight limit violations or violations of law
+            
+210
+
+    
+governing the transportation of hazardous materials.
+            
+211
+
+    
+    (b)  This Subsection (2) applies to parking and standing violations only if a court has
+            
+212
+
+    
+issued a warrant for the arrest of a person for failure to post bail, appear, or otherwise satisfy
+            
+213
+
+    
+the terms of the citation.
+
+            
+214
+
+
+    
+    (c) (i)  This Subsection (2) may not be exercised unless notice of the pending
+            
+215
+
+    
+suspension of the driving privilege has been sent at least 10 days previously to the person at the
+            
+216
+
+    
+address provided to the division.
+            
+217
+
+    
+    (ii)  After clearance by the division, a report authorized by Section 
+
+53-3-104
+
+
+ may not
+            
+218
+
+    
+contain any evidence of a suspension that occurred as a result of failure to comply with the
+            
+219
+
+    
+terms stated on a traffic citation.
+            
+220
+
+    
+    (3) (a)  The division may suspend the license of a person under Subsection (1) when the
+            
+221
+
+    
+division has been notified by a court that the person has an outstanding unpaid fine, an
+            
+222
+
+    
+outstanding incomplete restitution requirement, or an outstanding warrant levied by order of a
+            
+223
+
+    
+court.
+            
+224
+
+    
+    (b)  The suspension remains in effect until the division is notified by the court that the
+            
+225
+
+    
+order has been satisfied.
+            
+226
+
+    
+    (c)  After clearance by the division, a report authorized by Section 
+
+53-3-104
+
+
+ may not
+            
+227
+
+    
+contain any evidence of the suspension.
+            
+228
+
+    
+    (4) (a)  The division shall make rules establishing a point system as provided for in this
+            
+229
+
+    
+Subsection (4).
+            
+230
+
+    
+    (b) (i)  The division shall assign a number of points to each type of moving traffic
+            
+231
+
+    
+violation as a measure of its seriousness.
+            
+232
+
+    
+    (ii)  The points shall be based upon actual relationships between types of traffic
+            
+233
+
+    
+violations and motor vehicle traffic accidents.
+            
+234
+
+    
+    (iii)  Except as provided in Subsection (4)(b)(iv), the division may not assess points
+            
+235
+
+    
+against a person's driving record for a conviction of a traffic violation:
+            
+236
+
+    
+    (A)  that occurred in another state; and
+            
+237
+
+    
+    (B)  that was committed on or after July 1, 2011.
+            
+238
+
+    
+    (iv)  The provisions of Subsection (4)(b)(iii) do not apply to:
+            
+239
+
+    
+    (A)  a reckless or impaired driving violation or a speeding violation for exceeding the
+            
+240
+
+    
+posted speed limit by 21 or more miles per hour; or
+            
+241
+
+    
+    (B)  an offense committed in another state which, if committed within Utah, would
+            
+242
+
+    
+result in the mandatory suspension or revocation of a license upon conviction under Section
+            
+243
+
+    
+
+53-3-220
+
+
+.
+            
+244
+
+    
+    (c)  Every person convicted of a traffic violation shall have assessed against the person's
+
+            
+245
+
+
+    
+driving record the number of points that the division has assigned to the type of violation of
+            
+246
+
+    
+which the person has been convicted, except that the number of points assessed shall be
+            
+247
+
+    
+decreased by 10% if on the abstract of the court record of the conviction the court has graded
+            
+248
+
+    
+the severity of violation as minimum, and shall be increased by 10% if on the abstract the court
+            
+249
+
+    
+has graded the severity of violation as maximum.
+            
+250
+
+    
+    (d) (i)  A separate procedure for assessing points for speeding offenses shall be
+            
+251
+
+    
+established by the division based upon the severity of the offense.
+            
+252
+
+    
+    (ii)  The severity of a speeding violation shall be graded as:
+            
+253
+
+    
+    (A)  "minimum" for exceeding the posted speed limit by up to 10 miles per hour;
+            
+254
+
+    
+    (B)  "intermediate" for exceeding the posted speed limit by from 11 to 20 miles per
+            
+255
+
+    
+hour; and
+            
+256
+
+    
+    (C)  "maximum" for exceeding the posted speed limit by 21 or more miles per hour.
+            
+257
+
+    
+    (iii)  Consideration shall be made for assessment of no points on minimum speeding
+            
+258
+
+    
+violations, except for speeding violations in school zones.
+            
+259
+
+    
+    (e) (i)  Points assessed against a person's driving record shall be deleted for violations
+            
+260
+
+    
+occurring before a time limit set by the division.
+            
+261
+
+    
+    (ii)  The time limit may not exceed three years.
+            
+262
+
+    
+    (iii)  The division may also delete points to reward violation-free driving for periods of
+            
+263
+
+    
+time set by the division.
+            
+264
+
+    
+    (f) (i)  By publication in two newspapers having general circulation throughout the
+            
+265
+
+    
+state, the division shall give notice of the number of points it has assigned to each type of
+            
+266
+
+    
+traffic violation, the time limit set by the division for the deletion of points, and the point level
+            
+267
+
+    
+at which the division will generally take action to deny or suspend under this section.
+            
+268
+
+    
+    (ii)  The division may not change any of the information provided above regarding
+            
+269
+
+    
+points without first giving new notice in the same manner.
+            
+270
+
+    
+    (5) (a) (i)  Upon denying or suspending the license of a person under this section, the
+            
+271
+
+    
+division shall immediately notify the licensee in a manner specified by the division and afford
+            
+272
+
+    
+him an opportunity for a hearing in the county where the licensee resides.
+            
+273
+
+    
+    (ii)  The hearing shall be documented, and the division or its authorized agent may
+            
+274
+
+    
+administer oaths, may issue subpoenas for the attendance of witnesses and the production of
+            
+275
+
+    
+relevant books and papers, and may require a reexamination of the licensee.
+
+            
+276
+
+
+    
+    (iii)  One or more members of the division may conduct the hearing, and any decision
+            
+277
+
+    
+made after a hearing before any number of the members of the division is as valid as if made
+            
+278
+
+    
+after a hearing before the full membership of the division.
+            
+279
+
+    
+    (iv)  After the hearing the division shall either rescind its order of denial or suspension,
+            
+280
+
+    
+extend the denial or suspension of the license, or revoke the license.
+            
+281
+
+    
+    (b)  The denial or suspension of the license remains in effect pending qualifications
+            
+282
+
+    
+determined by the division regarding a person:
+            
+283
+
+    
+    (i)  whose license has been denied or suspended following reexamination;
+            
+284
+
+    
+    (ii)  who is incompetent to drive a motor vehicle;
+            
+285
+
+    
+    (iii)  who is afflicted with mental or physical infirmities that might make him dangerous
+            
+286
+
+    
+on the highways; or
+            
+287
+
+    
+    (iv)  who may not have the necessary knowledge or skill to drive a motor vehicle safely.
+            
+288
+
+    
+    (6) (a)  Subject to Subsection (6)(d), the division shall suspend a person's license when
+            
+289
+
+    
+the division receives notice from the Office of Recovery Services that the Office of Recovery
+            
+290
+
+    
+Services has ordered the suspension of the person's license.
+            
+291
+
+    
+    (b)  A suspension under Subsection (6)(a) shall remain in effect until the division
+            
+292
+
+    
+receives notice from the Office of Recovery Services that the Office of Recovery Services has
+            
+293
+
+    
+rescinded the order of suspension.
+            
+294
+
+    
+    (c)  After an order of suspension is rescinded under Subsection (6)(b), a report
+            
+295
+
+    
+authorized by Section 
+
+53-3-104
+
+
+ may not contain any evidence of the suspension.
+            
+296
+
+    
+    (d) (i)  If the division suspends a person's license under this Subsection (6), the division
+            
+297
+
+    
+shall, upon application, issue a temporary limited driver license to the person if that person
+            
+298
+
+    
+needs a driver license for employment, education, or child visitation.
+            
+299
+
+    
+    (ii)  The temporary limited driver license described in this section:
+            
+300
+
+    
+    (A)  shall provide that the person may operate a motor vehicle only for the purpose of
+            
+301
+
+    
+driving to or from the person's place of employment, education, or child visitation;
+            
+302
+
+    
+    (B)  shall prohibit the person from driving a motor vehicle for any purpose other than a
+            
+303
+
+    
+purpose described in Subsection (6)(d)(ii)(A); and
+            
+304
+
+    
+    (C)  shall expire 90 days after the day on which the temporary limited driver license is
+            
+305
+
+    
+issued.
+            
+306
+
+    
+    (iii) (A)  During the period beginning on the day on which a temporary limited driver
+
+            
+307
+
+
+    
+license is issued under this Subsection (6), and ending on the day that the temporary limited
+            
+308
+
+    
+driver license expires, the suspension described in this Subsection (6) only applies if the person
+            
+309
+
+    
+who is suspended operates a motor vehicle for a purpose other than employment, education, or
+            
+310
+
+    
+child visitation.
+            
+311
+
+    
+    (B)  Upon expiration of a temporary limited driver license described in this Subsection
+            
+312
+
+    
+(6)(d):
+            
+313
+
+    
+    (I)  a suspension described in Subsection (6)(a) shall be in full effect until the division
+            
+314
+
+    
+receives notice, under Subsection (6)(b), that the order of suspension is rescinded; and
+            
+315
+
+    
+    (II)  a person suspended under Subsection (6)(a) may not drive a motor vehicle for any
+            
+316
+
+    
+reason.
+            
+317
+
+    
+    (iv)  The division is not required to issue a limited driver license to a person under this
+            
+318
+
+    
+Subsection (6)(d) if there are other legal grounds for the suspension of the person's driver
+            
+319
+
+    
+license.
+            
+320
+
+    
+    (v)  The division shall make rules, in accordance with Title 63G, Chapter 3, Utah
+            
+321
+
+    
+Administrative Rulemaking Act, to implement the provisions of this part.
+            
+322
+
+    
+    (7) (a)  The division may suspend or revoke the license of any resident of this state
+            
+323
+
+    
+upon receiving notice of the conviction of that person in another state of an offense committed
+            
+324
+
+    
+there that, if committed in this state, would be grounds for the suspension or revocation of a
+            
+325
+
+    
+license.
+            
+326
+
+    
+    (b)  The division may, upon receiving a record of the conviction in this state of a
+            
+327
+
+    
+nonresident driver of a motor vehicle or motorboat of any offense under the motor vehicle laws
+            
+328
+
+    
+of this state, forward a certified copy of the record to the motor vehicle administrator in the
+            
+329
+
+    
+state where the person convicted is a resident.
+            
+330
+
+    
+    (8) (a)  The division may suspend or revoke the license of any nonresident to drive a
+            
+331
+
+    
+motor vehicle in this state for any cause for which the license of a resident driver may be
+            
+332
+
+    
+suspended or revoked.
+            
+333
+
+    
+    (b)  Any nonresident who drives a motor vehicle upon a highway when the person's
+            
+334
+
+    
+license has been suspended or revoked by the division is guilty of a class C misdemeanor.
+            
+335
+
+    
+    (9) (a)  The division may not deny or suspend the license of any person for a period of
+            
+336
+
+    
+more than one year except:
+            
+337
+
+    
+    (i)  for failure to comply with the terms of a traffic citation under Subsection (2);
+
+            
+338
+
+
+    
+    (ii)  upon receipt of a second or subsequent order suspending juvenile driving privileges
+            
+339
+
+    
+under Section 
+
+53-3-219
+
+
+;
+            
+340
+
+    
+    (iii)  when extending a denial or suspension upon receiving certain records or reports
+            
+341
+
+    
+under Subsection 
+
+53-3-220
+
+
+(2);
+            
+342
+
+    
+    (iv)  for failure to give and maintain owner's or operator's security under Section
+            
+343
+
+    
+
+41-12a-411
+
+
+;
+            
+344
+
+    
+    (v)  when the division suspends the license under Subsection (6); or
+            
+345
+
+    
+    (vi)  when the division denies the license under Subsection (14).
+            
+346
+
+    
+    (b)  The division may suspend the license of a person under Subsection (2) until the
+            
+347
+
+    
+person shows satisfactory evidence of compliance with the terms of the traffic citation.
+            
+348
+
+    
+    (10) (a)  By following the emergency procedures in Title 63G, Chapter 4,
+            
+349
+
+    
+Administrative Procedures Act, the division may immediately suspend the license of any
+            
+350
+
+    
+person without hearing and without receiving a record of the person's conviction for a crime
+            
+351
+
+    
+when the division has reason to believe that the person's license was granted by the division
+            
+352
+
+    
+through error or fraud or that the necessary consent for the license has been withdrawn or is
+            
+353
+
+    
+terminated.
+            
+354
+
+    
+    (b)  The procedure upon suspension is the same as under Subsection (5), except that
+            
+355
+
+    
+after the hearing the division shall either rescind its order of suspension or cancel the license.
+            
+356
+
+    
+    (11) (a)  The division, having good cause to believe that a licensed driver is
+            
+357
+
+    
+incompetent or otherwise not qualified to be licensed, may upon notice in a manner specified
+            
+358
+
+    
+by the  division of at least five days to the licensee require him to submit to an examination.
+            
+359
+
+    
+    (b)  Upon the conclusion of the examination the division may suspend or revoke the
+            
+360
+
+    
+person's license, permit him to retain the license, or grant a license subject to a restriction
+            
+361
+
+    
+imposed in accordance with Section 
+
+53-3-208
+
+
+.
+            
+362
+
+    
+    (c)  Refusal or neglect of the licensee to submit to an examination is grounds for
+            
+363
+
+    
+suspension or revocation of the licensee's license.
+            
+364
+
+    
+    (12) (a)  Except as provided in Subsection (12)(b), a report authorized by Section
+            
+365
+
+    
+
+53-3-104
+
+
+ may not contain any evidence of a conviction for speeding on an interstate system in
+            
+366
+
+    
+this state if the conviction was for a speed of 10 miles per hour or less, above the posted speed
+            
+367
+
+    
+limit and did not result in an accident, unless authorized in a manner specified by the division
+            
+368
+
+    
+by the individual whose report is being requested.
+
+            
+369
+
+
+    
+    (b)  The provisions of Subsection (12)(a) do not apply for:
+            
+370
+
+    
+    (i)  a CDL license holder; or
+            
+371
+
+    
+    (ii)  a violation that occurred in a commercial motor vehicle.
+            
+372
+
+    
+    (13) (a)  By following the emergency procedures in Title 63G, Chapter 4,
+            
+373
+
+    
+Administrative Procedures Act, the division may immediately suspend the license of a person
+            
+374
+
+    
+if it has reason to believe that the person is the owner of a motor vehicle for which security is
+            
+375
+
+    
+required under Title 41, Chapter 12a, Financial Responsibility of Motor Vehicle Owners and
+            
+376
+
+    
+Operators Act, and has driven the motor vehicle or permitted it to be driven within this state
+            
+377
+
+    
+without the security being in effect.
+            
+378
+
+    
+    (b)  The division may immediately suspend a driving privilege card holder's driving
+            
+379
+
+    
+privilege card if the division receives notification from the Motor Vehicle Division that:
+            
+380
+
+    
+    (i)  the driving privilege card holder is the registered owner of a vehicle; and
+            
+381
+
+    
+    (ii)  the driving privilege card holder's vehicle registration has been revoked under
+            
+382
+
+    
+Subsection 
+
+41-1a-110
+
+
+(2)(a)(ii)(A).
+            
+383
+
+    
+    (c)  Section 
+
+41-12a-411
+
+
+ regarding the requirement of proof of owner's or operator's
+            
+384
+
+    
+security applies to persons whose driving privileges are suspended under this Subsection (13).
+            
+385
+
+    
+    (d)  If the division exercises the right of immediate suspension granted under this
+            
+386
+
+    
+Subsection (13), the notice and hearing provisions of Subsection (5) apply.
+            
+387
+
+    
+    (e)  A person whose license suspension has been sustained or whose license has been
+            
+388
+
+    
+revoked by the division under this Subsection (13) may file a request for agency action
+            
+389
+
+    
+requesting a hearing.
+            
+390
+
+    
+    (14)  The division may deny an individual's license if the person fails to comply with
+            
+391
+
+    
+the requirement to downgrade the person's CDL to a class D license under Section 
+
+53-3-410.1
+
+
+.
+            
+392
+
+    
+    (15)  The division may deny a person's class A, B, C, or D license if the person fails to
+            
+393
+
+    
+comply with the requirement to have a K restriction removed from the person's license.
+            
+394
+
+    
+    (16)  Any suspension or revocation of a person's license under this section also
+            
+395
+
+    
+disqualifies any license issued to that person under Part 4, Uniform Commercial Driver License
+            
+396
+
+    
+Act.
+            
+397
+
+    
+    Section 5.  
+Section  
+53-3-304
+
+ is amended to read:
+            
+398
+
+    
+     53-3-304.  Licensing of impaired persons -- Medical review -- Restricted license --
+            
+399
+
+    
+ Procedures.
+
+            
+400
+
+
+    
+    (1) (a)  If the division has reason to believe that an applicant for a license or a mobility
+            
+401
+
+    
+vehicle permit is an impaired person, the division may require one or both of the following:
+            
+402
+
+    
+    (i)  a physical examination of the applicant by a health care professional and the
+            
+403
+
+    
+submittal by the health care professional of a signed medical report indicating the results of the
+            
+404
+
+    
+physical examination;
+            
+405
+
+    
+    (ii)  a follow-up medical review of the applicant by a health care professional and
+            
+406
+
+    
+completion of a medical report at intervals established by the division under standards
+            
+407
+
+    
+recommended by the board.
+            
+408
+
+    
+    (b)  The format of the medical report required under Subsection (1)(a) shall be devised
+            
+409
+
+    
+by the division with the advice of the board and shall elicit the necessary medical information
+            
+410
+
+    
+to determine whether it would be a public safety hazard to permit the applicant to drive a motor
+            
+411
+
+    
+vehicle or mobility vehicle on the highways.
+            
+412
+
+    
+    (2) (a)  The division may grant a restricted license to an impaired person who is
+            
+413
+
+    
+otherwise qualified to obtain a license.
+            
+414
+
+    
+    (b)  The division may grant a restricted mobility vehicle permit to an impaired person
+            
+415
+
+    
+who is otherwise qualified to obtain a mobility vehicle permit.
+            
+416
+
+    
+    [(b)] (c)  The license or mobility vehicle permit continues in effect until its expiration
+            
+417
+
+    
+date so long as the licensee complies with the requirements set forth by the division.
+            
+418
+
+    
+    [(c)] (d)  The license or mobility vehicle permit renewal is subject to the conditions of
+            
+419
+
+    
+this section.
+            
+420
+
+    
+    [(d)] (e)  Any physical, mental, or emotional impairment of the applicant that in the
+            
+421
+
+    
+opinion of the division does not affect the applicant's ability to exercise reasonable and
+            
+422
+
+    
+ordinary control at all times in driving a motor vehicle upon the highway, does not prevent
+            
+423
+
+    
+granting a license or mobility vehicle permit to the applicant.
+            
+424
+
+    
+    (3) (a)  If an examination is required under this section, the division is not bound by the
+            
+425
+
+    
+recommendation of the examining health care professional but shall give fair consideration to
+            
+426
+
+    
+the recommendation in acting upon the application.  The criterion is whether upon all the
+            
+427
+
+    
+evidence it is safe to permit the applicant to drive a motor vehicle or mobility vehicle.
+            
+428
+
+    
+    (b)  In deciding whether to grant or deny a license or mobility vehicle permit, the
+            
+429
+
+    
+division may be guided by the opinion of experts in the fields of diagnosing and treating
+            
+430
+
+    
+mental, physical, or emotional disabilities and may take into consideration any other factors
+
+            
+431
+
+
+    
+that bear on the issue of public safety.
+            
+432
+
+    
+    (4)  Information provided under this section relating to physical, mental, or emotional
+            
+433
+
+    
+impairment is classified under Title 63G, Chapter 2, Government Records Access and
+            
+434
+
+    
+Management Act.
+            
+435
+
+    
+    Section 6.   Effective date.
+            
+436
+
+    
+    This bill takes effect on July 1, 2014.
+
+
+
+
+ Legislative Review Note
+    as of   2-12-14  4:50 PM
+
+ Office of Legislative Research and General Counsel
+[Bill Documents][Bills Directory]
+
+
+
+
+
+
+
+
+
+Who represents me?
+
+
+
+
+
+Remember my Legislators
+
+
+
+
+
+State Senate
+		350 North State, Suite 320
+		PO Box 145115
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1035
+		Fax: (801) 326-1475
+
+
+
+House of Representatives
+		350 North State, Suite 350
+		PO Box 145030
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1029
+		Fax: (801) 326-1544
+
+
+
+
+
+
+
+
+
+
+Home
+Mobile Site
+Site Map
+Calendar
+Code / Constitution
+House
+Senate
+
+Terms of Use/Privacy Policy
+
+ADA
+Utah.gov
+
+
+
+
+
+
+

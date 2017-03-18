@@ -1,0 +1,1141 @@
+Sponsors: []Modifications: (9)  IFC, Chapter 9, Section 903.2.8 Group R, is amended to add a third exception asfollows: "Exception: Group R-1 occupancies with fire areas not more than 2,000 square feet,containing no installed plumbing or heating, where no cooking occurs, and constructed of TypeI-A, I-B, or II-A construction."(10)(11)(12)(13)(14)(15)(16)(17)(18)(19)(20)(21)(22)(23)(24)(25)(26)(27)This bill takes effect on July 1, 2014.Full text:
+
+
+
+Utah State Legislature
+
+
+
+
+
+
+
+
+
+
+
+
+Legislators
+
+By Session (1896-Current)
+Alphabetical (Historical)
+Find by Address/Map
+More
+
+
+Bills
+
+Bills/Bill Requests
+Passed Bills
+2017 Bills
+
+Keyword Search
+Reading Calendars
+Tracking Service
+More
+
+
+Committees
+
+All Committees
+Appropriations
+Commissions
+
+Independent Legislative Ethics Commission
+Interim
+Standing
+Subcommittees
+Task Forces
+Bills In Committees
+
+
+Utah Code / Constitution
+
+
+Title/Chapter/Section
+Keyword Search 
+
+Utah Constitution
+Laws of Utah 1851-ongoing
+Utah Territorial Laws 
+More
+
+
+Senate
+
+Main Page 
+About The Senate 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Extraordinary Sessions 
+Reading Calendars 
+Past Floor Debates 
+Senate Journals 
+
+
+House
+
+Main Page
+About the House 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Reading Calendars 
+Past Floor Debates 
+Journals 
+Conflict of Interest Forms 
+
+
+Legislative Guide 
+
+Legislative Guide
+Civic Programs
+GRAMA (Records Requests)
+
+
+Publications
+
+Search Publications
+Appropriations
+Audits
+Bagels & Briefings
+Briefing Papers
+Digest of Legislation
+Legislative Drafting Manual
+
+Journals
+
+Interim Highlights
+
+Legislative Rules
+GRAMA (Records Requests)
+Public Email
+State Organization Charts
+YouTube Channel
+Requests for Proposals and Legal Notices
+More
+
+
+Legislative Histories
+
+Legislative History Resources
+How to Research
+Bill Drafting/Research Files (1990-Ongoing)
+
+Working Bills (1896-1989)
+Interim Committee Histories (1990-Ongoing) 
+Journals
+Past House Floor Debates
+Past Senate Floor Debates
+More
+
+
+Staff Offices
+
+All Legislative Offices
+Auditor General
+Fiscal Analyst
+Printing
+Research and General Counsel
+Staff Awards
+Job Opportunities
+More
+
+
+Links of Interest
+
+Utah Administrative Rules
+Courts
+Utah State Capitol
+State of Utah
+Federal Legislation
+More
+
+
+
+
+
+
+ 
+
+H.B. 245
+
+
+
+
+
+            
+1
+
+    
+ STATE FIRE CODE AMENDMENTS
+
+
+
+            
+2
+
+    
+2014 GENERAL SESSION
+
+            
+3
+
+    
+STATE OF UTAH
+
+            
+4
+
+    
+
+
+ Chief Sponsor:  James A. Dunnigan
+
+
+
+            
+5
+
+    
+
+
+
+Senate Sponsor:  
+
+
+
+
+
+
+____________
+
+
+
+
+
+            
+6
+
+    
+
+            
+7
+
+    
+ LONG TITLE
+            
+8
+
+    
+ General Description:
+            
+9
+
+    
+    This bill amends the State Construction and Fire Codes Act.
+            
+10
+
+    
+ Highlighted Provisions:
+            
+11
+
+    
+    This bill:
+            
+12
+
+    
+    .    adds an exception to the requirement that an automatic sprinkler system be installed
+            
+13
+
+    
+in certain fire areas.
+            
+14
+
+    
+ Money Appropriated in this Bill:
+            
+15
+
+    
+    None
+            
+16
+
+    
+ Other Special Clauses:
+            
+17
+
+    
+    This bill takes effect on July 1, 2014.
+            
+18
+
+    
+ Utah Code Sections Affected:
+            
+19
+
+    
+AMENDS:
+            
+20
+
+    
+     
+15A-5-204
+, as last amended by Laws of Utah 2013, Chapter 199
+            
+21
+
+    
+
+            
+22
+
+    
+Be it enacted by the Legislature of the state of Utah:
+            
+23
+
+    
+    Section 1.  
+Section  
+15A-5-204
+
+ is amended to read:
+            
+24
+
+    
+     15A-5-204.  Amendments and additions to IFC related to fire protection systems.
+            
+25
+
+    
+    For IFC, Fire Protection Systems:
+            
+26
+
+    
+    (1)  IFC, Chapter 9, Section 901.2, Construction Documents, is amended to add the
+            
+27
+
+    
+following at the end of the section: "The code official has the authority to request record
+
+            
+28
+
+
+    
+drawings ("as builts")  to verify any modifications to the previously approved construction
+            
+29
+
+    
+documents."
+            
+30
+
+    
+    (2)  IFC, Chapter 9, Section 901.4.6, Pump and Riser Room Size, is deleted and
+            
+31
+
+    
+replaced with the following: "Pump and Riser Room Size.  Fire pump and automatic sprinkler
+            
+32
+
+    
+system riser rooms shall be designed with adequate space for all installed equipment necessary
+            
+33
+
+    
+for the installation and to provide sufficient working space around the stationary equipment. 
+            
+34
+
+    
+Clearances around equipment shall be in accordance with manufacturer requirements and not
+            
+35
+
+    
+less than the following minimum elements:
+            
+36
+
+    
+    901.4.6.1  A minimum clear and unobstructed distance of 12 inches shall be provided
+            
+37
+
+    
+from the installed equipment to the elements of permanent construction.
+            
+38
+
+    
+    901.4.6.2  A minimum clear and unobstructed distance of 12 inches shall be provided
+            
+39
+
+    
+between all other installed equipment and appliances.
+            
+40
+
+    
+    901.4.6.3  A clear and unobstructed width of 36 inches shall be provided in front of all
+            
+41
+
+    
+installed equipment and appliances, to allow for inspection, service, repair or replacement
+            
+42
+
+    
+without removing such elements of permanent construction or disabling the function of a
+            
+43
+
+    
+required fire-resistance-rated assembly.
+            
+44
+
+    
+    901.4.6.4  Automatic sprinkler system riser rooms shall be provided with a clear and
+            
+45
+
+    
+unobstructed passageway to the riser room of not less than 36 inches, and openings into the
+            
+46
+
+    
+room shall be clear and unobstructed, with doors swinging in the outward direction from the
+            
+47
+
+    
+room and the opening providing a clear width of not less than 34 inches and a clear height of
+            
+48
+
+    
+the door opening shall not be less than 80 inches.
+            
+49
+
+    
+    901.4.6.5  Fire pump rooms shall be provided with a clear and unobstructed
+            
+50
+
+    
+passageway to the fire pump room of not less than 72 inches, and openings into the room shall
+            
+51
+
+    
+be clear, unobstructed and large enough to allow for the removal of the largest piece of
+            
+52
+
+    
+equipment, with doors swinging in the outward direction from the room and the opening
+            
+53
+
+    
+providing a clear width of not less than 68 inches and a clear height of the door opening shall
+            
+54
+
+    
+not be less than 80 inches."
+            
+55
+
+    
+    (3)  IFC, Chapter 9, Section 903.2.1.2, Group A-2, is amended to add the following
+            
+56
+
+    
+subsection: "4.  An automatic fire sprinkler system shall be provided throughout Group A-2
+            
+57
+
+    
+occupancies where indoor pyrotechnics are used."
+            
+58
+
+    
+    (4)  IFC, Chapter 9, Section 903.2.2, Ambulatory Health Care Facilities, is amended as
+
+            
+59
+
+
+    
+follows: On line two delete the words "all fire areas floor" and replace with the word
+            
+60
+
+    
+"buildings" and delete the last paragraph.
+            
+61
+
+    
+    (5)  IFC, Chapter 9, Section 903.2.4, Group F-1, Subsection 2, is deleted and rewritten
+            
+62
+
+    
+as follows: "A Group F-1 fire area is located more than three stories above the lowest level of
+            
+63
+
+    
+fire department vehicle access."
+            
+64
+
+    
+    (6)  IFC, Chapter 9, Section 903.2.7, Group M, Subsection 2, is deleted and rewritten as
+            
+65
+
+    
+follows: "A Group M fire area is located more than three stories above the lowest level of fire
+            
+66
+
+    
+department vehicle access."
+            
+67
+
+    
+    (7)  IFC, Chapter 9, Section 903.2.8 Group R, is amended to add the following:
+            
+68
+
+    
+"Exception: Detached one- and two-family dwellings and multiple single-family dwellings
+            
+69
+
+    
+(townhouses) constructed in accordance with the International Residential Code for one- and
+            
+70
+
+    
+two-family dwellings."
+            
+71
+
+    
+    (8)  IFC, Chapter 9, Section 903.2.8, Group R, is amended to add a second exception as
+            
+72
+
+    
+follows: "Exception: Group R-4 fire areas not more than 4,500 gross square feet and not
+            
+73
+
+    
+containing more than 16 residents, provided the building is equipped throughout with an
+            
+74
+
+    
+approved fire alarm system that is interconnected and receives its primary power from the
+            
+75
+
+    
+building wiring and a commercial power system."
+            
+76
+
+    
+    (9)  IFC, Chapter 9, Section 903.2.8 Group R, is amended to add a third exception as
+            
+77
+
+    
+follows: "Exception: Group R-1 occupancies with fire areas not more than 2,000 square feet,
+            
+78
+
+    
+containing no installed plumbing or heating, where no cooking occurs, and constructed of Type
+            
+79
+
+    
+I-A, I-B, or II-A construction."
+            
+80
+
+    
+    [(9)] (10)  IFC, Chapter 9, Section 903.2.9, Group S-1, Subsection 2, is deleted and
+            
+81
+
+    
+rewritten as follows: "A Group S-1 fire area is located more than three stories above the lowest
+            
+82
+
+    
+level of fire department vehicle access."
+            
+83
+
+    
+    [(10)] (11)  IFC, Chapter 9, Section 903.3.1.1 is amended by adding the following
+            
+84
+
+    
+subsection: "903.3.1.1.2 Antifreeze Limitations.  Antifreeze used in a new automatic sprinkler
+            
+85
+
+    
+system installed in accordance with NFPA 13 may not exceed a maximum concentration of
+            
+86
+
+    
+38% premixed propylene glycol or 48% premixed glycerin, and the capacity of the system may
+            
+87
+
+    
+not exceed 150 gallons."
+            
+88
+
+    
+    [(11)] (12)  IFC, Chapter 9, Section 903.3.1.2 is amended by adding the following
+            
+89
+
+    
+subsection: "903.3.1.2.2 Antifreeze Limitations.  Antifreeze used in a new automatic sprinkler
+
+            
+90
+
+
+    
+system installed in accordance with NFPA 13R may not exceed a maximum concentration of
+            
+91
+
+    
+38% premixed propylene glycol or 48% premixed glycerin, and the capacity of the system may
+            
+92
+
+    
+not exceed 150 gallons."
+            
+93
+
+    
+    [(12)] (13)  IFC, Chapter 9, Section 903.3.1.3 is amended by adding the following
+            
+94
+
+    
+subsection: "903.3.1.3.1 Antifreeze Limitations.  Antifreeze used in a new automatic sprinkler
+            
+95
+
+    
+system installed in accordance with NFPA 13D may not exceed a maximum concentration of
+            
+96
+
+    
+38% premixed propylene glycol or 48% premixed glycerin, and the capacity of the system may
+            
+97
+
+    
+not exceed 150 gallons."
+            
+98
+
+    
+    [(13)] (14)  IFC, Chapter 9, Section 903.3.5, Water supplies, is amended as follows: On
+            
+99
+
+    
+line six, after the word "Code", add "and as amended in Utah's State Construction Code".
+            
+100
+
+    
+    [(14)] (15)  IFC, Chapter 9, Section 903.5 is amended to add the following subsection:
+            
+101
+
+    
+"903.5.1 Tag and Information.  A tag shall be attached to the riser indicating the date the
+            
+102
+
+    
+antifreeze solution was tested.  The tag shall also indicate the type and concentration of
+            
+103
+
+    
+antifreeze solution by volume with which the system is filled, the name of the contractor that
+            
+104
+
+    
+tested the antifreeze solution, the contractor's license number, and a warning to test the
+            
+105
+
+    
+concentration of the antifreeze solutions at yearly intervals."
+            
+106
+
+    
+    [(15)] (16)  IFC, Chapter 9, Section 904.11, Commercial cooking systems, is deleted
+            
+107
+
+    
+and rewritten as follows: "The automatic fire extinguishing system for commercial cooking
+            
+108
+
+    
+systems shall be of a type recognized for protection of commercial cooking equipment and
+            
+109
+
+    
+exhaust systems.  Pre-engineered automatic extinguishing systems shall be tested in accordance
+            
+110
+
+    
+with UL300 and listed and labeled for the intended application.  The system shall be installed
+            
+111
+
+    
+in accordance with this code, its listing and the manufacturer's installation instructions.  The
+            
+112
+
+    
+exception in Section 904.11 is not deleted and shall remain as currently written in the IFC."
+            
+113
+
+    
+    [(16)] (17)  IFC, Chapter 9, Section 904.11.3, Carbon dioxide systems, and Section
+            
+114
+
+    
+904.11.3.1, Ventilation system, are deleted and rewritten as follows:
+            
+115
+
+    
+    (a)  "Existing automatic fire extinguishing systems used for commercial cooking that
+            
+116
+
+    
+use dry chemical are prohibited and shall be removed from service."
+            
+117
+
+    
+    (b)  "Existing wet chemical fire extinguishing systems used for commercial cooking
+            
+118
+
+    
+that are not UL300 listed and labeled are prohibited and shall be either removed or upgraded to
+            
+119
+
+    
+a UL300 listed and labeled system."
+            
+120
+
+    
+    [(17)] (18)  IFC, Chapter 9, Section 904.11.4, Special provisions for automatic sprinkler
+
+            
+121
+
+
+    
+systems, is amended to add the following subsection: "904.11.4.2 Existing automatic fire
+            
+122
+
+    
+sprinkler systems protecting commercial cooking equipment, hood, and exhaust systems that
+            
+123
+
+    
+generate appreciable depth of cooking oils shall be replaced with a UL300 system that is listed
+            
+124
+
+    
+and labeled for the intended application."
+            
+125
+
+    
+    [(18)] (19)  IFC, Chapter 9, Section 904.11.6.2, Extinguishing system service, is
+            
+126
+
+    
+amended to add the following: "Exception: Automatic fire extinguishing systems located in
+            
+127
+
+    
+occupancies where usage is limited and less than six consecutive months may be serviced
+            
+128
+
+    
+annually if the annual service is conducted immediately before the period of usage, and
+            
+129
+
+    
+approval is received from the AHJ."
+            
+130
+
+    
+    [(19)] (20)  IFC, Chapter 9, Section 905.3.9 is a new subsection as follows: "Open
+            
+131
+
+    
+Parking Garages.  Open parking garages shall be equipped with an approved Class I manual
+            
+132
+
+    
+standpipe system when fire department access is not provided for firefighting operations to
+            
+133
+
+    
+within 150 feet of all portions of the open parking garage as measured from the approved fire
+            
+134
+
+    
+department vehicle access.  Class I manual standpipe shall be accessible throughout the parking
+            
+135
+
+    
+garage such that all portions of the parking structure are protected within 150 feet of a hose
+            
+136
+
+    
+connection.
+            
+137
+
+    
+    Exception: Open parking garages equipped throughout with an automatic sprinkler
+            
+138
+
+    
+system in accordance with Section 903.3.1.1."
+            
+139
+
+    
+    [(20)] (21)  IFC, Chapter 9, Section 905.8, Dry Standpipes, Exception is deleted and
+            
+140
+
+    
+rewritten as follows: "Where subject to freezing conditions and approved by the fire code
+            
+141
+
+    
+official."
+            
+142
+
+    
+    [(21)] (22)  IFC, Chapter 9, Section 905.11, Existing buildings, and IFC, Chapter 11,
+            
+143
+
+    
+Section 1103.6, Standpipes, are deleted.
+            
+144
+
+    
+    [(22)] (23)  In IFC, Chapter 9, Section 906.1, Where Required, the exception under
+            
+145
+
+    
+paragraph 1 is deleted and rewritten to read: "Exception: In new and existing Group A, B, and
+            
+146
+
+    
+E occupancies equipped with quick response sprinklers, portable fire extinguishers shall be
+            
+147
+
+    
+required only in locations specified in items 2 through 6.
+            
+148
+
+    
+    [(23)] (24)  IFC, Chapter 9, Section 907.2.3 Group E:
+            
+149
+
+    
+    (a)  The first sentence is deleted and rewritten as follows: "A manual fire alarm system
+            
+150
+
+    
+that initiates the occupant notification system in accordance with Section 907.5 and installed in
+            
+151
+
+    
+accordance with Section 907.6 shall be installed in Group E occupancies."
+
+            
+152
+
+
+    
+    (b)  Exception number 3, on line five, delete the words, "emergency voice/alarm
+            
+153
+
+    
+communication system" and replace with "occupant notification system."
+            
+154
+
+    
+    [(24)] (25)  IFC, Chapter 9, 907.8, Inspection, testing, and maintenance, is amended to
+            
+155
+
+    
+add the following sentences at the end of the section: "Increases in nuisance alarms shall
+            
+156
+
+    
+require the fire alarm system to be tested for sensitivity.  Fire alarm systems that continue after
+            
+157
+
+    
+sensitivity testing with unwarranted nuisance alarms shall be replaced as directed by the AHJ."
+            
+158
+
+    
+    [(25)] (26)  IFC, Chapter 9, Section 908.7, Carbon Monoxide Alarms, is deleted and
+            
+159
+
+    
+rewritten as follows: "Carbon monoxide alarms shall be installed on each habitable level of a
+            
+160
+
+    
+dwelling unit or sleeping unit in Groups R-1, R-2, R-3, R-4, I-1, and I-4 equipped with fuel
+            
+161
+
+    
+burning appliances.
+            
+162
+
+    
+    908.7.1 If more than one carbon monoxide detector is required, they shall be
+            
+163
+
+    
+interconnected as required in IFC, Chapter 9, Section 907.2.11.3.
+            
+164
+
+    
+    908.7.2 In new construction, a carbon monoxide detector shall receive its primary
+            
+165
+
+    
+power as required under IFC, Chapter 9, Section 907.2.11.4.
+            
+166
+
+    
+    908.7.3 Upon completion of the installation, the carbon monoxide detector system will
+            
+167
+
+    
+meet the requirements listed in NFPA 720, Installation of Carbon Monoxide Detection and
+            
+168
+
+    
+Warning Equipment and UL2034, Standard for Single and Multiple Carbon Monoxide Alarms.
+            
+169
+
+    
+    [(26)] (27)  IFC Section 908.7.1 is renumbered to 908.7.4.
+            
+170
+
+    
+    Section 2.   Effective date.
+            
+171
+
+    
+    This bill takes effect on July 1, 2014.
+
+
+
+
+ Legislative Review Note
+    as of  12-12-13  1:47 PM
+
+ Office of Legislative Research and General Counsel
+[Bill Documents][Bills Directory]
+
+
+
+
+
+
+
+
+
+Who represents me?
+
+
+
+
+
+Remember my Legislators
+
+
+
+
+
+State Senate
+		350 North State, Suite 320
+		PO Box 145115
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1035
+		Fax: (801) 326-1475
+
+
+
+House of Representatives
+		350 North State, Suite 350
+		PO Box 145030
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1029
+		Fax: (801) 326-1544
+
+
+
+
+
+
+
+
+
+
+Home
+Mobile Site
+Site Map
+Calendar
+Code / Constitution
+House
+Senate
+
+Terms of Use/Privacy Policy
+
+ADA
+Utah.gov
+
+
+
+
+
+
+

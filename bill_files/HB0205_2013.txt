@@ -1,0 +1,652 @@
+Sponsors: []Modifications:     11-50-101.This chapter is known as "Contingency Plans."    11-50-102.As used in this chapter:(1)  "Federal receipts" means the federal financial assistance, as defined in 31 U.S.C.Sec. 7501, that is reported as part of a single audit.(2)  "Political subdivision" means:(a)  a county, as defined in Section 
+
+17-50-101
+
+;(b)  a municipality, as defined in Section 
+
+10-1-104
+
+;(c)  a local district, as defined in Section 
+
+17B-1-102
+
+;(d)  a special service district, as defined in Section 
+
+17D-1-102
+
+;(e)  an interlocal entity, as defined in Section 
+
+11-13-103
+
+;(f)  a community development and renewal agency created under Title 17C, LimitedPurpose Local Government Entities - Community Development and Renewal Agencies Act;(g)  a local building authority, as defined in Section 
+
+17D-2-102
+
+; or(h)  a conservation district, as defined in Section 
+
+17D-3-102
+
+.(3)  "Single audit" has the same meaning as defined in 31 U.S.C. Sec. 7501.    11-50-103.A political subdivision that, during a fiscal year of the political subdivision, receivesfederal funds or federal receipts that comprise 10% or more of the political subdivision's annualbudget shall, before the beginning of the next fiscal year:(1)  develop a contingency plan explaining how the political subdivision will operate inthe event that the total amount of federal funds and federal receipts that it receives are reducedby 5% or more, but by less than 25%, in the next fiscal year;(2)  develop a contingency plan explaining how the political subdivision will operate inthe event that the total amount of federal funds and federal receipts that it receives are reducedby 25% or more in the next fiscal year;(3)  submit a copy of the contingency plan to the state auditor; and(4)  publish the contingency plan on the political subdivision's website, if the politicalsubdivision maintains a website.Full text:
+
+
+
+Utah State Legislature
+
+
+
+
+
+
+
+
+
+
+
+
+Legislators
+
+By Session (1896-Current)
+Alphabetical (Historical)
+Find by Address/Map
+More
+
+
+Bills
+
+Bills/Bill Requests
+Passed Bills
+2017 Bills
+
+Keyword Search
+Reading Calendars
+Tracking Service
+More
+
+
+Committees
+
+All Committees
+Appropriations
+Commissions
+
+Independent Legislative Ethics Commission
+Interim
+Standing
+Subcommittees
+Task Forces
+Bills In Committees
+
+
+Utah Code / Constitution
+
+
+Title/Chapter/Section
+Keyword Search 
+
+Utah Constitution
+Laws of Utah 1851-ongoing
+Utah Territorial Laws 
+More
+
+
+Senate
+
+Main Page 
+About The Senate 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Extraordinary Sessions 
+Reading Calendars 
+Past Floor Debates 
+Senate Journals 
+
+
+House
+
+Main Page
+About the House 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Reading Calendars 
+Past Floor Debates 
+Journals 
+Conflict of Interest Forms 
+
+
+Legislative Guide 
+
+Legislative Guide
+Civic Programs
+GRAMA (Records Requests)
+
+
+Publications
+
+Search Publications
+Appropriations
+Audits
+Bagels & Briefings
+Briefing Papers
+Digest of Legislation
+Legislative Drafting Manual
+
+Journals
+
+Interim Highlights
+
+Legislative Rules
+GRAMA (Records Requests)
+Public Email
+State Organization Charts
+YouTube Channel
+Requests for Proposals and Legal Notices
+More
+
+
+Legislative Histories
+
+Legislative History Resources
+How to Research
+Bill Drafting/Research Files (1990-Ongoing)
+
+Working Bills (1896-1989)
+Interim Committee Histories (1990-Ongoing) 
+Journals
+Past House Floor Debates
+Past Senate Floor Debates
+More
+
+
+Staff Offices
+
+All Legislative Offices
+Auditor General
+Fiscal Analyst
+Printing
+Research and General Counsel
+Staff Awards
+Job Opportunities
+More
+
+
+Links of Interest
+
+Utah Administrative Rules
+Courts
+Utah State Capitol
+State of Utah
+Federal Legislation
+More
+
+
+
+
+
+
+ 
+
+Download Zipped Introduced WordPerfect HB0205.ZIP
+[Status][Bill Documents][Fiscal Note][Bills Directory]
+
+
+H.B. 205
+
+
+
+
+
+            
+1
+
+    
+ CONTINGENCY PLANS FOR POLITICAL SUBDIVISIONS
+
+
+
+            
+2
+
+    
+2013 GENERAL SESSION
+
+            
+3
+
+    
+STATE OF UTAH
+
+            
+4
+
+    
+
+
+ Chief Sponsor:  Ken Ivory
+
+
+
+            
+5
+
+    
+
+
+
+Senate Sponsor: 
+
+
+
+
+
+
+  Deidre M. Henderson
+
+
+
+
+
+            
+6
+
+    
+
+            
+7
+
+    
+ LONG TITLE
+            
+8
+
+    
+ General Description:
+            
+9
+
+    
+    This bill enacts provisions relating to political subdivisions' contingency plans in the
+            
+10
+
+    
+event of a reduction of federal funds.
+            
+11
+
+    
+ Highlighted Provisions:
+            
+12
+
+    
+    This bill:
+            
+13
+
+    
+    .    requires a political subdivision that receives federal funds comprising 10% or more
+            
+14
+
+    
+of the political subdivision's annual budget to develop and publish a contingency
+            
+15
+
+    
+plan describing how the political subdivision will operate in the event that the
+            
+16
+
+    
+federal funds it receives are reduced.
+            
+17
+
+    
+ Money Appropriated in this Bill:
+            
+18
+
+    
+    None
+            
+19
+
+    
+ Other Special Clauses:
+            
+20
+
+    
+    None
+            
+21
+
+    
+ Utah Code Sections Affected:
+            
+22
+
+    
+ENACTS:
+            
+23
+
+    
+     11-50-101, Utah Code Annotated 1953
+            
+24
+
+    
+     11-50-102, Utah Code Annotated 1953
+            
+25
+
+    
+     11-50-103, Utah Code Annotated 1953
+            
+26
+
+    
+
+            
+27
+
+    
+Be it enacted by the Legislature of the state of Utah:
+
+            
+28
+
+
+    
+    Section 1.  
+Section  
+11-50-101
+
+ is enacted to read:
+            
+29
+
+    
+ CHAPTER 50.  CONTINGENCY PLANS
+
+            
+30
+
+    
+     11-50-101.  Title.
+            
+31
+
+    
+    This chapter is known as "Contingency Plans."
+            
+32
+
+    
+    Section 2.  
+Section  
+11-50-102
+
+ is enacted to read:
+            
+33
+
+    
+     11-50-102.  Definitions.
+            
+34
+
+    
+    As used in this chapter:
+            
+35
+
+    
+    (1)  "Federal receipts" means the federal financial assistance, as defined in 31 U.S.C.
+            
+36
+
+    
+Sec. 7501, that is reported as part of a single audit.
+            
+37
+
+    
+    (2)  "Political subdivision" means:
+            
+38
+
+    
+    (a)  a county, as defined in Section 
+
+17-50-101
+
+;
+            
+39
+
+    
+    (b)  a municipality, as defined in Section 
+
+10-1-104
+
+;
+            
+40
+
+    
+    (c)  a local district, as defined in Section 
+
+17B-1-102
+
+;
+            
+41
+
+    
+    (d)  a special service district, as defined in Section 
+
+17D-1-102
+
+;
+            
+42
+
+    
+    (e)  an interlocal entity, as defined in Section 
+
+11-13-103
+
+;
+            
+43
+
+    
+    (f)  a community development and renewal agency created under Title 17C, Limited
+            
+44
+
+    
+Purpose Local Government Entities - Community Development and Renewal Agencies Act;
+            
+45
+
+    
+    (g)  a local building authority, as defined in Section 
+
+17D-2-102
+
+; or
+            
+46
+
+    
+    (h)  a conservation district, as defined in Section 
+
+17D-3-102
+
+.
+            
+47
+
+    
+    (3)  "Single audit" has the same meaning as defined in 31 U.S.C. Sec. 7501.
+            
+48
+
+    
+    Section 3.  
+Section  
+11-50-103
+
+ is enacted to read:
+            
+49
+
+    
+     11-50-103.  Developing and publishing a contingency plan.
+            
+50
+
+    
+    A political subdivision that, during a fiscal year of the political subdivision, receives
+            
+51
+
+    
+federal funds or federal receipts that comprise 10% or more of the political subdivision's annual
+            
+52
+
+    
+budget shall, before the beginning of the next fiscal year:
+            
+53
+
+    
+    (1)  develop a contingency plan explaining how the political subdivision will operate in
+            
+54
+
+    
+the event that the total amount of federal funds and federal receipts that it receives are reduced
+            
+55
+
+    
+by 5% or more, but by less than 25%, in the next fiscal year;
+            
+56
+
+    
+    (2)  develop a contingency plan explaining how the political subdivision will operate in
+            
+57
+
+    
+the event that the total amount of federal funds and federal receipts that it receives are reduced
+            
+58
+
+    
+by 25% or more in the next fiscal year;
+
+            
+59
+
+
+    
+    (3)  submit a copy of the contingency plan to the state auditor; and
+            
+60
+
+    
+    (4)  publish the contingency plan on the political subdivision's website, if the political
+            
+61
+
+    
+subdivision maintains a website.
+
+
+
+
+ Legislative Review Note
+    as of  11-20-12  7:05 AM
+
+ Office of Legislative Research and General Counsel
+[Bill Documents][Bills Directory]
+
+
+
+
+
+
+
+
+
+Who represents me?
+
+
+
+
+
+Remember my Legislators
+
+
+
+
+
+State Senate
+		350 North State, Suite 320
+		PO Box 145115
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1035
+		Fax: (801) 326-1475
+
+
+
+House of Representatives
+		350 North State, Suite 350
+		PO Box 145030
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1029
+		Fax: (801) 326-1544
+
+
+
+
+
+
+
+
+
+
+Home
+Mobile Site
+Site Map
+Calendar
+Code / Constitution
+House
+Senate
+
+Terms of Use/Privacy Policy
+
+ADA
+Utah.gov
+
+
+
+
+
+
+

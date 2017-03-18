@@ -1,0 +1,1318 @@
+Sponsors: []Modifications: ,, and secureFull text:
+
+
+
+Utah State Legislature
+
+
+
+
+
+
+
+
+
+
+
+
+Legislators
+
+By Session (1896-Current)
+Alphabetical (Historical)
+Find by Address/Map
+More
+
+
+Bills
+
+Bills/Bill Requests
+Passed Bills
+2017 Bills
+
+Keyword Search
+Reading Calendars
+Tracking Service
+More
+
+
+Committees
+
+All Committees
+Appropriations
+Commissions
+
+Independent Legislative Ethics Commission
+Interim
+Standing
+Subcommittees
+Task Forces
+Bills In Committees
+
+
+Utah Code / Constitution
+
+
+Title/Chapter/Section
+Keyword Search 
+
+Utah Constitution
+Laws of Utah 1851-ongoing
+Utah Territorial Laws 
+More
+
+
+Senate
+
+Main Page 
+About The Senate 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Extraordinary Sessions 
+Reading Calendars 
+Past Floor Debates 
+Senate Journals 
+
+
+House
+
+Main Page
+About the House 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Reading Calendars 
+Past Floor Debates 
+Journals 
+Conflict of Interest Forms 
+
+
+Legislative Guide 
+
+Legislative Guide
+Civic Programs
+GRAMA (Records Requests)
+
+
+Publications
+
+Search Publications
+Appropriations
+Audits
+Bagels & Briefings
+Briefing Papers
+Digest of Legislation
+Legislative Drafting Manual
+
+Journals
+
+Interim Highlights
+
+Legislative Rules
+GRAMA (Records Requests)
+Public Email
+State Organization Charts
+YouTube Channel
+Requests for Proposals and Legal Notices
+More
+
+
+Legislative Histories
+
+Legislative History Resources
+How to Research
+Bill Drafting/Research Files (1990-Ongoing)
+
+Working Bills (1896-1989)
+Interim Committee Histories (1990-Ongoing) 
+Journals
+Past House Floor Debates
+Past Senate Floor Debates
+More
+
+
+Staff Offices
+
+All Legislative Offices
+Auditor General
+Fiscal Analyst
+Printing
+Research and General Counsel
+Staff Awards
+Job Opportunities
+More
+
+
+Links of Interest
+
+Utah Administrative Rules
+Courts
+Utah State Capitol
+State of Utah
+Federal Legislation
+More
+
+
+
+
+
+
+ 
+
+Download Zipped Introduced WordPerfect HB0369.ZIP
+[Status][Bill Documents][Fiscal Note][Bills Directory]
+
+
+H.B. 369
+
+
+
+
+
+            
+1
+
+    
+ STATE AUDITOR REVISIONS
+
+
+
+            
+2
+
+    
+2013 GENERAL SESSION
+
+            
+3
+
+    
+STATE OF UTAH
+
+            
+4
+
+    
+
+
+ Chief Sponsor:  Craig Hall
+
+
+
+            
+5
+
+    
+
+
+
+Senate Sponsor: 
+
+
+
+
+
+
+  Wayne A. Harper
+
+
+
+
+
+            
+6
+
+    
+
+            
+7
+
+    
+ LONG TITLE
+            
+8
+
+    
+ General Description:
+            
+9
+
+    
+    This bill amends provisions related to the state auditor's authority to conduct a
+            
+10
+
+    
+performance and special purpose audit.
+            
+11
+
+    
+ Highlighted Provisions:
+            
+12
+
+    
+    This bill:
+            
+13
+
+    
+    .    authorizes the state auditor to conduct a performance and special purpose audit to
+            
+14
+
+    
+determine whether an entity's management, control, and information systems are
+            
+15
+
+    
+adequate, effective, and secure; and
+            
+16
+
+    
+    .    makes technical corrections.
+            
+17
+
+    
+ Money Appropriated in this Bill:
+            
+18
+
+    
+    None
+            
+19
+
+    
+ Other Special Clauses:
+            
+20
+
+    
+    None
+            
+21
+
+    
+ Utah Code Sections Affected:
+            
+22
+
+    
+AMENDS:
+            
+23
+
+    
+     67-3-1, as last amended by Laws of Utah 2012, Chapter 137
+            
+24
+
+    
+
+            
+25
+
+    
+Be it enacted by the Legislature of the state of Utah:
+            
+26
+
+    
+    Section 1.  
+Section  
+67-3-1
+
+ is amended to read:
+            
+27
+
+    
+     67-3-1.  Functions and duties.
+
+            
+28
+
+
+    
+    (1) (a)  The state auditor is the auditor of public accounts and is independent of any
+            
+29
+
+    
+executive or administrative officers of the state.
+            
+30
+
+    
+    (b)  The state auditor is not limited in the selection of personnel or in the determination
+            
+31
+
+    
+of the reasonable and necessary expenses of the state auditor's office.
+            
+32
+
+    
+    (2)  The state auditor shall examine and certify annually in respect to each fiscal year,
+            
+33
+
+    
+financial statements showing:
+            
+34
+
+    
+    (a)  the condition of the state's finances;
+            
+35
+
+    
+    (b)  the revenues received or accrued;
+            
+36
+
+    
+    (c)  expenditures paid or accrued;
+            
+37
+
+    
+    (d)  the amount of unexpended or unencumbered balances of the appropriations to the
+            
+38
+
+    
+agencies, departments, divisions, commissions, and institutions; and
+            
+39
+
+    
+    (e)  the cash balances of the funds in the custody of the state treasurer.
+            
+40
+
+    
+    (3) (a)  The state auditor shall:
+            
+41
+
+    
+    (i)  audit each permanent fund, each special fund, the General Fund, and the accounts of
+            
+42
+
+    
+any department of state government or any independent agency or public corporation as the law
+            
+43
+
+    
+requires, as the auditor determines is necessary, or upon request of the governor or the
+            
+44
+
+    
+Legislature;
+            
+45
+
+    
+    (ii)  perform the audits in accordance with generally accepted auditing standards and
+            
+46
+
+    
+other auditing procedures as promulgated by recognized authoritative bodies;
+            
+47
+
+    
+    (iii)  as the auditor determines is necessary, conduct the audits to determine:
+            
+48
+
+    
+    (A)  honesty and integrity in fiscal affairs;
+            
+49
+
+    
+    (B)  accuracy and reliability of financial statements;
+            
+50
+
+    
+    (C)  effectiveness and adequacy of financial controls; and
+            
+51
+
+    
+    (D)  compliance with the law.
+            
+52
+
+    
+    (b)  If any state entity receives federal funding, the state auditor shall ensure that the
+            
+53
+
+    
+audit is performed in accordance with federal audit requirements.
+            
+54
+
+    
+    (c) (i)  The costs of the federal compliance portion of the audit may be paid from an
+            
+55
+
+    
+appropriation to the state auditor from the General Fund.
+            
+56
+
+    
+    (ii)  If an appropriation is not provided, or if the federal government does not
+            
+57
+
+    
+specifically provide for payment of audit costs, the costs of the federal compliance portions of
+            
+58
+
+    
+the audit shall be allocated on the basis of the percentage that each state entity's federal funding
+
+            
+59
+
+
+    
+bears to the total federal funds received by the state.
+            
+60
+
+    
+    (iii)  The allocation shall be adjusted to reflect any reduced audit time required to audit
+            
+61
+
+    
+funds passed through the state to local governments and to reflect any reduction in audit time
+            
+62
+
+    
+obtained through the use of internal auditors working under the direction of the state auditor.
+            
+63
+
+    
+    (4) (a)  Except as provided in Subsection (4)(b), the state auditor shall, in addition to
+            
+64
+
+    
+financial audits, and as the auditor determines is necessary, conduct performance and special
+            
+65
+
+    
+purpose audits, examinations, and reviews of any entity that receives public funds, including a
+            
+66
+
+    
+determination of any or all of the following:
+            
+67
+
+    
+    (i)  the honesty and integrity of all its fiscal affairs;
+            
+68
+
+    
+    (ii)  whether or not its administrators have faithfully complied with legislative intent;
+            
+69
+
+    
+    (iii)  whether or not its operations have been conducted in an efficient, effective, and
+            
+70
+
+    
+cost-efficient manner;
+            
+71
+
+    
+    (iv)  whether or not its programs have been effective in accomplishing the intended
+            
+72
+
+    
+objectives; and
+            
+73
+
+    
+    (v)  whether or not its management, control, and information systems are adequate
+            
+74
+
+    
+[and], effective, and secure.
+            
+75
+
+    
+    (b)  The auditor may not conduct performance and special purpose audits,
+            
+76
+
+    
+examinations, and reviews of any entity that receives public funds if the entity:
+            
+77
+
+    
+    (i)  has an elected auditor; and
+            
+78
+
+    
+    (ii)  has, within the entity's last budget year, had its financial statements or performance
+            
+79
+
+    
+formally reviewed by another outside auditor.
+            
+80
+
+    
+    (5)  The state auditor shall administer any oath or affirmation necessary to the
+            
+81
+
+    
+performance of the duties of the auditor's office, and may subpoena witnesses and documents,
+            
+82
+
+    
+whether electronic or otherwise, and examine into any matter that the auditor considers
+            
+83
+
+    
+necessary.
+            
+84
+
+    
+    (6)  The state auditor may require all persons who have had the disposition or
+            
+85
+
+    
+management of any property of this state or its political subdivisions to submit statements
+            
+86
+
+    
+regarding it at the time and in the form that the auditor requires.
+            
+87
+
+    
+    (7)  The state auditor shall:
+            
+88
+
+    
+    (a)  except where otherwise provided by law, institute suits in Salt Lake County in
+            
+89
+
+    
+relation to the assessment, collection, and payment of its revenues against:
+
+            
+90
+
+
+    
+    (i)  persons who by any means have become entrusted with public money or property
+            
+91
+
+    
+and have failed to pay over or deliver the money or property; and
+            
+92
+
+    
+    (ii)  all debtors of the state;
+            
+93
+
+    
+    (b)  collect and pay into the state treasury all fees received by the state auditor;
+            
+94
+
+    
+    (c)  perform the duties of a member of all boards of which the state auditor is a member
+            
+95
+
+    
+by the constitution or laws of the state, and any other duties that are prescribed by the
+            
+96
+
+    
+constitution and by law;
+            
+97
+
+    
+    (d)  stop the payment of the salary of any state official or state employee who:
+            
+98
+
+    
+    (i)  refuses to settle accounts or provide required statements about the custody and
+            
+99
+
+    
+disposition of public funds or other state property;
+            
+100
+
+    
+    (ii)  refuses, neglects, or ignores the instruction of the state auditor or any controlling
+            
+101
+
+    
+board or department head with respect to the manner of keeping prescribed accounts or funds;
+            
+102
+
+    
+or
+            
+103
+
+    
+    (iii)  fails to correct any delinquencies, improper procedures, and errors brought to the
+            
+104
+
+    
+official's or employee's attention;
+            
+105
+
+    
+    (e)  establish accounting systems, methods, and forms for public accounts in all taxing
+            
+106
+
+    
+or fee-assessing units of the state in the interest of uniformity, efficiency, and economy;
+            
+107
+
+    
+    (f)  superintend the contractual auditing of all state accounts;
+            
+108
+
+    
+    (g)  subject to Subsection (8), withhold state allocated funds or the disbursement of
+            
+109
+
+    
+property taxes from any state taxing or fee-assessing unit, if necessary, to ensure that officials
+            
+110
+
+    
+and employees in those taxing units of the state comply with state laws and procedures in the
+            
+111
+
+    
+budgeting, expenditures, and financial reporting of public funds; and
+            
+112
+
+    
+    (h)  subject to Subsection (9), withhold the disbursement of tax money from any county,
+            
+113
+
+    
+if necessary, to ensure that officials and employees in the county comply with Section
+            
+114
+
+    
+
+59-2-303.1
+
+.
+            
+115
+
+    
+    (8)  Except as otherwise provided by law, the state auditor may not withhold funds
+            
+116
+
+    
+under Subsection (7)(g) until a taxing or fee-assessing unit has received formal written notice
+            
+117
+
+    
+of noncompliance from the auditor and has been given 60 days to make the specified
+            
+118
+
+    
+corrections.
+            
+119
+
+    
+    (9)  The state auditor may not withhold funds under Subsection (7)(h) until a county has
+            
+120
+
+    
+received formal written notice of noncompliance from the auditor and has been given 60 days
+
+            
+121
+
+
+    
+to make the specified corrections.
+            
+122
+
+    
+    (10)  The state auditor shall:
+            
+123
+
+    
+    (a)  establish audit guidelines and procedures for audits of local mental health and
+            
+124
+
+    
+substance abuse authorities and their contract providers, conducted pursuant to Title 17,
+            
+125
+
+    
+Chapter 43, Parts 2, Local Substance Abuse Authorities and 3, Local Mental Health
+            
+126
+
+    
+Authorities, Title 51, Chapter 2a, Accounting Reports from Political Subdivisions, Interlocal
+            
+127
+
+    
+Organizations, and Other Local Entities Act, and Title 62A, Chapter 15, Substance Abuse and
+            
+128
+
+    
+Mental Health Act; and
+            
+129
+
+    
+    (b)  ensure that those guidelines and procedures provide assurances to the state that:
+            
+130
+
+    
+    (i)  state and federal funds appropriated to local mental health authorities are used for
+            
+131
+
+    
+mental health purposes;
+            
+132
+
+    
+    (ii)  a private provider under an annual or otherwise ongoing contract to provide
+            
+133
+
+    
+comprehensive mental health programs or services for a local mental health authority is in
+            
+134
+
+    
+compliance with state and local contract requirements, and state and federal law;
+            
+135
+
+    
+    (iii)  state and federal funds appropriated to local substance abuse authorities are used
+            
+136
+
+    
+for substance abuse programs and services; and
+            
+137
+
+    
+    (iv)  a private provider under an annual or otherwise ongoing contract to provide
+            
+138
+
+    
+comprehensive substance abuse programs or services for a local substance abuse authority is in
+            
+139
+
+    
+compliance with state and local contract requirements, and state and federal law.
+            
+140
+
+    
+    (11)  The state auditor may, in accordance with the auditor's responsibilities for political
+            
+141
+
+    
+subdivisions of the state as provided in Title 51, Chapter 2a, Accounting Reports from Political
+            
+142
+
+    
+Subdivisions, Interlocal Organizations, and Other Local Entities Act, initiate audits or
+            
+143
+
+    
+investigations of any political subdivision that are necessary to determine honesty and integrity
+            
+144
+
+    
+in fiscal affairs, accuracy and reliability of financial statements, effectiveness, and adequacy of
+            
+145
+
+    
+financial controls and compliance with the law.
+            
+146
+
+    
+    (12) (a)  The state auditor may not audit work that the state auditor performed before
+            
+147
+
+    
+becoming state auditor.
+            
+148
+
+    
+    (b)  If the state auditor has previously been a responsible official in state government
+            
+149
+
+    
+whose work has not yet been audited, the Legislature shall:
+            
+150
+
+    
+    (i)  designate how that work shall be audited; and
+            
+151
+
+    
+    (ii)  provide additional funding for those audits, if necessary.
+
+            
+152
+
+
+    
+    (13)  The state auditor shall:
+            
+153
+
+    
+    (a)  with the assistance, advice, and recommendations of an advisory committee
+            
+154
+
+    
+appointed by the state auditor from among local district boards of trustees, officers, and
+            
+155
+
+    
+employees and special service district boards, officers, and employees:
+            
+156
+
+    
+    (i)  prepare a Uniform Accounting Manual for Local Districts that:
+            
+157
+
+    
+    (A)  prescribes a uniform system of accounting and uniform budgeting and reporting
+            
+158
+
+    
+procedures for local districts under Title 17B, Limited Purpose Local Government Entities -
+            
+159
+
+    
+Local Districts, and special service districts under Title 17D, Chapter 1, Special Service
+            
+160
+
+    
+District Act;
+            
+161
+
+    
+    (B)  conforms with generally accepted accounting principles; and
+            
+162
+
+    
+    (C)  prescribes reasonable exceptions and modifications for smaller districts to the
+            
+163
+
+    
+uniform system of accounting, budgeting, and reporting;
+            
+164
+
+    
+    (ii)  maintain the manual under Subsection (13)(a) so that it continues to reflect
+            
+165
+
+    
+generally accepted accounting principles;
+            
+166
+
+    
+    (iii)  conduct a continuing review and modification of procedures in order to improve
+            
+167
+
+    
+them;
+            
+168
+
+    
+    (iv)  prepare and supply each district with suitable budget and reporting forms; and
+            
+169
+
+    
+    (v)  prepare instructional materials, conduct training programs, and render other
+            
+170
+
+    
+services considered necessary to assist local districts and special service districts in
+            
+171
+
+    
+implementing the uniform accounting, budgeting, and reporting procedures; and
+            
+172
+
+    
+    (b)  continually analyze and evaluate the accounting, budgeting, and reporting practices
+            
+173
+
+    
+and experiences of specific local districts and special service districts selected by the state
+            
+174
+
+    
+auditor and make the information available to all districts.
+            
+175
+
+    
+    (14) (a)  The following records in the custody or control of the state auditor are
+            
+176
+
+    
+protected records under Title 63G, Chapter 2, Government Records Access and Management
+            
+177
+
+    
+Act:
+            
+178
+
+    
+    (i)  records that would disclose information relating to allegations of personal
+            
+179
+
+    
+misconduct, gross mismanagement, or illegal activity of a past or present governmental
+            
+180
+
+    
+employee if the information or allegation cannot be corroborated by the state auditor through
+            
+181
+
+    
+other documents or evidence, and the records relating to the allegation are not relied upon by
+            
+182
+
+    
+the state auditor in preparing a final audit report;
+
+            
+183
+
+
+    
+    (ii)  records and audit workpapers to the extent they would disclose the identity of a
+            
+184
+
+    
+person who during the course of an audit, communicated the existence of any waste of public
+            
+185
+
+    
+funds, property, or manpower, or a violation or suspected violation of a law, rule, or regulation
+            
+186
+
+    
+adopted under the laws of this state, a political subdivision of the state, or any recognized entity
+            
+187
+
+    
+of the United States, if the information was disclosed on the condition that the identity of the
+            
+188
+
+    
+person be protected;
+            
+189
+
+    
+    (iii)  before an audit is completed and the final audit report is released, records or drafts
+            
+190
+
+    
+circulated to a person who is not an employee or head of a governmental entity for their
+            
+191
+
+    
+response or information;
+            
+192
+
+    
+    (iv)  records that would disclose an outline or part of any audit survey plans or audit
+            
+193
+
+    
+program; and
+            
+194
+
+    
+    (v)  requests for audits, if disclosure would risk circumvention of an audit.
+            
+195
+
+    
+    (b)  The provisions of Subsections (14)(a)(i), (ii), and (iii) do not prohibit the disclosure
+            
+196
+
+    
+of records or information that relate to a violation of the law by a governmental entity or
+            
+197
+
+    
+employee to a government prosecutor or peace officer.
+            
+198
+
+    
+    (c)  The provisions of this Subsection (14) do not limit the authority otherwise given to
+            
+199
+
+    
+the state auditor to classify a document as public, private, controlled, or protected under Title
+            
+200
+
+    
+63G, Chapter 2, Government Records Access and Management Act.
+            
+201
+
+    
+    (15)  If the state auditor conducts an audit of an entity that the state auditor has
+            
+202
+
+    
+previously audited and finds that the entity has not implemented a recommendation made by
+            
+203
+
+    
+the state auditor in a previous audit, the state auditor shall notify the Legislative Management
+            
+204
+
+    
+Committee through its audit subcommittee that the entity has not implemented that
+            
+205
+
+    
+recommendation.
+
+
+
+
+ Legislative Review Note
+    as of   2-22-13  1:26 PM
+
+ Office of Legislative Research and General Counsel
+[Bill Documents][Bills Directory]
+
+
+
+
+
+
+
+
+
+Who represents me?
+
+
+
+
+
+Remember my Legislators
+
+
+
+
+
+State Senate
+		350 North State, Suite 320
+		PO Box 145115
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1035
+		Fax: (801) 326-1475
+
+
+
+House of Representatives
+		350 North State, Suite 350
+		PO Box 145030
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1029
+		Fax: (801) 326-1544
+
+
+
+
+
+
+
+
+
+
+Home
+Mobile Site
+Site Map
+Calendar
+Code / Constitution
+House
+Senate
+
+Terms of Use/Privacy Policy
+
+ADA
+Utah.gov
+
+
+
+
+
+
+

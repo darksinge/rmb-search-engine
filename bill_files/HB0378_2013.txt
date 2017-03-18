@@ -1,0 +1,1226 @@
+Sponsors: []Modifications: or within the countyorwithin the county(9)  The counter may not count any ballot proposition vote or candidate vote for whichthe voter is not "legally entitled to vote" as used in Section 
+
+20A-4-107
+
+.(10)(11)(12)was from the person's county of residence and includes one or morecandidates or ballot propositions on:(i);(ii):(A); or(B)  if the ballot is from the person's county of residence, for at least one ballotproposition or candidate on the ballot that the person voted.in the county or for any of the ballot propositions orcandidates onin the county and for at least one of the ballot propositions orcandidates onfor the person'scounty of residence(i)if the voter's county of residence is within the county; or(ii)  forward the voter registration form to the election officer of the person's county ofresidence, which election officer shall register the person.Full text:
+
+
+
+Utah State Legislature
+
+
+
+
+
+
+
+
+
+
+
+
+Legislators
+
+By Session (1896-Current)
+Alphabetical (Historical)
+Find by Address/Map
+More
+
+
+Bills
+
+Bills/Bill Requests
+Passed Bills
+2017 Bills
+
+Keyword Search
+Reading Calendars
+Tracking Service
+More
+
+
+Committees
+
+All Committees
+Appropriations
+Commissions
+
+Independent Legislative Ethics Commission
+Interim
+Standing
+Subcommittees
+Task Forces
+Bills In Committees
+
+
+Utah Code / Constitution
+
+
+Title/Chapter/Section
+Keyword Search 
+
+Utah Constitution
+Laws of Utah 1851-ongoing
+Utah Territorial Laws 
+More
+
+
+Senate
+
+Main Page 
+About The Senate 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Extraordinary Sessions 
+Reading Calendars 
+Past Floor Debates 
+Senate Journals 
+
+
+House
+
+Main Page
+About the House 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Reading Calendars 
+Past Floor Debates 
+Journals 
+Conflict of Interest Forms 
+
+
+Legislative Guide 
+
+Legislative Guide
+Civic Programs
+GRAMA (Records Requests)
+
+
+Publications
+
+Search Publications
+Appropriations
+Audits
+Bagels & Briefings
+Briefing Papers
+Digest of Legislation
+Legislative Drafting Manual
+
+Journals
+
+Interim Highlights
+
+Legislative Rules
+GRAMA (Records Requests)
+Public Email
+State Organization Charts
+YouTube Channel
+Requests for Proposals and Legal Notices
+More
+
+
+Legislative Histories
+
+Legislative History Resources
+How to Research
+Bill Drafting/Research Files (1990-Ongoing)
+
+Working Bills (1896-1989)
+Interim Committee Histories (1990-Ongoing) 
+Journals
+Past House Floor Debates
+Past Senate Floor Debates
+More
+
+
+Staff Offices
+
+All Legislative Offices
+Auditor General
+Fiscal Analyst
+Printing
+Research and General Counsel
+Staff Awards
+Job Opportunities
+More
+
+
+Links of Interest
+
+Utah Administrative Rules
+Courts
+Utah State Capitol
+State of Utah
+Federal Legislation
+More
+
+
+
+
+
+
+ 
+
+Download Zipped Introduced WordPerfect HB0378.ZIP
+[Status][Bill Documents][Fiscal Note][Bills Directory]
+
+
+H.B. 378
+
+
+
+
+
+            
+1
+
+    
+ ELECTION REVISIONS
+
+
+
+            
+2
+
+    
+2013 GENERAL SESSION
+
+            
+3
+
+    
+STATE OF UTAH
+
+            
+4
+
+    
+
+
+ Chief Sponsor: Craig Hall
+
+
+
+            
+5
+
+    
+
+
+
+Senate Sponsor: 
+
+
+
+
+
+
+____________
+
+
+
+
+
+            
+6
+
+    
+
+            
+7
+
+    
+ LONG TITLE
+            
+8
+
+    
+ General Description:
+            
+9
+
+    
+    This bill modifies the Election Code by amending provisional ballot provisions.
+            
+10
+
+    
+ Highlighted Provisions:
+            
+11
+
+    
+    This bill:
+            
+12
+
+    
+    .    amends provisions for a poll worker to provide a provisional ballot to a voter who
+            
+13
+
+    
+may not live in the voting precinct but is a resident of the county;
+            
+14
+
+    
+    .    amends standards for counting votes on a ballot to provide for a voter using a ballot
+            
+15
+
+    
+that is prepared for a different voting precinct;
+            
+16
+
+    
+    .    amends provisions that determine when a provisional ballot cast outside of the
+            
+17
+
+    
+person's precinct of residence is counted by removing the provision that the
+            
+18
+
+    
+provisional ballot is counted only if the entire ballot is identical to the person's
+            
+19
+
+    
+precinct of residence and changing the provision to require that the ballot is from
+            
+20
+
+    
+the person's county of residence and that specific votes on a provisional ballot that
+            
+21
+
+    
+are for candidate races or ballot propositions for which the voter is entitled to vote
+            
+22
+
+    
+are counted;
+            
+23
+
+    
+    .    amends provisions allowing a voter to have a provisional ballot used as a voter
+            
+24
+
+    
+registration form in the voter's county of residence; and
+            
+25
+
+    
+    .    makes technical changes.
+            
+26
+
+    
+ Money Appropriated in this Bill:
+            
+27
+
+    
+    None
+
+            
+28
+
+
+    
+ Other Special Clauses:
+            
+29
+
+    
+    None
+            
+30
+
+    
+ Utah Code Sections Affected:
+            
+31
+
+    
+AMENDS:
+            
+32
+
+    
+     20A-3-105.5, as last amended by Laws of Utah 2010, Chapter 83
+            
+33
+
+    
+     20A-4-105, as last amended by Laws of Utah 1999, Chapter 56
+            
+34
+
+    
+     20A-4-107, as last amended by Laws of Utah 2011, Chapters 291, 335 and last
+            
+35
+
+    
+amended by Coordination Clause, Laws of Utah 2011, Chapter 291
+            
+36
+
+    
+
+            
+37
+
+    
+Be it enacted by the Legislature of the state of Utah:
+            
+38
+
+    
+    Section 1.  
+Section  
+20A-3-105.5
+
+ is amended to read:
+            
+39
+
+    
+     20A-3-105.5.  Manner of voting -- Provisional ballot.
+            
+40
+
+    
+    (1)  The poll workers shall follow the procedures and requirements of this section
+            
+41
+
+    
+when:
+            
+42
+
+    
+    (a)  the person's right to vote is challenged as provided in Section 
+
+20A-3-202
+
+ or
+            
+43
+
+    
+
+20A-3-202.5
+
+;
+            
+44
+
+    
+    (b)  the person's name is not found on the official register; or
+            
+45
+
+    
+    (c)  the poll worker is not satisfied that the voter has provided valid voter identification.
+            
+46
+
+    
+    (2)  When faced with one of the circumstances outlined in Subsection (1)(a) or (b), the
+            
+47
+
+    
+poll worker shall:
+            
+48
+
+    
+    (a)  request that the person provide valid voter identification; and
+            
+49
+
+    
+    (b)  review the identification provided by the person.
+            
+50
+
+    
+    (3)  If the poll worker is satisfied that the person has provided valid voter identification
+            
+51
+
+    
+that establishes the person's identity and residence in the voting precinct or within the county:
+            
+52
+
+    
+    (a)  the poll worker in charge of the official register shall:
+            
+53
+
+    
+    (i)  record in the official register the type of identification that established the person's
+            
+54
+
+    
+identity and place of residence;
+            
+55
+
+    
+    (ii)  write the provisional ballot envelope number opposite the name of the voter in the
+            
+56
+
+    
+official register; and
+            
+57
+
+    
+    (iii)  direct the voter to sign his name in the election column in the official register;
+            
+58
+
+    
+    (b)  another poll worker shall list the ballot number and voter's name in the pollbook;
+
+            
+59
+
+
+    
+and
+            
+60
+
+    
+    (c)  the poll worker having charge of the ballots shall:
+            
+61
+
+    
+    (i)  endorse his initials on the stub;
+            
+62
+
+    
+    (ii)  check the name of the voter on the pollbook list with the number of the stub;
+            
+63
+
+    
+    (iii)  give the voter a ballot and a provisional ballot envelope; and
+            
+64
+
+    
+    (iv)  allow the voter to enter the voting booth.
+            
+65
+
+    
+    (4)  If the poll worker is not satisfied that the voter has provided valid voter
+            
+66
+
+    
+identification that establishes the person's identity and residence in the voting precinct or
+            
+67
+
+    
+within the county:
+            
+68
+
+    
+    (a)  the poll worker in charge of the official register shall:
+            
+69
+
+    
+    (i)  record in the official register that the voter did not provide valid voter identification;
+            
+70
+
+    
+    (ii)  record in the official register the type of identification that was provided by the
+            
+71
+
+    
+voter, if any;
+            
+72
+
+    
+    (iii)  write the provisional ballot envelope number opposite the name of the voter in the
+            
+73
+
+    
+official register; and
+            
+74
+
+    
+    (iv)  direct the voter to sign his name in the election column in the official register;
+            
+75
+
+    
+    (b)  another poll worker shall list the ballot number and voter's name in the pollbook;
+            
+76
+
+    
+and
+            
+77
+
+    
+    (c)  the poll worker having charge of the ballots shall:
+            
+78
+
+    
+    (i)  endorse his initials on the stub;
+            
+79
+
+    
+    (ii)  check the name of the voter on the pollbook list with the number of the stub;
+            
+80
+
+    
+    (iii)  give the voter a ballot and a provisional ballot envelope; and
+            
+81
+
+    
+    (iv)  allow the voter to enter the voting booth.
+            
+82
+
+    
+    (5)  Whenever the election officer is required to furnish more than one kind of official
+            
+83
+
+    
+ballot to a voting precinct, the poll workers of that voting precinct shall give the registered
+            
+84
+
+    
+voter the kind of ballot that the voter is qualified to vote.
+            
+85
+
+    
+    Section 2.  
+Section  
+20A-4-105
+
+ is amended to read:
+            
+86
+
+    
+     20A-4-105.  Standards and requirements for evaluating voter's ballot choices.
+            
+87
+
+    
+    (1)  Each person counting ballots shall apply the standards and requirements of this
+            
+88
+
+    
+section to resolve any questions that arise as ballots are counted.
+            
+89
+
+    
+    (2) Except as provided in Subsection (11), if a voter marks more names than there are
+
+            
+90
+
+
+    
+persons to be elected to an office, or if for any reason it is impossible to determine the choice
+            
+91
+
+    
+of any voter for any office to be filled, the counter may not count that voter's ballot for that
+            
+92
+
+    
+office.
+            
+93
+
+    
+    (3)  The counter shall count a defective or incomplete mark on any paper ballot if:
+            
+94
+
+    
+    (a)  it is in the proper place; and
+            
+95
+
+    
+    (b)  there is no other mark or cross on the paper ballot indicating the voter's intent to
+            
+96
+
+    
+vote other than as indicated by the defective mark.
+            
+97
+
+    
+    (4) (a)  When the voter has marked the ballot so that it appears that the voter has voted
+            
+98
+
+    
+more than one straight ticket, the election judges may not count any votes for party candidates.
+            
+99
+
+    
+    (b)  The election judges shall count the remainder of the ballot if it is voted correctly.
+            
+100
+
+    
+    (5)  A counter may not reject a ballot marked by the voter because of marks on the
+            
+101
+
+    
+ballot other than those marks allowed by this section unless the extraneous marks on a ballot or
+            
+102
+
+    
+group of ballots show an intent by a person or group to mark their ballots so that their ballots
+            
+103
+
+    
+can be identified.
+            
+104
+
+    
+    (6) (a)  In counting the ballots, the counters shall give full consideration to the intent of
+            
+105
+
+    
+the voter.
+            
+106
+
+    
+    (b)  The counters may not invalidate a ballot because of mechanical and technical
+            
+107
+
+    
+defects in voting or failure on the part of the voter to follow strictly the rules for balloting
+            
+108
+
+    
+required by Chapter 3.
+            
+109
+
+    
+    (7)  The counters may not reject a ballot because of any error in:
+            
+110
+
+    
+    (a)  stamping or writing any official endorsement; or
+            
+111
+
+    
+    (b)  delivering the wrong ballots to any polling place.
+            
+112
+
+    
+    (8)  The counter may not count any paper ballot that does not have the official
+            
+113
+
+    
+endorsement by an election officer.
+            
+114
+
+    
+    (9)  The counter may not count any ballot proposition vote or candidate vote for which
+            
+115
+
+    
+the voter is not "legally entitled to vote" as used in Section 
+
+20A-4-107
+
+.
+            
+116
+
+    
+    [(9)] (10)  If the counter discovers that the name of a candidate voted for is misspelled
+            
+117
+
+    
+or that the initial letters of a candidate's given name are transposed or omitted in part or
+            
+118
+
+    
+altogether, the counter shall count the voter's vote for that candidate if it is apparent that the
+            
+119
+
+    
+voter intended to vote for that candidate.
+            
+120
+
+    
+    [(10)] (11)  The counter shall count a vote for the president and the vice president of
+
+            
+121
+
+
+    
+any political party as a vote for the presidential electors selected by the political party.
+            
+122
+
+    
+    [(11)] (12)  In counting the valid write-in votes, if, by casting a valid write-in vote, a
+            
+123
+
+    
+voter has cast more votes for an office than that voter is entitled to vote for that office, the
+            
+124
+
+    
+judges shall count the valid write-in vote as being the obvious intent of the voter.
+            
+125
+
+    
+    Section 3.  
+Section  
+20A-4-107
+
+ is amended to read:
+            
+126
+
+    
+     20A-4-107.  Review and disposition of provisional ballot envelopes.
+            
+127
+
+    
+    (1)  As used in this section, a person is "legally entitled to vote" if:
+            
+128
+
+    
+    (a)  the person:
+            
+129
+
+    
+    (i)  is registered to vote in the state;
+            
+130
+
+    
+    (ii)  votes the ballot for the voting precinct in which the person resides; and
+            
+131
+
+    
+    (iii)  provided valid voter identification to the poll worker;
+            
+132
+
+    
+    (b)  the person:
+            
+133
+
+    
+    (i)  is registered to vote in the state;
+            
+134
+
+    
+    (ii) (A)  provided valid voter identification to the poll worker; or
+            
+135
+
+    
+    (B)  either failed to provide valid voter identification or the documents provided as
+            
+136
+
+    
+valid voter identification were inadequate and the poll worker recorded that fact in the official
+            
+137
+
+    
+register but the county clerk verifies the person's identity and residence through some other
+            
+138
+
+    
+means; and
+            
+139
+
+    
+    (iii)  did not vote in the person's precinct of residence, but the ballot that the person
+            
+140
+
+    
+voted [is identical to] was from the person's county of residence and includes one or more
+            
+141
+
+    
+candidates or ballot propositions on the ballot voted in the person's precinct of residence; or
+            
+142
+
+    
+    (c)  the person:
+            
+143
+
+    
+    (i)  is registered to vote in the state;
+            
+144
+
+    
+    (ii)  either failed to provide valid voter identification or the documents provided as
+            
+145
+
+    
+valid voter identification were inadequate and the poll worker recorded that fact in the official
+            
+146
+
+    
+register; and
+            
+147
+
+    
+    (iii) (A)  the county clerk verifies the person's identity and residence through some other
+            
+148
+
+    
+means as reliable as photo identification; or
+            
+149
+
+    
+    (B)  the person provides valid voter identification to the county clerk or an election
+            
+150
+
+    
+officer who is administering the election by the close of normal office hours on Monday after
+            
+151
+
+    
+the date of the election.
+
+            
+152
+
+
+    
+    (2) (a)  Upon receipt of provisional ballot envelopes, the election officer shall review
+            
+153
+
+    
+the affirmation on the face of each provisional ballot envelope and determine if the person
+            
+154
+
+    
+signing the affirmation is:
+            
+155
+
+    
+    (i)  registered to vote in this state; and
+            
+156
+
+    
+    (ii)  legally entitled to vote:
+            
+157
+
+    
+    (A)  the ballot that the person voted[.]; or
+            
+158
+
+    
+    (B)  if the ballot is from the person's county of residence, for at least one ballot
+            
+159
+
+    
+proposition or candidate on the ballot that the person voted.
+            
+160
+
+    
+    (b)  If the election officer determines that the person is not registered to vote in this
+            
+161
+
+    
+state or is not legally entitled to vote in the county or for any of the ballot propositions or
+            
+162
+
+    
+candidates on the ballot that the person voted, the election officer shall retain the ballot
+            
+163
+
+    
+envelope, unopened, for the period specified in Section 
+
+20A-4-202
+
+ unless ordered by a court to
+            
+164
+
+    
+produce or count it.
+            
+165
+
+    
+    (c)  If the election officer determines that the person is registered to vote in this state
+            
+166
+
+    
+and is legally entitled to vote in the county and for at least one of the ballot propositions or
+            
+167
+
+    
+candidates on the ballot that the person voted, the election officer shall remove the ballot from
+            
+168
+
+    
+the provisional ballot envelope and place the ballot with the absentee ballots to be counted with
+            
+169
+
+    
+those ballots at the canvass.
+            
+170
+
+    
+    (d)  The election officer may not count, or allow to be counted a provisional ballot
+            
+171
+
+    
+unless the person's identity and residence is established by a preponderance of the evidence.
+            
+172
+
+    
+    (3)  If the election officer determines that the person is registered to vote in this state,
+            
+173
+
+    
+the election officer shall ensure that the voter registration records are updated to reflect the
+            
+174
+
+    
+information provided on the provisional ballot envelope.
+            
+175
+
+    
+    (4)  If the election officer determines that the person is not registered to vote in this
+            
+176
+
+    
+state and the information on the provisional ballot envelope is complete, the election officer
+            
+177
+
+    
+shall:
+            
+178
+
+    
+    (a)  consider the provisional ballot envelope a voter registration form for the person's
+            
+179
+
+    
+county of residence; and
+            
+180
+
+    
+    (b) (i)  register the person[.] if the voter's county of residence is within the county; or
+            
+181
+
+    
+    (ii)  forward the voter registration form to the election officer of the person's county of
+            
+182
+
+    
+residence, which election officer shall register the person.
+
+
+
+
+
+ Legislative Review Note
+    as of   2-26-13  6:00 PM
+
+ Office of Legislative Research and General Counsel
+[Bill Documents][Bills Directory]
+
+
+
+
+
+
+
+
+
+Who represents me?
+
+
+
+
+
+Remember my Legislators
+
+
+
+
+
+State Senate
+		350 North State, Suite 320
+		PO Box 145115
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1035
+		Fax: (801) 326-1475
+
+
+
+House of Representatives
+		350 North State, Suite 350
+		PO Box 145030
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1029
+		Fax: (801) 326-1544
+
+
+
+
+
+
+
+
+
+
+Home
+Mobile Site
+Site Map
+Calendar
+Code / Constitution
+House
+Senate
+
+Terms of Use/Privacy Policy
+
+ADA
+Utah.gov
+
+
+
+
+
+
+

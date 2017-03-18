@@ -1,0 +1,8370 @@
+Sponsors: []Modifications: (a)report to the Legislature in accordance with Section
+
+63M-1-2505.5
+
+ prior to adopting a rule authorized by Subsection (5)(b).(b)  The commissioner shallthe provisions of PPACA and administrative rules adopted by thecommissionerhealth;(xii)  rating restrictions;(xiii)  uniform applications and notice provisions; and(xiv)  certification and regulation of qualified health plans.(c)  The commissioner shall preserve state control over:(i)  the health insurance market in the state;(ii)  qualified health plans offered in the state; and(iii)  the conduct of navigators, producers, and in-person assisters operating in the state.    31A-23a-208.A producer or agency licensed under this chapter, with a line of authority that permitsthe producer or agency to sell, negotiate, or solicit accident and health insurance, is authorizedto sell, negotiate, or solicit qualified health plans offered on an exchange that is:(1)  operated in the state; and(2) (a)  certified by the United States Department of Health and Human Services as astate-based exchange under PPACA; or(b)  a federally facilitated exchange under PPACA.(d)  Subject to Section 
+
+31A-23a-402.5
+
+, a producer for the insured may receivecompensation from an insured through an insurer, for the negotiation and sale of a healthbenefit plan, if there is a separate written agreement between the insured and the licensee forthe compensation.  An insurer who passes through the compensation from the insured to thelicensee under this Subsection (3)(d) is not providing direct or indirect compensation orcommission compensation to the licensee.    31A-23b-101.This chapter is known as the "Navigator License Act."    31A-23b-102.As used in this chapter:(1)  "Compensation" is as defined in:(a)  Subsections 
+
+31A-23a-501
+
+(1)(a), (b), and (d); and(b)  PPACA.(2)  "Enroll" and "enrollment" mean to:(a) (i)  obtain personally identifiable information about an individual; and(ii)  inform an individual about accident and health insurance plans or public programsoffered on an exchange;(b)  solicit insurance; or(c)  submit to the exchange:(i)  personally identifiable information about an individual; and(ii)  an individual's selection of a particular accident and health insurance plan or publicprogram offered on the exchange.(3) (a)  "Exchange" means an online marketplace:(i)  for an individual to purchase a qualified health plan; and(ii)  that is certified by the United States Department of Health and Human Services aseither a state-based exchange or a federally facilitated exchange under PPACA.(b) (i)  "Exchange" does not include:(A)  an online marketplace for the purchase of health insurance if the onlinemarketplace is not a certified exchange under PPACA; or(B)  except as provided in Subsection (3)(b)(ii), an online marketplace for smallemployers that is certified as a PPACA compliant SHOP exchange.(ii)  For purposes of this chapter, exchange does include a small employer SHOPexchange described under Subsection (3)(b)(i)(B) if:(A)  federal regulations under PPACA require a small employer exchange to allownavigators to assist small employers and their employees with selection of qualified healthplans on a small employer exchange; and(B)  the state has not entered into an agreement with the United States Department ofHealth and Human Services that permits the state to limit the scope of practice of navigators toonly the individual PPACA exchange.(4)  "Navigator":(a)  means a person who facilitates enrollment in an exchange by offering to assist, orwho advertises any services to assist, with:(i)  the selection of and enrollment in a qualified health plan or a public programoffered on an exchange; or(ii)  applying for premium subsidies through an exchange; and(b)  includes a person who is an in-person assister or an application assister as describedin:(i)  federal regulations or guidance issued under PPACA; and(ii)  the state exchange blueprint published by the Center for Consumer Information andInsurance Oversight within the Centers for Medicare and Medicaid Services in the UnitedStates Department of Health and Human Services.(5)  "Personally identifiable information" is as defined in 45 C.F.R. Sec. 155.260.(6)  "Public programs" means the state Medicaid program in Title 26, Chapter 18,Medical Assistance Act, and Chapter 40, Utah Children's Health Insurance Act.(7)  "Solicit" is as defined in Section 
+
+31A-23a-102
+
+.    31A-23b-201.(1) (a)  Except as provided in Section 
+
+31A-23b-211
+
+, a person may not perform, offer toperform, or advertise any service as a navigator in the state, without:(i)  a valid navigator license issued under this chapter; or(ii)  a valid producer license under Subsection 
+
+31A-23a-106
+
+(2)(a) with a line ofauthority that permits the person to sell, negotiate, or solicit accident and health insurance.(b)  A person may not utilize the services of another as a navigator if that person knowsor should know that the other person does not have a license as required by law.(2)  An insurance contract is not invalid as a result of a violation of this section.    31A-23b-202.(1) (a)  The commissioner shall issue or renew a license to a person to act as a navigatorif the person:(i)  satisfies the:(A)  application requirements under Section 
+
+31A-23b-203
+
+;(B)  character requirements under Section 
+
+31A-23b-204
+
+;(C)  examination and training requirements under Section 
+
+31A-23b-205
+
+; and(D)  continuing education requirements under Section 
+
+31A-23b-206
+
+;(ii)  certifies that, to the extent applicable, the applicant:(A)  is in compliance with the surety bond requirements of Section 
+
+31A-23b-207
+
+; and(B)  will maintain compliance with Section 
+
+31A-23b-207
+
+ during the period for whichthe license is issued or renewed; and(iii)  has not committed an act that is a ground for denial, suspension, or revocation asprovided in Section 
+
+31A-23b-401
+
+.(b)  A license issued under this chapter is valid for two years.(2) (a)  A person shall report to the commissioner:(i)  an administrative action taken against the person, including a denial of a new orrenewal license application:(A)  in another jurisdiction; or(B)  by another regulatory agency in this state; and(ii)  a criminal prosecution taken against the person in any jurisdiction.(b)  The report required by Subsection (2)(a) shall be filed:(i)  at the time the person files the application for an individual or agency license; and(ii)  for an action or prosecution that occurs on or after the day on which the person filesthe application:(A)  for an administrative action, within 30 days of the final disposition of theadministrative action; or(B)  for a criminal prosecution, within 30 days of the initial appearance before a court.(c)  The report required by Subsection (2)(a) shall include a copy of the complaint orother relevant legal documents related to the action or prosecution described in Subsection(2)(a).(3) (a)  The department may require a person applying for a license to submit to acriminal background check as a condition of receiving a license.(b)  A person, if required to submit to a criminal background check under Subsection(3)(a), shall:(i)  submit a fingerprint card in a form acceptable to the department; and(ii)  consent to a fingerprint background check by:(A)  the Utah Bureau of Criminal Identification; and(B)  the Federal Bureau of Investigation.(c)  For a person who submits a fingerprint card and consents to a fingerprintbackground check under Subsection (3)(b), the department may request:(i)  criminal background information maintained pursuant to Title 53, Chapter 10, Part2, Bureau of Criminal Identification, from the Bureau of Criminal Identification; and(ii)  complete Federal Bureau of Investigation criminal background checks through thenational criminal history system.(d)  Information obtained by the department from the review of criminal history recordsreceived under this Subsection (3) shall be used by the department for the purposes of:(i)  determining if a person satisfies the character requirements under Section
+
+31A-23b-204
+
+ for issuance or renewal of a license;(ii)  determining if a person failed to maintain the character requirements under Section
+
+31A-23b-204
+
+; and(iii)  preventing a person who violates the federal Violent Crime Control and LawEnforcement Act of 1994, 18 U.S.C. Sec. 1033, from engaging in the business of a navigator orin-person assistor in the state.(e)  If the department requests the criminal background information, the departmentshall:(i)  pay to the Department of Public Safety the costs incurred by the Department ofPublic Safety in providing the department criminal background information under Subsection(3)(c)(i);(ii)  pay to the Federal Bureau of Investigation the costs incurred by the Federal Bureauof Investigation in providing the department criminal background information underSubsection (3)(c)(ii); and(iii)  charge the person applying for a license a fee equal to the aggregate of Subsections(3)(e)(i) and (ii).(4)  The commissioner may deny an application for a license under this chapter if theperson applying for the license:(a)  fails to satisfy the requirements of this section; or(b)  commits an act that is grounds for denial, suspension, or revocation as set forth inSection 
+
+31A-23b-401
+
+.    31A-23b-203.(1)  This section applies to an initial or renewal license as a navigator.(2) (a)  Subject to Subsection (2)(b), to obtain or renew an individual license, anindividual shall:(i)  file an application for an initial or renewal individual license with the commissioneron forms and in a manner the commissioner prescribes; and(ii)  pay a license fee that is not refunded if the application:(A)  is denied; or(B)  is incomplete when filed and is never completed by the applicant.(b)  An application described in this Subsection (2) shall provide:(i)  information about the applicant's identity;(ii)  the applicant's Social Security number;(iii)  the applicant's personal history, experience, education, and business record;(iv)  whether the applicant is 18 years of age or older;(v)  whether the applicant has committed an act that is a ground for denial, suspension,or revocation as set forth in Section 
+
+31A-23b-401
+
+ or 
+
+31A-23b-402
+
+;(vi)  that the applicant complies with the surety bond requirements of Section
+
+31A-23b-207
+
+;(vii)  that the applicant completed the training requirements in Section 
+
+31A-23b-205
+
+;and(viii)  any other information the commissioner reasonably requires.(3)  The commissioner may require a document reasonably necessary to verify theinformation contained in an application filed under this section.(4)  An applicant's Social Security number contained in an application filed under thissection is a private record under Section 
+
+63G-2-302
+
+.(5) (a)  Subject to Subsection (5)(b), to obtain or renew a navigator agency license, aperson shall:(i)  file an application for an initial or renewal navigator agency license with thecommissioner on forms and in a manner the commissioner prescribes; and(ii)  pay a license fee that is not refunded if the application:(A)  is denied; or(B)  is incomplete when filed and is never completed by the applicant.(b)  An application described in Subsection (5)(a) shall provide:(i)  information about the applicant's identity;(ii)  the applicant's federal employer identification number;(iii)  the designated responsible licensed individual;(iv)  the identity of the owners, partners, officers, and directors;(v)  whether the applicant, or individual identified in Subsections (5)(b)(iii) and (iv),has committed an act that is a ground for denial, suspension, or revocation as set forth inSection 
+
+31A-23b-401
+
+; and(vi)  any other information the commissioner reasonably requires.    31A-23b-204.An applicant for a license under this chapter shall demonstrate to the commissionerthat:(1)  the applicant has the intent, in good faith, to engage in the practice of a navigator asthe license would permit;(2) (a)  if a natural person, the applicant is competent and trustworthy; or(b)  if the applicant is an agency:(i)  the partners, directors, or principal officers or persons having comparable powersare trustworthy; and(ii)  that it will transact business in a way that the acts that may only be performed by alicensed navigator are performed only by a natural person who is licensed under this chapter, orChapter 23a, Insurance Marketing-Licensing Producers, Consultants, and ReinsuranceIntermediaries;(3)  the applicant intends to comply with the surety bond requirements of Section
+
+31A-23b-207
+
+;(4)  if a natural person, the applicant is at least 18 years of age; and(5)  the applicant does not have a conflict of interest as defined by regulations issuedunder PPACA.    31A-23b-205.(1)  The commissioner may require applicants for a license to pass an examination andcomplete a training program as a requirement for a license.(2)  The examination described in Subsection (1) shall reasonably relate to:(a)  the duties and functions of a navigator;(b)  requirements for navigators as established by federal regulation under PPACA; and(c)  other requirements that may be established by the commissioner by administrativerule.(3)  The examination may be administered by the commissioner or as otherwisespecified by administrative rule.(4)  The training required by Subsection (1) shall be approved by the commissioner andshall include:(a)  accident and health insurance plans;(b)  qualifications for and enrollment in public programs;(c)  qualifications for and enrollment in premium subsidies;(d)  cultural and linguistic competence;(e)  conflict of interest standards;(f)  exchange functions; and(g)  other requirements that may be adopted by the commissioner by administrativerule.(5)  This section applies only to applicants who are natural persons.    31A-23b-206.(1)  The commissioner shall, by rule, prescribe continuing education requirements for anavigator.(2) (a)  The commissioner may not require a degree from an institution of highereducation as part of continuing education.(b)  The commissioner may state a continuing education requirement in terms of hoursof instruction received in:(i)  accident and health insurance;(ii)  qualification for and enrollment in public programs;(iii)  qualification for and enrollment in premium subsidies;(iv)  cultural competency;(v)  conflict of interest standards; and(vi)  other exchange functions.(3) (a)  Continuing education requirements shall require:(i)  that a licensee complete 24 credit hours of continuing education for every two-yearlicensing period;(ii)  that 3 of the 24 credit hours described in Subsection (3)(a)(i) be ethics courses; and(iii)  that the licensee complete at least half of the required hours through classroomhours of insurance and exchange related instruction.(b)  An hour of continuing education in accordance with Subsection (3)(a)(i) may beobtained through:(i)  classroom attendance;(ii)  home study;(iii)  watching a video recording;(iv)  experience credit; or(v)  another method approved by rule.(c)  A licensee may obtain continuing education hours at any time during the two-yearlicense period.(d)  In accordance with Title 63G, Chapter 3, Utah Administrative Rulemaking Act, thecommissioner shall, by rule:(i)  publish a list of insurance professional designations whose continuing educationrequirements can be used to meet the requirements for continuing education under Subsection(3)(b); and(ii)  authorize one or more continuing education providers, including a state or nationalprofessional producer or consultant associations, to:(A)  offer a qualified program on a geographically accessible basis; and(B)  collect a reasonable fee for funding and administration of a continuing educationprogram, subject to the review and approval of the commissioner.(4)  The commissioner shall approve a continuing education provider or a continuingeducation course that satisfies the requirements of this section.(5)  In accordance with Title 63G, Chapter 3, Utah Administrative Rulemaking Act, thecommissioner shall by rule establish the procedures for continuing education providerregistration and course approval.(6)  This section applies only to a navigator who is a natural person.(7)  A navigator shall keep documentation of completing the continuing educationrequirements of this section for two years after the end of the two-year licensing period towhich the continuing education applies.    31A-23b-207.(1) (a)  Except as provided in Subsection (2), a navigator shall obtain a surety bond inan amount designated by the commissioner by administrative rule to cover the legal liability ofthe navigator as the result of an erroneous act or failure to act in the navigator's capacity as anavigator.(b)  The navigator shall maintain the surety bond at all times during the term of thenavigator's license.(2)  A navigator is not required to obtain and maintain a surety bond during a period inwhich the navigator's scope of practice is limited to assisting individuals with:(a)  enrollment in public programs; and(b)  qualification for premium and cost sharing subsidies.    31A-23b-208.(1)  A license issued under this chapter shall be in the form the commissioner prescribesand shall set forth:(a)  the name and address of the licensee;(b)  the date of license issuance; and(c)  any other information the commissioner considers necessary.(2)  A licensee under this chapter doing business under a name other than the licensee'slegal name shall notify the commissioner before using the assumed name in this state.    31A-23b-209.(1)  An organization shall be licensed as a navigator agency if the organization acts as anavigator.(2)  A navigator agency that does business in the state shall designate an individual whois licensed under this chapter to act on the agency's behalf.(3)  A navigator agency shall report to the commissioner, at intervals and in the formthe commissioner establishes by rule:(a)  a new designation under Subsection (2); and(b)  a terminated designation under Subsection (2).(4) (a)  A navigator agency licensed under this chapter shall report to the commissionerthe cause of termination of a designation if:(i)  the reason for termination is a reason described in Subsection 
+
+31A-23b-401
+
+(4)(b);or(ii)  the navigator agency has knowledge that the individual licensee engaged in anactivity described in Subsection 
+
+31A-23b-401
+
+(4)(b) by:(A)  a court;(B)  a government body; or(C)  a self-regulatory organization, which the commissioner may define by rule made inaccordance with Title 63G, Chapter 3, Utah Administrative Rulemaking Act.(b)  The information provided to the commissioner under Subsection (4)(a) is a privaterecord under Title 63G, Chapter 2, Government Records Access and Management Act.(c)  A navigator agency is immune from civil action, civil penalty, or damages if theagency complies in good faith with this Subsection (4) by reporting to the commissioner thecause of termination of a designation.(d)  A navigator agency is not immune from an action or resulting penalty imposed onthe reporting agency as a result of proceedings brought by or on behalf of the department if theaction is based on evidence other than the report submitted in compliance with this Subsection(4).(5)  A navigator agency licensed under this chapter may act in a capacity for which it islicensed only through an individual who is licensed under this chapter to act in the samecapacity.(6)  A navigator agency licensed under this chapter shall designate and report to thecommissioner, in accordance with any rule made by the commissioner, the name of thedesignated responsible licensed individual who has authority to act on behalf of the navigatoragency in the matters pertaining to compliance with this title and orders of the commissioner.(7)  If a navigator agency designates a licensee in reports submitted under Subsection(3) or (6), there is a rebuttable presumption that the designated licensee acts on behalf of thenavigator agency.(8) (a)  When a license is held by a navigator agency, both the navigator agency itselfand any individual designated under the navigator agency license are considered the holders ofthe navigator agency license for purposes of this section.(b)  If an individual designated under the navigator agency license commits an act orfails to perform a duty that is a ground for suspending, revoking, or limiting the navigatoragency license, the commissioner may suspend, revoke, or limit the license of:(i)  the individual;(ii)  the navigator agency, if the navigator agency:(A)  is reckless or negligent in its supervision of the individual; or(B)  knowingly participates in the act or failure to act that is the ground for suspending,revoking, or limiting the license; or(iii) (A)  the individual; and(B)  the navigator agency, if the agency meets the requirements of Subsection (8)(b)(ii).    31A-23b-210.(1) (a)  A licensee under this chapter shall register and maintain with the commissioner:(i)  the address and telephone numbers of the licensee's principal place of business; and(ii)  a valid business email address at which the commissioner may contact the licensee.(b)  If a licensee is an individual, in addition to complying with Subsection (1)(a), theindividual shall register and maintain with the commissioner the individual's residence addressand telephone number.(c)  A licensee shall notify the commissioner within 30 days of a change of any of thefollowing required to be registered with the commissioner under this section:(i)  an address;(ii)  a telephone number; or(iii)  a business email address.(2)  Except as provided under Subsection (3), a licensee under this chapter shall keep atthe principal place of business address registered under Subsection (1), separate and distinctbooks and records of the transactions consummated under the Utah license.(3)  Subsection (2) is satisfied if the books and records specified in Subsection (2) canbe obtained immediately from a central storage place or elsewhere by online computerterminals located at the registered address.(4) (a)  The books and records maintained under Subsection (2) shall be available forthe inspection by the commissioner during the business hours for a period of time after the dateof the transaction as specified by the commissioner by rule, but in no case for less than thecurrent calendar year plus three years.(b)  Discarding books and records after the applicable record retention period hasexpired does not place the licensee in violation of a later-adopted longer record retentionperiod.    31A-23b-211.(1)  For purposes of this section:(a)  "Negotiate" is as defined in Section 
+
+31A-23a-102
+
+.(b)  "Sell" is as defined in Section 
+
+31A-23a-102
+
+.(c)  "Solicit" is as defined in Section 
+
+31A-23a-102
+
+.(2)  The commissioner may not require a license as a navigator of:(a)  a person who is employed by or contracts with:(i)  a health care facility that is licensed under Title 26, Chapter 21, Health Care FacilityLicensing and Inspection Act, to assist an individual with enrollment in a public program; or(ii)  the state, a political subdivision of the state, an entity of a political subdivision ofthe state, or a public school district to assist an individual with enrollment in a public program;(b)  a federally qualified health center as defined by Section 1905(1)(2)(B) of the SocialSecurity Act which assists an individual with enrollment in a public program;(c)  a person licensed under Chapter 23a, Insurance Marketing-Licensing, Consultants,and Reinsurance Intermediaries, if the person is licensed in the appropriate line of authority tosell, solicit, or negotiate accident and health insurance plans;(d)  an officer, director, or employee of a navigator:(i)  who does not receive compensation or commission from an insurer issuing aninsurance contract, an agency administering a public program, an individual who enrolled in apublic program or insurance product, or an exchange; and(ii)  whose activities:(A)  are executive, administrative, managerial, clerical, or a combination thereof;(B)  only indirectly relate to the sale, solicitation, or negotiation of insurance, or theenrollment in a public program offered through the exchange;(C)  are in the capacity of a special agent or agency supervisor assisting an insuranceproducer or navigator;(D)  are limited to providing technical advice and assistance to a licensed insuranceproducer or navigator; or(E)  do not include the sale, solicitation, or negotiation of insurance, or the enrollmentin a public program; and(e)  a person who does not sell, solicit, or negotiate insurance and is not directly orindirectly compensated by an insurer issuing an insurance contract, an agency administering apublic program, an individual who enrolled in a public program or insurance product, or anexchange, including:(i)  an employer, association, officer, director, employee, or trustee of an employee trustplan who is engaged in the administration or operation of a program:(A)  of employee benefits for the employer's or association's own employees or theemployees of a subsidiary or affiliate of an employer or association; and(B)  that involves the use of insurance issued by an insurer or enrollment in a publichealth plan on an exchange;(ii)  an employee of an insurer or organization employed by an insurer who is engagingin the inspection, rating, or classification of risk, or the supervision of training of insuranceproducers; or(iii)  an employee who counsels or advises the employee's employer with regard to theinsurance interests of the employer, or a subsidiary or business affiliate of the employer.(3)  The commissioner may by rule exempt a class of persons from the licenserequirement of Subsection 
+
+31A-23b-201
+
+(1) if:(a)  the functions performed by the class of persons do not require:(i)  special competence;(ii)  special trustworthiness; or(iii)  regulatory surveillance made possible by licensing; or(b)  other existing safeguards make regulation unnecessary.    31A-23b-301.(1)  As used in this section, "false or misleading information" includes, with intent todeceive a person examining it:(a)  filing a report;(b)  making a false entry in a record; or(c)  willfully refraining from making a proper entry in a record.(2) (a)  Communication that contains false or misleading information relating toenrollment in an insurance plan or a public program, including information that is false ormisleading because it is incomplete, may not be made by:(i)  a person who is or should be licensed under this title;(ii)  an employee of a person described in Subsection (2)(a)(i);(iii)  a person whose primary interest is as a competitor of a person licensed under thistitle; and(iv)  a person on behalf of any of the persons listed in this Subsection (2)(a).(b)  A licensee under this chapter may not:(i)  use any business name, slogan, emblem, or related device that is misleading orlikely to cause the exchange, insurer, or other licensee to be mistaken for another governmentalagency, a PPACA exchange, insurer, or other licensee already in business; or(ii)  use any advertisement or other insurance promotional material that would cause areasonable person to mistakenly believe that a state or federal government agency, publicprogram, or insurer:(A)  is responsible for the insurance or public program enrollment assistance activitiesof the person;(B)  stands behind the credit of the person; or(C)  is a source of payment of any insurance obligation of or sold by the person.(c)  A person who is not an insurer may not assume or use any name that deceptivelyimplies or suggests that person is an insurer.(3)  A person may not engage in an unfair method of competition or any other unfair ordeceptive act or practice in the business of insurance, as defined by the commissioner by rule,after a finding that the method of competition, the act, or the practice:(a)  is misleading;(b)  is deceptive;(c)  is unfairly discriminatory;(d)  provides an unfair inducement; or(e)  unreasonably restrains competition.(4)  A navigator licensed under this chapter is subject to the inducement provisions ofSection 
+
+31A-23a-402.5
+
+.(5)  A navigator licensed under this chapter or who should be licensed under thischapter:(a)  may not receive direct or indirect compensation from an accident or health insureror from an individual who receives services from a navigator in accordance with:(i)  federal conflict of interest regulations established pursuant to PPACA; and(ii)  administrative rule adopted by the department;(b)  may be compensated by the exchange for performing the duties of a navigator;(c) (i)  may perform, offer to perform, or advertise a service as a navigator only for aperson selecting a qualified health plan or public program offered on an exchange; and(ii)  may not perform, offer to perform, or advertise any services as a navigator forindividuals or small employer groups selecting accident and health insurance plans, qualifiedhealth plans, public programs, business, or services that are not offered on an exchange; and(d)  may not recommend a particular accident and health insurance plan or qualifiedhealth plan.    31A-23b-401.(1)  A license as a navigator under this chapter remains in force until:(a)  revoked or suspended under Subsection (4);(b)  surrendered to the commissioner and accepted by the commissioner in lieu ofadministrative action;(c)  the licensee dies or is adjudicated incompetent as defined under:(i)  Title 75, Chapter 5, Part 3, Guardians of Incapacitated Persons; or(ii)  Title 75, Chapter 5, Part 4, Protection of Property of Persons Under Disability andMinors;(d)  lapsed under this section; or(e)  voluntarily surrendered.(2)  The following may be reinstated within one year after the day on which the licenseis no longer in force:(a)  a lapsed license; or(b)  a voluntarily surrendered license, except that a voluntarily surrendered license maynot be reinstated after the license period in which the license is voluntarily surrendered.(3)  Unless otherwise stated in a written agreement for the voluntary surrender of alicense, submission and acceptance of a voluntary surrender of a license does not prevent thedepartment from pursuing additional disciplinary or other action authorized under:(a)  this title; or(b)  rules made under this title in accordance with Title 63G, Chapter 3, UtahAdministrative Rulemaking Act.(4) (a)  If the commissioner makes a finding under Subsection (4)(b), as part of anadjudicative proceeding under Title 63G, Chapter 4, Administrative Procedures Act, thecommissioner may:(i)  revoke a license;(ii)  suspend a license for a specified period of 12 months or less;(iii)  limit a license in whole or in part; or(iv)  deny a license application.(b)  The commissioner may take an action described in Subsection (4)(a) if thecommissioner finds that the licensee:(i)  is unqualified for a license under Section 
+
+31A-23b-204
+
+, 
+
+31A-23b-205
+
+, or
+
+31A-23b-206
+
+;(ii)  violated:(A)  an insurance statute;(B)  a rule that is valid under Subsection 
+
+31A-2-201
+
+(3); or(C)  an order that is valid under Subsection 
+
+31A-2-201
+
+(4);(iii)  is insolvent or the subject of receivership, conservatorship, rehabilitation, or otherdelinquency proceedings in any state;(iv)  failed to pay a final judgment rendered against the person in this state within 60days after the day on which the judgment became final;(v)  refused:(A)  to be examined; or(B)  to produce its accounts, records, and files for examination;(vi)  had an officer who refused to:(A)  give information with respect to the navigator's affairs; or(B)  perform any other legal obligation as to an examination;(vii)  provided information in the license application that is:(A)  incorrect;(B)  misleading;(C)  incomplete; or(D)  materially untrue;(viii)  violated an insurance law, valid rule, or valid order of another state's insurancedepartment;(ix)  obtained or attempted to obtain a license through misrepresentation or fraud;(x)  improperly withheld, misappropriated, or converted money or properties receivedin the course of doing insurance business;(xi)  intentionally misrepresented the terms of an actual or proposed:(A)  insurance contract;(B)  application for insurance; or(C)  application for public program;(xii)  is convicted of a felony;(xiii)  admitted or is found to have committed an insurance unfair trade practice orfraud;(xiv)  in the conduct of business in this state or elsewhere:(A)  used fraudulent, coercive, or dishonest practices; or(B)  demonstrated incompetence, untrustworthiness, or financial irresponsibility;(xv)  had an insurance license, navigator license, or its equivalent, denied, suspended,or revoked in another state, province, district, or territory;(xvi)  forged another's name to:(A)  an application for insurance;(B)  a document related to an insurance transaction;(C)  a document related to an application for a public program; or(D)  a document related to an application for premium subsidies;(xvii)  improperly used notes or another reference material to complete an examinationfor a license;(xviii)  knowingly accepted insurance business from an individual who is not licensed;(xix)  failed to comply with an administrative or court order imposing a child supportobligation;(xx)  failed to:(A)  pay state income tax; or(B)  comply with an administrative or court order directing payment of state incometax;(xxi)  violated or permitted others to violate the federal Violent Crime Control and LawEnforcement Act of 1994, 18 U.S.C. Sec. 1033 and therefore under 18 U.S.C. Sec. 1033 isprohibited from engaging in the business of insurance; or(xxii)  engaged in a method or practice in the conduct of business that endangered thelegitimate interests of customers and the public.(c)  For purposes of this section, if a license is held by an agency, both the agency itselfand any individual designated under the license are considered to be the holders of the license.(d)  If an individual designated under the agency license commits an act or fails toperform a duty that is a ground for suspending, revoking, or limiting the individual's license,the commissioner may suspend, revoke, or limit the license of:(i)  the individual;(ii)  the agency, if the agency:(A)  is reckless or negligent in its supervision of the individual; or(B)  knowingly participates in the act or failure to act that is the ground for suspending,revoking, or limiting the license; or(iii) (A)  the individual; and(B)  the agency if the agency meets the requirements of Subsection (4)(d)(ii).(5)  A licensee under this chapter is subject to the penalties for acting as a licenseewithout a license if:(a)  the licensee's license is:(i)  revoked;(ii)  suspended;(iii)  surrendered in lieu of administrative action;(iv)  lapsed; or(v)  voluntarily surrendered; and(b)  the licensee:(i)  continues to act as a licensee; or(ii)  violates the terms of the license limitation.(6)  A licensee under this chapter shall immediately report to the commissioner:(a)  a revocation, suspension, or limitation of the person's license in another state, theDistrict of Columbia, or a territory of the United States;(b)  the imposition of a disciplinary sanction imposed on that person by another state,the District of Columbia, or a territory of the United States; or(c)  a judgment or injunction entered against that person on the basis of conductinvolving:(i)  fraud;(ii)  deceit;(iii)  misrepresentation; or(iv)  a violation of an insurance law or rule.(7) (a)  An order revoking a license under Subsection (4) or an agreement to surrender alicense in lieu of administrative action may specify a time, not to exceed five years, withinwhich the former licensee may not apply for a new license.(b)  If no time is specified in an order or agreement described in Subsection (7)(a), theformer licensee may not apply for a new license for five years from the day on which the orderor agreement is made without the express approval of the commissioner.(8)  The commissioner shall promptly withhold, suspend, restrict, or reinstate the use ofa license issued under this chapter if so ordered by a court.(9)  The commissioner shall by rule prescribe the license renewal and reinstatementprocedures in accordance with Title 63G, Chapter 3, Utah Administrative Rulemaking Act.    31A-23b-402.(1)  The commissioner may place a licensee on probation for a period not to exceed 24months as follows:(a)  after an adjudicative proceeding under Title 63G, Chapter 4, AdministrativeProcedures Act, for any circumstances that would justify a suspension under this section; or(b)  at the issuance of a new license:(i)  with an admitted violation under 18 U.S.C. Secs. 1033 and 1034; or(ii)  with a response to background information questions on a new license applicationindicating that:(A)  the person has been convicted of a crime that is listed by rule made in accordancewith Title 63G, Chapter 3, Utah Administrative Rulemaking Act, as a crime that is a ground forprobation;(B)  the person is currently charged with a crime that is listed by rule made inaccordance with Title 63G, Chapter 3, Utah Administrative Rulemaking Act, as a crime that isa ground for probation regardless of whether adjudication is withheld;(C)  the person has been involved in an administrative proceeding regarding anyprofessional or occupational license; or(D)  any business in which the person is or was an owner, partner, officer, or directorhas been involved in an administrative proceeding regarding any professional or occupationallicense.(2)  The commissioner may place a licensee on probation for a specified period nolonger than 24 months if the licensee has admitted to a violation under 18 U.S.C. Secs. 1033and 1034.(3)  The probation order shall state the conditions for revocation or retention of thelicense, which shall be reasonable.(4)  Any violation of the probation is a ground for revocation pursuant to anyproceeding authorized under Title 63G, Chapter 4, Administrative Procedures Act.    31A-23b-403.(1) (a)  A license issued under this chapter shall lapse if the licensee fails to:(i)  pay when due a fee under Section 
+
+31A-3-103
+
+;(ii)  complete continuing education requirements under Section 
+
+31A-23b-206
+
+ beforesubmitting the license renewal application;(iii)  submit a completed renewal application as required by Section 
+
+31A-23b-203
+
+;(iv)  submit additional documentation required to complete the licensing process; or(v)  maintain an active license in a resident state if the licensee is a nonresidentlicensee.(b) (i)  A licensee whose license lapses due to the following may request an actiondescribed in Subsection (1)(b)(ii):(A)  military service;(B)  voluntary service for a period of time designated by the person for whom thelicensee provides voluntary service; or(C)  other extenuating circumstances, including long-term medical disability.(ii)  A licensee described in Subsection (1)(b)(i) may request:(A)  reinstatement of the license no later than one year after the day on which thelicense lapses; and(B)  waiver of any of the following imposed for failure to comply with renewalprocedures:(I)  an examination requirement;(II)  reinstatement fees set under Section 
+
+31A-3-103
+
+;(III)  continuing education requirements; or(IV)  other sanctions imposed for failure to comply with renewal procedures.(2)  If a license issued under this chapter is voluntarily surrendered, the license may bereinstated:(a)  during the license period in which the license is voluntarily surrendered; and(b)  no later than one year after the day on which the license is voluntarily surrendered.(3)  A voluntarily surrendered license that is reinstated during the license period setforth in Subsection (2) may not be reinstated until the person who voluntarily surrendered thelicense complies with any applicable continuing education requirements for the period duringwhich the license was voluntarily surrendered.    31A-23b-404.(1) (a)  If, after notice and opportunity to be heard, the commissioner finds that thenavigator or any other person has not materially complied with this part, or any rule made ororder issued under this chapter, the commissioner may order the navigator or other person tocease doing business in the state.(b)  If the commissioner finds that because of the material noncompliance an insurer,any policyholder of an insurer, or a recipient of a public program who used the services of thenavigator or other person has suffered any loss or damage due to the material noncompliance,the commissioner may:(i)  maintain a civil action or may intervene in an action brought by or on behalf of theinsurer, policyholder, or the recipient of the public program, for recovery of compensatorydamages for the benefit of the insurer, policyholder, or recipient of a public program; or(ii)  seek other appropriate relief.(2)  Nothing in this section affects the right of the commissioner to impose any otherpenalties provided for in this title.(3)  Nothing contained in this section is intended to or shall in any manner alter oraffect the rights of policyholders, claimants, creditors, or other third parties.; and(e)  a navigatorEffective January 1,2014up to four separate classes(1)  one class of business for individual health benefit plans that are not grandfatheredunder PPACA;(2)  one class of business for small employer health benefit plans that are notgrandfathered under PPACA;(3)  one class of business for individual health benefit plans that are grandfatheredunder PPACA; and(4)  one class of business for small employer health benefit plans that are grandfatheredunder PPACA.all individualplansin theindividualhealth benefit plan(2)  A carrier that elects to discontinue offering all small employer health benefit plansunder Subsection 
+
+31A-30-107
+
+(3)(e) is prohibited from writing new business in the small groupmarket in this state for a period of five years beginning on the date of discontinuation of thelast small employer coverage that is discontinued.(3)(3)(3)(3)(3)(4)(5)(1) (a)  For purposes of this section, "participation" is as defined in Section 
+
+31A-1-301
+
+.(b)participationacontribution requirementrequirement,,a carrier that offers a small employer plan and a carrier that offers anindividual plan under this chapter(i)  to verify the valildity of the rates, risk factors, and premiums of the plans; and(ii)a carrier offering a health benefit plan subject to thischapter    31A-30-117.(1) (a)  After complying with the reporting requirements of Section 
+
+63M-1-2505.5
+
+, thecommissioner may adopt administrative rules that change the rating and underwritingrequirements of this chapter as necessary to transition the insurance market to meet federalqualified health plan standards and rating practices under PPACA.(b)  Administrative rules adopted by the commissioner under this section may include:(i)  the regulation of health benefit plans as described in Subsections 
+
+31A-2-212
+
+(5)(a)and (b); and(ii)  disclosure of records and information required by PPACA and state law.(c) (i)  The commissioner shall establish by administrative rule one statewide openenrollment period that applies to the individual insurance market that is not on the PPACAcertified individual exchange.(ii)  The statewide open enrollment period:(A)  may be shorter, but no longer than the open enrollment period established for theindividual insurance market offered in the PPACA certified exchange; and(B)  may not be extended beyond the dates of the open enrollment period establishedfor the individual insurance market offered in the PPACA certified exchange.(2)  A carrier that offers health benefit plans in the individual market that is not part ofthe individual PPACA certified exchange:(a)  shall open enrollment:(i)  during the statewide open enrollment period established in Subsection (1)(c); and(ii)  at other times, for qualifying events, as determined by administrative rule adoptedby the commissioner; and(b)  may open enrollment at any time.(1)  Beginning July 1, 2013, a carrier may offer dental and vision plans in the definedcontribution arrangement market.(2) (a)  A carrier that offers a dental or vision plan in the defined contributionarrangement market is not required to offer the same dental or vision plans outside the definedcontribution arrangement market and does not have to use the same rating and underwritingpractices in and out of the defined contribution arrangement market.(b)  If a carrier offers a dental or vision plan in the defined contribution arrangementmarket, the carrier shall allow an employee of a small employer group to enroll in a dental andvision plan in accordance with Subsection (3).(3) (a)  A small employer group shall participate in a defined contribution arrangementand meet participation requirements for the defined contribution arrangement before theemployer may elect to offer its employees dental or vision plans under Subsection (3)(b).(b)  A small employer who meets the requirements of Subsection (3)(a) may elect tooffer its employees:(i)  a dental plan offered in the defined contribution arrangement market;(ii)  a vision plan offered in the defined contribution arrangement market; or(iii)  both a vision plan and a dental plan offered in the defined contributionarrangement market.(4)  An employee whose employer has offered a dental or vision plan under Subsection(3)(b) may elect to enroll, or not enroll, in the dental and vision plan selected by the employer.(5)  An employer's small group must meet participation requirements established by thecommissioner by administrative rule for each dental or vision plan selected by an employerunder Subsection (3).in the defined contribution arrangement market.and(b)Anon January 1 of each year20152015(2) (a)  For purposes of this section:(i)  "Implementation" includes adopting or changing an administrative rule; applying foror spending federal grant money; issuing a request for proposal to carry out a requirement ofPPACA, entering into a memorandum of understanding with the federal government regardinga provision of PPACA, or amending the state Medicaid plan.(ii)  "PPACA" is as defined in Section 
+
+31A-1-301
+
+.(b)PPACA, prior to implementation,in writing, and in person if requested,(d).(c)provisions of PPACA(d)(b)of PPACAPPACAPPACAPPACA(3)The state shall not requirean individual in the statePPACAfacilitate the federal PPACAindividual mandate or to (1)  There is created the Health Reform Task Force consisting of the following 11members:(a)  four members of the Senate appointed by the president of the Senate, no more thanthree of whom may be from the same political party; and(b)  seven members of the House of Representatives appointed by the speaker of theHouse of Representatives, no more than five of whom may be from the same political party.(2) (a)  The president of the Senate shall designate a member of the Senate appointedunder Subsection (1)(a) as a cochair of the task force.(b)  The speaker of the House of Representatives shall designate a member of the Houseof Representatives appointed under Subsection (1)(b) as a cochair of the task force.(3)  In conducting its business, the task force shall comply with the rules of legislativeinterim committees.(4)  Salaries and expenses of the members of the task force shall be paid in accordancewith Section 
+
+36-2-2
+
+ and Legislative Joint Rules, Title 5, Chapter 3, Expense and MileageReimbursement for Authorized Legislative Meetings, Special Sessions, and Veto OverrideSessions.(5)  The Office of Legislative Research and General Counsel shall provide staff supportto the task force.(1)  The task force shall review and make recommendations on the following issues:(a)  the impact of implementation of the federal health reform law and federalregulations on the state;(b)  options for the state regarding Medicaid expansion and reform;(c)  health care cost containment strategies;(d)  the role of the state defined contribution arrangement market and online healthinsurance market places established under PPACA;(e)  governing structure for the state's defined contribution arrangement market; and(f)  Medicaid behavioral health delivery and payment reform models within Medicaidaccountable care organizations and other county provided delivery settings, including:(i)  the development of a system to encourage, track, evaluate, share, and disseminateresults from existing pilot projects; and(ii)  payment reform models that promote performance based reimbursement.(2)  A final report, including any proposed legislation, shall be presented to theBusiness and Labor Interim Committee before November 30, 2013, and before November 30,2014.Under the terms and conditions of Title 63J, Chapter 1, Budgetary Procedures Act, forthe fiscal year beginning July 1, 2013, and ending June 30, 2014, the following sums of moneyare appropriated from resources not otherwise appropriated, or reduced from amountspreviously appropriated, out of the funds or accounts indicated.  These sums of money are inaddition to any amounts previously appropriated for fiscal year 2014.To Legislature - SenateFrom General Fund, One-time                    $30,000Schedule of Programs:            Administration                $30,000To Legislature - House of Representatives                    $52,000From General Fund, One-timeSchedule of Programs:Administration                $52,000(1)  Except as provided in Subsection (2), if approved by two-thirds of all the memberselected to each house, this bill takes effect upon approval by the governor, or the day followingthe constitutional time limit of Utah Constitution Article VII, Section 8, without the governor'ssignature, or in the case of a veto, the date of veto override.(2)  The actions affecting Section 
+
+63I-2-231
+
+ (Effective 07/01/13) take effect on July 1,2013.The Health Reform Task Force is repealed December 30, 2015.Full text:
+
+
+
+Utah State Legislature
+
+
+
+
+
+
+
+
+
+
+
+
+Legislators
+
+By Session (1896-Current)
+Alphabetical (Historical)
+Find by Address/Map
+More
+
+
+Bills
+
+Bills/Bill Requests
+Passed Bills
+2017 Bills
+
+Keyword Search
+Reading Calendars
+Tracking Service
+More
+
+
+Committees
+
+All Committees
+Appropriations
+Commissions
+
+Independent Legislative Ethics Commission
+Interim
+Standing
+Subcommittees
+Task Forces
+Bills In Committees
+
+
+Utah Code / Constitution
+
+
+Title/Chapter/Section
+Keyword Search 
+
+Utah Constitution
+Laws of Utah 1851-ongoing
+Utah Territorial Laws 
+More
+
+
+Senate
+
+Main Page 
+About The Senate 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Extraordinary Sessions 
+Reading Calendars 
+Past Floor Debates 
+Senate Journals 
+
+
+House
+
+Main Page
+About the House 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Reading Calendars 
+Past Floor Debates 
+Journals 
+Conflict of Interest Forms 
+
+
+Legislative Guide 
+
+Legislative Guide
+Civic Programs
+GRAMA (Records Requests)
+
+
+Publications
+
+Search Publications
+Appropriations
+Audits
+Bagels & Briefings
+Briefing Papers
+Digest of Legislation
+Legislative Drafting Manual
+
+Journals
+
+Interim Highlights
+
+Legislative Rules
+GRAMA (Records Requests)
+Public Email
+State Organization Charts
+YouTube Channel
+Requests for Proposals and Legal Notices
+More
+
+
+Legislative Histories
+
+Legislative History Resources
+How to Research
+Bill Drafting/Research Files (1990-Ongoing)
+
+Working Bills (1896-1989)
+Interim Committee Histories (1990-Ongoing) 
+Journals
+Past House Floor Debates
+Past Senate Floor Debates
+More
+
+
+Staff Offices
+
+All Legislative Offices
+Auditor General
+Fiscal Analyst
+Printing
+Research and General Counsel
+Staff Awards
+Job Opportunities
+More
+
+
+Links of Interest
+
+Utah Administrative Rules
+Courts
+Utah State Capitol
+State of Utah
+Federal Legislation
+More
+
+
+
+
+
+
+ 
+
+Download Zipped Introduced WordPerfect HB0160.ZIP
+[Status][Bill Documents][Fiscal Note][Bills Directory]
+
+
+H.B. 160
+
+
+
+
+
+            
+1
+
+    
+ HEALTH SYSTEM REFORM AMENDMENTS
+
+
+
+            
+2
+
+    
+2013 GENERAL SESSION
+
+            
+3
+
+    
+STATE OF UTAH
+
+            
+4
+
+    
+
+
+ Chief Sponsor:  James A. Dunnigan
+
+
+
+            
+5
+
+    
+
+
+
+Senate Sponsor:  
+
+
+
+
+
+
+____________
+
+
+
+
+
+            
+6
+
+    
+
+            
+7
+
+    
+ LONG TITLE
+            
+8
+
+    
+ General Description:
+            
+9
+
+    
+    This bill amends provisions in the Insurance Code and in Governor's Programs related
+            
+10
+
+    
+to health system reform.
+            
+11
+
+    
+ Highlighted Provisions:
+            
+12
+
+    
+    This bill:
+            
+13
+
+    
+    .    authorizes the insurance commissioner to regulate the state insurance market as it
+            
+14
+
+    
+transitions to new rating practices and health plan requirements of federal law;
+            
+15
+
+    
+    .    gives insurance producers and agents the authority to sell, solicit, and negotiate
+            
+16
+
+    
+health insurance on a federal health insurance exchange;
+            
+17
+
+    
+    .    permits an insurer to pass through commission payments from an insured to a
+            
+18
+
+    
+producer;
+            
+19
+
+    
+    .    establishes the requirements for a navigator license;
+            
+20
+
+    
+    .    amends definitions in the Individual, Small Employer and Group Health Insurance
+            
+21
+
+    
+Act;
+            
+22
+
+    
+    .    establishes separate risk pools for the individual health insurance market and the
+            
+23
+
+    
+small group health insurance market;
+            
+24
+
+    
+    .    amends discontinuation and nonrenewal limitations and conditions;
+            
+25
+
+    
+    .    amends small employer participation and contribution requirements;
+            
+26
+
+    
+    .    amends provisions regarding actuarial review of rates;
+            
+27
+
+    
+    .    gives the commissioner administrative rulemaking authority to facilitate state
+
+            
+28
+
+
+    
+regulation of insurers, qualified health plans, and the health insurance market when federal
+            
+29
+
+    
+insurance exchanges begin operating in the state, including:
+            
+30
+
+    
+        .    rate review and approval; and
+            
+31
+
+    
+        .    creating uniform open enrollment periods for the individual health                 
+            
+32
+
+    
+insurance market;
+            
+33
+
+    
+    .    removes the requirement that a carrier in Utah's defined contribution arrangement
+            
+34
+
+    
+market (Avenue H) must offer certain health benefit products on Avenue H;
+            
+35
+
+    
+    .    authorizes free-standing dental and vision plans on Utah's Avenue H;
+            
+36
+
+    
+    .    extends the sunset date for the Risk Adjuster Board for the defined contribution
+            
+37
+
+    
+arrangement market;
+            
+38
+
+    
+    .    removes the rating parity requirement for plans offered on Avenue H;
+            
+39
+
+    
+    .    makes technical amendments;
+            
+40
+
+    
+    .    amends executive branch reporting requirements related to the Patient Protection
+            
+41
+
+    
+and Affordable Care Act (PPACA) implementation; and
+            
+42
+
+    
+    .    reauthorizes the Health System Reform Task Force until December 30, 2015.
+            
+43
+
+    
+ Money Appropriated in this Bill:
+            
+44
+
+    
+    This bill appropriates in fiscal year 2013-14:
+            
+45
+
+    
+    .    to the Legislature-Senate as a one-time appropriation:
+            
+46
+
+    
+        .    from the General Fund, One-time, $30,000
+            
+47
+
+    
+    .    to the Legislature-House as a one-time appropriation:
+            
+48
+
+    
+        .    from the General Fund, One-time, $52,000.
+            
+49
+
+    
+ Other Special Clauses:
+            
+50
+
+    
+    This bill provides an effective date.
+            
+51
+
+    
+    This bill provides a repeal date.
+            
+52
+
+    
+ Utah Code Sections Affected:
+            
+53
+
+    
+AMENDS:
+            
+54
+
+    
+     31A-2-212, as last amended by Laws of Utah 2011, Chapters 284 and 400
+            
+55
+
+    
+     31A-23a-501, as last amended by Laws of Utah 2012, Chapter 279
+            
+56
+
+    
+     31A-30-104, as last amended by Laws of Utah 2011, Chapter 400
+            
+57
+
+    
+     31A-30-105, as last amended by Laws of Utah 2011, Chapter 284
+            
+58
+
+    
+     31A-30-107.3, as last amended by Laws of Utah 2011, Chapter 297
+
+            
+59
+
+
+    
+     31A-30-112, as last amended by Laws of Utah 2012, Chapter 253
+            
+60
+
+    
+     31A-30-115, as last amended by Laws of Utah 2011, Second Special Session, Chapter 5
+            
+61
+
+    
+     31A-30-202.5, as last amended by Laws of Utah 2011, Second Special Session, Chapter
+            
+62
+
+    
+5
+            
+63
+
+    
+     31A-30-205, as last amended by Laws of Utah 2011, Chapter 400
+            
+64
+
+    
+     31A-30-208, as last amended by Laws of Utah 2011, Chapter 400
+            
+65
+
+    
+     63I-2-231 (Superseded 07/01/13), as last amended by Laws of Utah 2012, Chapter 279
+            
+66
+
+    
+     63I-2-231 (Effective 07/01/13), as last amended by Laws of Utah 2012, Chapters 243
+            
+67
+
+    
+and 279
+            
+68
+
+    
+     63M-1-2505.5, as enacted by Laws of Utah 2010, Chapter 51
+            
+69
+
+    
+ENACTS:
+            
+70
+
+    
+     31A-23a-208, Utah Code Annotated 1953
+            
+71
+
+    
+     31A-23b-101, Utah Code Annotated 1953
+            
+72
+
+    
+     31A-23b-102, Utah Code Annotated 1953
+            
+73
+
+    
+     31A-23b-201, Utah Code Annotated 1953
+            
+74
+
+    
+     31A-23b-202, Utah Code Annotated 1953
+            
+75
+
+    
+     31A-23b-203, Utah Code Annotated 1953
+            
+76
+
+    
+     31A-23b-204, Utah Code Annotated 1953
+            
+77
+
+    
+     31A-23b-205, Utah Code Annotated 1953
+            
+78
+
+    
+     31A-23b-206, Utah Code Annotated 1953
+            
+79
+
+    
+     31A-23b-207, Utah Code Annotated 1953
+            
+80
+
+    
+     31A-23b-208, Utah Code Annotated 1953
+            
+81
+
+    
+     31A-23b-209, Utah Code Annotated 1953
+            
+82
+
+    
+     31A-23b-210, Utah Code Annotated 1953
+            
+83
+
+    
+     31A-23b-211, Utah Code Annotated 1953
+            
+84
+
+    
+     31A-23b-301, Utah Code Annotated 1953
+            
+85
+
+    
+     31A-23b-401, Utah Code Annotated 1953
+            
+86
+
+    
+     31A-23b-402, Utah Code Annotated 1953
+            
+87
+
+    
+     31A-23b-403, Utah Code Annotated 1953
+            
+88
+
+    
+     31A-23b-404, Utah Code Annotated 1953
+            
+89
+
+    
+     31A-30-117, Utah Code Annotated 1953
+
+            
+90
+
+
+    
+ Uncodified Material Affected:
+            
+91
+
+    
+ENACTS UNCODIFIED MATERIAL
+            
+92
+
+    
+
+            
+93
+
+    
+Be it enacted by the Legislature of the state of Utah:
+            
+94
+
+    
+    Section 1.  
+Section  
+31A-2-212
+
+ is amended to read:
+            
+95
+
+    
+     31A-2-212.  Miscellaneous duties.
+            
+96
+
+    
+    (1)  Upon issuance of an order limiting, suspending, or revoking a person's authority to
+            
+97
+
+    
+do business in Utah, and when the commissioner begins a proceeding against an insurer under
+            
+98
+
+    
+Chapter 27a, Insurer Receivership Act, the commissioner:
+            
+99
+
+    
+    (a)  shall notify by mail the producers of the person or insurer of whom the
+            
+100
+
+    
+commissioner has record; and
+            
+101
+
+    
+    (b)  may publish notice of the order or proceeding in any manner the commissioner
+            
+102
+
+    
+considers necessary to protect the rights of the public.
+            
+103
+
+    
+    (2)  When required for evidence in a legal proceeding, the commissioner shall furnish a
+            
+104
+
+    
+certificate of authority of a licensee to transact the business of insurance in Utah on any
+            
+105
+
+    
+particular date.  The court or other officer shall receive the certificate of authority in lieu of the
+            
+106
+
+    
+commissioner's testimony.
+            
+107
+
+    
+    (3) (a)  On the request of an insurer authorized to do a surety business, the
+            
+108
+
+    
+commissioner shall furnish a copy of the insurer's certificate of authority to a designated public
+            
+109
+
+    
+officer in this state who requires that certificate of authority before accepting a bond.
+            
+110
+
+    
+    (b)  The public officer described in Subsection (3)(a) shall file the certificate of
+            
+111
+
+    
+authority furnished under Subsection (3)(a).
+            
+112
+
+    
+    (c)  After a certified copy of a certificate of authority is furnished to a public officer, it
+            
+113
+
+    
+is not necessary, while the certificate of authority remains effective, to attach a copy of it to any
+            
+114
+
+    
+instrument of suretyship filed with that public officer.
+            
+115
+
+    
+    (d)  Whenever the commissioner revokes the certificate of authority or begins a
+            
+116
+
+    
+proceeding under Chapter 27a, Insurer Receivership Act, against an insurer authorized to do a
+            
+117
+
+    
+surety business, the commissioner shall immediately give notice of that action to each public
+            
+118
+
+    
+officer who is sent a certified copy under this Subsection (3).
+            
+119
+
+    
+    (4) (a)  The commissioner shall immediately notify every judge and clerk of the courts
+            
+120
+
+    
+of record in the state when:
+
+            
+121
+
+
+    
+    (i)  an authorized insurer doing a surety business:
+            
+122
+
+    
+    (A)  files a petition for receivership; or
+            
+123
+
+    
+    (B)  is in receivership; or
+            
+124
+
+    
+    (ii)  the commissioner has reason to believe that the authorized insurer doing surety
+            
+125
+
+    
+business:
+            
+126
+
+    
+    (A)  is in financial difficulty; or
+            
+127
+
+    
+    (B)  has unreasonably failed to carry out any of its contracts.
+            
+128
+
+    
+    (b)  Upon the receipt of the notice required by this Subsection (4), it is the duty of the
+            
+129
+
+    
+judges and clerks to notify and require a person that files with the court a bond on which the
+            
+130
+
+    
+authorized insurer doing surety business is surety to immediately file a new bond with a new
+            
+131
+
+    
+surety.
+            
+132
+
+    
+    (5) (a)  The commissioner shall report to the Legislature in accordance with Section
+            
+133
+
+    
+
+
+63M-1-2505.5
+
+ prior to adopting a rule authorized by Subsection (5)(b).
+            
+134
+
+    
+    (b)  The commissioner shall require an insurer that issues, sells, renews, or offers health
+            
+135
+
+    
+insurance coverage in this state to comply with[:(a)  the Health Insurance Portability and
+            
+136
+
+    
+Accountability Act, Pub. L. No. 104-191; and(b)  subject to Section 
+
+63M-1-2505.5
+
+, and to the
+            
+137
+
+    
+extent required or applicable under the provisions of the Patient Protection and Affordable
+            
+138
+
+    
+Care Act, Pub. L. No. 111-148 and the Health Care Education Reconciliation Act of 2010, Pub.
+            
+139
+
+    
+L. No. 111-152,] the provisions of PPACA and administrative rules adopted by the
+            
+140
+
+    
+commissioner related to regulation of health benefit plans, including:
+            
+141
+
+    
+    (i)  lifetime and annual limits;
+            
+142
+
+    
+    (ii)  prohibition of rescissions;
+            
+143
+
+    
+    (iii)  coverage of preventive health services;
+            
+144
+
+    
+    (iv)  coverage for a child or dependent;
+            
+145
+
+    
+    (v)  pre-existing condition coverage for children;
+            
+146
+
+    
+    (vi)  insurer transparency of consumer information including plan disclosures, uniform
+            
+147
+
+    
+coverage documents, and standard definitions;
+            
+148
+
+    
+    (vii)  premium rate reviews;
+            
+149
+
+    
+    (viii)  essential health benefits;
+            
+150
+
+    
+    (ix)  provider choice;
+            
+151
+
+    
+    (x)  waiting periods; [and]
+
+            
+152
+
+
+    
+    (xi)  appeals processes[.];
+            
+153
+
+    
+    (xii)  rating restrictions;
+            
+154
+
+    
+    (xiii)  uniform applications and notice provisions; and
+            
+155
+
+    
+    (xiv)  certification and regulation of qualified health plans.
+            
+156
+
+    
+    (c)  The commissioner shall preserve state control over:
+            
+157
+
+    
+    (i)  the health insurance market in the state;
+            
+158
+
+    
+    (ii)  qualified health plans offered in the state; and
+            
+159
+
+    
+    (iii)  the conduct of navigators, producers, and in-person assisters operating in the state.
+            
+160
+
+    
+    Section 2.  
+Section  
+31A-23a-208
+
+ is enacted to read:
+            
+161
+
+    
+     31A-23a-208.  Producer and agency authority in health insurance exchange.
+            
+162
+
+    
+    A producer or agency licensed under this chapter, with a line of authority that permits
+            
+163
+
+    
+the producer or agency to sell, negotiate, or solicit accident and health insurance, is authorized
+            
+164
+
+    
+to sell, negotiate, or solicit qualified health plans offered on an exchange that is:
+            
+165
+
+    
+    (1)  operated in the state; and
+            
+166
+
+    
+    (2) (a)  certified by the United States Department of Health and Human Services as a
+            
+167
+
+    
+state-based exchange under PPACA; or
+            
+168
+
+    
+    (b)  a federally facilitated exchange under PPACA.
+            
+169
+
+    
+    Section 3.  
+Section  
+31A-23a-501
+
+ is amended to read:
+            
+170
+
+    
+     31A-23a-501.  Licensee compensation.
+            
+171
+
+    
+    (1)  As used in this section:
+            
+172
+
+    
+    (a)  "Commission compensation" includes funds paid to or credited for the benefit of a
+            
+173
+
+    
+licensee from:
+            
+174
+
+    
+    (i)  commission amounts deducted from insurance premiums on insurance sold by or
+            
+175
+
+    
+placed through the licensee; or
+            
+176
+
+    
+    (ii)  commission amounts received from an insurer or another licensee as a result of the
+            
+177
+
+    
+sale or placement of insurance.
+            
+178
+
+    
+    (b) (i)  "Compensation from an insurer or third party administrator" means
+            
+179
+
+    
+commissions, fees, awards, overrides, bonuses, contingent commissions, loans, stock options,
+            
+180
+
+    
+gifts, prizes, or any other form of valuable consideration:
+            
+181
+
+    
+    (A)  whether or not payable pursuant to a written agreement; and
+            
+182
+
+    
+    (B)  received from:
+
+            
+183
+
+
+    
+    (I)  an insurer; or
+            
+184
+
+    
+    (II)  a third party to the transaction for the sale or placement of insurance.
+            
+185
+
+    
+    (ii)  "Compensation from an insurer or third party administrator" does not mean
+            
+186
+
+    
+compensation from a customer that is:
+            
+187
+
+    
+    (A)  a fee or pass-through costs as provided in Subsection (1)(e); or
+            
+188
+
+    
+    (B)  a fee or amount collected by or paid to the producer that does not exceed an
+            
+189
+
+    
+amount established by the commissioner by administrative rule.
+            
+190
+
+    
+    (c) (i)  "Customer" means:
+            
+191
+
+    
+    (A)  the person signing the application or submission for insurance; or
+            
+192
+
+    
+    (B)  the authorized representative of the insured actually negotiating the placement of
+            
+193
+
+    
+insurance with the producer.
+            
+194
+
+    
+    (ii)  "Customer" does not mean a person who is a participant or beneficiary of:
+            
+195
+
+    
+    (A)  an employee benefit plan; or
+            
+196
+
+    
+    (B)  a group or blanket insurance policy or group annuity contract sold, solicited, or
+            
+197
+
+    
+negotiated by the producer or affiliate.
+            
+198
+
+    
+    (d) (i)  "Noncommission compensation" includes all funds paid to or credited for the
+            
+199
+
+    
+benefit of a licensee other than commission compensation.
+            
+200
+
+    
+    (ii)  "Noncommission compensation" does not include charges for pass-through costs
+            
+201
+
+    
+incurred by the licensee in connection with obtaining, placing, or servicing an insurance policy.
+            
+202
+
+    
+    (e)  "Pass-through costs" include:
+            
+203
+
+    
+    (i)  costs for copying documents to be submitted to the insurer; and
+            
+204
+
+    
+    (ii)  bank costs for processing cash or credit card payments.
+            
+205
+
+    
+    (2)  A licensee may receive from an insured or from a person purchasing an insurance
+            
+206
+
+    
+policy, noncommission compensation if the noncommission compensation is stated on a
+            
+207
+
+    
+separate, written disclosure.
+            
+208
+
+    
+    (a)  The disclosure required by this Subsection (2) shall:
+            
+209
+
+    
+    (i)  include the signature of the insured or prospective insured acknowledging the
+            
+210
+
+    
+noncommission compensation;
+            
+211
+
+    
+    (ii)  clearly specify the amount or extent of the noncommission compensation; and
+            
+212
+
+    
+    (iii)  be provided to the insured or prospective insured before the performance of the
+            
+213
+
+    
+service.
+
+            
+214
+
+
+    
+    (b)  Noncommission compensation shall be:
+            
+215
+
+    
+    (i)  limited to actual or reasonable expenses incurred for services; and
+            
+216
+
+    
+    (ii)  uniformly applied to all insureds or prospective insureds in a class or classes of
+            
+217
+
+    
+business or for a specific service or services.
+            
+218
+
+    
+    (c)  A copy of the signed disclosure required by this Subsection (2) shall be maintained
+            
+219
+
+    
+by any licensee who collects or receives the noncommission compensation or any portion of
+            
+220
+
+    
+the noncommission compensation.
+            
+221
+
+    
+    (d)  All accounting records relating to noncommission compensation shall be
+            
+222
+
+    
+maintained by the person described in Subsection (2)(c) in a manner that facilitates an audit.
+            
+223
+
+    
+    (3) (a)  A licensee may receive noncommission compensation when acting as a
+            
+224
+
+    
+producer for the insured in connection with the actual sale or placement of insurance if:
+            
+225
+
+    
+    (i)  the producer and the insured have agreed on the producer's noncommission
+            
+226
+
+    
+compensation; and
+            
+227
+
+    
+    (ii)  the producer has disclosed to the insured the existence and source of any other
+            
+228
+
+    
+compensation that accrues to the producer as a result of the transaction.
+            
+229
+
+    
+    (b)  The disclosure required by this Subsection (3) shall:
+            
+230
+
+    
+    (i)  include the signature of the insured or prospective insured acknowledging the
+            
+231
+
+    
+noncommission compensation;
+            
+232
+
+    
+    (ii)  clearly specify the amount or extent of the noncommission compensation and the
+            
+233
+
+    
+existence and source of any other compensation; and
+            
+234
+
+    
+    (iii)  be provided to the insured or prospective insured before the performance of the
+            
+235
+
+    
+service.
+            
+236
+
+    
+    (c)  The following additional noncommission compensation is authorized:
+            
+237
+
+    
+    (i)  compensation received by a producer of a compensated corporate surety who under
+            
+238
+
+    
+procedures approved by a rule or order of the commissioner is paid by surety bond principal
+            
+239
+
+    
+debtors for extra services;
+            
+240
+
+    
+    (ii)  compensation received by an insurance producer who is also licensed as a public
+            
+241
+
+    
+adjuster under Section 
+
+31A-26-203
+
+, for services performed for an insured in connection with a
+            
+242
+
+    
+claim adjustment, so long as the producer does not receive or is not promised compensation for
+            
+243
+
+    
+aiding in the claim adjustment prior to the occurrence of the claim;
+            
+244
+
+    
+    (iii)  compensation received by a consultant as a consulting fee, provided the consultant
+
+            
+245
+
+
+    
+complies with the requirements of Section 
+
+31A-23a-401
+
+; or
+            
+246
+
+    
+    (iv)  other compensation arrangements approved by the commissioner after a finding
+            
+247
+
+    
+that they do not violate Section 
+
+31A-23a-401
+
+ and are not harmful to the public.
+            
+248
+
+    
+    (d)  Subject to Section 
+
+31A-23a-402.5
+
+, a producer for the insured may receive
+            
+249
+
+    
+compensation from an insured through an insurer, for the negotiation and sale of a health
+            
+250
+
+    
+benefit plan, if there is a separate written agreement between the insured and the licensee for
+            
+251
+
+    
+the compensation.  An insurer who passes through the compensation from the insured to the
+            
+252
+
+    
+licensee under this Subsection (3)(d) is not providing direct or indirect compensation or
+            
+253
+
+    
+commission compensation to the licensee.
+            
+254
+
+    
+    (4) (a)  For purposes of this Subsection (4), "producer" includes:
+            
+255
+
+    
+    (i)  a producer;
+            
+256
+
+    
+    (ii)  an affiliate of a producer; or
+            
+257
+
+    
+    (iii)  a consultant.
+            
+258
+
+    
+    (b) A producer may not accept or receive any compensation from an insurer or third
+            
+259
+
+    
+party administrator for the initial placement of a health benefit plan, other than a hospital
+            
+260
+
+    
+confinement indemnity policy, unless prior to the customer's initial purchase of the health
+            
+261
+
+    
+benefit plan the producer discloses in writing to the customer that the producer will receive
+            
+262
+
+    
+compensation from the insurer or third party administrator for the placement of insurance,
+            
+263
+
+    
+including the amount or type of compensation known to the producer at the time of the
+            
+264
+
+    
+disclosure.
+            
+265
+
+    
+    (c)  A producer shall:
+            
+266
+
+    
+    (i)  obtain the customer's signed acknowledgment that the disclosure under Subsection
+            
+267
+
+    
+(4)(b) was made to the customer; or
+            
+268
+
+    
+    (ii) (A)  sign a statement that the disclosure required by Subsection (4)(b) was made to
+            
+269
+
+    
+the customer; and
+            
+270
+
+    
+    (B)  keep the signed statement on file in the producer's office while the health benefit
+            
+271
+
+    
+plan placed with the customer is in force.
+            
+272
+
+    
+    (d) (i)  A licensee who collects or receives any part of the compensation from an insurer
+            
+273
+
+    
+or third party administrator in a manner that facilitates an audit shall, while the health benefit
+            
+274
+
+    
+plan placed with the customer is in force, maintain a copy of:
+            
+275
+
+    
+    (A)  the signed acknowledgment described in Subsection (4)(c)(i); or
+
+            
+276
+
+
+    
+    (B)  the signed statement described in Subsection (4)(c)(ii).
+            
+277
+
+    
+    (ii)  The standard application developed in accordance with Section 
+
+31A-22-635
+
+ shall
+            
+278
+
+    
+include a place for a producer to provide the disclosure required by this Subsection (4), and if
+            
+279
+
+    
+completed, shall satisfy the requirement of Subsection (4)(d)(i).
+            
+280
+
+    
+    (e)  Subsection (4)(c) does not apply to:
+            
+281
+
+    
+    (i)  a person licensed as a producer who acts only as an intermediary between an insurer
+            
+282
+
+    
+and the customer's producer, including a managing general agent; or
+            
+283
+
+    
+    (ii)  the placement of insurance in a secondary or residual market.
+            
+284
+
+    
+    (5)  This section does not alter the right of any licensee to recover from an insured the
+            
+285
+
+    
+amount of any premium due for insurance effected by or through that licensee or to charge a
+            
+286
+
+    
+reasonable rate of interest upon past-due accounts.
+            
+287
+
+    
+    (6)  This section does not apply to bail bond producers or bail enforcement agents as
+            
+288
+
+    
+defined in Section 
+
+31A-35-102
+
+.
+            
+289
+
+    
+    (7)  A licensee may not receive noncommission compensation from an insured or
+            
+290
+
+    
+enrollee for providing a service or engaging in an act that is required to be provided or
+            
+291
+
+    
+performed in order to receive commission compensation, except for the surplus lines
+            
+292
+
+    
+transactions that do not receive commissions.
+            
+293
+
+    
+    Section 4.  
+Section  
+31A-23b-101
+
+ is enacted to read:
+            
+294
+
+    
+ CHAPTER 23b.  NAVIGATOR LICENSE ACT
+
+            
+295
+
+    
+ Part 1.  General Provisions
+
+            
+296
+
+    
+     31A-23b-101.  Title.
+            
+297
+
+    
+    This chapter is known as the "Navigator License Act."
+            
+298
+
+    
+    Section 5.  
+Section  
+31A-23b-102
+
+ is enacted to read:
+            
+299
+
+    
+     31A-23b-102.  Definitions.
+            
+300
+
+    
+    As used in this chapter:
+            
+301
+
+    
+    (1)  "Compensation" is as defined in:
+            
+302
+
+    
+    (a)  Subsections 
+
+31A-23a-501
+
+(1)(a), (b), and (d); and
+            
+303
+
+    
+    (b)  PPACA.
+            
+304
+
+    
+    (2)  "Enroll" and "enrollment" mean to:
+            
+305
+
+    
+    (a) (i)  obtain personally identifiable information about an individual; and
+            
+306
+
+    
+    (ii)  inform an individual about accident and health insurance plans or public programs
+
+            
+307
+
+
+    
+offered on an exchange;
+            
+308
+
+    
+    (b)  solicit insurance; or
+            
+309
+
+    
+    (c)  submit to the exchange:
+            
+310
+
+    
+    (i)  personally identifiable information about an individual; and
+            
+311
+
+    
+    (ii)  an individual's selection of a particular accident and health insurance plan or public
+            
+312
+
+    
+program offered on the exchange.
+            
+313
+
+    
+    (3) (a)  "Exchange" means an online marketplace:
+            
+314
+
+    
+    (i)  for an individual to purchase a qualified health plan; and
+            
+315
+
+    
+    (ii)  that is certified by the United States Department of Health and Human Services as
+            
+316
+
+    
+either a state-based exchange or a federally facilitated exchange under PPACA.
+            
+317
+
+    
+    (b) (i)  "Exchange" does not include:
+            
+318
+
+    
+    (A)  an online marketplace for the purchase of health insurance if the online
+            
+319
+
+    
+marketplace is not a certified exchange under PPACA; or
+            
+320
+
+    
+    (B)  except as provided in Subsection (3)(b)(ii), an online marketplace for small
+            
+321
+
+    
+employers that is certified as a PPACA compliant SHOP exchange.
+            
+322
+
+    
+    (ii)  For purposes of this chapter, exchange does include a small employer SHOP
+            
+323
+
+    
+exchange described under Subsection (3)(b)(i)(B) if:
+            
+324
+
+    
+    (A)  federal regulations under PPACA require a small employer exchange to allow
+            
+325
+
+    
+navigators to assist small employers and their employees with selection of qualified health
+            
+326
+
+    
+plans on a small employer exchange; and
+            
+327
+
+    
+    (B)  the state has not entered into an agreement with the United States Department of
+            
+328
+
+    
+Health and Human Services that permits the state to limit the scope of practice of navigators to
+            
+329
+
+    
+only the individual PPACA exchange.
+            
+330
+
+    
+    (4)  "Navigator":
+            
+331
+
+    
+    (a)  means a person who facilitates enrollment in an exchange by offering to assist, or
+            
+332
+
+    
+who advertises any services to assist, with:
+            
+333
+
+    
+    (i)  the selection of and enrollment in a qualified health plan or a public program
+            
+334
+
+    
+offered on an exchange; or
+            
+335
+
+    
+    (ii)  applying for premium subsidies through an exchange; and
+            
+336
+
+    
+    (b)  includes a person who is an in-person assister or an application assister as described
+            
+337
+
+    
+in:
+
+            
+338
+
+
+    
+    (i)  federal regulations or guidance issued under PPACA; and
+            
+339
+
+    
+    (ii)  the state exchange blueprint published by the Center for Consumer Information and
+            
+340
+
+    
+Insurance Oversight within the Centers for Medicare and Medicaid Services in the United
+            
+341
+
+    
+States Department of Health and Human Services.
+            
+342
+
+    
+    (5)  "Personally identifiable information" is as defined in 45 C.F.R. Sec. 155.260.
+            
+343
+
+    
+    (6)  "Public programs" means the state Medicaid program in Title 26, Chapter 18,
+            
+344
+
+    
+Medical Assistance Act, and Chapter 40, Utah Children's Health Insurance Act.
+            
+345
+
+    
+    (7)  "Solicit" is as defined in Section 
+
+31A-23a-102
+
+.
+            
+346
+
+    
+    Section 6.  
+Section  
+31A-23b-201
+
+ is enacted to read:
+            
+347
+
+    
+ Part 2.  Licensing
+
+            
+348
+
+    
+     31A-23b-201.  Requirement of license.
+            
+349
+
+    
+    (1) (a)  Except as provided in Section 
+
+31A-23b-211
+
+, a person may not perform, offer to
+            
+350
+
+    
+perform, or advertise any service as a navigator in the state, without:
+            
+351
+
+    
+    (i)  a valid navigator license issued under this chapter; or
+            
+352
+
+    
+    (ii)  a valid producer license under Subsection 
+
+31A-23a-106
+
+(2)(a) with a line of
+            
+353
+
+    
+authority that permits the person to sell, negotiate, or solicit accident and health insurance.
+            
+354
+
+    
+    (b)  A person may not utilize the services of another as a navigator if that person knows
+            
+355
+
+    
+or should know that the other person does not have a license as required by law.
+            
+356
+
+    
+    (2)  An insurance contract is not invalid as a result of a violation of this section.
+            
+357
+
+    
+    Section 7.  
+Section  
+31A-23b-202
+
+ is enacted to read:
+            
+358
+
+    
+     31A-23b-202.  Qualifications for a license.
+            
+359
+
+    
+    (1) (a)  The commissioner shall issue or renew a license to a person to act as a navigator
+            
+360
+
+    
+if the person:
+            
+361
+
+    
+    (i)  satisfies the:
+            
+362
+
+    
+    (A)  application requirements under Section 
+
+31A-23b-203
+
+;
+            
+363
+
+    
+    (B)  character requirements under Section 
+
+31A-23b-204
+
+;
+            
+364
+
+    
+    (C)  examination and training requirements under Section 
+
+31A-23b-205
+
+; and
+            
+365
+
+    
+    (D)  continuing education requirements under Section 
+
+31A-23b-206
+
+;
+            
+366
+
+    
+    (ii)  certifies that, to the extent applicable, the applicant:
+            
+367
+
+    
+    (A)  is in compliance with the surety bond requirements of Section 
+
+31A-23b-207
+
+; and
+            
+368
+
+    
+    (B)  will maintain compliance with Section 
+
+31A-23b-207
+
+ during the period for which
+
+            
+369
+
+
+    
+the license is issued or renewed; and
+            
+370
+
+    
+    (iii)  has not committed an act that is a ground for denial, suspension, or revocation as
+            
+371
+
+    
+provided in Section 
+
+31A-23b-401
+
+.
+            
+372
+
+    
+    (b)  A license issued under this chapter is valid for two years.
+            
+373
+
+    
+    (2) (a)  A person shall report to the commissioner:
+            
+374
+
+    
+    (i)  an administrative action taken against the person, including a denial of a new or
+            
+375
+
+    
+renewal license application:
+            
+376
+
+    
+    (A)  in another jurisdiction; or
+            
+377
+
+    
+    (B)  by another regulatory agency in this state; and
+            
+378
+
+    
+    (ii)  a criminal prosecution taken against the person in any jurisdiction.
+            
+379
+
+    
+    (b)  The report required by Subsection (2)(a) shall be filed:
+            
+380
+
+    
+    (i)  at the time the person files the application for an individual or agency license; and
+            
+381
+
+    
+    (ii)  for an action or prosecution that occurs on or after the day on which the person files
+            
+382
+
+    
+the application:
+            
+383
+
+    
+    (A)  for an administrative action, within 30 days of the final disposition of the
+            
+384
+
+    
+administrative action; or
+            
+385
+
+    
+    (B)  for a criminal prosecution, within 30 days of the initial appearance before a court.
+            
+386
+
+    
+    (c)  The report required by Subsection (2)(a) shall include a copy of the complaint or
+            
+387
+
+    
+other relevant legal documents related to the action or prosecution described in Subsection
+            
+388
+
+    
+(2)(a).
+            
+389
+
+    
+    (3) (a)  The department may require a person applying for a license to submit to a
+            
+390
+
+    
+criminal background check as a condition of receiving a license.
+            
+391
+
+    
+    (b)  A person, if required to submit to a criminal background check under Subsection
+            
+392
+
+    
+(3)(a), shall:
+            
+393
+
+    
+    (i)  submit a fingerprint card in a form acceptable to the department; and
+            
+394
+
+    
+    (ii)  consent to a fingerprint background check by:
+            
+395
+
+    
+    (A)  the Utah Bureau of Criminal Identification; and
+            
+396
+
+    
+    (B)  the Federal Bureau of Investigation.
+            
+397
+
+    
+    (c)  For a person who submits a fingerprint card and consents to a fingerprint
+            
+398
+
+    
+background check under Subsection (3)(b), the department may request:
+            
+399
+
+    
+    (i)  criminal background information maintained pursuant to Title 53, Chapter 10, Part
+
+            
+400
+
+
+    
+2, Bureau of Criminal Identification, from the Bureau of Criminal Identification; and
+            
+401
+
+    
+    (ii)  complete Federal Bureau of Investigation criminal background checks through the
+            
+402
+
+    
+national criminal history system.
+            
+403
+
+    
+    (d)  Information obtained by the department from the review of criminal history records
+            
+404
+
+    
+received under this Subsection (3) shall be used by the department for the purposes of:
+            
+405
+
+    
+    (i)  determining if a person satisfies the character requirements under Section
+            
+406
+
+    
+
+
+31A-23b-204
+
+ for issuance or renewal of a license;
+            
+407
+
+    
+    (ii)  determining if a person failed to maintain the character requirements under Section
+            
+408
+
+    
+
+
+31A-23b-204
+
+; and
+            
+409
+
+    
+    (iii)  preventing a person who violates the federal Violent Crime Control and Law
+            
+410
+
+    
+Enforcement Act of 1994, 18 U.S.C. Sec. 1033, from engaging in the business of a navigator or
+            
+411
+
+    
+in-person assistor in the state.
+            
+412
+
+    
+    (e)  If the department requests the criminal background information, the department
+            
+413
+
+    
+shall:
+            
+414
+
+    
+    (i)  pay to the Department of Public Safety the costs incurred by the Department of
+            
+415
+
+    
+Public Safety in providing the department criminal background information under Subsection
+            
+416
+
+    
+(3)(c)(i);
+            
+417
+
+    
+    (ii)  pay to the Federal Bureau of Investigation the costs incurred by the Federal Bureau
+            
+418
+
+    
+of Investigation in providing the department criminal background information under
+            
+419
+
+    
+Subsection (3)(c)(ii); and
+            
+420
+
+    
+    (iii)  charge the person applying for a license a fee equal to the aggregate of Subsections
+            
+421
+
+    
+(3)(e)(i) and (ii).
+            
+422
+
+    
+    (4)  The commissioner may deny an application for a license under this chapter if the
+            
+423
+
+    
+person applying for the license:
+            
+424
+
+    
+    (a)  fails to satisfy the requirements of this section; or
+            
+425
+
+    
+    (b)  commits an act that is grounds for denial, suspension, or revocation as set forth in
+            
+426
+
+    
+Section 
+
+31A-23b-401
+
+.
+            
+427
+
+    
+    Section 8.  
+Section  
+31A-23b-203
+
+ is enacted to read:
+            
+428
+
+    
+     31A-23b-203.  Application for individual license -- Application for agency license.
+            
+429
+
+    
+    (1)  This section applies to an initial or renewal license as a navigator.
+            
+430
+
+    
+    (2) (a)  Subject to Subsection (2)(b), to obtain or renew an individual license, an
+
+            
+431
+
+
+    
+individual shall:
+            
+432
+
+    
+    (i)  file an application for an initial or renewal individual license with the commissioner
+            
+433
+
+    
+on forms and in a manner the commissioner prescribes; and
+            
+434
+
+    
+    (ii)  pay a license fee that is not refunded if the application:
+            
+435
+
+    
+    (A)  is denied; or
+            
+436
+
+    
+    (B)  is incomplete when filed and is never completed by the applicant.
+            
+437
+
+    
+    (b)  An application described in this Subsection (2) shall provide:
+            
+438
+
+    
+    (i)  information about the applicant's identity;
+            
+439
+
+    
+    (ii)  the applicant's Social Security number;
+            
+440
+
+    
+    (iii)  the applicant's personal history, experience, education, and business record;
+            
+441
+
+    
+    (iv)  whether the applicant is 18 years of age or older;
+            
+442
+
+    
+    (v)  whether the applicant has committed an act that is a ground for denial, suspension,
+            
+443
+
+    
+or revocation as set forth in Section 
+
+31A-23b-401
+
+ or 
+
+31A-23b-402
+
+;
+            
+444
+
+    
+    (vi)  that the applicant complies with the surety bond requirements of Section
+            
+445
+
+    
+
+
+31A-23b-207
+
+;
+            
+446
+
+    
+    (vii)  that the applicant completed the training requirements in Section 
+
+31A-23b-205
+
+;
+            
+447
+
+    
+and
+            
+448
+
+    
+    (viii)  any other information the commissioner reasonably requires.
+            
+449
+
+    
+    (3)  The commissioner may require a document reasonably necessary to verify the
+            
+450
+
+    
+information contained in an application filed under this section.
+            
+451
+
+    
+    (4)  An applicant's Social Security number contained in an application filed under this
+            
+452
+
+    
+section is a private record under Section 
+
+63G-2-302
+
+.
+            
+453
+
+    
+    (5) (a)  Subject to Subsection (5)(b), to obtain or renew a navigator agency license, a
+            
+454
+
+    
+person shall:
+            
+455
+
+    
+    (i)  file an application for an initial or renewal navigator agency license with the
+            
+456
+
+    
+commissioner on forms and in a manner the commissioner prescribes; and
+            
+457
+
+    
+    (ii)  pay a license fee that is not refunded if the application:
+            
+458
+
+    
+    (A)  is denied; or
+            
+459
+
+    
+    (B)  is incomplete when filed and is never completed by the applicant.
+            
+460
+
+    
+    (b)  An application described in Subsection (5)(a) shall provide:
+            
+461
+
+    
+    (i)  information about the applicant's identity;
+
+            
+462
+
+
+    
+    (ii)  the applicant's federal employer identification number;
+            
+463
+
+    
+    (iii)  the designated responsible licensed individual;
+            
+464
+
+    
+    (iv)  the identity of the owners, partners, officers, and directors;
+            
+465
+
+    
+    (v)  whether the applicant, or individual identified in Subsections (5)(b)(iii) and (iv),
+            
+466
+
+    
+has committed an act that is a ground for denial, suspension, or revocation as set forth in
+            
+467
+
+    
+Section 
+
+31A-23b-401
+
+; and
+            
+468
+
+    
+    (vi)  any other information the commissioner reasonably requires.
+            
+469
+
+    
+    Section 9.  
+Section  
+31A-23b-204
+
+ is enacted to read:
+            
+470
+
+    
+     31A-23b-204.  Character requirements.
+            
+471
+
+    
+    An applicant for a license under this chapter shall demonstrate to the commissioner
+            
+472
+
+    
+that:
+            
+473
+
+    
+    (1)  the applicant has the intent, in good faith, to engage in the practice of a navigator as
+            
+474
+
+    
+the license would permit;
+            
+475
+
+    
+    (2) (a)  if a natural person, the applicant is competent and trustworthy; or
+            
+476
+
+    
+    (b)  if the applicant is an agency:
+            
+477
+
+    
+    (i)  the partners, directors, or principal officers or persons having comparable powers
+            
+478
+
+    
+are trustworthy; and
+            
+479
+
+    
+    (ii)  that it will transact business in a way that the acts that may only be performed by a
+            
+480
+
+    
+licensed navigator are performed only by a natural person who is licensed under this chapter, or
+            
+481
+
+    
+Chapter 23a, Insurance Marketing-Licensing Producers, Consultants, and Reinsurance
+            
+482
+
+    
+Intermediaries;
+            
+483
+
+    
+    (3)  the applicant intends to comply with the surety bond requirements of Section
+            
+484
+
+    
+
+
+31A-23b-207
+
+;
+            
+485
+
+    
+    (4)  if a natural person, the applicant is at least 18 years of age; and
+            
+486
+
+    
+    (5)  the applicant does not have a conflict of interest as defined by regulations issued
+            
+487
+
+    
+under PPACA.
+            
+488
+
+    
+    Section 10.  
+Section  
+31A-23b-205
+
+ is enacted to read:
+            
+489
+
+    
+     31A-23b-205.  Examination and training requirements.
+            
+490
+
+    
+    (1)  The commissioner may require applicants for a license to pass an examination and
+            
+491
+
+    
+complete a training program as a requirement for a license.
+            
+492
+
+    
+    (2)  The examination described in Subsection (1) shall reasonably relate to:
+
+            
+493
+
+
+    
+    (a)  the duties and functions of a navigator;
+            
+494
+
+    
+    (b)  requirements for navigators as established by federal regulation under PPACA; and
+            
+495
+
+    
+    (c)  other requirements that may be established by the commissioner by administrative
+            
+496
+
+    
+rule.
+            
+497
+
+    
+    (3)  The examination may be administered by the commissioner or as otherwise
+            
+498
+
+    
+specified by administrative rule.
+            
+499
+
+    
+    (4)  The training required by Subsection (1) shall be approved by the commissioner and
+            
+500
+
+    
+shall include:
+            
+501
+
+    
+    (a)  accident and health insurance plans;
+            
+502
+
+    
+    (b)  qualifications for and enrollment in public programs;
+            
+503
+
+    
+    (c)  qualifications for and enrollment in premium subsidies;
+            
+504
+
+    
+    (d)  cultural and linguistic competence;
+            
+505
+
+    
+    (e)  conflict of interest standards;
+            
+506
+
+    
+    (f)  exchange functions; and
+            
+507
+
+    
+    (g)  other requirements that may be adopted by the commissioner by administrative
+            
+508
+
+    
+rule.
+            
+509
+
+    
+    (5)  This section applies only to applicants who are natural persons.
+            
+510
+
+    
+    Section 11.  
+Section  
+31A-23b-206
+
+ is enacted to read:
+            
+511
+
+    
+     31A-23b-206.  Continuing education requirements.
+            
+512
+
+    
+    (1)  The commissioner shall, by rule, prescribe continuing education requirements for a
+            
+513
+
+    
+navigator.
+            
+514
+
+    
+    (2) (a)  The commissioner may not require a degree from an institution of higher
+            
+515
+
+    
+education as part of continuing education.
+            
+516
+
+    
+    (b)  The commissioner may state a continuing education requirement in terms of hours
+            
+517
+
+    
+of instruction received in:
+            
+518
+
+    
+    (i)  accident and health insurance;
+            
+519
+
+    
+    (ii)  qualification for and enrollment in public programs;
+            
+520
+
+    
+    (iii)  qualification for and enrollment in premium subsidies;
+            
+521
+
+    
+    (iv)  cultural competency;
+            
+522
+
+    
+    (v)  conflict of interest standards; and
+            
+523
+
+    
+    (vi)  other exchange functions.
+
+            
+524
+
+
+    
+    (3) (a)  Continuing education requirements shall require:
+            
+525
+
+    
+    (i)  that a licensee complete 24 credit hours of continuing education for every two-year
+            
+526
+
+    
+licensing period;
+            
+527
+
+    
+    (ii)  that 3 of the 24 credit hours described in Subsection (3)(a)(i) be ethics courses; and
+            
+528
+
+    
+    (iii)  that the licensee complete at least half of the required hours through classroom
+            
+529
+
+    
+hours of insurance and exchange related instruction.
+            
+530
+
+    
+    (b)  An hour of continuing education in accordance with Subsection (3)(a)(i) may be
+            
+531
+
+    
+obtained through:
+            
+532
+
+    
+    (i)  classroom attendance;
+            
+533
+
+    
+    (ii)  home study;
+            
+534
+
+    
+    (iii)  watching a video recording;
+            
+535
+
+    
+    (iv)  experience credit; or
+            
+536
+
+    
+    (v)  another method approved by rule.
+            
+537
+
+    
+    (c)  A licensee may obtain continuing education hours at any time during the two-year
+            
+538
+
+    
+license period.
+            
+539
+
+    
+    (d)  In accordance with Title 63G, Chapter 3, Utah Administrative Rulemaking Act, the
+            
+540
+
+    
+commissioner shall, by rule:
+            
+541
+
+    
+    (i)  publish a list of insurance professional designations whose continuing education
+            
+542
+
+    
+requirements can be used to meet the requirements for continuing education under Subsection
+            
+543
+
+    
+(3)(b); and
+            
+544
+
+    
+    (ii)  authorize one or more continuing education providers, including a state or national
+            
+545
+
+    
+professional producer or consultant associations, to:
+            
+546
+
+    
+    (A)  offer a qualified program on a geographically accessible basis; and
+            
+547
+
+    
+    (B)  collect a reasonable fee for funding and administration of a continuing education
+            
+548
+
+    
+program, subject to the review and approval of the commissioner.
+            
+549
+
+    
+    (4)  The commissioner shall approve a continuing education provider or a continuing
+            
+550
+
+    
+education course that satisfies the requirements of this section.
+            
+551
+
+    
+    (5)  In accordance with Title 63G, Chapter 3, Utah Administrative Rulemaking Act, the
+            
+552
+
+    
+commissioner shall by rule establish the procedures for continuing education provider
+            
+553
+
+    
+registration and course approval.
+            
+554
+
+    
+    (6)  This section applies only to a navigator who is a natural person.
+
+            
+555
+
+
+    
+    (7)  A navigator shall keep documentation of completing the continuing education
+            
+556
+
+    
+requirements of this section for two years after the end of the two-year licensing period to
+            
+557
+
+    
+which the continuing education applies.
+            
+558
+
+    
+    Section 12.  
+Section  
+31A-23b-207
+
+ is enacted to read:
+            
+559
+
+    
+     31A-23b-207.  Requirement to obtain surety bond.
+            
+560
+
+    
+    (1) (a)  Except as provided in Subsection (2), a navigator shall obtain a surety bond in
+            
+561
+
+    
+an amount designated by the commissioner by administrative rule to cover the legal liability of
+            
+562
+
+    
+the navigator as the result of an erroneous act or failure to act in the navigator's capacity as a
+            
+563
+
+    
+navigator.
+            
+564
+
+    
+    (b)  The navigator shall maintain the surety bond at all times during the term of the
+            
+565
+
+    
+navigator's license.
+            
+566
+
+    
+    (2)  A navigator is not required to obtain and maintain a surety bond during a period in
+            
+567
+
+    
+which the navigator's scope of practice is limited to assisting individuals with:
+            
+568
+
+    
+    (a)  enrollment in public programs; and
+            
+569
+
+    
+    (b)  qualification for premium and cost sharing subsidies.
+            
+570
+
+    
+    Section 13.  
+Section  
+31A-23b-208
+
+ is enacted to read:
+            
+571
+
+    
+     31A-23b-208.  Form and contents of license.
+            
+572
+
+    
+    (1)  A license issued under this chapter shall be in the form the commissioner prescribes
+            
+573
+
+    
+and shall set forth:
+            
+574
+
+    
+    (a)  the name and address of the licensee;
+            
+575
+
+    
+    (b)  the date of license issuance; and
+            
+576
+
+    
+    (c)  any other information the commissioner considers necessary.
+            
+577
+
+    
+    (2)  A licensee under this chapter doing business under a name other than the licensee's
+            
+578
+
+    
+legal name shall notify the commissioner before using the assumed name in this state.
+            
+579
+
+    
+    Section 14.  
+Section  
+31A-23b-209
+
+ is enacted to read:
+            
+580
+
+    
+     31A-23b-209.  Agency designations.
+            
+581
+
+    
+    (1)  An organization shall be licensed as a navigator agency if the organization acts as a
+            
+582
+
+    
+navigator.
+            
+583
+
+    
+    (2)  A navigator agency that does business in the state shall designate an individual who
+            
+584
+
+    
+is licensed under this chapter to act on the agency's behalf.
+            
+585
+
+    
+    (3)  A navigator agency shall report to the commissioner, at intervals and in the form
+
+            
+586
+
+
+    
+the commissioner establishes by rule:
+            
+587
+
+    
+    (a)  a new designation under Subsection (2); and
+            
+588
+
+    
+    (b)  a terminated designation under Subsection (2).
+            
+589
+
+    
+    (4) (a)  A navigator agency licensed under this chapter shall report to the commissioner
+            
+590
+
+    
+the cause of termination of a designation if:
+            
+591
+
+    
+    (i)  the reason for termination is a reason described in Subsection 
+
+31A-23b-401
+
+(4)(b);
+            
+592
+
+    
+or
+            
+593
+
+    
+    (ii)  the navigator agency has knowledge that the individual licensee engaged in an
+            
+594
+
+    
+activity described in Subsection 
+
+31A-23b-401
+
+(4)(b) by:
+            
+595
+
+    
+    (A)  a court;
+            
+596
+
+    
+    (B)  a government body; or
+            
+597
+
+    
+    (C)  a self-regulatory organization, which the commissioner may define by rule made in
+            
+598
+
+    
+accordance with Title 63G, Chapter 3, Utah Administrative Rulemaking Act.
+            
+599
+
+    
+    (b)  The information provided to the commissioner under Subsection (4)(a) is a private
+            
+600
+
+    
+record under Title 63G, Chapter 2, Government Records Access and Management Act.
+            
+601
+
+    
+    (c)  A navigator agency is immune from civil action, civil penalty, or damages if the
+            
+602
+
+    
+agency complies in good faith with this Subsection (4) by reporting to the commissioner the
+            
+603
+
+    
+cause of termination of a designation.
+            
+604
+
+    
+    (d)  A navigator agency is not immune from an action or resulting penalty imposed on
+            
+605
+
+    
+the reporting agency as a result of proceedings brought by or on behalf of the department if the
+            
+606
+
+    
+action is based on evidence other than the report submitted in compliance with this Subsection
+            
+607
+
+    
+(4).
+            
+608
+
+    
+    (5)  A navigator agency licensed under this chapter may act in a capacity for which it is
+            
+609
+
+    
+licensed only through an individual who is licensed under this chapter to act in the same
+            
+610
+
+    
+capacity.
+            
+611
+
+    
+    (6)  A navigator agency licensed under this chapter shall designate and report to the
+            
+612
+
+    
+commissioner, in accordance with any rule made by the commissioner, the name of the
+            
+613
+
+    
+designated responsible licensed individual who has authority to act on behalf of the navigator
+            
+614
+
+    
+agency in the matters pertaining to compliance with this title and orders of the commissioner.
+            
+615
+
+    
+    (7)  If a navigator agency designates a licensee in reports submitted under Subsection
+            
+616
+
+    
+(3) or (6), there is a rebuttable presumption that the designated licensee acts on behalf of the
+
+            
+617
+
+
+    
+navigator agency.
+            
+618
+
+    
+    (8) (a)  When a license is held by a navigator agency, both the navigator agency itself
+            
+619
+
+    
+and any individual designated under the navigator agency license are considered the holders of
+            
+620
+
+    
+the navigator agency license for purposes of this section.
+            
+621
+
+    
+    (b)  If an individual designated under the navigator agency license commits an act or
+            
+622
+
+    
+fails to perform a duty that is a ground for suspending, revoking, or limiting the navigator
+            
+623
+
+    
+agency license, the commissioner may suspend, revoke, or limit the license of:
+            
+624
+
+    
+    (i)  the individual;
+            
+625
+
+    
+    (ii)  the navigator agency, if the navigator agency:
+            
+626
+
+    
+    (A)  is reckless or negligent in its supervision of the individual; or
+            
+627
+
+    
+    (B)  knowingly participates in the act or failure to act that is the ground for suspending,
+            
+628
+
+    
+revoking, or limiting the license; or
+            
+629
+
+    
+    (iii) (A)  the individual; and
+            
+630
+
+    
+    (B)  the navigator agency, if the agency meets the requirements of Subsection (8)(b)(ii).
+            
+631
+
+    
+    Section 15.  
+Section  
+31A-23b-210
+
+ is enacted to read:
+            
+632
+
+    
+     31A-23b-210.  Place of business and residence address -- Records.
+            
+633
+
+    
+    (1) (a)  A licensee under this chapter shall register and maintain with the commissioner:
+            
+634
+
+    
+    (i)  the address and telephone numbers of the licensee's principal place of business; and
+            
+635
+
+    
+    (ii)  a valid business email address at which the commissioner may contact the licensee.
+            
+636
+
+    
+    (b)  If a licensee is an individual, in addition to complying with Subsection (1)(a), the
+            
+637
+
+    
+individual shall register and maintain with the commissioner the individual's residence address
+            
+638
+
+    
+and telephone number.
+            
+639
+
+    
+    (c)  A licensee shall notify the commissioner within 30 days of a change of any of the
+            
+640
+
+    
+following required to be registered with the commissioner under this section:
+            
+641
+
+    
+    (i)  an address;
+            
+642
+
+    
+    (ii)  a telephone number; or
+            
+643
+
+    
+    (iii)  a business email address.
+            
+644
+
+    
+    (2)  Except as provided under Subsection (3), a licensee under this chapter shall keep at
+            
+645
+
+    
+the principal place of business address registered under Subsection (1), separate and distinct
+            
+646
+
+    
+books and records of the transactions consummated under the Utah license.
+            
+647
+
+    
+    (3)  Subsection (2) is satisfied if the books and records specified in Subsection (2) can
+
+            
+648
+
+
+    
+be obtained immediately from a central storage place or elsewhere by online computer
+            
+649
+
+    
+terminals located at the registered address.
+            
+650
+
+    
+    (4) (a)  The books and records maintained under Subsection (2) shall be available for
+            
+651
+
+    
+the inspection by the commissioner during the business hours for a period of time after the date
+            
+652
+
+    
+of the transaction as specified by the commissioner by rule, but in no case for less than the
+            
+653
+
+    
+current calendar year plus three years.
+            
+654
+
+    
+    (b)  Discarding books and records after the applicable record retention period has
+            
+655
+
+    
+expired does not place the licensee in violation of a later-adopted longer record retention
+            
+656
+
+    
+period.
+            
+657
+
+    
+    Section 16.  
+Section  
+31A-23b-211
+
+ is enacted to read:
+            
+658
+
+    
+     31A-23b-211.  Exceptions to navigator licensing.
+            
+659
+
+    
+    (1)  For purposes of this section:
+            
+660
+
+    
+    (a)  "Negotiate" is as defined in Section 
+
+31A-23a-102
+
+.
+            
+661
+
+    
+    (b)  "Sell" is as defined in Section 
+
+31A-23a-102
+
+.
+            
+662
+
+    
+    (c)  "Solicit" is as defined in Section 
+
+31A-23a-102
+
+.
+            
+663
+
+    
+    (2)  The commissioner may not require a license as a navigator of:
+            
+664
+
+    
+    (a)  a person who is employed by or contracts with:
+            
+665
+
+    
+    (i)  a health care facility that is licensed under Title 26, Chapter 21, Health Care Facility
+            
+666
+
+    
+Licensing and Inspection Act, to assist an individual with enrollment in a public program; or
+            
+667
+
+    
+    (ii)  the state, a political subdivision of the state, an entity of a political subdivision of
+            
+668
+
+    
+the state, or a public school district to assist an individual with enrollment in a public program;
+            
+669
+
+    
+    (b)  a federally qualified health center as defined by Section 1905(1)(2)(B) of the Social
+            
+670
+
+    
+Security Act which assists an individual with enrollment in a public program;
+            
+671
+
+    
+    (c)  a person licensed under Chapter 23a, Insurance Marketing-Licensing, Consultants,
+            
+672
+
+    
+and Reinsurance Intermediaries, if the person is licensed in the appropriate line of authority to
+            
+673
+
+    
+sell, solicit, or negotiate accident and health insurance plans;
+            
+674
+
+    
+    (d)  an officer, director, or employee of a navigator:
+            
+675
+
+    
+    (i)  who does not receive compensation or commission from an insurer issuing an
+            
+676
+
+    
+insurance contract, an agency administering a public program, an individual who enrolled in a
+            
+677
+
+    
+public program or insurance product, or an exchange; and
+            
+678
+
+    
+    (ii)  whose activities:
+
+            
+679
+
+
+    
+    (A)  are executive, administrative, managerial, clerical, or a combination thereof;
+            
+680
+
+    
+    (B)  only indirectly relate to the sale, solicitation, or negotiation of insurance, or the
+            
+681
+
+    
+enrollment in a public program offered through the exchange;
+            
+682
+
+    
+    (C)  are in the capacity of a special agent or agency supervisor assisting an insurance
+            
+683
+
+    
+producer or navigator;
+            
+684
+
+    
+    (D)  are limited to providing technical advice and assistance to a licensed insurance
+            
+685
+
+    
+producer or navigator; or
+            
+686
+
+    
+    (E)  do not include the sale, solicitation, or negotiation of insurance, or the enrollment
+            
+687
+
+    
+in a public program; and
+            
+688
+
+    
+    (e)  a person who does not sell, solicit, or negotiate insurance and is not directly or
+            
+689
+
+    
+indirectly compensated by an insurer issuing an insurance contract, an agency administering a
+            
+690
+
+    
+public program, an individual who enrolled in a public program or insurance product, or an
+            
+691
+
+    
+exchange, including:
+            
+692
+
+    
+    (i)  an employer, association, officer, director, employee, or trustee of an employee trust
+            
+693
+
+    
+plan who is engaged in the administration or operation of a program:
+            
+694
+
+    
+    (A)  of employee benefits for the employer's or association's own employees or the
+            
+695
+
+    
+employees of a subsidiary or affiliate of an employer or association; and
+            
+696
+
+    
+    (B)  that involves the use of insurance issued by an insurer or enrollment in a public
+            
+697
+
+    
+health plan on an exchange;
+            
+698
+
+    
+    (ii)  an employee of an insurer or organization employed by an insurer who is engaging
+            
+699
+
+    
+in the inspection, rating, or classification of risk, or the supervision of training of insurance
+            
+700
+
+    
+producers; or
+            
+701
+
+    
+    (iii)  an employee who counsels or advises the employee's employer with regard to the
+            
+702
+
+    
+insurance interests of the employer, or a subsidiary or business affiliate of the employer.
+            
+703
+
+    
+    (3)  The commissioner may by rule exempt a class of persons from the license
+            
+704
+
+    
+requirement of Subsection 
+
+31A-23b-201
+
+(1) if:
+            
+705
+
+    
+    (a)  the functions performed by the class of persons do not require:
+            
+706
+
+    
+    (i)  special competence;
+            
+707
+
+    
+    (ii)  special trustworthiness; or
+            
+708
+
+    
+    (iii)  regulatory surveillance made possible by licensing; or
+            
+709
+
+    
+    (b)  other existing safeguards make regulation unnecessary.
+
+            
+710
+
+
+    
+    Section 17.  
+Section  
+31A-23b-301
+
+ is enacted to read:
+            
+711
+
+    
+ Part 3.  Unlawful Conduct and Limitation of Scope of Practice
+
+            
+712
+
+    
+     31A-23b-301.  Unfair practices -- Compensation -- Limit of scope of practice.
+            
+713
+
+    
+    (1)  As used in this section, "false or misleading information" includes, with intent to
+            
+714
+
+    
+deceive a person examining it:
+            
+715
+
+    
+    (a)  filing a report;
+            
+716
+
+    
+    (b)  making a false entry in a record; or
+            
+717
+
+    
+    (c)  willfully refraining from making a proper entry in a record.
+            
+718
+
+    
+    (2) (a)  Communication that contains false or misleading information relating to
+            
+719
+
+    
+enrollment in an insurance plan or a public program, including information that is false or
+            
+720
+
+    
+misleading because it is incomplete, may not be made by:
+            
+721
+
+    
+    (i)  a person who is or should be licensed under this title;
+            
+722
+
+    
+    (ii)  an employee of a person described in Subsection (2)(a)(i);
+            
+723
+
+    
+    (iii)  a person whose primary interest is as a competitor of a person licensed under this
+            
+724
+
+    
+title; and
+            
+725
+
+    
+    (iv)  a person on behalf of any of the persons listed in this Subsection (2)(a).
+            
+726
+
+    
+    (b)  A licensee under this chapter may not:
+            
+727
+
+    
+    (i)  use any business name, slogan, emblem, or related device that is misleading or
+            
+728
+
+    
+likely to cause the exchange, insurer, or other licensee to be mistaken for another governmental
+            
+729
+
+    
+agency, a PPACA exchange, insurer, or other licensee already in business; or
+            
+730
+
+    
+    (ii)  use any advertisement or other insurance promotional material that would cause a
+            
+731
+
+    
+reasonable person to mistakenly believe that a state or federal government agency, public
+            
+732
+
+    
+program, or insurer:
+            
+733
+
+    
+    (A)  is responsible for the insurance or public program enrollment assistance activities
+            
+734
+
+    
+of the person;
+            
+735
+
+    
+    (B)  stands behind the credit of the person; or
+            
+736
+
+    
+    (C)  is a source of payment of any insurance obligation of or sold by the person.
+            
+737
+
+    
+    (c)  A person who is not an insurer may not assume or use any name that deceptively
+            
+738
+
+    
+implies or suggests that person is an insurer.
+            
+739
+
+    
+    (3)  A person may not engage in an unfair method of competition or any other unfair or
+            
+740
+
+    
+deceptive act or practice in the business of insurance, as defined by the commissioner by rule,
+
+            
+741
+
+
+    
+after a finding that the method of competition, the act, or the practice:
+            
+742
+
+    
+    (a)  is misleading;
+            
+743
+
+    
+    (b)  is deceptive;
+            
+744
+
+    
+    (c)  is unfairly discriminatory;
+            
+745
+
+    
+    (d)  provides an unfair inducement; or
+            
+746
+
+    
+    (e)  unreasonably restrains competition.
+            
+747
+
+    
+    (4)  A navigator licensed under this chapter is subject to the inducement provisions of
+            
+748
+
+    
+Section 
+
+31A-23a-402.5
+
+.
+            
+749
+
+    
+    (5)  A navigator licensed under this chapter or who should be licensed under this
+            
+750
+
+    
+chapter:
+            
+751
+
+    
+    (a)  may not receive direct or indirect compensation from an accident or health insurer
+            
+752
+
+    
+or from an individual who receives services from a navigator in accordance with:
+            
+753
+
+    
+    (i)  federal conflict of interest regulations established pursuant to PPACA; and
+            
+754
+
+    
+    (ii)  administrative rule adopted by the department;
+            
+755
+
+    
+    (b)  may be compensated by the exchange for performing the duties of a navigator;
+            
+756
+
+    
+    (c) (i)  may perform, offer to perform, or advertise a service as a navigator only for a
+            
+757
+
+    
+person selecting a qualified health plan or public program offered on an exchange; and
+            
+758
+
+    
+    (ii)  may not perform, offer to perform, or advertise any services as a navigator for
+            
+759
+
+    
+individuals or small employer groups selecting accident and health insurance plans, qualified
+            
+760
+
+    
+health plans, public programs, business, or services that are not offered on an exchange; and
+            
+761
+
+    
+    (d)  may not recommend a particular accident and health insurance plan or qualified
+            
+762
+
+    
+health plan.
+            
+763
+
+    
+    Section 18.  
+Section  
+31A-23b-401
+
+ is enacted to read:
+            
+764
+
+    
+ Part 4.  License Denial and Discipline
+
+            
+765
+
+    
+     31A-23b-401.  Revocation, suspension, surrender, lapsing, limiting, or otherwise
+            
+766
+
+    
+ terminating a license -- Rulemaking for renewal or reinstatement.
+            
+767
+
+    
+    (1)  A license as a navigator under this chapter remains in force until:
+            
+768
+
+    
+    (a)  revoked or suspended under Subsection (4);
+            
+769
+
+    
+    (b)  surrendered to the commissioner and accepted by the commissioner in lieu of
+            
+770
+
+    
+administrative action;
+            
+771
+
+    
+    (c)  the licensee dies or is adjudicated incompetent as defined under:
+
+            
+772
+
+
+    
+    (i)  Title 75, Chapter 5, Part 3, Guardians of Incapacitated Persons; or
+            
+773
+
+    
+    (ii)  Title 75, Chapter 5, Part 4, Protection of Property of Persons Under Disability and
+            
+774
+
+    
+Minors;
+            
+775
+
+    
+    (d)  lapsed under this section; or
+            
+776
+
+    
+    (e)  voluntarily surrendered.
+            
+777
+
+    
+    (2)  The following may be reinstated within one year after the day on which the license
+            
+778
+
+    
+is no longer in force:
+            
+779
+
+    
+    (a)  a lapsed license; or
+            
+780
+
+    
+    (b)  a voluntarily surrendered license, except that a voluntarily surrendered license may
+            
+781
+
+    
+not be reinstated after the license period in which the license is voluntarily surrendered.
+            
+782
+
+    
+    (3)  Unless otherwise stated in a written agreement for the voluntary surrender of a
+            
+783
+
+    
+license, submission and acceptance of a voluntary surrender of a license does not prevent the
+            
+784
+
+    
+department from pursuing additional disciplinary or other action authorized under:
+            
+785
+
+    
+    (a)  this title; or
+            
+786
+
+    
+    (b)  rules made under this title in accordance with Title 63G, Chapter 3, Utah
+            
+787
+
+    
+Administrative Rulemaking Act.
+            
+788
+
+    
+    (4) (a)  If the commissioner makes a finding under Subsection (4)(b), as part of an
+            
+789
+
+    
+adjudicative proceeding under Title 63G, Chapter 4, Administrative Procedures Act, the
+            
+790
+
+    
+commissioner may:
+            
+791
+
+    
+    (i)  revoke a license;
+            
+792
+
+    
+    (ii)  suspend a license for a specified period of 12 months or less;
+            
+793
+
+    
+    (iii)  limit a license in whole or in part; or
+            
+794
+
+    
+    (iv)  deny a license application.
+            
+795
+
+    
+    (b)  The commissioner may take an action described in Subsection (4)(a) if the
+            
+796
+
+    
+commissioner finds that the licensee:
+            
+797
+
+    
+    (i)  is unqualified for a license under Section 
+
+31A-23b-204
+
+, 
+
+31A-23b-205
+
+, or
+            
+798
+
+    
+
+
+31A-23b-206
+
+;
+            
+799
+
+    
+    (ii)  violated:
+            
+800
+
+    
+    (A)  an insurance statute;
+            
+801
+
+    
+    (B)  a rule that is valid under Subsection 
+
+31A-2-201
+
+(3); or
+            
+802
+
+    
+    (C)  an order that is valid under Subsection 
+
+31A-2-201
+
+(4);
+
+            
+803
+
+
+    
+    (iii)  is insolvent or the subject of receivership, conservatorship, rehabilitation, or other
+            
+804
+
+    
+delinquency proceedings in any state;
+            
+805
+
+    
+    (iv)  failed to pay a final judgment rendered against the person in this state within 60
+            
+806
+
+    
+days after the day on which the judgment became final;
+            
+807
+
+    
+    (v)  refused:
+            
+808
+
+    
+    (A)  to be examined; or
+            
+809
+
+    
+    (B)  to produce its accounts, records, and files for examination;
+            
+810
+
+    
+    (vi)  had an officer who refused to:
+            
+811
+
+    
+    (A)  give information with respect to the navigator's affairs; or
+            
+812
+
+    
+    (B)  perform any other legal obligation as to an examination;
+            
+813
+
+    
+    (vii)  provided information in the license application that is:
+            
+814
+
+    
+    (A)  incorrect;
+            
+815
+
+    
+    (B)  misleading;
+            
+816
+
+    
+    (C)  incomplete; or
+            
+817
+
+    
+    (D)  materially untrue;
+            
+818
+
+    
+    (viii)  violated an insurance law, valid rule, or valid order of another state's insurance
+            
+819
+
+    
+department;
+            
+820
+
+    
+    (ix)  obtained or attempted to obtain a license through misrepresentation or fraud;
+            
+821
+
+    
+    (x)  improperly withheld, misappropriated, or converted money or properties received
+            
+822
+
+    
+in the course of doing insurance business;
+            
+823
+
+    
+    (xi)  intentionally misrepresented the terms of an actual or proposed:
+            
+824
+
+    
+    (A)  insurance contract;
+            
+825
+
+    
+    (B)  application for insurance; or
+            
+826
+
+    
+    (C)  application for public program;
+            
+827
+
+    
+    (xii)  is convicted of a felony;
+            
+828
+
+    
+    (xiii)  admitted or is found to have committed an insurance unfair trade practice or
+            
+829
+
+    
+fraud;
+            
+830
+
+    
+    (xiv)  in the conduct of business in this state or elsewhere:
+            
+831
+
+    
+    (A)  used fraudulent, coercive, or dishonest practices; or
+            
+832
+
+    
+    (B)  demonstrated incompetence, untrustworthiness, or financial irresponsibility;
+            
+833
+
+    
+    (xv)  had an insurance license, navigator license, or its equivalent, denied, suspended,
+
+            
+834
+
+
+    
+or revoked in another state, province, district, or territory;
+            
+835
+
+    
+    (xvi)  forged another's name to:
+            
+836
+
+    
+    (A)  an application for insurance;
+            
+837
+
+    
+    (B)  a document related to an insurance transaction;
+            
+838
+
+    
+    (C)  a document related to an application for a public program; or
+            
+839
+
+    
+    (D)  a document related to an application for premium subsidies;
+            
+840
+
+    
+    (xvii)  improperly used notes or another reference material to complete an examination
+            
+841
+
+    
+for a license;
+            
+842
+
+    
+    (xviii)  knowingly accepted insurance business from an individual who is not licensed;
+            
+843
+
+    
+    (xix)  failed to comply with an administrative or court order imposing a child support
+            
+844
+
+    
+obligation;
+            
+845
+
+    
+    (xx)  failed to:
+            
+846
+
+    
+    (A)  pay state income tax; or
+            
+847
+
+    
+    (B)  comply with an administrative or court order directing payment of state income
+            
+848
+
+    
+tax;
+            
+849
+
+    
+    (xxi)  violated or permitted others to violate the federal Violent Crime Control and Law
+            
+850
+
+    
+Enforcement Act of 1994, 18 U.S.C. Sec. 1033 and therefore under 18 U.S.C. Sec. 1033 is
+            
+851
+
+    
+prohibited from engaging in the business of insurance; or
+            
+852
+
+    
+    (xxii)  engaged in a method or practice in the conduct of business that endangered the
+            
+853
+
+    
+legitimate interests of customers and the public.
+            
+854
+
+    
+    (c)  For purposes of this section, if a license is held by an agency, both the agency itself
+            
+855
+
+    
+and any individual designated under the license are considered to be the holders of the license.
+            
+856
+
+    
+    (d)  If an individual designated under the agency license commits an act or fails to
+            
+857
+
+    
+perform a duty that is a ground for suspending, revoking, or limiting the individual's license,
+            
+858
+
+    
+the commissioner may suspend, revoke, or limit the license of:
+            
+859
+
+    
+    (i)  the individual;
+            
+860
+
+    
+    (ii)  the agency, if the agency:
+            
+861
+
+    
+    (A)  is reckless or negligent in its supervision of the individual; or
+            
+862
+
+    
+    (B)  knowingly participates in the act or failure to act that is the ground for suspending,
+            
+863
+
+    
+revoking, or limiting the license; or
+            
+864
+
+    
+    (iii) (A)  the individual; and
+
+            
+865
+
+
+    
+    (B)  the agency if the agency meets the requirements of Subsection (4)(d)(ii).
+            
+866
+
+    
+    (5)  A licensee under this chapter is subject to the penalties for acting as a licensee
+            
+867
+
+    
+without a license if:
+            
+868
+
+    
+    (a)  the licensee's license is:
+            
+869
+
+    
+    (i)  revoked;
+            
+870
+
+    
+    (ii)  suspended;
+            
+871
+
+    
+    (iii)  surrendered in lieu of administrative action;
+            
+872
+
+    
+    (iv)  lapsed; or
+            
+873
+
+    
+    (v)  voluntarily surrendered; and
+            
+874
+
+    
+    (b)  the licensee:
+            
+875
+
+    
+    (i)  continues to act as a licensee; or
+            
+876
+
+    
+    (ii)  violates the terms of the license limitation.
+            
+877
+
+    
+    (6)  A licensee under this chapter shall immediately report to the commissioner:
+            
+878
+
+    
+    (a)  a revocation, suspension, or limitation of the person's license in another state, the
+            
+879
+
+    
+District of Columbia, or a territory of the United States;
+            
+880
+
+    
+    (b)  the imposition of a disciplinary sanction imposed on that person by another state,
+            
+881
+
+    
+the District of Columbia, or a territory of the United States; or
+            
+882
+
+    
+    (c)  a judgment or injunction entered against that person on the basis of conduct
+            
+883
+
+    
+involving:
+            
+884
+
+    
+    (i)  fraud;
+            
+885
+
+    
+    (ii)  deceit;
+            
+886
+
+    
+    (iii)  misrepresentation; or
+            
+887
+
+    
+    (iv)  a violation of an insurance law or rule.
+            
+888
+
+    
+    (7) (a)  An order revoking a license under Subsection (4) or an agreement to surrender a
+            
+889
+
+    
+license in lieu of administrative action may specify a time, not to exceed five years, within
+            
+890
+
+    
+which the former licensee may not apply for a new license.
+            
+891
+
+    
+    (b)  If no time is specified in an order or agreement described in Subsection (7)(a), the
+            
+892
+
+    
+former licensee may not apply for a new license for five years from the day on which the order
+            
+893
+
+    
+or agreement is made without the express approval of the commissioner.
+            
+894
+
+    
+    (8)  The commissioner shall promptly withhold, suspend, restrict, or reinstate the use of
+            
+895
+
+    
+a license issued under this chapter if so ordered by a court.
+
+            
+896
+
+
+    
+    (9)  The commissioner shall by rule prescribe the license renewal and reinstatement
+            
+897
+
+    
+procedures in accordance with Title 63G, Chapter 3, Utah Administrative Rulemaking Act.
+            
+898
+
+    
+    Section 19.  
+Section  
+31A-23b-402
+
+ is enacted to read:
+            
+899
+
+    
+     31A-23b-402.  Probation -- Grounds for revocation.
+            
+900
+
+    
+    (1)  The commissioner may place a licensee on probation for a period not to exceed 24
+            
+901
+
+    
+months as follows:
+            
+902
+
+    
+    (a)  after an adjudicative proceeding under Title 63G, Chapter 4, Administrative
+            
+903
+
+    
+Procedures Act, for any circumstances that would justify a suspension under this section; or
+            
+904
+
+    
+    (b)  at the issuance of a new license:
+            
+905
+
+    
+    (i)  with an admitted violation under 18 U.S.C. Secs. 1033 and 1034; or
+            
+906
+
+    
+    (ii)  with a response to background information questions on a new license application
+            
+907
+
+    
+indicating that:
+            
+908
+
+    
+    (A)  the person has been convicted of a crime that is listed by rule made in accordance
+            
+909
+
+    
+with Title 63G, Chapter 3, Utah Administrative Rulemaking Act, as a crime that is a ground for
+            
+910
+
+    
+probation;
+            
+911
+
+    
+    (B)  the person is currently charged with a crime that is listed by rule made in
+            
+912
+
+    
+accordance with Title 63G, Chapter 3, Utah Administrative Rulemaking Act, as a crime that is
+            
+913
+
+    
+a ground for probation regardless of whether adjudication is withheld;
+            
+914
+
+    
+    (C)  the person has been involved in an administrative proceeding regarding any
+            
+915
+
+    
+professional or occupational license; or
+            
+916
+
+    
+    (D)  any business in which the person is or was an owner, partner, officer, or director
+            
+917
+
+    
+has been involved in an administrative proceeding regarding any professional or occupational
+            
+918
+
+    
+license.
+            
+919
+
+    
+    (2)  The commissioner may place a licensee on probation for a specified period no
+            
+920
+
+    
+longer than 24 months if the licensee has admitted to a violation under 18 U.S.C. Secs. 1033
+            
+921
+
+    
+and 1034.
+            
+922
+
+    
+    (3)  The probation order shall state the conditions for revocation or retention of the
+            
+923
+
+    
+license, which shall be reasonable.
+            
+924
+
+    
+    (4)  Any violation of the probation is a ground for revocation pursuant to any
+            
+925
+
+    
+proceeding authorized under Title 63G, Chapter 4, Administrative Procedures Act.
+            
+926
+
+    
+    Section 20.  
+Section  
+31A-23b-403
+
+ is enacted to read:
+
+            
+927
+
+
+    
+     31A-23b-403.  License lapse and voluntary surrender.
+            
+928
+
+    
+    (1) (a)  A license issued under this chapter shall lapse if the licensee fails to:
+            
+929
+
+    
+    (i)  pay when due a fee under Section 
+
+31A-3-103
+
+;
+            
+930
+
+    
+    (ii)  complete continuing education requirements under Section 
+
+31A-23b-206
+
+ before
+            
+931
+
+    
+submitting the license renewal application;
+            
+932
+
+    
+    (iii)  submit a completed renewal application as required by Section 
+
+31A-23b-203
+
+;
+            
+933
+
+    
+    (iv)  submit additional documentation required to complete the licensing process; or
+            
+934
+
+    
+    (v)  maintain an active license in a resident state if the licensee is a nonresident
+            
+935
+
+    
+licensee.
+            
+936
+
+    
+    (b) (i)  A licensee whose license lapses due to the following may request an action
+            
+937
+
+    
+described in Subsection (1)(b)(ii):
+            
+938
+
+    
+    (A)  military service;
+            
+939
+
+    
+    (B)  voluntary service for a period of time designated by the person for whom the
+            
+940
+
+    
+licensee provides voluntary service; or
+            
+941
+
+    
+    (C)  other extenuating circumstances, including long-term medical disability.
+            
+942
+
+    
+    (ii)  A licensee described in Subsection (1)(b)(i) may request:
+            
+943
+
+    
+    (A)  reinstatement of the license no later than one year after the day on which the
+            
+944
+
+    
+license lapses; and
+            
+945
+
+    
+    (B)  waiver of any of the following imposed for failure to comply with renewal
+            
+946
+
+    
+procedures:
+            
+947
+
+    
+    (I)  an examination requirement;
+            
+948
+
+    
+    (II)  reinstatement fees set under Section 
+
+31A-3-103
+
+;
+            
+949
+
+    
+    (III)  continuing education requirements; or
+            
+950
+
+    
+    (IV)  other sanctions imposed for failure to comply with renewal procedures.
+            
+951
+
+    
+    (2)  If a license issued under this chapter is voluntarily surrendered, the license may be
+            
+952
+
+    
+reinstated:
+            
+953
+
+    
+    (a)  during the license period in which the license is voluntarily surrendered; and
+            
+954
+
+    
+    (b)  no later than one year after the day on which the license is voluntarily surrendered.
+            
+955
+
+    
+    (3)  A voluntarily surrendered license that is reinstated during the license period set
+            
+956
+
+    
+forth in Subsection (2) may not be reinstated until the person who voluntarily surrendered the
+            
+957
+
+    
+license complies with any applicable continuing education requirements for the period during
+
+            
+958
+
+
+    
+which the license was voluntarily surrendered.
+            
+959
+
+    
+    Section 21.  
+Section  
+31A-23b-404
+
+ is enacted to read:
+            
+960
+
+    
+     31A-23b-404.  Penalties.
+            
+961
+
+    
+    (1) (a)  If, after notice and opportunity to be heard, the commissioner finds that the
+            
+962
+
+    
+navigator or any other person has not materially complied with this part, or any rule made or
+            
+963
+
+    
+order issued under this chapter, the commissioner may order the navigator or other person to
+            
+964
+
+    
+cease doing business in the state.
+            
+965
+
+    
+    (b)  If the commissioner finds that because of the material noncompliance an insurer,
+            
+966
+
+    
+any policyholder of an insurer, or a recipient of a public program who used the services of the
+            
+967
+
+    
+navigator or other person has suffered any loss or damage due to the material noncompliance,
+            
+968
+
+    
+the commissioner may:
+            
+969
+
+    
+    (i)  maintain a civil action or may intervene in an action brought by or on behalf of the
+            
+970
+
+    
+insurer, policyholder, or the recipient of the public program, for recovery of compensatory
+            
+971
+
+    
+damages for the benefit of the insurer, policyholder, or recipient of a public program; or
+            
+972
+
+    
+    (ii)  seek other appropriate relief.
+            
+973
+
+    
+    (2)  Nothing in this section affects the right of the commissioner to impose any other
+            
+974
+
+    
+penalties provided for in this title.
+            
+975
+
+    
+    (3)  Nothing contained in this section is intended to or shall in any manner alter or
+            
+976
+
+    
+affect the rights of policyholders, claimants, creditors, or other third parties.
+            
+977
+
+    
+    Section 22.  
+Section  
+31A-30-104
+
+ is amended to read:
+            
+978
+
+    
+     31A-30-104.  Applicability and scope.
+            
+979
+
+    
+    (1)  This chapter applies to any:
+            
+980
+
+    
+    (a)  health benefit plan that provides coverage to:
+            
+981
+
+    
+    (i)  individuals;
+            
+982
+
+    
+    (ii)  small employers; or
+            
+983
+
+    
+    (iii)  both Subsections (1)(a)(i) and (ii); or
+            
+984
+
+    
+    (b)  individual conversion policy for purposes of Sections 
+
+31A-30-106.5
+
+ and
+            
+985
+
+    
+
+31A-30-107.5
+
+.
+            
+986
+
+    
+    (2)  This chapter applies to a health benefit plan that provides coverage to small
+            
+987
+
+    
+employers or individuals regardless of:
+            
+988
+
+    
+    (a)  whether the contract is issued to:
+
+            
+989
+
+
+    
+    (i)  an association;
+            
+990
+
+    
+    (ii)  a trust;
+            
+991
+
+    
+    (iii)  a discretionary group; or
+            
+992
+
+    
+    (iv)  other similar grouping; or
+            
+993
+
+    
+    (b)  the situs of delivery of the policy or contract.
+            
+994
+
+    
+    (3)  This chapter does not apply to:
+            
+995
+
+    
+    (a)  short-term limited duration health insurance; or
+            
+996
+
+    
+    (b)  federally funded or partially funded programs.
+            
+997
+
+    
+    (4) (a)  Except as provided in Subsection (4)(b), for the purposes of this chapter:
+            
+998
+
+    
+    (i)  carriers that are affiliated companies or that are eligible to file a consolidated tax
+            
+999
+
+    
+return shall be treated as one carrier; and
+            
+1000
+
+    
+    (ii)  any restrictions or limitations imposed by this chapter shall apply as if all health
+            
+1001
+
+    
+benefit plans delivered or issued for delivery to covered insureds in this state by the affiliated
+            
+1002
+
+    
+carriers were issued by one carrier.
+            
+1003
+
+    
+    (b)  Upon a finding of the commissioner, an affiliated carrier that is a health
+            
+1004
+
+    
+maintenance organization having a certificate of authority under this title may be considered to
+            
+1005
+
+    
+be a separate carrier for the purposes of this chapter.
+            
+1006
+
+    
+    (c)  Unless otherwise authorized by the commissioner or by Chapter 42, Defined
+            
+1007
+
+    
+Contribution Risk Adjuster Act, a covered carrier may not enter into one or more ceding
+            
+1008
+
+    
+arrangements with respect to health benefit plans delivered or issued for delivery to covered
+            
+1009
+
+    
+insureds in this state if the ceding arrangements would result in less than 50% of the insurance
+            
+1010
+
+    
+obligation or risk for the health benefit plans being retained by the ceding carrier.
+            
+1011
+
+    
+    (d)  Section 
+
+31A-22-1201
+
+ applies if a covered carrier cedes or assumes all of the
+            
+1012
+
+    
+insurance obligation or risk with respect to one or more health benefit plans delivered or issued
+            
+1013
+
+    
+for delivery to covered insureds in this state.
+            
+1014
+
+    
+    (5) (a)  A Taft Hartley trust created in accordance with Section 302(c)(5) of the Federal
+            
+1015
+
+    
+Labor Management Relations Act, or a carrier with the written authorization of such a trust,
+            
+1016
+
+    
+may make a written request to the commissioner for a waiver from the application of any of the
+            
+1017
+
+    
+provisions of Subsection 
+
+31A-30-106
+
+(1) with respect to a health benefit plan provided to the
+            
+1018
+
+    
+trust.
+            
+1019
+
+    
+    (b)  The commissioner may grant a trust or carrier described in Subsection (5)(a) a
+
+            
+1020
+
+
+    
+waiver if the commissioner finds that application with respect to the trust would:
+            
+1021
+
+    
+    (i)  have a substantial adverse effect on the participants and beneficiaries of the trust;
+            
+1022
+
+    
+and
+            
+1023
+
+    
+    (ii)  require significant modifications to one or more collective bargaining arrangements
+            
+1024
+
+    
+under which the trust is established or maintained.
+            
+1025
+
+    
+    (c)  A waiver granted under this Subsection (5) may not apply to an individual if the
+            
+1026
+
+    
+person participates in a Taft Hartley trust as an associate member of any employee
+            
+1027
+
+    
+organization.
+            
+1028
+
+    
+    (6)  Sections 
+
+31A-30-106
+
+, 
+
+31A-30-106.5
+
+, 
+
+31A-30-106.7
+
+, 
+
+31A-30-107
+
+, 
+
+31A-30-108
+
+, and
+            
+1029
+
+    
+
+31A-30-111
+
+ apply to:
+            
+1030
+
+    
+    (a)  any insurer engaging in the business of insurance related to the risk of a small
+            
+1031
+
+    
+employer for medical, surgical, hospital, or ancillary health care expenses of the small
+            
+1032
+
+    
+employer's employees provided as an employee benefit; and
+            
+1033
+
+    
+    (b)  any contract of an insurer, other than a workers' compensation policy, related to the
+            
+1034
+
+    
+risk of a small employer for medical, surgical, hospital, or ancillary health care expenses of the
+            
+1035
+
+    
+small employer's employees provided as an employee benefit.
+            
+1036
+
+    
+    (7)  The commissioner may make rules requiring that the marketing practices be
+            
+1037
+
+    
+consistent with this chapter for:
+            
+1038
+
+    
+    (a)  a small employer carrier;
+            
+1039
+
+    
+    (b)  a small employer carrier's agent;
+            
+1040
+
+    
+    (c)  an insurance producer; [and]
+            
+1041
+
+    
+    (d)  an insurance consultant; and
+            
+1042
+
+    
+    (e)  a navigator.
+            
+1043
+
+    
+    Section 23.  
+Section  
+31A-30-105
+
+ is amended to read:
+            
+1044
+
+    
+     31A-30-105.  Establishment of classes of business.
+            
+1045
+
+    
+    [(1)  For a policy that takes effect on or after January 1, 2011] Effective January 1,
+            
+1046
+
+    
+2014, a covered carrier may [not] establish [a separate class] up to four separate classes of
+            
+1047
+
+    
+business [unless]:
+            
+1048
+
+    
+    [(a)  the covered carrier submits an application to the commissioner to establish a
+            
+1049
+
+    
+separate class of business;]
+            
+1050
+
+    
+    [(b)  the covered carrier demonstrates to the satisfaction of the commissioner that a
+
+            
+1051
+
+
+    
+separate class of business is justified under the provisions of this section; and]
+            
+1052
+
+    
+    [(c)  the commissioner approves the carrier's application for the use of a separate class
+            
+1053
+
+    
+of business.]
+            
+1054
+
+    
+    [(2) (a)  The commissioner shall have a presumption against the use of a separate class
+            
+1055
+
+    
+of business by a covered insured, except when the covered carrier demonstrates that this
+            
+1056
+
+    
+Subsection (2) applies.]
+            
+1057
+
+    
+    [(b)  The commissioner may approve the use of a separate class of business only if the
+            
+1058
+
+    
+covered carrier can demonstrate that the use of a separate class of business is necessary due to
+            
+1059
+
+    
+substantial differences in either expected claims experience or administrative costs related to
+            
+1060
+
+    
+the following reasons:]
+            
+1061
+
+    
+    [(i)  the covered carrier uses more than one type of system for the marketing and sale of
+            
+1062
+
+    
+health benefit plans to covered insureds;]
+            
+1063
+
+    
+    [(ii)  the covered carrier has acquired a class of business from another covered carrier;
+            
+1064
+
+    
+or]
+            
+1065
+
+    
+    [(iii)  the covered carrier provides coverage to one or more association groups.]
+            
+1066
+
+    
+    [(3)  The commissioner may establish regulations to provide for a period of transition in
+            
+1067
+
+    
+order for a covered carrier to come into compliance with Subsection (2) in the instance of
+            
+1068
+
+    
+acquisition of an additional class of business from another covered carrier.]
+            
+1069
+
+    
+    [(4)  The commissioner may approve the establishment of up to five classes of business
+            
+1070
+
+    
+per covered carrier upon application to the commissioner and a finding by the commissioner
+            
+1071
+
+    
+that such action would substantially enhance the efficiency and fairness of the health insurance
+            
+1072
+
+    
+marketplace subject to this chapter.]
+            
+1073
+
+    
+    [(5)  A covered carrier may not establish a class of business based solely on the
+            
+1074
+
+    
+marketing or sale of a health benefit plan as a defined contribution arrangement health benefit
+            
+1075
+
+    
+plan, or through the Health Insurance Exchange.]
+            
+1076
+
+    
+    (1)  one class of business for individual health benefit plans that are not grandfathered
+            
+1077
+
+    
+under PPACA;
+            
+1078
+
+    
+    (2)  one class of business for small employer health benefit plans that are not
+            
+1079
+
+    
+grandfathered under PPACA;
+            
+1080
+
+    
+    (3)  one class of business for individual health benefit plans that are grandfathered
+            
+1081
+
+    
+under PPACA; and
+
+            
+1082
+
+
+    
+    (4)  one class of business for small employer health benefit plans that are grandfathered
+            
+1083
+
+    
+under PPACA.
+            
+1084
+
+    
+    Section 24.  
+Section  
+31A-30-107.3
+
+ is amended to read:
+            
+1085
+
+    
+     31A-30-107.3.  Discontinuance and nonrenewal limitations and conditions.
+            
+1086
+
+    
+    (1) [(a)]  A carrier that elects to discontinue offering [a] all individual health benefit
+            
+1087
+
+    
+[plan] plans under Subsection [
+
+31A-30-107
+
+(3)(e) or] 
+
+31A-30-107.1
+
+(3)(e) is prohibited from
+            
+1088
+
+    
+writing new business[:(i)  in the small employer and] in the individual market in this state[; and
+            
+1089
+
+    
+(ii)] for a period of five years beginning on the date of discontinuation of the last individual
+            
+1090
+
+    
+health benefit plan coverage that is discontinued.
+            
+1091
+
+    
+    [(b)  The prohibition described in Subsection (1)(a) may be waived if the commissioner
+            
+1092
+
+    
+finds that waiver is in the public interest:]
+            
+1093
+
+    
+    [(i)  to promote competition; or]
+            
+1094
+
+    
+    [(ii)  to resolve inequity in the marketplace.]
+            
+1095
+
+    
+    (2)  A carrier that elects to discontinue offering all small employer health benefit plans
+            
+1096
+
+    
+under Subsection 
+
+31A-30-107
+
+(3)(e) is prohibited from writing new business in the small group
+            
+1097
+
+    
+market in this state for a period of five years beginning on the date of discontinuation of the
+            
+1098
+
+    
+last small employer coverage that is discontinued.
+            
+1099
+
+    
+    [(2)] (3) (a)  If the Comprehensive Health Insurance Pool as set forth under Title 31A,
+            
+1100
+
+    
+Chapter 29, Comprehensive Health Insurance Pool Act, is dissolved or discontinued, or if
+            
+1101
+
+    
+enrollment is capped or suspended, an individual carrier:
+            
+1102
+
+    
+    (i)  may elect to discontinue offering new individual health benefit plans, except to
+            
+1103
+
+    
+HIPAA eligibles, but shall keep existing individual health benefit plans in effect, except those
+            
+1104
+
+    
+individual plans that are not renewed under the provisions of Subsection 
+
+31A-30-107
+
+(2) or
+            
+1105
+
+    
+
+31A-30-107.1
+
+(2);
+            
+1106
+
+    
+    (ii)  may elect to continue to offer new individual and small employer health benefit
+            
+1107
+
+    
+plans; or
+            
+1108
+
+    
+    (iii)  may elect to discontinue all of the covered carrier's health benefit plans in the
+            
+1109
+
+    
+individual or small group market under the provisions of Subsection 
+
+31A-30-107
+
+(3)(e) or
+            
+1110
+
+    
+
+31A-30-107.1
+
+(3)(e).
+            
+1111
+
+    
+    (b)  A carrier that makes an election under Subsection [(2)] (3)(a)(i):
+            
+1112
+
+    
+    (i)  is prohibited from writing new business:
+
+            
+1113
+
+
+    
+    (A)  in the individual market in this state; and
+            
+1114
+
+    
+    (B)  for a period of five years beginning on the date of discontinuation;
+            
+1115
+
+    
+    (ii)  may continue to write new business in the small employer market; and
+            
+1116
+
+    
+    (iii)  shall provide written notice of the election under Subsection [(2)] (3)(a)(i) within
+            
+1117
+
+    
+two calendar days of the election to the Utah Insurance Department.
+            
+1118
+
+    
+    (c)  The prohibition described in Subsection [(2)] (3)(b)(i) may be waived if the
+            
+1119
+
+    
+commissioner finds that waiver is in the public interest:
+            
+1120
+
+    
+    (i)  to promote competition; or
+            
+1121
+
+    
+    (ii)  to resolve inequity in the marketplace.
+            
+1122
+
+    
+    (d)  A carrier that makes an election under Subsection [(2)] (3)(a)(iii) is subject to the
+            
+1123
+
+    
+provisions of Subsection (1).
+            
+1124
+
+    
+    [(3)] (4)  If a carrier is doing business in one established geographic service area of the
+            
+1125
+
+    
+state, Sections 
+
+31A-30-107
+
+ and 
+
+31A-30-107.1
+
+ apply only to the carrier's operations in that
+            
+1126
+
+    
+geographic service area.
+            
+1127
+
+    
+    [(4)] (5)  If a small employer employs less than two eligible employees, a carrier may
+            
+1128
+
+    
+not discontinue or not renew the health benefit plan until the first renewal date following the
+            
+1129
+
+    
+beginning of a new plan year, even if the carrier knows as of the beginning of the plan year that
+            
+1130
+
+    
+the employer no longer has at least two current employees.
+            
+1131
+
+    
+    Section 25.  
+Section  
+31A-30-112
+
+ is amended to read:
+            
+1132
+
+    
+     31A-30-112.  Employee participation levels.
+            
+1133
+
+    
+    (1) (a)  For purposes of this section, "participation" is as defined in Section 
+
+31A-1-301
+
+.
+            
+1134
+
+    
+    [(1) (a)] (b)  Except as provided in Subsection (2) and Section 
+
+31A-30-206
+
+, a
+            
+1135
+
+    
+requirement used by a covered carrier in determining whether to provide coverage to a small
+            
+1136
+
+    
+employer, including a participation requirement [for minimum participation of eligible
+            
+1137
+
+    
+employees] and a minimum employer [contributions] contribution requirement, shall be
+            
+1138
+
+    
+applied uniformly among all small employers with the same number of eligible employees
+            
+1139
+
+    
+applying for coverage or receiving coverage from the covered carrier.
+            
+1140
+
+    
+    [(b)  In addition to applying Subsection 
+
+31A-1-301
+
+(124), a covered carrier may require
+            
+1141
+
+    
+that a small employer have a minimum of two eligible employees to meet participation
+            
+1142
+
+    
+requirements.]
+            
+1143
+
+    
+    (2)  A covered carrier may not increase a [requirement for minimum employee]
+
+            
+1144
+
+
+    
+participation requirement or a requirement for minimum employer contribution, applicable to a
+            
+1145
+
+    
+small employer, at any time after the small employer is accepted for coverage.
+            
+1146
+
+    
+    Section 26.  
+Section  
+31A-30-115
+
+ is amended to read:
+            
+1147
+
+    
+     31A-30-115.  Actuarial review of health benefit plans.
+            
+1148
+
+    
+    (1) (a)  The department shall conduct an actuarial review of rates submitted by [small
+            
+1149
+
+    
+employer carriers] a carrier that offers a small employer plan and a carrier that offers an
+            
+1150
+
+    
+individual plan under this chapter:
+            
+1151
+
+    
+    [(i)  prior to the publication of the premium rates on the Health Insurance Exchange;]
+            
+1152
+
+    
+    [(ii)  except as permitted by Subsection 
+
+31A-30-207
+
+(2), to determine if the carrier is
+            
+1153
+
+    
+using the same rating and underwriting practices in both the defined contribution arrangement
+            
+1154
+
+    
+market in the Health Insurance Exchange and the defined benefit market offered outside the
+            
+1155
+
+    
+Health Insurance Exchange, in compliance with Subsection 
+
+31A-30-202.5
+
+(1)(b);]
+            
+1156
+
+    
+    [(iii)  to verify the validity of the rates, underwriting and risk factors, and premiums of
+            
+1157
+
+    
+plans both in and outside of the Health Insurance Exchange;]
+            
+1158
+
+    
+    [(iv)  to verify that insurers are pricing similar health benefit plans and groups the same
+            
+1159
+
+    
+in and out of the exchange, except as permitted by Subsection 
+
+31A-30-207
+
+(2); and]
+            
+1160
+
+    
+    (i)  to verify the valildity of the rates, risk factors, and premiums of the plans; and
+            
+1161
+
+    
+    [(v)] (ii)  as the department determines is necessary to oversee market conduct.
+            
+1162
+
+    
+    (b)  The actuarial review by the department shall be funded from a fee:
+            
+1163
+
+    
+    (i)  established by the department in accordance with Section 
+
+63J-1-504
+
+; and
+            
+1164
+
+    
+    (ii)  paid by [all small employer carriers participating in the defined contribution
+            
+1165
+
+    
+arrangement market and small employer carriers offering health benefit plans under Part 1,
+            
+1166
+
+    
+Individual and Small Employer Group] a carrier offering a health benefit plan subject to this
+            
+1167
+
+    
+chapter.
+            
+1168
+
+    
+    (c)  The department shall:
+            
+1169
+
+    
+    (i)  report aggregate data from the actuarial review to the risk adjuster board created in
+            
+1170
+
+    
+Section 
+
+31A-42-201
+
+; and
+            
+1171
+
+    
+    (ii)  contact carriers, if the department determines it is appropriate, to:
+            
+1172
+
+    
+    (A)  inform a carrier of the department's findings regarding the rates of a particular
+            
+1173
+
+    
+carrier; and
+            
+1174
+
+    
+    (B)  request a carrier to recalculate or verify base rates, rating factors, and premiums.
+
+            
+1175
+
+
+    
+    (d)  A carrier shall comply with the department's request under Subsection (1)(c)(ii).
+            
+1176
+
+    
+    (2) (a)  There is created in the General Fund a restricted account known as the "Health
+            
+1177
+
+    
+Insurance Actuarial Review Restricted Account."
+            
+1178
+
+    
+    (b)  The Health Insurance Actuarial Review Restricted Account shall consist of money
+            
+1179
+
+    
+received by the commissioner under this section.
+            
+1180
+
+    
+    (c)  The commissioner shall administer the Health Insurance Actuarial Review
+            
+1181
+
+    
+Restricted Account.  Subject to appropriations by the Legislature, the commissioner shall use
+            
+1182
+
+    
+money deposited into the Health Insurance Actuarial Review Restricted Account to pay for the
+            
+1183
+
+    
+actuarial review conducted by the department under this section.
+            
+1184
+
+    
+    Section 27.  
+Section  
+31A-30-117
+
+ is enacted to read:
+            
+1185
+
+    
+     31A-30-117.  Patient Protection and Affordable Care Act -- Market transition.
+            
+1186
+
+    
+    (1) (a)  After complying with the reporting requirements of Section 
+
+63M-1-2505.5
+
+, the
+            
+1187
+
+    
+commissioner may adopt administrative rules that change the rating and underwriting
+            
+1188
+
+    
+requirements of this chapter as necessary to transition the insurance market to meet federal
+            
+1189
+
+    
+qualified health plan standards and rating practices under PPACA.
+            
+1190
+
+    
+    (b)  Administrative rules adopted by the commissioner under this section may include:
+            
+1191
+
+    
+    (i)  the regulation of health benefit plans as described in Subsections 
+
+31A-2-212
+
+(5)(a)
+            
+1192
+
+    
+and (b); and
+            
+1193
+
+    
+    (ii)  disclosure of records and information required by PPACA and state law.
+            
+1194
+
+    
+    (c) (i)  The commissioner shall establish by administrative rule one statewide open
+            
+1195
+
+    
+enrollment period that applies to the individual insurance market that is not on the PPACA
+            
+1196
+
+    
+certified individual exchange.
+            
+1197
+
+    
+    (ii)  The statewide open enrollment period:
+            
+1198
+
+    
+    (A)  may be shorter, but no longer than the open enrollment period established for the
+            
+1199
+
+    
+individual insurance market offered in the PPACA certified exchange; and
+            
+1200
+
+    
+    (B)  may not be extended beyond the dates of the open enrollment period established
+            
+1201
+
+    
+for the individual insurance market offered in the PPACA certified exchange.
+            
+1202
+
+    
+    (2)  A carrier that offers health benefit plans in the individual market that is not part of
+            
+1203
+
+    
+the individual PPACA certified exchange:
+            
+1204
+
+    
+    (a)  shall open enrollment:
+            
+1205
+
+    
+    (i)  during the statewide open enrollment period established in Subsection (1)(c); and
+
+            
+1206
+
+
+    
+    (ii)  at other times, for qualifying events, as determined by administrative rule adopted
+            
+1207
+
+    
+by the commissioner; and
+            
+1208
+
+    
+    (b)  may open enrollment at any time.
+            
+1209
+
+    
+    Section 28.  
+Section  
+31A-30-202.5
+
+ is amended to read:
+            
+1210
+
+    
+     31A-30-202.5.  Dental and vision plans on the defined contribution arrangement
+            
+1211
+
+    
+ market.
+            
+1212
+
+    
+    [(1)  A small employer carrier who chooses to participate in the defined contribution
+            
+1213
+
+    
+arrangement market:]
+            
+1214
+
+    
+    [(a)  shall offer the defined contribution arrangement health benefit plans required by
+            
+1215
+
+    
+Section 
+
+31A-30-205
+
+;]
+            
+1216
+
+    
+    [(b)  may:]
+            
+1217
+
+    
+    [(i)  offer additional defined contribution arrangement health benefit plans in the Health
+            
+1218
+
+    
+Insurance Exchange as permitted by Section 
+
+31A-30-205
+
+;]
+            
+1219
+
+    
+    [(ii)  offer a defined benefit plan in the Health Insurance Exchange if the small
+            
+1220
+
+    
+employer carrier offers a defined contribution arrangement health benefit plan that is actuarially
+            
+1221
+
+    
+equivalent to the defined benefit plan that is offered in the Health Insurance Exchange; and]
+            
+1222
+
+    
+    [(iii)  continue to offer defined benefit plans outside of the Health Insurance Exchange
+            
+1223
+
+    
+and the defined contribution arrangement market, if, except as provided in Subsection
+            
+1224
+
+    
+
+
+31A-30-207
+
+(2), the carrier uses the same rating and underwriting practices in both the defined
+            
+1225
+
+    
+contribution arrangement market in the Health Insurance Exchange and the defined benefit
+            
+1226
+
+    
+market outside the Health Insurance Exchange.]
+            
+1227
+
+    
+    [(2)  A carrier that does not elect to participate in the defined contribution arrangement
+            
+1228
+
+    
+market by January 1, 2011, may not participate in the defined contribution arrangement market
+            
+1229
+
+    
+in the Health Insurance Exchange until January 1, 2013.]
+            
+1230
+
+    
+    (1)  Beginning July 1, 2013, a carrier may offer dental and vision plans in the defined
+            
+1231
+
+    
+contribution arrangement market.
+            
+1232
+
+    
+    (2) (a)  A carrier that offers a dental or vision plan in the defined contribution
+            
+1233
+
+    
+arrangement market is not required to offer the same dental or vision plans outside the defined
+            
+1234
+
+    
+contribution arrangement market and does not have to use the same rating and underwriting
+            
+1235
+
+    
+practices in and out of the defined contribution arrangement market.
+            
+1236
+
+    
+    (b)  If a carrier offers a dental or vision plan in the defined contribution arrangement
+
+            
+1237
+
+
+    
+market, the carrier shall allow an employee of a small employer group to enroll in a dental and
+            
+1238
+
+    
+vision plan in accordance with Subsection (3).
+            
+1239
+
+    
+    (3) (a)  A small employer group shall participate in a defined contribution arrangement
+            
+1240
+
+    
+and meet participation requirements for the defined contribution arrangement before the
+            
+1241
+
+    
+employer may elect to offer its employees dental or vision plans under Subsection (3)(b).
+            
+1242
+
+    
+    (b)  A small employer who meets the requirements of Subsection (3)(a) may elect to
+            
+1243
+
+    
+offer its employees:
+            
+1244
+
+    
+    (i)  a dental plan offered in the defined contribution arrangement market;
+            
+1245
+
+    
+    (ii)  a vision plan offered in the defined contribution arrangement market; or
+            
+1246
+
+    
+    (iii)  both a vision plan and a dental plan offered in the defined contribution
+            
+1247
+
+    
+arrangement market.
+            
+1248
+
+    
+    (4)  An employee whose employer has offered a dental or vision plan under Subsection
+            
+1249
+
+    
+(3)(b) may elect to enroll, or not enroll, in the dental and vision plan selected by the employer.
+            
+1250
+
+    
+    (5)  An employer's small group must meet participation requirements established by the
+            
+1251
+
+    
+commissioner by administrative rule for each dental or vision plan selected by an employer
+            
+1252
+
+    
+under Subsection (3).
+            
+1253
+
+    
+    Section 29.  
+Section  
+31A-30-205
+
+ is amended to read:
+            
+1254
+
+    
+     31A-30-205.  Continuation of coverage in the defined contribution market.
+            
+1255
+
+    
+    [(1)  An insurer who offers a defined contribution arrangement health benefit plan in
+            
+1256
+
+    
+the small group market shall offer the following health benefit plans as defined contribution
+            
+1257
+
+    
+arrangements:]
+            
+1258
+
+    
+    [(a)  one health benefit plan that:]
+            
+1259
+
+    
+    [(i)  is a federally qualified high deductible health plan;]
+            
+1260
+
+    
+    [(ii)  has a deductible that is within $250 of the lowest deductible that qualifies as a
+            
+1261
+
+    
+federally qualified high deductible health plan as adjusted by federal law; and]
+            
+1262
+
+    
+    [(iii)  has an annual out-of-pocket maximum that does not exceed three times the
+            
+1263
+
+    
+amount of the deductible;]
+            
+1264
+
+    
+    [(b) one health benefit plan that:]
+            
+1265
+
+    
+    [(i)  is a federally qualified high deductible health plan that is within $250 of an
+            
+1266
+
+    
+individual deductible of $2,500 and a deductible of $5,000 for coverage including two or more
+            
+1267
+
+    
+individuals; and]
+
+            
+1268
+
+
+    
+    [(ii)  does not exceed an annual out-of-pocket maximum equal to three times the
+            
+1269
+
+    
+amount of the annual deductible;]
+            
+1270
+
+    
+    [(c)  one health benefit plan that:]
+            
+1271
+
+    
+    [(i)  is a federally qualified high deductible health plan;]
+            
+1272
+
+    
+    [(ii)  has a deductible that is within $1,000 of the highest deductible that qualifies as a
+            
+1273
+
+    
+federally qualified high deductible health plan, as adjusted by federal law; and]
+            
+1274
+
+    
+    [(iii)  has an out-of-pocket maximum that qualifies as a federally qualified high
+            
+1275
+
+    
+deductible health plan;]
+            
+1276
+
+    
+    [(d)  the insurer's four most commonly selected small group health benefit plans that:]
+            
+1277
+
+    
+    [(i)  include:]
+            
+1278
+
+    
+    [(A)  the provider panel;]
+            
+1279
+
+    
+    [(B)  the deductible;]
+            
+1280
+
+    
+    [(C)  co-payments;]
+            
+1281
+
+    
+    [(D)  co-insurance; and]
+            
+1282
+
+    
+    [(E)  pharmacy benefits;]
+            
+1283
+
+    
+    [(ii)  are currently being marketed by the carrier to new groups for enrollment; and]
+            
+1284
+
+    
+    [(iii)  meet the standard for most commonly selected plan as determined by
+            
+1285
+
+    
+administrative rule adopted by the commissioner; and]
+            
+1286
+
+    
+    [(e)  alternative coverage required by Section 
+
+31A-22-724
+
+.]
+            
+1287
+
+    
+    [(2) (a)  The provisions of Subsection (1) do not limit the number of defined
+            
+1288
+
+    
+contribution arrangement health benefit plans an insurer may offer in the defined contribution
+            
+1289
+
+    
+arrangement market.]
+            
+1290
+
+    
+    [(b)  An insurer who offers the health benefit plans required by Subsection (1) may also
+            
+1291
+
+    
+offer any other health benefit plan as a defined contribution arrangement if the health benefit
+            
+1292
+
+    
+plan provides benefits with an aggregate actuarial value that is no lower than the actuarial value
+            
+1293
+
+    
+of the plan required in Subsection (1)(c).]
+            
+1294
+
+    
+    [(3)]  An employee in the defined contribution arrangement market who has the right to
+            
+1295
+
+    
+extend employer coverage under Subsection 
+
+31A-22-722
+
+(1) or federal COBRA, may[: (a)]
+            
+1296
+
+    
+continue coverage under the employee's current plan under state mini-COBRA or federal
+            
+1297
+
+    
+COBRA[; or].
+            
+1298
+
+    
+    [(b)  enroll in alternative coverage under Section 
+
+31A-22-724
+
+.]
+
+            
+1299
+
+
+    
+    Section 30.  
+Section  
+31A-30-208
+
+ is amended to read:
+            
+1300
+
+    
+     31A-30-208.  Enrollment for defined contribution arrangements.
+            
+1301
+
+    
+    (1)  An insurer offering a health benefit plan in the defined contribution arrangement
+            
+1302
+
+    
+market:
+            
+1303
+
+    
+    (a)  shall allow an employer to enroll in a small employer defined contribution
+            
+1304
+
+    
+arrangement plan; and
+            
+1305
+
+    
+    [(b)  may not impose a surcharge under Section 
+
+31A-30-106.7
+
+ for a small employer
+            
+1306
+
+    
+group selecting a defined contribution arrangement health benefit plan on or before January 1,
+            
+1307
+
+    
+2012; and]
+            
+1308
+
+    
+    [(c)] (b)  shall otherwise comply with the requirements of this part, Chapter 42, Defined
+            
+1309
+
+    
+Contribution Risk Adjuster Act, and Title 63M, Chapter 1, Part 25, Health System Reform Act.
+            
+1310
+
+    
+    (2) (a)  [Except as provided in Subsection 
+
+31A-30-202.5
+
+(2), in accordance with
+            
+1311
+
+    
+Subsection (2)(b), on January 1 of each year, an] An insurer may enter or exit the defined
+            
+1312
+
+    
+contribution arrangement market on January 1 of each year.
+            
+1313
+
+    
+    (b)  An insurer may offer new or modify existing products in the defined contribution
+            
+1314
+
+    
+arrangement market:
+            
+1315
+
+    
+    (i)  on January 1 of each year;
+            
+1316
+
+    
+    (ii)  when required by changes in other law; and
+            
+1317
+
+    
+    (iii)  at other times as established by the risk adjuster board created in Section
+            
+1318
+
+    
+
+31A-42-201
+
+.
+            
+1319
+
+    
+    (c) [(i)]  An insurer shall give the department, the Health Insurance Exchange, and the
+            
+1320
+
+    
+risk adjuster board 90 days' advance written notice of any event described in Subsection (2)(a)
+            
+1321
+
+    
+or (b).
+            
+1322
+
+    
+    [(ii)  When an insurer elects to participate in the defined contribution arrangement
+            
+1323
+
+    
+market, the insurer shall participate in the defined contribution arrangement market for no less
+            
+1324
+
+    
+than two years.]
+            
+1325
+
+    
+    Section 31.  
+Section  
+63I-2-231 (Superseded 07/01/13)
+
+ is amended to read:
+            
+1326
+
+    
+     63I-2-231 (Superseded 07/01/13).  Repeal dates, Title 31A.
+            
+1327
+
+    
+    Title 31A, Chapter 42, Defined Contribution Risk Adjuster Act, is repealed July 1,
+            
+1328
+
+    
+[2013] 2015.
+            
+1329
+
+    
+    Section 32.  
+Section  
+63I-2-231 (Effective 07/01/13)
+
+ is amended to read:
+
+            
+1330
+
+
+    
+     63I-2-231 (Effective 07/01/13).  Repeal dates, Title 31A.
+            
+1331
+
+    
+    (1)  Section 
+
+31A-22-315.5
+
+ is repealed July 1, 2016.
+            
+1332
+
+    
+    (2)  Title 31A, Chapter 42, Defined Contribution Risk Adjuster Act, is repealed July 1,
+            
+1333
+
+    
+[2013] 2015.
+            
+1334
+
+    
+    Section 33.  
+Section  
+63M-1-2505.5
+
+ is amended to read:
+            
+1335
+
+    
+     63M-1-2505.5.  Reporting on federal health reform -- Prohibition of individual
+            
+1336
+
+    
+ mandate.
+            
+1337
+
+    
+    (1)  The Legislature finds that:
+            
+1338
+
+    
+    (a)  the state has embarked on a rigorous process of implementing a strategic plan for
+            
+1339
+
+    
+health system reform pursuant to Section 
+
+63M-1-2505
+
+;
+            
+1340
+
+    
+    (b)  the health system reform efforts for the state were developed to address the unique
+            
+1341
+
+    
+circumstances within Utah and to provide solutions that work for Utah;
+            
+1342
+
+    
+    (c)  Utah is a leader in the nation for health system reform which includes:
+            
+1343
+
+    
+    (i)  developing and using health data to control costs and quality; and
+            
+1344
+
+    
+    (ii)  creating a defined contribution insurance market to increase options for employers
+            
+1345
+
+    
+and employees; and
+            
+1346
+
+    
+    (d)  the federal government proposals for health system reform:
+            
+1347
+
+    
+    (i)  infringe on state powers;
+            
+1348
+
+    
+    (ii)  impose a uniform solution to a problem that requires different responses in
+            
+1349
+
+    
+different states;
+            
+1350
+
+    
+    (iii)  threaten the progress Utah has made towards health system reform; and
+            
+1351
+
+    
+    (iv)  infringe on the rights of citizens of this state to provide for their own health care
+            
+1352
+
+    
+by:
+            
+1353
+
+    
+    (A)  requiring a person to enroll in a third party payment system;
+            
+1354
+
+    
+    (B)  imposing fines on a person who chooses to pay directly for health care rather than
+            
+1355
+
+    
+use a third party payer;
+            
+1356
+
+    
+    (C)  imposing fines on an employer that does not meet federal standards for providing
+            
+1357
+
+    
+health care benefits for employees; and
+            
+1358
+
+    
+    (D)  threatening private health care systems with competing government supported
+            
+1359
+
+    
+health care systems.
+            
+1360
+
+    
+    (2) (a)  For purposes of this section:
+
+            
+1361
+
+
+    
+    (i)  "Implementation" includes adopting or changing an administrative rule; applying for
+            
+1362
+
+    
+or spending federal grant money; issuing a request for proposal to carry out a requirement of
+            
+1363
+
+    
+PPACA, entering into a memorandum of understanding with the federal government regarding
+            
+1364
+
+    
+a provision of PPACA, or amending the state Medicaid plan.
+            
+1365
+
+    
+    (ii)  "PPACA" is as defined in Section 
+
+31A-1-301
+
+.
+            
+1366
+
+    
+    [(2) (a)] (b)  A department or agency of the state may not implement any part of [federal
+            
+1367
+
+    
+health care reform, as defined in Subsection (3), that is passed by the United States Congress
+            
+1368
+
+    
+after March 1, 2010,] PPACA unless, prior to implementation, the department or agency
+            
+1369
+
+    
+reports in writing, and in person if requested, to the Legislature's Business and Labor Interim
+            
+1370
+
+    
+Committee [and if authorized], the Health Reform Task Force, and the legislative Executive
+            
+1371
+
+    
+Appropriations Committee in accordance with Subsection (2)[(c)](d).
+            
+1372
+
+    
+    [(b)] (c)  The Legislature may pass legislation specifically authorizing or prohibiting the
+            
+1373
+
+    
+state's compliance with, or participation in[, federal health care reform] provisions of PPACA.
+            
+1374
+
+    
+    [(c)] (d)  The report required under Subsection (2)[(a)](b) shall include:
+            
+1375
+
+    
+    (i)  the specific federal statute or regulation that requires the state to implement a
+            
+1376
+
+    
+[federal reform] provision of PPACA;
+            
+1377
+
+    
+    (ii)  whether [the reform provision] PPACA has any state waiver or options;
+            
+1378
+
+    
+    (iii)  exactly what [the reform provision] PPACA requires the state to do, and how it
+            
+1379
+
+    
+would be implemented;
+            
+1380
+
+    
+    (iv)  who in the state will be impacted by adopting the federal reform provision, or not
+            
+1381
+
+    
+adopting the federal reform provision;
+            
+1382
+
+    
+    (v)  what is the cost to the state or citizens of the state to implement the federal reform
+            
+1383
+
+    
+provision; and
+            
+1384
+
+    
+    (vi)  the consequences to the state if the state does not comply with [the federal reform
+            
+1385
+
+    
+provision] PPACA.
+            
+1386
+
+    
+    [(3)  For purposes of this section, "federal health care reform" means federal legislation
+            
+1387
+
+    
+or federal regulation that:]
+            
+1388
+
+    
+    [(a)  mandates an individual to purchase health insurance;]
+            
+1389
+
+    
+    [(b)  mandates a small employer to provide health insurance coverage for employees;]
+            
+1390
+
+    
+    [(c)  imposes penalties on small employers who do not provide health insurance for
+            
+1391
+
+    
+their employees;]
+
+            
+1392
+
+
+    
+    [(d)  expands the eligibility for the Medicaid program or the Children's Health
+            
+1393
+
+    
+Insurance Program, and passes the cost of that expansion to the state;]
+            
+1394
+
+    
+    [(e)  creates new insurance coverage mandates; or]
+            
+1395
+
+    
+    [(f)  creates a new government run, public insurance program.]
+            
+1396
+
+    
+    [(4)] (3) (a)  [An individual in this state may not be required] The state shall not require
+            
+1397
+
+    
+an individual in the state to obtain or maintain health insurance as defined in [Section
+            
+1398
+
+    
+
+
+31A-1-301
+
+] PPACA, regardless of whether the individual has or is eligible for health insurance
+            
+1399
+
+    
+coverage under any policy or program provided by or through the individual's employer or a
+            
+1400
+
+    
+plan sponsored by the state or federal government.
+            
+1401
+
+    
+    (b)  The provisions of this title may not be used to facilitate the federal PPACA
+            
+1402
+
+    
+individual mandate or to hold an individual in this state liable for any penalty, assessment, fee,
+            
+1403
+
+    
+or fine as a result of the individual's failure to procure or obtain health insurance coverage.
+            
+1404
+
+    
+    (c)  This section does not apply to an individual who voluntarily applies for coverage
+            
+1405
+
+    
+under a state administered program pursuant to Title XIX or Title XXI of the Social Security
+            
+1406
+
+    
+Act.
+            
+1407
+
+    
+    Section 34.   Health Reform Task Force -- Creation -- Membership -- Interim rules
+            
+1408
+
+    
+ followed -- Compensation -- Staff.
+            
+1409
+
+    
+    (1)  There is created the Health Reform Task Force consisting of the following 11
+            
+1410
+
+    
+members:
+            
+1411
+
+    
+    (a)  four members of the Senate appointed by the president of the Senate, no more than
+            
+1412
+
+    
+three of whom may be from the same political party; and
+            
+1413
+
+    
+    (b)  seven members of the House of Representatives appointed by the speaker of the
+            
+1414
+
+    
+House of Representatives, no more than five of whom may be from the same political party.
+            
+1415
+
+    
+    (2) (a)  The president of the Senate shall designate a member of the Senate appointed
+            
+1416
+
+    
+under Subsection (1)(a) as a cochair of the task force.
+            
+1417
+
+    
+    (b)  The speaker of the House of Representatives shall designate a member of the House
+            
+1418
+
+    
+of Representatives appointed under Subsection (1)(b) as a cochair of the task force.
+            
+1419
+
+    
+    (3)  In conducting its business, the task force shall comply with the rules of legislative
+            
+1420
+
+    
+interim committees.
+            
+1421
+
+    
+    (4)  Salaries and expenses of the members of the task force shall be paid in accordance
+            
+1422
+
+    
+with Section 
+
+36-2-2
+
+ and Legislative Joint Rules, Title 5, Chapter 3, Expense and Mileage
+
+            
+1423
+
+
+    
+Reimbursement for Authorized Legislative Meetings, Special Sessions, and Veto Override
+            
+1424
+
+    
+Sessions.
+            
+1425
+
+    
+    (5)  The Office of Legislative Research and General Counsel shall provide staff support
+            
+1426
+
+    
+to the task force.
+            
+1427
+
+    
+    Section 35.   Duties -- Interim report.
+            
+1428
+
+    
+    (1)  The task force shall review and make recommendations on the following issues:
+            
+1429
+
+    
+    (a)  the impact of implementation of the federal health reform law and federal
+            
+1430
+
+    
+regulations on the state;
+            
+1431
+
+    
+    (b)  options for the state regarding Medicaid expansion and reform;
+            
+1432
+
+    
+    (c)  health care cost containment strategies;
+            
+1433
+
+    
+    (d)  the role of the state defined contribution arrangement market and online health
+            
+1434
+
+    
+insurance market places established under PPACA;
+            
+1435
+
+    
+    (e)  governing structure for the state's defined contribution arrangement market; and
+            
+1436
+
+    
+    (f)  Medicaid behavioral health delivery and payment reform models within Medicaid
+            
+1437
+
+    
+accountable care organizations and other county provided delivery settings, including:
+            
+1438
+
+    
+    (i)  the development of a system to encourage, track, evaluate, share, and disseminate
+            
+1439
+
+    
+results from existing pilot projects; and
+            
+1440
+
+    
+    (ii)  payment reform models that promote performance based reimbursement.
+            
+1441
+
+    
+    (2)  A final report, including any proposed legislation, shall be presented to the
+            
+1442
+
+    
+Business and Labor Interim Committee before November 30, 2013, and before November 30,
+            
+1443
+
+    
+2014.
+            
+1444
+
+    
+    Section 36.   Appropriation.
+            
+1445
+
+    
+    Under the terms and conditions of Title 63J, Chapter 1, Budgetary Procedures Act, for
+            
+1446
+
+    
+the fiscal year beginning July 1, 2013, and ending June 30, 2014, the following sums of money
+            
+1447
+
+    
+are appropriated from resources not otherwise appropriated, or reduced from amounts
+            
+1448
+
+    
+previously appropriated, out of the funds or accounts indicated.  These sums of money are in
+            
+1449
+
+    
+addition to any amounts previously appropriated for fiscal year 2014.
+            
+1450
+
+    
+    To Legislature - Senate
+            
+1451
+
+    
+        From General Fund, One-time                    $30,000
+            
+1452
+
+    
+        Schedule of Programs:
+            
+1453
+
+    
+            Administration                $30,000
+
+            
+1454
+
+
+    
+    To Legislature - House of Representatives                    $52,000
+            
+1455
+
+    
+        From General Fund, One-time
+            
+1456
+
+    
+        Schedule of Programs:
+            
+1457
+
+    
+            Administration                $52,000
+            
+1458
+
+    
+    Section 37.   Effective date.
+            
+1459
+
+    
+    (1)  Except as provided in Subsection (2), if approved by two-thirds of all the members
+            
+1460
+
+    
+elected to each house, this bill takes effect upon approval by the governor, or the day following
+            
+1461
+
+    
+the constitutional time limit of Utah Constitution Article VII, Section 8, without the governor's
+            
+1462
+
+    
+signature, or in the case of a veto, the date of veto override.
+            
+1463
+
+    
+    (2)  The actions affecting Section 
+
+63I-2-231
+
+ (Effective 07/01/13) take effect on July 1,
+            
+1464
+
+    
+2013.
+            
+1465
+
+    
+    Section 38.   Repeal date.
+            
+1466
+
+    
+    The Health Reform Task Force is repealed December 30, 2015.
+
+
+
+
+ Legislative Review Note
+    as of   2-20-13  7:06 PM
+
+ Office of Legislative Research and General Counsel
+[Bill Documents][Bills Directory]
+
+
+
+
+
+
+
+
+
+Who represents me?
+
+
+
+
+
+Remember my Legislators
+
+
+
+
+
+State Senate
+		350 North State, Suite 320
+		PO Box 145115
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1035
+		Fax: (801) 326-1475
+
+
+
+House of Representatives
+		350 North State, Suite 350
+		PO Box 145030
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1029
+		Fax: (801) 326-1544
+
+
+
+
+
+
+
+
+
+
+Home
+Mobile Site
+Site Map
+Calendar
+Code / Constitution
+House
+Senate
+
+Terms of Use/Privacy Policy
+
+ADA
+Utah.gov
+
+
+
+
+
+
+

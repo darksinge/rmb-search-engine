@@ -1,0 +1,1200 @@
+Sponsors: []Modifications: and mixedwasteand mixed waste(iv)  A facility that treats or disposes of hazardous waste or mixed waste is authorizedto collect the fee established under Subsection (3)(d)(i) from the generator of the waste.Full text:
+
+
+
+Utah State Legislature
+
+
+
+
+
+
+
+
+
+
+
+
+Legislators
+
+By Session (1896-Current)
+Alphabetical (Historical)
+Find by Address/Map
+More
+
+
+Bills
+
+Bills/Bill Requests
+Passed Bills
+2017 Bills
+
+Keyword Search
+Reading Calendars
+Tracking Service
+More
+
+
+Committees
+
+All Committees
+Appropriations
+Commissions
+
+Independent Legislative Ethics Commission
+Interim
+Standing
+Subcommittees
+Task Forces
+Bills In Committees
+
+
+Utah Code / Constitution
+
+
+Title/Chapter/Section
+Keyword Search 
+
+Utah Constitution
+Laws of Utah 1851-ongoing
+Utah Territorial Laws 
+More
+
+
+Senate
+
+Main Page 
+About The Senate 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Extraordinary Sessions 
+Reading Calendars 
+Past Floor Debates 
+Senate Journals 
+
+
+House
+
+Main Page
+About the House 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Reading Calendars 
+Past Floor Debates 
+Journals 
+Conflict of Interest Forms 
+
+
+Legislative Guide 
+
+Legislative Guide
+Civic Programs
+GRAMA (Records Requests)
+
+
+Publications
+
+Search Publications
+Appropriations
+Audits
+Bagels & Briefings
+Briefing Papers
+Digest of Legislation
+Legislative Drafting Manual
+
+Journals
+
+Interim Highlights
+
+Legislative Rules
+GRAMA (Records Requests)
+Public Email
+State Organization Charts
+YouTube Channel
+Requests for Proposals and Legal Notices
+More
+
+
+Legislative Histories
+
+Legislative History Resources
+How to Research
+Bill Drafting/Research Files (1990-Ongoing)
+
+Working Bills (1896-1989)
+Interim Committee Histories (1990-Ongoing) 
+Journals
+Past House Floor Debates
+Past Senate Floor Debates
+More
+
+
+Staff Offices
+
+All Legislative Offices
+Auditor General
+Fiscal Analyst
+Printing
+Research and General Counsel
+Staff Awards
+Job Opportunities
+More
+
+
+Links of Interest
+
+Utah Administrative Rules
+Courts
+Utah State Capitol
+State of Utah
+Federal Legislation
+More
+
+
+
+
+
+
+ 
+
+Download Zipped Introduced WordPerfect HB0231.ZIP
+[Status][Bill Documents][Fiscal Note][Bills Directory]
+
+
+H.B. 231
+
+
+
+
+
+            
+1
+
+    
+ HAZARDOUS WASTE AND MIXED WASTE FEES
+
+
+
+            
+2
+
+    
+2013 GENERAL SESSION
+
+            
+3
+
+    
+STATE OF UTAH
+
+            
+4
+
+    
+
+
+ Chief Sponsor:  Merrill F. Nelson
+
+
+
+            
+5
+
+    
+
+
+
+Senate Sponsor: 
+
+
+
+
+
+
+  Peter C. Knudson
+
+
+
+
+
+            
+6
+
+    
+
+            
+7
+
+    
+ LONG TITLE
+            
+8
+
+    
+ General Description:
+            
+9
+
+    
+    This bill modifies provisions related to fees charged for hazardous waste and mixed
+            
+10
+
+    
+waste.
+            
+11
+
+    
+ Highlighted Provisions:
+            
+12
+
+    
+    This bill:
+            
+13
+
+    
+    .    requires the Department of Environmental Quality to:
+            
+14
+
+    
+        .    complete a review of program costs and indirect costs of regulating mixed
+            
+15
+
+    
+waste; and
+            
+16
+
+    
+        .    establish a fee schedule for the treatment and land disposal of mixed waste; 
+            
+17
+
+    
+    .    allows a facility treating or disposing of hazardous waste or mixed waste to collect a
+            
+18
+
+    
+fee from the generator of the waste; and
+            
+19
+
+    
+    .    makes technical changes.
+            
+20
+
+    
+ Money Appropriated in this Bill:
+            
+21
+
+    
+    None
+            
+22
+
+    
+ Other Special Clauses:
+            
+23
+
+    
+    None
+            
+24
+
+    
+ Utah Code Sections Affected:
+            
+25
+
+    
+AMENDS:
+            
+26
+
+    
+     19-6-118, as last amended by Laws of Utah 2012, Chapter 222
+            
+27
+
+    
+
+
+            
+28
+
+
+    
+Be it enacted by the Legislature of the state of Utah:
+            
+29
+
+    
+    Section 1.  
+Section  
+19-6-118
+
+ is amended to read:
+            
+30
+
+    
+     19-6-118.  Hazardous waste and treated hazardous waste disposal fees.
+            
+31
+
+    
+    (1)  As used in this section:
+            
+32
+
+    
+    (a)  "Demilitarization waste" means:
+            
+33
+
+    
+    (i)  a nerve, military, or chemical agent, including:
+            
+34
+
+    
+    (A)  CX;
+            
+35
+
+    
+    (B)  GA;
+            
+36
+
+    
+    (C)  GB;
+            
+37
+
+    
+    (D)  GD;
+            
+38
+
+    
+    (E)  H;
+            
+39
+
+    
+    (F)  HD;
+            
+40
+
+    
+    (G)  HL;
+            
+41
+
+    
+    (H)  HN-1;
+            
+42
+
+    
+    (I)  HN-2;
+            
+43
+
+    
+    (J)  HN-3;
+            
+44
+
+    
+    (K)  HT;
+            
+45
+
+    
+    (L)  L; or
+            
+46
+
+    
+    (M)  VX; or
+            
+47
+
+    
+    (ii)  waste or residue from demilitarization, treatment, testing, or disposal of an agent
+            
+48
+
+    
+described in Subsection (1)(a)(i).
+            
+49
+
+    
+    (b)  "Remediation project" means:
+            
+50
+
+    
+    (i)  a superfund cleanup project;
+            
+51
+
+    
+    (ii)  a Resource Conservation and Recovery Act closure or corrective action site; or
+            
+52
+
+    
+    (iii)  a voluntary cleanup of:
+            
+53
+
+    
+    (A)  hazardous debris; or
+            
+54
+
+    
+    (B)  hazardous waste subject to regulation solely because of removal or remedial action
+            
+55
+
+    
+taken in response to environmental contamination.
+            
+56
+
+    
+    (c)  "Remediation waste" means waste from a remediation project.
+            
+57
+
+    
+    (2) (a)  An owner or operator of any commercial hazardous waste or mixed waste
+            
+58
+
+    
+disposal or treatment facility that primarily receives hazardous or mixed wastes generated by
+
+            
+59
+
+
+    
+off-site sources not owned, controlled, or operated by the facility or site owner or operator, and
+            
+60
+
+    
+that is subject to the requirements of Section 
+
+19-6-108
+
+, shall pay the fee under Subsection (3).
+            
+61
+
+    
+    (b)  The owner or operator of each cement kiln, aggregate kiln, boiler, blender, or
+            
+62
+
+    
+industrial furnace that receives for burning hazardous waste generated by off-site sources not
+            
+63
+
+    
+owned, controlled, or operated by the owner or operator shall pay the fee under Subsection (3).
+            
+64
+
+    
+    (3) (a) (i)  Through June 30, 2014, the owner or operator of each facility under
+            
+65
+
+    
+Subsection (2) shall pay a fee of $28 per ton on all hazardous waste and mixed waste received
+            
+66
+
+    
+at the facility for disposal, treatment, or both.
+            
+67
+
+    
+    (ii)  The fee required under Subsection (3)(a)(i) shall be calculated by multiplying the
+            
+68
+
+    
+total tonnage of waste, computed to the first decimal place, received during the calendar month
+            
+69
+
+    
+by $28.
+            
+70
+
+    
+    (b) (i)  Through June 30, 2014, hazardous waste received at a land disposal facility is
+            
+71
+
+    
+subject to a fee of $14 per ton instead of the fee described in Subsection (3)(a) if the waste is
+            
+72
+
+    
+treated so that it:
+            
+73
+
+    
+    (A)  meets the state treatment standards required for land disposal at the facility; or
+            
+74
+
+    
+    (B)  is no longer a hazardous waste at the time of disposal at that facility.
+            
+75
+
+    
+    (ii)  Through June 30, 2014, demilitarization waste received at a land disposal facility is
+            
+76
+
+    
+subject to the fee described in Subsection (3)(b)(i), if:
+            
+77
+
+    
+    (A)  the demilitarization waste contains an additional constituent that is not
+            
+78
+
+    
+demilitarization waste and is required by rule to be treated before land disposal; and
+            
+79
+
+    
+    (B)  the additional constituent meets every applicable state treatment standard required
+            
+80
+
+    
+for land disposal of that constituent at the facility.
+            
+81
+
+    
+    (iii)  A fee required under Subsection (3)(b)(i) shall be calculated by multiplying the
+            
+82
+
+    
+tonnage of waste, computed to the first decimal place, received during the calendar month by
+            
+83
+
+    
+$14.
+            
+84
+
+    
+    (c)  Through June 30, 2014, when hazardous waste or mixed waste is received at a
+            
+85
+
+    
+facility for treatment or disposal and the fee required under Subsection (3) is paid for that
+            
+86
+
+    
+treatment or disposal, any subsequent treatment or disposal of the waste is not subject to
+            
+87
+
+    
+additional fees under Subsection (3).
+            
+88
+
+    
+    (d) (i)  In accordance with Section 
+
+63J-1-504
+
+, on or before July 1, 2014, the department
+            
+89
+
+    
+shall establish a fee schedule for the treatment and land disposal of hazardous waste and mixed
+
+            
+90
+
+
+    
+waste.
+            
+91
+
+    
+    (ii)  To create the fee schedule described in Subsection (3)(d)(i), the department shall,
+            
+92
+
+    
+before establishing the fee schedule, complete a review of program costs and indirect costs of
+            
+93
+
+    
+regulating hazardous waste and mixed waste in the state.
+            
+94
+
+    
+    (iii)  The fee schedule described in Subsection (3)(d)(i) shall:
+            
+95
+
+    
+    (A)  implement a flat fee not calculated according to the amount of waste treated or
+            
+96
+
+    
+disposed;
+            
+97
+
+    
+    (B)  provide for reasonable and timely oversight by the department; and
+            
+98
+
+    
+    (C)  adequately meet the needs of industry and the department, including enabling the
+            
+99
+
+    
+department to employ qualified personnel to appropriately oversee industry regulation.
+            
+100
+
+    
+    (iv)  A facility that treats or disposes of hazardous waste or mixed waste is authorized
+            
+101
+
+    
+to collect the fee established under Subsection (3)(d)(i) from the generator of the waste.
+            
+102
+
+    
+    (4) (a)  Through June 30, 2014, remediation waste received at a hazardous waste land
+            
+103
+
+    
+disposal or treatment facility from a remediation project is subject to a fee in the following
+            
+104
+
+    
+amounts:
+
+
+
+            
+105
+
+    
+
+
+      Amount of Remediation Waste Received
+       from a Remediation Project
+    
+
+      Fee Amount
+    
+
+
+
+            
+106
+
+    
+
+
+      More than 0, but less than 1,000 tons
+    
+
+      $28 per ton
+    
+
+
+
+            
+107
+
+    
+
+
+      Equal to or greater than 1,000 tons, but less than 12,500 tons
+    
+
+      $10 per ton for all waste
+    
+
+
+
+            
+108
+
+    
+
+
+      Equal to or greater than 12,500 tons, but less than 25,000 tons
+    
+
+      $5 per ton for all waste
+    
+
+
+
+            
+109
+
+    
+
+
+      Equal to or greater than 25,000 tons
+    
+
+      $2.50 per ton for all waste
+    
+
+
+            
+110
+
+    
+    (b)  Through June 30, 2014, emission control dust/sludge from the primary production
+            
+111
+
+    
+of steel in electric furnaces (K061, as defined in 40 C.F.R. Sec. 261.32) received at a hazardous
+            
+112
+
+    
+waste land disposal or treatment facility is subject to a fee of $5 per ton in lieu of the fee
+            
+113
+
+    
+established in Subsection (3).
+            
+114
+
+    
+    (c)  Through June 30, 2014, demilitarization waste received at a hazardous waste
+            
+115
+
+    
+treatment, storage, or disposal facility is subject to a fee of $5 per ton in addition to the fee
+            
+116
+
+    
+established in Subsection (3).
+            
+117
+
+    
+    (d) (i)  Through June 30, 2014, the department may in accordance with this Subsection
+            
+118
+
+    
+(4)(d) assess a person required to pay a fee under this section a special assessment if the
+
+            
+119
+
+
+    
+department determines that the aggregate of the following fees is insufficient to cover the
+            
+120
+
+    
+department's costs of administering its hazardous waste program:
+            
+121
+
+    
+    (A)  a fee imposed under this section; and
+            
+122
+
+    
+    (B)  a fee imposed under Section 
+
+19-6-118.5
+
+.
+            
+123
+
+    
+    (ii)  In determining the amount of a special assessment under this Subsection (4)(d), the
+            
+124
+
+    
+department shall calculate the amount of the insufficiency and assess each person subject to the
+            
+125
+
+    
+special assessment a proportion of the insufficiency equal to the proportion of fees paid by that
+            
+126
+
+    
+person.
+            
+127
+
+    
+    (iii)  The department shall deposit a special assessment collected under this Subsection
+            
+128
+
+    
+(4)(d) into the Environmental Quality Restricted Account created in Section 
+
+19-1-108
+
+.
+            
+129
+
+    
+    (e)  Through June 30, 2014, the department shall annually review the fee established in
+            
+130
+
+    
+Subsection (4)(a) and make recommendations to the Legislature's Natural Resources,
+            
+131
+
+    
+Agriculture, and Environment Interim Committee concerning the amount of the fee.
+            
+132
+
+    
+    (5) (a)  Through June 30, 2014, the department shall allocate at least 10% of the fees
+            
+133
+
+    
+received from a facility under this section to the county where the facility is located, not
+            
+134
+
+    
+including a special assessment.
+            
+135
+
+    
+    (b)  Beginning on July 1, 2014, the department shall allocate and pay to a county at least
+            
+136
+
+    
+10% of the fee established under Subsection (3)(d)(i) that the department receives from a
+            
+137
+
+    
+facility in that county.
+            
+138
+
+    
+    (c)  The county may use fees allocated under Subsection (5) to carry out its hazardous
+            
+139
+
+    
+waste monitoring and response programs.
+            
+140
+
+    
+    (6)  The department shall deposit the state portion of a fee received under this section
+            
+141
+
+    
+into the Environmental Quality Restricted Account created in Section 
+
+19-1-108
+
+.
+            
+142
+
+    
+    (7) (a) (i)  Except as provided in Subsection (7)(a)(ii), the owner or operator shall pay a
+            
+143
+
+    
+fee, accrued under this section before June 30, 2014, to the department on or before the 15th
+            
+144
+
+    
+day of the month following the month in which the fee accrued.
+            
+145
+
+    
+    (ii)  If a fee accrues on remediation waste under this section before June 30, 2014, the
+            
+146
+
+    
+fee shall be paid in accordance with a schedule determined by the department:
+            
+147
+
+    
+    (A)  made in consultation with the person paying the fee; and
+            
+148
+
+    
+    (B)  considering any contractual schedule for payment between the person paying the
+            
+149
+
+    
+fee and another person with whom the person paying the fee has contracted.
+
+            
+150
+
+
+    
+    (b)  With the monthly fee described in Subsection (7)(a)(i), the owner or operator shall
+            
+151
+
+    
+submit a completed form, as prescribed by the department, specifying information required by
+            
+152
+
+    
+the department to verify the amount of waste received and the fee amount for which the owner
+            
+153
+
+    
+or operator is liable.
+            
+154
+
+    
+    (c)  Beginning on July 1, 2014, an owner or operator shall submit payment of the fee
+            
+155
+
+    
+established in Subsection (3)(d)(i) to the department:
+            
+156
+
+    
+    (i)  in accordance with a schedule provided by the department; and
+            
+157
+
+    
+    (ii)  using forms provided by the department.
+            
+158
+
+    
+    (8) (a)  The department shall oversee and monitor hazardous waste treatment, disposal,
+            
+159
+
+    
+and incineration facilities, including federal government facilities located within the state.
+            
+160
+
+    
+    (b)  The department may determine facility oversight priorities.
+            
+161
+
+    
+    (9) (a)  The department, in preparing its budget for the governor and the Legislature,
+            
+162
+
+    
+shall separately indicate the amount necessary to administer the hazardous waste program
+            
+163
+
+    
+established by this part.
+            
+164
+
+    
+    (b)  The Legislature shall appropriate the costs of administering this program.
+            
+165
+
+    
+    (10)  The Office of Legislative Fiscal Analyst shall monitor a fee collected under this
+            
+166
+
+    
+part.
+            
+167
+
+    
+    (11)  Mixed waste subject to a fee under this section is not subject to a fee under
+            
+168
+
+    
+Section 
+
+19-3-106
+
+.
+
+
+
+
+ Legislative Review Note
+    as of   2-5-13  4:12 PM
+
+ Office of Legislative Research and General Counsel
+[Bill Documents][Bills Directory]
+
+
+
+
+
+
+
+
+
+Who represents me?
+
+
+
+
+
+Remember my Legislators
+
+
+
+
+
+State Senate
+		350 North State, Suite 320
+		PO Box 145115
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1035
+		Fax: (801) 326-1475
+
+
+
+House of Representatives
+		350 North State, Suite 350
+		PO Box 145030
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1029
+		Fax: (801) 326-1544
+
+
+
+
+
+
+
+
+
+
+Home
+Mobile Site
+Site Map
+Calendar
+Code / Constitution
+House
+Senate
+
+Terms of Use/Privacy Policy
+
+ADA
+Utah.gov
+
+
+
+
+
+
+

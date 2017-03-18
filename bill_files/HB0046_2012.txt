@@ -1,0 +1,1714 @@
+Sponsors: []Modifications: ; and(iv)  a requirement that a person receiving Medicaid services shall participate in theelectronic exchange of clinical health records established in accordance with Section 
+
+26-1-37
+
+unless the individual opts out of participation.,(15) (a)  The department shall determine if a waiver to the state Medicaid plan or theChildren's Health Insurance Program is necessary to implement a requirement that allbeneficiaries of the Medicaid program and the Children's Health Insurance Program participatein the electronic exchange of clinical health records established in accordance with Section
+
+26-1-37
+
+.  If the department determines a waiver is necessary, the department shall apply for awaiver.(b)  Notwithstanding the provisions of Subsection (2)(b)(iv) and Subsection
+
+26-40-103
+
+(2)(b)(vi), the department shall require a beneficiary of the state Medicaid programor the Children's Health Insurance Program to participate in the electronic exchange of clinicalhealth records if:(i)  the department determines the requirement for participation under Subsection(15)(a) does not require a waiver to the state Medicaid plan or the Children's Health InsuranceProgram; or(ii)  the department receives an approval of a waiver to the state Medicaid plan or theChildren's Health Insurance Program that permits the department to require participation in theelectronic exchange of clinical health records.(9); and(vi)  a requirement that enrollees in the program shall participate in the electronicexchange of clinical health records established in accordance with Section 
+
+26-18-3
+
+ unless theenrollee opts out of participation.; and(t)  require a member to participate in the electronic exchange of clinical health recordsin accordance with Section 
+
+26-1-37
+
+.Full text:
+
+
+
+Utah State Legislature
+
+
+
+
+
+
+
+
+
+
+
+
+Legislators
+
+By Session (1896-Current)
+Alphabetical (Historical)
+Find by Address/Map
+More
+
+
+Bills
+
+Bills/Bill Requests
+Passed Bills
+2017 Bills
+
+Keyword Search
+Reading Calendars
+Tracking Service
+More
+
+
+Committees
+
+All Committees
+Appropriations
+Commissions
+
+Independent Legislative Ethics Commission
+Interim
+Standing
+Subcommittees
+Task Forces
+Bills In Committees
+
+
+Utah Code / Constitution
+
+
+Title/Chapter/Section
+Keyword Search 
+
+Utah Constitution
+Laws of Utah 1851-ongoing
+Utah Territorial Laws 
+More
+
+
+Senate
+
+Main Page 
+About The Senate 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Extraordinary Sessions 
+Reading Calendars 
+Past Floor Debates 
+Senate Journals 
+
+
+House
+
+Main Page
+About the House 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Reading Calendars 
+Past Floor Debates 
+Journals 
+Conflict of Interest Forms 
+
+
+Legislative Guide 
+
+Legislative Guide
+Civic Programs
+GRAMA (Records Requests)
+
+
+Publications
+
+Search Publications
+Appropriations
+Audits
+Bagels & Briefings
+Briefing Papers
+Digest of Legislation
+Legislative Drafting Manual
+
+Journals
+
+Interim Highlights
+
+Legislative Rules
+GRAMA (Records Requests)
+Public Email
+State Organization Charts
+YouTube Channel
+Requests for Proposals and Legal Notices
+More
+
+
+Legislative Histories
+
+Legislative History Resources
+How to Research
+Bill Drafting/Research Files (1990-Ongoing)
+
+Working Bills (1896-1989)
+Interim Committee Histories (1990-Ongoing) 
+Journals
+Past House Floor Debates
+Past Senate Floor Debates
+More
+
+
+Staff Offices
+
+All Legislative Offices
+Auditor General
+Fiscal Analyst
+Printing
+Research and General Counsel
+Staff Awards
+Job Opportunities
+More
+
+
+Links of Interest
+
+Utah Administrative Rules
+Courts
+Utah State Capitol
+State of Utah
+Federal Legislation
+More
+
+
+
+
+
+
+ 
+
+Download Zipped Introduced WordPerfect HB0046.ZIP
+[Status][Bill Documents][Fiscal Note][Bills Directory]
+
+
+H.B. 46
+
+
+
+
+
+            
+1
+
+    
+ ELECTRONIC PERSONAL MEDICAL RECORDS
+
+
+
+            
+2
+
+    
+2012 GENERAL SESSION
+
+            
+3
+
+    
+STATE OF UTAH
+
+            
+4
+
+    
+
+
+ Chief Sponsor:  Ronda Rudd Menlove
+
+
+
+            
+5
+
+    
+
+
+
+Senate Sponsor:  
+
+
+
+
+
+
+____________
+
+
+
+
+
+            
+6
+
+    
+
+            
+7
+
+    
+ LONG TITLE
+            
+8
+
+    
+ Committee Note:
+            
+9
+
+    
+    The Health and Human Services Interim Committee recommended this bill.
+            
+10
+
+    
+ General Description:
+            
+11
+
+    
+    This bill facilitates the enrollment of Medicaid beneficiaries, Children Health Insurance
+            
+12
+
+    
+enrollees, and public employees into the electronic exchange of clinical health records.
+            
+13
+
+    
+ Highlighted Provisions:
+            
+14
+
+    
+    This bill:
+            
+15
+
+    
+    .    amends the duties of the state Medicaid plan to enroll Medicaid beneficiaries in the
+            
+16
+
+    
+electronic exchange of clinical health records unless the individual opts out;
+            
+17
+
+    
+    .    requires the Department of Health to submit a waiver for the state Medicaid plan
+            
+18
+
+    
+and Children's Health Insurance Program to require beneficiaries to enroll in the
+            
+19
+
+    
+electronic exchange of clinical health records;
+            
+20
+
+    
+    .    amends the duties of the Children's Health Insurance Program to enroll the members
+            
+21
+
+    
+of the Children's Health Insurance Program in the electronic exchange of clinical
+            
+22
+
+    
+health records unless the individual opts out; and
+            
+23
+
+    
+    .    amends the duties of the Public Employees Health Program to require the program
+            
+24
+
+    
+to enroll members in the electronic exchange of clinical health records.
+            
+25
+
+    
+ Money Appropriated in this Bill:
+            
+26
+
+    
+    None
+            
+27
+
+    
+ Other Special Clauses:
+
+            
+28
+
+
+    
+    None
+            
+29
+
+    
+ Utah Code Sections Affected:
+            
+30
+
+    
+AMENDS:
+            
+31
+
+    
+     26-18-3, as last amended by Laws of Utah 2011, Chapters 151, 297, and 366
+            
+32
+
+    
+     26-40-103, as last amended by Laws of Utah 2008, Chapters 62 and 382
+            
+33
+
+    
+     49-20-401, as last amended by Laws of Utah 2008, Chapter 176
+            
+34
+
+    
+
+            
+35
+
+    
+Be it enacted by the Legislature of the state of Utah:
+            
+36
+
+    
+    Section 1.  
+Section  
+26-18-3
+
+ is amended to read:
+            
+37
+
+    
+     26-18-3.  Administration of Medicaid program by department -- Reporting to the
+            
+38
+
+    
+ Legislature -- Disciplinary measures and sanctions -- Funds collected -- Eligibility
+            
+39
+
+    
+ standards -- Internal audits -- Studies -- Health opportunity accounts.
+            
+40
+
+    
+    (1)  The department shall be the single state agency responsible for the administration
+            
+41
+
+    
+of the Medicaid program in connection with the United States Department of Health and
+            
+42
+
+    
+Human Services pursuant to Title XIX of the Social Security Act.
+            
+43
+
+    
+    (2) (a)  The department shall implement the Medicaid program through administrative
+            
+44
+
+    
+rules in conformity with this chapter, Title 63G, Chapter 3, Utah Administrative Rulemaking
+            
+45
+
+    
+Act, the requirements of Title XIX, and applicable federal regulations.
+            
+46
+
+    
+    (b)  The rules adopted under Subsection (2)(a) shall include, in addition to other rules
+            
+47
+
+    
+necessary to implement the program:
+            
+48
+
+    
+    (i)  the standards used by the department for determining eligibility for Medicaid
+            
+49
+
+    
+services;
+            
+50
+
+    
+    (ii)  the services and benefits to be covered by the Medicaid program; [and]
+            
+51
+
+    
+    (iii)  reimbursement methodologies for providers under the Medicaid program[.]; and
+            
+52
+
+    
+    (iv)  a requirement that a person receiving Medicaid services shall participate in the
+            
+53
+
+    
+electronic exchange of clinical health records established in accordance with Section 
+
+26-1-37
+
+
+            
+54
+
+    
+unless the individual opts out of participation.
+            
+55
+
+    
+    (3) (a)  The department shall, in accordance with Subsection (3)(b), report to the Health
+            
+56
+
+    
+and Human Services Appropriations Subcommittee when the department:
+            
+57
+
+    
+    (i)  implements a change in the Medicaid State Plan;
+            
+58
+
+    
+    (ii)  initiates a new Medicaid waiver;
+
+            
+59
+
+
+    
+    (iii)  initiates an amendment to an existing Medicaid waiver;
+            
+60
+
+    
+    (iv)  applies for an extension of an application for a waiver or an existing Medicaid
+            
+61
+
+    
+waiver; or
+            
+62
+
+    
+    (v)  initiates a rate change that requires public notice under state or federal law.
+            
+63
+
+    
+    (b)  The report required by Subsection (3)(a) shall:
+            
+64
+
+    
+    (i)  be submitted to the Health and Human Services Appropriations Subcommittee prior
+            
+65
+
+    
+to the department implementing the proposed change; and
+            
+66
+
+    
+    (ii) include:
+            
+67
+
+    
+    (A)  a description of the department's current practice or policy that the department is
+            
+68
+
+    
+proposing to change;
+            
+69
+
+    
+    (B)  an explanation of why the department is proposing the change;
+            
+70
+
+    
+    (C)  the proposed change in services or reimbursement, including a description of the
+            
+71
+
+    
+effect of the change;
+            
+72
+
+    
+    (D)  the effect of an increase or decrease in services or benefits on individuals and
+            
+73
+
+    
+families;
+            
+74
+
+    
+    (E)  the degree to which any proposed cut may result in cost-shifting to more expensive
+            
+75
+
+    
+services in health or human service programs; and
+            
+76
+
+    
+    (F)  the fiscal impact of the proposed change, including:
+            
+77
+
+    
+    (I)  the effect of the proposed change on current or future appropriations from the
+            
+78
+
+    
+Legislature to the department;
+            
+79
+
+    
+    (II)  the effect the proposed change may have on federal matching dollars received by
+            
+80
+
+    
+the state Medicaid program;
+            
+81
+
+    
+    (III)  any cost shifting or cost savings within the department's budget that may result
+            
+82
+
+    
+from the proposed change; and
+            
+83
+
+    
+    (IV)  identification of the funds that will be used for the proposed change, including any
+            
+84
+
+    
+transfer of funds within the department's budget.
+            
+85
+
+    
+    (4) (a)  The Department of Human Services shall report to the Legislative Health and
+            
+86
+
+    
+Human Services Appropriations Subcommittee no later than December 31, 2010 in accordance
+            
+87
+
+    
+with Subsection (4)(b).
+            
+88
+
+    
+    (b)  The report required by Subsection (4)(a) shall include:
+            
+89
+
+    
+    (i)  changes made by the division or the department beginning July 1, 2010, that effect
+
+            
+90
+
+
+    
+the Medicaid program, a waiver under the Medicaid program, or an interpretation of Medicaid
+            
+91
+
+    
+services or funding, that relate to care for children and youth in the custody of the Division of
+            
+92
+
+    
+Child and Family Services or the Division of Juvenile Justice Services;
+            
+93
+
+    
+    (ii)  the history and impact of the changes under Subsection (4)(b)(i);
+            
+94
+
+    
+    (iii)  the Department of Human Service's plans for addressing the impact of the changes
+            
+95
+
+    
+under Subsection (4)(b)(i); and
+            
+96
+
+    
+    (iv)  ways to consolidate administrative functions within the Department of Human
+            
+97
+
+    
+Services, the Department of Health, the Division of Child and Family Services, and the
+            
+98
+
+    
+Division of Juvenile Justice Services to more efficiently meet the needs of children and youth
+            
+99
+
+    
+with mental health and substance disorder treatment needs.
+            
+100
+
+    
+    (5)  Any rules adopted by the department under Subsection (2) are subject to review and
+            
+101
+
+    
+reauthorization by the Legislature in accordance with Section 
+
+63G-3-502
+
+.
+            
+102
+
+    
+    (6)  The department may, in its discretion, contract with the Department of Human
+            
+103
+
+    
+Services or other qualified agencies for services in connection with the administration of the
+            
+104
+
+    
+Medicaid program, including:
+            
+105
+
+    
+    (a)  the determination of the eligibility of individuals for the program;
+            
+106
+
+    
+    (b)  recovery of overpayments; and
+            
+107
+
+    
+    (c)  consistent with Section 
+
+26-20-13
+
+, and to the extent permitted by law and quality
+            
+108
+
+    
+control services, enforcement of fraud and abuse laws.
+            
+109
+
+    
+    (7)  The department shall provide, by rule, disciplinary measures and sanctions for
+            
+110
+
+    
+Medicaid providers who fail to comply with the rules and procedures of the program, provided
+            
+111
+
+    
+that sanctions imposed administratively may not extend beyond:
+            
+112
+
+    
+    (a)  termination from the program;
+            
+113
+
+    
+    (b)  recovery of claim reimbursements incorrectly paid; and
+            
+114
+
+    
+    (c)  those specified in Section 1919 of Title XIX of the federal Social Security Act.
+            
+115
+
+    
+    (8)  Funds collected as a result of a sanction imposed under Section 1919 of Title XIX
+            
+116
+
+    
+of the federal Social Security Act shall be deposited in the General Fund as dedicated credits to
+            
+117
+
+    
+be used by the division in accordance with the requirements of Section 1919 of Title XIX of
+            
+118
+
+    
+the federal Social Security Act.
+            
+119
+
+    
+    (9) (a)  In determining whether an applicant or recipient is eligible for a service or
+            
+120
+
+    
+benefit under this part or Chapter 40, Utah Children's Health Insurance Act, the department
+
+            
+121
+
+
+    
+shall, if Subsection (9)(b) is satisfied, exclude from consideration one passenger vehicle
+            
+122
+
+    
+designated by the applicant or recipient.
+            
+123
+
+    
+    (b)  Before Subsection (9)(a) may be applied:
+            
+124
+
+    
+    (i)  the federal government shall:
+            
+125
+
+    
+    (A)  determine that Subsection (9)(a) may be implemented within the state's existing
+            
+126
+
+    
+public assistance-related waivers as of January 1, 1999;
+            
+127
+
+    
+    (B)  extend a waiver to the state permitting the implementation of Subsection (9)(a); or
+            
+128
+
+    
+    (C)  determine that the state's waivers that permit dual eligibility determinations for
+            
+129
+
+    
+cash assistance and Medicaid are no longer valid; and
+            
+130
+
+    
+    (ii)  the department shall determine that Subsection (9)(a) can be implemented within
+            
+131
+
+    
+existing funding.
+            
+132
+
+    
+    (10) (a)  For purposes of this Subsection (10):
+            
+133
+
+    
+    (i)  "aged, blind, or has a disability" means an aged, blind, or disabled individual, as
+            
+134
+
+    
+defined in 42 U.S.C. 1382c(a)(1); and
+            
+135
+
+    
+    (ii)  "spend down" means an amount of income in excess of the allowable income
+            
+136
+
+    
+standard that shall be paid in cash to the department or incurred through the medical services
+            
+137
+
+    
+not paid by Medicaid.
+            
+138
+
+    
+    (b)  In determining whether an applicant or recipient who is aged, blind, or has a
+            
+139
+
+    
+disability is eligible for a service or benefit under this chapter, the department shall use 100%
+            
+140
+
+    
+of the federal poverty level as:
+            
+141
+
+    
+    (i)  the allowable income standard for eligibility for services or benefits; and
+            
+142
+
+    
+    (ii)  the allowable income standard for eligibility as a result of spend down.
+            
+143
+
+    
+    (11)  The department shall conduct internal audits of the Medicaid program.
+            
+144
+
+    
+    (12)  In order to determine the feasibility of contracting for direct Medicaid providers
+            
+145
+
+    
+for primary care services, the department shall:
+            
+146
+
+    
+    (a)  issue a request for information for direct contracting for primary services that shall
+            
+147
+
+    
+provide that a provider shall exclusively serve all Medicaid clients:
+            
+148
+
+    
+    (i)  in a geographic area;
+            
+149
+
+    
+    (ii)  for a defined range of primary care services; and
+            
+150
+
+    
+    (iii)  for a predetermined total contracted amount; and
+            
+151
+
+    
+    (b)  by February 1, 2011, report to the Health and Human Services Appropriations
+
+            
+152
+
+
+    
+Subcommittee on the response to the request for information under Subsection (12)(a).
+            
+153
+
+    
+    (13) (a)  By December 31, 2010, the department shall:
+            
+154
+
+    
+    (i)  determine the feasibility of implementing a three year patient-centered medical
+            
+155
+
+    
+home demonstration project in an area of the state using existing budget funds; and
+            
+156
+
+    
+    (ii)  report the department's findings and recommendations under Subsection (13)(a)(i)
+            
+157
+
+    
+to the Health and Human Services Appropriations Subcommittee.
+            
+158
+
+    
+    (b)  If the department determines that the medical home demonstration project
+            
+159
+
+    
+described in Subsection (13)(a) is feasible, and the Health and Human Services Appropriations
+            
+160
+
+    
+Subcommittee recommends that the demonstration project be implemented, the department
+            
+161
+
+    
+shall:
+            
+162
+
+    
+    (i)  implement the demonstration project; and
+            
+163
+
+    
+    (ii)  by December 1, 2012, make recommendations to the Health and Human Services
+            
+164
+
+    
+Appropriations Subcommittee regarding the:
+            
+165
+
+    
+    (A)  continuation of the demonstration project;
+            
+166
+
+    
+    (B)  expansion of the demonstration project to other areas of the state; and
+            
+167
+
+    
+    (C)  cost savings incurred by the implementation of the demonstration project.
+            
+168
+
+    
+    (14) (a)  The department may apply for and, if approved, implement a demonstration
+            
+169
+
+    
+program for health opportunity accounts, as provided for in 42 U.S.C. Sec. 1396u-8.
+            
+170
+
+    
+    (b)  A health opportunity account established under Subsection (14)(a) shall be an
+            
+171
+
+    
+alternative to the existing benefits received by an individual eligible to receive Medicaid under
+            
+172
+
+    
+this chapter.
+            
+173
+
+    
+    (c)  Subsection (14)(a) is not intended to expand the coverage of the Medicaid program.
+            
+174
+
+    
+    (15) (a)  The department shall determine if a waiver to the state Medicaid plan or the
+            
+175
+
+    
+Children's Health Insurance Program is necessary to implement a requirement that all
+            
+176
+
+    
+beneficiaries of the Medicaid program and the Children's Health Insurance Program participate
+            
+177
+
+    
+in the electronic exchange of clinical health records established in accordance with Section
+            
+178
+
+    
+
+
+26-1-37
+
+.  If the department determines a waiver is necessary, the department shall apply for a
+            
+179
+
+    
+waiver.
+            
+180
+
+    
+    (b)  Notwithstanding the provisions of Subsection (2)(b)(iv) and Subsection
+            
+181
+
+    
+
+
+26-40-103
+
+(2)(b)(vi), the department shall require a beneficiary of the state Medicaid program
+            
+182
+
+    
+or the Children's Health Insurance Program to participate in the electronic exchange of clinical
+
+            
+183
+
+
+    
+health records if:
+            
+184
+
+    
+    (i)  the department determines the requirement for participation under Subsection
+            
+185
+
+    
+(15)(a) does not require a waiver to the state Medicaid plan or the Children's Health Insurance
+            
+186
+
+    
+Program; or
+            
+187
+
+    
+    (ii)  the department receives an approval of a waiver to the state Medicaid plan or the
+            
+188
+
+    
+Children's Health Insurance Program that permits the department to require participation in the
+            
+189
+
+    
+electronic exchange of clinical health records.
+            
+190
+
+    
+    Section 2.  
+Section  
+26-40-103
+
+ is amended to read:
+            
+191
+
+    
+     26-40-103.  Creation and administration of the Utah Children's Health Insurance
+            
+192
+
+    
+ Program.
+            
+193
+
+    
+    (1)  There is created the Utah Children's Health Insurance Program to be administered
+            
+194
+
+    
+by the department in accordance with the provisions of:
+            
+195
+
+    
+    (a)  this chapter; and
+            
+196
+
+    
+    (b)  the State Children's Health Insurance Program, 42 U.S.C. Sec. 1397aa et seq.
+            
+197
+
+    
+    (2)  The department shall:
+            
+198
+
+    
+    (a)  prepare and submit the state's children's health insurance plan before May 1, 1998,
+            
+199
+
+    
+and any amendments to the federal Department of Health and Human Services in accordance
+            
+200
+
+    
+with 42 U.S.C. Sec. 1397ff; and
+            
+201
+
+    
+    (b)  make rules in accordance with Title 63G, Chapter 3, Utah Administrative
+            
+202
+
+    
+Rulemaking Act regarding:
+            
+203
+
+    
+    (i)  eligibility requirements consistent with Subsection 
+
+26-18-3
+
+[(8)](9);
+            
+204
+
+    
+    (ii)  program benefits;
+            
+205
+
+    
+    (iii)  the level of coverage for each program benefit;
+            
+206
+
+    
+    (iv)  cost-sharing requirements for enrollees, which may not:
+            
+207
+
+    
+    (A)  exceed the guidelines set forth in 42 U.S.C. Sec. 1397ee; or
+            
+208
+
+    
+    (B)  impose deductible, copayment, or coinsurance requirements on an enrollee for
+            
+209
+
+    
+well-child, well-baby, and immunizations; [and]
+            
+210
+
+    
+    (v)  the administration of the program[.]; and
+            
+211
+
+    
+    (vi)  a requirement that enrollees in the program shall participate in the electronic
+            
+212
+
+    
+exchange of clinical health records established in accordance with Section 
+
+26-18-3
+
+ unless the
+            
+213
+
+    
+enrollee opts out of participation.
+
+            
+214
+
+
+    
+    Section 3.  
+Section  
+49-20-401
+
+ is amended to read:
+            
+215
+
+    
+     49-20-401.  Program -- Powers and duties.
+            
+216
+
+    
+    (1)  The program shall:
+            
+217
+
+    
+    (a)  act as a self-insurer of employee benefit plans and administer those plans;
+            
+218
+
+    
+    (b)  enter into contracts with private insurers or carriers to underwrite employee benefit
+            
+219
+
+    
+plans as considered appropriate by the program;
+            
+220
+
+    
+    (c)  indemnify employee benefit plans or purchase commercial reinsurance as
+            
+221
+
+    
+considered appropriate by the program;
+            
+222
+
+    
+    (d)  provide descriptions of all employee benefit plans under this chapter in cooperation
+            
+223
+
+    
+with covered employers;
+            
+224
+
+    
+    (e)  process claims for all employee benefit plans under this chapter or enter into
+            
+225
+
+    
+contracts, after competitive bids are taken, with other benefit administrators to provide for the
+            
+226
+
+    
+administration of the claims process;
+            
+227
+
+    
+    (f)  obtain an annual actuarial review of all health and dental benefit plans and a
+            
+228
+
+    
+periodic review of all other employee benefit plans;
+            
+229
+
+    
+    (g)  consult with the covered employers to evaluate employee benefit plans and develop
+            
+230
+
+    
+recommendations for benefit changes;
+            
+231
+
+    
+    (h)  annually submit a budget and audited financial statements to the governor and
+            
+232
+
+    
+Legislature which includes total projected benefit costs and administrative costs;
+            
+233
+
+    
+    (i)  maintain reserves sufficient to liquidate the unrevealed claims liability and other
+            
+234
+
+    
+liabilities of the employee benefit plans as certified by the program's consulting actuary;
+            
+235
+
+    
+    (j)  submit, in advance, its recommended benefit adjustments for state employees to:
+            
+236
+
+    
+    (i)  the Legislature; and
+            
+237
+
+    
+    (ii)  the executive director of the state Department of Human Resource Management;
+            
+238
+
+    
+    (k)  determine benefits and rates, upon approval of the board, for multiemployer risk
+            
+239
+
+    
+pools, retiree coverage, and conversion coverage;
+            
+240
+
+    
+    (l)  determine benefits and rates based on the total estimated costs and the employee
+            
+241
+
+    
+premium share established by the Legislature, upon approval of the board, for state employees;
+            
+242
+
+    
+    (m)  administer benefits and rates, upon ratification of the board, for single employer
+            
+243
+
+    
+risk pools;
+            
+244
+
+    
+    (n)  request proposals for provider networks or health and dental benefit plans
+
+            
+245
+
+
+    
+administered by third party carriers at least once every three years for the purposes of:
+            
+246
+
+    
+    (i)  stimulating competition for the benefit of covered individuals;
+            
+247
+
+    
+    (ii)  establishing better geographical distribution of medical care services; and
+            
+248
+
+    
+    (iii)  providing coverage for both active and retired covered individuals;
+            
+249
+
+    
+    (o)  offer proposals which meet the criteria specified in a request for proposals and
+            
+250
+
+    
+accepted by the program to active and retired state covered individuals and which may be
+            
+251
+
+    
+offered to active and retired covered individuals of other covered employers at the option of the
+            
+252
+
+    
+covered employer;
+            
+253
+
+    
+    (p)  perform the same functions established in Subsections (1)(a), (b), (e), and (h) for
+            
+254
+
+    
+the Department of Health if the program provides program benefits to children enrolled in the
+            
+255
+
+    
+Utah Children's Health Insurance Program created in Title 26, Chapter 40, Utah Children's
+            
+256
+
+    
+Health Insurance Act;
+            
+257
+
+    
+    (q)  establish rules and procedures governing the admission of political subdivisions or
+            
+258
+
+    
+educational institutions and their employees to the program;
+            
+259
+
+    
+    (r)  contract directly with medical providers to provide services for covered individuals;
+            
+260
+
+    
+[and]
+            
+261
+
+    
+    (s)  take additional actions necessary or appropriate to carry out the purposes of this
+            
+262
+
+    
+chapter[.]; and
+            
+263
+
+    
+    (t)  require a member to participate in the electronic exchange of clinical health records
+            
+264
+
+    
+in accordance with Section 
+
+26-1-37
+
+.
+            
+265
+
+    
+    (2) (a)  Funds budgeted and expended shall accrue from rates paid by the covered
+            
+266
+
+    
+employers and covered individuals.
+            
+267
+
+    
+    (b)  Administrative costs shall be approved by the board and reported to the governor
+            
+268
+
+    
+and the Legislature.
+            
+269
+
+    
+    (3)  The Department of Human Resource Management shall include the benefit
+            
+270
+
+    
+adjustments described in Subsection (1)(j) in the total compensation plan recommended to the
+            
+271
+
+    
+governor required under Subsection 
+
+67-19-12
+
+(6)(a).
+
+
+
+
+
+ Legislative Review Note
+    as of  11-30-11  7:08 AM
+
+ Office of Legislative Research and General Counsel
+[Bill Documents][Bills Directory]
+
+
+
+
+
+
+
+
+
+Who represents me?
+
+
+
+
+
+Remember my Legislators
+
+
+
+
+
+State Senate
+		350 North State, Suite 320
+		PO Box 145115
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1035
+		Fax: (801) 326-1475
+
+
+
+House of Representatives
+		350 North State, Suite 350
+		PO Box 145030
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1029
+		Fax: (801) 326-1544
+
+
+
+
+
+
+
+
+
+
+Home
+Mobile Site
+Site Map
+Calendar
+Code / Constitution
+House
+Senate
+
+Terms of Use/Privacy Policy
+
+ADA
+Utah.gov
+
+
+
+
+
+
+

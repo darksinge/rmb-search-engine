@@ -1,0 +1,2688 @@
+Sponsors: []Modifications: (5).(a)(b)and(c)..(6)(7)(8)Full text:
+
+
+
+Utah State Legislature
+
+
+
+
+
+
+
+
+
+
+
+
+Legislators
+
+By Session (1896-Current)
+Alphabetical (Historical)
+Find by Address/Map
+More
+
+
+Bills
+
+Bills/Bill Requests
+Passed Bills
+2017 Bills
+
+Keyword Search
+Reading Calendars
+Tracking Service
+More
+
+
+Committees
+
+All Committees
+Appropriations
+Commissions
+
+Independent Legislative Ethics Commission
+Interim
+Standing
+Subcommittees
+Task Forces
+Bills In Committees
+
+
+Utah Code / Constitution
+
+
+Title/Chapter/Section
+Keyword Search 
+
+Utah Constitution
+Laws of Utah 1851-ongoing
+Utah Territorial Laws 
+More
+
+
+Senate
+
+Main Page 
+About The Senate 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Extraordinary Sessions 
+Reading Calendars 
+Past Floor Debates 
+Senate Journals 
+
+
+House
+
+Main Page
+About the House 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Reading Calendars 
+Past Floor Debates 
+Journals 
+Conflict of Interest Forms 
+
+
+Legislative Guide 
+
+Legislative Guide
+Civic Programs
+GRAMA (Records Requests)
+
+
+Publications
+
+Search Publications
+Appropriations
+Audits
+Bagels & Briefings
+Briefing Papers
+Digest of Legislation
+Legislative Drafting Manual
+
+Journals
+
+Interim Highlights
+
+Legislative Rules
+GRAMA (Records Requests)
+Public Email
+State Organization Charts
+YouTube Channel
+Requests for Proposals and Legal Notices
+More
+
+
+Legislative Histories
+
+Legislative History Resources
+How to Research
+Bill Drafting/Research Files (1990-Ongoing)
+
+Working Bills (1896-1989)
+Interim Committee Histories (1990-Ongoing) 
+Journals
+Past House Floor Debates
+Past Senate Floor Debates
+More
+
+
+Staff Offices
+
+All Legislative Offices
+Auditor General
+Fiscal Analyst
+Printing
+Research and General Counsel
+Staff Awards
+Job Opportunities
+More
+
+
+Links of Interest
+
+Utah Administrative Rules
+Courts
+Utah State Capitol
+State of Utah
+Federal Legislation
+More
+
+
+
+
+
+
+ 
+
+Download Zipped Introduced WordPerfect HB0037.ZIP
+[Status][Bill Documents][Fiscal Note][Bills Directory]
+
+
+H.B. 37
+
+
+
+
+
+            
+1
+
+    
+ REPEAL OF REPORTING REQUIREMENTS
+
+
+
+            
+2
+
+    
+2013 GENERAL SESSION
+
+            
+3
+
+    
+STATE OF UTAH
+
+            
+4
+
+    
+
+
+ Chief Sponsor:  James A. Dunnigan
+
+
+
+            
+5
+
+    
+
+
+
+Senate Sponsor:  
+
+
+
+
+
+
+John L. Valentine
+
+
+
+
+
+            
+6
+
+    
+
+            
+7
+
+    
+ LONG TITLE
+            
+8
+
+    
+ Committee Note:
+            
+9
+
+    
+    The Business and Labor Interim Committee recommended this bill.
+            
+10
+
+    
+ General Description:
+            
+11
+
+    
+    This bill modifies provisions of the Utah Code related to reports made to interim
+            
+12
+
+    
+committees.
+            
+13
+
+    
+ Highlighted Provisions:
+            
+14
+
+    
+    This bill:
+            
+15
+
+    
+    .    repeals outdated reports including:
+            
+16
+
+    
+        .    a reporting requirement for a program related to prescription opiate use;
+            
+17
+
+    
+        .    reporting requirements by the Insurance Commissioner related to coordination
+            
+18
+
+    
+with other states;
+            
+19
+
+    
+        .    a reporting requirement related to a study of premium assessments; and
+            
+20
+
+    
+        .    a report related to collecting information related to tracking effects of abuse of
+            
+21
+
+    
+alcoholic products;
+            
+22
+
+    
+    .    repeals reporting requirement related to complaint information related to title
+            
+23
+
+    
+insurance;
+            
+24
+
+    
+    .    repeals reporting requirement related to the Rocky Mountain Center for
+            
+25
+
+    
+Occupational and Environmental Health;
+            
+26
+
+    
+    .    repeals reporting requirement related to the nationwide database and mortgage
+            
+27
+
+    
+related licensing;
+
+            
+28
+
+
+    
+    .    repeals reporting requirement related to the Department of Financial Institutions and
+            
+29
+
+    
+consumer credit education efforts; and
+            
+30
+
+    
+    .    makes technical and conforming amendments.
+            
+31
+
+    
+ Money Appropriated in this Bill:
+            
+32
+
+    
+    None
+            
+33
+
+    
+ Other Special Clauses:
+            
+34
+
+    
+    None
+            
+35
+
+    
+ Utah Code Sections Affected:
+            
+36
+
+    
+AMENDS:
+            
+37
+
+    
+     26-1-36, as last amended by Laws of Utah 2010, Chapter 287
+            
+38
+
+    
+     31A-2-217, as last amended by Laws of Utah 2008, Chapter 382
+            
+39
+
+    
+     31A-2-404, as last amended by Laws of Utah 2012, Chapter 253
+            
+40
+
+    
+     34A-2-107, as last amended by Laws of Utah 2011, Chapter 366
+            
+41
+
+    
+     53-1-119, as enacted by Laws of Utah 2012, Chapter 357
+            
+42
+
+    
+     53B-17-804, as last amended by Laws of Utah 2010, Chapter 323
+            
+43
+
+    
+     61-2c-103, as last amended by Laws of Utah 2012, Chapter 166
+            
+44
+
+    
+     70C-8-102, as last amended by Laws of Utah 2002, Chapter 65
+            
+45
+
+    
+
+            
+46
+
+    
+Be it enacted by the Legislature of the state of Utah:
+            
+47
+
+    
+    Section 1.  
+Section  
+26-1-36
+
+ is amended to read:
+            
+48
+
+    
+     26-1-36.  Duty to establish program to reduce deaths and other harm from
+            
+49
+
+    
+ prescription opiates used for chronic noncancer pain.
+            
+50
+
+    
+    (1)  As used in this section, "opiate" means any drug or other substance having an
+            
+51
+
+    
+addiction-forming or addiction-sustaining liability similar to morphine or being capable of
+            
+52
+
+    
+conversion into a drug having addiction-forming or addiction-sustaining liability.
+            
+53
+
+    
+    (2)  In addition to the duties listed in Section 
+
+26-1-30
+
+, the department shall develop and
+            
+54
+
+    
+implement a two-year program in coordination with the Division of Professional Licensing, the
+            
+55
+
+    
+Utah Labor Commission, and the Utah attorney general, to:
+            
+56
+
+    
+    (a)  investigate the causes of and risk factors for death and nonfatal complications of
+            
+57
+
+    
+prescription opiate use and misuse in Utah for chronic pain by utilizing the Utah Controlled
+            
+58
+
+    
+Substance Database created in Section 
+
+58-37f-201
+
+;
+
+            
+59
+
+
+    
+    (b)  study the risks, warning signs, and solutions to the risks associated with
+            
+60
+
+    
+prescription opiate medications for chronic pain, including risks and prevention of misuse and
+            
+61
+
+    
+diversion of those medications;
+            
+62
+
+    
+    (c)  provide education to health care providers, patients, insurers, and the general public
+            
+63
+
+    
+on the appropriate management of chronic pain, including the effective use of medical
+            
+64
+
+    
+treatment and quality care guidelines that are scientifically based and peer reviewed; and
+            
+65
+
+    
+    (d)  educate the public regarding:
+            
+66
+
+    
+    (i)  the purpose of the Controlled Substance Database established in Section
+            
+67
+
+    
+
+58-37f-201
+
+; and
+            
+68
+
+    
+    (ii)  the requirement that a person's name and prescription information be recorded on
+            
+69
+
+    
+the database when the person fills a prescription for a schedule II, III, IV, or V controlled
+            
+70
+
+    
+substance.
+            
+71
+
+    
+    [(3)  The department shall report on the development and implementation of the
+            
+72
+
+    
+program required in Subsection (2) to the legislative Health and Human Services Interim
+            
+73
+
+    
+Committee and the legislative Business and Labor Interim Committee no later than the
+            
+74
+
+    
+November interim meetings in 2008 and 2009.  Each report shall include:]
+            
+75
+
+    
+    [(a)  recommendations on:]
+            
+76
+
+    
+    [(i)  use of the Utah Controlled Substance Database created in Section 
+
+58-37f-201
+
+ to
+            
+77
+
+    
+identify and prevent:]
+            
+78
+
+    
+    [(A)  misuse of opiates;]
+            
+79
+
+    
+    [(B)  inappropriate prescribing; and]
+            
+80
+
+    
+    [(C)  adverse outcomes of prescription opiate medications;]
+            
+81
+
+    
+    [(ii)  interventions to prevent the diversion of prescription opiate medications; and]
+            
+82
+
+    
+    [(iii)  medical treatment and quality care guidelines that are:]
+            
+83
+
+    
+    [(A)  scientifically based; and]
+            
+84
+
+    
+    [(B)  peer reviewed; and]
+            
+85
+
+    
+    [(b) (i)  a measure of results against expectations under the program as of the date of the
+            
+86
+
+    
+report; and]
+            
+87
+
+    
+    [(ii)  an analysis of the application of the program, use of the appropriated funds, and
+            
+88
+
+    
+the impact and results of the use of the funds.]
+            
+89
+
+    
+    [(4)  The report provided under Subsection (3) for the 2008 interim shall also provide a
+
+            
+90
+
+
+    
+final cumulative analysis of the measurable effectiveness of the program implemented under
+            
+91
+
+    
+this section.]
+            
+92
+
+    
+    Section 2.  
+Section  
+31A-2-217
+
+ is amended to read:
+            
+93
+
+    
+     31A-2-217.  Coordination with other states.
+            
+94
+
+    
+    (1) (a)  Subject to Subsection (1)(b), the commissioner, by rule, may adopt one or more
+            
+95
+
+    
+agreements with another governmental regulatory agency, within and outside of this state, or
+            
+96
+
+    
+with the National Association of Insurance Commissioners to address:
+            
+97
+
+    
+    (i)  licensing of insurance companies;
+            
+98
+
+    
+    (ii)  licensing of agents;
+            
+99
+
+    
+    (iii)  regulation of premium rates and policy forms; and
+            
+100
+
+    
+    (iv)  regulation of insurer insolvency and insurance receiverships.
+            
+101
+
+    
+    (b)  An agreement described in Subsection (1)(a), may authorize the commissioner to
+            
+102
+
+    
+modify a requirement of this title if the commissioner determines that the requirements under
+            
+103
+
+    
+the agreement provide protections similar to or greater than the requirements under this title.
+            
+104
+
+    
+    (2) (a)  The commissioner may negotiate an interstate compact that addresses issuing
+            
+105
+
+    
+certificates of authority, if the commissioner determines that:
+            
+106
+
+    
+    (i)  each state participating in the compact has requirements for issuing certificates of
+            
+107
+
+    
+authority that provide protections similar to or greater than the requirements of this title; or
+            
+108
+
+    
+    (ii)  the interstate compact contains requirements for issuing certificates of authority
+            
+109
+
+    
+that provide protections similar to or greater than the requirements of this title.
+            
+110
+
+    
+    (b)  If an interstate compact described in Subsection (2)(a) is adopted by the
+            
+111
+
+    
+Legislature, the commissioner may issue certificates of authority to insurers in accordance with
+            
+112
+
+    
+the terms of the interstate compact.
+            
+113
+
+    
+    (3)  If any provision of this title conflicts with a provision of the annual statement
+            
+114
+
+    
+instructions or the National Association of Insurance Commissioners Accounting Practices and
+            
+115
+
+    
+Procedures Manual, the commissioner may, by rule, resolve the conflict in favor of the annual
+            
+116
+
+    
+statement instructions or the National Association of Insurance Commissioners Accounting
+            
+117
+
+    
+Practices and Procedures Manual.
+            
+118
+
+    
+    (4)  The commissioner may, by rule, accept the information prescribed by the National
+            
+119
+
+    
+Association of Insurance Commissioners instead of the documents required to be filed with an
+            
+120
+
+    
+application for a certificate of authority under:
+
+            
+121
+
+
+    
+    (a)  Section 
+
+31A-4-103
+
+, 
+
+31A-5-204
+
+, 
+
+31A-8-205
+
+, or 
+
+31A-14-201
+
+; or
+            
+122
+
+    
+    (b)  rules made by the commissioner.
+            
+123
+
+    
+    [(5)  Before November 30, 2001, the commissioner shall report to the Business and
+            
+124
+
+    
+Labor Interim Committee regarding the status of:]
+            
+125
+
+    
+    [(a)  any agreements entered into under Subsection (1);]
+            
+126
+
+    
+    [(b)  any interstate compact entered into under Subsection (2); and]
+            
+127
+
+    
+    [(c)  any rule made under Subsections (3) and (4).]
+            
+128
+
+    
+    [(6)] (5)  This section shall be repealed in accordance with Section 
+
+63I-1-231
+
+.
+            
+129
+
+    
+    Section 3.  
+Section  
+31A-2-404
+
+ is amended to read:
+            
+130
+
+    
+     31A-2-404.  Duties of the commissioner and Title and Escrow Commission.
+            
+131
+
+    
+    (1)  Notwithstanding the other provisions of this chapter, to the extent provided in this
+            
+132
+
+    
+part, the commissioner shall administer and enforce the provisions in this title related to:
+            
+133
+
+    
+    (a)  title insurance; and
+            
+134
+
+    
+    (b)  escrow conducted by a title licensee or title insurer.
+            
+135
+
+    
+    (2)  The commission shall:
+            
+136
+
+    
+    (a)  in accordance with Title 63G, Chapter 3, Utah Administrative Rulemaking Act, and
+            
+137
+
+    
+subject to Subsection (3), make rules for the administration of the provisions in this title related
+            
+138
+
+    
+to title insurance including rules related to:
+            
+139
+
+    
+    (i)  rating standards and rating methods for a title licensee, as provided in Section
+            
+140
+
+    
+
+31A-19a-209
+
+;
+            
+141
+
+    
+    (ii)  the licensing for a title licensee, including the licensing requirements of Section
+            
+142
+
+    
+
+31A-23a-204
+
+;
+            
+143
+
+    
+    (iii)  continuing education requirements of Section 
+
+31A-23a-202
+
+;
+            
+144
+
+    
+    (iv)  examination procedures, after consultation with the commissioner and the
+            
+145
+
+    
+commissioner's test administrator when required by Section 
+
+31A-23a-204
+
+; and
+            
+146
+
+    
+    (v)  standards of conduct for a title licensee;
+            
+147
+
+    
+    (b)  concur in the issuance and renewal of a license in accordance with Section
+            
+148
+
+    
+
+31A-23a-105
+
+ or 
+
+31A-26-203
+
+;
+            
+149
+
+    
+    (c)  in accordance with Section 
+
+31A-3-103
+
+, establish, with the concurrence of the
+            
+150
+
+    
+commissioner, the fees imposed by this title on a title licensee;
+            
+151
+
+    
+    (d)  in accordance with Section 
+
+31A-23a-415
+
+ determine, after consulting with the
+
+            
+152
+
+
+    
+commissioner, the assessment on a title insurer as defined in Section 
+
+31A-23a-415
+
+;
+            
+153
+
+    
+    (e)  conduct an administrative hearing not delegated by the commission to an
+            
+154
+
+    
+administrative law judge related to the:
+            
+155
+
+    
+    (i)  licensing of an applicant;
+            
+156
+
+    
+    (ii)  conduct of a title licensee; or
+            
+157
+
+    
+    (iii)  approval of a continuing education program required by Section 
+
+31A-23a-202
+
+;
+            
+158
+
+    
+    (f)  with the concurrence of the commissioner, approve a continuing education program
+            
+159
+
+    
+required by Section 
+
+31A-23a-202
+
+;
+            
+160
+
+    
+    (g)  with the concurrence of the commissioner, impose a penalty:
+            
+161
+
+    
+    (i)  under this title related to:
+            
+162
+
+    
+    (A)  title insurance; or
+            
+163
+
+    
+    (B)  escrow conducted by a title licensee;
+            
+164
+
+    
+    (ii)  after investigation by the commissioner in accordance with Part 3, Procedures and
+            
+165
+
+    
+Enforcement; and
+            
+166
+
+    
+    (iii)  that is enforced by the commissioner;
+            
+167
+
+    
+    (h)  advise the commissioner on the administration and enforcement of any matter
+            
+168
+
+    
+affecting the title insurance industry;
+            
+169
+
+    
+    (i)  advise the commissioner on matters affecting the commissioner's budget related to
+            
+170
+
+    
+title insurance; and
+            
+171
+
+    
+    (j)  perform other duties as provided in this title.
+            
+172
+
+    
+    (3)  The commission may make a rule under this title only if at the time the commission
+            
+173
+
+    
+files its proposed rule and rule analysis with the Division of Administrative Rules in
+            
+174
+
+    
+accordance with Section 
+
+63G-3-301
+
+, the commission provides the Real Estate Commission that
+            
+175
+
+    
+same information.
+            
+176
+
+    
+    (4) (a)  The commissioner shall annually report the information described in Subsection
+            
+177
+
+    
+(4)(b) in writing to[: (i)] the commission[; and].
+            
+178
+
+    
+    [(ii)  the Business and Labor Interim Committee.]
+            
+179
+
+    
+    (b)  The information required to be reported under this Subsection (4):
+            
+180
+
+    
+    (i)  may not identify a person; and
+            
+181
+
+    
+    (ii)  shall include:
+            
+182
+
+    
+    (A)  the number of complaints the commissioner receives with regard to transactions
+
+            
+183
+
+
+    
+involving title insurance or a title licensee during the calendar year immediately proceeding the
+            
+184
+
+    
+report;
+            
+185
+
+    
+    (B)  the type of complaints described in Subsection (4)(b)(ii)(A); and
+            
+186
+
+    
+    (C)  for each complaint described in Subsection (4)(b)(ii)(A):
+            
+187
+
+    
+    (I)  any action taken by the commissioner with regard to the complaint; and
+            
+188
+
+    
+    (II)  the time-period beginning the day on which a complaint is made and ending the
+            
+189
+
+    
+day on which the commissioner determines it will take no further action with regard to the
+            
+190
+
+    
+complaint.
+            
+191
+
+    
+    Section 4.  
+Section  
+34A-2-107
+
+ is amended to read:
+            
+192
+
+    
+     34A-2-107.  Appointment of workers' compensation advisory council --
+            
+193
+
+    
+ Composition -- Terms of members -- Duties -- Compensation.
+            
+194
+
+    
+    (1)  The commissioner shall appoint a workers' compensation advisory council
+            
+195
+
+    
+composed of:
+            
+196
+
+    
+    (a)  the following voting members:
+            
+197
+
+    
+    (i)  five employer representatives; and
+            
+198
+
+    
+    (ii)  five employee representatives; and
+            
+199
+
+    
+    (b)  the following nonvoting members:
+            
+200
+
+    
+    (i)  a representative of the Workers' Compensation Fund;
+            
+201
+
+    
+    (ii)  a representative of a private insurance carrier;
+            
+202
+
+    
+    (iii)  a representative of health care providers;
+            
+203
+
+    
+    (iv)  the Utah insurance commissioner or the insurance commissioner's designee; and
+            
+204
+
+    
+    (v)  the commissioner or the commissioner's designee.
+            
+205
+
+    
+    (2)  Employers and employees shall consider nominating members of groups who
+            
+206
+
+    
+historically may have been excluded from the council, such as women, minorities, and
+            
+207
+
+    
+individuals with disabilities.
+            
+208
+
+    
+    (3) (a)  Except as required by Subsection (3)(b), as terms of current council members
+            
+209
+
+    
+expire, the commissioner shall appoint each new member or reappointed member to a two-year
+            
+210
+
+    
+term beginning July 1 and ending June 30.
+            
+211
+
+    
+    (b)  Notwithstanding the requirements of Subsection (3)(a), the commissioner shall, at
+            
+212
+
+    
+the time of appointment or reappointment, adjust the length of terms to ensure that the terms of
+            
+213
+
+    
+council members are staggered so that approximately half of the council is appointed every two
+
+            
+214
+
+
+    
+years.
+            
+215
+
+    
+    (4) (a)  When a vacancy occurs in the membership for any reason, the replacement shall
+            
+216
+
+    
+be appointed for the unexpired term.
+            
+217
+
+    
+    (b)  The commissioner shall terminate the term of a council member who ceases to be
+            
+218
+
+    
+representative as designated by the member's original appointment.
+            
+219
+
+    
+    (5) [(a)]  The council shall confer at least quarterly for the purpose of advising the
+            
+220
+
+    
+commission, the division, and the Legislature on:
+            
+221
+
+    
+    [(i)] (a)  the Utah workers' compensation and occupational disease laws;
+            
+222
+
+    
+    [(ii)] (b)  the administration of the laws described in Subsection (5)(a)[(i)]; and
+            
+223
+
+    
+    [(iii)] (c)  rules related to the laws described in Subsection (5)(a)[(i); and].
+            
+224
+
+    
+    [(iv)  advising the Legislature in accordance with Subsection (5)(b).]
+            
+225
+
+    
+    [(b) (i)  The council and the commission shall jointly study during 2009 the premium
+            
+226
+
+    
+assessment under Section 
+
+59-9-101
+
+ on an admitted insurer writing workers' compensation
+            
+227
+
+    
+insurance in this state and on a self-insured employer under Section 
+
+34A-2-202
+
+ as to:]
+            
+228
+
+    
+    [(A)  whether or not the premium assessment should be changed; or]
+            
+229
+
+    
+    [(B)  whether or not changes should be made to how the premium assessment is used.]
+            
+230
+
+    
+    [(ii)  The council and commission shall jointly report the results of the study described
+            
+231
+
+    
+in this Subsection (5)(b) to the Business and Labor Interim Committee by no later than the
+            
+232
+
+    
+2009 November interim meeting.]
+            
+233
+
+    
+    (6)  Regarding workers' compensation, rehabilitation, and reemployment of employees
+            
+234
+
+    
+who acquire a disability because of an industrial injury or occupational disease the council
+            
+235
+
+    
+shall:
+            
+236
+
+    
+    (a)  offer advice on issues requested by:
+            
+237
+
+    
+    (i)  the commission;
+            
+238
+
+    
+    (ii)  the division; and
+            
+239
+
+    
+    (iii)  the Legislature; and
+            
+240
+
+    
+    (b)  make recommendations to:
+            
+241
+
+    
+    (i)  the commission; and
+            
+242
+
+    
+    (ii)  the division.
+            
+243
+
+    
+    (7)  The commissioner or the commissioner's designee shall serve as the chair of the
+            
+244
+
+    
+council and call the necessary meetings.
+
+            
+245
+
+
+    
+    (8)  The commission shall provide staff support to the council.
+            
+246
+
+    
+    (9)  A member may not receive compensation or benefits for the member's service, but
+            
+247
+
+    
+may receive per diem and travel expenses in accordance with:
+            
+248
+
+    
+    (a)  Section 
+
+63A-3-106
+
+;
+            
+249
+
+    
+    (b)  Section 
+
+63A-3-107
+
+; and
+            
+250
+
+    
+    (c)  rules made by the Division of Finance pursuant to Sections 
+
+63A-3-106
+
+ and
+            
+251
+
+    
+
+63A-3-107
+
+.
+            
+252
+
+    
+    Section 5.  
+Section  
+53-1-119
+
+ is amended to read:
+            
+253
+
+    
+     53-1-119.  Tracking effects of abuse of alcoholic products.
+            
+254
+
+    
+    (1)  There is created a committee within the department known as the "Alcohol Abuse
+            
+255
+
+    
+Tracking Committee" that consists of:
+            
+256
+
+    
+    (a)  the commissioner, or the commissioner's designee;
+            
+257
+
+    
+    (b)  the executive director of the Department of Health, or the executive director's
+            
+258
+
+    
+designee;
+            
+259
+
+    
+    (c)  the executive director of the Department of Human Services, or the executive
+            
+260
+
+    
+director's designee;
+            
+261
+
+    
+    (d)  the director of the Department of Alcoholic Beverage Control, or the director's
+            
+262
+
+    
+designee;
+            
+263
+
+    
+    (e)  the executive director of the Department of Workforce Services, or the executive
+            
+264
+
+    
+director's designee;
+            
+265
+
+    
+    (f)  the chair of the Utah Substance Abuse Advisory Council, or the chair's designee;
+            
+266
+
+    
+    (g)  the state court administrator or the state court administrator's designee; and
+            
+267
+
+    
+    (h)  the executive director of the Department of Technology Services, or the executive
+            
+268
+
+    
+director's designee.
+            
+269
+
+    
+    (2)  The commissioner, or the commissioner's designee, shall chair the committee.
+            
+270
+
+    
+    (3) (a)  Four members of the committee constitute a quorum.
+            
+271
+
+    
+    (b)  A vote of the majority of the committee members present when a quorum is present
+            
+272
+
+    
+is an action of the committee.
+            
+273
+
+    
+    (4)  The committee shall meet at the call of the chair, except that the chair shall call a
+            
+274
+
+    
+meeting at least quarterly.
+            
+275
+
+    
+    (5)  The committee may adopt additional procedures or requirements for:
+
+            
+276
+
+
+    
+    (a)  voting, when there is a tie of the committee members;
+            
+277
+
+    
+    (b)  how meetings are to be called; and
+            
+278
+
+    
+    (c)  the frequency of meetings.
+            
+279
+
+    
+    (6)  The committee shall establish a process to collect for each fiscal year the following
+            
+280
+
+    
+information:
+            
+281
+
+    
+    (a)  the number of individuals statewide who are convicted of, plead guilty to, plead no
+            
+282
+
+    
+contest to, plead guilty in a similar manner to, or resolve by diversion or its equivalent to a
+            
+283
+
+    
+violation related to underage drinking of alcohol;
+            
+284
+
+    
+    (b)  the number of individuals statewide who are convicted of, plead guilty to, plead no
+            
+285
+
+    
+contest to, plead guilty in a similar manner to, or resolve by diversion or its equivalent to a
+            
+286
+
+    
+violation related to driving under the influence of alcohol;
+            
+287
+
+    
+    (c)  the number of violations statewide of Title 32B, Alcoholic Beverage Control Act,
+            
+288
+
+    
+related to over-serving or over-consumption of an alcoholic product;
+            
+289
+
+    
+    (d)  the cost of social services provided by the state related to abuse of alcohol,
+            
+290
+
+    
+including services provided by the Division of Child and Family Services within the
+            
+291
+
+    
+Department of Human Services;
+            
+292
+
+    
+    (e)  where the alcoholic products are obtained that results in the violations or costs
+            
+293
+
+    
+described in Subsections (6)(a) through (d); and
+            
+294
+
+    
+    (f)  any information the committee determines can be collected and relates to the abuse
+            
+295
+
+    
+of alcoholic products.
+            
+296
+
+    
+    (7) (a)  The committee shall begin to collect the information described in Subsection (6)
+            
+297
+
+    
+by January 1, 2013.  For fiscal year 2012-13, the committee is required only to report the
+            
+298
+
+    
+information collected between January 1, 2013 and June 30, 2013.
+            
+299
+
+    
+    (b)  Beginning December 31, 2013, the committee shall report the information collected
+            
+300
+
+    
+under Subsection (6) annually to the governor and Legislature by no later than the December
+            
+301
+
+    
+31 immediately following the fiscal year for which the information is collected.
+            
+302
+
+    
+    [(8)  Prior to the October 2012 Interim meeting of the Business and Labor Interim
+            
+303
+
+    
+Committee, the committee shall report to the Business and Labor Interim Committee:]
+            
+304
+
+    
+    [(a)  a list of information to be collected;]
+            
+305
+
+    
+    [(b)  standards to be used in collecting the information;]
+            
+306
+
+    
+    [(c)  criteria to be used in determining the level and extent that alcohol is related or
+
+            
+307
+
+
+    
+contributed to the activities for which data is to be collected; and]
+            
+308
+
+    
+    [(d)  how the collection of data will verify the presence of alcohol, blood alcohol levels,
+            
+309
+
+    
+and differentiate between persons using other substances of impairment and persons consuming
+            
+310
+
+    
+alcoholic beverages.]
+            
+311
+
+    
+    Section 6.  
+Section  
+53B-17-804
+
+ is amended to read:
+            
+312
+
+    
+     53B-17-804.  Reporting.
+            
+313
+
+    
+    (1) (a)  The board, through the director and the board chair, shall provide by no later
+            
+314
+
+    
+than July 1 of each year, a written report to[: (i)] the president of the university[; and].
+            
+315
+
+    
+    [(ii)  the Business and Labor Interim Committee.]
+            
+316
+
+    
+    (b)  The report required by this Subsection (1) shall:
+            
+317
+
+    
+    (i)  summarize the center's activities and accomplishments in the immediate proceeding
+            
+318
+
+    
+calendar year; and
+            
+319
+
+    
+    (ii)  provide information and the board's advice and recommendations on how the state,
+            
+320
+
+    
+university, and the center can:
+            
+321
+
+    
+    (A)  improve workplace health and safety; and
+            
+322
+
+    
+    (B)  contribute to economic growth and development in Utah and the surrounding
+            
+323
+
+    
+region.
+            
+324
+
+    
+    (2) (a)  If the center receives in a fiscal year money from the Eddie P. Mayne
+            
+325
+
+    
+Workplace Safety and Occupational Health Funding Program provided for in Section
+            
+326
+
+    
+
+34A-2-701
+
+, the center shall provide a written report:
+            
+327
+
+    
+    (i)  by no later than the August 15 following the fiscal year;
+            
+328
+
+    
+    (ii)  to the Office of the Legislative Fiscal Analyst;
+            
+329
+
+    
+    (iii)  for review by the Higher Education Appropriations Subcommittee;
+            
+330
+
+    
+    (iv)  that accounts for the expenditure of money received in the fiscal year by the center
+            
+331
+
+    
+from the Eddie P. Mayne Workplace Safety and Occupational Health Funding Program
+            
+332
+
+    
+including impact on workplace safety in Utah; and
+            
+333
+
+    
+    (v)  that includes a preliminary statement as to money the center will request from the
+            
+334
+
+    
+Eddie P. Mayne Workplace Safety and Occupational Health Funding Program for the fiscal
+            
+335
+
+    
+year following the day on which the report is provided.
+            
+336
+
+    
+    (b)  A report provided under this Subsection (2) meets the reporting requirements under
+            
+337
+
+    
+Subsection 
+
+34A-2-701
+
+(5)(b)(i)(B).
+
+            
+338
+
+
+    
+    Section 7.  
+Section  
+61-2c-103
+
+ is amended to read:
+            
+339
+
+    
+     61-2c-103.  Powers and duties of the division.
+            
+340
+
+    
+    (1)  The division shall administer this chapter.
+            
+341
+
+    
+    (2)  In addition to a power or duty expressly provided in this chapter, the division may:
+            
+342
+
+    
+    (a)  receive and act on a complaint including:
+            
+343
+
+    
+    (i)  taking action designed to obtain voluntary compliance with this chapter; or
+            
+344
+
+    
+    (ii)  commencing an administrative or judicial proceeding on the division's own
+            
+345
+
+    
+initiative;
+            
+346
+
+    
+    (b)  establish one or more programs for the education of consumers with respect to
+            
+347
+
+    
+residential mortgage loans;
+            
+348
+
+    
+    (c) (i)  make one or more studies appropriate to effectuate the purposes and policies of
+            
+349
+
+    
+this chapter; and
+            
+350
+
+    
+    (ii)  make the results of the studies described in Subsection (2)(c)(i) available to the
+            
+351
+
+    
+public;
+            
+352
+
+    
+    (d)  visit and investigate a person licensed under this chapter, regardless of whether the
+            
+353
+
+    
+person is located in Utah;
+            
+354
+
+    
+    (e)  employ one or more necessary hearing examiners, investigators, clerks, and other
+            
+355
+
+    
+employees and agents; and
+            
+356
+
+    
+    (f)  establish fees under Section 
+
+63J-1-504
+
+ for:
+            
+357
+
+    
+    (i)  processing an application for licensing or certification; and
+            
+358
+
+    
+    (ii)  any other function required or permitted by this chapter.
+            
+359
+
+    
+    (3)  The division shall make rules for the administration of this chapter in accordance
+            
+360
+
+    
+with Title 63G, Chapter 3, Utah Administrative Rulemaking Act, including:
+            
+361
+
+    
+    (a)  licensure procedures for:
+            
+362
+
+    
+    (i)  a person required by this chapter to obtain a license with the division; and
+            
+363
+
+    
+    (ii)  the establishment of a branch office by an entity;
+            
+364
+
+    
+    (b)  proper handling of money received by a licensee;
+            
+365
+
+    
+    (c)  record-keeping requirements by a licensee, including proper disposal of a record;
+            
+366
+
+    
+    (d)  certification procedures for certifying an education provider; and
+            
+367
+
+    
+    (e)  standards of conduct for a licensee or certified education provider.
+            
+368
+
+    
+    (4)  The division may by rule made in accordance with Title 63G, Chapter 3, Utah
+
+            
+369
+
+
+    
+Administrative Rulemaking Act, require as a condition of maintaining a license or certification
+            
+370
+
+    
+under this chapter that a person comply with a requirement of the nationwide database if:
+            
+371
+
+    
+    (a)  required for uniformity amongst states; and
+            
+372
+
+    
+    (b)  not inconsistent with this chapter.
+            
+373
+
+    
+    (5)  The division shall by rule made in accordance with Title 63G, Chapter 3, Utah
+            
+374
+
+    
+Administrative Rulemaking Act, provide a process under which an individual may challenge
+            
+375
+
+    
+information contained in the nationwide database.
+            
+376
+
+    
+    [(6)  The division shall annually:]
+            
+377
+
+    
+    [(a)  review the requirements related to the nationwide database imposed by federal
+            
+378
+
+    
+licensing requirements or the nationwide database on:]
+            
+379
+
+    
+    [(i)  the division;]
+            
+380
+
+    
+    [(ii)  a licensee under this chapter;]
+            
+381
+
+    
+    [(iii)  a certified education provider; or]
+            
+382
+
+    
+    [(iv)  an approved examination provider; and]
+            
+383
+
+    
+    [(b)  after the review required by Subsection (6)(a):]
+            
+384
+
+    
+    [(i)  report to the Business and Labor Interim Committee the impact of the requirements
+            
+385
+
+    
+on the implementation by the division of this chapter; and]
+            
+386
+
+    
+    [(ii)  recommend legislation, if any, to the Business and Labor Interim Committee
+            
+387
+
+    
+related to how the division should coordinate with the nationwide database.]
+            
+388
+
+    
+    [(7)] (6)  The division may enter into a relationship or contract with the nationwide
+            
+389
+
+    
+database or another entity designated by the nationwide database to do the following related to
+            
+390
+
+    
+a licensee or other person subject to this chapter:
+            
+391
+
+    
+    (a)  collect or maintain a record; and
+            
+392
+
+    
+    (b)  process a transaction fee or other fee.
+            
+393
+
+    
+    [(8)] (7)  The division shall regularly report the following to the nationwide database:
+            
+394
+
+    
+    (a)  a violation of this chapter;
+            
+395
+
+    
+    (b)  licensing or disciplinary action under this chapter; and
+            
+396
+
+    
+    (c)  other information relevant to this chapter.
+            
+397
+
+    
+    [(9)] (8)  If a person pays a fee or costs to the division with a negotiable instrument or
+            
+398
+
+    
+any other method that is not honored for payment:
+            
+399
+
+    
+    (a)  the transaction for which the payment is submitted is voidable by the division;
+
+            
+400
+
+
+    
+    (b)  the division may reverse the transaction if payment of the applicable fee or costs is
+            
+401
+
+    
+not received in full; and
+            
+402
+
+    
+    (c)  the person's license, certification, or registration is automatically suspended:
+            
+403
+
+    
+    (i)  beginning the day on which the payment is due; and
+            
+404
+
+    
+    (ii)  ending the day on which payment is made in full.
+            
+405
+
+    
+    Section 8.  
+Section  
+70C-8-102
+
+ is amended to read:
+            
+406
+
+    
+     70C-8-102.  Powers of department -- Conformity with federal law -- Reliance on
+            
+407
+
+    
+ rules -- Consumer education.
+            
+408
+
+    
+    (1)  In addition to other powers granted by this title, the department, within the
+            
+409
+
+    
+limitations provided by law, may:
+            
+410
+
+    
+    (a)  receive and act on complaints, take action designed to obtain voluntary compliance
+            
+411
+
+    
+with this title, or commence administrative or judicial proceedings on its own initiative;
+            
+412
+
+    
+    (b)  counsel persons and groups on their rights and duties under this title;
+            
+413
+
+    
+    (c)  establish programs for the education of consumers with respect to credit practices
+            
+414
+
+    
+and problems;
+            
+415
+
+    
+    (d)  make studies appropriate to effectuate the purposes and policies of this title and
+            
+416
+
+    
+make the results available to the public;
+            
+417
+
+    
+    (e)  adopt, amend, and repeal rules to supplement, interpret, or carry out the provisions
+            
+418
+
+    
+of this title;
+            
+419
+
+    
+    (f)  maintain offices within this state; and
+            
+420
+
+    
+    (g)  employ any necessary hearing examiners, clerks, and other employees and agents.
+            
+421
+
+    
+    (2)  The department may adopt rules that supersede any provisions of this title that are
+            
+422
+
+    
+or come into conflict with the Federal Consumer Credit Protection Act or its implementing
+            
+423
+
+    
+Regulation Z if the department:
+            
+424
+
+    
+    (a)  finds such a conflict to exist; and
+            
+425
+
+    
+    (b)  declares that the purpose of superseding this title is to resolve that conflict.
+            
+426
+
+    
+    (3)  Except for refund of an excess charge, no liability is imposed under this title for an
+            
+427
+
+    
+act done or omitted in conformity with the rule of the department, notwithstanding that after
+            
+428
+
+    
+the act or omission the rule may be amended or repealed or be determined by judicial or other
+            
+429
+
+    
+competent authority to be invalid for any reason.
+            
+430
+
+    
+    (4)  A rule or any part of a rule adopted by the department under this title may not be
+
+            
+431
+
+
+    
+determined by any judicial or other authority to be invalid in whole or in part unless such
+            
+432
+
+    
+judicial or other authority expressly finds that the rule or part of the rule is arbitrary, capricious,
+            
+433
+
+    
+and constitutes an abuse of discretion, or exceeds the authority granted to the department by
+            
+434
+
+    
+this title, or is otherwise unlawful.
+            
+435
+
+    
+    (5)  The department shall coordinate with representatives of education, government, and
+            
+436
+
+    
+the financial services industry and assist in the preparation of an initiative to develop,
+            
+437
+
+    
+implement, and monitor a financial services education curriculum that is:
+            
+438
+
+    
+    (a)  to be made available to the public; and
+            
+439
+
+    
+    (b)  appropriate for use in the public schools.
+            
+440
+
+    
+    [(6)  Beginning in 1999, the department shall report biennially by no later than
+            
+441
+
+    
+November 30 to the Business and Labor Interim Committee regarding:]
+            
+442
+
+    
+    [(a)  the need for consumer education programs administered by the department to
+            
+443
+
+    
+promote prudent and beneficial use of credit by consumers; and]
+            
+444
+
+    
+    [(b)  department efforts to promote the education of consumers with respect to credit
+            
+445
+
+    
+practices and problems, including:]
+            
+446
+
+    
+    [(i)  its efforts to coordinate, encourage, and assist public and private persons in
+            
+447
+
+    
+developing and operating voluntary educational and debt counseling programs; and]
+            
+448
+
+    
+    [(ii)  its activities under Subsection (5).]
+
+
+
+
+ Legislative Review Note
+    as of  11-15-12  2:50 PM
+
+ Office of Legislative Research and General Counsel
+[Bill Documents][Bills Directory]
+
+
+
+
+
+
+
+
+
+Who represents me?
+
+
+
+
+
+Remember my Legislators
+
+
+
+
+
+State Senate
+		350 North State, Suite 320
+		PO Box 145115
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1035
+		Fax: (801) 326-1475
+
+
+
+House of Representatives
+		350 North State, Suite 350
+		PO Box 145030
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1029
+		Fax: (801) 326-1544
+
+
+
+
+
+
+
+
+
+
+Home
+Mobile Site
+Site Map
+Calendar
+Code / Constitution
+House
+Senate
+
+Terms of Use/Privacy Policy
+
+ADA
+Utah.gov
+
+
+
+
+
+
+

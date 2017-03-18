@@ -1,0 +1,4896 @@
+Sponsors: []Modifications: Title 59, ChapterPartnership -Telehealth andTelehealth andTelehealth andvideoconferencingTelehealth andvideo conferencingTelehealth andUTEN    53B-17-101.5.As used in this part:(1)  "Board" means the Utah Telehealth and Education Network Board.(2)  "Education Advisory Council" means the Utah Education Network AdvisoryCouncil created in Section 
+
+53B-17-107
+
+
+.(3)  "Telehealth" means the electronic transfer, exchange, or management of relateddata for diagnosis, treatment, and consultation, and educational, public health, or other relatedpurposes.(4)  "Telehealth Advisory Council" means the Utah Telehealth Advisory Councilcreated in Section 
+
+53B-17-106
+
+
+.(5)  "Utah Telehealth and Education Network," or "UTEN," means a consortium andpartnership between public and higher education, the Utah Department of Health, and healthcare providers, that is created in Section 
+
+53B-17-105
+
+
+.
+
+53B-17-105
+
+
+UTEN    53B-17-105.(1)  There is created the Utah Telehealth and Education Network, or UTEN.(2)  UTEN shall:(a)  coordinate and support the telecommunications needs of public and highereducation, public libraries, and entities affiliated with the state systems of public and highereducation as approved by the Utah Telehealth and Education Network Board, including thestatewide development and implementation of a network for education, which utilizes satellite,microwave, fiber-optic, broadcast, and other transmission media;(b)  coordinate the various telecommunications technology initiatives of public andhigher education;(c)  provide high-quality, cost-effective Internet access and appropriate interfaceequipment for schools and school systems;(d)  procure, install, and maintain telecommunication services and equipment on behalfof public and higher education;(e)  develop or implement other programs or services for the delivery of distancelearning and telehealth services as directed by law;(f)  apply for state and federal funding on behalf of:(i)  public and higher education; and(ii)  telehealth services;(g)  explore and encourage the development of telehealth services as a means ofreducing health care costs and increasing health care quality and access, with emphasis onassisting rural health care providers and special populations; and(h)  in consultation with the Utah Department of Health, advise the governor and theLegislature on:(i)  the role of telehealth in the state;(ii)  the policy issues related to telehealth;(iii)  the changing telehealth needs and resources in the state; and(iv)  state budgetary matters related to telehealth.(3)  In performing the duties under Subsection (2), UTEN shall:(a)  provide services to schools, school districts, and the public and higher educationsystems through an open and competitive bidding process;(b)  work with the private sector to deliver high-quality, cost-effective services;(c)  avoid duplicating facilities, equipment, or services of private providers or publictelecommunications service, as defined under Section 
+
+54-8b-2
+
+
+;(d)  utilize statewide economic development criteria in the design and implementationof the educational telecommunications infrastructure; and(e)  assure that public service entities, such as educators, public service providers, andpublic broadcasters, are provided access to the telecommunications infrastructure developed inthe state.(4)  The University of Utah shall provide administrative support for UTEN.(5) (a)  The Utah Telehealth and Education Network Board, which is the governingboard for UTEN, is created.(b)  The Utah Telehealth and Education Network Board shall have nine members asfollows:(i)  two members representing the state system of higher education appointed by thecommissioner of higher education;(ii)  two members representing the state system of public education appointed by theState Board of Education;(iii)  one member representing applied technology centers appointed by the president ofthe Utah College of Applied Technology;(iv)  one member representing the state library appointed by the state librarian;(v)  one member representing the Utah State Office of Education appointed by the statesuperintendent; and(vi)  two members representing hospitals as follows:(A)  the members may not be employed by the same hospital system;(B)  one member shall represent a rural hospital;(C)  one member shall represent an urban hospital; and(D)  the chief administrator or the administrator's designee for each hospital licensed inthis state shall vote on the appointment of the two hospital representatives.(c)  When a vacancy occurs in the membership for any reason, the replacement shall beappointed for the unexpired term.(d) (i)  The board shall elect a chair.(ii)  The chair shall set the agenda for the board meetings.(6)  A member of the board may not receive compensation or benefits for the member'sservice, but may receive per diem and travel expenses in accordance with:(a)  Section 
+
+63A-3-106
+
+
+;(b)  Section 
+
+63A-3-107
+
+
+; and(c)  rules made by the Division of Finance pursuant to Sections 
+
+63A-3-106
+
+
+ and
+
+63A-3-107
+
+
+.(7)  The board:(a)  shall hire an executive director for UTEN who may hire staff for UTEN aspermitted by the budget;(b)  may terminate the executive director's employment or assignment;(c)  shall determine the executive director's salary;(d)  shall annually conduct a performance evaluation of the executive director;(e)  shall establish policies the board determines are necessary for the operation ofUTEN and the administration of UTEN's duties; and(f)  shall advise UTEN in:(i)  the development and operation of a coordinated, statewide, multi-optiontelecommunications system to assist in the delivery of educational services and telehealthservices throughout the state; and(ii)  acquiring, producing, and distributing instructional content.(8)  The executive director of UTEN shall be an at-will employee.(9)  UTEN shall locate and maintain educational and telehealth telecommunicationinfrastructure throughout the state.(10)  Educational institutions shall manage site operations under policy established byUTEN.(11)  Subject to future budget constraints, the Legislature shall provide an annualappropriation to operate UTEN.(12)  If the network operated by the Department of Technology Services is notavailable, UTEN may provide network connections to the central administration of countiesand municipalities for the sole purpose of transferring data to a secure facility for backup anddisaster recovery.    53B-17-106.(1)  There is created the Utah Telehealth Advisory Council, which may, at thediscretion of the board, and after July 1, 2015, be combined with the Utah Education AdvisoryCouncil created in Section 
+
+53B-17-107
+
+
+.(2)  The Utah Telehealth Advisory Council members shall be appointed by the board.(3) (a)  The Telehealth Advisory Council shall annually elect a chairperson from itsmembership.  The chair shall set the agendas for the meetings of the advisory council and shallreport to the board.(b)  The Telehealth Advisory Council shall hold meetings at least once every threemonths.  Meetings may be held from time to time on the call of the chair or a majority of theboard members.(4)  A member may not receive compensation or benefits for the member's service, but,at the executive director's discretion, may receive per diem and travel expenses in accordancewith:(a)  Section 
+
+63A-3-106
+
+
+;(b)  Section 
+
+63A-3-107
+
+
+; and(c)  rules made by the Division of Finance pursuant to Sections 
+
+63A-3-106
+
+
+ and
+
+63A-3-107
+
+
+.(5)  The board shall provide staff support to the council.(6)  The council shall:(a)  advise and make recommendations on telehealth service issues to the board andother state entities;(b)  advise and make recommendations on telehealth-related patient privacy to theboard;(c)  promote collaborative efforts to establish technical compatibility, uniform policies,and privacy features to meet legal, financial, commercial, and other societal requirements;(d)  identify, address, and seek to resolve the legal, ethical, regulatory, financial,medical, and technological issues that may serve as barriers to telehealth service;(e)  explore and encourage the development of telehealth as a means of reducing healthcare costs and increasing health care quality and access, with emphasis on assisting rural healthcare providers and special populations with access to or development of electronic medicalrecords; and(f)  seek public input on telehealth issues.    53B-17-107.(1) (a)  There is created Utah Education Advisory Council which may, at the discretionof the board, and after July 1, 2015, be combined with the Utah Telehealth Advisory Councilcreated in Section 
+
+53B-17-106
+
+
+.(b)  The Utah Education Advisory Council members shall be appointed by the board.(c)  The Utah Education Advisory Council shall annually elect a chairperson from itsmembership.  The chair shall set the agenda for Utah Education Advisory Council meetingsand report to the board.(d)  The Utah Education Advisory Council shall hold meetings at least once every threemonths.  Meetings may be held from time to time on the call of the chair or a majority of theboard members.(2)  A member of the Utah Education Advisory Council may not receive compensationor benefits for the member's service, but at the executive director's discretion may receive perdiem and travel expenses in accordance with:(a)  Section 
+
+63A-3-106
+
+
+;(b)  Section 
+
+63A-3-107
+
+
+; and(c)  rules made by the Division of Finance pursuant to Sections 
+
+63A-3-106
+
+
+ and
+
+63A-3-107
+
+
+.(3)  The Utah Education Advisory Council shall:(a)  advise the board and other public entities regarding:(i)  the coordination of the various telecommunications technology initiatives of publicand higher education;(ii)  how to provide high-quality, cost-effective Internet access and appropriate interfaceequipment for schools and school systems;(iii)  recommendations for the procurement, installation, and maintenance oftelecommunication services and equipment on behalf of public and higher education; and(iv)  the development or implementation of other programs or services for the deliveryof distance learning and digital health services as directed by law; and(b)  seek public input on the development and operation of a coordinated, statewide,multi-option telecommunications system to assist in the delivery of educational services anddigital health services throughout the state.(4)  The board shall provide staff to the council.established under Title53B, Chapter 17, Part 1, Educational TelecommunicationsTelehealth andTelehealth andTelehealth andTelehealth andFull text:
+
+
+
+Utah State Legislature
+
+
+
+
+
+
+
+
+
+
+
+
+Legislators
+
+By Session (1896-Current)
+Alphabetical (Historical)
+Find by Address/Map
+More
+
+
+Bills
+
+Bills/Bill Requests
+Passed Bills
+2017 Bills
+
+Keyword Search
+Reading Calendars
+Tracking Service
+More
+
+
+Committees
+
+All Committees
+Appropriations
+Commissions
+
+Independent Legislative Ethics Commission
+Interim
+Standing
+Subcommittees
+Task Forces
+Bills In Committees
+
+
+Utah Code / Constitution
+
+
+Title/Chapter/Section
+Keyword Search 
+
+Utah Constitution
+Laws of Utah 1851-ongoing
+Utah Territorial Laws 
+More
+
+
+Senate
+
+Main Page 
+About The Senate 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Extraordinary Sessions 
+Reading Calendars 
+Past Floor Debates 
+Senate Journals 
+
+
+House
+
+Main Page
+About the House 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Reading Calendars 
+Past Floor Debates 
+Journals 
+Conflict of Interest Forms 
+
+
+Legislative Guide 
+
+Legislative Guide
+Civic Programs
+GRAMA (Records Requests)
+
+
+Publications
+
+Search Publications
+Appropriations
+Audits
+Bagels & Briefings
+Briefing Papers
+Digest of Legislation
+Legislative Drafting Manual
+
+Journals
+
+Interim Highlights
+
+Legislative Rules
+GRAMA (Records Requests)
+Public Email
+State Organization Charts
+YouTube Channel
+Requests for Proposals and Legal Notices
+More
+
+
+Legislative Histories
+
+Legislative History Resources
+How to Research
+Bill Drafting/Research Files (1990-Ongoing)
+
+Working Bills (1896-1989)
+Interim Committee Histories (1990-Ongoing) 
+Journals
+Past House Floor Debates
+Past Senate Floor Debates
+More
+
+
+Staff Offices
+
+All Legislative Offices
+Auditor General
+Fiscal Analyst
+Printing
+Research and General Counsel
+Staff Awards
+Job Opportunities
+More
+
+
+Links of Interest
+
+Utah Administrative Rules
+Courts
+Utah State Capitol
+State of Utah
+Federal Legislation
+More
+
+
+
+
+
+
+ 
+
+H.B. 92
+
+
+
+
+
+            
+1
+
+    
+ UTAH TELEHEALTH AND EDUCATION NETWORK
+
+            
+2
+
+    
+ AMENDMENTS
+
+
+
+            
+3
+
+    
+2014 GENERAL SESSION
+
+            
+4
+
+    
+STATE OF UTAH
+
+            
+5
+
+    
+
+
+ Chief Sponsor:  Ronda Rudd Menlove
+
+
+
+            
+6
+
+    
+
+
+
+Senate Sponsor:  
+
+
+
+
+
+
+____________
+
+
+
+
+
+            
+7
+
+    
+
+            
+8
+
+    
+ LONG TITLE
+            
+9
+
+    
+ General Description:
+            
+10
+
+    
+    This bill amends provisions related to the Utah Education Network and the Telehealth
+            
+11
+
+    
+Network.
+            
+12
+
+    
+ Highlighted Provisions:
+            
+13
+
+    
+    This bill:
+            
+14
+
+    
+    .    defines terms;
+            
+15
+
+    
+    .    creates the Utah Telehealth and Education Network (UTEN) within the state system
+            
+16
+
+    
+of higher education;
+            
+17
+
+    
+    .    establishes the duties of UTEN;
+            
+18
+
+    
+    .    creates a governing board for UTEN;
+            
+19
+
+    
+    .    establishes membership of the UTEN Board;
+            
+20
+
+    
+    .    creates the Utah Education Advisory Council to assist the UTEN Board;
+            
+21
+
+    
+    .    creates the Utah Telehealth Advisory Council to assist the UTEN Board;
+            
+22
+
+    
+    .    authorizes the board, at its discretion, to merge the advisory councils after July 1,
+            
+23
+
+    
+2015; and
+            
+24
+
+    
+    .    makes technical and conforming amendments.
+            
+25
+
+    
+ Money Appropriated in this Bill:
+            
+26
+
+    
+    None
+            
+27
+
+    
+ Other Special Clauses:
+
+            
+28
+
+
+    
+    None
+            
+29
+
+    
+ Utah Code Sections Affected:
+            
+30
+
+    
+AMENDS:
+            
+31
+
+    
+     
+46-4-503
+, as last amended by Laws of Utah 2013, Chapter 412
+            
+32
+
+    
+     
+53A-3-429
+, as enacted by Laws of Utah 2011, Chapter 397
+            
+33
+
+    
+     
+53A-15-101.5
+, as last amended by Laws of Utah 2008, Chapter 382
+            
+34
+
+    
+     
+53A-15-104
+, as last amended by Laws of Utah 2008, Chapters 235 and 382
+            
+35
+
+    
+     
+53B-17-101
+, as last amended by Laws of Utah 2006, Chapter 150
+            
+36
+
+    
+     
+53B-17-104
+, as last amended by Laws of Utah 2012, Chapter 16
+            
+37
+
+    
+     
+53B-18-901
+, as enacted by Laws of Utah 2001, Chapter 329
+            
+38
+
+    
+     
+63G-6a-104
+, as repealed and reenacted by Laws of Utah 2013, Chapter 445
+            
+39
+
+    
+     
+63J-3-103
+, as last amended by Laws of Utah 2013, Chapters 295, 310, and 400
+            
+40
+
+    
+     
+63M-1-3204
+, as enacted by Laws of Utah 2013, Chapter 336
+            
+41
+
+    
+     
+72-7-109
+, as last amended by Laws of Utah 2002, Chapter 176
+            
+42
+
+    
+ENACTS:
+            
+43
+
+    
+     
+53B-17-101.5
+, Utah Code Annotated 1953
+            
+44
+
+    
+     
+53B-17-105
+, Utah Code Annotated 1953
+            
+45
+
+    
+     
+53B-17-106
+, Utah Code Annotated 1953
+            
+46
+
+    
+     
+53B-17-107
+, Utah Code Annotated 1953
+            
+47
+
+    
+REPEALS:
+            
+48
+
+    
+     
+53B-17-102
+, as last amended by Laws of Utah 2012, Chapter 16
+            
+49
+
+    
+
+            
+50
+
+    
+Be it enacted by the Legislature of the state of Utah:
+            
+51
+
+    
+    Section 1.  
+Section  
+46-4-503
+
+ is amended to read:
+            
+52
+
+    
+     46-4-503.  Government products and services provided electronically.
+            
+53
+
+    
+    (1)  Notwithstanding Section 
+
+46-4-501
+
+
+, a state governmental agency that administers
+            
+54
+
+    
+one or more of the following transactions shall allow those transactions to be conducted
+            
+55
+
+    
+electronically:
+            
+56
+
+    
+    (a)  an application for or renewal of a professional or occupational license issued under
+            
+57
+
+    
+Title 58, Occupations and Professions;
+            
+58
+
+    
+    (b)  the renewal of a drivers license;
+
+            
+59
+
+
+    
+    (c)  an application for a hunting or fishing license;
+            
+60
+
+    
+    (d)  the filing of:
+            
+61
+
+    
+    (i)  a return under Title 59, Chapter 10, Individual Income Tax Act or Title 59, Chapter
+            
+62
+
+    
+12, Sales and Use Tax Act;
+            
+63
+
+    
+    (ii)  a court document, as defined by the Judicial Council; or
+            
+64
+
+    
+    (iii)  a document under Title 70A, Uniform Commercial Code;
+            
+65
+
+    
+    (e)  a registration for:
+            
+66
+
+    
+    (i)  a product; or
+            
+67
+
+    
+    (ii)  a brand;
+            
+68
+
+    
+    (f)  a renewal of a registration of a motor vehicle;
+            
+69
+
+    
+    (g)  a registration under:
+            
+70
+
+    
+    (i)  Title 16, Corporations;
+            
+71
+
+    
+    (ii)  Title 42, Names; or
+            
+72
+
+    
+    (iii)  [on or before December 31, 2013, Title 48, Partnership, and on and after January
+            
+73
+
+    
+1, 2014,] Title 48, Partnership - Unincorporated Business Entity Act; or
+            
+74
+
+    
+    (h)  submission of an application for benefits:
+            
+75
+
+    
+    (i)  under Title 35A, Chapter 3, Employment Support Act;
+            
+76
+
+    
+    (ii)  under Title 35A, Chapter 4, Employment Security Act; or
+            
+77
+
+    
+    (iii)  related to accident and health insurance.
+            
+78
+
+    
+    (2)  The state system of public education, in coordination with the Utah Telehealth and
+            
+79
+
+    
+Education Network, shall make reasonable progress toward making the following services
+            
+80
+
+    
+available electronically:
+            
+81
+
+    
+    (a)  secure access by parents and students to student grades and progress reports;
+            
+82
+
+    
+    (b)  email communications with:
+            
+83
+
+    
+    (i)  teachers;
+            
+84
+
+    
+    (ii)  parent-teacher associations; and
+            
+85
+
+    
+    (iii)  school administrators;
+            
+86
+
+    
+    (c)  access to school calendars and schedules; and
+            
+87
+
+    
+    (d)  teaching resources that may include:
+            
+88
+
+    
+    (i)  teaching plans;
+            
+89
+
+    
+    (ii)  curriculum guides; and
+
+            
+90
+
+
+    
+    (iii)  media resources.
+            
+91
+
+    
+    (3)  A state governmental agency shall:
+            
+92
+
+    
+    (a)  in carrying out the requirements of this section, take reasonable steps to ensure the
+            
+93
+
+    
+security and privacy of records that are private or controlled as defined by Title 63G, Chapter 2,
+            
+94
+
+    
+Government Records Access and Management Act;
+            
+95
+
+    
+    (b)  in addition to those transactions listed in Subsections (1) and (2), determine any
+            
+96
+
+    
+additional services that may be made available to the public through electronic means; and
+            
+97
+
+    
+    (c)  as part of the agency's information technology plan required by Section 
+
+63F-1-204
+
+
+,
+            
+98
+
+    
+report on the progress of compliance with Subsections (1) through (3).
+            
+99
+
+    
+    (4)  Notwithstanding the other provisions of this part, a state governmental agency is
+            
+100
+
+    
+not required by this part to conduct a transaction electronically if:
+            
+101
+
+    
+    (a)  conducting the transaction electronically is not required by federal law; and
+            
+102
+
+    
+    (b)  conducting the transaction electronically is:
+            
+103
+
+    
+    (i)  impractical;
+            
+104
+
+    
+    (ii)  unreasonable; or
+            
+105
+
+    
+    (iii)  not permitted by laws pertaining to privacy or security.
+            
+106
+
+    
+    (5) (a)  For purposes of this Subsection (5), "one-stop shop" means the consolidation of
+            
+107
+
+    
+access to diverse services and agencies at one location including virtual colocation.
+            
+108
+
+    
+    (b)  State agencies that provide services or offer direct assistance to the business
+            
+109
+
+    
+community shall participate in the establishment, maintenance, and enhancement of an
+            
+110
+
+    
+integrated Utah business web portal known as Business.utah.gov.  The purpose of the business
+            
+111
+
+    
+web portal is to provide "one-stop shop" assistance to businesses.
+            
+112
+
+    
+    (c)  State agencies shall partner with other governmental and nonprofit agencies whose
+            
+113
+
+    
+primary mission is to provide services or offer direct assistance to the business community in
+            
+114
+
+    
+Utah in fulfilling the requirements of this section.
+            
+115
+
+    
+    (d)  The following state entities shall comply with the provisions of this Subsection (5):
+            
+116
+
+    
+    (i)  Governor's Office of Economic Development, which shall serve as the managing
+            
+117
+
+    
+partner for the website;
+            
+118
+
+    
+    (ii)  Department of Workforce Services;
+            
+119
+
+    
+    (iii)  Department of Commerce;
+            
+120
+
+    
+    (iv)  Tax Commission;
+
+            
+121
+
+
+    
+    (v)  Department of Administrative Services - Division of Purchasing and General
+            
+122
+
+    
+Services, including other state agencies operating under a grant of authority from the division
+            
+123
+
+    
+to procure goods and services in excess of $5,000;
+            
+124
+
+    
+    (vi)  Department of Agriculture;
+            
+125
+
+    
+    (vii)  Department of Natural Resources; and
+            
+126
+
+    
+    (viii)  other state agencies that provide services or offer direct assistance to the business
+            
+127
+
+    
+sector.
+            
+128
+
+    
+    (e)  The business services available on the business web portal may include:
+            
+129
+
+    
+    (i)  business life cycle information;
+            
+130
+
+    
+    (ii)  business searches;
+            
+131
+
+    
+    (iii)  employment needs and opportunities;
+            
+132
+
+    
+    (iv)  motor vehicle registration;
+            
+133
+
+    
+    (v)  permit applications and renewal;
+            
+134
+
+    
+    (vi)  tax information;
+            
+135
+
+    
+    (vii)  government procurement bid notifications;
+            
+136
+
+    
+    (viii)  general business information;
+            
+137
+
+    
+    (ix)  business directories; and
+            
+138
+
+    
+    (x)  business news.
+            
+139
+
+    
+    Section 2.  
+Section  
+53A-3-429
+
+ is amended to read:
+            
+140
+
+    
+     53A-3-429.  Regional service centers.
+            
+141
+
+    
+    (1)  For purposes of this section, "eligible regional service center" means a regional
+            
+142
+
+    
+service center formed by two or more school districts as an interlocal entity, in accordance with
+            
+143
+
+    
+Title 11, Chapter 13, Interlocal Cooperation Act.
+            
+144
+
+    
+    (2)  The Legislature strongly encourages school districts to collaborate and cooperate to
+            
+145
+
+    
+provide educational services in a manner that will best utilize resources for the overall
+            
+146
+
+    
+operation of the public education system.
+            
+147
+
+    
+    (3)  An eligible regional service center formed by an interlocal agreement, in
+            
+148
+
+    
+accordance with Title 11, Chapter 13, Interlocal Cooperation Act, may receive a distribution
+            
+149
+
+    
+described in Subsection (5) if the Legislature appropriates money for eligible regional service
+            
+150
+
+    
+centers.
+            
+151
+
+    
+    (4) (a)  If local school boards enter into an interlocal agreement to confirm or formalize
+
+            
+152
+
+
+    
+a regional service center in operation before July 1, 2011, the interlocal agreement may not
+            
+153
+
+    
+eliminate any rights or obligations of the regional service center in effect before entering into
+            
+154
+
+    
+the interlocal agreement.
+            
+155
+
+    
+    (b)  An interlocal agreement entered into to confirm or formalize an existing regional
+            
+156
+
+    
+service center shall have the effect of confirming and ratifying in the regional service center,
+            
+157
+
+    
+the title to any property held in the name, or for the benefit of the regional service center as of
+            
+158
+
+    
+the effective date of the interlocal agreement.
+            
+159
+
+    
+    (5) (a)  The State Board of Education shall distribute any funding appropriated to
+            
+160
+
+    
+eligible regional service centers as provided by the Legislature.
+            
+161
+
+    
+    (b)  The State Board of Education may provide funding to an eligible regional service
+            
+162
+
+    
+center in addition to legislative appropriations.
+            
+163
+
+    
+    (6)  In accordance with Title 63G, Chapter 3, Utah Administrative Rulemaking Act, the
+            
+164
+
+    
+State Board of Education shall make rules regarding eligible regional service centers including:
+            
+165
+
+    
+    (a)  the distribution of legislative appropriations to eligible regional service centers;
+            
+166
+
+    
+    (b)  the designation of eligible regional service centers as agents to distribute Utah
+            
+167
+
+    
+Telehealth and Education Network services; and
+            
+168
+
+    
+    (c)  the designation of eligible regional service centers as agents for regional
+            
+169
+
+    
+coordination of public education and higher education services.
+            
+170
+
+    
+    (7)  A public school that is a charter school may enter into a contract with an eligible
+            
+171
+
+    
+regional service center to receive education related services from the eligible regional service
+            
+172
+
+    
+center.
+            
+173
+
+    
+    Section 3.  
+Section  
+53A-15-101.5
+
+ is amended to read:
+            
+174
+
+    
+     53A-15-101.5.  Concurrent enrollment instruction in Mandarin Chinese.
+            
+175
+
+    
+    (1) (a)  As used in this section, "category IV languages" means those languages
+            
+176
+
+    
+designated the most difficult to learn by the Defense Language Institute as provided in training
+            
+177
+
+    
+to members of the United States Military.
+            
+178
+
+    
+    (b)  The Legislature recognizes:
+            
+179
+
+    
+    (i)  the importance of students acquiring skills in foreign languages in order for them to
+            
+180
+
+    
+successfully compete in a global society; and
+            
+181
+
+    
+    (ii)  that the acquisition of category IV languages, such as Mandarin Chinese, Arabic,
+            
+182
+
+    
+Korean, and Japanese, by students in the state's public schools requires extended sequences of
+
+            
+183
+
+
+    
+study to acquire useful proficiency in listening, speaking, reading, and writing.
+            
+184
+
+    
+    (2) (a)  As a component of the concurrent enrollment program authorized under Section
+            
+185
+
+    
+
+53A-15-101
+
+
+, the State Board of Education and the State Board of Regents, in consultation with
+            
+186
+
+    
+the Utah Telehealth and Education Network, may develop and implement a concurrent
+            
+187
+
+    
+enrollment course of study in the category IV language of Mandarin Chinese.
+            
+188
+
+    
+    (b)  The course shall be taught over [EDNET,] the state's two-way interactive video
+            
+189
+
+    
+conferencing system for video and audio, to high school juniors and seniors in the state's public
+            
+190
+
+    
+education system.
+            
+191
+
+    
+    (3) (a)  The concurrent enrollment course in Mandarin Chinese authorized in
+            
+192
+
+    
+Subsection (2) may use paraprofessionals in the classroom who:
+            
+193
+
+    
+    (i)  are fluent in Mandarin Chinese; and
+            
+194
+
+    
+    (ii)  can provide reinforcement and tutoring to students on days and at times when they
+            
+195
+
+    
+are not receiving instruction [over EDNET] under Subsection (2)(b).
+            
+196
+
+    
+    (b)  The State Board of Education, through the State Superintendent of Public
+            
+197
+
+    
+Instruction, and professors who teach Chinese in the state system of higher education shall
+            
+198
+
+    
+jointly ensure that the paraprofessionals are fluent in Mandarin Chinese.
+            
+199
+
+    
+    (4)  The State Board of Education and the State Board of Regents shall make joint rules
+            
+200
+
+    
+on the concurrent enrollment course authorized under this section in accordance with Title
+            
+201
+
+    
+63G, Chapter 3, Utah Administrative Rulemaking Act, to include:
+            
+202
+
+    
+    (a)  notification to school districts on the times and places of the course offerings; and
+            
+203
+
+    
+    (b)  instructional materials for the course.
+            
+204
+
+    
+    (5)  Students who successfully complete the concurrent enrollment course offered under
+            
+205
+
+    
+this section shall receive tuition reimbursement for a sequential Mandarin Chinese course they
+            
+206
+
+    
+successfully complete at an institution within the state system of higher education under rules
+            
+207
+
+    
+made by the State Board of Regents in accordance with Title 63G, Chapter 3, Utah
+            
+208
+
+    
+Administrative Rulemaking Act.
+            
+209
+
+    
+    (6)  The State Board of Education and the State Board of Regents shall jointly track and
+            
+210
+
+    
+monitor the Mandarin Chinese language program and may expand the program to include other
+            
+211
+
+    
+category IV languages, subject to student demand for the courses and available resources.
+            
+212
+
+    
+    Section 4.  
+Section  
+53A-15-104
+
+ is amended to read:
+            
+213
+
+    
+     53A-15-104.  Critical Languages Program -- Pilot.
+
+            
+214
+
+
+    
+    (1) (a)  As used in this section, "critical languages" means those languages described in
+            
+215
+
+    
+the federal National Security Language Initiative, including Chinese, Arabic, Russian, Farsi,
+            
+216
+
+    
+Hindi, and Korean.
+            
+217
+
+    
+    (b)  The Legislature recognizes:
+            
+218
+
+    
+    (i)  the importance of students acquiring skills in foreign languages in order for them to
+            
+219
+
+    
+successfully compete in a global society; and
+            
+220
+
+    
+    (ii)  the academic, societal, and economic development benefits of the acquisition of
+            
+221
+
+    
+critical languages.
+            
+222
+
+    
+    (2) (a)  The State Board of Education, in consultation with the Utah Telehealth and
+            
+223
+
+    
+Education Network, shall develop and implement courses of study in the critical languages.
+            
+224
+
+    
+    (b)  A course may be taught:
+            
+225
+
+    
+    (i)  over [EDNET,] the state's two-way interactive video conferencing system for video
+            
+226
+
+    
+and audio, to students in the state's public education system;
+            
+227
+
+    
+    (ii)  through the Electronic High School;
+            
+228
+
+    
+    (iii)  through traditional instruction; or
+            
+229
+
+    
+    (iv)  by visiting guest teachers.
+            
+230
+
+    
+    (3) (a)  The courses authorized in Subsection (2) may use paraprofessionals in the
+            
+231
+
+    
+classroom who:
+            
+232
+
+    
+    (i)  are fluent in the critical language being taught; and
+            
+233
+
+    
+    (ii)  can provide reinforcement and tutoring to students on days and at times when they
+            
+234
+
+    
+are not receiving instruction [over EDNET] under Subsection (2)(b).
+            
+235
+
+    
+    (b)  The State Board of Education, through the state superintendent of public
+            
+236
+
+    
+instruction, shall ensure that the paraprofessionals are fluent in the critical languages.
+            
+237
+
+    
+    (4)  The State Board of Education shall make rules on the critical languages courses
+            
+238
+
+    
+authorized under this section in accordance with Title 63G, Chapter 3, Utah Administrative
+            
+239
+
+    
+Rulemaking Act, to include:
+            
+240
+
+    
+    (a)  notification to school districts on the times and places of the course offerings; and
+            
+241
+
+    
+    (b)  instructional materials for the courses.
+            
+242
+
+    
+    (5)  The State Board of Education shall track and monitor the Critical Languages
+            
+243
+
+    
+Program and may expand the program to include more course offerings and other critical
+            
+244
+
+    
+languages, subject to student demand for the courses and available resources.
+
+            
+245
+
+
+    
+    (6) (a)  Subject to funding for the program, the State Board of Education shall establish
+            
+246
+
+    
+a pilot program for school districts and schools to initially participate in the Critical Languages
+            
+247
+
+    
+Program that provides:
+            
+248
+
+    
+    (i)  up to $6,000 per language per school, for up to 60 schools, for courses offered in
+            
+249
+
+    
+critical languages;
+            
+250
+
+    
+    (ii)  up to $100 per student who completes a critical languages course; and
+            
+251
+
+    
+    (iii)  up to an additional $400 per foreign exchange student who completes a critical
+            
+252
+
+    
+languages course.
+            
+253
+
+    
+    (b)  If the available funding is insufficient to provide the amounts described under
+            
+254
+
+    
+Subsection (6)(a), the amounts provided shall be reduced pro rata so that the total provided
+            
+255
+
+    
+does not exceed the available funding.
+            
+256
+
+    
+    Section 5.  
+Section  
+53B-17-101
+
+ is amended to read:
+            
+257
+
+    
+     53B-17-101.  Legislative findings on public broadcasting and telecommunications
+            
+258
+
+    
+ for education.
+            
+259
+
+    
+    The Legislature finds and determines the following:
+            
+260
+
+    
+    (1)  The University of Utah's Dolores Dore' Eccles Broadcast Center is the statewide
+            
+261
+
+    
+public broadcasting and telecommunications facility for education in Utah.
+            
+262
+
+    
+    (2)  The center shall provide services to citizens of the state in cooperation with higher
+            
+263
+
+    
+and public education, state and local government, and private industry.
+            
+264
+
+    
+    (3)  Distribution services provided through the center shall include KUED - TV, KUER
+            
+265
+
+    
+- FM, and KUEN - TV.
+            
+266
+
+    
+    (4)  KUED - TV and KUER - FM are licensed to the University of Utah.
+            
+267
+
+    
+    (5) The Utah Telehealth and Education Network's broadcast entity, KUEN - TV, is
+            
+268
+
+    
+licensed to the Utah State Board of Regents and, together with [UEN] UTEN, is operated on
+            
+269
+
+    
+behalf of the state's systems of public and higher education.
+            
+270
+
+    
+    (6)  All the entities referred to in Subsection (3) are under the administrative
+            
+271
+
+    
+supervision of the University of Utah, subject to the authority and governance of the State
+            
+272
+
+    
+Board of Regents.
+            
+273
+
+    
+    (7)  This section neither regulates nor restricts a privately owned company in the
+            
+274
+
+    
+distribution or dissemination of educational programs.
+            
+275
+
+    
+    Section 6.  
+Section  
+53B-17-101.5
+
+ is enacted to read:
+
+            
+276
+
+
+    
+     53B-17-101.5.  Definitions.
+            
+277
+
+    
+    As used in this part:
+            
+278
+
+    
+    (1)  "Board" means the Utah Telehealth and Education Network Board.
+            
+279
+
+    
+    (2)  "Education Advisory Council" means the Utah Education Network Advisory
+            
+280
+
+    
+Council created in Section 
+
+53B-17-107
+
+
+.
+            
+281
+
+    
+    (3)  "Telehealth" means the electronic transfer, exchange, or management of related
+            
+282
+
+    
+data for diagnosis, treatment, and consultation, and educational, public health, or other related
+            
+283
+
+    
+purposes.
+            
+284
+
+    
+    (4)  "Telehealth Advisory Council" means the Utah Telehealth Advisory Council
+            
+285
+
+    
+created in Section 
+
+53B-17-106
+
+
+.
+            
+286
+
+    
+    (5)  "Utah Telehealth and Education Network," or "UTEN," means a consortium and
+            
+287
+
+    
+partnership between public and higher education, the Utah Department of Health, and health
+            
+288
+
+    
+care providers, that is created in Section 
+
+53B-17-105
+
+
+.
+            
+289
+
+    
+    Section 7.  
+Section  
+53B-17-104
+
+ is amended to read:
+            
+290
+
+    
+     53B-17-104.  Responsibilities of the State Board of Regents, the State Board of
+            
+291
+
+    
+ Education, the University of Utah, KUED - TV, KUER - FM, and UTEN related to public
+            
+292
+
+    
+ broadcasting and telecommunication for education and government.
+            
+293
+
+    
+    (1)  Subject to applicable rules of the Federal Communications Commission and
+            
+294
+
+    
+Section [
+
+53B-17-102
+
+
+] 
+
+53B-17-105
+
+
+, the State Board of Regents, the State Board of Education,
+            
+295
+
+    
+[and] the University of Utah, KUED - TV, KUER - FM, and [UEN] UTEN shall:
+            
+296
+
+    
+    (a)  coordinate statewide services of public radio and television;
+            
+297
+
+    
+    (b)  develop, maintain, and operate statewide distribution systems for KUED - TV,
+            
+298
+
+    
+KUER - FM, and KUEN, the statewide distance learning service, the educational data network,
+            
+299
+
+    
+connections to the Internet, and other telecommunications services appropriate for providing
+            
+300
+
+    
+video, audio, and data telecommunication services in support of public and higher education,
+            
+301
+
+    
+state government, and public libraries;
+            
+302
+
+    
+    (c)  support the delivery of these services to as many communities as may be
+            
+303
+
+    
+economically and technically feasible and lawfully permissible under the various operating
+            
+304
+
+    
+licenses;
+            
+305
+
+    
+    (d)  cooperate with state and local governmental and educational agencies and provide
+            
+306
+
+    
+leadership and consulting service for telecommunication for education;
+
+            
+307
+
+
+    
+    (e)  represent the state with privately owned telecommunications systems to gain access
+            
+308
+
+    
+to their networks for the delivery of programs and services sponsored or produced by public
+            
+309
+
+    
+and higher education;
+            
+310
+
+    
+    (f)  acquire, produce, coordinate, and distribute a variety of programs and services of an
+            
+311
+
+    
+educational, cultural, informative, and entertaining nature designed to promote the public
+            
+312
+
+    
+interest and welfare of the state;
+            
+313
+
+    
+    (g)  coordinate with the state system of higher education to acquire, produce, and
+            
+314
+
+    
+distribute broadcast and nonbroadcast college credit telecourses, teleconferences, and other
+            
+315
+
+    
+instructional and training services;
+            
+316
+
+    
+    (h)  coordinate with school districts and public schools to acquire, produce, and
+            
+317
+
+    
+distribute broadcast and nonbroadcast telecourses, teleconferences, and other instructional and
+            
+318
+
+    
+training services to the public schools;
+            
+319
+
+    
+    (i) coordinate the development of a clearing house for the materials, courses,
+            
+320
+
+    
+publications, media, software, and other applicable information related to the items addressed
+            
+321
+
+    
+in Subsections (1)(g) and (h);
+            
+322
+
+    
+    (j)  coordinate the provision of the following services to public schools:
+            
+323
+
+    
+    (i)  broadcast, during school hours, of educational and administrative programs
+            
+324
+
+    
+recommended by the State Board of Education;
+            
+325
+
+    
+    (ii)  digitization of programs for broadcast purposes; and
+            
+326
+
+    
+    (iii)  program previewing;
+            
+327
+
+    
+    (k)  share responsibility for Instructional Television (ITV) awareness and utilization;
+            
+328
+
+    
+and
+            
+329
+
+    
+    (l)  provide teleconference and training services for state and local governmental
+            
+330
+
+    
+agencies.
+            
+331
+
+    
+    (2)  This section neither regulates nor restricts a privately owned company in the
+            
+332
+
+    
+distribution or dissemination of education programs.
+            
+333
+
+    
+    Section 8.  
+Section  
+53B-17-105
+
+ is enacted to read:
+            
+334
+
+    
+     53B-17-105.  Utah Telehealth and Education Network.
+            
+335
+
+    
+    (1)  There is created the Utah Telehealth and Education Network, or UTEN.
+            
+336
+
+    
+    (2)  UTEN shall:
+            
+337
+
+    
+    (a)  coordinate and support the telecommunications needs of public and higher
+
+            
+338
+
+
+    
+education, public libraries, and entities affiliated with the state systems of public and higher
+            
+339
+
+    
+education as approved by the Utah Telehealth and Education Network Board, including the
+            
+340
+
+    
+statewide development and implementation of a network for education, which utilizes satellite,
+            
+341
+
+    
+microwave, fiber-optic, broadcast, and other transmission media;
+            
+342
+
+    
+    (b)  coordinate the various telecommunications technology initiatives of public and
+            
+343
+
+    
+higher education;
+            
+344
+
+    
+    (c)  provide high-quality, cost-effective Internet access and appropriate interface
+            
+345
+
+    
+equipment for schools and school systems;
+            
+346
+
+    
+    (d)  procure, install, and maintain telecommunication services and equipment on behalf
+            
+347
+
+    
+of public and higher education;
+            
+348
+
+    
+    (e)  develop or implement other programs or services for the delivery of distance
+            
+349
+
+    
+learning and telehealth services as directed by law;
+            
+350
+
+    
+    (f)  apply for state and federal funding on behalf of:
+            
+351
+
+    
+    (i)  public and higher education; and
+            
+352
+
+    
+    (ii)  telehealth services;
+            
+353
+
+    
+    (g)  explore and encourage the development of telehealth services as a means of
+            
+354
+
+    
+reducing health care costs and increasing health care quality and access, with emphasis on
+            
+355
+
+    
+assisting rural health care providers and special populations; and
+            
+356
+
+    
+    (h)  in consultation with the Utah Department of Health, advise the governor and the
+            
+357
+
+    
+Legislature on:
+            
+358
+
+    
+    (i)  the role of telehealth in the state;
+            
+359
+
+    
+    (ii)  the policy issues related to telehealth;
+            
+360
+
+    
+    (iii)  the changing telehealth needs and resources in the state; and
+            
+361
+
+    
+    (iv)  state budgetary matters related to telehealth.
+            
+362
+
+    
+    (3)  In performing the duties under Subsection (2), UTEN shall:
+            
+363
+
+    
+    (a)  provide services to schools, school districts, and the public and higher education
+            
+364
+
+    
+systems through an open and competitive bidding process;
+            
+365
+
+    
+    (b)  work with the private sector to deliver high-quality, cost-effective services;
+            
+366
+
+    
+    (c)  avoid duplicating facilities, equipment, or services of private providers or public
+            
+367
+
+    
+telecommunications service, as defined under Section 
+
+54-8b-2
+
+
+;
+            
+368
+
+    
+    (d)  utilize statewide economic development criteria in the design and implementation
+
+            
+369
+
+
+    
+of the educational telecommunications infrastructure; and
+            
+370
+
+    
+    (e)  assure that public service entities, such as educators, public service providers, and
+            
+371
+
+    
+public broadcasters, are provided access to the telecommunications infrastructure developed in
+            
+372
+
+    
+the state.
+            
+373
+
+    
+    (4)  The University of Utah shall provide administrative support for UTEN.
+            
+374
+
+    
+    (5) (a)  The Utah Telehealth and Education Network Board, which is the governing
+            
+375
+
+    
+board for UTEN, is created.
+            
+376
+
+    
+    (b)  The Utah Telehealth and Education Network Board shall have nine members as
+            
+377
+
+    
+follows:
+            
+378
+
+    
+    (i)  two members representing the state system of higher education appointed by the
+            
+379
+
+    
+commissioner of higher education;
+            
+380
+
+    
+    (ii)  two members representing the state system of public education appointed by the
+            
+381
+
+    
+State Board of Education;
+            
+382
+
+    
+    (iii)  one member representing applied technology centers appointed by the president of
+            
+383
+
+    
+the Utah College of Applied Technology;
+            
+384
+
+    
+    (iv)  one member representing the state library appointed by the state librarian;
+            
+385
+
+    
+    (v)  one member representing the Utah State Office of Education appointed by the state
+            
+386
+
+    
+superintendent; and
+            
+387
+
+    
+    (vi)  two members representing hospitals as follows:
+            
+388
+
+    
+    (A)  the members may not be employed by the same hospital system;
+            
+389
+
+    
+    (B)  one member shall represent a rural hospital;
+            
+390
+
+    
+    (C)  one member shall represent an urban hospital; and
+            
+391
+
+    
+    (D)  the chief administrator or the administrator's designee for each hospital licensed in
+            
+392
+
+    
+this state shall vote on the appointment of the two hospital representatives.
+            
+393
+
+    
+    (c)  When a vacancy occurs in the membership for any reason, the replacement shall be
+            
+394
+
+    
+appointed for the unexpired term.
+            
+395
+
+    
+    (d) (i)  The board shall elect a chair.
+            
+396
+
+    
+    (ii)  The chair shall set the agenda for the board meetings.
+            
+397
+
+    
+    (6)  A member of the board may not receive compensation or benefits for the member's
+            
+398
+
+    
+service, but may receive per diem and travel expenses in accordance with:
+            
+399
+
+    
+    (a)  Section 
+
+63A-3-106
+
+
+;
+
+            
+400
+
+
+    
+    (b)  Section 
+
+63A-3-107
+
+
+; and
+            
+401
+
+    
+    (c)  rules made by the Division of Finance pursuant to Sections 
+
+63A-3-106
+
+
+ and
+            
+402
+
+    
+
+
+63A-3-107
+
+
+.
+            
+403
+
+    
+    (7)  The board:
+            
+404
+
+    
+    (a)  shall hire an executive director for UTEN who may hire staff for UTEN as
+            
+405
+
+    
+permitted by the budget;
+            
+406
+
+    
+    (b)  may terminate the executive director's employment or assignment;
+            
+407
+
+    
+    (c)  shall determine the executive director's salary;
+            
+408
+
+    
+    (d)  shall annually conduct a performance evaluation of the executive director;
+            
+409
+
+    
+    (e)  shall establish policies the board determines are necessary for the operation of
+            
+410
+
+    
+UTEN and the administration of UTEN's duties; and
+            
+411
+
+    
+    (f)  shall advise UTEN in:
+            
+412
+
+    
+    (i)  the development and operation of a coordinated, statewide, multi-option
+            
+413
+
+    
+telecommunications system to assist in the delivery of educational services and telehealth
+            
+414
+
+    
+services throughout the state; and
+            
+415
+
+    
+    (ii)  acquiring, producing, and distributing instructional content.
+            
+416
+
+    
+    (8)  The executive director of UTEN shall be an at-will employee.
+            
+417
+
+    
+    (9)  UTEN shall locate and maintain educational and telehealth telecommunication
+            
+418
+
+    
+infrastructure throughout the state.
+            
+419
+
+    
+    (10)  Educational institutions shall manage site operations under policy established by
+            
+420
+
+    
+UTEN.
+            
+421
+
+    
+    (11)  Subject to future budget constraints, the Legislature shall provide an annual
+            
+422
+
+    
+appropriation to operate UTEN.
+            
+423
+
+    
+    (12)  If the network operated by the Department of Technology Services is not
+            
+424
+
+    
+available, UTEN may provide network connections to the central administration of counties
+            
+425
+
+    
+and municipalities for the sole purpose of transferring data to a secure facility for backup and
+            
+426
+
+    
+disaster recovery.
+            
+427
+
+    
+    Section 9.  
+Section  
+53B-17-106
+
+ is enacted to read:
+            
+428
+
+    
+     53B-17-106.  Utah Telehealth Advisory Council.
+            
+429
+
+    
+    (1)  There is created the Utah Telehealth Advisory Council, which may, at the
+            
+430
+
+    
+discretion of the board, and after July 1, 2015, be combined with the Utah Education Advisory
+
+            
+431
+
+
+    
+Council created in Section 
+
+53B-17-107
+
+
+.
+            
+432
+
+    
+    (2)  The Utah Telehealth Advisory Council members shall be appointed by the board.
+            
+433
+
+    
+    (3) (a)  The Telehealth Advisory Council shall annually elect a chairperson from its
+            
+434
+
+    
+membership.  The chair shall set the agendas for the meetings of the advisory council and shall
+            
+435
+
+    
+report to the board.
+            
+436
+
+    
+    (b)  The Telehealth Advisory Council shall hold meetings at least once every three
+            
+437
+
+    
+months.  Meetings may be held from time to time on the call of the chair or a majority of the
+            
+438
+
+    
+board members.
+            
+439
+
+    
+    (4)  A member may not receive compensation or benefits for the member's service, but,
+            
+440
+
+    
+at the executive director's discretion, may receive per diem and travel expenses in accordance
+            
+441
+
+    
+with:
+            
+442
+
+    
+    (a)  Section 
+
+63A-3-106
+
+
+;
+            
+443
+
+    
+    (b)  Section 
+
+63A-3-107
+
+
+; and
+            
+444
+
+    
+    (c)  rules made by the Division of Finance pursuant to Sections 
+
+63A-3-106
+
+
+ and
+            
+445
+
+    
+
+
+63A-3-107
+
+
+.
+            
+446
+
+    
+    (5)  The board shall provide staff support to the council.
+            
+447
+
+    
+    (6)  The council shall:
+            
+448
+
+    
+    (a)  advise and make recommendations on telehealth service issues to the board and
+            
+449
+
+    
+other state entities;
+            
+450
+
+    
+    (b)  advise and make recommendations on telehealth-related patient privacy to the
+            
+451
+
+    
+board;
+            
+452
+
+    
+    (c)  promote collaborative efforts to establish technical compatibility, uniform policies,
+            
+453
+
+    
+and privacy features to meet legal, financial, commercial, and other societal requirements;
+            
+454
+
+    
+    (d)  identify, address, and seek to resolve the legal, ethical, regulatory, financial,
+            
+455
+
+    
+medical, and technological issues that may serve as barriers to telehealth service;
+            
+456
+
+    
+    (e)  explore and encourage the development of telehealth as a means of reducing health
+            
+457
+
+    
+care costs and increasing health care quality and access, with emphasis on assisting rural health
+            
+458
+
+    
+care providers and special populations with access to or development of electronic medical
+            
+459
+
+    
+records; and
+            
+460
+
+    
+    (f)  seek public input on telehealth issues.
+            
+461
+
+    
+    Section 10.  
+Section  
+53B-17-107
+
+ is enacted to read:
+
+            
+462
+
+
+    
+     53B-17-107.  Utah Education Advisory Council.
+            
+463
+
+    
+    (1) (a)  There is created Utah Education Advisory Council which may, at the discretion
+            
+464
+
+    
+of the board, and after July 1, 2015, be combined with the Utah Telehealth Advisory Council
+            
+465
+
+    
+created in Section 
+
+53B-17-106
+
+
+.
+            
+466
+
+    
+    (b)  The Utah Education Advisory Council members shall be appointed by the board.
+            
+467
+
+    
+    (c)  The Utah Education Advisory Council shall annually elect a chairperson from its
+            
+468
+
+    
+membership.  The chair shall set the agenda for Utah Education Advisory Council meetings
+            
+469
+
+    
+and report to the board.
+            
+470
+
+    
+    (d)  The Utah Education Advisory Council shall hold meetings at least once every three
+            
+471
+
+    
+months.  Meetings may be held from time to time on the call of the chair or a majority of the
+            
+472
+
+    
+board members.
+            
+473
+
+    
+    (2)  A member of the Utah Education Advisory Council may not receive compensation
+            
+474
+
+    
+or benefits for the member's service, but at the executive director's discretion may receive per
+            
+475
+
+    
+diem and travel expenses in accordance with:
+            
+476
+
+    
+    (a)  Section 
+
+63A-3-106
+
+
+;
+            
+477
+
+    
+    (b)  Section 
+
+63A-3-107
+
+
+; and
+            
+478
+
+    
+    (c)  rules made by the Division of Finance pursuant to Sections 
+
+63A-3-106
+
+
+ and
+            
+479
+
+    
+
+
+63A-3-107
+
+
+.
+            
+480
+
+    
+    (3)  The Utah Education Advisory Council shall:
+            
+481
+
+    
+    (a)  advise the board and other public entities regarding:
+            
+482
+
+    
+    (i)  the coordination of the various telecommunications technology initiatives of public
+            
+483
+
+    
+and higher education;
+            
+484
+
+    
+    (ii)  how to provide high-quality, cost-effective Internet access and appropriate interface
+            
+485
+
+    
+equipment for schools and school systems;
+            
+486
+
+    
+    (iii)  recommendations for the procurement, installation, and maintenance of
+            
+487
+
+    
+telecommunication services and equipment on behalf of public and higher education; and
+            
+488
+
+    
+    (iv)  the development or implementation of other programs or services for the delivery
+            
+489
+
+    
+of distance learning and digital health services as directed by law; and
+            
+490
+
+    
+    (b)  seek public input on the development and operation of a coordinated, statewide,
+            
+491
+
+    
+multi-option telecommunications system to assist in the delivery of educational services and
+            
+492
+
+    
+digital health services throughout the state.
+
+            
+493
+
+
+    
+    (4)  The board shall provide staff to the council.
+            
+494
+
+    
+    Section 11.  
+Section  
+53B-18-901
+
+ is amended to read:
+            
+495
+
+    
+     53B-18-901.  Distance Education Doctorate Program.
+            
+496
+
+    
+    (1)  The Legislature finds that:
+            
+497
+
+    
+    (a)  many Utah public education administrators are nearing the end of their careers and
+            
+498
+
+    
+will retire early in the 21st Century;
+            
+499
+
+    
+    (b)  Utah public schools have many mid-career faculty that could become the next wave
+            
+500
+
+    
+of administrators if they were prepared with a doctorate in education degree that emphasized
+            
+501
+
+    
+curriculum and instruction;
+            
+502
+
+    
+    (c)  each of Utah's community colleges have several faculty that need a terminal degree
+            
+503
+
+    
+and further knowledge in curriculum development and state-of-the-art instructional
+            
+504
+
+    
+methodology, and these individuals, being mid-career, find it difficult to relocate to a college
+            
+505
+
+    
+campus for a traditional program; and
+            
+506
+
+    
+    (d)  the state and its students will be better served if faculty and administrators are more
+            
+507
+
+    
+knowledgeable about the development of curriculum and the latest instructional methodology
+            
+508
+
+    
+based on documented research.
+            
+509
+
+    
+    (2)  Therefore, Utah State University shall establish a Distance Education Doctorate
+            
+510
+
+    
+Program to accommodate public education administrators and community college faculty and
+            
+511
+
+    
+administration.
+            
+512
+
+    
+    (3)  The program shall include the following components:
+            
+513
+
+    
+    (a)  the offering of courses for a doctorate degree in education over the [UEN-EDNET]
+            
+514
+
+    
+system established under Title 53B, Chapter 17, Part 1, Educational Telecommunications;
+            
+515
+
+    
+    (b)  structuring of the program to make it identical to a regular campus program in rigor
+            
+516
+
+    
+and course work; and
+            
+517
+
+    
+    (c)  providing a support system from at least the following five departments at the
+            
+518
+
+    
+university:
+            
+519
+
+    
+    (i)  Elementary Education;
+            
+520
+
+    
+    (ii)  Secondary Education;
+            
+521
+
+    
+    (iii)  Business Information Systems and Education;
+            
+522
+
+    
+    (iv)  Industrial Technology; and
+            
+523
+
+    
+    (v)  Agricultural Systems Technology and Education.
+
+            
+524
+
+
+    
+    (4)  The university shall augment the program with off-campus summer courses, with
+            
+525
+
+    
+those courses eventually being offered over the [UEN-EDNET] system established under Title
+            
+526
+
+    
+53B, Chapter 17, Part 1, Educational Telecommunications.
+            
+527
+
+    
+    (5)  The Legislature shall provide an annual appropriation to fund the program
+            
+528
+
+    
+established under this part.
+            
+529
+
+    
+    Section 12.  
+Section  
+63G-6a-104
+
+ is amended to read:
+            
+530
+
+    
+     63G-6a-104.  Definitions of government entities.
+            
+531
+
+    
+    As used in this chapter:
+            
+532
+
+    
+    (1)  "Applicable rulemaking authority" means:
+            
+533
+
+    
+    (a)  as it relates to a legislative procurement unit, the Legislative Management
+            
+534
+
+    
+Committee, which shall adopt a policy establishing requirements applicable to a legislative
+            
+535
+
+    
+procurement unit;
+            
+536
+
+    
+    (b)  as it relates to a judicial procurement unit, the Judicial Council;
+            
+537
+
+    
+    (c)  as it relates to an executive branch procurement unit, except to the extent provided
+            
+538
+
+    
+in Subsections (1)(d) through (g), the board;
+            
+539
+
+    
+    (d)  as it relates to the State Building Board, created in Section 
+
+63A-5-101
+
+
+, the State
+            
+540
+
+    
+Building Board, but only to the extent that the rules relate to procurement authority expressly
+            
+541
+
+    
+granted to the State Building Board by statute;
+            
+542
+
+    
+    (e)  as it relates to the Division of Facilities Construction and Management, created in
+            
+543
+
+    
+Section 
+
+63A-5-201
+
+
+, the director of the Division of Facilities Construction and Management,
+            
+544
+
+    
+but only to the extent that the rules relate to procurement authority expressly granted to the
+            
+545
+
+    
+Division of Facilities Construction and Management by statute;
+            
+546
+
+    
+    (f)  as it relates to the Office of the Attorney General, the attorney general, but only to
+            
+547
+
+    
+the extent that the rules relate to procurement authority expressly granted to the attorney
+            
+548
+
+    
+general by statute;
+            
+549
+
+    
+    (g)  as it relates to the Department of Transportation, created in Section 
+
+72-1-201
+
+
+, the
+            
+550
+
+    
+executive director of the Department of Transportation, but only to the extent that the rules
+            
+551
+
+    
+relate to procurement authority expressly granted to the Department of Transportation by
+            
+552
+
+    
+statute;
+            
+553
+
+    
+    (h)  as it relates to a local government procurement unit, the legislative body of the local
+            
+554
+
+    
+government procurement unit, not as a delegation of authority from the Legislature, but under
+
+            
+555
+
+
+    
+the local government procurement unit's own legislative authority;
+            
+556
+
+    
+    (i)  as it relates to a school district or a public school, the Utah State Procurement Policy
+            
+557
+
+    
+Board, except to the extent that a school district makes its own nonadministrative rules, with
+            
+558
+
+    
+respect to a particular subject, that do not conflict with the provisions of this chapter;
+            
+559
+
+    
+    (j)  as it relates to a state institution of higher education, the State Board of Regents;
+            
+560
+
+    
+    (k)  as it relates to a public transit district, the chief executive of the public transit
+            
+561
+
+    
+district;
+            
+562
+
+    
+    (l)  as it relates to a local district or a special service district:
+            
+563
+
+    
+    (i)  before May 13, 2014, the board of trustees of the local district or the governing body
+            
+564
+
+    
+of the special service district; or
+            
+565
+
+    
+    (ii)  on or after May 13, 2014, the board, except to the extent that the board of trustees
+            
+566
+
+    
+of the local district or the governing body of the special service district makes its own rules:
+            
+567
+
+    
+    (A)  with respect to a subject addressed by board rules; or
+            
+568
+
+    
+    (B)  that are in addition to board rules; or
+            
+569
+
+    
+    (m)  as it relates to a procurement unit, other than a procurement unit described in
+            
+570
+
+    
+Subsections (1)(a) through (l), the board.
+            
+571
+
+    
+    (2)  "Board" means the Utah State Procurement Policy Board, created in Section
+            
+572
+
+    
+
+63G-6a-202
+
+
+.
+            
+573
+
+    
+    (3)  "Building board" means the State Building Board created in Section 
+
+63A-5-101
+
+
+.
+            
+574
+
+    
+    (4)  "Conservation district" is as defined in Section 
+
+17D-3-102
+
+
+.
+            
+575
+
+    
+    (5)  "Division" means the Division of Purchasing and General Services.
+            
+576
+
+    
+    (6)  "Educational procurement unit" means:
+            
+577
+
+    
+    (a)  a school district;
+            
+578
+
+    
+    (b)  a public school, including a local school board or a charter school;
+            
+579
+
+    
+    (c)  Utah Schools for the Deaf and Blind;
+            
+580
+
+    
+    (d)  the Utah Telehealth and Education Network; or
+            
+581
+
+    
+    (e)  an institution of higher education of the state.
+            
+582
+
+    
+    (7)  "Executive branch procurement unit" means each department, division, office,
+            
+583
+
+    
+bureau, agency, or other organization within the state executive branch, including the division
+            
+584
+
+    
+and the attorney general's office.
+            
+585
+
+    
+    (8)  "External procurement unit" means:
+
+            
+586
+
+
+    
+    (a)  a buying organization not located in this state which, if located in this state, would
+            
+587
+
+    
+qualify as a procurement unit; or
+            
+588
+
+    
+    (b)  an agency of the United States.
+            
+589
+
+    
+    (9)  "Judicial procurement unit" means:
+            
+590
+
+    
+    (a)  the Utah Supreme Court;
+            
+591
+
+    
+    (b)  the Utah Court of Appeals;
+            
+592
+
+    
+    (c)  the Judicial Council;
+            
+593
+
+    
+    (d)  a state judicial district; or
+            
+594
+
+    
+    (e)  each office, committee, subcommittee, or other organization within the state
+            
+595
+
+    
+judicial branch.
+            
+596
+
+    
+    (10)  "Legislative procurement unit" means:
+            
+597
+
+    
+    (a)  the Legislature;
+            
+598
+
+    
+    (b)  the Senate;
+            
+599
+
+    
+    (c)  the House of Representatives;
+            
+600
+
+    
+    (d)  a staff office of an entity described in Subsection (10)(a), (b), or (c); or
+            
+601
+
+    
+    (e)  each office, committee, subcommittee, or other organization within the state
+            
+602
+
+    
+legislative branch.
+            
+603
+
+    
+    (11)  "Local building authority" is as defined in Section 
+
+17D-2-102
+
+
+.
+            
+604
+
+    
+    (12)  "Local district" is as defined in Section 
+
+17B-1-102
+
+
+.
+            
+605
+
+    
+    (13)  "Local government procurement unit" means:
+            
+606
+
+    
+    (a)  a county or municipality, and each office or agency of the county or municipality,
+            
+607
+
+    
+unless the county or municipality adopts its own procurement code by ordinance;
+            
+608
+
+    
+    (b)  a county or municipality, and each office or agency of the county or municipality,
+            
+609
+
+    
+that has adopted this entire chapter by ordinance; or
+            
+610
+
+    
+    (c)  a county or municipality, and each office or agency of the county or municipality,
+            
+611
+
+    
+that has adopted a portion of this chapter by ordinance, to the extent that the term is used in the
+            
+612
+
+    
+adopted portion of this chapter.
+            
+613
+
+    
+    (14) (a)  "Procurement unit" means:
+            
+614
+
+    
+    (i)  a legislative procurement unit;
+            
+615
+
+    
+    (ii)  an executive branch procurement unit;
+            
+616
+
+    
+    (iii)  a judicial procurement unit;
+
+            
+617
+
+
+    
+    (iv)  an educational procurement unit;
+            
+618
+
+    
+    (v)  a local government procurement unit;
+            
+619
+
+    
+    (vi)  a local district;
+            
+620
+
+    
+    (vii)  a special service district;
+            
+621
+
+    
+    (viii)  a local building authority;
+            
+622
+
+    
+    (ix)  a conservation district;
+            
+623
+
+    
+    (x)  a public corporation; or
+            
+624
+
+    
+    (xi)  a public transit district.
+            
+625
+
+    
+    (b)  "Procurement unit" does not include a political subdivision created under Title 11,
+            
+626
+
+    
+Chapter 13, Interlocal Cooperation Act.
+            
+627
+
+    
+    (15)  "Public corporation" is as defined in Section 
+
+63E-1-102
+
+
+.
+            
+628
+
+    
+    (16)  "Public entity" means any state government entity or a political subdivision of the
+            
+629
+
+    
+state, including:
+            
+630
+
+    
+    (a)  a procurement unit;
+            
+631
+
+    
+    (b)  a municipality or county, regardless of whether the municipality or county has
+            
+632
+
+    
+adopted this chapter or any part of this chapter; and
+            
+633
+
+    
+    (c)  any other government entity located in Utah that expends public funds.
+            
+634
+
+    
+    (17)  "Public transit district" means a public transit district organized under Title 17B,
+            
+635
+
+    
+Chapter 2a, Part 8, Public Transit District Act.
+            
+636
+
+    
+    (18)  "Special service district" is as defined in Section 
+
+17D-1-102
+
+
+.
+            
+637
+
+    
+    Section 13.  
+Section  
+63J-3-103
+
+ is amended to read:
+            
+638
+
+    
+     63J-3-103.  Definitions.
+            
+639
+
+    
+    As used in this chapter:
+            
+640
+
+    
+    (1) (a)  "Appropriations" means actual unrestricted capital and operating appropriations
+            
+641
+
+    
+from unrestricted General Fund and Education Fund sources.
+            
+642
+
+    
+    (b)  "Appropriations" includes appropriations that are contingent upon available
+            
+643
+
+    
+surpluses in the General Fund and Education Fund.
+            
+644
+
+    
+    (c)  "Appropriations" does not mean:
+            
+645
+
+    
+    (i)  public education expenditures;
+            
+646
+
+    
+    (ii)  Utah Telehealth and Education Network expenditures in support of public
+            
+647
+
+    
+education;
+
+            
+648
+
+
+    
+    (iii)  Utah College of Applied Technology expenditures in support of public education;
+            
+649
+
+    
+    (iv)  Tax Commission expenditures related to collection of income taxes in support of
+            
+650
+
+    
+public education;
+            
+651
+
+    
+    (v)  debt service expenditures;
+            
+652
+
+    
+    (vi)  emergency expenditures;
+            
+653
+
+    
+    (vii)  expenditures from all other fund or subfund sources;
+            
+654
+
+    
+    (viii)  transfers or appropriations from the Education Fund to the Uniform School Fund;
+            
+655
+
+    
+    (ix)  transfers into, or appropriations made to, the General Fund Budget Reserve
+            
+656
+
+    
+Account established in Section 
+
+63J-1-312
+
+
+;
+            
+657
+
+    
+    (x)  transfers into, or appropriations made to, the Education Budget Reserve Account
+            
+658
+
+    
+established in Section 
+
+63J-1-313
+
+
+;
+            
+659
+
+    
+    (xi)  transfers in accordance with Section 
+
+63J-1-314
+
+
+ into, or appropriations made to the
+            
+660
+
+    
+State Disaster Recovery Restricted Account created in Section 
+
+53-2a-603
+
+
+;
+            
+661
+
+    
+    (xii)  money appropriated to fund the total one-time project costs for the construction of
+            
+662
+
+    
+capital developments as defined in Section 
+
+63A-5-104
+
+
+;
+            
+663
+
+    
+    (xiii)  transfers or deposits into or appropriations made to the Centennial Highway Fund
+            
+664
+
+    
+created by Section 
+
+72-2-118
+
+
+;
+            
+665
+
+    
+    (xiv)  transfers or deposits into or appropriations made to the Transportation Investment
+            
+666
+
+    
+Fund of 2005 created by Section 
+
+72-2-124
+
+
+;
+            
+667
+
+    
+    (xv)  transfers or deposits into or appropriations made to:
+            
+668
+
+    
+    (A)  the Department of Transportation from any source; or
+            
+669
+
+    
+    (B)  any transportation-related account or fund from any source; or
+            
+670
+
+    
+    (xvi)  supplemental appropriations from the General Fund to the Division of Forestry,
+            
+671
+
+    
+Fire, and State Lands to provide money for wildland fire control expenses incurred during the
+            
+672
+
+    
+current or previous fire years.
+            
+673
+
+    
+    (2)  "Base year real per capita appropriations" means the result obtained for the state by
+            
+674
+
+    
+dividing the fiscal year 1985 actual appropriations of the state less debt money by:
+            
+675
+
+    
+    (a)  the state's July 1, 1983 population; and
+            
+676
+
+    
+    (b)  the fiscal year 1983 inflation index divided by 100.
+            
+677
+
+    
+    (3)  "Calendar year" means the time period beginning on January 1 of any given year
+            
+678
+
+    
+and ending on December 31 of the same year.
+
+            
+679
+
+
+    
+    (4)  "Fiscal emergency" means an extraordinary occurrence requiring immediate
+            
+680
+
+    
+expenditures and includes the settlement under Laws of Utah 1988, Fourth Special Session,
+            
+681
+
+    
+Chapter 4.
+            
+682
+
+    
+    (5)  "Fiscal year" means the time period beginning on July 1 of any given year and
+            
+683
+
+    
+ending on June 30 of the subsequent year.
+            
+684
+
+    
+    (6)  "Fiscal year 1985 actual base year appropriations" means fiscal year 1985 actual
+            
+685
+
+    
+capital and operations appropriations from General Fund and non-Uniform School Fund
+            
+686
+
+    
+income tax revenue sources, less debt money.
+            
+687
+
+    
+    (7)  "Inflation index" means the change in the general price level of goods and services
+            
+688
+
+    
+as measured by the Gross National Product Implicit Price Deflator of the Bureau of Economic
+            
+689
+
+    
+Analysis, U.S. Department of Commerce calculated as provided in Section 
+
+63J-3-202
+
+
+.
+            
+690
+
+    
+    (8) (a)  "Maximum allowable appropriations limit" means the appropriations that could
+            
+691
+
+    
+be, or could have been, spent in any given year under the limitations of this chapter.
+            
+692
+
+    
+    (b)  "Maximum allowable appropriations limit" does not mean actual appropriations
+            
+693
+
+    
+spent or actual expenditures.
+            
+694
+
+    
+    (9)  "Most recent fiscal year's inflation index" means the fiscal year inflation index two
+            
+695
+
+    
+fiscal years previous to the fiscal year for which the maximum allowable inflation and
+            
+696
+
+    
+population appropriations limit is being computed under this chapter.
+            
+697
+
+    
+    (10)  "Most recent fiscal year's population" means the fiscal year population two fiscal
+            
+698
+
+    
+years previous to the fiscal year for which the maximum allowable inflation and population
+            
+699
+
+    
+appropriations limit is being computed under this chapter.
+            
+700
+
+    
+    (11)  "Population" means the number of residents of the state as of July 1 of each year
+            
+701
+
+    
+as calculated by the Governor's Office of Management and Budget according to the procedures
+            
+702
+
+    
+and requirements of Section 
+
+63J-3-202
+
+
+.
+            
+703
+
+    
+    (12)  "Revenues" means the revenues of the state from every tax, penalty, receipt, and
+            
+704
+
+    
+other monetary exaction and interest connected with it that are recorded as unrestricted revenue
+            
+705
+
+    
+of the General Fund and from non-Uniform School Fund income tax revenues, except as
+            
+706
+
+    
+specifically exempted by this chapter.
+            
+707
+
+    
+    (13)  "Security" means any bond, note, warrant, or other evidence of indebtedness,
+            
+708
+
+    
+whether or not the bond, note, warrant, or other evidence of indebtedness is or constitutes an
+            
+709
+
+    
+"indebtedness" within the meaning of any provision of the constitution or laws of this state.
+
+            
+710
+
+
+    
+    Section 14.  
+Section  
+63M-1-3204
+
+ is amended to read:
+            
+711
+
+    
+     63M-1-3204.  STEM Action Center.
+            
+712
+
+    
+    (1)  As funding allows, the board shall:
+            
+713
+
+    
+    (a)  establish a STEM Action Center;
+            
+714
+
+    
+    (b)  ensure that the STEM Action Center:
+            
+715
+
+    
+    (i)  is accessible by the public; and
+            
+716
+
+    
+    (ii)  includes the components described in Subsection (2);
+            
+717
+
+    
+    (c)  work cooperatively with the State Board of Education to acquire technology and
+            
+718
+
+    
+select schools as described in Sections 
+
+63M-1-3205
+
+
+ and 
+
+63M-1-3206
+
+
+; and
+            
+719
+
+    
+    (d)  engage private entities to provide financial support or employee time for STEM
+            
+720
+
+    
+activities in schools in addition to what is currently provided by private entities.
+            
+721
+
+    
+    (2)  As funding allows, the executive director of the STEM Action Center shall:
+            
+722
+
+    
+    (a)  support professional development for educators regarding education related
+            
+723
+
+    
+instructional technology that supports STEM education;
+            
+724
+
+    
+    (b)  ensure that the STEM Action Center acts as a research and development center for
+            
+725
+
+    
+education related instructional technology acquired through a request for proposals process
+            
+726
+
+    
+described in Section 
+
+63M-1-3205
+
+
+;
+            
+727
+
+    
+    (c)  review and acquire STEM education related technology for:
+            
+728
+
+    
+    (i)  educator professional development;
+            
+729
+
+    
+    (ii)  assessment, data collection, analysis, and reporting; and
+            
+730
+
+    
+    (iii)  public school instruction;
+            
+731
+
+    
+    (d)  facilitate participation in interscholastic STEM related competitions, fairs, and
+            
+732
+
+    
+camps;
+            
+733
+
+    
+    (e)  engage private industry in the development and maintenance of the STEM Action
+            
+734
+
+    
+Center;
+            
+735
+
+    
+    (f)  use resources to bring the latest STEM education learning tools into public
+            
+736
+
+    
+education classrooms;
+            
+737
+
+    
+    (g)  identify at least 10 best practice innovations used in Utah schools that have resulted
+            
+738
+
+    
+in at least 80% of students performing at grade level in STEM areas;
+            
+739
+
+    
+    (h)  identify best practices being used outside the state and implement selected practices
+            
+740
+
+    
+through a pilot program;
+
+            
+741
+
+
+    
+    (i)  identify:
+            
+742
+
+    
+    (i)  three learning tools for kindergarten through grade 6 identified as best practices; and
+            
+743
+
+    
+    (ii)  three learning tools per STEM subject for grades 7 through 12 identified as best
+            
+744
+
+    
+practices;
+            
+745
+
+    
+    (j)  provide a Utah best practices database, including best practices from public
+            
+746
+
+    
+education, higher education, the Utah Telehealth and Education Network, and other STEM
+            
+747
+
+    
+related entities;
+            
+748
+
+    
+    (k)  keep track of the following items related to the best practices database described in
+            
+749
+
+    
+Subsection (2)(j):
+            
+750
+
+    
+    (i)  how the best practices database is being used; and
+            
+751
+
+    
+    (ii)  how many individuals are using the database, including the demographics of the
+            
+752
+
+    
+users, if available;
+            
+753
+
+    
+    (l)  join and participate in a national STEM network;
+            
+754
+
+    
+    (m)  identify performance changes linked to use of the best practices database described
+            
+755
+
+    
+in Subsection (2)(j);
+            
+756
+
+    
+    (n)  work cooperatively with the State Board of Education to designate schools as
+            
+757
+
+    
+STEM schools, where the schools have agreed to adopt a plan of STEM implementation in
+            
+758
+
+    
+alignment with criteria set by the State Board of Education and the board;
+            
+759
+
+    
+    (o)  support best methods of professional development, including methods of
+            
+760
+
+    
+professional development that reduce cost and increase effectiveness, to help educators learn
+            
+761
+
+    
+how to most effectively implement best practice learning tools in classrooms;
+            
+762
+
+    
+    (p)  recognize a high school's achievement in the STEM competitions, fairs, and camps
+            
+763
+
+    
+described in Subsection (2)(d);
+            
+764
+
+    
+    (q)  send student results from STEM competitions, fairs, and camps described in
+            
+765
+
+    
+Subsection (2)(d) to media and ask the media to report on them;
+            
+766
+
+    
+    (r)  develop and distribute STEM toolkits to parents of students being served by the
+            
+767
+
+    
+STEM Action Center;
+            
+768
+
+    
+    (s)  support targeted professional development for improved instruction in STEM in
+            
+769
+
+    
+grades 6, 7, and 8, including:
+            
+770
+
+    
+    (i)  improved instructional materials that are dynamic and engaging for students;
+            
+771
+
+    
+    (ii)  targeted instruction for students who traditionally avoid enrolling in STEM
+
+            
+772
+
+
+    
+courses;
+            
+773
+
+    
+    (iii)  introduction of engaging engineering courses; and
+            
+774
+
+    
+    (iv)  introduction of other research-based methods that support student achievement in
+            
+775
+
+    
+STEM areas; and
+            
+776
+
+    
+    (t)  ensure that an online college readiness assessment tool be accessible by:
+            
+777
+
+    
+    (i)  public education students; and
+            
+778
+
+    
+    (ii)  higher education students.
+            
+779
+
+    
+    (3)  The board may prescribe other duties for the STEM Action Center in addition to
+            
+780
+
+    
+the responsibilities described in this section.
+            
+781
+
+    
+    (4) (a)  The executive director shall track and compare the student performance of
+            
+782
+
+    
+students participating in a STEM Action Center program to all other similarly situated students
+            
+783
+
+    
+in the state, in the following STEM related activities, at the beginning and end of each year:
+            
+784
+
+    
+    (i)  public education high school graduation rates;
+            
+785
+
+    
+    (ii)  the number of students taking a remedial mathematics course at an institution of
+            
+786
+
+    
+higher education described in Section 
+
+53B-2-101
+
+
+;
+            
+787
+
+    
+    (iii)  the number of students who graduate from a Utah public school and begin a
+            
+788
+
+    
+postsecondary education program; and
+            
+789
+
+    
+    (iv)  the number of students, as compared to all similarly situated students, who are
+            
+790
+
+    
+performing at grade level in STEM classes.
+            
+791
+
+    
+    (b)  The State Board of Education and the State Board of Regents shall provide
+            
+792
+
+    
+information to the board to assist the board in complying with the requirements of Subsection
+            
+793
+
+    
+(4)(a) if allowed under federal law.
+            
+794
+
+    
+    Section 15.  
+Section  
+72-7-109
+
+ is amended to read:
+            
+795
+
+    
+     72-7-109.  Telecommunications Advisory Council -- Membership -- Duties.
+            
+796
+
+    
+    (1)  As used in this section:
+            
+797
+
+    
+    (a)  "Council" means the Telecommunications Advisory Council created in this section.
+            
+798
+
+    
+    (b)  "Statewide telecommunications purposes" has the same meaning provided in
+            
+799
+
+    
+Section 
+
+72-7-108
+
+
+.
+            
+800
+
+    
+    (2) (a)  There is created within the department the Telecommunication Advisory
+            
+801
+
+    
+Council consisting of six members who represent:
+            
+802
+
+    
+    (i)  the governor's chief advisor on telecommunications;
+
+            
+803
+
+
+    
+    (ii)  the Public Service Commission;
+            
+804
+
+    
+    (iii)  the department;
+            
+805
+
+    
+    (iv)  the Utah Telehealth and Education Network;
+            
+806
+
+    
+    (v)  the Division of Purchasing and General Services within the Department of
+            
+807
+
+    
+Administrative Services; and
+            
+808
+
+    
+    (vi)  the Division of Public Utilities within the Department of Commerce.
+            
+809
+
+    
+    (b)  The members shall be appointed by the governor with the consent of the Senate.
+            
+810
+
+    
+    (3) (a)  The members shall annually elect a chair from its members.
+            
+811
+
+    
+    (b)  The council shall meet as it determines necessary to accomplish its duties.
+            
+812
+
+    
+    (c)  A majority of the council constitutes a quorum for the transaction of business.
+            
+813
+
+    
+    (d)  Members shall receive no compensation or benefits for their services.
+            
+814
+
+    
+    (4) (a)  The department shall provide staff support for the council.
+            
+815
+
+    
+    (b)  The council may request assistance from other technical advisors as it determines
+            
+816
+
+    
+necessary to accomplish its duties.
+            
+817
+
+    
+    (5)  The council shall:
+            
+818
+
+    
+    (a)  provide information, suggestions, strategic plans, priorities, and recommendations
+            
+819
+
+    
+to assist the department in administering telecommunications access to interstate highway
+            
+820
+
+    
+rights-of-way for statewide telecommunications purposes;
+            
+821
+
+    
+    (b)  assist the department in valuing in-kind compensation in accordance with
+            
+822
+
+    
+Subsection 
+
+72-7-108
+
+
+(3)(c);
+            
+823
+
+    
+    (c)  seek input from telecommunications providers and the public;
+            
+824
+
+    
+    (d)  coordinate and exchange information with other technology and
+            
+825
+
+    
+telecommunications entities of the state and its political subdivisions; and
+            
+826
+
+    
+    (e)  provide other assistance as requested by the department.
+            
+827
+
+    
+    Section 16.   Repealer.
+            
+828
+
+    
+    This bill repeals:
+            
+829
+
+    
+    Section 
+53B-17-102
+,  Utah Education Network.
+
+
+
+
+
+ Legislative Review Note
+    as of   1-29-14  11:31 AM
+
+ Office of Legislative Research and General Counsel
+[Bill Documents][Bills Directory]
+
+
+
+
+
+
+
+
+
+Who represents me?
+
+
+
+
+
+Remember my Legislators
+
+
+
+
+
+State Senate
+		350 North State, Suite 320
+		PO Box 145115
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1035
+		Fax: (801) 326-1475
+
+
+
+House of Representatives
+		350 North State, Suite 350
+		PO Box 145030
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1029
+		Fax: (801) 326-1544
+
+
+
+
+
+
+
+
+
+
+Home
+Mobile Site
+Site Map
+Calendar
+Code / Constitution
+House
+Senate
+
+Terms of Use/Privacy Policy
+
+ADA
+Utah.gov
+
+
+
+
+
+
+

@@ -1,0 +1,587 @@
+Sponsors: []Modifications: (4) The provisions of this section requiring electronic filing do not apply to counties ofthe fourth, fifth, or sixth class.Full text:
+
+
+
+Utah State Legislature
+
+
+
+
+
+
+
+
+
+
+
+
+Legislators
+
+By Session (1896-Current)
+Alphabetical (Historical)
+Find by Address/Map
+More
+
+
+Bills
+
+Bills/Bill Requests
+Passed Bills
+2017 Bills
+
+Keyword Search
+Reading Calendars
+Tracking Service
+More
+
+
+Committees
+
+All Committees
+Appropriations
+Commissions
+
+Independent Legislative Ethics Commission
+Interim
+Standing
+Subcommittees
+Task Forces
+Bills In Committees
+
+
+Utah Code / Constitution
+
+
+Title/Chapter/Section
+Keyword Search 
+
+Utah Constitution
+Laws of Utah 1851-ongoing
+Utah Territorial Laws 
+More
+
+
+Senate
+
+Main Page 
+About The Senate 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Extraordinary Sessions 
+Reading Calendars 
+Past Floor Debates 
+Senate Journals 
+
+
+House
+
+Main Page
+About the House 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Reading Calendars 
+Past Floor Debates 
+Journals 
+Conflict of Interest Forms 
+
+
+Legislative Guide 
+
+Legislative Guide
+Civic Programs
+GRAMA (Records Requests)
+
+
+Publications
+
+Search Publications
+Appropriations
+Audits
+Bagels & Briefings
+Briefing Papers
+Digest of Legislation
+Legislative Drafting Manual
+
+Journals
+
+Interim Highlights
+
+Legislative Rules
+GRAMA (Records Requests)
+Public Email
+State Organization Charts
+YouTube Channel
+Requests for Proposals and Legal Notices
+More
+
+
+Legislative Histories
+
+Legislative History Resources
+How to Research
+Bill Drafting/Research Files (1990-Ongoing)
+
+Working Bills (1896-1989)
+Interim Committee Histories (1990-Ongoing) 
+Journals
+Past House Floor Debates
+Past Senate Floor Debates
+More
+
+
+Staff Offices
+
+All Legislative Offices
+Auditor General
+Fiscal Analyst
+Printing
+Research and General Counsel
+Staff Awards
+Job Opportunities
+More
+
+
+Links of Interest
+
+Utah Administrative Rules
+Courts
+Utah State Capitol
+State of Utah
+Federal Legislation
+More
+
+
+
+
+
+
+ 
+
+H.B. 85
+
+
+
+
+
+            
+1
+
+    
+ ELECTRONIC FILING OF TRAFFIC CITATIONS AND
+
+            
+2
+
+    
+ ACCIDENT REPORTS AMENDMENTS
+
+
+
+            
+3
+
+    
+2014 GENERAL SESSION
+
+            
+4
+
+    
+STATE OF UTAH
+
+            
+5
+
+    
+
+
+ Chief Sponsor:  Jon Cox
+
+
+
+            
+6
+
+    
+
+
+
+Senate Sponsor: 
+
+
+
+
+
+
+  Daniel W. Thatcher
+
+
+
+
+
+            
+7
+
+    
+
+            
+8
+
+    
+ LONG TITLE
+            
+9
+
+    
+ General Description:
+            
+10
+
+    
+    This bill amends provisions related to the electronic filing of a misdemeanor or
+            
+11
+
+    
+infraction citation.
+            
+12
+
+    
+ Highlighted Provisions:
+            
+13
+
+    
+    This bill:
+            
+14
+
+    
+    .    exempts a county of the fourth, fifth, or sixth class from electronic filing
+            
+15
+
+    
+requirements for a misdemeanor or infraction citation.
+            
+16
+
+    
+ Money Appropriated in this Bill:
+            
+17
+
+    
+    None
+            
+18
+
+    
+ Other Special Clauses:
+            
+19
+
+    
+    None
+            
+20
+
+    
+ Utah Code Sections Affected:
+            
+21
+
+    
+AMENDS:
+            
+22
+
+    
+     
+77-7-20
+, as last amended by Laws of Utah 2013, Chapter 65
+            
+23
+
+    
+
+            
+24
+
+    
+Be it enacted by the Legislature of the state of Utah:
+            
+25
+
+    
+    Section 1.  
+Section  
+77-7-20
+
+ is amended to read:
+            
+26
+
+    
+     77-7-20.  Service of citation on defendant -- Filing in court -- Electronic filing --
+            
+27
+
+    
+ Contents of citations.
+
+            
+28
+
+
+    
+    (1)  A peace officer or public official who issues a citation pursuant to Section 
+
+77-7-18
+
+
+
+            
+29
+
+    
+shall give the citation to the person cited and shall within five days electronically file the data
+            
+30
+
+    
+from Subsections (2)(a) through (2)(g) with the court specified in the citation. The data
+            
+31
+
+    
+transmission shall use the court's electronic filing interface.  A nonconforming filing is not
+            
+32
+
+    
+effective.
+            
+33
+
+    
+    (2)  The citation issued under authority of this chapter shall contain the following data:
+            
+34
+
+    
+    (a)  the name of the court before which the person is to appear;
+            
+35
+
+    
+    (b)  the name of the person cited;
+            
+36
+
+    
+    (c)  a brief description of the offense charged;
+            
+37
+
+    
+    (d)  the date, time, and place at which the offense is alleged to have occurred;
+            
+38
+
+    
+    (e)  the date on which the citation was issued;
+            
+39
+
+    
+    (f)  the name of the peace officer or public official who issued the citation, and the
+            
+40
+
+    
+name of the arresting person if an arrest was made by a private party and the citation was
+            
+41
+
+    
+issued in lieu of taking the arrested person before a magistrate;
+            
+42
+
+    
+    (g)  the time and date on or before and after which the person is to appear or a statement
+            
+43
+
+    
+that the court will notify the person of the time to appear;
+            
+44
+
+    
+    (h)  the address of the court in which the person is to appear; and
+            
+45
+
+    
+    (i)  a notice containing substantially the following language:
+            
+46
+
+    
+READ CAREFULLY
+
+            
+47
+
+    
+    This citation is not an information and will not be used as an information without your
+            
+48
+
+    
+consent.  If an information is filed you will be provided a copy by the court.  You MUST
+            
+49
+
+    
+appear in court on or before the time set in this citation or as directed by the court.  IF YOU
+            
+50
+
+    
+FAIL TO APPEAR, THE COURT MAY ISSUE A WARRANT FOR YOUR ARREST.
+            
+51
+
+    
+    (3)  By electronically filing the data with the court, the peace officer or public official
+            
+52
+
+    
+certifies to the court that:
+            
+53
+
+    
+    (a)  the citation or information, including the summons and complaint, was served upon
+            
+54
+
+    
+the defendant in accordance with the law;
+            
+55
+
+    
+    (b)  the defendant committed the offense set forth in the served documents; and
+            
+56
+
+    
+    (c)  the court to which the defendant was directed to appear is the proper court pursuant
+            
+57
+
+    
+to Section 
+
+77-7-21
+
+
+.
+            
+58
+
+    
+    (4) The provisions of this section requiring electronic filing do not apply to counties of
+
+            
+59
+
+
+    
+the fourth, fifth, or sixth class.
+
+
+
+
+ Legislative Review Note
+    as of   1-9-14  11:32 AM
+
+ Office of Legislative Research and General Counsel
+[Bill Documents][Bills Directory]
+
+
+
+
+
+
+
+
+
+Who represents me?
+
+
+
+
+
+Remember my Legislators
+
+
+
+
+
+State Senate
+		350 North State, Suite 320
+		PO Box 145115
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1035
+		Fax: (801) 326-1475
+
+
+
+House of Representatives
+		350 North State, Suite 350
+		PO Box 145030
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1029
+		Fax: (801) 326-1544
+
+
+
+
+
+
+
+
+
+
+Home
+Mobile Site
+Site Map
+Calendar
+Code / Constitution
+House
+Senate
+
+Terms of Use/Privacy Policy
+
+ADA
+Utah.gov
+
+
+
+
+
+
+

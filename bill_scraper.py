@@ -1,4 +1,6 @@
-import requests, os, glob
+
+
+import requests, os, glob, aiohttp, asyncio
 from bs4 import BeautifulSoup
 import pandas as pd
 
@@ -20,9 +22,9 @@ def get_sponsor(soup):
     return sponsors
 
 
-def parse_bill_page(year, bill):
+def parse_bill_page(year, bill, house):
     # TODO: SHOULD CHANGE BASED ON BILL TYPE
-    content = requests.get("http://le.utah.gov/~{}/bills/hbillint/{}.htm".format(year, bill)).content
+    content = requests.get("http://le.utah.gov/~{}/bills/{}/{}.htm".format(year,house,bill)).content
     soup = BeautifulSoup(content, 'lxml')
     sponsors = get_sponsor(soup)
     changes = get_changes(soup)
@@ -36,14 +38,26 @@ def extract_year(filename):
     return year
 
 
+def clean_characters(content):
+    stripped = [c for c in content if 0 < ord(c) < 127]
+    return ''.join(stripped)
+
+
 def make_txt_of(content_dict, bill, year):
     file_name = '{bill}_{year}.txt'.format(bill=bill, year=year)
-    f = open(os.path.join("bill_files", file_name), 'w')
-    f.write('Sponsors: {sponsors}'.format(sponsors=content_dict['sponsors']))
-    f.write('Modifications: {mods}'.format(mods=content_dict['mods']))
-    f.write('Full text:\n')
-    f.write(content_dict['full'])
-    f.close()
+    if 'The resource you are looking for has been removed, had its name changed, or is temporarily unavailable.'\
+        not in content_dict['full']:
+        f = open(os.path.join("bill_files", file_name), 'w', encoding='ISO-8859-1')
+        f.write('Sponsors: {sponsors}'.format(sponsors=content_dict['sponsors']))
+        f.write('Modifications: {mods}'.format(mods=content_dict['mods']))
+        f.write('Full text:\n')
+        try:
+            f.write(content_dict['full'])
+        except UnicodeEncodeError:
+            f.write(clean_characters(content_dict['full']))
+        f.close()
+    else:
+        print(bill, ' was not found, unable to save.')
 
 
 def get_bill_names():
@@ -55,7 +69,13 @@ def get_bill_names():
         bill_names[year] = df.columns[2:]
     for year, bill_list in bill_names.items():
         for bill in bill_list:
-            sponsors, changes, bill_text = parse_bill_page(year, bill)
+            if 'HB' or 'HJR' in bill:
+                house = 'hbillint'
+            elif 'SB' in bill:
+                house = 'sbillint'
+            else:
+                house = 'hbillint'
+            sponsors, changes, bill_text = parse_bill_page(year, bill, house)
             make_txt_of({'sponsors': sponsors, 'mods': changes, 'full': bill_text}, bill, year)
 
 

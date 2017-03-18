@@ -1,0 +1,1285 @@
+Sponsors: []Modifications: http://le.utah.gov(3)  "Congressional shapefile" means the electronic shapefile that stores the boundary ofeach of the four United States Congressional district boundaries for Utah.(4)  "Shapefile" means the digital vector storage format for storing geometric locationand associated attribute information.Notwithstanding Subsection (2), thedistrictshapefileshapefileshapefileshapefileshapefileshapefileshapefileshapefileshapefileshapefileshapefileshapefileshapefileshapefileshapefileUtahPopulation Estimates CommitteeshapefileshapefileshapefileshapefileshapefileFull text:
+
+
+
+Utah State Legislature
+
+
+
+
+
+
+
+
+
+
+
+
+Legislators
+
+By Session (1896-Current)
+Alphabetical (Historical)
+Find by Address/Map
+More
+
+
+Bills
+
+Bills/Bill Requests
+Passed Bills
+2017 Bills
+
+Keyword Search
+Reading Calendars
+Tracking Service
+More
+
+
+Committees
+
+All Committees
+Appropriations
+Commissions
+
+Independent Legislative Ethics Commission
+Interim
+Standing
+Subcommittees
+Task Forces
+Bills In Committees
+
+
+Utah Code / Constitution
+
+
+Title/Chapter/Section
+Keyword Search 
+
+Utah Constitution
+Laws of Utah 1851-ongoing
+Utah Territorial Laws 
+More
+
+
+Senate
+
+Main Page 
+About The Senate 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Extraordinary Sessions 
+Reading Calendars 
+Past Floor Debates 
+Senate Journals 
+
+
+House
+
+Main Page
+About the House 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Reading Calendars 
+Past Floor Debates 
+Journals 
+Conflict of Interest Forms 
+
+
+Legislative Guide 
+
+Legislative Guide
+Civic Programs
+GRAMA (Records Requests)
+
+
+Publications
+
+Search Publications
+Appropriations
+Audits
+Bagels & Briefings
+Briefing Papers
+Digest of Legislation
+Legislative Drafting Manual
+
+Journals
+
+Interim Highlights
+
+Legislative Rules
+GRAMA (Records Requests)
+Public Email
+State Organization Charts
+YouTube Channel
+Requests for Proposals and Legal Notices
+More
+
+
+Legislative Histories
+
+Legislative History Resources
+How to Research
+Bill Drafting/Research Files (1990-Ongoing)
+
+Working Bills (1896-1989)
+Interim Committee Histories (1990-Ongoing) 
+Journals
+Past House Floor Debates
+Past Senate Floor Debates
+More
+
+
+Staff Offices
+
+All Legislative Offices
+Auditor General
+Fiscal Analyst
+Printing
+Research and General Counsel
+Staff Awards
+Job Opportunities
+More
+
+
+Links of Interest
+
+Utah Administrative Rules
+Courts
+Utah State Capitol
+State of Utah
+Federal Legislation
+More
+
+
+
+
+
+
+ 
+
+Download Zipped Introduced WordPerfect HB0367.ZIP
+[Status][Bill Documents][Fiscal Note][Bills Directory]
+
+
+H.B. 367
+
+
+
+
+
+            
+1
+
+    
+ CONGRESSIONAL BOUNDARY AMENDMENTS
+
+
+
+            
+2
+
+    
+2013 GENERAL SESSION
+
+            
+3
+
+    
+STATE OF UTAH
+
+            
+4
+
+    
+
+
+ Chief Sponsor:  Brad L. Dee
+
+
+
+            
+5
+
+    
+
+
+
+Senate Sponsor: 
+
+
+
+
+
+
+  Ralph Okerlund
+
+
+
+
+
+            
+6
+
+    
+
+            
+7
+
+    
+ LONG TITLE
+            
+8
+
+    
+
+ Redistricting Boundary Information:
+            
+9
+
+    
+    The United States Congressional district boundary information may be found at
+            
+10
+
+    
+http://le.utah.gov
+.
+            
+11
+
+    
+    Electronic file security code:  54af6da8e586a40d3ed4131d29895e3e
+
+
+            
+12
+
+    
+ General Description:
+            
+13
+
+    
+    This bill, which includes this printed text and the electronic data affiliated with it,
+            
+14
+
+    
+makes minor adjustments to United States Congressional district boundaries.
+            
+15
+
+    
+ Highlighted Provisions:
+            
+16
+
+    
+    This bill:
+            
+17
+
+    
+    .    adopts the United States Congressional district boundaries adjusted and approved
+            
+18
+
+    
+by the lieutenant governor and used in the November 2012 election, which reconcile
+            
+19
+
+    
+United States Census Bureau geographic data with state geographic data for:
+            
+20
+
+    
+        .    county boundaries; and
+            
+21
+
+    
+        .    municipal boundaries;
+            
+22
+
+    
+    .    adjusts a section of the boundary between United States Congressional districts 2
+            
+23
+
+    
+and 4 to align with a county boundary change between Millard and Juab counties;
+            
+24
+
+    
+and
+            
+25
+
+    
+    .    establishes the congressional shapefile in the electronic file, which is part of this bill
+            
+26
+
+    
+in electronic form, as the legal boundaries of the four United States Congressional
+            
+27
+
+    
+districts for Utah.
+
+            
+28
+
+
+    
+ Money Appropriated in this Bill:
+            
+29
+
+    
+    None
+            
+30
+
+    
+ Other Special Clauses:
+            
+31
+
+    
+    None
+            
+32
+
+    
+ Utah Code Sections Affected:
+            
+33
+
+    
+AMENDS:
+            
+34
+
+    
+     20A-13-101.1, as enacted by Laws of Utah 2011, Third Special Session, Chapter 8
+            
+35
+
+    
+     20A-13-101.5, as enacted by Laws of Utah 2011, Third Special Session, Chapter 8
+            
+36
+
+    
+     20A-13-102, as last amended by Laws of Utah 2011, Third Special Session, Chapter 8
+            
+37
+
+    
+     20A-13-102.2, as last amended by Laws of Utah 2011, Third Special Session, Chapter 8
+            
+38
+
+    
+     20A-13-103, as last amended by Laws of Utah 2011, Third Special Session, Chapter 8
+            
+39
+
+    
+     20A-13-104, as last amended by Laws of Utah 2011, Third Special Session, Chapter 8
+            
+40
+
+    
+
+            
+41
+
+    
+Be it enacted by the Legislature of the state of Utah:
+            
+42
+
+    
+    Section 1.  
+Section  
+20A-13-101.1
+
+ is amended to read:
+            
+43
+
+    
+     20A-13-101.1.  Definitions.
+            
+44
+
+    
+    As used in this part:
+            
+45
+
+    
+    (1)  "Census block" means any one of the 115,406 individual geographic areas into
+            
+46
+
+    
+which the Bureau of the Census of the United States Department of Commerce has divided the
+            
+47
+
+    
+state of Utah, to each of which the Bureau of the Census has attached a discrete population
+            
+48
+
+    
+tabulation from the 2010 decennial census.
+            
+49
+
+    
+    (2)  "Congressional block assignment file" means the electronic file that assigns each of
+            
+50
+
+    
+Utah's 115,406 census blocks to a particular Congressional district.
+            
+51
+
+    
+    (3)  "Congressional shapefile" means the electronic shapefile that stores the boundary of
+            
+52
+
+    
+each of the four United States Congressional district boundaries for Utah.
+            
+53
+
+    
+    (4)  "Shapefile" means the digital vector storage format for storing geometric location
+            
+54
+
+    
+and associated attribute information.
+            
+55
+
+    
+    Section 2.  
+Section  
+20A-13-101.5
+
+ is amended to read:
+            
+56
+
+    
+     20A-13-101.5.  Representatives to the United States Congress -- Four
+            
+57
+
+    
+ representative districts -- When elected -- District boundaries.
+            
+58
+
+    
+    (1) (a)  The state of Utah is divided into four districts for the election of representatives
+
+            
+59
+
+
+    
+to the Congress of the United States, with one member to be elected from each Congressional
+            
+60
+
+    
+district.
+            
+61
+
+    
+    (b)  At the general election to be held in 2012, and biennially thereafter, one
+            
+62
+
+    
+representative from each Congressional district shall be elected to serve in the Congress of the
+            
+63
+
+    
+United States.
+            
+64
+
+    
+    (2)  The Legislature adopts the official census population figures and maps of the
+            
+65
+
+    
+Bureau of the Census of the United States Department of Commerce developed in connection
+            
+66
+
+    
+with the taking of the 2010 national decennial census as the official data for establishing
+            
+67
+
+    
+Congressional district boundaries.
+            
+68
+
+    
+    (3) (a)  [The] Notwithstanding Subsection (2), the Legislature enacts the district
+            
+69
+
+    
+numbers and boundaries of the Congressional districts designated in the Congressional [block
+            
+70
+
+    
+assignment file] shapefile that is the electronic component of the bill that enacts this section.
+            
+71
+
+    
+    (b)  That Congressional [block assignment file] shapefile, and Congressional
+            
+72
+
+    
+boundaries generated from that Congressional [block assignment file] shapefile, may be
+            
+73
+
+    
+accessed via the Utah Legislature's website.
+            
+74
+
+    
+    Section 3.  
+Section  
+20A-13-102
+
+ is amended to read:
+            
+75
+
+    
+     20A-13-102.  Congressional districts.
+            
+76
+
+    
+    (1) (a)  The Legislature shall file a copy of the Congressional [block assignment file]
+            
+77
+
+    
+shapefile enacted by the Legislature with the lieutenant governor's office.
+            
+78
+
+    
+    (b) The legal boundaries of Utah's Congressional districts are contained in the
+            
+79
+
+    
+Congressional [block assignment file] shapefile on file with the lieutenant governor's office.
+            
+80
+
+    
+    (2) (a)  The lieutenant governor shall:
+            
+81
+
+    
+    (i)  generate maps of each Congressional district from the Congressional [block
+            
+82
+
+    
+assignment file] shapefile; and
+            
+83
+
+    
+    (ii)  ensure that those maps are available for viewing on the lieutenant governor's
+            
+84
+
+    
+website.
+            
+85
+
+    
+    (b)  If there is any inconsistency between the maps and the Congressional [block
+            
+86
+
+    
+assignment file] shapefile, the Congressional [block assignment file] shapefile is controlling.
+            
+87
+
+    
+    Section 4.  
+Section  
+20A-13-102.2
+
+ is amended to read:
+            
+88
+
+    
+     20A-13-102.2.  County clerk, Automated Geographic Reference Center, and
+            
+89
+
+    
+ lieutenant governor responsibilities -- Maps and voting precinct boundaries.
+
+            
+90
+
+
+    
+    (1)  Each county clerk shall obtain a copy of the Congressional [block assignment file]
+            
+91
+
+    
+shapefile for the clerk's county from the lieutenant governor's office.
+            
+92
+
+    
+    (2) (a)  A county clerk may create one or more county maps that identify the boundaries
+            
+93
+
+    
+of Utah's Congressional districts as generated from the Congressional [block assignment file]
+            
+94
+
+    
+shapefile.
+            
+95
+
+    
+    (b)  Before publishing or distributing any map or data created by the county clerk that
+            
+96
+
+    
+identifies the boundaries of Utah's Congressional districts within the county, the county clerk
+            
+97
+
+    
+shall submit the county map and data to the lieutenant governor and to the Automated
+            
+98
+
+    
+Geographic Reference Center for review.
+            
+99
+
+    
+    (c)  Within 30 days after receipt of a county map and data from a county clerk, the
+            
+100
+
+    
+Automated Geographic Reference Center shall:
+            
+101
+
+    
+    (i)  review the county map and data to evaluate if the county map and data accurately
+            
+102
+
+    
+reflect the boundaries of Utah's Congressional districts established by the Legislature in the
+            
+103
+
+    
+Congressional [block assignment file] shapefile;
+            
+104
+
+    
+    (ii)  determine whether the county map and data are correct or incorrect; and
+            
+105
+
+    
+    (iii)  communicate those findings to the lieutenant governor.
+            
+106
+
+    
+    (d)  The lieutenant governor shall either notify the county clerk that the county map and
+            
+107
+
+    
+data are correct or notify the county clerk that the county map and data are incorrect.
+            
+108
+
+    
+    (e)  If the county clerk receives notice from the lieutenant governor that the county map
+            
+109
+
+    
+and data submitted are incorrect, the county clerk shall:
+            
+110
+
+    
+    (i)  make the corrections necessary to conform the county map and data to the
+            
+111
+
+    
+Congressional [block assignment file] shapefile; and
+            
+112
+
+    
+    (ii)  resubmit the corrected county map and data to the lieutenant governor and to the
+            
+113
+
+    
+Automated Geographic Reference Center for a new review under this Subsection (2).
+            
+114
+
+    
+    (3) (a)  Subject to the requirements of this Subsection (3), each county clerk shall
+            
+115
+
+    
+establish voting precincts and polling places within each Utah Congressional district according
+            
+116
+
+    
+to the procedures and requirements of Section 
+
+20A-5-303
+
+.
+            
+117
+
+    
+    (b)  Within five working days after approval of voting precincts and polling places by
+            
+118
+
+    
+the county legislative body as required by Section 
+
+20A-5-303
+
+, each county clerk shall submit a
+            
+119
+
+    
+voting precinct map identifying the boundaries of each voting precinct within the county to the
+            
+120
+
+    
+lieutenant governor and to the Automated Geographic Reference Center for review.
+
+            
+121
+
+
+    
+    (c)  Within 30 days after receipt of a map from a county clerk, the Automated
+            
+122
+
+    
+Geographic Reference Center shall:
+            
+123
+
+    
+    (i)  review the voting precinct map to evaluate if the voting precinct map accurately
+            
+124
+
+    
+reflects the boundaries of Utah's Congressional districts established by the Legislature in the
+            
+125
+
+    
+Congressional [block assignment file] shapefile;
+            
+126
+
+    
+    (ii)  determine whether the voting precinct map is correct or incorrect; and
+            
+127
+
+    
+    (iii)  communicate those findings to the lieutenant governor.
+            
+128
+
+    
+    (d)  The lieutenant governor shall either notify the county clerk that the voting precinct
+            
+129
+
+    
+map is correct or notify the county clerk that the map is incorrect.
+            
+130
+
+    
+    (e)  If the county clerk receives notice from the lieutenant governor that the voting
+            
+131
+
+    
+precinct map is incorrect, the county clerk shall:
+            
+132
+
+    
+    (i)  make the corrections necessary to conform the voting precinct map to the
+            
+133
+
+    
+Congressional [block assignment file] shapefile; and
+            
+134
+
+    
+    (ii)  resubmit the corrected voting precinct map to the lieutenant governor and to the
+            
+135
+
+    
+Automated Geographic Reference Center for a new review under this Subsection (3).
+            
+136
+
+    
+    Section 5.  
+Section  
+20A-13-103
+
+ is amended to read:
+            
+137
+
+    
+     20A-13-103.  Omissions from maps -- How resolved.
+            
+138
+
+    
+    (1)  If any area of the state is omitted from a Congressional district in the Congressional
+            
+139
+
+    
+[block assignment file] shapefile enacted by the Legislature, the county clerk of the affected
+            
+140
+
+    
+county, upon discovery of the omission, shall attach the area to the appropriate Congressional
+            
+141
+
+    
+district according to the requirements of Subsections (2) and (3).
+            
+142
+
+    
+    (2)  If the omitted area is surrounded by a single Congressional district, the county clerk
+            
+143
+
+    
+shall attach the area to that district.
+            
+144
+
+    
+    (3)  If the omitted area is contiguous to two or more Congressional districts, the county
+            
+145
+
+    
+clerk shall attach the area to the district that has the least population, as determined by the
+            
+146
+
+    
+[official census population figures and maps described in Subsection 
+
+20A-13-101.5
+
+(2)] Utah
+            
+147
+
+    
+Population Estimates Committee.
+            
+148
+
+    
+    (4) The county clerk shall certify in writing and file with the lieutenant governor any
+            
+149
+
+    
+attachment made under this section.
+            
+150
+
+    
+    Section 6.  
+Section  
+20A-13-104
+
+ is amended to read:
+            
+151
+
+    
+     20A-13-104.  Uncertain boundaries -- How resolved.
+
+            
+152
+
+
+    
+    (1)  As used in this section, "affected party" means:
+            
+153
+
+    
+    (a)  a representative whose Congressional district boundary is uncertain because the
+            
+154
+
+    
+boundary in the Congressional [block assignment file] shapefile used to establish the district
+            
+155
+
+    
+boundary has been removed, modified, or is unable to be identified or who is uncertain about
+            
+156
+
+    
+whether or not the representative or another person resides in a particular Congressional
+            
+157
+
+    
+district;
+            
+158
+
+    
+    (b)  a candidate for Congressional representative whose Congressional district boundary
+            
+159
+
+    
+is uncertain because the boundary in the Congressional [block assignment file] shapefile used
+            
+160
+
+    
+to establish the district boundary has been removed, modified, or is unable to be identified or
+            
+161
+
+    
+who is uncertain about whether or not the candidate or another person resides in a particular
+            
+162
+
+    
+Congressional district; or
+            
+163
+
+    
+    (c)  a person who is uncertain about which Congressional district contains the person's
+            
+164
+
+    
+residence because the boundary in the Congressional [block assignment file] shapefile used to
+            
+165
+
+    
+establish the district boundary has been removed, modified, or is unable to be identified.
+            
+166
+
+    
+    (2) (a)  An affected party may file a written request petitioning the lieutenant governor
+            
+167
+
+    
+to determine:
+            
+168
+
+    
+    (i)  the precise location of the Congressional district boundary;
+            
+169
+
+    
+    (ii)  the number of the Congressional district in which a person resides; or
+            
+170
+
+    
+    (iii)  both Subsections (2)(a)(i) and (ii).
+            
+171
+
+    
+    (b)  In order to make the determination required by Subsection (2)(a), the lieutenant
+            
+172
+
+    
+governor shall review the Congressional [block assignment file] shapefile and obtain and
+            
+173
+
+    
+review other relevant data such as aerial photographs, aerial maps, or other data about the area.
+            
+174
+
+    
+    (c)  Within five days of receipt of the request, the lieutenant governor shall review the
+            
+175
+
+    
+Congressional [block assignment file] shapefile, obtain and review any relevant data, and make
+            
+176
+
+    
+a determination.
+            
+177
+
+    
+    (d)  When the lieutenant governor determines the location of the Congressional district
+            
+178
+
+    
+boundary, the lieutenant governor shall:
+            
+179
+
+    
+    (i)  prepare a certification identifying the appropriate boundary and attaching a map, if
+            
+180
+
+    
+necessary; and
+            
+181
+
+    
+    (ii)  send a copy of the certification to:
+            
+182
+
+    
+    (A)  the affected party;
+
+            
+183
+
+
+    
+    (B)  the county clerk of the affected county; and
+            
+184
+
+    
+    (C)  the Automated Geographic Reference Center created under Section 
+
+63F-1-506
+
+.
+            
+185
+
+    
+    (e)  If the lieutenant governor determines the number of the Congressional district in
+            
+186
+
+    
+which a particular person resides, the lieutenant governor shall send a letter identifying that
+            
+187
+
+    
+district by number to:
+            
+188
+
+    
+    (i)  the person;
+            
+189
+
+    
+    (ii)  the affected party who filed the petition, if different than the person whose
+            
+190
+
+    
+Congressional district number was identified; and
+            
+191
+
+    
+    (iii)  the county clerk of the affected county.
+
+
+
+
+ Legislative Review Note
+    as of   2-22-13  7:00 PM
+
+ Office of Legislative Research and General Counsel
+[Bill Documents][Bills Directory]
+
+
+
+
+
+
+
+
+
+Who represents me?
+
+
+
+
+
+Remember my Legislators
+
+
+
+
+
+State Senate
+		350 North State, Suite 320
+		PO Box 145115
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1035
+		Fax: (801) 326-1475
+
+
+
+House of Representatives
+		350 North State, Suite 350
+		PO Box 145030
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1029
+		Fax: (801) 326-1544
+
+
+
+
+
+
+
+
+
+
+Home
+Mobile Site
+Site Map
+Calendar
+Code / Constitution
+House
+Senate
+
+Terms of Use/Privacy Policy
+
+ADA
+Utah.gov
+
+
+
+
+
+
+

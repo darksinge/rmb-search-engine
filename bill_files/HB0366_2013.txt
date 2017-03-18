@@ -1,0 +1,2403 @@
+Sponsors: []Modifications: http://le.utah.gov    (3)  "House shapefile" means the electronic shapefile that stores the boundary of each ofthe 75 Utah House districts.(4)  "Shapefile" means the digital vector storage format for storing geometric locationand associated attribute information.TheNotwithstanding(3)districtshapefileshapefileshapefile,shapefileTheshapefileshapefileandshapefileshapefile isshapefileshapefileUtah PopulationEstimates Committeeshapefileshapefileshapefileshapefile; and(ii)shapefile;(ii)(iii)Full text:
+
+
+
+Utah State Legislature
+
+
+
+
+
+
+
+
+
+
+
+
+Legislators
+
+By Session (1896-Current)
+Alphabetical (Historical)
+Find by Address/Map
+More
+
+
+Bills
+
+Bills/Bill Requests
+Passed Bills
+2017 Bills
+
+Keyword Search
+Reading Calendars
+Tracking Service
+More
+
+
+Committees
+
+All Committees
+Appropriations
+Commissions
+
+Independent Legislative Ethics Commission
+Interim
+Standing
+Subcommittees
+Task Forces
+Bills In Committees
+
+
+Utah Code / Constitution
+
+
+Title/Chapter/Section
+Keyword Search 
+
+Utah Constitution
+Laws of Utah 1851-ongoing
+Utah Territorial Laws 
+More
+
+
+Senate
+
+Main Page 
+About The Senate 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Extraordinary Sessions 
+Reading Calendars 
+Past Floor Debates 
+Senate Journals 
+
+
+House
+
+Main Page
+About the House 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Reading Calendars 
+Past Floor Debates 
+Journals 
+Conflict of Interest Forms 
+
+
+Legislative Guide 
+
+Legislative Guide
+Civic Programs
+GRAMA (Records Requests)
+
+
+Publications
+
+Search Publications
+Appropriations
+Audits
+Bagels & Briefings
+Briefing Papers
+Digest of Legislation
+Legislative Drafting Manual
+
+Journals
+
+Interim Highlights
+
+Legislative Rules
+GRAMA (Records Requests)
+Public Email
+State Organization Charts
+YouTube Channel
+Requests for Proposals and Legal Notices
+More
+
+
+Legislative Histories
+
+Legislative History Resources
+How to Research
+Bill Drafting/Research Files (1990-Ongoing)
+
+Working Bills (1896-1989)
+Interim Committee Histories (1990-Ongoing) 
+Journals
+Past House Floor Debates
+Past Senate Floor Debates
+More
+
+
+Staff Offices
+
+All Legislative Offices
+Auditor General
+Fiscal Analyst
+Printing
+Research and General Counsel
+Staff Awards
+Job Opportunities
+More
+
+
+Links of Interest
+
+Utah Administrative Rules
+Courts
+Utah State Capitol
+State of Utah
+Federal Legislation
+More
+
+
+
+
+
+
+ 
+
+Download Zipped Introduced WordPerfect HB0366.ZIP
+[Status][Bill Documents][Fiscal Note][Bills Directory]
+
+
+H.B. 366
+
+
+
+
+
+            
+1
+
+    
+ STATE HOUSE BOUNDARY AMENDMENTS
+
+
+
+            
+2
+
+    
+2013 GENERAL SESSION
+
+            
+3
+
+    
+STATE OF UTAH
+
+            
+4
+
+    
+
+
+ Chief Sponsor:  Brad L. Dee
+
+
+
+            
+5
+
+    
+
+
+
+Senate Sponsor: 
+
+
+
+
+
+
+  Ralph Okerlund
+
+
+
+
+
+            
+6
+
+    
+
+            
+7
+
+    
+ LONG TITLE
+            
+8
+
+    
+
+ Redistricting Boundary Information:
+            
+9
+
+    
+    The Utah State House district boundary information may be found at 
+http://le.utah.gov
+.
+            
+10
+
+    
+    Electronic file security code:  fed056ca002031e4f00a630239ec1cdd
+
+
+            
+11
+
+    
+ General Description:
+            
+12
+
+    
+    This bill, which includes this printed text and the electronic data affiliated with it,
+            
+13
+
+    
+modifies the boundary between two Utah State House districts to align with a county
+            
+14
+
+    
+boundary change and makes minor adjustments to Utah State House district boundaries.
+            
+15
+
+    
+ Highlighted Provisions:
+            
+16
+
+    
+    This bill:
+            
+17
+
+    
+    .    adopts the House district boundaries adjusted and approved by the lieutenant
+            
+18
+
+    
+governor and used in the November 2012 election, which reconcile United States
+            
+19
+
+    
+Census Bureau geographic data with state geographic data for:
+            
+20
+
+    
+        .    county boundaries;
+            
+21
+
+    
+        .    municipal boundaries; and
+            
+22
+
+    
+        .    school district boundaries;
+            
+23
+
+    
+    .    incorporates five small doughnut holes with the district that completely surrounds
+            
+24
+
+    
+the doughnut hole;
+            
+25
+
+    
+    .    corrects seven other discontiguous polygons;
+            
+26
+
+    
+    .    adjusts a section of the boundary between State House districts 58 and 68 to align
+            
+27
+
+    
+with a county boundary change between Millard and Juab counties;
+
+            
+28
+
+
+    
+    .    removes references to census blocks that are now incorporated in the shapefile; and
+            
+29
+
+    
+    .    establishes the House shapefile in the electronic file, which is part of this bill in
+            
+30
+
+    
+electronic form, as the legal boundaries of State House districts.
+            
+31
+
+    
+ Money Appropriated in this Bill:
+            
+32
+
+    
+    None
+            
+33
+
+    
+ Other Special Clauses:
+            
+34
+
+    
+    None
+            
+35
+
+    
+ Utah Code Sections Affected:
+            
+36
+
+    
+AMENDS:
+            
+37
+
+    
+     36-1-201.1, as enacted by Laws of Utah 2011, Third Special Session, Chapter 6
+            
+38
+
+    
+     36-1-201.5, as last amended by Laws of Utah 2012, Chapter 1
+            
+39
+
+    
+     36-1-202, as last amended by Laws of Utah 2012, Chapter 1
+            
+40
+
+    
+     36-1-202.2, as last amended by Laws of Utah 2012, Chapter 1
+            
+41
+
+    
+     36-1-203, as last amended by Laws of Utah 2011, Third Special Session, Chapter 6
+            
+42
+
+    
+     36-1-204, as last amended by Laws of Utah 2012, Chapter 1
+            
+43
+
+    
+
+            
+44
+
+    
+Be it enacted by the Legislature of the state of Utah:
+            
+45
+
+    
+    Section 1.  
+Section  
+36-1-201.1
+
+ is amended to read:
+            
+46
+
+    
+     36-1-201.1.  Definitions.
+            
+47
+
+    
+    As used in this part:
+            
+48
+
+    
+    (1)  "Census block" means any one of the 115, 406 individual geographic areas into
+            
+49
+
+    
+which the Bureau of the Census of the United States Department of Commerce has divided the
+            
+50
+
+    
+state of Utah, to each of which the Bureau of the Census has attached a discrete population
+            
+51
+
+    
+tabulation from the 2010 decennial census.
+            
+52
+
+    
+    (2)  "House block assignment file" means the electronic file that assigns each of Utah's
+            
+53
+
+    
+115, 406 census blocks to a particular Utah House district.
+            
+54
+
+    
+    (3)  "House shapefile" means the electronic shapefile that stores the boundary of each of
+            
+55
+
+    
+the 75 Utah House districts.
+            
+56
+
+    
+    (4)  "Shapefile" means the digital vector storage format for storing geometric location
+            
+57
+
+    
+and associated attribute information.
+            
+58
+
+    
+    Section 2.  
+Section  
+36-1-201.5
+
+ is amended to read:
+
+            
+59
+
+
+    
+     36-1-201.5.  Utah House of Representatives -- House district boundaries.
+            
+60
+
+    
+    (1)  As used in this section:
+            
+61
+
+    
+    (a)  "County boundary" means the county boundary's location in the database as of
+            
+62
+
+    
+January 1, 2010.
+            
+63
+
+    
+    (b)  "Database" means the State Geographic Information Database created in Section
+            
+64
+
+    
+
+63F-1-507
+
+.
+            
+65
+
+    
+    (c)  "Local school district boundary" means the local school district boundary's location
+            
+66
+
+    
+in the database as of January 1, 2010.
+            
+67
+
+    
+    (d)  "Municipal boundary" means the municipal boundary's location in the database as
+            
+68
+
+    
+of January 1, 2010.
+            
+69
+
+    
+    (2)  The Utah House of Representatives shall consist of 75 members, with one member
+            
+70
+
+    
+to be elected from each Utah House of Representative district.
+            
+71
+
+    
+    (3)  [Except as modified by Subsection (5), the] The Legislature adopts the official
+            
+72
+
+    
+census population figures and maps of the Bureau of the Census of the United States
+            
+73
+
+    
+Department of Commerce developed in connection with the taking of the 2010 national
+            
+74
+
+    
+decennial census as the official data for establishing House district boundaries.
+            
+75
+
+    
+    (4) (a)  [Except as modified by] Notwithstanding Subsection [(5)] (3), the Legislature
+            
+76
+
+    
+enacts the district numbers and boundaries of the House districts designated by the House
+            
+77
+
+    
+[block assignment file] shapefile that is the electronic component of the bill that enacts this
+            
+78
+
+    
+section.
+            
+79
+
+    
+    (b)  That House [block assignment file] shapefile, and the legislative boundaries
+            
+80
+
+    
+generated from that [block assignment file together with the modifications made by Subsection
+            
+81
+
+    
+(5),] shapefile, may be accessed via the Utah Legislature's website.
+            
+82
+
+    
+    [(5) (a)  The following census blocks from the 2010 Census are placed into House
+            
+83
+
+    
+District 1 and removed from House District 29: 490039608021025, 490039608021026, and
+            
+84
+
+    
+490039608021027.]
+            
+85
+
+    
+    [(b)  The following census blocks from the 2010 Census are placed into House District
+            
+86
+
+    
+1 and removed from House District 3: 490050003001047, 490050003001048,
+            
+87
+
+    
+490050003001049, and 490050003001050.]
+            
+88
+
+    
+    [(c)  The following census blocks from the 2010 Census are placed into House District
+            
+89
+
+    
+3 and removed from House District 1: 490050003001046, 490050003001056,
+
+            
+90
+
+
+    
+490050003001057, 490050003001058, 490050003001059, 490050003001061, and
+            
+91
+
+    
+490050003001063.]
+            
+92
+
+    
+    [(d)  The following census blocks from the 2010 Census are placed into House District
+            
+93
+
+    
+7 and removed from House District 8: 490572103042017 and 490572103042018.]
+            
+94
+
+    
+    [(e)  The following census blocks from the 2010 Census are placed into House District
+            
+95
+
+    
+11 and removed from House District 10: 490572105112040, 490572105112042,
+            
+96
+
+    
+490572105112043, 490572105123002, 490572109005003, 490572112011013,
+            
+97
+
+    
+490572112011014, 490572112011015, 490572112011016, 490572112011018,
+            
+98
+
+    
+490572112011023, 490572112011024, and 490572112012011.]
+            
+99
+
+    
+    [(f)  The following census blocks from the 2010 Census are placed into House District
+            
+100
+
+    
+11 and removed from House District 12: 490572105121012, 490572105121013,
+            
+101
+
+    
+490572105121014, and 490572107011001.]
+            
+102
+
+    
+    [(g)  The following census blocks from the 2010 Census are placed into House District
+            
+103
+
+    
+11 and removed from House District 16: 490111251032073, 490111251032074,
+            
+104
+
+    
+490111251032075, 490111252002084, 490111252002254, 490111252002256,
+            
+105
+
+    
+490111252002258, 490111252002259, 490111252002274, 490111252002275,
+            
+106
+
+    
+490111252002276, 490111252002277, 490111252002278, 490111252002288,
+            
+107
+
+    
+490111252002289, and 490111252002307.]
+            
+108
+
+    
+    [(h)  The following census blocks from the 2010 Census are placed into House District
+            
+109
+
+    
+13 and removed from House District 11: 490111252002104, 490111252002105,
+            
+110
+
+    
+490111252002106, 490111252002115, 490111252002116, 490111252002117,
+            
+111
+
+    
+490111252002118, 490111252002119, 490111252002120, 490111252002121,
+            
+112
+
+    
+490111252002186, 490111253011000, 490111253011001, 490111253011002,
+            
+113
+
+    
+490111253012000, 490111253012001, 490111253013000, 490111253013001,
+            
+114
+
+    
+490111253013032, 490111253014000, 490111253014001, 490111253014002, and
+            
+115
+
+    
+490111253014022.]
+            
+116
+
+    
+    [(i)  The following census blocks from the 2010 Census are placed into House District
+            
+117
+
+    
+17 and removed from House District 18: 490111251022075, 490111251022076,
+            
+118
+
+    
+490111261051020, 490111262032003, 490111262032013, and 490111262032014.]
+            
+119
+
+    
+    [(j)  The following census blocks from the 2010 Census are placed into House District
+            
+120
+
+    
+18 and removed from House District 17: 490111262022001, 490111262022003,
+
+            
+121
+
+
+    
+490111262022004, 490111262032011, and 490111262032044.]
+            
+122
+
+    
+    [(k)  The following census block from the 2010 Census is placed into House District 18
+            
+123
+
+    
+and removed from House District 19: 490111266002006.]
+            
+124
+
+    
+    [(l)  The following census block from the 2010 Census is placed into House District 19
+            
+125
+
+    
+and removed from House District 18: 490111265002014.]
+            
+126
+
+    
+    [(m)  The following census blocks from the 2010 Census are placed into House District
+            
+127
+
+    
+19 and removed from House District 20: 490111267001006, 490111267001008,
+            
+128
+
+    
+490111267002007, 490111267002023, 490111269016000, 490111269016001,
+            
+129
+
+    
+490111269016002, 490111269016008, 490111270043000, 490111270043001, and
+            
+130
+
+    
+490111270043010.]
+            
+131
+
+    
+    [(n)  The following census block from the 2010 Census is placed into House District 21
+            
+132
+
+    
+and removed from House District 68: 490451307012018.]
+            
+133
+
+    
+    [(o)  The following census block from the 2010 Census is placed into House District 24
+            
+134
+
+    
+and removed from House District 28: 490351148003023.]
+            
+135
+
+    
+    [(p)  The following census block from the 2010 Census is placed into House District 26
+            
+136
+
+    
+and removed from House District 31: 490351133051011.]
+            
+137
+
+    
+    [(q)  The following census blocks from the 2010 Census are placed into House District
+            
+138
+
+    
+27 and removed from House District 56: 490490002051025, 490490102172032,
+            
+139
+
+    
+490490102172033, and 490490102183020.]
+            
+140
+
+    
+    [(r)  The following census blocks from the 2010 Census are placed into House District
+            
+141
+
+    
+27 and removed from House District 6: 490351128201063, 490490102122001,
+            
+142
+
+    
+490490102122009, 490490102122010, 490490102122011, 490490102122097,
+            
+143
+
+    
+490490102122107, 490490102122108, 490490102122115, 490490102122117,
+            
+144
+
+    
+490490102122122, 490490102122123, 490490102122124, 490490102171057, and
+            
+145
+
+    
+490490102171059.]
+            
+146
+
+    
+    [(s)  The following census blocks from the 2010 Census are placed into House District
+            
+147
+
+    
+29 and removed from House District 1: 490039605002094, 490039605002100,
+            
+148
+
+    
+490039605002101, 490039605002102, and 490039605002103.]
+            
+149
+
+    
+    [(t)  The following census blocks from the 2010 Census are placed into House District
+            
+150
+
+    
+29 and removed from House District 8: 490572103024007 and 490572103041048.]
+            
+151
+
+    
+    [(u)  The following census block from the 2010 Census is placed into House District 33
+
+            
+152
+
+
+    
+and removed from House District 31: 490351135091002.]
+            
+153
+
+    
+    [(v)  The following census blocks from the 2010 Census are placed into House District
+            
+154
+
+    
+34 and removed from House District 43: 490351142001003 and 490351142001004.]
+            
+155
+
+    
+    [(w)  The following census blocks from the 2010 Census are placed into House District
+            
+156
+
+    
+48 and removed from House District 60: 490490014022000 and 490490014022001.]
+            
+157
+
+    
+    [(x)  The following census block from the 2010 Census is placed into House District 54
+            
+158
+
+    
+and removed from House District 53: 490439643061158.]
+            
+159
+
+    
+    [(y)  The following census blocks from the 2010 Census are placed into House District
+            
+160
+
+    
+56 and removed from House District 27: 490490102172007, 490490102172009,
+            
+161
+
+    
+490490102172023, 490490102172024, 490490102172025, 490490102172026,
+            
+162
+
+    
+490490102172027, 490490102172028, 490490102172029, 490490102172036,
+            
+163
+
+    
+490490102172038, 490490102172039, 490490102172066, and 490490102173014.]
+            
+164
+
+    
+    [(z)  The following census blocks from the 2010 Census are placed into House District
+            
+165
+
+    
+57 and removed from House District 27: 490490005052051, 490490005052052,
+            
+166
+
+    
+490490005052055, 490490005052057, 490490005052058, 490490005053017,
+            
+167
+
+    
+490490005053018, 490490005053022, 490490005053023, 490490005053024,
+            
+168
+
+    
+490490005053025, 490490005053026, 490490005053027, 490490005053028,
+            
+169
+
+    
+490490005053029, 490490005053030, 490490005053031, 490490005053032,
+            
+170
+
+    
+490490005053033, 490490005053034, 490490005053035, 490490005053036,
+            
+171
+
+    
+490490005053037, 490490005053038, 490490005053039, 490490005053040,
+            
+172
+
+    
+490490005053041, 490490005053042, 490490005053043, 490490005053044,
+            
+173
+
+    
+490490005053045, 490490005053046, 490490005053047, 490490005053048,
+            
+174
+
+    
+490490005053049, 490490005053050, 490490005053051, 490490005053052,
+            
+175
+
+    
+490490005053053, 490490005053054, 490490005053055, 490490005053056,
+            
+176
+
+    
+490490005053057, 490490005053058, 490490005053059, 490490005053060,
+            
+177
+
+    
+490490005053061, 490490005053062, 490490005053065, 490490005071018,
+            
+178
+
+    
+490490005071019, 490490005071020, 490490005071025, 490490005071026,
+            
+179
+
+    
+490490005071031, 490490005071032, 490490005071033, and 490490102101066.]
+            
+180
+
+    
+    [(aa)  The following census block from the 2010 Census is placed into House District
+            
+181
+
+    
+59 and removed from House District 61: 490490022011099.]
+            
+182
+
+    
+    [(bb)  The following census blocks from the 2010 Census are placed into House District
+
+            
+183
+
+
+    
+60 and removed from House District 48: 490490013001010, 490490013001012,
+            
+184
+
+    
+490490013001013, 490490013001014, 490490013001016, 490490013001017,
+            
+185
+
+    
+490490013001018, 490490013001020, 490490013001021, 490490014012012,
+            
+186
+
+    
+490490014012013, and 490490014012014.]
+            
+187
+
+    
+    [(cc)  The following census blocks from the 2010 Census are placed into House District
+            
+188
+
+    
+61 and removed from House District 64: 490490022073011, 490490022073012,
+            
+189
+
+    
+490490022073016, and 490490022073017.]
+            
+190
+
+    
+    [(dd)  The following census blocks from the 2010 Census are placed into House District
+            
+191
+
+    
+62 and removed from House District 75: 490532712001032 and 490532712001033.]
+            
+192
+
+    
+    [(ee)  The following census blocks from the 2010 Census are placed into House District
+            
+193
+
+    
+66 and removed from House District 64: 490490105032030, 490490105032033,
+            
+194
+
+    
+490490105032034, 490490105032035, 490490105032036, 490490105032037, and
+            
+195
+
+    
+490490105032062.]
+            
+196
+
+    
+    [(ff)  The following census blocks from the 2010 Census are placed into House District
+            
+197
+
+    
+67 and removed from House District 66: 490490104112001, 490490104112002,
+            
+198
+
+    
+490490104112006, 490490104112007, 490490104112015, 490490104113161,
+            
+199
+
+    
+490490104113166, 490490104113267, and 490490104113290.]
+            
+200
+
+    
+    [(gg)  The following census blocks from the 2010 Census are placed into House District
+            
+201
+
+    
+68 and removed from House District 21: 490451307032023, 490451307032030,
+            
+202
+
+    
+490451307033696, and 490451307033697.]
+            
+203
+
+    
+    [(hh)  The following census blocks from the 2010 Census are placed into House District
+            
+204
+
+    
+71 and removed from House District 62: 490532708011188, 490532708011193,
+            
+205
+
+    
+490532708011194, 490532708011208, 490532717021058, 490532717021059,
+            
+206
+
+    
+490532717021060, 490532717021061, 490532717021065, 490532717021066,
+            
+207
+
+    
+490532717021067, and 490532717021077.]
+            
+208
+
+    
+    [(ii)  The following census blocks from the 2010 Census are placed into House District
+            
+209
+
+    
+71 and removed from House District 72: 490211102001068, 490211102001069,
+            
+210
+
+    
+490211102001104, 490211102003259, 490211102003270, and 490211102003276.]
+            
+211
+
+    
+    [(jj)  The boundary between House District 7 and House District 8 is changed to follow
+            
+212
+
+    
+the Harrisville municipal boundary from the point where the municipal boundaries of Pleasant
+            
+213
+
+    
+View, North Ogden, and Harrisville intersect, generally south to the intersection of the
+
+            
+214
+
+
+    
+Harrisville municipal boundary with 2150 North Street in North Ogden east along 2150 North
+            
+215
+
+    
+Street to the existing House boundary.]
+            
+216
+
+    
+    [(kk)  The boundary between House District 10 and House District 11 is changed to
+            
+217
+
+    
+follow the South Ogden municipal boundary from the intersection of the established House
+            
+218
+
+    
+district boundary with Combe Road, along the South Ogden municipal boundary generally east,
+            
+219
+
+    
+south, west, and north to the intersection of the South Ogden municipal boundary with Wasatch
+            
+220
+
+    
+Drive.]
+            
+221
+
+    
+    [(ll)  The boundary between House District 11 and House District 16 is changed to
+            
+222
+
+    
+follow the South Weber municipal boundary from the northernmost intersection of the
+            
+223
+
+    
+established House district boundary for House District 16 with State Highway 89, along the
+            
+224
+
+    
+South Weber municipal boundary generally east then south and then west to the intersection of
+            
+225
+
+    
+the House district boundary with the Layton municipal boundary.]
+            
+226
+
+    
+    [(mm)  The boundary between House District 18 and House District 19 is changed to
+            
+227
+
+    
+follow Interstate 15 from the intersection of Pages Lane in Bountiful with Interstate 15, north to
+            
+228
+
+    
+the intersection of Interstate 15 with the Bountiful municipal boundary, then along the
+            
+229
+
+    
+Bountiful municipal boundary generally north, then east, then south to the intersection of the
+            
+230
+
+    
+Bountiful municipal boundary with Pages Lane.]
+            
+231
+
+    
+    [(nn)  The boundary between House District 53 and House District 54 is changed to
+            
+232
+
+    
+follow the Summit County Service Area Number 3 boundary from the intersection of the
+            
+233
+
+    
+House district boundary with Summit County Service Area Number 3, generally east, then
+            
+234
+
+    
+north, then east, then projecting the same service area boundary east to intersect with Interstate
+            
+235
+
+    
+80.]
+            
+236
+
+    
+    [(oo)  The boundary between House District 55 and House District 69 is changed to
+            
+237
+
+    
+follow the Roosevelt municipal boundary from the northernmost point where Roosevelt City
+            
+238
+
+    
+shares a boundary with Duchesne County, then along the Roosevelt municipal boundary
+            
+239
+
+    
+generally west, north, and south to the intersection of the Roosevelt municipal boundary with
+            
+240
+
+    
+2000 South Street.]
+            
+241
+
+    
+    [(pp)  The boundary between House District 57 and House District 59 is changed to
+            
+242
+
+    
+follow the Pleasant Grove municipal boundary from the southernmost intersection of the House
+            
+243
+
+    
+district boundary with State Street, generally east to the intersection of the Pleasant Grove
+            
+244
+
+    
+municipal boundary with 1500 East Street in Pleasant Grove.]
+
+            
+245
+
+
+    
+    [(qq)  The boundary between House District 63 and House District 64 is changed to
+            
+246
+
+    
+follow Summit Drive from the intersection of Summit Drive and 1420 East Street, generally
+            
+247
+
+    
+east, then north to the intersection of Summit Drive and Ridge Drive, then due east to the
+            
+248
+
+    
+United States Forest Service boundary, then north to the established House boundary.]
+            
+249
+
+    
+    [(rr)  The boundary between House District 71 and House District 72 is changed to
+            
+250
+
+    
+follow the Parowan municipal boundary so that all of Parowan City is in House District 71.]
+            
+251
+
+    
+    [(ss)  The boundary between House District 74 and House District 75 is changed to
+            
+252
+
+    
+follow Sunset Boulevard west from the westernmost intersection of Sunset Boulevard and the
+            
+253
+
+    
+established House boundary, west to the easternmost intersection of Sunset Boulevard with the
+            
+254
+
+    
+St. George municipal boundary, then along the St. George municipal boundary generally south,
+            
+255
+
+    
+then west, and then east to the intersection of the St. George municipal boundary with Indian
+            
+256
+
+    
+Hills Drive.]
+            
+257
+
+    
+    [(tt)  The following census block from the 2010 Census is placed into House District 5
+            
+258
+
+    
+and removed from House District 4: 490050003003118.]
+            
+259
+
+    
+    [(uu)  The boundary of House District 3 is changed to follow the Trenton City
+            
+260
+
+    
+municipal boundary so that all of Trenton City is within House District 3.]
+            
+261
+
+    
+    [(vv)  The boundary between House District 33 and House District 39 is changed to
+            
+262
+
+    
+follow the West Valley City municipal boundary from the intersection of the West Valley City
+            
+263
+
+    
+municipal boundary with 4000 West, west to the point where 4685 West in West Valley City,
+            
+264
+
+    
+projected south, intersects with the West Valley City municipal boundary.]
+            
+265
+
+    
+    [(ww)  The boundary between House District 30 and House District 39 is changed to
+            
+266
+
+    
+follow the West Valley City municipal boundary from the point where 4685 West in West
+            
+267
+
+    
+Valley City, projected south, intersects with the West Valley City municipal boundary, west to
+            
+268
+
+    
+the intersection of the municipal boundary with 4725 West.]
+            
+269
+
+    
+    [(xx)  The boundary between House District 30 and House District 38 is changed to
+            
+270
+
+    
+follow the West Valley City municipal boundary from the intersection of the municipal
+            
+271
+
+    
+boundary with 4725 West west to the intersection of the municipal boundary with 4800 West.]
+            
+272
+
+    
+    Section 3.  
+Section  
+36-1-202
+
+ is amended to read:
+            
+273
+
+    
+     36-1-202.  House districts -- Filing -- Legal boundaries.
+            
+274
+
+    
+    (1) (a)  The Legislature shall file a copy of the House [block assignment file] shapefile
+            
+275
+
+    
+enacted by the Legislature with the lieutenant governor's office.
+
+            
+276
+
+
+    
+    (b)  [Except as provided in Subsection 
+
+36-1-201.5
+
+(5) the] The legal boundaries of
+            
+277
+
+    
+House districts are contained in the House [block assignment file] shapefile on file with the
+            
+278
+
+    
+lieutenant governor's office.
+            
+279
+
+    
+    (2) (a)  The lieutenant governor shall:
+            
+280
+
+    
+    (i)  generate maps of each House district from the House [block assignment file and the
+            
+281
+
+    
+modifications to boundaries made in Subsection 
+
+36-1-201.5
+
+(5)] shapefile; and
+            
+282
+
+    
+    (ii)  ensure that those maps are available for viewing on the lieutenant governor's
+            
+283
+
+    
+website.
+            
+284
+
+    
+    (b)  If there is any inconsistency between the maps[,] and the House [block assignment
+            
+285
+
+    
+file, and the modifications made to boundaries in Subsection 
+
+36-1-201.5
+
+(5)] shapefile, the
+            
+286
+
+    
+House [block assignment file, as adjusted by the modifications to boundaries made in
+            
+287
+
+    
+Subsection 
+
+36-1-201.5
+
+(5), are] shapefile is controlling.
+            
+288
+
+    
+    Section 4.  
+Section  
+36-1-202.2
+
+ is amended to read:
+            
+289
+
+    
+     36-1-202.2.  County clerk, Automated Geographic Reference Center, and
+            
+290
+
+    
+ lieutenant governor responsibilities -- Maps and voting precinct boundaries.
+            
+291
+
+    
+    (1)  As used in this section, "redistricting boundary data" means the House [block
+            
+292
+
+    
+assignment file and any modifications made to the House district boundaries by Subsection
+            
+293
+
+    
+
+
+36-1-201.5
+
+(5)] shapefile.
+            
+294
+
+    
+    (2)  Each county clerk shall obtain a copy of the redistricting boundary data for the
+            
+295
+
+    
+clerk's county from the lieutenant governor's office.
+            
+296
+
+    
+    (3) (a)  A county clerk may create one or more county maps that identify the boundaries
+            
+297
+
+    
+of House districts as generated from the redistricting boundary data.
+            
+298
+
+    
+    (b)  Before publishing or distributing any map or data created by the county clerk that
+            
+299
+
+    
+identifies the boundaries of House districts within the county, the clerk shall submit the county
+            
+300
+
+    
+map and data to the lieutenant governor and to the Automated Geographic Reference Center for
+            
+301
+
+    
+review.
+            
+302
+
+    
+    (c)  Within 30 days after receipt of a county map and data from a county clerk, the
+            
+303
+
+    
+Automated Geographic Reference Center shall:
+            
+304
+
+    
+    (i)  review the county map and data to evaluate if the county map and data accurately
+            
+305
+
+    
+reflect the boundaries of House districts established by the Legislature in the redistricting
+            
+306
+
+    
+boundary data;
+
+            
+307
+
+
+    
+    (ii)  determine whether the county map and data are correct or incorrect; and
+            
+308
+
+    
+    (iii)  communicate those findings to the lieutenant governor.
+            
+309
+
+    
+    (d)  The lieutenant governor shall either notify the county clerk that the county map and
+            
+310
+
+    
+data are correct or notify the county clerk that the county map and data are incorrect.
+            
+311
+
+    
+    (e)  If the county clerk receives notice from the lieutenant governor that the county map
+            
+312
+
+    
+and data submitted are incorrect, the county clerk shall:
+            
+313
+
+    
+    (i)  make the corrections necessary to conform the county map and data to the
+            
+314
+
+    
+redistricting boundary data; and
+            
+315
+
+    
+    (ii)  resubmit the corrected county map and data to the lieutenant governor and to the
+            
+316
+
+    
+Automated Geographic Reference Center for a new review under this Subsection (3).
+            
+317
+
+    
+    (4) (a)  Subject to the requirements of this Subsection (4), each county clerk shall
+            
+318
+
+    
+establish voting precincts and polling places within each House district according to the
+            
+319
+
+    
+procedures and requirements of Section 
+
+20A-5-303
+
+.
+            
+320
+
+    
+    (b)  Within five working days after approval of voting precincts and polling places by
+            
+321
+
+    
+the county legislative body as required by Section 
+
+20A-5-303
+
+, each county clerk shall submit a
+            
+322
+
+    
+voting precinct map identifying the boundaries of each voting precinct within the county to the
+            
+323
+
+    
+lieutenant governor and to the Automated Geographic Reference Center for review.
+            
+324
+
+    
+    (c)  Within 30 days after receipt of a voting precinct map from a county clerk, the
+            
+325
+
+    
+Automated Geographic Reference Center shall:
+            
+326
+
+    
+    (i)  review the voting precinct map to evaluate if the county map accurately reflects the
+            
+327
+
+    
+boundaries of House districts established by the Legislature in the redistricting boundary data;
+            
+328
+
+    
+    (ii)  determine whether the voting precinct map is correct or incorrect; and
+            
+329
+
+    
+    (iii)  communicate those findings to the lieutenant governor.
+            
+330
+
+    
+    (d)  The lieutenant governor shall either notify the county clerk that the voting precinct
+            
+331
+
+    
+map is correct or notify the county clerk that the voting precinct map is incorrect.
+            
+332
+
+    
+    (e)  If the county clerk receives notice from the lieutenant governor that the voting
+            
+333
+
+    
+precinct map is incorrect, the county clerk shall:
+            
+334
+
+    
+    (i)  make the corrections necessary to conform the voting precinct map to the
+            
+335
+
+    
+redistricting boundary data; and
+            
+336
+
+    
+    (ii)  resubmit the corrected voting precinct map to the lieutenant governor and to the
+            
+337
+
+    
+Automated Geographic Reference Center for a new review under this Subsection (4).
+
+            
+338
+
+
+    
+    Section 5.  
+Section  
+36-1-203
+
+ is amended to read:
+            
+339
+
+    
+     36-1-203.  Omissions from maps -- How resolved.
+            
+340
+
+    
+    (1)  If any area of the state is omitted from a Utah House of Representatives district in
+            
+341
+
+    
+the House [block assignment file] shapefile enacted by the Legislature, the county clerk of the
+            
+342
+
+    
+affected county, upon discovery of the omission, shall attach the area to the appropriate House
+            
+343
+
+    
+district according to the requirements of Subsections (2) and (3).
+            
+344
+
+    
+    (2)  If the omitted area is surrounded by a single House district, the county clerk shall
+            
+345
+
+    
+attach the area to that district.
+            
+346
+
+    
+    (3)  If the omitted area is contiguous to two or more House districts, the county clerk
+            
+347
+
+    
+shall attach the area to the district that has the least population, as determined by the [official
+            
+348
+
+    
+census population figures and maps described in Subsection 
+
+36-1-201.5
+
+(2)] Utah Population
+            
+349
+
+    
+Estimates Committee.
+            
+350
+
+    
+    (4) The county clerk shall certify in writing and file with the lieutenant governor any
+            
+351
+
+    
+attachment made under this section.
+            
+352
+
+    
+    Section 6.  
+Section  
+36-1-204
+
+ is amended to read:
+            
+353
+
+    
+     36-1-204.  Uncertain boundaries -- How resolved.
+            
+354
+
+    
+    (1)  As used in this section:
+            
+355
+
+    
+    (a)  "Affected party" means:
+            
+356
+
+    
+    (i)  a representative whose Utah House of Representatives district boundary is uncertain
+            
+357
+
+    
+because the feature used to establish the district boundary in the House [block assignment file
+            
+358
+
+    
+or in any modifications to the boundary made in Subsection 
+
+36-1-201.5
+
+(5)] shapefile has been
+            
+359
+
+    
+removed, modified, or is unable to be identified or who is uncertain about whether or not the
+            
+360
+
+    
+representative or another person resides in a particular House district;
+            
+361
+
+    
+    (ii)  a candidate for representative whose House district boundary is uncertain because
+            
+362
+
+    
+the feature used to establish the district boundary in the House [block assignment file or in any
+            
+363
+
+    
+modifications to the boundary made in Subsection 
+
+36-1-201.5
+
+(5)] shapefile has been removed,
+            
+364
+
+    
+modified, or is unable to be identified or who is uncertain about whether or not the candidate or
+            
+365
+
+    
+another person resides in a particular House district; or
+            
+366
+
+    
+    (iii)  a person who is uncertain about which House district contains the person's
+            
+367
+
+    
+residence because the feature used to establish the district boundary in the House [block
+            
+368
+
+    
+assignment file or in any modifications to the boundary made in Subsection 
+
+36-1-201.5
+
+(5)]
+
+            
+369
+
+
+    
+shapefile has been removed, modified, or is unable to be identified.
+            
+370
+
+    
+    (b)  "Feature" means a geographic or other identifiable tangible or intangible object
+            
+371
+
+    
+such as a road or political subdivision boundary that is used to establish a House district
+            
+372
+
+    
+boundary.
+            
+373
+
+    
+    (2) (a)  An affected party may file a written request petitioning the lieutenant governor
+            
+374
+
+    
+to determine:
+            
+375
+
+    
+    (i)  the precise location of the House district boundary;
+            
+376
+
+    
+    (ii)  the number of the House district in which a person resides; or
+            
+377
+
+    
+    (iii)  both Subsections (2)(a)(i) and (ii).
+            
+378
+
+    
+    (b)  In order to make the determination required by Subsection (2)(a), the lieutenant
+            
+379
+
+    
+governor shall review:
+            
+380
+
+    
+    (i)  the House [block assignment file;] shapefile; and
+            
+381
+
+    
+    [(ii)  the modifications to the boundary made in Subsection 
+
+36-1-201.5
+
+(5); and]
+            
+382
+
+    
+    [(iii)] (ii)  other relevant data such as aerial photographs, aerial maps, or other data
+            
+383
+
+    
+about the area.
+            
+384
+
+    
+    (c)  Within five days of receipt of the request, the lieutenant governor shall:
+            
+385
+
+    
+    (i)  review the House [block assignment file;] shapefile;
+            
+386
+
+    
+    [(ii)  review the modifications to the boundary made in Subsection 
+
+36-1-201.5
+
+(5);]
+            
+387
+
+    
+    [(iii)] (ii)  review any relevant data; and
+            
+388
+
+    
+    [(iv)] (iii)  make a determination.
+            
+389
+
+    
+    (d)  When the lieutenant governor determines the  location of the House district
+            
+390
+
+    
+boundary, the lieutenant governor shall:
+            
+391
+
+    
+    (i)  prepare a certification identifying the appropriate House district boundary and
+            
+392
+
+    
+attaching a map, if necessary; and
+            
+393
+
+    
+    (ii)  send a copy of the certification to:
+            
+394
+
+    
+    (A)  the affected party;
+            
+395
+
+    
+    (B)  the county clerk of the affected county; and
+            
+396
+
+    
+    (C)  the Automated Geographic Reference Center created under Section 
+
+63F-1-506
+
+.
+            
+397
+
+    
+    (e)  If the lieutenant governor determines the number of the House district in which a
+            
+398
+
+    
+particular person resides, the lieutenant governor shall send a letter identifying that district by
+            
+399
+
+    
+number to:
+
+            
+400
+
+
+    
+    (i)  the person;
+            
+401
+
+    
+    (ii)  the affected party who filed the petition, if different than the person whose House
+            
+402
+
+    
+district number was identified; and
+            
+403
+
+    
+    (iii)  the county clerk of the affected county.
+
+
+
+
+ Legislative Review Note
+    as of   2-22-13  6:58 PM
+
+ Office of Legislative Research and General Counsel
+[Bill Documents][Bills Directory]
+
+
+
+
+
+
+
+
+
+Who represents me?
+
+
+
+
+
+Remember my Legislators
+
+
+
+
+
+State Senate
+		350 North State, Suite 320
+		PO Box 145115
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1035
+		Fax: (801) 326-1475
+
+
+
+House of Representatives
+		350 North State, Suite 350
+		PO Box 145030
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1029
+		Fax: (801) 326-1544
+
+
+
+
+
+
+
+
+
+
+Home
+Mobile Site
+Site Map
+Calendar
+Code / Constitution
+House
+Senate
+
+Terms of Use/Privacy Policy
+
+ADA
+Utah.gov
+
+
+
+
+
+
+

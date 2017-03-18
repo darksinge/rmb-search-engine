@@ -1,0 +1,954 @@
+Sponsors: []Modifications: (i)as defined in Section 
+
+53-10-403.5
+
+;(ii)  sale or use of body parts, Section 
+
+26-28-116
+
+;(iii)  failure to stop at an accident that resulted in death, Section 
+
+41-6a-401.5
+
+;(iv)  driving with any amount of a controlled substance in a person's body and causingserious bodily injury or death, Subsection 
+
+58-37-8
+
+(2)(g);(v)  enticing a minor over the Internet, Section 
+
+76-4-401
+
+;(vi)  propelling a substance or object at a correctional or peace officer, Section
+
+76-5-102.6
+
+;(vii)  aggravated human trafficking and aggravated human smuggling, Section
+
+76-5-310
+
+;(viii)  unlawful sexual activity with a minor, Section 
+
+76-5-401
+
+;(ix)  sexual abuse of a minor, Section 
+
+76-5-401.1
+
+;(x)  unlawful sexual contact with a 16 or 17-year old, Section 
+
+76-5-401.2
+
+;(xi)  sale of a child, Section 
+
+76-7-203
+
+;(xii)  aggravated escape, Subsection 
+
+76-8-309
+
+(2);(xiii)  assault on an elected official, Section 
+
+76-8-315
+
+;(xiv)  influencing, impeding, or retaliating against a judge or member of the Board ofPardons and Parole, Section 
+
+76-8-316
+
+;(xv)  advocating criminal syndicalism or sabotage, Section 
+
+76-8-902
+
+;(xvi)  assembly for advocating criminal syndicalism or sabotage, Section 
+
+76-8-903
+
+;(xvii)  sexual battery, Section 
+
+76-9-702.1
+
+;(xviii)  lewdness involving a child, Section 
+
+76-9-702.5
+
+;(xix)  abuse or desecration of a dead human body, Section 
+
+76-9-704
+
+;(xx)  manufacture, possession, sale, or use of a weapon of mass destruction, Section
+
+76-10-402
+
+;(xxi)  manufacture, possession, sale, or use of a hoax weapon of mass destruction,Section 
+
+76-10-403
+
+;(xxii)  possession of a concealed firearm in the commission of a violent felony,Subsection 
+
+76-10-504
+
+(4);(xxiii)  assault with the intent to commit bus hijacking with a dangerous weapon,Subsection 
+
+76-10-1504
+
+(3);(xxiv)  commercial obstruction, Subsection 
+
+76-10-2402
+
+(2);(xxv)  failure to register as a sex or kidnap offender, Section 
+
+77-41-107
+
+;(xxvi)  repeat violation of a protective order, Subsection 
+
+77-36-1.1
+
+(2)(c); or(xxvii)  violation of condition for release after arrest for domestic violence, Section
+
+77-36-2.5
+
+.Full text:
+
+
+
+Utah State Legislature
+
+
+
+
+
+
+
+
+
+
+
+
+Legislators
+
+By Session (1896-Current)
+Alphabetical (Historical)
+Find by Address/Map
+More
+
+
+Bills
+
+Bills/Bill Requests
+Passed Bills
+2017 Bills
+
+Keyword Search
+Reading Calendars
+Tracking Service
+More
+
+
+Committees
+
+All Committees
+Appropriations
+Commissions
+
+Independent Legislative Ethics Commission
+Interim
+Standing
+Subcommittees
+Task Forces
+Bills In Committees
+
+
+Utah Code / Constitution
+
+
+Title/Chapter/Section
+Keyword Search 
+
+Utah Constitution
+Laws of Utah 1851-ongoing
+Utah Territorial Laws 
+More
+
+
+Senate
+
+Main Page 
+About The Senate 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Extraordinary Sessions 
+Reading Calendars 
+Past Floor Debates 
+Senate Journals 
+
+
+House
+
+Main Page
+About the House 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Reading Calendars 
+Past Floor Debates 
+Journals 
+Conflict of Interest Forms 
+
+
+Legislative Guide 
+
+Legislative Guide
+Civic Programs
+GRAMA (Records Requests)
+
+
+Publications
+
+Search Publications
+Appropriations
+Audits
+Bagels & Briefings
+Briefing Papers
+Digest of Legislation
+Legislative Drafting Manual
+
+Journals
+
+Interim Highlights
+
+Legislative Rules
+GRAMA (Records Requests)
+Public Email
+State Organization Charts
+YouTube Channel
+Requests for Proposals and Legal Notices
+More
+
+
+Legislative Histories
+
+Legislative History Resources
+How to Research
+Bill Drafting/Research Files (1990-Ongoing)
+
+Working Bills (1896-1989)
+Interim Committee Histories (1990-Ongoing) 
+Journals
+Past House Floor Debates
+Past Senate Floor Debates
+More
+
+
+Staff Offices
+
+All Legislative Offices
+Auditor General
+Fiscal Analyst
+Printing
+Research and General Counsel
+Staff Awards
+Job Opportunities
+More
+
+
+Links of Interest
+
+Utah Administrative Rules
+Courts
+Utah State Capitol
+State of Utah
+Federal Legislation
+More
+
+
+
+
+
+
+ 
+
+Download Zipped Introduced WordPerfect HB0170.ZIP
+[Status][Bill Documents][Fiscal Note][Bills Directory]
+
+
+H.B. 170
+
+
+
+
+
+            
+1
+
+    
+ DEOXYRIBONUCLEIC ACID COLLECTION AND
+
+            
+2
+
+    
+ RETENTION AMENDMENTS
+
+
+
+            
+3
+
+    
+2013 GENERAL SESSION
+
+            
+4
+
+    
+STATE OF UTAH
+
+            
+5
+
+    
+
+
+ Chief Sponsor:  Steve Eliason
+
+
+
+            
+6
+
+    
+
+
+
+Senate Sponsor: 
+
+
+
+
+
+
+  Todd Weiler
+
+
+
+
+
+            
+7
+
+    
+
+            
+8
+
+    
+ LONG TITLE
+            
+9
+
+    
+ General Description:
+            
+10
+
+    
+    This bill modifies the Public Safety Code regarding the collection of DNA from
+            
+11
+
+    
+offenders.
+            
+12
+
+    
+ Highlighted Provisions:
+            
+13
+
+    
+    This bill:
+            
+14
+
+    
+    .    adds specified felony offenses to the list of felonies for which the state collects
+            
+15
+
+    
+DNA from an offender at the time of booking.
+            
+16
+
+    
+ Money Appropriated in this Bill:
+            
+17
+
+    
+    None
+            
+18
+
+    
+ Other Special Clauses:
+            
+19
+
+    
+    None
+            
+20
+
+    
+ Utah Code Sections Affected:
+            
+21
+
+    
+AMENDS:
+            
+22
+
+    
+     53-10-403, as last amended by Laws of Utah 2010, Chapter 405
+            
+23
+
+    
+
+            
+24
+
+    
+Be it enacted by the Legislature of the state of Utah:
+            
+25
+
+    
+    Section 1.  
+Section  
+53-10-403
+
+ is amended to read:
+            
+26
+
+    
+     53-10-403.  DNA specimen analysis -- Application to offenders, including minors.
+            
+27
+
+    
+    (1)  Sections 
+
+53-10-404
+
+, 
+
+53-10-404.5
+
+, 
+
+53-10-405
+
+, and 
+
+53-10-406
+
+ apply to any person
+
+            
+28
+
+
+    
+who:
+            
+29
+
+    
+    (a)  has pled guilty to or has been convicted of any of the offenses under Subsection
+            
+30
+
+    
+(2)(a) or (b) on or after July 1, 2002;
+            
+31
+
+    
+    (b)  has pled guilty to or has been convicted by any other state or by the United States
+            
+32
+
+    
+government of an offense which if committed in this state would be punishable as one or more
+            
+33
+
+    
+of the offenses listed in Subsection (2)(a) or (b) on or after July 1, 2003;
+            
+34
+
+    
+    (c)  has been booked on or after January 1, 2011, for any offense under Subsection
+            
+35
+
+    
+(2)(c); or
+            
+36
+
+    
+    (d)  is a minor under Subsection (3).
+            
+37
+
+    
+    (2)  Offenses referred to in Subsection (1) are:
+            
+38
+
+    
+    (a)  any felony or class A misdemeanor under the Utah Code;
+            
+39
+
+    
+    (b)  any offense under Subsection (2)(a):
+            
+40
+
+    
+    (i)  for which the court enters a judgment for conviction to a lower degree of offense
+            
+41
+
+    
+under Section 
+
+76-3-402
+
+; or
+            
+42
+
+    
+    (ii)  regarding which the court allows the defendant to enter a plea in abeyance as
+            
+43
+
+    
+defined in Section 
+
+77-2a-1
+
+; or
+            
+44
+
+    
+    (c) (i)  any violent felony[.] as defined in Section 
+
+53-10-403.5
+
+;
+            
+45
+
+    
+    (ii)  sale or use of body parts, Section 
+
+26-28-116
+
+;
+            
+46
+
+    
+    (iii)  failure to stop at an accident that resulted in death, Section 
+
+41-6a-401.5
+
+;
+            
+47
+
+    
+    (iv)  driving with any amount of a controlled substance in a person's body and causing
+            
+48
+
+    
+serious bodily injury or death, Subsection 
+
+58-37-8
+
+(2)(g);
+            
+49
+
+    
+    (v)  enticing a minor over the Internet, Section 
+
+76-4-401
+
+;
+            
+50
+
+    
+    (vi)  propelling a substance or object at a correctional or peace officer, Section
+            
+51
+
+    
+
+
+76-5-102.6
+
+;
+            
+52
+
+    
+    (vii)  aggravated human trafficking and aggravated human smuggling, Section
+            
+53
+
+    
+
+
+76-5-310
+
+;
+            
+54
+
+    
+    (viii)  unlawful sexual activity with a minor, Section 
+
+76-5-401
+
+;
+            
+55
+
+    
+    (ix)  sexual abuse of a minor, Section 
+
+76-5-401.1
+
+;
+            
+56
+
+    
+    (x)  unlawful sexual contact with a 16 or 17-year old, Section 
+
+76-5-401.2
+
+;
+            
+57
+
+    
+    (xi)  sale of a child, Section 
+
+76-7-203
+
+;
+            
+58
+
+    
+    (xii)  aggravated escape, Subsection 
+
+76-8-309
+
+(2);
+
+            
+59
+
+
+    
+    (xiii)  assault on an elected official, Section 
+
+76-8-315
+
+;
+            
+60
+
+    
+    (xiv)  influencing, impeding, or retaliating against a judge or member of the Board of
+            
+61
+
+    
+Pardons and Parole, Section 
+
+76-8-316
+
+;
+            
+62
+
+    
+    (xv)  advocating criminal syndicalism or sabotage, Section 
+
+76-8-902
+
+;
+            
+63
+
+    
+    (xvi)  assembly for advocating criminal syndicalism or sabotage, Section 
+
+76-8-903
+
+;
+            
+64
+
+    
+    (xvii)  sexual battery, Section 
+
+76-9-702.1
+
+;
+            
+65
+
+    
+    (xviii)  lewdness involving a child, Section 
+
+76-9-702.5
+
+;
+            
+66
+
+    
+    (xix)  abuse or desecration of a dead human body, Section 
+
+76-9-704
+
+;
+            
+67
+
+    
+    (xx)  manufacture, possession, sale, or use of a weapon of mass destruction, Section
+            
+68
+
+    
+
+
+76-10-402
+
+;
+            
+69
+
+    
+    (xxi)  manufacture, possession, sale, or use of a hoax weapon of mass destruction,
+            
+70
+
+    
+Section 
+
+76-10-403
+
+;
+            
+71
+
+    
+    (xxii)  possession of a concealed firearm in the commission of a violent felony,
+            
+72
+
+    
+Subsection 
+
+76-10-504
+
+(4);
+            
+73
+
+    
+    (xxiii)  assault with the intent to commit bus hijacking with a dangerous weapon,
+            
+74
+
+    
+Subsection 
+
+76-10-1504
+
+(3);
+            
+75
+
+    
+    (xxiv)  commercial obstruction, Subsection 
+
+76-10-2402
+
+(2);
+            
+76
+
+    
+    (xxv)  failure to register as a sex or kidnap offender, Section 
+
+77-41-107
+
+;
+            
+77
+
+    
+    (xxvi)  repeat violation of a protective order, Subsection 
+
+77-36-1.1
+
+(2)(c); or
+            
+78
+
+    
+    (xxvii)  violation of condition for release after arrest for domestic violence, Section
+            
+79
+
+    
+
+
+77-36-2.5
+
+.
+            
+80
+
+    
+    (3)  A minor under Subsection (1) is a minor 14 years of age or older whom a Utah
+            
+81
+
+    
+court has adjudicated to be within the jurisdiction of the juvenile court due to the commission
+            
+82
+
+    
+of any offense described in Subsection (2), and who is:
+            
+83
+
+    
+    (a)  within the jurisdiction of the juvenile court on or after July 1, 2002 for an offense
+            
+84
+
+    
+under Subsection (2); or
+            
+85
+
+    
+    (b)  in the legal custody of the Division of Juvenile Justice Services on or after July 1,
+            
+86
+
+    
+2002 for an offense under Subsection (2).
+
+
+
+
+
+ Legislative Review Note
+    as of   3-1-13  9:31 AM
+
+ Office of Legislative Research and General Counsel
+[Bill Documents][Bills Directory]
+
+
+
+
+
+
+
+
+
+Who represents me?
+
+
+
+
+
+Remember my Legislators
+
+
+
+
+
+State Senate
+		350 North State, Suite 320
+		PO Box 145115
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1035
+		Fax: (801) 326-1475
+
+
+
+House of Representatives
+		350 North State, Suite 350
+		PO Box 145030
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1029
+		Fax: (801) 326-1544
+
+
+
+
+
+
+
+
+
+
+Home
+Mobile Site
+Site Map
+Calendar
+Code / Constitution
+House
+Senate
+
+Terms of Use/Privacy Policy
+
+ADA
+Utah.gov
+
+
+
+
+
+
+

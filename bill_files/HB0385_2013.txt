@@ -1,0 +1,1083 @@
+Sponsors: []Modifications: (1)  Until a beneficiary under a trust deed or the beneficiary's agent provides a trustee ofthe trust deed written instructions directing the trustee to exercise powers under this chapter,the trustee has no duty or obligation to the beneficiary or to the agent of a beneficiary.(2)(3)aaaaaa(3)a(2)aSubsection (2)(c) or (d).(4)(3)(5)(5)A fee(5)(a) includes(5)(5)a fee(6)(7)(5)(6)(7)(5) or (6), the(7)(7)AAof trustee(5) (a)  A trustee of a trust deed may, in accordance with this Subsection (5), resign astrustee by filing for record in the office of the recorder of each county in which the trustproperty is located, a resignation of trustee.(b)  A trustee's resignation under this Subsection (5) takes effect upon the recording of aresignation of trustee.(c)  A resignation of trustee shall be in substantially the following form:"Resignation of Trustee(Insert name and address of trustee) hereby resigns as trustee under the trust deedexecuted by (insert name of trustor) as trustor, in which (insert name of the beneficiary) isnamed beneficiary and (insert name of trustee) as trustee, and filed for record (insert the month,day, and year the trust deed was recorded), and recorded in Book ___, Page ___, Records of______________ County, (or with recorder's entry no.____, ______________ County), Utah.(Insert legal description)Signature ________________________(Certificate of acknowledgment)"(d) (i)  Within three days after the day on which a trustee resigns under this Subsection(5), the trustee shall deliver written notice of the trustee's resignation to each party in any legalaction pending against the trustee that is related to or arises from the trustee's performance of aduty of a trustee.(ii)  Except as provided in Subsection (5)(d)(iv), within 10 days after the day on whicha party receives a notice described in Subsection (5)(d)(i), the party may move the court tosubstitute the beneficiary of the trust deed as defendant in the action in the place of the trusteeuntil a successor trustee is appointed.  When a successor trustee is appointed, the successortrustee shall be substituted as defendant in place of the beneficiary.(iii)  Except as provided in Subsection (5)(d)(iv), if, after the expiration of the timedescribed in Subsection (5)(d)(ii), a party does not move the court to substitute the beneficiaryor the successor trustee in place of the trustee as defendant, the court shall dismiss all claimsagainst the trustee.(iv)  Subsections (5)(d)(ii) and (5)(d)(iii) do not apply to a cause of action against atrustee that alleges intentional misconduct.Full text:
+
+
+
+Utah State Legislature
+
+
+
+
+
+
+
+
+
+
+
+
+Legislators
+
+By Session (1896-Current)
+Alphabetical (Historical)
+Find by Address/Map
+More
+
+
+Bills
+
+Bills/Bill Requests
+Passed Bills
+2017 Bills
+
+Keyword Search
+Reading Calendars
+Tracking Service
+More
+
+
+Committees
+
+All Committees
+Appropriations
+Commissions
+
+Independent Legislative Ethics Commission
+Interim
+Standing
+Subcommittees
+Task Forces
+Bills In Committees
+
+
+Utah Code / Constitution
+
+
+Title/Chapter/Section
+Keyword Search 
+
+Utah Constitution
+Laws of Utah 1851-ongoing
+Utah Territorial Laws 
+More
+
+
+Senate
+
+Main Page 
+About The Senate 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Extraordinary Sessions 
+Reading Calendars 
+Past Floor Debates 
+Senate Journals 
+
+
+House
+
+Main Page
+About the House 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Reading Calendars 
+Past Floor Debates 
+Journals 
+Conflict of Interest Forms 
+
+
+Legislative Guide 
+
+Legislative Guide
+Civic Programs
+GRAMA (Records Requests)
+
+
+Publications
+
+Search Publications
+Appropriations
+Audits
+Bagels & Briefings
+Briefing Papers
+Digest of Legislation
+Legislative Drafting Manual
+
+Journals
+
+Interim Highlights
+
+Legislative Rules
+GRAMA (Records Requests)
+Public Email
+State Organization Charts
+YouTube Channel
+Requests for Proposals and Legal Notices
+More
+
+
+Legislative Histories
+
+Legislative History Resources
+How to Research
+Bill Drafting/Research Files (1990-Ongoing)
+
+Working Bills (1896-1989)
+Interim Committee Histories (1990-Ongoing) 
+Journals
+Past House Floor Debates
+Past Senate Floor Debates
+More
+
+
+Staff Offices
+
+All Legislative Offices
+Auditor General
+Fiscal Analyst
+Printing
+Research and General Counsel
+Staff Awards
+Job Opportunities
+More
+
+
+Links of Interest
+
+Utah Administrative Rules
+Courts
+Utah State Capitol
+State of Utah
+Federal Legislation
+More
+
+
+
+
+
+
+ 
+
+Download Zipped Introduced WordPerfect HB0385.ZIP
+[Status][Bill Documents][Fiscal Note][Bills Directory]
+
+
+H.B. 385
+
+
+
+
+
+            
+1
+
+    
+ DUTIES AND WITHDRAWAL OF TRUSTEE
+
+
+
+            
+2
+
+    
+2013 GENERAL SESSION
+
+            
+3
+
+    
+STATE OF UTAH
+
+            
+4
+
+    
+
+
+ Chief Sponsor: V. Lowry Snow
+
+
+
+            
+5
+
+    
+
+
+
+Senate Sponsor: 
+
+
+
+
+
+
+____________
+
+
+
+
+
+            
+6
+
+    
+
+            
+7
+
+    
+ LONG TITLE
+            
+8
+
+    
+ General Description:
+            
+9
+
+    
+    This bill modifies provisions relating to a trustee under a trust deed.
+            
+10
+
+    
+ Highlighted Provisions:
+            
+11
+
+    
+    This bill:
+            
+12
+
+    
+    .    provides that a trustee under a trust deed has no duty to a beneficiary until given
+            
+13
+
+    
+written instruction to exercise powers;
+            
+14
+
+    
+    .    authorizes and provides a procedure for a trustee to resign as trustee; and
+            
+15
+
+    
+    .    makes technical changes.
+            
+16
+
+    
+ Money Appropriated in this Bill:
+            
+17
+
+    
+    None
+            
+18
+
+    
+ Other Special Clauses:
+            
+19
+
+    
+    None
+            
+20
+
+    
+ Utah Code Sections Affected:
+            
+21
+
+    
+AMENDS:
+            
+22
+
+    
+     57-1-21.5, as last amended by Laws of Utah 2008, Chapter 250
+            
+23
+
+    
+     57-1-22, as last amended by Laws of Utah 2011, Chapter 228
+            
+24
+
+    
+
+            
+25
+
+    
+Be it enacted by the Legislature of the state of Utah:
+            
+26
+
+    
+    Section 1.  
+Section  
+57-1-21.5
+
+ is amended to read:
+            
+27
+
+    
+     57-1-21.5.  Trustees of trust deeds -- Duties -- Prohibited conduct -- Penalties.
+
+            
+28
+
+
+    
+    (1)  Until a beneficiary under a trust deed or the beneficiary's agent provides a trustee of
+            
+29
+
+    
+the trust deed written instructions directing the trustee to exercise powers under this chapter,
+            
+30
+
+    
+the trustee has no duty or obligation to the beneficiary or to the agent of a beneficiary.
+            
+31
+
+    
+    [(1)] (2)  Except as provided in Subsection [(2)] (3), the following duties of [the] a
+            
+32
+
+    
+trustee may not be delegated:
+            
+33
+
+    
+    (a)  [the] a preparation and execution of:
+            
+34
+
+    
+    (i)  [the] a notice of default and election to sell;
+            
+35
+
+    
+    (ii)  [the] a cancellation of notice of default and election to sell;
+            
+36
+
+    
+    (iii)  [the] a notice of sale; and
+            
+37
+
+    
+    (iv)  [the] a trustee's deed;
+            
+38
+
+    
+    (b)  the notification of foreclosure through publication, posting, and certified or
+            
+39
+
+    
+registered mail;
+            
+40
+
+    
+    (c)  the receiving and responding to requests for reinstatement or payoff requirements;
+            
+41
+
+    
+and
+            
+42
+
+    
+    (d)  the handling of reinstatement or payoff funds.
+            
+43
+
+    
+    [(2)] (3)  Nothing in this section is intended to prevent:
+            
+44
+
+    
+    (a)  [the] a trustee from using clerical or office staff:
+            
+45
+
+    
+    (i)  that is under the trustee's direct and immediate supervision; and
+            
+46
+
+    
+    (ii)  to assist in the duties described in Subsection [(1)] (2);
+            
+47
+
+    
+    (b)  [the] a trustee from using the services of others for publication,  posting, 
+            
+48
+
+    
+marketing, or advertising the sale; or
+            
+49
+
+    
+    (c)  a beneficiary of a trust deed or the servicing agent of the beneficiary from directly
+            
+50
+
+    
+performing the functions described in[:] Subsection (2)(c) or (d).
+            
+51
+
+    
+    [(i)  Subsection (1)(c); or]
+            
+52
+
+    
+    [(ii)  Subsection (1)(d).]
+            
+53
+
+    
+    [(3)] (4)  The amendments in Laws of Utah 2002, Chapter 209, to Subsection [(2)] (3)
+            
+54
+
+    
+do not apply to a foreclosure if the notice of default related to the foreclosure was filed before
+            
+55
+
+    
+May 6, 2002.
+            
+56
+
+    
+    [(4)] (5) (a)  Except as provided in Subsection [(4)] (5)(c), a trustee may not solicit or
+            
+57
+
+    
+receive any fee for referring business to a third party.
+            
+58
+
+    
+    (b)  [Fees] A fee prohibited under Subsection [(4)(a) include] (5)(a) includes:
+
+            
+59
+
+
+    
+    (i)  a commission;
+            
+60
+
+    
+    (ii)  a referral based fee, including a fee for the referral of:
+            
+61
+
+    
+    (A)  title work;
+            
+62
+
+    
+    (B)  posting services; or
+            
+63
+
+    
+    (C)  publishing services; or
+            
+64
+
+    
+    (iii)  a fee similar to a fee described in Subsection [(4)] (5)(b)(i) or (ii).
+            
+65
+
+    
+    (c)  Subsection [(4)] (5)(a) does not apply to:
+            
+66
+
+    
+    (i)  [fees] a fee received by a trustee for the trustee acting as co-legal counsel, if the
+            
+67
+
+    
+trustee is otherwise permitted by law to receive fees as co-legal counsel; or
+            
+68
+
+    
+    (ii)  a nonpreferred participation in net profits based upon an ownership interest or
+            
+69
+
+    
+franchise relationship that is not otherwise prohibited by law.
+            
+70
+
+    
+    [(5)] (6)  A trustee may not require the following to pay any costs that exceed the actual
+            
+71
+
+    
+costs incurred by the trustee:
+            
+72
+
+    
+    (a)  a trustor reinstating or paying off a loan; or
+            
+73
+
+    
+    (b)  a beneficiary acquiring property through foreclosure.
+            
+74
+
+    
+    [(6)] (7) (a)  A person that violates Subsection [(4)] (5) or [(5)] (6) is guilty of a class B
+            
+75
+
+    
+misdemeanor.
+            
+76
+
+    
+    (b)  In addition to a person's liability under Subsection [(6)] (7)(a), if a person violates
+            
+77
+
+    
+Subsection [(4) or (5), that] (5) or (6), the person is liable to the trustor for an amount equal to
+            
+78
+
+    
+the greater of:
+            
+79
+
+    
+    (i)  the actual damages of the trustor as a result of the violation; or
+            
+80
+
+    
+    (ii)  $1,000.
+            
+81
+
+    
+    (c)  In an action brought under Subsection [(6)] (7)(b), the party that does not prevail in
+            
+82
+
+    
+the action that is brought under Subsection [(6)] (7)(b) shall pay the attorney fees of the
+            
+83
+
+    
+prevailing party.
+            
+84
+
+    
+    Section 2.  
+Section  
+57-1-22
+
+ is amended to read:
+            
+85
+
+    
+     57-1-22.  Successor trustees -- Appointment by beneficiary -- Effect -- Substitution
+            
+86
+
+    
+ of trustee -- Recording -- Form.
+            
+87
+
+    
+    (1) (a)  [The] A beneficiary may appoint a successor trustee at any time by filing for
+            
+88
+
+    
+record in the office of the county recorder of each county in which the trust property or some
+            
+89
+
+    
+part of the trust property is situated, a substitution of trustee.
+
+            
+90
+
+
+    
+    (b)  The new trustee shall succeed to all the power, duties, authority, and title of the
+            
+91
+
+    
+trustee named in the deed of trust and of any successor trustee.
+            
+92
+
+    
+    (c)  The beneficiary may, by express provision in the substitution of trustee, ratify and
+            
+93
+
+    
+confirm action taken on the beneficiary's behalf by the new trustee prior to the recording of the
+            
+94
+
+    
+substitution of trustee.
+            
+95
+
+    
+    (2)  [The] A substitution of trustee shall:
+            
+96
+
+    
+    (a)  identify the trust deed by stating:
+            
+97
+
+    
+    (i)  the names of the original parties to the trust deed;
+            
+98
+
+    
+    (ii)  the date of recordation; and
+            
+99
+
+    
+    (iii) (A)  the book and page where the trust deed is recorded; or
+            
+100
+
+    
+    (B)  the entry number;
+            
+101
+
+    
+    (b)  include the legal description of the trust property;
+            
+102
+
+    
+    (c)  state the name and address of the new trustee; and
+            
+103
+
+    
+    (d)  be executed and acknowledged by all of the beneficiaries under the trust deed or
+            
+104
+
+    
+their successors in interest.
+            
+105
+
+    
+    (3) (a)  If not previously recorded at the time of recording a notice of default, the
+            
+106
+
+    
+successor trustee shall file for record, in the office of the county recorder of each county in
+            
+107
+
+    
+which the trust property or some part of it is situated, the substitution of trustee.
+            
+108
+
+    
+    (b)  A copy of the substitution of trustee shall be sent in the manner provided in
+            
+109
+
+    
+Subsection 
+
+57-1-26
+
+(2) to any:
+            
+110
+
+    
+    (i)  person who requests a copy of any notice of default or notice of sale under
+            
+111
+
+    
+Subsection 
+
+57-1-26
+
+(1)(a); and
+            
+112
+
+    
+    (ii)  person who is a party to the trust deed to whom a copy of a notice of default would
+            
+113
+
+    
+be required to be mailed by Subsection 
+
+57-1-26
+
+(3).
+            
+114
+
+    
+    (4)  A substitution of trustee shall be in substantially the following form:
+            
+115
+
+    
+Substitution of Trustee
+
+            
+116
+
+    
+(insert name and address of new trustee)
+
+            
+117
+
+    
+        is hereby appointed successor trustee under the trust deed executed by ____ as
+            
+118
+
+    
+trustor, in which ____ is named beneficiary and ____ as trustee, and filed for record
+            
+119
+
+    
+__________(month\day\year), and recorded in Book ____, Page ____, Records of ____
+            
+120
+
+    
+County, (or filed for record __________(month\day\year), with recorder's entry No. ____, ____
+
+            
+121
+
+
+    
+County), Utah.
+            
+122
+
+    
+(Insert legal description)
+
+            
+123
+
+    
+                               
+            
+124
+
+    
+Signature_____________________________
+            
+125
+
+    
+(Certificate of Acknowledgment)
+
+            
+126
+
+    
+    (5) (a)  A trustee of a trust deed may, in accordance with this Subsection (5), resign as
+            
+127
+
+    
+trustee by filing for record in the office of the recorder of each county in which the trust
+            
+128
+
+    
+property is located, a resignation of trustee.
+            
+129
+
+    
+    (b)  A trustee's resignation under this Subsection (5) takes effect upon the recording of a
+            
+130
+
+    
+resignation of trustee.
+            
+131
+
+    
+    (c)  A resignation of trustee shall be in substantially the following form:
+            
+132
+
+    
+    "Resignation of Trustee
+            
+133
+
+    
+    (Insert name and address of trustee) hereby resigns as trustee under the trust deed
+            
+134
+
+    
+executed by (insert name of trustor) as trustor, in which (insert name of the beneficiary) is
+            
+135
+
+    
+named beneficiary and (insert name of trustee) as trustee, and filed for record (insert the month,
+            
+136
+
+    
+day, and year the trust deed was recorded), and recorded in Book ___, Page ___, Records of
+            
+137
+
+    
+______________ County, (or with recorder's entry no.____, ______________ County), Utah.
+            
+138
+
+    
+(Insert legal description)
+            
+139
+
+    
+Signature ________________________
+            
+140
+
+    
+(Certificate of acknowledgment)"
+            
+141
+
+    
+    (d) (i)  Within three days after the day on which a trustee resigns under this Subsection
+            
+142
+
+    
+(5), the trustee shall deliver written notice of the trustee's resignation to each party in any legal
+            
+143
+
+    
+action pending against the trustee that is related to or arises from the trustee's performance of a
+            
+144
+
+    
+duty of a trustee.
+            
+145
+
+    
+    (ii)  Except as provided in Subsection (5)(d)(iv), within 10 days after the day on which
+            
+146
+
+    
+a party receives a notice described in Subsection (5)(d)(i), the party may move the court to
+            
+147
+
+    
+substitute the beneficiary of the trust deed as defendant in the action in the place of the trustee
+            
+148
+
+    
+until a successor trustee is appointed.  When a successor trustee is appointed, the successor
+            
+149
+
+    
+trustee shall be substituted as defendant in place of the beneficiary.
+            
+150
+
+    
+    (iii)  Except as provided in Subsection (5)(d)(iv), if, after the expiration of the time
+            
+151
+
+    
+described in Subsection (5)(d)(ii), a party does not move the court to substitute the beneficiary
+
+            
+152
+
+
+    
+or the successor trustee in place of the trustee as defendant, the court shall dismiss all claims
+            
+153
+
+    
+against the trustee.
+            
+154
+
+    
+    (iv)  Subsections (5)(d)(ii) and (5)(d)(iii) do not apply to a cause of action against a
+            
+155
+
+    
+trustee that alleges intentional misconduct.
+
+
+
+
+ Legislative Review Note
+    as of   2-27-13  3:20 PM
+
+ Office of Legislative Research and General Counsel
+[Bill Documents][Bills Directory]
+
+
+
+
+
+
+
+
+
+Who represents me?
+
+
+
+
+
+Remember my Legislators
+
+
+
+
+
+State Senate
+		350 North State, Suite 320
+		PO Box 145115
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1035
+		Fax: (801) 326-1475
+
+
+
+House of Representatives
+		350 North State, Suite 350
+		PO Box 145030
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1029
+		Fax: (801) 326-1544
+
+
+
+
+
+
+
+
+
+
+Home
+Mobile Site
+Site Map
+Calendar
+Code / Constitution
+House
+Senate
+
+Terms of Use/Privacy Policy
+
+ADA
+Utah.gov
+
+
+
+
+
+
+

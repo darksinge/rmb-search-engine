@@ -1,0 +1,1049 @@
+Sponsors: []Modifications: Except as provided in Subsection (2)(b), the(b)  The state engineer may not commence an enforcement action against a personunder Subsection (2)(a)(i), if the person directly captures, or stores, precipitation on the surfaceof, or under, a parcel owned or leased by the person, including in a catch basin, storm drainpipe, swell, or pond, if the collection or storage:(i)  is consistent with local laws and ordinances;(ii)  does not interfere with an existing water right; and(iii)  is designed to slow, detain, or retain storm water or protect watersheds frompollution with the intention that the precipitation:(A)  absorbs into the ground or is released for discharge; and(B)  is not put to beneficial use.(c)(d)(3)  After registering for the capture and storage of precipitation in accordance withSubsection (5), a person may collect and store precipitation in a container installed inaccordance with the State Construction Code or an approved code under Title 15A, StateConstruction and Fire Codes Act, if:(a)  for a person who uses only one container on a parcel, the total capacity of thecontainer is no more than 2,500 gallons; or(b)  for a person who uses more than one container on a parcel, the aggregate capacityof the containers is no more than 2,500 gallons.(4)  A, without registering under Subsection(5),neither coveredcontainer has a maximum storagecapacity of(6)  Beneficial use of water under Subsection (2)(b) does not constitute a water rightand may not be:(a)  changed under Section 
+
+73-3-3
+
+;(b)  assigned; or(c)  consolidated with a water right.Full text:
+
+
+
+Utah State Legislature
+
+
+
+
+
+
+
+
+
+
+
+
+Legislators
+
+By Session (1896-Current)
+Alphabetical (Historical)
+Find by Address/Map
+More
+
+
+Bills
+
+Bills/Bill Requests
+Passed Bills
+2017 Bills
+
+Keyword Search
+Reading Calendars
+Tracking Service
+More
+
+
+Committees
+
+All Committees
+Appropriations
+Commissions
+
+Independent Legislative Ethics Commission
+Interim
+Standing
+Subcommittees
+Task Forces
+Bills In Committees
+
+
+Utah Code / Constitution
+
+
+Title/Chapter/Section
+Keyword Search 
+
+Utah Constitution
+Laws of Utah 1851-ongoing
+Utah Territorial Laws 
+More
+
+
+Senate
+
+Main Page 
+About The Senate 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Extraordinary Sessions 
+Reading Calendars 
+Past Floor Debates 
+Senate Journals 
+
+
+House
+
+Main Page
+About the House 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Reading Calendars 
+Past Floor Debates 
+Journals 
+Conflict of Interest Forms 
+
+
+Legislative Guide 
+
+Legislative Guide
+Civic Programs
+GRAMA (Records Requests)
+
+
+Publications
+
+Search Publications
+Appropriations
+Audits
+Bagels & Briefings
+Briefing Papers
+Digest of Legislation
+Legislative Drafting Manual
+
+Journals
+
+Interim Highlights
+
+Legislative Rules
+GRAMA (Records Requests)
+Public Email
+State Organization Charts
+YouTube Channel
+Requests for Proposals and Legal Notices
+More
+
+
+Legislative Histories
+
+Legislative History Resources
+How to Research
+Bill Drafting/Research Files (1990-Ongoing)
+
+Working Bills (1896-1989)
+Interim Committee Histories (1990-Ongoing) 
+Journals
+Past House Floor Debates
+Past Senate Floor Debates
+More
+
+
+Staff Offices
+
+All Legislative Offices
+Auditor General
+Fiscal Analyst
+Printing
+Research and General Counsel
+Staff Awards
+Job Opportunities
+More
+
+
+Links of Interest
+
+Utah Administrative Rules
+Courts
+Utah State Capitol
+State of Utah
+Federal Legislation
+More
+
+
+
+
+
+
+ 
+
+Download Zipped Introduced WordPerfect HB0036.ZIP
+[Status][Bill Documents][Fiscal Note][Bills Directory]
+
+
+H.B. 36
+
+
+
+
+
+            
+1
+
+    
+ STORM WATER CAPTURE AMENDMENTS
+
+
+
+            
+2
+
+    
+2013 GENERAL SESSION
+
+            
+3
+
+    
+STATE OF UTAH
+
+            
+4
+
+    
+
+
+ Chief Sponsor:  Jim Nielson
+
+
+
+            
+5
+
+    
+
+
+
+Senate Sponsor: 
+
+
+
+
+
+
+  Ralph Okerlund
+
+
+
+
+
+            
+6
+
+    
+
+            
+7
+
+    
+ LONG TITLE
+            
+8
+
+    
+ Committee Note:
+            
+9
+
+    
+    The Public Utilities and Technology Interim Committee recommended this bill.
+            
+10
+
+    
+ General Description:
+            
+11
+
+    
+    This bill prohibits the state engineer from commencing an enforcement action under
+            
+12
+
+    
+certain circumstances and provides for the collection and use of precipitation without
+            
+13
+
+    
+obtaining a water right in certain circumstances.
+            
+14
+
+    
+ Highlighted Provisions:
+            
+15
+
+    
+    This bill:
+            
+16
+
+    
+    .    prohibits the state engineer from commencing an enforcement action under certain
+            
+17
+
+    
+circumstances;
+            
+18
+
+    
+    .    provides for the collection and use of precipitation without obtaining a water right
+            
+19
+
+    
+in certain circumstances; and
+            
+20
+
+    
+    .    makes technical changes.
+            
+21
+
+    
+ Money Appropriated in this Bill:
+            
+22
+
+    
+    None
+            
+23
+
+    
+ Other Special Clauses:
+            
+24
+
+    
+    None
+            
+25
+
+    
+ Utah Code Sections Affected:
+            
+26
+
+    
+AMENDS:
+            
+27
+
+    
+     73-2-25, as last amended by Laws of Utah 2008, Chapters 282 and 382
+
+            
+28
+
+
+    
+     73-3-1.5, as last amended by Laws of Utah 2011, Chapter 14
+            
+29
+
+    
+
+            
+30
+
+    
+Be it enacted by the Legislature of the state of Utah:
+            
+31
+
+    
+    Section 1.  
+Section  
+73-2-25
+
+ is amended to read:
+            
+32
+
+    
+     73-2-25.  State engineer enforcement powers.
+            
+33
+
+    
+    (1)  For purposes of this section, "initial order" means one of the following issued by
+            
+34
+
+    
+the state engineer:
+            
+35
+
+    
+    (a)  a notice of violation; or
+            
+36
+
+    
+    (b)  a cease and desist order.
+            
+37
+
+    
+    (2) (a)  [The] Except as provided in Subsection (2)(b), the state engineer may
+            
+38
+
+    
+commence an enforcement action under this section if the state engineer finds that a person:
+            
+39
+
+    
+    (i)  is diverting, impounding, or using water for which no water right has been
+            
+40
+
+    
+established;
+            
+41
+
+    
+    (ii)  is diverting, impounding, or using water in violation of an existing water right;
+            
+42
+
+    
+    (iii)  violates Section 
+
+73-5-4
+
+;
+            
+43
+
+    
+    (iv)  violates Section 
+
+73-5-9
+
+;
+            
+44
+
+    
+    (v)  violates a written distribution order from the state engineer;
+            
+45
+
+    
+    (vi)  violates an order issued under Section 
+
+73-3-29
+
+ regarding the alteration of the bed
+            
+46
+
+    
+or bank of a natural stream channel;
+            
+47
+
+    
+    (vii)  violates a notice or order regarding dam safety issued under Chapter 5a, Dam
+            
+48
+
+    
+Safety;
+            
+49
+
+    
+    (viii)  fails to submit a report required by Section 
+
+73-3-25
+
+; or
+            
+50
+
+    
+    (ix)  engages in well drilling without a license required by Section 
+
+73-3-25
+
+.
+            
+51
+
+    
+    (b)  The state engineer may not commence an enforcement action against a person
+            
+52
+
+    
+under Subsection (2)(a)(i), if the person directly captures, or stores, precipitation on the surface
+            
+53
+
+    
+of, or under, a parcel owned or leased by the person, including in a catch basin, storm drain
+            
+54
+
+    
+pipe, swell, or pond, if the collection or storage:
+            
+55
+
+    
+    (i)  is consistent with local laws and ordinances;
+            
+56
+
+    
+    (ii)  does not interfere with an existing water right; and
+            
+57
+
+    
+    (iii)  is designed to slow, detain, or retain storm water or protect watersheds from
+            
+58
+
+    
+pollution with the intention that the precipitation:
+
+            
+59
+
+
+    
+    (A)  absorbs into the ground or is released for discharge; and
+            
+60
+
+    
+    (B)  is not put to beneficial use.
+            
+61
+
+    
+    [(b)] (c)  To commence an enforcement action under this section, the state engineer
+            
+62
+
+    
+shall issue an initial order, which shall include:
+            
+63
+
+    
+    (i)  a description of the violation;
+            
+64
+
+    
+    (ii)  notice of any penalties to which a person may be subject under Section 
+
+73-2-26
+
+;
+            
+65
+
+    
+and
+            
+66
+
+    
+    (iii)  notice that the state engineer may treat each day's violation of the provisions listed
+            
+67
+
+    
+in Subsection (2)(a) as a separate violation under Subsection 
+
+73-2-26
+
+(1)(d).
+            
+68
+
+    
+    [(c)] (d)  The state engineer's issuance and enforcement of an initial order is exempt
+            
+69
+
+    
+from Title 63G, Chapter 4, Administrative Procedures Act.
+            
+70
+
+    
+    (3)  In accordance with Title 63G, Chapter 3, Utah Administrative Rulemaking Act, the
+            
+71
+
+    
+state engineer shall make rules necessary to enforce an initial order, which shall include:
+            
+72
+
+    
+    (a)  provisions consistent with this section and Section 
+
+73-2-26
+
+ for enforcement of the
+            
+73
+
+    
+initial order if a person to whom an initial order is issued fails to respond to the order or abate
+            
+74
+
+    
+the violation;
+            
+75
+
+    
+    (b)  the right to a hearing, upon request by a person against whom an initial order is
+            
+76
+
+    
+issued; and
+            
+77
+
+    
+    (c)  provisions for timely issuance of a final order after:
+            
+78
+
+    
+    (i)  the person to whom the initial order is issued fails to respond to the order or abate
+            
+79
+
+    
+the violation; or
+            
+80
+
+    
+    (ii)  a hearing held under Subsection (3)(b).
+            
+81
+
+    
+    (4)  A person may not intervene in an enforcement action commenced under this
+            
+82
+
+    
+section.
+            
+83
+
+    
+    (5)  After issuance of a final order under rules made pursuant to Subsection (3)(c), the
+            
+84
+
+    
+state engineer shall serve a copy of the final order on the person against whom the order is
+            
+85
+
+    
+issued by:
+            
+86
+
+    
+    (a)  personal service under Utah Rules of Civil Procedure 5; or
+            
+87
+
+    
+    (b)  certified mail.
+            
+88
+
+    
+    (6) (a)  The state engineer's final order may be reviewed by trial de novo by the district
+            
+89
+
+    
+court in:
+
+            
+90
+
+
+    
+    (i)  Salt Lake County; or
+            
+91
+
+    
+    (ii)  the county where the violation occurred.
+            
+92
+
+    
+    (b)  A person shall file a petition for judicial review of the state engineer's final order
+            
+93
+
+    
+issued under this section within 20 days from the day on which the final order was served on
+            
+94
+
+    
+that person.
+            
+95
+
+    
+    (7)  The state engineer may bring suit in a court of competent jurisdiction to enforce a
+            
+96
+
+    
+final order issued under this section.
+            
+97
+
+    
+    (8)  If the state engineer prevails in an action brought under Subsection (6)(b) or (7), the
+            
+98
+
+    
+state may recover all court costs and a reasonable attorney fee.
+            
+99
+
+    
+    Section 2.  
+Section  
+73-3-1.5
+
+ is amended to read:
+            
+100
+
+    
+     73-3-1.5.  Capture and storage of precipitation.
+            
+101
+
+    
+    (1)  As used in this section, "parcel" means an identifiable contiguous unit of property
+            
+102
+
+    
+that is treated as separate for valuation or zoning purposes and includes an improvement on
+            
+103
+
+    
+that unit of property.
+            
+104
+
+    
+    (2)  Notwithstanding Section 
+
+73-3-2
+
+, a person may:
+            
+105
+
+    
+    (a)  directly capture and store precipitation on a parcel owned or leased by the person in
+            
+106
+
+    
+accordance with Subsection (3) or (4); and
+            
+107
+
+    
+    (b)  place the water captured and stored as provided in Subsection (2)(a) to beneficial
+            
+108
+
+    
+use on the parcel on which the water is captured and stored.
+            
+109
+
+    
+    [(3)  If a person collects or stores precipitation in an underground storage container, the
+            
+110
+
+    
+person may collect and store precipitation:]
+            
+111
+
+    
+    [(a)  in only one underground storage container for a parcel if the underground storage
+            
+112
+
+    
+container:]
+            
+113
+
+    
+    [(i)  has a maximum capacity of no more than 2,500 gallons; and]
+            
+114
+
+    
+    [(ii)  is installed in accordance with relevant provisions of the State Construction Code
+            
+115
+
+    
+or an approved code under Title 15A, State Construction and Fire Codes Act; and]
+            
+116
+
+    
+    [(b)  after registering for the capture and storage of precipitation in accordance with
+            
+117
+
+    
+Subsection (5).]
+            
+118
+
+    
+    [(4)  If a person collects or stores precipitation in a covered storage container, the]
+            
+119
+
+    
+    (3)  After registering for the capture and storage of precipitation in accordance with
+            
+120
+
+    
+Subsection (5), a person may collect and store precipitation in a container installed in
+
+            
+121
+
+
+    
+accordance with the State Construction Code or an approved code under Title 15A, State
+            
+122
+
+    
+Construction and Fire Codes Act, if:
+            
+123
+
+    
+    (a)  for a person who uses only one container on a parcel, the total capacity of the
+            
+124
+
+    
+container is no more than 2,500 gallons; or
+            
+125
+
+    
+    (b)  for a person who uses more than one container on a parcel, the aggregate capacity
+            
+126
+
+    
+of the containers is no more than 2,500 gallons.
+            
+127
+
+    
+    (4)  A person may collect and store precipitation, without registering under Subsection
+            
+128
+
+    
+(5), in no more than two covered storage containers[,] if [the maximum] neither covered
+            
+129
+
+    
+storage [capacity of any one covered storage container is not] container has a maximum storage
+            
+130
+
+    
+capacity of greater than 100 gallons.
+            
+131
+
+    
+    (5) (a)  The state engineer shall provide a website on which a person may register as
+            
+132
+
+    
+required by Subsection (3).
+            
+133
+
+    
+    (b)  To register, a person shall complete information required by the state engineer
+            
+134
+
+    
+including the:
+            
+135
+
+    
+    (i)  name and address of the person capturing or storing precipitation;
+            
+136
+
+    
+    (ii)  total capacity of all containers storing precipitation; and
+            
+137
+
+    
+    (iii)  street address or other suitable description of the location where precipitation is to
+            
+138
+
+    
+be captured and stored.
+            
+139
+
+    
+    (6)  Beneficial use of water under Subsection (2)(b) does not constitute a water right
+            
+140
+
+    
+and may not be:
+            
+141
+
+    
+    (a)  changed under Section 
+
+73-3-3
+
+;
+            
+142
+
+    
+    (b)  assigned; or
+            
+143
+
+    
+    (c)  consolidated with a water right.
+
+
+
+
+ Legislative Review Note
+    as of  11-15-12  1:56 PM
+
+ Office of Legislative Research and General Counsel
+[Bill Documents][Bills Directory]
+
+
+
+
+
+
+
+
+
+Who represents me?
+
+
+
+
+
+Remember my Legislators
+
+
+
+
+
+State Senate
+		350 North State, Suite 320
+		PO Box 145115
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1035
+		Fax: (801) 326-1475
+
+
+
+House of Representatives
+		350 North State, Suite 350
+		PO Box 145030
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1029
+		Fax: (801) 326-1544
+
+
+
+
+
+
+
+
+
+
+Home
+Mobile Site
+Site Map
+Calendar
+Code / Constitution
+House
+Senate
+
+Terms of Use/Privacy Policy
+
+ADA
+Utah.gov
+
+
+
+
+
+
+

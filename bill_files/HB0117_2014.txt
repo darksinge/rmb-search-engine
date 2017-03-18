@@ -1,0 +1,964 @@
+Sponsors: []Modifications:     78B-6-1901.(1)  This part is known as the "Patent Infringement Act."(2)  The Legislature acknowledges that it is preempted from passing any law thatconflicts with federal patent law.  However, this part seeks to protect Utah businesses fromabusive and bad faith assertions of patent infringement, and build Utah's economy, while at thesame time respecting federal law and not interfering with legitimate patent enforcementactions.    78B-6-1902.As used in this part:(1)  "Demand letter" means a letter, email, or other communication asserting orclaiming that the target has engaged in patent infringement.(2)  "Target" means a person in this state:(a)  who has received a demand letter or against whom an assertion or allegation ofpatent infringement has been made;(b)  who has been threatened with litigation or against whom a lawsuit has been filedalleging patent infringement; or(c)  whose customers have received a demand letter asserting that the person's product,service, or technology has infringed a patent.    78B-6-1903.(1)  A person may not make a bad faith assertion of patent infringement.(2)  A court may consider the following factors as evidence that a person has made abad faith assertion of patent infringement:(a)  The demand letter does not contain the following information:(i)  the patent number;(ii)  the name and address of the patent owner and assignee, if any; and(iii)  factual allegations concerning the specific areas in which the target's products,services, and technology infringe the patent or are covered by the claims in the patent.(b)  Prior to sending the demand letter, the person fails to conduct an analysiscomparing the claims in the patent to the target's products, services, and technology, or ananalysis was done but does not identify specific areas in which the products, services, andtechnology are covered by the claims in the patent.(c)  The demand letter lacks the information described in Subsection (2)(a), the targetrequests the information, and the person fails to provide the information within a reasonableperiod of time.(d)  The demand letter demands payment of a license fee or response within anunreasonably short period of time.(e)  The person offers to license the patent for an amount that is not based on areasonable estimate of the value of the license.(f)  The claim or assertion of patent infringement is meritless, and the person knew, orshould have known, that the claim or assertion is meritless.(g)  The claim or assertion of patent infringement is deceptive.(h)  The person or its subsidiaries or affiliates have previously filed or threatened to fileone or more lawsuits based on the same or similar claim of patent infringement, and:(i)  those threats or lawsuits lacked the information described in Subsection (2)(a); or(ii)  the person attempted to enforce the claim of patent infringement in litigation and acourt found the claim to be meritless.(i)  The court may also consider any other factor the court finds relevant.(3)  A court may consider the following factors as evidence that a person has not madea bad faith assertion of patent infringement:(a)  The demand letter contains the information described in Subsection (2)(a).(b)  Where the demand letter lacks the information described in Subsection (2)(a) andthe target requests the information, the person provides the information within a reasonableperiod of time.(c)  The person engages in a good faith effort to establish that the target has infringedthe patent and to negotiate an appropriate remedy.(d)  The person makes a substantial investment in the use of the patent or in theproduction or sale of a product or item covered by the patent.(e)  The person is:(i)  the inventor or joint inventor of the patent or, in the case of a patent filed by andawarded to an assignee of the original inventor or joint inventor, is the original assignee; or(ii)  an institution of higher education or a technology transfer organization owned oraffiliated with an institution of higher education.(f)  The person has:(i)  demonstrated good faith business practices in previous efforts to enforce the patent,or a substantially similar patent; or(ii)  successfully enforced the patent, or a substantially similar patent, through litigation.(g)  The court may also consider any other factor the court finds relevant.    78B-6-1904.(1)  A target of conduct involving assertions of patent infringement, or a personaggrieved by a violation of this part, may bring an action in district court.  The court may awardthe following remedies to a target who prevails in an action brought pursuant to this part:(a)  equitable relief;(b)  damages;(c)  costs and fees, including reasonable attorney fees; and(d)  punitive damages in an amount equal to $50,000 or three times the total ofdamages, costs, and fees, whichever is greater.(2)  The attorney general may conduct civil investigations and bring civil actionspursuant to this part.  In an action brought by the attorney general under this part, the court mayaward or impose any relief it considers prudent.(3)  This part may not be construed to limit rights and remedies available to the state orto any person under any other law.    78B-6-1905.(1)  Upon motion by a target and a finding by the court that a target has established areasonable likelihood that a person has made a bad faith assertion of patent infringement inviolation of this part, the court shall require the person to post a bond in an amount equal to agood faith estimate of the target's costs to litigate the claim and amounts reasonably likely to berecovered under Subsection 
+
+78B-6-1904
+
+
+(2), conditioned upon payment of any amounts finallydetermined to be due to the target.(2)  A hearing shall be held if either party requests one.(3)  A bond ordered pursuant to this section may not exceed $250,000.  The court maywaive the bond requirement if it finds the person has available assets equal to the amount of theproposed bond or for other good cause shown.Full text:
+
+
+
+Utah State Legislature
+
+
+
+
+
+
+
+
+
+
+
+
+Legislators
+
+By Session (1896-Current)
+Alphabetical (Historical)
+Find by Address/Map
+More
+
+
+Bills
+
+Bills/Bill Requests
+Passed Bills
+2017 Bills
+
+Keyword Search
+Reading Calendars
+Tracking Service
+More
+
+
+Committees
+
+All Committees
+Appropriations
+Commissions
+
+Independent Legislative Ethics Commission
+Interim
+Standing
+Subcommittees
+Task Forces
+Bills In Committees
+
+
+Utah Code / Constitution
+
+
+Title/Chapter/Section
+Keyword Search 
+
+Utah Constitution
+Laws of Utah 1851-ongoing
+Utah Territorial Laws 
+More
+
+
+Senate
+
+Main Page 
+About The Senate 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Extraordinary Sessions 
+Reading Calendars 
+Past Floor Debates 
+Senate Journals 
+
+
+House
+
+Main Page
+About the House 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Reading Calendars 
+Past Floor Debates 
+Journals 
+Conflict of Interest Forms 
+
+
+Legislative Guide 
+
+Legislative Guide
+Civic Programs
+GRAMA (Records Requests)
+
+
+Publications
+
+Search Publications
+Appropriations
+Audits
+Bagels & Briefings
+Briefing Papers
+Digest of Legislation
+Legislative Drafting Manual
+
+Journals
+
+Interim Highlights
+
+Legislative Rules
+GRAMA (Records Requests)
+Public Email
+State Organization Charts
+YouTube Channel
+Requests for Proposals and Legal Notices
+More
+
+
+Legislative Histories
+
+Legislative History Resources
+How to Research
+Bill Drafting/Research Files (1990-Ongoing)
+
+Working Bills (1896-1989)
+Interim Committee Histories (1990-Ongoing) 
+Journals
+Past House Floor Debates
+Past Senate Floor Debates
+More
+
+
+Staff Offices
+
+All Legislative Offices
+Auditor General
+Fiscal Analyst
+Printing
+Research and General Counsel
+Staff Awards
+Job Opportunities
+More
+
+
+Links of Interest
+
+Utah Administrative Rules
+Courts
+Utah State Capitol
+State of Utah
+Federal Legislation
+More
+
+
+
+
+
+
+ 
+
+H.B. 117
+
+
+
+
+
+            
+1
+
+    
+ PATENT INFRINGEMENT AMENDMENTS
+
+
+
+            
+2
+
+    
+2014 GENERAL SESSION
+
+            
+3
+
+    
+STATE OF UTAH
+
+            
+4
+
+    
+
+
+ Chief Sponsor:  Mike K. McKell
+
+
+
+            
+5
+
+    
+
+
+
+Senate Sponsor:  
+
+
+
+
+
+
+____________
+
+
+
+
+
+            
+6
+
+    
+
+            
+7
+
+    
+ LONG TITLE
+            
+8
+
+    
+ General Description:
+            
+9
+
+    
+    This bill creates a cause of action for patent infringement.
+            
+10
+
+    
+ Highlighted Provisions:
+            
+11
+
+    
+    This bill:
+            
+12
+
+    
+    .    defines terms;
+            
+13
+
+    
+    .    prohibits bad faith assertion of patent infringement;
+            
+14
+
+    
+    .    allows a person who has been the recipient of a demand letter for patent
+            
+15
+
+    
+infringement to file an action;
+            
+16
+
+    
+    .    allows the court to require the filing of a bond to cover costs of the action;
+            
+17
+
+    
+    .    provides remedies; and
+            
+18
+
+    
+    .    sets limits on punitive damages.
+            
+19
+
+    
+ Money Appropriated in this Bill:
+            
+20
+
+    
+    None
+            
+21
+
+    
+ Other Special Clauses:
+            
+22
+
+    
+    None
+            
+23
+
+    
+ Utah Code Sections Affected:
+            
+24
+
+    
+ENACTS:
+            
+25
+
+    
+     
+78B-6-1901
+, Utah Code Annotated 1953
+            
+26
+
+    
+     
+78B-6-1902
+, Utah Code Annotated 1953
+            
+27
+
+    
+     
+78B-6-1903
+, Utah Code Annotated 1953
+
+            
+28
+
+
+    
+     
+78B-6-1904
+, Utah Code Annotated 1953
+            
+29
+
+    
+     
+78B-6-1905
+, Utah Code Annotated 1953
+            
+30
+
+    
+
+            
+31
+
+    
+Be it enacted by the Legislature of the state of Utah:
+            
+32
+
+    
+    Section 1.  
+Section  
+78B-6-1901
+
+ is enacted to read:
+            
+33
+
+    
+ Part 19.  Patent Infringement Act
+
+            
+34
+
+    
+     78B-6-1901.  Title -- Purpose.
+            
+35
+
+    
+    (1)  This part is known as the "Patent Infringement Act."
+            
+36
+
+    
+    (2)  The Legislature acknowledges that it is preempted from passing any law that
+            
+37
+
+    
+conflicts with federal patent law.  However, this part seeks to protect Utah businesses from
+            
+38
+
+    
+abusive and bad faith assertions of patent infringement, and build Utah's economy, while at the
+            
+39
+
+    
+same time respecting federal law and not interfering with legitimate patent enforcement
+            
+40
+
+    
+actions.
+            
+41
+
+    
+    Section 2.  
+Section  
+78B-6-1902
+
+ is enacted to read:
+            
+42
+
+    
+     78B-6-1902.  Definitions.
+            
+43
+
+    
+    As used in this part:
+            
+44
+
+    
+    (1)  "Demand letter" means a letter, email, or other communication asserting or
+            
+45
+
+    
+claiming that the target has engaged in patent infringement.
+            
+46
+
+    
+    (2)  "Target" means a person in this state:
+            
+47
+
+    
+    (a)  who has received a demand letter or against whom an assertion or allegation of
+            
+48
+
+    
+patent infringement has been made;
+            
+49
+
+    
+    (b)  who has been threatened with litigation or against whom a lawsuit has been filed
+            
+50
+
+    
+alleging patent infringement; or
+            
+51
+
+    
+    (c)  whose customers have received a demand letter asserting that the person's product,
+            
+52
+
+    
+service, or technology has infringed a patent.
+            
+53
+
+    
+    Section 3.  
+Section  
+78B-6-1903
+
+ is enacted to read:
+            
+54
+
+    
+     78B-6-1903.  Bad faith assertions of patent infringement.
+            
+55
+
+    
+    (1)  A person may not make a bad faith assertion of patent infringement.
+            
+56
+
+    
+    (2)  A court may consider the following factors as evidence that a person has made a
+            
+57
+
+    
+bad faith assertion of patent infringement:
+            
+58
+
+    
+    (a)  The demand letter does not contain the following information:
+
+            
+59
+
+
+    
+    (i)  the patent number;
+            
+60
+
+    
+    (ii)  the name and address of the patent owner and assignee, if any; and
+            
+61
+
+    
+    (iii)  factual allegations concerning the specific areas in which the target's products,
+            
+62
+
+    
+services, and technology infringe the patent or are covered by the claims in the patent.
+            
+63
+
+    
+    (b)  Prior to sending the demand letter, the person fails to conduct an analysis
+            
+64
+
+    
+comparing the claims in the patent to the target's products, services, and technology, or an
+            
+65
+
+    
+analysis was done but does not identify specific areas in which the products, services, and
+            
+66
+
+    
+technology are covered by the claims in the patent.
+            
+67
+
+    
+    (c)  The demand letter lacks the information described in Subsection (2)(a), the target
+            
+68
+
+    
+requests the information, and the person fails to provide the information within a reasonable
+            
+69
+
+    
+period of time.
+            
+70
+
+    
+    (d)  The demand letter demands payment of a license fee or response within an
+            
+71
+
+    
+unreasonably short period of time.
+            
+72
+
+    
+    (e)  The person offers to license the patent for an amount that is not based on a
+            
+73
+
+    
+reasonable estimate of the value of the license.
+            
+74
+
+    
+    (f)  The claim or assertion of patent infringement is meritless, and the person knew, or
+            
+75
+
+    
+should have known, that the claim or assertion is meritless.
+            
+76
+
+    
+    (g)  The claim or assertion of patent infringement is deceptive.
+            
+77
+
+    
+    (h)  The person or its subsidiaries or affiliates have previously filed or threatened to file
+            
+78
+
+    
+one or more lawsuits based on the same or similar claim of patent infringement, and:
+            
+79
+
+    
+    (i)  those threats or lawsuits lacked the information described in Subsection (2)(a); or
+            
+80
+
+    
+    (ii)  the person attempted to enforce the claim of patent infringement in litigation and a
+            
+81
+
+    
+court found the claim to be meritless.
+            
+82
+
+    
+    (i)  The court may also consider any other factor the court finds relevant.
+            
+83
+
+    
+    (3)  A court may consider the following factors as evidence that a person has not made
+            
+84
+
+    
+a bad faith assertion of patent infringement:
+            
+85
+
+    
+    (a)  The demand letter contains the information described in Subsection (2)(a).
+            
+86
+
+    
+    (b)  Where the demand letter lacks the information described in Subsection (2)(a) and
+            
+87
+
+    
+the target requests the information, the person provides the information within a reasonable
+            
+88
+
+    
+period of time.
+            
+89
+
+    
+    (c)  The person engages in a good faith effort to establish that the target has infringed
+
+            
+90
+
+
+    
+the patent and to negotiate an appropriate remedy.
+            
+91
+
+    
+    (d)  The person makes a substantial investment in the use of the patent or in the
+            
+92
+
+    
+production or sale of a product or item covered by the patent.
+            
+93
+
+    
+    (e)  The person is:
+            
+94
+
+    
+    (i)  the inventor or joint inventor of the patent or, in the case of a patent filed by and
+            
+95
+
+    
+awarded to an assignee of the original inventor or joint inventor, is the original assignee; or
+            
+96
+
+    
+    (ii)  an institution of higher education or a technology transfer organization owned or
+            
+97
+
+    
+affiliated with an institution of higher education.
+            
+98
+
+    
+    (f)  The person has:
+            
+99
+
+    
+    (i)  demonstrated good faith business practices in previous efforts to enforce the patent,
+            
+100
+
+    
+or a substantially similar patent; or
+            
+101
+
+    
+    (ii)  successfully enforced the patent, or a substantially similar patent, through litigation.
+            
+102
+
+    
+    (g)  The court may also consider any other factor the court finds relevant.
+            
+103
+
+    
+    Section 4.  
+Section  
+78B-6-1904
+
+ is enacted to read:
+            
+104
+
+    
+     78B-6-1904.  Action -- Enforcement -- Remedies -- Damages.
+            
+105
+
+    
+    (1)  A target of conduct involving assertions of patent infringement, or a person
+            
+106
+
+    
+aggrieved by a violation of this part, may bring an action in district court.  The court may award
+            
+107
+
+    
+the following remedies to a target who prevails in an action brought pursuant to this part:
+            
+108
+
+    
+    (a)  equitable relief;
+            
+109
+
+    
+    (b)  damages;
+            
+110
+
+    
+    (c)  costs and fees, including reasonable attorney fees; and
+            
+111
+
+    
+    (d)  punitive damages in an amount equal to $50,000 or three times the total of
+            
+112
+
+    
+damages, costs, and fees, whichever is greater.
+            
+113
+
+    
+    (2)  The attorney general may conduct civil investigations and bring civil actions
+            
+114
+
+    
+pursuant to this part.  In an action brought by the attorney general under this part, the court may
+            
+115
+
+    
+award or impose any relief it considers prudent.
+            
+116
+
+    
+    (3)  This part may not be construed to limit rights and remedies available to the state or
+            
+117
+
+    
+to any person under any other law.
+            
+118
+
+    
+    Section 5.  
+Section  
+78B-6-1905
+
+ is enacted to read:
+            
+119
+
+    
+     78B-6-1905.  Bond.
+            
+120
+
+    
+    (1)  Upon motion by a target and a finding by the court that a target has established a
+
+            
+121
+
+
+    
+reasonable likelihood that a person has made a bad faith assertion of patent infringement in
+            
+122
+
+    
+violation of this part, the court shall require the person to post a bond in an amount equal to a
+            
+123
+
+    
+good faith estimate of the target's costs to litigate the claim and amounts reasonably likely to be
+            
+124
+
+    
+recovered under Subsection 
+
+78B-6-1904
+
+
+(2), conditioned upon payment of any amounts finally
+            
+125
+
+    
+determined to be due to the target.
+            
+126
+
+    
+    (2)  A hearing shall be held if either party requests one.
+            
+127
+
+    
+    (3)  A bond ordered pursuant to this section may not exceed $250,000.  The court may
+            
+128
+
+    
+waive the bond requirement if it finds the person has available assets equal to the amount of the
+            
+129
+
+    
+proposed bond or for other good cause shown.
+
+
+
+
+ Legislative Review Note
+    as of   2-6-14  12:08 PM
+
+ Office of Legislative Research and General Counsel
+[Bill Documents][Bills Directory]
+
+
+
+
+
+
+
+
+
+Who represents me?
+
+
+
+
+
+Remember my Legislators
+
+
+
+
+
+State Senate
+		350 North State, Suite 320
+		PO Box 145115
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1035
+		Fax: (801) 326-1475
+
+
+
+House of Representatives
+		350 North State, Suite 350
+		PO Box 145030
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1029
+		Fax: (801) 326-1544
+
+
+
+
+
+
+
+
+
+
+Home
+Mobile Site
+Site Map
+Calendar
+Code / Constitution
+House
+Senate
+
+Terms of Use/Privacy Policy
+
+ADA
+Utah.gov
+
+
+
+
+
+
+

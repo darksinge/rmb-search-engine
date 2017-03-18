@@ -1,0 +1,926 @@
+Sponsors: []Modifications:     77-16b-101.This chapter is known as the "Involuntary Feeding and Hydration of Inmates."    77-16b-102.As used in this chapter:(1)  "Medical supervision" means under the direction of a licensed physician, physicianassistant, or nurse practitioner.(2)  "Mental health therapist" has the same definition as in Section 
+
+58-60-102
+
+.(3)  "Prisoner" means any person who is a pretrial detainee or has been committed tothe custody of a sheriff, and who is physically housed in a county jail.(4)  "Sheriff" means a county sheriff in charge of a county jail.    77-16b-103.(1)  If a licensed physician, physician assistant, or nurse practitioner determines at anytime that a prisoner is in imminent danger of death because of inadequate nutrition orhydration, a panel consisting of the following members shall review the prisoner's status:(a)  the sheriff;(b)  a licensed physician; and(c)  a mental health therapist who has been appointed by the sheriff.(2)  If reasonably necessary and not contrary to a court order, the panel may authorize,by a majority vote, the involuntary feeding or hydration of a prisoner for up to three successivedays under immediate medical supervision and in a medically recognized and acceptablemanner.(3)  Involuntary feeding or hydration for more than three successive days requires anorder issued by the district court under this section.(4)  A sheriff may petition the district court where the county jail is located for an orderpermitting the involuntary feeding or hydration of any prisoner who is likely to suffer severeharm or death by refusing to accept sufficient nutrition or hydration.(5)  Prior to the filing of a petition under this section, a mental health therapist who isdesignated by the sheriff shall conduct a mental health evaluation of the subject prisoner.(6)  Upon the filing of a petition, the district court shall hold a hearing within threeworking days.  The court:(a)  shall confidentially review the prisoner's medical and mental health records as theyare available;(b)  may hear testimony or receive evidence, subject to the Utah Rules of Evidence,concerning the circumstances of the prisoner's lack of nutrition or hydration; and(c)  may exclude from the hearing any person whose presence is not necessary for thepurposes of the hearing, because of the introduction of personal medical and mental healthevidence.(7)  The district court shall state its findings of fact and conclusions of law on therecord.(8)  After conducting the hearing under Subsection (6), the district court shall issue anorder to involuntarily feed or hydrate the prisoner, if the court finds by a preponderance ofevidence that:(a) (i)  the prisoner is likely to suffer severe harm or death by refusing to acceptsufficient nutrition or hydration; and(ii)  the correctional facility's medical or penological objectives are valid and outweighthe prisoner's right to refuse treatment; or(b)  the prisoner is refusing sufficient nutrition or hydration with the intent to obstructor delay any judicial or administrative proceeding pending against the prisoner.(9)  The sheriff shall serve copies of the petition and a notice of the district courthearing on the prisoner and the prisoner's counsel, if represented by counsel, at least 48 hoursin advance of the hearing under Subsection (6).(10)  The prisoner has the right to attend the hearing, testify, present evidence, andcross-examine witnesses.    77-16b-104.(1)  Any involuntary nutrition or hydration of a prisoner pursuant to this chapter shallbe conducted under immediate medical supervision and in a medically recognized andacceptable manner.(2)  Upon the filing of a petition pursuant to Section 
+
+77-16b-102
+
+, the court has thecontinuing jurisdiction to review the prisoner's health status as long as the prisoner remains incustody of the county jail.(3)  A county jail shall maintain records of any involuntary feeding or hydration ofprisoners under this chapter.(a)  The records are classified as "controlled" under Section 
+
+63G-2-304
+
+ of theGovernmental Records Access and Management Act.(b)  All medical or mental health records submitted to the court under this chapter shallbe kept under seal.    77-16b-105.This chapter does not apply to medically imposed fasts for the purpose of conductingmedical procedures or tests, or to religious fasts of reasonable duration.Full text:
+
+
+
+Utah State Legislature
+
+
+
+
+
+
+
+
+
+
+
+
+Legislators
+
+By Session (1896-Current)
+Alphabetical (Historical)
+Find by Address/Map
+More
+
+
+Bills
+
+Bills/Bill Requests
+Passed Bills
+2017 Bills
+
+Keyword Search
+Reading Calendars
+Tracking Service
+More
+
+
+Committees
+
+All Committees
+Appropriations
+Commissions
+
+Independent Legislative Ethics Commission
+Interim
+Standing
+Subcommittees
+Task Forces
+Bills In Committees
+
+
+Utah Code / Constitution
+
+
+Title/Chapter/Section
+Keyword Search 
+
+Utah Constitution
+Laws of Utah 1851-ongoing
+Utah Territorial Laws 
+More
+
+
+Senate
+
+Main Page 
+About The Senate 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Extraordinary Sessions 
+Reading Calendars 
+Past Floor Debates 
+Senate Journals 
+
+
+House
+
+Main Page
+About the House 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Reading Calendars 
+Past Floor Debates 
+Journals 
+Conflict of Interest Forms 
+
+
+Legislative Guide 
+
+Legislative Guide
+Civic Programs
+GRAMA (Records Requests)
+
+
+Publications
+
+Search Publications
+Appropriations
+Audits
+Bagels & Briefings
+Briefing Papers
+Digest of Legislation
+Legislative Drafting Manual
+
+Journals
+
+Interim Highlights
+
+Legislative Rules
+GRAMA (Records Requests)
+Public Email
+State Organization Charts
+YouTube Channel
+Requests for Proposals and Legal Notices
+More
+
+
+Legislative Histories
+
+Legislative History Resources
+How to Research
+Bill Drafting/Research Files (1990-Ongoing)
+
+Working Bills (1896-1989)
+Interim Committee Histories (1990-Ongoing) 
+Journals
+Past House Floor Debates
+Past Senate Floor Debates
+More
+
+
+Staff Offices
+
+All Legislative Offices
+Auditor General
+Fiscal Analyst
+Printing
+Research and General Counsel
+Staff Awards
+Job Opportunities
+More
+
+
+Links of Interest
+
+Utah Administrative Rules
+Courts
+Utah State Capitol
+State of Utah
+Federal Legislation
+More
+
+
+
+
+
+
+ 
+
+Download Zipped Introduced WordPerfect HB0194.ZIP
+[Status][Bill Documents][Fiscal Note][Bills Directory]
+
+
+H.B. 194
+
+
+
+
+
+            
+1
+
+    
+ INVOLUNTARY FEEDING AND HYDRATION OF INMATES
+
+
+
+            
+2
+
+    
+2012 GENERAL SESSION
+
+            
+3
+
+    
+STATE OF UTAH
+
+            
+4
+
+    
+
+
+ Chief Sponsor: Derek E. Brown
+
+
+
+            
+5
+
+    
+
+
+
+Senate Sponsor: 
+
+
+
+
+
+
+____________
+
+
+
+
+
+            
+6
+
+    
+
+            
+7
+
+    
+ LONG TITLE
+            
+8
+
+    
+ General Description:
+            
+9
+
+    
+    This bill modifies the Code of Criminal Procedure by authorizing county jails to
+            
+10
+
+    
+involuntarily feed and hydrate prisoners who refuse sustenance and to petition the court
+            
+11
+
+    
+to involuntarily feed or hydrate prisoners if required for more than three consecutive
+            
+12
+
+    
+days.
+            
+13
+
+    
+ Highlighted Provisions:
+            
+14
+
+    
+    This bill:
+            
+15
+
+    
+    .    provides that a county jail may administer food or fluids to a prisoner by involuntary
+            
+16
+
+    
+means for up to three consecutive days if a panel, consisting of the sheriff, a
+            
+17
+
+    
+licensed physician, and a mental health therapist determine that the administration is
+            
+18
+
+    
+reasonably necessary because the prisoner is in imminent danger due to inadequate
+            
+19
+
+    
+nutrition or hydration;
+            
+20
+
+    
+    .    authorizes the sheriff to petition the court for an order to administer food or fluids to
+            
+21
+
+    
+a prisoner by involuntary means if required for more than three consecutive days;
+            
+22
+
+    
+    .    provides that the court shall hold a hearing within three business days of receiving a
+            
+23
+
+    
+petition from a sheriff to administer food or fluids to a prisoner by involuntary
+            
+24
+
+    
+means;
+            
+25
+
+    
+    .    provides that the prisoner has the right to attend the hearing, testify before the court,
+            
+26
+
+    
+present evidence, and cross-examine witnesses;
+            
+27
+
+    
+    .    requires that any involuntary feeding or hydration by the county be conducted under
+
+            
+28
+
+
+    
+medical supervision and in a reasonable manner; and
+            
+29
+
+    
+    .    provides exceptions to the provisions of this bill for medically imposed fasts or
+            
+30
+
+    
+religious fasts of reasonable duration.
+            
+31
+
+    
+ Money Appropriated in this Bill:
+            
+32
+
+    
+    None
+            
+33
+
+    
+ Other Special Clauses:
+            
+34
+
+    
+    None
+            
+35
+
+    
+ Utah Code Sections Affected:
+            
+36
+
+    
+ENACTS:
+            
+37
+
+    
+     77-16b-101, Utah Code Annotated 1953
+            
+38
+
+    
+     77-16b-102, Utah Code Annotated 1953
+            
+39
+
+    
+     77-16b-103, Utah Code Annotated 1953
+            
+40
+
+    
+     77-16b-104, Utah Code Annotated 1953
+            
+41
+
+    
+     77-16b-105, Utah Code Annotated 1953
+            
+42
+
+    
+
+            
+43
+
+    
+Be it enacted by the Legislature of the state of Utah:
+            
+44
+
+    
+    Section 1.  
+Section  
+77-16b-101
+
+ is enacted to read:
+            
+45
+
+    
+ CHAPTER 16b.  INVOLUNTARY FEEDING AND HYDRATION OF INMATES
+
+            
+46
+
+    
+     77-16b-101.  Title.
+            
+47
+
+    
+    This chapter is known as the "Involuntary Feeding and Hydration of Inmates."
+            
+48
+
+    
+    Section 2.  
+Section  
+77-16b-102
+
+ is enacted to read:
+            
+49
+
+    
+     77-16b-102.  Definitions.
+            
+50
+
+    
+    As used in this chapter:
+            
+51
+
+    
+    (1)  "Medical supervision" means under the direction of a licensed physician, physician
+            
+52
+
+    
+assistant, or nurse practitioner.
+            
+53
+
+    
+    (2)  "Mental health therapist" has the same definition as in Section 
+
+58-60-102
+
+.
+            
+54
+
+    
+    (3)  "Prisoner" means any person who is a pretrial detainee or has been committed to
+            
+55
+
+    
+the custody of a sheriff, and who is physically housed in a county jail.
+            
+56
+
+    
+    (4)  "Sheriff" means a county sheriff in charge of a county jail.
+            
+57
+
+    
+    Section 3.  
+Section  
+77-16b-103
+
+ is enacted to read:
+            
+58
+
+    
+     77-16b-103.  Involuntary feeding or hydration of prisoners -- Procedures, venue,
+
+            
+59
+
+
+    
+ prisoner rights.
+            
+60
+
+    
+    (1)  If a licensed physician, physician assistant, or nurse practitioner determines at any
+            
+61
+
+    
+time that a prisoner is in imminent danger of death because of inadequate nutrition or
+            
+62
+
+    
+hydration, a panel consisting of the following members shall review the prisoner's status:
+            
+63
+
+    
+    (a)  the sheriff;
+            
+64
+
+    
+    (b)  a licensed physician; and
+            
+65
+
+    
+    (c)  a mental health therapist who has been appointed by the sheriff.
+            
+66
+
+    
+    (2)  If reasonably necessary and not contrary to a court order, the panel may authorize,
+            
+67
+
+    
+by a majority vote, the involuntary feeding or hydration of a prisoner for up to three successive
+            
+68
+
+    
+days under immediate medical supervision and in a medically recognized and acceptable
+            
+69
+
+    
+manner.
+            
+70
+
+    
+    (3)  Involuntary feeding or hydration for more than three successive days requires an
+            
+71
+
+    
+order issued by the district court under this section.
+            
+72
+
+    
+    (4)  A sheriff may petition the district court where the county jail is located for an order
+            
+73
+
+    
+permitting the involuntary feeding or hydration of any prisoner who is likely to suffer severe
+            
+74
+
+    
+harm or death by refusing to accept sufficient nutrition or hydration.
+            
+75
+
+    
+    (5)  Prior to the filing of a petition under this section, a mental health therapist who is
+            
+76
+
+    
+designated by the sheriff shall conduct a mental health evaluation of the subject prisoner.
+            
+77
+
+    
+    (6)  Upon the filing of a petition, the district court shall hold a hearing within three
+            
+78
+
+    
+working days.  The court:
+            
+79
+
+    
+    (a)  shall confidentially review the prisoner's medical and mental health records as they
+            
+80
+
+    
+are available;
+            
+81
+
+    
+    (b)  may hear testimony or receive evidence, subject to the Utah Rules of Evidence,
+            
+82
+
+    
+concerning the circumstances of the prisoner's lack of nutrition or hydration; and
+            
+83
+
+    
+    (c)  may exclude from the hearing any person whose presence is not necessary for the
+            
+84
+
+    
+purposes of the hearing, because of the introduction of personal medical and mental health
+            
+85
+
+    
+evidence.
+            
+86
+
+    
+    (7)  The district court shall state its findings of fact and conclusions of law on the
+            
+87
+
+    
+record.
+            
+88
+
+    
+    (8)  After conducting the hearing under Subsection (6), the district court shall issue an
+            
+89
+
+    
+order to involuntarily feed or hydrate the prisoner, if the court finds by a preponderance of
+
+            
+90
+
+
+    
+evidence that:
+            
+91
+
+    
+    (a) (i)  the prisoner is likely to suffer severe harm or death by refusing to accept
+            
+92
+
+    
+sufficient nutrition or hydration; and
+            
+93
+
+    
+    (ii)  the correctional facility's medical or penological objectives are valid and outweigh
+            
+94
+
+    
+the prisoner's right to refuse treatment; or
+            
+95
+
+    
+    (b)  the prisoner is refusing sufficient nutrition or hydration with the intent to obstruct
+            
+96
+
+    
+or delay any judicial or administrative proceeding pending against the prisoner.
+            
+97
+
+    
+    (9)  The sheriff shall serve copies of the petition and a notice of the district court
+            
+98
+
+    
+hearing on the prisoner and the prisoner's counsel, if represented by counsel, at least 48 hours
+            
+99
+
+    
+in advance of the hearing under Subsection (6).
+            
+100
+
+    
+    (10)  The prisoner has the right to attend the hearing, testify, present evidence, and
+            
+101
+
+    
+cross-examine witnesses.
+            
+102
+
+    
+    Section 4.  
+Section  
+77-16b-104
+
+ is enacted to read:
+            
+103
+
+    
+     77-16b-104.  Involuntary feeding or hydration of prisoners -- Standards,
+            
+104
+
+    
+ continuing jurisdiction, and records.
+            
+105
+
+    
+    (1)  Any involuntary nutrition or hydration of a prisoner pursuant to this chapter shall
+            
+106
+
+    
+be conducted under immediate medical supervision and in a medically recognized and
+            
+107
+
+    
+acceptable manner.
+            
+108
+
+    
+    (2)  Upon the filing of a petition pursuant to Section 
+
+77-16b-102
+
+, the court has the
+            
+109
+
+    
+continuing jurisdiction to review the prisoner's health status as long as the prisoner remains in
+            
+110
+
+    
+custody of the county jail.
+            
+111
+
+    
+    (3)  A county jail shall maintain records of any involuntary feeding or hydration of
+            
+112
+
+    
+prisoners under this chapter.
+            
+113
+
+    
+    (a)  The records are classified as "controlled" under Section 
+
+63G-2-304
+
+ of the
+            
+114
+
+    
+Governmental Records Access and Management Act.
+            
+115
+
+    
+    (b)  All medical or mental health records submitted to the court under this chapter shall
+            
+116
+
+    
+be kept under seal.
+            
+117
+
+    
+    Section 5.  
+Section  
+77-16b-105
+
+ is enacted to read:
+            
+118
+
+    
+     77-16b-105.  Involuntary feeding or hydration of prisoners -- Exceptions.
+            
+119
+
+    
+    This chapter does not apply to medically imposed fasts for the purpose of conducting
+            
+120
+
+    
+medical procedures or tests, or to religious fasts of reasonable duration.
+
+
+
+
+
+ Legislative Review Note
+    as of   2-2-12  10:56 AM
+
+ Office of Legislative Research and General Counsel
+[Bill Documents][Bills Directory]
+
+
+
+
+
+
+
+
+
+Who represents me?
+
+
+
+
+
+Remember my Legislators
+
+
+
+
+
+State Senate
+		350 North State, Suite 320
+		PO Box 145115
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1035
+		Fax: (801) 326-1475
+
+
+
+House of Representatives
+		350 North State, Suite 350
+		PO Box 145030
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1029
+		Fax: (801) 326-1544
+
+
+
+
+
+
+
+
+
+
+Home
+Mobile Site
+Site Map
+Calendar
+Code / Constitution
+House
+Senate
+
+Terms of Use/Privacy Policy
+
+ADA
+Utah.gov
+
+
+
+
+
+
+

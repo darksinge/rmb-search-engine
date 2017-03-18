@@ -1,0 +1,2561 @@
+Sponsors: []Modifications: (1)  "Ambulatory surgical center" is as defined in Section 
+
+26-21-2
+
+.(2)(3)(4)(5)(6)(7)  "General acute hospital" is as defined in Section 
+
+26-21-2
+
+.(8)(9)(10)(11)(12)(13)(14)(15)(16)(17)  "Specialty hospital" is as defined in Section 
+
+26-21-
+
+ 2.Offenses Againstthe Person,;; and(j)  specific medical or epidemiological information may be released in accordance withSection 
+
+26-6-31
+
+ if an individual is not identifiable.(3)  The provisions of Subsection (2)(h) do not create a duty to warn third parties, but isintended only to aid health care providers in their treatment and containment of infectiousdisease.    26-6-31.(1)  An ambulatory surgical facility, a general acute hospital, and a specialty hospitalshall give the department access to the facility's data on the incidence and rate of health careassociated infections that the facility submits to the National Healthcare Safety Network in theCenter for Disease Control pursuant to the Center for Medicare and Medicaid Services rules forinfection reporting under the Inpatient Prospective Payment System.  Access to data under thisSubsection (1) may include data sharing through the National Healthcare Safety Network.(2) (a)  The department shall, beginning May 1, 2013, use the data submitted by thefacilities in accordance with Subsection (1) to compile an annual report on health careassociated infections in ambulatory surgical facilities, general acute hospitals, and specialtyhospitals for public distribution in accordance with the requirements of this subsection.  Thedepartment shall publish the report on the department's website and the Utah Health Exchange.(b)  The department's report under this section shall:(i)  include the following health care associated infections as required by the Center forMedicare and Medicaid Services and protocols adopted by the National Healthcare SafetyNetwork in the Center for Disease Control:(A)  central line associated bloodstream infections;(B)  catheter associated urinary tract infections;(C)  surgical site infections from procedures on the colon or an abdominalhysterectomy;(D)  methicillin-resistant staphylococcus aureus bacteremia;(E)  clostridium difficile of the colon; and(F)  other health care associated infections when reporting is required by the Center forMedicare and Medicaid Services and protocols adopted by the National Healthcare SafetyNetwork in the Center for Disease Control;(ii)  include data on the rate of health care associated infections:(A)  for the infection types described in Subsection (2)(b)(i); and(B)  by health care facility or hospital;(iii)  include data on how the rate of health care associated infections in ambulatorysurgical facilities, general acute hospitals, and specialty hospitals compares with the rates inother states;(iv)  in compiling the report described in Subsection (2)(a), use analyticalmethodologies that meet accepted standards of validity and reliability;(v)  clearly identify and acknowledge, in the report, the limitations of the data sourcesand analytic methodologies used to develop comparative facility or hospital information;(vi)  decide whether information supplied by a facility or hospital under Subsection (1)is appropriate to include in the report;(vii)  adjust comparisons among facilities and hospitals for patient case mix and otherrelevant factors, when appropriate; and(viii)  control for provider peer groups, when appropriate.(3)  Before posting or releasing the report described in Subsection (2)(a), thedepartment shall:(a)  disclose to each ambulatory surgical facility, general acute hospital, and specialtyhospital whose data is included in the report:(i)  the entire methodology for analyzing the data; and(ii)  the comparative facility or hospital information and other information thedepartment has compiled for the facility or hospital; and(b)  give the facility or hospital 30 days to suggest corrections or add explanatorycomments about the data.(4)  The department shall develop and implement effective safeguards to protect againstthe unauthorized use or disclosure of ambulatory surgical facility, general acute hospital, andspecialty hospital data, including the dissemination of inconsistent, incomplete, invalid,inaccurate, or subjective data.(5)  The report described in Subsection (2)(a):(a)  may include data that compare and identify general acute hospitals, ambulatorysurgical centers, and specialty hospitals;(b)  shall contain only statistical, non-identifying information and may not disclose theidentity of:(i)  an employee of an ambulatory surgical facility, a general acute hospital, or aspecialty hospital;(ii)  a patient; or(iii)  a health care provider licensed under Title 58, Occupations and Professions; and(c)  may not be used as evidence in a criminal, civil, or administrative proceeding.(6)  This section does not limit the department's authority to investigate and collect dataregarding infections and communicable diseases under other provisions of state or federal law.SectionSection(4)Full text:
+
+
+
+Utah State Legislature
+
+
+
+
+
+
+
+
+
+
+
+
+Legislators
+
+By Session (1896-Current)
+Alphabetical (Historical)
+Find by Address/Map
+More
+
+
+Bills
+
+Bills/Bill Requests
+Passed Bills
+2017 Bills
+
+Keyword Search
+Reading Calendars
+Tracking Service
+More
+
+
+Committees
+
+All Committees
+Appropriations
+Commissions
+
+Independent Legislative Ethics Commission
+Interim
+Standing
+Subcommittees
+Task Forces
+Bills In Committees
+
+
+Utah Code / Constitution
+
+
+Title/Chapter/Section
+Keyword Search 
+
+Utah Constitution
+Laws of Utah 1851-ongoing
+Utah Territorial Laws 
+More
+
+
+Senate
+
+Main Page 
+About The Senate 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Extraordinary Sessions 
+Reading Calendars 
+Past Floor Debates 
+Senate Journals 
+
+
+House
+
+Main Page
+About the House 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Reading Calendars 
+Past Floor Debates 
+Journals 
+Conflict of Interest Forms 
+
+
+Legislative Guide 
+
+Legislative Guide
+Civic Programs
+GRAMA (Records Requests)
+
+
+Publications
+
+Search Publications
+Appropriations
+Audits
+Bagels & Briefings
+Briefing Papers
+Digest of Legislation
+Legislative Drafting Manual
+
+Journals
+
+Interim Highlights
+
+Legislative Rules
+GRAMA (Records Requests)
+Public Email
+State Organization Charts
+YouTube Channel
+Requests for Proposals and Legal Notices
+More
+
+
+Legislative Histories
+
+Legislative History Resources
+How to Research
+Bill Drafting/Research Files (1990-Ongoing)
+
+Working Bills (1896-1989)
+Interim Committee Histories (1990-Ongoing) 
+Journals
+Past House Floor Debates
+Past Senate Floor Debates
+More
+
+
+Staff Offices
+
+All Legislative Offices
+Auditor General
+Fiscal Analyst
+Printing
+Research and General Counsel
+Staff Awards
+Job Opportunities
+More
+
+
+Links of Interest
+
+Utah Administrative Rules
+Courts
+Utah State Capitol
+State of Utah
+Federal Legislation
+More
+
+
+
+
+
+
+ 
+
+Download Zipped Introduced WordPerfect HB0055.ZIP
+[Status][Bill Documents][Fiscal Note][Bills Directory]
+
+
+H.B. 55
+
+
+
+
+
+            
+1
+
+    
+ HEALTH CARE ASSOCIATED INFECTIONS
+
+
+
+            
+2
+
+    
+2012 GENERAL SESSION
+
+            
+3
+
+    
+STATE OF UTAH
+
+            
+4
+
+    
+
+
+ Chief Sponsor:  Jack R. Draxler
+
+
+
+            
+5
+
+    
+
+
+
+Senate Sponsor: 
+
+
+
+
+
+
+  Peter C. Knudson
+
+
+
+
+
+            
+6
+
+    
+
+            
+7
+
+    
+ LONG TITLE
+            
+8
+
+    
+ General Description:
+            
+9
+
+    
+    This bill amends the Utah Communicable Disease Control Act by requiring certain
+            
+10
+
+    
+health care facilities to share with the Department of Health data that the facility is
+            
+11
+
+    
+required to report under federal law regarding health care associated infections and
+            
+12
+
+    
+requiring the Department of Health to release a public report on health care associated
+            
+13
+
+    
+infections.
+            
+14
+
+    
+ Highlighted Provisions:
+            
+15
+
+    
+    This bill:
+            
+16
+
+    
+    .    defines terms;
+            
+17
+
+    
+    .    requires an ambulatory surgical facility, a general acute hospital, and a specialty
+            
+18
+
+    
+hospital to share with the Department of Health data on health care associated
+            
+19
+
+    
+infections that the facility submits to the National Healthcare Safety Network in the
+            
+20
+
+    
+Centers for Disease Control and Prevention pursuant to requirements of the Center
+            
+21
+
+    
+for Medicare and Medicaid Services;
+            
+22
+
+    
+    .    requires the Department of Health to prepare and publicly disclose a report on
+            
+23
+
+    
+health care associated infection rates;
+            
+24
+
+    
+    .    establishes a protocol for the creation of the report;
+            
+25
+
+    
+    .    permits the report of health care associated infections to include data that compares
+            
+26
+
+    
+and identifies facilities;
+            
+27
+
+    
+    .    states that the report shall not be used as evidence in a criminal, civil, or
+
+            
+28
+
+
+    
+administrative proceeding; and
+            
+29
+
+    
+    .    makes technical changes.
+            
+30
+
+    
+ Money Appropriated in this Bill:
+            
+31
+
+    
+    None
+            
+32
+
+    
+ Other Special Clauses:
+            
+33
+
+    
+    None
+            
+34
+
+    
+ Utah Code Sections Affected:
+            
+35
+
+    
+AMENDS:
+            
+36
+
+    
+     26-6-2, as last amended by Laws of Utah 1996, Chapter 211
+            
+37
+
+    
+     26-6-27, as last amended by Laws of Utah 2008, Chapter 3
+            
+38
+
+    
+     58-1-307, as last amended by Laws of Utah 2011, Chapters 110 and 181
+            
+39
+
+    
+     58-17b-620, as last amended by Laws of Utah 2011, Chapter 110
+            
+40
+
+    
+ENACTS:
+            
+41
+
+    
+     26-6-31, Utah Code Annotated 1953
+            
+42
+
+    
+
+            
+43
+
+    
+Be it enacted by the Legislature of the state of Utah:
+            
+44
+
+    
+    Section 1.  
+Section  
+26-6-2
+
+ is amended to read:
+            
+45
+
+    
+     26-6-2.  Definitions.
+            
+46
+
+    
+    As used in this chapter:
+            
+47
+
+    
+    (1)  "Ambulatory surgical center" is as defined in Section 
+
+26-21-2
+
+.
+            
+48
+
+    
+    [(1)] (2)  "Carrier" means an infected individual or animal who harbors a specific
+            
+49
+
+    
+infectious agent in the absence of discernible clinical disease and serves as a potential source of
+            
+50
+
+    
+infection for man.  The carrier state may occur in an individual with an infection that is
+            
+51
+
+    
+inapparent throughout its course, commonly known as healthy or asymptomatic carrier, or
+            
+52
+
+    
+during the incubation period, convalescence, and postconvalescence of an individual with a
+            
+53
+
+    
+clinically recognizable disease, commonly known as incubatory carrier or convalescent carrier. 
+            
+54
+
+    
+Under either circumstance the carrier state may be of short duration, as a temporary or transient
+            
+55
+
+    
+carrier, or long duration, as a chronic carrier.
+            
+56
+
+    
+    [(2)] (3)  "Communicable disease" means illness due to a specific infectious agent or its
+            
+57
+
+    
+toxic products which arises through transmission of that agent or its products from a reservoir
+            
+58
+
+    
+to a susceptible host, either directly, as from an infected individual or animal, or indirectly,
+
+            
+59
+
+
+    
+through an intermediate plant or animal host, vector, or the inanimate environment.
+            
+60
+
+    
+    [(3)] (4)  "Communicable period" means the time or times during which an infectious
+            
+61
+
+    
+agent may be transferred directly or indirectly from an infected individual to another individual,
+            
+62
+
+    
+from an infected animal to man, or from an infected man to an animal, including arthropods.
+            
+63
+
+    
+    [(4)] (5)  "Contact" means an individual or animal having had association with an
+            
+64
+
+    
+infected individual, animal, or contaminated environment so as to have had an opportunity to
+            
+65
+
+    
+acquire the infection.
+            
+66
+
+    
+    [(5)] (6)  "Epidemic" means the occurrence or outbreak in a community or region of
+            
+67
+
+    
+cases of an illness clearly in excess of normal expectancy and derived from a common or
+            
+68
+
+    
+propagated source.  The number of cases indicating an epidemic will vary according to the
+            
+69
+
+    
+infectious agent, size, and type of population exposed, previous experience or lack of exposure
+            
+70
+
+    
+to the disease, and time and place of occurrence.  Epidemicity is considered to be relative to
+            
+71
+
+    
+usual frequency of the disease in the same area, among the specified population, at the same
+            
+72
+
+    
+season of the year.
+            
+73
+
+    
+    (7)  "General acute hospital" is as defined in Section 
+
+26-21-2
+
+.
+            
+74
+
+    
+    [(6)] (8)  "Incubation period" means the time interval between exposure to an infectious
+            
+75
+
+    
+agent and appearance of the first sign or symptom of the disease in question.
+            
+76
+
+    
+    [(7)] (9)  "Infected individual" means an individual who harbors an infectious agent and
+            
+77
+
+    
+who has manifest disease or inapparent infection.  An infected individual is one from whom the
+            
+78
+
+    
+infectious agent can be naturally acquired.
+            
+79
+
+    
+    [(8)] (10)  "Infection" means the entry and development or multiplication of an
+            
+80
+
+    
+infectious agent in the body of man or animals.  Infection is not synonymous with infectious
+            
+81
+
+    
+disease; the result may be inapparent or manifest.  The presence of living infectious agents on
+            
+82
+
+    
+exterior surfaces of the body, or upon articles of apparel or soiled articles, is not infection, but
+            
+83
+
+    
+contamination of such surfaces and articles.
+            
+84
+
+    
+    [(9)] (11)  "Infectious agent" means an organism such as a virus, rickettsia, bacteria,
+            
+85
+
+    
+fungus, protozoan, or helminth that is capable of producing infection or infectious disease.
+            
+86
+
+    
+    [(10)] (12)  "Infectious disease" means a disease of man or animals resulting from an
+            
+87
+
+    
+infection.
+            
+88
+
+    
+    [(11)] (13)  "Isolation" means the separation, for the period of communicability, of
+            
+89
+
+    
+infected  individuals or animals from others, in such places and under such conditions as to
+
+            
+90
+
+
+    
+prevent the direct or indirect conveyance of the infectious agent from those infected to those
+            
+91
+
+    
+who are susceptible or who may spread the agent to others.
+            
+92
+
+    
+    [(12)] (14)  "Quarantine" means the restriction of the activities of well individuals or
+            
+93
+
+    
+animals who have been exposed to a communicable disease during its period of
+            
+94
+
+    
+communicability to prevent disease transmission.
+            
+95
+
+    
+    [(13)] (15)  "School" means a public, private, or parochial nursery school, licensed or
+            
+96
+
+    
+unlicensed day care center, child care facility, family care home, headstart program,
+            
+97
+
+    
+kindergarten, elementary, or secondary school through grade 12.
+            
+98
+
+    
+    [(14)] (16)  "Sexually transmitted disease" means those diseases transmitted through
+            
+99
+
+    
+sexual intercourse or any other sexual contact.
+            
+100
+
+    
+    (17)  "Specialty hospital" is as defined in Section 
+
+26-21-
+
+ 2.
+            
+101
+
+    
+    Section 2.  
+Section  
+26-6-27
+
+ is amended to read:
+            
+102
+
+    
+     26-6-27.  Information regarding communicable or reportable diseases
+            
+103
+
+    
+ confidentiality -- Exceptions.
+            
+104
+
+    
+    (1)  Information collected pursuant to this chapter in the possession of the department
+            
+105
+
+    
+or local health departments relating to an individual who has or is suspected of having a disease
+            
+106
+
+    
+designated by the department as a communicable or reportable disease under this chapter shall
+            
+107
+
+    
+be held by the department and local health departments as strictly confidential.  The department
+            
+108
+
+    
+and local health departments may not release or make public that information upon subpoena,
+            
+109
+
+    
+search warrant, discovery proceedings, or otherwise, except as provided by this section.
+            
+110
+
+    
+    (2)  The information described in Subsection (1) may be released by the department or
+            
+111
+
+    
+local health departments only in accordance with the requirements of this chapter and as
+            
+112
+
+    
+follows:
+            
+113
+
+    
+    (a)  specific medical or epidemiological information may be released with the written
+            
+114
+
+    
+consent of the individual identified in that information or, if that individual is deceased, his
+            
+115
+
+    
+next-of-kin;
+            
+116
+
+    
+    (b)  specific medical or epidemiological information may be released to medical
+            
+117
+
+    
+personnel or peace officers in a medical emergency, as determined by the department in
+            
+118
+
+    
+accordance with guidelines it has established, only to the extent necessary to protect the health
+            
+119
+
+    
+or life of the individual identified in the information, or of the attending medical personnel or
+            
+120
+
+    
+law enforcement or public safety officers;
+
+            
+121
+
+
+    
+    (c)  specific medical or epidemiological information may be released to authorized
+            
+122
+
+    
+personnel within the department, local health departments, official health agencies in other
+            
+123
+
+    
+states, the United States Public Health Service, the Centers for Disease Control and Prevention
+            
+124
+
+    
+(CDC), or when necessary to continue patient services or to undertake public health efforts to
+            
+125
+
+    
+interrupt the transmission of disease;
+            
+126
+
+    
+    (d)  if the individual identified in the information is under the age of 18, the information
+            
+127
+
+    
+may be released to the Division of Child and Family Services within the Department of Human
+            
+128
+
+    
+Services in accordance with Section 
+
+62A-4a-403
+
+.  If that information is required in a court
+            
+129
+
+    
+proceeding involving child abuse or sexual abuse under Title 76, Chapter 5, Offenses Against
+            
+130
+
+    
+the Person, the information shall be disclosed in camera and sealed by the court upon
+            
+131
+
+    
+conclusion of the proceedings;
+            
+132
+
+    
+    (e)  specific medical or epidemiological information may be released to authorized
+            
+133
+
+    
+personnel in the department or in local health departments, and to the courts, to carry out the
+            
+134
+
+    
+provisions of this title, and rules adopted by the department in accordance with this title;
+            
+135
+
+    
+    (f)  specific medical or epidemiological information may be released to blood banks,
+            
+136
+
+    
+organ and tissue banks, and similar institutions for the purpose of identifying individuals with
+            
+137
+
+    
+communicable diseases.  The department may, by rule, designate the diseases about which
+            
+138
+
+    
+information may be disclosed under this subsection, and may choose to release the name of an
+            
+139
+
+    
+infected individual to those organizations without disclosing the specific disease;
+            
+140
+
+    
+    (g)  specific medical or epidemiological information may be released in such a way that
+            
+141
+
+    
+no  individual is identifiable;
+            
+142
+
+    
+    (h)  specific medical or epidemiological information may be released to a "health care
+            
+143
+
+    
+provider" as defined in Section 
+
+78B-3-403
+
+, health care personnel, and public health personnel
+            
+144
+
+    
+who have a legitimate need to have access to the information in order to assist the patient, or to
+            
+145
+
+    
+protect the health of others closely associated with the patient[.  This subsection does not create
+            
+146
+
+    
+a duty to warn third parties, but is intended only to aid health care providers in their treatment
+            
+147
+
+    
+and containment of infectious disease; and];
+            
+148
+
+    
+    (i)  specific medical or epidemiological information regarding a health care provider, as
+            
+149
+
+    
+defined in Section 
+
+78B-3-403
+
+, may be released to the department, the appropriate local health
+            
+150
+
+    
+department, and the Division of Occupational and Professional Licensing within the
+            
+151
+
+    
+Department of Commerce, if the identified health care provider is endangering the safety or life
+
+            
+152
+
+
+    
+of any individual by his continued practice of health care[.]; and
+            
+153
+
+    
+    (j)  specific medical or epidemiological information may be released in accordance with
+            
+154
+
+    
+Section 
+
+26-6-31
+
+ if an individual is not identifiable.
+            
+155
+
+    
+    (3)  The provisions of Subsection (2)(h) do not create a duty to warn third parties, but is
+            
+156
+
+    
+intended only to aid health care providers in their treatment and containment of infectious
+            
+157
+
+    
+disease.
+            
+158
+
+    
+    Section 3.  
+Section  
+26-6-31
+
+ is enacted to read:
+            
+159
+
+    
+     26-6-31.  Public reporting of health care associated infections.
+            
+160
+
+    
+    (1)  An ambulatory surgical facility, a general acute hospital, and a specialty hospital
+            
+161
+
+    
+shall give the department access to the facility's data on the incidence and rate of health care
+            
+162
+
+    
+associated infections that the facility submits to the National Healthcare Safety Network in the
+            
+163
+
+    
+Center for Disease Control pursuant to the Center for Medicare and Medicaid Services rules for
+            
+164
+
+    
+infection reporting under the Inpatient Prospective Payment System.  Access to data under this
+            
+165
+
+    
+Subsection (1) may include data sharing through the National Healthcare Safety Network.
+            
+166
+
+    
+    (2) (a)  The department shall, beginning May 1, 2013, use the data submitted by the
+            
+167
+
+    
+facilities in accordance with Subsection (1) to compile an annual report on health care
+            
+168
+
+    
+associated infections in ambulatory surgical facilities, general acute hospitals, and specialty
+            
+169
+
+    
+hospitals for public distribution in accordance with the requirements of this subsection.  The
+            
+170
+
+    
+department shall publish the report on the department's website and the Utah Health Exchange.
+            
+171
+
+    
+    (b)  The department's report under this section shall:
+            
+172
+
+    
+    (i)  include the following health care associated infections as required by the Center for
+            
+173
+
+    
+Medicare and Medicaid Services and protocols adopted by the National Healthcare Safety
+            
+174
+
+    
+Network in the Center for Disease Control:
+            
+175
+
+    
+    (A)  central line associated bloodstream infections;
+            
+176
+
+    
+    (B)  catheter associated urinary tract infections;
+            
+177
+
+    
+    (C)  surgical site infections from procedures on the colon or an abdominal
+            
+178
+
+    
+hysterectomy;
+            
+179
+
+    
+    (D)  methicillin-resistant staphylococcus aureus bacteremia;
+            
+180
+
+    
+    (E)  clostridium difficile of the colon; and
+            
+181
+
+    
+    (F)  other health care associated infections when reporting is required by the Center for
+            
+182
+
+    
+Medicare and Medicaid Services and protocols adopted by the National Healthcare Safety
+
+            
+183
+
+
+    
+Network in the Center for Disease Control;
+            
+184
+
+    
+    (ii)  include data on the rate of health care associated infections:
+            
+185
+
+    
+    (A)  for the infection types described in Subsection (2)(b)(i); and
+            
+186
+
+    
+    (B)  by health care facility or hospital;
+            
+187
+
+    
+    (iii)  include data on how the rate of health care associated infections in ambulatory
+            
+188
+
+    
+surgical facilities, general acute hospitals, and specialty hospitals compares with the rates in
+            
+189
+
+    
+other states;
+            
+190
+
+    
+    (iv)  in compiling the report described in Subsection (2)(a), use analytical
+            
+191
+
+    
+methodologies that meet accepted standards of validity and reliability;
+            
+192
+
+    
+    (v)  clearly identify and acknowledge, in the report, the limitations of the data sources
+            
+193
+
+    
+and analytic methodologies used to develop comparative facility or hospital information;
+            
+194
+
+    
+    (vi)  decide whether information supplied by a facility or hospital under Subsection (1)
+            
+195
+
+    
+is appropriate to include in the report;
+            
+196
+
+    
+    (vii)  adjust comparisons among facilities and hospitals for patient case mix and other
+            
+197
+
+    
+relevant factors, when appropriate; and
+            
+198
+
+    
+    (viii)  control for provider peer groups, when appropriate.
+            
+199
+
+    
+    (3)  Before posting or releasing the report described in Subsection (2)(a), the
+            
+200
+
+    
+department shall:
+            
+201
+
+    
+    (a)  disclose to each ambulatory surgical facility, general acute hospital, and specialty
+            
+202
+
+    
+hospital whose data is included in the report:
+            
+203
+
+    
+    (i)  the entire methodology for analyzing the data; and
+            
+204
+
+    
+    (ii)  the comparative facility or hospital information and other information the
+            
+205
+
+    
+department has compiled for the facility or hospital; and
+            
+206
+
+    
+    (b)  give the facility or hospital 30 days to suggest corrections or add explanatory
+            
+207
+
+    
+comments about the data.
+            
+208
+
+    
+    (4)  The department shall develop and implement effective safeguards to protect against
+            
+209
+
+    
+the unauthorized use or disclosure of ambulatory surgical facility, general acute hospital, and
+            
+210
+
+    
+specialty hospital data, including the dissemination of inconsistent, incomplete, invalid,
+            
+211
+
+    
+inaccurate, or subjective data.
+            
+212
+
+    
+    (5)  The report described in Subsection (2)(a):
+            
+213
+
+    
+    (a)  may include data that compare and identify general acute hospitals, ambulatory
+
+            
+214
+
+
+    
+surgical centers, and specialty hospitals;
+            
+215
+
+    
+    (b)  shall contain only statistical, non-identifying information and may not disclose the
+            
+216
+
+    
+identity of:
+            
+217
+
+    
+    (i)  an employee of an ambulatory surgical facility, a general acute hospital, or a
+            
+218
+
+    
+specialty hospital;
+            
+219
+
+    
+    (ii)  a patient; or
+            
+220
+
+    
+    (iii)  a health care provider licensed under Title 58, Occupations and Professions; and
+            
+221
+
+    
+    (c)  may not be used as evidence in a criminal, civil, or administrative proceeding.
+            
+222
+
+    
+    (6)  This section does not limit the department's authority to investigate and collect data
+            
+223
+
+    
+regarding infections and communicable diseases under other provisions of state or federal law.
+            
+224
+
+    
+    Section 4.  
+Section  
+58-1-307
+
+ is amended to read:
+            
+225
+
+    
+     58-1-307.  Exemptions from licensure.
+            
+226
+
+    
+    (1)  Except as otherwise provided by statute or rule, the following individuals may
+            
+227
+
+    
+engage in the practice of their occupation or profession, subject to the stated circumstances and
+            
+228
+
+    
+limitations, without being licensed under this title:
+            
+229
+
+    
+    (a)  an individual serving in the armed forces of the United States, the United States
+            
+230
+
+    
+Public Health Service, the United States Department of Veterans Affairs, or other federal
+            
+231
+
+    
+agencies while engaged in activities regulated under this chapter as a part of employment with
+            
+232
+
+    
+that federal agency if the individual holds a valid license to practice a regulated occupation or
+            
+233
+
+    
+profession issued by any other state or jurisdiction recognized by the division;
+            
+234
+
+    
+    (b)  a student engaged in activities constituting the practice of a regulated occupation or
+            
+235
+
+    
+profession while in training in a recognized school approved by the division to the extent the
+            
+236
+
+    
+activities are supervised by qualified faculty, staff, or designee and the activities are a defined
+            
+237
+
+    
+part of the training program;
+            
+238
+
+    
+    (c)  an individual engaged in an internship, residency, preceptorship, postceptorship,
+            
+239
+
+    
+fellowship, apprenticeship, or on-the-job training program approved by the division while
+            
+240
+
+    
+under the supervision of qualified individuals;
+            
+241
+
+    
+    (d)  an individual residing in another state and licensed to practice a regulated
+            
+242
+
+    
+occupation or profession in that state, who is called in for a consultation by an individual
+            
+243
+
+    
+licensed in this state, and the services provided are limited to that consultation;
+            
+244
+
+    
+    (e)  an individual who is invited by a recognized school, association, society, or other
+
+            
+245
+
+
+    
+body approved by the division to conduct a lecture, clinic, or demonstration of the practice of a
+            
+246
+
+    
+regulated occupation or profession if the individual does not establish a place of business or
+            
+247
+
+    
+regularly engage in the practice of the regulated occupation or profession in this state;
+            
+248
+
+    
+    (f)  an individual licensed under the laws of this state, other than under this title, to
+            
+249
+
+    
+practice or engage in an occupation or profession, while engaged in the lawful, professional,
+            
+250
+
+    
+and competent practice of that occupation or profession;
+            
+251
+
+    
+    (g)  an individual licensed in a health care profession in another state who performs that
+            
+252
+
+    
+profession while attending to the immediate needs of a patient for a reasonable period during
+            
+253
+
+    
+which the patient is being transported from outside of this state, into this state, or through this
+            
+254
+
+    
+state;
+            
+255
+
+    
+    (h)  an individual licensed in another state or country who is in this state temporarily to
+            
+256
+
+    
+attend to the needs of an athletic team or group, except that the practitioner may only attend to
+            
+257
+
+    
+the needs of the athletic team or group, including all individuals who travel with the team or
+            
+258
+
+    
+group in any capacity except as a spectator;
+            
+259
+
+    
+    (i)  an individual licensed and in good standing in another state, who is in this state:
+            
+260
+
+    
+    (i)  temporarily, under the invitation and control of a sponsoring entity;
+            
+261
+
+    
+    (ii)  for a reason associated with a special purpose event, based upon needs that may
+            
+262
+
+    
+exceed the ability of this state to address through its licensees, as determined by the division;
+            
+263
+
+    
+and
+            
+264
+
+    
+    (iii)  for a limited period of time not to exceed the duration of that event, together with
+            
+265
+
+    
+any necessary preparatory and conclusionary periods;
+            
+266
+
+    
+    (j)  a law enforcement officer, as defined under Section 
+
+53-13-103
+
+, who:
+            
+267
+
+    
+    (i)  is operating a voice stress analyzer in the course of the officer's full-time
+            
+268
+
+    
+employment with a federal, state, or local law enforcement agency;
+            
+269
+
+    
+    (ii)  has completed the manufacturer's training course and is certified by the
+            
+270
+
+    
+manufacturer to operate that voice stress analyzer; and
+            
+271
+
+    
+    (iii)  is operating the voice stress analyzer in accordance with Section 
+
+58-64-601
+
+,
+            
+272
+
+    
+regarding deception detection instruments; and
+            
+273
+
+    
+    (k)  the spouse of an individual serving in the armed forces of the United States while
+            
+274
+
+    
+the individual is stationed within this state, provided:
+            
+275
+
+    
+    (i)  the spouse holds a valid license to practice a regulated occupation or profession
+
+            
+276
+
+
+    
+issued by any other state or jurisdiction recognized by the division; and
+            
+277
+
+    
+    (ii)  the license is current and the spouse is in good standing in the state of licensure.
+            
+278
+
+    
+    (2) (a)  A practitioner temporarily in this state who is exempted from licensure under
+            
+279
+
+    
+Subsection (1) shall comply with each requirement of the licensing jurisdiction from which the
+            
+280
+
+    
+practitioner derives authority to practice.
+            
+281
+
+    
+    (b)  Violation of a limitation imposed by this section constitutes grounds for removal of
+            
+282
+
+    
+exempt status, denial of license, or other disciplinary proceedings.
+            
+283
+
+    
+    (3)  An individual who is licensed under a specific chapter of this title to practice or
+            
+284
+
+    
+engage in an occupation or profession may engage in the lawful, professional, and competent
+            
+285
+
+    
+practice of that occupation or profession without additional licensure under other chapters of
+            
+286
+
+    
+this title, except as otherwise provided by this title.
+            
+287
+
+    
+    (4)  Upon the declaration of a national, state, or local emergency, a public health
+            
+288
+
+    
+emergency as defined in Section 
+
+26-23b-102
+
+, or a declaration by the President of the United
+            
+289
+
+    
+States or other federal official requesting public health-related activities, the division in
+            
+290
+
+    
+collaboration with the board may:
+            
+291
+
+    
+    (a)  suspend the requirements for permanent or temporary licensure of individuals who
+            
+292
+
+    
+are licensed in another state for the duration of the emergency while engaged in the scope of
+            
+293
+
+    
+practice for which they are licensed in the other state;
+            
+294
+
+    
+    (b)  modify, under the circumstances described in this Subsection (4) and Subsection
+            
+295
+
+    
+(5), the scope of practice restrictions under this title for individuals who are licensed under this
+            
+296
+
+    
+title as:
+            
+297
+
+    
+    (i)  a physician under Chapter 67, Utah Medical Practice Act, or Chapter 68, Utah
+            
+298
+
+    
+Osteopathic Medical Practice Act;
+            
+299
+
+    
+    (ii)  a nurse under Chapter 31b, Nurse Practice Act, or Chapter 31c, Nurse Licensure
+            
+300
+
+    
+Compact;
+            
+301
+
+    
+    (iii)  a certified nurse midwife under Chapter 44a, Nurse Midwife Practice Act;
+            
+302
+
+    
+    (iv)  a pharmacist, pharmacy technician, or pharmacy intern under Chapter 17b,
+            
+303
+
+    
+Pharmacy Practice Act;
+            
+304
+
+    
+    (v)  a respiratory therapist under Chapter 57, Respiratory Care Practices Act;
+            
+305
+
+    
+    (vi)  a dentist and dental hygienist under Chapter 69, Dentist and Dental Hygienist
+            
+306
+
+    
+Practice Act; and
+
+            
+307
+
+
+    
+    (vii)  a physician assistant under Chapter 70a, Physician Assistant Act;
+            
+308
+
+    
+    (c)  suspend the requirements for licensure under this title and modify the scope of
+            
+309
+
+    
+practice in the circumstances described in this Subsection (4) and Subsection (5) for medical
+            
+310
+
+    
+services personnel or paramedics required to be certified under Section 
+
+26-8a-302
+
+;
+            
+311
+
+    
+    (d)  suspend requirements in Subsections 
+
+58-17b-620
+
+(3) through (6) which require
+            
+312
+
+    
+certain prescriptive procedures;
+            
+313
+
+    
+    (e)  exempt or modify the requirement for licensure of an individual who is activated as
+            
+314
+
+    
+a member of a medical reserve corps during a time of emergency as provided in Section
+            
+315
+
+    
+
+26A-1-126
+
+; and
+            
+316
+
+    
+    (f)  exempt or modify the requirement for licensure of an individual who is registered as
+            
+317
+
+    
+a volunteer health practitioner as provided in Title 26, Chapter 49, Uniform Emergency
+            
+318
+
+    
+Volunteer Health Practitioners Act.
+            
+319
+
+    
+    (5)  Individuals exempt under Subsection (4)(c) and individuals operating under
+            
+320
+
+    
+modified scope of practice provisions under Subsection (4)(b):
+            
+321
+
+    
+    (a)  are exempt from licensure or subject to modified scope of practice for the duration
+            
+322
+
+    
+of the emergency;
+            
+323
+
+    
+    (b)  must be engaged in the distribution of medicines or medical devices in response to
+            
+324
+
+    
+the emergency or declaration; and
+            
+325
+
+    
+    (c)  must be employed by or volunteering for:
+            
+326
+
+    
+    (i)  a local or state department of health; or
+            
+327
+
+    
+    (ii)  a host entity as defined in Section 
+
+26-49-102
+
+.
+            
+328
+
+    
+    (6)  In accordance with the protocols established under Subsection (8), upon the
+            
+329
+
+    
+declaration of a national, state, or local emergency, the Department of Health or a local health
+            
+330
+
+    
+department shall coordinate with public safety authorities as defined in Subsection
+            
+331
+
+    
+
+26-23b-110
+
+(1) and may:
+            
+332
+
+    
+    (a)  use a vaccine, antiviral, antibiotic, or other prescription medication that is not a
+            
+333
+
+    
+controlled substance to prevent or treat a disease or condition that gave rise to, or was a
+            
+334
+
+    
+consequence of, the emergency; or
+            
+335
+
+    
+    (b)  distribute a vaccine, antiviral, antibiotic, or other prescription medication that is not
+            
+336
+
+    
+a controlled substance:
+            
+337
+
+    
+    (i)  if necessary, to replenish a commercial pharmacy in the event that the commercial
+
+            
+338
+
+
+    
+pharmacy's normal source of the vaccine, antiviral, antibiotic, or other prescription medication
+            
+339
+
+    
+is exhausted; or
+            
+340
+
+    
+    (ii)  for dispensing or direct administration to treat the disease or condition that gave
+            
+341
+
+    
+rise to, or was a consequence of, the emergency by:
+            
+342
+
+    
+    (A)  a pharmacy;
+            
+343
+
+    
+    (B)  a prescribing practitioner;
+            
+344
+
+    
+    (C)  a licensed health care facility;
+            
+345
+
+    
+    (D)  a federally qualified community health clinic; or
+            
+346
+
+    
+    (E)  a governmental entity for use by a community more than 50 miles from a person
+            
+347
+
+    
+described in Subsections (6)(b)(ii)(A) through (D).
+            
+348
+
+    
+    (7)  In accordance with protocols established under Subsection (8), upon the declaration
+            
+349
+
+    
+of a national, state, or local emergency, the Department of Health shall coordinate the
+            
+350
+
+    
+distribution of medications:
+            
+351
+
+    
+    (a)  received from the strategic national stockpile to local health departments; and
+            
+352
+
+    
+    (b)  from local health departments to emergency personnel within the local health
+            
+353
+
+    
+departments' geographic region.
+            
+354
+
+    
+    (8)  The Department of Health shall establish by rule, made in accordance with Title
+            
+355
+
+    
+63G, Chapter 3, Utah Administrative Rulemaking Act, protocols for administering, dispensing,
+            
+356
+
+    
+and distributing a vaccine, an antiviral, an antibiotic, or other prescription medication that is
+            
+357
+
+    
+not a controlled substance in the event of a declaration of a national, state, or local emergency. 
+            
+358
+
+    
+The protocol shall establish procedures for the Department of Health or a local health
+            
+359
+
+    
+department to:
+            
+360
+
+    
+    (a)  coordinate the distribution of:
+            
+361
+
+    
+    (i)  a vaccine, an antiviral, an antibiotic, or other prescription medication that is not a
+            
+362
+
+    
+controlled substance received by the Department of Health from the strategic national stockpile
+            
+363
+
+    
+to local health departments; and
+            
+364
+
+    
+    (ii)  a vaccine, an antiviral, an antibiotic, or other non-controlled prescription
+            
+365
+
+    
+medication received by a local health department to emergency personnel within the local
+            
+366
+
+    
+health department's geographic region;
+            
+367
+
+    
+    (b)  authorize the dispensing, administration, or distribution of a vaccine, an antiviral,
+            
+368
+
+    
+an antibiotic, or other prescription medication that is not a controlled substance to the contact
+
+            
+369
+
+
+    
+of a patient, as defined in [Subsection] Section
+
+26-6-2
+
+[(4)], without a patient-practitioner
+            
+370
+
+    
+relationship, if the contact's condition is the same as that of the physician's patient; and
+            
+371
+
+    
+    (c)  authorize the administration, distribution, or dispensing of a vaccine, an antiviral,
+            
+372
+
+    
+an antibiotic, or other non-controlled prescription medication to an individual who:
+            
+373
+
+    
+    (i)  is working in a triage situation;
+            
+374
+
+    
+    (ii)  is receiving preventative or medical treatment in a triage situation;
+            
+375
+
+    
+    (iii)  does not have coverage for the prescription in the individual's health insurance
+            
+376
+
+    
+plan;
+            
+377
+
+    
+    (iv)  is involved in the delivery of medical or other emergency services in response to
+            
+378
+
+    
+the declared national, state, or local emergency; or
+            
+379
+
+    
+    (v)  otherwise has a direct impact on public health.
+            
+380
+
+    
+    (9)  The Department of Health shall give notice to the division upon implementation of
+            
+381
+
+    
+the protocol established under Subsection (8).
+            
+382
+
+    
+    Section 5.  
+Section  
+58-17b-620
+
+ is amended to read:
+            
+383
+
+    
+     58-17b-620.  Prescriptions issued within the public health system.
+            
+384
+
+    
+    (1)  As used in this section:
+            
+385
+
+    
+    (a)  "Department of Health" means the state Department of Health created in Section
+            
+386
+
+    
+
+26-1-4
+
+.
+            
+387
+
+    
+    (b)  "Health department" means either the Department of Health or a local health
+            
+388
+
+    
+department.
+            
+389
+
+    
+    (c)  "Local health departments" mean the local health departments created in Title 26A,
+            
+390
+
+    
+Chapter 1, Local Health Departments.
+            
+391
+
+    
+    (2)  When it is necessary to treat a reportable disease or non-emergency condition that
+            
+392
+
+    
+has a direct impact on public health, a health department may implement the prescription
+            
+393
+
+    
+procedure described in Subsection (3) for a prescription drug that is not a controlled substance
+            
+394
+
+    
+for use in:
+            
+395
+
+    
+    (a)  a clinic; or
+            
+396
+
+    
+    (b)  a remote or temporary off-site location, including a triage facility established in the
+            
+397
+
+    
+community, that provides:
+            
+398
+
+    
+    (i)  treatment for sexually transmitted infections;
+            
+399
+
+    
+    (ii)  fluoride treatment;
+
+            
+400
+
+
+    
+    (iii)  travel immunization;
+            
+401
+
+    
+    (iv)  preventative treatment for an individual with latent tuberculosis infection;
+            
+402
+
+    
+    (v)  preventative treatment for an individual at risk for an infectious disease that has a
+            
+403
+
+    
+direct impact on public health when the treatment is indicated to prevent the spread of disease
+            
+404
+
+    
+or to mitigate the seriousness of infection in the exposed individual; or
+            
+405
+
+    
+    (vi)  other treatment as defined by the Department of Health rule.
+            
+406
+
+    
+    (3)  In a circumstance described in Subsection (2), an individual with prescriptive
+            
+407
+
+    
+authority may write a prescription for each contact, as defined in [Subsection] Section
+            
+408
+
+    
+
+26-6-2
+
+[(4)], of a patient of the individual with prescriptive authority without a face-to-face
+            
+409
+
+    
+exam, if:
+            
+410
+
+    
+    (a)  the individual with prescriptive authority is treating the patient for a reportable
+            
+411
+
+    
+disease or non-emergency condition having a direct impact on public health; and
+            
+412
+
+    
+    (b)  the contact's condition is the same as the patient of the individual with prescriptive
+            
+413
+
+    
+authority.
+            
+414
+
+    
+    (4)  The following prescription procedure shall be carried out in accordance with the
+            
+415
+
+    
+requirements of Subsection (5) and may be used only in the circumstances described under
+            
+416
+
+    
+Subsections (2) and (3):
+            
+417
+
+    
+    (a)  a physician writes and signs a prescription for a prescription drug, other than a
+            
+418
+
+    
+controlled substance, without the name and address of the patient and without the date the
+            
+419
+
+    
+prescription is provided to the patient; and
+            
+420
+
+    
+    (b)  the physician authorizes a registered nurse employed by the health department to
+            
+421
+
+    
+complete the prescription written under this Subsection [(3)] (4) by inserting the patient's name
+            
+422
+
+    
+and address, and the date the prescription is provided to the patient, in accordance with the
+            
+423
+
+    
+physician's standing written orders and a written health department protocol approved by the
+            
+424
+
+    
+physician and the medical director of the state Department of Health.
+            
+425
+
+    
+    (5)  A physician assumes responsibility for all prescriptions issued under this section in
+            
+426
+
+    
+the physician's name.
+            
+427
+
+    
+    (6) (a)  All prescription forms to be used by a physician and health department in
+            
+428
+
+    
+accordance with this section shall be serially numbered according to a numbering system
+            
+429
+
+    
+assigned to that health department.
+            
+430
+
+    
+    (b)  All prescriptions issued shall contain all information required under this chapter
+
+            
+431
+
+
+    
+and rules adopted under this chapter.
+
+
+
+
+ Legislative Review Note
+    as of  12-15-11  6:34 AM
+
+ Office of Legislative Research and General Counsel
+[Bill Documents][Bills Directory]
+
+
+
+
+
+
+
+
+
+Who represents me?
+
+
+
+
+
+Remember my Legislators
+
+
+
+
+
+State Senate
+		350 North State, Suite 320
+		PO Box 145115
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1035
+		Fax: (801) 326-1475
+
+
+
+House of Representatives
+		350 North State, Suite 350
+		PO Box 145030
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1029
+		Fax: (801) 326-1544
+
+
+
+
+
+
+
+
+
+
+Home
+Mobile Site
+Site Map
+Calendar
+Code / Constitution
+House
+Senate
+
+Terms of Use/Privacy Policy
+
+ADA
+Utah.gov
+
+
+
+
+
+
+

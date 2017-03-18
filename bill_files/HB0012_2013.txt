@@ -1,0 +1,1643 @@
+Sponsors: []Modifications: :(a)  except as provided in Subsection (2)(b),an; and(b)  does not include an individual who:(i)  is not engaged in the sale, installation, maintenance, alteration, repair, replacement,servicing, or monitoring of an alarm system; and(ii)  does not, during the normal course of the individual's employment with an alarmbusiness, use or have access to sensitive alarm system information.(39)  "Sensitive alarm system information" means:(a)  a pass code or other code used in the operation of an alarm system;(b)  information on the location of alarm system components at the premises of acustomer of the alarm business providing the alarm system;(c)  information that would allow the circumvention, bypass, deactivation, or othercompromise of an alarm system of a customer of the alarm business providing the alarmsystem; and(d)  any other similar information that the division by rule determines to be informationthat an individual employed by an alarm business should use or have access to only if theindividual is licensed as provided in this chapter.(40)(41)(42)(43)(44)Full text:
+
+
+
+Utah State Legislature
+
+
+
+
+
+
+
+
+
+
+
+
+Legislators
+
+By Session (1896-Current)
+Alphabetical (Historical)
+Find by Address/Map
+More
+
+
+Bills
+
+Bills/Bill Requests
+Passed Bills
+2017 Bills
+
+Keyword Search
+Reading Calendars
+Tracking Service
+More
+
+
+Committees
+
+All Committees
+Appropriations
+Commissions
+
+Independent Legislative Ethics Commission
+Interim
+Standing
+Subcommittees
+Task Forces
+Bills In Committees
+
+
+Utah Code / Constitution
+
+
+Title/Chapter/Section
+Keyword Search 
+
+Utah Constitution
+Laws of Utah 1851-ongoing
+Utah Territorial Laws 
+More
+
+
+Senate
+
+Main Page 
+About The Senate 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Extraordinary Sessions 
+Reading Calendars 
+Past Floor Debates 
+Senate Journals 
+
+
+House
+
+Main Page
+About the House 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Reading Calendars 
+Past Floor Debates 
+Journals 
+Conflict of Interest Forms 
+
+
+Legislative Guide 
+
+Legislative Guide
+Civic Programs
+GRAMA (Records Requests)
+
+
+Publications
+
+Search Publications
+Appropriations
+Audits
+Bagels & Briefings
+Briefing Papers
+Digest of Legislation
+Legislative Drafting Manual
+
+Journals
+
+Interim Highlights
+
+Legislative Rules
+GRAMA (Records Requests)
+Public Email
+State Organization Charts
+YouTube Channel
+Requests for Proposals and Legal Notices
+More
+
+
+Legislative Histories
+
+Legislative History Resources
+How to Research
+Bill Drafting/Research Files (1990-Ongoing)
+
+Working Bills (1896-1989)
+Interim Committee Histories (1990-Ongoing) 
+Journals
+Past House Floor Debates
+Past Senate Floor Debates
+More
+
+
+Staff Offices
+
+All Legislative Offices
+Auditor General
+Fiscal Analyst
+Printing
+Research and General Counsel
+Staff Awards
+Job Opportunities
+More
+
+
+Links of Interest
+
+Utah Administrative Rules
+Courts
+Utah State Capitol
+State of Utah
+Federal Legislation
+More
+
+
+
+
+
+
+ 
+
+Download Zipped Introduced WordPerfect HB0012.ZIP
+[Status][Bill Documents][Fiscal Note][Bills Directory]
+
+
+H.B. 12
+
+
+
+
+
+            
+1
+
+    
+ ALARM COMPANY EMPLOYEE LICENSING
+
+
+
+            
+2
+
+    
+2013 GENERAL SESSION
+
+            
+3
+
+    
+STATE OF UTAH
+
+            
+4
+
+    
+
+
+ Chief Sponsor:  James A. Dunnigan
+
+
+
+            
+5
+
+    
+
+
+
+Senate Sponsor:  
+
+
+
+
+
+
+John L. Valentine
+
+
+
+
+
+            
+6
+
+    
+
+            
+7
+
+    
+ LONG TITLE
+            
+8
+
+    
+ Committee Note:
+            
+9
+
+    
+    The Business and Labor Interim Committee recommended this bill.
+            
+10
+
+    
+ General Description:
+            
+11
+
+    
+    This bill modifies provisions relating to the licensing of alarm company employees.
+            
+12
+
+    
+ Highlighted Provisions:
+            
+13
+
+    
+    This bill:
+            
+14
+
+    
+    .    modifies the definition of "alarm company agent" to exclude certain alarm company
+            
+15
+
+    
+employees from licensing requirements; and
+            
+16
+
+    
+    .    enacts a definition of "sensitive alarm system information."
+            
+17
+
+    
+ Money Appropriated in this Bill:
+            
+18
+
+    
+    None
+            
+19
+
+    
+ Other Special Clauses:
+            
+20
+
+    
+    None
+            
+21
+
+    
+ Utah Code Sections Affected:
+            
+22
+
+    
+AMENDS:
+            
+23
+
+    
+     58-55-102, as last amended by Laws of Utah 2012, Chapter 25
+            
+24
+
+    
+
+            
+25
+
+    
+Be it enacted by the Legislature of the state of Utah:
+            
+26
+
+    
+    Section 1.  
+Section  
+58-55-102
+
+ is amended to read:
+            
+27
+
+    
+     58-55-102.  Definitions.
+
+            
+28
+
+
+    
+    In addition to the definitions in Section 
+
+58-1-102
+
+, as used in this chapter:
+            
+29
+
+    
+    (1) (a)  "Alarm business or company" means a person engaged in the sale, installation,
+            
+30
+
+    
+maintenance, alteration, repair, replacement, servicing, or monitoring of an alarm system,
+            
+31
+
+    
+except as provided in Subsection (1)(b).
+            
+32
+
+    
+    (b)  "Alarm business or company" does not include:
+            
+33
+
+    
+    (i)  a person engaged in the manufacture and sale of alarm systems when that person is
+            
+34
+
+    
+not engaged in the installation, maintenance, alteration, repair, replacement, servicing, or
+            
+35
+
+    
+monitoring of alarm systems, and the manufacture or sale occurs only at a place of business
+            
+36
+
+    
+established by the person engaged in the manufacture or sale and does not involve site visits at
+            
+37
+
+    
+the place or intended place of installation of an alarm system; or
+            
+38
+
+    
+    (ii)  an owner of an alarm system, or an employee of the owner of an alarm system who
+            
+39
+
+    
+is engaged in installation, maintenance, alteration, repair, replacement, servicing, or monitoring
+            
+40
+
+    
+of the alarm system owned by that owner.
+            
+41
+
+    
+    (2)  "Alarm company agent":
+            
+42
+
+    
+    (a)  except as provided in Subsection (2)(b), means any individual employed within this
+            
+43
+
+    
+state by [a person engaged in the] an alarm business[.]; and
+            
+44
+
+    
+    (b)  does not include an individual who:
+            
+45
+
+    
+    (i)  is not engaged in the sale, installation, maintenance, alteration, repair, replacement,
+            
+46
+
+    
+servicing, or monitoring of an alarm system; and
+            
+47
+
+    
+    (ii)  does not, during the normal course of the individual's employment with an alarm
+            
+48
+
+    
+business, use or have access to sensitive alarm system information.
+            
+49
+
+    
+    (3)  "Alarm system" means equipment and devices assembled for the purpose of:
+            
+50
+
+    
+    (a)  detecting and signaling unauthorized intrusion or entry into or onto certain
+            
+51
+
+    
+premises; or
+            
+52
+
+    
+    (b)  signaling a robbery or attempted robbery on protected premises.
+            
+53
+
+    
+    (4)  "Apprentice electrician" means a person licensed under this chapter as an
+            
+54
+
+    
+apprentice electrician who is learning the electrical trade under the immediate supervision of a
+            
+55
+
+    
+master electrician, residential master electrician, a journeyman electrician, or a residential
+            
+56
+
+    
+journeyman electrician.
+            
+57
+
+    
+    (5)  "Apprentice plumber" means a person licensed under this chapter as an apprentice
+            
+58
+
+    
+plumber who is learning the plumbing trade under the immediate supervision of a master
+
+            
+59
+
+
+    
+plumber, residential master plumber, journeyman plumber, or a residential journeyman
+            
+60
+
+    
+plumber.
+            
+61
+
+    
+    (6)  "Approved continuing education" means instruction provided through courses
+            
+62
+
+    
+under a program established under Subsection 
+
+58-55-302.5
+
+(2).
+            
+63
+
+    
+    (7)  "Board" means the Electrician Licensing Board, Alarm System Security and
+            
+64
+
+    
+Licensing Board, or Plumbers Licensing Board created in Section 
+
+58-55-201
+
+.
+            
+65
+
+    
+    (8)  "Combustion system" means an assembly consisting of:
+            
+66
+
+    
+    (a)  piping and components with a means for conveying, either continuously or
+            
+67
+
+    
+intermittently, natural gas from the outlet of the natural gas provider's meter to the burner of the
+            
+68
+
+    
+appliance;
+            
+69
+
+    
+    (b)  the electric control and combustion air supply and venting systems, including air
+            
+70
+
+    
+ducts; and
+            
+71
+
+    
+    (c)  components intended to achieve control of quantity, flow, and pressure.
+            
+72
+
+    
+    (9)  "Commission" means the Construction Services Commission created under Section
+            
+73
+
+    
+
+58-55-103
+
+.
+            
+74
+
+    
+    (10)  "Construction trade" means any trade or occupation involving:
+            
+75
+
+    
+    (a) (i)  construction, alteration, remodeling, repairing, wrecking or demolition, addition
+            
+76
+
+    
+to, or improvement of any building, highway, road, railroad, dam, bridge, structure, excavation
+            
+77
+
+    
+or other project, development, or improvement to other than personal property; and
+            
+78
+
+    
+    (ii)  constructing, remodeling, or repairing a manufactured home or mobile home as
+            
+79
+
+    
+defined in Section 
+
+15A-1-302
+
+; or
+            
+80
+
+    
+    (b)  installation or repair of a residential or commercial natural gas appliance or
+            
+81
+
+    
+combustion system.
+            
+82
+
+    
+    (11)  "Construction trades instructor" means a person licensed under this chapter to
+            
+83
+
+    
+teach one or more construction trades in both a classroom and project environment, where a
+            
+84
+
+    
+project is intended for sale to or use by the public and is completed under the direction of the
+            
+85
+
+    
+instructor, who has no economic interest in the project.
+            
+86
+
+    
+    (12) (a)  "Contractor" means any person who for compensation other than wages as an
+            
+87
+
+    
+employee undertakes any work in the construction, plumbing, or electrical trade for which
+            
+88
+
+    
+licensure is required under this chapter and includes:
+            
+89
+
+    
+    (i)  a person who builds any structure on the person's own property for the purpose of
+
+            
+90
+
+
+    
+sale or who builds any structure intended for public use on the person's own property;
+            
+91
+
+    
+    (ii)  any person who represents that the person is a contractor by advertising or any
+            
+92
+
+    
+other means;
+            
+93
+
+    
+    (iii)  any person engaged as a maintenance person, other than an employee, who
+            
+94
+
+    
+regularly engages in activities set forth under the definition of "construction trade";
+            
+95
+
+    
+    (iv)  any person engaged in any construction trade for which licensure is required under
+            
+96
+
+    
+this chapter; or
+            
+97
+
+    
+    (v)  a construction manager who performs management and counseling services on a
+            
+98
+
+    
+construction project for a fee.
+            
+99
+
+    
+    (b)  "Contractor" does not include an alarm company or alarm company agent.
+            
+100
+
+    
+    (13) (a)  "Electrical trade" means the performance of any electrical work involved in the
+            
+101
+
+    
+installation, construction, alteration, change, repair, removal, or maintenance of facilities,
+            
+102
+
+    
+buildings, or appendages or appurtenances.
+            
+103
+
+    
+    (b)  "Electrical trade" does not include:
+            
+104
+
+    
+    (i)  transporting or handling electrical materials;
+            
+105
+
+    
+    (ii)  preparing clearance for raceways for wiring; or
+            
+106
+
+    
+    (iii)  work commonly done by unskilled labor on any installations under the exclusive
+            
+107
+
+    
+control of electrical utilities.
+            
+108
+
+    
+    (c)  For purposes of Subsection (13)(b):
+            
+109
+
+    
+    (i)  no more than one unlicensed person may be so employed unless more than five
+            
+110
+
+    
+licensed electricians are employed by the shop; and
+            
+111
+
+    
+    (ii)  a shop may not employ unlicensed persons in excess of the five-to-one ratio
+            
+112
+
+    
+permitted by this Subsection (13)(c).
+            
+113
+
+    
+    (14)  "Elevator" has the same meaning as defined in Section 
+
+34A-7-202
+
+, except that for
+            
+114
+
+    
+purposes of this chapter it does not mean a stair chair, a vertical platform lift, or an incline
+            
+115
+
+    
+platform lift.
+            
+116
+
+    
+    (15)  "Elevator contractor" means a sole proprietor, firm, or corporation licensed under
+            
+117
+
+    
+this chapter that is engaged in the business of erecting, constructing, installing, altering,
+            
+118
+
+    
+servicing, repairing, or maintaining an elevator.
+            
+119
+
+    
+    (16)  "Elevator mechanic" means an individual who is licensed under this chapter as an
+            
+120
+
+    
+elevator mechanic and who is engaged in erecting, constructing, installing, altering, servicing,
+
+            
+121
+
+
+    
+repairing, or maintaining an elevator under the immediate supervision of an elevator contractor.
+            
+122
+
+    
+    (17)  "Employee" means an individual as defined by the division by rule giving
+            
+123
+
+    
+consideration to the definition adopted by the Internal Revenue Service and the Department of
+            
+124
+
+    
+Workforce Services.
+            
+125
+
+    
+    (18)  "Engage in a construction trade" means to:
+            
+126
+
+    
+    (a)  engage in, represent oneself to be engaged in, or advertise oneself as being engaged
+            
+127
+
+    
+in a construction trade; or
+            
+128
+
+    
+    (b)  use the name "contractor" or "builder" or in any other way lead a reasonable person
+            
+129
+
+    
+to believe one is or will act as a contractor.
+            
+130
+
+    
+    (19) (a)  "Financial responsibility" means a demonstration of a current and expected
+            
+131
+
+    
+future condition of financial solvency evidencing a reasonable expectation to the division and
+            
+132
+
+    
+the board that an applicant or licensee can successfully engage in business as a contractor
+            
+133
+
+    
+without jeopardy to the public health, safety, and welfare.
+            
+134
+
+    
+    (b)  Financial responsibility may be determined by an evaluation of the total history
+            
+135
+
+    
+concerning the licensee or applicant including past, present, and expected condition and record
+            
+136
+
+    
+of financial solvency and business conduct.
+            
+137
+
+    
+    (20)  "Gas appliance" means any device that uses natural gas to produce light, heat,
+            
+138
+
+    
+power, steam, hot water, refrigeration, or air conditioning.
+            
+139
+
+    
+    (21) (a)  "General building contractor" means a person licensed under this chapter as a
+            
+140
+
+    
+general building contractor qualified by education, training, experience, and knowledge to
+            
+141
+
+    
+perform or superintend construction of structures for the support, shelter, and enclosure of
+            
+142
+
+    
+persons, animals, chattels, or movable property of any kind or any of the components of that
+            
+143
+
+    
+construction except plumbing, electrical work, mechanical work, work related to the operating
+            
+144
+
+    
+integrity of an elevator, and manufactured housing installation, for which the general building
+            
+145
+
+    
+contractor shall employ the services of a contractor licensed in the particular specialty, except
+            
+146
+
+    
+that a general building contractor engaged in the construction of single-family and multifamily
+            
+147
+
+    
+residences up to four units may perform the mechanical work and hire a licensed plumber or
+            
+148
+
+    
+electrician as an employee.
+            
+149
+
+    
+    (b)  The division may by rule exclude general building contractors from engaging in the
+            
+150
+
+    
+performance of other construction specialties in which there is represented a substantial risk to
+            
+151
+
+    
+the public health, safety, and welfare, and for which a license is required unless that general
+
+            
+152
+
+
+    
+building contractor holds a valid license in that specialty classification.
+            
+153
+
+    
+    (22) (a)  "General engineering contractor" means a person licensed under this chapter as
+            
+154
+
+    
+a general engineering contractor qualified by education, training, experience, and knowledge to
+            
+155
+
+    
+perform construction of fixed works in any of the following: irrigation, drainage, water, power,
+            
+156
+
+    
+water supply, flood control, inland waterways, harbors, railroads, highways, tunnels, airports
+            
+157
+
+    
+and runways, sewers and bridges, refineries, pipelines, chemical and industrial plants requiring
+            
+158
+
+    
+specialized engineering knowledge and skill, piers, and foundations, or any of the components
+            
+159
+
+    
+of those works.
+            
+160
+
+    
+    (b)  A general engineering contractor may not perform construction of structures built
+            
+161
+
+    
+primarily for the support, shelter, and enclosure of persons, animals, and chattels.
+            
+162
+
+    
+    (23)  "Immediate supervision" means reasonable direction, oversight, inspection, and
+            
+163
+
+    
+evaluation of the work of a person:
+            
+164
+
+    
+    (a)  as the division specifies in rule;
+            
+165
+
+    
+    (b)  by, as applicable, a qualified electrician or plumber;
+            
+166
+
+    
+    (c)  as part of a planned program of training; and
+            
+167
+
+    
+    (d)  to ensure that the end result complies with applicable standards.
+            
+168
+
+    
+    (24)  "Individual" means a natural person.
+            
+169
+
+    
+    (25)  "Journeyman electrician" means a person licensed under this chapter as a
+            
+170
+
+    
+journeyman electrician having the qualifications, training, experience, and knowledge to wire,
+            
+171
+
+    
+install, and repair electrical apparatus and equipment for light, heat, power, and other purposes.
+            
+172
+
+    
+    (26)  "Journeyman plumber" means a person licensed under this chapter as a
+            
+173
+
+    
+journeyman plumber having the qualifications, training, experience, and technical knowledge
+            
+174
+
+    
+to engage in the plumbing trade.
+            
+175
+
+    
+    (27)  "Master electrician" means a person licensed under this chapter as a master
+            
+176
+
+    
+electrician having the qualifications, training, experience, and knowledge to properly plan,
+            
+177
+
+    
+layout, and supervise the wiring, installation, and repair of electrical apparatus and equipment
+            
+178
+
+    
+for light, heat, power, and other purposes.
+            
+179
+
+    
+    (28)  "Master plumber" means a person licensed under this chapter as a master plumber
+            
+180
+
+    
+having the qualifications, training, experience, and knowledge to properly plan and layout
+            
+181
+
+    
+projects and supervise persons in the plumbing trade.
+            
+182
+
+    
+    (29)  "Person" means a natural person, sole proprietorship, joint venture, corporation,
+
+            
+183
+
+
+    
+limited liability company, association, or organization of any type.
+            
+184
+
+    
+    (30) (a)  "Plumbing trade" means the performance of any mechanical work pertaining to
+            
+185
+
+    
+the installation, alteration, change, repair, removal, maintenance, or use in buildings, or within
+            
+186
+
+    
+three feet beyond the outside walls of buildings of pipes, fixtures, and fittings for:
+            
+187
+
+    
+    (i)  delivery of the water supply;
+            
+188
+
+    
+    (ii)  discharge of liquid and water carried waste; or
+            
+189
+
+    
+    (iii)  the building drainage system within the walls of the building.
+            
+190
+
+    
+    (b)  "Plumbing trade" includes work pertaining to the water supply, distribution pipes,
+            
+191
+
+    
+fixtures and fixture traps, soil, waste and vent pipes, and the building drain and roof drains
+            
+192
+
+    
+together with their devices, appurtenances, and connections where installed within the outside
+            
+193
+
+    
+walls of the building.
+            
+194
+
+    
+    (31) (a)  "Ratio of apprentices" means, for the purpose of determining compliance with
+            
+195
+
+    
+the requirements for planned programs of training and electrician apprentice licensing
+            
+196
+
+    
+applications, the shop ratio of apprentice electricians to journeyman or master electricians shall
+            
+197
+
+    
+be one journeyman or master electrician to one apprentice on industrial and commercial work,
+            
+198
+
+    
+and one journeyman or master electrician to three apprentices on residential work.
+            
+199
+
+    
+    (b)  On-the-job training shall be under circumstances in which the ratio of apprentices
+            
+200
+
+    
+to supervisors is in accordance with a ratio of one-to-one on nonresidential work and up to
+            
+201
+
+    
+three apprentices to one supervisor on residential projects.
+            
+202
+
+    
+    (32)  "Residential and small commercial contractor" means a person licensed under this
+            
+203
+
+    
+chapter as a residential and small commercial contractor qualified by education, training,
+            
+204
+
+    
+experience, and knowledge to perform or superintend the construction of single-family
+            
+205
+
+    
+residences, multifamily residences up to four units, and commercial construction of not more
+            
+206
+
+    
+than three stories above ground and not more than 20,000 square feet, or any of the components
+            
+207
+
+    
+of that construction except plumbing, electrical work, mechanical work, and manufactured
+            
+208
+
+    
+housing installation, for which the residential and small commercial contractor shall employ
+            
+209
+
+    
+the services of a contractor licensed in the particular specialty, except that a residential and
+            
+210
+
+    
+small commercial contractor engaged in the construction of single-family and multifamily
+            
+211
+
+    
+residences up to four units may perform the mechanical work and hire a licensed plumber or
+            
+212
+
+    
+electrician as an employee.
+            
+213
+
+    
+    (33)  "Residential building," as it relates to the license classification of residential
+
+            
+214
+
+
+    
+journeyman plumber and residential master plumber, means a single or multiple family
+            
+215
+
+    
+dwelling of up to four units.
+            
+216
+
+    
+    (34)  "Residential journeyman electrician" means a person licensed under this chapter
+            
+217
+
+    
+as a residential journeyman electrician having the qualifications, training, experience, and
+            
+218
+
+    
+knowledge to wire, install, and repair electrical apparatus and equipment for light, heat, power,
+            
+219
+
+    
+and other purposes on buildings using primarily nonmetallic sheath cable.
+            
+220
+
+    
+    (35)  "Residential journeyman plumber" means a person licensed under this chapter as a
+            
+221
+
+    
+residential journeyman plumber having the qualifications, training, experience, and knowledge
+            
+222
+
+    
+to engage in the plumbing trade as limited to the plumbing of residential buildings.
+            
+223
+
+    
+    (36)  "Residential master electrician" means a person licensed under this chapter as a
+            
+224
+
+    
+residential master electrician having the qualifications, training, experience, and knowledge to
+            
+225
+
+    
+properly plan, layout, and supervise the wiring, installation, and repair of electrical apparatus
+            
+226
+
+    
+and equipment for light, heat, power, and other purposes on residential projects.
+            
+227
+
+    
+    (37)  "Residential master plumber" means a person licensed under this chapter as a
+            
+228
+
+    
+residential master plumber having the qualifications, training, experience, and knowledge to
+            
+229
+
+    
+properly plan and layout projects and supervise persons in the plumbing trade as limited to the
+            
+230
+
+    
+plumbing of residential buildings.
+            
+231
+
+    
+    (38)  "Residential project," as it relates to an electrician or electrical contractor, means
+            
+232
+
+    
+buildings primarily wired with nonmetallic sheathed cable, in accordance with standard rules
+            
+233
+
+    
+and regulations governing this work, including the National Electrical Code, and in which the
+            
+234
+
+    
+voltage does not exceed 250 volts line to line and 125 volts to ground.
+            
+235
+
+    
+    (39)  "Sensitive alarm system information" means:
+            
+236
+
+    
+    (a)  a pass code or other code used in the operation of an alarm system;
+            
+237
+
+    
+    (b)  information on the location of alarm system components at the premises of a
+            
+238
+
+    
+customer of the alarm business providing the alarm system;
+            
+239
+
+    
+    (c)  information that would allow the circumvention, bypass, deactivation, or other
+            
+240
+
+    
+compromise of an alarm system of a customer of the alarm business providing the alarm
+            
+241
+
+    
+system; and
+            
+242
+
+    
+    (d)  any other similar information that the division by rule determines to be information
+            
+243
+
+    
+that an individual employed by an alarm business should use or have access to only if the
+            
+244
+
+    
+individual is licensed as provided in this chapter.
+
+            
+245
+
+
+    
+    [(39)] (40) (a)  "Specialty contractor" means a person licensed under this chapter under
+            
+246
+
+    
+a specialty contractor classification established by rule, who is qualified by education, training,
+            
+247
+
+    
+experience, and knowledge to perform those construction trades and crafts requiring
+            
+248
+
+    
+specialized skill, the regulation of which are determined by the division to be in the best
+            
+249
+
+    
+interest of the public health, safety, and welfare.
+            
+250
+
+    
+    (b)  A specialty contractor may perform work in crafts or trades other than those in
+            
+251
+
+    
+which the specialty contractor is licensed if they are incidental to the performance of the
+            
+252
+
+    
+specialty contractor's licensed craft or trade.
+            
+253
+
+    
+    [(40)] (41)  "Unincorporated entity" means an entity that is not:
+            
+254
+
+    
+    (a)  an individual;
+            
+255
+
+    
+    (b)  a corporation; or
+            
+256
+
+    
+    (c)  publicly traded.
+            
+257
+
+    
+    [(41)] (42)  "Unlawful conduct" is as defined in Sections 
+
+58-1-501
+
+ and 
+
+58-55-501
+
+.
+            
+258
+
+    
+    [(42)] (43)  "Unprofessional conduct" is as defined in Sections 
+
+58-1-501
+
+ and 
+
+58-55-502
+
+
+            
+259
+
+    
+and as may be further defined by rule.
+            
+260
+
+    
+    [(43)] (44)  "Wages" means amounts due to an employee for labor or services whether
+            
+261
+
+    
+the amount is fixed or ascertained on a time, task, piece, commission, or other basis for
+            
+262
+
+    
+calculating the amount.
+
+
+
+
+ Legislative Review Note
+    as of   9-20-12  8:03 AM
+
+ Office of Legislative Research and General Counsel
+[Bill Documents][Bills Directory]
+
+
+
+
+
+
+
+
+
+Who represents me?
+
+
+
+
+
+Remember my Legislators
+
+
+
+
+
+State Senate
+		350 North State, Suite 320
+		PO Box 145115
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1035
+		Fax: (801) 326-1475
+
+
+
+House of Representatives
+		350 North State, Suite 350
+		PO Box 145030
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1029
+		Fax: (801) 326-1544
+
+
+
+
+
+
+
+
+
+
+Home
+Mobile Site
+Site Map
+Calendar
+Code / Constitution
+House
+Senate
+
+Terms of Use/Privacy Policy
+
+ADA
+Utah.gov
+
+
+
+
+
+
+

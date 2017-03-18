@@ -1,0 +1,1459 @@
+Sponsors: []Modifications: (12) (a)  For a surplus lines insurance transaction in the state entered into on or afterMay 13, 2014, if an audit is required by the surplus lines insurance transaction, a surplus linesinsurer:(i)  shall exercise due diligence to initiate an audit of an insured to determine whetheradditional premium is owed by the insured by no later than six months after the expiration ofthe term for which premium is paid; and(ii)  may not audit an insured more than three years after the surplus lines insurancetransaction expires.(b)  A surplus lines insurer that does not comply with this Subsection (12) is notentitled to charge or collect additional premium in excess of the premium agreed to under thesurplus lines insurance transaction.(c)  This Subsection (12) applies to the extent permitted by federal law.Full text:
+
+
+
+Utah State Legislature
+
+
+
+
+
+
+
+
+
+
+
+
+Legislators
+
+By Session (1896-Current)
+Alphabetical (Historical)
+Find by Address/Map
+More
+
+
+Bills
+
+Bills/Bill Requests
+Passed Bills
+2017 Bills
+
+Keyword Search
+Reading Calendars
+Tracking Service
+More
+
+
+Committees
+
+All Committees
+Appropriations
+Commissions
+
+Independent Legislative Ethics Commission
+Interim
+Standing
+Subcommittees
+Task Forces
+Bills In Committees
+
+
+Utah Code / Constitution
+
+
+Title/Chapter/Section
+Keyword Search 
+
+Utah Constitution
+Laws of Utah 1851-ongoing
+Utah Territorial Laws 
+More
+
+
+Senate
+
+Main Page 
+About The Senate 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Extraordinary Sessions 
+Reading Calendars 
+Past Floor Debates 
+Senate Journals 
+
+
+House
+
+Main Page
+About the House 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Reading Calendars 
+Past Floor Debates 
+Journals 
+Conflict of Interest Forms 
+
+
+Legislative Guide 
+
+Legislative Guide
+Civic Programs
+GRAMA (Records Requests)
+
+
+Publications
+
+Search Publications
+Appropriations
+Audits
+Bagels & Briefings
+Briefing Papers
+Digest of Legislation
+Legislative Drafting Manual
+
+Journals
+
+Interim Highlights
+
+Legislative Rules
+GRAMA (Records Requests)
+Public Email
+State Organization Charts
+YouTube Channel
+Requests for Proposals and Legal Notices
+More
+
+
+Legislative Histories
+
+Legislative History Resources
+How to Research
+Bill Drafting/Research Files (1990-Ongoing)
+
+Working Bills (1896-1989)
+Interim Committee Histories (1990-Ongoing) 
+Journals
+Past House Floor Debates
+Past Senate Floor Debates
+More
+
+
+Staff Offices
+
+All Legislative Offices
+Auditor General
+Fiscal Analyst
+Printing
+Research and General Counsel
+Staff Awards
+Job Opportunities
+More
+
+
+Links of Interest
+
+Utah Administrative Rules
+Courts
+Utah State Capitol
+State of Utah
+Federal Legislation
+More
+
+
+
+
+
+
+ 
+
+H.B. 129
+
+
+
+
+
+            
+1
+
+    
+ SURPLUS LINES INSURANCE AMENDMENTS
+
+
+
+            
+2
+
+    
+2014 GENERAL SESSION
+
+            
+3
+
+    
+STATE OF UTAH
+
+            
+4
+
+    
+
+
+ Chief Sponsor:  Curtis Oda
+
+
+
+            
+5
+
+    
+
+
+
+Senate Sponsor:  
+
+
+
+
+
+
+____________
+
+
+
+
+
+            
+6
+
+    
+
+            
+7
+
+    
+ LONG TITLE
+            
+8
+
+    
+ General Description:
+            
+9
+
+    
+    This bill modifies the Insurance Code to address surplus lines of insurance.
+            
+10
+
+    
+ Highlighted Provisions:
+            
+11
+
+    
+    This bill:
+            
+12
+
+    
+    .    addresses audits conducted by a surplus lines insurer; and
+            
+13
+
+    
+    .    makes technical changes.
+            
+14
+
+    
+ Money Appropriated in this Bill:
+            
+15
+
+    
+    None
+            
+16
+
+    
+ Other Special Clauses:
+            
+17
+
+    
+    None
+            
+18
+
+    
+ Utah Code Sections Affected:
+            
+19
+
+    
+AMENDS:
+            
+20
+
+    
+     
+31A-15-103
+, as last amended by Laws of Utah 2011, Chapter 62
+            
+21
+
+    
+
+            
+22
+
+    
+Be it enacted by the Legislature of the state of Utah:
+            
+23
+
+    
+    Section 1.  
+Section  
+31A-15-103
+
+ is amended to read:
+            
+24
+
+    
+     31A-15-103.  Surplus lines insurance -- Unauthorized insurers.
+            
+25
+
+    
+    (1)  Notwithstanding Section 
+
+31A-15-102
+
+
+, a foreign insurer that has not obtained a
+            
+26
+
+    
+certificate of authority to do business in this state under Section 
+
+31A-14-202
+
+
+ may negotiate for
+            
+27
+
+    
+and make an insurance contract with a person in this state and on a risk located in this state,
+
+            
+28
+
+
+    
+subject to the limitations and requirements of this section.
+            
+29
+
+    
+    (2) (a)  For a contract made under this section, the insurer may, in this state:
+            
+30
+
+    
+    (i)  inspect the risks to be insured;
+            
+31
+
+    
+    (ii)  collect premiums;
+            
+32
+
+    
+    (iii)  adjust losses; and
+            
+33
+
+    
+    (iv)  do another act reasonably incidental to the contract.
+            
+34
+
+    
+    (b)  An act described in Subsection (2)(a) may be done through:
+            
+35
+
+    
+    (i)  an employee; or
+            
+36
+
+    
+    (ii)  an independent contractor.
+            
+37
+
+    
+    (3) (a)  Subsections (1) and (2) do not permit a person to solicit business in this state on
+            
+38
+
+    
+behalf of an insurer that has no certificate of authority.
+            
+39
+
+    
+    (b)  Insurance placed with a nonadmitted insurer shall be placed with a surplus lines
+            
+40
+
+    
+producer licensed under Chapter 23a, Insurance Marketing - Licensing Producers, Consultants,
+            
+41
+
+    
+and Reinsurance Intermediaries.
+            
+42
+
+    
+    (c)  The commissioner may by rule prescribe how a surplus lines producer may:
+            
+43
+
+    
+    (i)  pay or permit the payment, commission, or other remuneration on insurance placed
+            
+44
+
+    
+by the surplus lines producer under authority of the surplus lines producer's license to one
+            
+45
+
+    
+holding a license to act as an insurance producer; and
+            
+46
+
+    
+    (ii)  advertise the availability of the surplus lines producer's services in procuring, on
+            
+47
+
+    
+behalf of a person seeking insurance, a contract with a nonadmitted insurer.
+            
+48
+
+    
+    (4)  For a contract made under this section, a nonadmitted insurer is subject to Sections
+            
+49
+
+    
+
+31A-23a-402
+
+
+, 
+
+31A-23a-402.5
+
+
+, and 
+
+31A-23a-403
+
+
+ and the rules adopted under those sections.
+            
+50
+
+    
+    (5)  A nonadmitted insurer may not issue workers' compensation insurance coverage to
+            
+51
+
+    
+an employer located in this state, except for stop loss coverage issued to an employer securing
+            
+52
+
+    
+workers' compensation under Subsection 
+
+34A-2-201
+
+
+(3).
+            
+53
+
+    
+    (6) (a)  The commissioner may by rule prohibit making a contract under Subsection (1)
+            
+54
+
+    
+for a specified class of insurance if authorized insurers provide an established market for the
+            
+55
+
+    
+class in this state that is adequate and reasonably competitive.
+            
+56
+
+    
+    (b)  The commissioner may by rule place a restriction or a limitation on and create
+            
+57
+
+    
+special procedures for making a contract under Subsection (1) for a specified class of insurance
+            
+58
+
+    
+if:
+
+            
+59
+
+
+    
+    (i)  there have been abuses of placements in the class; or
+            
+60
+
+    
+    (ii)  the policyholders in the class, because of limited financial resources, business
+            
+61
+
+    
+experience, or knowledge, cannot protect their own interests adequately.
+            
+62
+
+    
+    (c)  The commissioner may prohibit an individual insurer from making a contract under
+            
+63
+
+    
+Subsection (1) and all insurance producers from dealing with the insurer if:
+            
+64
+
+    
+    (i)  the insurer willfully violates:
+            
+65
+
+    
+    (A)  this section;
+            
+66
+
+    
+    (B)  Section 
+
+31A-4-102
+
+
+, 
+
+31A-23a-402
+
+
+, 
+
+31A-23a-402.5
+
+
+, or 
+
+31A-26-303
+
+
+; or
+            
+67
+
+    
+    (C)  a rule adopted under a section listed in Subsection (6)(c)(i)(A) or (B);
+            
+68
+
+    
+    (ii)  the insurer fails to pay the fees and taxes specified under Section 
+
+31A-3-301
+
+
+; or
+            
+69
+
+    
+    (iii)  the commissioner has reason to believe that the insurer is:
+            
+70
+
+    
+    (A)  in an unsound condition;
+            
+71
+
+    
+    (B)  operated in a fraudulent, dishonest, or incompetent manner; or
+            
+72
+
+    
+    (C)  in violation of the law of its domicile.
+            
+73
+
+    
+    (d) (i)  The commissioner may issue one or more lists of unauthorized foreign insurers
+            
+74
+
+    
+whose:
+            
+75
+
+    
+    (A)  solidity the commissioner doubts; or
+            
+76
+
+    
+    (B)  practices the commissioner considers objectionable.
+            
+77
+
+    
+    (ii)  The commissioner shall issue one or more lists of unauthorized foreign insurers the
+            
+78
+
+    
+commissioner considers to be reliable and solid.
+            
+79
+
+    
+    (iii)  In addition to the lists described in Subsections (6)(d)(i) and (ii), the commissioner
+            
+80
+
+    
+may issue other relevant evaluations of unauthorized insurers.
+            
+81
+
+    
+    (iv)  An action may not lie against the commissioner or an employee of the department
+            
+82
+
+    
+for a written or oral communication made in, or in connection with the issuance of, a list or
+            
+83
+
+    
+evaluation described in this Subsection (6)(d).
+            
+84
+
+    
+    (e)  A foreign unauthorized insurer shall be listed on the commissioner's "reliable" list
+            
+85
+
+    
+only if the unauthorized insurer:
+            
+86
+
+    
+    (i)  delivers a request to the commissioner to be on the list;
+            
+87
+
+    
+    (ii)  establishes satisfactory evidence of good reputation and financial integrity;
+            
+88
+
+    
+    (iii) (A)  delivers to the commissioner a copy of the unauthorized insurer's current
+            
+89
+
+    
+annual statement certified by the insurer; and
+
+            
+90
+
+
+    
+    (B)  continues each subsequent year to file its annual statements with the commissioner
+            
+91
+
+    
+within 60 days of the day on which it is filed with the insurance regulatory authority where the
+            
+92
+
+    
+insurer is domiciled;
+            
+93
+
+    
+    (iv) (A) (I)  is in substantial compliance with the solvency standards in Chapter 17, Part
+            
+94
+
+    
+6, Risk-Based Capital, or maintains capital and surplus of at least $15,000,000, whichever is
+            
+95
+
+    
+greater; and
+            
+96
+
+    
+    (II)  maintains in the United States an irrevocable trust fund in either a national bank or
+            
+97
+
+    
+a member of the Federal Reserve System, or maintains a deposit meeting the statutory deposit
+            
+98
+
+    
+requirements for insurers in the state where it is made, which trust fund or deposit:
+            
+99
+
+    
+    (Aa)  shall be in an amount not less than $2,500,000 for the protection of all of the
+            
+100
+
+    
+insurer's policyholders in the United States;
+            
+101
+
+    
+    (Bb)  may consist of cash, securities, or investments of substantially the same character
+            
+102
+
+    
+and quality as those which are "qualified assets" under Section 
+
+31A-17-201
+
+
+; and
+            
+103
+
+    
+    (Cc)  may include as part of the trust arrangement a letter of credit that qualifies as
+            
+104
+
+    
+acceptable security under Section 
+
+31A-17-404.1
+
+
+; or
+            
+105
+
+    
+    (B)  in the case of any "Lloyd's" or other similar incorporated or unincorporated group
+            
+106
+
+    
+of alien individual insurers, maintains a trust fund that:
+            
+107
+
+    
+    (I)  shall be in an amount not less than $50,000,000 as security to its full amount for all
+            
+108
+
+    
+policyholders and creditors in the United States of each member of the group;
+            
+109
+
+    
+    (II)  may consist of cash, securities, or investments of substantially the same character
+            
+110
+
+    
+and quality as those which are "qualified assets" under Section 
+
+31A-17-201
+
+
+; and
+            
+111
+
+    
+    (III)  may include as part of this trust arrangement a letter of credit that qualifies as
+            
+112
+
+    
+acceptable security under Section 
+
+31A-17-404.1
+
+
+; and
+            
+113
+
+    
+    (v)  for an alien insurer not domiciled in the United States or a territory of the United
+            
+114
+
+    
+States, is listed on the Quarterly Listing of Alien Insurers maintained by the National
+            
+115
+
+    
+Association of Insurance Commissioners International Insurers Department.
+            
+116
+
+    
+    (7) (a)  Subject to Subsection (7)(b), a surplus lines producer may not, either knowingly
+            
+117
+
+    
+or without reasonable investigation of the financial condition and general reputation of the
+            
+118
+
+    
+insurer, place insurance under this section with:
+            
+119
+
+    
+    (i)  a financially unsound insurer;
+            
+120
+
+    
+    (ii)  an insurer engaging in unfair practices; or
+
+            
+121
+
+
+    
+    (iii)  an otherwise substandard insurer.
+            
+122
+
+    
+    (b)  A surplus line producer may place insurance under this section with an insurer
+            
+123
+
+    
+described in Subsection (7)(a) if the surplus line producer:
+            
+124
+
+    
+    (i)  gives the applicant notice in writing of the known deficiencies of the insurer or the
+            
+125
+
+    
+limitations on the surplus line producer's investigation; and
+            
+126
+
+    
+    (ii)  explains the need to place the business with that insurer.
+            
+127
+
+    
+    (c)  A copy of the notice described in Subsection (7)(b) shall be kept in the office of the
+            
+128
+
+    
+surplus line producer for at least five years.
+            
+129
+
+    
+    (d)  To be financially sound, an insurer shall satisfy standards that are comparable to
+            
+130
+
+    
+those applied under the laws of this state to an authorized insurer.
+            
+131
+
+    
+    (e)  An insurer on the "doubtful or objectionable" list under Subsection (6)(d) or an
+            
+132
+
+    
+insurer not on the commissioner's "reliable" list under Subsection (6)(e) is presumed
+            
+133
+
+    
+substandard.
+            
+134
+
+    
+    (8) (a)  A policy issued under this section shall:
+            
+135
+
+    
+    (i)  include a description of the subject of the insurance; and
+            
+136
+
+    
+    (ii)  indicate:
+            
+137
+
+    
+    (A)  the coverage, conditions, and term of the insurance;
+            
+138
+
+    
+    (B)  the premium charged the policyholder;
+            
+139
+
+    
+    (C)  the premium taxes to be collected from the policyholder; and
+            
+140
+
+    
+    (D)  the name and address of the policyholder and insurer.
+            
+141
+
+    
+    (b)  If the direct risk is assumed by more than one insurer, the policy shall state:
+            
+142
+
+    
+    (i)  the names and addresses of all insurers; and
+            
+143
+
+    
+    (ii)  the portion of the entire direct risk each assumes.
+            
+144
+
+    
+    (c)  A policy issued under this section shall have attached or affixed to the policy the
+            
+145
+
+    
+following statement: "The insurer issuing this policy does not hold a certificate of authority to
+            
+146
+
+    
+do business in this state and thus is not fully subject to regulation by the Utah insurance
+            
+147
+
+    
+commissioner.  This policy receives no protection from any of the guaranty associations created
+            
+148
+
+    
+under Title 31A, Chapter 28."
+            
+149
+
+    
+    (9)  Upon placing a new or renewal coverage under this section, a surplus lines
+            
+150
+
+    
+producer shall promptly deliver to the policyholder or the policyholder's agent evidence of the
+            
+151
+
+    
+insurance consisting either of:
+
+            
+152
+
+
+    
+    (a)  the policy as issued by the insurer; or
+            
+153
+
+    
+    (b)  if the policy is not available upon placing the coverage, a certificate, cover note, or
+            
+154
+
+    
+other confirmation of insurance complying with Subsection (8).
+            
+155
+
+    
+    (10)  If the commissioner finds it necessary to protect the interests of insureds and the
+            
+156
+
+    
+public in this state, the commissioner may by rule subject a policy issued under this section to
+            
+157
+
+    
+as much of the regulation provided by this title as is required for a comparable policy written
+            
+158
+
+    
+by an authorized foreign insurer.
+            
+159
+
+    
+    (11) (a)  A surplus lines transaction in this state shall be examined to determine whether
+            
+160
+
+    
+it complies with:
+            
+161
+
+    
+    (i)  the surplus lines tax levied under Chapter 3, Department Funding, Fees, and Taxes;
+            
+162
+
+    
+    (ii)  the solicitation limitations of Subsection (3);
+            
+163
+
+    
+    (iii)  the requirement of Subsection (3) that placement be through a surplus lines
+            
+164
+
+    
+producer;
+            
+165
+
+    
+    (iv)  placement limitations imposed under Subsections (6)(a), (b), and (c); and
+            
+166
+
+    
+    (v)  the policy form requirements of Subsections (8) and (10).
+            
+167
+
+    
+    (b)  The examination described in Subsection (11)(a) shall take place as soon as
+            
+168
+
+    
+practicable after the transaction.  The surplus lines producer shall submit to the examiner
+            
+169
+
+    
+information necessary to conduct the examination within a period specified by rule.
+            
+170
+
+    
+    (c) (i)  The examination described in Subsection (11)(a) may be conducted by the
+            
+171
+
+    
+commissioner or by an advisory organization created under Section 
+
+31A-15-111
+
+
+ and authorized
+            
+172
+
+    
+by the commissioner to conduct these examinations.  The commissioner is not required to
+            
+173
+
+    
+authorize an additional advisory organization to conduct an examination under this Subsection
+            
+174
+
+    
+(11)(c).
+            
+175
+
+    
+    (ii)  The commissioner's authorization of one or more advisory organizations to act as
+            
+176
+
+    
+examiners under this Subsection (11)(c) shall be:
+            
+177
+
+    
+    (A)  by rule; and
+            
+178
+
+    
+    (B)  evidenced by a contract, on a form provided by the commissioner, between the
+            
+179
+
+    
+authorized advisory organization and the department.
+            
+180
+
+    
+    (d) (i) (A)  A person conducting the examination described in Subsection (11)(a) shall
+            
+181
+
+    
+collect a stamping fee of an amount not to exceed 1% of the policy premium payable in
+            
+182
+
+    
+connection with the transaction.
+
+            
+183
+
+
+    
+    (B)  A stamping fee collected by the commissioner shall be deposited in the General
+            
+184
+
+    
+Fund.
+            
+185
+
+    
+    (C)  The commissioner shall establish a stamping fee by rule.
+            
+186
+
+    
+    (ii)  A stamping fee collected by an advisory organization is the property of the advisory
+            
+187
+
+    
+organization to be used in paying the expenses of the advisory organization.
+            
+188
+
+    
+    (iii)  Liability for paying a stamping fee is as required under Subsection 
+
+31A-3-303
+
+
+(1)
+            
+189
+
+    
+for taxes imposed under Section 
+
+31A-3-301
+
+
+.
+            
+190
+
+    
+    (iv)  The commissioner shall adopt a rule dealing with the payment of stamping fees.  If
+            
+191
+
+    
+a stamping fee is not paid when due, the commissioner or advisory organization may impose a
+            
+192
+
+    
+penalty of 25% of the stamping fee due, plus 1-1/2% per month from the time of default until
+            
+193
+
+    
+full payment of the stamping fee.
+            
+194
+
+    
+    (v)  A stamping fee relative to a policy covering a risk located partially in this state
+            
+195
+
+    
+shall be allocated in the same manner as under Subsection 
+
+31A-3-303
+
+
+(4).
+            
+196
+
+    
+    (e)  The commissioner, representatives of the department, advisory organizations,
+            
+197
+
+    
+representatives and members of advisory organizations, authorized insurers, and surplus lines
+            
+198
+
+    
+insurers are not liable for damages on account of statements, comments, or recommendations
+            
+199
+
+    
+made in good faith in connection with their duties under this Subsection (11)(e) or under
+            
+200
+
+    
+Section 
+
+31A-15-111
+
+
+.
+            
+201
+
+    
+    (f)  An examination conducted under this Subsection (11) and a document or materials
+            
+202
+
+    
+related to the examination are confidential.
+            
+203
+
+    
+    (12) (a)  For a surplus lines insurance transaction in the state entered into on or after
+            
+204
+
+    
+May 13, 2014, if an audit is required by the surplus lines insurance transaction, a surplus lines
+            
+205
+
+    
+insurer:
+            
+206
+
+    
+    (i)  shall exercise due diligence to initiate an audit of an insured to determine whether
+            
+207
+
+    
+additional premium is owed by the insured by no later than six months after the expiration of
+            
+208
+
+    
+the term for which premium is paid; and
+            
+209
+
+    
+    (ii)  may not audit an insured more than three years after the surplus lines insurance
+            
+210
+
+    
+transaction expires.
+            
+211
+
+    
+    (b)  A surplus lines insurer that does not comply with this Subsection (12) is not
+            
+212
+
+    
+entitled to charge or collect additional premium in excess of the premium agreed to under the
+            
+213
+
+    
+surplus lines insurance transaction.
+
+            
+214
+
+
+    
+    (c)  This Subsection (12) applies to the extent permitted by federal law.
+
+
+
+
+ Legislative Review Note
+    as of   2-12-14  11:19 AM
+
+ Office of Legislative Research and General Counsel
+[Bill Documents][Bills Directory]
+
+
+
+
+
+
+
+
+
+Who represents me?
+
+
+
+
+
+Remember my Legislators
+
+
+
+
+
+State Senate
+		350 North State, Suite 320
+		PO Box 145115
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1035
+		Fax: (801) 326-1475
+
+
+
+House of Representatives
+		350 North State, Suite 350
+		PO Box 145030
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1029
+		Fax: (801) 326-1544
+
+
+
+
+
+
+
+
+
+
+Home
+Mobile Site
+Site Map
+Calendar
+Code / Constitution
+House
+Senate
+
+Terms of Use/Privacy Policy
+
+ADA
+Utah.gov
+
+
+
+
+
+
+

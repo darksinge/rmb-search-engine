@@ -1,0 +1,1167 @@
+Sponsors: []Modifications: (x)  conduct the study described in Section 
+
+67-1a-14
+
+; and(xi)    67-1a-14.(1)  As used in this section, "petition" means a petition to:(a)  qualify a ballot proposition for the ballot under Title 20A, Chapter 7, IssuesSubmitted to the Voters;(b)  organize and register a political party under Title 20A, Chapter 8, Political PartyFormation and Procedures; or(c)  qualify a candidate for the ballot under Title 20A, Chapter 9, CandidateQualifications and Nominating Procedures.(2)  The lieutenant governor, in consultation with a county clerk and municipal clerk,shall study a way that a registered voter may sign a petition on the Internet and receiveinformation about the petition on the Internet.(3)  The study shall evaluate:(a)  how to sign a petition on the Internet using a holographic signature that is in anelectronic format maintained by a government agency;(b)  the security, development, ownership, management, format, and content of a secureInternet portal or website on which a registered voter may sign a petition;(c)  the security measures necessary to:(i)  verify the identity of a registered voter who signs a petition on the Internet; and(ii)  insure the integrity of a signature;(d)  changes to the process of collecting, verifying, and certifying a signature, if thesignature is collected on the Internet;(e)  whether verification is necessary for signatures collected on the Internet;(f)  which election official should be responsible for the certification of signaturescollected on the Internet;(g)  whether signatures on a petition should be public information;(h)  the removal process of a signature collected on the Internet;(i)  what percentage of signatures should be collected on the Internet or in person,statewide or by Senate district;(j)  what information regarding the petition should be available on the secure Internetportal or website, including who may submit the information and by what deadline informationshould be submitted;(k)  the time the lieutenant governor, county clerk, or municipal clerk may spendcertifying a petition if a registered voter is allowed to sign a petition on the Internet;(l)  the processes, if any, that exists in other states to allow a registered voter to sign apetition on the Internet; and(m)  any other issue related to allowing a registered voter to sign a petition on theInternet.(4)  The lieutenant governor shall submit a copy of the study and recommendations, ifany, that result from the study to the Government Operations Interim Committee on or beforeSeptember 18, 2013.Full text:
+
+
+
+Utah State Legislature
+
+
+
+
+
+
+
+
+
+
+
+
+Legislators
+
+By Session (1896-Current)
+Alphabetical (Historical)
+Find by Address/Map
+More
+
+
+Bills
+
+Bills/Bill Requests
+Passed Bills
+2017 Bills
+
+Keyword Search
+Reading Calendars
+Tracking Service
+More
+
+
+Committees
+
+All Committees
+Appropriations
+Commissions
+
+Independent Legislative Ethics Commission
+Interim
+Standing
+Subcommittees
+Task Forces
+Bills In Committees
+
+
+Utah Code / Constitution
+
+
+Title/Chapter/Section
+Keyword Search 
+
+Utah Constitution
+Laws of Utah 1851-ongoing
+Utah Territorial Laws 
+More
+
+
+Senate
+
+Main Page 
+About The Senate 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Extraordinary Sessions 
+Reading Calendars 
+Past Floor Debates 
+Senate Journals 
+
+
+House
+
+Main Page
+About the House 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Reading Calendars 
+Past Floor Debates 
+Journals 
+Conflict of Interest Forms 
+
+
+Legislative Guide 
+
+Legislative Guide
+Civic Programs
+GRAMA (Records Requests)
+
+
+Publications
+
+Search Publications
+Appropriations
+Audits
+Bagels & Briefings
+Briefing Papers
+Digest of Legislation
+Legislative Drafting Manual
+
+Journals
+
+Interim Highlights
+
+Legislative Rules
+GRAMA (Records Requests)
+Public Email
+State Organization Charts
+YouTube Channel
+Requests for Proposals and Legal Notices
+More
+
+
+Legislative Histories
+
+Legislative History Resources
+How to Research
+Bill Drafting/Research Files (1990-Ongoing)
+
+Working Bills (1896-1989)
+Interim Committee Histories (1990-Ongoing) 
+Journals
+Past House Floor Debates
+Past Senate Floor Debates
+More
+
+
+Staff Offices
+
+All Legislative Offices
+Auditor General
+Fiscal Analyst
+Printing
+Research and General Counsel
+Staff Awards
+Job Opportunities
+More
+
+
+Links of Interest
+
+Utah Administrative Rules
+Courts
+Utah State Capitol
+State of Utah
+Federal Legislation
+More
+
+
+
+
+
+
+ 
+
+Download Zipped Introduced WordPerfect HB0119.ZIP
+[Status][Bill Documents][Fiscal Note][Bills Directory]
+
+
+H.B. 119
+
+
+
+
+
+            
+1
+
+    
+ STUDY ON SIGNING PETITIONS ONLINE
+
+
+
+            
+2
+
+    
+2012 GENERAL SESSION
+
+            
+3
+
+    
+STATE OF UTAH
+
+            
+4
+
+    
+
+
+ Chief Sponsor:  Rebecca Chavez-Houck
+
+
+
+            
+5
+
+    
+
+
+
+Senate Sponsor: 
+
+
+
+
+
+
+  Curtis S. Bramble
+
+
+
+
+
+            
+6
+
+    
+
+            
+7
+
+    
+ LONG TITLE
+            
+8
+
+    
+ General Description:
+            
+9
+
+    
+    This bill requires the lieutenant governor to conduct a study regarding a registered voter
+            
+10
+
+    
+signing a petition regulated by Title 20A, Election Code, on the Internet.
+            
+11
+
+    
+ Highlighted Provisions:
+            
+12
+
+    
+    This bill:
+            
+13
+
+    
+    .    defines terms;
+            
+14
+
+    
+    .    requires the lieutenant governor to conduct a study regarding a registered voter
+            
+15
+
+    
+signing on the Internet a petition to:
+            
+16
+
+    
+        .    qualify a ballot proposition for the ballot;
+            
+17
+
+    
+        .    organize and register a political party; or
+            
+18
+
+    
+        .    qualify a candidate for the ballot; and
+            
+19
+
+    
+    .    requires the lieutenant governor to submit the study and recommendations, if any, to
+            
+20
+
+    
+the Government Operations Interim Committee.
+            
+21
+
+    
+ Money Appropriated in this Bill:
+            
+22
+
+    
+    None
+            
+23
+
+    
+ Other Special Clauses:
+            
+24
+
+    
+    None
+            
+25
+
+    
+ Utah Code Sections Affected:
+            
+26
+
+    
+AMENDS:
+            
+27
+
+    
+     67-1a-2, as last amended by Laws of Utah 2009, Chapter 350
+
+            
+28
+
+
+    
+ENACTS:
+            
+29
+
+    
+     67-1a-14, Utah Code Annotated 1953
+            
+30
+
+    
+
+            
+31
+
+    
+Be it enacted by the Legislature of the state of Utah:
+            
+32
+
+    
+    Section 1.  
+Section  
+67-1a-2
+
+ is amended to read:
+            
+33
+
+    
+     67-1a-2.  Duties enumerated.
+            
+34
+
+    
+    (1)  The lieutenant governor shall:
+            
+35
+
+    
+    (a)  perform duties delegated by the governor, including assignments to serve in any of
+            
+36
+
+    
+the following capacities:
+            
+37
+
+    
+    (i)  as the head of any one department, if so qualified, with the consent of the Senate,
+            
+38
+
+    
+and, upon appointment at the pleasure of the governor and without additional compensation;
+            
+39
+
+    
+    (ii)  as the chairperson of any cabinet group organized by the governor or authorized by
+            
+40
+
+    
+law for the purpose of advising the governor or coordinating intergovernmental or
+            
+41
+
+    
+interdepartmental policies or programs;
+            
+42
+
+    
+    (iii)  as liaison between the governor and the state Legislature to coordinate and
+            
+43
+
+    
+facilitate the governor's programs and budget requests;
+            
+44
+
+    
+    (iv)  as liaison between the governor and other officials of local, state, federal, and
+            
+45
+
+    
+international governments or any other political entities to coordinate, facilitate, and protect the
+            
+46
+
+    
+interests of the state;
+            
+47
+
+    
+    (v)  as personal advisor to the governor, including advice on policies, programs,
+            
+48
+
+    
+administrative and personnel matters, and fiscal or budgetary matters; and
+            
+49
+
+    
+    (vi)  as chairperson or member of any temporary or permanent boards, councils,
+            
+50
+
+    
+commissions, committees, task forces, or other group appointed by the governor;
+            
+51
+
+    
+    (b)  serve on all boards and commissions in lieu of the governor, whenever so
+            
+52
+
+    
+designated by the governor;
+            
+53
+
+    
+    (c)  serve as the chief election officer of the state as required by Subsection (2);
+            
+54
+
+    
+    (d)  keep custody of the Great Seal of Utah;
+            
+55
+
+    
+    (e)  keep a register of, and attest, the official acts of the governor;
+            
+56
+
+    
+    (f)  affix the Great Seal, with an attestation, to all official documents and instruments to
+            
+57
+
+    
+which the official signature of the governor is required; and
+            
+58
+
+    
+    (g)  furnish a certified copy of all or any part of any law, record, or other instrument
+
+            
+59
+
+
+    
+filed, deposited, or recorded in the office of the lieutenant governor to any person who requests
+            
+60
+
+    
+it and pays the fee.
+            
+61
+
+    
+    (2) (a)  As the chief election officer, the lieutenant governor shall:
+            
+62
+
+    
+    (i)  exercise general supervisory authority over all elections;
+            
+63
+
+    
+    (ii)  exercise direct authority over the conduct of elections for federal, state, and
+            
+64
+
+    
+multicounty officers and statewide or multicounty ballot propositions and any recounts
+            
+65
+
+    
+involving those races;
+            
+66
+
+    
+    (iii)  assist county clerks in unifying the election ballot;
+            
+67
+
+    
+    (iv) (A)  prepare election information for the public as required by statute and as
+            
+68
+
+    
+determined appropriate by the lieutenant governor;
+            
+69
+
+    
+    (B)  make the information under Subsection (2)(a)(iv)(A) available to the public and to
+            
+70
+
+    
+news media on the Internet and in other forms as required by statute or as determined
+            
+71
+
+    
+appropriate by the lieutenant governor;
+            
+72
+
+    
+    (v)  receive and answer election questions and maintain an election file on opinions
+            
+73
+
+    
+received from the attorney general;
+            
+74
+
+    
+    (vi)  maintain a current list of registered political parties as defined in Section
+            
+75
+
+    
+
+20A-8-101
+
+;
+            
+76
+
+    
+    (vii)  maintain election returns and statistics;
+            
+77
+
+    
+    (viii)  certify to the governor the names of those persons who have received the highest
+            
+78
+
+    
+number of votes for any office;
+            
+79
+
+    
+    (ix)  ensure that all voting equipment purchased by the state complies with the
+            
+80
+
+    
+requirements of Subsection 
+
+20A-5-302
+
+(2) and Sections 
+
+20A-5-402.5
+
+ and 
+
+20A-5-402.7
+
+; [and]
+            
+81
+
+    
+    (x)  conduct the study described in Section 
+
+67-1a-14
+
+; and
+            
+82
+
+    
+    [(x)] (xi)  perform other election duties as provided in Title 20A, Election Code.
+            
+83
+
+    
+    (b)  As chief election officer, the lieutenant governor may not assume the
+            
+84
+
+    
+responsibilities assigned to the county clerks, city recorders, town clerks, or other local election
+            
+85
+
+    
+officials by Title 20A, Election Code.
+            
+86
+
+    
+    (3) (a)  The lieutenant governor shall:
+            
+87
+
+    
+    (i) (A)  determine a new city's classification under Section 
+
+10-2-301
+
+ upon the city's
+            
+88
+
+    
+incorporation under Title 10, Chapter 2, Part 1, Incorporation, based on the city's population
+            
+89
+
+    
+using the population estimate from the Utah Population Estimates Committee; and
+
+            
+90
+
+
+    
+    (B) (I)  prepare a certificate indicating the class in which the new city belongs based on
+            
+91
+
+    
+the city's population; and
+            
+92
+
+    
+    (II)  within 10 days after preparing the certificate, deliver a copy of the certificate to the
+            
+93
+
+    
+city's legislative body;
+            
+94
+
+    
+    (ii) (A)  determine the classification under Section 
+
+10-2-301
+
+ of a consolidated
+            
+95
+
+    
+municipality upon the consolidation of multiple municipalities under Title 10, Chapter 2, Part
+            
+96
+
+    
+6, Consolidation of Municipalities, using population information from:
+            
+97
+
+    
+    (I)  each official census or census estimate of the United States Bureau of the Census;
+            
+98
+
+    
+or
+            
+99
+
+    
+    (II)  the population estimate from the Utah Population Estimates Committee, if the
+            
+100
+
+    
+population of a municipality is not available from the United States Bureau of the Census; and
+            
+101
+
+    
+    (B) (I)  prepare a certificate indicating the class in which the consolidated municipality
+            
+102
+
+    
+belongs based on the municipality's population; and
+            
+103
+
+    
+    (II)  within 10 days after preparing the certificate, deliver a copy of the certificate to the
+            
+104
+
+    
+consolidated municipality's legislative body; and
+            
+105
+
+    
+    (iii)  monitor the population of each municipality using population information from:
+            
+106
+
+    
+    (A)  each official census or census estimate of the United States Bureau of the Census;
+            
+107
+
+    
+or
+            
+108
+
+    
+    (B)  the population estimate from the Utah Population Estimates Committee, if the
+            
+109
+
+    
+population of a municipality is not available from the United States Bureau of the Census.
+            
+110
+
+    
+    (b)  If the applicable population figure under Subsection (3)(a)(ii) or (iii) indicates that
+            
+111
+
+    
+a municipality's population has increased beyond the population for its current class, the
+            
+112
+
+    
+lieutenant governor shall:
+            
+113
+
+    
+    (i)  prepare a certificate indicating the class in which the municipality belongs based on
+            
+114
+
+    
+the increased population figure; and
+            
+115
+
+    
+    (ii)  within 10 days after preparing the certificate, deliver a copy of the certificate to the
+            
+116
+
+    
+legislative body of the municipality whose class has changed.
+            
+117
+
+    
+    (c) (i)  If the applicable population figure under Subsection (3)(a)(ii) or (iii) indicates
+            
+118
+
+    
+that a municipality's population has decreased below the population for its current class, the
+            
+119
+
+    
+lieutenant governor shall send written notification of that fact to the municipality's legislative
+            
+120
+
+    
+body.
+
+            
+121
+
+
+    
+    (ii)  Upon receipt of a petition under Subsection 
+
+10-2-302
+
+(2) from a municipality whose
+            
+122
+
+    
+population has decreased below the population for its current class, the lieutenant governor
+            
+123
+
+    
+shall:
+            
+124
+
+    
+    (A)  prepare a certificate indicating the class in which the municipality belongs based
+            
+125
+
+    
+on the decreased population figure; and
+            
+126
+
+    
+    (B)  within 10 days after preparing the certificate, deliver a copy of the certificate to the
+            
+127
+
+    
+legislative body of the municipality whose class has changed.
+            
+128
+
+    
+    Section 2.  
+Section  
+67-1a-14
+
+ is enacted to read:
+            
+129
+
+    
+     67-1a-14.  Study of signing a petition online -- Report.
+            
+130
+
+    
+    (1)  As used in this section, "petition" means a petition to:
+            
+131
+
+    
+    (a)  qualify a ballot proposition for the ballot under Title 20A, Chapter 7, Issues
+            
+132
+
+    
+Submitted to the Voters;
+            
+133
+
+    
+    (b)  organize and register a political party under Title 20A, Chapter 8, Political Party
+            
+134
+
+    
+Formation and Procedures; or
+            
+135
+
+    
+    (c)  qualify a candidate for the ballot under Title 20A, Chapter 9, Candidate
+            
+136
+
+    
+Qualifications and Nominating Procedures.
+            
+137
+
+    
+    (2)  The lieutenant governor, in consultation with a county clerk and municipal clerk,
+            
+138
+
+    
+shall study a way that a registered voter may sign a petition on the Internet and receive
+            
+139
+
+    
+information about the petition on the Internet.
+            
+140
+
+    
+    (3)  The study shall evaluate:
+            
+141
+
+    
+    (a)  how to sign a petition on the Internet using a holographic signature that is in an
+            
+142
+
+    
+electronic format maintained by a government agency;
+            
+143
+
+    
+    (b)  the security, development, ownership, management, format, and content of a secure
+            
+144
+
+    
+Internet portal or website on which a registered voter may sign a petition;
+            
+145
+
+    
+    (c)  the security measures necessary to:
+            
+146
+
+    
+    (i)  verify the identity of a registered voter who signs a petition on the Internet; and
+            
+147
+
+    
+    (ii)  insure the integrity of a signature;
+            
+148
+
+    
+    (d)  changes to the process of collecting, verifying, and certifying a signature, if the
+            
+149
+
+    
+signature is collected on the Internet;
+            
+150
+
+    
+    (e)  whether verification is necessary for signatures collected on the Internet;
+            
+151
+
+    
+    (f)  which election official should be responsible for the certification of signatures
+
+            
+152
+
+
+    
+collected on the Internet;
+            
+153
+
+    
+    (g)  whether signatures on a petition should be public information;
+            
+154
+
+    
+    (h)  the removal process of a signature collected on the Internet;
+            
+155
+
+    
+    (i)  what percentage of signatures should be collected on the Internet or in person,
+            
+156
+
+    
+statewide or by Senate district;
+            
+157
+
+    
+    (j)  what information regarding the petition should be available on the secure Internet
+            
+158
+
+    
+portal or website, including who may submit the information and by what deadline information
+            
+159
+
+    
+should be submitted;
+            
+160
+
+    
+    (k)  the time the lieutenant governor, county clerk, or municipal clerk may spend
+            
+161
+
+    
+certifying a petition if a registered voter is allowed to sign a petition on the Internet;
+            
+162
+
+    
+    (l)  the processes, if any, that exists in other states to allow a registered voter to sign a
+            
+163
+
+    
+petition on the Internet; and
+            
+164
+
+    
+    (m)  any other issue related to allowing a registered voter to sign a petition on the
+            
+165
+
+    
+Internet.
+            
+166
+
+    
+    (4)  The lieutenant governor shall submit a copy of the study and recommendations, if
+            
+167
+
+    
+any, that result from the study to the Government Operations Interim Committee on or before
+            
+168
+
+    
+September 18, 2013.
+
+
+
+
+ Legislative Review Note
+    as of   1-31-12  9:17 AM
+
+ Office of Legislative Research and General Counsel
+[Bill Documents][Bills Directory]
+
+
+
+
+
+
+
+
+
+Who represents me?
+
+
+
+
+
+Remember my Legislators
+
+
+
+
+
+State Senate
+		350 North State, Suite 320
+		PO Box 145115
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1035
+		Fax: (801) 326-1475
+
+
+
+House of Representatives
+		350 North State, Suite 350
+		PO Box 145030
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1029
+		Fax: (801) 326-1544
+
+
+
+
+
+
+
+
+
+
+Home
+Mobile Site
+Site Map
+Calendar
+Code / Constitution
+House
+Senate
+
+Terms of Use/Privacy Policy
+
+ADA
+Utah.gov
+
+
+
+
+
+
+

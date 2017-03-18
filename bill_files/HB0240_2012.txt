@@ -1,0 +1,849 @@
+Sponsors: []Modifications: except as provided inSubsection (3)(f),; or(f)  notwithstanding the provisions of Subsection (3)(a), a natural person or professionalcorporation that alone or with others professionally associated with the natural person orprofessional corporation enters into a medical retainer agreement in accordance with Section
+
+31A-4-106.5
+
+.    31A-4-106.5.(1)  For purposes of this section:(a)  "Medical retainer agreement" means a written contract:(i)  between:(A)  except as provided in Subsection (1)(b)(iii)(B), a natural person or a professionalcorporation, alone or with others professionally associated with the natural person orprofessional corporation; and(B)  an individual patient or a patient's representative; and(ii)  in which:(A)  the person described in Subsection (1)(a)(i)(A) agrees to provide routine healthcare services to the individual patient for an agreed upon fee and period of time; and(B)  either party to the contract may terminate the agreement upon written notice to theother party.(b)  "Routine health care services" include:(i)  screening, assessment, diagnosis, and treatment for the purpose of promotion ofhealth, and detection and management of disease or injury;(ii)  supplies and prescription drugs that are dispensed in a health care provider's office;and(iii)  laboratory work, such as routine blood screening or routine pathology screeningperformed by a laboratory that:(A)  is associated with the health care provider entering into the medical retaineragreement; or(B)  if not associated with the health care provider, has entered into an agreement withthe health care provider to provide the laboratory work without charging a fee to the patient forthe laboratory work.(2)  A medical retainer agreement exempt from the provisions of Subsection
+
+31A-4-106
+
+(2) shall:(a)  describe the specific routine health care services that are included in the contract;and(b)  prominently state in writing that the retainer agreement is not health insurance.Full text:
+
+
+
+Utah State Legislature
+
+
+
+
+
+
+
+
+
+
+
+
+Legislators
+
+By Session (1896-Current)
+Alphabetical (Historical)
+Find by Address/Map
+More
+
+
+Bills
+
+Bills/Bill Requests
+Passed Bills
+2017 Bills
+
+Keyword Search
+Reading Calendars
+Tracking Service
+More
+
+
+Committees
+
+All Committees
+Appropriations
+Commissions
+
+Independent Legislative Ethics Commission
+Interim
+Standing
+Subcommittees
+Task Forces
+Bills In Committees
+
+
+Utah Code / Constitution
+
+
+Title/Chapter/Section
+Keyword Search 
+
+Utah Constitution
+Laws of Utah 1851-ongoing
+Utah Territorial Laws 
+More
+
+
+Senate
+
+Main Page 
+About The Senate 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Extraordinary Sessions 
+Reading Calendars 
+Past Floor Debates 
+Senate Journals 
+
+
+House
+
+Main Page
+About the House 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Reading Calendars 
+Past Floor Debates 
+Journals 
+Conflict of Interest Forms 
+
+
+Legislative Guide 
+
+Legislative Guide
+Civic Programs
+GRAMA (Records Requests)
+
+
+Publications
+
+Search Publications
+Appropriations
+Audits
+Bagels & Briefings
+Briefing Papers
+Digest of Legislation
+Legislative Drafting Manual
+
+Journals
+
+Interim Highlights
+
+Legislative Rules
+GRAMA (Records Requests)
+Public Email
+State Organization Charts
+YouTube Channel
+Requests for Proposals and Legal Notices
+More
+
+
+Legislative Histories
+
+Legislative History Resources
+How to Research
+Bill Drafting/Research Files (1990-Ongoing)
+
+Working Bills (1896-1989)
+Interim Committee Histories (1990-Ongoing) 
+Journals
+Past House Floor Debates
+Past Senate Floor Debates
+More
+
+
+Staff Offices
+
+All Legislative Offices
+Auditor General
+Fiscal Analyst
+Printing
+Research and General Counsel
+Staff Awards
+Job Opportunities
+More
+
+
+Links of Interest
+
+Utah Administrative Rules
+Courts
+Utah State Capitol
+State of Utah
+Federal Legislation
+More
+
+
+
+
+
+
+ 
+
+Download Zipped Introduced WordPerfect HB0240.ZIP
+[Status][Bill Documents][Fiscal Note][Bills Directory]
+
+
+H.B. 240
+
+
+
+
+
+            
+1
+
+    
+ MEDICAL RETAINER AGREEMENTS
+
+
+
+            
+2
+
+    
+2012 GENERAL SESSION
+
+            
+3
+
+    
+STATE OF UTAH
+
+            
+4
+
+    
+
+
+ Chief Sponsor:  Ken Ivory
+
+
+
+            
+5
+
+    
+
+
+
+Senate Sponsor: 
+
+
+
+
+
+
+  Aaron Osmond
+
+
+
+
+
+            
+6
+
+    
+
+            
+7
+
+    
+ LONG TITLE
+            
+8
+
+    
+ General Description:
+            
+9
+
+    
+    This bill amends the Insurance Code to clarify when certain health care services are not
+            
+10
+
+    
+subject to regulation as a health insurance plan.
+            
+11
+
+    
+ Highlighted Provisions:
+            
+12
+
+    
+    This bill:
+            
+13
+
+    
+    .    defines terms;
+            
+14
+
+    
+    .    provides that a medical retainer agreement in which a health care provider agrees to
+            
+15
+
+    
+provide routine health care services to a patient in exchange for a prepaid fee is not
+            
+16
+
+    
+a health benefit plan subject to regulation by the Insurance Department; and
+            
+17
+
+    
+    .    permits a health care provider to include limited services performed by a third party
+            
+18
+
+    
+in the retainer agreement.
+            
+19
+
+    
+ Money Appropriated in this Bill:
+            
+20
+
+    
+    None
+            
+21
+
+    
+ Other Special Clauses:
+            
+22
+
+    
+    None
+            
+23
+
+    
+ Utah Code Sections Affected:
+            
+24
+
+    
+AMENDS:
+            
+25
+
+    
+     31A-4-106, as last amended by Laws of Utah 2008, Chapters 3 and 345
+            
+26
+
+    
+ENACTS:
+            
+27
+
+    
+     31A-4-106.5, Utah Code Annotated 1953
+
+            
+28
+
+
+    
+
+            
+29
+
+    
+Be it enacted by the Legislature of the state of Utah:
+            
+30
+
+    
+    Section 1.  
+Section  
+31A-4-106
+
+ is amended to read:
+            
+31
+
+    
+     31A-4-106.  Provision of health care.
+            
+32
+
+    
+    (1)  As used in this section, "health care provider" has the same definition as in Section
+            
+33
+
+    
+
+78B-3-403
+
+.
+            
+34
+
+    
+    (2)  Except under Subsection (3) or (4), unless authorized to do so or employed by
+            
+35
+
+    
+someone authorized to do so under Chapter 5, 7, 8, 9, or 14, a person may not:
+            
+36
+
+    
+    (a)  directly or indirectly provide health care;
+            
+37
+
+    
+    (b)  arrange for health care;
+            
+38
+
+    
+    (c)  manage or administer the provision or arrangement of health care;
+            
+39
+
+    
+    (d)  collect advance payments for health care; or
+            
+40
+
+    
+    (e)  compensate a provider of health care.
+            
+41
+
+    
+    (3)  Subsection (2) does not apply to:
+            
+42
+
+    
+    (a)  a natural person or professional corporation that alone or with others professionally
+            
+43
+
+    
+associated with the natural person or professional corporation, and except as provided in
+            
+44
+
+    
+Subsection (3)(f), without receiving consideration for services in advance of the need for a
+            
+45
+
+    
+particular service, provides the service personally with the aid of nonprofessional assistants;
+            
+46
+
+    
+    (b)  a health care facility as defined in Section 
+
+26-21-2
+
+ that:
+            
+47
+
+    
+    (i)  is licensed or exempt from licensing under Title 26, Chapter 21, Health Care
+            
+48
+
+    
+Facility Licensing and Inspection Act; and
+            
+49
+
+    
+    (ii)  does not engage in health care insurance as defined under Section 
+
+31A-1-301
+
+;
+            
+50
+
+    
+    (c)  a person who files with the commissioner a certificate from the United States
+            
+51
+
+    
+Department of Labor, or other evidence satisfactory to the commissioner, showing that the laws
+            
+52
+
+    
+of Utah are preempted under Section 514 of the Employee Retirement Income Security Act of
+            
+53
+
+    
+1974 or other federal law;
+            
+54
+
+    
+    (d)  a person licensed under Chapter 23a, Insurance Marketing - Licensing Producers,
+            
+55
+
+    
+Consultants, and Reinsurance Intermediaries, who:
+            
+56
+
+    
+    (i)  arranges for the insurance of all services under:
+            
+57
+
+    
+    (A)  Subsection (2) by an insurer authorized to do business in Utah; or
+            
+58
+
+    
+    (B)  Section 
+
+31A-15-103
+
+; or
+
+            
+59
+
+
+    
+    (ii)  works for an uninsured employer that complies with Chapter 13, Employee Welfare
+            
+60
+
+    
+Funds and Plans; [or]
+            
+61
+
+    
+    (e)  an employer that self-funds its obligations to provide health care services or
+            
+62
+
+    
+indemnity for its employees if the employer complies with Chapter 13, Employee Welfare
+            
+63
+
+    
+Funds and Plans[.]; or
+            
+64
+
+    
+    (f)  notwithstanding the provisions of Subsection (3)(a), a natural person or professional
+            
+65
+
+    
+corporation that alone or with others professionally associated with the natural person or
+            
+66
+
+    
+professional corporation enters into a medical retainer agreement in accordance with Section
+            
+67
+
+    
+
+
+31A-4-106.5
+
+.
+            
+68
+
+    
+    (4)  A person may not provide administrative or management services for another
+            
+69
+
+    
+person subject to Subsection (2) and not exempt under Subsection (3) unless the person:
+            
+70
+
+    
+    (a)  is an authorized insurer under Chapter 5, 7, 8, 9, or 14; or
+            
+71
+
+    
+    (b)  complies with Chapter 25, Third Party Administrators.
+            
+72
+
+    
+    (5) An insurer or person who provides, administers, or manages health care insurance
+            
+73
+
+    
+under Chapter 5, 7, 8, 9, or 14 may not enter into a contract that limits a health care provider's
+            
+74
+
+    
+ability to advise the health care provider's patients or clients fully about treatment options or
+            
+75
+
+    
+other issues that affect the health care of the health care provider's patients or clients.
+            
+76
+
+    
+    Section 2.  
+Section  
+31A-4-106.5
+
+ is enacted to read:
+            
+77
+
+    
+     31A-4-106.5.  Medical retainer agreements.
+            
+78
+
+    
+    (1)  For purposes of this section:
+            
+79
+
+    
+    (a)  "Medical retainer agreement" means a written contract:
+            
+80
+
+    
+    (i)  between:
+            
+81
+
+    
+    (A)  except as provided in Subsection (1)(b)(iii)(B), a natural person or a professional
+            
+82
+
+    
+corporation, alone or with others professionally associated with the natural person or
+            
+83
+
+    
+professional corporation; and
+            
+84
+
+    
+    (B)  an individual patient or a patient's representative; and
+            
+85
+
+    
+    (ii)  in which:
+            
+86
+
+    
+    (A)  the person described in Subsection (1)(a)(i)(A) agrees to provide routine health
+            
+87
+
+    
+care services to the individual patient for an agreed upon fee and period of time; and
+            
+88
+
+    
+    (B)  either party to the contract may terminate the agreement upon written notice to the
+            
+89
+
+    
+other party.
+
+            
+90
+
+
+    
+    (b)  "Routine health care services" include:
+            
+91
+
+    
+    (i)  screening, assessment, diagnosis, and treatment for the purpose of promotion of
+            
+92
+
+    
+health, and detection and management of disease or injury;
+            
+93
+
+    
+    (ii)  supplies and prescription drugs that are dispensed in a health care provider's office;
+            
+94
+
+    
+and
+            
+95
+
+    
+    (iii)  laboratory work, such as routine blood screening or routine pathology screening
+            
+96
+
+    
+performed by a laboratory that:
+            
+97
+
+    
+    (A)  is associated with the health care provider entering into the medical retainer
+            
+98
+
+    
+agreement; or
+            
+99
+
+    
+    (B)  if not associated with the health care provider, has entered into an agreement with
+            
+100
+
+    
+the health care provider to provide the laboratory work without charging a fee to the patient for
+            
+101
+
+    
+the laboratory work.
+            
+102
+
+    
+    (2)  A medical retainer agreement exempt from the provisions of Subsection
+            
+103
+
+    
+
+
+31A-4-106
+
+(2) shall:
+            
+104
+
+    
+    (a)  describe the specific routine health care services that are included in the contract;
+            
+105
+
+    
+and
+            
+106
+
+    
+    (b)  prominently state in writing that the retainer agreement is not health insurance.
+
+
+
+
+ Legislative Review Note
+    as of   1-30-12  5:54 PM
+
+ Office of Legislative Research and General Counsel
+[Bill Documents][Bills Directory]
+
+
+
+
+
+
+
+
+
+Who represents me?
+
+
+
+
+
+Remember my Legislators
+
+
+
+
+
+State Senate
+		350 North State, Suite 320
+		PO Box 145115
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1035
+		Fax: (801) 326-1475
+
+
+
+House of Representatives
+		350 North State, Suite 350
+		PO Box 145030
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1029
+		Fax: (801) 326-1544
+
+
+
+
+
+
+
+
+
+
+Home
+Mobile Site
+Site Map
+Calendar
+Code / Constitution
+House
+Senate
+
+Terms of Use/Privacy Policy
+
+ADA
+Utah.gov
+
+
+
+
+
+
+

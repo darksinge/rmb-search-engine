@@ -1,0 +1,945 @@
+Sponsors: []Modifications: :(a)  "Optional expansion population" means individuals who:(i)  do not qualify for the state's Medicaid program; and(ii)  the Centers for Medicare and Medicaid Services within the United StatesDepartment of Health and Human Services would otherwise determine are eligible for fundingat the enhanced federal medical assistance percentage available under PPACA beginningJanuary 1, 2014.(b)expansion(a)(b)    26-18-20.(1)  For purposes of this section:(a)  "Access Utah" means the defined contribution program created in this section.(b)  "Medically frail" means an individual who meets the criteria of 42 C.F.R. 440.315as determined by the department based on methodology administered by the department oranother entity selected by the department.(c)  "Optional expansion population" is as defined in Section 
+
+26-18-18
+
+
+.(2) (a)  The department shall establish a two-year pilot program known as "AccessUtah," which shall:(i)  begin on January 1, 2015, and end on January 1, 2017; and(ii)  provide a defined contribution to eligible individuals in accordance with thissection.(b)  The department shall work with the Legislature's Health Reform Task Force todevelop a Medicaid waiver proposal under Section 1332 of the Social Security Act to submit tothe Centers for Medicare and Medicaid Services within the United States Department of Healthand Human Services.(3)  An individual is eligible for Access Utah if the individual:(a) (i)  is in the optional expansion population and below 100% of the federal povertylevel; and(ii) (A)  is medically frail; or(B)  is an adult with a dependent child; and(b)  if funding permits, is an individual described in Subsection (3)(a)(i), but not inSubsection (3)(a)(ii).(4) (a)  Within appropriations from the Legislature, the department shall offer to aneligible individual a defined contribution in an amount determined by the department.(b)  An eligible individual shall use the defined contribution to purchase employersponsored health insurance coverage if the individual is offered employer sponsored healthinsurance coverage.(c)  If an eligible individual is not offered employer sponsored coverage, the individualmay use the defined contribution to purchase:(i)  a commercial health insurance policy; or(ii)  access to a coordinated care model described in Subsection (5).(5) (a)  The department may contract with public and private entities to provide ormanage the delivery of a coordinated care model to an individual described in Subsection(4)(c)(ii).(b)  The coordinated care model shall combine state and federal funding with charitycare resources to:(i)  provide, as funding permits, preventive care, outpatient care, pharmacy benefits,urgent and emergency care, and limited hospital benefits; and(ii)  integrate physical health and behavioral health services.(6)  The department shall evaluate and report to the Legislature's Health Reform TaskForce on or before November 1, 2016, regarding:(a)  the methods used to determine a medically frail individual and the number ofmedically frail individuals who enrolled in Access Utah;(b)  access to and quality of care in Access Utah; and(c)  whether Access Utah helped to facilitate enrollee self-sufficiency.(7) (a)  Notwithstanding Section 
+
+26-18-18
+
+
+, the department shall seek an extension ofUtah's Primary Care Network and the Utah Premium Partnership 1115 Waiver from theCenters for Medicare and Medicaid Services within the United States Department of Healthand Human Services in accordance with Subsection (7)(b).(b)  The department may modify the Primary Care Network and The Utah PremiumPartnership scope of benefits and eligibility criteria as part of the waiver request underSubsection (7)(a) if:(i)  the department develops the waiver request in coordination with the Legislature'sHealth Reform Task Force and reports to the Legislature's Executive AppropriationsCommittee regarding the waiver request; and(ii)  the modification of benefits will:(A)  not increase the state's expenditure for the Access Utah program beyond theLegislature's appropriation for the program; and(B)  further the state's goal to reduce health care costs, improve access to health care,and improve health outcomes of Utah citizens.Full text:
+
+
+
+Utah State Legislature
+
+
+
+
+
+
+
+
+
+
+
+
+Legislators
+
+By Session (1896-Current)
+Alphabetical (Historical)
+Find by Address/Map
+More
+
+
+Bills
+
+Bills/Bill Requests
+Passed Bills
+2017 Bills
+
+Keyword Search
+Reading Calendars
+Tracking Service
+More
+
+
+Committees
+
+All Committees
+Appropriations
+Commissions
+
+Independent Legislative Ethics Commission
+Interim
+Standing
+Subcommittees
+Task Forces
+Bills In Committees
+
+
+Utah Code / Constitution
+
+
+Title/Chapter/Section
+Keyword Search 
+
+Utah Constitution
+Laws of Utah 1851-ongoing
+Utah Territorial Laws 
+More
+
+
+Senate
+
+Main Page 
+About The Senate 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Extraordinary Sessions 
+Reading Calendars 
+Past Floor Debates 
+Senate Journals 
+
+
+House
+
+Main Page
+About the House 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Reading Calendars 
+Past Floor Debates 
+Journals 
+Conflict of Interest Forms 
+
+
+Legislative Guide 
+
+Legislative Guide
+Civic Programs
+GRAMA (Records Requests)
+
+
+Publications
+
+Search Publications
+Appropriations
+Audits
+Bagels & Briefings
+Briefing Papers
+Digest of Legislation
+Legislative Drafting Manual
+
+Journals
+
+Interim Highlights
+
+Legislative Rules
+GRAMA (Records Requests)
+Public Email
+State Organization Charts
+YouTube Channel
+Requests for Proposals and Legal Notices
+More
+
+
+Legislative Histories
+
+Legislative History Resources
+How to Research
+Bill Drafting/Research Files (1990-Ongoing)
+
+Working Bills (1896-1989)
+Interim Committee Histories (1990-Ongoing) 
+Journals
+Past House Floor Debates
+Past Senate Floor Debates
+More
+
+
+Staff Offices
+
+All Legislative Offices
+Auditor General
+Fiscal Analyst
+Printing
+Research and General Counsel
+Staff Awards
+Job Opportunities
+More
+
+
+Links of Interest
+
+Utah Administrative Rules
+Courts
+Utah State Capitol
+State of Utah
+Federal Legislation
+More
+
+
+
+
+
+
+ 
+
+H.B. 401
+
+
+
+
+
+            
+1
+
+    
+ ACCESS UTAH PROGRAM
+
+
+
+            
+2
+
+    
+2014 GENERAL SESSION
+
+            
+3
+
+    
+STATE OF UTAH
+
+            
+4
+
+    
+
+
+ Chief Sponsor:  James A. Dunnigan
+
+
+
+            
+5
+
+    
+
+
+
+Senate Sponsor:  
+
+
+
+
+
+
+____________
+
+
+
+
+
+            
+6
+
+    
+
+            
+7
+
+    
+ LONG TITLE
+            
+8
+
+    
+ General Description:
+            
+9
+
+    
+    This bill establishes the Access Utah program to provide access to health care to certain
+            
+10
+
+    
+individuals below the federal poverty level.
+            
+11
+
+    
+ Highlighted Provisions:
+            
+12
+
+    
+    This bill:
+            
+13
+
+    
+    .    updates language regarding the prohibition against Medicaid expansion to reflect
+            
+14
+
+    
+current federal regulations;
+            
+15
+
+    
+    .    creates a two-year pilot program known as Access Utah to provide a defined
+            
+16
+
+    
+contribution health benefit to individuals who are below the federal poverty level
+            
+17
+
+    
+and who meet other need based requirements;
+            
+18
+
+    
+    .    establishes a coordinated care model for providing care in Access Utah; and
+            
+19
+
+    
+    .    instructs the Department of Health to:
+            
+20
+
+    
+        *    work with the Legislature's Health Reform Task Force to develop a     
+            
+21
+
+    
+Section 1332 Medicaid waiver; and
+            
+22
+
+    
+        *    submit an amendment of the Utah Premium Partnership and Primary Care
+            
+23
+
+    
+Network waiver to the Centers for Medicare and Medicaid Services to
+            
+24
+
+    
+incorporate the Access Utah program.
+            
+25
+
+    
+ Money Appropriated in this Bill:
+            
+26
+
+    
+    None
+            
+27
+
+    
+ Other Special Clauses:
+
+            
+28
+
+
+    
+    None
+            
+29
+
+    
+ Utah Code Sections Affected:
+            
+30
+
+    
+AMENDS:
+            
+31
+
+    
+     
+26-18-18
+, as enacted by Laws of Utah 2013, Chapter 477
+            
+32
+
+    
+ENACTS:
+            
+33
+
+    
+     
+26-18-20
+, Utah Code Annotated 1953
+            
+34
+
+    
+
+            
+35
+
+    
+Be it enacted by the Legislature of the state of Utah:
+            
+36
+
+    
+    Section 1.  
+Section  
+26-18-18
+
+ is amended to read:
+            
+37
+
+    
+     26-18-18.  Optional Medicaid expansion.
+            
+38
+
+    
+    (1)  For purposes of this section:
+            
+39
+
+    
+    (a)  "Optional expansion population" means individuals who:
+            
+40
+
+    
+    (i)  do not qualify for the state's Medicaid program; and
+            
+41
+
+    
+    (ii)  the Centers for Medicare and Medicaid Services within the United States
+            
+42
+
+    
+Department of Health and Human Services would otherwise determine are eligible for funding
+            
+43
+
+    
+at the enhanced federal medical assistance percentage available under PPACA beginning
+            
+44
+
+    
+January 1, 2014.
+            
+45
+
+    
+    (b)  PPACA is as defined in Section 
+
+31A-1-301
+
+
+.
+            
+46
+
+    
+    (2)  The department and the governor shall not expand the [state's] Medicaid program to
+            
+47
+
+    
+the optional expansion population under PPACA unless:
+            
+48
+
+    
+    [(a)  the Health Reform Task Force has completed a thorough analysis of a statewide
+            
+49
+
+    
+charity care system;]
+            
+50
+
+    
+    [(b)  the department and its contractors have:]
+            
+51
+
+    
+    [(i)  completed a thorough analysis of the impact to the state of expanding the state's
+            
+52
+
+    
+Medicaid program to optional populations under PPACA; and]
+            
+53
+
+    
+    [(ii)  made the analysis conducted under Subsection (2)(b)(i) available to the public;]
+            
+54
+
+    
+    [(c)] (a)  the governor or the governor's designee has reported the intention to expand
+            
+55
+
+    
+the state Medicaid program under PPACA to the Legislature in compliance with the legislative
+            
+56
+
+    
+review process in Sections 
+
+63M-1-2505.5
+
+
+ and 
+
+26-18-3
+
+
+; and
+            
+57
+
+    
+    [(d)] (b)  notwithstanding Subsection 
+
+63J-5-103
+
+
+(2), the governor submits the request
+            
+58
+
+    
+for expansion of the Medicaid program for optional populations to the Legislature under the
+
+            
+59
+
+
+    
+high impact federal funds request process required by Section 
+
+63J-5-204
+
+
+, Legislative review
+            
+60
+
+    
+and approval of certain federal funds request.
+            
+61
+
+    
+    Section 2.  
+Section  
+26-18-20
+
+ is enacted to read:
+            
+62
+
+    
+     26-18-20.  Access Utah -- Eligibility -- Defined contribution.
+            
+63
+
+    
+    (1)  For purposes of this section:
+            
+64
+
+    
+    (a)  "Access Utah" means the defined contribution program created in this section.
+            
+65
+
+    
+    (b)  "Medically frail" means an individual who meets the criteria of 42 C.F.R. 440.315
+            
+66
+
+    
+as determined by the department based on methodology administered by the department or
+            
+67
+
+    
+another entity selected by the department.
+            
+68
+
+    
+    (c)  "Optional expansion population" is as defined in Section 
+
+26-18-18
+
+
+.
+            
+69
+
+    
+    (2) (a)  The department shall establish a two-year pilot program known as "Access
+            
+70
+
+    
+Utah," which shall:
+            
+71
+
+    
+    (i)  begin on January 1, 2015, and end on January 1, 2017; and
+            
+72
+
+    
+    (ii)  provide a defined contribution to eligible individuals in accordance with this
+            
+73
+
+    
+section.
+            
+74
+
+    
+    (b)  The department shall work with the Legislature's Health Reform Task Force to
+            
+75
+
+    
+develop a Medicaid waiver proposal under Section 1332 of the Social Security Act to submit to
+            
+76
+
+    
+the Centers for Medicare and Medicaid Services within the United States Department of Health
+            
+77
+
+    
+and Human Services.
+            
+78
+
+    
+    (3)  An individual is eligible for Access Utah if the individual:
+            
+79
+
+    
+    (a) (i)  is in the optional expansion population and below 100% of the federal poverty
+            
+80
+
+    
+level; and
+            
+81
+
+    
+    (ii) (A)  is medically frail; or
+            
+82
+
+    
+    (B)  is an adult with a dependent child; and
+            
+83
+
+    
+    (b)  if funding permits, is an individual described in Subsection (3)(a)(i), but not in
+            
+84
+
+    
+Subsection (3)(a)(ii).
+            
+85
+
+    
+    (4) (a)  Within appropriations from the Legislature, the department shall offer to an
+            
+86
+
+    
+eligible individual a defined contribution in an amount determined by the department.
+            
+87
+
+    
+    (b)  An eligible individual shall use the defined contribution to purchase employer
+            
+88
+
+    
+sponsored health insurance coverage if the individual is offered employer sponsored health
+            
+89
+
+    
+insurance coverage.
+
+            
+90
+
+
+    
+    (c)  If an eligible individual is not offered employer sponsored coverage, the individual
+            
+91
+
+    
+may use the defined contribution to purchase:
+            
+92
+
+    
+    (i)  a commercial health insurance policy; or
+            
+93
+
+    
+    (ii)  access to a coordinated care model described in Subsection (5).
+            
+94
+
+    
+    (5) (a)  The department may contract with public and private entities to provide or
+            
+95
+
+    
+manage the delivery of a coordinated care model to an individual described in Subsection
+            
+96
+
+    
+(4)(c)(ii).
+            
+97
+
+    
+    (b)  The coordinated care model shall combine state and federal funding with charity
+            
+98
+
+    
+care resources to:
+            
+99
+
+    
+    (i)  provide, as funding permits, preventive care, outpatient care, pharmacy benefits,
+            
+100
+
+    
+urgent and emergency care, and limited hospital benefits; and
+            
+101
+
+    
+    (ii)  integrate physical health and behavioral health services.
+            
+102
+
+    
+    (6)  The department shall evaluate and report to the Legislature's Health Reform Task
+            
+103
+
+    
+Force on or before November 1, 2016, regarding:
+            
+104
+
+    
+    (a)  the methods used to determine a medically frail individual and the number of
+            
+105
+
+    
+medically frail individuals who enrolled in Access Utah;
+            
+106
+
+    
+    (b)  access to and quality of care in Access Utah; and
+            
+107
+
+    
+    (c)  whether Access Utah helped to facilitate enrollee self-sufficiency.
+            
+108
+
+    
+    (7) (a)  Notwithstanding Section 
+
+26-18-18
+
+
+, the department shall seek an extension of
+            
+109
+
+    
+Utah's Primary Care Network and the Utah Premium Partnership 1115 Waiver from the
+            
+110
+
+    
+Centers for Medicare and Medicaid Services within the United States Department of Health
+            
+111
+
+    
+and Human Services in accordance with Subsection (7)(b).
+            
+112
+
+    
+    (b)  The department may modify the Primary Care Network and The Utah Premium
+            
+113
+
+    
+Partnership scope of benefits and eligibility criteria as part of the waiver request under
+            
+114
+
+    
+Subsection (7)(a) if:
+            
+115
+
+    
+    (i)  the department develops the waiver request in coordination with the Legislature's
+            
+116
+
+    
+Health Reform Task Force and reports to the Legislature's Executive Appropriations
+            
+117
+
+    
+Committee regarding the waiver request; and
+            
+118
+
+    
+    (ii)  the modification of benefits will:
+            
+119
+
+    
+    (A)  not increase the state's expenditure for the Access Utah program beyond the
+            
+120
+
+    
+Legislature's appropriation for the program; and
+
+            
+121
+
+
+    
+    (B)  further the state's goal to reduce health care costs, improve access to health care,
+            
+122
+
+    
+and improve health outcomes of Utah citizens.
+
+
+
+
+ Legislative Review Note
+    as of   2-24-14  11:01 AM
+
+ Office of Legislative Research and General Counsel
+[Bill Documents][Bills Directory]
+
+
+
+
+
+
+
+
+
+Who represents me?
+
+
+
+
+
+Remember my Legislators
+
+
+
+
+
+State Senate
+		350 North State, Suite 320
+		PO Box 145115
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1035
+		Fax: (801) 326-1475
+
+
+
+House of Representatives
+		350 North State, Suite 350
+		PO Box 145030
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1029
+		Fax: (801) 326-1544
+
+
+
+
+
+
+
+
+
+
+Home
+Mobile Site
+Site Map
+Calendar
+Code / Constitution
+House
+Senate
+
+Terms of Use/Privacy Policy
+
+ADA
+Utah.gov
+
+
+
+
+
+
+

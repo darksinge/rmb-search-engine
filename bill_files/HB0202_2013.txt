@@ -1,0 +1,2544 @@
+Sponsors: []Modifications: 2012(1)  In IRC, Section N1101.8 (R103.2), all words after the words "herein governed." aredeleted and replaced with the following: "Construction documents include all documentationrequired to be submitted in order to issue a building permit."(2)  In IRC, Section N1101.14 (R303.3), all wording after the first sentence is deleted.(3)  In IRC, Table N1102.1.1 (402.1.1) and Table N1102.1.3 (R402.1.3), the rows for"climate zone 3", "climate zone 5 and Marine 4", and "climate zone 6" are deleted and replacedand a new footnote j is added as follows:"TABLE N1102.1.1 (R402.1.1)INSULATION AND FENESTRATION REQUIREMENTS BY COMPONENTaCLIMATE
+ZONEFENESTRATION
+U-FACTOR bSKYLIGHT b
+U-FACTORGLAZED
+FENESTRATION
+SHGC b,eCEILING
+R-VALUEWOOD
+FRAME WALL
+R-VALUEMASS
+WALL
+R-VALUE i,jFLOOR
+R-VALUEBASEMENT c
+WALL
+R-VALUESLAB d
+R-VALUE
+& DEPTHCRAWL
+SPACE c
+WALL
+R-VALUE30.650.650.403015519005/135 andMarine 40.350.60NR3819 or 13 +5h1330 g10/1310, 2 ft10/1360.350.60NR4919 or 13 +5h1530 g10/1310, 4 ft10/13j. Log walls complying with ICC400 and with a minimum average wall thickness of 5” or greater shall be permitted in Zones
+5-8 when overall window glazing is .31 U-factor or lower, minimum heating equipment efficiency is 90 AFUE (gas) or 84
+AFUE (oil), and all other component requirements are met.”TABLE N1102.1.3 (R402.1.3)EQUIVALENT U-FACTORSa
+CLIMATEZONEFENESTRATION
+U-FACTOR
+CRAWLSPACE
+WALLU-FACTOR30.650.650.0350.0820.1410.0470.3600.1365 and
+Marine 40.350.600.0300.0600.0820.0330.0590.06560.350.600.0260.0600.0600.0330.0590.065(4)  In IRC, Section N1102.2.1 (R402.2.1), the last sentence is deleted.(5)  In IRC, Section N1102.2.2 (R402.2.2), the last sentence is deleted.(6)  In IRC, Section N1102.3.3 (R402.3.3), the last sentence is deleted.(7)  In IRC, Section N1102.3.4 (R402.3.4), the last sentence is deleted.(8)  In IRC, Section N1102.4.1 (R402.4.1), in the first sentence, the word "and" isdeleted and replaced with the word "or".(9)  In IRC, Section N1102.4.1.1 (R402.4.1.1), the last sentence is deleted and replacedwith the following: "Where allowed by the building official, the builder may certify complianceto components criteria for items which may not be inspected during regularly scheduledinspections."(10)  In IRC, Section N1102.4.1.2 (R402.4.1.2), the following changes are made:a.  In the first sentence, the words "in Zones 1 and 2, and 3 air changes per hour in Zone 3through 8" are deleted.b.  In the third sentence, the words "Where required by the building official," and the word"third" are deleted.c.  The following sentence is inserted after the third sentence: "The following parties shall beapproved to conduct testing: Parties certified by BPI or RESNET, or licensed contractors whohave completed training provided by Blower Door Test equipment manufacturers or othercomparable training."(11)  In IRC, Section N1102.4.4 (R402.4.4), the last sentence is deleted.(12)  In IRC, Section N1103.2.2 (R403.2.2), the requirements for duct tightness testingare deleted and replaced with the following:"1. Postconstruction test: Total leakage shall be less than or equal to 10 cfm (283L/min) per 100 square feet (9.29 m2) of conditioned floor space when tested at a pressuredifferential of 0.1 inches w.g. (25 Pa) across the entire system, including the manufacturer's airhandler enclosure. All register boots shall be taped or otherwise sealed during the test.2.  Rough-in test: Total leakage shall be less than or equal to 10 cfm (283 L/min) per100 square feet (9.29 m2) of conditioned floor area when tested at a pressure differential of atleast 0.1 inches w.g.  (25 Pa) across the system, including the manufacturer's air handlerenclosure.  All registers shall be taped or otherwise sealed during the test.  If the air handler isnot installed at the time of the test, total leakage shall be less than or equal to 7.5 cfm (212L/min) per 100 square feet (9.29 m2) of conditioned floor area."(13)  In IRC, Section N1103.2.2 (R403.2.2), the exception for duct tightness testing isdeleted and replaced with the following: "Exception: The total leakage test is not required forsystems with all air handlers and at least 50% of all ducts (measured by length) located entirelywithin the building thermal envelope."(14)  In IRC, Section N1103.2.3 (R403.2.3), the words "or plenums" are deleted.(15)  In IRC, Section N1103.4.2 (R403.4.2), the sentences for "3.", "9.", and the lastsentence are deleted.(16)  In IRC, Section N1103.5 (R403.5), the first sentence is deleted.(17)  IRC, Section N1104.1 (R404.1) and the exception are deleted, and N1104.1.1(R404.1.1) becomes N1104.1 (R404.1).(18)  In IRC, Table N1105.5.2(1) (R405.5.2(1)), the following changes are made underthe column STANDARD REFERENCE DESIGN:a.  In the row "Air exchange rate", the words "in Zones 1 and 2, and 3 air changes per hour inZones 3 through 8" are deleted.b.  In the row "Heating systemsf, g", the standard reference design is deleted and replaced withthe following:"Fuel Type: same as proposed designEfficiencies:Electric: air source heat pump with prevailing federal minimum efficienciesNonelectric furnaces: natural gas furnace with prevailing federal minimum efficienciesNonelectric boilers: natural gas boiler with prevailing federal minimum efficienciesCapacity: sized in accordance with Section N1103.6"c.  In the row "Cooling systemsf, h" the words "As proposed" are deleted and replaced with thefollowing:"Fuel Type: ElectricEfficiency: in accordance with prevailing federal minimum standards"d.  In the row "Service water heatingf, g, h, i", the words "As proposed" are deleted and replacedwith the following:"Fuel Type: same as proposed designEfficiency: in accordance with prevailing federal minimum standardsTank Temperature: 120o F"e.  In the row "Thermal distribution systems" the word "none" is deleted and replaced with thefollowing: "Thermal distribution system efficiency (DSE) of .080 shall be applied to both theheating and cooling system efficiencies."(19)  In Table N1105.5.2(2) (R405.5.2(2)), the number "0.80" is inserted under "Forcedair systems" for "Distribution system components located in unconditioned space".(20)  In IRC, Section M1307.2, the words "In Seismic Design Categories D1 and D2"are deleted.(21):(1)  In IECC, Section C202, the definition for "CONDITIONED SPACE" is deleted andreplaced with the following: "CONDITIONED SPACE.  An area, room or space enclosedwithin the building thermal envelope that is directly heated or cooled, or indirectly heated orcooled by any of the following means:1.  Openings directly into an adjacent conditioned space.2.  An un-insulated floor, ceiling or wall adjacent to a conditioned space.3.  Un-insulated duct, piping or other heat or cooling source within the space."(2)  In IECC, Section C404.4,(3)  In IECC, Section R103.2, all words after the words "herein governed." are deletedand replaced with the following: "Construction documents include all documentation requiredto be submitted in order to issue a building permit."(4)  In IECC, Section R202, the definition for "CONDITIONED SPACE" is deleted andreplaced with the following: "CONDITIONED SPACE.  An area, room or space enclosedwithin the building thermal envelope that is directly heated or cooled, or indirectly heated orcooled by any of the following means:1.  Openings directly into an adjacent conditioned space.2.  An un-insulated floor, ceiling or wall adjacent to a conditioned space.3.  Un-insulated duct, piping or other heat or cooling source within the space."(5)  In IECC, Section R303.3, all wording after the first sentence is deleted.(6)  In IECC, Table R402.1.1 and Table R402.1.3, the rows for "climate zone 3","climate zone 5 and Marine 4, and climate zone 6" are deleted and replaced and a new footnotej is added as follows:"TABLE R402.1.1INSULATION AND FENESTRATION REQUIREMENTS BY COMPONENTaCLIMATE
+ZONEFENESTRATION
+U-FACTOR bSKYLIGHT b
+U-FACTORGLAZED
+FENESTRATION
+SHGC b,eCEILING
+R-VALUEWOOD
+FRAME
+WALL
+R-VALUEMASS
+WALL
+R-VALUE I, jFLOOR
+R-VALUEBASEMENT c
+WALL
+R-VALUESLAB d
+R-VALUE
+& DEPTHCRAWL
+SPACE c
+WALL
+R-VALUE30.650.650.403015519005/135 and
+Marine 40.350.60NR3819 or 13 +
+5h1330 g10/1310, 2 ft10/1360.350.60NR4919 or 13 +
+5h1530 g10/1310, 4 ft10/13j.  Log walls complying with ICC400 and with a minimum average wall thickness of 5" or greater shall be permitted in Zones
+5-8 when overall window glazing is .31 U-factor or lower, minimum heating equipment efficiency is 90 AFUE (gas) or 84
+AFUE (oil), and all other component requirements are met.TABLE R402.1.3 EQUIVALENT U-FACTORSaCLIMATE
+ZONEFENESTRATION
+U-FACTORSKYLIGHT
+U-FACTORCEILING
+U-FACTORFRAME
+WALL
+U-FACTORMASS WALL
+U-FACTOR bFLOOR
+U-FACTORBASEMENT
+WALL
+U-FACTORCRAWL
+SPACE WALL
+U-FACTOR30.650.650.0350.0820.1410.0470.3600.1365 and Marine 40.350.600.0300.0600.0820.0330.0590.06560.350.600.0260.0600.0600.0330.0590.065(7)  In IECC, Section R402.2.1, the last sentence is deleted.(8)  In IECC, Section R402.2.2, the last sentence is deleted.(9)  In IECC, Section R402.3.3, the last sentence is deleted.(10)  In IECC, Section R402.3.4, the last sentence is deleted.(11)  In IECC, Section R402.4.1, in the first sentence, the word "and" is deleted andreplaced with the word "or".(12)  In IECC, Section R402.4.1.1, the last sentence is deleted and replaced with thefollowing: "Where allowed by the building official, the builder may certify compliance tocomponents criteria for items which may not be inspected during regularly scheduledinspections."(13)  In IECC, Section R402.4.1.2, the following changes are made:a.  In the first sentence, the words "in Zones 1 and 2, and 3 air changes per hour in Zone 3through 8" are deleted.b.  In the third sentence, the words "Where required by the building official," and the word"third" are deleted.c.  The following sentence is inserted after the third sentence: "The following parties shall beapproved to conduct testing: Parties certified by BPI or RESNET, or licensed contractors whohave completed training provided by Blower Door Test equipment manufacturers or othercomparable training."(14)  In IECC, Section R402.4.4, the last sentence is deleted.(15)  In IECC, Section R403.2.2, the requirements for duct tightness testing are deletedand replaced with the following:"1.  Postconstruction test: Total leakage shall be less than or equal to 10 cfm (283L/min) per 100 square feet (9.29 m2) of conditioned floor space when tested at a pressuredifferential of 0.1 inches w.g.  (25 Pa) across the entire system, including the manufacturer's airhandler enclosure.  All register boots shall be taped or otherwise sealed during the test.2.  Rough-in test: Total leakage shall be less than or equal to 10 cfm (283 L/min) per100 square feet (9.29 m2) of conditioned floor area when tested at a pressure differential of atleast 0.1 inches w.g.  (25 Pa) across the system, including the manufacturer's air handlerenclosure.  All registers shall be taped or otherwise sealed during the test.  If the air handler isnot installed at the time of the test, total leakage shall be less than or equal to 7.5 cfm (212L/min) per 100 square feet (9.29 m2) of conditioned floor area."(16)  In IECC, Section R403.2.2, the exception for total leakage testing is deleted andreplaced with the following: "Exception: The total leakage test is not required for systems withall air handlers and at least 50% of all ducts (measured by length) located entirely within thebuilding thermal envelope."(17)  In IECC, Section R403.2.3, the words "or plenums" are deleted.(18)  In IECC, Section R403.4.2, the sentences for "3." and "9." and the last sentenceare deleted.(19)  In IECC, Section R403.5, the first sentence is deleted.(20)  IECC, Section R404.1 and the exception are deleted, and R404.1.1 becomesR404.1.(21)  In IECC, Table R405.5.2(1), the following changes are made under the columnSTANDARD REFERENCE DESIGN:a.  In the row "Air exchange rate", the words "in Zones 1 and 2, and 3 air changes per hour inZones 3 through 8" are deleted.b.  In the row "Heating systemsf, g", the standard reference design is deleted and replaced withthe following:"Fuel Type: same as proposed designEfficiencies:Electric: air source heat pump with prevailing federal minimum efficienciesNonelectric furnaces: natural gas furnace with prevailing federal minimum efficienciesNonelectric boilers: natural gas boiler with prevailing federal minimum efficienciesCapacity: sized in accordance with Section N1103.6"c.  In the row "Cooling systemsf, h" the words "As proposed" are deleted and replaced with thefollowing:"Fuel Type: ElectricEfficiency: in accordance with prevailing federal minimum standards"d.  In the row "Service water heatingf, g, h, i", the words "As proposed" are deleted and replacedwith the following:"Fuel Type: same as proposed designEfficiency: in accordance with prevailing federal minimum standardsTank Temperature: 120o F"e.  In the row "Thermal distribution systems" the word "none" is deleted and replaced with thefollowing: "Thermal distribution system efficiency (DSE) of .080 shall be applied to both theheating and cooling system efficiencies."(22)  In IECC, Table R405.5.2(2), the number "0.80" is inserted under "Forced airsystems" for "Distribution system components located in unconditioned space".(1)  During the 2013 interim, the Architectural Advisory Committee of the UniformBuilding Code Commission, in consultation with the Mechanical Advisory Committee of theUniform Building Code Commission, shall study and make recommendations on ways toincrease residential energy efficiency by 5% by January 1, 2015.(2)  The Architectural Advisory Committee shall present its recommendations to theBusiness and Labor Interim Committee no later than the October 2013 interim meeting.This bill takes effect on July 1, 2013.Full text:
+
+
+
+Utah State Legislature
+
+
+
+
+
+
+
+
+
+
+
+
+Legislators
+
+By Session (1896-Current)
+Alphabetical (Historical)
+Find by Address/Map
+More
+
+
+Bills
+
+Bills/Bill Requests
+Passed Bills
+2017 Bills
+
+Keyword Search
+Reading Calendars
+Tracking Service
+More
+
+
+Committees
+
+All Committees
+Appropriations
+Commissions
+
+Independent Legislative Ethics Commission
+Interim
+Standing
+Subcommittees
+Task Forces
+Bills In Committees
+
+
+Utah Code / Constitution
+
+
+Title/Chapter/Section
+Keyword Search 
+
+Utah Constitution
+Laws of Utah 1851-ongoing
+Utah Territorial Laws 
+More
+
+
+Senate
+
+Main Page 
+About The Senate 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Extraordinary Sessions 
+Reading Calendars 
+Past Floor Debates 
+Senate Journals 
+
+
+House
+
+Main Page
+About the House 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Reading Calendars 
+Past Floor Debates 
+Journals 
+Conflict of Interest Forms 
+
+
+Legislative Guide 
+
+Legislative Guide
+Civic Programs
+GRAMA (Records Requests)
+
+
+Publications
+
+Search Publications
+Appropriations
+Audits
+Bagels & Briefings
+Briefing Papers
+Digest of Legislation
+Legislative Drafting Manual
+
+Journals
+
+Interim Highlights
+
+Legislative Rules
+GRAMA (Records Requests)
+Public Email
+State Organization Charts
+YouTube Channel
+Requests for Proposals and Legal Notices
+More
+
+
+Legislative Histories
+
+Legislative History Resources
+How to Research
+Bill Drafting/Research Files (1990-Ongoing)
+
+Working Bills (1896-1989)
+Interim Committee Histories (1990-Ongoing) 
+Journals
+Past House Floor Debates
+Past Senate Floor Debates
+More
+
+
+Staff Offices
+
+All Legislative Offices
+Auditor General
+Fiscal Analyst
+Printing
+Research and General Counsel
+Staff Awards
+Job Opportunities
+More
+
+
+Links of Interest
+
+Utah Administrative Rules
+Courts
+Utah State Capitol
+State of Utah
+Federal Legislation
+More
+
+
+
+
+
+
+ 
+
+Download Zipped Introduced WordPerfect HB0202.ZIP
+[Status][Bill Documents][Fiscal Note][Bills Directory]
+
+
+H.B. 202
+
+
+
+
+
+            
+1
+
+    
+ ENERGY CONSERVATION CODE AMENDMENTS
+
+
+
+            
+2
+
+    
+2013 GENERAL SESSION
+
+            
+3
+
+    
+STATE OF UTAH
+
+            
+4
+
+    
+
+
+ Chief Sponsor:  Brad R. Wilson
+
+
+
+            
+5
+
+    
+
+
+
+Senate Sponsor: 
+
+
+
+
+
+
+  Curtis S. Bramble
+
+
+
+
+
+            
+6
+
+    
+
+            
+7
+
+    
+ LONG TITLE
+            
+8
+
+    
+ General Description:
+            
+9
+
+    
+    This bill amends the State Construction Code.
+            
+10
+
+    
+ Highlighted Provisions:
+            
+11
+
+    
+    This bill:
+            
+12
+
+    
+    .    adopts the 2012 edition of the International Energy Conservation Code;
+            
+13
+
+    
+    .    modifies certain provisions of the International Energy Conservation Code; and
+            
+14
+
+    
+    .    modifies certain energy provisions of the International Residential Code.
+            
+15
+
+    
+ Money Appropriated in this Bill:
+            
+16
+
+    
+    None
+            
+17
+
+    
+ Other Special Clauses:
+            
+18
+
+    
+    This bill takes effect on July 1, 2013.
+            
+19
+
+    
+ Utah Code Sections Affected:
+            
+20
+
+    
+AMENDS:
+            
+21
+
+    
+     15A-2-103, as last amended by Laws of Utah 2012, Chapter 76
+            
+22
+
+    
+     15A-3-203, as enacted by Laws of Utah 2011, Chapter 14
+            
+23
+
+    
+     15A-3-701, as enacted by Laws of Utah 2011, Chapter 14
+            
+24
+
+    
+ Uncodified Material Affected:
+            
+25
+
+    
+ENACTS UNCODIFIED MATERIAL
+            
+26
+
+    
+
+            
+27
+
+    
+Be it enacted by the Legislature of the state of Utah:
+
+            
+28
+
+
+    
+    Section 1.  
+Section  
+15A-2-103
+
+ is amended to read:
+            
+29
+
+    
+     15A-2-103.  Specific editions adopted of construction code of a nationally
+            
+30
+
+    
+ recognized code authority.
+            
+31
+
+    
+    (1)  Subject to the other provisions of this part, the following construction codes are
+            
+32
+
+    
+incorporated by reference, and together with the amendments specified in Chapter 3, Statewide
+            
+33
+
+    
+Amendments to International Plumbing Code, and Chapter 4, Local Amendments Incorporated
+            
+34
+
+    
+as Part of State Construction Code, are the construction standards to be applied to building
+            
+35
+
+    
+construction, alteration, remodeling, and repair, and in the regulation of building construction,
+            
+36
+
+    
+alteration, remodeling, and repair in the state:
+            
+37
+
+    
+    (a)  the 2009 edition of the International Building Code, including Appendix J, issued
+            
+38
+
+    
+by the International Code Council;
+            
+39
+
+    
+    (b)  the 2009 edition of the International Residential Code, issued by the International
+            
+40
+
+    
+Code Council;
+            
+41
+
+    
+    (c)  the 2009 edition of the International Plumbing Code, issued by the International
+            
+42
+
+    
+Code Council;
+            
+43
+
+    
+    (d)  the 2009 edition of the International Mechanical Code, issued by the International
+            
+44
+
+    
+Code Council;
+            
+45
+
+    
+    (e)  the 2009 edition of the International Fuel Gas Code, issued by the International
+            
+46
+
+    
+Code Council;
+            
+47
+
+    
+    (f)  the 2011 edition of the National Electrical Code, issued by the National Fire
+            
+48
+
+    
+Protection Association;
+            
+49
+
+    
+    (g)  the [2009] 2012 edition of the International Energy Conservation Code, issued by
+            
+50
+
+    
+the International Code Council;
+            
+51
+
+    
+    (h)  subject to Subsection 
+
+15A-2-104
+
+(2), the HUD Code;
+            
+52
+
+    
+    (i)  subject to Subsection 
+
+15A-2-104
+
+(1), Appendix E of the 2009 edition of the
+            
+53
+
+    
+International Residential Code, issued by the International Code Council; and
+            
+54
+
+    
+    (j)  subject to Subsection 
+
+15A-2-104
+
+(1), the 2005 edition of the NFPA 225 Model
+            
+55
+
+    
+Manufactured Home Installation Standard, issued by the National Fire Protection Association.
+            
+56
+
+    
+    (2)  Consistent with Title 65A, Chapter 8, Management of Forest Lands and Fire
+            
+57
+
+    
+Control, the Legislature adopts the 2006 edition of the Utah Wildland Urban Interface Code,
+            
+58
+
+    
+issued by the International Code Council, with the alternatives or amendments approved by the
+
+            
+59
+
+
+    
+Utah Division of Forestry, as a construction code that may be adopted by a local compliance
+            
+60
+
+    
+agency by local ordinance or other similar action as a local amendment to the codes listed in
+            
+61
+
+    
+this section.
+            
+62
+
+    
+    Section 2.  
+Section  
+15A-3-203
+
+ is amended to read:
+            
+63
+
+    
+     15A-3-203.  Amendments to Chapters 6 through 15 of IRC.
+            
+64
+
+    
+    [(1)  IRC, Sections R612.2 through R612.4.2, are deleted.]
+            
+65
+
+    
+    [(2)  IRC, Chapter 11, is deleted and replaced with Chapter 11 of the 2006 International
+            
+66
+
+    
+Residential Code and Chapter 4 of the 2006 International Energy Conservation Code.]
+            
+67
+
+    
+    (1)  In IRC, Section N1101.8 (R103.2), all words after the words "herein governed." are
+            
+68
+
+    
+deleted and replaced with the following: "Construction documents include all documentation
+            
+69
+
+    
+required to be submitted in order to issue a building permit."
+            
+70
+
+    
+    (2)  In IRC, Section N1101.14 (R303.3), all wording after the first sentence is deleted.
+            
+71
+
+    
+    (3)  In IRC, Table N1102.1.1 (402.1.1) and Table N1102.1.3 (R402.1.3), the rows for
+            
+72
+
+    
+"climate zone 3", "climate zone 5 and Marine 4", and "climate zone 6" are deleted and replaced
+            
+73
+
+    
+and a new footnote j is added as follows:
+
+
+
+
+
+            
+74
+    
+
+
+
+
+
+"TABLE N1102.1.1 (R402.1.1)
+
+
+
+
+
+
+
+
+            
+75
+    
+
+
+
+
+
+INSULATION AND FENESTRATION REQUIREMENTS BY COMPONENTa
+
+
+
+
+
+
+
+
+            
+76
+    
+
+
+
+
+
+
+
+CLIMATE
+ZONE
+
+
+
+
+FENESTRATION
+U-FACTOR b
+
+
+
+
+SKYLIGHT b
+U-FACTOR
+
+
+
+GLAZED
+FENESTRATION
+SHGC b,e
+
+
+
+
+CEILING
+R-VALUE
+
+
+
+WOOD
+FRAME WALL
+R-VALUE
+
+
+
+MASS
+WALL
+R-VALUE i,j
+
+
+
+
+FLOOR
+R-VALUE
+
+
+
+BASEMENT c
+WALL
+R-VALUE
+
+
+
+SLAB d
+R-VALUE
+& DEPTH
+
+
+CRAWL
+SPACE c
+WALL
+R-VALUE
+
+
+
+
+
+
+
+
+            
+77
+    
+
+
+
+
+
+3
+
+
+0.65
+
+
+0.65
+
+
+0.40
+
+
+30
+
+
+15
+
+
+5
+
+
+19
+
+
+0
+
+
+0
+
+
+5/13
+
+
+
+
+
+
+
+
+            
+78
+    
+
+
+
+
+
+5 and
+Marine 4
+
+
+0.35
+
+
+0.60
+
+
+NR
+
+
+38
+
+
+19 or 13 +
+5h
+
+
+13
+
+
+30 g
+
+
+10/13
+
+
+10, 2 ft
+
+
+10/13
+
+
+
+
+
+
+
+
+            
+79
+    
+
+
+
+
+
+6
+
+
+0.35
+
+
+0.60
+
+
+NR
+
+
+49
+
+
+19 or 13 +
+5h
+
+
+15
+
+
+30 g
+
+
+10/13
+
+
+10, 4 ft
+
+
+10/13
+
+
+
+
+
+
+
+
+            
+80
+    
+
+
+
+
+
+j. Log walls complying with ICC400 and with a minimum average wall thickness of 5” or greater shall be permitted in Zones
+5-8 when overall window glazing is .31 U-factor or lower, minimum heating equipment efficiency is 90 AFUE (gas) or 84
+AFUE (oil), and all other component requirements are met.”
+
+
+
+
+
+
+
+
+            
+81
+
+    
+
+
+TABLE N1102.1.3 (R402.1.3)
+
+
+
+
+            
+82
+
+    
+
+
+EQUIVALENT U-FACTORSa
+
+
+
+
+            
+83
+
+
+    
+
+
+
+
+
+CLIMATE
+ZONE
+
+
+
+
+FENESTRATION
+U-FACTOR
+
+
+
+
+SKYLIGHT
+U-FACTOR
+    
+
+
+
+CEILING
+U-FACTOR
+    
+
+
+FRAME
+WALL
+U-FACTOR
+    
+
+
+
+MASS WALL
+U-FACTOR b 
+
+
+
+
+FLOOR
+U-FACTOR
+    
+
+
+BASEMENT
+WALL
+U-FACTOR
+    
+
+CRAWL
+SPACE
+WALL
+U-FACTOR
+
+
+
+
+
+
+            
+84
+
+    
+
+
+3
+
+
+0.65
+
+
+0.65
+
+
+0.035
+
+
+0.082
+
+
+0.141
+
+
+0.047
+
+
+0.360
+
+
+0.136
+
+
+
+
+            
+85
+
+    
+
+
+5 and
+Marine 4
+
+
+0.35
+
+
+0.60
+
+
+0.030
+
+
+0.060
+
+
+0.082
+
+
+0.033
+
+
+0.059
+
+
+0.065
+
+
+
+
+            
+86
+
+    
+
+
+6
+
+
+0.35
+
+
+0.60
+
+
+0.026
+
+
+0.060
+
+
+0.060
+
+
+0.033
+
+
+0.059
+
+
+0.065
+
+
+
+            
+87
+
+    
+    (4)  In IRC, Section N1102.2.1 (R402.2.1), the last sentence is deleted.
+            
+88
+
+    
+    (5)  In IRC, Section N1102.2.2 (R402.2.2), the last sentence is deleted.
+            
+89
+
+    
+    (6)  In IRC, Section N1102.3.3 (R402.3.3), the last sentence is deleted.
+            
+90
+
+    
+    (7)  In IRC, Section N1102.3.4 (R402.3.4), the last sentence is deleted.
+            
+91
+
+    
+    (8)  In IRC, Section N1102.4.1 (R402.4.1), in the first sentence, the word "and" is
+            
+92
+
+    
+deleted and replaced with the word "or".
+            
+93
+
+    
+    (9)  In IRC, Section N1102.4.1.1 (R402.4.1.1), the last sentence is deleted and replaced
+            
+94
+
+    
+with the following: "Where allowed by the building official, the builder may certify compliance
+            
+95
+
+    
+to components criteria for items which may not be inspected during regularly scheduled
+            
+96
+
+    
+inspections."
+            
+97
+
+    
+    (10)  In IRC, Section N1102.4.1.2 (R402.4.1.2), the following changes are made:
+            
+98
+
+    
+a.  In the first sentence, the words "in Zones 1 and 2, and 3 air changes per hour in Zone 3
+            
+99
+
+    
+through 8" are deleted.
+            
+100
+
+    
+b.  In the third sentence, the words "Where required by the building official," and the word
+            
+101
+
+    
+"third" are deleted.
+            
+102
+
+    
+c.  The following sentence is inserted after the third sentence: "The following parties shall be
+            
+103
+
+    
+approved to conduct testing: Parties certified by BPI or RESNET, or licensed contractors who
+            
+104
+
+    
+have completed training provided by Blower Door Test equipment manufacturers or other
+            
+105
+
+    
+comparable training."
+            
+106
+
+    
+    (11)  In IRC, Section N1102.4.4 (R402.4.4), the last sentence is deleted.
+            
+107
+
+    
+    (12)  In IRC, Section N1103.2.2 (R403.2.2), the requirements for duct tightness testing
+            
+108
+
+    
+are deleted and replaced with the following:
+            
+109
+
+    
+    "1. Postconstruction test: Total leakage shall be less than or equal to 10 cfm (283
+            
+110
+
+    
+L/min) per 100 square feet (9.29 m2) of conditioned floor space when tested at a pressure
+
+            
+111
+
+
+    
+differential of 0.1 inches w.g. (25 Pa) across the entire system, including the manufacturer's air
+            
+112
+
+    
+handler enclosure. All register boots shall be taped or otherwise sealed during the test.
+            
+113
+
+    
+    2.  Rough-in test: Total leakage shall be less than or equal to 10 cfm (283 L/min) per
+            
+114
+
+    
+100 square feet (9.29 m2) of conditioned floor area when tested at a pressure differential of at
+            
+115
+
+    
+least 0.1 inches w.g.  (25 Pa) across the system, including the manufacturer's air handler
+            
+116
+
+    
+enclosure.  All registers shall be taped or otherwise sealed during the test.  If the air handler is
+            
+117
+
+    
+not installed at the time of the test, total leakage shall be less than or equal to 7.5 cfm (212
+            
+118
+
+    
+L/min) per 100 square feet (9.29 m2) of conditioned floor area."
+            
+119
+
+    
+    (13)  In IRC, Section N1103.2.2 (R403.2.2), the exception for duct tightness testing is
+            
+120
+
+    
+deleted and replaced with the following: "Exception: The total leakage test is not required for
+            
+121
+
+    
+systems with all air handlers and at least 50% of all ducts (measured by length) located entirely
+            
+122
+
+    
+within the building thermal envelope."
+            
+123
+
+    
+    (14)  In IRC, Section N1103.2.3 (R403.2.3), the words "or plenums" are deleted.
+            
+124
+
+    
+    (15)  In IRC, Section N1103.4.2 (R403.4.2), the sentences for "3.", "9.", and the last
+            
+125
+
+    
+sentence are deleted.
+            
+126
+
+    
+    (16)  In IRC, Section N1103.5 (R403.5), the first sentence is deleted.
+            
+127
+
+    
+    (17)  IRC, Section N1104.1 (R404.1) and the exception are deleted, and N1104.1.1
+            
+128
+
+    
+(R404.1.1) becomes N1104.1 (R404.1).
+            
+129
+
+    
+    (18)  In IRC, Table N1105.5.2(1) (R405.5.2(1)), the following changes are made under
+            
+130
+
+    
+the column STANDARD REFERENCE DESIGN:
+            
+131
+
+    
+a.  In the row "Air exchange rate", the words "in Zones 1 and 2, and 3 air changes per hour in
+            
+132
+
+    
+Zones 3 through 8" are deleted.
+            
+133
+
+    
+b.  In the row "Heating systemsf, g", the standard reference design is deleted and replaced with
+            
+134
+
+    
+the following:
+            
+135
+
+    
+    "Fuel Type: same as proposed design
+            
+136
+
+    
+    Efficiencies:
+            
+137
+
+    
+    Electric: air source heat pump with prevailing federal minimum efficiencies
+            
+138
+
+    
+    Nonelectric furnaces: natural gas furnace with prevailing federal minimum efficiencies
+            
+139
+
+    
+    Nonelectric boilers: natural gas boiler with prevailing federal minimum efficiencies
+            
+140
+
+    
+    Capacity: sized in accordance with Section N1103.6"
+            
+141
+
+    
+c.  In the row "Cooling systemsf, h" the words "As proposed" are deleted and replaced with the
+
+            
+142
+
+
+    
+following:
+            
+143
+
+    
+    "Fuel Type: Electric
+            
+144
+
+    
+    Efficiency: in accordance with prevailing federal minimum standards"
+            
+145
+
+    
+d.  In the row "Service water heatingf, g, h, i", the words "As proposed" are deleted and replaced
+            
+146
+
+    
+with the following:
+            
+147
+
+    
+    "Fuel Type: same as proposed design
+            
+148
+
+    
+    Efficiency: in accordance with prevailing federal minimum standards
+            
+149
+
+    
+    Tank Temperature: 120o F"
+            
+150
+
+    
+e.  In the row "Thermal distribution systems" the word "none" is deleted and replaced with the
+            
+151
+
+    
+following: "Thermal distribution system efficiency (DSE) of .080 shall be applied to both the
+            
+152
+
+    
+heating and cooling system efficiencies."
+            
+153
+
+    
+    (19)  In Table N1105.5.2(2) (R405.5.2(2)), the number "0.80" is inserted under "Forced
+            
+154
+
+    
+air systems" for "Distribution system components located in unconditioned space".
+            
+155
+
+    
+    (20)  In IRC, Section M1307.2, the words "In Seismic Design Categories D1 and D2"
+            
+156
+
+    
+are deleted.
+            
+157
+
+    
+    [(3)] (21)  IRC, Section M1411.6, is deleted.
+            
+158
+
+    
+    [(4)  In IRC, Section M1502.4.4.1, the words "25 feet (7,620 mm)" are deleted and
+            
+159
+
+    
+replaced with "35 feet (10,668 mm)".]
+            
+160
+
+    
+    Section 3.  
+Section  
+15A-3-701
+
+ is amended to read:
+            
+161
+
+    
+ Part 7.  Statewide Amendments to IECC
+
+            
+162
+
+    
+     15A-3-701.  General provisions.
+            
+163
+
+    
+    The following is adopted as an amendment to the IECC to be applicable statewide[, in
+            
+164
+
+    
+IECC, Section 504.4,]:
+            
+165
+
+    
+    (1)  In IECC, Section C202, the definition for "CONDITIONED SPACE" is deleted and
+            
+166
+
+    
+replaced with the following: "CONDITIONED SPACE.  An area, room or space enclosed
+            
+167
+
+    
+within the building thermal envelope that is directly heated or cooled, or indirectly heated or
+            
+168
+
+    
+cooled by any of the following means:
+            
+169
+
+    
+1.  Openings directly into an adjacent conditioned space.
+            
+170
+
+    
+2.  An un-insulated floor, ceiling or wall adjacent to a conditioned space.
+            
+171
+
+    
+3.  Un-insulated duct, piping or other heat or cooling source within the space."
+            
+172
+
+    
+    (2)  In IECC, Section C404.4, a new exception is added as follows: "Exception: Heat
+
+            
+173
+
+
+    
+traps, other than the arrangement of piping and fittings, shall be prohibited unless a means of
+            
+174
+
+    
+controlling thermal expansion can be ensured as required in the IPC Section 607.3."
+            
+175
+
+    
+    (3)  In IECC, Section R103.2, all words after the words "herein governed." are deleted
+            
+176
+
+    
+and replaced with the following: "Construction documents include all documentation required
+            
+177
+
+    
+to be submitted in order to issue a building permit."
+            
+178
+
+    
+    (4)  In IECC, Section R202, the definition for "CONDITIONED SPACE" is deleted and
+            
+179
+
+    
+replaced with the following: "CONDITIONED SPACE.  An area, room or space enclosed
+            
+180
+
+    
+within the building thermal envelope that is directly heated or cooled, or indirectly heated or
+            
+181
+
+    
+cooled by any of the following means:
+            
+182
+
+    
+1.  Openings directly into an adjacent conditioned space.
+            
+183
+
+    
+2.  An un-insulated floor, ceiling or wall adjacent to a conditioned space.
+            
+184
+
+    
+3.  Un-insulated duct, piping or other heat or cooling source within the space."
+            
+185
+
+    
+    (5)  In IECC, Section R303.3, all wording after the first sentence is deleted.
+            
+186
+
+    
+    (6)  In IECC, Table R402.1.1 and Table R402.1.3, the rows for "climate zone 3",
+            
+187
+
+    
+"climate zone 5 and Marine 4, and climate zone 6" are deleted and replaced and a new footnote
+            
+188
+
+    
+j is added as follows:
+
+
+
+            
+189
+
+    
+
+
+"TABLE R402.1.1
+
+
+
+
+            
+190
+
+    
+
+
+INSULATION AND FENESTRATION REQUIREMENTS BY COMPONENTa
+
+
+
+
+            
+191
+
+    
+
+
+
+
+
+CLIMATE
+ZONE
+
+
+
+
+FENESTRATION
+U-FACTOR b
+
+
+
+
+SKYLIGHT b
+U-FACTOR
+
+
+
+GLAZED
+FENESTRATION
+SHGC b,e
+
+
+
+
+CEILING
+R-VALUE
+
+
+WOOD
+FRAME
+WALL
+R-VALUE
+
+
+
+MASS
+WALL
+R-VALUE I, j
+
+
+
+
+FLOOR
+R-VALUE
+
+
+
+BASEMENT c
+WALL
+R-VALUE
+
+
+
+SLAB d
+R-VALUE
+& DEPTH
+
+
+CRAWL
+SPACE c
+WALL
+R-VALUE
+
+
+
+
+
+
+            
+192
+
+    
+
+
+
+3
+
+
+0.65
+
+
+0.65
+
+
+0.40
+
+
+30
+
+
+15
+
+
+5
+
+
+19
+
+
+0
+
+
+0
+
+
+5/13
+
+
+
+
+
+
+            
+193
+
+    
+
+
+
+5 and
+Marine 4
+
+
+0.35
+
+
+0.60
+
+
+NR
+
+
+38
+
+
+19 or 13 +
+5h
+
+
+13
+
+
+30 g
+
+
+10/13
+
+
+10, 2 ft
+
+
+10/13
+
+
+
+
+
+
+            
+194
+
+    
+
+
+
+6
+
+
+0.35
+
+
+0.60
+
+
+NR
+
+
+49
+
+
+19 or 13 +
+5h
+
+
+15
+
+
+30 g
+
+
+10/13
+
+
+10, 4 ft
+
+
+10/13
+
+
+
+
+
+
+            
+195
+
+    
+
+
+
+j.  Log walls complying with ICC400 and with a minimum average wall thickness of 5" or greater shall be permitted in Zones
+5-8 when overall window glazing is .31 U-factor or lower, minimum heating equipment efficiency is 90 AFUE (gas) or 84
+AFUE (oil), and all other component requirements are met.
+
+
+
+
+
+
+
+
+            
+196
+
+    
+
+
+TABLE R402.1.3 EQUIVALENT U-FACTORSa
+
+
+
+
+            
+197
+
+    
+
+
+
+
+CLIMATE
+ZONE
+
+
+
+FENESTRATION
+U-FACTOR
+
+
+
+SKYLIGHT
+U-FACTOR
+
+
+
+CEILING
+U-FACTOR
+
+
+FRAME
+WALL
+U-FACTOR
+
+
+
+MASS WALL
+U-FACTOR b
+
+
+
+FLOOR
+U-FACTOR
+
+
+BASEMENT
+WALL
+U-FACTOR
+
+
+CRAWL
+SPACE WALL
+U-FACTOR
+
+
+
+
+
+
+            
+198
+
+
+    
+
+
+
+3
+
+
+0.65
+
+
+0.65
+
+
+0.035
+
+
+0.082
+
+
+0.141
+
+
+0.047
+
+
+0.360
+
+
+0.136
+
+
+
+
+
+
+            
+199
+
+    
+
+
+
+5 and Marine 4
+
+
+0.35
+
+
+0.60
+
+
+0.030
+
+
+0.060
+
+
+0.082
+
+
+0.033
+
+
+0.059
+
+
+0.065
+
+
+
+
+
+
+            
+200
+
+    
+
+
+
+6
+
+
+0.35
+
+
+0.60
+
+
+0.026
+
+
+0.060
+
+
+0.060
+
+
+0.033
+
+
+0.059
+
+
+0.065
+
+
+
+            
+201
+
+    
+
+    (7)  In IECC, Section R402.2.1, the last sentence is deleted.
+            
+202
+
+    
+    (8)  In IECC, Section R402.2.2, the last sentence is deleted.
+            
+203
+
+    
+    (9)  In IECC, Section R402.3.3, the last sentence is deleted.
+            
+204
+
+    
+    (10)  In IECC, Section R402.3.4, the last sentence is deleted.
+            
+205
+
+    
+    (11)  In IECC, Section R402.4.1, in the first sentence, the word "and" is deleted and
+            
+206
+
+    
+replaced with the word "or".
+            
+207
+
+    
+    (12)  In IECC, Section R402.4.1.1, the last sentence is deleted and replaced with the
+            
+208
+
+    
+following: "Where allowed by the building official, the builder may certify compliance to
+            
+209
+
+    
+components criteria for items which may not be inspected during regularly scheduled
+            
+210
+
+    
+inspections."
+            
+211
+
+    
+    (13)  In IECC, Section R402.4.1.2, the following changes are made:
+            
+212
+
+    
+a.  In the first sentence, the words "in Zones 1 and 2, and 3 air changes per hour in Zone 3
+            
+213
+
+    
+through 8" are deleted.
+            
+214
+
+    
+b.  In the third sentence, the words "Where required by the building official," and the word
+            
+215
+
+    
+"third" are deleted.
+            
+216
+
+    
+c.  The following sentence is inserted after the third sentence: "The following parties shall be
+            
+217
+
+    
+approved to conduct testing: Parties certified by BPI or RESNET, or licensed contractors who
+            
+218
+
+    
+have completed training provided by Blower Door Test equipment manufacturers or other
+            
+219
+
+    
+comparable training."
+            
+220
+
+    
+    (14)  In IECC, Section R402.4.4, the last sentence is deleted.
+            
+221
+
+    
+    (15)  In IECC, Section R403.2.2, the requirements for duct tightness testing are deleted
+            
+222
+
+    
+and replaced with the following:
+            
+223
+
+    
+    "1.  Postconstruction test: Total leakage shall be less than or equal to 10 cfm (283
+            
+224
+
+    
+L/min) per 100 square feet (9.29 m2) of conditioned floor space when tested at a pressure
+            
+225
+
+    
+differential of 0.1 inches w.g.  (25 Pa) across the entire system, including the manufacturer's air
+            
+226
+
+    
+handler enclosure.  All register boots shall be taped or otherwise sealed during the test.
+            
+227
+
+    
+    2.  Rough-in test: Total leakage shall be less than or equal to 10 cfm (283 L/min) per
+            
+228
+
+    
+100 square feet (9.29 m2) of conditioned floor area when tested at a pressure differential of at
+
+            
+229
+
+
+    
+least 0.1 inches w.g.  (25 Pa) across the system, including the manufacturer's air handler
+            
+230
+
+    
+enclosure.  All registers shall be taped or otherwise sealed during the test.  If the air handler is
+            
+231
+
+    
+not installed at the time of the test, total leakage shall be less than or equal to 7.5 cfm (212
+            
+232
+
+    
+L/min) per 100 square feet (9.29 m2) of conditioned floor area."
+            
+233
+
+    
+    (16)  In IECC, Section R403.2.2, the exception for total leakage testing is deleted and
+            
+234
+
+    
+replaced with the following: "Exception: The total leakage test is not required for systems with
+            
+235
+
+    
+all air handlers and at least 50% of all ducts (measured by length) located entirely within the
+            
+236
+
+    
+building thermal envelope."
+            
+237
+
+    
+    (17)  In IECC, Section R403.2.3, the words "or plenums" are deleted.
+            
+238
+
+    
+    (18)  In IECC, Section R403.4.2, the sentences for "3." and "9." and the last sentence
+            
+239
+
+    
+are deleted.
+            
+240
+
+    
+    (19)  In IECC, Section R403.5, the first sentence is deleted.
+            
+241
+
+    
+    (20)  IECC, Section R404.1 and the exception are deleted, and R404.1.1 becomes
+            
+242
+
+    
+R404.1.
+            
+243
+
+    
+    (21)  In IECC, Table R405.5.2(1), the following changes are made under the column
+            
+244
+
+    
+STANDARD REFERENCE DESIGN:
+            
+245
+
+    
+a.  In the row "Air exchange rate", the words "in Zones 1 and 2, and 3 air changes per hour in
+            
+246
+
+    
+Zones 3 through 8" are deleted.
+            
+247
+
+    
+b.  In the row "Heating systemsf, g", the standard reference design is deleted and replaced with
+            
+248
+
+    
+the following:
+            
+249
+
+    
+    "Fuel Type: same as proposed design
+            
+250
+
+    
+    Efficiencies:
+            
+251
+
+    
+    Electric: air source heat pump with prevailing federal minimum efficiencies
+            
+252
+
+    
+    Nonelectric furnaces: natural gas furnace with prevailing federal minimum efficiencies
+            
+253
+
+    
+    Nonelectric boilers: natural gas boiler with prevailing federal minimum efficiencies
+            
+254
+
+    
+    Capacity: sized in accordance with Section N1103.6"
+            
+255
+
+    
+c.  In the row "Cooling systemsf, h" the words "As proposed" are deleted and replaced with the
+            
+256
+
+    
+following:
+            
+257
+
+    
+    "Fuel Type: Electric
+            
+258
+
+    
+    Efficiency: in accordance with prevailing federal minimum standards"
+            
+259
+
+    
+d.  In the row "Service water heatingf, g, h, i", the words "As proposed" are deleted and replaced
+
+            
+260
+
+
+    
+with the following:
+            
+261
+
+    
+    "Fuel Type: same as proposed design
+            
+262
+
+    
+    Efficiency: in accordance with prevailing federal minimum standards
+            
+263
+
+    
+    Tank Temperature: 120o F"
+            
+264
+
+    
+e.  In the row "Thermal distribution systems" the word "none" is deleted and replaced with the
+            
+265
+
+    
+following: "Thermal distribution system efficiency (DSE) of .080 shall be applied to both the
+            
+266
+
+    
+heating and cooling system efficiencies."
+            
+267
+
+    
+    (22)  In IECC, Table R405.5.2(2), the number "0.80" is inserted under "Forced air
+            
+268
+
+    
+systems" for "Distribution system components located in unconditioned space".
+            
+269
+
+    
+    Section 4.   Study on improving residential energy efficiency.
+            
+270
+
+    
+    (1)  During the 2013 interim, the Architectural Advisory Committee of the Uniform
+            
+271
+
+    
+Building Code Commission, in consultation with the Mechanical Advisory Committee of the
+            
+272
+
+    
+Uniform Building Code Commission, shall study and make recommendations on ways to
+            
+273
+
+    
+increase residential energy efficiency by 5% by January 1, 2015.
+            
+274
+
+    
+    (2)  The Architectural Advisory Committee shall present its recommendations to the
+            
+275
+
+    
+Business and Labor Interim Committee no later than the October 2013 interim meeting.
+            
+276
+
+    
+    Section 5.   Effective date.
+            
+277
+
+    
+    This bill takes effect on July 1, 2013.
+
+
+
+
+ Legislative Review Note
+    as of   2-7-13  1:08 PM
+
+ Office of Legislative Research and General Counsel
+[Bill Documents][Bills Directory]
+
+
+
+
+
+
+
+
+
+Who represents me?
+
+
+
+
+
+Remember my Legislators
+
+
+
+
+
+State Senate
+		350 North State, Suite 320
+		PO Box 145115
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1035
+		Fax: (801) 326-1475
+
+
+
+House of Representatives
+		350 North State, Suite 350
+		PO Box 145030
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1029
+		Fax: (801) 326-1544
+
+
+
+
+
+
+
+
+
+
+Home
+Mobile Site
+Site Map
+Calendar
+Code / Constitution
+House
+Senate
+
+Terms of Use/Privacy Policy
+
+ADA
+Utah.gov
+
+
+
+
+
+
+

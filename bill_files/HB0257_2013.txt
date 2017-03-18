@@ -1,0 +1,2225 @@
+Sponsors: []Modifications: (6)  "Covered bond" means a publicly placed debt security issued by a bank, otherregulated financial institution, or a subsidiary of either that is secured by a pool of loans thatremain on the balance sheet of the issuer or its subsidiary.(7)(8)(9)(10)(11)(12)(13)(14)is as defined(15)(16)(17)(18)(19)(20)(21)(22)(23)(24)(25)(26)(27)(28)(29),(30)(31)(32)fewerfewerfewerfeweror secured, excluding covered bonds15arelimitationslimitationsthreeor secured, excluding covered bondsthreeExcept as provided under Subsections (3)(j) and (k), the""or the equivalent of"A" or higher by two nationally recognized statistical rating organizationsor the equivalent of"A" or higher by two nationally recognized statistical rating organizationsFull text:
+
+
+
+Utah State Legislature
+
+
+
+
+
+
+
+
+
+
+
+
+Legislators
+
+By Session (1896-Current)
+Alphabetical (Historical)
+Find by Address/Map
+More
+
+
+Bills
+
+Bills/Bill Requests
+Passed Bills
+2017 Bills
+
+Keyword Search
+Reading Calendars
+Tracking Service
+More
+
+
+Committees
+
+All Committees
+Appropriations
+Commissions
+
+Independent Legislative Ethics Commission
+Interim
+Standing
+Subcommittees
+Task Forces
+Bills In Committees
+
+
+Utah Code / Constitution
+
+
+Title/Chapter/Section
+Keyword Search 
+
+Utah Constitution
+Laws of Utah 1851-ongoing
+Utah Territorial Laws 
+More
+
+
+Senate
+
+Main Page 
+About The Senate 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Extraordinary Sessions 
+Reading Calendars 
+Past Floor Debates 
+Senate Journals 
+
+
+House
+
+Main Page
+About the House 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Reading Calendars 
+Past Floor Debates 
+Journals 
+Conflict of Interest Forms 
+
+
+Legislative Guide 
+
+Legislative Guide
+Civic Programs
+GRAMA (Records Requests)
+
+
+Publications
+
+Search Publications
+Appropriations
+Audits
+Bagels & Briefings
+Briefing Papers
+Digest of Legislation
+Legislative Drafting Manual
+
+Journals
+
+Interim Highlights
+
+Legislative Rules
+GRAMA (Records Requests)
+Public Email
+State Organization Charts
+YouTube Channel
+Requests for Proposals and Legal Notices
+More
+
+
+Legislative Histories
+
+Legislative History Resources
+How to Research
+Bill Drafting/Research Files (1990-Ongoing)
+
+Working Bills (1896-1989)
+Interim Committee Histories (1990-Ongoing) 
+Journals
+Past House Floor Debates
+Past Senate Floor Debates
+More
+
+
+Staff Offices
+
+All Legislative Offices
+Auditor General
+Fiscal Analyst
+Printing
+Research and General Counsel
+Staff Awards
+Job Opportunities
+More
+
+
+Links of Interest
+
+Utah Administrative Rules
+Courts
+Utah State Capitol
+State of Utah
+Federal Legislation
+More
+
+
+
+
+
+
+ 
+
+Download Zipped Introduced WordPerfect HB0257.ZIP
+[Status][Bill Documents][Fiscal Note][Bills Directory]
+
+
+H.B. 257
+
+
+
+
+
+            
+1
+
+    
+ STATE TREASURER AMENDMENTS
+
+
+
+            
+2
+
+    
+2013 GENERAL SESSION
+
+            
+3
+
+    
+STATE OF UTAH
+
+            
+4
+
+    
+
+
+ Chief Sponsor:  Jim Bird
+
+
+
+            
+5
+
+    
+
+
+
+Senate Sponsor: 
+
+
+
+
+
+
+  Howard A. Stephenson
+
+
+
+
+
+            
+6
+
+    
+
+            
+7
+
+    
+ LONG TITLE
+            
+8
+
+    
+ General Description:
+            
+9
+
+    
+    This bill modifies the State Money Management Act by amending provisions for the
+            
+10
+
+    
+investment of public funds by the state treasurer.
+            
+11
+
+    
+ Highlighted Provisions:
+            
+12
+
+    
+    This bill:
+            
+13
+
+    
+    .    eliminates references in the State Money Management Act to Moody's Investor
+            
+14
+
+    
+Service and Standard and Poor's and instead requires public funds investments in
+            
+15
+
+    
+assets classified or rated by two nationally recognized statistical ratings
+            
+16
+
+    
+organizations;
+            
+17
+
+    
+    .    allows public funds investments in assets that are fixed rate corporate obligations in
+            
+18
+
+    
+secured obligations, excluding covered bonds, in addition to unsecured obligations,
+            
+19
+
+    
+and expands the allowable remaining term to final maturity from 13 months to 15
+            
+20
+
+    
+months or less;
+            
+21
+
+    
+    .    allows public funds investments in assets that are variable rate securities in secured
+            
+22
+
+    
+obligations, excluding covered bonds, in addition to unsecured obligations, and
+            
+23
+
+    
+expands the allowable remaining term to final maturity from not to exceed two
+            
+24
+
+    
+years to not to exceed three years; and
+            
+25
+
+    
+    .    makes technical changes.
+            
+26
+
+    
+ Money Appropriated in this Bill:
+            
+27
+
+    
+    None
+
+            
+28
+
+
+    
+ Other Special Clauses:
+            
+29
+
+    
+    None
+            
+30
+
+    
+ Utah Code Sections Affected:
+            
+31
+
+    
+AMENDS:
+            
+32
+
+    
+     51-7-3, as last amended by Laws of Utah 2011, Chapter 342
+            
+33
+
+    
+     51-7-11, as last amended by Laws of Utah 2011, Chapter 276
+            
+34
+
+    
+     51-7-12.1, as enacted by Laws of Utah 2000, Chapter 351
+            
+35
+
+    
+     51-7-12.5, as last amended by Laws of Utah 2002, Chapter 103
+            
+36
+
+    
+
+            
+37
+
+    
+Be it enacted by the Legislature of the state of Utah:
+            
+38
+
+    
+    Section 1.  
+Section  
+51-7-3
+
+ is amended to read:
+            
+39
+
+    
+     51-7-3.  Definitions.
+            
+40
+
+    
+    As used in this chapter:
+            
+41
+
+    
+    (1)  "Agent" means "agent" as defined in Section 
+
+61-1-13
+
+.
+            
+42
+
+    
+    (2)  "Certified dealer" means:
+            
+43
+
+    
+    (a)  a primary reporting dealer recognized by the Federal Reserve Bank of New York
+            
+44
+
+    
+who is certified by the director as having met the applicable criteria of council rule; or
+            
+45
+
+    
+    (b)  a broker dealer who:
+            
+46
+
+    
+    (i)  has and maintains an office and a resident registered principal in the state;
+            
+47
+
+    
+    (ii)  meets the capital requirements established by council rules;
+            
+48
+
+    
+    (iii)  meets the requirements for good standing established by council rule; and
+            
+49
+
+    
+    (iv)  is certified by the director as meeting quality criteria established by council rule.
+            
+50
+
+    
+    (3)  "Certified investment adviser" means a federal covered adviser, as defined in
+            
+51
+
+    
+Section 
+
+61-1-13
+
+, or an investment adviser, as defined in Section 
+
+61-1-13
+
+, who is certified by
+            
+52
+
+    
+the director as having met the applicable criteria of council rule.
+            
+53
+
+    
+    (4)  "Commissioner" means the commissioner of financial institutions.
+            
+54
+
+    
+    (5)  "Council" means the State Money Management Council created by Section
+            
+55
+
+    
+
+51-7-16
+
+.
+            
+56
+
+    
+    (6)  "Covered bond" means a publicly placed debt security issued by a bank, other
+            
+57
+
+    
+regulated financial institution, or a subsidiary of either that is secured by a pool of loans that
+            
+58
+
+    
+remain on the balance sheet of the issuer or its subsidiary.
+
+            
+59
+
+
+    
+    [(6)] (7)  "Director" means the director of the Utah State Division of Securities of the
+            
+60
+
+    
+Department of Commerce.
+            
+61
+
+    
+    [(7)] (8) (a)  "Endowment funds" means gifts, devises, or bequests of property of any
+            
+62
+
+    
+kind donated to a higher education institution from any source.
+            
+63
+
+    
+    (b)  "Endowment funds" does not mean money used for the general operation of a
+            
+64
+
+    
+higher education institution that is received by the higher education institution from:
+            
+65
+
+    
+    (i)  state appropriations;
+            
+66
+
+    
+    (ii)  federal contracts;
+            
+67
+
+    
+    (iii)  federal grants;
+            
+68
+
+    
+    (iv)  private research grants; and
+            
+69
+
+    
+    (v)  tuition and fees collected from students.
+            
+70
+
+    
+    [(8)] (9)  "First tier commercial paper" means commercial paper rated by at least two
+            
+71
+
+    
+nationally recognized statistical rating organizations in the highest short-term rating category.
+            
+72
+
+    
+    [(9)] (10)  "Funds functioning as endowments" means funds, regardless of source,
+            
+73
+
+    
+whose corpus is intended to be held in perpetuity by formal institutional designation according
+            
+74
+
+    
+to the institution's policy for designating those funds.
+            
+75
+
+    
+    [(10)] (11)  "GASB" or "Governmental Accounting Standards Board" means the
+            
+76
+
+    
+Governmental Accounting Standards Board that is responsible for accounting standards used
+            
+77
+
+    
+by public entities.
+            
+78
+
+    
+    [(11)] (12)  "Hard put" means an unconditional sell-back provision or a redemption
+            
+79
+
+    
+provision applicable at issue to a note or bond, allowing holders to sell their holdings back to
+            
+80
+
+    
+the issuer or to an equal or higher-rated third party provider at specific intervals and specific
+            
+81
+
+    
+prices determined at the time of issuance.
+            
+82
+
+    
+    [(12)] (13)  "Higher education institution" means the institutions specified in Section
+            
+83
+
+    
+
+53B-1-102
+
+.
+            
+84
+
+    
+    [(13)] (14)  "Investment adviser representative" [means "investment adviser
+            
+85
+
+    
+representative" as defined] is as defined in Section 
+
+61-1-13
+
+.
+            
+86
+
+    
+    [(14)] (15) (a)  "Investment agreement" means any written agreement that has
+            
+87
+
+    
+specifically negotiated withdrawal or reinvestment provisions and a specifically negotiated
+            
+88
+
+    
+interest rate.
+            
+89
+
+    
+    (b)  "Investment agreement" includes any agreement to supply investments on one or
+
+            
+90
+
+
+    
+more future dates.
+            
+91
+
+    
+    [(15)] (16)  "Local government" means a county, municipality, school district, local
+            
+92
+
+    
+district under Title 17B, Limited Purpose Local Government Entities - Local Districts, special
+            
+93
+
+    
+service district under Title 17D, Chapter 1, Special Service District Act, or any other political
+            
+94
+
+    
+subdivision of the state.
+            
+95
+
+    
+    [(16)] (17)  "Market value" means market value as defined in the Master Repurchase
+            
+96
+
+    
+Agreement.
+            
+97
+
+    
+    [(17)] (18)  "Master Repurchase Agreement" means the current standard Master
+            
+98
+
+    
+Repurchase Agreement approved by the Public Securities Association or by any successor
+            
+99
+
+    
+organization.
+            
+100
+
+    
+    [(18)] (19)  "Maximum amount" means, with respect to qualified depositories, the total
+            
+101
+
+    
+amount of:
+            
+102
+
+    
+    (a)  deposits in excess of the federal deposit insurance limit; and
+            
+103
+
+    
+    (b)  nonqualifying repurchase agreements.
+            
+104
+
+    
+    [(19)] (20)  "Money market mutual fund" means an open-end managed investment
+            
+105
+
+    
+fund:
+            
+106
+
+    
+    (a)  that complies with the diversification, quality, and maturity requirements of Rule
+            
+107
+
+    
+2a-7 or any successor rule of the Securities and Exchange Commission applicable to money
+            
+108
+
+    
+market mutual funds; and
+            
+109
+
+    
+    (b)  that assesses no sales load on the purchase of shares and no contingent deferred
+            
+110
+
+    
+sales charge or other similar charges, however designated.
+            
+111
+
+    
+    [(20)] (21)  "Nationally recognized statistical rating organization" means an
+            
+112
+
+    
+organization that has been designated as a nationally recognized statistical rating organization
+            
+113
+
+    
+by the Securities and Exchange Commission's Division of Market Regulation.
+            
+114
+
+    
+    [(21)] (22)  "Nonqualifying repurchase agreement" means a repurchase agreement
+            
+115
+
+    
+evidencing indebtedness of a qualified depository arising from the transfer of obligations of the
+            
+116
+
+    
+United States Treasury or other authorized investments to public treasurers that is:
+            
+117
+
+    
+    (a)  evidenced by a safekeeping receipt issued by the qualified depository;
+            
+118
+
+    
+    (b)  included in the depository's maximum amount of public funds; and
+            
+119
+
+    
+    (c)  valued and maintained at market value plus an appropriate margin collateral
+            
+120
+
+    
+requirement based upon the term of the agreement and the type of securities acquired.
+
+            
+121
+
+
+    
+    [(22)] (23)  "Operating funds" means current balances and other funds that are to be
+            
+122
+
+    
+disbursed for operation of the state government or any of its boards, commissions, institutions,
+            
+123
+
+    
+departments, divisions, agencies, or other similar instrumentalities, or any county, city, school
+            
+124
+
+    
+district, political subdivision, or other public body.
+            
+125
+
+    
+    [(23)] (24)  "Permanent funds" means funds whose principal may not be expended, the
+            
+126
+
+    
+earnings from which are to be used for purposes designated by law.
+            
+127
+
+    
+    [(24)] (25)  "Permitted depository" means any out-of-state financial institution that
+            
+128
+
+    
+meets quality criteria established by rule of the council.
+            
+129
+
+    
+    [(25)] (26)  "Public funds" means money, funds, and accounts, regardless of the source
+            
+130
+
+    
+from which the money, funds, and accounts are derived, that are owned, held, or administered
+            
+131
+
+    
+by the state or any of its boards, commissions, institutions, departments, divisions, agencies,
+            
+132
+
+    
+bureaus, laboratories, or other similar instrumentalities, or any county, city, school district,
+            
+133
+
+    
+political subdivision, or other public body.
+            
+134
+
+    
+    [(26)] (27) (a)  "Public money" means "public funds."
+            
+135
+
+    
+    (b)  "Public money," as used in Article VII, Sec. 15, Utah Constitution, means the same
+            
+136
+
+    
+as "state funds."
+            
+137
+
+    
+    [(27)] (28)  "Public treasurer" includes the state treasurer and the official of any state
+            
+138
+
+    
+board, commission, institution, department, division, agency, or other similar instrumentality,
+            
+139
+
+    
+or of any county, city, school district, political subdivision, or other public body who has the
+            
+140
+
+    
+responsibility for the safekeeping and investment of any public funds.
+            
+141
+
+    
+    [(28)] (29)  "Qualified depository" means a Utah depository institution or an
+            
+142
+
+    
+out-of-state depository institution, as those terms are defined in Section 
+
+7-1-103
+
+, that is
+            
+143
+
+    
+authorized to conduct business in this state under Section 
+
+7-1-702
+
+ or Title 7, Chapter 19,
+            
+144
+
+    
+Acquisition of Failing Depository Institutions or Holding Companies, whose deposits are
+            
+145
+
+    
+insured by an agency of the federal government and that has been certified by the commissioner
+            
+146
+
+    
+of financial institutions as having met the requirements established under this chapter and the
+            
+147
+
+    
+rules of the council to be eligible to receive deposits of public funds.
+            
+148
+
+    
+    [(29)] (30)  "Qualifying repurchase agreement" means a repurchase agreement
+            
+149
+
+    
+evidencing indebtedness of a financial institution or government securities dealer acting as
+            
+150
+
+    
+principal arising from the transfer of obligations of the United States Treasury or other
+            
+151
+
+    
+authorized investments to public treasurers only if purchased securities are:
+
+            
+152
+
+
+    
+    (a)  delivered to the public treasurer's safekeeping agent or custodian as contemplated
+            
+153
+
+    
+by Section 7 of the Master Repurchase Agreement; and
+            
+154
+
+    
+    (b)  valued and maintained at market value plus an appropriate margin collateral
+            
+155
+
+    
+requirement based upon the term of the agreement and the type of securities acquired.
+            
+156
+
+    
+    [(30)] (31)  "Securities division" means Utah's Division of Securities created within the
+            
+157
+
+    
+Department of Commerce by Section 
+
+13-1-2
+
+.
+            
+158
+
+    
+    [(31)] (32)  "State funds" means:
+            
+159
+
+    
+    (a)  public money raised by operation of law for the support and operation of the state
+            
+160
+
+    
+government; and
+            
+161
+
+    
+    (b)  all other money, funds, and accounts, regardless of the source from which the
+            
+162
+
+    
+money, funds, or accounts are derived, that are owned, held, or administered by the state or any
+            
+163
+
+    
+of its boards, commissions, institutions, departments, divisions, agencies, bureaus, laboratories,
+            
+164
+
+    
+or other similar instrumentalities.
+            
+165
+
+    
+    Section 2.  
+Section  
+51-7-11
+
+ is amended to read:
+            
+166
+
+    
+     51-7-11.  Authorized deposits or investments of public funds.
+            
+167
+
+    
+    (1) (a)  Except as provided in Subsection (1)(b), a public treasurer may conduct
+            
+168
+
+    
+investment transactions only through qualified depositories, certified dealers, or directly with
+            
+169
+
+    
+issuers of the investment securities.
+            
+170
+
+    
+    (b)  A public treasurer may designate a certified investment adviser to make trades on
+            
+171
+
+    
+behalf of the public treasurer.
+            
+172
+
+    
+    (2)  The remaining term to maturity of the investment may not exceed the period of
+            
+173
+
+    
+availability of the funds to be invested.
+            
+174
+
+    
+    (3)  Except as provided in Subsection (4), all public funds may be deposited or invested
+            
+175
+
+    
+only in the following assets that meet the criteria of Section 
+
+51-7-17
+
+:
+            
+176
+
+    
+    (a)  negotiable or nonnegotiable deposits of qualified depositories;
+            
+177
+
+    
+    (b)  qualifying or nonqualifying repurchase agreements and reverse repurchase
+            
+178
+
+    
+agreements with qualified depositories using collateral consisting of:
+            
+179
+
+    
+    (i)  Government National Mortgage Association mortgage pools;
+            
+180
+
+    
+    (ii)  Federal Home Loan Mortgage Corporation mortgage pools;
+            
+181
+
+    
+    (iii)  Federal National Mortgage Corporation mortgage pools;
+            
+182
+
+    
+    (iv)  Small Business Administration loan pools;
+
+            
+183
+
+
+    
+    (v)  Federal Agriculture Mortgage Corporation pools; or
+            
+184
+
+    
+    (vi)  other investments authorized by this section;
+            
+185
+
+    
+    (c)  qualifying repurchase agreements and reverse repurchase agreements with certified
+            
+186
+
+    
+dealers, permitted depositories, or qualified depositories using collateral consisting of:
+            
+187
+
+    
+    (i)  Government National Mortgage Association mortgage pools;
+            
+188
+
+    
+    (ii)  Federal Home Loan Mortgage Corporation mortgage pools;
+            
+189
+
+    
+    (iii)  Federal National Mortgage Corporation mortgage pools;
+            
+190
+
+    
+    (iv)  Small Business Administration loan pools; or
+            
+191
+
+    
+    (v)  other investments authorized by this section;
+            
+192
+
+    
+    (d)  commercial paper that is classified as "first tier" by two nationally recognized
+            
+193
+
+    
+statistical rating organizations, [one of which must be Moody's Investors Service or Standard
+            
+194
+
+    
+and Poor's,] which has a remaining term to maturity of:
+            
+195
+
+    
+    (i)  270 days or [less] fewer for paper issued under 15 U.S.C. Sec. 77c(a)(3); or
+            
+196
+
+    
+    (ii)  365 days or [less] fewer for paper issued under 15 U.S.C. Sec. 77d(2);
+            
+197
+
+    
+    (e)  bankers' acceptances that:
+            
+198
+
+    
+    (i)  are eligible for discount at a Federal Reserve bank; and
+            
+199
+
+    
+    (ii)  have a remaining term to maturity of 270 days or [less] fewer;
+            
+200
+
+    
+    (f)  fixed rate negotiable deposits issued by a permitted depository that have a
+            
+201
+
+    
+remaining term to maturity of 365 days or [less] fewer;
+            
+202
+
+    
+    (g)  obligations of the United States Treasury, including United States Treasury bills,
+            
+203
+
+    
+United States Treasury notes, and United States Treasury bonds;
+            
+204
+
+    
+    (h)  obligations other than mortgage pools and other mortgage derivative products
+            
+205
+
+    
+issued by, or fully guaranteed as to principal and interest by, the following agencies or
+            
+206
+
+    
+instrumentalities of the United States in which a market is made by a primary reporting
+            
+207
+
+    
+government securities dealer, unless the agency or instrumentality has become private and is no
+            
+208
+
+    
+longer considered to be a government entity:
+            
+209
+
+    
+    (i)  Federal Farm Credit banks;
+            
+210
+
+    
+    (ii)  Federal Home Loan banks;
+            
+211
+
+    
+    (iii)  Federal National Mortgage Association;
+            
+212
+
+    
+    (iv)  Federal Home Loan Mortgage Corporation;
+            
+213
+
+    
+    (v)  Federal Agriculture Mortgage Corporation; and
+
+            
+214
+
+
+    
+    (vi)  Tennessee Valley Authority;
+            
+215
+
+    
+    (i)  fixed rate corporate obligations that:
+            
+216
+
+    
+    (i)  are rated "A" or higher or the equivalent of "A" or higher by two nationally
+            
+217
+
+    
+recognized statistical rating organizations[, one of which must be by Moody's Investors Service
+            
+218
+
+    
+or Standard and Poor's];
+            
+219
+
+    
+    (ii)  are senior unsecured or secured obligations of the issuer, excluding covered bonds;
+            
+220
+
+    
+    (iii)  are publicly traded; and
+            
+221
+
+    
+    (iv)  have a remaining term to final maturity of [13] 15 months or less or [is] are subject
+            
+222
+
+    
+to a hard put at par value or better, within 365 days;
+            
+223
+
+    
+    (j)  tax anticipation notes and general obligation bonds of the state or of any county,
+            
+224
+
+    
+incorporated city or town, school district, or other political subdivision of this state, including
+            
+225
+
+    
+bonds offered on a when-issued basis without regard to the [limitation] limitations in
+            
+226
+
+    
+Subsection (7);
+            
+227
+
+    
+    (k)  bonds, notes, or other evidence of indebtedness of any county, incorporated city or
+            
+228
+
+    
+town, school district, or other political subdivision of the state that are payable from
+            
+229
+
+    
+assessments or from revenues or earnings specifically pledged for payment of the principal and
+            
+230
+
+    
+interest on these obligations, including bonds offered on a when-issued basis without regard to
+            
+231
+
+    
+the [limitation] limitations in Subsection (7);
+            
+232
+
+    
+    (l)  shares or certificates in a money market mutual fund [as defined in Section 
+
+51-7-3
+
+];
+            
+233
+
+    
+    (m)  variable rate negotiable deposits that:
+            
+234
+
+    
+    (i)  are issued by a qualified depository or a permitted depository;
+            
+235
+
+    
+    (ii)  are repriced at least semiannually; and
+            
+236
+
+    
+    (iii)  have a remaining term to final maturity not to exceed [two] three years; and
+            
+237
+
+    
+    (n)  variable rate securities that:
+            
+238
+
+    
+    (i) (A)  are rated "A" or higher or the equivalent of "A" or higher by two nationally
+            
+239
+
+    
+recognized statistical rating organizations[, one of which must be by Moody's Investors Service
+            
+240
+
+    
+or Standard and Poor's];
+            
+241
+
+    
+    (B)  are senior unsecured or secured obligations of the issuer, excluding covered bonds;
+            
+242
+
+    
+    (C)  are publicly traded;
+            
+243
+
+    
+    (D)  are repriced at least semiannually; and
+            
+244
+
+    
+    (E)  have a remaining term to final maturity not to exceed [two] three years or are
+
+            
+245
+
+
+    
+subject to a hard put at par value or better, within 365 days; and
+            
+246
+
+    
+    (ii)  are not mortgages, mortgage-backed securities, mortgage derivative products, or
+            
+247
+
+    
+any security making unscheduled periodic principal payments other than optional redemptions.
+            
+248
+
+    
+    (4)  The following public funds are exempt from the requirements of Subsection (3):
+            
+249
+
+    
+    (a)  the Employers' Reinsurance Fund created in Section 
+
+34A-2-702
+
+;
+            
+250
+
+    
+    (b)  the Uninsured Employers' Fund created in Section 
+
+34A-2-704
+
+; and
+            
+251
+
+    
+    (c)  a local government other post-employment benefits trust fund under Section
+            
+252
+
+    
+
+51-7-12.2
+
+.
+            
+253
+
+    
+    (5)  If any of the deposits authorized by Subsection (3)(a) are negotiable or
+            
+254
+
+    
+nonnegotiable large time deposits issued in amounts of $100,000 or more, the interest shall be
+            
+255
+
+    
+calculated on the basis of the actual number of days divided by 360 days.
+            
+256
+
+    
+    (6)  A public treasurer may maintain fully insured deposits in demand accounts in a
+            
+257
+
+    
+federally insured nonqualified depository only if a qualified depository is not reasonably
+            
+258
+
+    
+convenient to the entity's geographic location.
+            
+259
+
+    
+    (7)  [The] Except as provided under Subsections (3)(j) and (k), the public treasurer shall
+            
+260
+
+    
+ensure that all purchases and sales of securities are settled within:
+            
+261
+
+    
+    (a)  15 days of the trade date for outstanding issues; and
+            
+262
+
+    
+    (b)  30 days on new issues.
+            
+263
+
+    
+    Section 3.  
+Section  
+51-7-12.1
+
+ is amended to read:
+            
+264
+
+    
+     51-7-12.1.  Deposit or investment of Tobacco Settlement Endowment --
+            
+265
+
+    
+ Authorized deposits and investments -- Asset manager.
+            
+266
+
+    
+    (1)  Notwithstanding the requirements of Section 
+
+51-7-11
+
+, money in the permanent state
+            
+267
+
+    
+trust fund created by and operated under Utah Constitution Article XXII, Section 4, shall be
+            
+268
+
+    
+deposited or invested only in the following:
+            
+269
+
+    
+    (a)  any deposit or investment authorized by Section 
+
+51-7-11
+
+;
+            
+270
+
+    
+    (b)  equity securities, including common and preferred stock issued by corporations
+            
+271
+
+    
+listed on a major securities exchange, in accordance with the following criteria applied at the
+            
+272
+
+    
+time of investment:
+            
+273
+
+    
+    (i)  the treasurer may not invest more than 5%, determined on a cost basis, of the total
+            
+274
+
+    
+endowment assets in the securities of any one issuer;
+            
+275
+
+    
+    (ii)  the treasurer may not invest more than 25%, determined on a cost basis, of the total
+
+            
+276
+
+
+    
+endowment assets in a particular industry;
+            
+277
+
+    
+    (iii)  the treasurer may not invest more than 5%, determined on a cost basis, of the total
+            
+278
+
+    
+endowment assets in securities of corporations that have been in continuous operation for less
+            
+279
+
+    
+than three years;
+            
+280
+
+    
+    (iv)  the endowment may not hold in excess of 5% of the outstanding voting securities
+            
+281
+
+    
+of any one corporation; and
+            
+282
+
+    
+    (v)  at least 75% of the corporations in which investments are made under Subsection
+            
+283
+
+    
+(1)(b) must appear on the Standard and Poor's 500 Composite Stock Price Index;
+            
+284
+
+    
+    (c)  fixed-income securities, including bonds, notes, mortgage securities, zero coupon
+            
+285
+
+    
+securities, and convertible securities issued by domestic corporations rated "A" or higher [by
+            
+286
+
+    
+Moody's Investor's Service, Inc. or by Standard and Poor's Corporation] or the equivalent of
+            
+287
+
+    
+"A" or higher by two nationally recognized statistical rating organizations in accordance with
+            
+288
+
+    
+the following criteria applied at the time of investment:
+            
+289
+
+    
+    (i)  the treasurer may not invest more than 5%, determined on a cost basis, of the total
+            
+290
+
+    
+endowment assets in the securities of any one issuer;
+            
+291
+
+    
+    (ii)  the treasurer may not invest more than 25%, determined on a cost basis, of the total
+            
+292
+
+    
+endowment assets in a particular industry;
+            
+293
+
+    
+    (iii)  the treasurer may not invest more than 5%, determined on a cost basis, of the total
+            
+294
+
+    
+fund assets in the securities of corporations that have been in continuous operation for less than
+            
+295
+
+    
+three years; and
+            
+296
+
+    
+    (iv)  the dollar-weighted average maturity of fixed-income securities acquired under
+            
+297
+
+    
+Subsection (1)(c) may not exceed 10 years;
+            
+298
+
+    
+    (d)  fixed-income securities issued by agencies of the United States and
+            
+299
+
+    
+government-sponsored organizations, including mortgage-backed pass-through certificates and
+            
+300
+
+    
+mortgage-backed bonds;
+            
+301
+
+    
+    (e)  shares of an open-end diversified management investment company established
+            
+302
+
+    
+under  the Investment Company Act of 1940; and
+            
+303
+
+    
+    (f)  shares of or deposits in a pooled-investment program.
+            
+304
+
+    
+    (2) (a)  No more than 80% of the total fund assets of any of this endowment, on a cost
+            
+305
+
+    
+basis, may be invested in common or preferred stocks at any one time.
+            
+306
+
+    
+    (b)  At least 20% of the total assets of this endowment shall be invested in fixed-income
+
+            
+307
+
+
+    
+securities authorized by Subsections (1)(a), (c), and (d).
+            
+308
+
+    
+    (3)  The treasurer shall use appropriate investment strategies to protect the principal of
+            
+309
+
+    
+the endowment administered under this section during periods of financial market volatility.
+            
+310
+
+    
+    (4) (a)  The treasurer may employ professional asset managers to assist in the
+            
+311
+
+    
+investment of assets of the endowment.
+            
+312
+
+    
+    (b)  The treasurer may provide compensation to asset managers from earnings generated
+            
+313
+
+    
+by the funds' investments.
+            
+314
+
+    
+    (5)  The council shall give suggestions, advice, and opinions to the treasurer in regard to
+            
+315
+
+    
+this section.
+            
+316
+
+    
+    Section 4.  
+Section  
+51-7-12.5
+
+ is amended to read:
+            
+317
+
+    
+     51-7-12.5.  Deposit or investment of the Employers' Reinsurance Fund and
+            
+318
+
+    
+ Uninsured Employers' Fund -- Authorized deposits and investments -- Asset manager.
+            
+319
+
+    
+    (1)  The principal of the Employers' Reinsurance Fund created in Section 
+
+34A-2-702
+
+,
+            
+320
+
+    
+and the Uninsured Employers' Fund created in Section 
+
+34A-2-704
+
+ shall be deposited or
+            
+321
+
+    
+invested only in the following:
+            
+322
+
+    
+    (a)  any deposit or investment authorized by Section 
+
+51-7-11
+
+;
+            
+323
+
+    
+    (b)  equity securities, including common and preferred stock issued by corporations
+            
+324
+
+    
+listed on a major securities exchange, in accordance with the following criteria applied at the
+            
+325
+
+    
+time of investment:
+            
+326
+
+    
+    (i)  the treasurer may not invest more than 5%, determined on a cost basis, of the total
+            
+327
+
+    
+fund assets in the securities of any one issuer;
+            
+328
+
+    
+    (ii)  the treasurer may not invest more than 25%, determined on a cost basis, of total
+            
+329
+
+    
+fund assets in a particular industry;
+            
+330
+
+    
+    (iii)  the treasurer may not invest more than 5%, determined on a cost basis, of the total
+            
+331
+
+    
+fund assets in securities of corporations that have been in continuous operation for less than
+            
+332
+
+    
+three years;
+            
+333
+
+    
+    (iv)  the fund may not hold in excess of 5% of the outstanding voting securities of any
+            
+334
+
+    
+one corporation; and
+            
+335
+
+    
+    (v)  at least 75% of the corporations in which investments are made under Subsection
+            
+336
+
+    
+(1)(b) must appear on the Standard and Poor's 500 Composite Stock Price Index;
+            
+337
+
+    
+    (c)  fixed-income securities, including bonds, notes, mortgage securities, zero coupon
+
+            
+338
+
+
+    
+securities and convertible securities issued by domestic corporations rated "A" or higher [by
+            
+339
+
+    
+Moody's Investors Service, Inc. or by Standard and Poor's Corporation] or the equivalent of
+            
+340
+
+    
+"A" or higher by two nationally recognized statistical rating organizations in accordance with
+            
+341
+
+    
+the following criteria applied at the time of investment:
+            
+342
+
+    
+    (i)  the treasurer may not invest more than 5%, determined on a cost basis, of the total
+            
+343
+
+    
+fund assets in the securities of any one issuer;
+            
+344
+
+    
+    (ii)  the treasurer may not invest more than 25%, determined on a cost basis, of the total
+            
+345
+
+    
+fund assets in a particular industry;
+            
+346
+
+    
+    (iii)  the treasurer may not invest more than 5%, determined on a cost basis, of the total
+            
+347
+
+    
+fund assets in securities of corporations that have been in continuous operation for less than
+            
+348
+
+    
+three years; and
+            
+349
+
+    
+    (iv)  the dollar-weighted average maturity of fixed-income securities acquired under
+            
+350
+
+    
+Subsection (1)(c) may not exceed 10 years;
+            
+351
+
+    
+    (d)  fixed-income securities issued by agencies of the United States and
+            
+352
+
+    
+government-sponsored organizations, including mortgage-backed pass-through certificates and
+            
+353
+
+    
+mortgage-backed bonds;
+            
+354
+
+    
+    (e)  shares of an open-end diversified management investment company established
+            
+355
+
+    
+under the Investment Companies Act of 1940; or
+            
+356
+
+    
+    (f)  shares of or deposits in a pooled-investment program.
+            
+357
+
+    
+    (2) (a)  No more than 65% of the total fund assets of any of these funds, on a cost basis,
+            
+358
+
+    
+may be invested in common or preferred stocks at any one time.
+            
+359
+
+    
+    (b)  At least 35% of the total assets of these funds shall be invested in fixed-income
+            
+360
+
+    
+securities authorized by Section 
+
+51-7-11
+
+ and Subsections (1)(c) and (d).
+            
+361
+
+    
+    (3)  The state treasurer shall use appropriate investment strategies to protect the
+            
+362
+
+    
+principal of the funds administered under this section during periods of financial market
+            
+363
+
+    
+volatility.
+            
+364
+
+    
+    (4) (a)  The state treasurer may employ professional asset managers to assist in the
+            
+365
+
+    
+investment of assets of the funds.
+            
+366
+
+    
+    (b)  The treasurer may provide compensation to asset managers from earnings generated
+            
+367
+
+    
+by the funds' investments.
+
+
+
+
+
+ Legislative Review Note
+    as of   1-14-13  10:06 AM
+
+ Office of Legislative Research and General Counsel
+[Bill Documents][Bills Directory]
+
+
+
+
+
+
+
+
+
+Who represents me?
+
+
+
+
+
+Remember my Legislators
+
+
+
+
+
+State Senate
+		350 North State, Suite 320
+		PO Box 145115
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1035
+		Fax: (801) 326-1475
+
+
+
+House of Representatives
+		350 North State, Suite 350
+		PO Box 145030
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1029
+		Fax: (801) 326-1544
+
+
+
+
+
+
+
+
+
+
+Home
+Mobile Site
+Site Map
+Calendar
+Code / Constitution
+House
+Senate
+
+Terms of Use/Privacy Policy
+
+ADA
+Utah.gov
+
+
+
+
+
+
+

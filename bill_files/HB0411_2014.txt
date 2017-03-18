@@ -1,0 +1,1907 @@
+Sponsors: []Modifications: shallThe defendant shall pay to the court the costs associated with continued probation under thisSubsection (10).; and(iii)  receive notification from the Office of State Debt Collection when a civiljudgment ordered for payment of accounts receivable, as defined in Section 
+
+76-3-201.1
+
+
+, hasbeen satisfied.(5)  Before refunding bail that is posted in cash, by credit card, or by debit card, thecourt shall apply the amount posted toward accounts receivable, as defined in Section
+
+76-3-201.1
+
+
+, that are owed by the defendant in the priority set forth in Section 
+
+77-38a-404
+
+
+.Full text:
+
+
+
+Utah State Legislature
+
+
+
+
+
+
+
+
+
+
+
+
+Legislators
+
+By Session (1896-Current)
+Alphabetical (Historical)
+Find by Address/Map
+More
+
+
+Bills
+
+Bills/Bill Requests
+Passed Bills
+2017 Bills
+
+Keyword Search
+Reading Calendars
+Tracking Service
+More
+
+
+Committees
+
+All Committees
+Appropriations
+Commissions
+
+Independent Legislative Ethics Commission
+Interim
+Standing
+Subcommittees
+Task Forces
+Bills In Committees
+
+
+Utah Code / Constitution
+
+
+Title/Chapter/Section
+Keyword Search 
+
+Utah Constitution
+Laws of Utah 1851-ongoing
+Utah Territorial Laws 
+More
+
+
+Senate
+
+Main Page 
+About The Senate 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Extraordinary Sessions 
+Reading Calendars 
+Past Floor Debates 
+Senate Journals 
+
+
+House
+
+Main Page
+About the House 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Reading Calendars 
+Past Floor Debates 
+Journals 
+Conflict of Interest Forms 
+
+
+Legislative Guide 
+
+Legislative Guide
+Civic Programs
+GRAMA (Records Requests)
+
+
+Publications
+
+Search Publications
+Appropriations
+Audits
+Bagels & Briefings
+Briefing Papers
+Digest of Legislation
+Legislative Drafting Manual
+
+Journals
+
+Interim Highlights
+
+Legislative Rules
+GRAMA (Records Requests)
+Public Email
+State Organization Charts
+YouTube Channel
+Requests for Proposals and Legal Notices
+More
+
+
+Legislative Histories
+
+Legislative History Resources
+How to Research
+Bill Drafting/Research Files (1990-Ongoing)
+
+Working Bills (1896-1989)
+Interim Committee Histories (1990-Ongoing) 
+Journals
+Past House Floor Debates
+Past Senate Floor Debates
+More
+
+
+Staff Offices
+
+All Legislative Offices
+Auditor General
+Fiscal Analyst
+Printing
+Research and General Counsel
+Staff Awards
+Job Opportunities
+More
+
+
+Links of Interest
+
+Utah Administrative Rules
+Courts
+Utah State Capitol
+State of Utah
+Federal Legislation
+More
+
+
+
+
+
+
+ 
+
+H.B. 411
+
+
+
+
+
+            
+1
+
+    
+ VICTIM RESTITUTION AMENDMENTS
+
+
+
+            
+2
+
+    
+2014 GENERAL SESSION
+
+            
+3
+
+    
+STATE OF UTAH
+
+            
+4
+
+    
+
+
+ Chief Sponsor:  Brad R. Wilson
+
+
+
+            
+5
+
+    
+
+
+
+Senate Sponsor: 
+
+
+
+
+
+
+  Lyle W. Hillyard
+
+
+
+
+
+            
+6
+
+    
+
+            
+7
+
+    
+ LONG TITLE
+            
+8
+
+    
+ General Description:
+            
+9
+
+    
+    This bill amends provisions related to the payment of restitution by a defendant.
+            
+10
+
+    
+ Highlighted Provisions:
+            
+11
+
+    
+    This bill:
+            
+12
+
+    
+    .    requires the court to maintain jurisdiction of a case and continue probation for a
+            
+13
+
+    
+defendant who has unpaid accounts receivable related to fines, fees, or restitution;
+            
+14
+
+    
+    .    requires the Office of State Debt Collection to notify the court clerk when a civil
+            
+15
+
+    
+judgment ordered for the payment of accounts receivable has been satisfied; and
+            
+16
+
+    
+    .    provides that, before refunding bail that is posted in cash, by credit card, or by debit
+            
+17
+
+    
+card, the court shall, after applying the amount posted toward any fine ordered by
+            
+18
+
+    
+the court, apply the remaining amount toward restitution.
+            
+19
+
+    
+ Money Appropriated in this Bill:
+            
+20
+
+    
+    None
+            
+21
+
+    
+ Other Special Clauses:
+            
+22
+
+    
+    None
+            
+23
+
+    
+ Utah Code Sections Affected:
+            
+24
+
+    
+AMENDS:
+            
+25
+
+    
+     
+77-18-1
+, as last amended by Laws of Utah 2011, Chapter 366
+            
+26
+
+    
+     
+77-18-6
+, as last amended by Laws of Utah 2008, Chapter 3
+            
+27
+
+    
+     
+77-20-4
+, as last amended by Laws of Utah 2013, Chapter 74
+
+            
+28
+
+
+    
+
+            
+29
+
+    
+Be it enacted by the Legislature of the state of Utah:
+            
+30
+
+    
+    Section 1.  
+Section  
+77-18-1
+
+ is amended to read:
+            
+31
+
+    
+     77-18-1.  Suspension of sentence -- Pleas held in abeyance -- Probation --
+            
+32
+
+    
+ Supervision -- Presentence investigation -- Standards -- Confidentiality -- Terms and
+            
+33
+
+    
+ conditions -- Termination, revocation, modification, or extension -- Hearings -- Electronic
+            
+34
+
+    
+ monitoring.
+            
+35
+
+    
+    (1)  On a plea of guilty or no contest entered by a defendant in conjunction with a plea
+            
+36
+
+    
+in abeyance agreement, the court may hold the plea in abeyance as provided in Title 77,
+            
+37
+
+    
+Chapter 2a, Pleas in Abeyance, and under the terms of the plea in abeyance agreement.
+            
+38
+
+    
+    (2) (a)  On a plea of guilty, guilty with a mental illness, no contest, or conviction of any
+            
+39
+
+    
+crime or offense, the court may, after imposing sentence, suspend the execution of the sentence
+            
+40
+
+    
+and place the defendant on probation.  The court may place the defendant:
+            
+41
+
+    
+    (i)  on probation under the supervision of the Department of Corrections except in cases
+            
+42
+
+    
+of class C misdemeanors or infractions;
+            
+43
+
+    
+    (ii)  on probation with an agency of local government or with a private organization; or
+            
+44
+
+    
+    (iii)  on bench probation under the jurisdiction of the sentencing court.
+            
+45
+
+    
+    (b) (i)  The legal custody of all probationers under the supervision of the department is
+            
+46
+
+    
+with the department.
+            
+47
+
+    
+    (ii)  The legal custody of all probationers under the jurisdiction of the sentencing court
+            
+48
+
+    
+is vested as ordered by the court.
+            
+49
+
+    
+    (iii)  The court has continuing jurisdiction over all probationers.
+            
+50
+
+    
+    (3) (a)  The department shall establish supervision and presentence investigation
+            
+51
+
+    
+standards for all individuals referred to the department.  These standards shall be based on:
+            
+52
+
+    
+    (i)  the type of offense;
+            
+53
+
+    
+    (ii)  the demand for services;
+            
+54
+
+    
+    (iii)  the availability of agency resources;
+            
+55
+
+    
+    (iv)  the public safety; and
+            
+56
+
+    
+    (v)  other criteria established by the department to determine what level of services
+            
+57
+
+    
+shall be provided.
+            
+58
+
+    
+    (b)  Proposed supervision and investigation standards shall be submitted to the Judicial
+
+            
+59
+
+
+    
+Council and the Board of Pardons and Parole on an annual basis for review and comment prior
+            
+60
+
+    
+to adoption by the department.
+            
+61
+
+    
+    (c)  The Judicial Council and the department shall establish procedures to implement
+            
+62
+
+    
+the supervision and investigation standards.
+            
+63
+
+    
+    (d)  The Judicial Council and the department shall annually consider modifications to
+            
+64
+
+    
+the standards based upon criteria in Subsection (3)(a) and other criteria as they consider
+            
+65
+
+    
+appropriate.
+            
+66
+
+    
+    (e)  The Judicial Council and the department shall annually prepare an impact report
+            
+67
+
+    
+and submit it to the appropriate legislative appropriations subcommittee.
+            
+68
+
+    
+    (4)  Notwithstanding other provisions of law, the department is not required to
+            
+69
+
+    
+supervise the probation of persons convicted of class B or C misdemeanors or infractions or to
+            
+70
+
+    
+conduct presentence investigation reports on class C misdemeanors or infractions.  However,
+            
+71
+
+    
+the department may supervise the probation of class B misdemeanants in accordance with
+            
+72
+
+    
+department standards.
+            
+73
+
+    
+    (5) (a)  Before the imposition of any sentence, the court may, with the concurrence of
+            
+74
+
+    
+the defendant, continue the date for the imposition of sentence for a reasonable period of time
+            
+75
+
+    
+for the purpose of obtaining a presentence investigation report from the department or
+            
+76
+
+    
+information from other sources about the defendant.
+            
+77
+
+    
+    (b)  The presentence investigation report shall include a victim impact statement
+            
+78
+
+    
+according to guidelines set in Section 
+
+77-38a-203
+
+
+ describing the effect of the crime on the
+            
+79
+
+    
+victim and the victim's family.
+            
+80
+
+    
+    (c)  The presentence investigation report shall include a specific statement of pecuniary
+            
+81
+
+    
+damages, accompanied by a recommendation from the department regarding the payment of
+            
+82
+
+    
+restitution with interest by the defendant in accordance with Title 77, Chapter 38a, Crime
+            
+83
+
+    
+Victims Restitution Act.
+            
+84
+
+    
+    (d)  The presentence investigation report shall include:
+            
+85
+
+    
+    (i)  findings from any screening and any assessment of the offender conducted under
+            
+86
+
+    
+Section 
+
+77-18-1.1
+
+
+; and
+            
+87
+
+    
+    (ii)  recommendations for treatment of the offender.
+            
+88
+
+    
+    (e)  The contents of the presentence investigation report are protected and are not
+            
+89
+
+    
+available except by court order for purposes of sentencing as provided by rule of the Judicial
+
+            
+90
+
+
+    
+Council or for use by the department.
+            
+91
+
+    
+    (6) (a)  The department shall provide the presentence investigation report to the
+            
+92
+
+    
+defendant's attorney, or the defendant if not represented by counsel, the prosecutor, and the
+            
+93
+
+    
+court for review, three working days prior to sentencing.  Any alleged inaccuracies in the
+            
+94
+
+    
+presentence investigation report, which have not been resolved by the parties and the
+            
+95
+
+    
+department prior to sentencing, shall be brought to the attention of the sentencing judge, and
+            
+96
+
+    
+the judge may grant an additional 10 working days to resolve the alleged inaccuracies of the
+            
+97
+
+    
+report with the department.  If after 10 working days the inaccuracies cannot be resolved, the
+            
+98
+
+    
+court shall make a determination of relevance and accuracy on the record.
+            
+99
+
+    
+    (b)  If a party fails to challenge the accuracy of the presentence investigation report at
+            
+100
+
+    
+the time of sentencing, that matter shall be considered to be waived.
+            
+101
+
+    
+    (7)  At the time of sentence, the court shall receive any testimony, evidence, or
+            
+102
+
+    
+information the defendant or the prosecuting attorney desires to present concerning the
+            
+103
+
+    
+appropriate sentence.  This testimony, evidence, or information shall be presented in open court
+            
+104
+
+    
+on record and in the presence of the defendant.
+            
+105
+
+    
+    (8)  While on probation, and as a condition of probation, the court may require that the
+            
+106
+
+    
+defendant:
+            
+107
+
+    
+    (a)  perform any or all of the following:
+            
+108
+
+    
+    (i)  pay, in one or several sums, any fine imposed at the time of being placed on
+            
+109
+
+    
+probation;
+            
+110
+
+    
+    (ii)  pay amounts required under Title 77, Chapter 32a, Defense Costs;
+            
+111
+
+    
+    (iii)  provide for the support of others for whose support the defendant is legally liable;
+            
+112
+
+    
+    (iv)  participate in available treatment programs, including any treatment program in
+            
+113
+
+    
+which the defendant is currently participating, if the program is acceptable to the court;
+            
+114
+
+    
+    (v)  serve a period of time, not to exceed one year, in a county jail designated by the
+            
+115
+
+    
+department, after considering any recommendation by the court as to which jail the court finds
+            
+116
+
+    
+most appropriate;
+            
+117
+
+    
+    (vi)  serve a term of home confinement, which may include the use of electronic
+            
+118
+
+    
+monitoring;
+            
+119
+
+    
+    (vii)  participate in compensatory service restitution programs, including the
+            
+120
+
+    
+compensatory service program provided in Section 
+
+76-6-107.1
+
+
+;
+
+            
+121
+
+
+    
+    (viii)  pay for the costs of investigation, probation, and treatment services;
+            
+122
+
+    
+    (ix)  make restitution or reparation to the victim or victims with interest in accordance
+            
+123
+
+    
+with Title 77, Chapter 38a, Crime Victims Restitution Act; and
+            
+124
+
+    
+    (x)  comply with other terms and conditions the court considers appropriate; and
+            
+125
+
+    
+    (b)  if convicted on or after May 5, 1997:
+            
+126
+
+    
+    (i)  complete high school classwork and obtain a high school graduation diploma, a
+            
+127
+
+    
+GED certificate, or a vocational certificate at the defendant's own expense if the defendant has
+            
+128
+
+    
+not received the diploma, GED certificate, or vocational certificate prior to being placed on
+            
+129
+
+    
+probation; or
+            
+130
+
+    
+    (ii)  provide documentation of the inability to obtain one of the items listed in
+            
+131
+
+    
+Subsection (8)(b)(i) because of:
+            
+132
+
+    
+    (A)  a diagnosed learning disability; or
+            
+133
+
+    
+    (B)  other justified cause.
+            
+134
+
+    
+    (9)  The department shall collect and disburse the account receivable as defined by
+            
+135
+
+    
+Section 
+
+76-3-201.1
+
+
+, with interest and any other costs assessed under Section 
+
+64-13-21
+
+
+ during:
+            
+136
+
+    
+    (a)  the parole period and any extension of that period in accordance with Subsection
+            
+137
+
+    
+
+77-27-6
+
+
+(4); and
+            
+138
+
+    
+    (b)  the probation period in cases for which the court orders supervised probation and
+            
+139
+
+    
+any extension of that period by the department in accordance with Subsection (10).
+            
+140
+
+    
+    (10) (a) (i)  Probation may be terminated at any time at the discretion of the court or
+            
+141
+
+    
+upon completion without violation of 36 months probation in felony or class A misdemeanor
+            
+142
+
+    
+cases, or 12 months in cases of class B or C misdemeanors or infractions.
+            
+143
+
+    
+    (ii) (A)  If, upon expiration or termination of the probation period under Subsection
+            
+144
+
+    
+(10)(a)(i), there remains an unpaid balance upon the account receivable as defined in Section
+            
+145
+
+    
+
+76-3-201.1
+
+
+, the court [may] shall retain jurisdiction of the case and continue the defendant on
+            
+146
+
+    
+bench probation for the limited purpose of enforcing the payment of the account receivable. 
+            
+147
+
+    
+The defendant shall pay to the court the costs associated with continued probation under this
+            
+148
+
+    
+Subsection (10).
+            
+149
+
+    
+    (B)  In accordance with Section 
+
+77-18-6
+
+
+, the court shall record in the registry of civil
+            
+150
+
+    
+judgments any unpaid balance not already recorded and immediately transfer responsibility to
+            
+151
+
+    
+collect the account to the Office of State Debt Collection.
+
+            
+152
+
+
+    
+    (iii)  Upon motion of the Office of State Debt Collection, prosecutor, victim, or upon its
+            
+153
+
+    
+own motion, the court may require the defendant to show cause why the defendant's failure to
+            
+154
+
+    
+pay should not be treated as contempt of court.
+            
+155
+
+    
+    (b) (i)  The department shall notify the sentencing court, the Office of State Debt
+            
+156
+
+    
+Collection, and the prosecuting attorney in writing in advance in all cases when termination of
+            
+157
+
+    
+supervised probation will occur by law.
+            
+158
+
+    
+    (ii)  The notification shall include a probation progress report and complete report of
+            
+159
+
+    
+details on outstanding accounts receivable.
+            
+160
+
+    
+    (11) (a) (i)  Any time served by a probationer outside of confinement after having been
+            
+161
+
+    
+charged with a probation violation and prior to a hearing to revoke probation does not
+            
+162
+
+    
+constitute service of time toward the total probation term unless the probationer is exonerated
+            
+163
+
+    
+at a hearing to revoke the probation.
+            
+164
+
+    
+    (ii)  Any time served in confinement awaiting a hearing or decision concerning
+            
+165
+
+    
+revocation of probation does not constitute service of time toward the total probation term
+            
+166
+
+    
+unless the probationer is exonerated at the hearing.
+            
+167
+
+    
+    (b)  The running of the probation period is tolled upon the filing of a violation report
+            
+168
+
+    
+with the court alleging a violation of the terms and conditions of probation or upon the issuance
+            
+169
+
+    
+of an order to show cause or warrant by the court.
+            
+170
+
+    
+    (12) (a) (i)  Probation may not be modified or extended except upon waiver of a hearing
+            
+171
+
+    
+by the probationer or upon a hearing and a finding in court that the probationer has violated the
+            
+172
+
+    
+conditions of probation.
+            
+173
+
+    
+    (ii)  Probation may not be revoked except upon a hearing in court and a finding that the
+            
+174
+
+    
+conditions of probation have been violated.
+            
+175
+
+    
+    (b) (i)  Upon the filing of an affidavit alleging with particularity facts asserted to
+            
+176
+
+    
+constitute violation of the conditions of probation, the court that authorized probation shall
+            
+177
+
+    
+determine if the affidavit establishes probable cause to believe that revocation, modification, or
+            
+178
+
+    
+extension of probation is justified.
+            
+179
+
+    
+    (ii)  If the court determines there is probable cause, it shall cause to be served on the
+            
+180
+
+    
+defendant a warrant for the defendant's arrest or a copy of the affidavit and an order to show
+            
+181
+
+    
+cause why the defendant's probation should not be revoked, modified, or extended.
+            
+182
+
+    
+    (c) (i)  The order to show cause shall specify a time and place for the hearing and shall
+
+            
+183
+
+
+    
+be served upon the defendant at least five days prior to the hearing.
+            
+184
+
+    
+    (ii)  The defendant shall show good cause for a continuance.
+            
+185
+
+    
+    (iii)  The order to show cause shall inform the defendant of a right to be represented by
+            
+186
+
+    
+counsel at the hearing and to have counsel appointed if the defendant is indigent.
+            
+187
+
+    
+    (iv)  The order shall also inform the defendant of a right to present evidence.
+            
+188
+
+    
+    (d) (i)  At the hearing, the defendant shall admit or deny the allegations of the affidavit.
+            
+189
+
+    
+    (ii)  If the defendant denies the allegations of the affidavit, the prosecuting attorney
+            
+190
+
+    
+shall present evidence on the allegations.
+            
+191
+
+    
+    (iii)  The persons who have given adverse information on which the allegations are
+            
+192
+
+    
+based shall be presented as witnesses subject to questioning by the defendant unless the court
+            
+193
+
+    
+for good cause otherwise orders.
+            
+194
+
+    
+    (iv)  The defendant may call witnesses, appear and speak in the defendant's own behalf,
+            
+195
+
+    
+and present evidence.
+            
+196
+
+    
+    (e) (i)  After the hearing the court shall make findings of fact.
+            
+197
+
+    
+    (ii)  Upon a finding that the defendant violated the conditions of probation, the court
+            
+198
+
+    
+may order the probation revoked, modified, continued, or that the entire probation term
+            
+199
+
+    
+commence anew.
+            
+200
+
+    
+    (iii)  If probation is revoked, the defendant shall be sentenced or the sentence previously
+            
+201
+
+    
+imposed shall be executed.
+            
+202
+
+    
+    (13)  The court may order the defendant to commit himself or herself to the custody of
+            
+203
+
+    
+the Division of Substance Abuse and Mental Health for treatment at the Utah State Hospital as
+            
+204
+
+    
+a condition of probation or stay of sentence, only after the superintendent of the Utah State
+            
+205
+
+    
+Hospital or the superintendent's designee has certified to the court that:
+            
+206
+
+    
+    (a)  the defendant is appropriate for and can benefit from treatment at the state hospital;
+            
+207
+
+    
+    (b)  treatment space at the hospital is available for the defendant; and
+            
+208
+
+    
+    (c)  persons described in Subsection 
+
+62A-15-610
+
+
+(2)(g) are receiving priority for
+            
+209
+
+    
+treatment over the defendants described in this Subsection (13).
+            
+210
+
+    
+    (14)  Presentence investigation reports are classified protected in accordance with Title
+            
+211
+
+    
+63G, Chapter 2, Government Records Access and Management Act.  Notwithstanding Sections
+            
+212
+
+    
+
+63G-2-403
+
+
+ and 
+
+63G-2-404
+
+
+, the State Records Committee may not order the disclosure of a
+            
+213
+
+    
+presentence investigation report.  Except for disclosure at the time of sentencing pursuant to
+
+            
+214
+
+
+    
+this section, the department may disclose the presentence investigation only when:
+            
+215
+
+    
+    (a)  ordered by the court pursuant to Subsection 
+
+63G-2-202
+
+
+(7);
+            
+216
+
+    
+    (b)  requested by a law enforcement agency or other agency approved by the department
+            
+217
+
+    
+for purposes of supervision, confinement, and treatment of the offender;
+            
+218
+
+    
+    (c)  requested by the Board of Pardons and Parole;
+            
+219
+
+    
+    (d)  requested by the subject of the presentence investigation report or the subject's
+            
+220
+
+    
+authorized representative; or
+            
+221
+
+    
+    (e)  requested by the victim of the crime discussed in the presentence investigation
+            
+222
+
+    
+report or the victim's authorized representative, provided that the disclosure to the victim shall
+            
+223
+
+    
+include only information relating to statements or materials provided by the victim, to the
+            
+224
+
+    
+circumstances of the crime including statements by the defendant, or to the impact of the crime
+            
+225
+
+    
+on the victim or the victim's household.
+            
+226
+
+    
+    (15) (a)  The court shall consider home confinement as a condition of probation under
+            
+227
+
+    
+the supervision of the department, except as provided in Sections 
+
+76-3-406
+
+
+ and 
+
+76-5-406.5
+
+
+.
+            
+228
+
+    
+    (b)  The department shall establish procedures and standards for home confinement,
+            
+229
+
+    
+including electronic monitoring, for all individuals referred to the department in accordance
+            
+230
+
+    
+with Subsection (16).
+            
+231
+
+    
+    (16) (a)  If the court places the defendant on probation under this section, it may order
+            
+232
+
+    
+the defendant to participate in home confinement through the use of electronic monitoring as
+            
+233
+
+    
+described in this section until further order of the court.
+            
+234
+
+    
+    (b)  The electronic monitoring shall alert the department and the appropriate law
+            
+235
+
+    
+enforcement unit of the defendant's whereabouts.
+            
+236
+
+    
+    (c)  The electronic monitoring device shall be used under conditions which require:
+            
+237
+
+    
+    (i)  the defendant to wear an electronic monitoring device at all times; and
+            
+238
+
+    
+    (ii)  that a device be placed in the home of the defendant, so that the defendant's
+            
+239
+
+    
+compliance with the court's order may be monitored.
+            
+240
+
+    
+    (d)  If a court orders a defendant to participate in home confinement through electronic
+            
+241
+
+    
+monitoring as a condition of probation under this section, it shall:
+            
+242
+
+    
+    (i)  place the defendant on probation under the supervision of the Department of
+            
+243
+
+    
+Corrections;
+            
+244
+
+    
+    (ii)  order the department to place an electronic monitoring device on the defendant and
+
+            
+245
+
+
+    
+install electronic monitoring equipment in the residence of the defendant; and
+            
+246
+
+    
+    (iii)  order the defendant to pay the costs associated with home confinement to the
+            
+247
+
+    
+department or the program provider.
+            
+248
+
+    
+    (e)  The department shall pay the costs of home confinement through electronic
+            
+249
+
+    
+monitoring only for those persons who have been determined to be indigent by the court.
+            
+250
+
+    
+    (f)  The department may provide the electronic monitoring described in this section
+            
+251
+
+    
+either directly or by contract with a private provider.
+            
+252
+
+    
+    Section 2.  
+Section  
+77-18-6
+
+ is amended to read:
+            
+253
+
+    
+     77-18-6.  Judgment to pay fine or restitution constitutes a lien.
+            
+254
+
+    
+    (1) (a)  In cases not supervised by the Department of Corrections, the clerk of the
+            
+255
+
+    
+district court shall:
+            
+256
+
+    
+    (i)  transfer the responsibility to collect past due accounts receivable to the Office of
+            
+257
+
+    
+State Debt Collection when the accounts receivable are 90 days or more past due; [and]
+            
+258
+
+    
+    (ii)  before transferring the responsibility to collect the past due account receivable to
+            
+259
+
+    
+the Office of State Debt Collection, record each judgment of conviction of a crime that orders
+            
+260
+
+    
+the payment of a fine, forfeiture, surcharge, cost permitted by statute, or fee in the registry of
+            
+261
+
+    
+civil judgments, listing the Office of State Debt Collection as the judgment creditor[.]; and
+            
+262
+
+    
+    (iii)  receive notification from the Office of State Debt Collection when a civil
+            
+263
+
+    
+judgment ordered for payment of accounts receivable, as defined in Section 
+
+76-3-201.1
+
+
+, has
+            
+264
+
+    
+been satisfied.
+            
+265
+
+    
+    (b) (i)  The clerk of court shall record each judgment of conviction that orders the
+            
+266
+
+    
+payment of restitution to a victim in the registry of civil judgments, listing the victim, or the
+            
+267
+
+    
+estate of the victim, as the judgment creditor.
+            
+268
+
+    
+    (ii)  The Department of Corrections shall collect the judgment on behalf of the victim as
+            
+269
+
+    
+provided in Subsection 
+
+77-18-1
+
+
+(9).
+            
+270
+
+    
+    (iii)  The court shall collect the judgment on behalf of the victim as provided in
+            
+271
+
+    
+Subsection 
+
+78A-2-214
+
+
+(2).
+            
+272
+
+    
+    (iv)  The victim may collect the judgment.
+            
+273
+
+    
+    (v)  The victim is responsible for timely renewal of the judgment under Section
+            
+274
+
+    
+
+78B-5-202
+
+
+.
+            
+275
+
+    
+    (2)  When a fine, forfeiture, surcharge, cost, fee, or restitution is recorded in the registry
+
+            
+276
+
+
+    
+of civil judgments, the judgment:
+            
+277
+
+    
+    (a)  constitutes a lien;
+            
+278
+
+    
+    (b)  has the same effect and is subject to the same rules as a judgment for money in a
+            
+279
+
+    
+civil action; and
+            
+280
+
+    
+    (c)  may be collected by any means authorized by law for the collection of a civil
+            
+281
+
+    
+judgment.
+            
+282
+
+    
+    Section 3.  
+Section  
+77-20-4
+
+ is amended to read:
+            
+283
+
+    
+     77-20-4.  Bail to be posted in cash, by credit or debit card, or written undertaking.
+            
+284
+
+    
+    (1)  Bail may be posted:
+            
+285
+
+    
+    (a)  in cash;
+            
+286
+
+    
+    (b)  by written undertaking with or without sureties at the discretion of the magistrate;
+            
+287
+
+    
+or
+            
+288
+
+    
+    (c)  by credit or debit card, at the discretion of the judge or bail commissioner.
+            
+289
+
+    
+    (2)  Bail may not be accepted without receiving in writing at the time the bail is posted
+            
+290
+
+    
+the current mailing address and telephone number of the surety.
+            
+291
+
+    
+    (3)  Bail posted by debit or credit card, less the fee charged by the financial institution,
+            
+292
+
+    
+shall be tendered to the courts.
+            
+293
+
+    
+    (4)  Bail refunded by the court may be refunded by credit to the debit or credit card, or
+            
+294
+
+    
+cash.  The amount refunded shall be the full amount received by the court under Subsection
+            
+295
+
+    
+(3), which may be less than the full amount of the bail set by the court.
+            
+296
+
+    
+    (5)  Before refunding bail that is posted in cash, by credit card, or by debit card, the
+            
+297
+
+    
+court shall apply the amount posted toward accounts receivable, as defined in Section
+            
+298
+
+    
+
+
+76-3-201.1
+
+
+, that are owed by the defendant in the priority set forth in Section 
+
+77-38a-404
+
+
+.
+
+
+
+
+ Legislative Review Note
+    as of   2-24-14  10:42 AM
+
+ Office of Legislative Research and General Counsel
+[Bill Documents][Bills Directory]
+
+
+
+
+
+
+
+
+
+Who represents me?
+
+
+
+
+
+Remember my Legislators
+
+
+
+
+
+State Senate
+		350 North State, Suite 320
+		PO Box 145115
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1035
+		Fax: (801) 326-1475
+
+
+
+House of Representatives
+		350 North State, Suite 350
+		PO Box 145030
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1029
+		Fax: (801) 326-1544
+
+
+
+
+
+
+
+
+
+
+Home
+Mobile Site
+Site Map
+Calendar
+Code / Constitution
+House
+Senate
+
+Terms of Use/Privacy Policy
+
+ADA
+Utah.gov
+
+
+
+
+
+
+

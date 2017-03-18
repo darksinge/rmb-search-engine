@@ -1,0 +1,805 @@
+Sponsors: []Modifications:     53A-17a-127.5.(1)  As used in this section:(a)  "Alternative fuel" means CNG or propane.(b)  "Board" means the State Board of Education.(c)  "Clean diesel fuel" means diesel fuel with a sulfur content of no more than 15 partsper million (ppm).(d)  "CNG" means compressed natural gas.(2)  The board may award a grant to a school district or charter school to:(a)  replace a school bus manufactured before 2002 with a new school bus that usesCNG, propane, or clean diesel fuel;(b)  install an alternative fuel fueling station:(i)  for a school bus that uses alternative fuel; and(ii)  that may be accessed by a governmental entity or the public to fuel an alternativefuel vehicle; or(c)  retrofit a bus shop to service and maintain a school bus that uses alternative fuel.(3)  The board shall make rules:(a)  establishing procedures for applying for and awarding a grant;(b)  specifying criteria for selecting a grant recipient;(c)  requiring reporting of grant money expenditures and evidence that a new school buspurchased with grant money has replaced a school bus manufactured before 2002; and(d)  requiring a grant recipient to provide matching funds in an amount that is greaterthan or equal to the amount of a grant received under this section.(4)  The board shall appoint a committee that includes representatives of schooldistricts, charter schools, and the board to review grant applications and makerecommendations to the board for the award of grants that meet the requirements of this sectionand rules adopted under Subsection (3).(5)  Through the state superintendent of public instruction, the board shall facilitatetraining for bus shop technicians and bus drivers on the operation and maintenance of a schoolbus that uses alternative fuel.(6)  On or before November 1, 2014, the board shall submit a report to the PublicEducation Appropriations Subcommittee that:(a)  describes the grants awarded under this section; and(b)  includes recommendations regarding continuation of the grant program.Under the terms and conditions of Title 63J, Chapter 1, Budgetary Procedures Act, forthe fiscal year beginning July 1, 2014, and ending June 30, 2015, the following sums of moneyare appropriated from resources not otherwise appropriated, or reduced from amountspreviously appropriated, out of the funds or accounts indicated.  These sums of money are inaddition to any amounts previously appropriated for fiscal year 2015.To State Board of Education - Utah State Office of Education - Initiative ProgramsFrom Education Fund, One-time$20,000,000
+
+            
+85
+
+    
+    Schedule of Programs:
+            
+86
+
+    
+        Contracts and Grants                    $20,000,000
+            
+87
+
+    
+    The Legislature intends that of the $20,000,000 appropriated for the Contracts and
+            
+88
+
+    
+Grants Program, the State Board of Education may expend:
+            
+89
+
+    
+    (1)  up to $13,000,000 for grants for new school buses pursuant to Section
+Schedule of Programs:Contracts and Grants                    $20,000,000The Legislature intends that of the $20,000,000 appropriated for the Contracts andGrants Program, the State Board of Education may expend:(1)  up to $13,000,000 for grants for new school buses pursuant to Section
+
+53A-17a-127.5
+
+
+; and(2)  up to $7,000,000 for grants for alternative fuel fueling stations and bus shopretrofits pursuant to Section 
+
+53A-17a-127.5
+
+
+.(1)  Except as provided in Subsection (2), this bill takes effect on May 13, 2014.(2)  Section 2,  Appropriations, takes effect on July 1, 2014.Full text:
+
+
+
+Utah State Legislature
+
+
+
+
+
+
+
+
+
+
+
+
+Legislators
+
+By Session (1896-Current)
+Alphabetical (Historical)
+Find by Address/Map
+More
+
+
+Bills
+
+Bills/Bill Requests
+Passed Bills
+2017 Bills
+
+Keyword Search
+Reading Calendars
+Tracking Service
+More
+
+
+Committees
+
+All Committees
+Appropriations
+Commissions
+
+Independent Legislative Ethics Commission
+Interim
+Standing
+Subcommittees
+Task Forces
+Bills In Committees
+
+
+Utah Code / Constitution
+
+
+Title/Chapter/Section
+Keyword Search 
+
+Utah Constitution
+Laws of Utah 1851-ongoing
+Utah Territorial Laws 
+More
+
+
+Senate
+
+Main Page 
+About The Senate 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Extraordinary Sessions 
+Reading Calendars 
+Past Floor Debates 
+Senate Journals 
+
+
+House
+
+Main Page
+About the House 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Reading Calendars 
+Past Floor Debates 
+Journals 
+Conflict of Interest Forms 
+
+
+Legislative Guide 
+
+Legislative Guide
+Civic Programs
+GRAMA (Records Requests)
+
+
+Publications
+
+Search Publications
+Appropriations
+Audits
+Bagels & Briefings
+Briefing Papers
+Digest of Legislation
+Legislative Drafting Manual
+
+Journals
+
+Interim Highlights
+
+Legislative Rules
+GRAMA (Records Requests)
+Public Email
+State Organization Charts
+YouTube Channel
+Requests for Proposals and Legal Notices
+More
+
+
+Legislative Histories
+
+Legislative History Resources
+How to Research
+Bill Drafting/Research Files (1990-Ongoing)
+
+Working Bills (1896-1989)
+Interim Committee Histories (1990-Ongoing) 
+Journals
+Past House Floor Debates
+Past Senate Floor Debates
+More
+
+
+Staff Offices
+
+All Legislative Offices
+Auditor General
+Fiscal Analyst
+Printing
+Research and General Counsel
+Staff Awards
+Job Opportunities
+More
+
+
+Links of Interest
+
+Utah Administrative Rules
+Courts
+Utah State Capitol
+State of Utah
+Federal Legislation
+More
+
+
+
+
+
+
+ 
+
+H.B. 41
+
+
+
+
+
+            
+1
+
+    
+ CLEAN FUEL SCHOOL BUSES AND INFRASTRUCTURE
+
+
+
+            
+2
+
+    
+2014 GENERAL SESSION
+
+            
+3
+
+    
+STATE OF UTAH
+
+            
+4
+
+    
+
+
+ Chief Sponsor:  Stephen G. Handy
+
+
+
+            
+5
+
+    
+
+
+
+Senate Sponsor: 
+
+
+
+
+
+
+  Aaron Osmond
+
+
+
+
+
+            
+6
+
+    
+
+            
+7
+
+    
+ LONG TITLE
+            
+8
+
+    
+ General Description:
+            
+9
+
+    
+    This bill provides grants to replace school buses and to create infrastructure for
+            
+10
+
+    
+alternative fuel vehicles.
+            
+11
+
+    
+ Highlighted Provisions:
+            
+12
+
+    
+    This bill:
+            
+13
+
+    
+    .    allows the State Board of Education to award a grant to a school district or charter
+            
+14
+
+    
+school to:
+            
+15
+
+    
+        .    replace a school bus manufactured before 2002 with a new school bus that uses
+            
+16
+
+    
+CNG, propane, or clean diesel fuel;
+            
+17
+
+    
+        .    install an alternative fuel fueling station for a school bus that uses alternative
+            
+18
+
+    
+fuel and that may be accessed by a governmental entity or the public to fuel an
+            
+19
+
+    
+alternative fuel vehicle; or
+            
+20
+
+    
+        .    retrofit a bus shop to service and maintain a school bus that uses alternative
+            
+21
+
+    
+fuel;
+            
+22
+
+    
+    .    requires the State Board of Education to make rules related to the awarding of a
+            
+23
+
+    
+grant, including rules that:
+            
+24
+
+    
+        .    specify criteria for selecting a grant recipient; and
+            
+25
+
+    
+        .    require a grant recipient to provide funding matches in an amount that is greater
+            
+26
+
+    
+than or equal to the amount of a grant received; and
+            
+27
+
+    
+    .    requires the State Board of Education to:
+
+            
+28
+
+
+    
+        .    facilitate training for bus shop technicians and bus drivers on the operation and
+            
+29
+
+    
+maintenance of a school bus that uses alternative fuel; and
+            
+30
+
+    
+        .    make a report to the Legislature.
+            
+31
+
+    
+ Money Appropriated in this Bill:
+            
+32
+
+    
+    This bill appropriates in fiscal year 2015:
+            
+33
+
+    
+    .    to the State Board of Education - Utah State Office of Education - Initiative
+            
+34
+
+    
+Programs as a one-time appropriation:
+            
+35
+
+    
+        .    from the Education Fund, One-time, $20,000,000.
+            
+36
+
+    
+ Other Special Clauses:
+            
+37
+
+    
+    This bill provides an effective date.
+            
+38
+
+    
+ Utah Code Sections Affected:
+            
+39
+
+    
+ENACTS:
+            
+40
+
+    
+     
+53A-17a-127.5
+, Utah Code Annotated 1953
+            
+41
+
+    
+
+            
+42
+
+    
+Be it enacted by the Legislature of the state of Utah:
+            
+43
+
+    
+    Section 1.  
+Section  
+53A-17a-127.5
+
+ is enacted to read:
+            
+44
+
+    
+     53A-17a-127.5.  Grants for school buses and alternative fuel infrastructure.
+            
+45
+
+    
+    (1)  As used in this section:
+            
+46
+
+    
+    (a)  "Alternative fuel" means CNG or propane.
+            
+47
+
+    
+    (b)  "Board" means the State Board of Education.
+            
+48
+
+    
+    (c)  "Clean diesel fuel" means diesel fuel with a sulfur content of no more than 15 parts
+            
+49
+
+    
+per million (ppm).
+            
+50
+
+    
+    (d)  "CNG" means compressed natural gas.
+            
+51
+
+    
+    (2)  The board may award a grant to a school district or charter school to:
+            
+52
+
+    
+    (a)  replace a school bus manufactured before 2002 with a new school bus that uses
+            
+53
+
+    
+CNG, propane, or clean diesel fuel;
+            
+54
+
+    
+    (b)  install an alternative fuel fueling station:
+            
+55
+
+    
+    (i)  for a school bus that uses alternative fuel; and
+            
+56
+
+    
+    (ii)  that may be accessed by a governmental entity or the public to fuel an alternative
+            
+57
+
+    
+fuel vehicle; or
+            
+58
+
+    
+    (c)  retrofit a bus shop to service and maintain a school bus that uses alternative fuel.
+
+            
+59
+
+
+    
+    (3)  The board shall make rules:
+            
+60
+
+    
+    (a)  establishing procedures for applying for and awarding a grant;
+            
+61
+
+    
+    (b)  specifying criteria for selecting a grant recipient;
+            
+62
+
+    
+    (c)  requiring reporting of grant money expenditures and evidence that a new school bus
+            
+63
+
+    
+purchased with grant money has replaced a school bus manufactured before 2002; and
+            
+64
+
+    
+    (d)  requiring a grant recipient to provide matching funds in an amount that is greater
+            
+65
+
+    
+than or equal to the amount of a grant received under this section.
+            
+66
+
+    
+    (4)  The board shall appoint a committee that includes representatives of school
+            
+67
+
+    
+districts, charter schools, and the board to review grant applications and make
+            
+68
+
+    
+recommendations to the board for the award of grants that meet the requirements of this section
+            
+69
+
+    
+and rules adopted under Subsection (3).
+            
+70
+
+    
+    (5)  Through the state superintendent of public instruction, the board shall facilitate
+            
+71
+
+    
+training for bus shop technicians and bus drivers on the operation and maintenance of a school
+            
+72
+
+    
+bus that uses alternative fuel.
+            
+73
+
+    
+    (6)  On or before November 1, 2014, the board shall submit a report to the Public
+            
+74
+
+    
+Education Appropriations Subcommittee that:
+            
+75
+
+    
+    (a)  describes the grants awarded under this section; and
+            
+76
+
+    
+    (b)  includes recommendations regarding continuation of the grant program.
+            
+77
+
+    
+    Section 2.   Appropriation.
+            
+78
+
+    
+    Under the terms and conditions of Title 63J, Chapter 1, Budgetary Procedures Act, for
+            
+79
+
+    
+the fiscal year beginning July 1, 2014, and ending June 30, 2015, the following sums of money
+            
+80
+
+    
+are appropriated from resources not otherwise appropriated, or reduced from amounts
+            
+81
+
+    
+previously appropriated, out of the funds or accounts indicated.  These sums of money are in
+            
+82
+
+    
+addition to any amounts previously appropriated for fiscal year 2015.
+            
+83
+
+    
+    To State Board of Education - Utah State Office of Education - Initiative Programs
+            
+84
+
+    
+    From Education Fund, One-time$20,000,000
+
+            
+85
+
+    
+    Schedule of Programs:
+            
+86
+
+    
+        Contracts and Grants                    $20,000,000
+            
+87
+
+    
+    The Legislature intends that of the $20,000,000 appropriated for the Contracts and
+            
+88
+
+    
+Grants Program, the State Board of Education may expend:
+            
+89
+
+    
+    (1)  up to $13,000,000 for grants for new school buses pursuant to Section
+
+            
+90
+
+
+    
+
+
+53A-17a-127.5
+
+
+; and
+            
+91
+
+    
+    (2)  up to $7,000,000 for grants for alternative fuel fueling stations and bus shop
+            
+92
+
+    
+retrofits pursuant to Section 
+
+53A-17a-127.5
+
+
+.
+            
+93
+
+    
+    Section 3.   Effective date.
+            
+94
+
+    
+    (1)  Except as provided in Subsection (2), this bill takes effect on May 13, 2014.
+            
+95
+
+    
+    (2)  Section 2,  Appropriations, takes effect on July 1, 2014.
+
+
+
+
+ Legislative Review Note
+    as of  12-23-13  1:32 PM
+
+ Office of Legislative Research and General Counsel
+[Bill Documents][Bills Directory]
+
+
+
+
+
+
+
+
+
+Who represents me?
+
+
+
+
+
+Remember my Legislators
+
+
+
+
+
+State Senate
+		350 North State, Suite 320
+		PO Box 145115
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1035
+		Fax: (801) 326-1475
+
+
+
+House of Representatives
+		350 North State, Suite 350
+		PO Box 145030
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1029
+		Fax: (801) 326-1544
+
+
+
+
+
+
+
+
+
+
+Home
+Mobile Site
+Site Map
+Calendar
+Code / Constitution
+House
+Senate
+
+Terms of Use/Privacy Policy
+
+ADA
+Utah.gov
+
+
+
+
+
+
+

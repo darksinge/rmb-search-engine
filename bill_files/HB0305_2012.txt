@@ -1,0 +1,1450 @@
+Sponsors: []Modifications: thestructural alterations or structural repairs.  Reroofing orwater membrane replacement may not be considered a structural alteration or repair forpurposes of this section.Full text:
+
+
+
+Utah State Legislature
+
+
+
+
+
+
+
+
+
+
+
+
+Legislators
+
+By Session (1896-Current)
+Alphabetical (Historical)
+Find by Address/Map
+More
+
+
+Bills
+
+Bills/Bill Requests
+Passed Bills
+2017 Bills
+
+Keyword Search
+Reading Calendars
+Tracking Service
+More
+
+
+Committees
+
+All Committees
+Appropriations
+Commissions
+
+Independent Legislative Ethics Commission
+Interim
+Standing
+Subcommittees
+Task Forces
+Bills In Committees
+
+
+Utah Code / Constitution
+
+
+Title/Chapter/Section
+Keyword Search 
+
+Utah Constitution
+Laws of Utah 1851-ongoing
+Utah Territorial Laws 
+More
+
+
+Senate
+
+Main Page 
+About The Senate 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Extraordinary Sessions 
+Reading Calendars 
+Past Floor Debates 
+Senate Journals 
+
+
+House
+
+Main Page
+About the House 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Reading Calendars 
+Past Floor Debates 
+Journals 
+Conflict of Interest Forms 
+
+
+Legislative Guide 
+
+Legislative Guide
+Civic Programs
+GRAMA (Records Requests)
+
+
+Publications
+
+Search Publications
+Appropriations
+Audits
+Bagels & Briefings
+Briefing Papers
+Digest of Legislation
+Legislative Drafting Manual
+
+Journals
+
+Interim Highlights
+
+Legislative Rules
+GRAMA (Records Requests)
+Public Email
+State Organization Charts
+YouTube Channel
+Requests for Proposals and Legal Notices
+More
+
+
+Legislative Histories
+
+Legislative History Resources
+How to Research
+Bill Drafting/Research Files (1990-Ongoing)
+
+Working Bills (1896-1989)
+Interim Committee Histories (1990-Ongoing) 
+Journals
+Past House Floor Debates
+Past Senate Floor Debates
+More
+
+
+Staff Offices
+
+All Legislative Offices
+Auditor General
+Fiscal Analyst
+Printing
+Research and General Counsel
+Staff Awards
+Job Opportunities
+More
+
+
+Links of Interest
+
+Utah Administrative Rules
+Courts
+Utah State Capitol
+State of Utah
+Federal Legislation
+More
+
+
+
+
+
+
+ 
+
+Download Zipped Introduced WordPerfect HB0305.ZIP
+[Status][Bill Documents][Fiscal Note][Bills Directory]
+
+
+H.B. 305
+
+
+
+
+
+            
+1
+
+    
+ CONSTRUCTION CODE REVISIONS
+
+
+
+            
+2
+
+    
+2012 GENERAL SESSION
+
+            
+3
+
+    
+STATE OF UTAH
+
+            
+4
+
+    
+
+
+ Chief Sponsor:  Gage Froerer
+
+
+
+            
+5
+
+    
+
+
+
+Senate Sponsor: 
+
+
+
+
+
+
+  J. Stuart Adams
+
+
+
+
+
+            
+6
+
+    
+
+            
+7
+
+    
+ LONG TITLE
+            
+8
+
+    
+ General Description:
+            
+9
+
+    
+    This bill modifies a provision amending the state construction code.
+            
+10
+
+    
+ Highlighted Provisions:
+            
+11
+
+    
+    This bill:
+            
+12
+
+    
+    .    modifies a provision requiring an engineer evaluation of certain buildings built
+            
+13
+
+    
+before 1975;
+            
+14
+
+    
+    .    eliminates a requirement that the evaluation occur when the building is undergoing
+            
+15
+
+    
+reroofing or an alteration of or repair to certain features; and
+            
+16
+
+    
+    .    replaces that requirement with a requirement that the evaluation occur when the
+            
+17
+
+    
+building is undergoing structural alterations or repairs, and specifies what is not
+            
+18
+
+    
+included in structural alterations or repairs.
+            
+19
+
+    
+ Money Appropriated in this Bill:
+            
+20
+
+    
+    None
+            
+21
+
+    
+ Other Special Clauses:
+            
+22
+
+    
+    None
+            
+23
+
+    
+ Utah Code Sections Affected:
+            
+24
+
+    
+AMENDS:
+            
+25
+
+    
+     15A-3-113, as enacted by Laws of Utah 2011, Chapter 14
+            
+26
+
+    
+
+            
+27
+
+    
+Be it enacted by the Legislature of the state of Utah:
+
+            
+28
+
+
+    
+    Section 1.  
+Section  
+15A-3-113
+
+ is amended to read:
+            
+29
+
+    
+     15A-3-113.   Amendments to Chapters 32 through 35 of IBC.
+            
+30
+
+    
+    (1)  A new section IBC, Section 3401.6, is added as follows: "3401.6 Parapet bracing,
+            
+31
+
+    
+wall anchors, and other appendages.  Buildings constructed before 1975 shall have parapet
+            
+32
+
+    
+bracing, wall anchors, and appendages such as cornices, spires, towers, tanks, signs, statuary,
+            
+33
+
+    
+etc. evaluated by a licensed engineer when [said] the building is undergoing [reroofing, or
+            
+34
+
+    
+alteration of or repair to said feature.] structural alterations or structural repairs.  Reroofing or
+            
+35
+
+    
+water membrane replacement may not be considered a structural alteration or repair for
+            
+36
+
+    
+purposes of this section.  Such parapet bracing, wall anchors, and appendages shall be
+            
+37
+
+    
+evaluated in accordance with 75% of the seismic forces as specified in Section 1613.  When
+            
+38
+
+    
+allowed by the local building official, alternate methods of equivalent strength as referenced in
+            
+39
+
+    
+an approved code under Utah Code, Subsection 
+
+15A-1-204
+
+(6)(a), will be considered when
+            
+40
+
+    
+accompanied by engineer-sealed drawings, details, and calculations.  When found to be
+            
+41
+
+    
+deficient because of design or deteriorated condition, the engineer's recommendations to
+            
+42
+
+    
+anchor, brace, reinforce, or remove the deficient feature shall be implemented.
+            
+43
+
+    
+Exceptions:
+            
+44
+
+    
+1.  Group R-3 and U occupancies.
+            
+45
+
+    
+2.  Unreinforced masonry parapets need not be braced according to the above stated provisions
+            
+46
+
+    
+provided that the maximum height of an unreinforced masonry parapet above the level of the
+            
+47
+
+    
+diaphragm tension anchors or above the parapet braces shall not exceed one and one-half times
+            
+48
+
+    
+the thickness of the parapet wall.  The parapet height may be a maximum of two and one-half
+            
+49
+
+    
+times its thickness in other than Seismic Design Categories D, E, or F."
+            
+50
+
+    
+    (2)  IBC, Section 3408.4, is deleted and replaced with the following: "3408.4 Change in
+            
+51
+
+    
+Occupancy.  When a change in occupancy results in a structure being reclassified to a higher
+            
+52
+
+    
+Occupancy Category (as defined in Table 1604.5), or when such change of occupancy results in
+            
+53
+
+    
+a design occupant load increase of 100% or more, the structure shall conform to the seismic
+            
+54
+
+    
+requirements for a new structure.
+            
+55
+
+    
+Exceptions:
+            
+56
+
+    
+1.  Specific seismic detailing requirements of this code or ASCE 7 for a new structure shall not
+            
+57
+
+    
+be required to be met where it can be shown that the level of performance and seismic safety is
+            
+58
+
+    
+equivalent to that of a new structure.  Such analysis shall consider the regularity, overstrength,
+
+            
+59
+
+
+    
+redundancy, and ductility of the structure within the context of the existing and retrofit (if any)
+            
+60
+
+    
+detailing providing.  Alternatively, the building official may allow the structure to be upgraded
+            
+61
+
+    
+in accordance with referenced sections as found in an approved code under Utah Code,
+            
+62
+
+    
+Subsection 
+
+15A-1-204
+
+(6)(a).
+            
+63
+
+    
+2.  When a change of use results in a structure being reclassified from Occupancy Category I or
+            
+64
+
+    
+II to Occupancy Category III and the structure is located in a seismic map area where SDS is
+            
+65
+
+    
+less than 0.33, compliance with the seismic requirements of this code and ASCE 7 are not
+            
+66
+
+    
+required.
+            
+67
+
+    
+3.  Where design occupant load increase is less than 25 occupants and the Occupancy Category
+            
+68
+
+    
+does not change."
+            
+69
+
+    
+    (3)  In IBC, Section 3411.1, the exception is deleted and replaced with the following:
+            
+70
+
+    
+"Exception: Type B dwelling or sleeping units required by Section 1107 of this code are not
+            
+71
+
+    
+required to be provided in existing buildings and facilities unless being altered or undergoing a
+            
+72
+
+    
+change of occupancy classification."
+            
+73
+
+    
+    (4)  The following referenced standard is added under NFPA in IBC, Chapter 35:
+
+
+
+            
+74
+
+    
+
+
+      "Number
+    
+
+      Title
+    
+
+      Referenced in code section number
+    
+
+
+
+            
+75
+
+    
+
+
+      720-09
+    
+
+      Standard for the Installation of
+Carbon Monoxide (CO) Detection
+and Warning Equipment
+    
+
+      907.9"
+    
+
+
+            
+76
+
+    
+    (5)  The following referenced standard is added under UL in IBC, Chapter 35:
+
+
+
+            
+77
+
+    
+
+
+      "Number
+    
+
+      Title
+    
+
+      Referenced in code section number
+    
+
+
+
+            
+78
+
+    
+
+
+      2034-2008
+    
+
+      Standard of Single- and
+Multiple-station Carbon Monoxide
+Alarms
+    
+
+      907.9"
+    
+
+
+            
+79
+
+    
+    (6)  In IBC, Chapter 35, NFPA referenced standard 10-07 is deleted and replaced with
+            
+80
+
+    
+the following:
+
+
+
+            
+81
+
+    
+
+
+      "Number
+    
+
+      Title
+    
+
+      Referenced in code section number
+    
+
+
+
+            
+82
+
+    
+
+
+      10-10
+    
+
+      Portable Fire Extinguishers
+    
+
+      906.2, 906.3.2, 906.3.4, Table
+906.3(1), Table 906.3(2)"
+    
+
+
+            
+83
+
+    
+    (7)  In IBC, Chapter 35, NFPA referenced standard 11-05 is deleted and replaced with
+
+            
+84
+
+
+    
+the following:
+
+
+
+            
+85
+
+    
+
+
+      "Number
+    
+
+      Title
+    
+
+      Referenced in code section number
+    
+
+
+
+            
+86
+
+    
+
+
+      11-10
+    
+
+      Low Expansion Foam
+    
+
+      904.7"
+    
+
+
+            
+87
+
+    
+    (8)  In IBC, Chapter 35, NFPA referenced standard 12-05 is deleted and replaced with
+            
+88
+
+    
+the following:
+
+
+
+            
+89
+
+    
+
+
+      "Number
+    
+
+      Title
+    
+
+      Referenced in code section number
+    
+
+
+
+            
+90
+
+    
+
+
+      12-08
+    
+
+      Carbon Dioxide Extinguishing
+Systems
+    
+
+      904.8, 904.11"
+    
+
+
+            
+91
+
+    
+    (9)  In IBC, Chapter 35, NFPA referenced standard 12A-04 is deleted and replaced with
+            
+92
+
+    
+the following:
+
+
+
+            
+93
+
+    
+
+
+      "Number
+    
+
+      Title
+    
+
+      Referenced in code section number
+    
+
+
+
+            
+94
+
+    
+
+
+      12A-09
+    
+
+      Halon 1301 Fire Extinguishing
+Systems
+    
+
+      904.9"
+    
+
+
+            
+95
+
+    
+    (10)  In IBC, Chapter 35, NFPA referenced standard 13-07 is deleted and replaced with
+            
+96
+
+    
+the following:
+
+
+
+            
+97
+
+    
+
+
+      "Number
+    
+
+      Title
+    
+
+      Referenced in code section number
+    
+
+
+
+            
+98
+
+    
+
+
+      13-10
+    
+
+      Installation of Sprinkler Systems
+    
+
+      708.2, 903.3.1.1, 903.3.2,
+903.3.5.1.1, 903.3.5.3, 904.11,
+905.3.4, 907.6.3, 1613.3"
+    
+
+
+            
+99
+
+    
+    (11)  In IBC, Chapter 35, NFPA referenced standard 13D-07 is deleted and replaced
+            
+100
+
+    
+with the following:
+
+
+
+            
+101
+
+    
+
+
+      "Number
+    
+
+      Title
+    
+
+      Referenced in code section number
+    
+
+
+
+            
+102
+
+    
+
+
+      13D-10
+    
+
+      Installation of Sprinkler Systems in
+One- and Two-family Dwellings and
+Manufactured Homes
+    
+
+      903.3.1.3, 903.3.5.1.1"
+    
+
+
+            
+103
+
+    
+    (12)  In IBC, Chapter 35, NFPA referenced standard 13R-07 is deleted and replaced
+            
+104
+
+    
+with the following:
+
+
+
+            
+105
+
+    
+
+
+      "Number
+    
+
+      Title
+    
+
+      Referenced in code section number
+    
+
+
+
+            
+106
+
+
+    
+
+
+      13R-10
+    
+
+      Installation of Sprinkler Systems in
+Residential Occupancies Up to and
+Including Four Stories in Height 
+    
+
+      903.3.1.2, 903.3.5.1.1, 903.3.5.1.2,
+903.4"
+    
+
+
+            
+107
+
+    
+    (13)  In IBC, Chapter 35, NFPA referenced standard 14-07 is deleted and replaced with
+            
+108
+
+    
+the following:
+
+
+
+            
+109
+
+    
+
+
+      "Number
+    
+
+      Title
+    
+
+      Referenced in code section number
+    
+
+
+
+            
+110
+
+    
+
+
+      14-10
+    
+
+      Installation of Standpipe and Hose
+System 
+    
+
+      905.2, 905.3.4, 905.6.2, 905.8"
+    
+
+
+            
+111
+
+    
+    (14)  In IBC, Chapter 35, NFPA referenced standard 17-02 is deleted and replaced with
+            
+112
+
+    
+the following:
+
+
+
+            
+113
+
+    
+
+
+      "Number
+    
+
+      Title
+    
+
+      Referenced in code section number
+    
+
+
+
+            
+114
+
+    
+
+
+      17-09
+    
+
+      Dry chemical Extinguishing Systems 
+    
+
+      904.5, 904.11" 
+    
+
+
+            
+115
+
+    
+    (15)  In IBC, Chapter 35, NFPA referenced standard 17A-02 is deleted and replaced
+            
+116
+
+    
+with the following:
+
+
+
+            
+117
+
+    
+
+
+      "Number
+    
+
+      Title
+    
+
+      Referenced in code section number
+    
+
+
+
+            
+118
+
+    
+
+
+      17A-09
+    
+
+      Wet Chemical Extinguishing System 
+    
+
+      904.5, 904.11" 
+    
+
+
+            
+119
+
+    
+    (16)  In IBC, Chapter 35, NFPA referenced standard 20-07 is deleted and replaced with
+            
+120
+
+    
+the following:
+
+
+
+            
+121
+
+    
+
+
+      "Number
+    
+
+      Title
+    
+
+      Referenced in code section number
+    
+
+
+
+            
+122
+
+    
+
+
+      20-10
+    
+
+      Installation of Stationary Pumps for
+Fire Protection 
+    
+
+      913.1, 913.2.1, 913.5" 
+    
+
+
+            
+123
+
+    
+    (17)  In IBC, Chapter 35, NFPA referenced standard 72-07 is deleted and replaced with
+            
+124
+
+    
+the following:
+
+
+
+            
+125
+
+    
+
+
+      "Number
+    
+
+      Title
+    
+
+      Referenced in code section number
+    
+
+
+
+            
+126
+
+
+    
+
+
+      72-10
+    
+
+      National Fire Alarm Code 
+    
+
+      901.6, 903.4.1, 904.3.5, 907.2,
+907.2.5, 907.2.11, 907.2.13.2,
+907.3, 907.3.3, 907.3.4,
+907.5.2.1.2, 907.5.3.3, 907.6,
+907.6.1, 907.6.5, 907.7, 907.7.1,
+907.7.2, 911.1.5, 3006.5, 3007.6" 
+    
+
+
+            
+127
+
+    
+    (18)  In IBC, Chapter 35, NFPA referenced standard 92B-05 is deleted and replaced
+            
+128
+
+    
+with the following:
+
+
+
+            
+129
+
+    
+
+
+      "Number
+    
+
+      Title
+    
+
+      Referenced in code section number
+    
+
+
+
+            
+130
+
+    
+
+
+      92B-09
+    
+
+      Smoke Management Systems in
+Malls, Atria and Large Spaces
+    
+
+      909.8" 
+    
+
+
+            
+131
+
+    
+    (19)  In IBC, Chapter 35, NFPA referenced standard 101-06 is deleted and replaced
+            
+132
+
+    
+with the following:
+
+
+
+            
+133
+
+    
+
+
+      "Number
+    
+
+      Title
+    
+
+      Referenced in code section number
+    
+
+
+
+            
+134
+
+    
+
+
+      101-09
+    
+
+      Line Safety Code 
+    
+
+      1028.6.2" 
+    
+
+
+            
+135
+
+    
+    (20)  In IBC, Chapter 35, NFPA referenced standard 110-05 is deleted and replaced
+            
+136
+
+    
+with the following:
+
+
+
+            
+137
+
+    
+
+
+      "Number
+    
+
+      Title
+    
+
+      Referenced in code section number
+    
+
+
+
+            
+138
+
+    
+
+
+      110-10
+    
+
+      Emergency and Standby Power
+Systems 
+    
+
+      2702.1"
+    
+
+
+
+
+
+
+
+ Legislative Review Note
+    as of   1-26-12  6:08 AM
+
+ Office of Legislative Research and General Counsel
+[Bill Documents][Bills Directory]
+
+
+
+
+
+
+
+
+
+Who represents me?
+
+
+
+
+
+Remember my Legislators
+
+
+
+
+
+State Senate
+		350 North State, Suite 320
+		PO Box 145115
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1035
+		Fax: (801) 326-1475
+
+
+
+House of Representatives
+		350 North State, Suite 350
+		PO Box 145030
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1029
+		Fax: (801) 326-1544
+
+
+
+
+
+
+
+
+
+
+Home
+Mobile Site
+Site Map
+Calendar
+Code / Constitution
+House
+Senate
+
+Terms of Use/Privacy Policy
+
+ADA
+Utah.gov
+
+
+
+
+
+
+

@@ -1,0 +1,564 @@
+Sponsors: []Modifications:     31A-22-635.5.(1)  For purposes of this section, "health insurer" is as defined in Subsection
+
+31A-22-634
+
+(1).(2)  The commissioner shall on or before July 1, 2013, adopt an administrative rule to:(a)  prescribe a form for requesting prior authorization of prescription drug benefits;(b)  require a health insurer to use the form for any prior authorization of prescriptiondrug benefits required by the plan;(c)  require that the department and a health insurer make the form availableelectronically; and(d)  allow a completed form to be submitted electronically by the prescribing providerto the health insurer or the agent of the health insurer that manages or administers prescriptiondrug benefits.(3)  An administrative rule adopted by the commissioner under this section shall:(a)  limit the form, as printed, to not more than two pages;(b)  develop the form with input from interested parties received at one or more publicmeetings; and(c)  take into consideration:(i)  any form for requesting prior authorization of benefits that is widely used in thisstate or any form currently used by the department;(ii)  request forms for prior authorization of benefits established by the federal Centersfor Medicare and Medicaid Services; and(iii)  national standards, or draft standards, pertaining to electronic prior authorizationof benefits.(4)  If a health insurer fails to use or accept the form required by this section, or fails torespond within two business days of receipt to a completed form submitted by a prescribingprovider, the prior authorization is considered granted by the health insurer.Full text:
+
+
+
+Utah State Legislature
+
+
+
+
+
+
+
+
+
+
+
+
+Legislators
+
+By Session (1896-Current)
+Alphabetical (Historical)
+Find by Address/Map
+More
+
+
+Bills
+
+Bills/Bill Requests
+Passed Bills
+2017 Bills
+
+Keyword Search
+Reading Calendars
+Tracking Service
+More
+
+
+Committees
+
+All Committees
+Appropriations
+Commissions
+
+Independent Legislative Ethics Commission
+Interim
+Standing
+Subcommittees
+Task Forces
+Bills In Committees
+
+
+Utah Code / Constitution
+
+
+Title/Chapter/Section
+Keyword Search 
+
+Utah Constitution
+Laws of Utah 1851-ongoing
+Utah Territorial Laws 
+More
+
+
+Senate
+
+Main Page 
+About The Senate 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Extraordinary Sessions 
+Reading Calendars 
+Past Floor Debates 
+Senate Journals 
+
+
+House
+
+Main Page
+About the House 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Reading Calendars 
+Past Floor Debates 
+Journals 
+Conflict of Interest Forms 
+
+
+Legislative Guide 
+
+Legislative Guide
+Civic Programs
+GRAMA (Records Requests)
+
+
+Publications
+
+Search Publications
+Appropriations
+Audits
+Bagels & Briefings
+Briefing Papers
+Digest of Legislation
+Legislative Drafting Manual
+
+Journals
+
+Interim Highlights
+
+Legislative Rules
+GRAMA (Records Requests)
+Public Email
+State Organization Charts
+YouTube Channel
+Requests for Proposals and Legal Notices
+More
+
+
+Legislative Histories
+
+Legislative History Resources
+How to Research
+Bill Drafting/Research Files (1990-Ongoing)
+
+Working Bills (1896-1989)
+Interim Committee Histories (1990-Ongoing) 
+Journals
+Past House Floor Debates
+Past Senate Floor Debates
+More
+
+
+Staff Offices
+
+All Legislative Offices
+Auditor General
+Fiscal Analyst
+Printing
+Research and General Counsel
+Staff Awards
+Job Opportunities
+More
+
+
+Links of Interest
+
+Utah Administrative Rules
+Courts
+Utah State Capitol
+State of Utah
+Federal Legislation
+More
+
+
+
+
+
+
+ 
+
+Download Zipped Introduced WordPerfect HB0323.ZIP
+[Status][Bill Documents][Fiscal Note][Bills Directory]
+
+
+H.B. 323
+
+
+
+
+
+            
+1
+
+    
+ HEALTH INSURANCE PRIOR AUTHORIZATION
+
+
+
+            
+2
+
+    
+2013 GENERAL SESSION
+
+            
+3
+
+    
+STATE OF UTAH
+
+            
+4
+
+    
+
+
+ Chief Sponsor: Bradley G. Last
+
+
+
+            
+5
+
+    
+
+
+
+Senate Sponsor: 
+
+
+
+
+
+
+____________
+
+
+
+
+
+            
+6
+
+    
+
+            
+7
+
+    
+ LONG TITLE
+            
+8
+
+    
+ General Description:
+            
+9
+
+    
+    This bill amends the Insurance Code related to health insurance and prior authorization
+            
+10
+
+    
+forms for prescription drugs.
+            
+11
+
+    
+ Highlighted Provisions:
+            
+12
+
+    
+    This bill:
+            
+13
+
+    
+    .    defines terms;
+            
+14
+
+    
+    .    requires the commissioner of insurance to adopt rules by July 1, 2013, to
+            
+15
+
+    
+standardize the prior authorization forms required by health insurers for prescription
+            
+16
+
+    
+drugs;
+            
+17
+
+    
+    .    requires public input for the administrative rules; and
+            
+18
+
+    
+    .    requires the health insurers to accept the standard form and reply to the standard
+            
+19
+
+    
+form within two days after submission of the form.
+            
+20
+
+    
+ Money Appropriated in this Bill:
+            
+21
+
+    
+    None
+            
+22
+
+    
+ Other Special Clauses:
+            
+23
+
+    
+    None
+            
+24
+
+    
+ Utah Code Sections Affected:
+            
+25
+
+    
+ENACTS:
+            
+26
+
+    
+     31A-22-635.5, Utah Code Annotated 1953
+            
+27
+
+    
+
+
+            
+28
+
+
+    
+Be it enacted by the Legislature of the state of Utah:
+            
+29
+
+    
+    Section 1.  
+Section  
+31A-22-635.5
+
+ is enacted to read:
+            
+30
+
+    
+     31A-22-635.5.  Uniform prescription drug prior authorization form.
+            
+31
+
+    
+    (1)  For purposes of this section, "health insurer" is as defined in Subsection
+            
+32
+
+    
+
+
+31A-22-634
+
+(1).
+            
+33
+
+    
+    (2)  The commissioner shall on or before July 1, 2013, adopt an administrative rule to:
+            
+34
+
+    
+    (a)  prescribe a form for requesting prior authorization of prescription drug benefits;
+            
+35
+
+    
+    (b)  require a health insurer to use the form for any prior authorization of prescription
+            
+36
+
+    
+drug benefits required by the plan;
+            
+37
+
+    
+    (c)  require that the department and a health insurer make the form available
+            
+38
+
+    
+electronically; and
+            
+39
+
+    
+    (d)  allow a completed form to be submitted electronically by the prescribing provider
+            
+40
+
+    
+to the health insurer or the agent of the health insurer that manages or administers prescription
+            
+41
+
+    
+drug benefits.
+            
+42
+
+    
+    (3)  An administrative rule adopted by the commissioner under this section shall:
+            
+43
+
+    
+    (a)  limit the form, as printed, to not more than two pages;
+            
+44
+
+    
+    (b)  develop the form with input from interested parties received at one or more public
+            
+45
+
+    
+meetings; and
+            
+46
+
+    
+    (c)  take into consideration:
+            
+47
+
+    
+    (i)  any form for requesting prior authorization of benefits that is widely used in this
+            
+48
+
+    
+state or any form currently used by the department;
+            
+49
+
+    
+    (ii)  request forms for prior authorization of benefits established by the federal Centers
+            
+50
+
+    
+for Medicare and Medicaid Services; and
+            
+51
+
+    
+    (iii)  national standards, or draft standards, pertaining to electronic prior authorization
+            
+52
+
+    
+of benefits.
+            
+53
+
+    
+    (4)  If a health insurer fails to use or accept the form required by this section, or fails to
+            
+54
+
+    
+respond within two business days of receipt to a completed form submitted by a prescribing
+            
+55
+
+    
+provider, the prior authorization is considered granted by the health insurer.
+
+
+
+
+
+ Legislative Review Note
+    as of   2-8-13  11:39 AM
+
+ Office of Legislative Research and General Counsel
+[Bill Documents][Bills Directory]
+
+
+
+
+
+
+
+
+
+Who represents me?
+
+
+
+
+
+Remember my Legislators
+
+
+
+
+
+State Senate
+		350 North State, Suite 320
+		PO Box 145115
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1035
+		Fax: (801) 326-1475
+
+
+
+House of Representatives
+		350 North State, Suite 350
+		PO Box 145030
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1029
+		Fax: (801) 326-1544
+
+
+
+
+
+
+
+
+
+
+Home
+Mobile Site
+Site Map
+Calendar
+Code / Constitution
+House
+Senate
+
+Terms of Use/Privacy Policy
+
+ADA
+Utah.gov
+
+
+
+
+
+
+

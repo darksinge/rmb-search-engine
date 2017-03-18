@@ -1,0 +1,1029 @@
+Sponsors: []Modifications: Notwithstanding the definitions provided in Section 
+
+52-4-103
+
+ for this chapter,as:(a)  "Anchor location" means a physical location where:(i)  the charter school board would normally meet if the charter school board were notholding an electronic meeting; and(ii)  space, a facility, and technology are provided to the public to monitor and, if publiccomment is allowed, to participate in an electronic meeting during regular business hours.(b)boardthe governing body of(c)  "Meeting" means the convening of a charter school board:(i)  with a quorum who:(A)  monitors a website at least once during the electronic meeting; and(B)  casts a vote on a website, if a vote is taken; and(ii)  for the purpose of discussing, receiving comments from the public about, or actingupon a matter over which the charter school board has jurisdiction or advisory power.(d)  "Monitor" means to:(i)  read all the content added to a website by the public or a charter school boardmember; and(ii)  view a vote cast by a charter school board member on a website.(e)  "Participate" means to add content to a website.(2) (a)  AboardSection 
+
+52-4-207
+
+(b)  A charter school board may convene and conduct an electronic meeting inaccordance with this section that is in writing on a website if:(i)  the chair verifies that a quorum monitors the website;(ii)  the content of the website is available to the public;(iii)  the chair controls the times in which a charter school board member or the publicparticipates; and(iv)  the chair requires a person to identify himself or herself if the person:(A)  participates; or(B)  casts a vote as a charter school board member.(3)(3)and the public may5days(iv)  a start and end time for when a vote will be taken in an electronic meeting, whichshall be no longer than four hours; and(c)  provide an anchor location.(4)  The chair shall:(a)  not allow anyone to participate from the time the notice described in Subsection(3)(b)(iv) is given until the end time for when a vote will be taken; and(b)  allow a charter school board member to change a vote until the end time for when avote will be taken.(5)  During the time in which a vote may be taken, a charter school board member maynot communicate in any way with any person regarding an issue over which the charter schoolboard has jurisdiction.(6)(7) (a)(b) (i)  Notwithstanding Section 
+
+52-4-203
+
+, a recording is not required of an electronicmeeting described in Subsection (2)(b).(ii)  All of the content of the website shall be kept for an electronic meeting conductedunder this section.(c)(8) (a)  A charter school board shall ensure that the website used to conduct anelectronic meeting:(i)  is secure; and(ii)  provides with reasonably certainty the identity of a charter school board memberwho logs on, adds content, or casts a vote on the website.(b)  A person is guilty of a class B misdemeanor if the person falsely identifies himselfor herself as required by Subsection (2)(b)(iv).(9), or 
+
+52-4-209
+
+Full text:
+
+
+
+Utah State Legislature
+
+
+
+
+
+
+
+
+
+
+
+
+Legislators
+
+By Session (1896-Current)
+Alphabetical (Historical)
+Find by Address/Map
+More
+
+
+Bills
+
+Bills/Bill Requests
+Passed Bills
+2017 Bills
+
+Keyword Search
+Reading Calendars
+Tracking Service
+More
+
+
+Committees
+
+All Committees
+Appropriations
+Commissions
+
+Independent Legislative Ethics Commission
+Interim
+Standing
+Subcommittees
+Task Forces
+Bills In Committees
+
+
+Utah Code / Constitution
+
+
+Title/Chapter/Section
+Keyword Search 
+
+Utah Constitution
+Laws of Utah 1851-ongoing
+Utah Territorial Laws 
+More
+
+
+Senate
+
+Main Page 
+About The Senate 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Extraordinary Sessions 
+Reading Calendars 
+Past Floor Debates 
+Senate Journals 
+
+
+House
+
+Main Page
+About the House 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Reading Calendars 
+Past Floor Debates 
+Journals 
+Conflict of Interest Forms 
+
+
+Legislative Guide 
+
+Legislative Guide
+Civic Programs
+GRAMA (Records Requests)
+
+
+Publications
+
+Search Publications
+Appropriations
+Audits
+Bagels & Briefings
+Briefing Papers
+Digest of Legislation
+Legislative Drafting Manual
+
+Journals
+
+Interim Highlights
+
+Legislative Rules
+GRAMA (Records Requests)
+Public Email
+State Organization Charts
+YouTube Channel
+Requests for Proposals and Legal Notices
+More
+
+
+Legislative Histories
+
+Legislative History Resources
+How to Research
+Bill Drafting/Research Files (1990-Ongoing)
+
+Working Bills (1896-1989)
+Interim Committee Histories (1990-Ongoing) 
+Journals
+Past House Floor Debates
+Past Senate Floor Debates
+More
+
+
+Staff Offices
+
+All Legislative Offices
+Auditor General
+Fiscal Analyst
+Printing
+Research and General Counsel
+Staff Awards
+Job Opportunities
+More
+
+
+Links of Interest
+
+Utah Administrative Rules
+Courts
+Utah State Capitol
+State of Utah
+Federal Legislation
+More
+
+
+
+
+
+
+ 
+
+Download Zipped Introduced WordPerfect HB0311.ZIP
+[Status][Bill Documents][Fiscal Note][Bills Directory]
+
+
+H.B. 311
+
+
+
+
+
+            
+1
+
+    
+ ELECTRONIC MEETINGS FOR CHARTER SCHOOL
+
+
+
+            
+2
+
+    
+2012 GENERAL SESSION
+
+            
+3
+
+    
+STATE OF UTAH
+
+            
+4
+
+    
+
+
+ Chief Sponsor:  Bradley M. Daw
+
+
+
+            
+5
+
+    
+
+
+
+Senate Sponsor: 
+
+
+
+
+
+
+  Stephen H. Urquhart
+
+
+
+
+
+            
+6
+
+    
+
+            
+7
+
+    
+ LONG TITLE
+            
+8
+
+    
+ General Description:
+            
+9
+
+    
+    This bill amends provisions in Title 52, Chapter 4, Open and Public Meetings Act,
+            
+10
+
+    
+related to electronic meetings held by charter school boards.
+            
+11
+
+    
+ Highlighted Provisions:
+            
+12
+
+    
+    This bill:
+            
+13
+
+    
+    .    defines terms;
+            
+14
+
+    
+    .    authorizes a charter school board to conduct and convene an electronic meeting in
+            
+15
+
+    
+writing on a website;
+            
+16
+
+    
+    .    requires notice to be given regarding when a vote will be taken;
+            
+17
+
+    
+    .    prohibits a charter school board member from communicating with another person
+            
+18
+
+    
+while a vote is taken during an electronic meeting;
+            
+19
+
+    
+    .    exempts a charter school board from recording requirements;
+            
+20
+
+    
+    .    establishes requirements for a website on which an electronic meeting of a charter
+            
+21
+
+    
+school board takes place;
+            
+22
+
+    
+    .    establishes a criminal penalty; and
+            
+23
+
+    
+    .    makes technical changes.
+            
+24
+
+    
+ Money Appropriated in this Bill:
+            
+25
+
+    
+    None
+            
+26
+
+    
+ Other Special Clauses:
+            
+27
+
+    
+    None
+
+            
+28
+
+
+    
+ Utah Code Sections Affected:
+            
+29
+
+    
+AMENDS:
+            
+30
+
+    
+     52-4-209, as enacted by Laws of Utah 2011, Chapter 31
+            
+31
+
+    
+     52-4-302, as last amended by Laws of Utah 2008, Chapter 234
+            
+32
+
+    
+
+            
+33
+
+    
+Be it enacted by the Legislature of the state of Utah:
+            
+34
+
+    
+    Section 1.  
+Section  
+52-4-209
+
+ is amended to read:
+            
+35
+
+    
+     52-4-209.  Electronic meetings for charter school board.
+            
+36
+
+    
+    (1)  [As] Notwithstanding the definitions provided in Section 
+
+52-4-103
+
+ for this chapter,
+            
+37
+
+    
+as used in this section[,]:
+            
+38
+
+    
+    (a)  "Anchor location" means a physical location where:
+            
+39
+
+    
+    (i)  the charter school board would normally meet if the charter school board were not
+            
+40
+
+    
+holding an electronic meeting; and
+            
+41
+
+    
+    (ii)  space, a facility, and technology are provided to the public to monitor and, if public
+            
+42
+
+    
+comment is allowed, to participate in an electronic meeting during regular business hours.
+            
+43
+
+    
+    (b)  "Charter school board" means the governing body of a school created under Title
+            
+44
+
+    
+53A, Chapter 1a, Part 5, The Utah Charter Schools Act.
+            
+45
+
+    
+    [(2)  The Electronic Meetings for Charter Schools Pilot Program is created to pilot the
+            
+46
+
+    
+development and implementation of electronic meetings for charter schools.]
+            
+47
+
+    
+    [(3)  Beginning May 10, 2011, and ending May 8, 2012, a]
+            
+48
+
+    
+    (c)  "Meeting" means the convening of a charter school board:
+            
+49
+
+    
+    (i)  with a quorum who:
+            
+50
+
+    
+    (A)  monitors a website at least once during the electronic meeting; and
+            
+51
+
+    
+    (B)  casts a vote on a website, if a vote is taken; and
+            
+52
+
+    
+    (ii)  for the purpose of discussing, receiving comments from the public about, or acting
+            
+53
+
+    
+upon a matter over which the charter school board has jurisdiction or advisory power.
+            
+54
+
+    
+    (d)  "Monitor" means to:
+            
+55
+
+    
+    (i)  read all the content added to a website by the public or a charter school board
+            
+56
+
+    
+member; and
+            
+57
+
+    
+    (ii)  view a vote cast by a charter school board member on a website.
+            
+58
+
+    
+    (e)  "Participate" means to add content to a website.
+
+            
+59
+
+
+    
+    (2) (a)  A charter school board may convene and conduct an electronic meeting in
+            
+60
+
+    
+accordance with [this section] Section 
+
+52-4-207
+
+.
+            
+61
+
+    
+    (b)  A charter school board may convene and conduct an electronic meeting in
+            
+62
+
+    
+accordance with this section that is in writing on a website if:
+            
+63
+
+    
+    (i)  the chair verifies that a quorum monitors the website;
+            
+64
+
+    
+    (ii)  the content of the website is available to the public;
+            
+65
+
+    
+    (iii)  the chair controls the times in which a charter school board member or the public
+            
+66
+
+    
+participates; and
+            
+67
+
+    
+    (iv)  the chair requires a person to identify himself or herself if the person:
+            
+68
+
+    
+    (A)  participates; or
+            
+69
+
+    
+    (B)  casts a vote as a charter school board member.
+            
+70
+
+    
+    [(4)] (3)  A charter school that conducts an electronic meeting under this section shall:
+            
+71
+
+    
+    (a)  give public notice of the electronic meeting:
+            
+72
+
+    
+    (i)  in accordance with Section 
+
+52-4-202
+
+; and
+            
+73
+
+    
+    (ii)  by posting written notice at the anchor location as required under Section 
+
+52-4-207
+
+;
+            
+74
+
+    
+    (b)  in addition to giving public notice required by Subsection [(4)] (3)(a), provide:
+            
+75
+
+    
+    (i)  notice of the electronic meeting to the members of the charter school board at least
+            
+76
+
+    
+24 hours before the meeting so that they may participate in and be counted as present for all
+            
+77
+
+    
+purposes, including the determination that a quorum is present;
+            
+78
+
+    
+    (ii)  a description of how the members [will] and the public may be connected to the
+            
+79
+
+    
+electronic meeting; [and]
+            
+80
+
+    
+    (iii)  a start and end time for the meeting, which shall be no longer than [24 hours] 5
+            
+81
+
+    
+days; and
+            
+82
+
+    
+    [(c)  provide space, facilities, and technology in the building where the charter school
+            
+83
+
+    
+board would normally meet if they were not holding an electronic meeting so the public may
+            
+84
+
+    
+attend, monitor, and participate in the meeting during regular business hours.]
+            
+85
+
+    
+    (iv)  a start and end time for when a vote will be taken in an electronic meeting, which
+            
+86
+
+    
+shall be no longer than four hours; and
+            
+87
+
+    
+    (c)  provide an anchor location.
+            
+88
+
+    
+    (4)  The chair shall:
+            
+89
+
+    
+    (a)  not allow anyone to participate from the time the notice described in Subsection
+
+            
+90
+
+
+    
+(3)(b)(iv) is given until the end time for when a vote will be taken; and
+            
+91
+
+    
+    (b)  allow a charter school board member to change a vote until the end time for when a
+            
+92
+
+    
+vote will be taken.
+            
+93
+
+    
+    (5)  During the time in which a vote may be taken, a charter school board member may
+            
+94
+
+    
+not communicate in any way with any person regarding an issue over which the charter school
+            
+95
+
+    
+board has jurisdiction.
+            
+96
+
+    
+    [(5)] (6)  A charter school conducting an electronic meeting under this section may not
+            
+97
+
+    
+close a meeting as otherwise allowed under this part.
+            
+98
+
+    
+    [(6)] (7) (a)  Written minutes [and a recording] shall be kept of an electronic meeting
+            
+99
+
+    
+conducted as required in Section 
+
+52-4-203
+
+.
+            
+100
+
+    
+    (b) (i)  Notwithstanding Section 
+
+52-4-203
+
+, a recording is not required of an electronic
+            
+101
+
+    
+meeting described in Subsection (2)(b).
+            
+102
+
+    
+    (ii)  All of the content of the website shall be kept for an electronic meeting conducted
+            
+103
+
+    
+under this section.
+            
+104
+
+    
+    [(7)] (c) Written minutes are the official record of action taken at an electronic meeting
+            
+105
+
+    
+as required in Section 
+
+52-4-203
+
+.
+            
+106
+
+    
+    (8) (a)  A charter school board shall ensure that the website used to conduct an
+            
+107
+
+    
+electronic meeting:
+            
+108
+
+    
+    (i)  is secure; and
+            
+109
+
+    
+    (ii)  provides with reasonably certainty the identity of a charter school board member
+            
+110
+
+    
+who logs on, adds content, or casts a vote on the website.
+            
+111
+
+    
+    (b)  A person is guilty of a class B misdemeanor if the person falsely identifies himself
+            
+112
+
+    
+or herself as required by Subsection (2)(b)(iv).
+            
+113
+
+    
+    [(8)] (9)  Compliance with the provisions of this section by a charter school constitutes
+            
+114
+
+    
+full and complete compliance by the public body with the corresponding provisions of Sections
+            
+115
+
+    
+
+52-4-201
+
+ and 
+
+52-4-202
+
+.
+            
+116
+
+    
+    [(9)  A charter school that conducts an electronic meeting under this section shall report
+            
+117
+
+    
+to the Public Utilities and Technology Interim Committee by October 1, 2011, as to the
+            
+118
+
+    
+effectiveness of conducting business via electronic meetings under this section.]
+            
+119
+
+    
+    Section 2.  
+Section  
+52-4-302
+
+ is amended to read:
+            
+120
+
+    
+     52-4-302.  Suit to void final action -- Limitation -- Exceptions.
+
+            
+121
+
+
+    
+    (1) (a)  Any final action taken in violation of Section 
+
+52-4-201
+
+, 
+
+52-4-202
+
+, [or]
+            
+122
+
+    
+
+52-4-207
+
+, or 
+
+52-4-209
+
+ is voidable by a court of competent jurisdiction.
+            
+123
+
+    
+    (b)  A court may not void a final action taken by a public body for failure to comply
+            
+124
+
+    
+with the posting written notice requirements under Subsection 
+
+52-4-202
+
+(3)(a)(i)(B) if:
+            
+125
+
+    
+    (i)  the posting is made for a meeting that is held before April 1, 2009; or
+            
+126
+
+    
+    (ii) (A)  the public body otherwise complies with the provisions of Section 
+
+52-4-202
+
+;
+            
+127
+
+    
+and
+            
+128
+
+    
+    (B)  the failure was a result of unforeseen Internet hosting or communication
+            
+129
+
+    
+technology failure.
+            
+130
+
+    
+    (2)  Except as provided under Subsection (3), a suit to void final action shall be
+            
+131
+
+    
+commenced within 90 days after the date of the action.
+            
+132
+
+    
+    (3)  A suit to void final action concerning the issuance of bonds, notes, or other
+            
+133
+
+    
+evidences of indebtedness shall be commenced within 30 days after the date of the action.
+
+
+
+
+ Legislative Review Note
+    as of   1-31-12  8:54 AM
+
+ Office of Legislative Research and General Counsel
+[Bill Documents][Bills Directory]
+
+
+
+
+
+
+
+
+
+Who represents me?
+
+
+
+
+
+Remember my Legislators
+
+
+
+
+
+State Senate
+		350 North State, Suite 320
+		PO Box 145115
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1035
+		Fax: (801) 326-1475
+
+
+
+House of Representatives
+		350 North State, Suite 350
+		PO Box 145030
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1029
+		Fax: (801) 326-1544
+
+
+
+
+
+
+
+
+
+
+Home
+Mobile Site
+Site Map
+Calendar
+Code / Constitution
+House
+Senate
+
+Terms of Use/Privacy Policy
+
+ADA
+Utah.gov
+
+
+
+
+
+
+

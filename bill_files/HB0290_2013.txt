@@ -1,0 +1,2410 @@
+Sponsors: []Modifications: to and maintained within the divisionother than a home address, unless the person provides no otheraddressperiodicchecks, at times provided by rule that the division makes in accordance with Title 63G,Chapter 3, Utah Administrative Rulemaking Act,(vi)  authorize the division to obtain independent credit reports:(A)  through a consumer reporting agency described in Section 603(p) of the Fair CreditReporting Act, 15 U.S.C. Sec. 1681a; and(B)  at times provided by rule that the division makes in accordance with Title 63G,Chapter 3, Utah Administrative Rulemaking Act; andpursuant to rule that the division makes in accordance with Title 63G, Chapter 3,Utah Administrative Rulemaking Actone yearestablished in accordance with(c)  The division may terminate an entity's registration if:(i)  the entity's registration with the Division of Corporations and Commercial Code hasbeen expired for at least three years; and(ii)  the entity's license with the division has been inactive for at least three years.Full text:
+
+
+
+Utah State Legislature
+
+
+
+
+
+
+
+
+
+
+
+
+Legislators
+
+By Session (1896-Current)
+Alphabetical (Historical)
+Find by Address/Map
+More
+
+
+Bills
+
+Bills/Bill Requests
+Passed Bills
+2017 Bills
+
+Keyword Search
+Reading Calendars
+Tracking Service
+More
+
+
+Committees
+
+All Committees
+Appropriations
+Commissions
+
+Independent Legislative Ethics Commission
+Interim
+Standing
+Subcommittees
+Task Forces
+Bills In Committees
+
+
+Utah Code / Constitution
+
+
+Title/Chapter/Section
+Keyword Search 
+
+Utah Constitution
+Laws of Utah 1851-ongoing
+Utah Territorial Laws 
+More
+
+
+Senate
+
+Main Page 
+About The Senate 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Extraordinary Sessions 
+Reading Calendars 
+Past Floor Debates 
+Senate Journals 
+
+
+House
+
+Main Page
+About the House 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Reading Calendars 
+Past Floor Debates 
+Journals 
+Conflict of Interest Forms 
+
+
+Legislative Guide 
+
+Legislative Guide
+Civic Programs
+GRAMA (Records Requests)
+
+
+Publications
+
+Search Publications
+Appropriations
+Audits
+Bagels & Briefings
+Briefing Papers
+Digest of Legislation
+Legislative Drafting Manual
+
+Journals
+
+Interim Highlights
+
+Legislative Rules
+GRAMA (Records Requests)
+Public Email
+State Organization Charts
+YouTube Channel
+Requests for Proposals and Legal Notices
+More
+
+
+Legislative Histories
+
+Legislative History Resources
+How to Research
+Bill Drafting/Research Files (1990-Ongoing)
+
+Working Bills (1896-1989)
+Interim Committee Histories (1990-Ongoing) 
+Journals
+Past House Floor Debates
+Past Senate Floor Debates
+More
+
+
+Staff Offices
+
+All Legislative Offices
+Auditor General
+Fiscal Analyst
+Printing
+Research and General Counsel
+Staff Awards
+Job Opportunities
+More
+
+
+Links of Interest
+
+Utah Administrative Rules
+Courts
+Utah State Capitol
+State of Utah
+Federal Legislation
+More
+
+
+
+
+
+
+ 
+
+Download Zipped Introduced WordPerfect HB0290.ZIP
+[Status][Bill Documents][Fiscal Note][Bills Directory]
+
+
+H.B. 290
+
+
+
+
+
+            
+1
+
+    
+ DIVISION OF REAL ESTATE AMENDMENTS
+
+
+
+            
+2
+
+    
+2013 GENERAL SESSION
+
+            
+3
+
+    
+STATE OF UTAH
+
+            
+4
+
+    
+
+
+ Chief Sponsor:  Gage Froerer
+
+
+
+            
+5
+
+    
+
+
+
+Senate Sponsor: 
+
+
+
+
+
+
+  J. Stuart Adams
+
+
+
+
+
+            
+6
+
+    
+
+            
+7
+
+    
+ LONG TITLE
+            
+8
+
+    
+ General Description:
+            
+9
+
+    
+    This bill modifies provisions relating to real estate.
+            
+10
+
+    
+ Highlighted Provisions:
+            
+11
+
+    
+    This bill:
+            
+12
+
+    
+    .    modifies a provision regarding addresses provided to the Division of Real Estate;
+            
+13
+
+    
+    .    modifies a provision relating to criminal background checks of applicants for a
+            
+14
+
+    
+license to transact the business of residential mortgage loans;
+            
+15
+
+    
+    .    modifies lending manager licensing provisions;
+            
+16
+
+    
+    .    increases the period of reinstatement of an expired registration;
+            
+17
+
+    
+    .    modifies a provision relating to the determination of a license examination fee; and
+            
+18
+
+    
+    .    authorizes the Division of Real Estate to terminate the registration of an entity if the
+            
+19
+
+    
+entity's registration with the Division of Corporations and Commercial Code has
+            
+20
+
+    
+been expired for a specified period and the entity's license has been inactive for a
+            
+21
+
+    
+specified period.
+            
+22
+
+    
+ Money Appropriated in this Bill:
+            
+23
+
+    
+    None
+            
+24
+
+    
+ Other Special Clauses:
+            
+25
+
+    
+    None
+            
+26
+
+    
+ Utah Code Sections Affected:
+            
+27
+
+    
+AMENDS:
+
+            
+28
+
+
+    
+     61-2c-106, as last amended by Laws of Utah 2012, Chapter 166
+            
+29
+
+    
+     61-2c-202, as last amended by Laws of Utah 2011, Chapter 289
+            
+30
+
+    
+     61-2c-206, as last amended by Laws of Utah 2012, Chapter 166
+            
+31
+
+    
+     61-2e-204, as last amended by Laws of Utah 2012, Chapter 166
+            
+32
+
+    
+     61-2f-204, as last amended by Laws of Utah 2011, Chapter 289
+            
+33
+
+    
+     61-2f-206, as last amended by Laws of Utah 2011, Chapter 289
+            
+34
+
+    
+
+            
+35
+
+    
+Be it enacted by the Legislature of the state of Utah:
+            
+36
+
+    
+    Section 1.  
+Section  
+61-2c-106
+
+ is amended to read:
+            
+37
+
+    
+     61-2c-106.  Addresses provided the division.
+            
+38
+
+    
+    (1) (a)  A person shall provide a physical location or street address when the person
+            
+39
+
+    
+provides the nationwide database an address required by the division.
+            
+40
+
+    
+    (b)  The following when provided to and maintained within the division under this
+            
+41
+
+    
+chapter is public information:
+            
+42
+
+    
+    (i)  a business address; or
+            
+43
+
+    
+    (ii)  a mailing address other than a home address, unless the person provides no other
+            
+44
+
+    
+address.
+            
+45
+
+    
+    (2)  A licensee is considered to have received a notification that is mailed to the last
+            
+46
+
+    
+mailing address furnished to the nationwide database by:
+            
+47
+
+    
+    (a)  the individual, if the licensee is an individual; or
+            
+48
+
+    
+    (b)  the lending manager who is designated within the nationwide database to act as the
+            
+49
+
+    
+principal lending manager for the entity, if the licensee is an entity.
+            
+50
+
+    
+    Section 2.  
+Section  
+61-2c-202
+
+ is amended to read:
+            
+51
+
+    
+     61-2c-202.  Licensure procedures.
+            
+52
+
+    
+    (1)  To apply for licensure under this chapter an applicant shall in a manner provided by
+            
+53
+
+    
+the division by rule:
+            
+54
+
+    
+    (a)  if the applicant is an entity, submit a licensure statement that:
+            
+55
+
+    
+    (i)  lists any name under which the entity will transact business in this state;
+            
+56
+
+    
+    (ii)  lists the address of the principal business location of the entity;
+            
+57
+
+    
+    (iii)  identifies the principal lending manager of the entity;
+            
+58
+
+    
+    (iv)  contains the signature of the principal lending manager;
+
+            
+59
+
+
+    
+    (v)  identifies the one or more control persons for the entity;
+            
+60
+
+    
+    (vi)  identifies the jurisdictions in which the entity is registered, licensed, or otherwise
+            
+61
+
+    
+regulated in the business of residential mortgage loans;
+            
+62
+
+    
+    (vii)  discloses any adverse administrative action taken by an administrative agency
+            
+63
+
+    
+against:
+            
+64
+
+    
+    (A)  the entity; or
+            
+65
+
+    
+    (B)  any control person for the entity;
+            
+66
+
+    
+    (viii)  discloses any history of criminal proceedings involving any control person for the
+            
+67
+
+    
+entity; and
+            
+68
+
+    
+    (ix)  includes any information required by the division by rule;
+            
+69
+
+    
+    (b)  if the applicant is an individual:
+            
+70
+
+    
+    (i)  submit a licensure statement that identifies the entity with which the applicant is
+            
+71
+
+    
+sponsored;
+            
+72
+
+    
+    (ii)  authorize [a] periodic criminal background [check] checks through the nationwide
+            
+73
+
+    
+database, at times provided by rule that the division makes in accordance with Title 63G,
+            
+74
+
+    
+Chapter 3, Utah Administrative Rulemaking Act, accessing:
+            
+75
+
+    
+    (A)  the Utah Bureau of Criminal Identification, if the nationwide database is able to
+            
+76
+
+    
+obtain information from the Utah Bureau of Criminal Identification; and
+            
+77
+
+    
+    (B)  the Federal Bureau of Investigation;
+            
+78
+
+    
+    (iii)  submit evidence using a method approved by the division by rule of having
+            
+79
+
+    
+successfully completed approved prelicensing education in accordance with Section
+            
+80
+
+    
+
+61-2c-204.1
+
+;
+            
+81
+
+    
+    (iv)  submit evidence using a method approved by the division by rule of having
+            
+82
+
+    
+successfully passed any required licensing examination in accordance with Section
+            
+83
+
+    
+
+61-2c-204.1
+
+; [and]
+            
+84
+
+    
+    (v)  submit evidence using a method approved by the division by rule of having
+            
+85
+
+    
+successfully registered in the nationwide database, including paying a fee required by the
+            
+86
+
+    
+nationwide database; and
+            
+87
+
+    
+    (vi)  authorize the division to obtain independent credit reports:
+            
+88
+
+    
+    (A)  through a consumer reporting agency described in Section 603(p) of the Fair Credit
+            
+89
+
+    
+Reporting Act, 15 U.S.C. Sec. 1681a; and
+
+            
+90
+
+
+    
+    (B)  at times provided by rule that the division makes in accordance with Title 63G,
+            
+91
+
+    
+Chapter 3, Utah Administrative Rulemaking Act; and
+            
+92
+
+    
+    (c)  pay to the division:
+            
+93
+
+    
+    (i)  an application fee established by the division in accordance with Section 
+
+63J-1-504
+
+;
+            
+94
+
+    
+and
+            
+95
+
+    
+    (ii)  the reasonable expenses incurred by the division in processing the application for
+            
+96
+
+    
+licensure.
+            
+97
+
+    
+    (2) (a)  Upon receiving an application, the division, with the concurrence of the
+            
+98
+
+    
+commission, shall determine whether the applicant:
+            
+99
+
+    
+    (i)  meets the qualifications for licensure; and
+            
+100
+
+    
+    (ii)  complies with this section.
+            
+101
+
+    
+    (b)  If the division, with the concurrence of the commission, determines that an
+            
+102
+
+    
+applicant meets the qualifications for licensure and complies with this section, the division
+            
+103
+
+    
+shall issue the applicant a license.
+            
+104
+
+    
+    (c)  If the division, with the concurrence of the commission, determines that the
+            
+105
+
+    
+division requires more information to make a determination under Subsection (2)(a), the
+            
+106
+
+    
+division may:
+            
+107
+
+    
+    (i)  hold the application pending further information about an applicant's criminal
+            
+108
+
+    
+background or history related to adverse administrative action in any jurisdiction; or
+            
+109
+
+    
+    (ii)  issue a conditional license:
+            
+110
+
+    
+    (A)  pending the completion of a criminal background check; and
+            
+111
+
+    
+    (B)  subject to probation, suspension, or revocation if the criminal background check
+            
+112
+
+    
+reveals that the applicant did not truthfully or accurately disclose on the licensing application a
+            
+113
+
+    
+criminal history or other history related to adverse administrative action.
+            
+114
+
+    
+    (3) (a)  The commission may delegate to the division the authority to:
+            
+115
+
+    
+    (i)  review a class or category of application for an initial or renewed license;
+            
+116
+
+    
+    (ii)  determine whether an applicant meets the
+
+
+qualifications for licensure;
+            
+117
+
+    
+    (iii)  conduct a necessary hearing on an application; and
+            
+118
+
+    
+    (iv)  approve or deny a license application without concurrence by the commission.
+            
+119
+
+    
+    (b)  If the commission delegates to the division the authority to approve or deny an
+            
+120
+
+    
+application without concurrence by the commission and the division denies an application for
+
+            
+121
+
+
+    
+licensure, the applicant who is denied licensure may petition the commission for a de novo
+            
+122
+
+    
+review of the application.
+            
+123
+
+    
+    (c)  An applicant who is denied licensure under Subsection (3)(b) may seek agency
+            
+124
+
+    
+review by the executive director only after the commission reviews the division's denial of the
+            
+125
+
+    
+applicant's application.
+            
+126
+
+    
+    (d)  Subject to Subsection (3)(c) and in accordance with Title 63G, Chapter 4,
+            
+127
+
+    
+Administrative Procedures Act, an applicant who is denied licensure under this chapter may
+            
+128
+
+    
+submit a request for agency review to the executive director within 30 days following the day
+            
+129
+
+    
+on which the commission order denying the licensure is issued.
+            
+130
+
+    
+    Section 3.  
+Section  
+61-2c-206
+
+ is amended to read:
+            
+131
+
+    
+     61-2c-206.  Lending manager licenses.
+            
+132
+
+    
+    (1)  To qualify for licensure as a lending manager under this chapter, an individual
+            
+133
+
+    
+shall:
+            
+134
+
+    
+    (a)  meet the standards in Section 
+
+61-2c-203
+
+;
+            
+135
+
+    
+    (b)  successfully complete the following education:
+            
+136
+
+    
+    (i)  mortgage loan originator prelicensing education as required by federal licensing
+            
+137
+
+    
+regulations; and
+            
+138
+
+    
+    (ii)  40 hours of Utah-specific prelicensing education for a lending manager that is
+            
+139
+
+    
+approved by the division under Section 
+
+61-2c-204.1
+
+;
+            
+140
+
+    
+    (c)  successfully complete the following examinations:
+            
+141
+
+    
+    (i)  the mortgage loan originator licensing examination as approved by the nationwide
+            
+142
+
+    
+database; and
+            
+143
+
+    
+    (ii)  the lending manager licensing examination approved by the commission under
+            
+144
+
+    
+Section 
+
+61-2c-204.1
+
+;
+            
+145
+
+    
+    (d)  submit proof, on a form approved by the division, of three years of full-time active
+            
+146
+
+    
+experience as a mortgage loan originator licensed in any state in the five years preceding the
+            
+147
+
+    
+day on which the application is submitted, or equivalent experience as approved by the
+            
+148
+
+    
+commission pursuant to rule that the division makes in accordance with Title 63G, Chapter 3,
+            
+149
+
+    
+Utah Administrative Rulemaking Act;
+            
+150
+
+    
+    (e)  submit an application in a manner established by the division by rule;
+            
+151
+
+    
+    (f)  establish sponsorship with an entity licensed under this chapter;
+
+            
+152
+
+
+    
+    (g)  [if the individual is not registered in the nationwide database as a mortgage loan
+            
+153
+
+    
+originator at the time of application,] submit to the criminal background check required by
+            
+154
+
+    
+Subsection 
+
+61-2c-202
+
+(1)(b); and
+            
+155
+
+    
+    (h)  pay a fee determined by the division under Section 
+
+63J-1-504
+
+.
+            
+156
+
+    
+    (2)  A lending manager may not:
+            
+157
+
+    
+    (a)  engage in the business of residential mortgage loans on behalf of more than one
+            
+158
+
+    
+entity at the same time;
+            
+159
+
+    
+    (b)  be sponsored by more than one entity at the same time; or
+            
+160
+
+    
+    (c)  act simultaneously as the principal lending manager and branch lending manager
+            
+161
+
+    
+for the individual's sponsoring entity, if the entity operates from more than one office [located
+            
+162
+
+    
+within the state].
+            
+163
+
+    
+    (3)  An individual who is a lending manager may:
+            
+164
+
+    
+    (a)  transact the business of residential mortgage loans as a mortgage loan originator;
+            
+165
+
+    
+and
+            
+166
+
+    
+    (b)  be designated within the nationwide database to act for the individual's sponsoring
+            
+167
+
+    
+entity as the principal lending manager, an associate lending manager, or a branch lending
+            
+168
+
+    
+manager.
+            
+169
+
+    
+    Section 4.  
+Section  
+61-2e-204
+
+ is amended to read:
+            
+170
+
+    
+     61-2e-204.  Renewal of a registration.
+            
+171
+
+    
+    (1) (a)  A registration under this chapter expires two years from the day on which the
+            
+172
+
+    
+registration is filed.
+            
+173
+
+    
+    (b)  Notwithstanding Subsection (1)(a), the time period of a registration may be
+            
+174
+
+    
+extended or shortened by as much as one year to maintain or change a renewal cycle
+            
+175
+
+    
+established by rule by the division.
+            
+176
+
+    
+    (2)  To renew a registration under this chapter, before the day on which the registration
+            
+177
+
+    
+expires, an appraisal management company shall:
+            
+178
+
+    
+    (a)  file with the division a renewal registration application on a form prescribed by the
+            
+179
+
+    
+division;
+            
+180
+
+    
+    (b)  pay to the division a fee determined in accordance with Section 
+
+63J-1-504
+
+; and
+            
+181
+
+    
+    (c)  file with the division a certificate evidencing that the appraisal management
+            
+182
+
+    
+company has secured and will maintain a surety bond with one or more corporate sureties
+
+            
+183
+
+
+    
+authorized to do business in the state in the amount of at least $25,000, as the division provides
+            
+184
+
+    
+by rule.
+            
+185
+
+    
+    (3)  A renewal registration application shall include substantially similar information to
+            
+186
+
+    
+the information required under Section 
+
+61-2e-202
+
+, except that for an individual described in
+            
+187
+
+    
+Subsection 
+
+61-2e-202
+
+(2)(e) or (g), the entity is required to report whether the individual has
+            
+188
+
+    
+had:
+            
+189
+
+    
+    (a) (i)  a conviction of a criminal offense;
+            
+190
+
+    
+    (ii)  the entry of a plea in abeyance to a criminal offense; or
+            
+191
+
+    
+    (iii)  the potential resolution of a criminal case by:
+            
+192
+
+    
+    (A)  a diversion agreement; or
+            
+193
+
+    
+    (B)  another agreement under which a criminal charge is held in suspense for a period
+            
+194
+
+    
+of time;
+            
+195
+
+    
+    (b)  a filing of personal bankruptcy or bankruptcy of a business that transacts the
+            
+196
+
+    
+appraisal management services;
+            
+197
+
+    
+    (c)  the suspension, revocation, surrender, cancellation, or denial of a professional
+            
+198
+
+    
+license or certification, whether the license or registration is issued by this state or another
+            
+199
+
+    
+jurisdiction; or
+            
+200
+
+    
+    (d)  the entry of a cease and desist order or a temporary or permanent injunction:
+            
+201
+
+    
+    (i)  against the individual by a court or government agency; and
+            
+202
+
+    
+    (ii)  on the basis of:
+            
+203
+
+    
+    (A)  conduct or a practice involving the business of appraisal management services; or
+            
+204
+
+    
+    (B)  conduct involving fraud, misrepresentation, or deceit.
+            
+205
+
+    
+    (4)  A registration expires if it is not renewed on or before its expiration date, except
+            
+206
+
+    
+that for a period of [30 days] one year after the expiration date, the registration may be
+            
+207
+
+    
+reinstated upon compliance with this section, including payment of a renewal fee and a late fee
+            
+208
+
+    
+determined by the division and the board.
+            
+209
+
+    
+    (5)  Notwithstanding Subsection (4), the division may extend the term of a license that
+            
+210
+
+    
+would expire under Subsection (4) except for the extension if:
+            
+211
+
+    
+    (a) (i)  the person complies with the requirements of this section to renew the
+            
+212
+
+    
+registration; and
+            
+213
+
+    
+    (ii)  the renewal application remains pending at the time of the extension; or
+
+            
+214
+
+
+    
+    (b)  at the time of the extension, there is pending under this chapter a disciplinary
+            
+215
+
+    
+action.
+            
+216
+
+    
+    Section 5.  
+Section  
+61-2f-204
+
+ is amended to read:
+            
+217
+
+    
+     61-2f-204.   Licensing fees and procedures -- Renewal fees and procedures.
+            
+218
+
+    
+    (1) (a)  Upon filing an application for an examination for a license under this chapter,
+            
+219
+
+    
+the applicant shall pay a nonrefundable fee [as determined by the commission with the
+            
+220
+
+    
+concurrence of the division under] established in accordance with Section 
+
+63J-1-504
+
+ for
+            
+221
+
+    
+admission to the examination.
+            
+222
+
+    
+    (b)  An applicant for a principal broker, associate broker, or sales agent license shall
+            
+223
+
+    
+pay a nonrefundable fee as determined by the commission with the concurrence of the division
+            
+224
+
+    
+under Section 
+
+63J-1-504
+
+ for issuance of an initial license or license renewal.
+            
+225
+
+    
+    (c)  A license issued under this Subsection (1) shall be issued for a period of not less
+            
+226
+
+    
+than two years as determined by the division with the concurrence of the commission.
+            
+227
+
+    
+    (d) (i)  Any of the following applicants shall comply with this Subsection (1)(d):
+            
+228
+
+    
+    (A)  a new sales agent applicant;
+            
+229
+
+    
+    (B)  a principal broker applicant; or
+            
+230
+
+    
+    (C)  an associate broker applicant.
+            
+231
+
+    
+    (ii)  An applicant described in this Subsection (1)(d) shall:
+            
+232
+
+    
+    (A)  submit fingerprint cards in a form acceptable to the division at the time the license
+            
+233
+
+    
+application is filed; and
+            
+234
+
+    
+    (B)  consent to a criminal background check by the Utah Bureau of Criminal
+            
+235
+
+    
+Identification and the Federal Bureau of Investigation regarding the application.
+            
+236
+
+    
+    (iii)  The division shall request the Department of Public Safety to complete a Federal
+            
+237
+
+    
+Bureau of Investigation criminal background check for each applicant described in this
+            
+238
+
+    
+Subsection (1)(d) through the national criminal history system or any successor system.
+            
+239
+
+    
+    (iv)  The applicant shall pay the cost of the criminal background check and the
+            
+240
+
+    
+fingerprinting.
+            
+241
+
+    
+    (v)  Money paid to the division by an applicant for the cost of the criminal background
+            
+242
+
+    
+check is nonlapsing.
+            
+243
+
+    
+    (e) (i)  A license issued under Subsection (1)(d) is conditional, pending completion of
+            
+244
+
+    
+the criminal background check.
+
+            
+245
+
+
+    
+    (ii)  A license is immediately and automatically revoked if the criminal background
+            
+246
+
+    
+check discloses the applicant fails to accurately disclose a criminal history involving:
+            
+247
+
+    
+    (A)  the real estate industry; or
+            
+248
+
+    
+    (B)  a felony conviction on the basis of an allegation of fraud, misrepresentation, or
+            
+249
+
+    
+deceit.
+            
+250
+
+    
+    (iii)  If a criminal background check discloses that an applicant fails to accurately
+            
+251
+
+    
+disclose a criminal history other than one described in Subsection (1)(e)(ii), the division:
+            
+252
+
+    
+    (A)  shall review the application; and
+            
+253
+
+    
+    (B)  in accordance with rules made by the division pursuant to Title 63G, Chapter 3,
+            
+254
+
+    
+Utah Administrative Rulemaking Act, may:
+            
+255
+
+    
+    (I)  place a condition on a license;
+            
+256
+
+    
+    (II)  place a restriction on a license;
+            
+257
+
+    
+    (III)  revoke a license; or
+            
+258
+
+    
+    (IV)  refer the application to the commission for a decision.
+            
+259
+
+    
+    (iv)  A person whose conditional license is automatically revoked under Subsection
+            
+260
+
+    
+(1)(e)(ii) or whose license is conditioned, restricted, or revoked under Subsection (1)(e)(iii)
+            
+261
+
+    
+may have a hearing after the action is taken to challenge the action.  The hearing shall be
+            
+262
+
+    
+conducted in accordance with Title 63G, Chapter 4, Administrative Procedures Act.
+            
+263
+
+    
+    (v)  The director shall designate one of the following to act as the presiding officer in a
+            
+264
+
+    
+hearing described in Subsection (1)(e)(iv):
+            
+265
+
+    
+    (A)  the division; or
+            
+266
+
+    
+    (B)  the division with the concurrence of the commission.
+            
+267
+
+    
+    (vi)  The decision on whether relief from an action under this Subsection (1)(e) will be
+            
+268
+
+    
+granted shall be made by the presiding officer.
+            
+269
+
+    
+    (vii)  Relief from an automatic revocation under Subsection (1)(e)(ii) may be granted
+            
+270
+
+    
+only if:
+            
+271
+
+    
+    (A)  the criminal history upon which the division based the revocation:
+            
+272
+
+    
+    (I)  did not occur; or
+            
+273
+
+    
+    (II)  is the criminal history of another person;
+            
+274
+
+    
+    (B) (I)  the revocation is based on a failure to accurately disclose a criminal history; and
+            
+275
+
+    
+    (II)  the applicant has a reasonable good faith belief at the time of application that there
+
+            
+276
+
+
+    
+was no criminal history to be disclosed; or
+            
+277
+
+    
+    (C)  the division fails to follow the prescribed procedure for the revocation.
+            
+278
+
+    
+    (viii)  If a license is revoked or a revocation under this Subsection (1)(e) is upheld after
+            
+279
+
+    
+a hearing, the individual may not apply for a new license until at least 12 months after the day
+            
+280
+
+    
+on which the license is revoked.
+            
+281
+
+    
+    (2) (a) (i)  A license expires if it is not renewed on or before its expiration date.
+            
+282
+
+    
+    (ii)  As a condition of renewal, an active licensee shall demonstrate competence by
+            
+283
+
+    
+completing 18 hours of continuing education within a two-year renewal period subject to rules
+            
+284
+
+    
+made by the commission, with the concurrence of the division.
+            
+285
+
+    
+    (iii)  In making a rule described in Subsection (2)(c)(ii), the division and commission
+            
+286
+
+    
+shall consider:
+            
+287
+
+    
+    (A)  evaluating continuing education on the basis of competency, rather than course
+            
+288
+
+    
+time;
+            
+289
+
+    
+    (B)  allowing completion of courses in a significant variety of topic areas that the
+            
+290
+
+    
+division and commission determine are valuable in assisting an individual licensed under this
+            
+291
+
+    
+chapter to increase the individual's competency; and
+            
+292
+
+    
+    (C)  allowing completion of courses that will increase a licensee's professional
+            
+293
+
+    
+competency in the area of practice of the licensee.
+            
+294
+
+    
+    (iv)  The division may award credit to a licensee for a continuing education requirement
+            
+295
+
+    
+of this Subsection (2)(a) for a reasonable period of time upon a finding of reasonable cause,
+            
+296
+
+    
+including:
+            
+297
+
+    
+    (A)  military service; or
+            
+298
+
+    
+    (B)  if an individual is elected or appointed to government service, the individual's
+            
+299
+
+    
+government service during which the individual spends a substantial time addressing real estate
+            
+300
+
+    
+issues subject to conditions established by rule made in accordance with Title 63G, Chapter 3,
+            
+301
+
+    
+Utah Administrative Rulemaking Act.
+            
+302
+
+    
+    (b)  For a period of 30 days after the expiration date of a license, the license may be
+            
+303
+
+    
+reinstated upon:
+            
+304
+
+    
+    (i)  payment of a renewal fee and a late fee determined by the commission with the
+            
+305
+
+    
+concurrence of the division under Section 
+
+63J-1-504
+
+; and
+            
+306
+
+    
+    (ii)  providing proof acceptable to the division and the commission of the licensee
+
+            
+307
+
+
+    
+having:
+            
+308
+
+    
+    (A)  completed the hours of education required by Subsection (2)(a); or
+            
+309
+
+    
+    (B)  demonstrated competence as required under Subsection (2)(a).
+            
+310
+
+    
+    (c)  After the 30-day period described in Subsection (2)(b), and until six months after
+            
+311
+
+    
+the expiration date, the license may be reinstated by:
+            
+312
+
+    
+    (i)  paying a renewal fee and a late fee determined by the commission with the
+            
+313
+
+    
+concurrence of the division under Section 
+
+63J-1-504
+
+;
+            
+314
+
+    
+    (ii)  providing to the division proof of satisfactory completion of six hours of continuing
+            
+315
+
+    
+education:
+            
+316
+
+    
+    (A)  in addition to the requirements for a timely renewal; and
+            
+317
+
+    
+    (B)  on a subject determined by the commission by rule made in accordance with Title
+            
+318
+
+    
+63G, Chapter 3, Utah Administrative Rulemaking Act; and
+            
+319
+
+    
+    (iii)  providing proof acceptable to the division and the commission of the licensee
+            
+320
+
+    
+having:
+            
+321
+
+    
+    (A)  completed the hours of education required under Subsection (2)(a); or
+            
+322
+
+    
+    (B)  demonstrated competence as required under Subsection (2)(a).
+            
+323
+
+    
+    (d)  After the six-month period described in Subsection (2)(c), and until one year after
+            
+324
+
+    
+the expiration date, the license may be reinstated by:
+            
+325
+
+    
+    (i)  paying a renewal fee and a late fee determined by the commission with the
+            
+326
+
+    
+concurrence of the division under Section 
+
+63J-1-504
+
+;
+            
+327
+
+    
+    (ii)  providing to the division proof of satisfactory completion of 24 hours of continuing
+            
+328
+
+    
+education:
+            
+329
+
+    
+    (A)  in addition to the requirements for a timely renewal; and
+            
+330
+
+    
+    (B)  on a subject determined by the commission by rule made in accordance with Title
+            
+331
+
+    
+63G, Chapter 3, Utah Administrative Rulemaking Act; and
+            
+332
+
+    
+    (iii)  providing proof acceptable to the division and the commission of the licensee
+            
+333
+
+    
+having:
+            
+334
+
+    
+    (A)  completed the hours of education required by Subsection (2)(a); or
+            
+335
+
+    
+    (B)  demonstrated competence as required under Subsection (2)(a).
+            
+336
+
+    
+    (e)  The division shall relicense a person who does not renew that person's license
+            
+337
+
+    
+within one year as prescribed for an original application.
+
+            
+338
+
+
+    
+    (f)  Notwithstanding Subsection (2)(a), the division may extend the term of a license
+            
+339
+
+    
+that would expire under Subsection (2)(a) except for the extension if:
+            
+340
+
+    
+    (i) (A)  the person complies with the requirements of this section to renew the license;
+            
+341
+
+    
+and
+            
+342
+
+    
+    (B)  the renewal application remains pending at the time of the extension; or
+            
+343
+
+    
+    (ii)  at the time of the extension, there is pending a disciplinary action under this
+            
+344
+
+    
+chapter.
+            
+345
+
+    
+    (3) (a)  As a condition for the activation of an inactive license that was in an inactive
+            
+346
+
+    
+status at the time of the licensee's most recent renewal, the licensee shall supply the division
+            
+347
+
+    
+with proof of:
+            
+348
+
+    
+    (i)  successful completion of the respective sales agent or principal broker licensing
+            
+349
+
+    
+examination within six months before applying to activate the license; or
+            
+350
+
+    
+    (ii)  the successful completion of the hours of continuing education that the licensee
+            
+351
+
+    
+would have been required to complete under Subsection (2)(a) if the license had been on active
+            
+352
+
+    
+status at the time of the licensee's most recent renewal.
+            
+353
+
+    
+    (b)  The commission may, in accordance with Title 63G, Chapter 3, Utah
+            
+354
+
+    
+Administrative Rulemaking Act, establish by rule:
+            
+355
+
+    
+    (i)  the nature or type of continuing education required for reactivation of a license; and
+            
+356
+
+    
+    (ii)  how long before reactivation the continuing education must be completed.
+            
+357
+
+    
+    Section 6.  
+Section  
+61-2f-206
+
+ is amended to read:
+            
+358
+
+    
+     61-2f-206.  Registration of entity or branch office -- Certification of education
+            
+359
+
+    
+ providers and courses -- Specialized licenses.
+            
+360
+
+    
+    (1) (a)  An entity may not engage in an activity described in Section 
+
+61-2f-201
+
+, unless it
+            
+361
+
+    
+is registered with the division.
+            
+362
+
+    
+    (b)  To register with the division under this Subsection (1), an entity shall submit to the
+            
+363
+
+    
+division:
+            
+364
+
+    
+    (i)  an application in a form required by the division;
+            
+365
+
+    
+    (ii)  evidence of an affiliation with a principal broker;
+            
+366
+
+    
+    (iii)  evidence that the entity is registered and in good standing with the Division of
+            
+367
+
+    
+Corporations and Commercial Code; and
+            
+368
+
+    
+    (iv)  a registration fee established by the commission with the concurrence of the
+
+            
+369
+
+
+    
+division under Section 
+
+63J-1-504
+
+.
+            
+370
+
+    
+    (c)  The division may terminate an entity's registration if:
+            
+371
+
+    
+    (i)  the entity's registration with the Division of Corporations and Commercial Code has
+            
+372
+
+    
+been expired for at least three years; and
+            
+373
+
+    
+    (ii)  the entity's license with the division has been inactive for at least three years.
+            
+374
+
+    
+    (2) (a)  A principal broker shall register with the division each of the principal broker's
+            
+375
+
+    
+branch offices.
+            
+376
+
+    
+    (b)  To register a branch office with the division under this Subsection (2), a principal
+            
+377
+
+    
+broker shall submit to the division:
+            
+378
+
+    
+    (i)  an application in a form required by the division; and
+            
+379
+
+    
+    (ii)  a registration fee established by the commission with the concurrence of the
+            
+380
+
+    
+division under Section 
+
+63J-1-504
+
+.
+            
+381
+
+    
+    (3) (a)  In accordance with rules made by the commission, the division shall certify:
+            
+382
+
+    
+    (i)  a real estate school;
+            
+383
+
+    
+    (ii)  a course provider; or
+            
+384
+
+    
+    (iii)  an instructor.
+            
+385
+
+    
+    (b)  In accordance with rules made by the commission, and with the concurrence of the
+            
+386
+
+    
+commission, the division shall certify a continuing education course that is required under this
+            
+387
+
+    
+chapter.
+            
+388
+
+    
+    (4) (a)  Except as provided by rule, a principal broker may not be responsible for more
+            
+389
+
+    
+than one registered entity at the same time.
+            
+390
+
+    
+    (b) (i)  In addition to issuing a principal broker license, associate broker license, or sales
+            
+391
+
+    
+agent license authorizing the performance of an act set forth in Section 
+
+61-2f-201
+
+, the division
+            
+392
+
+    
+may issue a specialized sales license or specialized property management license with the
+            
+393
+
+    
+scope of practice limited to the specialty.
+            
+394
+
+    
+    (ii)  An individual may hold a specialized license in addition to a license as a principal
+            
+395
+
+    
+broker, associate broker, or a sales agent.
+            
+396
+
+    
+    (iii)  The commission may adopt rules pursuant to Title 63G, Chapter 3, Utah
+            
+397
+
+    
+Administrative Rulemaking Act, for the administration of this Subsection (4), including:
+            
+398
+
+    
+    (A)  prelicensing and postlicensing education requirements;
+            
+399
+
+    
+    (B)  examination requirements;
+
+            
+400
+
+
+    
+    (C)  affiliation with real estate brokerages or property management companies; and
+            
+401
+
+    
+    (D)  other licensing procedures.
+
+
+
+
+ Legislative Review Note
+    as of   1-25-13  11:26 AM
+
+ Office of Legislative Research and General Counsel
+[Bill Documents][Bills Directory]
+
+
+
+
+
+
+
+
+
+Who represents me?
+
+
+
+
+
+Remember my Legislators
+
+
+
+
+
+State Senate
+		350 North State, Suite 320
+		PO Box 145115
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1035
+		Fax: (801) 326-1475
+
+
+
+House of Representatives
+		350 North State, Suite 350
+		PO Box 145030
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1029
+		Fax: (801) 326-1544
+
+
+
+
+
+
+
+
+
+
+Home
+Mobile Site
+Site Map
+Calendar
+Code / Constitution
+House
+Senate
+
+Terms of Use/Privacy Policy
+
+ADA
+Utah.gov
+
+
+
+
+
+
+

@@ -1,0 +1,869 @@
+Sponsors: []Modifications:     77-23c-101.As used in this chapter:(1)  "Electronic communication service" means a service that provides to users of theservice the ability to send or receive wire or electronic communications.(2)  "Electronic device" means a device that enables access to or use of an electroniccommunication service, remote computing service, or location information service.(3)  "Government entity" means the state, a county, a municipality, a higher educationinstitution, a local district, a special service district, or any other political subdivision of thestate or an administrative subunit of any political subdivision, including a law enforcemententity or any other investigative entity, agency, department, division, bureau, board, orcommission, or an individual acting or purporting to act for or on behalf of a state or localagency.(4)  "Location information" means information concerning the location of an electronicdevice that, in whole or in part, is generated or derived from or obtained by the operation of anelectronic device.(5)  "Location information service" means the provision of a global positioning serviceor other mapping, location, or directional information service.(6)  "Remote computing service" means the provision of computer storage orprocessing services by means of an electronic communications system.    77-23c-102.(1) (a)  Except as provided in Subsection (2), a government entity may not obtain thelocation information, stored data, or transmitted data of an electronic device without a searchwarrant issued by a court upon probable cause.(b)  A warrant issued under Subsection (1)(a) is not valid for more than 10 days after itsissuance.  A judge or magistrate may grant an extension of the warrant upon a finding ofcontinuing probable cause and a finding that the extension is necessary to achieve the objectiveof the initial warrant.  An extension may not exceed 30 days.(c)  A government entity may not use, copy, or disclose, for any purpose, the locationinformation, stored data, or transmitted data of an electronic device that is not the subject of thewarrant that is collected as part of an effort to obtain the location information, stored data, ortransmitted data of the electronic device that is the subject of the warrant in Subsection (1)(a).(d)  The data described in Subsection (1)(c) shall be destroyed in an unrecoverablemanner by the government entity no later than 24 hours after the data is collected.(2)  A government entity may obtain location information without a warrant for anelectronic device only in accordance with Section 
+
+53-10-104.5
+
+
+ and under the followingcircumstances:(a)  the device is reported stolen by the owner; or(b)  with the informed, affirmative consent of the owner or user of the electronic device.(3)  Any evidence obtained in violation of this section is not admissible in a civil,criminal, or administrative proceeding and may not be used in an affidavit of probable cause inan effort to obtain a search warrant.(4)  An electronic communication service provider, its officers, employees, agents, orother specified persons may not be held liable for providing information, facilities, orassistance in accordance with the terms of the warrant issued under this section.    77-23c-103.(1)  Except as provided in Subsection (2), a government entity that executes a warrantpursuant to Subsection 
+
+77-23c-102
+
+
+(1)(a) shall, within 14 days after the day on which theoperation commences, issue a notification to the owner of the electronic device specified in thewarrant that states:(a)  that a warrant was applied for and granted;(b)  the kind of warrant issued;(c)  the period of time during which the collection of data from the electronic devicewas authorized;(d)  the offense specified in the application for the warrant;(e)  the identity of the government entity that filed the application; and(f)  the identity of the judge who issued the warrant.(2)  A government entity seeking a warrant pursuant to Subsection 
+
+77-23c-102
+
+
+(1)(a)may submit a request, and the court may grant permission, to delay the notification required bySubsection (1) for a period not to exceed 30 days, if the court determines that there is reason tobelieve that the notification may:(a)  endanger the life or physical safety of an individual;(b)  cause a person to flee from prosecution;(c)  lead to the destruction of or tampering with evidence;(d)  intimidate a potential witness; or(e)  otherwise seriously jeopardize an investigation or unduly delay a trial.(3)  When a delay of notification is granted under Subsection (2) and upon applicationby the government entity, the court may grant additional extensions of up to 30 days each.(4)  Upon expiration of the period of delayed notification granted under Subsection (2)or (3), the government entity shall serve upon or deliver by first-class mail to the owner of theelectronic device a copy of the warrant together with notice that:(a)  states with reasonable specificity the nature of the law enforcement inquiry; and(b)  contains:(i)  the information described in Subsections (1)(a) through (f);(ii)  a statement that notification of the search was delayed;(iii)  the name of the court that authorized the delay of notification; and(iv)  a reference to the provision of this chapter that allowed the delay of notification.
+
+
+
+Full text:
+
+
+
+Utah State Legislature
+
+
+
+
+
+
+
+
+
+
+
+
+Legislators
+
+By Session (1896-Current)
+Alphabetical (Historical)
+Find by Address/Map
+More
+
+
+Bills
+
+Bills/Bill Requests
+Passed Bills
+2017 Bills
+
+Keyword Search
+Reading Calendars
+Tracking Service
+More
+
+
+Committees
+
+All Committees
+Appropriations
+Commissions
+
+Independent Legislative Ethics Commission
+Interim
+Standing
+Subcommittees
+Task Forces
+Bills In Committees
+
+
+Utah Code / Constitution
+
+
+Title/Chapter/Section
+Keyword Search 
+
+Utah Constitution
+Laws of Utah 1851-ongoing
+Utah Territorial Laws 
+More
+
+
+Senate
+
+Main Page 
+About The Senate 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Extraordinary Sessions 
+Reading Calendars 
+Past Floor Debates 
+Senate Journals 
+
+
+House
+
+Main Page
+About the House 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Reading Calendars 
+Past Floor Debates 
+Journals 
+Conflict of Interest Forms 
+
+
+Legislative Guide 
+
+Legislative Guide
+Civic Programs
+GRAMA (Records Requests)
+
+
+Publications
+
+Search Publications
+Appropriations
+Audits
+Bagels & Briefings
+Briefing Papers
+Digest of Legislation
+Legislative Drafting Manual
+
+Journals
+
+Interim Highlights
+
+Legislative Rules
+GRAMA (Records Requests)
+Public Email
+State Organization Charts
+YouTube Channel
+Requests for Proposals and Legal Notices
+More
+
+
+Legislative Histories
+
+Legislative History Resources
+How to Research
+Bill Drafting/Research Files (1990-Ongoing)
+
+Working Bills (1896-1989)
+Interim Committee Histories (1990-Ongoing) 
+Journals
+Past House Floor Debates
+Past Senate Floor Debates
+More
+
+
+Staff Offices
+
+All Legislative Offices
+Auditor General
+Fiscal Analyst
+Printing
+Research and General Counsel
+Staff Awards
+Job Opportunities
+More
+
+
+Links of Interest
+
+Utah Administrative Rules
+Courts
+Utah State Capitol
+State of Utah
+Federal Legislation
+More
+
+
+
+
+
+
+ 
+
+H.B. 128
+
+
+
+
+
+            
+1
+
+    
+ ELECTRONIC DEVICE LOCATION AMENDMENTS
+
+
+
+            
+2
+
+    
+2014 GENERAL SESSION
+
+            
+3
+
+    
+STATE OF UTAH
+
+            
+4
+
+    
+
+
+ Chief Sponsor:  Ryan D. Wilcox
+
+
+
+            
+5
+
+    
+
+
+
+Senate Sponsor:  
+
+
+
+
+
+
+____________
+
+
+
+
+
+            
+6
+
+    
+
+            
+7
+
+    
+ LONG TITLE
+            
+8
+
+    
+ General Description:
+            
+9
+
+    
+    This bill requires that a governmental entity obtain a search warrant before obtaining
+            
+10
+
+    
+the location information of an electronic device.
+            
+11
+
+    
+ Highlighted Provisions:
+            
+12
+
+    
+    This bill:
+            
+13
+
+    
+    .    defines terms;
+            
+14
+
+    
+    .    requires a search warrant before requesting disclosure of the location of an
+            
+15
+
+    
+electronic device;
+            
+16
+
+    
+    .    provides exceptions for emergencies; and
+            
+17
+
+    
+    .    makes technical corrections.
+            
+18
+
+    
+ Money Appropriated in this Bill:
+            
+19
+
+    
+    None
+            
+20
+
+    
+ Other Special Clauses:
+            
+21
+
+    
+    None
+            
+22
+
+    
+ Utah Code Sections Affected:
+            
+23
+
+    
+ENACTS:
+            
+24
+
+    
+     
+77-23c-101
+, Utah Code Annotated 1953
+            
+25
+
+    
+     
+77-23c-102
+, Utah Code Annotated 1953
+            
+26
+
+    
+     
+77-23c-103
+, Utah Code Annotated 1953
+            
+27
+
+    
+
+
+            
+28
+
+
+    
+Be it enacted by the Legislature of the state of Utah:
+            
+29
+
+    
+    Section 1.  
+Section  
+77-23c-101
+
+ is enacted to read:
+            
+30
+
+    
+ CHAPTER 23c.  LOCATION PRIVACY FOR ELECTRONIC DEVICES
+
+            
+31
+
+    
+     77-23c-101.  Definitions.
+            
+32
+
+    
+    As used in this chapter:
+            
+33
+
+    
+    (1)  "Electronic communication service" means a service that provides to users of the
+            
+34
+
+    
+service the ability to send or receive wire or electronic communications.
+            
+35
+
+    
+    (2)  "Electronic device" means a device that enables access to or use of an electronic
+            
+36
+
+    
+communication service, remote computing service, or location information service.
+            
+37
+
+    
+    (3)  "Government entity" means the state, a county, a municipality, a higher education
+            
+38
+
+    
+institution, a local district, a special service district, or any other political subdivision of the
+            
+39
+
+    
+state or an administrative subunit of any political subdivision, including a law enforcement
+            
+40
+
+    
+entity or any other investigative entity, agency, department, division, bureau, board, or
+            
+41
+
+    
+commission, or an individual acting or purporting to act for or on behalf of a state or local
+            
+42
+
+    
+agency.
+            
+43
+
+    
+    (4)  "Location information" means information concerning the location of an electronic
+            
+44
+
+    
+device that, in whole or in part, is generated or derived from or obtained by the operation of an
+            
+45
+
+    
+electronic device.
+            
+46
+
+    
+    (5)  "Location information service" means the provision of a global positioning service
+            
+47
+
+    
+or other mapping, location, or directional information service.
+            
+48
+
+    
+    (6)  "Remote computing service" means the provision of computer storage or
+            
+49
+
+    
+processing services by means of an electronic communications system.
+            
+50
+
+    
+    Section 2.  
+Section  
+77-23c-102
+
+ is enacted to read:
+            
+51
+
+    
+     77-23c-102.  Location information privacy -- Warrant required for disclosure.
+            
+52
+
+    
+    (1) (a)  Except as provided in Subsection (2), a government entity may not obtain the
+            
+53
+
+    
+location information, stored data, or transmitted data of an electronic device without a search
+            
+54
+
+    
+warrant issued by a court upon probable cause.
+            
+55
+
+    
+    (b)  A warrant issued under Subsection (1)(a) is not valid for more than 10 days after its
+            
+56
+
+    
+issuance.  A judge or magistrate may grant an extension of the warrant upon a finding of
+            
+57
+
+    
+continuing probable cause and a finding that the extension is necessary to achieve the objective
+            
+58
+
+    
+of the initial warrant.  An extension may not exceed 30 days.
+
+            
+59
+
+
+    
+    (c)  A government entity may not use, copy, or disclose, for any purpose, the location
+            
+60
+
+    
+information, stored data, or transmitted data of an electronic device that is not the subject of the
+            
+61
+
+    
+warrant that is collected as part of an effort to obtain the location information, stored data, or
+            
+62
+
+    
+transmitted data of the electronic device that is the subject of the warrant in Subsection (1)(a).
+            
+63
+
+    
+    (d)  The data described in Subsection (1)(c) shall be destroyed in an unrecoverable
+            
+64
+
+    
+manner by the government entity no later than 24 hours after the data is collected.
+            
+65
+
+    
+    (2)  A government entity may obtain location information without a warrant for an
+            
+66
+
+    
+electronic device only in accordance with Section 
+
+53-10-104.5
+
+
+ and under the following
+            
+67
+
+    
+circumstances:
+            
+68
+
+    
+    (a)  the device is reported stolen by the owner; or
+            
+69
+
+    
+    (b)  with the informed, affirmative consent of the owner or user of the electronic device.
+            
+70
+
+    
+    (3)  Any evidence obtained in violation of this section is not admissible in a civil,
+            
+71
+
+    
+criminal, or administrative proceeding and may not be used in an affidavit of probable cause in
+            
+72
+
+    
+an effort to obtain a search warrant.
+            
+73
+
+    
+    (4)  An electronic communication service provider, its officers, employees, agents, or
+            
+74
+
+    
+other specified persons may not be held liable for providing information, facilities, or
+            
+75
+
+    
+assistance in accordance with the terms of the warrant issued under this section.
+            
+76
+
+    
+    Section 3.  
+Section  
+77-23c-103
+
+ is enacted to read:
+            
+77
+
+    
+     77-23c-103.  Notification required -- Delayed notification.
+            
+78
+
+    
+    (1)  Except as provided in Subsection (2), a government entity that executes a warrant
+            
+79
+
+    
+pursuant to Subsection 
+
+77-23c-102
+
+
+(1)(a) shall, within 14 days after the day on which the
+            
+80
+
+    
+operation commences, issue a notification to the owner of the electronic device specified in the
+            
+81
+
+    
+warrant that states:
+            
+82
+
+    
+    (a)  that a warrant was applied for and granted;
+            
+83
+
+    
+    (b)  the kind of warrant issued;
+            
+84
+
+    
+    (c)  the period of time during which the collection of data from the electronic device
+            
+85
+
+    
+was authorized;
+            
+86
+
+    
+    (d)  the offense specified in the application for the warrant;
+            
+87
+
+    
+    (e)  the identity of the government entity that filed the application; and
+            
+88
+
+    
+    (f)  the identity of the judge who issued the warrant.
+            
+89
+
+    
+    (2)  A government entity seeking a warrant pursuant to Subsection 
+
+77-23c-102
+
+
+(1)(a)
+
+            
+90
+
+
+    
+may submit a request, and the court may grant permission, to delay the notification required by
+            
+91
+
+    
+Subsection (1) for a period not to exceed 30 days, if the court determines that there is reason to
+            
+92
+
+    
+believe that the notification may:
+            
+93
+
+    
+    (a)  endanger the life or physical safety of an individual;
+            
+94
+
+    
+    (b)  cause a person to flee from prosecution;
+            
+95
+
+    
+    (c)  lead to the destruction of or tampering with evidence;
+            
+96
+
+    
+    (d)  intimidate a potential witness; or
+            
+97
+
+    
+    (e)  otherwise seriously jeopardize an investigation or unduly delay a trial.
+            
+98
+
+    
+    (3)  When a delay of notification is granted under Subsection (2) and upon application
+            
+99
+
+    
+by the government entity, the court may grant additional extensions of up to 30 days each.
+            
+100
+
+    
+    (4)  Upon expiration of the period of delayed notification granted under Subsection (2)
+            
+101
+
+    
+or (3), the government entity shall serve upon or deliver by first-class mail to the owner of the
+            
+102
+
+    
+electronic device a copy of the warrant together with notice that:
+            
+103
+
+    
+    (a)  states with reasonable specificity the nature of the law enforcement inquiry; and
+            
+104
+
+    
+    (b)  contains:
+            
+105
+
+    
+    (i)  the information described in Subsections (1)(a) through (f);
+            
+106
+
+    
+    (ii)  a statement that notification of the search was delayed;
+            
+107
+
+    
+    (iii)  the name of the court that authorized the delay of notification; and
+            
+108
+
+    
+    (iv)  a reference to the provision of this chapter that allowed the delay of notification.
+
+
+
+
+ Legislative Review Note
+    as of   2-10-14  6:14 AM
+
+ Office of Legislative Research and General Counsel
+[Bill Documents][Bills Directory]
+
+
+
+
+
+
+
+
+
+Who represents me?
+
+
+
+
+
+Remember my Legislators
+
+
+
+
+
+State Senate
+		350 North State, Suite 320
+		PO Box 145115
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1035
+		Fax: (801) 326-1475
+
+
+
+House of Representatives
+		350 North State, Suite 350
+		PO Box 145030
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1029
+		Fax: (801) 326-1544
+
+
+
+
+
+
+
+
+
+
+Home
+Mobile Site
+Site Map
+Calendar
+Code / Constitution
+House
+Senate
+
+Terms of Use/Privacy Policy
+
+ADA
+Utah.gov
+
+
+
+
+
+
+

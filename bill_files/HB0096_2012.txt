@@ -1,0 +1,886 @@
+Sponsors: []Modifications:     76-6-1301.This part is known as the "Utah Automated Sales Suppression Device Act."    76-6-1302.As used in this part:(1)  "Amnesty" means a person is not subject to the criminal and civil penalties detailedin Section 
+
+76-6-1303
+
+.(2)  "Automated sales suppression device" means:(a)  a software program that falsifies the electronic records of electronic cash registersor any other point-of-sale systems, including transaction data and transaction reports; or(b)  a general reference to a device that allows for, creates, or supports an automatedsales suppression system or any kind of phantomware.(3)  "Commission" means the Utah Tax Commission.(4)  "Electronic cash register" means any device, wherever located, that maintains atransaction register or supporting documents by means of an electronic device or computersystem designed to record transaction data for the purpose of computing, compiling, orprocessing retail, wholesale, or any other sales transaction data.(5)  "Person" means an individual, business, or entity.(6)  "Phantomware" means a programming option that:(a)  is pre-installed, installed at a later time, or otherwise embedded in the operatingsystem of an electronic cash register or hardwired into the electronic cash register; and(b)  can be used to create a virtual alternate register or to eliminate or manipulatetransaction records that may or may not be preserved in digital formats in order to represent amanipulated record or records of transactions in the electronic cash register.(7)  "Transaction data" includes items purchased by a customer, the price for each item,a taxability determination for each item, a segregated tax amount for each of the taxed items,the amount of cash or credit tendered, the net amount returned to the customer in change or in arefund, the date and time of the purchase, the name, address, and identification number of thevendor, and the receipt or invoice number of the transaction.(8)  "Transaction report" means a report that includes the sales, taxes collected, mediatotals, and discount voids at an electronic cash register and that is generated at the end of a dayor shift.  The report is printed on cash register tape or is stored electronically.    76-6-1303.(1)  It is a third degree felony to willfully or knowingly sell, purchase, install, transfer,use, or possess in this state any automated sales suppression device or phantomware, exceptthat any second or subsequent violation of this Subsection (1) is a second degree felony.(2)  Notwithstanding Section 
+
+76-3-301
+
+, any person convicted of violating Subsection(1) shall pay a fine of at least $10,000 but not more than $100,000.(3)  Any person convicted of a violation of Subsection (1):(a)  is liable for all applicable taxes, penalties under Section 
+
+59-1-401
+
+, and interestunder Section 
+
+59-1-402
+
+ that would otherwise be due, but for the use of the automated salessuppression device or phantomware to evade the payment of taxes; and(b)  shall disgorge all profits associated with the sale or use of an automated salessuppression device or phantomware.(4)  An automated sales suppression device and any device containing an automatedsales suppression device is contraband and subject to forfeiture under Title 24, Chapter 1, UtahUniform Forfeiture Procedures Act.    76-6-1304.(1)  Notwithstanding Section 
+
+76-6-1303
+
+, before any criminal action is initiated underthis part the commission may grant amnesty to any person who voluntarily corrects andaccurately reports any previously underreported sales records prior to January 1, 2014,provided that the correction and resulting payment are not the subject of an audit orinvestigation.(2)  This section may not be construed to restrict or affect a person's liability for taxesand interest due or for any other liabilities arising from the underreporting of sales.(3)  Any amnesty the commission grants to a person under this section remains in effectif that person remits to the commission the taxes, fees, and charges that are due and is notfound to be in violation of Section 
+
+76-6-1303
+
+ for any new or previously unreported offenses fora period of five years subsequent to the date payments are made under the granting of amnesty.(4)  The commission may not grant a person amnesty under this section if, with respectto a tax, fee, or charge for which the person would otherwise be granted amnesty underSubsection (1), the person has committed an intentional misrepresentation of a material fact,separate from the use of any automated suppression device or phantomware as defined in thispart.Full text:
+
+
+
+Utah State Legislature
+
+
+
+
+
+
+
+
+
+
+
+
+Legislators
+
+By Session (1896-Current)
+Alphabetical (Historical)
+Find by Address/Map
+More
+
+
+Bills
+
+Bills/Bill Requests
+Passed Bills
+2017 Bills
+
+Keyword Search
+Reading Calendars
+Tracking Service
+More
+
+
+Committees
+
+All Committees
+Appropriations
+Commissions
+
+Independent Legislative Ethics Commission
+Interim
+Standing
+Subcommittees
+Task Forces
+Bills In Committees
+
+
+Utah Code / Constitution
+
+
+Title/Chapter/Section
+Keyword Search 
+
+Utah Constitution
+Laws of Utah 1851-ongoing
+Utah Territorial Laws 
+More
+
+
+Senate
+
+Main Page 
+About The Senate 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Extraordinary Sessions 
+Reading Calendars 
+Past Floor Debates 
+Senate Journals 
+
+
+House
+
+Main Page
+About the House 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Reading Calendars 
+Past Floor Debates 
+Journals 
+Conflict of Interest Forms 
+
+
+Legislative Guide 
+
+Legislative Guide
+Civic Programs
+GRAMA (Records Requests)
+
+
+Publications
+
+Search Publications
+Appropriations
+Audits
+Bagels & Briefings
+Briefing Papers
+Digest of Legislation
+Legislative Drafting Manual
+
+Journals
+
+Interim Highlights
+
+Legislative Rules
+GRAMA (Records Requests)
+Public Email
+State Organization Charts
+YouTube Channel
+Requests for Proposals and Legal Notices
+More
+
+
+Legislative Histories
+
+Legislative History Resources
+How to Research
+Bill Drafting/Research Files (1990-Ongoing)
+
+Working Bills (1896-1989)
+Interim Committee Histories (1990-Ongoing) 
+Journals
+Past House Floor Debates
+Past Senate Floor Debates
+More
+
+
+Staff Offices
+
+All Legislative Offices
+Auditor General
+Fiscal Analyst
+Printing
+Research and General Counsel
+Staff Awards
+Job Opportunities
+More
+
+
+Links of Interest
+
+Utah Administrative Rules
+Courts
+Utah State Capitol
+State of Utah
+Federal Legislation
+More
+
+
+
+
+
+
+ 
+
+Download Zipped Introduced WordPerfect HB0096.ZIP
+[Status][Bill Documents][Fiscal Note][Bills Directory]
+
+
+H.B. 96
+
+
+
+
+
+            
+1
+
+    
+ PROHIBITION OF SALE OR USE OF CERTAIN
+
+            
+2
+
+    
+ SOFTWARE PROGRAMS
+
+
+
+            
+3
+
+    
+2012 GENERAL SESSION
+
+            
+4
+
+    
+STATE OF UTAH
+
+            
+5
+
+    
+
+
+ Chief Sponsor: Patrice M. Arent
+
+
+
+            
+6
+
+    
+
+
+
+Senate Sponsor: 
+
+
+
+
+
+
+____________
+
+
+
+
+
+            
+7
+
+    
+Cosponsor:Wayne A. Harper
+            
+8
+
+    
+
+            
+9
+
+    
+ LONG TITLE
+            
+10
+
+    
+ General Description:
+            
+11
+
+    
+    This bill modifies the Criminal Code by prohibiting the use, purchase, installation,
+            
+12
+
+    
+transfer, or sale of any automated sales suppression device or phantomware.
+            
+13
+
+    
+ Highlighted Provisions:
+            
+14
+
+    
+    This bill:
+            
+15
+
+    
+    .    provides definitions, including defining automated sales suppression device and
+            
+16
+
+    
+phantomware;
+            
+17
+
+    
+    .    prohibits a person from knowingly selling, purchasing, installing, transferring,
+            
+18
+
+    
+using, or possessing any automated sales suppression device or phantomware;
+            
+19
+
+    
+    .    provides that the penalty for a first offense is a third degree felony and any
+            
+20
+
+    
+subsequent offense is a second degree felony;
+            
+21
+
+    
+    .    provides an additional penalty of a fine between $10,000 and $100,000 for any
+            
+22
+
+    
+person convicted of violating these provisions; and
+            
+23
+
+    
+    .    provides a period of amnesty until January 1, 2014, for any person to voluntarily
+            
+24
+
+    
+correct and fully report any previously underreported sales records, provided that
+            
+25
+
+    
+the person fully remits any taxes, fees, and charges that are due and the person is not
+            
+26
+
+    
+found to be in violation of this section for any new or previously unreported
+
+            
+27
+
+
+    
+offenses for a period of five years subsequent to the granting of amnesty.
+            
+28
+
+    
+ Money Appropriated in this Bill:
+            
+29
+
+    
+    None
+            
+30
+
+    
+ Other Special Clauses:
+            
+31
+
+    
+    None
+            
+32
+
+    
+ Utah Code Sections Affected:
+            
+33
+
+    
+ENACTS:
+            
+34
+
+    
+     76-6-1301, Utah Code Annotated 1953
+            
+35
+
+    
+     76-6-1302, Utah Code Annotated 1953
+            
+36
+
+    
+     76-6-1303, Utah Code Annotated 1953
+            
+37
+
+    
+     76-6-1304, Utah Code Annotated 1953
+            
+38
+
+    
+
+            
+39
+
+    
+Be it enacted by the Legislature of the state of Utah:
+            
+40
+
+    
+    Section 1.  
+Section  
+76-6-1301
+
+ is enacted to read:
+            
+41
+
+    
+ Part 13.  Utah Automated Sales Suppression Device Act
+
+            
+42
+
+    
+     76-6-1301.  Title.
+            
+43
+
+    
+    This part is known as the "Utah Automated Sales Suppression Device Act."
+            
+44
+
+    
+    Section 2.  
+Section  
+76-6-1302
+
+ is enacted to read:
+            
+45
+
+    
+     76-6-1302.  Definitions.
+            
+46
+
+    
+    As used in this part:
+            
+47
+
+    
+    (1)  "Amnesty" means a person is not subject to the criminal and civil penalties detailed
+            
+48
+
+    
+in Section 
+
+76-6-1303
+
+.
+            
+49
+
+    
+    (2)  "Automated sales suppression device" means:
+            
+50
+
+    
+    (a)  a software program that falsifies the electronic records of electronic cash registers
+            
+51
+
+    
+or any other point-of-sale systems, including transaction data and transaction reports; or
+            
+52
+
+    
+    (b)  a general reference to a device that allows for, creates, or supports an automated
+            
+53
+
+    
+sales suppression system or any kind of phantomware.
+            
+54
+
+    
+    (3)  "Commission" means the Utah Tax Commission.
+            
+55
+
+    
+    (4)  "Electronic cash register" means any device, wherever located, that maintains a
+            
+56
+
+    
+transaction register or supporting documents by means of an electronic device or computer
+            
+57
+
+    
+system designed to record transaction data for the purpose of computing, compiling, or
+
+            
+58
+
+
+    
+processing retail, wholesale, or any other sales transaction data.
+            
+59
+
+    
+    (5)  "Person" means an individual, business, or entity.
+            
+60
+
+    
+    (6)  "Phantomware" means a programming option that:
+            
+61
+
+    
+    (a)  is pre-installed, installed at a later time, or otherwise embedded in the operating
+            
+62
+
+    
+system of an electronic cash register or hardwired into the electronic cash register; and
+            
+63
+
+    
+    (b)  can be used to create a virtual alternate register or to eliminate or manipulate
+            
+64
+
+    
+transaction records that may or may not be preserved in digital formats in order to represent a
+            
+65
+
+    
+manipulated record or records of transactions in the electronic cash register.
+            
+66
+
+    
+    (7)  "Transaction data" includes items purchased by a customer, the price for each item,
+            
+67
+
+    
+a taxability determination for each item, a segregated tax amount for each of the taxed items,
+            
+68
+
+    
+the amount of cash or credit tendered, the net amount returned to the customer in change or in a
+            
+69
+
+    
+refund, the date and time of the purchase, the name, address, and identification number of the
+            
+70
+
+    
+vendor, and the receipt or invoice number of the transaction.
+            
+71
+
+    
+    (8)  "Transaction report" means a report that includes the sales, taxes collected, media
+            
+72
+
+    
+totals, and discount voids at an electronic cash register and that is generated at the end of a day
+            
+73
+
+    
+or shift.  The report is printed on cash register tape or is stored electronically.
+            
+74
+
+    
+    Section 3.  
+Section  
+76-6-1303
+
+ is enacted to read:
+            
+75
+
+    
+     76-6-1303.  Possession, sale, or use of automated sales suppression device unlawful
+            
+76
+
+    
+ -- Penalties.
+            
+77
+
+    
+    (1)  It is a third degree felony to willfully or knowingly sell, purchase, install, transfer,
+            
+78
+
+    
+use, or possess in this state any automated sales suppression device or phantomware, except
+            
+79
+
+    
+that any second or subsequent violation of this Subsection (1) is a second degree felony.
+            
+80
+
+    
+    (2)  Notwithstanding Section 
+
+76-3-301
+
+, any person convicted of violating Subsection
+            
+81
+
+    
+(1) shall pay a fine of at least $10,000 but not more than $100,000.
+            
+82
+
+    
+    (3)  Any person convicted of a violation of Subsection (1):
+            
+83
+
+    
+    (a)  is liable for all applicable taxes, penalties under Section 
+
+59-1-401
+
+, and interest
+            
+84
+
+    
+under Section 
+
+59-1-402
+
+ that would otherwise be due, but for the use of the automated sales
+            
+85
+
+    
+suppression device or phantomware to evade the payment of taxes; and
+            
+86
+
+    
+    (b)  shall disgorge all profits associated with the sale or use of an automated sales
+            
+87
+
+    
+suppression device or phantomware.
+            
+88
+
+    
+    (4)  An automated sales suppression device and any device containing an automated
+
+            
+89
+
+
+    
+sales suppression device is contraband and subject to forfeiture under Title 24, Chapter 1, Utah
+            
+90
+
+    
+Uniform Forfeiture Procedures Act.
+            
+91
+
+    
+    Section 4.  
+Section  
+76-6-1304
+
+ is enacted to read:
+            
+92
+
+    
+     76-6-1304.  Amnesty.
+            
+93
+
+    
+    (1)  Notwithstanding Section 
+
+76-6-1303
+
+, before any criminal action is initiated under
+            
+94
+
+    
+this part the commission may grant amnesty to any person who voluntarily corrects and
+            
+95
+
+    
+accurately reports any previously underreported sales records prior to January 1, 2014,
+            
+96
+
+    
+provided that the correction and resulting payment are not the subject of an audit or
+            
+97
+
+    
+investigation.
+            
+98
+
+    
+    (2)  This section may not be construed to restrict or affect a person's liability for taxes
+            
+99
+
+    
+and interest due or for any other liabilities arising from the underreporting of sales.
+            
+100
+
+    
+    (3)  Any amnesty the commission grants to a person under this section remains in effect
+            
+101
+
+    
+if that person remits to the commission the taxes, fees, and charges that are due and is not
+            
+102
+
+    
+found to be in violation of Section 
+
+76-6-1303
+
+ for any new or previously unreported offenses for
+            
+103
+
+    
+a period of five years subsequent to the date payments are made under the granting of amnesty.
+            
+104
+
+    
+    (4)  The commission may not grant a person amnesty under this section if, with respect
+            
+105
+
+    
+to a tax, fee, or charge for which the person would otherwise be granted amnesty under
+            
+106
+
+    
+Subsection (1), the person has committed an intentional misrepresentation of a material fact,
+            
+107
+
+    
+separate from the use of any automated suppression device or phantomware as defined in this
+            
+108
+
+    
+part.
+
+
+
+
+ Legislative Review Note
+    as of   1-23-12  12:02 PM
+
+ Office of Legislative Research and General Counsel
+[Bill Documents][Bills Directory]
+
+
+
+
+
+
+
+
+
+Who represents me?
+
+
+
+
+
+Remember my Legislators
+
+
+
+
+
+State Senate
+		350 North State, Suite 320
+		PO Box 145115
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1035
+		Fax: (801) 326-1475
+
+
+
+House of Representatives
+		350 North State, Suite 350
+		PO Box 145030
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1029
+		Fax: (801) 326-1544
+
+
+
+
+
+
+
+
+
+
+Home
+Mobile Site
+Site Map
+Calendar
+Code / Constitution
+House
+Senate
+
+Terms of Use/Privacy Policy
+
+ADA
+Utah.gov
+
+
+
+
+
+
+

@@ -1,0 +1,1856 @@
+Sponsors: []Modifications: (j)  "Public utility" does not include an entity that sells electric vehicle battery chargingservices, unless the entity conducts another activity in the state that subjects the entity to thejurisdiction and regulation of the commission as a public utility.Full text:
+
+
+
+Utah State Legislature
+
+
+
+
+
+
+
+
+
+
+
+
+Legislators
+
+By Session (1896-Current)
+Alphabetical (Historical)
+Find by Address/Map
+More
+
+
+Bills
+
+Bills/Bill Requests
+Passed Bills
+2017 Bills
+
+Keyword Search
+Reading Calendars
+Tracking Service
+More
+
+
+Committees
+
+All Committees
+Appropriations
+Commissions
+
+Independent Legislative Ethics Commission
+Interim
+Standing
+Subcommittees
+Task Forces
+Bills In Committees
+
+
+Utah Code / Constitution
+
+
+Title/Chapter/Section
+Keyword Search 
+
+Utah Constitution
+Laws of Utah 1851-ongoing
+Utah Territorial Laws 
+More
+
+
+Senate
+
+Main Page 
+About The Senate 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Extraordinary Sessions 
+Reading Calendars 
+Past Floor Debates 
+Senate Journals 
+
+
+House
+
+Main Page
+About the House 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Reading Calendars 
+Past Floor Debates 
+Journals 
+Conflict of Interest Forms 
+
+
+Legislative Guide 
+
+Legislative Guide
+Civic Programs
+GRAMA (Records Requests)
+
+
+Publications
+
+Search Publications
+Appropriations
+Audits
+Bagels & Briefings
+Briefing Papers
+Digest of Legislation
+Legislative Drafting Manual
+
+Journals
+
+Interim Highlights
+
+Legislative Rules
+GRAMA (Records Requests)
+Public Email
+State Organization Charts
+YouTube Channel
+Requests for Proposals and Legal Notices
+More
+
+
+Legislative Histories
+
+Legislative History Resources
+How to Research
+Bill Drafting/Research Files (1990-Ongoing)
+
+Working Bills (1896-1989)
+Interim Committee Histories (1990-Ongoing) 
+Journals
+Past House Floor Debates
+Past Senate Floor Debates
+More
+
+
+Staff Offices
+
+All Legislative Offices
+Auditor General
+Fiscal Analyst
+Printing
+Research and General Counsel
+Staff Awards
+Job Opportunities
+More
+
+
+Links of Interest
+
+Utah Administrative Rules
+Courts
+Utah State Capitol
+State of Utah
+Federal Legislation
+More
+
+
+
+
+
+
+ 
+
+H.B. 19
+
+
+
+
+
+            
+1
+
+    
+ ELECTRIC VEHICLE BATTERY CHARGING SERVICE
+
+            
+2
+
+    
+ AMENDMENTS
+
+
+
+            
+3
+
+    
+2014 GENERAL SESSION
+
+            
+4
+
+    
+STATE OF UTAH
+
+            
+5
+
+    
+
+
+ Chief Sponsor:  Patrice M. Arent
+
+
+
+            
+6
+
+    
+
+
+
+Senate Sponsor: 
+
+
+
+
+
+
+  Ralph Okerlund
+
+
+
+
+
+            
+7
+
+    
+
+            
+8
+
+    
+ LONG TITLE
+            
+9
+
+    
+ Committee Note:
+            
+10
+
+    
+    The Public Utilities and Technology Interim Committee recommended this bill.
+            
+11
+
+    
+ General Description:
+            
+12
+
+    
+    This bill amends Title 54, Public Utilities.
+            
+13
+
+    
+ Highlighted Provisions:
+            
+14
+
+    
+    This bill:
+            
+15
+
+    
+    .    provides that the definition of "public utility" does not include certain entities that
+            
+16
+
+    
+sell electric vehicle battery charging services.
+            
+17
+
+    
+ Money Appropriated in this Bill:
+            
+18
+
+    
+    None
+            
+19
+
+    
+ Other Special Clauses:
+            
+20
+
+    
+    None
+            
+21
+
+    
+
+
+
+
+Utah
+ Code Sections Affected:
+            
+22
+
+    
+AMENDS:
+            
+23
+
+    
+     
+54-2-1
+, as last amended by Laws of Utah 2010, Chapters 302 and 390
+            
+24
+
+    
+
+            
+25
+
+    
+Be it enacted by the Legislature of the state of Utah:
+            
+26
+
+    
+    Section 1.  
+Section  
+54-2-1
+
+ is amended to read:
+            
+27
+
+    
+     54-2-1.  Definitions.
+
+            
+28
+
+
+    
+    As used in this title:
+            
+29
+
+    
+    (1)  "Avoided costs" means the incremental costs to an electrical corporation of electric
+            
+30
+
+    
+energy or capacity or both that, due to the purchase of electric energy or capacity or both from
+            
+31
+
+    
+small power production or cogeneration facilities, the electrical corporation would not have to
+            
+32
+
+    
+generate itself or purchase from another electrical corporation.
+            
+33
+
+    
+    (2)  "Cogeneration facility":
+            
+34
+
+    
+    (a)  means a facility that produces:
+            
+35
+
+    
+    (i)  electric energy; and
+            
+36
+
+    
+    (ii)  steam or forms of useful energy, including heat, that are used for industrial,
+            
+37
+
+    
+commercial, heating, or cooling purposes; and
+            
+38
+
+    
+    (b)  is a qualifying cogeneration facility under federal law.
+            
+39
+
+    
+    (3)  "Commission" means the Public Service Commission of Utah.
+            
+40
+
+    
+    (4)  "Commissioner" means a member of the commission.
+            
+41
+
+    
+    (5) (a)  "Corporation" includes an association and a joint stock company having any
+            
+42
+
+    
+powers or privileges not possessed by individuals or partnerships.
+            
+43
+
+    
+    (b)  "Corporation" does not include towns, cities, counties, conservancy districts,
+            
+44
+
+    
+improvement districts, or other governmental units created or organized under any general or
+            
+45
+
+    
+special law of this state.
+            
+46
+
+    
+    (6)  "Distribution electrical cooperative" includes an electrical corporation that:
+            
+47
+
+    
+    (a)  is a cooperative;
+            
+48
+
+    
+    (b)  conducts a business that includes the retail distribution of electricity the cooperative
+            
+49
+
+    
+purchases or generates for the cooperative's members; and
+            
+50
+
+    
+    (c)  is required to allocate or distribute savings in excess of additions to reserves and
+            
+51
+
+    
+surplus on the basis of patronage to the cooperative's:
+            
+52
+
+    
+    (i)  members; or
+            
+53
+
+    
+    (ii)  patrons.
+            
+54
+
+    
+    (7)  "Electrical corporation" includes every corporation, cooperative association, and
+            
+55
+
+    
+person, their lessees, trustees, and receivers, owning, controlling, operating, or managing any
+            
+56
+
+    
+electric plant, or in any way furnishing electric power for public service or to its consumers or
+            
+57
+
+    
+members for domestic, commercial, or industrial use, within this state, except independent
+            
+58
+
+    
+energy producers, and except where electricity is generated on or distributed by the producer
+
+            
+59
+
+
+    
+solely for the producer's own use, or the use of the producer's tenants, or for the use of
+            
+60
+
+    
+members of an association of unit owners formed under Title 57, Chapter 8, Condominium
+            
+61
+
+    
+Ownership Act, and not for sale to the public generally, and except where the electricity
+            
+62
+
+    
+generated is consumed by an owner, lessor, or interest holder, or by an affiliate of an owner,
+            
+63
+
+    
+lessor, or interest holder, who has provided at least $25,000,000 in value, including credit
+            
+64
+
+    
+support, relating to the electric plant furnishing the electricity and whose consumption does not
+            
+65
+
+    
+exceed its long-term entitlement in the plant under a long-term arrangement other than a power
+            
+66
+
+    
+purchase agreement, except a power purchase agreement with an electrical corporation.
+            
+67
+
+    
+    (8)  "Electric plant" includes all real estate, fixtures, and personal property owned,
+            
+68
+
+    
+controlled, operated, or managed in connection with or to facilitate the production, generation,
+            
+69
+
+    
+transmission, delivery, or furnishing of electricity for light, heat, or power, and all conduits,
+            
+70
+
+    
+ducts, or other devices, materials, apparatus, or property for containing, holding, or carrying
+            
+71
+
+    
+conductors used or to be used for the transmission of electricity for light, heat, or power.
+            
+72
+
+    
+    (9)  "Gas corporation" includes every corporation and person, their lessees, trustees, and
+            
+73
+
+    
+receivers, owning, controlling, operating, or managing any gas plant for public service within
+            
+74
+
+    
+this state or for the selling or furnishing of natural gas to any consumer or consumers within the
+            
+75
+
+    
+state for domestic, commercial, or industrial use, except in the situation that:
+            
+76
+
+    
+    (a)  gas is made or produced on, and distributed by the maker or producer through,
+            
+77
+
+    
+private property:
+            
+78
+
+    
+    (i)  solely for the maker's or producer's own use or the use of the maker's or producer's
+            
+79
+
+    
+tenants; and
+            
+80
+
+    
+    (ii)  not for sale to others;
+            
+81
+
+    
+    (b)  gas is compressed on private property solely for the owner's own use or the use of
+            
+82
+
+    
+the owner's employees as a motor vehicle fuel; or
+            
+83
+
+    
+    (c)  gas is compressed by a retailer of motor vehicle fuel on the retailer's property solely
+            
+84
+
+    
+for sale as a motor vehicle fuel.
+            
+85
+
+    
+    (10)  "Gas plant" includes all real estate, fixtures, and personal property owned,
+            
+86
+
+    
+controlled, operated, or managed in connection with or to facilitate the production, generation,
+            
+87
+
+    
+transmission, delivery, or furnishing of gas, natural or manufactured, for light, heat, or power.
+            
+88
+
+    
+    (11)  "Heat corporation" includes every corporation and person, their lessees, trustees,
+            
+89
+
+    
+and receivers, owning, controlling, operating, or managing any heating plant for public service
+
+            
+90
+
+
+    
+within this state.
+            
+91
+
+    
+    (12) (a)  "Heating plant" includes all real estate, fixtures, machinery, appliances, and
+            
+92
+
+    
+personal property controlled, operated, or managed in connection with or to facilitate the
+            
+93
+
+    
+production, generation, transmission, delivery, or furnishing of artificial heat.
+            
+94
+
+    
+    (b)  "Heating plant" does not include either small power production facilities or
+            
+95
+
+    
+cogeneration facilities.
+            
+96
+
+    
+    (13)  "Independent energy producer" means every electrical corporation, person,
+            
+97
+
+    
+corporation, or government entity, their lessees, trustees, or receivers, that own, operate,
+            
+98
+
+    
+control, or manage an independent power production or cogeneration facility.
+            
+99
+
+    
+    (14)  "Independent power production facility" means a facility that:
+            
+100
+
+    
+    (a)  produces electric energy solely by the use, as a primary energy source, of biomass,
+            
+101
+
+    
+waste, a renewable resource, a geothermal resource, or any combination of the preceding
+            
+102
+
+    
+sources; or
+            
+103
+
+    
+    (b)  is a qualifying power production facility.
+            
+104
+
+    
+    (15)  "Private telecommunications system" includes all facilities for the transmission of
+            
+105
+
+    
+signs, signals, writing, images, sounds, messages, data, or other information of any nature by
+            
+106
+
+    
+wire, radio, lightwaves, or other electromagnetic means, excluding mobile radio facilities, that
+            
+107
+
+    
+are owned, controlled, operated, or managed by a corporation or person, including their lessees,
+            
+108
+
+    
+trustees, receivers, or trustees appointed by any court, for the use of that corporation or person
+            
+109
+
+    
+and not for the shared use with or resale to any other corporation or person on a regular basis.
+            
+110
+
+    
+    (16) (a)  "Public utility" includes every railroad corporation, gas corporation, electrical
+            
+111
+
+    
+corporation, distribution electrical cooperative, wholesale electrical cooperative, telephone
+            
+112
+
+    
+corporation, telegraph corporation, water corporation, sewerage corporation, heat corporation,
+            
+113
+
+    
+and independent energy producer not described in Subsection (16)(d), where the service is
+            
+114
+
+    
+performed for, or the commodity delivered to, the public generally, or in the case of a gas
+            
+115
+
+    
+corporation or electrical corporation where the gas or electricity is sold or furnished to any
+            
+116
+
+    
+member or consumers within the state for domestic, commercial, or industrial use.
+            
+117
+
+    
+    (b) (i)  If any railroad corporation, gas corporation, electrical corporation, telephone
+            
+118
+
+    
+corporation, telegraph corporation, water corporation, sewerage corporation, heat corporation,
+            
+119
+
+    
+or independent energy producer not described in Subsection (16)(d), performs a service for or
+            
+120
+
+    
+delivers a commodity to the public, it is considered to be a public utility, subject to the
+
+            
+121
+
+
+    
+jurisdiction and regulation of the commission and this title.
+            
+122
+
+    
+    (ii)  If a gas corporation, independent energy producer not described in Subsection
+            
+123
+
+    
+(16)(d), or electrical corporation sells or furnishes gas or electricity to any member or
+            
+124
+
+    
+consumers within the state, for domestic, commercial, or industrial use, for which any
+            
+125
+
+    
+compensation or payment is received, it is considered to be a public utility, subject to the
+            
+126
+
+    
+jurisdiction and regulation of the commission and this title.
+            
+127
+
+    
+    (c)  Any corporation or person not engaged in business exclusively as a public utility as
+            
+128
+
+    
+defined in this section is governed by this title in respect only to the public utility owned,
+            
+129
+
+    
+controlled, operated, or managed by the corporation or person, and not in respect to any other
+            
+130
+
+    
+business or pursuit.
+            
+131
+
+    
+    (d)  An independent energy producer is exempt from the jurisdiction and regulations of
+            
+132
+
+    
+the commission with respect to an independent power production facility if it meets the
+            
+133
+
+    
+requirements of Subsection (16)(d)(i), (ii), (iii), or (iv), or any combination of these:
+            
+134
+
+    
+    (i)  the commodity or service is produced or delivered, or both, by an independent
+            
+135
+
+    
+energy producer solely for the uses exempted in Subsection (7) or for the use of state-owned
+            
+136
+
+    
+facilities;
+            
+137
+
+    
+    (ii)  the commodity or service is sold by an independent energy producer solely to an
+            
+138
+
+    
+electrical corporation or other wholesale purchaser;
+            
+139
+
+    
+    (iii) (A)  the commodity or service produced or delivered by the independent energy
+            
+140
+
+    
+producer is delivered to an entity that controls, is controlled by, or affiliated with the
+            
+141
+
+    
+independent energy producer or to a user located on real property managed or controlled by the
+            
+142
+
+    
+independent energy producer; and
+            
+143
+
+    
+    (B)  the real property on which the service or commodity is used is contiguous to real
+            
+144
+
+    
+property which is owned or controlled by the independent energy producer.  Parcels of real
+            
+145
+
+    
+property separated solely by public roads or easements for public roads shall be considered as
+            
+146
+
+    
+contiguous for purposes of this Subsection (16); or
+            
+147
+
+    
+    (iv)  the independent energy producer:
+            
+148
+
+    
+    (A)  supplies energy for direct consumption by a customer that is:
+            
+149
+
+    
+    (I)  a county, municipality, city, town, other political subdivision, local district, special
+            
+150
+
+    
+service district, state institution of higher education, school district, charter school, or any
+            
+151
+
+    
+entity within the state system of public education; or
+
+            
+152
+
+
+    
+    (II)  an entity qualifying as a charitable organization under 26 U.S.C. Sec. 501(c)(3)
+            
+153
+
+    
+operated for religious, charitable, or educational purposes that is exempt from federal income
+            
+154
+
+    
+tax and able to demonstrate its tax-exempt status;
+            
+155
+
+    
+    (B)  supplies energy to the customer through use of a customer generation system, as
+            
+156
+
+    
+defined in Section 
+
+54-15-102
+
+
+, for use on the real property where the customer generation
+            
+157
+
+    
+system is located;
+            
+158
+
+    
+    (C)  supplies energy using a customer generation system designed to supply the lesser
+            
+159
+
+    
+of:
+            
+160
+
+    
+    (I)  no more than 90% of the average annual consumption of electricity by the customer
+            
+161
+
+    
+at that site, based on an annualized billing period; or
+            
+162
+
+    
+    (II)  the maximum size allowable under net metering provisions, defined in Section
+            
+163
+
+    
+
+54-15-102
+
+
+;
+            
+164
+
+    
+    (D)  notifies the customer before installing the customer generation system of:
+            
+165
+
+    
+    (I)  all costs the customer is required to pay for the customer generation system,
+            
+166
+
+    
+including any interconnection costs; and
+            
+167
+
+    
+    (II)  the potential for future changes in amounts paid by the customer for energy
+            
+168
+
+    
+received from the public utility and the possibility of changes to the customer fees or charges to
+            
+169
+
+    
+the customer associated with net metering and generation;
+            
+170
+
+    
+    (E)  enters into and performs in accordance with an interconnection agreement with a
+            
+171
+
+    
+public utility providing retail electric service where the real property on which the customer
+            
+172
+
+    
+generation system is located, with the rates, terms, and conditions of the retail service and
+            
+173
+
+    
+interconnection agreement subject to approval by the governing authority of the public utility,
+            
+174
+
+    
+as defined in Subsection 
+
+54-15-102
+
+
+(8); and
+            
+175
+
+    
+    (F)  installs the relevant customer generation system by December 31, 2015.
+            
+176
+
+    
+    (e)  Any person or corporation defined as an electrical corporation or public utility
+            
+177
+
+    
+under this section may continue to serve its existing customers subject to any order or future
+            
+178
+
+    
+determination of the commission in reference to the right to serve those customers.
+            
+179
+
+    
+    (f) (i)  "Public utility" does not include any person that is otherwise considered a public
+            
+180
+
+    
+utility under this Subsection (16) solely because of that person's ownership of an interest in an
+            
+181
+
+    
+electric plant, cogeneration facility, or small power production facility in this state if all of the
+            
+182
+
+    
+following conditions are met:
+
+            
+183
+
+
+    
+    (A)  the ownership interest in the electric plant, cogeneration facility, or small power
+            
+184
+
+    
+production facility is leased to:
+            
+185
+
+    
+    (I)  a public utility, and that lease has been approved by the commission;
+            
+186
+
+    
+    (II)  a person or government entity that is exempt from commission regulation as a
+            
+187
+
+    
+public utility; or
+            
+188
+
+    
+    (III)  a combination of Subsections (16)(f)(i)(A)(I) and (II);
+            
+189
+
+    
+    (B)  the lessor of the ownership interest identified in Subsection (16)(f)(i)(A) is:
+            
+190
+
+    
+    (I)  primarily engaged in a business other than the business of a public utility; or
+            
+191
+
+    
+    (II)  a person whose total equity or beneficial ownership is held directly or indirectly by
+            
+192
+
+    
+another person engaged in a business other than the business of a public utility; and
+            
+193
+
+    
+    (C)  the rent reserved under the lease does not include any amount based on or
+            
+194
+
+    
+determined by revenues or income of the lessee.
+            
+195
+
+    
+    (ii)  Any person that is exempt from classification as a public utility under Subsection
+            
+196
+
+    
+(16)(f)(i) shall continue to be so exempt from classification following termination of the
+            
+197
+
+    
+lessee's right to possession or use of the electric plant for so long as the former lessor does not
+            
+198
+
+    
+operate the electric plant or sell electricity from the electric plant.  If the former lessor operates
+            
+199
+
+    
+the electric plant or sells electricity, the former lessor shall continue to be so exempt for a
+            
+200
+
+    
+period of 90 days following termination, or for a longer period that is ordered by the
+            
+201
+
+    
+commission.  This period may not exceed one year.  A change in rates that would otherwise
+            
+202
+
+    
+require commission approval may not be effective during the 90-day or extended period
+            
+203
+
+    
+without commission approval.
+            
+204
+
+    
+    (g)  "Public utility" does not include any person that provides financing for, but has no
+            
+205
+
+    
+ownership interest in an electric plant, small power production facility, or cogeneration facility. 
+            
+206
+
+    
+In the event of a foreclosure in which an ownership interest in an electric plant, small power
+            
+207
+
+    
+production facility, or cogeneration facility is transferred to a third-party financer of an electric
+            
+208
+
+    
+plant, small power production facility, or cogeneration facility, then that third-party financer is
+            
+209
+
+    
+exempt from classification as a public utility for 90 days following the foreclosure, or for a
+            
+210
+
+    
+longer period that is ordered by the commission.  This period may not exceed one year.
+            
+211
+
+    
+    (h) (i)  The distribution or transportation of natural gas for use as a motor vehicle fuel
+            
+212
+
+    
+does not cause the distributor or transporter to be a "public utility," unless the commission,
+            
+213
+
+    
+after notice and a public hearing, determines by rule that it is in the public interest to regulate
+
+            
+214
+
+
+    
+the distributers or transporters, but the retail sale alone of compressed natural gas as a motor
+            
+215
+
+    
+vehicle fuel may not cause the seller to be a "public utility."
+            
+216
+
+    
+    (ii)  In determining whether it is in the public interest to regulate the distributors or
+            
+217
+
+    
+transporters, the commission shall consider, among other things, the impact of the regulation
+            
+218
+
+    
+on the availability and price of natural gas for use as a motor fuel.
+            
+219
+
+    
+    (i)  "Public utility" does not include any corporation, cooperative association, or person,
+            
+220
+
+    
+their affiliates, lessees, trustees, or receivers, owning, controlling, operating, or managing an
+            
+221
+
+    
+electric plant or in any way furnishing electricity if the electricity is consumed by an owner,
+            
+222
+
+    
+lessor, or interest holder or by an affiliate of an owner, lessor, or interest holder, who has
+            
+223
+
+    
+provided at least $25,000,000 in value, including credit support, relating to the electric plant
+            
+224
+
+    
+furnishing the electricity and whose consumption does not exceed its long-term entitlement in
+            
+225
+
+    
+the plant under a long-term arrangement other than a power purchase agreement, except a
+            
+226
+
+    
+power purchase agreement with an electrical corporation.
+            
+227
+
+    
+    (j)  "Public utility" does not include an entity that sells electric vehicle battery charging
+            
+228
+
+    
+services, unless the entity conducts another activity in the state that subjects the entity to the
+            
+229
+
+    
+jurisdiction and regulation of the commission as a public utility.
+            
+230
+
+    
+    (17)  "Purchasing utility" means any electrical corporation that is required to purchase
+            
+231
+
+    
+electricity from small power production or cogeneration facilities pursuant to the Public Utility
+            
+232
+
+    
+Regulatory Policies Act, 16 U.S.C. Section 824a-3.
+            
+233
+
+    
+    (18)  "Qualifying power producer" means a corporation, cooperative association, or
+            
+234
+
+    
+person, or the lessee, trustee, and receiver of the corporation, cooperative association, or
+            
+235
+
+    
+person, who owns, controls, operates, or manages any qualifying power production facility or
+            
+236
+
+    
+cogeneration facility.
+            
+237
+
+    
+    (19)  "Qualifying power production facility" means a facility that:
+            
+238
+
+    
+    (a)  produces electrical energy solely by the use, as a primary energy source, of biomass,
+            
+239
+
+    
+waste, a renewable resource, a geothermal resource, or any combination of the preceding
+            
+240
+
+    
+sources;
+            
+241
+
+    
+    (b)  has a power production capacity that, together with any other facilities located at
+            
+242
+
+    
+the same site, is no greater than 80 megawatts; and
+            
+243
+
+    
+    (c)  is a qualifying small power production facility under federal law.
+            
+244
+
+    
+    (20)  "Railroad" includes every commercial, interurban, and other railway, other than a
+
+            
+245
+
+
+    
+street railway, and each branch or extension of a railway, by any power operated, together with
+            
+246
+
+    
+all tracks, bridges, trestles, rights-of-way, subways, tunnels, stations, depots, union depots,
+            
+247
+
+    
+yards, grounds, terminals, terminal facilities, structures, and equipment, and all other real
+            
+248
+
+    
+estate, fixtures, and personal property of every kind used in connection with a railway owned,
+            
+249
+
+    
+controlled, operated, or managed for public service in the transportation of persons or property.
+            
+250
+
+    
+    (21)  "Railroad corporation" includes every corporation and person, their lessees,
+            
+251
+
+    
+trustees, and receivers, owning, controlling, operating, or managing any railroad for public
+            
+252
+
+    
+service within this state.
+            
+253
+
+    
+    (22) (a)  "Sewerage corporation" includes every corporation and person, their lessees,
+            
+254
+
+    
+trustees, and receivers, owning, controlling, operating, or managing any sewerage system for
+            
+255
+
+    
+public service within this state.
+            
+256
+
+    
+    (b)  "Sewerage corporation" does not include private sewerage companies engaged in
+            
+257
+
+    
+disposing of sewage only for their stockholders, or towns, cities, counties, conservancy
+            
+258
+
+    
+districts, improvement districts, or other governmental units created or organized under any
+            
+259
+
+    
+general or special law of this state.
+            
+260
+
+    
+    (23)  "Telegraph corporation" includes every corporation and person, their lessees,
+            
+261
+
+    
+trustees, and receivers, owning, controlling, operating, or managing any telegraph line for
+            
+262
+
+    
+public service within this state.
+            
+263
+
+    
+    (24)  "Telegraph line" includes all conduits, ducts, poles, wires, cables, instruments, and
+            
+264
+
+    
+appliances, and all other real estate, fixtures, and personal property owned, controlled,
+            
+265
+
+    
+operated, or managed in connection with or to facilitate communication by telegraph, whether
+            
+266
+
+    
+that communication be had with or without the use of transmission wires.
+            
+267
+
+    
+    (25) (a)  "Telephone corporation" means any corporation or person, and their lessees,
+            
+268
+
+    
+trustee, receivers, or trustees appointed by any court, who owns, controls, operates, manages, or
+            
+269
+
+    
+resells a public telecommunications service as defined in Section 
+
+54-8b-2
+
+
+.
+            
+270
+
+    
+    (b)  "Telephone corporation" does not mean a corporation, partnership, or firm
+            
+271
+
+    
+providing:
+            
+272
+
+    
+    (i)  intrastate telephone service offered by a provider of cellular, personal
+            
+273
+
+    
+communication systems (PCS), or other commercial mobile radio service as defined in 47
+            
+274
+
+    
+U.S.C. Sec. 332 that has been issued a covering license by the Federal Communications
+            
+275
+
+    
+Commission;
+
+            
+276
+
+
+    
+    (ii)  Internet service; or
+            
+277
+
+    
+    (iii)  resold intrastate toll service.
+            
+278
+
+    
+    (26)  "Telephone line" includes all conduits, ducts, poles, wires, cables, instruments,
+            
+279
+
+    
+and appliances, and all other real estate, fixtures, and personal property owned, controlled,
+            
+280
+
+    
+operated, or managed in connection with or to facilitate communication by telephone whether
+            
+281
+
+    
+that communication is had with or without the use of transmission wires.
+            
+282
+
+    
+    (27)  "Transportation of persons" includes every service in connection with or
+            
+283
+
+    
+incidental to the safety, comfort, or convenience of the person transported, and the receipt,
+            
+284
+
+    
+carriage, and delivery of that person and that person's baggage.
+            
+285
+
+    
+    (28)  "Transportation of property" includes every service in connection with or
+            
+286
+
+    
+incidental to the transportation of property, including in particular its receipt, delivery,
+            
+287
+
+    
+elevation, transfer, switching, carriage, ventilation, refrigeration, icing, dunnage, storage, and
+            
+288
+
+    
+hauling, and the transmission of credit by express companies.
+            
+289
+
+    
+    (29)  "Water corporation" includes every corporation and person, their lessees, trustees,
+            
+290
+
+    
+and receivers, owning, controlling, operating, or managing any water system for public service
+            
+291
+
+    
+within this state.  It does not include private irrigation companies engaged in distributing water
+            
+292
+
+    
+only to their stockholders, or towns, cities, counties, water conservancy districts, improvement
+            
+293
+
+    
+districts, or other governmental units created or organized under any general or special law of
+            
+294
+
+    
+this state.
+            
+295
+
+    
+    (30) (a)  "Water system" includes all reservoirs, tunnels, shafts, dams, dikes, headgates,
+            
+296
+
+    
+pipes, flumes, canals, structures, and appliances, and all other real estate, fixtures, and personal
+            
+297
+
+    
+property owned, controlled, operated, or managed in connection with or to facilitate the
+            
+298
+
+    
+diversion, development, storage, supply, distribution, sale, furnishing, carriage, appointment,
+            
+299
+
+    
+apportionment, or measurement of water for power, fire protection, irrigation, reclamation, or
+            
+300
+
+    
+manufacturing, or for municipal, domestic, or other beneficial use.
+            
+301
+
+    
+    (b)  "Water system" does not include private irrigation companies engaged in
+            
+302
+
+    
+distributing water only to their stockholders.
+            
+303
+
+    
+    (31)  "Wholesale electrical cooperative" includes every electrical corporation that is:
+            
+304
+
+    
+    (a)  in the business of the wholesale distribution of electricity it has purchased or
+            
+305
+
+    
+generated to its members and the public; and
+            
+306
+
+    
+    (b)  required to distribute or allocate savings in excess of additions to reserves and
+
+            
+307
+
+
+    
+surplus to members or patrons on the basis of patronage.
+
+
+
+
+ Legislative Review Note
+    as of  11-20-13  12:25 PM
+
+ Office of Legislative Research and General Counsel
+[Bill Documents][Bills Directory]
+
+
+
+
+
+
+
+
+
+Who represents me?
+
+
+
+
+
+Remember my Legislators
+
+
+
+
+
+State Senate
+		350 North State, Suite 320
+		PO Box 145115
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1035
+		Fax: (801) 326-1475
+
+
+
+House of Representatives
+		350 North State, Suite 350
+		PO Box 145030
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1029
+		Fax: (801) 326-1544
+
+
+
+
+
+
+
+
+
+
+Home
+Mobile Site
+Site Map
+Calendar
+Code / Constitution
+House
+Senate
+
+Terms of Use/Privacy Policy
+
+ADA
+Utah.gov
+
+
+
+
+
+
+

@@ -1,0 +1,1563 @@
+Sponsors: []Modifications: (7) "Premixed" means the state of an antifreeze and water solution that results from thesolution being prepared by the manufacturer with a quality control procedure that ensures thatthe antifreeze and water solution does not separate.(8)(b)  IFC, Chapter 3, Section 310.8, Hazardous Environmental Conditions, is deleted andrewritten as follows: "When the fire code official determines that hazardous environmentalconditions necessitate controlled use of any ignition source, including fireworks, lighters,matches, and smoking materials, the ignition or use of the source in mountainous,brush-covered, forest-covered, or other designated areas is prohibited except in approved areasas allowed by the AHJ."(c)(d)(e)Antifreeze useda newsystemmay not exceed38% premixed48% premixed, and the capacity of the system may not exceed 150gallonsAntifreeze useda newsystemmay not exceed38% premixed48% premixed, and the capacity of the system may not exceed 150gallonsAntifreeze useda newsystemmay not exceed38% premixed48% premixed, andthe capacity of the system may not exceed 150 gallons(16)  IFC, Chapter 9, Section 903.5 is amended to add the following subsection:"903.5.1 Tag and Information.  A tag shall be attached to the riser indicating the date theantifreeze solution was tested.  The tag shall also indicate the type and concentration ofantifreeze solution by volume with which the system is filled, the date the antifreeze wasreplaced, if applicable, the name of the contractor that tested or replaced the antifreeze solution,the contractor's license number, a statement indicating if the entire system was drained andreplaced with antifreeze, and a warning to test the concentration of the antifreeze solutions atyearly intervals."This bill takes effect on July 1, 2012.Full text:
+
+
+
+Utah State Legislature
+
+
+
+
+
+
+
+
+
+
+
+
+Legislators
+
+By Session (1896-Current)
+Alphabetical (Historical)
+Find by Address/Map
+More
+
+
+Bills
+
+Bills/Bill Requests
+Passed Bills
+2017 Bills
+
+Keyword Search
+Reading Calendars
+Tracking Service
+More
+
+
+Committees
+
+All Committees
+Appropriations
+Commissions
+
+Independent Legislative Ethics Commission
+Interim
+Standing
+Subcommittees
+Task Forces
+Bills In Committees
+
+
+Utah Code / Constitution
+
+
+Title/Chapter/Section
+Keyword Search 
+
+Utah Constitution
+Laws of Utah 1851-ongoing
+Utah Territorial Laws 
+More
+
+
+Senate
+
+Main Page 
+About The Senate 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Extraordinary Sessions 
+Reading Calendars 
+Past Floor Debates 
+Senate Journals 
+
+
+House
+
+Main Page
+About the House 
+Leadership 
+Roster 
+Seating Chart 
+District Maps 
+Reading Calendars 
+Past Floor Debates 
+Journals 
+Conflict of Interest Forms 
+
+
+Legislative Guide 
+
+Legislative Guide
+Civic Programs
+GRAMA (Records Requests)
+
+
+Publications
+
+Search Publications
+Appropriations
+Audits
+Bagels & Briefings
+Briefing Papers
+Digest of Legislation
+Legislative Drafting Manual
+
+Journals
+
+Interim Highlights
+
+Legislative Rules
+GRAMA (Records Requests)
+Public Email
+State Organization Charts
+YouTube Channel
+Requests for Proposals and Legal Notices
+More
+
+
+Legislative Histories
+
+Legislative History Resources
+How to Research
+Bill Drafting/Research Files (1990-Ongoing)
+
+Working Bills (1896-1989)
+Interim Committee Histories (1990-Ongoing) 
+Journals
+Past House Floor Debates
+Past Senate Floor Debates
+More
+
+
+Staff Offices
+
+All Legislative Offices
+Auditor General
+Fiscal Analyst
+Printing
+Research and General Counsel
+Staff Awards
+Job Opportunities
+More
+
+
+Links of Interest
+
+Utah Administrative Rules
+Courts
+Utah State Capitol
+State of Utah
+Federal Legislation
+More
+
+
+
+
+
+
+ 
+
+Download Zipped Introduced WordPerfect HB0045.ZIP
+[Status][Bill Documents][Fiscal Note][Bills Directory]
+
+
+H.B. 45
+
+
+
+
+
+            
+1
+
+    
+ STATE FIRE CODE AMENDMENTS
+
+
+
+            
+2
+
+    
+2012 GENERAL SESSION
+
+            
+3
+
+    
+STATE OF UTAH
+
+            
+4
+
+    
+
+
+ Chief Sponsor:  James A. Dunnigan
+
+
+
+            
+5
+
+    
+
+
+
+Senate Sponsor:  
+
+
+
+
+
+
+John L. Valentine
+
+
+
+
+
+            
+6
+
+    
+
+            
+7
+
+    
+ LONG TITLE
+            
+8
+
+    
+ Committee Note:
+            
+9
+
+    
+    The Business and Labor Interim Committee recommended this bill.
+            
+10
+
+    
+ General Description:
+            
+11
+
+    
+    This bill modifies the State Fire Code Act.
+            
+12
+
+    
+ Highlighted Provisions:
+            
+13
+
+    
+    This bill:
+            
+14
+
+    
+    .    enacts a definition of "premixed" with respect to an antifreeze and water solution;
+            
+15
+
+    
+    .    deletes and replaces a provision relating to hazardous environmental conditions; and
+            
+16
+
+    
+    .    modifies provisions relating to antifreeze used in automatic sprinkler systems.
+            
+17
+
+    
+ Money Appropriated in this Bill:
+            
+18
+
+    
+    None
+            
+19
+
+    
+ Other Special Clauses:
+            
+20
+
+    
+    This bill takes effect on July 1, 2012.
+            
+21
+
+    
+ Utah Code Sections Affected:
+            
+22
+
+    
+AMENDS:
+            
+23
+
+    
+     15A-5-102, as enacted by Laws of Utah 2011, Chapter 14
+            
+24
+
+    
+     15A-5-202, as enacted by Laws of Utah 2011, Chapter 14
+            
+25
+
+    
+     15A-5-204, as enacted by Laws of Utah 2011, Chapter 14
+            
+26
+
+    
+
+            
+27
+
+    
+Be it enacted by the Legislature of the state of Utah:
+
+            
+28
+
+
+    
+    Section 1.  
+Section  
+15A-5-102
+
+ is amended to read:
+            
+29
+
+    
+     15A-5-102.  Definitions.
+            
+30
+
+    
+    As used in this chapter:
+            
+31
+
+    
+    (1)  "Appreciable depth" means a depth greater than 1/4 inch.
+            
+32
+
+    
+    (2)  "AHJ" means "authority having jurisdiction," which is:
+            
+33
+
+    
+    (a)  the State Fire Marshal;
+            
+34
+
+    
+    (b)  an authorized deputy of the State Fire Marshal; or
+            
+35
+
+    
+    (c)  the local fire enforcement authority.
+            
+36
+
+    
+    (3)  "Division" means the State Fire Marshal Division created in Section 
+
+53-7-103
+
+.
+            
+37
+
+    
+    (4) (a) "Dwelling Unit" means one or more rooms arranged for the use of one or more
+            
+38
+
+    
+individuals living together, as in a single housekeeping unit normally having cooking, living,
+            
+39
+
+    
+sanitary, and sleeping facilities.
+            
+40
+
+    
+    (b)  "Dwelling unit" includes a hotel room, dormitory room, apartment, condominium,
+            
+41
+
+    
+sleeping room in a nursing home, or similar living unit.
+            
+42
+
+    
+    (5)  "IFC" means the edition of the International Fire Code adopted under Section
+            
+43
+
+    
+
+15A-5-103
+
+.
+            
+44
+
+    
+    (6)  "NFPA" means the edition of the National Fire Protection Association adopted
+            
+45
+
+    
+under Section 
+
+15A-5-103
+
+.
+            
+46
+
+    
+    (7) "Premixed" means the state of an antifreeze and water solution that results from the
+            
+47
+
+    
+solution being prepared by the manufacturer with a quality control procedure that ensures that
+            
+48
+
+    
+the antifreeze and water solution does not separate.
+            
+49
+
+    
+    [(7)] (8)  "UL" means Underwriters Laboratories, Inc.
+            
+50
+
+    
+    Section 2.  
+Section  
+15A-5-202
+
+ is amended to read:
+            
+51
+
+    
+     15A-5-202.  Amendments and additions to IFC related to administration, permits,
+            
+52
+
+    
+ definitions, general, and emergency planning.
+            
+53
+
+    
+    (1)  For IFC, Scope and Administration:
+            
+54
+
+    
+    (a)  IFC, Chapter 1, Section 105.6.16, Flammable and combustible liquids, is amended
+            
+55
+
+    
+to add the following section: "12.  The owner of an underground tank that is out of service for
+            
+56
+
+    
+longer than one year shall receive a Temporary Closure Notice from the Department of
+            
+57
+
+    
+Environmental Quality and a copy shall be given to the AHJ."
+            
+58
+
+    
+    (b)  IFC, Chapter 1, Section 109.2, Notice of violation, is amended as follows: On line
+
+            
+59
+
+
+    
+three, after the words "is in violation of this code," insert in the section the phrase "or other
+            
+60
+
+    
+pertinent laws or ordinances".
+            
+61
+
+    
+    (2)  For IFC, Definitions:
+            
+62
+
+    
+    (a)  IFC, Chapter 2, Section 202, General Definitions, Occupancy Classification,
+            
+63
+
+    
+Educational Group E, Day care, is amended as follows: On line three delete the word "five"
+            
+64
+
+    
+and replace it with the word "four".
+            
+65
+
+    
+    (b)  IFC, Chapter 2, Section 202, General Definitions, Occupancy Classification,
+            
+66
+
+    
+Institutional Group I, Group I-1, is amended as follows: On line 10 add "Type I" in front of the
+            
+67
+
+    
+words "Assisted living facilities".
+            
+68
+
+    
+    (c)  IFC, Chapter 2, Section 202, General Definitions, Occupancy Classification,
+            
+69
+
+    
+Institutional Group I, Group I-2, is amended as follows:
+            
+70
+
+    
+    (i)  On line three delete the word "for" and insert the following into the sentence "on a
+            
+71
+
+    
+24-hour basis of more than three".
+            
+72
+
+    
+    (ii)  On line 10, after the words "Nursing homes", add the following: "both intermediate
+            
+73
+
+    
+nursing care and skilled nursing care facilities, ambulatory surgical centers with five or more
+            
+74
+
+    
+operating rooms where care is less than 24 hours, and Type II assisted living facilities.  Type II
+            
+75
+
+    
+assisted living facilities with five or fewer persons shall be classified as a Group R-4.  Type II
+            
+76
+
+    
+assisted living facilities with at least six and not more than 16 residents shall be classified as a
+            
+77
+
+    
+Group I-1 facility".
+            
+78
+
+    
+    (d)  IFC, Chapter 2, Section 202, General Definitions, Occupancy Classification,
+            
+79
+
+    
+Institutional Group I, Group I-4, Day care facilities, Child care facility, is amended as follows:
+            
+80
+
+    
+    (i)  On line three delete the word "five" and replace it with the word "four".
+            
+81
+
+    
+    (ii)  On line two of the exception delete the word "five" and replace it with the word
+            
+82
+
+    
+"four".
+            
+83
+
+    
+    (e)  IFC, Chapter 2, Section 202, General Definitions, Occupancy Classification,
+            
+84
+
+    
+Residential Group R, R-2, is amended to add the following: "Exception: Boarding houses
+            
+85
+
+    
+accommodating 10 persons or less shall be classified as Residential Group R-3."
+            
+86
+
+    
+    (3)  For IFC, General Requirements:
+            
+87
+
+    
+    (a)  IFC, Chapter 3, Section 304.1.2, Vegetation, is amended as follows: Delete line six
+            
+88
+
+    
+and replace it with: "the Utah Administrative Code, R652-122-200, Minimum Standards for
+            
+89
+
+    
+Wildland Fire Ordinance".
+
+            
+90
+
+
+    
+    (b)  IFC, Chapter 3, Section 310.8, Hazardous Environmental Conditions, is deleted and
+            
+91
+
+    
+rewritten as follows: "When the fire code official determines that hazardous environmental
+            
+92
+
+    
+conditions necessitate controlled use of any ignition source, including fireworks, lighters,
+            
+93
+
+    
+matches, and smoking materials, the ignition or use of the source in mountainous,
+            
+94
+
+    
+brush-covered, forest-covered, or other designated areas is prohibited except in approved areas
+            
+95
+
+    
+as allowed by the AHJ."
+            
+96
+
+    
+    [(b)] (c)  IFC, Chapter 3, Section 311.1.1, Abandoned premises, is amended as follows:
+            
+97
+
+    
+On line 10 delete the words "International Property Maintenance Code and the".
+            
+98
+
+    
+    [(c)] (d)  IFC, Chapter 3, Section 311.5, Placards, is amended as follows: On line three
+            
+99
+
+    
+delete the word "shall" and replace it with the word "may".
+            
+100
+
+    
+    [(d)] (e)  IFC, Chapter 3, Section 315.2.1, Ceiling clearance, is amended to add the
+            
+101
+
+    
+following: "Exception: Where storage is not directly below the sprinkler heads, storage is
+            
+102
+
+    
+allowed to be placed to the ceiling on wall-mounted shelves that are protected by fire sprinkler
+            
+103
+
+    
+heads in occupancies meeting classification as light or ordinary hazard."
+            
+104
+
+    
+    Section 3.  
+Section  
+15A-5-204
+
+ is amended to read:
+            
+105
+
+    
+     15A-5-204.  Amendments and additions to IFC related to fire protection systems.
+            
+106
+
+    
+    For IFC, Fire Protection Systems:
+            
+107
+
+    
+    (1)  IFC, Chapter 9, Section 901.2, Construction documents, is amended to add the
+            
+108
+
+    
+following at the end of the section: "The code official has the authority to request record
+            
+109
+
+    
+drawings ("as builts")  to verify any modifications to the previously approved construction
+            
+110
+
+    
+documents."
+            
+111
+
+    
+    (2)  IFC, Chapter 9, Section 902.1, Definitions, RECORD DRAWINGS, is deleted and
+            
+112
+
+    
+rewritten as follows: "Drawings ("as builts")  that document all aspects of a fire protection
+            
+113
+
+    
+system as installed."
+            
+114
+
+    
+    (3)  IFC, Chapter 9, Section 903.2.1.2, Group A-2, is amended to add the following
+            
+115
+
+    
+subsection: "4.  An automatic fire sprinkler system shall be provided throughout Group A-2
+            
+116
+
+    
+occupancies where indoor pyrotechnics are used."
+            
+117
+
+    
+    (4)  IFC, Chapter 9, Section 903.2.2, Group B ambulatory health care facilities, is
+            
+118
+
+    
+amended as follows: On line three delete the words "all fire areas" and replace with the word
+            
+119
+
+    
+"buildings".
+            
+120
+
+    
+    (5)  IFC, Chapter 9, Section 903.2.4, Group F-1, Subsection 2, is deleted and rewritten
+
+            
+121
+
+
+    
+as follows: "A Group F-1 fire area is located more than three stories above the lowest level of
+            
+122
+
+    
+fire department vehicle access."
+            
+123
+
+    
+    (6)  IFC, Chapter 9, Section 903.2.7, Group M, Subsection 2, is deleted and rewritten as
+            
+124
+
+    
+follows: "A Group M fire area is located more than three stories above the lowest level of fire
+            
+125
+
+    
+department vehicle access."
+            
+126
+
+    
+    (7)  IFC, Chapter 9, Section 903.2.8 Group R, is amended to add the following:
+            
+127
+
+    
+"Exception: Detached one- and two-family dwellings and multiple single-family dwellings
+            
+128
+
+    
+(townhouses) constructed in accordance with the International Residential Code for one- and
+            
+129
+
+    
+two-family dwellings."
+            
+130
+
+    
+    (8)  IFC, Chapter 9, Section 903.2.8, Group R, is amended to add a second exception as
+            
+131
+
+    
+follows: "Exception: Group R-4 fire areas not more than 4,500 gross square feet and not
+            
+132
+
+    
+containing more than 16 residents, provided the building is equipped throughout with an
+            
+133
+
+    
+approved fire alarm system that is interconnected and receives its primary power from the
+            
+134
+
+    
+building wiring and a commercial power system."
+            
+135
+
+    
+    (9)  IFC, Chapter 9, Section 903.2.9, Group S-1, Subsection 2, is deleted and rewritten
+            
+136
+
+    
+as follows: "A Group S-1 fire area is located more than three stories above the lowest level of
+            
+137
+
+    
+fire department vehicle access."
+            
+138
+
+    
+    (10)  (a)  IFC, Chapter 9, Section 903.2.10, Group S-2 enclosed parking garages, is
+            
+139
+
+    
+deleted and rewritten as follows: "An automatic sprinkler system shall be provided throughout
+            
+140
+
+    
+buildings classified as parking garages in accordance with Section 406.2 of the International
+            
+141
+
+    
+Building Code or where located beneath other groups."
+            
+142
+
+    
+    (b)  IFC, Chapter 9, Section 903.2.10, Group S-2 enclosed parking garages, the
+            
+143
+
+    
+exception is deleted and rewritten as follows: "Exception: Parking garages of less than 5,000
+            
+144
+
+    
+square feet (464m2) accessory to Group R-3 occupancies."
+            
+145
+
+    
+    (c)  IFC, Chapter 9, Section 903.2.10, Group S-2 enclosed parking garages, is amended
+            
+146
+
+    
+to add a second exception, as follows: "Exception: Open parking garages not located beneath
+            
+147
+
+    
+other groups if one of the following conditions are met:
+            
+148
+
+    
+1.  Access is provided for fire fighting operations to within 150 feet (45,720mm) of all portions
+            
+149
+
+    
+of the parking garage as measured from the approved fire department vehicle access, or
+            
+150
+
+    
+2.  Class I standpipes are installed throughout the parking garage."
+            
+151
+
+    
+    (11)  IFC, Chapter 9, Section 903.2.10.1, Commercial parking garages, is deleted and
+
+            
+152
+
+
+    
+rewritten as follows: "An automatic sprinkler system shall be provided throughout buildings
+            
+153
+
+    
+used for storage of commercial trucks or buses."
+            
+154
+
+    
+    (12)  IFC, Chapter 9, Section 903.3.1.1 is amended by adding the following subsection:
+            
+155
+
+    
+"903.3.1.1.2 Antifreeze Limitations.  [The use of antifreeze] Antifreeze used in a new
+            
+156
+
+    
+automatic sprinkler [systems in new construction in the dwelling unit portion of an occupancy,]
+            
+157
+
+    
+system installed in accordance with NFPA 13[, is allowed up to 20 heads.  The number of
+            
+158
+
+    
+sprinkler heads can be expanded as permitted by the AHJ.  The mixture of the antifreeze shall
+            
+159
+
+    
+be limited to] may not exceed a maximum concentration of [40%] 38% premixed propylene
+            
+160
+
+    
+glycol or [50%] 48% premixed glycerin, and the capacity of the system may not exceed 150
+            
+161
+
+    
+gallons.  [The AHJ can allow the concentration of antifreeze to be increased due to temperature
+            
+162
+
+    
+concerns.]"
+            
+163
+
+    
+    (13)  IFC, Chapter 9, Section 903.3.1.2 is amended by adding the following subsection:
+            
+164
+
+    
+"903.3.1.2.2 Antifreeze Limitations.  [The use of antifreeze] Antifreeze used in a new
+            
+165
+
+    
+automatic sprinkler [systems in new construction in the dwelling unit portion of an occupancy,]
+            
+166
+
+    
+system installed in accordance with NFPA 13R[, is allowed up to 20 heads.  The number of
+            
+167
+
+    
+sprinkler heads can be expanded as permitted by the AHJ.  The mixture of the antifreeze shall
+            
+168
+
+    
+be limited to] may not exceed a maximum concentration of [40%] 38% premixed propylene
+            
+169
+
+    
+glycol or [50%] 48% premixed glycerin, and the capacity of the system may not exceed 150
+            
+170
+
+    
+gallons.  [The AHJ can allow the concentration of antifreeze to be increased due to temperature
+            
+171
+
+    
+concerns.]"
+            
+172
+
+    
+    (14)  IFC, Chapter 9, Section 903.3.1.3 is amended by adding the following subsection:
+            
+173
+
+    
+"903.3.1.3.1 Antifreeze Limitations.  [The use of antifreeze] Antifreeze used in a new
+            
+174
+
+    
+automatic sprinkler [systems in new construction] system installed in accordance with NFPA
+            
+175
+
+    
+13D [is allowed up to 20 heads.  The number of sprinkler heads can be expanded as permitted
+            
+176
+
+    
+by the AHJ.  The mixture of the antifreeze shall be limited to] may not exceed a maximum
+            
+177
+
+    
+concentration of [40%] 38% premixed propylene glycol or [50%] 48% premixed glycerin, and
+            
+178
+
+    
+the capacity of the system may not exceed 150 gallons.  [The AHJ can allow the concentration
+            
+179
+
+    
+of antifreeze to be increased due to temperature concerns.]"
+            
+180
+
+    
+    (15)  IFC, Chapter 9, Section 903.3.5, Water supplies, is amended as follows: On line
+            
+181
+
+    
+six, after the word "Code", add "and as amended in Utah's State Construction Code".
+            
+182
+
+    
+    [(16)  IFC, Chapter 9, Section 903.5 is amended to add the following subsection:
+
+            
+183
+
+
+    
+"903.5.1 Antifreeze Replacement.  Whenever the automatic sprinkler system protecting
+            
+184
+
+    
+residences and dwelling units of mixed occupancies that use antifreeze is drained, the
+            
+185
+
+    
+replacement antifreeze shall be properly mixed and tested, but shall not exceed a maximum
+            
+186
+
+    
+concentration of 40% propylene glycol or a maximum concentration of 50% glycerin.  The
+            
+187
+
+    
+AHJ can allow the concentration of antifreeze to be increased due to temperature concerns."]
+            
+188
+
+    
+    (16)  IFC, Chapter 9, Section 903.5 is amended to add the following subsection:
+            
+189
+
+    
+"903.5.1 Tag and Information.  A tag shall be attached to the riser indicating the date the
+            
+190
+
+    
+antifreeze solution was tested.  The tag shall also indicate the type and concentration of
+            
+191
+
+    
+antifreeze solution by volume with which the system is filled, the date the antifreeze was
+            
+192
+
+    
+replaced, if applicable, the name of the contractor that tested or replaced the antifreeze solution,
+            
+193
+
+    
+the contractor's license number, a statement indicating if the entire system was drained and
+            
+194
+
+    
+replaced with antifreeze, and a warning to test the concentration of the antifreeze solutions at
+            
+195
+
+    
+yearly intervals."
+            
+196
+
+    
+    (17)  IFC, Chapter 9, Section 903.6, Existing Buildings, and Chapter 46, Section
+            
+197
+
+    
+4603.4, Sprinkler systems, are amended to add the following subsection to each section:
+            
+198
+
+    
+"903.6.3 Group A-2 and 4603.4.3 Group A-2.  An automatic fire sprinkler system shall be
+            
+199
+
+    
+provided throughout existing Group A-2 occupancies where indoor pyrotechnics are used."
+            
+200
+
+    
+    (18)  IFC, Chapter 9, Section 904.11, Commercial cooking systems, is deleted and
+            
+201
+
+    
+rewritten as follows: "The automatic fire extinguishing system for commercial cooking systems
+            
+202
+
+    
+shall be of a type recognized for protection of commercial cooking equipment and exhaust
+            
+203
+
+    
+systems.  Pre-engineered automatic extinguishing systems shall be tested in accordance with
+            
+204
+
+    
+UL300 and listed and labeled for the intended application.  The system shall be installed in
+            
+205
+
+    
+accordance with this code, its listing and the manufacturer's installation instructions.  The
+            
+206
+
+    
+exception in Section 904.11 is not deleted and shall remain as currently written in the IFC."
+            
+207
+
+    
+    (19)  IFC, Chapter 9, Section 904.11.3, Carbon dioxide systems, and Section
+            
+208
+
+    
+904.11.3.1, Ventilation system, are deleted and rewritten as follows:
+            
+209
+
+    
+    (a)  "Existing automatic fire extinguishing systems used for commercial cooking that
+            
+210
+
+    
+use dry chemical are prohibited and shall be removed from service."
+            
+211
+
+    
+    (b)  "Existing wet chemical fire extinguishing systems used for commercial cooking
+            
+212
+
+    
+that are not UL300 listed and labeled are prohibited and shall be either removed or upgraded to
+            
+213
+
+    
+a UL300 listed and labeled system."
+
+            
+214
+
+
+    
+    (20)  IFC, Chapter 9, Section 904.11.4, Special provisions for automatic sprinkler
+            
+215
+
+    
+systems, is amended to add the following subsection: "904.11.4.2 Existing automatic fire
+            
+216
+
+    
+sprinkler systems protecting commercial cooking equipment, hood, and exhaust systems that
+            
+217
+
+    
+generate appreciable depth of cooking oils shall be replaced with a UL300 system that is listed
+            
+218
+
+    
+and labeled for the intended application."
+            
+219
+
+    
+    (21)  IFC, Chapter 9, Section 904.11.6.2, Extinguishing system service, is amended to
+            
+220
+
+    
+add the following: "Exception: Automatic fire extinguishing systems located in occupancies
+            
+221
+
+    
+where usage is limited and less than six consecutive months may be serviced annually if the
+            
+222
+
+    
+annual service is conducted immediately before the period of usage, and approval is received
+            
+223
+
+    
+from the AHJ."
+            
+224
+
+    
+    (22)  IFC, Chapter 9, Section 905.11, Existing buildings, and IFC, Chapter 46, Section
+            
+225
+
+    
+4603.5, Standpipes, are deleted.
+            
+226
+
+    
+    (23)  IFC, Chapter 9, Section 907.3, Where required in existing buildings and
+            
+227
+
+    
+structures, is deleted, and IFC, Chapter 46, Section 4603.6, Fire alarm systems, is deleted and
+            
+228
+
+    
+rewritten as follows: "An approved automatic fire detection system shall be installed in
+            
+229
+
+    
+accordance with the provisions of this code and NFPA 72.  Devices, combinations of devices,
+            
+230
+
+    
+appliances, and equipment shall be approved.  The automatic fire detectors shall be smoke
+            
+231
+
+    
+detectors, except an approved alternative type of detector shall be installed in spaces such as
+            
+232
+
+    
+boiler rooms where, during normal operation, products of combustion are present in sufficient
+            
+233
+
+    
+quantity to actuate a smoke detector."
+            
+234
+
+    
+    (24)  IFC, Chapter 9, Section 907.9.5, Maintenance, inspection, and testing, is amended
+            
+235
+
+    
+to add the following sentences at the end of the section: "Increases in nuisance alarms shall
+            
+236
+
+    
+require the fire alarm system to be tested for sensitivity.  Fire alarm systems that continue after
+            
+237
+
+    
+sensitivity testing with unwarranted nuisance alarms shall be replaced as directed by the AHJ."
+            
+238
+
+    
+    (25)   IFC, Chapter 9, Section 907.10, Carbon monoxide alarms, is added as follows:
+            
+239
+
+    
+"Carbon monoxide alarms shall be installed on each habitable level of a dwelling unit or
+            
+240
+
+    
+sleeping unit in Groups R-2, R-3, R-4, and I-1 equipped with fuel burning appliances.
+            
+241
+
+    
+901.10.21.1.  If more than one carbon monoxide detector is required, they shall be
+            
+242
+
+    
+interconnected as required in IFC, Chapter 9, Section 907.2.11.3.
+            
+243
+
+    
+901.10.21.2.  In new construction, carbon monoxide detectors shall receive their primary power
+            
+244
+
+    
+as required in IFC, Chapter 9, Section 907.2.11.4.
+
+            
+245
+
+
+    
+901.10.21.3.  Upon completion of the installation, the carbon monoxide detector system will
+            
+246
+
+    
+meet the requirements listed in NFPA 720, Installation of Carbon Monoxide Detection and
+            
+247
+
+    
+Warning Equipment and UL2034, Standard for Single and Multiple Station Carbon Monoxide
+            
+248
+
+    
+Alarms."
+            
+249
+
+    
+    Section 4.   Effective date.
+            
+250
+
+    
+    This bill takes effect on July 1, 2012.
+
+
+
+
+ Legislative Review Note
+    as of  11-21-11  7:00 AM
+
+ Office of Legislative Research and General Counsel
+[Bill Documents][Bills Directory]
+
+
+
+
+
+
+
+
+
+Who represents me?
+
+
+
+
+
+Remember my Legislators
+
+
+
+
+
+State Senate
+		350 North State, Suite 320
+		PO Box 145115
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1035
+		Fax: (801) 326-1475
+
+
+
+House of Representatives
+		350 North State, Suite 350
+		PO Box 145030
+		Salt Lake City, Utah 84114
+
+		Telephone: (801) 538-1029
+		Fax: (801) 326-1544
+
+
+
+
+
+
+
+
+
+
+Home
+Mobile Site
+Site Map
+Calendar
+Code / Constitution
+House
+Senate
+
+Terms of Use/Privacy Policy
+
+ADA
+Utah.gov
+
+
+
+
+
+
+
