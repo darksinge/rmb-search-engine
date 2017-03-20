@@ -6,6 +6,8 @@ Craig Blackburn, Whitney DeSpain, Bradley Robinson
 
 While politics is important to many people, getting involved and understandinglegislature can be a hard task for the average person.  We seek to make it lessdifficult by giving Utahans a new way to look at bills going through our statelegislature.  Our goal is to develop a software tool that automates the processof presenting relevant and engaging legislative data.
 
+Since the development of the [website][legibills] used to display our findings is concern of it's own, [it's source code is hosted in a seperate repository][legibills-github].
+
 ## 2    Utah Legislation Classification Tool
 
 ### 2.1 Tool Function
@@ -45,3 +47,6 @@ Possible resources we can use in our project
 * presentation: A  visualization  library  (Matplotlib  or  D3)  to  help  users see interesting relationships about legislators in Utah and voting over the years.
 * search queries: Existing  algorithms  to  build  an  inverted  index,  tokenize terms, and support advanced searches (and, or, not, inclusive, exclusive, permuterm, parametric queries, etc.)
 * web interface: NodeJS runtime environment to build a website that displays our findings and research.
+
+[legibills]: https://legibills.com
+[legibills-github]: https://github.com/darksinge/legibills-site
