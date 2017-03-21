@@ -3,9 +3,12 @@ from sklearn.metrics import silhouette_samples, silhouette_score
 from sklearn.cluster import KMeans, MiniBatchKMeans
 import os
 import glob
+import multiprocessing as mp
+
 import pandas as pd
 from time import time
 import matplotlib.pyplot as plt
+import random
 
 
 def get_series():
@@ -104,7 +107,7 @@ def box_plot(values, title, file_name):
 
 def cluster_tests_97(X):
     scores_by_init = {}
-    """
+    
     print('-------------------init_size-------------')
     for i in range(500, 10000, 100):
         distances, labels = clustering(X, 97, init_size=i)
@@ -124,7 +127,44 @@ def cluster_tests_97(X):
         distances, labels = clustering(X, 97, init_size=i, batch_size=i)
         avg_score = evaluate_cluster(X, labels)
         print("Score: ", avg_score, 'Batch: ', i)
-        """
+
+
+def k_means_process(X, k, init_size, batch_size, output):
+    distances, labels = clustering(X, k, init_size, batch_size)
+    avg_score = evaluate_cluster(X, labels)
+    if avg_score > .2:
+        make_cluster_fig(distances, labels, k)
+    return (k, avg_score, init_size, batch_size)
+    #output.put()
+    
+    
+def create_rand_variables(size):
+    lst = []
+    for i in range(size):
+        k = random.randint(3,300)
+        init_size = random.randint(100, 10000)
+        batch_size = random.randint(100, 10000)
+        lst.append((k, init_size, batch_size))
+    return lst
+
+
+# WARNING: DON'T RUN THIS UNLESS YOU ARE READY TO WAIT A WHILE, IT IS LONG AND
+# DEMANDING OF SYSTEM RESOURCES. ALSO MAKE SURE YOU HAVE A GREAT PROCESSOR AND
+# PLENTY OF MEMORY
+def parallel_process(X):
+    pool = mp.Pool(processes=4)
+    rand_inits = create_rand_variables(20)
+    results = [pool.apply_async(k_means_process, args=(X, x[0], x[1], x[2])) for x in rand_inits]
+    """
+    for p in processes:
+        p.start()
+    for p in processes:
+        p.join()
+        
+    results = [output.get() for p in processes]
+    """
+    output = [p.get() for p in results]
+    print(output)
 
 
 def main():
@@ -137,6 +177,8 @@ def main():
     # cluster_tests_97(X)
     avg_scores = []
 
+    
+    """
     for i in range(20, 30):
         distances, labels = clustering(X, i)
         avg_score = evaluate_cluster(X, labels)
@@ -146,8 +188,11 @@ def main():
             print('Decent Average Score!')
             make_cluster_fig(distances, labels, i)
     print(max(avg_scores))
-    hist(avg_scores, 'K-Means Silhouette Averages', 'silhouette_hist')
-    box_plot(avg_scores, 'K-Means Silhouette Averages', 'silhouette_box')
+    """
+    
+    
+    # hist(avg_scores, 'K-Means Silhouette Averages', 'silhouette_hist')
+    # box_plot(avg_scores, 'K-Means Silhouette Averages', 'silhouette_box')
 
 if __name__ == '__main__':
     main()
