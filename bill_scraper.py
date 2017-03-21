@@ -47,12 +47,15 @@ def make_txt_of(content_dict, bill, year):
     file_name = '{bill}_{year}.txt'.format(bill=bill, year=year)
     if 'The resource you are looking for has been removed, had its name changed, or is temporarily unavailable.'\
         not in content_dict['full']:
-        f = open(os.path.join("bill_files", file_name), 'w', encoding='ISO-8859-1')
-        f.write('Sponsors: {sponsors}'.format(sponsors=content_dict['sponsors']))
-        f.write('Modifications: {mods}'.format(mods=content_dict['mods']))
-        f.write('Full text:\n')
+        f = open(os.path.join("bill_files", file_name), 'w')
+        # TODO: Right now these don't parse the correct information. It may be impossible though due to different
+        # formatting
+        #f.write('Sponsors: {sponsors}'.format(sponsors=content_dict['sponsors']))
+        #f.write('Modifications: {mods}'.format(mods=content_dict['mods']))
+        #f.write('Full text:\n')
         try:
-            f.write(content_dict['full'])
+            # Significantly slower, but worth the extra effort
+            f.write(clean_characters(content_dict['full']))
         except UnicodeEncodeError:
             f.write(clean_characters(content_dict['full']))
         f.close()
@@ -85,7 +88,6 @@ def go_through_bills():
 
 
 def main():
-    # TODO: Look at bills
     get_bill_names()
     go_through_bills()
 
