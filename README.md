@@ -1,3 +1,17 @@
+## Setup
+
+### Dependencies
+Preferably the full Anaconda installation for Python 3.6.0, but otherwise the packages needed are:
+* Python 3.5 or above
+* pandas 0.19.x
+* numpy 1.11.x
+* sklearn 0.18
+* matplotlib 2.x
+
+## Usage
+TODO: Code will be here demonstrating the use of the package.
+
+
 ## IR Utah Legislation Project
 
 Craig Blackburn, Whitney DeSpain, Bradley Robinson
