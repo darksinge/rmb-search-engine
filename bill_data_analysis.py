@@ -3,7 +3,7 @@ from sklearn.decomposition import TruncatedSVD
 from sklearn.pipeline import make_pipeline
 from sklearn.preprocessing import Normalizer
 from sklearn.metrics import silhouette_score
-from sklearn.cluster import KMeans, MiniBatchKMeans
+from sklearn.cluster import KMeans, MiniBatchKMeans, AgglomerativeClustering
 import os
 import glob
 #import multiprocessing as mp
@@ -18,6 +18,10 @@ import random
 # Reads through a set directory -/bill_files/filtered/ finding all txt files
 # and adds them to a series.
 def get_series():
+    # TODO: To skip the extra work of reading each file and vectorizing,
+    # try to open the dense matrix first
+    # This will mean we will have to keep track of any changes to the data box
+    # So we should create a file that logs any changes done to filtered
     data_files = glob.glob(os.path.join('bill_files', 'filtered', '*.txt'))
     bill_dict = {}
     time1 = time()
@@ -76,11 +80,16 @@ def dimensionality_reduction(X, components):
 # only use param slow=True if the vector has been reduced using dimensionality_reduction
 # Otherwise the analysis is exceptionally long (minutes) and the score does not significantly
 # increase
-def clustering(X, clusters=4, max_iter=100, slow=False, init_size=2000, batch_size=2000):
+def clustering(X, clusters=4, max_iter=100, slow=False, init_size=2000, batch_size=2000, cluster_type="kmeans"):
     time1 = time()
-    
-    if slow:
+    # TODO: Restructure to make code more simple
+    if cluster_type == "kmeans":
         km = KMeans(n_clusters=clusters, max_iter=max_iter)
+    elif cluster_type == "agg":
+        cluster = AgglomerativeClustering(n_clusters=clusters, affinity="cosine", linkage="average")
+        cluster.fit(X)
+        print('Agglomerative clustering done in {}s'.format(time() - time1))
+        return [], cluster.labels_
     else:
         km = MiniBatchKMeans(n_clusters=clusters, max_iter=max_iter, init_size=init_size, batch_size=batch_size)
     clustered_distances = km.fit_transform(X)
@@ -242,6 +251,10 @@ def main():
     # X = hashing_vector(bill_series)
     # cluster_tests_97(X)
     avg_scores = []
+    for k in range(100, 110):
+        distances, labels = clustering(X, clusters=k, cluster_type="agg")
+        score = evaluate_cluster(X, labels)
+        print("Agglomerative clusters: ", k, " Score: ", score)
     for k in range(100, 200):
         distances, labels = clustering(X, k, slow=True)
         avg_score = evaluate_cluster(X, labels)
