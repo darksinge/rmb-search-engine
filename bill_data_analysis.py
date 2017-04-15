@@ -18,13 +18,27 @@ import random
 # Reads through a set directory -/bill_files/filtered/ finding all txt files
 # and adds them to a series.
 def get_series():
+    """
+    Finds the paths of all of the txt files in the database and adds their locations and names to a series
+
+    Parameters:
+        None
+
+    Return:
+         bill_series: a panda series full of the names of all of the txt files
+    """
+
+
     # TODO: To skip the extra work of reading each file and vectorizing,
     # try to open the dense matrix first
-    # This will mean we will have to keep track of any changes to the data box
-    # So we should create a file that logs any changes done to filtered
-    data_files = glob.glob(os.path.join('bill_files', 'filtered', '*.txt'))
-    bill_dict = {}
     time1 = time()
+    data_files = []
+    data_folders = glob.glob(os.path.join('bill_files', 'filtered', '*/'))
+    for folder in data_folders:
+        files = glob.glob(os.path.join(folder, '*.txt'))
+        for f in files:
+            data_files.append(f)
+    bill_dict = {}
     for d in data_files:
         text = open(d)
         doc_name = d.split('.txt')[0]
@@ -35,9 +49,17 @@ def get_series():
     return bill_series
 
 
-# Receives a series of documents
-# Returns a Tfidf vector
 def vectorize(bill_series, save_vector=False):
+    """
+    Takes a series of text documents that have been read already and creates a tf-idf vector
+
+    Parameters:
+        bill_series: Pandas series with the text of each document
+        save_vector: bool, if true the vector will be saved as a csv file
+
+    Returns:
+        Sparse matrix: A sparse matrix that can be used for clustering algorithms
+    """
     time1 = time()
     vectorizer = TfidfVectorizer(max_df=.4, min_df=2, stop_words='english')
     X = vectorizer.fit_transform(bill_series)
@@ -53,6 +75,16 @@ def vectorize(bill_series, save_vector=False):
 # This is one way to create a vector for the words, but the tests reveal it performs incredibly poorly as 
 # binary values. Has not been tested otherwise. Remains for testing purposes
 def hashing_vector(bill_series):
+    """
+    An alternate way to vectorize the documents. Previous testing has returned abysmal results for clustering, so not
+    recommended.
+
+    Parameters:
+        bill_series: A series of strings for each document
+
+    Returns:
+        sparse matrix: A sparse matrix for clustering algorithms
+    """
     time1 = time()
     vectorizer = HashingVectorizer(binary=True)
     X = vectorizer.fit_transform(bill_series)
@@ -60,9 +92,21 @@ def hashing_vector(bill_series):
     return X
 
 
-# Reduces dimensions using TruncatedSVD. So far this creates the best parameters
-# for clustering, recommended to use prior to clustering
+#
 def dimensionality_reduction(X, components):
+    """
+    Reduces dimensions of a sparse matrix using TruncatedSVD. So far this creates the best parameters
+    for clustering, recommended to use prior to clustering. Other component analysis methods have not been tested,
+    however.
+
+    Parameters:
+        X: Sparse matrix tf-idf vector
+        components: How many components are being used for the SVD
+
+    Return:
+        A sparse matrix that has undergone dimension reduction. Speeds up clusterning and improves internal validity
+        as well.
+    """
     t0 = time()
     svd = TruncatedSVD(components)
     normalizer = Normalizer(copy=False)
@@ -75,12 +119,23 @@ def dimensionality_reduction(X, components):
     return X
 
 
-# Uses MiniBatchKMeans by default, which is a faster implementation of KMeans 
-# clustering that performs slightly lower than the regular implementation of KMeans
-# only use param slow=True if the vector has been reduced using dimensionality_reduction
-# Otherwise the analysis is exceptionally long (minutes) and the score does not significantly
-# increase
 def clustering(X, clusters=4, max_iter=100, slow=False, init_size=2000, batch_size=2000, cluster_type="kmeans"):
+    """
+    Takes a tf-idf matrix and clusters it.
+
+    Parameters:
+        X: A sparse tf-idf matrix
+        clusters: Integer. Number of clusters to be used
+        max_iter: Integer. How many iterations to go before stopping
+        slow: bool. Not used anymore. Use cluster_type instead
+        init_size: Integer. If using the mini-kmeans batch, this determines the initialize size
+        batch_size: Integer. Used for mini-kmeans batch
+        cluster_type: String. Takes "kmeans" or "agg" currently. If the name isn't recognized your stuck with mini-
+        kmeans
+
+    Return:
+
+    """
     time1 = time()
     # TODO: Restructure to make code more simple
     if cluster_type == "kmeans":
@@ -98,16 +153,36 @@ def clustering(X, clusters=4, max_iter=100, slow=False, init_size=2000, batch_si
     return clustered_distances, cluster_labels
 
 
-# Uses the metric silhouette average to determine how well the documents have 
-# clustered. The metric can go from -1 (really bad) to 1. The closer to 1 the better.
-# Compares how similar an object is to its cluster (cohesion) compared to other clusters (separation)
+#
 def evaluate_cluster(X, labels):
+    """
+    Uses the metric silhouette average to determine how well the documents have
+    clustered. The metric can go from -1 (monkeys could have done it better) to 1 (did you cheat?). The closer to 1 the
+    better. Compares how similar an object is to its cluster (cohesion) compared to other clusters (separation)
+
+    Parameters:
+        X: A sparse matrix
+        labels: Labels returned from kmeans
+
+    Return:
+         float: a score -1 to 1 indicating internal validity
+    """
     silhouette_avg =  silhouette_score(X, labels)
     return silhouette_avg
 
 
-# Creates a scatter plot with the transformed distances of clustering
 def make_cluster_fig(distances, labels, clusters):
+    """
+    Creates a scatter plot with the transformed distances of clustering
+
+    Parameters:
+        distances: numpy array with two columns for cluster distances (x, y)
+        labels: the cluster each row corresponds to
+        clusters: the number of clusters
+
+    Return:
+        None
+    """
     time1 = time()
     fig, ax = plt.subplots()
     ax.scatter(x=distances[:, 0], y = distances[:, 1],c=labels)
@@ -119,6 +194,18 @@ def make_cluster_fig(distances, labels, clusters):
 
 # Saves the clusters to a csv for future use.
 def save_clusters(doc_names, labels, distances, num_clusters):
+    """
+    Saves the clusters with the corresponding document names as a csv, and includes the distances (nothing else)
+
+    Parameters:
+        doc_names: A series/list of the file names used
+        labels: A list like structure of the cluster name for eacch document
+        distances: numpy array with two columns with the distances of each cluster
+        num_clusters: The number of clusters
+
+    Return:
+        None
+    """
     time0 = time()
     df = pd.DataFrame({'cluster': labels, 'X': distances[:, 0], 'y': distances[:, 1]}, index=doc_names)
     if not os.path.exists(os.path.join('analysis', 'clusters')):
@@ -131,12 +218,32 @@ def save_clusters(doc_names, labels, distances, num_clusters):
 # Returns number of words in a document
 # NOTE: May be affected by extra spaces and tabs
 def get_doc_lengths(bill):
+    """
+    Gets the word length of the document
+
+    Parameters
+        bill: string of words in the document
+
+    Returns:
+        integer: the length of the text file
+    """
     data = bill.split(' ')
     return len(data)
 
 
-# Creates a histogram and saves a png to file in path -/visualizations
 def hist(values, title, file_name):
+    """
+    Creates a histogram and saves a png to file in path -/visualizations for the sizes of documents. Right now the
+    pictures kind of suck
+
+    Parameters:
+        values: length of documents
+        title:
+        file_name:
+
+    Return:
+        None
+    """
     fix, ax = plt.subplots()
     ax.hist(values, bins=20)
     ax.set_title(title)
@@ -163,9 +270,14 @@ def box_plot(values, title, file_name):
     plt.close()
 
 
-# This is slow, only for testing purposes
-# Used to test different parameters with a fixed k
 def cluster_tests(X, k):
+    """
+    # This is slow, only for testing purposes
+    # Used to test different parameters with a fixed k
+    :param X:
+    :param k:
+    :return:
+    """
     scores_by_init = {}
     
     print('-------------------init_size-------------')
@@ -246,7 +358,7 @@ def main():
         os.mkdir('visualizations')
         hist(bill_lens, 'Lengths', 'bill_lengths')
     box_plot(bill_lens, 'Lengths Box Plot', 'bill_lens_box')
-    X = vectorize(bill_series)
+    X = vectorize(bill_series, save_vector=True)
     X = dimensionality_reduction(X, 100)
     # X = hashing_vector(bill_series)
     # cluster_tests_97(X)
