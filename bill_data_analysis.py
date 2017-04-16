@@ -15,8 +15,6 @@ import matplotlib.pyplot as plt
 import random
 
 
-# Reads through a set directory -/bill_files/filtered/ finding all txt files
-# and adds them to a series.
 def get_series():
     """
     Finds the paths of all of the txt files in the database and adds their locations and names to a series
@@ -27,8 +25,6 @@ def get_series():
     Return:
          bill_series: a panda series full of the names of all of the txt files
     """
-
-
     # TODO: To skip the extra work of reading each file and vectorizing,
     # try to open the dense matrix first
     time1 = time()
@@ -67,13 +63,13 @@ def vectorize(bill_series, save_vector=False):
         if not os.path.exists('analysis'):
             os.mkdir('analysis')
         df = pd.DataFrame(X.todense(), index=bill_series.index, columns = vectorizer.get_feature_names())
+        print(df.head())
         df.to_csv(os.path.join('analysis', 'dense_matrix.csv'))
+        #df.to_json(os.path.join('analysis', 'dense_matrix.json'))
     print('Vectorization done in {}s'.format(time() - time1))
     return X
 
 
-# This is one way to create a vector for the words, but the tests reveal it performs incredibly poorly as 
-# binary values. Has not been tested otherwise. Remains for testing purposes
 def hashing_vector(bill_series):
     """
     An alternate way to vectorize the documents. Previous testing has returned abysmal results for clustering, so not
@@ -92,7 +88,6 @@ def hashing_vector(bill_series):
     return X
 
 
-#
 def dimensionality_reduction(X, components):
     """
     Reduces dimensions of a sparse matrix using TruncatedSVD. So far this creates the best parameters
@@ -134,10 +129,11 @@ def clustering(X, clusters=4, max_iter=100, slow=False, init_size=2000, batch_si
         kmeans
 
     Return:
-
+        clustered_distances: a numpy array with two columns and rows for each document representing the distance between
+            docs
+        cluster_labels: a list with the cluster name for each doc.
     """
     time1 = time()
-    # TODO: Restructure to make code more simple
     if cluster_type == "kmeans":
         km = KMeans(n_clusters=clusters, max_iter=max_iter)
     elif cluster_type == "agg":
@@ -153,7 +149,6 @@ def clustering(X, clusters=4, max_iter=100, slow=False, init_size=2000, batch_si
     return clustered_distances, cluster_labels
 
 
-#
 def evaluate_cluster(X, labels):
     """
     Uses the metric silhouette average to determine how well the documents have
@@ -192,7 +187,6 @@ def make_cluster_fig(distances, labels, clusters):
     print("Visualization done in {}s".format(time() - time1))
 
 
-# Saves the clusters to a csv for future use.
 def save_clusters(doc_names, labels, distances, num_clusters):
     """
     Saves the clusters with the corresponding document names as a csv, and includes the distances (nothing else)
@@ -211,12 +205,12 @@ def save_clusters(doc_names, labels, distances, num_clusters):
     if not os.path.exists(os.path.join('analysis', 'clusters')):
         os.mkdir(os.path.join('analysis', 'clusters'))
     df.sort_values('cluster', inplace=True)
-    df.to_csv(os.path.join('analysis', 'clusters', 'with_{}_clusters.csv'.format(num_clusters)))
+    file_name = os.path.join('analysis', 'clusters', 'with_{}_clusters'.format(num_clusters))
+    df.to_csv(file_name + '.csv')
+    df.to_json(file_name + '.json')
     print("Cluster csv saved in {}s".format(time() - time0))
     
 
-# Returns number of words in a document
-# NOTE: May be affected by extra spaces and tabs
 def get_doc_lengths(bill):
     """
     Gets the word length of the document
@@ -252,8 +246,18 @@ def hist(values, title, file_name):
     plt.close()
 
 
-# Creates a bar_graph and saves a png
 def bar_graph(values, title, file_name):
+    """
+    Creates a bar_graph and saves a png
+
+    Parameters:
+        values: list-like structure with integers for document lengths.
+        title: Title to give the graph
+        file_name: What to save the file as
+
+    Returns:
+        None
+    """
     fig, ax = plt.subplots()
     ax.bar([.25 + x for x in range(len(values))], values)
     ax.set_title(title)
@@ -261,8 +265,19 @@ def bar_graph(values, title, file_name):
     plt.close()
 
 
-# Function creates a box plot and saves it to a file in path -/visualizations/
 def box_plot(values, title, file_name):
+    """
+    Function creates a box plot and saves it to a file in path -/visualizations/
+    Bar graph and box plot could be combined. They will be in the future.
+
+    Parameters:
+        values: list-like structure with
+        title: Title to give the plot
+        file_name: What to save it as
+
+    Return:
+        None
+    """
     fig, ax = plt.subplots()
     ax.boxplot(values)
     ax.set_title(title)
@@ -272,11 +287,15 @@ def box_plot(values, title, file_name):
 
 def cluster_tests(X, k):
     """
-    # This is slow, only for testing purposes
-    # Used to test different parameters with a fixed k
-    :param X:
-    :param k:
-    :return:
+    This is slow, only for testing purposes
+    Used to test different parameters with a fixed k
+
+    Parameters:
+        X: sparse-matrix tf-idf
+        k: Number of clusters
+
+    Return:
+        None
     """
     scores_by_init = {}
     
@@ -301,9 +320,21 @@ def cluster_tests(X, k):
         print("Score: ", avg_score, 'Batch: ', i)
 
 
-# Was used for a multi-threading process, but so far is not usable
-# Don't use unless you fix that other stuff.
+# DANGER ZONE!!!!!!!
 def k_means_process(X, k, init_size, batch_size):
+    """
+    Was used for a multi-threading process, but so far is not usable
+    Don't use unless you fix that other stuff.
+
+    Parameters:
+        X: spare matrix tf-idf structure
+        k: Number of clusters
+        init_size: Int for the size if we are using kmeans-mini batch
+        batch_size: Used for kmeans-mini batch
+
+    Return:
+        output.put()
+    """
     distances, labels = clustering(X, k, init_size, batch_size)
     avg_score = evaluate_cluster(X, labels)
     if avg_score > .2:
@@ -312,9 +343,17 @@ def k_means_process(X, k, init_size, batch_size):
     #output.put()
     
 
-# Creates a list with variables for to send to k_means_process
-# Purpose: Experiment with parameters
+# TESTING
 def create_rand_variables(size):
+    """
+    Creates a list with variables for to send to k_means_process. Just for experimenting to find the perfect parameters.
+
+    Parameters:
+        size: What's the range you want?
+
+    Returns:
+        lst: a list with variables for each run of the kmeans algorithm.
+    """
     lst = []
     for i in range(size):
         k = random.randint(3,300)
@@ -338,9 +377,17 @@ def parallel_process(X):
 """
 
 
-# Testing function that separates the bills based on their lengths
-# TODO: Finish this
 def separate_and_calc(bill_series):
+    """
+    Testing function that separates the bills based on their lengths. This way more meaningful graphs can be created of
+    the word lengths. Unfinished, at this point may just be dropped.
+
+    Parameters:
+        bill_series: Bill documents
+
+    Return:
+        None, for now
+    """
     bill_unfiltered = pd.DataFrame(bill_series, columns=['text'])
     bill_unfiltered['lens'] = bill_series.apply(get_doc_lengths)
     print(bill_unfiltered.columns)
@@ -350,23 +397,27 @@ def separate_and_calc(bill_series):
 
 def main():
     bill_series = get_series()
+    """
     bill_lens = [get_doc_lengths(bill) for bill in bill_series.tolist()]
     separate_and_calc(bill_series)
+
+    # Creates visualizations of the bill lengths, not needed for kmeans analysis
     try:
         hist(bill_lens, 'Lengths', 'bill_lengths')
     except FileNotFoundError:
         os.mkdir('visualizations')
         hist(bill_lens, 'Lengths', 'bill_lengths')
     box_plot(bill_lens, 'Lengths Box Plot', 'bill_lens_box')
+    """
+
     X = vectorize(bill_series, save_vector=True)
     X = dimensionality_reduction(X, 100)
-    # X = hashing_vector(bill_series)
-    # cluster_tests_97(X)
     avg_scores = []
     for k in range(100, 110):
         distances, labels = clustering(X, clusters=k, cluster_type="agg")
         score = evaluate_cluster(X, labels)
         print("Agglomerative clusters: ", k, " Score: ", score)
+
     for k in range(100, 200):
         distances, labels = clustering(X, k, slow=True)
         avg_score = evaluate_cluster(X, labels)
@@ -374,11 +425,11 @@ def main():
         avg_scores.append(avg_score)
         if avg_score > .2:
             save_clusters(bill_series.index, labels, distances, k)
-            make_cluster_fig(distances, labels, k)
+            # make_cluster_fig(distances, labels, k)
     # TODO: Figure out the best performing parameters for k-means
+
     print(max(avg_scores))
-    
-    
+
     hist(avg_scores, 'K-Means Silhouette Averages', 'silhouette_hist')
     box_plot(avg_scores, 'K-Means Silhouette Averages', 'silhouette_box')
 
