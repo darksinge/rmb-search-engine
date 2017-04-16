@@ -63,7 +63,6 @@ def vectorize(bill_series, save_vector=False):
         if not os.path.exists('analysis'):
             os.mkdir('analysis')
         df = pd.DataFrame(X.todense(), index=bill_series.index, columns = vectorizer.get_feature_names())
-        print(df.head())
         df.to_csv(os.path.join('analysis', 'dense_matrix.csv'))
         #df.to_json(os.path.join('analysis', 'dense_matrix.json'))
     print('Vectorization done in {}s'.format(time() - time1))
@@ -412,26 +411,26 @@ def main():
 
     X = vectorize(bill_series, save_vector=True)
     X = dimensionality_reduction(X, 100)
-    avg_scores = []
+    """
+    # So far performance and accuracy is less than standard k-means
     for k in range(100, 110):
         distances, labels = clustering(X, clusters=k, cluster_type="agg")
         score = evaluate_cluster(X, labels)
         print("Agglomerative clusters: ", k, " Score: ", score)
-
+    """
+    max_score = 0
+    max_cluster = None
     for k in range(100, 200):
         distances, labels = clustering(X, k, slow=True)
         avg_score = evaluate_cluster(X, labels)
-        print("Clusters: ", k, " Score: ", avg_score)
-        avg_scores.append(avg_score)
-        if avg_score > .2:
-            save_clusters(bill_series.index, labels, distances, k)
-            # make_cluster_fig(distances, labels, k)
+        print("K-Means clusters: ", k, " Score: ", avg_score)
+        if avg_score > max_score:
+            max_score = avg_score
+            max_cluster = (distances, labels)
     # TODO: Figure out the best performing parameters for k-means
+    print(max_score)
+    save_clusters(bill_series.index, max_cluster[1], max_cluster[0], 'max')
 
-    print(max(avg_scores))
-
-    hist(avg_scores, 'K-Means Silhouette Averages', 'silhouette_hist')
-    box_plot(avg_scores, 'K-Means Silhouette Averages', 'silhouette_box')
 
 if __name__ == '__main__':
     main()
