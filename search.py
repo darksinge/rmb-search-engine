@@ -9,6 +9,52 @@ so a similar algorithm can be called in javascript
 """
 import pandas as pd
 import os
+import re
+
+
+class ClusterFinder(object):
+    """
+
+    """
+    def __init__(self):
+        self.clusters = pd.read_csv(os.path.join('analysis', 'clusters', 'with_max_clusters.csv'))
+        cols = self.clusters.columns
+        self.clusters.rename(columns={cols[0]: 'docs'}, inplace=True)
+        self.clusters.set_index('docs', inplace=True)
+
+    def find_similar_bills(self, bill_file_name):
+        """
+        Takes the name and location of a bill file, searches for it and returns five other bills that are similar based
+        on K-Means clusters
+
+        Parameters:
+            bill_file_name: a string with the relative location of the bill file
+
+        Returns:
+            numpy string array: has five of the closest bills within the same cluster
+        """
+        try:
+            found_doc = self.clusters.loc[bill_file_name]
+            cluster_name = found_doc['cluster']
+            docs_in_cluster = self.clusters[self.clusters['cluster'] == cluster_name]
+            distances = abs((found_doc['X'] + found_doc['y']) - (docs_in_cluster['X'] + docs_in_cluster['y']))
+            distances.sort_values(inplace=True)
+            return distances.head(6).index[1:]
+        except KeyError:
+            return "Invalid document."
+
+    def get_names(self, n):
+        """
+        Simply gets some file names to test the search with.
+
+        Parameters:
+            n: integer for how many file names needed
+
+        Returns:
+             list of file names of size n
+        """
+        files = self.clusters.sample(n).index
+        return files.values
 
 
 def check_for_terms(tokens, df_columns):
@@ -23,6 +69,7 @@ def check_for_terms(tokens, df_columns):
         A list of all the terms that have hits
     """
     pass
+
 
 def csv_search(tokens, df):
     """
@@ -55,7 +102,6 @@ def csv_search(tokens, df):
         with_term = df[df[term] > 0]
         # term_df.append()
         
-
 
 def tokenize(unfiltered_text):
     """
@@ -96,7 +142,50 @@ def test_search():
     """
     dense_matrix = pd.read_csv(os.path.join("analysis", "dense_matrix.csv"))
     find_text(["bill", "rights", "taxes"], df=dense_matrix)
+
+
+def open_files(lst, similar):
+    """
+    Takes a list of files and prints a few of the lines from them to check and make sure the algorithm worked
+    :param lst:
+    :return:
+    """
+
+    for f in lst:
+        file = open(f + '.txt', 'r')
+        contents = file.read()
+        filtered_contents = re.sub('\\s', ' ', contents)
+        print("------------------------------------------------------------------------------")
+        print('Document: ', f, "\nSimilar to: ", similar)
+        print("------------------------------------------------------------------------------")
+        print(filtered_contents)
+        print("------------------------------------------------------------------------------")
+
     
-    
-    
-    
+if __name__ == '__main__':
+    """
+    Implementation of a test of the main algorithm for our web site, K-Means clustering and distancing. Creates a
+    ClusterFinder class, and uses cluster.get_names, which is a convenient little tool for testing. That just returns
+    random file names so we can search for things similar to them.
+
+    Using these random samples, we call ClusterFinder.find_similar_bills, which a) finds the cluster, b) orders the
+    cluster by distance from the current file, and c) returns the top five matches.
+    """
+    cluster = ClusterFinder()
+    results = {}
+    for file in cluster.get_names(10):
+        print("------------------------------------------------------------------------------")
+        print("Files similar to {}".format(file))
+        print("------------------------------------------------------------------------------")
+        similar_clusters = cluster.find_similar_bills(file)
+        results[file] = similar_clusters
+        for c in similar_clusters:
+            print(c)
+        print('')
+    """
+    # To look at the actual files, it is possible to print them in the console using this call, but it is right now
+    # easier to check the files individually in the /raw/ folder since the filtered versions are so messy. So far the
+    # clustering has been somewhat meaningful with manual checks.
+    for key, files in results.items():
+        open_files(files, key)
+    """
