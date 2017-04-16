@@ -3,20 +3,19 @@
 ### Testing the current algorithms
 The fundamental algorithm to the website will be clustering, which will help create a content-based recommendation
 engine that helps individuals find congressional bills that are similar to each other. To test the already clustered
-files, simply run search.py.
+files, simply run search.py. The only dependency for the script is pandas 0.19.x, and the file 'with_max_clusters.csv' (from ~/analysis/clusters/).
 
 To see the K-Means clustering in action, use bill_data_analysis.py, which has the following dependencies:
 
 ### Dependencies
-Preferably the full Anaconda installation for Python 3.6.0, but otherwise the packages needed are:
+Preferably the full Anaconda installation for Python 3.6.x, but otherwise the packages needed are:
 * Python 3.5 or above
 * pandas 0.19.x
 * numpy 1.11.x
 * sklearn 0.18
 * matplotlib 2.x
 
-## Usage
-
+------
 
 
 ## IR Utah Legislation Project
