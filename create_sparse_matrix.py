@@ -5,7 +5,8 @@ that this file is needed to produce something much smaller to be used for the se
 import pandas as pd
 import os
 import json
-
+import pickle
+import sys
 
 def small_matrix():
     """
@@ -71,11 +72,44 @@ def make_matrix_json(matrix_file=None):
         None
     """
     full_matrix = make_matrix(matrix_file)
+    import sys
+    sys.getsizeof(object)
+    # TODO: still save a pre-built matrix, load that up, rebuild the new data
     matrix_json = json.dumps(full_matrix)
     file = open(os.path.join("analysis", "sparse.json"), 'w')
     file.write(matrix_json)
     file.close()
 
+
+def reverse_matrix(matrix):
+    from collections import OrderedDict
+    """
+    Takes a sparse matrix, reverses the inner dictionary into OrderedDictionary objects
+    :param matrix:
+    :return:
+    """
+    new_matrix = {}
+    for term, outer_dict in matrix.items():
+        sorted_inner = OrderedDict(sorted(outer_dict.items(), key=lambda t: t[1]), reverse=True)
+        new_matrix[term] = sorted_inner
+    return new_matrix
+
+
+def make_pickle(matrix=None):
+    """
+    Creates pickle out of already made sparse.json. make_matrix_json() must have been called for this to work.
+
+    Returns:
+         None
+    """
+    if not matrix:
+        matrix = json.load(open(os.path.join("analysis", "sparse.json"), 'r'))
+    pickle.dump(matrix, open(os.path.join("analysis", "sparse_p.pickle"), 'wb'))
+
+
 if __name__ == '__main__':
-    make_matrix_json()
+    #make_matrix_json()
+    make_pickle()
+    #data = reverse_matrix(data)
+    #make_pickle(data)
 

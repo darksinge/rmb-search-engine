@@ -6,12 +6,14 @@ Created on Tue Apr 11 08:32:10 2017
 
 Code to search documents using csv, in the future it will use a SQL server
 so a similar algorithm can be called in javascript
+
 """
 import pandas as pd
+import pickle
 import os
 import re
 
-
+# TODO: http server,
 class ClusterFinder(object):
     """
 
@@ -55,6 +57,43 @@ class ClusterFinder(object):
         """
         files = self.clusters.sample(n).index
         return files.values
+
+
+class TermSearch(object):
+
+    def __init__(self):
+        from collections import OrderedDict
+        self.sparse_matrix = pickle.load(open(os.path.join('analysis', 'sparse_p.pickle'), 'rb'))
+
+    def tokenize(self, text):
+        stripped_text = re.sub('[^a-z0-9 *]', ' ', text.lower())
+        terms = stripped_text.split()
+        return terms
+
+    def _search_term(self, term):
+        try:
+            doc_dict = self.sparse_matrix[term]
+            return doc_dict
+        except KeyError:
+            return {}
+
+    def combine_dicts(self, dict1, dict2):
+        combined = dict2.copy()
+        for k, terms in dict2.items():
+            if k in dict1:
+                combined[k] += dict1[k]
+        return combined
+
+    def search(self, text):
+        terms = self.tokenize(text)
+        current_dict = {}
+        for i in range(len(terms)):
+            docs = self._search_term(terms[i])
+            if i > 0:
+                current_dict = self.combine_dicts(current_dict, docs)
+        # TODO: Order things
+        return current_dict
+
 
 
 def check_for_terms(tokens, df_columns):
@@ -182,6 +221,17 @@ if __name__ == '__main__':
         for c in similar_clusters:
             print(c)
         print('')
+    search = TermSearch()
+    import time
+    time0 = time.time()
+    a = search.search("taxes automobile")
+    print("Search 2 terms in: {}".format(time.time() - time0))
+    time0 = time.time()
+    a = search.search("children housing authorities")
+    print("Search 3 terms in: {}".format(time.time() - time0))
+    time0 = time.time()
+    a = search.search("tax time authority legislation excessive potter harry")
+    print("Search 7 terms in: {}".format(time.time() - time0))
     """
     # To look at the actual files, it is possible to print them in the console using this call, but it is right now
     # easier to check the files individually in the /raw/ folder since the filtered versions are so messy. So far the
