@@ -82,6 +82,8 @@ class TermSearch(object):
         for k, terms in dict2.items():
             if k in dict1:
                 combined[k] += dict1[k]
+            else:
+                combined[k] = dict1[k]
         return combined
 
     def search(self, text):
