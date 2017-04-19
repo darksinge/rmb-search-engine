@@ -12,7 +12,7 @@ import pickle
 import os
 import re
 
-# TODO: http server,
+
 class ClusterFinder(object):
     """
 
@@ -123,8 +123,6 @@ class TermSearch(object):
         for k, terms in dict2.items():
             if k in dict1:
                 combined[k] += dict1[k]
-            else:
-                combined[k] = dict1[k]
         return combined
 
     def search(self, text):
@@ -142,6 +140,8 @@ class TermSearch(object):
             docs = self._search_term(terms[i])
             if i > 0:
                 current_dict = self.combine_dicts(current_dict, docs)
+            else:
+                current_dict = docs
         # TODO: Order things
         return current_dict
 
