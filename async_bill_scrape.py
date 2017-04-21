@@ -341,13 +341,23 @@ def go_by_year():
     #loop.run_until_complete(f2)
 
 
-def main():
+def get_last_scrape_data():
+    pass
+
+
+def save_progress():
+    """
+    Saves information about the current scrape to ensure that previous work from scraping is not duplicated.
+    :return:
+    """
+    pass
+
+
+def bill_scrape():
     # If you would like to search by going through the data files with the actual names, uncomment:
     get_bill_names()
     go_by_year()
 
 
 if __name__ == '__main__':
-    #import cProfile
-    #cProfile.run('main()')
-    main()
+    bill_scrape()

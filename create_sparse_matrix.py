@@ -72,8 +72,6 @@ def make_matrix_json(matrix_file=None):
         None
     """
     full_matrix = make_matrix(matrix_file)
-    import sys
-    sys.getsizeof(object)
     # TODO: still save a pre-built matrix, load that up, rebuild the new data
     matrix_json = json.dumps(full_matrix)
     file = open(os.path.join("analysis", "sparse.json"), 'w')
@@ -95,15 +93,14 @@ def reverse_matrix(matrix):
     return new_matrix
 
 
-def make_pickle(matrix=None):
+def make_pickle(matrix_file=None):
     """
-    Creates pickle out of already made sparse.json. make_matrix_json() must have been called for this to work.
+    Reads the dense_matrix.csv file (or a file given as an argument and creates a matrix
 
     Returns:
          None
     """
-    if not matrix:
-        matrix = json.load(open(os.path.join("analysis", "sparse.json"), 'r'))
+    matrix = make_matrix(matrix_file)
     pickle.dump(matrix, open(os.path.join("analysis", "sparse_p.pickle"), 'wb'))
 
 

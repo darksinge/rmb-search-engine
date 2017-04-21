@@ -13,6 +13,7 @@ import os
 import re
 
 
+
 class ClusterFinder(object):
     """
 
@@ -75,6 +76,14 @@ class TermSearch(object):
     def __init__(self):
         # May be needed, for now we won't bother
         from collections import OrderedDict
+        self.sparse_matrix = None
+        self.refresh_matrix()
+
+    def refresh_matrix(self):
+        """
+        If the matrix has been
+        :return:
+        """
         self.sparse_matrix = pickle.load(open(os.path.join('analysis', 'sparse_p.pickle'), 'rb'))
 
     def tokenize(self, text):

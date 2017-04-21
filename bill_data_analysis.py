@@ -64,7 +64,6 @@ def vectorize(bill_series, save_vector=False):
             os.mkdir('analysis')
         df = pd.DataFrame(X.todense(), index=bill_series.index, columns = vectorizer.get_feature_names())
         df.to_csv(os.path.join('analysis', 'dense_matrix.csv'))
-        #df.to_json(os.path.join('analysis', 'dense_matrix.json'))
     print('Vectorization done in {}s'.format(time() - time1))
     return X
 
@@ -394,7 +393,7 @@ def separate_and_calc(bill_series):
     # focused look at the files.
 
 
-def main():
+def start_analysis():
     bill_series = get_series()
     """
     bill_lens = [get_doc_lengths(bill) for bill in bill_series.tolist()]
@@ -409,28 +408,22 @@ def main():
     box_plot(bill_lens, 'Lengths Box Plot', 'bill_lens_box')
     """
 
-    X = vectorize(bill_series, save_vector=True)
+    X = vectorize(bill_series, save_vector=False)
     X = dimensionality_reduction(X, 100)
-    """
-    # So far performance and accuracy is less than standard k-means
-    for k in range(100, 110):
-        distances, labels = clustering(X, clusters=k, cluster_type="agg")
-        score = evaluate_cluster(X, labels)
-        print("Agglomerative clusters: ", k, " Score: ", score)
-    """
     max_score = 0
     max_cluster = None
-    for k in range(100, 200):
+    max_k = 0
+    # Finds and saves the best clustering based on performance
+    for k in range(125, 130):
         distances, labels = clustering(X, k, slow=True)
         avg_score = evaluate_cluster(X, labels)
-        print("K-Means clusters: ", k, " Score: ", avg_score)
         if avg_score > max_score:
             max_score = avg_score
             max_cluster = (distances, labels)
-    # TODO: Figure out the best performing parameters for k-means
-    print(max_score)
+            max_k = k
+    print("Best performing cluster: ", max_k)
     save_clusters(bill_series.index, max_cluster[1], max_cluster[0], 'max')
 
 
 if __name__ == '__main__':
-    main()
+    start_analysis()

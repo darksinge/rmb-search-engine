@@ -61,7 +61,6 @@ def get_vote_names(info, representatives):
 
 
 def get_page_contents(response):
-    # TODO: Change to a faster parser
     soup = BeautifulSoup(response.content, 'lxml')
     # Used to determine whether the page gives us something interesting
     content_len = len(soup.body.text)
@@ -78,7 +77,7 @@ def get_page_contents(response):
 
 def get_next_page(base_url, end_url, vote_number):
     full_url = base_url + str(vote_number) + end_url
-    print(full_url)
+    # print(full_url)
     response = requests.get(full_url)
     reps, content_len, bill_info, vote_names = get_page_contents(response)
     # TODO:
@@ -91,6 +90,18 @@ def get_members(base_url, end_url):
 
 
 def save_csv_data(representatives, votes, house, session):
+    """
+    Creates a DataFrame of data using the information extracted and creates a csv file for future use.
+
+    Parameters:
+        representatives: a list of strings with the names of all the representatives
+        votes: a list of votes of the individual
+        house: string: house the information pertains to
+        session: string/int, representing the
+
+    Returns:
+        None
+    """
     df = pd.DataFrame({'Representatives': representatives})
     for bill in votes:
         vote_record = []
@@ -105,7 +116,19 @@ def save_csv_data(representatives, votes, house, session):
     df.to_csv(os.path.join("voting", house+str(session)+'_voting.csv'))
 
 
-def get_session(year, house):
+def get_session_voting(year, house):
+    """
+    Goes through the session for the year and house and extracts information about each vote made during that session,
+    then sends that data to be saved as a csv.
+
+    Parameters:
+        year: int, a four digit number for the year that will be checked. Note that this will only work for the years
+        following 2010
+        house: character: 'H' or 'S', representing house or senate (respectively)
+
+    Returns:
+        None
+    """
     current_vote = 2
     base_url = "https://le.utah.gov/DynaBill/svotes.jsp?sessionid={}GS&voteid=".format(year)
     end_url = "&house={}".format(house)
@@ -114,7 +137,6 @@ def get_session(year, house):
     votes = []
     while cont_reading:
         reps, content_len, bill_info, vote_names = get_next_page(base_url, end_url, current_vote)
-        print(bill_info)
         if 'bill_name' in bill_info and 'yeas' in vote_names:
             votes.append({'bill': bill_info['bill_name'], 'yeas': bill_info['Yeas'], 'nays': bill_info['Nays'],
                           'absent': bill_info['Absent'], 'vote_yea': vote_names['yeas'], 'vote_nay': vote_names['nays'],
@@ -123,15 +145,14 @@ def get_session(year, house):
             cont_reading = False
         current_vote += 1
     save_csv_data(members, votes, house, year)
-    # TODO:
 
 
-def main():
-    # TODO: Expand this to 2011
+def vote_scrape():
+    # TODO: Only check votes from the current year
     for year in range(2016, 2017):
-        #get_session(year, 'H')
-        get_session(year, 'S')
+        get_session_voting(year, 'H')
+        get_session_voting(year, 'S')
 
 
 if __name__ == '__main__':
-    main()
+    vote_scrape()
