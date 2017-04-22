@@ -3,11 +3,35 @@
 
 Contains code to get information about the bills for the search engine
 """
+import pickle
+import os
 
 
-def get_search_info(bill, year=2017):
-    pass
+class BillInfo(object):
+    def __init__(self):
+        self.bill_dict = pickle.load(open(os.path.join("analysis", "bill_information.pickle"), 'rb'))
+
+    def get_all_info_(self, year, bill):
+        try:
+            current_bill = self.bill_dict[(str(year), bill)]
+            return current_bill
+        except KeyError:
+            return "Unable to find bill"
+
+    def get_detailed_info(self, year, bill):
+        return self.get_all_info_(year, bill)
+
+    def get_summary(self, year, bill):
+        current_bill = self.get_all_info_(year, bill)
+        if type(current_bill) is dict:
+            #del current_bill['description']
+            pass
+        return current_bill
 
 
-def get_detailed_info(bill, year=2017):
-    pass
+def test():
+    bill = BillInfo()
+    print(bill.bill_dict)
+
+if __name__ == '__main__':
+    test()

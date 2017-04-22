@@ -2,23 +2,44 @@
 Testing for now, allows the clustering and searching algorithms to be accessed.
 """
 import json
-from bottle import run, post, request, response, get
+from bottle import run, get
+from bill_data_analysis import make_name
 import configs
-import search
+import re
 
 
-@get('/search')
-def my_search():
-    req_obj = request.query['term']
-    result = configs.searching.search(req_obj)
-    return result
+def get_year_bill(name):
+    s_year = re.search('[0-9]{4}', name).group(0)
+    s_bill = re.search('[A-Z]{2,}[0-9]{3,4}', name).group(0)
+    return s_year, s_bill
 
 
-@get('/cluster')
-def my_clustering():
-    req_obj = request.query['cluster']
-    similar = configs.cluster.find_similar_bills(req_obj)
-    return similar
+@get('/search/<term>')
+def my_search(term):
+    result = configs.searching.search(term)
+    results = {}
+    for page, tf_idf in result.items():
+        name = make_name(page)
+        year, bill = get_year_bill(name)
+        results[year + bill] = configs.bill_info.get_summary(year, bill)
+    return results
+
+
+@get('/cluster/<year>/<bill>')
+def my_clustering(year, bill):
+    bill_path = "{year}{bill}".format(year=year, bill=bill)
+    similar = configs.cluster.find_similar_bills(bill_path)
+    similar_bills = {'similar': []}
+    for s in similar:
+        s_year, s_bill = get_year_bill(s)
+        similar_bills['similar'].append(configs.bill_info.get_summary(s_year, s_bill))
+    return similar_bills
+
+
+@get('/bill_info/<year>/<bill>')
+def bill_info(year, bill):
+    return configs.bill_info.get_summary(year, bill)
+
 
 def run_server():
     run(host='localhost', port=8080, debug=True)

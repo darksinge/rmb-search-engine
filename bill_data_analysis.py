@@ -15,6 +15,23 @@ import matplotlib.pyplot as plt
 import random
 
 
+def make_name(path):
+    """
+    Takes the file name and creates a readable name to make cluster searching much easier
+
+    :param path:
+    :return:
+        string: an easy name to parse and search
+    """
+    doc_name = path.split('.txt')[0]
+    split_doc = os.path.split(doc_name)
+    year = os.path.split(split_doc[0])[-1]
+    bill_name = split_doc[-1]
+    name = year + bill_name
+    return name
+
+
+
 def get_series():
     """
     Finds the paths of all of the txt files in the database and adds their locations and names to a series
@@ -37,7 +54,8 @@ def get_series():
     bill_dict = {}
     for d in data_files:
         text = open(d)
-        doc_name = d.split('.txt')[0]
+        doc_name = make_name(d)
+        print(doc_name)
         bill_dict[doc_name] = text.read()
         text.close()
     bill_series = pd.Series(bill_dict)

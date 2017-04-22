@@ -13,7 +13,6 @@ import os
 import re
 
 
-
 class ClusterFinder(object):
     """
 
@@ -36,6 +35,7 @@ class ClusterFinder(object):
             numpy string array: has five of the closest bills within the same cluster
         """
         try:
+            print(bill_file_name)
             found_doc = self.clusters.loc[bill_file_name]
             cluster_name = found_doc['cluster']
             docs_in_cluster = self.clusters[self.clusters['cluster'] == cluster_name]
