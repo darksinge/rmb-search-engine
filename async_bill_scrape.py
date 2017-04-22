@@ -360,4 +360,5 @@ def bill_scrape():
 
 
 if __name__ == '__main__':
+    # TODO: Actually get the URL for the bill document.
     bill_scrape()

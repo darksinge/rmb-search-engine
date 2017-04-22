@@ -52,6 +52,12 @@ def get_bill_info(soup):
 
 
 def get_vote_names(info, representatives):
+    """
+
+    :param info:
+    :param representatives:
+    :return:
+    """
     yeas = info['Yeas']
     nays = info['Nays']
     y_names = representatives[0:int(yeas)]
@@ -61,6 +67,11 @@ def get_vote_names(info, representatives):
 
 
 def get_page_contents(response):
+    """
+
+    :param response:
+    :return:
+    """
     soup = BeautifulSoup(response.content, 'lxml')
     # Used to determine whether the page gives us something interesting
     content_len = len(soup.body.text)
@@ -76,6 +87,13 @@ def get_page_contents(response):
 
 
 def get_next_page(base_url, end_url, vote_number):
+    """
+
+    :param base_url:
+    :param end_url:
+    :param vote_number:
+    :return:
+    """
     full_url = base_url + str(vote_number) + end_url
     # print(full_url)
     response = requests.get(full_url)
@@ -85,6 +103,16 @@ def get_next_page(base_url, end_url, vote_number):
 
 
 def get_members(base_url, end_url):
+    """
+    Used to get just the representatives for the current session info was being collected. Called once per session,
+
+    Parameters:
+        base_url: string
+        end_url: string
+
+    Returns:
+        list: strings of representative names
+    """
     reps, content_len, bill_info, votes = get_next_page(base_url, end_url, 1)
     return reps
 
@@ -97,7 +125,7 @@ def save_csv_data(representatives, votes, house, session):
         representatives: a list of strings with the names of all the representatives
         votes: a list of votes of the individual
         house: string: house the information pertains to
-        session: string/int, representing the
+        session: string/int, representing the year (and session, if it is not a general session)
 
     Returns:
         None

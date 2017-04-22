@@ -25,11 +25,11 @@ def get_series():
     Return:
          bill_series: a panda series full of the names of all of the txt files
     """
-    # TODO: To skip the extra work of reading each file and vectorizing,
-    # try to open the dense matrix first
     time1 = time()
     data_files = []
-    data_folders = glob.glob(os.path.join('bill_files', 'filtered', '*/'))
+    # TODO: Note that this is just for the year 2017, so when the full analysis needs to be done change to *
+    data_folders = glob.glob(os.path.join('bill_files', 'filtered', '2017'))
+    print(data_folders)
     for folder in data_folders:
         files = glob.glob(os.path.join(folder, '*.txt'))
         for f in files:
@@ -408,7 +408,7 @@ def start_analysis():
     box_plot(bill_lens, 'Lengths Box Plot', 'bill_lens_box')
     """
 
-    X = vectorize(bill_series, save_vector=False)
+    X = vectorize(bill_series, save_vector=True)
     X = dimensionality_reduction(X, 100)
     max_score = 0
     max_cluster = None
@@ -421,7 +421,7 @@ def start_analysis():
             max_score = avg_score
             max_cluster = (distances, labels)
             max_k = k
-    print("Best performing cluster: ", max_k)
+    print("Best performing cluster: ", max_k, ' ', max_score)
     save_clusters(bill_series.index, max_cluster[1], max_cluster[0], 'max')
 
 
