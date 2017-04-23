@@ -1,44 +1,12 @@
 """
 This is created by Bradley Robinson.
 
-TODO:
-We need to try not to replicate any work that has been done already. That way we don't hit the servers too hard.
-We need to save the files to html as is.
-Then parse the information from the html files rather than the other server, that way we only do things once.
-
-
-This is the asyncronous version of bill_scraper. This should be used if possible, since it is
-significantly faster, and doesn't get 'stuck' if the server takes too long retrieving a request.
+Asynchronously goes through the bills available on le.utah.gov, and saves them as html files.
 """
 
 import os, glob, aiohttp, asyncio
 from bs4 import BeautifulSoup
 import pandas as pd
-import string
-
-
-def get_changes(soup):
-    """
-    Supposed to find all the changes made to the text, but currently doesn't always work. Variable formatting is
-    probably responsible.
-    :param soup:
-    :return:
-    """
-    changes = soup.find_all('u')
-    change_list = [x.text for x in changes]
-    return ''.join(change_list)
-
-
-def get_sponsor(soup):
-    b_divs = soup.find_all('b')
-    sponsors = []
-    # TODO: This doesn't give us anything, try again
-    """for b in b_divs:
-        if 'Sponsor' in b:
-            b_text = b.text
-            name = b_text.split('Sponsor: ')[1]
-            sponsors.append(name)"""
-    return sponsors
 
 
 def check_bill(content):
@@ -74,12 +42,11 @@ def create_raw_html(year, house, bill, html):
     if not os.path.exists(os.path.join('bill_files', 'raw', str(year))):
         os.mkdir(os.path.join('bill_files', 'raw', str(year)))
     if check_bill(html):
-        file = open(os.path.join('bill_files', 'raw', str(year), '{}{}{}.html'.format(year, house, bill)), 'w')
-        only_unicode = [right_character(c) for c in html]
-        joined = ''.join(only_unicode)
-        file.write(joined)
+        file = open(os.path.join('bill_files', 'raw', str(year), '{}{}{}.html'.format(year, house, bill)), 'w',
+                    encoding='utf-8')
+        file.write(html)
         file.close()
-        return joined
+        return html
     else:
         return None
 
@@ -173,26 +140,6 @@ def just_letters(c):
         return ' '
 
 
-def split_number_words(word, index):
-    """
-    Takes in words and does stuff. Currently unused, just a function for testing different ways of filtering content
-
-    Parameters:
-        word: A string of a word that needs to be filtered
-        index: Where we will be checking values
-
-    Returns:
-        A character
-    """
-    # TODO: Replace with regular expressions instead of this slightly convoluted code
-    ascii_l = string.ascii_letters
-    digits = string.digits
-    if index < len(word) - 1:
-        if word[index] in ascii_l and word[index+1] in digits:
-            return word[index] + ' '
-    return right_character(word[index])
-
-
 def clean_characters(content):
     """
     Takes in a string, removes any non-unicode characters as well as unimportant punctuation.
@@ -273,24 +220,39 @@ async def search_bills(loop, year, bill_list):
                 # make_txt_of({'full': bill_text}, bill, year)
 
 
-def get_bill_names():
+def go_by_bills_from_csv(house=True, senate=True, year=None):
     """
     Used to extract known names of bills from voting records that have already been scraped. Used for years following
     2011. Some sessions the scraping failed, so there might be a need to scrape by year manually if there are few bills
     in the list. Functionality will be added for that.
 
     Parameters:
-        None
+        house: bool, if true it will find the voting csv for the house
+        senate: bool, if true, will find the voting csv for the senate
+        year: int/str, if there is a year, it will be limited to that year
 
     Returns:
         None
     """
-    files = glob.glob(os.path.join("voting", 'S*.csv'))
+    if senate and house:
+        files = glob.glob(os.path.join("voting", "*.csv"))
+    elif house:
+        files = glob.glob(os.path.join("voting", "H*.csv"))
+    elif senate:
+        files = glob.glob(os.path.join("voting", "S*.csv"))
+    else:
+        files = glob.glob(os.path.join("voting", "*.csv"))
     bill_names = {}
     for file in files:
-        df = pd.read_csv(file)
-        year = extract_year(file)
-        bill_names[year] = df.columns[2:]
+        if year:
+            if str(year) in file:
+                df = pd.read_csv(file)
+                year = extract_year(file)
+                bill_names[year] = df.columns[2:]
+        else:
+            df = pd.read_csv(file)
+            year = extract_year(file)
+            bill_names[year] = df.columns[2:]
     loop = asyncio.get_event_loop()
     f = asyncio.wait([search_bills(loop, year, bill_list) for year, bill_list in bill_names.items()])
     loop.run_until_complete(f)
@@ -316,7 +278,7 @@ def make_bill_title(num, house):
     return ''.join(bill)
 
 
-def go_by_year():
+def go_by_year(start=1997, end=2012, senate=True, house=True):
     """
     Searches for bills for the years 1997-2011. Calls functions to parse and save the files.
 
@@ -324,21 +286,25 @@ def go_by_year():
     has not been collected for years before that.
 
     Args:
-        None
+        start: int, the year that the search/scraping will start
+        end: int, the end year
+        senate: bool, if true will scrape bills in the senate
+        house: bool, if true will scrape bills in the house
 
     Returns:
         None
-
     """
-    year_range = [x for x in range(1997, 2011)]
-    hbs = [make_bill_title(x, 'HB') for x in range(1, 515)]
-    # senatebs = [make_bill_title(x, 'SB') for x in range(1, 300)]
-    loop = asyncio.get_event_loop()
-    f = asyncio.wait([search_bills(loop, year, hbs) for year in year_range])
-    loop.run_until_complete(f)
-    #loop2 = asyncio.get_event_loop()
-    #f2 = asyncio.wait([search_bills(loop2, year, senatebs) for year in year_range])
-    #loop.run_until_complete(f2)
+    year_range = [x for x in range(start, end - 1)]
+    if house:
+        hbs = [make_bill_title(x, 'HB') for x in range(1, 515)]
+        loop = asyncio.get_event_loop()
+        f = asyncio.wait([search_bills(loop, year, hbs) for year in year_range])
+        loop.run_until_complete(f)
+    if senate:
+        sbs = [make_bill_title(x, 'SB') for x in range(1, 300)]
+        loop = asyncio.get_event_loop()
+        f = asyncio.wait([search_bills(loop, year, sbs) for year in year_range])
+        loop.run_until_complete(f)
 
 
 def get_last_scrape_data():
@@ -348,17 +314,22 @@ def get_last_scrape_data():
 def save_progress():
     """
     Saves information about the current scrape to ensure that previous work from scraping is not duplicated.
-    :return:
+
     """
     pass
 
 
 def bill_scrape():
-    # If you would like to search by going through the data files with the actual names, uncomment:
-    get_bill_names()
-    go_by_year()
+    """
+    Goes through and scrapes all the bills. Note that the code inside here must be changed to scrape everything.
+    Saves html files in the bill_files/raw/ folders, so that they can then be parsed with the offline_bill_scrape
+
+    Returns:
+         None
+    """
+    go_by_bills_from_csv(year=2017)
+    #go_by_year()
 
 
 if __name__ == '__main__':
-    # TODO: Actually get the URL for the bill document.
     bill_scrape()
