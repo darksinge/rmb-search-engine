@@ -94,7 +94,17 @@ class TermSearch(object):
         If the matrix has been
         :return:
         """
-        self.sparse_matrix = pickle.load(open(os.path.join('analysis', 'sparse_p.pickle'), 'rb'))
+        try:
+            env = os.environ['PYTHON_ENV']
+        except KeyError:
+            env = "development"
+
+        if env == 'production':
+            csv_path = '/var/www/rmb-search-engine/analysis/sparse_p.pickle'
+        else:
+            csv_path = os.path.join('analysis', 'sparse_p.pickle')
+
+        self.sparse_matrix = pickle.load(open(csv_path, 'rb'))
 
     def tokenize(self, text):
         """
