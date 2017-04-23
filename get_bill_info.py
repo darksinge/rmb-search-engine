@@ -15,7 +15,7 @@ class BillInfo(object):
             env = "development"
 
         if env == "production":
-            csv_path = "/var/www/rmb-search-engine/analysis/bill_information.pickle"
+            csv_path = "/var/www/rmb-search-engine/analysis/clusters/with_max_clusters.csv"
         else:
             csv_path = os.path.join('analysis', 'clusters', 'with_max_clusters.csv')
         self.bill_dict = pickle.load(open(csv_path, 'rb'))
