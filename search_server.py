@@ -53,7 +53,8 @@ def bill_info(year, bill):
 
 @get('/engine/list/<year>')
 def list_bills(year):
-    return configs.bill_info.get_all_bills(str(year))
+    bill_list = json.dumps(configs.bill_info.get_all_bills(str(year)))
+    return bill_list
 
 
 def run_server():

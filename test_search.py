@@ -65,5 +65,13 @@ def main():
             cluster()
     pass
 
+
+def search_sort():
+    import search_server
+    results = search_server.my_search("taxes")
+    print(results)
+    results_sorted = search_server.sort_search(results)
+    print(results_sorted)
+
 if __name__ == '__main__':
-    main()
+    search_sort()

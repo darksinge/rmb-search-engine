@@ -29,9 +29,9 @@ class BillInfo(object):
         return current_bill
 
     def get_all_bills(self, year):
-        all_bills = {}
+        all_bills = []
         for key, info in self.bill_dict.items():
-            all_bills[key[0] + key[1]] = info
+            all_bills.append(info)
         return all_bills
 
 
