@@ -11,6 +11,7 @@ import pandas as pd
 import pickle
 import os
 import re
+from os import path, getcwd
 
 
 class ClusterFinder(object):
@@ -18,7 +19,7 @@ class ClusterFinder(object):
 
     """
     def __init__(self):
-        self.clusters = pd.read_csv(os.path.join('analysis', 'clusters', 'with_max_clusters.csv'))
+        self.clusters = pd.read_csv(path.join(getcwd(), 'analysis', 'clusters', 'with_max_clusters.csv'))
         cols = self.clusters.columns
         self.clusters.rename(columns={cols[0]: 'docs'}, inplace=True)
         self.clusters.set_index('docs', inplace=True)
