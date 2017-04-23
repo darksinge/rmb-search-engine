@@ -11,7 +11,6 @@ import glob
 import pandas as pd
 #import numpy as np
 from time import time
-import matplotlib.pyplot as plt
 import random
 
 
@@ -183,6 +182,7 @@ def evaluate_cluster(X, labels):
 
 
 def make_cluster_fig(distances, labels, clusters):
+    import matplotlib.pyplot as plt
     """
     Creates a scatter plot with the transformed distances of clustering
 
@@ -242,6 +242,7 @@ def get_doc_lengths(bill):
 
 
 def hist(values, title, file_name):
+    import matplotlib.pyplot as plt
     """
     Creates a histogram and saves a png to file in path -/visualizations for the sizes of documents. Right now the
     pictures kind of suck
@@ -263,6 +264,7 @@ def hist(values, title, file_name):
 
 
 def bar_graph(values, title, file_name):
+    import matplotlib.pyplot as plt
     """
     Creates a bar_graph and saves a png
 
@@ -282,6 +284,7 @@ def bar_graph(values, title, file_name):
 
 
 def box_plot(values, title, file_name):
+    import matplotlib.pyplot as plt
     """
     Function creates a box plot and saves it to a file in path -/visualizations/
     Bar graph and box plot could be combined. They will be in the future.
