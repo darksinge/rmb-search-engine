@@ -42,7 +42,7 @@ def bill_info(year, bill):
 
 
 def run_server():
-    run(host='localhost', port=8082, debug=True)
+    run(host='localhost', port=8081, debug=True)
 
 
 if __name__ == '__main__':
