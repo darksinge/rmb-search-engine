@@ -14,7 +14,7 @@ def get_year_bill(name):
     return s_year, s_bill
 
 
-@get('/search/<term>')
+@get('engine/search/<term>')
 def my_search(term):
     result = configs.searching.search(term)
     results = {}
@@ -25,7 +25,7 @@ def my_search(term):
     return results
 
 
-@get('/cluster/<year>/<bill>')
+@get('engine/cluster/<year>/<bill>')
 def my_clustering(year, bill):
     bill_path = "{year}{bill}".format(year=year, bill=bill)
     similar = configs.cluster.find_similar_bills(bill_path)
@@ -36,7 +36,7 @@ def my_clustering(year, bill):
     return similar_bills
 
 
-@get('/bill_info/<year>/<bill>')
+@get('engine/bill_info/<year>/<bill>')
 def bill_info(year, bill):
     return configs.bill_info.get_summary(year, bill)
 
