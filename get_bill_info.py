@@ -28,10 +28,16 @@ class BillInfo(object):
             pass
         return current_bill
 
+    def get_all_bills(self, year):
+        all_bills = {}
+        for key, info in self.bill_dict.items():
+            all_bills[key[0] + key[1]] = info
+        return all_bills
+
 
 def test():
     bill = BillInfo()
-    print(bill.bill_dict)
+    print(bill.get_all_bills('2017'))
 
 if __name__ == '__main__':
     test()

@@ -4,9 +4,17 @@ Testing for now, allows the clustering and searching algorithms to be accessed.
 import json
 from bottle import run, get
 from bill_data_analysis import make_name
+from collections import OrderedDict
 import configs
 import re
 
+
+def sort_search(results):
+    new_matrix = {}
+    for page, r_dict in results.items():
+        r_sorted = OrderedDict(sorted(r_dict.items(), key=lambda t: t[1]))
+        new_matrix[page] = r_sorted
+    return new_matrix
 
 def get_year_bill(name):
     s_year = re.search('[0-9]{4}', name).group(0)
@@ -22,6 +30,8 @@ def my_search(term):
         name = make_name(page)
         year, bill = get_year_bill(name)
         results[year + bill] = configs.bill_info.get_summary(year, bill)
+        results[year + bill]['tf_idf'] = tf_idf[0]
+    #print(sort_search(results))
     return results
 
 
@@ -39,6 +49,11 @@ def my_clustering(year, bill):
 @get('/engine/bill_info/<year>/<bill>')
 def bill_info(year, bill):
     return configs.bill_info.get_summary(year, bill)
+
+
+@get('/engine/list/<year>')
+def list_bills(year):
+    return configs.bill_info.get_all_bills(str(year))
 
 
 def run_server():
