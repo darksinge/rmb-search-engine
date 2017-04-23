@@ -9,7 +9,16 @@ import os
 
 class BillInfo(object):
     def __init__(self):
-        self.bill_dict = pickle.load(open(os.path.join("analysis", "bill_information.pickle"), 'rb'))
+        try:
+            env = os.environ['PYTHON_ENV']
+        except KeyError:
+            env = "development"
+
+        if env == "production":
+            csv_path = "/var/www/rmb-search-engine/analysis/bill_information.pickle"
+        else:
+            csv_path = os.path.join('analysis', 'clusters', 'with_max_clusters.csv')
+        self.bill_dict = pickle.load(open(csv_path, 'rb'))
 
     def get_all_info_(self, year, bill):
         try:
