@@ -7,6 +7,7 @@ import os
 from async_bill_scrape import get_clean_contents, make_txt_of, right_character
 from bs4 import BeautifulSoup
 import re
+import pickle
 
 
 def extract_name(raw_html):
@@ -136,6 +137,18 @@ def print_information(year, bill, name, description, link):
 
 
 def write_body_html(soup, year, bill):
+    """
+    Preserves only the body of the html file and saves it in www folder to allow access to the files from the webpage
+    without the extra stuff.
+
+    Parameters:
+        soup: BeautifulSoup, parsed html file
+        year: int/str, year the bill was looked at
+        bill: str, the bill id
+
+    Returns:
+        None
+    """
     bill_contents = get_bill_contents(soup)
     if not os.path.exists(os.path.join("www")):
         os.mkdir("www")
@@ -146,6 +159,74 @@ def write_body_html(soup, year, bill):
     f.close()
 
 
+def get_id(file_path):
+    f_split = file_path.split('html')[0]
+    raw_id = f_split[-7:-1]
+    return raw_id
+
+
+def needs_updates(year='2017'):
+    """
+    Checks to see if updates are needed for the year given based on what has been scraped already. If we haven't created
+    an uploaded.pickle, treat things like everything needs to be done, and to keep things simple, it just returns a
+    dictionary with 'all' as a key.
+
+    Parameters:
+        year: str, the year to check. Currently just 2017 for simplicity sake
+
+    Returns:
+    """
+    try:
+        files_made = pickle.load(open(os.path.join("analysis", "uploaded.pickle"), 'rb'))
+        year_paths = glob.glob(os.path.join("bill_files", "raw", year))
+        years_only = [os.path.split(y)[-1] for y in year_paths]
+        years_to_update = {}
+        for key, values in files_made.items():
+            year_made = os.path.split(key)[-1]
+            files_raw = glob.glob(os.path.join("bill_files", "raw", year_made, "*"))
+            id_raw = [get_id(f) for f in files_raw]
+            if year_made in years_only:
+                id_made = [get_id(f) for f in values]
+                for raw in id_raw:
+                    if raw not in id_made:
+                        if year_made not in years_to_update:
+                            years_to_update[year_made] = [raw]
+                        else:
+                            years_to_update[year_made].append(raw)
+            else:
+                years_to_update[year_made] = id_raw
+
+            if len(years_to_update) == 0:
+                return {"none": []}
+    except FileNotFoundError:
+        return {"all": []}
+
+
+def track_changes(make_new=False):
+    """
+    Creates or modifies a json to keep track of files that have already been changed so to not offline scrape things
+    repeatedly
+
+    :return:
+    """
+    if make_new:
+        files_made = {}
+    else:
+        files_made = pickle.load(open(os.path.join("analysis", "uploaded.pickle"), 'rb'))
+        print(files_made)
+    updated_years = glob.glob(os.path.join("www", "*"))
+    for y in updated_years:
+        updated_files = glob.glob(os.path.join(y, "*"))
+        if y in files_made:
+            for f in updated_files:
+                if f not in files_made[y]:
+                    files_made[y].append(f)
+        else:
+            files_made[y] = updated_files
+    pickle.dump(files_made, open(os.path.join("analysis", "uploaded.pickle"), 'wb'))
+
+
+
 def extract_files():
     """
     Extracts all the information needed for the bills to be used on the page. Right now just set for 2017, later when
@@ -154,9 +235,9 @@ def extract_files():
     Returns:
          None
     """
-    import pickle
     # For now, just do the one folder:
     bill_details = {}
+    # TODO: make it take in a dictionary like from needs_updates to use as an updater instead of glob
     for file in glob.glob(os.path.join("bill_files", "raw", "2017", "*")):
         year, bill = extract_bill_and_year(file)
         soup, name = extract_name(file)
@@ -165,6 +246,10 @@ def extract_files():
         bill_details[(year, bill)] = {'year': year, 'bill': bill, 'name': name, 'description': description, 'link':
                                       link}
         write_body_html(soup, year, bill)
+    if not (os.path.exists(os.path.join("analysis", "uploaded.pickle"))):
+        track_changes(make_new=True)
+    else:
+        track_changes()
     pickle.dump(bill_details, open(os.path.join("analysis", "bill_information.pickle"), 'wb'))
 
 
@@ -182,7 +267,7 @@ def make_txt(year, bill, contents):
 
 def get_files():
     """
-    Goes through each folder and file in the raw folder, parses out just formated text from the bill for clustering
+    Goes through each folder and file in the raw folder, parses out just formatted text from the bill for clustering
     algorithm.
 
     :return: None
@@ -199,7 +284,9 @@ def get_files():
 
 
 def main():
-    extract_files()
+    #extract_files()
+    needs_updates()
+
 
 
 if __name__ == '__main__':

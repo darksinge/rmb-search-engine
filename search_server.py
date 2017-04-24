@@ -4,6 +4,7 @@ Testing for now, allows the clustering and searching algorithms to be accessed.
 import json
 from bottle import run, get
 from bill_data_analysis import make_name
+from offline_bill_scrape import needs_updates
 from collections import OrderedDict
 import configs
 import re
@@ -115,6 +116,12 @@ def list_bills(year):
 
 
 def run_server():
+    if 'all' in needs_updates('2017'):
+        from offline_bill_scrape import extract_files
+        extract_files()
+    else:
+        # Note: if this is expanded beyond 2017, make sure this does something useful.
+        print("No changes being made")
     run(host='localhost', port=8081, debug=True)
 
 
