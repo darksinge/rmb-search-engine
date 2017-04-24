@@ -4,7 +4,7 @@ Takes already saved html files, scrapes them, removes extra characters, and plac
 
 import glob
 import os
-from async_bill_scrape import get_clean_contents, make_txt_of
+from async_bill_scrape import get_clean_contents, make_txt_of, right_character
 from bs4 import BeautifulSoup
 import re
 
@@ -112,7 +112,9 @@ def get_bill_contents(soup):
         str: html code and content for just the bill page
     """
     tag = soup.body
-    return tag.prettify()
+    organized_contents = tag.prettify()
+    cleaned_contents = ''.join([right_character(c) for c in organized_contents])
+    return cleaned_contents
 
 
 def print_information(year, bill, name, description, link):
@@ -133,6 +135,17 @@ def print_information(year, bill, name, description, link):
     print("Link: {}".format(link))
 
 
+def write_body_html(soup, year, bill):
+    bill_contents = get_bill_contents(soup)
+    if not os.path.exists(os.path.join("www")):
+        os.mkdir("www")
+    if not os.path.exists(os.path.join("www", year)):
+        os.mkdir(os.path.join("www", year))
+    f = open(os.path.join("www", year, bill + '.html'), 'w')
+    f.write(bill_contents)
+    f.close()
+
+
 def extract_files():
     """
     Extracts all the information needed for the bills to be used on the page. Right now just set for 2017, later when
@@ -151,14 +164,7 @@ def extract_files():
         link = extract_link(year, bill)
         bill_details[(year, bill)] = {'year': year, 'bill': bill, 'name': name, 'description': description, 'link':
                                       link}
-        bill_contents = get_bill_contents(soup)
-        if not os.path.exists(os.path.join("www")):
-            os.mkdir("www")
-        if not os.path.exists(os.path.join("www", year)):
-            os.mkdir(os.path.join("www", year))
-        f = open(os.path.join("www", year, bill + '.html'), 'w', encoding="utf-8")
-        f.write(bill_contents)
-        f.close()
+        write_body_html(soup, year, bill)
     pickle.dump(bill_details, open(os.path.join("analysis", "bill_information.pickle"), 'wb'))
 
 
