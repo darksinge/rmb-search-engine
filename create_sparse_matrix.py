@@ -10,22 +10,6 @@ import sys
 from configs import default_path
 
 
-def small_matrix():
-    """
-    Creates a small matrix to test make_matrix() with. That way reading in the csv doesn't take a long time. It saves
-    the file in analysis/ as tiny_matrix.csv. To test make_matrix, change the csv it reads to tiny_matrix.csv.
-
-    Parameters:
-        None
-
-    Returns:
-         None
-    """
-    dense_matrix = pd.read_csv(os.path.join(default_path, "analysis", "dense_matrix.csv"))
-    tiny_matrix = dense_matrix.iloc[0:100,:]
-    tiny_matrix.to_csv(os.path.join(default_path, "analysis", "tiny_matrix.csv"), index=False)
-
-
 def make_matrix(matrix_file=None):
     """
     Takes an already saved dense matrix (csv format) and creates a dictionary with each word as a key and a dictionary

@@ -7,7 +7,8 @@ def get_path():
     """
     Function to determine which path to use depending on environment.
 
-    :return:
+    Returns:
+        str: proper file path for the environment and os
     """
     try:
         env = os.environ['PYTHON_ENV']

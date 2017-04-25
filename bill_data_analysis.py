@@ -23,11 +23,9 @@ def get_series():
     Return:
          bill_series: a panda series full of the names of all of the txt files
     """
-    time1 = time()
     data_files = []
     # TODO: Note that this is just for the year 2017, so when the full analysis needs to be done change to *
     data_folders = glob.glob(os.path.join(default_path, 'bill_files', 'filtered', '2017'))
-    print(data_folders)
     for folder in data_folders:
         files = glob.glob(os.path.join(folder, '*.txt'))
         for f in files:
@@ -36,11 +34,9 @@ def get_series():
     for d in data_files:
         text = open(d)
         doc_name = make_name(d)
-        print(doc_name)
         bill_dict[doc_name] = text.read()
         text.close()
     bill_series = pd.Series(bill_dict)
-    print('Raw data read in {}s'.format(time() - time1))
     return bill_series
 
 
@@ -55,7 +51,6 @@ def vectorize(bill_series, save_vector=False):
     Returns:
         Sparse matrix: A sparse matrix that can be used for clustering algorithms
     """
-    time1 = time()
     vectorizer = TfidfVectorizer(max_df=.4, min_df=2, stop_words='english')
     X = vectorizer.fit_transform(bill_series)
     if save_vector:
@@ -63,7 +58,6 @@ def vectorize(bill_series, save_vector=False):
             os.mkdir('analysis')
         df = pd.DataFrame(X.todense(), index=bill_series.index, columns = vectorizer.get_feature_names())
         df.to_csv(os.path.join(default_path, 'analysis', 'dense_matrix.csv'))
-    print('Vectorization done in {}s'.format(time() - time1))
     return X
 
 
@@ -177,7 +171,7 @@ def save_clusters(doc_names, labels, distances, num_clusters):
         None
     """
     df = pd.DataFrame({'cluster': labels, 'X': distances[:, 0], 'y': distances[:, 1]}, index=doc_names)
-    cluster_folder = os.path.join('analysis', 'clusters')
+    cluster_folder = os.path.join(default_path, 'analysis', 'clusters')
     if not os.path.exists(cluster_folder):
         os.mkdir(cluster_folder)
     df.sort_values('cluster', inplace=True)

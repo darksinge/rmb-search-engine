@@ -184,10 +184,12 @@ def needs_updates(year='2017'):
         year_paths = glob.glob(os.path.join(default_path, "bill_files", "raw", year))
         years_only = [os.path.split(y)[-1] for y in year_paths]
         years_to_update = {}
+        # Checks to see what bills have already been scraped of their contents, and which have yet to be updated
         for key, values in files_made.items():
             year_made = os.path.split(key)[-1]
             files_raw = glob.glob(os.path.join(default_path, "bill_files", "raw", year_made, "*"))
             id_raw = [get_id(f) for f in files_raw]
+            # Search for and add missing content to years_to_update
             if year_made in years_only:
                 id_made = [get_id(f) for f in values]
                 for raw in id_raw:
@@ -210,7 +212,11 @@ def track_changes(make_new=False):
     Creates or modifies a json to keep track of files that have already been changed so to not offline scrape things
     repeatedly
 
-    :return:
+    Parameters:
+        make_new: bool, if True, doesn't try to search for a new pickle, and instead creates it.
+
+    Returns:
+        None
     """
     if make_new:
         files_made = {}
@@ -227,7 +233,6 @@ def track_changes(make_new=False):
         else:
             files_made[y] = updated_files
     pickle.dump(files_made, open(os.path.join(default_path, "analysis", "uploaded.pickle"), 'wb'))
-
 
 
 def extract_files():
@@ -287,9 +292,8 @@ def get_files():
 
 
 def main():
-    #extract_files()
+    # extract_files()
     needs_updates()
-
 
 
 if __name__ == '__main__':

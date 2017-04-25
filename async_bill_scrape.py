@@ -40,10 +40,11 @@ def create_raw_html(year, house, bill, html):
     Returns:
         string: a string of content without non-unicode characters
     """
-    if not os.path.exists(os.path.join(default_path,'bill_files', 'raw', str(year))):
-        os.mkdir(os.path.join(default_path, 'bill_files', 'raw', str(year)))
+    raw_files_folder = os.path.join(default_path,'bill_files', 'raw', str(year))
+    if not os.path.exists(raw_files_folder):
+        os.mkdir(raw_files_folder)
     if check_bill(html):
-        file = open(os.path.join(default_path, 'bill_files', 'raw', str(year), '{}{}{}.html'.format(year, house, bill)), 'w',
+        file = open(os.path.join(raw_files_folder, '{}{}{}.html'.format(year, house, bill)), 'w',
                     encoding='utf-8')
         file.write(html)
         file.close()
