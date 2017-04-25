@@ -7,9 +7,10 @@ import pickle
 import os
 from default_path import default_path
 
+
 class BillInfo(object):
     def __init__(self):
-        csv_path = os.path.join(default_path,'analysis', 'bill_information.pickle')
+        csv_path = os.path.join(default_path, 'analysis', 'bill_information.pickle')
         self.bill_dict = pickle.load(open(csv_path, 'rb'))
 
     def get_all_info_(self, year, bill):

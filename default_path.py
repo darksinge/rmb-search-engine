@@ -1,7 +1,8 @@
 """
-
+Simply holds where things have happened.
 """
 import os
+
 
 def get_path():
     """
@@ -16,7 +17,7 @@ def get_path():
         env = 'development'
 
     if env == 'production':
-        return os.path.join('var', 'www', 'rmb-search-engine')
+        return os.path.join('/var', 'www', 'rmb-search-engine')
 
     else:
         return ""
