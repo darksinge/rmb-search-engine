@@ -116,7 +116,9 @@ def get_bill_contents(soup):
     tag = soup.body
     organized_contents = tag.prettify()
     cleaned_contents = ''.join([right_character(c) for c in organized_contents])
-    return cleaned_contents
+    # Remove <body> tag
+    cleaned_contents_2 = re.sub("<\/?body>", ' ', cleaned_contents)
+    return cleaned_contents_2
 
 
 def print_information(year, bill, name, description, link):
