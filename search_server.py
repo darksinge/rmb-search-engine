@@ -134,6 +134,12 @@ def list_bills(year):
     return bill_list
 
 
+
+@get('/engine/vote_cluster/<year>/<house>')
+def get_visualization(year, house):
+    pass
+
+
 def run_server():
     from offline_bill_scrape import extract_files
     extract_files()

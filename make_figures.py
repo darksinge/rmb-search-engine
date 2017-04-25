@@ -83,3 +83,7 @@ def box_plot(values, title, file_name):
     ax.set_title(title)
     plt.savefig(os.path.join(default_path, 'visualizations', file_name + '.png'))
     plt.close()
+
+
+def get_graph():
+    pass

@@ -5,21 +5,39 @@ Created on Thu Mar 23 09:51:38 2017
 Analyzes each session and clusters the representatives based on groups. Note that it is not up to date for server use,
 must be ran locally
 """
-
-import matplotlib.pyplot as plt
 import pandas as pd
 from sklearn.cluster import KMeans
+from default_path import default_path
+from bokeh.plotting import figure, output_file, save
+from bokeh.charts import Scatter
 import glob
 import os
 
 
-def make_image(distances, labels, name):
-    x = distances[:,0]
-    y = distances[:,1]
+def get_color_by_label(label):
+    if label == 0:
+        return 'lightcoral'
+    else:
+        return 'darkblue'
+
+def make_images(distances, labels, name):
+
+    fig_directory = os.path.join(default_path, 'visualizations', 'rep_clusters')
+    for year in glob.glob(os.path.join('analysis', 'rep_clusters', '*.csv')):
+        if not os.path.exists(fig_directory):
+            os.mkdir(fig_directory)
+        df = pd.read_csv(year)
+        df['colors'] = df['clusters'].apply(get_color_by_label)
+        cur_name = os.path.split(year)[-1][0:5]
+        plot = Scatter(df, x='X', y='y', color='colors')
+        output_file(os.path.join(fig_directory, cur_name + '.html'))
+        save(plot)
+    """
     fig, ax = plt.subplots()
     ax.scatter(x, y, c=labels)
     plt.savefig(os.path.join('visualizations', name+'.png'))
     plt.close()
+    """
 
 
 def save_spreadsheets(distances, labels, representatives, name):
@@ -27,7 +45,10 @@ def save_spreadsheets(distances, labels, representatives, name):
     new_df['X'] = distances[:,0]
     new_df['y'] = distances[:,1]
     new_df['clusters'] = labels
-    new_df.to_excel(os.path.join('analysis', 'rep_clusters', name+'.xlsx'))
+    csv_directory = os.path.join(default_path, 'analysis', 'rep_clusters')
+    if not os.path.exists(csv_directory):
+        os.mkdir(csv_directory)
+    new_df.to_csv(os.path.join(csv_directory, name + '.csv'))
     
     
 def clustering(df):
@@ -39,7 +60,7 @@ def clustering(df):
 
 
 def get_dfs():
-    files = glob.glob(os.path.join('voting', '*.csv'))
+    files = glob.glob(os.path.join(default_path, 'voting', '*.csv'))
     dfs = {}
     for f in files:
         df = pd.read_csv(f)
@@ -53,14 +74,13 @@ def get_dfs():
 def cluster_list(dfs):
     for name, df in dfs.items():
         X, labels = clustering(df)
-        make_image(X, labels, name)
         save_spreadsheets(X, labels, df['Representatives'], name)
+    make_images(X, 'a', "n")
     
 
 def main():
     dfs = get_dfs()
     cluster_list(dfs)
-    
 
 
 if __name__ == '__main__':
