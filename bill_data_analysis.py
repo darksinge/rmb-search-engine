@@ -5,7 +5,7 @@ from sklearn.preprocessing import Normalizer
 from sklearn.metrics import silhouette_score
 from sklearn.cluster import KMeans, MiniBatchKMeans, AgglomerativeClustering
 from get_bill_info import make_name
-from configs import default_path
+from default_path import default_path
 import os
 import glob
 

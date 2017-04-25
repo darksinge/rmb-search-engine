@@ -5,6 +5,7 @@ from bottle import run, get
 from get_bill_info import make_name
 from offline_bill_scrape import needs_updates
 from collections import OrderedDict
+from default_path import default_path
 import configs
 import re
 import os
@@ -108,7 +109,7 @@ def bill_full_text(year, bill):
     :param bill:
     :return:
     """
-    file_name = os.path.join(configs.default_path, 'www', str(year), bill + '.html')
+    file_name = os.path.join(default_path, 'www', str(year), bill + '.html')
     try:
         html = open(file_name, 'r')
         contents = html.read()

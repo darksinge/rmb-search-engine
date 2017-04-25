@@ -7,7 +7,7 @@ import os
 import json
 import pickle
 import sys
-from configs import default_path
+from default_path import default_path
 
 
 def make_matrix(matrix_file=None):

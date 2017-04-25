@@ -5,11 +5,10 @@ Contains code to get information about the bills for the search engine
 """
 import pickle
 import os
-
+from default_path import default_path
 
 class BillInfo(object):
     def __init__(self):
-        from configs import default_path
         csv_path = os.path.join(default_path,'analysis', 'bill_information.pickle')
         self.bill_dict = pickle.load(open(csv_path, 'rb'))
 
