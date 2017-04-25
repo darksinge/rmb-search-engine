@@ -17,13 +17,12 @@ from pytz import utc
 
 def scrape():
     # TODO: Finish respective functions before fully implementing
-    # vote_scraper.vote_scrape()
-    # async_bill_scrape.bill_scrape()
-    # offline_bill_scrape.get_files()
-    #offline_bill_scrape.extract_files()
-    # bill_data_analysis.start_analysis()
+    #vote_scraper.vote_scrape()
+    #async_bill_scrape.bill_scrape()
+    #offline_bill_scrape.get_files()
+    bill_data_analysis.start_analysis()
     create_sparse_matrix.make_pickle()
-    # configs.searching.refresh_matrix()
+    #configs.searching.refresh_matrix()
 
 
 def main():

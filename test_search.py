@@ -1,5 +1,5 @@
 """
-Client to communicate with search_server.py for testing/demonstration purposes. Good news it works.
+Client to communicate with search_server.py for testing/demonstration purposes. Good news it works
 """
 import http.client
 
@@ -24,7 +24,7 @@ def search():
     Returns:
          None
     """
-    terms = input(">> search: ")
+    terms = input("search: ")
     c = http.client.HTTPConnection('localhost', 8080)
     c.request('POST', '/search', '{"terms": ' + '"' + terms + '"}')
     doc = c.getresponse().read()
@@ -46,7 +46,7 @@ def cluster():
     Returns:
         None
     """
-    document = input(">> document: ")
+    document = input("document: ")
     c = http.client.HTTPConnection('localhost', 8080)
     c.request('POST', '/cluster', '{"cluster": ' + '"' + document + '"}')
     doc = c.getresponse().read()
@@ -56,7 +56,7 @@ def cluster():
 def main():
     user_input = ""
     while user_input != 'exit()':
-        user_input = input(">> ")
+        user_input = input(">>>")
         if user_input == 'help':
             help_me()
         elif user_input == 'search':
