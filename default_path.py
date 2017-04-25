@@ -1,5 +1,5 @@
 """
-
+Simply holds where things have happened.
 """
 import os
 
