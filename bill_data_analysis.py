@@ -25,9 +25,7 @@ def get_series():
     """
     data_files = []
     # TODO: Note that this is just for the year 2017, so when the full analysis needs to be done change to *
-    base_folder = os.path.join(default_path, 'bill_files', 'filtered')
-    data_folders = glob.glob(os.path.join(base_folder, '2015')) + glob.glob(os.path.join(base_folder, '2016')) + \
-                   glob.glob(os.path.join(base_folder, '2017'))
+    data_folders = glob.glob(os.path.join(default_path, 'bill_files', 'filtered', '2017'))
     for folder in data_folders:
         files = glob.glob(os.path.join(folder, '*.txt'))
         for f in files:

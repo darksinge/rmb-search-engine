@@ -135,8 +135,7 @@ def list_bills(year):
 
 
 def run_server():
-    update_need = needs_updates('2017')
-    if 'all' in update_need or 'none' not in update_need:
+    if 'all' in needs_updates('2017'):
         from offline_bill_scrape import extract_files
         extract_files()
     else:
