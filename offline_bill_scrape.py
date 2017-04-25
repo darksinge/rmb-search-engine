@@ -181,7 +181,11 @@ def needs_updates(year='2017'):
     """
     try:
         files_made = pickle.load(open(os.path.join(default_path, "analysis", "uploaded.pickle"), 'rb'))
-        year_paths = glob.glob(os.path.join(default_path, "bill_files", "raw", year))
+        base_path = os.path.join(default_path, "bill_files", "raw")
+        # TODO: Make this actually work!
+        year_paths = glob.glob(os.path.join(base_path, '2015')) + glob.glob(os.path.join(base_path, '2016')) + \
+            glob.glob(os.path.join(base_path, '2017'))
+        print(year_paths)
         years_only = [os.path.split(y)[-1] for y in year_paths]
         years_to_update = {}
         # Checks to see what bills have already been scraped of their contents, and which have yet to be updated
@@ -201,8 +205,10 @@ def needs_updates(year='2017'):
             else:
                 years_to_update[year_made] = id_raw
 
-            if len(years_to_update) == 0:
-                return {"none": []}
+        if len(years_to_update) == 0:
+            return {"none": []}
+        else:
+            return years_to_update
     except FileNotFoundError:
         return {"all": []}
 
