@@ -135,12 +135,10 @@ def list_bills(year):
 
 
 def run_server():
-    if 'all' in needs_updates('2017'):
-        from offline_bill_scrape import extract_files
-        extract_files()
-    else:
-        # Note: if this is expanded beyond 2017, make sure this does something useful.
-        print("No changes being made")
+    from offline_bill_scrape import extract_files
+    extract_files()
+    # Note: if this is expanded beyond 2017, add if statement
+    print("No changes being made")
     run(host='localhost', port=8081, debug=True)
 
 
