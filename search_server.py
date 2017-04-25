@@ -1,9 +1,8 @@
 """
 Testing for now, allows the clustering and searching algorithms to be accessed.
 """
-import json
 from bottle import run, get
-from bill_data_analysis import make_name
+from get_bill_info import make_name
 from offline_bill_scrape import needs_updates
 from collections import OrderedDict
 import configs

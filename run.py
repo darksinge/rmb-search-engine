@@ -1,6 +1,8 @@
 """
 Script to implement all of the code needed to maintain the data on the server, should run and update data regularly,
 without overloading the legislation website.
+
+Not ready to be implemented yet
 """
 import async_bill_scrape
 import bill_data_analysis
@@ -14,6 +16,7 @@ from pytz import utc
 
 
 def scrape():
+    # TODO: Finish respective functions before fully implementing
     #vote_scraper.vote_scrape()
     #async_bill_scrape.bill_scrape()
     #offline_bill_scrape.get_files()

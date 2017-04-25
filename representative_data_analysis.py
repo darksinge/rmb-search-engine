@@ -2,7 +2,8 @@
 """
 Created on Thu Mar 23 09:51:38 2017
 @author: Bradley Robinson
-Analyzes each session and clusters the representatives based on groups
+Analyzes each session and clusters the representatives based on groups. Note that it is not up to date for server use,
+must be ran locally
 """
 
 import matplotlib.pyplot as plt

@@ -7,6 +7,7 @@ Asynchronously goes through the bills available on le.utah.gov, and saves them a
 import os, glob, aiohttp, asyncio
 from bs4 import BeautifulSoup
 import pandas as pd
+from configs import default_path
 
 
 def check_bill(content):
@@ -39,10 +40,10 @@ def create_raw_html(year, house, bill, html):
     Returns:
         string: a string of content without non-unicode characters
     """
-    if not os.path.exists(os.path.join('bill_files', 'raw', str(year))):
-        os.mkdir(os.path.join('bill_files', 'raw', str(year)))
+    if not os.path.exists(os.path.join(default_path,'bill_files', 'raw', str(year))):
+        os.mkdir(os.path.join(default_path, 'bill_files', 'raw', str(year)))
     if check_bill(html):
-        file = open(os.path.join('bill_files', 'raw', str(year), '{}{}{}.html'.format(year, house, bill)), 'w',
+        file = open(os.path.join(default_path, 'bill_files', 'raw', str(year), '{}{}{}.html'.format(year, house, bill)), 'w',
                     encoding='utf-8')
         file.write(html)
         file.close()
@@ -166,8 +167,7 @@ def make_txt_of(content_dict, bill, year, text=None):
     Returns:
         None
     """
-    file_name = '{bill}_{year}.txt'.format(bill=bill, year=year)
-    folders = os.path.join("bill_files", "filtered", year)
+    folders = os.path.join(default_path, "bill_files", "filtered", year)
     if not os.path.exists(folders):
         os.mkdir(folders)
     f = open(os.path.join(folders, '{}.txt'.format(bill)), 'w')
@@ -235,13 +235,13 @@ def go_by_bills_from_csv(house=True, senate=True, year=None):
         None
     """
     if senate and house:
-        files = glob.glob(os.path.join("voting", "*.csv"))
+        files = glob.glob(os.path.join(default_path, "voting", "*.csv"))
     elif house:
-        files = glob.glob(os.path.join("voting", "H*.csv"))
+        files = glob.glob(os.path.join(default_path, "voting", "H*.csv"))
     elif senate:
-        files = glob.glob(os.path.join("voting", "S*.csv"))
+        files = glob.glob(os.path.join(default_path, "voting", "S*.csv"))
     else:
-        files = glob.glob(os.path.join("voting", "*.csv"))
+        files = glob.glob(os.path.join(default_path, "voting", "*.csv"))
     bill_names = {}
     for file in files:
         if year:

@@ -9,15 +9,8 @@ import os
 
 class BillInfo(object):
     def __init__(self):
-        try:
-            env = os.environ['PYTHON_ENV']
-        except KeyError:
-            env = "development"
-
-        if env == "production":
-            csv_path = "/var/www/rmb-search-engine/analysis/bill_information.pickle"
-        else:
-            csv_path = os.path.join('analysis', 'bill_information.pickle')
+        from configs import default_path
+        csv_path = os.path.join(default_path,'analysis', 'bill_information.pickle')
         self.bill_dict = pickle.load(open(csv_path, 'rb'))
 
     def get_all_info_(self, year, bill):
@@ -42,6 +35,22 @@ class BillInfo(object):
         for key, info in self.bill_dict.items():
             all_bills[key[0] + key[1]] = info
         return all_bills
+
+
+def make_name(path):
+    """
+    Takes the file name and creates a readable name to make cluster searching much easier
+
+    :param path:
+    :return:
+        string: an easy name to parse and search
+    """
+    doc_name = path.split('.txt')[0]
+    split_doc = os.path.split(doc_name)
+    year = os.path.split(split_doc[0])[-1]
+    bill_name = split_doc[-1]
+    name = year + bill_name
+    return name
 
 
 def test():
