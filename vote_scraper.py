@@ -8,7 +8,7 @@ from bs4 import BeautifulSoup
 import requests
 import pandas as pd
 import os
-import time
+from configs import default_path
 
 
 def get_reps(unfiltered_reps):
@@ -141,7 +141,7 @@ def save_csv_data(representatives, votes, house, session):
             else:
                 vote_record.append(2)
         df[bill['bill']] = vote_record
-    df.to_csv(os.path.join("voting", house+str(session)+'_voting.csv'))
+    df.to_csv(os.path.join(default_path, "voting", house+str(session)+'_voting.csv'))
 
 
 def get_session_voting(year, house):

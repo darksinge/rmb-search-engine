@@ -18,15 +18,8 @@ class ClusterFinder(object):
 
     """
     def __init__(self):
-        try:
-            env = os.environ['PYTHON_ENV']
-        except KeyError:
-            env = "development"
-
-        if env == "production":
-            csv_path = "/var/www/rmb-search-engine/analysis/clusters/with_max_clusters.csv"
-        else:
-            csv_path = os.path.join('analysis', 'clusters', 'with_max_clusters.csv')
+        from configs import default_path
+        csv_path = os.path.join(default_path, 'analysis', 'clusters', 'with_max_clusters.csv')
 
         self.clusters = pd.read_csv(csv_path)
         cols = self.clusters.columns
@@ -94,17 +87,9 @@ class TermSearch(object):
         If the matrix has been
         :return:
         """
-        try:
-            env = os.environ['PYTHON_ENV']
-        except KeyError:
-            env = "development"
-
-        if env == 'production':
-            csv_path = '/var/www/rmb-search-engine/analysis/sparse_p.pickle'
-        else:
-            csv_path = os.path.join('analysis', 'sparse_p.pickle')
-
-        self.sparse_matrix = pickle.load(open(csv_path, 'rb'))
+        from configs import default_path
+        pickle_path = os.path.join(default_path, 'analysis', 'sparse_p.pickle')
+        self.sparse_matrix = pickle.load(open(pickle_path, 'rb'))
 
     def tokenize(self, text):
         """
@@ -171,7 +156,6 @@ class TermSearch(object):
                 current_dict = self.combine_dicts(current_dict, docs)
             else:
                 current_dict = docs
-        # TODO: Order things
         return current_dict
 
 
@@ -230,10 +214,3 @@ if __name__ == '__main__':
     time0 = time.time()
     a = search.search("tax time authority legislation excessive potter harry")
     print("Search 7 terms in: {}".format(time.time() - time0))
-    """
-    # To look at the actual files, it is possible to print them in the console using this call, but it is right now
-    # easier to check the files individually in the /raw/ folder since the filtered versions are so messy. So far the
-    # clustering has been somewhat meaningful with manual checks.
-    for key, files in results.items():
-        open_files(files, key)
-    """

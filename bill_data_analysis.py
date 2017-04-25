@@ -4,31 +4,13 @@ from sklearn.pipeline import make_pipeline
 from sklearn.preprocessing import Normalizer
 from sklearn.metrics import silhouette_score
 from sklearn.cluster import KMeans, MiniBatchKMeans, AgglomerativeClustering
+from get_bill_info import make_name
+from configs import default_path
 import os
 import glob
-#import multiprocessing as mp
 
 import pandas as pd
-#import numpy as np
 from time import time
-import random
-
-
-def make_name(path):
-    """
-    Takes the file name and creates a readable name to make cluster searching much easier
-
-    :param path:
-    :return:
-        string: an easy name to parse and search
-    """
-    doc_name = path.split('.txt')[0]
-    split_doc = os.path.split(doc_name)
-    year = os.path.split(split_doc[0])[-1]
-    bill_name = split_doc[-1]
-    name = year + bill_name
-    return name
-
 
 
 def get_series():
@@ -44,7 +26,7 @@ def get_series():
     time1 = time()
     data_files = []
     # TODO: Note that this is just for the year 2017, so when the full analysis needs to be done change to *
-    data_folders = glob.glob(os.path.join('bill_files', 'filtered', '2017'))
+    data_folders = glob.glob(os.path.join(default_path, 'bill_files', 'filtered', '2017'))
     print(data_folders)
     for folder in data_folders:
         files = glob.glob(os.path.join(folder, '*.txt'))
@@ -80,7 +62,7 @@ def vectorize(bill_series, save_vector=False):
         if not os.path.exists('analysis'):
             os.mkdir('analysis')
         df = pd.DataFrame(X.todense(), index=bill_series.index, columns = vectorizer.get_feature_names())
-        df.to_csv(os.path.join('analysis', 'dense_matrix.csv'))
+        df.to_csv(os.path.join(default_path, 'analysis', 'dense_matrix.csv'))
     print('Vectorization done in {}s'.format(time() - time1))
     return X
 
@@ -177,30 +159,8 @@ def evaluate_cluster(X, labels):
     Return:
          float: a score -1 to 1 indicating internal validity
     """
-    silhouette_avg =  silhouette_score(X, labels)
+    silhouette_avg = silhouette_score(X, labels)
     return silhouette_avg
-
-
-def make_cluster_fig(distances, labels, clusters):
-    import matplotlib.pyplot as plt
-    """
-    Creates a scatter plot with the transformed distances of clustering
-
-    Parameters:
-        distances: numpy array with two columns for cluster distances (x, y)
-        labels: the cluster each row corresponds to
-        clusters: the number of clusters
-
-    Return:
-        None
-    """
-    time1 = time()
-    fig, ax = plt.subplots()
-    ax.scatter(x=distances[:, 0], y = distances[:, 1],c=labels)
-    ax.set_title("Transformed Visualization of Document KMeans with {} Clusters".format(clusters))
-    plt.savefig(os.path.join('visualizations','kmeans_{}k.png'.format(clusters)))
-    plt.close()
-    print("Visualization done in {}s".format(time() - time1))
 
 
 def save_clusters(doc_names, labels, distances, num_clusters):
@@ -216,15 +176,14 @@ def save_clusters(doc_names, labels, distances, num_clusters):
     Return:
         None
     """
-    time0 = time()
     df = pd.DataFrame({'cluster': labels, 'X': distances[:, 0], 'y': distances[:, 1]}, index=doc_names)
-    if not os.path.exists(os.path.join('analysis', 'clusters')):
-        os.mkdir(os.path.join('analysis', 'clusters'))
+    cluster_folder = os.path.join('analysis', 'clusters')
+    if not os.path.exists(cluster_folder):
+        os.mkdir(cluster_folder)
     df.sort_values('cluster', inplace=True)
-    file_name = os.path.join('analysis', 'clusters', 'with_{}_clusters'.format(num_clusters))
+    file_name = os.path.join(cluster_folder, 'with_{}_clusters'.format(num_clusters))
     df.to_csv(file_name + '.csv')
     df.to_json(file_name + '.json')
-    print("Cluster csv saved in {}s".format(time() - time0))
     
 
 def get_doc_lengths(bill):
@@ -239,161 +198,6 @@ def get_doc_lengths(bill):
     """
     data = bill.split(' ')
     return len(data)
-
-
-def hist(values, title, file_name):
-    import matplotlib.pyplot as plt
-    """
-    Creates a histogram and saves a png to file in path -/visualizations for the sizes of documents. Right now the
-    pictures kind of suck
-
-    Parameters:
-        values: length of documents
-        title:
-        file_name:
-
-    Return:
-        None
-    """
-    fix, ax = plt.subplots()
-    ax.hist(values, bins=20)
-    ax.set_title(title)
-    ax.set_ylabel("Frequency")
-    plt.savefig(os.path.join('visualizations', file_name + '.png'))
-    plt.close()
-
-
-def bar_graph(values, title, file_name):
-    import matplotlib.pyplot as plt
-    """
-    Creates a bar_graph and saves a png
-
-    Parameters:
-        values: list-like structure with integers for document lengths.
-        title: Title to give the graph
-        file_name: What to save the file as
-
-    Returns:
-        None
-    """
-    fig, ax = plt.subplots()
-    ax.bar([.25 + x for x in range(len(values))], values)
-    ax.set_title(title)
-    plt.savefig(os.path.join('visualizations', file_name + '.png'))
-    plt.close()
-
-
-def box_plot(values, title, file_name):
-    import matplotlib.pyplot as plt
-    """
-    Function creates a box plot and saves it to a file in path -/visualizations/
-    Bar graph and box plot could be combined. They will be in the future.
-
-    Parameters:
-        values: list-like structure with
-        title: Title to give the plot
-        file_name: What to save it as
-
-    Return:
-        None
-    """
-    fig, ax = plt.subplots()
-    ax.boxplot(values)
-    ax.set_title(title)
-    plt.savefig(os.path.join('visualizations', file_name + '.png'))
-    plt.close()
-
-
-def cluster_tests(X, k):
-    """
-    This is slow, only for testing purposes
-    Used to test different parameters with a fixed k
-
-    Parameters:
-        X: sparse-matrix tf-idf
-        k: Number of clusters
-
-    Return:
-        None
-    """
-    scores_by_init = {}
-    
-    print('-------------------init_size-------------')
-    for i in range(500, 10000, 100):
-        distances, labels = clustering(X, k, init_size=i)
-        avg_score = evaluate_cluster(X, labels)
-        print("Score: ", avg_score, 'Size: ', i)
-        scores_by_init[i] = avg_score
-
-    print('-------------------batch-----------------')
-    scores_by_batch = {}
-    for i in range(500, 10000, 100):
-        distances, labels = clustering(X, k, init_size=2700, batch_size=i)
-        avg_score = evaluate_cluster(X, labels)
-        print("Score: ", avg_score, 'Batch: ', i)
-        scores_by_batch[i] = avg_score
-
-    for i in range(500, 10000, 100):
-        distances, labels = clustering(X, k, init_size=i, batch_size=i)
-        avg_score = evaluate_cluster(X, labels)
-        print("Score: ", avg_score, 'Batch: ', i)
-
-
-# DANGER ZONE!!!!!!!
-def k_means_process(X, k, init_size, batch_size):
-    """
-    Was used for a multi-threading process, but so far is not usable
-    Don't use unless you fix that other stuff.
-
-    Parameters:
-        X: spare matrix tf-idf structure
-        k: Number of clusters
-        init_size: Int for the size if we are using kmeans-mini batch
-        batch_size: Used for kmeans-mini batch
-
-    Return:
-        output.put()
-    """
-    distances, labels = clustering(X, k, init_size, batch_size)
-    avg_score = evaluate_cluster(X, labels)
-    if avg_score > .2:
-        make_cluster_fig(distances, labels, k)
-    return (k, avg_score, init_size, batch_size)
-    #output.put()
-    
-
-# TESTING
-def create_rand_variables(size):
-    """
-    Creates a list with variables for to send to k_means_process. Just for experimenting to find the perfect parameters.
-
-    Parameters:
-        size: What's the range you want?
-
-    Returns:
-        lst: a list with variables for each run of the kmeans algorithm.
-    """
-    lst = []
-    for i in range(size):
-        k = random.randint(3,300)
-        init_size = random.randint(100, 10000)
-        batch_size = random.randint(100, 10000)
-        lst.append((k, init_size, batch_size))
-    return lst
-
-
-# WARNING: DON'T RUN THIS UNLESS YOU ARE READY TO WAIT A WHILE, IT IS LONG AND
-# DEMANDING OF SYSTEM RESOURCES. ALSO MAKE SURE YOU HAVE A GREAT PROCESSOR AND
-# PLENTY OF MEMORY
-"""
-# So far this doesn't work, avoid using.
-def parallel_process(X):
-    pool = mp.Pool(processes=4)
-    rand_inits = create_rand_variables(20)
-    results = [pool.apply_async(k_means_process, args=(X, x[0], x[1], x[2])) for x in rand_inits]
-    output = [p.get() for p in results]
-    print(output)
-"""
 
 
 def separate_and_calc(bill_series):
@@ -416,19 +220,6 @@ def separate_and_calc(bill_series):
 
 def start_analysis():
     bill_series = get_series()
-    """
-    bill_lens = [get_doc_lengths(bill) for bill in bill_series.tolist()]
-    separate_and_calc(bill_series)
-
-    # Creates visualizations of the bill lengths, not needed for kmeans analysis
-    try:
-        hist(bill_lens, 'Lengths', 'bill_lengths')
-    except FileNotFoundError:
-        os.mkdir('visualizations')
-        hist(bill_lens, 'Lengths', 'bill_lengths')
-    box_plot(bill_lens, 'Lengths Box Plot', 'bill_lens_box')
-    """
-
     X = vectorize(bill_series, save_vector=True)
     X = dimensionality_reduction(X, 100)
     max_score = 0
@@ -442,7 +233,6 @@ def start_analysis():
             max_score = avg_score
             max_cluster = (distances, labels)
             max_k = k
-    print("Best performing cluster: ", max_k, ' ', max_score)
     save_clusters(bill_series.index, max_cluster[1], max_cluster[0], 'max')
 
 

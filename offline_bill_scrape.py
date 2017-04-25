@@ -6,6 +6,7 @@ import glob
 import os
 from async_bill_scrape import get_clean_contents, make_txt_of, right_character
 from bs4 import BeautifulSoup
+from configs import default_path
 import re
 import pickle
 
@@ -150,11 +151,13 @@ def write_body_html(soup, year, bill):
         None
     """
     bill_contents = get_bill_contents(soup)
-    if not os.path.exists(os.path.join("www")):
-        os.mkdir("www")
-    if not os.path.exists(os.path.join("www", year)):
-        os.mkdir(os.path.join("www", year))
-    f = open(os.path.join("www", year, bill + '.html'), 'w')
+    main_folder = os.path.join(default_path,"www")
+    if not os.path.exists(main_folder):
+        os.mkdir(main_folder)
+    year_folder = os.path.join(main_folder, year)
+    if not os.path.exists(year_folder):
+        os.mkdir(year_folder)
+    f = open(os.path.join(year_folder, bill + '.html'), 'w')
     f.write(bill_contents)
     f.close()
 
@@ -177,13 +180,13 @@ def needs_updates(year='2017'):
     Returns:
     """
     try:
-        files_made = pickle.load(open(os.path.join("analysis", "uploaded.pickle"), 'rb'))
-        year_paths = glob.glob(os.path.join("bill_files", "raw", year))
+        files_made = pickle.load(open(os.path.join(default_path, "analysis", "uploaded.pickle"), 'rb'))
+        year_paths = glob.glob(os.path.join(default_path, "bill_files", "raw", year))
         years_only = [os.path.split(y)[-1] for y in year_paths]
         years_to_update = {}
         for key, values in files_made.items():
             year_made = os.path.split(key)[-1]
-            files_raw = glob.glob(os.path.join("bill_files", "raw", year_made, "*"))
+            files_raw = glob.glob(os.path.join(default_path, "bill_files", "raw", year_made, "*"))
             id_raw = [get_id(f) for f in files_raw]
             if year_made in years_only:
                 id_made = [get_id(f) for f in values]
@@ -212,9 +215,9 @@ def track_changes(make_new=False):
     if make_new:
         files_made = {}
     else:
-        files_made = pickle.load(open(os.path.join("analysis", "uploaded.pickle"), 'rb'))
+        files_made = pickle.load(open(os.path.join(default_path, "analysis", "uploaded.pickle"), 'rb'))
         print(files_made)
-    updated_years = glob.glob(os.path.join("www", "*"))
+    updated_years = glob.glob(os.path.join(default_path, "www", "*"))
     for y in updated_years:
         updated_files = glob.glob(os.path.join(y, "*"))
         if y in files_made:
@@ -223,7 +226,7 @@ def track_changes(make_new=False):
                     files_made[y].append(f)
         else:
             files_made[y] = updated_files
-    pickle.dump(files_made, open(os.path.join("analysis", "uploaded.pickle"), 'wb'))
+    pickle.dump(files_made, open(os.path.join(default_path, "analysis", "uploaded.pickle"), 'wb'))
 
 
 
@@ -238,7 +241,7 @@ def extract_files():
     # For now, just do the one folder:
     bill_details = {}
     # TODO: make it take in a dictionary like from needs_updates to use as an updater instead of glob
-    for file in glob.glob(os.path.join("bill_files", "raw", "2017", "*")):
+    for file in glob.glob(os.path.join(default_path, "bill_files", "raw", "2017", "*")):
         year, bill = extract_bill_and_year(file)
         soup, name = extract_name(file)
         description = extract_description(soup)
@@ -246,11 +249,11 @@ def extract_files():
         bill_details[(year, bill)] = {'year': year, 'bill': bill, 'name': name, 'description': description, 'link':
                                       link}
         write_body_html(soup, year, bill)
-    if not (os.path.exists(os.path.join("analysis", "uploaded.pickle"))):
+    if not (os.path.exists(os.path.join(default_path, "analysis", "uploaded.pickle"))):
         track_changes(make_new=True)
     else:
         track_changes()
-    pickle.dump(bill_details, open(os.path.join("analysis", "bill_information.pickle"), 'wb'))
+    pickle.dump(bill_details, open(os.path.join(default_path, "analysis", "bill_information.pickle"), 'wb'))
 
 
 def make_txt(year, bill, contents):
@@ -272,7 +275,7 @@ def get_files():
 
     :return: None
     """
-    raw_folders = glob.glob(os.path.join("bill_files", "raw", "*/"))
+    raw_folders = glob.glob(os.path.join(default_path, "bill_files", "raw", "*/"))
     for folder in raw_folders:
         files = glob.glob(os.path.join(folder, "*.html"))
         for f in files:
