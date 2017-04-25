@@ -246,7 +246,11 @@ def extract_files():
     # For now, just do the one folder:
     bill_details = {}
     # TODO: make it take in a dictionary like from needs_updates to use as an updater instead of glob
-    for file in glob.glob(os.path.join(default_path, "bill_files", "raw", "2017", "*")):
+    files_2015 = glob.glob(os.path.join(default_path, "bill_files", "raw", "2015", "*"))
+    files_2016 = glob.glob(os.path.join(default_path, "bill_files", "raw", "2016", "*"))
+    files_2017 = glob.glob(os.path.join(default_path, "bill_files", "raw", "2017", "*"))
+
+    for file in files_2015 + files_2016 + files_2017:
         year, bill = extract_bill_and_year(file)
         soup, name = extract_name(file)
         description = extract_description(soup)
@@ -258,6 +262,7 @@ def extract_files():
         track_changes(make_new=True)
     else:
         track_changes()
+
     pickle.dump(bill_details, open(os.path.join(default_path, "analysis", "bill_information.pickle"), 'wb'))
 
 
