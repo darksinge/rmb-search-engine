@@ -7,6 +7,7 @@ from offline_bill_scrape import needs_updates
 from collections import OrderedDict
 import configs
 import re
+import os
 
 
 def sort_search(results):
@@ -97,6 +98,24 @@ def bill_info(year, bill):
         json.dumps: json object with information about the bill in question
     """
     return configs.bill_info.get_summary(year, bill)
+
+
+@get('/engine/bill_text/<year>/<bill>')
+def bill_full_text(year, bill):
+    """
+    Gets the full text of a given bill
+    :param year:
+    :param bill:
+    :return:
+    """
+    file_name = os.path.join(configs.default_path, 'www', str(year), bill + '.html')
+    try:
+        html = open(file_name, 'r')
+        contents = html.read()
+        html.close()
+    except FileNotFoundError:
+        contents = "Bill not found"
+    return {bill: contents}
 
 
 @get('/engine/list/<year>')
