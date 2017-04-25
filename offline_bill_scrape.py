@@ -6,7 +6,7 @@ import glob
 import os
 from async_bill_scrape import get_clean_contents, make_txt_of, right_character
 from bs4 import BeautifulSoup
-from configs import default_path
+from default_path import default_path
 import re
 import pickle
 

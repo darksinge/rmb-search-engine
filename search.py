@@ -11,6 +11,7 @@ import pandas as pd
 import pickle
 import os
 import re
+from default_path import default_path
 
 
 class ClusterFinder(object):
@@ -18,7 +19,6 @@ class ClusterFinder(object):
 
     """
     def __init__(self):
-        from configs import default_path
         csv_path = os.path.join(default_path, 'analysis', 'clusters', 'with_max_clusters.csv')
 
         self.clusters = pd.read_csv(csv_path)
@@ -87,7 +87,7 @@ class TermSearch(object):
         If the matrix has been
         :return:
         """
-        from configs import default_path
+        from default_path import default_path
         pickle_path = os.path.join(default_path, 'analysis', 'sparse_p.pickle')
         self.sparse_matrix = pickle.load(open(pickle_path, 'rb'))
 

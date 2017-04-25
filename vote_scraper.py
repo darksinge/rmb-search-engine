@@ -8,7 +8,7 @@ from bs4 import BeautifulSoup
 import requests
 import pandas as pd
 import os
-from configs import default_path
+from default_path import default_path
 
 
 def get_reps(unfiltered_reps):

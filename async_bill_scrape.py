@@ -7,7 +7,7 @@ Asynchronously goes through the bills available on le.utah.gov, and saves them a
 import os, glob, aiohttp, asyncio
 from bs4 import BeautifulSoup
 import pandas as pd
-from configs import default_path
+from default_path import default_path
 
 
 def check_bill(content):
